@@ -110,47 +110,47 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C57      |        7255 |
-|       1 | 0x1C58      |        7256 |
-|       2 | 0x1C59      |        7257 |
-|       3 | 0x1C5A      |        7258 |
-|       4 | 0x1C5B      |        7259 |
+|       0 | 0x1C58      |        7256 |
+|       1 | 0x1C59      |        7257 |
+|       2 | 0x1C5A      |        7258 |
+|       3 | 0x1C5B      |        7259 |
+|       4 | 0x1C5C      |        7260 |
 |       5 | 0x2710      |       10000 |
-|       6 | 0x1C5C      |        7260 |
-|       7 | 0x1C5D      |        7261 |
-|       8 | 0x1C5E      |        7262 |
+|       6 | 0x1C5D      |        7261 |
+|       7 | 0x1C5E      |        7262 |
+|       8 | 0x1C5F      |        7263 |
 |       9 | 0x0000      |           0 |
 |      10 | 0x0001      |           1 |
 |      11 | 0x0006      |           6 |
-|      12 | 0x1C69      |        7273 |
-|      13 | 0x1C5F      |        7263 |
+|      12 | 0x1C6A      |        7274 |
+|      13 | 0x1C60      |        7264 |
 |      14 | 0x0010      |          16 |
-|      15 | 0x1C60      |        7264 |
+|      15 | 0x1C61      |        7265 |
 |      16 | 0x00FF      |         255 |
-|      17 | 0x1C61      |        7265 |
-|      18 | 0x1C62      |        7266 |
-|      19 | 0x1C63      |        7267 |
-|      20 | 0x1C65      |        7269 |
+|      17 | 0x1C62      |        7266 |
+|      18 | 0x1C63      |        7267 |
+|      19 | 0x1C64      |        7268 |
+|      20 | 0x1C66      |        7270 |
 |      21 | 0x000F      |          15 |
-|      22 | 0x1C64      |        7268 |
-|      23 | 0x1C6D      |        7277 |
+|      22 | 0x1C65      |        7269 |
+|      23 | 0x1C6E      |        7278 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x1C66      |        7270 |
-|      26 | 0x1C67      |        7271 |
-|      27 | 0x1C73      |        7283 |
-|      28 | 0x1C74      |        7284 |
+|      25 | 0x1C67      |        7271 |
+|      26 | 0x1C68      |        7272 |
+|      27 | 0x1C74      |        7284 |
+|      28 | 0x1C75      |        7285 |
 |      29 | 0x26C9      |        9929 |
-|      30 | 0x1C6A      |        7274 |
-|      31 | 0x1C6B      |        7275 |
-|      32 | 0x1C6C      |        7276 |
+|      30 | 0x1C6B      |        7275 |
+|      31 | 0x1C6C      |        7276 |
+|      32 | 0x1C6D      |        7277 |
 |      33 | 0x0007      |           7 |
-|      34 | 0x1C6F      |        7279 |
-|      35 | 0x1C70      |        7280 |
-|      36 | 0x1C72      |        7282 |
+|      34 | 0x1C70      |        7280 |
+|      35 | 0x1C71      |        7281 |
+|      36 | 0x1C73      |        7283 |
 |      37 | 0x000A      |          10 |
-|      38 | 0x1C71      |        7281 |
+|      38 | 0x1C72      |        7282 |
 |      39 | 0x000B      |          11 |
-|      40 | 0x1C6E      |        7278 |
+|      40 | 0x1C6F      |        7279 |
 |      41 | 0x0028      |          40 |
 |      42 | 0x0029      |          41 |
 |      43 | 0x003C      |          60 |
@@ -205,34 +205,34 @@
 
 ## String References
 
-- **7255**: Hey, I heard-weard all the details from Skokkr... Er, Skhoh Undhreh.
-- **7256**: When you've found the World Eater Egg or other related paraphernalia, can you bring-wing them to me?
-- **7257**: I got a guy who can handle such exotic items.
-- **7258**: Oh, is this an avataru's spirit? My feelings are difficult to put into words.
-- **7259**: But never mind that. Skhoh Undhreh told me that we needed-weeded a suitable vessel.
-- **7260**: I'm led to believe that Ruspix in Leafallia is collecting gallimaufry. Can you bring me a little bit? Say...$0.
-- **7261**: Goblins sure have a nose for the rare, even though I'm confident he has no idea what it actually is. Hence the name.
-- **7262**: Remember, come back when you have $0 gallimaufry for me!
-- **7263**: Which Prime Weapon would you like?
-- **7265**: You wantaru the $0? It'll run you $1 gallimaufry.
-- **7266**: Are you sure? ($0 gall.) [Positive./Hang on...]
-- **7267**: A deal's a deal! Make sure to come back tomorrow.
-- **7268**: I'm currently requisitioning your $0. One weapon at a time!
-- **7269**: Hey, that's not enough-wough gallimaufry!
-- **7270**: Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message.
-- **7271**: "The vessel is now ready, and I would implore you to test it well. Beware, lest the bearer's soul be devoured." Spooky!
-- **7273**: Ask about what? [Forging a Prime Weapon./Tempering a Prime Weapon./Nothing.]
-- **7274**: I've got a message-wessage from Skhoh Undhreh.
-- **7275**: "The vessel may be prepared, but that does not mean it is complete. I require more materials."
-- **7276**: And what do you know--she even gave me a list! "$3 $0 and $1 gallimaufry."
-- **7277**: Can you bring-wing me the Prime Weapon you are interested in knowing the materials for?
-- **7278**: Okay! I've got your $0 all safe and sound. Make sure to come back tomorrow!
-- **7279**: "I have determined that the vessel required can be replicated with $6! We can counteract the corruption that way."
-- **7280**: "When the time for Ragnarok is close at hand, the Prime Weapons can ascend to their final form at last. But new materials are required."
-- **7281**: Yeah, yeah...keep on babbling-wabbling, Skhoh Undhreh. Huh? A message for you? Nope, nothing like that.
-- **7282**: So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 .
-- **7283**: "Collect what I require and the ascension will be complete."
-- **7284**: You have done all that is required. Enjoy your prize.
+- **7256**: Hey, I heard-weard all the details from Skokkr... Er, Skhoh Undhreh.
+- **7257**: When you've found the World Eater Egg or other related paraphernalia, can you bring-wing them to me?
+- **7258**: I got a guy who can handle such exotic items.
+- **7259**: Oh, is this an avataru's spirit? My feelings are difficult to put into words.
+- **7260**: But never mind that. Skhoh Undhreh told me that we needed-weeded a suitable vessel.
+- **7261**: I'm led to believe that Ruspix in Leafallia is collecting gallimaufry. Can you bring me a little bit? Say...$0.
+- **7262**: Goblins sure have a nose for the rare, even though I'm confident he has no idea what it actually is. Hence the name.
+- **7263**: Remember, come back when you have $0 gallimaufry for me!
+- **7264**: Which Prime Weapon would you like?
+- **7266**: You wantaru the $0? It'll run you $1 gallimaufry.
+- **7267**: Are you sure? ($0 gall.) [Positive./Hang on...]
+- **7268**: A deal's a deal! Make sure to come back tomorrow.
+- **7269**: I'm currently requisitioning your $0. One weapon at a time!
+- **7270**: Hey, that's not enough-wough gallimaufry!
+- **7271**: Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message.
+- **7272**: "The vessel is now ready, and I would implore you to test it well. Beware, lest the bearer's soul be devoured." Spooky!
+- **7274**: Ask about what? [Forging a Prime Weapon./Tempering a Prime Weapon./Nothing.]
+- **7275**: I've got a message-wessage from Skhoh Undhreh.
+- **7276**: "The vessel may be prepared, but that does not mean it is complete. I require more materials."
+- **7277**: And what do you know--she even gave me a list! "$3 $0 and $1 gallimaufry."
+- **7278**: Can you bring-wing me the Prime Weapon you are interested in knowing the materials for?
+- **7279**: Okay! I've got your $0 all safe and sound. Make sure to come back tomorrow!
+- **7280**: "I have determined that the vessel required can be replicated with $6! We can counteract the corruption that way."
+- **7281**: "When the time for Ragnarok is close at hand, the Prime Weapons can ascend to their final form at last. But new materials are required."
+- **7282**: Yeah, yeah...keep on babbling-wabbling, Skhoh Undhreh. Huh? A message for you? Nope, nothing like that.
+- **7283**: So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 .
+- **7284**: "Collect what I require and the ascension will be complete."
+- **7285**: You have done all that is required. Enjoy your prize.
 
 ## Events
 
@@ -283,13 +283,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
-  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "Hey, I heard-weard all the details from Skokkr... Er, Skhoh Undhreh."
   5: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "When you've found the World Eater Egg or other related paraphernalia, can you bring-wing them to me?"
   7: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+  8: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "I got a guy who can handle such exotic items."
   9: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x001B [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -324,17 +324,17 @@
   1: 0x0030 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0031 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0032 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
-  4: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+  4: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Oh, is this an avataru's spirit? My feelings are difficult to put into words."
   5: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
+  6: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
     → "But never mind that. Skhoh Undhreh told me that we needed-weeded a suitable vessel."
   7: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0041 [0x03] Work_Zone[2] = 10000*
-  9: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+  9: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "I'm led to believe that Ruspix in Leafallia is collecting gallimaufry. Can you bring me a little bit? Say...$0."
  10: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+ 11: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "Goblins sure have a nose for the rare, even though I'm confident he has no idea what it actually is. Hence the name."
  12: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x004E [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -370,7 +370,7 @@
   2: 0x0064 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0065 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
   4: 0x006C [0x03] Work_Zone[2] = 10000*
-  5: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+  5: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "Remember, come back when you have $0 gallimaufry for me!"
   6: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0075 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -437,14 +437,14 @@
   7: 0x00AE [0x1E] EventEntity looks at LocalPlayer and starts talking
   8: 0x00B3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x00B4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x00B5 [0x24] CREATE_DIALOG(message_id=7273*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 10: 0x00B5 [0x24] CREATE_DIALOG(message_id=7274*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Ask about what? [Forging a Prime Weapon./Tempering a Prime Weapon./Nothing.]"
  11: 0x00BC [0x25] WAIT_DIALOG_SELECT()
  12: 0x00BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021C
  13: 0x00C5 [0x03] Work_Zone[1] = 0*
  14: 0x00CA [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
  15: 0x00D1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 16: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+ 16: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "Which Prime Weapon would you like?"
  17: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00DA [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -466,17 +466,17 @@
  34: 0x0153 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
  35: 0x015A [0x9D] IF (0x0922) ExtData[1]->WorkLocal[4] = Work_Zone[2] // extra=0x800E
  36: 0x0164 [0x03] Work_Zone[3] = 10000*
- 37: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+ 37: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "You wantaru the $0? It'll run you $1 gallimaufry."
  38: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x016D [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
  40: 0x0174 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5B)
  41: 0x017B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 42: 0x0180 [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+ 42: 0x0180 [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Are you sure? ($0 gall.) [Positive./Hang on...]"
  43: 0x0187 [0x25] WAIT_DIALOG_SELECT()
  44: 0x0188 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x019C
- 45: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
+ 45: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
     → "A deal's a deal! Make sure to come back tomorrow."
  46: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0194 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[4]
@@ -488,7 +488,7 @@
 SUBROUTINE_01AC:
  52: 0x01AC [0x01] GOTO 0x01C8
  53: 0x01AF [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
- 54: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
+ 54: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
     → "Hey, that's not enough-wough gallimaufry!"
  55: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01BA [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -501,7 +501,7 @@ SUBROUTINE_0219:
  59: 0x0219 [0x01] GOTO 0x0255
  60: 0x021C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0245
  61: 0x0224 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
- 62: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
+ 62: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
     → "Can you bring-wing me the Prime Weapon you are interested in knowing the materials for?"
  63: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x022F [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -532,7 +532,7 @@ SUBROUTINE_0255:
      0x01FC [0x03] ExtData[1]->WorkLocal[7] = 255*
      0x0201 [0x0B] ExtData[1]->WorkLocal[7]++
      0x0204 [0x01] GOTO 0x01DC
-     0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
+     0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
     → "I'm currently requisitioning your $0. One weapon at a time!"
      0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x020B [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -567,10 +567,10 @@ SUBROUTINE_0255:
   3: 0x0262 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0263 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
   5: 0x026A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-  6: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+  6: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message."
   7: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
+  8: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
     → ""The vessel is now ready, and I would implore you to test it well. Beware, lest the bearer's soul be devoured." Spooky!"
   9: 0x0276 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0277 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -607,10 +607,10 @@ SUBROUTINE_0255:
   3: 0x0292 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0293 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
   5: 0x029A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-  6: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+  6: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message."
   7: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
+  8: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → ""Collect what I require and the ascension will be complete.""
   9: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02A7 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -647,10 +647,10 @@ SUBROUTINE_0255:
   3: 0x02C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02C3 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
   5: 0x02CA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-  6: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+  6: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message."
   7: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
+  8: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
     → "You have done all that is required. Enjoy your prize."
   9: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02D7 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -687,7 +687,7 @@ SUBROUTINE_0255:
   3: 0x02F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02F3 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
   5: 0x02FA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-  6: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
+  6: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
     → "I'm currently requisitioning your $0. One weapon at a time!"
   7: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0303 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -734,13 +734,13 @@ SUBROUTINE_033A:
   9: 0x033A [0x03] Work_Zone[3] = 10000*
  10: 0x033F [0x03] Work_Zone[4] = 9929*
  11: 0x0344 [0x03] Work_Zone[5] = 1*
- 12: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+ 12: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
     → "I've got a message-wessage from Skhoh Undhreh."
  13: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+ 14: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
     → ""The vessel may be prepared, but that does not mean it is complete. I require more materials.""
  15: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
+ 16: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "And what do you know--she even gave me a list! "$3 $0 and $1 gallimaufry.""
  17: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0355 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -785,16 +785,16 @@ SUBROUTINE_033A:
  10: 0x038B [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_0390:
- 11: 0x0390 [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+ 11: 0x0390 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
     → "I've got a message-wessage from Skhoh Undhreh."
  12: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+ 13: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → ""I have determined that the vessel required can be replicated with $6! We can counteract the corruption that way.""
  14: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
+ 15: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
     → ""When the time for Ragnarok is close at hand, the Prime Weapons can ascend to their final form at last. But new materials are required.""
  16: 0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x039C [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+ 17: 0x039C [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 ."
  18: 0x039F [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x03A0 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -839,10 +839,10 @@ SUBROUTINE_0390:
 SUBROUTINE_03D7:
   9: 0x03D7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  10: 0x03D9 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 11: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
+ 11: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
     → "Yeah, yeah...keep on babbling-wabbling, Skhoh Undhreh. Huh? A message for you? Nope, nothing like that."
  12: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+ 13: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 ."
  14: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x03E3 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -887,10 +887,10 @@ SUBROUTINE_03D7:
 SUBROUTINE_041A:
   9: 0x041A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  10: 0x041C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 11: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
+ 11: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
     → "Yeah, yeah...keep on babbling-wabbling, Skhoh Undhreh. Huh? A message for you? Nope, nothing like that."
  12: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+ 13: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 ."
  14: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0426 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)
@@ -927,7 +927,7 @@ SUBROUTINE_041A:
   3: 0x0441 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0442 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x58)
   5: 0x0449 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
-  6: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+  6: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
     → "Okay! I've got your $0 all safe and sound. Make sure to come back tomorrow!"
   7: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0452 [0x27] REQ_SET(priority=0x10, entity_id=Gama-Shama (ID: 17936407/0x0111B017), tag_num=0x5A)

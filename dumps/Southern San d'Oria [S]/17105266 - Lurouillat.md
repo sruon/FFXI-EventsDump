@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3560      |       13664 |
-|       1 | 0x3561      |       13665 |
-|       2 | 0x3562      |       13666 |
-|       3 | 0x3563      |       13667 |
+|       0 | 0x3561      |       13665 |
+|       1 | 0x3562      |       13666 |
+|       2 | 0x3563      |       13667 |
+|       3 | 0x3564      |       13668 |
 
 ## String References
 
-- **13664**: You, there. Have you happened to come into possession of any sealed containers in your crossings with the beastmen?
-- **13665**: Some of our bravest soldiers have recently been bringing back a number of such containers following successful invasions of beastman strongholds. Our hope was that within they would contain some sensitive intel we could exploit. Only, upon returning, all those who came in contact with these containers began to die off inexplicably, one after the other.
-- **13666**: At present, the Allied Forces are treating these as cases of assassination by the Beastman Confederate elite. It would seem they are willing to go to any length to prevent the contents of these containers from being made known.
-- **13667**: Should you happen to get your hands on any such container, it is imperative that you bring it back here with all haste and turn it in to an agent.
+- **13665**: You, there. Have you happened to come into possession of any sealed containers in your crossings with the beastmen?
+- **13666**: Some of our bravest soldiers have recently been bringing back a number of such containers following successful invasions of beastman strongholds. Our hope was that within they would contain some sensitive intel we could exploit. Only, upon returning, all those who came in contact with these containers began to die off inexplicably, one after the other.
+- **13667**: At present, the Allied Forces are treating these as cases of assassination by the Beastman Confederate elite. It would seem they are willing to go to any length to prevent the contents of these containers from being made known.
+- **13668**: Should you happen to get your hands on any such container, it is imperative that you bring it back here with all haste and turn it in to an agent.
 
 ## Events
 
@@ -77,16 +77,16 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=13664*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=13665*)
     → "You, there. Have you happened to come into possession of any sealed containers in your crossings with the beastmen?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=13665*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=13666*)
     → "Some of our bravest soldiers have recently been bringing back a number of such containers following successful invasions of beastman strongholds. Our hope was that within they would contain some sensitive intel we could exploit. Only, upon returning, all those who came in contact with these containers began to die off inexplicably, one after the other."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=13666*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=13667*)
     → "At present, the Allied Forces are treating these as cases of assassination by the Beastman Confederate elite. It would seem they are willing to go to any length to prevent the contents of these containers from being made known."
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=13667*)
+  7: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=13668*)
     → "Should you happen to get your hands on any such container, it is imperative that you bring it back here with all haste and turn it in to an agent."
   8: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0016 [0x21] END_EVENT

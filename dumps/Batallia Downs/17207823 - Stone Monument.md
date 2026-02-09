@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CFB      |        7419 |
-|       1 | 0x1CFC      |        7420 |
-|       2 | 0x1CFD      |        7421 |
-|       3 | 0x1CFE      |        7422 |
-|       4 | 0x1CFF      |        7423 |
-|       5 | 0x1D00      |        7424 |
+|       0 | 0x1CFC      |        7420 |
+|       1 | 0x1CFD      |        7421 |
+|       2 | 0x1CFE      |        7422 |
+|       3 | 0x1CFF      |        7423 |
+|       4 | 0x1D00      |        7424 |
+|       5 | 0x1D01      |        7425 |
 
 ## String References
 
-- **7419**: You see a message engraved on the stone:
-- **7420**: I have come to a place with countless mounds of earth. According to legend, it was here that our ancestors, created by the Goddess, first descended to Vana'diel.
-- **7421**: Since time immemorial, elderly Elvaan have come here to await their final rest. Many pilgrims of other races, too, have ended their journeys here, wishing to be close to the Nurturer.
-- **7422**: Of course, faith and discipline are virtues. But life is to be enjoyed, and the lives of others respected. Faith can wait until these two things are accomplished.
-- **7423**: I told this to a Galka friend, and he bellowed a hearty laugh. Yet I could see his point: those who only live a short while have no time for such thoughts.
-- **7424**: To think of these things and wonder is the duty of the living. --Gwynham Ironheart, 759 Crystal Era
+- **7420**: You see a message engraved on the stone:
+- **7421**: I have come to a place with countless mounds of earth. According to legend, it was here that our ancestors, created by the Goddess, first descended to Vana'diel.
+- **7422**: Since time immemorial, elderly Elvaan have come here to await their final rest. Many pilgrims of other races, too, have ended their journeys here, wishing to be close to the Nurturer.
+- **7423**: Of course, faith and discipline are virtues. But life is to be enjoyed, and the lives of others respected. Faith can wait until these two things are accomplished.
+- **7424**: I told this to a Galka friend, and he bellowed a hearty laugh. Yet I could see his point: those who only live a short while have no time for such thoughts.
+- **7425**: To think of these things and wonder is the duty of the living. --Gwynham Ironheart, 759 Crystal Era
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7419*]:
+  0: 0x0001 [0x48] [System] [7420*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7420*]:
+  2: 0x0005 [0x48] [System] [7421*]:
     → "I have come to a place with countless mounds of earth. According to legend, it was here that our ancestors, created by the Goddess, first descended to Vana'diel."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7421*]:
+  4: 0x0009 [0x48] [System] [7422*]:
     → "Since time immemorial, elderly Elvaan have come here to await their final rest. Many pilgrims of other races, too, have ended their journeys here, wishing to be close to the Nurturer."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7422*]:
+  6: 0x000D [0x48] [System] [7423*]:
     → "Of course, faith and discipline are virtues. But life is to be enjoyed, and the lives of others respected. Faith can wait until these two things are accomplished."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7423*]:
+  8: 0x0011 [0x48] [System] [7424*]:
     → "I told this to a Galka friend, and he bellowed a hearty laugh. Yet I could see his point: those who only live a short while have no time for such thoughts."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7424*]:
+ 10: 0x0015 [0x48] [System] [7425*]:
     → "To think of these things and wonder is the duty of the living. --Gwynham Ironheart, 759 Crystal Era"
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

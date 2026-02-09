@@ -25,9 +25,9 @@
 |       0 | 0xE1C8      |       57800 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0008      |           8 |
-|       3 | 0x1BAF      |        7087 |
-|       4 | 0x1BB1      |        7089 |
-|       5 | 0x1BB2      |        7090 |
+|       3 | 0x1BB0      |        7088 |
+|       4 | 0x1BB2      |        7090 |
+|       5 | 0x1BB3      |        7091 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0092      |         146 |
@@ -36,12 +36,12 @@
 |      11 | 0xE7CD      |       59341 |
 |      12 | 0x1F41      |        8001 |
 |      13 | 0x0C15      |        3093 |
-|      14 | 0x1BC3      |        7107 |
-|      15 | 0x1BB0      |        7088 |
+|      14 | 0x1BC4      |        7108 |
+|      15 | 0x1BB1      |        7089 |
 
 ## String References
 
-- **7090**: Pay $7 gil and head through? [Yes./No.]
+- **7091**: Pay $7 gil and head through? [Yes./No.]
 
 ## Events
 
@@ -94,7 +94,7 @@
   2: 0x0014 [0x03] Work_Zone[2] = 200*
   3: 0x0019 [0x03] Work_Zone[3] = 8*
   4: 0x001E [0x4A] Purequane (ID: 17784846/0x010F600E) looks at LocalPlayer
-  5: 0x0027 [0x2B] Purequane (ID: 17784846/0x010F600E) [7087*]:
+  5: 0x0027 [0x2B] Purequane (ID: 17784846/0x010F600E) [7088*]:
     → "This leads to departures. You'll need $6 and $0 gil to board."
   6: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002F [0x01] GOTO 0x0035
@@ -138,10 +138,10 @@ SUBROUTINE_0035:
   1: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57800*) GOTO 0x00CC
   2: 0x004A [0x03] Work_Zone[9] = 200*
   3: 0x004F [0x4A] Purequane (ID: 17784846/0x010F600E) looks at LocalPlayer
-  4: 0x0058 [0x2B] Purequane (ID: 17784846/0x010F600E) [7089*]:
+  4: 0x0058 [0x2B] Purequane (ID: 17784846/0x010F600E) [7090*]:
     → "This leads to departures. You'll need $7 gil to board a flight."
   5: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0060 [0x24] CREATE_DIALOG(message_id=7090*, default_option=1*, option_flags=0*)
+  6: 0x0060 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
     → "Pay $7 gil and head through? [Yes./No.]"
   7: 0x0067 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0068 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C9
@@ -194,7 +194,7 @@ SUBROUTINE_00CF:
   0: 0x00D1 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x00DC [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57800*) GOTO 0x00F8
   2: 0x00E4 [0x4A] Purequane (ID: 17784846/0x010F600E) looks at LocalPlayer
-  3: 0x00ED [0x2B] Purequane (ID: 17784846/0x010F600E) [7107*]:
+  3: 0x00ED [0x2B] Purequane (ID: 17784846/0x010F600E) [7108*]:
     → "I'm sorry, but your boarding rights have been temporarily revoked. Have a nice day."
   4: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00F5 [0x01] GOTO 0x00FB
@@ -206,7 +206,7 @@ SUBROUTINE_00FB:
 
 SUBROUTINE_00FD:
   9: 0x00FD [0x4A] Moulloie (ID: 17784845/0x010F600D) looks at LocalPlayer
- 10: 0x0106 [0x2B] Moulloie (ID: 17784845/0x010F600D) [7088*]:
+ 10: 0x0106 [0x2B] Moulloie (ID: 17784845/0x010F600D) [7089*]:
     → "This is the departures exit. You can't go out this way. Try the next door, please."
  11: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x010E [0x1B] RETURN

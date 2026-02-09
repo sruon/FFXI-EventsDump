@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000B      |          11 |
-|       1 | 0x2691      |        9873 |
+|       1 | 0x2692      |        9874 |
 
 ## String References
 
-- **9873**: Feast your eyes upon one of the best waypoints in all of Adoulin! Why's it one of the best? Because it's an Inventors' Coalition waypoint, that's why!
+- **9874**: Feast your eyes upon one of the best waypoints in all of Adoulin! Why's it one of the best? Because it's an Inventors' Coalition waypoint, that's why!
 
 ## Events
 
@@ -76,7 +76,7 @@
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x6E] EventEntity uses emote 11*
   4: 0x000F [0x99] Wait for EventEntity animation to complete
-  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9873*)
+  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
     → "Feast your eyes upon one of the best waypoints in all of Adoulin! Why's it one of the best? Because it's an Inventors' Coalition waypoint, that's why!"
   6: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0018 [0x21] END_EVENT

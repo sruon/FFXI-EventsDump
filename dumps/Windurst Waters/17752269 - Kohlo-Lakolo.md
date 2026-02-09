@@ -67,11 +67,11 @@
 |       4 | 0xFFFE50C9  |  4294856905 |
 |       5 | 0xFFFFD85B  |  4294957147 |
 |       6 | 0x0D57      |        3415 |
-|       7 | 0x2678      |        9848 |
-|       8 | 0x267C      |        9852 |
-|       9 | 0x267D      |        9853 |
-|      10 | 0x2681      |        9857 |
-|      11 | 0x2682      |        9858 |
+|       7 | 0x2679      |        9849 |
+|       8 | 0x267D      |        9853 |
+|       9 | 0x267E      |        9854 |
+|      10 | 0x2682      |        9858 |
+|      11 | 0x2683      |        9859 |
 |      12 | 0xFFFD2110  |  4294779152 |
 |      13 | 0xFFFE3EF2  |  4294852338 |
 |      14 | 0xFFFFD85A  |  4294957146 |
@@ -82,11 +82,11 @@
 
 ## String References
 
-- **9848**: Er, I'm s-sorry.
-- **9852**: How can you say that!? Diss-a-sem-bull means to take something apart, doesn't it?
-- **9853**: Joker will die if we do that!
-- **9857**: I can't diss-a-sem-bull Joker, I just can't!
-- **9858**: What am I going to do...?
+- **9849**: Er, I'm s-sorry.
+- **9853**: How can you say that!? Diss-a-sem-bull means to take something apart, doesn't it?
+- **9854**: Joker will die if we do that!
+- **9858**: I can't diss-a-sem-bull Joker, I just can't!
+- **9859**: What am I going to do...?
 
 ## Events
 
@@ -970,7 +970,7 @@
 #### Opcodes
 
 ```
-  0: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=9848*)
+  0: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=9849*)
     → "Er, I'm s-sorry."
   1: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x026C [0x00] END_REQSTACK()
@@ -996,7 +996,7 @@
 #### Opcodes
 
 ```
-  0: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=9852*)
+  0: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=9853*)
     → "How can you say that!? Diss-a-sem-bull means to take something apart, doesn't it?"
   1: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0271 [0x00] END_REQSTACK()
@@ -1021,7 +1021,7 @@
 #### Opcodes
 
 ```
-  0: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=9853*)
+  0: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=9854*)
     → "Joker will die if we do that!"
   1: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0276 [0x00] END_REQSTACK()
@@ -1046,7 +1046,7 @@
 #### Opcodes
 
 ```
-  0: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=9857*)
+  0: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=9858*)
     → "I can't diss-a-sem-bull Joker, I just can't!"
   1: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x027B [0x00] END_REQSTACK()
@@ -1072,7 +1072,7 @@
 #### Opcodes
 
 ```
-  0: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=9858*)
+  0: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=9859*)
     → "What am I going to do...?"
   1: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0280 [0x00] END_REQSTACK()

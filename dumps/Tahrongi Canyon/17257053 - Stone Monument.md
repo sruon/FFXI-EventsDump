@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D15      |        7445 |
-|       1 | 0x1D16      |        7446 |
-|       2 | 0x1D17      |        7447 |
-|       3 | 0x1D18      |        7448 |
-|       4 | 0x1D19      |        7449 |
-|       5 | 0x1D1A      |        7450 |
+|       0 | 0x1D16      |        7446 |
+|       1 | 0x1D17      |        7447 |
+|       2 | 0x1D18      |        7448 |
+|       3 | 0x1D19      |        7449 |
+|       4 | 0x1D1A      |        7450 |
+|       5 | 0x1D1B      |        7451 |
 
 ## String References
 
-- **7445**: You see a message engraved on the stone:
-- **7446**: My survey has run into difficulty here in Tahrongi Canyon. I have had to deal with irregular land, a harsh clime, monsters, and, worst of all, fever.
-- **7447**: I thought myself prepared before I ventured into Mindartia, but that did not spare me the fever. Even white magic did nothing.
-- **7448**: With faltering steps, I sought shelter from the sun, but there was little shade in sight. Then, it appeared before me: the sun-bleached skeleton of an ancient wyrm.
-- **7449**: I approached, and found this cave. I soon discovered that the water from a nearby cactus helped reduce my fever. As I recovered, I decided to name my saviors.
-- **7450**: In memory of my old friends, Gilbo, Madge, and Navil: victims of a heat wave that struck in the midst of a brotherly quarrel. --Enid Ironheart, 774 Crystal Era.
+- **7446**: You see a message engraved on the stone:
+- **7447**: My survey has run into difficulty here in Tahrongi Canyon. I have had to deal with irregular land, a harsh clime, monsters, and, worst of all, fever.
+- **7448**: I thought myself prepared before I ventured into Mindartia, but that did not spare me the fever. Even white magic did nothing.
+- **7449**: With faltering steps, I sought shelter from the sun, but there was little shade in sight. Then, it appeared before me: the sun-bleached skeleton of an ancient wyrm.
+- **7450**: I approached, and found this cave. I soon discovered that the water from a nearby cactus helped reduce my fever. As I recovered, I decided to name my saviors.
+- **7451**: In memory of my old friends, Gilbo, Madge, and Navil: victims of a heat wave that struck in the midst of a brotherly quarrel. --Enid Ironheart, 774 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7445*]:
+  0: 0x0001 [0x48] [System] [7446*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7446*]:
+  2: 0x0005 [0x48] [System] [7447*]:
     → "My survey has run into difficulty here in Tahrongi Canyon. I have had to deal with irregular land, a harsh clime, monsters, and, worst of all, fever."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7447*]:
+  4: 0x0009 [0x48] [System] [7448*]:
     → "I thought myself prepared before I ventured into Mindartia, but that did not spare me the fever. Even white magic did nothing."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7448*]:
+  6: 0x000D [0x48] [System] [7449*]:
     → "With faltering steps, I sought shelter from the sun, but there was little shade in sight. Then, it appeared before me: the sun-bleached skeleton of an ancient wyrm."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7449*]:
+  8: 0x0011 [0x48] [System] [7450*]:
     → "I approached, and found this cave. I soon discovered that the water from a nearby cactus helped reduce my fever. As I recovered, I decided to name my saviors."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7450*]:
+ 10: 0x0015 [0x48] [System] [7451*]:
     → "In memory of my old friends, Gilbo, Madge, and Navil: victims of a heat wave that struck in the midst of a brotherly quarrel. --Enid Ironheart, 774 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

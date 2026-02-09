@@ -23,23 +23,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1ED8      |        7896 |
-|       1 | 0x1ED5      |        7893 |
+|       0 | 0x1ED9      |        7897 |
+|       1 | 0x1ED6      |        7894 |
 |       2 | 0x0037      |          55 |
-|       3 | 0x1ED6      |        7894 |
+|       3 | 0x1ED7      |        7895 |
 |       4 | 0x027D      |         637 |
-|       5 | 0x1ED7      |        7895 |
+|       5 | 0x1ED8      |        7896 |
 |       6 | 0x00C9      |         201 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x1FC5      |        8133 |
+|       8 | 0x1FC6      |        8134 |
 
 ## String References
 
-- **7893**: Hmm...this machine's been acting up lately. I wonder if the oil's gone bad...
-- **7894**: This machine needs oiling, but we're all out of machine oil. What could I use as a substitute, I wonder?
-- **7895**: $7? Of course! Why didn't I think of that? Thank you. Here, take this as payment.
-- **7896**: My job's not that bad, really. Working with machines beats working in the mines any day.
-- **8133**: I've heard an adventurer say that there were these oily monsters in Beadeaux sometimes. I wonder...
+- **7894**: Hmm...this machine's been acting up lately. I wonder if the oil's gone bad...
+- **7895**: This machine needs oiling, but we're all out of machine oil. What could I use as a substitute, I wonder?
+- **7896**: $7? Of course! Why didn't I think of that? Thank you. Here, take this as payment.
+- **7897**: My job's not that bad, really. Working with machines beats working in the mines any day.
+- **8134**: I've heard an adventurer say that there were these oily monsters in Beadeaux sometimes. I wonder...
 
 ## Events
 
@@ -85,7 +85,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
     → "My job's not that bad, really. Working with machines beats working in the mines any day."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -114,11 +114,11 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "Hmm...this machine's been acting up lately. I wonder if the oil's gone bad..."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
+  4: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "This machine needs oiling, but we're all out of machine oil. What could I use as a substitute, I wonder?"
   5: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0028 [0x21] END_EVENT
@@ -155,7 +155,7 @@
   4: 0x0037 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0038 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0039 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
-  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
+  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
     → "$7? Of course! Why didn't I think of that? Thank you. Here, take this as payment."
   8: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -185,7 +185,7 @@
 
 ```
   0: 0x006C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  1: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "I've heard an adventurer say that there were these oily monsters in Beadeaux sometimes. I wonder..."
   2: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0075 [0x21] END_EVENT

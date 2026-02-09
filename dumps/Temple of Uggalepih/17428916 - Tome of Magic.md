@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CE5      |        7397 |
-|       1 | 0x1CE6      |        7398 |
-|       2 | 0x1CE7      |        7399 |
-|       3 | 0x1CE8      |        7400 |
+|       0 | 0x1CE6      |        7398 |
+|       1 | 0x1CE7      |        7399 |
+|       2 | 0x1CE8      |        7400 |
+|       3 | 0x1CE9      |        7401 |
 
 ## String References
 
-- **7397**: A diary written by Iru-Kuiru.
-- **7398**: "A letter has arrived from the homeland. The San d'Orian member of the Allied Expedition, Francmage M Mistalle, has lost his life to the curse..."
-- **7399**: "And then yesterday, my friend and fellow Allied explorer, Yow Rabntah, was taken from this world..."
-- **7400**: "I can feel the shadow closing in on me. I believe the darkness will claim me before I am able to finish this research. And I was so close to putting all the pieces of this legend together..."
+- **7398**: A diary written by Iru-Kuiru.
+- **7399**: "A letter has arrived from the homeland. The San d'Orian member of the Allied Expedition, Francmage M Mistalle, has lost his life to the curse..."
+- **7400**: "And then yesterday, my friend and fellow Allied explorer, Yow Rabntah, was taken from this world..."
+- **7401**: "I can feel the shadow closing in on me. I believe the darkness will claim me before I am able to finish this research. And I was so close to putting all the pieces of this legend together..."
 
 ## Events
 
@@ -76,16 +76,16 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7397*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
     → "A diary written by Iru-Kuiru."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
     → ""A letter has arrived from the homeland. The San d'Orian member of the Allied Expedition, Francmage M Mistalle, has lost his life to the curse...""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
     → ""And then yesterday, my friend and fellow Allied explorer, Yow Rabntah, was taken from this world...""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
+  6: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
     → ""I can feel the shadow closing in on me. I believe the darkness will claim me before I am able to finish this research. And I was so close to putting all the pieces of this legend together...""
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0011 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

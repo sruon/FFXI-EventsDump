@@ -49,12 +49,12 @@
 |      11 | 0x01D3      |         467 |
 |      12 | 0x0201      |         513 |
 |      13 | 0x0202      |         514 |
-|      14 | 0x2067      |        8295 |
-|      15 | 0x2068      |        8296 |
-|      16 | 0x20F3      |        8435 |
-|      17 | 0x20F4      |        8436 |
-|      18 | 0x214F      |        8527 |
-|      19 | 0x2150      |        8528 |
+|      14 | 0x2068      |        8296 |
+|      15 | 0x2069      |        8297 |
+|      16 | 0x20F4      |        8436 |
+|      17 | 0x20F5      |        8437 |
+|      18 | 0x2150      |        8528 |
+|      19 | 0x2151      |        8529 |
 
 ## String References
 
@@ -70,12 +70,12 @@
 - **467**: Could it be the Star Sibyl was...?
 - **513**: This morning, when the sun rose and the evening stars faded slowly, slowly...I saw the Star Sibyl gazing into the Star Spring.
 - **514**: "One great star has vanished..." She must have heard the tale of your wonderful, wonderful victory from the stars.
-- **8295**: You've seen that bearer of darkness before!?
-- **8296**: And yet you came to confront it! How incredibly, incredibly brave of you!
-- **8435**: Heavens Tower has returned to its peaceful state as if nothing had ever happened...
-- **8436**: Everyone carries unease in their hearts, though. With the absence of the Star Sibyl, a gloomy, gloomy pall has fallen over us all.
-- **8527**: Now that the Star Sibyl is back with us, the ladies-in-waiting can truly, truly smile again.
-- **8528**: With the trying events she has been through lately, I don'taru think the Star Sibyl is taking visitors...but for you, she might make a tiny, tiny exception.
+- **8296**: You've seen that bearer of darkness before!?
+- **8297**: And yet you came to confront it! How incredibly, incredibly brave of you!
+- **8436**: Heavens Tower has returned to its peaceful state as if nothing had ever happened...
+- **8437**: Everyone carries unease in their hearts, though. With the absence of the Star Sibyl, a gloomy, gloomy pall has fallen over us all.
+- **8528**: Now that the Star Sibyl is back with us, the ladies-in-waiting can truly, truly smile again.
+- **8529**: With the trying events she has been through lately, I don'taru think the Star Sibyl is taking visitors...but for you, she might make a tiny, tiny exception.
 
 ## Events
 
@@ -514,10 +514,10 @@
   1: 0x0122 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0123 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0124 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x01)
-  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
+  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
     → "You've seen that bearer of darkness before!?"
   5: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "And yet you came to confront it! How incredibly, incredibly brave of you!"
   7: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0133 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x02)
@@ -553,12 +553,12 @@
   1: 0x0143 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0144 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x01)
-  4: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
+  4: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
     → "Heavens Tower has returned to its peaceful state as if nothing had ever happened..."
   5: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0150 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x02)
   7: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x03)
-  8: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
+  8: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8437*)
     → "Everyone carries unease in their hearts, though. With the absence of the Star Sibyl, a gloomy, gloomy pall has fallen over us all."
   9: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0162 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x04)
@@ -594,10 +594,10 @@
   1: 0x0180 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0181 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0182 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x01)
-  4: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
+  4: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
     → "Now that the Star Sibyl is back with us, the ladies-in-waiting can truly, truly smile again."
   5: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
+  6: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=8529*)
     → "With the trying events she has been through lately, I don'taru think the Star Sibyl is taking visitors...but for you, she might make a tiny, tiny exception."
   7: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0191 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tsuryarya (ID: 17768494/0x010F202E), tag_num=0x02)

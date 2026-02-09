@@ -74,19 +74,19 @@
 |       0 | 0x0009      |           9 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x02D0      |         720 |
-|       3 | 0x2E20      |       11808 |
-|       4 | 0x2E21      |       11809 |
-|       5 | 0x2E22      |       11810 |
-|       6 | 0x2E23      |       11811 |
-|       7 | 0x2E24      |       11812 |
-|       8 | 0x2E25      |       11813 |
-|       9 | 0x2E26      |       11814 |
+|       3 | 0x2E21      |       11809 |
+|       4 | 0x2E22      |       11810 |
+|       5 | 0x2E23      |       11811 |
+|       6 | 0x2E24      |       11812 |
+|       7 | 0x2E25      |       11813 |
+|       8 | 0x2E26      |       11814 |
+|       9 | 0x2E27      |       11815 |
 |      10 | 0x00C9      |         201 |
-|      11 | 0x2E27      |       11815 |
-|      12 | 0x2E1D      |       11805 |
+|      11 | 0x2E28      |       11816 |
+|      12 | 0x2E1E      |       11806 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x2E1E      |       11806 |
-|      15 | 0x2E1F      |       11807 |
+|      14 | 0x2E1F      |       11807 |
+|      15 | 0x2E20      |       11808 |
 |      16 | 0xFFFFC6C1  |  4294952641 |
 |      17 | 0x1DE40     |      122432 |
 |      18 | 0xFFFF97FE  |  4294940670 |
@@ -137,51 +137,51 @@
 |      63 | 0x1444F     |       83023 |
 |      64 | 0x107D8     |       67544 |
 |      65 | 0xFFFF7B5D  |  4294933341 |
-|      66 | 0x26BD      |        9917 |
-|      67 | 0x26BF      |        9919 |
-|      68 | 0x26C0      |        9920 |
-|      69 | 0x26E4      |        9956 |
-|      70 | 0x26E5      |        9957 |
-|      71 | 0x26E6      |        9958 |
-|      72 | 0x26FB      |        9979 |
-|      73 | 0x270C      |        9996 |
-|      74 | 0x270D      |        9997 |
-|      75 | 0x270E      |        9998 |
-|      76 | 0x2717      |       10007 |
-|      77 | 0x2718      |       10008 |
-|      78 | 0x2719      |       10009 |
-|      79 | 0x2737      |       10039 |
-|      80 | 0x2738      |       10040 |
-|      81 | 0x2739      |       10041 |
-|      82 | 0x2777      |       10103 |
-|      83 | 0x2778      |       10104 |
-|      84 | 0x2779      |       10105 |
-|      85 | 0x277A      |       10106 |
-|      86 | 0x28B7      |       10423 |
-|      87 | 0x28B8      |       10424 |
-|      88 | 0x2ACD      |       10957 |
-|      89 | 0x2ACE      |       10958 |
-|      90 | 0x2ACF      |       10959 |
-|      91 | 0x2AD0      |       10960 |
-|      92 | 0x2AD1      |       10961 |
-|      93 | 0x2AD2      |       10962 |
-|      94 | 0x2736      |       10038 |
-|      95 | 0x269A      |        9882 |
-|      96 | 0x269B      |        9883 |
+|      66 | 0x26BE      |        9918 |
+|      67 | 0x26C0      |        9920 |
+|      68 | 0x26C1      |        9921 |
+|      69 | 0x26E5      |        9957 |
+|      70 | 0x26E6      |        9958 |
+|      71 | 0x26E7      |        9959 |
+|      72 | 0x26FC      |        9980 |
+|      73 | 0x270D      |        9997 |
+|      74 | 0x270E      |        9998 |
+|      75 | 0x270F      |        9999 |
+|      76 | 0x2718      |       10008 |
+|      77 | 0x2719      |       10009 |
+|      78 | 0x271A      |       10010 |
+|      79 | 0x2738      |       10040 |
+|      80 | 0x2739      |       10041 |
+|      81 | 0x273A      |       10042 |
+|      82 | 0x2778      |       10104 |
+|      83 | 0x2779      |       10105 |
+|      84 | 0x277A      |       10106 |
+|      85 | 0x277B      |       10107 |
+|      86 | 0x28B8      |       10424 |
+|      87 | 0x28B9      |       10425 |
+|      88 | 0x2ACE      |       10958 |
+|      89 | 0x2ACF      |       10959 |
+|      90 | 0x2AD0      |       10960 |
+|      91 | 0x2AD1      |       10961 |
+|      92 | 0x2AD2      |       10962 |
+|      93 | 0x2AD3      |       10963 |
+|      94 | 0x2737      |       10039 |
+|      95 | 0x269B      |        9883 |
+|      96 | 0x269C      |        9884 |
 |      97 | 0x122B0     |       74416 |
 |      98 | 0x10081     |       65665 |
 |      99 | 0xFFFF7B30  |  4294933296 |
 |     100 | 0x0610      |        1552 |
-|     101 | 0x2F09      |       12041 |
+|     101 | 0x2F0A      |       12042 |
 |     102 | 0x0016      |          22 |
-|     103 | 0x2F0A      |       12042 |
-|     104 | 0x2F0B      |       12043 |
+|     103 | 0x2F0B      |       12043 |
+|     104 | 0x2F0C      |       12044 |
 |     105 | 0x0019      |          25 |
-|     106 | 0x2F0C      |       12044 |
+|     106 | 0x2F0D      |       12045 |
 |     107 | 0x001A      |          26 |
-|     108 | 0x2F0D      |       12045 |
+|     108 | 0x2F0E      |       12046 |
 |     109 | 0x0022      |          34 |
-|     110 | 0x2F0E      |       12046 |
+|     110 | 0x2F0F      |       12047 |
 |     111 | 0xFFFF9AF4  |  4294941428 |
 |     112 | 0x1E2EB     |      123627 |
 |     113 | 0xFFFF96B4  |  4294940340 |
@@ -201,54 +201,54 @@
 
 ## String References
 
-- **9882**: You say that Nag'molada fellow is not an acquaintance of yours?
-- **9883**: Well, that is of no matter. If you happen to see him again, I strongly suggest you warn him not to go anywhere near the door leading to the aqueducts.
-- **9917**: Beyond that gate lie the aqueducts that connect to the deeper parts of the Sacrarium. The entire area has had a powerful magic spell cast upon it by the cardinal Mildaurion C Giloumet.
-- **9919**: You have defeated the minotaur? But your companion has yet to return.
-- **9920**: It's not that I doubt your word, but I must hear the story from both of you. Now, back into the aqueducts to search for your friend.
-- **9956**: Were you surprised when you met Prishe? She might look like a little girl, but she's the strongest member of the Tavnazian Patrol.
-- **9957**: It is strange that you should carry the same amulet. It seems that fate has taken a hand here.
-- **9958**: But Prishe despises words like "fate." You should head to her quarters before she starts to get impatient.
-- **9979**: Ulmia? I just saw her leaving the safehold. Any time she wants to be alone, Ulmia usually goes to Snowmint Point, located on the Misareaux Coast...
-- **9996**: The Chebukki brothers were headed to Cape Riverne, northwest of the Misareaux Coast.
-- **9997**: Those three were carved out of pure curiosity. Once they'd heard about the dragon sightings, they probably couldn't wait to go see it for themselves.
-- **9998**: But why did your companion go with them? When did he become such good friends with those troublemakers?
-- **10007**: Greetings, <Player>. Thanks to your actions on the mainland, a messenger from Jeuno has arrived here in Tavnazia.
-- **10008**: It looks like arrangements will be made for aiding the safehold. Their government will also be considering applications from those who wish to emigrate to Jeuno.
-- **10009**: The only problem is... Have you talked to Prishe yet?
-- **10038**: You are looking for Ulmia? She probably went down to the coast. I must say, it is quite uncommon for her to argue with her grandfather like she did earlier...
-- **10039**: <Player>, you weren't able to dissuade Ulmia?
-- **10040**: She's determined to march up Cape Riverne and speak to the Wyrmking, alone if need be. She won't listen to me, no matter how much I try to explain the dangers involved.
-- **10041**: I understand how much she wants to prove that Prishe is not the abhorrent one, but...
-- **10103**: Lord Bahamut. So, he has appeared to wreak devastation on the people of Vana'diel...
-- **10104**: And his minions have been called to his side in preparation for this genocide.
-- **10105**: But we cannot fight against so many dragons. All we can do is sit back and watch helplessly as events unfold.
-- **10106**: If the will of Promathia is mixed up in this, we may not have any choice in the matter in any case. Will Prishe be able to find some way to avert this catastrophe?
-- **10423**: For the first time in my life, I prayed to Altana--I prayed for your safe return. And look... All of you managed to escape that terror in the skies.
-- **10424**: Perhaps Altana truly does exist... I wonder if it is not too late to start believing?
-- **10957**: Do you find our enclosed city strange? That is probably because it is so different from what you have seen on the mainland.
-- **10958**: However, for us--the forgotten--this city is all we know and all we have.
-- **10959**: Safehold elder Despachiaire has welcomed that envoy from Jeuno with open arms. However...
-- **10960**: I have a terrible feeling something grave is upon us. Even those three menacing Tarutaru are acting strange...
-- **10961**: A great challenge awaits you in the skies, <Player>.
-- **10962**: But I cannot help but think it ironic that a forgotten city such as ours would be the site of a battle that could alter the history of all Vana'diel.
-- **11805**: Take up this duty? [On my way./Not today.]
-- **11806**: Excellent. Take this and make your way to Monarch Linn. You may have fought them before, but be careful. Who knows what tricks they have hiding up their sleeves?
-- **11807**: Lost your will for battle, hm? There might be another way to deal with this, but let me know if you change your mind. It would make my job a lot easier.
-- **11808**: Take the $3 and head for Monarch Linn. You may have fought them before, but be careful. Who knows what tricks they have hiding up their sleeves?
-- **11809**: You failed to oust the intruders from Monarch Linn!? And you lost the $3 into the bargain...!?
-- **11810**: It will take some time to have another permit approved. You may as well return to your adventures for a while. (This is what I deserve for trusting an adventurer...)
-- **11811**: A new $3 has been approved. Perhaps this time you'll be properly prepared for the challenge that awaits!
-- **11812**: So, you have routed those black-robed menaces from Monarch Linn? Excellent news.
-- **11813**: Your reward--for a job well done. Go on, take it. You deserve something for putting your neck on the line.
-- **11814**: We cannot know if these intruders are gone for good, however. I will continue my surveillance of the area, but would appreciate it if you checked in with me again in the near future.
-- **11815**: Do you remember those black-robed intruders you chased away from Monarch Linn? We've had another sighting. Do you think you could go and "persuade" them to leave again?
-- **12041**: Who...? Ah, it's you, <Player>. I never know when one of you adventurers will choose to darken my doorstep.
-- **12042**: It may not be my place to say it, but Prishe seemed upset with you.
-- **12043**: You see, I found this unusual ring on one of my patrols. When I showed it to Prishe and Ulmia, they were certain it was the same ring they gave to you.
-- **12044**: Poor Ulmia seemed on the verge of tears. Is this how you treat a person's heartfelt gift!?
-- **12045**: It might be nothing more than a bauble to you, but for those girls it was a symbol of your friendship--your unbreakable bond!
-- **12046**: Here, take it. Maybe this time you'll think twice about how much it's really worth...
+- **9883**: You say that Nag'molada fellow is not an acquaintance of yours?
+- **9884**: Well, that is of no matter. If you happen to see him again, I strongly suggest you warn him not to go anywhere near the door leading to the aqueducts.
+- **9918**: Beyond that gate lie the aqueducts that connect to the deeper parts of the Sacrarium. The entire area has had a powerful magic spell cast upon it by the cardinal Mildaurion C Giloumet.
+- **9920**: You have defeated the minotaur? But your companion has yet to return.
+- **9921**: It's not that I doubt your word, but I must hear the story from both of you. Now, back into the aqueducts to search for your friend.
+- **9957**: Were you surprised when you met Prishe? She might look like a little girl, but she's the strongest member of the Tavnazian Patrol.
+- **9958**: It is strange that you should carry the same amulet. It seems that fate has taken a hand here.
+- **9959**: But Prishe despises words like "fate." You should head to her quarters before she starts to get impatient.
+- **9980**: Ulmia? I just saw her leaving the safehold. Any time she wants to be alone, Ulmia usually goes to Snowmint Point, located on the Misareaux Coast...
+- **9997**: The Chebukki brothers were headed to Cape Riverne, northwest of the Misareaux Coast.
+- **9998**: Those three were carved out of pure curiosity. Once they'd heard about the dragon sightings, they probably couldn't wait to go see it for themselves.
+- **9999**: But why did your companion go with them? When did he become such good friends with those troublemakers?
+- **10008**: Greetings, <Player>. Thanks to your actions on the mainland, a messenger from Jeuno has arrived here in Tavnazia.
+- **10009**: It looks like arrangements will be made for aiding the safehold. Their government will also be considering applications from those who wish to emigrate to Jeuno.
+- **10010**: The only problem is... Have you talked to Prishe yet?
+- **10039**: You are looking for Ulmia? She probably went down to the coast. I must say, it is quite uncommon for her to argue with her grandfather like she did earlier...
+- **10040**: <Player>, you weren't able to dissuade Ulmia?
+- **10041**: She's determined to march up Cape Riverne and speak to the Wyrmking, alone if need be. She won't listen to me, no matter how much I try to explain the dangers involved.
+- **10042**: I understand how much she wants to prove that Prishe is not the abhorrent one, but...
+- **10104**: Lord Bahamut. So, he has appeared to wreak devastation on the people of Vana'diel...
+- **10105**: And his minions have been called to his side in preparation for this genocide.
+- **10106**: But we cannot fight against so many dragons. All we can do is sit back and watch helplessly as events unfold.
+- **10107**: If the will of Promathia is mixed up in this, we may not have any choice in the matter in any case. Will Prishe be able to find some way to avert this catastrophe?
+- **10424**: For the first time in my life, I prayed to Altana--I prayed for your safe return. And look... All of you managed to escape that terror in the skies.
+- **10425**: Perhaps Altana truly does exist... I wonder if it is not too late to start believing?
+- **10958**: Do you find our enclosed city strange? That is probably because it is so different from what you have seen on the mainland.
+- **10959**: However, for us--the forgotten--this city is all we know and all we have.
+- **10960**: Safehold elder Despachiaire has welcomed that envoy from Jeuno with open arms. However...
+- **10961**: I have a terrible feeling something grave is upon us. Even those three menacing Tarutaru are acting strange...
+- **10962**: A great challenge awaits you in the skies, <Player>.
+- **10963**: But I cannot help but think it ironic that a forgotten city such as ours would be the site of a battle that could alter the history of all Vana'diel.
+- **11806**: Take up this duty? [On my way./Not today.]
+- **11807**: Excellent. Take this and make your way to Monarch Linn. You may have fought them before, but be careful. Who knows what tricks they have hiding up their sleeves?
+- **11808**: Lost your will for battle, hm? There might be another way to deal with this, but let me know if you change your mind. It would make my job a lot easier.
+- **11809**: Take the $3 and head for Monarch Linn. You may have fought them before, but be careful. Who knows what tricks they have hiding up their sleeves?
+- **11810**: You failed to oust the intruders from Monarch Linn!? And you lost the $3 into the bargain...!?
+- **11811**: It will take some time to have another permit approved. You may as well return to your adventures for a while. (This is what I deserve for trusting an adventurer...)
+- **11812**: A new $3 has been approved. Perhaps this time you'll be properly prepared for the challenge that awaits!
+- **11813**: So, you have routed those black-robed menaces from Monarch Linn? Excellent news.
+- **11814**: Your reward--for a job well done. Go on, take it. You deserve something for putting your neck on the line.
+- **11815**: We cannot know if these intruders are gone for good, however. I will continue my surveillance of the area, but would appreciate it if you checked in with me again in the near future.
+- **11816**: Do you remember those black-robed intruders you chased away from Monarch Linn? We've had another sighting. Do you think you could go and "persuade" them to leave again?
+- **12042**: Who...? Ah, it's you, <Player>. I never know when one of you adventurers will choose to darken my doorstep.
+- **12043**: It may not be my place to say it, but Prishe seemed upset with you.
+- **12044**: You see, I found this unusual ring on one of my patrols. When I showed it to Prishe and Ulmia, they were certain it was the same ring they gave to you.
+- **12045**: Poor Ulmia seemed on the verge of tears. Is this how you treat a person's heartfelt gift!?
+- **12046**: It might be nothing more than a bauble to you, but for those girls it was a symbol of your friendship--your unbreakable bond!
+- **12047**: Here, take it. Maybe this time you'll think twice about how much it's really worth...
 
 ## Events
 
@@ -489,7 +489,7 @@
   2: 0x0078 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x007D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x007E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=11808*)
+  5: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=11809*)
     → "Take the $3 and head for Monarch Linn. You may have fought them before, but be careful. Who knows what tricks they have hiding up their sleeves?"
   6: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0083 [0x21] END_EVENT
@@ -521,10 +521,10 @@
   2: 0x008B [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0090 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0091 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11809*)
+  5: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11810*)
     → "You failed to oust the intruders from Monarch Linn!? And you lost the $3 into the bargain...!?"
   6: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=11810*)
+  7: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=11811*)
     → "It will take some time to have another permit approved. You may as well return to your adventures for a while. (This is what I deserve for trusting an adventurer...)"
   8: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x009A [0x21] END_EVENT
@@ -556,7 +556,7 @@
   2: 0x00A2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x00A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11811*)
+  5: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11812*)
     → "A new $3 has been approved. Perhaps this time you'll be properly prepared for the challenge that awaits!"
   6: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00AD [0x21] END_EVENT
@@ -593,14 +593,14 @@
   3: 0x00BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x00BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x00BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=9*
-  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11812*)
+  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11813*)
     → "So, you have routed those black-robed menaces from Monarch Linn? Excellent news."
   7: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=9*
-  9: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11813*)
+  9: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11814*)
     → "Your reward--for a job well done. Go on, take it. You deserve something for putting your neck on the line."
  10: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11814*)
+ 11: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11815*)
     → "We cannot know if these intruders are gone for good, however. I will continue my surveillance of the area, but would appreciate it if you checked in with me again in the near future."
  12: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -638,22 +638,22 @@
   2: 0x00FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0100 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0101 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=9*
-  5: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=11815*)
+  5: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=11816*)
     → "Do you remember those black-robed intruders you chased away from Monarch Linn? We've had another sighting. Do you think you could go and "persuade" them to leave again?"
   6: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0114 [0x06] Work_Zone[1] = 0
-  8: 0x0117 [0x24] CREATE_DIALOG(message_id=11805*, default_option=1*, option_flags=0*)
+  8: 0x0117 [0x24] CREATE_DIALOG(message_id=11806*, default_option=1*, option_flags=0*)
     → "Take up this duty? [On my way./Not today.]"
   9: 0x011E [0x25] WAIT_DIALOG_SELECT()
  10: 0x011F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [EventEntity, EventEntity], work=9*
  11: 0x012E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0142
- 12: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=11806*)
+ 12: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=11807*)
     → "Excellent. Take this and make your way to Monarch Linn. You may have fought them before, but be careful. Who knows what tricks they have hiding up their sleeves?"
  13: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x013A [0x03] Work_Zone[1] = 1*
  15: 0x013F [0x01] GOTO 0x0151
  16: 0x0142 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0151
- 17: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=11807*)
+ 17: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=11808*)
     → "Lost your will for battle, hm? There might be another way to deal with this, but let me know if you change your mind. It would make my job a lot easier."
  18: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x014E [0x01] GOTO 0x0151
@@ -1072,7 +1072,7 @@ SUBROUTINE_0151:
 
 ```
   0: 0x023B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=9917*)
+  1: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
     → "Beyond that gate lie the aqueducts that connect to the deeper parts of the Sacrarium. The entire area has had a powerful magic spell cast upon it by the cardinal Mildaurion C Giloumet."
   2: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0244 [0x21] END_EVENT
@@ -1101,11 +1101,11 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0246 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
+  1: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
     → "You have defeated the minotaur? But your companion has yet to return."
   2: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x024F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
+  4: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
     → "It's not that I doubt your word, but I must hear the story from both of you. Now, back into the aqueducts to search for your friend."
   5: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0262 [0x21] END_EVENT
@@ -1135,15 +1135,15 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0264 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=9956*)
+  1: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=9957*)
     → "Were you surprised when you met Prishe? She might look like a little girl, but she's the strongest member of the Tavnazian Patrol."
   2: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x026D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=9957*)
+  4: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=9958*)
     → "It is strange that you should carry the same amulet. It seems that fate has taken a hand here."
   5: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0280 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  7: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=9958*)
+  7: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=9959*)
     → "But Prishe despises words like "fate." You should head to her quarters before she starts to get impatient."
   8: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0293 [0x21] END_EVENT
@@ -1170,7 +1170,7 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0295 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=9979*)
+  1: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=9980*)
     → "Ulmia? I just saw her leaving the safehold. Any time she wants to be alone, Ulmia usually goes to Snowmint Point, located on the Misareaux Coast..."
   2: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x029E [0x21] END_EVENT
@@ -1200,15 +1200,15 @@ SUBROUTINE_0151:
 
 ```
   0: 0x02A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9996*)
+  1: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
     → "The Chebukki brothers were headed to Cape Riverne, northwest of the Misareaux Coast."
   2: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
+  4: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
     → "Those three were carved out of pure curiosity. Once they'd heard about the dragon sightings, they probably couldn't wait to go see it for themselves."
   5: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  7: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
+  7: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9999*)
     → "But why did your companion go with them? When did he become such good friends with those troublemakers?"
   8: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02CF [0x21] END_EVENT
@@ -1238,15 +1238,15 @@ SUBROUTINE_0151:
 
 ```
   0: 0x02D1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10007*)
+  1: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10008*)
     → "Greetings, <Player>. Thanks to your actions on the mainland, a messenger from Jeuno has arrived here in Tavnazia."
   2: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10008*)
+  4: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10009*)
     → "It looks like arrangements will be made for aiding the safehold. Their government will also be considering applications from those who wish to emigrate to Jeuno."
   5: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02ED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  7: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=10009*)
+  7: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=10010*)
     → "The only problem is... Have you talked to Prishe yet?"
   8: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0300 [0x21] END_EVENT
@@ -1276,15 +1276,15 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0302 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
+  1: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=10040*)
     → "<Player>, you weren't able to dissuade Ulmia?"
   2: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x030B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=10040*)
+  4: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=10041*)
     → "She's determined to march up Cape Riverne and speak to the Wyrmking, alone if need be. She won't listen to me, no matter how much I try to explain the dangers involved."
   5: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x031E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  7: 0x032D [0x1D] PRINT_EVENT_MESSAGE(message_id=10041*)
+  7: 0x032D [0x1D] PRINT_EVENT_MESSAGE(message_id=10042*)
     → "I understand how much she wants to prove that Prishe is not the abhorrent one, but..."
   8: 0x0330 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0331 [0x21] END_EVENT
@@ -1314,18 +1314,18 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0333 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10103*)
+  1: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10104*)
     → "Lord Bahamut. So, he has appeared to wreak devastation on the people of Vana'diel..."
   2: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x033C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x034B [0x1D] PRINT_EVENT_MESSAGE(message_id=10104*)
+  4: 0x034B [0x1D] PRINT_EVENT_MESSAGE(message_id=10105*)
     → "And his minions have been called to his side in preparation for this genocide."
   5: 0x034E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=10105*)
+  6: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=10106*)
     → "But we cannot fight against so many dragons. All we can do is sit back and watch helplessly as events unfold."
   7: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0353 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  9: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=10106*)
+  9: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=10107*)
     → "If the will of Promathia is mixed up in this, we may not have any choice in the matter in any case. Will Prishe be able to find some way to avert this catastrophe?"
  10: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0366 [0x21] END_EVENT
@@ -1354,11 +1354,11 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0368 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
+  1: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
     → "For the first time in my life, I prayed to Altana--I prayed for your safe return. And look... All of you managed to escape that terror in the skies."
   2: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0371 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
+  4: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
     → "Perhaps Altana truly does exist... I wonder if it is not too late to start believing?"
   5: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0384 [0x21] END_EVENT
@@ -1387,11 +1387,11 @@ SUBROUTINE_0151:
 
 ```
   0: 0x0386 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10957*)
+  1: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10958*)
     → "Do you find our enclosed city strange? That is probably because it is so different from what you have seen on the mainland."
   2: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x038F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x039E [0x1D] PRINT_EVENT_MESSAGE(message_id=10958*)
+  4: 0x039E [0x1D] PRINT_EVENT_MESSAGE(message_id=10959*)
     → "However, for us--the forgotten--this city is all we know and all we have."
   5: 0x03A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03A2 [0x21] END_EVENT
@@ -1420,12 +1420,12 @@ SUBROUTINE_0151:
 
 ```
   0: 0x03A4 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x03A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10959*)
+  1: 0x03A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10960*)
     → "Safehold elder Despachiaire has welcomed that envoy from Jeuno with open arms. However..."
   2: 0x03AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03AD [0x7B] Justinius (ID: 16883722/0x0101A00A) stops talking
   4: 0x03B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  5: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10960*)
+  5: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
     → "I have a terrible feeling something grave is upon us. Even those three menacing Tarutaru are acting strange..."
   6: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03C5 [0x21] END_EVENT
@@ -1454,11 +1454,11 @@ SUBROUTINE_0151:
 
 ```
   0: 0x03C7 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
+  1: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10962*)
     → "A great challenge awaits you in the skies, <Player>."
   2: 0x03CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10962*)
+  4: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10963*)
     → "But I cannot help but think it ironic that a forgotten city such as ours would be the site of a battle that could alter the history of all Vana'diel."
   5: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03E3 [0x21] END_EVENT
@@ -1485,7 +1485,7 @@ SUBROUTINE_0151:
 
 ```
   0: 0x03E5 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x03EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
+  1: 0x03EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
     → "You are looking for Ulmia? She probably went down to the coast. I must say, it is quite uncommon for her to argue with her grandfather like she did earlier..."
   2: 0x03ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03EE [0x21] END_EVENT
@@ -1513,11 +1513,11 @@ SUBROUTINE_0151:
 
 ```
   0: 0x03F0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9882*)
+  1: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9883*)
     → "You say that Nag'molada fellow is not an acquaintance of yours?"
   2: 0x03F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Justinius (ID: 16883722/0x0101A00A), Justinius (ID: 16883722/0x0101A00A)], work=9*
-  4: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=9883*)
+  4: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=9884*)
     → "Well, that is of no matter. If you happen to see him again, I strongly suggest you warn him not to go anywhere near the door leading to the aqueducts."
   5: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x040C [0x21] END_EVENT
@@ -1643,34 +1643,34 @@ SUBROUTINE_0151:
   0: 0x0420 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0421 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0426 [0x4A] LocalPlayer looks at EventEntity
-  3: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
+  3: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=12042*)
     → "Who...? Ah, it's you, <Player>. I never know when one of you adventurers will choose to darken my doorstep."
   4: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0433 [0x6E] EventEntity uses emote 22*
   6: 0x043A [0x99] Wait for EventEntity animation to complete
   7: 0x043F [0x99] Wait for EventEntity animation to complete
-  8: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=12042*)
+  8: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=12043*)
     → "It may not be my place to say it, but Prishe seemed upset with you."
   9: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0448 [0x1D] PRINT_EVENT_MESSAGE(message_id=12043*)
+ 10: 0x0448 [0x1D] PRINT_EVENT_MESSAGE(message_id=12044*)
     → "You see, I found this unusual ring on one of my patrols. When I showed it to Prishe and Ulmia, they were certain it was the same ring they gave to you."
  11: 0x044B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x044C [0x6E] EventEntity uses emote 25*
  13: 0x0453 [0x99] Wait for EventEntity animation to complete
  14: 0x0458 [0x99] Wait for EventEntity animation to complete
- 15: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=12044*)
+ 15: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
     → "Poor Ulmia seemed on the verge of tears. Is this how you treat a person's heartfelt gift!?"
  16: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0461 [0x6E] EventEntity uses emote 26*
  18: 0x0468 [0x99] Wait for EventEntity animation to complete
  19: 0x046D [0x99] Wait for EventEntity animation to complete
- 20: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
+ 20: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12046*)
     → "It might be nothing more than a bauble to you, but for those girls it was a symbol of your friendship--your unbreakable bond!"
  21: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0476 [0x6E] EventEntity uses emote 34*
  23: 0x047D [0x99] Wait for EventEntity animation to complete
  24: 0x0482 [0x99] Wait for EventEntity animation to complete
- 25: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=12046*)
+ 25: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=12047*)
     → "Here, take it. Maybe this time you'll think twice about how much it's really worth..."
  26: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x048B [0x21] END_EVENT

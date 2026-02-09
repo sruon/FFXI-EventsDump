@@ -21,36 +21,36 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x320C      |       12812 |
-|       2 | 0x320D      |       12813 |
-|       3 | 0x320E      |       12814 |
-|       4 | 0x3211      |       12817 |
-|       5 | 0x3212      |       12818 |
-|       6 | 0x3216      |       12822 |
+|       1 | 0x320D      |       12813 |
+|       2 | 0x320E      |       12814 |
+|       3 | 0x320F      |       12815 |
+|       4 | 0x3212      |       12818 |
+|       5 | 0x3213      |       12819 |
+|       6 | 0x3217      |       12823 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x3213      |       12819 |
+|       8 | 0x3214      |       12820 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x3214      |       12820 |
+|      10 | 0x3215      |       12821 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x3215      |       12821 |
+|      12 | 0x3216      |       12822 |
 |      13 | 0x0004      |           4 |
-|      14 | 0x320F      |       12815 |
+|      14 | 0x3210      |       12816 |
 |      15 | 0x0009      |           9 |
-|      16 | 0x3217      |       12823 |
+|      16 | 0x3218      |       12824 |
 
 ## String References
 
-- **12812**: Danger!
-- **12813**: This NPC will not be used in the game.
-- **12814**: In the game Mr. F's NPCs will be used at the start an end of the missions.
-- **12815**: Quit mission? [Yeah./No.]
-- **12817**: Set difficulty. [Rank 1./Rank 2./Rank 3./Endless Debug Hell.]
-- **12818**: Rank 1 quota: 1 object.
-- **12819**: Rank 2 quota: 3 objects.
-- **12820**: Rank 3 quota: 5 objects.
-- **12821**: Endless: No end to garbage.
-- **12822**: Ready......GARBAGE!
-- **12823**: You have met your quota. Good job, garbage [boy/chick]!
+- **12813**: Danger!
+- **12814**: This NPC will not be used in the game.
+- **12815**: In the game Mr. F's NPCs will be used at the start an end of the missions.
+- **12816**: Quit mission? [Yeah./No.]
+- **12818**: Set difficulty. [Rank 1./Rank 2./Rank 3./Endless Debug Hell.]
+- **12819**: Rank 1 quota: 1 object.
+- **12820**: Rank 2 quota: 3 objects.
+- **12821**: Rank 3 quota: 5 objects.
+- **12822**: Endless: No end to garbage.
+- **12823**: Ready......GARBAGE!
+- **12824**: You have met your quota. Good job, garbage [boy/chick]!
 
 ## Events
 
@@ -109,23 +109,23 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0085
-  2: 0x000A [0x48] [System] [12812*]:
+  2: 0x000A [0x48] [System] [12813*]:
     → "Danger!"
   3: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000E [0x48] [System] [12813*]:
+  4: 0x000E [0x48] [System] [12814*]:
     → "This NPC will not be used in the game."
   5: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0012 [0x48] [System] [12814*]:
+  6: 0x0012 [0x48] [System] [12815*]:
     → "In the game Mr. F's NPCs will be used at the start an end of the missions."
   7: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0016 [0x24] CREATE_DIALOG(message_id=12817*, default_option=0*, option_flags=0*)
+  8: 0x0016 [0x24] CREATE_DIALOG(message_id=12818*, default_option=0*, option_flags=0*)
     → "Set difficulty. [Rank 1./Rank 2./Rank 3./Endless Debug Hell.]"
   9: 0x001D [0x25] WAIT_DIALOG_SELECT()
  10: 0x001E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037
- 11: 0x0026 [0x48] [System] [12818*]:
+ 11: 0x0026 [0x48] [System] [12819*]:
     → "Rank 1 quota: 1 object."
  12: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x002A [0x48] [System] [12822*]:
+ 13: 0x002A [0x48] [System] [12823*]:
     → "Ready......GARBAGE!"
  14: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x002E [0x03] Work_Zone[1] = 1*
@@ -134,7 +134,7 @@
 SUBROUTINE_0082:
  17: 0x0082 [0x01] GOTO 0x00CA
  18: 0x0085 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00B5
- 19: 0x008D [0x24] CREATE_DIALOG(message_id=12815*, default_option=0*, option_flags=0*)
+ 19: 0x008D [0x24] CREATE_DIALOG(message_id=12816*, default_option=0*, option_flags=0*)
     → "Quit mission? [Yeah./No.]"
  20: 0x0094 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A6
@@ -144,7 +144,7 @@ SUBROUTINE_0082:
 SUBROUTINE_00B2:
  24: 0x00B2 [0x01] GOTO 0x00CA
  25: 0x00B5 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x00CA
- 26: 0x00BD [0x48] [System] [12823*]:
+ 26: 0x00BD [0x48] [System] [12824*]:
     → "You have met your quota. Good job, garbage [boy/chick]!"
  27: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00C1 [0x03] Work_Zone[1] = 9*

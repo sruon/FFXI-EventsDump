@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CE9      |        7401 |
-|       1 | 0x1CEA      |        7402 |
-|       2 | 0x1CEB      |        7403 |
-|       3 | 0x1CEC      |        7404 |
+|       0 | 0x1CEA      |        7402 |
+|       1 | 0x1CEB      |        7403 |
+|       2 | 0x1CEC      |        7404 |
+|       3 | 0x1CED      |        7405 |
 
 ## String References
 
-- **7401**: A tome written on the subject of Fei'Yin.
-- **7402**: "I would like to bring attention to the many small chambers that exist in the subterranean levels of the ruins of Fei'Yin."
-- **7403**: "In each of these chambers stands an automaton. A golem, or giant, if you will. Were these golems given the task of sentry, or simply employed as servants?"
-- **7404**: "It is possible to conclude from the artifacts discovered in these ruins that it was once the abode of an ancient people. One can further deduce from the evidence that this civilization was wiped out by some sudden calamity."
+- **7402**: A tome written on the subject of Fei'Yin.
+- **7403**: "I would like to bring attention to the many small chambers that exist in the subterranean levels of the ruins of Fei'Yin."
+- **7404**: "In each of these chambers stands an automaton. A golem, or giant, if you will. Were these golems given the task of sentry, or simply employed as servants?"
+- **7405**: "It is possible to conclude from the artifacts discovered in these ruins that it was once the abode of an ancient people. One can further deduce from the evidence that this civilization was wiped out by some sudden calamity."
 
 ## Events
 
@@ -76,16 +76,16 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
     → "A tome written on the subject of Fei'Yin."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
     → ""I would like to bring attention to the many small chambers that exist in the subterranean levels of the ruins of Fei'Yin.""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
     → ""In each of these chambers stands an automaton. A golem, or giant, if you will. Were these golems given the task of sentry, or simply employed as servants?""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
+  6: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7405*)
     → ""It is possible to conclude from the artifacts discovered in these ruins that it was once the abode of an ancient people. One can further deduce from the evidence that this civilization was wiped out by some sudden calamity.""
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0011 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

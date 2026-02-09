@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C42      |        7234 |
+|       0 | 0x1C43      |        7235 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0064      |         100 |
@@ -30,7 +30,7 @@
 
 ## String References
 
-- **7234**: Returning to entrance. [Sure./No thanks.]
+- **7235**: Returning to entrance. [Sure./No thanks.]
 
 ## Events
 
@@ -82,7 +82,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7235*, default_option=0*, option_flags=0*)
     → "Returning to entrance. [Sure./No thanks.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001B

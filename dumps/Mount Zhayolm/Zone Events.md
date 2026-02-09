@@ -85,7 +85,7 @@
 |       4 | 0x003C      |          60 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x00AA      |         170 |
-|       7 | 0x1D48      |        7496 |
+|       7 | 0x1D49      |        7497 |
 |       8 | 0x00C9      |         201 |
 |       9 | 0xA1221     |      660001 |
 |      10 | 0x506A1     |      329377 |
@@ -108,21 +108,21 @@
 |      27 | 0xFFFFB2DD  |  4294947549 |
 |      28 | 0x44CF7     |      281847 |
 |      29 | 0xFFFFE8A1  |  4294961313 |
-|      30 | 0x1CC8      |        7368 |
+|      30 | 0x1CC9      |        7369 |
 |      31 | 0x001B      |          27 |
 |      32 | 0x00FD      |         253 |
-|      33 | 0x1CC9      |        7369 |
-|      34 | 0x1CCA      |        7370 |
-|      35 | 0x1CCB      |        7371 |
-|      36 | 0x1CCC      |        7372 |
+|      33 | 0x1CCA      |        7370 |
+|      34 | 0x1CCB      |        7371 |
+|      35 | 0x1CCC      |        7372 |
+|      36 | 0x1CCD      |        7373 |
 |      37 | 0x0078      |         120 |
 |      38 | 0x00FE      |         254 |
-|      39 | 0x1CCD      |        7373 |
-|      40 | 0x1CCE      |        7374 |
+|      39 | 0x1CCE      |        7374 |
+|      40 | 0x1CCF      |        7375 |
 |      41 | 0x0003      |           3 |
-|      42 | 0x1CCF      |        7375 |
-|      43 | 0x1CD0      |        7376 |
-|      44 | 0x1CD1      |        7377 |
+|      42 | 0x1CD0      |        7376 |
+|      43 | 0x1CD1      |        7377 |
+|      44 | 0x1CD2      |        7378 |
 |      45 | 0xA4EF4     |      675572 |
 |      46 | 0x5989C     |      366748 |
 |      47 | 0xFFFFA248  |  4294943304 |
@@ -200,17 +200,17 @@
 
 ## String References
 
-- **7368**: Choose a picture to take.
-- **7369**: First scene.
-- **7370**: Second scene.
-- **7371**: Third scene.
-- **7372**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
-- **7373**: <Player> records the first scene.
-- **7374**: <Player> records the second scene.
-- **7375**: <Player> records the third scene.
-- **7376**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
-- **7377**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
-- **7496**: The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
+- **7369**: Choose a picture to take.
+- **7370**: First scene.
+- **7371**: Second scene.
+- **7372**: Third scene.
+- **7373**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+- **7374**: <Player> records the first scene.
+- **7375**: <Player> records the second scene.
+- **7376**: <Player> records the third scene.
+- **7377**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+- **7378**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+- **7497**: The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
 
 ## Events
 
@@ -338,7 +338,7 @@
 
 ```
   0: 0x0054 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0055 [0x48] [System] [7496*]:
+  1: 0x0055 [0x48] [System] [7497*]:
     → "The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!"
   2: 0x0058 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [EventEntity, EventEntity], work=[201*, 0*]
   3: 0x0069 [0x1C] WAIT(140* ticks)
@@ -736,7 +736,7 @@
 
 ```
   0: 0x013C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x013D [0x48] [System] [7368*]:
+  1: 0x013D [0x48] [System] [7369*]:
     → "Choose a picture to take."
   2: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0141 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -750,7 +750,7 @@
  11: 0x018A [0x1C] WAIT(60* ticks)
  12: 0x018D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x019E [0x1C] WAIT(60* ticks)
- 14: 0x01A1 [0x48] [System] [7369*]:
+ 14: 0x01A1 [0x48] [System] [7370*]:
     → "First scene."
  15: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x01A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -760,7 +760,7 @@
  20: 0x01E5 [0x1C] WAIT(60* ticks)
  21: 0x01E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x01F9 [0x1C] WAIT(60* ticks)
- 23: 0x01FC [0x48] [System] [7370*]:
+ 23: 0x01FC [0x48] [System] [7371*]:
     → "Second scene."
  24: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0200 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -770,10 +770,10 @@
  29: 0x0240 [0x1C] WAIT(60* ticks)
  30: 0x0243 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x0254 [0x1C] WAIT(60* ticks)
- 32: 0x0257 [0x48] [System] [7371*]:
+ 32: 0x0257 [0x48] [System] [7372*]:
     → "Third scene."
  33: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x025B [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=0*)
+ 34: 0x025B [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=0*)
     → "Which picture will you take? [Show me again./First scene./Second scene./Third scene.]"
  35: 0x0262 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0263 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x026E
@@ -788,7 +788,7 @@
  45: 0x02CA [0x1C] WAIT(120* ticks)
  46: 0x02CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  47: 0x02DE [0x1C] WAIT(120* ticks)
- 48: 0x02E1 [0x48] [System] [7373*]:
+ 48: 0x02E1 [0x48] [System] [7374*]:
     → "<Player> records the first scene."
  49: 0x02E4 [0x03] ExtData[1]->WorkLocal[0] = 1*
  50: 0x02E9 [0x03] Work_Zone[1] = 1*
@@ -803,7 +803,7 @@
  59: 0x034D [0x1C] WAIT(120* ticks)
  60: 0x0350 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  61: 0x0361 [0x1C] WAIT(120* ticks)
- 62: 0x0364 [0x48] [System] [7374*]:
+ 62: 0x0364 [0x48] [System] [7375*]:
     → "<Player> records the second scene."
  63: 0x0367 [0x03] ExtData[1]->WorkLocal[0] = 1*
  64: 0x036C [0x03] Work_Zone[1] = 2*
@@ -812,7 +812,7 @@
  67: 0x037C [0x1C] WAIT(120* ticks)
  68: 0x037F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  69: 0x0390 [0x1C] WAIT(120* ticks)
- 70: 0x0393 [0x48] [System] [7375*]:
+ 70: 0x0393 [0x48] [System] [7376*]:
     → "<Player> records the third scene."
  71: 0x0396 [0x03] ExtData[1]->WorkLocal[0] = 1*
  72: 0x039B [0x03] Work_Zone[1] = 3*
@@ -852,7 +852,7 @@ SUBROUTINE_03A3:
 #### Opcodes
 
 ```
-  0: 0x040B [0x48] [System] [7376*]:
+  0: 0x040B [0x48] [System] [7377*]:
     → "<Player> takes in the surrounding scenery. ...The view is breathtaking."
   1: 0x040E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x040F [0x21] END_EVENT
@@ -878,7 +878,7 @@ SUBROUTINE_03A3:
 #### Opcodes
 
 ```
-  0: 0x0411 [0x48] [System] [7377*]:
+  0: 0x0411 [0x48] [System] [7378*]:
     → "<Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture."
   1: 0x0414 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0415 [0x21] END_EVENT

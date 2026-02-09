@@ -67,14 +67,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E2B      |        7723 |
+|       0 | 0x1E2C      |        7724 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x005A      |          90 |
 |       5 | 0x003C      |          60 |
 |       6 | 0x00C9      |         201 |
-|       7 | 0x1F38      |        7992 |
+|       7 | 0x1F39      |        7993 |
 |       8 | 0x00EA      |         234 |
 |       9 | 0xFFFCF600  |  4294768128 |
 |      10 | 0x57FC2     |      360386 |
@@ -170,20 +170,20 @@
 |     100 | 0x0013      |          19 |
 |     101 | 0x0090      |         144 |
 |     102 | 0x00B4      |         180 |
-|     103 | 0x1D19      |        7449 |
-|     104 | 0x1D1A      |        7450 |
-|     105 | 0x1D1C      |        7452 |
-|     106 | 0x1D1D      |        7453 |
-|     107 | 0x1D1E      |        7454 |
-|     108 | 0x1D1F      |        7455 |
+|     103 | 0x1D1A      |        7450 |
+|     104 | 0x1D1B      |        7451 |
+|     105 | 0x1D1D      |        7453 |
+|     106 | 0x1D1E      |        7454 |
+|     107 | 0x1D1F      |        7455 |
+|     108 | 0x1D20      |        7456 |
 |     109 | 0x0102      |         258 |
 |     110 | 0x0202      |         514 |
 |     111 | 0x0156      |         342 |
 
 ## String References
 
-- **7723**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7992**: The sandworm swallows you whole!
+- **7724**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7993**: The sandworm swallows you whole!
 
 ## Events
 
@@ -257,7 +257,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7723*]:
+  1: 0x0003 [0x48] [System] [7724*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0017 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0033
@@ -296,7 +296,7 @@
 
 ```
   0: 0x0068 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0069 [0x48] [System] [7992*]:
+  1: 0x0069 [0x48] [System] [7993*]:
     → "The sandworm swallows you whole!"
   2: 0x006C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x007D [0x1C] WAIT(60* ticks)
@@ -1957,17 +1957,17 @@ SUBROUTINE_0BF7:
 
 SUBROUTINE_0BF8:
 109: 0x0BF8 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0C0B
-110: 0x0C00 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7449*]:
+110: 0x0C00 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7450*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x0C07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0C08 [0x01] GOTO 0x0C31
 113: 0x0C0B [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C1E
-114: 0x0C13 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7449*]:
+114: 0x0C13 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7450*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x0C1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0C1B [0x01] GOTO 0x0C31
 117: 0x0C1E [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0C31
-118: 0x0C26 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7449*]:
+118: 0x0C26 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7450*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x0C2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0C2E [0x01] GOTO 0x0C31
@@ -1977,17 +1977,17 @@ SUBROUTINE_0C31:
 
 SUBROUTINE_0C32:
 122: 0x0C32 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0C45
-123: 0x0C3A [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7450*]:
+123: 0x0C3A [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7451*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x0C41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0C42 [0x01] GOTO 0x0C6B
 126: 0x0C45 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C58
-127: 0x0C4D [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7450*]:
+127: 0x0C4D [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7451*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x0C54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0C55 [0x01] GOTO 0x0C6B
 130: 0x0C58 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0C6B
-131: 0x0C60 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7450*]:
+131: 0x0C60 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7451*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x0C67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0C68 [0x01] GOTO 0x0C6B
@@ -1997,17 +1997,17 @@ SUBROUTINE_0C6B:
 
 SUBROUTINE_0C6C:
 135: 0x0C6C [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0C7F
-136: 0x0C74 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7452*]:
+136: 0x0C74 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7453*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x0C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0C7C [0x01] GOTO 0x0CA5
 139: 0x0C7F [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C92
-140: 0x0C87 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7452*]:
+140: 0x0C87 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7453*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x0C8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0C8F [0x01] GOTO 0x0CA5
 143: 0x0C92 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0CA5
-144: 0x0C9A [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7452*]:
+144: 0x0C9A [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7453*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x0CA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0CA2 [0x01] GOTO 0x0CA5
@@ -2017,17 +2017,17 @@ SUBROUTINE_0CA5:
 
 SUBROUTINE_0CA6:
 148: 0x0CA6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0CB9
-149: 0x0CAE [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7453*]:
+149: 0x0CAE [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7454*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x0CB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0CB6 [0x01] GOTO 0x0CDF
 152: 0x0CB9 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0CCC
-153: 0x0CC1 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7453*]:
+153: 0x0CC1 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7454*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x0CC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0CC9 [0x01] GOTO 0x0CDF
 156: 0x0CCC [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0CDF
-157: 0x0CD4 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7453*]:
+157: 0x0CD4 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7454*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x0CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0CDC [0x01] GOTO 0x0CDF
@@ -2037,17 +2037,17 @@ SUBROUTINE_0CDF:
 
 SUBROUTINE_0CE0:
 161: 0x0CE0 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0CF3
-162: 0x0CE8 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7454*]:
+162: 0x0CE8 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7455*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x0CEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0CF0 [0x01] GOTO 0x0D19
 165: 0x0CF3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0D06
-166: 0x0CFB [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7454*]:
+166: 0x0CFB [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7455*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x0D02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0D03 [0x01] GOTO 0x0D19
 169: 0x0D06 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0D19
-170: 0x0D0E [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7454*]:
+170: 0x0D0E [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7455*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x0D15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x0D16 [0x01] GOTO 0x0D19
@@ -2057,17 +2057,17 @@ SUBROUTINE_0D19:
 
 SUBROUTINE_0D1A:
 174: 0x0D1A [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0D2D
-175: 0x0D22 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7455*]:
+175: 0x0D22 [0x2B] Hedioste, R.K. (ID: 17150718/0x0105B2FE) [7456*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x0D29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0D2A [0x01] GOTO 0x0D53
 178: 0x0D2D [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0D40
-179: 0x0D35 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7455*]:
+179: 0x0D35 [0x2B] Wayward Echo, L.C. (ID: 17150719/0x0105B2FF) [7456*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x0D3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0D3D [0x01] GOTO 0x0D53
 182: 0x0D40 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0D53
-183: 0x0D48 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7455*]:
+183: 0x0D48 [0x2B] Nori Kharoiro, M.C. (ID: 17150720/0x0105B300) [7456*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x0D4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0D50 [0x01] GOTO 0x0D53

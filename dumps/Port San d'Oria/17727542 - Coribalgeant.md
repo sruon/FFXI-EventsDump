@@ -21,16 +21,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1DF2      |        7666 |
+|       1 | 0x1DF3      |        7667 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1DF3      |        7667 |
-|       4 | 0x1DF4      |        7668 |
+|       3 | 0x1DF4      |        7668 |
+|       4 | 0x1DF5      |        7669 |
 
 ## String References
 
-- **7666**: The residential area is up these stairs. If you ask me, San d'Orians must cast aside the trappings of wealth.
-- **7667**: It's not knightly to sit on cushioned couches in gilt halls! No, we should sleep with the grass as our pillow, the dew our morning gown.
-- **7668**: Yet our kingdom supplies those fool Mog Houses for all! Moogles, or whatever they call those demons, have no place in a proper San d'Orian home.
+- **7667**: The residential area is up these stairs. If you ask me, San d'Orians must cast aside the trappings of wealth.
+- **7668**: It's not knightly to sit on cushioned couches in gilt halls! No, we should sleep with the grass as our pillow, the dew our morning gown.
+- **7669**: Yet our kingdom supplies those fool Mog Houses for all! Moogles, or whatever they call those demons, have no place in a proper San d'Orian home.
 
 ## Events
 
@@ -82,15 +82,15 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
     → "The residential area is up these stairs. If you ask me, San d'Orians must cast aside the trappings of wealth."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
     → "It's not knightly to sit on cushioned couches in gilt halls! No, we should sleep with the grass as our pillow, the dew our morning gown."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x1C] WAIT(30* ticks)
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
     → "Yet our kingdom supplies those fool Mog Houses for all! Moogles, or whatever they call those demons, have no place in a proper San d'Orian home."
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0029 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

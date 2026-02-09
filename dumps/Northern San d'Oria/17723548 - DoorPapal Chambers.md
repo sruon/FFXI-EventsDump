@@ -51,12 +51,12 @@
 |      20 | 0x007F      |         127 |
 |      21 | 0x0001      |           1 |
 |      22 | 0x0029      |          41 |
-|      23 | 0x3124      |       12580 |
-|      24 | 0x3127      |       12583 |
+|      23 | 0x3125      |       12581 |
+|      24 | 0x3128      |       12584 |
 |      25 | 0x0005      |           5 |
 |      26 | 0x0006      |           6 |
 |      27 | 0x0008      |           8 |
-|      28 | 0x3128      |       12584 |
+|      28 | 0x3129      |       12585 |
 |      29 | 0x0064      |         100 |
 |      30 | 0x006B      |         107 |
 |      31 | 0x012C      |         300 |
@@ -466,7 +466,7 @@
  52: 0x0241 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[41*, 0*]
  53: 0x0252 [0x27] REQ_SET(priority=0x0B, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x3C)
  54: 0x0259 [0x27] REQ_SET(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x4E)
- 55: 0x0260 [0x2B] Pieuje (ID: 17723395/0x010E7003) [12580*]:
+ 55: 0x0260 [0x2B] Pieuje (ID: 17723395/0x010E7003) [12581*]:
     → "Bold have they become of late. Some say their arm has reached as far as the Tomb of King Ranperre and Ordelle's Caves."
  56: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0268 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pieuje (ID: 17723395/0x010E7003))
@@ -491,7 +491,7 @@
  76: 0x0301 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x23)
  77: 0x0308 [0x79] Shamonde (ID: 17723408/0x010E7010) looks at Pieuje (ID: 17723395/0x010E7003) (Basic look)
  78: 0x0312 [0x79] Pieuje (ID: 17723395/0x010E7003) looks at Shamonde (ID: 17723408/0x010E7010) (Basic look)
- 79: 0x031C [0x2B] Pieuje (ID: 17723395/0x010E7003) [12583*]:
+ 79: 0x031C [0x2B] Pieuje (ID: 17723395/0x010E7003) [12584*]:
     → "No, it is all right, Your Holiness."
  80: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0324 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x24)
@@ -511,7 +511,7 @@ SUBROUTINE_039F:
  93: 0x039F [0x79] Pieuje (ID: 17723395/0x010E7003) looks at LocalPlayer (Basic look)
  94: 0x03A9 [0x79] LocalPlayer looks at Pieuje (ID: 17723395/0x010E7003) (Basic look)
  95: 0x03B3 [0x27] REQ_SET(priority=0x0B, entity_id=Pieuje (ID: 17723395/0x010E7003), tag_num=0x4F)
- 96: 0x03BA [0x2B] Pieuje (ID: 17723395/0x010E7003) [12584*]:
+ 96: 0x03BA [0x2B] Pieuje (ID: 17723395/0x010E7003) [12585*]:
     → "You came to deliver the report, yes? Well, let us see it."
  97: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x03C2 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pieuje (ID: 17723395/0x010E7003))

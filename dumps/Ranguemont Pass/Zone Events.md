@@ -53,9 +53,9 @@
 |      19 | 0x3362A     |      210474 |
 |      20 | 0xFFFF4F76  |  4294922102 |
 |      21 | 0x000F      |          15 |
-|      22 | 0x1CCA      |        7370 |
+|      22 | 0x1CCB      |        7371 |
 |      23 | 0x0096      |         150 |
-|      24 | 0x1CCB      |        7371 |
+|      24 | 0x1CCC      |        7372 |
 |      25 | 0x001E      |          30 |
 |      26 | 0xFFFBA9D1  |  4294683089 |
 |      27 | 0x33E25     |      212517 |
@@ -64,10 +64,10 @@
 |      30 | 0x0028      |          40 |
 |      31 | 0x003C      |          60 |
 |      32 | 0x00E4      |         228 |
-|      33 | 0x1CC8      |        7368 |
-|      34 | 0x1CCC      |        7372 |
-|      35 | 0x1CCD      |        7373 |
-|      36 | 0x1CCE      |        7374 |
+|      33 | 0x1CC9      |        7369 |
+|      34 | 0x1CCD      |        7373 |
+|      35 | 0x1CCE      |        7374 |
+|      36 | 0x1CCF      |        7375 |
 |      37 | 0x00C9      |         201 |
 |      38 | 0xFFFD361A  |  4294784538 |
 |      39 | 0xFFFD732A  |  4294800170 |
@@ -80,7 +80,7 @@
 
 ## String References
 
-- **7368**: Mertaire throws his bracelet into the Waters of Oblivion.
+- **7369**: Mertaire throws his bracelet into the Waters of Oblivion.
 
 ## Events
 
@@ -320,7 +320,7 @@ SUBROUTINE_0066:
  16: 0x0167 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  17: 0x0169 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  18: 0x016A [0x1C] WAIT(15* ticks)
- 19: 0x016D [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7370*]:
+ 19: 0x016D [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7371*]:
     → "Wait."
  20: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0175 [0x4E] SET_ENTITY_HIDE_FLAG: Show Mertaire (ID: 17457348/0x010A60C4)
@@ -330,7 +330,7 @@ SUBROUTINE_0066:
  25: 0x018E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t00b" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
  26: 0x019F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Mertaire (ID: 17457348/0x010A60C4))
  27: 0x01A5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t00b" with entities [LocalPlayer, LocalPlayer], work=208*
- 28: 0x01B4 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7371*]:
+ 28: 0x01B4 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7372*]:
     → "I changed my mind. Please, let me throw it in myself."
  29: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x01BC [0x1C] WAIT(30* ticks)
@@ -368,14 +368,14 @@ SUBROUTINE_0066:
  62: 0x02B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t010" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
  63: 0x02C8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t010" with entities [LocalPlayer, LocalPlayer], work=208*
  64: 0x02D7 [0x03] Work_Zone[2] = 228*
- 65: 0x02DC [0x48] [System] [7368*]:
+ 65: 0x02DC [0x48] [System] [7369*]:
     → "Mertaire throws his bracelet into the Waters of Oblivion."
  66: 0x02DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x02E0 [0x4A] LocalPlayer looks at Mertaire (ID: 17457348/0x010A60C4)
  68: 0x02E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Mertaire (ID: 17457348/0x010A60C4), Mertaire (ID: 17457348/0x010A60C4)], work=9*
  69: 0x02F8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [Mertaire (ID: 17457348/0x010A60C4), Mertaire (ID: 17457348/0x010A60C4)]
  70: 0x0305 [0x1C] WAIT(60* ticks)
- 71: 0x0308 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7372*]:
+ 71: 0x0308 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7373*]:
     → "Ten... No, a hundred years from now, if the bracelet is ever found, what will cross their minds? Could it be true that the memories of past owners reside within such things?"
  72: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0310 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t00c" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
@@ -384,10 +384,10 @@ SUBROUTINE_0066:
  76: 0x0339 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  77: 0x033A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Mertaire (ID: 17457348/0x010A60C4) Render.Flags0 and Render.Flags3 conditions are met
  78: 0x033F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t00d" with entities [LocalPlayer, LocalPlayer], work=[208*, 0*]
- 79: 0x0350 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7373*]:
+ 79: 0x0350 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7374*]:
     → "And when I think how we may yet find such a thing, recovering memories buried under the flow of time, it seems sad."
  80: 0x0357 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0358 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7374*]:
+ 81: 0x0358 [0x2B] Mertaire (ID: 17457348/0x010A60C4) [7375*]:
     → "Thank you for helping me. Everything seems much clearer now. Here, take this."
  82: 0x035F [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0360 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Mertaire (ID: 17457348/0x010A60C4), Mertaire (ID: 17457348/0x010A60C4)], work=0*

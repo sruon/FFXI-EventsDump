@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1FA9      |        8105 |
-|       2 | 0x1FAA      |        8106 |
+|       1 | 0x1FAA      |        8106 |
+|       2 | 0x1FAB      |        8107 |
 
 ## String References
 
-- **8105**: These vegetables don't satiate my hungerrr...what I really want are some good fish!
-- **8106**: Lucky for me there are some good fishing spots right around the Arrrboretum.
+- **8106**: These vegetables don't satiate my hungerrr...what I really want are some good fish!
+- **8107**: Lucky for me there are some good fishing spots right around the Arrrboretum.
 
 ## Events
 
@@ -78,10 +78,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
     → "These vegetables don't satiate my hungerrr...what I really want are some good fish!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
     → "Lucky for me there are some good fishing spots right around the Arrrboretum."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*

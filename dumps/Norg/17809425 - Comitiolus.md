@@ -40,11 +40,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x286E      |       10350 |
-|       1 | 0x286F      |       10351 |
+|       0 | 0x286F      |       10351 |
+|       1 | 0x2870      |       10352 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2B31      |       11057 |
-|       4 | 0x2B32      |       11058 |
+|       3 | 0x2B32      |       11058 |
+|       4 | 0x2B33      |       11059 |
 |       5 | 0x18513     |       99603 |
 |       6 | 0xFFFFC9F1  |  4294953457 |
 |       7 | 0xFFFFE452  |  4294960210 |
@@ -55,8 +55,8 @@
 |      12 | 0x1000      |        4096 |
 |      13 | 0x1A46F     |      107631 |
 |      14 | 0xFFFFD11A  |  4294955290 |
-|      15 | 0x2B5A      |       11098 |
-|      16 | 0x2B5B      |       11099 |
+|      15 | 0x2B5B      |       11099 |
+|      16 | 0x2B5C      |       11100 |
 |      17 | 0x000A      |          10 |
 |      18 | 0x0014      |          20 |
 |      19 | 0x001E      |          30 |
@@ -67,27 +67,27 @@
 |      24 | 0x0050      |          80 |
 |      25 | 0x00EE      |         238 |
 |      26 | 0x0236      |         566 |
-|      27 | 0x2C02      |       11266 |
-|      28 | 0x2C03      |       11267 |
-|      29 | 0x3145      |       12613 |
-|      30 | 0x3146      |       12614 |
-|      31 | 0x31BA      |       12730 |
-|      32 | 0x31BB      |       12731 |
+|      27 | 0x2C03      |       11267 |
+|      28 | 0x2C04      |       11268 |
+|      29 | 0x3146      |       12614 |
+|      30 | 0x3147      |       12615 |
+|      31 | 0x31BB      |       12731 |
+|      32 | 0x31BC      |       12732 |
 
 ## String References
 
-- **10350**: This door leads to the quarters of our leader, Gilgamesh. He doesn't waste his time with landlubbin' worms like you, so get out of my face before I give ya a personal tour of Davy Jones' locker.
-- **10351**: So you're the adventurer they call <Player>. I've heard about you from our leader. You can pass, but you'd best watch your mouth around him, or you'll be swimmin' with the fishes.
-- **11057**: You wanna talk to old Kamui? He doesn't have time to swap fishin' tales with every adventurer that wanders in from the jungle. Take a number, buddy.
-- **11058**: You wanna talk with old Kamui? I've got orders that he's not to be disturbed. Come back some other time.
-- **11098**: That Tarutaru you came with, he's an adventurer for the Rhinostery, right?
-- **11099**: He said somethin' about visiting a tower in Beaucedine. If they're lookin' to research the treasure that's supposed to be there, they're wastin' their time. It was stolen and sold off years ago.
-- **11266**: I've not seen the boss with that look on his face fer a while. I mean, we all be happy as a buccaneer in a parrot shop to have Lion back, but there's somethin' else he's not tellin' us...
-- **11267**: Arrg! Forget I even said anythin'! The boss is jus' busy, that's all. Make yer meetin' fer another day!
-- **12613**: Ol' sea dog, have ya heard anythin' 'bout where this stoic warrior guy "Tenzen" is?
-- **12614**: 'Fraid I can't let ya see our leader until he comes along, what with all this Escha hullabaloo goin' on.
-- **12730**: I dun know if Prishe 'n Tenzen are out swabbin' the decks, but they sure ain't here.
-- **12731**: The boss can't do a damned thing without th' two of 'em, so ya might wanna come back a bit later.
+- **10351**: This door leads to the quarters of our leader, Gilgamesh. He doesn't waste his time with landlubbin' worms like you, so get out of my face before I give ya a personal tour of Davy Jones' locker.
+- **10352**: So you're the adventurer they call <Player>. I've heard about you from our leader. You can pass, but you'd best watch your mouth around him, or you'll be swimmin' with the fishes.
+- **11058**: You wanna talk to old Kamui? He doesn't have time to swap fishin' tales with every adventurer that wanders in from the jungle. Take a number, buddy.
+- **11059**: You wanna talk with old Kamui? I've got orders that he's not to be disturbed. Come back some other time.
+- **11099**: That Tarutaru you came with, he's an adventurer for the Rhinostery, right?
+- **11100**: He said somethin' about visiting a tower in Beaucedine. If they're lookin' to research the treasure that's supposed to be there, they're wastin' their time. It was stolen and sold off years ago.
+- **11267**: I've not seen the boss with that look on his face fer a while. I mean, we all be happy as a buccaneer in a parrot shop to have Lion back, but there's somethin' else he's not tellin' us...
+- **11268**: Arrg! Forget I even said anythin'! The boss is jus' busy, that's all. Make yer meetin' fer another day!
+- **12614**: Ol' sea dog, have ya heard anythin' 'bout where this stoic warrior guy "Tenzen" is?
+- **12615**: 'Fraid I can't let ya see our leader until he comes along, what with all this Escha hullabaloo goin' on.
+- **12731**: I dun know if Prishe 'n Tenzen are out swabbin' the decks, but they sure ain't here.
+- **12732**: The boss can't do a damned thing without th' two of 'em, so ya might wanna come back a bit later.
 
 ## Events
 
@@ -156,7 +156,7 @@
 ```
   0: 0x0002 [0x1A] CALL_SUBROUTINE(address=0x0086)
   1: 0x0005 [0x1A] CALL_SUBROUTINE(address=0x0094)
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10350*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10351*)
     → "This door leads to the quarters of our leader, Gilgamesh. He doesn't waste his time with landlubbin' worms like you, so get out of my face before I give ya a personal tour of Davy Jones' locker."
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000C [0x21] END_EVENT
@@ -185,7 +185,7 @@
 ```
   0: 0x000E [0x1A] CALL_SUBROUTINE(address=0x0086)
   1: 0x0011 [0x1A] CALL_SUBROUTINE(address=0x0094)
-  2: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10351*)
+  2: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10352*)
     → "So you're the adventurer they call <Player>. I've heard about you from our leader. You can pass, but you'd best watch your mouth around him, or you'll be swimmin' with the fishes."
   3: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0018 [0x21] END_EVENT
@@ -370,11 +370,11 @@
   1: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0028 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0037
-  4: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=11057*)
+  4: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=11058*)
     → "You wanna talk to old Kamui? He doesn't have time to swap fishin' tales with every adventurer that wanders in from the jungle. Take a number, buddy."
   5: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0034 [0x01] GOTO 0x003B
-  7: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11058*)
+  7: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11059*)
     → "You wanna talk with old Kamui? I've got orders that he's not to be disturbed. Come back some other time."
   8: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -522,10 +522,10 @@ SUBROUTINE_003B:
   0: 0x0073 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0078 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0079 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=11098*)
+  3: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=11099*)
     → "That Tarutaru you came with, he's an adventurer for the Rhinostery, right?"
   4: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=11099*)
+  5: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=11100*)
     → "He said somethin' about visiting a tower in Beaucedine. If they're lookin' to research the treasure that's supposed to be there, they're wastin' their time. It was stolen and sold off years ago."
   6: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0082 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -614,11 +614,11 @@ SUBROUTINE_003B:
 ```
   0: 0x0165 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0166 [0x1A] CALL_SUBROUTINE(address=0x0086)
-  2: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=11266*)
+  2: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
     → "I've not seen the boss with that look on his face fer a while. I mean, we all be happy as a buccaneer in a parrot shop to have Lion back, but there's somethin' else he's not tellin' us..."
   3: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x016D [0x1A] CALL_SUBROUTINE(address=0x0094)
-  5: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11267*)
+  5: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11268*)
     → "Arrg! Forget I even said anythin'! The boss is jus' busy, that's all. Make yer meetin' fer another day!"
   6: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0174 [0x21] END_EVENT
@@ -671,10 +671,10 @@ SUBROUTINE_003B:
   0: 0x0177 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x017C [0x1C] WAIT(30* ticks)
   2: 0x017F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Comitiolus (ID: 17809425/0x010FC011), Comitiolus (ID: 17809425/0x010FC011)], work=0*
-  3: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=12613*)
+  3: 0x018E [0x1D] PRINT_EVENT_MESSAGE(message_id=12614*)
     → "Ol' sea dog, have ya heard anythin' 'bout where this stoic warrior guy "Tenzen" is?"
   4: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=12614*)
+  5: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=12615*)
     → "'Fraid I can't let ya see our leader until he comes along, what with all this Escha hullabaloo goin' on."
   6: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0196 [0x21] END_EVENT
@@ -705,10 +705,10 @@ SUBROUTINE_003B:
   0: 0x0198 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x019D [0x1C] WAIT(30* ticks)
   2: 0x01A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Comitiolus (ID: 17809425/0x010FC011), Comitiolus (ID: 17809425/0x010FC011)], work=0*
-  3: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12730*)
+  3: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12731*)
     → "I dun know if Prishe 'n Tenzen are out swabbin' the decks, but they sure ain't here."
   4: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12731*)
+  5: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12732*)
     → "The boss can't do a damned thing without th' two of 'em, so ya might wanna come back a bit later."
   6: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01B7 [0x21] END_EVENT

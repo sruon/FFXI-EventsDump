@@ -23,71 +23,71 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B91      |       11153 |
-|       1 | 0x2B93      |       11155 |
+|       0 | 0x2B92      |       11154 |
+|       1 | 0x2B94      |       11156 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0004      |           4 |
-|       4 | 0x2B94      |       11156 |
-|       5 | 0x2B95      |       11157 |
-|       6 | 0x2B96      |       11158 |
-|       7 | 0x2B97      |       11159 |
-|       8 | 0x2B98      |       11160 |
-|       9 | 0x2B99      |       11161 |
+|       4 | 0x2B95      |       11157 |
+|       5 | 0x2B96      |       11158 |
+|       6 | 0x2B97      |       11159 |
+|       7 | 0x2B98      |       11160 |
+|       8 | 0x2B99      |       11161 |
+|       9 | 0x2B9A      |       11162 |
 |      10 | 0x0001      |           1 |
 |      11 | 0x0002      |           2 |
 |      12 | 0x0003      |           3 |
-|      13 | 0x2B9B      |       11163 |
-|      14 | 0x2B9A      |       11162 |
-|      15 | 0x2B9E      |       11166 |
-|      16 | 0x2B9F      |       11167 |
+|      13 | 0x2B9C      |       11164 |
+|      14 | 0x2B9B      |       11163 |
+|      15 | 0x2B9F      |       11167 |
+|      16 | 0x2BA0      |       11168 |
 |      17 | 0xFFFFFFFF  |  4294967295 |
-|      18 | 0x2BA0      |       11168 |
-|      19 | 0x2BA1      |       11169 |
-|      20 | 0x2BA2      |       11170 |
-|      21 | 0x2BAB      |       11179 |
-|      22 | 0x2BAC      |       11180 |
+|      18 | 0x2BA1      |       11169 |
+|      19 | 0x2BA2      |       11170 |
+|      20 | 0x2BA3      |       11171 |
+|      21 | 0x2BAC      |       11180 |
+|      22 | 0x2BAD      |       11181 |
 |      23 | 0x001F      |          31 |
-|      24 | 0x2BA3      |       11171 |
-|      25 | 0x2BA4      |       11172 |
-|      26 | 0x2BA5      |       11173 |
-|      27 | 0x2BA6      |       11174 |
+|      24 | 0x2BA4      |       11172 |
+|      25 | 0x2BA5      |       11173 |
+|      26 | 0x2BA6      |       11174 |
+|      27 | 0x2BA7      |       11175 |
 |      28 | 0x0005      |           5 |
-|      29 | 0x2BA7      |       11175 |
-|      30 | 0x2BAD      |       11181 |
-|      31 | 0x2BAE      |       11182 |
-|      32 | 0x2BAF      |       11183 |
-|      33 | 0x2BB0      |       11184 |
-|      34 | 0x2BB1      |       11185 |
+|      29 | 0x2BA8      |       11176 |
+|      30 | 0x2BAE      |       11182 |
+|      31 | 0x2BAF      |       11183 |
+|      32 | 0x2BB0      |       11184 |
+|      33 | 0x2BB1      |       11185 |
+|      34 | 0x2BB2      |       11186 |
 |      35 | 0x0020      |          32 |
-|      36 | 0x2BB2      |       11186 |
-|      37 | 0x2BBA      |       11194 |
-|      38 | 0x2BB3      |       11187 |
-|      39 | 0x2BB4      |       11188 |
-|      40 | 0x2BB5      |       11189 |
-|      41 | 0x2BB6      |       11190 |
+|      36 | 0x2BB3      |       11187 |
+|      37 | 0x2BBB      |       11195 |
+|      38 | 0x2BB4      |       11188 |
+|      39 | 0x2BB5      |       11189 |
+|      40 | 0x2BB6      |       11190 |
+|      41 | 0x2BB7      |       11191 |
 |      42 | 0x0006      |           6 |
-|      43 | 0x2BB8      |       11192 |
+|      43 | 0x2BB9      |       11193 |
 |      44 | 0x0007      |           7 |
-|      45 | 0x2BB9      |       11193 |
-|      46 | 0x2BBB      |       11195 |
-|      47 | 0x2BBC      |       11196 |
-|      48 | 0x2BBD      |       11197 |
-|      49 | 0x2BBE      |       11198 |
-|      50 | 0x2BBF      |       11199 |
-|      51 | 0x2BC0      |       11200 |
-|      52 | 0x2BC8      |       11208 |
-|      53 | 0x2BC1      |       11201 |
-|      54 | 0x2BC2      |       11202 |
-|      55 | 0x2BC3      |       11203 |
-|      56 | 0x2BC4      |       11204 |
-|      57 | 0x2BC5      |       11205 |
-|      58 | 0x2BC6      |       11206 |
-|      59 | 0x2BC7      |       11207 |
-|      60 | 0x2BC9      |       11209 |
-|      61 | 0x2BCA      |       11210 |
-|      62 | 0x2B9C      |       11164 |
-|      63 | 0x2B9D      |       11165 |
-|      64 | 0x2BCC      |       11212 |
+|      45 | 0x2BBA      |       11194 |
+|      46 | 0x2BBC      |       11196 |
+|      47 | 0x2BBD      |       11197 |
+|      48 | 0x2BBE      |       11198 |
+|      49 | 0x2BBF      |       11199 |
+|      50 | 0x2BC0      |       11200 |
+|      51 | 0x2BC1      |       11201 |
+|      52 | 0x2BC9      |       11209 |
+|      53 | 0x2BC2      |       11202 |
+|      54 | 0x2BC3      |       11203 |
+|      55 | 0x2BC4      |       11204 |
+|      56 | 0x2BC5      |       11205 |
+|      57 | 0x2BC6      |       11206 |
+|      58 | 0x2BC7      |       11207 |
+|      59 | 0x2BC8      |       11208 |
+|      60 | 0x2BCA      |       11210 |
+|      61 | 0x2BCB      |       11211 |
+|      62 | 0x2B9D      |       11165 |
+|      63 | 0x2B9E      |       11166 |
+|      64 | 0x2BCD      |       11213 |
 |      65 | 0x0009      |           9 |
 |      66 | 0x0008      |           8 |
 |      67 | 0x000B      |          11 |
@@ -100,20 +100,20 @@
 |      74 | 0x0018      |          24 |
 |      75 | 0x001B      |          27 |
 |      76 | 0x001C      |          28 |
-|      77 | 0x2BD0      |       11216 |
+|      77 | 0x2BD1      |       11217 |
 |      78 | 0x000A      |          10 |
 |      79 | 0x000D      |          13 |
 |      80 | 0x000E      |          14 |
 |      81 | 0x0011      |          17 |
 |      82 | 0x0012      |          18 |
-|      83 | 0x2BD1      |       11217 |
-|      84 | 0x2BD2      |       11218 |
-|      85 | 0x2BD5      |       11221 |
-|      86 | 0x2BCD      |       11213 |
-|      87 | 0x2BCE      |       11214 |
-|      88 | 0x2BCF      |       11215 |
-|      89 | 0x2BD3      |       11219 |
-|      90 | 0x2BD4      |       11220 |
+|      83 | 0x2BD2      |       11218 |
+|      84 | 0x2BD3      |       11219 |
+|      85 | 0x2BD6      |       11222 |
+|      86 | 0x2BCE      |       11214 |
+|      87 | 0x2BCF      |       11215 |
+|      88 | 0x2BD0      |       11216 |
+|      89 | 0x2BD4      |       11220 |
+|      90 | 0x2BD5      |       11221 |
 |      91 | 0x0015      |          21 |
 |      92 | 0x0016      |          22 |
 |      93 | 0x0019      |          25 |
@@ -121,69 +121,69 @@
 
 ## String References
 
-- **11153**: Greetings, I am Curate Palardaifaut, and I have been assigned to the Knights of the Iron Ram to ensure that its members stray not from the path of the Goddess.
-- **11155**: One of my many duties entails lending an ear to the grievances of my brave brothers and sisters.
-- **11156**: Might there be something troubling you, <Player>?
-- **11157**: I have an opinion regarding: [Privacy issues./Our commanders./Our battle strategies./Our internal policies./Nothing.]
-- **11158**: Worry not, my child. Your name will be revealed to no one.
-- **11159**: Feel free to express whatever feelings you may have, without fear of future reprisal.
-- **11160**: However, this does not necessarily guarantee your wishes will be granted.
-- **11161**: While the royaulais makes it a point to consider the opinions of his subjects, the final decision regarding whether or not to implement a new course of action lies solely with His Highness.
-- **11162**: I see... I have recorded your words and shall present them to the royaulais himself.
-- **11163**: Understood. However, if you ever wish to make your voice heard, speak with me.
-- **11164**: "And should a shroud of darkness veil the Light of dawn, the undying hope in mine heart would guideth me through the abyss to the Promised--"
-- **11165**: Ah, my apologies, wayward lamb, but I have not yet finished my daily prayer. Please, allow me to concentrate, lest I offend the Goddess with wildering driveling.
-- **11166**: Ah, our fine generals.
-- **11167**: A leader of men is only as strong as the trust placed upon him by his followers. His Majesty would do well to know who among his commanders has earned the respect of the people.
-- **11168**: <Player>, tell me which general you believe the most competent.
-- **11169**: Who would you follow to death? [Royal Guard General Davilles./Royal Knight General Cousseraux./Temple Knight General Brunnaut./Provincial Knight General Rouhent./Provincial Knight General Virgaut./Reserve Knight General Leonoyne./I require more time to consider.]
-- **11170**: Ah, Valaineral R Davilles, heir to the Davilles line. Known by many for his warm personality, this master of the blade is said to transform into a beast when on the battlefield.
-- **11171**: Ah, Lord Yrvaulair S Cousseraux--the years have taken little from this expert tactician. Specializing in sieges, the brave general excels when faced with a fortress in need of breaching.
-- **11172**: Ah, Cardinal Febrenard C Brunnaut... Striving hard day and night to maintain peace within the walls of the capital. While the youngest of our nation's generals, he is often the most composed.
-- **11173**: Ah, Lord Rouhent of the Knights of Norvallen--a hero amongst men, known for putting the needs of his knights before all else. Missions of reprovisioning are among his specialties.
-- **11174**: Ah, Lady Virgaut of the Knights of Aragoneu. Let not her pulchritudinous visage fool you, for she is perhaps one of the finest generals in the Kingdom. Her scouts' ability to gather intelligence on the enemy, combined with her ability to apply that knowledge to constructing precise battle tactics, is known across Vana'diel.
-- **11175**: Ah, Sir Leonoyne of the Knights of the Savage Hound--a cold-blooded warrior who earned his nobility after a showing of unmatched bravery on the battlefield. Highly regarded by the royaulais, his ruthless methods strike fear into those beastmen who dare challenge his knights.
-- **11179**: He is... [The best we have!/...]
-- **11180**: Interesting...
-- **11181**: Wait one moment...
-- **11182**: I seem to recall you recently stating [Royal Guard General Davilles/Royal Knight General Cousseraux/Temple Knight General Brunnaut/General Feldrautte I Rouhent/General Cerane I Virgaut/Reserve Knight General Leonoyne] was our most reliant leader.
-- **11183**: So you feel there may be something amiss with our nation's current battle strategy.
-- **11184**: Which path do you feel would benefit us most?
-- **11185**: Which do you suggest? [A preemptive strike./Diversionary tactics./Battleline preservation./Stronghold defenses./Troop conditioning./Troop training./Reconnaissance./Sabotage./Nothing.]
-- **11186**: Quite an aggressive tactic... On the other hand, a preemptive strike can be the quickest way to bring new regions under San d'Orian control, even if it results in heavier losses.
-- **11187**: Quite a devious tactic... Deploying a small unit of elite forces to distract the enemy while another cuts off vital supply lines... Brilliant!
-- **11188**: Ah, a wise tactic... Reinforce defenses in order to maintain battlelines, thus gradually draining the enemy of its influence.
-- **11189**: Ah, a sound tactic... Reinforce stronghold defenses in order to prevent enemy ambushes and stabilize supply routes.
-- **11190**: No matter how wise a commander, if his troops are not ready for battle, defeat will always be lurking close behind.
-- **11192**: Ah, a fine tactic... A great man once said, "Know thine enemy, know thyself." The more intelligence we have on the hordes, the easier our future campaigns become.
-- **11193**: Quite a perilous tactic... However, if a special unit is able to infiltrate our enemies' strongholds undetected and succeed in planting their tools of destruction, the tides of battle would most definitely turn in our favor.
-- **11194**: Is this what you recommend? [Absolutely!/On second thought...]
-- **11195**: It was not but a few days heretofore that you suggested a quite interesting tactic...
-- **11196**: If I am not mistaken, I believe you proposed [a preemptive strike/diversionary tactics/battleline preservation/stronghold fortification/troop conditioning/troop training/reconnaissance/sabotage].
-- **11197**: So you care to comment on our nation's inner workings...
-- **11198**: Which do you believe the most apt course?
-- **11199**: There are so many choices... [Resource procurement./Military supply procurement./Logistics./Stronghold outfitting./Weapons production./Weapons development./Public security./Stronghold fortification./I require more time to consider.]
-- **11200**: Interesting... Preparing for an extended campaign through the acquisition of large quantities of resources...
-- **11201**: It is true. I do not recall an army that was successful without first obtaining sufficient quantities of supplies.
-- **11202**: Supplies are worthless if they do not arrive to their intended destination safely. By fortifying the routes, our nation's defenses can only become stronger.
-- **11203**: Stabilizing the flow of supplies to our strongholds will more than likely help improve our basic defenses.
-- **11204**: An unarmed man has as much value to the Kingdom as do the rabbits that prance about the king's holt. Improved management of the capital's guilds will ensure our knights have steel in their hands.
-- **11205**: An intriguing suggestion... With improved weapons, our forces will be even more formidable on the battlefield.
-- **11206**: I could not agree more. A nation is only as strong as the people she protects. Even during...no, especially during times of war, maintaining the safety of San d'Oria's citizens should come before all else.
-- **11207**: Ah, so you seek the realization of a mighty fortress, impenetrable to all those foolish enough to attempt a siege. A sound suggestion, I may say.
-- **11208**: Shall I record your opinion? [Yes./No.]
-- **11209**: I believe I recently recorded your opinion in my ledgers...
-- **11210**: Yes, it says here you believe our nation should concentrate its efforts on [the procurement of resources/the procurement of additional military supplies/improving logistics/better outfitting our strongholds/increased weapons production/advanced weapons development/improving public security/additional stronghold fortifications].
-- **11212**: Choose! [Reset answers./Suggestion data./Vote data./Quit.]
-- **11213**: Answers RESET!
-- **11214**: Randomize? [Yes./No.]
-- **11215**: Randomization complete.
-- **11216**: Select area to change: [Randomize./Clear results./$26Battle Strategies$26/@Preemptive strike: $0/@Battleline preservation: $1/@Diversionary tactics: $2/@Stronghold reinforcement: $3/@Reconnaissance: $4/@Sabotage: $5/@Troop conditioning: $6/@Troop training: $7/$26Internal Strategies$26/@Resource procurement: $8/@Military supplies: $9/@Logistics: $10/@Stronghold outfitting: $11/@Public security: $12/@Fortification: $13/@Weapons production: $14/@Weapons development: $15/$26Generals$26/General A: $16/General B: $17/General C: $18/General D: $19/General E: $20/General F: $21/Quit.]
-- **11217**: Select Value: [0 (Low)/1""/4/5/6/7/8/9/10 (High)/Quit.]
-- **11218**: [Preemptive strike/Battleline preservation/Diversionary tactics/Stronghold reinforcement/Reconnaissance/Sabotage/Troop conditioning/Troop training/Resource procurement/Military supplies/Logistics/Stronghold outfitting/Public security/Stronghold fortification/Weapons production/Weapons development/General A/General B/General C/General D/General E/General F] set to $1.
-- **11219**: Are you sure? [Yeah./No.]
-- **11220**: All cleared!
-- **11221**: Error! ($0j
+- **11154**: Greetings, I am Curate Palardaifaut, and I have been assigned to the Knights of the Iron Ram to ensure that its members stray not from the path of the Goddess.
+- **11156**: One of my many duties entails lending an ear to the grievances of my brave brothers and sisters.
+- **11157**: Might there be something troubling you, <Player>?
+- **11158**: I have an opinion regarding: [Privacy issues./Our commanders./Our battle strategies./Our internal policies./Nothing.]
+- **11159**: Worry not, my child. Your name will be revealed to no one.
+- **11160**: Feel free to express whatever feelings you may have, without fear of future reprisal.
+- **11161**: However, this does not necessarily guarantee your wishes will be granted.
+- **11162**: While the royaulais makes it a point to consider the opinions of his subjects, the final decision regarding whether or not to implement a new course of action lies solely with His Highness.
+- **11163**: I see... I have recorded your words and shall present them to the royaulais himself.
+- **11164**: Understood. However, if you ever wish to make your voice heard, speak with me.
+- **11165**: "And should a shroud of darkness veil the Light of dawn, the undying hope in mine heart would guideth me through the abyss to the Promised--"
+- **11166**: Ah, my apologies, wayward lamb, but I have not yet finished my daily prayer. Please, allow me to concentrate, lest I offend the Goddess with wildering driveling.
+- **11167**: Ah, our fine generals.
+- **11168**: A leader of men is only as strong as the trust placed upon him by his followers. His Majesty would do well to know who among his commanders has earned the respect of the people.
+- **11169**: <Player>, tell me which general you believe the most competent.
+- **11170**: Who would you follow to death? [Royal Guard General Davilles./Royal Knight General Cousseraux./Temple Knight General Brunnaut./Provincial Knight General Rouhent./Provincial Knight General Virgaut./Reserve Knight General Leonoyne./I require more time to consider.]
+- **11171**: Ah, Valaineral R Davilles, heir to the Davilles line. Known by many for his warm personality, this master of the blade is said to transform into a beast when on the battlefield.
+- **11172**: Ah, Lord Yrvaulair S Cousseraux--the years have taken little from this expert tactician. Specializing in sieges, the brave general excels when faced with a fortress in need of breaching.
+- **11173**: Ah, Cardinal Febrenard C Brunnaut... Striving hard day and night to maintain peace within the walls of the capital. While the youngest of our nation's generals, he is often the most composed.
+- **11174**: Ah, Lord Rouhent of the Knights of Norvallen--a hero amongst men, known for putting the needs of his knights before all else. Missions of reprovisioning are among his specialties.
+- **11175**: Ah, Lady Virgaut of the Knights of Aragoneu. Let not her pulchritudinous visage fool you, for she is perhaps one of the finest generals in the Kingdom. Her scouts' ability to gather intelligence on the enemy, combined with her ability to apply that knowledge to constructing precise battle tactics, is known across Vana'diel.
+- **11176**: Ah, Sir Leonoyne of the Knights of the Savage Hound--a cold-blooded warrior who earned his nobility after a showing of unmatched bravery on the battlefield. Highly regarded by the royaulais, his ruthless methods strike fear into those beastmen who dare challenge his knights.
+- **11180**: He is... [The best we have!/...]
+- **11181**: Interesting...
+- **11182**: Wait one moment...
+- **11183**: I seem to recall you recently stating [Royal Guard General Davilles/Royal Knight General Cousseraux/Temple Knight General Brunnaut/General Feldrautte I Rouhent/General Cerane I Virgaut/Reserve Knight General Leonoyne] was our most reliant leader.
+- **11184**: So you feel there may be something amiss with our nation's current battle strategy.
+- **11185**: Which path do you feel would benefit us most?
+- **11186**: Which do you suggest? [A preemptive strike./Diversionary tactics./Battleline preservation./Stronghold defenses./Troop conditioning./Troop training./Reconnaissance./Sabotage./Nothing.]
+- **11187**: Quite an aggressive tactic... On the other hand, a preemptive strike can be the quickest way to bring new regions under San d'Orian control, even if it results in heavier losses.
+- **11188**: Quite a devious tactic... Deploying a small unit of elite forces to distract the enemy while another cuts off vital supply lines... Brilliant!
+- **11189**: Ah, a wise tactic... Reinforce defenses in order to maintain battlelines, thus gradually draining the enemy of its influence.
+- **11190**: Ah, a sound tactic... Reinforce stronghold defenses in order to prevent enemy ambushes and stabilize supply routes.
+- **11191**: No matter how wise a commander, if his troops are not ready for battle, defeat will always be lurking close behind.
+- **11193**: Ah, a fine tactic... A great man once said, "Know thine enemy, know thyself." The more intelligence we have on the hordes, the easier our future campaigns become.
+- **11194**: Quite a perilous tactic... However, if a special unit is able to infiltrate our enemies' strongholds undetected and succeed in planting their tools of destruction, the tides of battle would most definitely turn in our favor.
+- **11195**: Is this what you recommend? [Absolutely!/On second thought...]
+- **11196**: It was not but a few days heretofore that you suggested a quite interesting tactic...
+- **11197**: If I am not mistaken, I believe you proposed [a preemptive strike/diversionary tactics/battleline preservation/stronghold fortification/troop conditioning/troop training/reconnaissance/sabotage].
+- **11198**: So you care to comment on our nation's inner workings...
+- **11199**: Which do you believe the most apt course?
+- **11200**: There are so many choices... [Resource procurement./Military supply procurement./Logistics./Stronghold outfitting./Weapons production./Weapons development./Public security./Stronghold fortification./I require more time to consider.]
+- **11201**: Interesting... Preparing for an extended campaign through the acquisition of large quantities of resources...
+- **11202**: It is true. I do not recall an army that was successful without first obtaining sufficient quantities of supplies.
+- **11203**: Supplies are worthless if they do not arrive to their intended destination safely. By fortifying the routes, our nation's defenses can only become stronger.
+- **11204**: Stabilizing the flow of supplies to our strongholds will more than likely help improve our basic defenses.
+- **11205**: An unarmed man has as much value to the Kingdom as do the rabbits that prance about the king's holt. Improved management of the capital's guilds will ensure our knights have steel in their hands.
+- **11206**: An intriguing suggestion... With improved weapons, our forces will be even more formidable on the battlefield.
+- **11207**: I could not agree more. A nation is only as strong as the people she protects. Even during...no, especially during times of war, maintaining the safety of San d'Oria's citizens should come before all else.
+- **11208**: Ah, so you seek the realization of a mighty fortress, impenetrable to all those foolish enough to attempt a siege. A sound suggestion, I may say.
+- **11209**: Shall I record your opinion? [Yes./No.]
+- **11210**: I believe I recently recorded your opinion in my ledgers...
+- **11211**: Yes, it says here you believe our nation should concentrate its efforts on [the procurement of resources/the procurement of additional military supplies/improving logistics/better outfitting our strongholds/increased weapons production/advanced weapons development/improving public security/additional stronghold fortifications].
+- **11213**: Choose! [Reset answers./Suggestion data./Vote data./Quit.]
+- **11214**: Answers RESET!
+- **11215**: Randomize? [Yes./No.]
+- **11216**: Randomization complete.
+- **11217**: Select area to change: [Randomize./Clear results./$26Battle Strategies$26/@Preemptive strike: $0/@Battleline preservation: $1/@Diversionary tactics: $2/@Stronghold reinforcement: $3/@Reconnaissance: $4/@Sabotage: $5/@Troop conditioning: $6/@Troop training: $7/$26Internal Strategies$26/@Resource procurement: $8/@Military supplies: $9/@Logistics: $10/@Stronghold outfitting: $11/@Public security: $12/@Fortification: $13/@Weapons production: $14/@Weapons development: $15/$26Generals$26/General A: $16/General B: $17/General C: $18/General D: $19/General E: $20/General F: $21/Quit.]
+- **11218**: Select Value: [0 (Low)/1""/4/5/6/7/8/9/10 (High)/Quit.]
+- **11219**: [Preemptive strike/Battleline preservation/Diversionary tactics/Stronghold reinforcement/Reconnaissance/Sabotage/Troop conditioning/Troop training/Resource procurement/Military supplies/Logistics/Stronghold outfitting/Public security/Stronghold fortification/Weapons production/Weapons development/General A/General B/General C/General D/General E/General F] set to $1.
+- **11220**: Are you sure? [Yeah./No.]
+- **11221**: All cleared!
+- **11222**: Error! ($0j
 
 ## Events
 
@@ -360,10 +360,10 @@
   2: 0x000B [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[4]
   3: 0x0010 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
   4: 0x0015 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=11153*)
+  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=11154*)
     → "Greetings, I am Curate Palardaifaut, and I have been assigned to the Knights of the Iron Ram to ensure that its members stray not from the path of the Goddess."
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11155*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11156*)
     → "One of my many duties entails lending an ear to the grievances of my brave brothers and sisters."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x06] Work_Zone[2] = 0
@@ -377,23 +377,23 @@
  17: 0x0043 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
  18: 0x0048 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[4]
  19: 0x004D [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
- 20: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11156*)
+ 20: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11157*)
     → "Might there be something troubling you, <Player>?"
  21: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0056 [0x24] CREATE_DIALOG(message_id=11157*, default_option=0*, option_flags=0*)
+ 22: 0x0056 [0x24] CREATE_DIALOG(message_id=11158*, default_option=0*, option_flags=0*)
     → "I have an opinion regarding: [Privacy issues./Our commanders./Our battle strategies./Our internal policies./Nothing.]"
  23: 0x005D [0x25] WAIT_DIALOG_SELECT()
  24: 0x005E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0079
- 25: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11158*)
+ 25: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11159*)
     → "Worry not, my child. Your name will be revealed to no one."
  26: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11159*)
+ 27: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11160*)
     → "Feel free to express whatever feelings you may have, without fear of future reprisal."
  28: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=11160*)
+ 29: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=11161*)
     → "However, this does not necessarily guarantee your wishes will be granted."
  30: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11161*)
+ 31: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11162*)
     → "While the royaulais makes it a point to consider the opinions of his subjects, the final decision regarding whether or not to implement a new course of action lies solely with His Highness."
  32: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0076 [0x01] GOTO 0x00E0
@@ -422,11 +422,11 @@ SUBROUTINE_00AC:
 SUBROUTINE_00C7:
  51: 0x00C7 [0x01] GOTO 0x00E0
  52: 0x00CA [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00D9
- 53: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11163*)
+ 53: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11164*)
     → "Understood. However, if you ever wish to make your voice heard, speak with me."
  54: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00D6 [0x01] GOTO 0x00DD
- 56: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11162*)
+ 56: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11163*)
     → "I see... I have recorded your words and shall present them to the royaulais himself."
  57: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -440,10 +440,10 @@ SUBROUTINE_00E0:
  62: 0x00E9 [0x00] END_REQSTACK()
 
 SUBROUTINE_00EA:
- 63: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=11166*)
+ 63: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=11167*)
     → "Ah, our fine generals."
  64: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=11167*)
+ 65: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=11168*)
     → "A leader of men is only as strong as the trust placed upon him by his followers. His Majesty would do well to know who among his commanders has earned the respect of the people."
  66: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x00F2 [0x0B] ExtData[1]->WorkLocal[0]++
@@ -452,23 +452,23 @@ SUBROUTINE_00EA:
 SUBROUTINE_00FA:
  69: 0x00FA [0x02] IF !(ExtData[1]->WorkLocal[0] < 1*) GOTO 0x02E8
  70: 0x0102 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 71: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=11168*)
+ 71: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=11169*)
     → "<Player>, tell me which general you believe the most competent."
  72: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x0107 [0x24] CREATE_DIALOG(message_id=11169*, default_option=0*, option_flags=0*)
+ 73: 0x0107 [0x24] CREATE_DIALOG(message_id=11170*, default_option=0*, option_flags=0*)
     → "Who would you follow to death? [Royal Guard General Davilles./Royal Knight General Cousseraux./Temple Knight General Brunnaut./Provincial Knight General Rouhent./Provincial Knight General Virgaut./Reserve Knight General Leonoyne./I require more time to consider.]"
  74: 0x010E [0x25] WAIT_DIALOG_SELECT()
  75: 0x010F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
- 76: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=11170*)
+ 76: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=11171*)
     → "Ah, Valaineral R Davilles, heir to the Davilles line. Known by many for his warm personality, this master of the blade is said to transform into a beast when on the battlefield."
  77: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x011B [0x24] CREATE_DIALOG(message_id=11179*, default_option=1*, option_flags=0*)
+ 78: 0x011B [0x24] CREATE_DIALOG(message_id=11180*, default_option=1*, option_flags=0*)
     → "He is... [The best we have!/...]"
  79: 0x0122 [0x25] WAIT_DIALOG_SELECT()
  80: 0x0123 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0159
  81: 0x012B [0x42] SET_CLI_EVENT_CANCEL_DATA()
  82: 0x012C [0x03] ExtData[1]->WorkLocal[1] = 0*
- 83: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+ 83: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
  84: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0135 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -483,16 +483,16 @@ SUBROUTINE_00FA:
 SUBROUTINE_0159:
  93: 0x0159 [0x01] GOTO 0x02E5
  94: 0x015C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01A9
- 95: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=11171*)
+ 95: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=11172*)
     → "Ah, Lord Yrvaulair S Cousseraux--the years have taken little from this expert tactician. Specializing in sieges, the brave general excels when faced with a fortress in need of breaching."
  96: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0168 [0x24] CREATE_DIALOG(message_id=11179*, default_option=1*, option_flags=0*)
+ 97: 0x0168 [0x24] CREATE_DIALOG(message_id=11180*, default_option=1*, option_flags=0*)
     → "He is... [The best we have!/...]"
  98: 0x016F [0x25] WAIT_DIALOG_SELECT()
  99: 0x0170 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A6
 100: 0x0178 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 101: 0x0179 [0x03] ExtData[1]->WorkLocal[1] = 1*
-102: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+102: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 103: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0182 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -507,16 +507,16 @@ SUBROUTINE_0159:
 SUBROUTINE_01A6:
 112: 0x01A6 [0x01] GOTO 0x02E5
 113: 0x01A9 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01F6
-114: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11172*)
+114: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11173*)
     → "Ah, Cardinal Febrenard C Brunnaut... Striving hard day and night to maintain peace within the walls of the capital. While the youngest of our nation's generals, he is often the most composed."
 115: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x01B5 [0x24] CREATE_DIALOG(message_id=11179*, default_option=1*, option_flags=0*)
+116: 0x01B5 [0x24] CREATE_DIALOG(message_id=11180*, default_option=1*, option_flags=0*)
     → "He is... [The best we have!/...]"
 117: 0x01BC [0x25] WAIT_DIALOG_SELECT()
 118: 0x01BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F3
 119: 0x01C5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 120: 0x01C6 [0x03] ExtData[1]->WorkLocal[1] = 2*
-121: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+121: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 122: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x01CF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -531,16 +531,16 @@ SUBROUTINE_01A6:
 SUBROUTINE_01F3:
 131: 0x01F3 [0x01] GOTO 0x02E5
 132: 0x01F6 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0243
-133: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11173*)
+133: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11174*)
     → "Ah, Lord Rouhent of the Knights of Norvallen--a hero amongst men, known for putting the needs of his knights before all else. Missions of reprovisioning are among his specialties."
 134: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
-135: 0x0202 [0x24] CREATE_DIALOG(message_id=11179*, default_option=1*, option_flags=0*)
+135: 0x0202 [0x24] CREATE_DIALOG(message_id=11180*, default_option=1*, option_flags=0*)
     → "He is... [The best we have!/...]"
 136: 0x0209 [0x25] WAIT_DIALOG_SELECT()
 137: 0x020A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0240
 138: 0x0212 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 139: 0x0213 [0x03] ExtData[1]->WorkLocal[1] = 3*
-140: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+140: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 141: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x021C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -555,16 +555,16 @@ SUBROUTINE_01F3:
 SUBROUTINE_0240:
 150: 0x0240 [0x01] GOTO 0x02E5
 151: 0x0243 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0290
-152: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=11174*)
+152: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=11175*)
     → "Ah, Lady Virgaut of the Knights of Aragoneu. Let not her pulchritudinous visage fool you, for she is perhaps one of the finest generals in the Kingdom. Her scouts' ability to gather intelligence on the enemy, combined with her ability to apply that knowledge to constructing precise battle tactics, is known across Vana'diel."
 153: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x024F [0x24] CREATE_DIALOG(message_id=11179*, default_option=1*, option_flags=0*)
+154: 0x024F [0x24] CREATE_DIALOG(message_id=11180*, default_option=1*, option_flags=0*)
     → "He is... [The best we have!/...]"
 155: 0x0256 [0x25] WAIT_DIALOG_SELECT()
 156: 0x0257 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x028D
 157: 0x025F [0x42] SET_CLI_EVENT_CANCEL_DATA()
 158: 0x0260 [0x03] ExtData[1]->WorkLocal[1] = 4*
-159: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+159: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 160: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0269 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -579,16 +579,16 @@ SUBROUTINE_0240:
 SUBROUTINE_028D:
 169: 0x028D [0x01] GOTO 0x02E5
 170: 0x0290 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02DD
-171: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=11175*)
+171: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=11176*)
     → "Ah, Sir Leonoyne of the Knights of the Savage Hound--a cold-blooded warrior who earned his nobility after a showing of unmatched bravery on the battlefield. Highly regarded by the royaulais, his ruthless methods strike fear into those beastmen who dare challenge his knights."
 172: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x029C [0x24] CREATE_DIALOG(message_id=11179*, default_option=1*, option_flags=0*)
+173: 0x029C [0x24] CREATE_DIALOG(message_id=11180*, default_option=1*, option_flags=0*)
     → "He is... [The best we have!/...]"
 174: 0x02A3 [0x25] WAIT_DIALOG_SELECT()
 175: 0x02A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DA
 176: 0x02AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
 177: 0x02AD [0x03] ExtData[1]->WorkLocal[1] = 5*
-178: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+178: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 179: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x02B6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -610,17 +610,17 @@ SUBROUTINE_02E5:
 192: 0x02E8 [0x1B] RETURN
 
 SUBROUTINE_02E9:
-193: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
+193: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11182*)
     → "Wait one moment..."
 194: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x02ED [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
-196: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11182*)
+196: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11183*)
     → "I seem to recall you recently stating [Royal Guard General Davilles/Royal Knight General Cousseraux/Temple Knight General Brunnaut/General Feldrautte I Rouhent/General Cerane I Virgaut/Reserve Knight General Leonoyne] was our most reliant leader."
 197: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x02F6 [0x1B] RETURN
 
 SUBROUTINE_02F7:
-199: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11183*)
+199: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11184*)
     → "So you feel there may be something amiss with our nation's current battle strategy."
 200: 0x02FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x02FB [0x0B] ExtData[1]->WorkLocal[0]++
@@ -629,23 +629,23 @@ SUBROUTINE_02F7:
 SUBROUTINE_0303:
 203: 0x0303 [0x02] IF !(ExtData[1]->WorkLocal[0] < 1*) GOTO 0x0549
 204: 0x030B [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-205: 0x030C [0x1D] PRINT_EVENT_MESSAGE(message_id=11184*)
+205: 0x030C [0x1D] PRINT_EVENT_MESSAGE(message_id=11185*)
     → "Which path do you feel would benefit us most?"
 206: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
-207: 0x0310 [0x24] CREATE_DIALOG(message_id=11185*, default_option=0*, option_flags=32*)
+207: 0x0310 [0x24] CREATE_DIALOG(message_id=11186*, default_option=0*, option_flags=32*)
     → "Which do you suggest? [A preemptive strike./Diversionary tactics./Battleline preservation./Stronghold defenses./Troop conditioning./Troop training./Reconnaissance./Sabotage./Nothing.]"
 208: 0x0317 [0x25] WAIT_DIALOG_SELECT()
 209: 0x0318 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0365
-210: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=11186*)
+210: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=11187*)
     → "Quite an aggressive tactic... On the other hand, a preemptive strike can be the quickest way to bring new regions under San d'Orian control, even if it results in heavier losses."
 211: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x0324 [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+212: 0x0324 [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 213: 0x032B [0x25] WAIT_DIALOG_SELECT()
 214: 0x032C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0362
 215: 0x0334 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 216: 0x0335 [0x03] ExtData[1]->WorkLocal[1] = 0*
-217: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+217: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 218: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x033E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -660,16 +660,16 @@ SUBROUTINE_0303:
 SUBROUTINE_0362:
 227: 0x0362 [0x01] GOTO 0x0546
 228: 0x0365 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03B2
-229: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=11187*)
+229: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=11188*)
     → "Quite a devious tactic... Deploying a small unit of elite forces to distract the enemy while another cuts off vital supply lines... Brilliant!"
 230: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
-231: 0x0371 [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+231: 0x0371 [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 232: 0x0378 [0x25] WAIT_DIALOG_SELECT()
 233: 0x0379 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AF
 234: 0x0381 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 235: 0x0382 [0x03] ExtData[1]->WorkLocal[1] = 1*
-236: 0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+236: 0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 237: 0x038A [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x038B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -684,16 +684,16 @@ SUBROUTINE_0362:
 SUBROUTINE_03AF:
 246: 0x03AF [0x01] GOTO 0x0546
 247: 0x03B2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03FF
-248: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=11188*)
+248: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=11189*)
     → "Ah, a wise tactic... Reinforce defenses in order to maintain battlelines, thus gradually draining the enemy of its influence."
 249: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-250: 0x03BE [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+250: 0x03BE [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 251: 0x03C5 [0x25] WAIT_DIALOG_SELECT()
 252: 0x03C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03FC
 253: 0x03CE [0x42] SET_CLI_EVENT_CANCEL_DATA()
 254: 0x03CF [0x03] ExtData[1]->WorkLocal[1] = 2*
-255: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+255: 0x03D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 256: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x03D8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -708,16 +708,16 @@ SUBROUTINE_03AF:
 SUBROUTINE_03FC:
 265: 0x03FC [0x01] GOTO 0x0546
 266: 0x03FF [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x044C
-267: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=11189*)
+267: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=11190*)
     → "Ah, a sound tactic... Reinforce stronghold defenses in order to prevent enemy ambushes and stabilize supply routes."
 268: 0x040A [0x23] WAIT_FOR_DIALOG_INTERACTION
-269: 0x040B [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+269: 0x040B [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 270: 0x0412 [0x25] WAIT_DIALOG_SELECT()
 271: 0x0413 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0449
 272: 0x041B [0x42] SET_CLI_EVENT_CANCEL_DATA()
 273: 0x041C [0x03] ExtData[1]->WorkLocal[1] = 3*
-274: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+274: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 275: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x0425 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -732,16 +732,16 @@ SUBROUTINE_03FC:
 SUBROUTINE_0449:
 284: 0x0449 [0x01] GOTO 0x0546
 285: 0x044C [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0499
-286: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=11190*)
+286: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=11191*)
     → "No matter how wise a commander, if his troops are not ready for battle, defeat will always be lurking close behind."
 287: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
-288: 0x0458 [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+288: 0x0458 [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 289: 0x045F [0x25] WAIT_DIALOG_SELECT()
 290: 0x0460 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0496
 291: 0x0468 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 292: 0x0469 [0x03] ExtData[1]->WorkLocal[1] = 4*
-293: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+293: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 294: 0x0471 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x0472 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -758,16 +758,16 @@ SUBROUTINE_0496:
 304: 0x0499 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x04A4
 305: 0x04A1 [0x01] GOTO 0x0546
 306: 0x04A4 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x04F1
-307: 0x04AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11192*)
+307: 0x04AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11193*)
     → "Ah, a fine tactic... A great man once said, "Know thine enemy, know thyself." The more intelligence we have on the hordes, the easier our future campaigns become."
 308: 0x04AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-309: 0x04B0 [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+309: 0x04B0 [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 310: 0x04B7 [0x25] WAIT_DIALOG_SELECT()
 311: 0x04B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EE
 312: 0x04C0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 313: 0x04C1 [0x03] ExtData[1]->WorkLocal[1] = 6*
-314: 0x04C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+314: 0x04C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 315: 0x04C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x04CA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -782,16 +782,16 @@ SUBROUTINE_0496:
 SUBROUTINE_04EE:
 324: 0x04EE [0x01] GOTO 0x0546
 325: 0x04F1 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x053E
-326: 0x04F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11193*)
+326: 0x04F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11194*)
     → "Quite a perilous tactic... However, if a special unit is able to infiltrate our enemies' strongholds undetected and succeed in planting their tools of destruction, the tides of battle would most definitely turn in our favor."
 327: 0x04FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-328: 0x04FD [0x24] CREATE_DIALOG(message_id=11194*, default_option=1*, option_flags=0*)
+328: 0x04FD [0x24] CREATE_DIALOG(message_id=11195*, default_option=1*, option_flags=0*)
     → "Is this what you recommend? [Absolutely!/On second thought...]"
 329: 0x0504 [0x25] WAIT_DIALOG_SELECT()
 330: 0x0505 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x053B
 331: 0x050D [0x42] SET_CLI_EVENT_CANCEL_DATA()
 332: 0x050E [0x03] ExtData[1]->WorkLocal[1] = 7*
-333: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+333: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 334: 0x0516 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x0517 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -814,16 +814,16 @@ SUBROUTINE_0546:
 
 SUBROUTINE_054A:
 348: 0x054A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
-349: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=11195*)
+349: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=11196*)
     → "It was not but a few days heretofore that you suggested a quite interesting tactic..."
 350: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
-351: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=11196*)
+351: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=11197*)
     → "If I am not mistaken, I believe you proposed [a preemptive strike/diversionary tactics/battleline preservation/stronghold fortification/troop conditioning/troop training/reconnaissance/sabotage]."
 352: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0557 [0x1B] RETURN
 
 SUBROUTINE_0558:
-354: 0x0558 [0x1D] PRINT_EVENT_MESSAGE(message_id=11197*)
+354: 0x0558 [0x1D] PRINT_EVENT_MESSAGE(message_id=11198*)
     → "So you care to comment on our nation's inner workings..."
 355: 0x055B [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x055C [0x0B] ExtData[1]->WorkLocal[0]++
@@ -832,23 +832,23 @@ SUBROUTINE_0558:
 SUBROUTINE_0564:
 358: 0x0564 [0x02] IF !(ExtData[1]->WorkLocal[0] < 1*) GOTO 0x07EC
 359: 0x056C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-360: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=11198*)
+360: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=11199*)
     → "Which do you believe the most apt course?"
 361: 0x0570 [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x0571 [0x24] CREATE_DIALOG(message_id=11199*, default_option=0*, option_flags=0*)
+362: 0x0571 [0x24] CREATE_DIALOG(message_id=11200*, default_option=0*, option_flags=0*)
     → "There are so many choices... [Resource procurement./Military supply procurement./Logistics./Stronghold outfitting./Weapons production./Weapons development./Public security./Stronghold fortification./I require more time to consider.]"
 363: 0x0578 [0x25] WAIT_DIALOG_SELECT()
 364: 0x0579 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C6
-365: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
+365: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
     → "Interesting... Preparing for an extended campaign through the acquisition of large quantities of resources..."
 366: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
-367: 0x0585 [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+367: 0x0585 [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 368: 0x058C [0x25] WAIT_DIALOG_SELECT()
 369: 0x058D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C3
 370: 0x0595 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 371: 0x0596 [0x03] ExtData[1]->WorkLocal[1] = 0*
-372: 0x059B [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+372: 0x059B [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 373: 0x059E [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x059F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -863,16 +863,16 @@ SUBROUTINE_0564:
 SUBROUTINE_05C3:
 382: 0x05C3 [0x01] GOTO 0x07E9
 383: 0x05C6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0613
-384: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=11201*)
+384: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=11202*)
     → "It is true. I do not recall an army that was successful without first obtaining sufficient quantities of supplies."
 385: 0x05D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-386: 0x05D2 [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+386: 0x05D2 [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 387: 0x05D9 [0x25] WAIT_DIALOG_SELECT()
 388: 0x05DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0610
 389: 0x05E2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 390: 0x05E3 [0x03] ExtData[1]->WorkLocal[1] = 1*
-391: 0x05E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+391: 0x05E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 392: 0x05EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 393: 0x05EC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -887,16 +887,16 @@ SUBROUTINE_05C3:
 SUBROUTINE_0610:
 401: 0x0610 [0x01] GOTO 0x07E9
 402: 0x0613 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0660
-403: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=11202*)
+403: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=11203*)
     → "Supplies are worthless if they do not arrive to their intended destination safely. By fortifying the routes, our nation's defenses can only become stronger."
 404: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
-405: 0x061F [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+405: 0x061F [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 406: 0x0626 [0x25] WAIT_DIALOG_SELECT()
 407: 0x0627 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x065D
 408: 0x062F [0x42] SET_CLI_EVENT_CANCEL_DATA()
 409: 0x0630 [0x03] ExtData[1]->WorkLocal[1] = 2*
-410: 0x0635 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+410: 0x0635 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 411: 0x0638 [0x23] WAIT_FOR_DIALOG_INTERACTION
 412: 0x0639 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -911,16 +911,16 @@ SUBROUTINE_0610:
 SUBROUTINE_065D:
 420: 0x065D [0x01] GOTO 0x07E9
 421: 0x0660 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x06AD
-422: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=11203*)
+422: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=11204*)
     → "Stabilizing the flow of supplies to our strongholds will more than likely help improve our basic defenses."
 423: 0x066B [0x23] WAIT_FOR_DIALOG_INTERACTION
-424: 0x066C [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+424: 0x066C [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 425: 0x0673 [0x25] WAIT_DIALOG_SELECT()
 426: 0x0674 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06AA
 427: 0x067C [0x42] SET_CLI_EVENT_CANCEL_DATA()
 428: 0x067D [0x03] ExtData[1]->WorkLocal[1] = 3*
-429: 0x0682 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+429: 0x0682 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 430: 0x0685 [0x23] WAIT_FOR_DIALOG_INTERACTION
 431: 0x0686 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -935,16 +935,16 @@ SUBROUTINE_065D:
 SUBROUTINE_06AA:
 439: 0x06AA [0x01] GOTO 0x07E9
 440: 0x06AD [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x06FA
-441: 0x06B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11204*)
+441: 0x06B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11205*)
     → "An unarmed man has as much value to the Kingdom as do the rabbits that prance about the king's holt. Improved management of the capital's guilds will ensure our knights have steel in their hands."
 442: 0x06B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-443: 0x06B9 [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+443: 0x06B9 [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 444: 0x06C0 [0x25] WAIT_DIALOG_SELECT()
 445: 0x06C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06F7
 446: 0x06C9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 447: 0x06CA [0x03] ExtData[1]->WorkLocal[1] = 4*
-448: 0x06CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+448: 0x06CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 449: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x06D3 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -959,16 +959,16 @@ SUBROUTINE_06AA:
 SUBROUTINE_06F7:
 458: 0x06F7 [0x01] GOTO 0x07E9
 459: 0x06FA [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0747
-460: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=11205*)
+460: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=11206*)
     → "An intriguing suggestion... With improved weapons, our forces will be even more formidable on the battlefield."
 461: 0x0705 [0x23] WAIT_FOR_DIALOG_INTERACTION
-462: 0x0706 [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+462: 0x0706 [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 463: 0x070D [0x25] WAIT_DIALOG_SELECT()
 464: 0x070E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0744
 465: 0x0716 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 466: 0x0717 [0x03] ExtData[1]->WorkLocal[1] = 5*
-467: 0x071C [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+467: 0x071C [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 468: 0x071F [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x0720 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -983,16 +983,16 @@ SUBROUTINE_06F7:
 SUBROUTINE_0744:
 477: 0x0744 [0x01] GOTO 0x07E9
 478: 0x0747 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0794
-479: 0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=11206*)
+479: 0x074F [0x1D] PRINT_EVENT_MESSAGE(message_id=11207*)
     → "I could not agree more. A nation is only as strong as the people she protects. Even during...no, especially during times of war, maintaining the safety of San d'Oria's citizens should come before all else."
 480: 0x0752 [0x23] WAIT_FOR_DIALOG_INTERACTION
-481: 0x0753 [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+481: 0x0753 [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 482: 0x075A [0x25] WAIT_DIALOG_SELECT()
 483: 0x075B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0791
 484: 0x0763 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 485: 0x0764 [0x03] ExtData[1]->WorkLocal[1] = 6*
-486: 0x0769 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+486: 0x0769 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 487: 0x076C [0x23] WAIT_FOR_DIALOG_INTERACTION
 488: 0x076D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -1007,16 +1007,16 @@ SUBROUTINE_0744:
 SUBROUTINE_0791:
 496: 0x0791 [0x01] GOTO 0x07E9
 497: 0x0794 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x07E1
-498: 0x079C [0x1D] PRINT_EVENT_MESSAGE(message_id=11207*)
+498: 0x079C [0x1D] PRINT_EVENT_MESSAGE(message_id=11208*)
     → "Ah, so you seek the realization of a mighty fortress, impenetrable to all those foolish enough to attempt a siege. A sound suggestion, I may say."
 499: 0x079F [0x23] WAIT_FOR_DIALOG_INTERACTION
-500: 0x07A0 [0x24] CREATE_DIALOG(message_id=11208*, default_option=1*, option_flags=0*)
+500: 0x07A0 [0x24] CREATE_DIALOG(message_id=11209*, default_option=1*, option_flags=0*)
     → "Shall I record your opinion? [Yes./No.]"
 501: 0x07A7 [0x25] WAIT_DIALOG_SELECT()
 502: 0x07A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07DE
 503: 0x07B0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 504: 0x07B1 [0x03] ExtData[1]->WorkLocal[1] = 7*
-505: 0x07B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11180*)
+505: 0x07B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
     → "Interesting..."
 506: 0x07B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 507: 0x07BA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -1039,10 +1039,10 @@ SUBROUTINE_07E9:
 
 SUBROUTINE_07ED:
 520: 0x07ED [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-521: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11209*)
+521: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11210*)
     → "I believe I recently recorded your opinion in my ledgers..."
 522: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-523: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11210*)
+523: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11211*)
     → "Yes, it says here you believe our nation should concentrate its efforts on [the procurement of resources/the procurement of additional military supplies/improving logistics/better outfitting our strongholds/increased weapons production/advanced weapons development/improving public security/additional stronghold fortifications]."
 524: 0x07F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 525: 0x07FA [0x1B] RETURN
@@ -1069,10 +1069,10 @@ SUBROUTINE_07ED:
 
 ```
   0: 0x07FB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0800 [0x1D] PRINT_EVENT_MESSAGE(message_id=11164*)
+  1: 0x0800 [0x1D] PRINT_EVENT_MESSAGE(message_id=11165*)
     → ""And should a shroud of darkness veil the Light of dawn, the undying hope in mine heart would guideth me through the abyss to the Promised--""
   2: 0x0803 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=11165*)
+  3: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=11166*)
     → "Ah, my apologies, wayward lamb, but I have not yet finished my daily prayer. Please, allow me to concentrate, lest I offend the Goddess with wildering driveling."
   4: 0x0807 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0808 [0x21] END_EVENT
@@ -1213,7 +1213,7 @@ SUBROUTINE_07ED:
 ```
   0: 0x080A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x080F [0x02] IF !(1* == 1*) GOTO 0x084F
-  2: 0x0817 [0x24] CREATE_DIALOG(message_id=11212*, default_option=0*, option_flags=0*)
+  2: 0x0817 [0x24] CREATE_DIALOG(message_id=11213*, default_option=0*, option_flags=0*)
     → "Choose! [Reset answers./Suggestion data./Vote data./Quit.]"
   3: 0x081E [0x25] WAIT_DIALOG_SELECT()
   4: 0x081F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x082D
@@ -1266,7 +1266,7 @@ SUBROUTINE_0851:
  45: 0x092E [0x41] Work_Zone_1700[13] = ExtData[1]->WorkLocal[9] (bits 20*-23*)
  46: 0x0937 [0x41] Work_Zone_1700[14] = ExtData[1]->WorkLocal[9] (bits 24*-27*)
  47: 0x0940 [0x41] Work_Zone_1700[15] = ExtData[1]->WorkLocal[9] (bits 28*-31*)
- 48: 0x0949 [0x24] CREATE_DIALOG(message_id=11216*, default_option=0*, option_flags=0*)
+ 48: 0x0949 [0x24] CREATE_DIALOG(message_id=11217*, default_option=0*, option_flags=0*)
     → "Select area to change: [Randomize./Clear results./$26Battle Strategies$26/@Preemptive strike: $0/@Battleline preservation: $1/@Diversionary tactics: $2/@Stronghold reinforcement: $3/@Reconnaissance: $4/@Sabotage: $5/@Troop conditioning: $6/@Troop training: $7/$26Internal Strategies$26/@Resource procurement: $8/@Military supplies: $9/@Logistics: $10/@Stronghold outfitting: $11/@Public security: $12/@Fortification: $13/@Weapons production: $14/@Weapons development: $15/$26Generals$26/General A: $16/General B: $17/General C: $18/General D: $19/General E: $20/General F: $21/Quit.]"
  49: 0x0950 [0x25] WAIT_DIALOG_SELECT()
  50: 0x0951 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x095F
@@ -1350,7 +1350,7 @@ SUBROUTINE_0AB4:
 126: 0x0AB7 [0x1B] RETURN
 
 SUBROUTINE_0AB8:
-127: 0x0AB8 [0x24] CREATE_DIALOG(message_id=11217*, default_option=0*, option_flags=0*)
+127: 0x0AB8 [0x24] CREATE_DIALOG(message_id=11218*, default_option=0*, option_flags=0*)
     → "Select Value: [0 (Low)/1""/4/5/6/7/8/9/10 (High)/Quit.]"
 128: 0x0ABF [0x25] WAIT_DIALOG_SELECT()
 129: 0x0AC0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ACB
@@ -1364,12 +1364,12 @@ SUBROUTINE_0ACB:
 135: 0x0AEA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 136: 0x0AEC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 137: 0x0AEE [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0AFD
-138: 0x0AF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11218*)
+138: 0x0AF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11219*)
     → "[Preemptive strike/Battleline preservation/Diversionary tactics/Stronghold reinforcement/Reconnaissance/Sabotage/Troop conditioning/Troop training/Resource procurement/Military supplies/Logistics/Stronghold outfitting/Public security/Stronghold fortification/Weapons production/Weapons development/General A/General B/General C/General D/General E/General F] set to $1."
 139: 0x0AF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0AFA [0x01] GOTO 0x0B06
 141: 0x0AFD [0x03] Work_Zone[2] = Work_Zone[9]
-142: 0x0B02 [0x1D] PRINT_EVENT_MESSAGE(message_id=11221*)
+142: 0x0B02 [0x1D] PRINT_EVENT_MESSAGE(message_id=11222*)
     → "Error! ($0j"
 143: 0x0B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1380,20 +1380,20 @@ SUBROUTINE_0B07:
 145: 0x0B07 [0x03] Work_Zone[1] = 5*
 146: 0x0B0C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 147: 0x0B0E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-148: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=11213*)
+148: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=11214*)
     → "Answers RESET!"
 149: 0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0B14 [0x1B] RETURN
 
 SUBROUTINE_0B15:
-151: 0x0B15 [0x24] CREATE_DIALOG(message_id=11214*, default_option=0*, option_flags=0*)
+151: 0x0B15 [0x24] CREATE_DIALOG(message_id=11215*, default_option=0*, option_flags=0*)
     → "Randomize? [Yes./No.]"
 152: 0x0B1C [0x25] WAIT_DIALOG_SELECT()
 153: 0x0B1D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B35
 154: 0x0B25 [0x03] Work_Zone[1] = 7*
 155: 0x0B2A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 156: 0x0B2C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-157: 0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=11215*)
+157: 0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=11216*)
     → "Randomization complete."
 158: 0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0B32 [0x01] GOTO 0x0B35
@@ -1402,14 +1402,14 @@ SUBROUTINE_0B35:
 160: 0x0B35 [0x1B] RETURN
 
 SUBROUTINE_0B36:
-161: 0x0B36 [0x24] CREATE_DIALOG(message_id=11219*, default_option=0*, option_flags=0*)
+161: 0x0B36 [0x24] CREATE_DIALOG(message_id=11220*, default_option=0*, option_flags=0*)
     → "Are you sure? [Yeah./No.]"
 162: 0x0B3D [0x25] WAIT_DIALOG_SELECT()
 163: 0x0B3E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B56
 164: 0x0B46 [0x03] Work_Zone[1] = 8*
 165: 0x0B4B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 166: 0x0B4D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-167: 0x0B4F [0x1D] PRINT_EVENT_MESSAGE(message_id=11220*)
+167: 0x0B4F [0x1D] PRINT_EVENT_MESSAGE(message_id=11221*)
     → "All cleared!"
 168: 0x0B52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0B53 [0x01] GOTO 0x0B56
@@ -1464,7 +1464,7 @@ SUBROUTINE_0B57:
 214: 0x0C73 [0x41] Work_Zone_1700[13] = ExtData[1]->WorkLocal[20] (bits 16*-31*)
 215: 0x0C7C [0x41] Work_Zone_1700[14] = ExtData[1]->WorkLocal[21] (bits 0*-15*)
 216: 0x0C85 [0x41] Work_Zone_1700[15] = ExtData[1]->WorkLocal[21] (bits 16*-31*)
-217: 0x0C8E [0x24] CREATE_DIALOG(message_id=11216*, default_option=0*, option_flags=0*)
+217: 0x0C8E [0x24] CREATE_DIALOG(message_id=11217*, default_option=0*, option_flags=0*)
     → "Select area to change: [Randomize./Clear results./$26Battle Strategies$26/@Preemptive strike: $0/@Battleline preservation: $1/@Diversionary tactics: $2/@Stronghold reinforcement: $3/@Reconnaissance: $4/@Sabotage: $5/@Troop conditioning: $6/@Troop training: $7/$26Internal Strategies$26/@Resource procurement: $8/@Military supplies: $9/@Logistics: $10/@Stronghold outfitting: $11/@Public security: $12/@Fortification: $13/@Weapons production: $14/@Weapons development: $15/$26Generals$26/General A: $16/General B: $17/General C: $18/General D: $19/General E: $20/General F: $21/Quit.]"
 218: 0x0C95 [0x25] WAIT_DIALOG_SELECT()
 219: 0x0C96 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CA4
@@ -1590,12 +1590,12 @@ SUBROUTINE_0EA0:
 335: 0x0EBF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 336: 0x0EC1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 337: 0x0EC3 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0ED2
-338: 0x0ECB [0x1D] PRINT_EVENT_MESSAGE(message_id=11218*)
+338: 0x0ECB [0x1D] PRINT_EVENT_MESSAGE(message_id=11219*)
     → "[Preemptive strike/Battleline preservation/Diversionary tactics/Stronghold reinforcement/Reconnaissance/Sabotage/Troop conditioning/Troop training/Resource procurement/Military supplies/Logistics/Stronghold outfitting/Public security/Stronghold fortification/Weapons production/Weapons development/General A/General B/General C/General D/General E/General F] set to $1."
 339: 0x0ECE [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x0ECF [0x01] GOTO 0x0EDB
 341: 0x0ED2 [0x03] Work_Zone[2] = Work_Zone[9]
-342: 0x0ED7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11221*)
+342: 0x0ED7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11222*)
     → "Error! ($0j"
 343: 0x0EDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1603,14 +1603,14 @@ SUBROUTINE_0EDB:
 344: 0x0EDB [0x1B] RETURN
 
 SUBROUTINE_0EDC:
-345: 0x0EDC [0x24] CREATE_DIALOG(message_id=11214*, default_option=0*, option_flags=0*)
+345: 0x0EDC [0x24] CREATE_DIALOG(message_id=11215*, default_option=0*, option_flags=0*)
     → "Randomize? [Yes./No.]"
 346: 0x0EE3 [0x25] WAIT_DIALOG_SELECT()
 347: 0x0EE4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EFC
 348: 0x0EEC [0x03] Work_Zone[1] = 11*
 349: 0x0EF1 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 350: 0x0EF3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-351: 0x0EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11215*)
+351: 0x0EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11216*)
     → "Randomization complete."
 352: 0x0EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0EF9 [0x01] GOTO 0x0EFC
@@ -1619,14 +1619,14 @@ SUBROUTINE_0EFC:
 354: 0x0EFC [0x1B] RETURN
 
 SUBROUTINE_0EFD:
-355: 0x0EFD [0x24] CREATE_DIALOG(message_id=11219*, default_option=0*, option_flags=0*)
+355: 0x0EFD [0x24] CREATE_DIALOG(message_id=11220*, default_option=0*, option_flags=0*)
     → "Are you sure? [Yeah./No.]"
 356: 0x0F04 [0x25] WAIT_DIALOG_SELECT()
 357: 0x0F05 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F1D
 358: 0x0F0D [0x03] Work_Zone[1] = 12*
 359: 0x0F12 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 360: 0x0F14 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-361: 0x0F16 [0x1D] PRINT_EVENT_MESSAGE(message_id=11220*)
+361: 0x0F16 [0x1D] PRINT_EVENT_MESSAGE(message_id=11221*)
     → "All cleared!"
 362: 0x0F19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 363: 0x0F1A [0x01] GOTO 0x0F1D

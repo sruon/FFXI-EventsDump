@@ -77,12 +77,12 @@
 |      11 | 0xFFFFEF66  |  4294963046 |
 |      12 | 0x1C3BD     |      115645 |
 |      13 | 0x19B29     |      105257 |
-|      14 | 0x22E0      |        8928 |
-|      15 | 0x22E3      |        8931 |
-|      16 | 0x22E5      |        8933 |
-|      17 | 0x22E6      |        8934 |
-|      18 | 0x22E7      |        8935 |
-|      19 | 0x22E9      |        8937 |
+|      14 | 0x22E1      |        8929 |
+|      15 | 0x22E4      |        8932 |
+|      16 | 0x22E6      |        8934 |
+|      17 | 0x22E7      |        8935 |
+|      18 | 0x22E8      |        8936 |
+|      19 | 0x22EA      |        8938 |
 |      20 | 0x0426      |        1062 |
 |      21 | 0x1CA43     |      117315 |
 |      22 | 0x16B83     |       93059 |
@@ -91,19 +91,19 @@
 |      25 | 0x16BD8     |       93144 |
 |      26 | 0x1CCFB     |      118011 |
 |      27 | 0x18DCD     |      101837 |
-|      28 | 0x245E      |        9310 |
-|      29 | 0x245F      |        9311 |
-|      30 | 0x2460      |        9312 |
-|      31 | 0x2465      |        9317 |
-|      32 | 0x246B      |        9323 |
-|      33 | 0x246D      |        9325 |
-|      34 | 0x246E      |        9326 |
-|      35 | 0x246F      |        9327 |
-|      36 | 0x2470      |        9328 |
-|      37 | 0x2471      |        9329 |
-|      38 | 0x2473      |        9331 |
-|      39 | 0x2474      |        9332 |
-|      40 | 0x2475      |        9333 |
+|      28 | 0x245F      |        9311 |
+|      29 | 0x2460      |        9312 |
+|      30 | 0x2461      |        9313 |
+|      31 | 0x2466      |        9318 |
+|      32 | 0x246C      |        9324 |
+|      33 | 0x246E      |        9326 |
+|      34 | 0x246F      |        9327 |
+|      35 | 0x2470      |        9328 |
+|      36 | 0x2471      |        9329 |
+|      37 | 0x2472      |        9330 |
+|      38 | 0x2474      |        9332 |
+|      39 | 0x2475      |        9333 |
+|      40 | 0x2476      |        9334 |
 |      41 | 0x1CF04     |      118532 |
 |      42 | 0x166B3     |       91827 |
 |      43 | 0x0613      |        1555 |
@@ -112,38 +112,38 @@
 |      46 | 0x1C900     |      116992 |
 |      47 | 0x19601     |      103937 |
 |      48 | 0xFFFFEF67  |  4294963047 |
-|      49 | 0x2493      |        9363 |
-|      50 | 0x2494      |        9364 |
-|      51 | 0x2496      |        9366 |
-|      52 | 0x2498      |        9368 |
-|      53 | 0x2499      |        9369 |
+|      49 | 0x2494      |        9364 |
+|      50 | 0x2495      |        9365 |
+|      51 | 0x2497      |        9367 |
+|      52 | 0x2499      |        9369 |
+|      53 | 0x249A      |        9370 |
 
 ## String References
 
-- **8928**: Chieftainness Perih Vashai, I apologize for this interruption.
-- **8931**: Attempt to rrreturn the past to dust if you will, but it will avail you naught. Dust is swept up by the wind, its scent carried on. The scent of my quarry.
-- **8933**: Be that as it may, the loss of the Bow of Light does not sit well with me.
-- **8934**: I will speak bluntly. Perih Vashai, I believe you strrruck some kind of deal with the sinner.
-- **8935**: Your daughter's age was close to that of the sinner's. Is it possible you sympathized with their plight?
-- **8937**: As I'm sure you are well aware, I won't be leaving this land until I have hunted down the sinner. I will enlighten the people of the Outlands on the evils of hiding sin.
-- **9310**: After learning the location of the daughter's final rrresting place, we trrraveled to a place known as the Eldieme Necropolis.
-- **9311**: There, we found $1. Piecing togetherrr everything I have heard, I believe it must belong to the sinner's daughter.
-- **9312**: However, one problem rrremains. Where is the other half of the stone? Where is the grrrave of the mother?
-- **9317**: Well, I will leave this task to you. Rrreturn here as soon as you find the $2.
-- **9323**: You found it... Yes, it's a perrrfect match with Syu Befrathi's $1.
-- **9325**: However, while this adventurer was perrrforming [his/her] task, I was busy talking with an important witness.
-- **9326**: This witness claims that the use of a shining bow was rrresponsible for your loss of sight.
-- **9327**: The witness also mentioned that the prisoners of Oztroja were saved by a bow that loosed arrows of light so dazzling, the Yagudo were struck blind. This could only describe the Bow of Light.
-- **9328**: It is time for the truth to be known. You are concealing the Bow of Light, aren't you? Have you been seduced by its powerrr, Perih Vashai?
-- **9329**: Even for one who is blind, surely you can see this has gone on long enough!
-- **9331**: Very well. It is said that you are not one to run and hide.
-- **9332**: I am in no hurry. Let us leave it at this for now.
-- **9333**: And this, adventurer, I give to you. May you always be on the side of justice.
-- **9363**: I now have the Bow of Light in my possession. The magicite that gave this bow its cursed power has been rrreturned to the land where it belongs.
-- **9364**: I wish to express my heartfelt grrratitude to you, Semih Lafihna, for rrretrieving it from the wilds of the Northlands.
-- **9366**: I see. I have much to thank you for.
-- **9368**: It is $1. Please take them as a symbol of my rrrespect for your skill as a ranger.
-- **9369**: And so, Chieftainness Perih Vashai, I leave this land behind me to begin my next hunt.
+- **8929**: Chieftainness Perih Vashai, I apologize for this interruption.
+- **8932**: Attempt to rrreturn the past to dust if you will, but it will avail you naught. Dust is swept up by the wind, its scent carried on. The scent of my quarry.
+- **8934**: Be that as it may, the loss of the Bow of Light does not sit well with me.
+- **8935**: I will speak bluntly. Perih Vashai, I believe you strrruck some kind of deal with the sinner.
+- **8936**: Your daughter's age was close to that of the sinner's. Is it possible you sympathized with their plight?
+- **8938**: As I'm sure you are well aware, I won't be leaving this land until I have hunted down the sinner. I will enlighten the people of the Outlands on the evils of hiding sin.
+- **9311**: After learning the location of the daughter's final rrresting place, we trrraveled to a place known as the Eldieme Necropolis.
+- **9312**: There, we found $1. Piecing togetherrr everything I have heard, I believe it must belong to the sinner's daughter.
+- **9313**: However, one problem rrremains. Where is the other half of the stone? Where is the grrrave of the mother?
+- **9318**: Well, I will leave this task to you. Rrreturn here as soon as you find the $2.
+- **9324**: You found it... Yes, it's a perrrfect match with Syu Befrathi's $1.
+- **9326**: However, while this adventurer was perrrforming [his/her] task, I was busy talking with an important witness.
+- **9327**: This witness claims that the use of a shining bow was rrresponsible for your loss of sight.
+- **9328**: The witness also mentioned that the prisoners of Oztroja were saved by a bow that loosed arrows of light so dazzling, the Yagudo were struck blind. This could only describe the Bow of Light.
+- **9329**: It is time for the truth to be known. You are concealing the Bow of Light, aren't you? Have you been seduced by its powerrr, Perih Vashai?
+- **9330**: Even for one who is blind, surely you can see this has gone on long enough!
+- **9332**: Very well. It is said that you are not one to run and hide.
+- **9333**: I am in no hurry. Let us leave it at this for now.
+- **9334**: And this, adventurer, I give to you. May you always be on the side of justice.
+- **9364**: I now have the Bow of Light in my possession. The magicite that gave this bow its cursed power has been rrreturned to the land where it belongs.
+- **9365**: I wish to express my heartfelt grrratitude to you, Semih Lafihna, for rrretrieving it from the wilds of the Northlands.
+- **9367**: I see. I have much to thank you for.
+- **9369**: It is $1. Please take them as a symbol of my rrrespect for your skill as a ranger.
+- **9370**: And so, Chieftainness Perih Vashai, I leave this land behind me to begin my next hunt.
 
 ## Events
 
@@ -438,7 +438,7 @@
 #### Opcodes
 
 ```
-  0: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
+  0: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
     → "Chieftainness Perih Vashai, I apologize for this interruption."
   1: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0094 [0x00] END_REQSTACK()
@@ -463,7 +463,7 @@
 #### Opcodes
 
 ```
-  0: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+  0: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
     → "Attempt to rrreturn the past to dust if you will, but it will avail you naught. Dust is swept up by the wind, its scent carried on. The scent of my quarry."
   1: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0099 [0x00] END_REQSTACK()
@@ -488,7 +488,7 @@
 #### Opcodes
 
 ```
-  0: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
+  0: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
     → "Be that as it may, the loss of the Bow of Light does not sit well with me."
   1: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x009E [0x00] END_REQSTACK()
@@ -514,10 +514,10 @@
 #### Opcodes
 
 ```
-  0: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
+  0: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
     → "I will speak bluntly. Perih Vashai, I believe you strrruck some kind of deal with the sinner."
   1: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
+  2: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
     → "Your daughter's age was close to that of the sinner's. Is it possible you sympathized with their plight?"
   3: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00A7 [0x00] END_REQSTACK()
@@ -542,7 +542,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
+  0: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
     → "As I'm sure you are well aware, I won't be leaving this land until I have hunted down the sinner. I will enlighten the people of the Outlands on the evils of hiding sin."
   1: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00AC [0x00] END_REQSTACK()
@@ -718,7 +718,7 @@
 #### Opcodes
 
 ```
-  0: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9310*)
+  0: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9311*)
     → "After learning the location of the daughter's final rrresting place, we trrraveled to a place known as the Eldieme Necropolis."
   1: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00FF [0x00] END_REQSTACK()
@@ -743,7 +743,7 @@
 #### Opcodes
 
 ```
-  0: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=9311*)
+  0: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=9312*)
     → "There, we found $1. Piecing togetherrr everything I have heard, I believe it must belong to the sinner's daughter."
   1: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0104 [0x00] END_REQSTACK()
@@ -768,7 +768,7 @@
 #### Opcodes
 
 ```
-  0: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=9312*)
+  0: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=9313*)
     → "However, one problem rrremains. Where is the other half of the stone? Where is the grrrave of the mother?"
   1: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0109 [0x00] END_REQSTACK()
@@ -793,7 +793,7 @@
 #### Opcodes
 
 ```
-  0: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=9317*)
+  0: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=9318*)
     → "Well, I will leave this task to you. Rrreturn here as soon as you find the $2."
   1: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x010E [0x00] END_REQSTACK()
@@ -840,7 +840,7 @@
 #### Opcodes
 
 ```
-  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=9323*)
+  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=9324*)
     → "You found it... Yes, it's a perrrfect match with Syu Befrathi's $1."
   1: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0114 [0x00] END_REQSTACK()
@@ -865,7 +865,7 @@
 #### Opcodes
 
 ```
-  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9325*)
+  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9326*)
     → "However, while this adventurer was perrrforming [his/her] task, I was busy talking with an important witness."
   1: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0119 [0x00] END_REQSTACK()
@@ -890,7 +890,7 @@
 #### Opcodes
 
 ```
-  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9326*)
+  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9327*)
     → "This witness claims that the use of a shining bow was rrresponsible for your loss of sight."
   1: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011E [0x00] END_REQSTACK()
@@ -916,7 +916,7 @@
 #### Opcodes
 
 ```
-  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=9327*)
+  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=9328*)
     → "The witness also mentioned that the prisoners of Oztroja were saved by a bow that loosed arrows of light so dazzling, the Yagudo were struck blind. This could only describe the Bow of Light."
   1: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0123 [0x00] END_REQSTACK()
@@ -941,7 +941,7 @@
 #### Opcodes
 
 ```
-  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=9328*)
+  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=9329*)
     → "It is time for the truth to be known. You are concealing the Bow of Light, aren't you? Have you been seduced by its powerrr, Perih Vashai?"
   1: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0128 [0x00] END_REQSTACK()
@@ -966,7 +966,7 @@
 #### Opcodes
 
 ```
-  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9329*)
+  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9330*)
     → "Even for one who is blind, surely you can see this has gone on long enough!"
   1: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012D [0x00] END_REQSTACK()
@@ -992,7 +992,7 @@
 #### Opcodes
 
 ```
-  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=9331*)
+  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=9332*)
     → "Very well. It is said that you are not one to run and hide."
   1: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0132 [0x00] END_REQSTACK()
@@ -1017,7 +1017,7 @@
 #### Opcodes
 
 ```
-  0: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=9332*)
+  0: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=9333*)
     → "I am in no hurry. Let us leave it at this for now."
   1: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0137 [0x00] END_REQSTACK()
@@ -1042,7 +1042,7 @@
 #### Opcodes
 
 ```
-  0: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=9333*)
+  0: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=9334*)
     → "And this, adventurer, I give to you. May you always be on the side of justice."
   1: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013C [0x00] END_REQSTACK()
@@ -1170,7 +1170,7 @@
 #### Opcodes
 
 ```
-  0: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
+  0: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
     → "I now have the Bow of Light in my possession. The magicite that gave this bow its cursed power has been rrreturned to the land where it belongs."
   1: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0179 [0x00] END_REQSTACK()
@@ -1195,7 +1195,7 @@
 #### Opcodes
 
 ```
-  0: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
+  0: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=9365*)
     → "I wish to express my heartfelt grrratitude to you, Semih Lafihna, for rrretrieving it from the wilds of the Northlands."
   1: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017E [0x00] END_REQSTACK()
@@ -1221,7 +1221,7 @@
 #### Opcodes
 
 ```
-  0: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=9366*)
+  0: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=9367*)
     → "I see. I have much to thank you for."
   1: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0183 [0x00] END_REQSTACK()
@@ -1246,7 +1246,7 @@
 #### Opcodes
 
 ```
-  0: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=9368*)
+  0: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=9369*)
     → "It is $1. Please take them as a symbol of my rrrespect for your skill as a ranger."
   1: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0188 [0x00] END_REQSTACK()
@@ -1271,7 +1271,7 @@
 #### Opcodes
 
 ```
-  0: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=9369*)
+  0: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=9370*)
     → "And so, Chieftainness Perih Vashai, I leave this land behind me to begin my next hunt."
   1: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018D [0x00] END_REQSTACK()

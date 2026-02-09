@@ -1,5 +1,5 @@
 # Strings for Castle Oztroja
-# Total: 8343 strings
+# Total: 8344 strings
 
     0: Cannot reach target.
     1: It's locked.
@@ -7254,297 +7254,297 @@
  7250: Vana'Bout No. $0 has concluded.
  7251: Obtained temporary item: $0.
  7252: Lost temporary item: $0.
- 7253: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
- 7254: You are a fool for coming here to the throne room...alone.
- 7255: You say you are the Windurst Orastery minister, Ajido-Marujido?
- 7256: Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!
- 7257: I should cut you up and send you to Heavens Tower! Gawk! Gawk!
- 7258: Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.
- 7259: Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?
- 7260: Well, you Tarutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.
- 7261: Those ruins are evil.
- 7262: The towers sponge dry the areas around Sarutabaruta of all their magic.
- 7263: You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!
- 7264: The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
- 7265: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
- 7266: Kahk-ka-ka...I commend you on your perceptiveness.
- 7267: But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones.
- 7268: That night, twenty years ago, when we were defeated by your armies, you made a grave mistake...
- 7269: Kahk! Kahk! You still do not understand?
- 7270: Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did.
- 7271: The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!
- 7272: You can't fish here.
- 7273: You can't fish without a rod in your hands.
- 7274: You can't fish without bait on the hook.
- 7275: You can't fish at the moment.
- 7276: You didn't catch anything.
- 7277: %0 caught a monster!
- 7278: Your line breaks.
- 7279: Your rod breaks.
- 7280: Something caught the hook!
- 7281: You lost your catch.
- 7282: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7283: You feel there's something here.
- 7284: You feel there's something nearby.
- 7285: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7286: %0 caught $1 $0 !
- 7287: You dig and you dig, but find nothing.
- 7288: $0/$0p$3Z$3b$3g
- 7289: Your rod breaks. Whatever caught the hook was pretty big.
- 7290: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7291: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7292: You lost your catch due to your lack of skill.
- 7293: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7294: You didn't catch anything.
- 7295: The paper on your $0 ripped.
- 7296: A tiny goldfish approaches!
- 7297: A plump, black goldfish approaches!
- 7298: A fat, juicy goldfish approaches!
- 7299: There are no goldfish to be found...
- 7300: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7301: The goldfish slipped off your scoop...
- 7302: ch$0 skill up check.
- 7303: a:$0.
- 7304: Time $0 / Status $1 / $2
- 7305: d:$0. e:$1. f:$2. g:$3.
- 7306: h: $1. i: $0. sr: $2.
- 7307: j:$0. k:$1.
- 7308: You give up and reel in your line.
- 7309: You give up.
- 7310: %0 obtains $1 gil.
- 7311: %0 caught $0!
- 7312: You don't know how much longer you can keep this one on the line...
- 7313: You have a good feeling about this one!
- 7314: You have a bad feeling about this one.
- 7315: You have a terrible feeling about this one...
- 7316: You don't know if you have enough skill to reel this one in.
- 7317: You're fairly sure you don't have enough skill to reel this one in.
- 7318: You're positive you don't have enough skill to reel this one in!
- 7319: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7320: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7321: l: $0. m: $1. n: $2. CH: $3.
- 7322: Something caught the hook!!!
- 7323: You feel something pulling at your line.
- 7324: Something clamps onto your line ferociously!
- 7325: Your keen angler's senses tell you that this is the pull of $0!
- 7326: This strength... You get the sense that you are on the verge of an epic catch!
- 7327: The timer has started. $0 seconds remaining.
- 7328: $0sec.$1/$2sec.
- 7329: 0:$0 1:$1 2:$2 3:$3
- 7330: 4:$0 5:$1 6:$2 7:$3
- 7331: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7332: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7333: $0/$1($2j
- 7334: Version invalid error!
- 7335: Hurry before the goldfish sees you!
- 7336: %0 fishes up a large box!
- 7337: $23$o$P122$8$0
- 7338: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7339: PointF$0 >>> $1
- 7340: [$1($0)/skillF$1]
- 7341: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7342: Im Rnd : $0 Pz Rnd : $1
- 7343: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7344: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7345: skill : $0 size : $1 kind : $2 sch : $3
- 7346: time : $0 mes : $1 flag : $2 bonus : $3
- 7347: item : $0 hp : $1 pow : $2 swing : $3
- 7348: suc : $0 cons : $1 weight : $2 +- : $3
- 7349: speed : $0 +- : $1 exc : $2 client : $3
- 7350: general : $0
- 7351: ro:$0 rs:$1 ps:$2 dt:$3
- 7352: ra:$0 ti:$1
- 7353: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7354: You get the distinct sense that your moogle friend frequents this spot...
- 7355: You have a feeling that your moogle friend has been through this way...
- 7356: You suspect that the scenery around here would be to a moogle's liking...
- 7357: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7358: You have a hunch that this area would be favored by moogles...
- 7359: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7360: %0 catches $1 $0 !
- 7361: %0 obtained $6!
- 7362: It appears your chocobo found this item with ease.
- 7363: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7364: FPT $0 DPT $1 DoT$2
- 7365: FPT $0 TDPT $1 h$2
- 7366: You cannot fish at this time.
- 7367: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7368: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7369: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7370: You receive $0 bayld!
- 7371: Your chocobo refuses to partake of the $0.
- 7372: mes1
- 7373: mes2
- 7374: mes3
- 7375: mes4
- 7376: mes5
- 7377: mes6
- 7378: mes7
- 7379: mes8
- 7380: mes9
- 7381: mes10
- 7382: What do you do!? [(space)/EVENT/(space)/WARP/LEFT ZONE ONCE/FLAG RESET]
- 7383: $4391756$3x$3$3gH [ums301:$P14R%Lv/ufs002:$3t$3$3b$3V$3$5$3o$3b$3N$6948976$P13xE`$o=1FI7i/$3N$3G$3X$3gFLAGL]reset]
- 7384: $3342916DB [OK/$3N$3G$3X$3gFLAGL]reset]
- 7385: $5636657$3$1[$3vHL6a$3473990$P13`$20 $3L$3$3OL$T
- 7386: $6950732$10V$P16_h$3}$4653664i$3}$3$6750791q$3}$3$3}$3
- 7387: Raised user flag > <Player>
- 7388: Changed country > <Player>
- 7389: Lowered user flag > <Player>
- 7390: Raised zone flag > <Player>
- 7391: Lowered zone flag > <Player>
- 7392: Raised local flag > <Player>
- 7393: Lowered local flag > <Player>
- 7394: Raised org flag > <Player>
- 7395: Lowered org > <Player>
- 7396: Raised time flag > <Player>
- 7397: Lowered time flag > <Player>
- 7398: Raised talk flag > <Player>
- 7399: Lowered talk flag > <Player>
- 7400: Lowered alltalk > <Player>
- 7401: Raised counter flag > <Player>
- 7402: Lowered counter flag > <Player>
- 7403: Changed rank > <Player>
- 7404: Reset rank > <Player>
- 7405: Inserted counter-type zone flag > <Player>
- 7406: Reset counter-type zone flag > <Player>
- 7407: Reduced fame > <Player>
- 7408: Increased fame > <Player>
- 7409: Obtained scitem > <Player>
- 7410: Lost scitem > <Player>
- 7411: Obtained $7 > <Player>
- 7412: Lost $7 > <Player>
- 7413: Raised map flag > <Player>
- 7414: Lowered map > <Player>
- 7415: Oh!
- 7416: Why, hello again. What are you doing here?
- 7417: Oww...
- 7418: I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into.
- 7419: Say, you didn't follow me here out of worry, did you?
- 7420: Were you worried about me? [That's right./Never.]
- 7421: Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?
- 7422: I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?
- 7423: She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is.
- 7424: You've heard the legends of the Star Sibyl, right?
- 7425: In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land.
- 7426: But the first Star Sibyl gained the powers of the stars and moon at Full Moon Fountain. She found the stars of hope from within the darkness, and led Windurst to glory.
- 7427: She also left a historical text for future Sibyls. They found it recently... The Book of the Gods.
- 7428: And still the Star Sibyl is silentaru.
- 7429: That's why I came here... To find another witness of time. I wanted to seek out the Yagudo.
- 7430: They sure gave me a hearty reception, but the Yagudo king told me something...
- 7431: Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely.
- 7432: Well, I'll see you around. Back to Windurst for me.
- 7433: You find $6 marked with the sign of the eye.
- 7434: The door is shut tight.
- 7435: This chest is locked. It can be opened with $0.
- 7436: This chest is empty.
- 7437: Your inventory is full. You cannot carry any more items.
- 7438: You must be closer to the chest to open it.
- 7439: %0 opens the chest and finds $0.
- 7440: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7441: %0 obtains a key item, $6, from the chest.
- 7442: You obtain a key item, $6, from the chest.
- 7443: You unlock the chest!
- 7444: %0 fails to open the chest.
- 7445: The chest was trapped!
- 7446: You cannot open the chest when you are in a weakened state.
- 7447: The chest was a mimic!
- 7448: You cannot open the chest while participating in the moogle event.
- 7449: The chest was but an illusion...
- 7450: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7451: A mysterious flame is burning.
- 7452: You hold $0 over the flame... A peculiar scent covers the area.
- 7453: You hold $0 over the flame. But nothing happens.
- 7454: Tebhi happily accepts the $0 and leaves.
- 7455: The door is locked.
- 7456: If you hop down here, you be finding shortcut to the entrance of Castle Oztroja.
- 7457: I am Kaa Toru the Just.
- 7458: You be the victor of Balga Contest held in Giddeus, kyah? You be taking this $3 and your prize.
- 7459: This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged.
- 7460: Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you.
- 7461: ...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?
- 7462: Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just.
- 7463: You find nothing.
- 7464: Kahk-ka-ka... You filthy, dim-witted heretics! You have damned yourselves by coming here.
- 7465: Our lord, Tzee Xicu the Manifest! Even should our bodies be crushed and broken, may our souls endure into eternity...
- 7466: You are not here as sacrifices, are you? Could you possibly be committing this affront in the face of a deity? Very well, I will personally mete out your divine punishment, kyah!
- 7467: You have...bested me... However, I...am...a god... I will never die...never rot...never fade...never...
- 7468: Lemme see here. Looks like you've brought me $1 $0 . A deal's a deal, so here's the $2.
- 7469: They're not worth a whole lot, but ya done good to collect $1 $0 . Here's $2 for yer trouble.
- 7470: Whatcha got there? Looks like $1 $0 . Guess that means I gotta give you this $2.
- 7471: Here ya go, kid. $2 in exchange for ya $1 $0 .
- 7472: Well, you make an old Gob smile, you do. Not many people hand over $1 $0 . Take this $2 and get outta here.
- 7473: Now you're just showing off, bringing me $1 $0 . Here's your $2. Now scram, kid.
- 7474: Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.
- 7475: I got no interest in dealing with the likes of you. Don'tcha got a home to go to?
- 7476: $3? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.
- 7477: There's a story that says some things have their own soul.
- 7478: The $5 used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings.
- 7479: They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing.
- 7480: Now we come to the fun part. If you want a $3, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul.
- 7481: You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk.
- 7482: They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up $3 gil.
- 7483: $1 gil for $0, or $3 gil for $6.
- 7484: You want one, you hand me over the money. Like, with a quickness. So how's about it?
- 7485: What's that you got there? $0? You're quite the collector for one o' your kind.
- 7486: It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for $1.
- 7487: I add to my collection, you get some pocket change. A win-win situation, right? So just trade that $0 on over, why don't ya?
- 7488: $5, ya say? Ya got my jaw dropping, kid. Where did ya hear about things like that?
- 7489: Did ya know that some items have their own soul? After passing through the hands of hundreds of people, not to mention the paws of us beastmen, some items are transformed through contact with all those thoughts and feelings.
- 7490: These transformed items have the ability to focus mysterious powers. Us Goblins often come across this weird phenenom...phemomeno...stuff in our travels.
- 7491: Ya know, if ya really want $6, I could sell one to ya for the right price.
- 7492: But let me tell ya, kid. Only us Gobs can tell if an item is souled. Not even other beastmen--and definitely not you people--can tell the difference between normal junk and priceless artifacts.
- 7493: Makes me laugh to see you mugs throwing away those items like they was garbage. A souled item is worth a fortune, and ya ain't gonna get one cheap.
- 7494: $3 gil, and not a single gil less! Ya got a problem with that, kid?
- 7495: So if ya want one, stop dawdlin' around already and hand me over some money.
- 7496: What's that ya got there? $0!? Ya got unusual tastes for a person.
- 7497: Got no clue what ya been doin' with it, but I bet ya gots no use for it anymore. What say I lighten your load in exchange for, say, $1 gil?
- 7498: So whaddaya waitin' for? Hand that $0 right over and let's make a deal.
- 7499: I got a proposition for you. Before the Great War, a different currency was used in each of the three nations.
- 7500: But when gil became the coin of choice, all the other types of money were done away with. Now the old forms of currency are worthless to anyone besides a collector like me.
- 7501: You've never seen them before? Here, take a look at this.
- 7502: This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the $0, I'm guessing you'll be able to get your hands on a few of these.
- 7503: The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got.
- 7504: One's not gonna be enough, though. You bring me $1 $0 and I'll trade you a single $2. You don't look real interested, but hold up. I'm just getting started.
- 7505: If you've got $1 $0 , I'll give you a $2. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however.
- 7506: The $2 are truly valuable. I'll give you some really great stuff for the right number of those beauties. You got all that? You wanna do business with me, then you better start looking. I'll be right here when you're ready to trade.
- 7507: I got a deal for ya, kid. Did ya know that before the Great War, the three nations all had their own currencies?
- 7508: After that little fracas, everyone started using gil as the standard coin, and the other types of money just faded out of existence. Even if you was to find any nowadays, they only have value to Goblin collectors like me.
- 7509: You're looking a bit confused there, kid. Let me show ya what I'm talking about.
- 7510: This one's the least valuable of the lot. It was used as a part of the San d'Orian currency years ago. I know I told ya about the nations all having different currencies, but these San d'Orian coins are the only ones I'm interested in.
- 7511: If ya bring me these coins, I'll exchange them for something from my secret stash of treasure. Ya won't be getting anything for just one of them, so make sure ya collect a bagful, okay?
- 7512: Let me explain the deal. Bring me $1 $0 , and I'll give ya one $2. Where're ya going? Let me finish, will ya?
- 7513: Once ya got $1 $0 , ya can trade them for one $2. Or, ya can decide to exchange them for something from my treasure stash. Each item's gonna cost ya a different amount, so choose carefully.
- 7514: For the right number of $2, ya can choose from among the most valuable items in my hoard. 'Course, getting enough of them to trade with is another matter...
- 7515: Hmm? Was there something you wanted to ask me?
- 7516: What is it, kid? Ya got something to ask me?
- 7517: What do you want to ask about? [Nothing./Hourglasses./Maps./Old currencies./Trading $1.]
- 7518: Old currencies? I was telling you about how the three nations all used to have different types of money. You remember, right?
- 7519: Old currencies? I was telling ya about how the three nations all used to have different types of money. What, you forgot already?
- 7520: I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. I don't give discounts, but you're welcome back anytime.
- 7521: Ya really like your junk, huh? That's what this stuff looks like to most people, and ya just spent a fortune on it. You're my kinda people, kid.
- 7522: By the way, I don't give out receipts, and I don't take back items I already sold. I don't know what ya mean to do with the $0 and I don't much care, so take it and skedaddle.
- 7523: By the way, I don't give out receipts, and I don't take back items I already sold. I don't know what ya mean to do with the $3 and I don't much care, so take it and skedaddle.
- 7524: Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person.
- 7525: So you wanna make a deal here? Should be a good one for the both o' us.
- 7526: Here's the list of stuff you can trade your $0 for.
- 7527: Here's the list of stuff ya can trade your $0 for.
- 7528: This is $0. You want one, you're gonna have to bring me $2 $0$0 .
- 7529: This is $0. Ya want one, you're gonna have to bring me $2 $0$0 .
- 7530: What do you want to ask about? [Nothing./Hourglasses.]
- 7531: Trade me some $0 and I might give you some of my treasure. But don't think you're gonna get anything with just one!
- 7532: Trade me some $0 and I might give ya some of my treasure. But don't think you're gonna get anything with just one!
- 7533: Which item will you look at? [View next page./$1: $0 [coin/coins]./$3: $2 [coin/coins]./$5: $4 [coin/coins]./$7: $6 [coin/coins]./Nothing.]
- 7534: Which item will you look at? [View previous page./$1: $0 [coin/coins]./$3: $2 [coin/coins]./$5: $4 [coin/coins]./Nothing.]
- 7535: Which item will you look at? [Nothing.]
+ 7253: It won't open.
+ 7254: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
+ 7255: You are a fool for coming here to the throne room...alone.
+ 7256: You say you are the Windurst Orastery minister, Ajido-Marujido?
+ 7257: Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!
+ 7258: I should cut you up and send you to Heavens Tower! Gawk! Gawk!
+ 7259: Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.
+ 7260: Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?
+ 7261: Well, you Tarutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.
+ 7262: Those ruins are evil.
+ 7263: The towers sponge dry the areas around Sarutabaruta of all their magic.
+ 7264: You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!
+ 7265: The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
+ 7266: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
+ 7267: Kahk-ka-ka...I commend you on your perceptiveness.
+ 7268: But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones.
+ 7269: That night, twenty years ago, when we were defeated by your armies, you made a grave mistake...
+ 7270: Kahk! Kahk! You still do not understand?
+ 7271: Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did.
+ 7272: The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!
+ 7273: You can't fish here.
+ 7274: You can't fish without a rod in your hands.
+ 7275: You can't fish without bait on the hook.
+ 7276: You can't fish at the moment.
+ 7277: You didn't catch anything.
+ 7278: %0 caught a monster!
+ 7279: Your line breaks.
+ 7280: Your rod breaks.
+ 7281: Something caught the hook!
+ 7282: You lost your catch.
+ 7283: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7284: You feel there's something here.
+ 7285: You feel there's something nearby.
+ 7286: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7287: %0 caught $1 $0 !
+ 7288: You dig and you dig, but find nothing.
+ 7289: $0/$0p$3Z$3b$3g
+ 7290: Your rod breaks. Whatever caught the hook was pretty big.
+ 7291: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7292: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7293: You lost your catch due to your lack of skill.
+ 7294: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7295: You didn't catch anything.
+ 7296: The paper on your $0 ripped.
+ 7297: A tiny goldfish approaches!
+ 7298: A plump, black goldfish approaches!
+ 7299: A fat, juicy goldfish approaches!
+ 7300: There are no goldfish to be found...
+ 7301: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7302: The goldfish slipped off your scoop...
+ 7303: ch$0 skill up check.
+ 7304: a:$0.
+ 7305: Time $0 / Status $1 / $2
+ 7306: d:$0. e:$1. f:$2. g:$3.
+ 7307: h: $1. i: $0. sr: $2.
+ 7308: j:$0. k:$1.
+ 7309: You give up and reel in your line.
+ 7310: You give up.
+ 7311: %0 obtains $1 gil.
+ 7312: %0 caught $0!
+ 7313: You don't know how much longer you can keep this one on the line...
+ 7314: You have a good feeling about this one!
+ 7315: You have a bad feeling about this one.
+ 7316: You have a terrible feeling about this one...
+ 7317: You don't know if you have enough skill to reel this one in.
+ 7318: You're fairly sure you don't have enough skill to reel this one in.
+ 7319: You're positive you don't have enough skill to reel this one in!
+ 7320: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7321: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7322: l: $0. m: $1. n: $2. CH: $3.
+ 7323: Something caught the hook!!!
+ 7324: You feel something pulling at your line.
+ 7325: Something clamps onto your line ferociously!
+ 7326: Your keen angler's senses tell you that this is the pull of $0!
+ 7327: This strength... You get the sense that you are on the verge of an epic catch!
+ 7328: The timer has started. $0 seconds remaining.
+ 7329: $0sec.$1/$2sec.
+ 7330: 0:$0 1:$1 2:$2 3:$3
+ 7331: 4:$0 5:$1 6:$2 7:$3
+ 7332: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7333: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7334: $0/$1($2j
+ 7335: Version invalid error!
+ 7336: Hurry before the goldfish sees you!
+ 7337: %0 fishes up a large box!
+ 7338: $23$o$P122$8$0
+ 7339: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7340: PointF$0 >>> $1
+ 7341: [$1($0)/skillF$1]
+ 7342: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7343: Im Rnd : $0 Pz Rnd : $1
+ 7344: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7345: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7346: skill : $0 size : $1 kind : $2 sch : $3
+ 7347: time : $0 mes : $1 flag : $2 bonus : $3
+ 7348: item : $0 hp : $1 pow : $2 swing : $3
+ 7349: suc : $0 cons : $1 weight : $2 +- : $3
+ 7350: speed : $0 +- : $1 exc : $2 client : $3
+ 7351: general : $0
+ 7352: ro:$0 rs:$1 ps:$2 dt:$3
+ 7353: ra:$0 ti:$1
+ 7354: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7355: You get the distinct sense that your moogle friend frequents this spot...
+ 7356: You have a feeling that your moogle friend has been through this way...
+ 7357: You suspect that the scenery around here would be to a moogle's liking...
+ 7358: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7359: You have a hunch that this area would be favored by moogles...
+ 7360: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7361: %0 catches $1 $0 !
+ 7362: %0 obtained $6!
+ 7363: It appears your chocobo found this item with ease.
+ 7364: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7365: FPT $0 DPT $1 DoT$2
+ 7366: FPT $0 TDPT $1 h$2
+ 7367: You cannot fish at this time.
+ 7368: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7369: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7370: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7371: You receive $0 bayld!
+ 7372: Your chocobo refuses to partake of the $0.
+ 7373: mes1
+ 7374: mes2
+ 7375: mes3
+ 7376: mes4
+ 7377: mes5
+ 7378: mes6
+ 7379: mes7
+ 7380: mes8
+ 7381: mes9
+ 7382: mes10
+ 7383: What do you do!? [(space)/EVENT/(space)/WARP/LEFT ZONE ONCE/FLAG RESET]
+ 7384: $4391756$3x$3$3gH [ums301:$P14R%Lv/ufs002:$3t$3$3b$3V$3$5$3o$3b$3N$6948976$P13xE`$o=1FI7i/$3N$3G$3X$3gFLAGL]reset]
+ 7385: $3342916DB [OK/$3N$3G$3X$3gFLAGL]reset]
+ 7386: $5636657$3$1[$3vHL6a$3473990$P13`$20 $3L$3$3OL$T
+ 7387: $6950732$10V$P16_h$3}$4653664i$3}$3$6750791q$3}$3$3}$3
+ 7388: Raised user flag > <Player>
+ 7389: Changed country > <Player>
+ 7390: Lowered user flag > <Player>
+ 7391: Raised zone flag > <Player>
+ 7392: Lowered zone flag > <Player>
+ 7393: Raised local flag > <Player>
+ 7394: Lowered local flag > <Player>
+ 7395: Raised org flag > <Player>
+ 7396: Lowered org > <Player>
+ 7397: Raised time flag > <Player>
+ 7398: Lowered time flag > <Player>
+ 7399: Raised talk flag > <Player>
+ 7400: Lowered talk flag > <Player>
+ 7401: Lowered alltalk > <Player>
+ 7402: Raised counter flag > <Player>
+ 7403: Lowered counter flag > <Player>
+ 7404: Changed rank > <Player>
+ 7405: Reset rank > <Player>
+ 7406: Inserted counter-type zone flag > <Player>
+ 7407: Reset counter-type zone flag > <Player>
+ 7408: Reduced fame > <Player>
+ 7409: Increased fame > <Player>
+ 7410: Obtained scitem > <Player>
+ 7411: Lost scitem > <Player>
+ 7412: Obtained $7 > <Player>
+ 7413: Lost $7 > <Player>
+ 7414: Raised map flag > <Player>
+ 7415: Lowered map > <Player>
+ 7416: Oh!
+ 7417: Why, hello again. What are you doing here?
+ 7418: Oww...
+ 7419: I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into.
+ 7420: Say, you didn't follow me here out of worry, did you?
+ 7421: Were you worried about me? [That's right./Never.]
+ 7422: Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?
+ 7423: I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?
+ 7424: She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is.
+ 7425: You've heard the legends of the Star Sibyl, right?
+ 7426: In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land.
+ 7427: But the first Star Sibyl gained the powers of the stars and moon at Full Moon Fountain. She found the stars of hope from within the darkness, and led Windurst to glory.
+ 7428: She also left a historical text for future Sibyls. They found it recently... The Book of the Gods.
+ 7429: And still the Star Sibyl is silentaru.
+ 7430: That's why I came here... To find another witness of time. I wanted to seek out the Yagudo.
+ 7431: They sure gave me a hearty reception, but the Yagudo king told me something...
+ 7432: Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely.
+ 7433: Well, I'll see you around. Back to Windurst for me.
+ 7434: You find $6 marked with the sign of the eye.
+ 7435: The door is shut tight.
+ 7436: This chest is locked. It can be opened with $0.
+ 7437: This chest is empty.
+ 7438: Your inventory is full. You cannot carry any more items.
+ 7439: You must be closer to the chest to open it.
+ 7440: %0 opens the chest and finds $0.
+ 7441: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7442: %0 obtains a key item, $6, from the chest.
+ 7443: You obtain a key item, $6, from the chest.
+ 7444: You unlock the chest!
+ 7445: %0 fails to open the chest.
+ 7446: The chest was trapped!
+ 7447: You cannot open the chest when you are in a weakened state.
+ 7448: The chest was a mimic!
+ 7449: You cannot open the chest while participating in the moogle event.
+ 7450: The chest was but an illusion...
+ 7451: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7452: A mysterious flame is burning.
+ 7453: You hold $0 over the flame... A peculiar scent covers the area.
+ 7454: You hold $0 over the flame. But nothing happens.
+ 7455: Tebhi happily accepts the $0 and leaves.
+ 7456: The door is locked.
+ 7457: If you hop down here, you be finding shortcut to the entrance of Castle Oztroja.
+ 7458: I am Kaa Toru the Just.
+ 7459: You be the victor of Balga Contest held in Giddeus, kyah? You be taking this $3 and your prize.
+ 7460: This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged.
+ 7461: Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you.
+ 7462: ...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?
+ 7463: Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just.
+ 7464: You find nothing.
+ 7465: Kahk-ka-ka... You filthy, dim-witted heretics! You have damned yourselves by coming here.
+ 7466: Our lord, Tzee Xicu the Manifest! Even should our bodies be crushed and broken, may our souls endure into eternity...
+ 7467: You are not here as sacrifices, are you? Could you possibly be committing this affront in the face of a deity? Very well, I will personally mete out your divine punishment, kyah!
+ 7468: You have...bested me... However, I...am...a god... I will never die...never rot...never fade...never...
+ 7469: Lemme see here. Looks like you've brought me $1 $0 . A deal's a deal, so here's the $2.
+ 7470: They're not worth a whole lot, but ya done good to collect $1 $0 . Here's $2 for yer trouble.
+ 7471: Whatcha got there? Looks like $1 $0 . Guess that means I gotta give you this $2.
+ 7472: Here ya go, kid. $2 in exchange for ya $1 $0 .
+ 7473: Well, you make an old Gob smile, you do. Not many people hand over $1 $0 . Take this $2 and get outta here.
+ 7474: Now you're just showing off, bringing me $1 $0 . Here's your $2. Now scram, kid.
+ 7475: Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.
+ 7476: I got no interest in dealing with the likes of you. Don'tcha got a home to go to?
+ 7477: $3? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.
+ 7478: There's a story that says some things have their own soul.
+ 7479: The $5 used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings.
+ 7480: They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing.
+ 7481: Now we come to the fun part. If you want a $3, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul.
+ 7482: You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk.
+ 7483: They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up $3 gil.
+ 7484: $1 gil for $0, or $3 gil for $6.
+ 7485: You want one, you hand me over the money. Like, with a quickness. So how's about it?
+ 7486: What's that you got there? $0? You're quite the collector for one o' your kind.
+ 7487: It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for $1.
+ 7488: I add to my collection, you get some pocket change. A win-win situation, right? So just trade that $0 on over, why don't ya?
+ 7489: $5, ya say? Ya got my jaw dropping, kid. Where did ya hear about things like that?
+ 7490: Did ya know that some items have their own soul? After passing through the hands of hundreds of people, not to mention the paws of us beastmen, some items are transformed through contact with all those thoughts and feelings.
+ 7491: These transformed items have the ability to focus mysterious powers. Us Goblins often come across this weird phenenom...phemomeno...stuff in our travels.
+ 7492: Ya know, if ya really want $6, I could sell one to ya for the right price.
+ 7493: But let me tell ya, kid. Only us Gobs can tell if an item is souled. Not even other beastmen--and definitely not you people--can tell the difference between normal junk and priceless artifacts.
+ 7494: Makes me laugh to see you mugs throwing away those items like they was garbage. A souled item is worth a fortune, and ya ain't gonna get one cheap.
+ 7495: $3 gil, and not a single gil less! Ya got a problem with that, kid?
+ 7496: So if ya want one, stop dawdlin' around already and hand me over some money.
+ 7497: What's that ya got there? $0!? Ya got unusual tastes for a person.
+ 7498: Got no clue what ya been doin' with it, but I bet ya gots no use for it anymore. What say I lighten your load in exchange for, say, $1 gil?
+ 7499: So whaddaya waitin' for? Hand that $0 right over and let's make a deal.
+ 7500: I got a proposition for you. Before the Great War, a different currency was used in each of the three nations.
+ 7501: But when gil became the coin of choice, all the other types of money were done away with. Now the old forms of currency are worthless to anyone besides a collector like me.
+ 7502: You've never seen them before? Here, take a look at this.
+ 7503: This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the $0, I'm guessing you'll be able to get your hands on a few of these.
+ 7504: The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got.
+ 7505: One's not gonna be enough, though. You bring me $1 $0 and I'll trade you a single $2. You don't look real interested, but hold up. I'm just getting started.
+ 7506: If you've got $1 $0 , I'll give you a $2. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however.
+ 7507: The $2 are truly valuable. I'll give you some really great stuff for the right number of those beauties. You got all that? You wanna do business with me, then you better start looking. I'll be right here when you're ready to trade.
+ 7508: I got a deal for ya, kid. Did ya know that before the Great War, the three nations all had their own currencies?
+ 7509: After that little fracas, everyone started using gil as the standard coin, and the other types of money just faded out of existence. Even if you was to find any nowadays, they only have value to Goblin collectors like me.
+ 7510: You're looking a bit confused there, kid. Let me show ya what I'm talking about.
+ 7511: This one's the least valuable of the lot. It was used as a part of the San d'Orian currency years ago. I know I told ya about the nations all having different currencies, but these San d'Orian coins are the only ones I'm interested in.
+ 7512: If ya bring me these coins, I'll exchange them for something from my secret stash of treasure. Ya won't be getting anything for just one of them, so make sure ya collect a bagful, okay?
+ 7513: Let me explain the deal. Bring me $1 $0 , and I'll give ya one $2. Where're ya going? Let me finish, will ya?
+ 7514: Once ya got $1 $0 , ya can trade them for one $2. Or, ya can decide to exchange them for something from my treasure stash. Each item's gonna cost ya a different amount, so choose carefully.
+ 7515: For the right number of $2, ya can choose from among the most valuable items in my hoard. 'Course, getting enough of them to trade with is another matter...
+ 7516: Hmm? Was there something you wanted to ask me?
+ 7517: What is it, kid? Ya got something to ask me?
+ 7518: What do you want to ask about? [Nothing./Hourglasses./Maps./Old currencies./Trading $1.]
+ 7519: Old currencies? I was telling you about how the three nations all used to have different types of money. You remember, right?
+ 7520: Old currencies? I was telling ya about how the three nations all used to have different types of money. What, you forgot already?
+ 7521: I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. I don't give discounts, but you're welcome back anytime.
+ 7522: Ya really like your junk, huh? That's what this stuff looks like to most people, and ya just spent a fortune on it. You're my kinda people, kid.
+ 7523: By the way, I don't give out receipts, and I don't take back items I already sold. I don't know what ya mean to do with the $0 and I don't much care, so take it and skedaddle.
+ 7524: By the way, I don't give out receipts, and I don't take back items I already sold. I don't know what ya mean to do with the $3 and I don't much care, so take it and skedaddle.
+ 7525: Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person.
+ 7526: So you wanna make a deal here? Should be a good one for the both o' us.
+ 7527: Here's the list of stuff you can trade your $0 for.
+ 7528: Here's the list of stuff ya can trade your $0 for.
+ 7529: This is $0. You want one, you're gonna have to bring me $2 $0$0 .
+ 7530: This is $0. Ya want one, you're gonna have to bring me $2 $0$0 .
+ 7531: What do you want to ask about? [Nothing./Hourglasses.]
+ 7532: Trade me some $0 and I might give you some of my treasure. But don't think you're gonna get anything with just one!
+ 7533: Trade me some $0 and I might give ya some of my treasure. But don't think you're gonna get anything with just one!
+ 7534: Which item will you look at? [View next page./$1: $0 [coin/coins]./$3: $2 [coin/coins]./$5: $4 [coin/coins]./$7: $6 [coin/coins]./Nothing.]
+ 7535: Which item will you look at? [View previous page./$1: $0 [coin/coins]./$3: $2 [coin/coins]./$5: $4 [coin/coins]./Nothing.]
  7536: Which item will you look at? [Nothing.]
- 7537: Which item will you look at? [View next page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./$7: $6 [bill/bills]./Nothing.]
- 7538: Which item will you look at? [View previous page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./Nothing.]
- 7539: Which item will you look at? [Nothing.]
+ 7537: Which item will you look at? [Nothing.]
+ 7538: Which item will you look at? [View next page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./$7: $6 [bill/bills]./Nothing.]
+ 7539: Which item will you look at? [View previous page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./Nothing.]
  7540: Which item will you look at? [Nothing.]
- 7541: Which item will you look at? [View next page./$1: $0 [shell/shells]./$3: $2 [shell/shells]./$5: $4 [shell/shells]./$7: $6 [shell/shells]./Nothing.]
- 7542: Which item will you look at? [View previous page./$1: $0 [shell/shells]./$3: $2 [shell/shells]./$5: $4 [shell/shells]./Nothing.]
- 7543: Which item will you look at? [Nothing.]
+ 7541: Which item will you look at? [Nothing.]
+ 7542: Which item will you look at? [View next page./$1: $0 [shell/shells]./$3: $2 [shell/shells]./$5: $4 [shell/shells]./$7: $6 [shell/shells]./Nothing.]
+ 7543: Which item will you look at? [View previous page./$1: $0 [shell/shells]./$3: $2 [shell/shells]./$5: $4 [shell/shells]./Nothing.]
  7544: Which item will you look at? [Nothing.]
  7545: Which item will you look at? [Nothing.]
  7546: Which item will you look at? [Nothing.]
@@ -7558,789 +7558,790 @@
  7554: Which item will you look at? [Nothing.]
  7555: Which item will you look at? [Nothing.]
  7556: Which item will you look at? [Nothing.]
- 7557: You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is.
- 7558: Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.
- 7559: You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.
- 7560: Hold it right there, pal! Is that $0 you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch. Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.
- 7561: Hrmmm. It'd take a lotta work, but I could make that power shine through again. Okay, [adventure-boy/adventure-girl], you got something to write with?
- 7562: To reforge the $0, I'm gonna need $1, $2, and $3. Yep, that's the bare minimum.
- 7563: Bring along the $0 with those three items and I'll get to work for you. I've told you what I need, the rest is up to you.
- 7564: You got me what I need? Lemme see here, $1, $2, and $3. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.
- 7565: Oh, and I got no interest in gil. My fee for this job is $5 $0$4 . You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.
- 7566: Reforging the $0 is gonna cost you $2 $0$0 . You pay me and I start working. See you when you get back with my fee.
- 7567: You brought me my $2 $0$0 ? Right, time to get to work. My forge is hot and ready to go.
- 7568: The Goblin way of smithing is a little different from your fancy-schmancy "synthesis." I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?
- 7569: You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience. Let me get back to work, will ya? Sheesh.
- 7570: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
- 7571: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
- 7572: The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.
- 7573: The top sellers at the moment are $1, $2, and $3. There are others I could think of, but those three bring in the most cash. Don't forget to bring the $0 back with you, too.
- 7574: Those three items cover the cost of materials for reforging the $0, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.
- 7575: Oho, you brought me what I asked for? $1, $2, and $3. My pockets are gonna be bulging when I unload this stuff, heh heh.
- 7576: Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the $0 for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.
- 7577: The fee, including my cut for the referral, comes out to $5 $0$4 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
- 7578: I don't have the skill to reforge the $0 you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.
- 7579: The fee, including my cut for the referral, comes out to $2 $0$0 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
- 7580: It's tough even for us Gobs to collect $1, and you've brought me $2 of them. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
- 7581: You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.
- 7582: This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?
- 7583: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
- 7584: This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
- 7585: You can now request Switchstix to reforge a second $0.
- 7586: Hold on, [adventure-boy/adventure-girl]. I remember you... That $0 you've got there. Didn't I already reforge one for you?
- 7587: Don't tell me you want another... [I do!/No. Just forget it.]
- 7588: Hmmm... Hmmm...... You know you can only carry one of those things, right?
- 7589: Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging.
- 7590: ===Weapon Reforging in Progress=== Still $2 days and $1 hours until completion. Weapon in the forge: $0.
- 7591: "Trade" the $6 to the "Hieroglyphics" found in each area. The $6 will be transformed into $7.
- 7592: From that point on, one of the areas of Dynamis will be reserved by the bearer of the $7. The destination and time to be spent in Dynamis will be recorded in the help text of the $7.
- 7593: By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the $7's help text.
- 7594: Using the $7 creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.
- 7595: The number of characters that can enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to $4 people.
- 7596: The $7 can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of $7 to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.
- 7597: To warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], "Trade" the $7 to the "Hieroglyphics" where you originally received it.
- 7598: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $7.
- 7599: In addition, only players above level 64 can travel to the Shrouded Land.
- 7600: Ensuring that you have $6 in your possession, seek out the "Trail Markings" or "Hieroglyphics" found in each area.
- 7601: Examine them and you will be granted entrance to the corresponding Dynamis area.
- 7602: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.
- 7603: Your stay in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.
- 7604: Parties and alliances can extend their duration of stay by defeating certain enemies.
- 7605: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $3.
- 7606: Remember that only players level 65 or above can travel to the Shrouded Land.
- 7607: Furthermore, it is not possible to reserve Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using $6 or $7.
- 7608: Even if you leave Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO'd, you can reenter the same area without restriction as long as it is within the designated time of the $7.
- 7609: However, you will be in a weakened state for some time upon returning to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
- 7610: This weakened state will last for longer than the usual period experienced after being raised from KO status.
- 7611: Upon entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different $7 for $3 [day/days] (Earth time).
- 7612: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:
- 7613: Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]
- 7614: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
- 7615: Travel to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per [day/ten minutes] (Earth time).
- 7616: Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.
- 7617: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.
- 7618: Dynamis - [Dummy/Bastok/San d'Oria/San d'Oria/San d'Oria/San d'Oria/San d'Oria/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Windurst/Windurst/Bastok/Bastok/Bastok/Bastok/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Jeuno/Jeuno/Jeuno/Windurst/Windurst/Windurst/Dummy/Dummy/Dummy/Dummy].
- 7619: Dynamis - [Dummy/Beaucedine/Beaucedine/Beaucedine/Beaucedine/Jeuno/Jeuno/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Beaucedine/Dummy/Dummy/Dummy/Dummy].
- 7620: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
- 7621: In Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.
- 7622: Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.
- 7623: Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.
- 7624: Starting from when the first character enters, if the number of people in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately $2 [minute/minutes] (Earth time), the time and area designation on the $7 will be canceled.
- 7625: When battling enemies in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.
- 7626: Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.
- 7627: Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.
- 7628: I'll exchange you $2 $0$0 for a $0. They're worth a bunch, so don't go giving 'em away.
- 7629: Ya can also exchange a $0 for $2 $0$0 . Gonna take ya a while to find, kid. Hope you're patient.
- 7630: Alrighty, $2 $0$0 in exchange for your $0.
- 7631: Here's ya $2 $0$0 , and I get ta pocket the $0.
- 7632: Hey, you're the [guy/gal] with the $0, right? I got some good news for you.
- 7633: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
- 7634: For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.
- 7635: They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.
- 7636: Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.
- 7637: Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
- 7638: My buddy mentioned in his letter that he'd be willing to trade his discovery for your $0, as long as you throw $1 into the bargain.
- 7639: Wait a sec...$1? Can't say I've ever heard of it myself. No description in the letter about it neither.
- 7640: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
- 7641: So this is $1? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?
- 7642: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be $5 $0$4 , please!
- 7643: Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!
- 7644: Your fee this time around is $2 $0$0 .
- 7645: My buddies are gonna hear about this--$2 $0$0 ! You shoulda been born a Gob! You can leave the $0 with me.
- 7646: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
- 7647: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
- 7648: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
- 7649: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
- 7650: You hear a voice from somewhere...
- 7651: The voice has gone silent...
- 7652: What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know.
- 7653: Whachya got there? $4? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?
- 7654: Doesn't matter how great a blacksmith I am, there's not much I can do with just $4. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say.
- 7655: ... Are you searching for me?
- 7656: Are you the one who is searching for me? Then prove it through your actions...
- 7657: My body will be made from $0 and $1. You will also need to prepare $3 $0 .
- 7658: Once these things are gathered, come to the fortress built by the avians. There is a courtyard within... Do not forget the $4.
- 7659: If you do all this, I will show myself to you. I will be waiting...
- 7660: ... Do you wish to possess me?
- 7661: Are you the one who wishes to possess me? Then show me the proof of your zeal.
- 7662: You will need $0 for my graceful form, and $1 to be my flawless soul. And $3 $0 will be my bond.
- 7663: Bring the $4 and these tokens to the forbidden forest in the east, to the base of the great tree that towers above all.
- 7664: Only then will your eyes behold my beauty. Until that day...
- 7665: ... Dost thou need my power at thy side?
- 7666: Art thou the one who seeks my power? Then show me the strength of thine will.
- 7667: Seek thee out $1 to be my spirit, and $0 for my physical form. And to buy my indulgence, $3 $0 .
- 7668: Bring these baubles and the $4 to the holy spring in the lair of the true dragon.
- 7669: And then shalt thou behold my true form...
- 7670: ... Are you the one who has called upon me?
- 7671: Are you the one who desires my power? Do you seek the means to end the world?
- 7672: Then I will have $0 for my flesh, and $1 to unbind my spirit. And I demand of you $3 $0 .
- 7673: Take these offerings to the chasm of the land encased in ice, and seek out the water that lies at its end. Do not forget the $4...
- 7674: Your efforts will be rewarded with a power beyond anything you have ever possessed.
- 7675: ... You, wield me?
- 7676: You, want wield me? Me? Me hunger. You, bring. Me, sated.
- 7677: Me, body, strong axe, $0. Me, heart, $1. Me, value, $3 $0 .
- 7678: You, bring, me. South...? West...? Sand, much, island. Rock? Mountain?
- 7679: You, come? You, no forget bring $4. You, be master, me.
- 7680: ... You wish to see me?
- 7681: You wish to see the splendid hero sung of in legend? Then prove your love to me.
- 7682: I require the weapon, $0. I seek to possess $1. I desire the wealth of $3 $0 .
- 7683: Gather my demands along with the $4 and venture upon the grand bridge, to the garden at the top of the tower.
- 7684: There I will grant you audience in all my glory.
- 7685: ... Heh heh heh, you need me now, don't you?
- 7686: Whether it be fortune or disaster, your steps unwittingly lead you to me. You have approached the forbidden border...
- 7687: Very well. You will bring a weapon, $0, to serve as my material shell. And $1 liberated from Dynamis, as well as $3 $0 .
- 7688: Once you have all these things, thrust them into the great waterfall along with the $4. You know the place I speak of?
- 7689: If you accomplish this feat, I will recognize you as my wielder.
- 7690: ... You have been looking for me? For Odin's spear, the incarnation of lightning...?
- 7691: Do not try to hide your desire. You seek a force that topples armies, triumphs against sorcery, and approaches the power of the gods...
- 7692: A wise choice. First, seek $1. Second, the $0, a lance of unsurpassed quality, to act as my earthly manifestation. Lastly, you will bring me $3 $0 .
- 7693: Take these along with the $4 and seek me out in the city in the clouds.
- 7694: If you succeed in discovering my decaying remains, I will see fit to realize your desire.
- 7695: ... Am I the one you seek?
- 7696: If you do indeed wish to find me, I will ask of you an arduous task.
- 7697: As my blade I will have you bring me $0. And to guide my soul to that blade, $1. I also wish of you a bounty of $3 $0 .
- 7698: Bring these things to the southeastern island, to the place where the bandits dwell. An old box will be the object of your search. Do not forget to bring the $4...
- 7699: If you discover my resting place, I shall willingly fly to your side.
- 7700: ... Am I the object of your search?
- 7701: Do you scour the land for my presence?
- 7702: Then gather unto yourself $1 for my soul, and $0 to be the cage to hold it. And I demand of you $3 $0 .
- 7703: You are to offer these to me, along with the $4, on the peak of the mountain that looms above the forest and the city of knights.
- 7704: Then shall I willingly enter your service.
- 7705: Do you seek my strength?
- 7706: I am mightier than you could ever imagine. You seem powerful already. Do you still seek to possess that which is stronger?
- 7707: Very well. You will find me $0 to be my body, and $1 to complement my soul. And you will offer me $3 $0 .
- 7708: When you have these in your possession, take the $4 and venture deep into the forbidden forest. Look for the shining stone.
- 7709: I await your coming...
- 7710: ... So, you are searching for me?
- 7711: I am the key to the gate of hell. And yet you search for me? Do not try to deny it.
- 7712: If you wish to wield my forbidden power, then bring me $0, a staff of uncommon craftsmanship.
- 7713: You will also require $1 and $3 $0 to free me from my chains. Do not forget to bring the $4...
- 7714: This task will be harder than you believe. But if you succeed in gathering these things, bring them to the island overgrown with jungle, to the place that lies closest to the infernal flames.
- 7715: Once you have accomplished this, my unearthly power will be yours.
- 7716: ... Do you quest for me?
- 7717: I knew it to be so. I was once the bow of a famous archer, but have since passed through many hands to my present masterless state.
- 7718: If you would draw me in battle, then I must have $0, a great bow, to be my foundation. You will also require $1 and $3 $0 .
- 7719: When you have these in hand, bring them with the $4 to the beach of the land to the west and the south.
- 7720: I will be waiting for you.
- 7721: ... You are the one who hunts for me?
- 7722: You are aware of my reputation for destruction?
- 7723: If you still intend to own me, then I will have $0, a weapon suitable to serve as my barrel. And I will have $1 and $3 $0 as further recompense.
- 7724: Once you have what I require, you will find me in the southwestern nation where the children who play with fire reside. And do not forget the $4...
- 7725: I will be waiting.
- 7726: ... Do you wish to play a tune with me?
- 7727: If you wish to hear my strident call, then you must collect my pieces.
- 7728: $1 is my bold timbre, and $0 will provide my body. And my music must be paid for with $3 $0 .
- 7729: When you have the parts I require, take up the $4 and come to the valley in the west where the wind blows its own symphony.
- 7730: Then I will break my silence for you...
- 7731: Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
- 7732: Third Stage/Reforge Complete Reforge of $0 complete. Now you have a new toy: $1
- 7733: Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!
- 7734: Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your $0 is hiding some real potential.
- 7735: Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready.
- 7736: I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is $2 $0$0 . Better throw in $4 $0$3 . Oh, and don't forget $6 $0$5 .
- 7737: That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff.
- 7738: My fee for reforging your $0 is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
- 7739: You pay me and I start working. See you when you get back with my fee.
- 7740: You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here.
- 7741: Right, time to get to work. My forge is hot and ready to go.
- 7742: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
- 7743: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
- 7744: The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.
- 7745: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and while we're at it, $6 $0$5 .
- 7746: It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
- 7747: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and $6 $0$5 .
- 7748: It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
- 7749: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
- 7750: This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
- 7751: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
- 7752: Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.
- 7753: Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
- 7754: My buddy mentioned in his letter that he'd be willing to trade his own discovery for your $0, as long as you throw $1 into the bargain.
- 7755: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
- 7756: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.
- 7757: I'm gonna hit you up for $2 $0$0 , $4 $0$3 , and $6 $0$5 .
- 7758: Your fee this time around is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
- 7759: My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the $0 with me.
- 7760: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
- 7761: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
- 7762: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
- 7763: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
- 7764: Whachya got there? $4? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?
- 7765: ...You wish me to protect you?
- 7766: You seek an impenetrable wall with which to defend yourself and your companions? I will be that shield for you.
- 7767: However... You must provide $0 and $1 for my impervious foundation.
- 7768: You will also require $3 $0 as a sign of good faith.
- 7769: Bring these along with the $4 to the place by the channel where my wise servant rests his wings.
- 7770: If this is done, I will pledge to you an unshakable defense--a shield upon which the claws of fiends will break, and the finest blades will shatter...
- 7771: You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm.
- 7772: What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?
- 7773: I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts.
- 7774: Do you really wanna cancel the reforging order?
- 7775: Cancel the order? [Yes, I've made up my mind./Gob, no!]
- 7776: Are you really sure? I make out like a Gob in a junkyard, and you lose everything.
- 7777: Are you really, really, really sure?
- 7778: Are you really sure? [Really!/Not really...]
- 7779: Well, alrighty then... Consider your order canceled. Null and void! Never happened!
- 7780: Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?
- 7781: Your relic reforging order has been canceled.
- 7782: Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment.
- 7783: Us Gobs, we can get anywhere with our noses and our smarts. But yeah, I got what you're lookin' for. For the right price, that is.
- 7784: Buy a map? (Current gil: $11). [Not now./Dynamis - San d'Oria ($1)./Dynamis - Bastok ($2)./Dynamis - Windurst ($3)./Dynamis - Jeuno ($4)./Dynamis - Beaucedine ($5)./Dynamis - Xarcabard ($6)./Dynamis - Valkurm ($7)./Dynamis - Buburimu ($8)./Dynamis - Qufim ($9)./Dynamis - Tavnazia ($10).]
- 7785: Buy $6? [Deal!/No deal.]
- 7786: There is nothing out of the ordinary here.
- 7787: You can hear a strange voice... "Items, items, la la la la la`t"
- 7788: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7789: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7790: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7791: Now, listen close...
- 7792: Oh... Well, if that's the case, I'm outta here.
- 7793: The Goblin slipped away when you were not looking...
- 7794: You can hear a strange, raspy voice...
- 7795: I travel......hear lots... Hear...stories... Can tell...if...
- 7796: .........listen......
- 7797: Oh...... ...outta here.........
- 7798: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7799: What story would you like to be told? [On second thought, maybe later./To Each His Own Right./Spharai./Picture Perfect(pt.1)./Picture Perfect(pt.2)./Picture Perfect(pt.3)./Picture Perfect(pt.4)./Picture Perfect(pt.5)./To Kill Mocking Birds.]
- 7800: 
+ 7557: Which item will you look at? [Nothing.]
+ 7558: You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is.
+ 7559: Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.
+ 7560: You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.
+ 7561: Hold it right there, pal! Is that $0 you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch. Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.
+ 7562: Hrmmm. It'd take a lotta work, but I could make that power shine through again. Okay, [adventure-boy/adventure-girl], you got something to write with?
+ 7563: To reforge the $0, I'm gonna need $1, $2, and $3. Yep, that's the bare minimum.
+ 7564: Bring along the $0 with those three items and I'll get to work for you. I've told you what I need, the rest is up to you.
+ 7565: You got me what I need? Lemme see here, $1, $2, and $3. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.
+ 7566: Oh, and I got no interest in gil. My fee for this job is $5 $0$4 . You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.
+ 7567: Reforging the $0 is gonna cost you $2 $0$0 . You pay me and I start working. See you when you get back with my fee.
+ 7568: You brought me my $2 $0$0 ? Right, time to get to work. My forge is hot and ready to go.
+ 7569: The Goblin way of smithing is a little different from your fancy-schmancy "synthesis." I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?
+ 7570: You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience. Let me get back to work, will ya? Sheesh.
+ 7571: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
+ 7572: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
+ 7573: The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.
+ 7574: The top sellers at the moment are $1, $2, and $3. There are others I could think of, but those three bring in the most cash. Don't forget to bring the $0 back with you, too.
+ 7575: Those three items cover the cost of materials for reforging the $0, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.
+ 7576: Oho, you brought me what I asked for? $1, $2, and $3. My pockets are gonna be bulging when I unload this stuff, heh heh.
+ 7577: Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the $0 for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.
+ 7578: The fee, including my cut for the referral, comes out to $5 $0$4 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+ 7579: I don't have the skill to reforge the $0 you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.
+ 7580: The fee, including my cut for the referral, comes out to $2 $0$0 . It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+ 7581: It's tough even for us Gobs to collect $1, and you've brought me $2 of them. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
+ 7582: You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.
+ 7583: This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?
+ 7584: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
+ 7585: This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
+ 7586: You can now request Switchstix to reforge a second $0.
+ 7587: Hold on, [adventure-boy/adventure-girl]. I remember you... That $0 you've got there. Didn't I already reforge one for you?
+ 7588: Don't tell me you want another... [I do!/No. Just forget it.]
+ 7589: Hmmm... Hmmm...... You know you can only carry one of those things, right?
+ 7590: Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging.
+ 7591: ===Weapon Reforging in Progress=== Still $2 days and $1 hours until completion. Weapon in the forge: $0.
+ 7592: "Trade" the $6 to the "Hieroglyphics" found in each area. The $6 will be transformed into $7.
+ 7593: From that point on, one of the areas of Dynamis will be reserved by the bearer of the $7. The destination and time to be spent in Dynamis will be recorded in the help text of the $7.
+ 7594: By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the $7's help text.
+ 7595: Using the $7 creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.
+ 7596: The number of characters that can enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to $4 people.
+ 7597: The $7 can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of $7 to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.
+ 7598: To warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], "Trade" the $7 to the "Hieroglyphics" where you originally received it.
+ 7599: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $7.
+ 7600: In addition, only players above level 64 can travel to the Shrouded Land.
+ 7601: Ensuring that you have $6 in your possession, seek out the "Trail Markings" or "Hieroglyphics" found in each area.
+ 7602: Examine them and you will be granted entrance to the corresponding Dynamis area.
+ 7603: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.
+ 7604: Your stay in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.
+ 7605: Parties and alliances can extend their duration of stay by defeating certain enemies.
+ 7606: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $3.
+ 7607: Remember that only players level 65 or above can travel to the Shrouded Land.
+ 7608: Furthermore, it is not possible to reserve Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using $6 or $7.
+ 7609: Even if you leave Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO'd, you can reenter the same area without restriction as long as it is within the designated time of the $7.
+ 7610: However, you will be in a weakened state for some time upon returning to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
+ 7611: This weakened state will last for longer than the usual period experienced after being raised from KO status.
+ 7612: Upon entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different $7 for $3 [day/days] (Earth time).
+ 7613: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:
+ 7614: Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]
+ 7615: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
+ 7616: Travel to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per [day/ten minutes] (Earth time).
+ 7617: Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.
+ 7618: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.
+ 7619: Dynamis - [Dummy/Bastok/San d'Oria/San d'Oria/San d'Oria/San d'Oria/San d'Oria/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Windurst/Windurst/Bastok/Bastok/Bastok/Bastok/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Jeuno/Jeuno/Jeuno/Windurst/Windurst/Windurst/Dummy/Dummy/Dummy/Dummy].
+ 7620: Dynamis - [Dummy/Beaucedine/Beaucedine/Beaucedine/Beaucedine/Jeuno/Jeuno/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Beaucedine/Dummy/Dummy/Dummy/Dummy].
+ 7621: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
+ 7622: In Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.
+ 7623: Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.
+ 7624: Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.
+ 7625: Starting from when the first character enters, if the number of people in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately $2 [minute/minutes] (Earth time), the time and area designation on the $7 will be canceled.
+ 7626: When battling enemies in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.
+ 7627: Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.
+ 7628: Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.
+ 7629: I'll exchange you $2 $0$0 for a $0. They're worth a bunch, so don't go giving 'em away.
+ 7630: Ya can also exchange a $0 for $2 $0$0 . Gonna take ya a while to find, kid. Hope you're patient.
+ 7631: Alrighty, $2 $0$0 in exchange for your $0.
+ 7632: Here's ya $2 $0$0 , and I get ta pocket the $0.
+ 7633: Hey, you're the [guy/gal] with the $0, right? I got some good news for you.
+ 7634: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
+ 7635: For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.
+ 7636: They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.
+ 7637: Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.
+ 7638: Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
+ 7639: My buddy mentioned in his letter that he'd be willing to trade his discovery for your $0, as long as you throw $1 into the bargain.
+ 7640: Wait a sec...$1? Can't say I've ever heard of it myself. No description in the letter about it neither.
+ 7641: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
+ 7642: So this is $1? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?
+ 7643: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be $5 $0$4 , please!
+ 7644: Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!
+ 7645: Your fee this time around is $2 $0$0 .
+ 7646: My buddies are gonna hear about this--$2 $0$0 ! You shoulda been born a Gob! You can leave the $0 with me.
+ 7647: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
+ 7648: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
+ 7649: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+ 7650: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
+ 7651: You hear a voice from somewhere...
+ 7652: The voice has gone silent...
+ 7653: What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know.
+ 7654: Whachya got there? $4? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?
+ 7655: Doesn't matter how great a blacksmith I am, there's not much I can do with just $4. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say.
+ 7656: ... Are you searching for me?
+ 7657: Are you the one who is searching for me? Then prove it through your actions...
+ 7658: My body will be made from $0 and $1. You will also need to prepare $3 $0 .
+ 7659: Once these things are gathered, come to the fortress built by the avians. There is a courtyard within... Do not forget the $4.
+ 7660: If you do all this, I will show myself to you. I will be waiting...
+ 7661: ... Do you wish to possess me?
+ 7662: Are you the one who wishes to possess me? Then show me the proof of your zeal.
+ 7663: You will need $0 for my graceful form, and $1 to be my flawless soul. And $3 $0 will be my bond.
+ 7664: Bring the $4 and these tokens to the forbidden forest in the east, to the base of the great tree that towers above all.
+ 7665: Only then will your eyes behold my beauty. Until that day...
+ 7666: ... Dost thou need my power at thy side?
+ 7667: Art thou the one who seeks my power? Then show me the strength of thine will.
+ 7668: Seek thee out $1 to be my spirit, and $0 for my physical form. And to buy my indulgence, $3 $0 .
+ 7669: Bring these baubles and the $4 to the holy spring in the lair of the true dragon.
+ 7670: And then shalt thou behold my true form...
+ 7671: ... Are you the one who has called upon me?
+ 7672: Are you the one who desires my power? Do you seek the means to end the world?
+ 7673: Then I will have $0 for my flesh, and $1 to unbind my spirit. And I demand of you $3 $0 .
+ 7674: Take these offerings to the chasm of the land encased in ice, and seek out the water that lies at its end. Do not forget the $4...
+ 7675: Your efforts will be rewarded with a power beyond anything you have ever possessed.
+ 7676: ... You, wield me?
+ 7677: You, want wield me? Me? Me hunger. You, bring. Me, sated.
+ 7678: Me, body, strong axe, $0. Me, heart, $1. Me, value, $3 $0 .
+ 7679: You, bring, me. South...? West...? Sand, much, island. Rock? Mountain?
+ 7680: You, come? You, no forget bring $4. You, be master, me.
+ 7681: ... You wish to see me?
+ 7682: You wish to see the splendid hero sung of in legend? Then prove your love to me.
+ 7683: I require the weapon, $0. I seek to possess $1. I desire the wealth of $3 $0 .
+ 7684: Gather my demands along with the $4 and venture upon the grand bridge, to the garden at the top of the tower.
+ 7685: There I will grant you audience in all my glory.
+ 7686: ... Heh heh heh, you need me now, don't you?
+ 7687: Whether it be fortune or disaster, your steps unwittingly lead you to me. You have approached the forbidden border...
+ 7688: Very well. You will bring a weapon, $0, to serve as my material shell. And $1 liberated from Dynamis, as well as $3 $0 .
+ 7689: Once you have all these things, thrust them into the great waterfall along with the $4. You know the place I speak of?
+ 7690: If you accomplish this feat, I will recognize you as my wielder.
+ 7691: ... You have been looking for me? For Odin's spear, the incarnation of lightning...?
+ 7692: Do not try to hide your desire. You seek a force that topples armies, triumphs against sorcery, and approaches the power of the gods...
+ 7693: A wise choice. First, seek $1. Second, the $0, a lance of unsurpassed quality, to act as my earthly manifestation. Lastly, you will bring me $3 $0 .
+ 7694: Take these along with the $4 and seek me out in the city in the clouds.
+ 7695: If you succeed in discovering my decaying remains, I will see fit to realize your desire.
+ 7696: ... Am I the one you seek?
+ 7697: If you do indeed wish to find me, I will ask of you an arduous task.
+ 7698: As my blade I will have you bring me $0. And to guide my soul to that blade, $1. I also wish of you a bounty of $3 $0 .
+ 7699: Bring these things to the southeastern island, to the place where the bandits dwell. An old box will be the object of your search. Do not forget to bring the $4...
+ 7700: If you discover my resting place, I shall willingly fly to your side.
+ 7701: ... Am I the object of your search?
+ 7702: Do you scour the land for my presence?
+ 7703: Then gather unto yourself $1 for my soul, and $0 to be the cage to hold it. And I demand of you $3 $0 .
+ 7704: You are to offer these to me, along with the $4, on the peak of the mountain that looms above the forest and the city of knights.
+ 7705: Then shall I willingly enter your service.
+ 7706: Do you seek my strength?
+ 7707: I am mightier than you could ever imagine. You seem powerful already. Do you still seek to possess that which is stronger?
+ 7708: Very well. You will find me $0 to be my body, and $1 to complement my soul. And you will offer me $3 $0 .
+ 7709: When you have these in your possession, take the $4 and venture deep into the forbidden forest. Look for the shining stone.
+ 7710: I await your coming...
+ 7711: ... So, you are searching for me?
+ 7712: I am the key to the gate of hell. And yet you search for me? Do not try to deny it.
+ 7713: If you wish to wield my forbidden power, then bring me $0, a staff of uncommon craftsmanship.
+ 7714: You will also require $1 and $3 $0 to free me from my chains. Do not forget to bring the $4...
+ 7715: This task will be harder than you believe. But if you succeed in gathering these things, bring them to the island overgrown with jungle, to the place that lies closest to the infernal flames.
+ 7716: Once you have accomplished this, my unearthly power will be yours.
+ 7717: ... Do you quest for me?
+ 7718: I knew it to be so. I was once the bow of a famous archer, but have since passed through many hands to my present masterless state.
+ 7719: If you would draw me in battle, then I must have $0, a great bow, to be my foundation. You will also require $1 and $3 $0 .
+ 7720: When you have these in hand, bring them with the $4 to the beach of the land to the west and the south.
+ 7721: I will be waiting for you.
+ 7722: ... You are the one who hunts for me?
+ 7723: You are aware of my reputation for destruction?
+ 7724: If you still intend to own me, then I will have $0, a weapon suitable to serve as my barrel. And I will have $1 and $3 $0 as further recompense.
+ 7725: Once you have what I require, you will find me in the southwestern nation where the children who play with fire reside. And do not forget the $4...
+ 7726: I will be waiting.
+ 7727: ... Do you wish to play a tune with me?
+ 7728: If you wish to hear my strident call, then you must collect my pieces.
+ 7729: $1 is my bold timbre, and $0 will provide my body. And my music must be paid for with $3 $0 .
+ 7730: When you have the parts I require, take up the $4 and come to the valley in the west where the wind blows its own symphony.
+ 7731: Then I will break my silence for you...
+ 7732: Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+ 7733: Third Stage/Reforge Complete Reforge of $0 complete. Now you have a new toy: $1
+ 7734: Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!
+ 7735: Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your $0 is hiding some real potential.
+ 7736: Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready.
+ 7737: I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is $2 $0$0 . Better throw in $4 $0$3 . Oh, and don't forget $6 $0$5 .
+ 7738: That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff.
+ 7739: My fee for reforging your $0 is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
+ 7740: You pay me and I start working. See you when you get back with my fee.
+ 7741: You got what I asked for? I count $2 $0$0 , $4 $0$3 , and $6 $0$5 . Looks like it's all here.
+ 7742: Right, time to get to work. My forge is hot and ready to go.
+ 7743: You can stop your bellyachin' now--I'm done with your $0. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
+ 7744: Oh yeah, one more thing: the $0 I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? Naturally, it's gonna cost you.
+ 7745: The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.
+ 7746: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and while we're at it, $6 $0$5 .
+ 7747: It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+ 7748: The fee, including my cut for the referral, comes out to $2 $0$0 . Plus $4 $0$3 . Oh, and $6 $0$5 .
+ 7749: It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the $0 with me and the job will get done.
+ 7750: And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
+ 7751: This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
+ 7752: Got a letter here from my blacksmith buddy, the guy who forged your $0. Wanted me to lay a proposition on you.
+ 7753: Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.
+ 7754: Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the $0 you're toting around. Pretty intriguing stuff, wouldn't you say?
+ 7755: My buddy mentioned in his letter that he'd be willing to trade his own discovery for your $0, as long as you throw $1 into the bargain.
+ 7756: Hrmmm. Guess if you want to swap your $0 for what they dug up, you better start looking for $1. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
+ 7757: Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.
+ 7758: I'm gonna hit you up for $2 $0$0 , $4 $0$3 , and $6 $0$5 .
+ 7759: Your fee this time around is $2 $0$0 , $4 $0$3 , and $6 $0$5 .
+ 7760: My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the $0 with me.
+ 7761: You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
+ 7762: Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
+ 7763: Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+ 7764: Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. Here's what you came for.
+ 7765: Whachya got there? $4? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?
+ 7766: ...You wish me to protect you?
+ 7767: You seek an impenetrable wall with which to defend yourself and your companions? I will be that shield for you.
+ 7768: However... You must provide $0 and $1 for my impervious foundation.
+ 7769: You will also require $3 $0 as a sign of good faith.
+ 7770: Bring these along with the $4 to the place by the channel where my wise servant rests his wings.
+ 7771: If this is done, I will pledge to you an unshakable defense--a shield upon which the claws of fiends will break, and the finest blades will shatter...
+ 7772: You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm.
+ 7773: What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?
+ 7774: I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts.
+ 7775: Do you really wanna cancel the reforging order?
+ 7776: Cancel the order? [Yes, I've made up my mind./Gob, no!]
+ 7777: Are you really sure? I make out like a Gob in a junkyard, and you lose everything.
+ 7778: Are you really, really, really sure?
+ 7779: Are you really sure? [Really!/Not really...]
+ 7780: Well, alrighty then... Consider your order canceled. Null and void! Never happened!
+ 7781: Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?
+ 7782: Your relic reforging order has been canceled.
+ 7783: Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment.
+ 7784: Us Gobs, we can get anywhere with our noses and our smarts. But yeah, I got what you're lookin' for. For the right price, that is.
+ 7785: Buy a map? (Current gil: $11). [Not now./Dynamis - San d'Oria ($1)./Dynamis - Bastok ($2)./Dynamis - Windurst ($3)./Dynamis - Jeuno ($4)./Dynamis - Beaucedine ($5)./Dynamis - Xarcabard ($6)./Dynamis - Valkurm ($7)./Dynamis - Buburimu ($8)./Dynamis - Qufim ($9)./Dynamis - Tavnazia ($10).]
+ 7786: Buy $6? [Deal!/No deal.]
+ 7787: There is nothing out of the ordinary here.
+ 7788: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7789: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7790: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7791: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7792: Now, listen close...
+ 7793: Oh... Well, if that's the case, I'm outta here.
+ 7794: The Goblin slipped away when you were not looking...
+ 7795: You can hear a strange, raspy voice...
+ 7796: I travel......hear lots... Hear...stories... Can tell...if...
+ 7797: .........listen......
+ 7798: Oh...... ...outta here.........
+ 7799: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7800: What story would you like to be told? [On second thought, maybe later./To Each His Own Right./Spharai./Picture Perfect(pt.1)./Picture Perfect(pt.2)./Picture Perfect(pt.3)./Picture Perfect(pt.4)./Picture Perfect(pt.5)./To Kill Mocking Birds.]
  7801: 
  7802: 
- 7803: There is nothing out of the ordinary here.
- 7804: You hear a voice from out of nowhere...
- 7805: You obtain $1 $0 !
- 7806: ... At last we meet.
- 7807: I have been freed from my prison and can soak up the sweat and blood of this world once more.
- 7808: Wait, there is something I must...
- 7809: This place is...?
- 7810: I see... You must be the new wielder for these.
- 7811: Yes, with your fighting spirit I believe you will be able to master the $0.
- 7812: The $0 have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
- 7813: They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
- 7814: ...
- 7815: I hope you don't think this is the end.
- 7816: Your real life as a martial artist is just beginning. Time to start your training anew!
- 7817: ... Finally! We finally meet face to face!
- 7818: I have a presence in this world again! What an exhilarating feeling!
- 7819: Ah yes, there is one more thing...
- 7820: Eh? What?
- 7821: Oh. You must be this one's new owner.
- 7822: With your dagger skills, you'll make a perfect wielder for the $0.
- 7823: It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
- 7824: Treat her well...
- 7825: ...
- 7826: Splendid! From this day forth, I belong to you.
- 7827: So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
- 7828: ... Thou hast found me.
- 7829: I have now thrice shown my true form in this world.
- 7830: A moment...
- 7831: ... What has happened to me?
- 7832: I see, you are the sword's new owner?
- 7833: Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding $0.
- 7834: When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
- 7835: And now I, too, can rest unburdened...
- 7836: ...
- 7837: Thou art blessed this day.
- 7838: Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
- 7839: ... You have found me.
- 7840: Allow me to show my respect. You who have gained the strength of so many must be a true hero.
- 7841: But first...
- 7842: Who are you?
- 7843: This must be some sort of joke. You are the new wielder of this weapon?
- 7844: Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
- 7845: However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
- 7846: Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
- 7847: ...
- 7848: Now, my heroic master...
- 7849: For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
- 7850: ... You...me, meet.
- 7851: Me...free... Thanks to you. Me, your...
- 7852: Wait...
- 7853: What the...?
- 7854: Ah, now I see. The wheel has turned.
- 7855: Truthfully spoken, I am thankful. # is a splendid axe, but ever does it hunger.
- 7856: I have taken many lives to sate its need, and have reached the end of my strength.
- 7857: You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
- 7858: ...
- 7859: You, master, me. Good, work. Me, thank, you.
- 7860: Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
- 7861: ... Ah, you found me!
- 7862: I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
- 7863: One moment...
- 7864: ... This is...Jeuno!? Have I finally returned?
- 7865: I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
- 7866: Hmm. With your polished skills, you will make a fine master for $0.
- 7867: The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
- 7868: Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use $0 to avenge the Hydra Corps...
- 7869: ...
- 7870: I congratulate you also...my new master.
- 7871: Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
- 7872: ... You have found me.
- 7873: My forbidden power is now yours, and I am liberated from my prison.
- 7874: You have but to gain her respect...
- 7875: Such a long dream I was having...
- 7876: It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
- 7877: And you? Do you seek the same darkness that I did... It seems you have already found your way to $0.
- 7878: Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
- 7879: And think long and hard on whether or not this power should be used. Do not end up like me...
- 7880: ...
- 7881: Heh. Heh heh. Hahahahahahaha!
- 7882: Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
- 7883: ... You have unearthed me at last.
- 7884: I am free from Dynamis, free to fly through the heavens once more.
- 7885: All that remains is...
- 7886: Hello? Is it possible that I...
- 7887: But, no. I have not returned to this realm... You. You are to be my successor?
- 7888: You certainly seem to have the required skill with the lance. Enough to convince $0 to lend you its power, at any rate.
- 7889: Having this spear on the battlefield makes you a match for almost any opponent.
- 7890: Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
- 7891: ...
- 7892: The ceremony of inheritance is complete.
- 7893: It is time for you to go forth and experience my overwhelming strength...
- 7894: ... I have been rediscovered at last.
- 7895: Thanks to you, I have made my escape from the shrouded land.
- 7896: You must now gain the sanction of my master...
- 7897: It is a pity, indeed.
- 7898: This day has come far too soon for my liking.
- 7899: However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the $0.
- 7900: Take this blade as your own. Travel far down the path of the ninja.
- 7901: I will be watching you from the shadows...
- 7902: ...
- 7903: A fine master...
- 7904: My keen edge is now yours to wield. A sharpness said to make even demons wail...
- 7905: ... This day has finally come.
- 7906: I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
- 7907: In any event...
- 7908: What is going on here?
- 7909: Ah, my successor has come.
- 7910: I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the $0 and returned to my home, the Great War had begun.
- 7911: When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
- 7912: You have my gratitude. Farewell, $0...
- 7913: ...
- 7914: It has been a hard path to reach this point.
- 7915: But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
- 7916: ... At long last, you have arrived.
- 7917: I was not convinced you were serious about completing this trial...
- 7918: You have proven me wrong...
- 7919: I have heard of your coming.
- 7920: You are to be the new master of this hammer of war?
- 7921: Every time $0 is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
- 7922: However, there is little meaning in me keeping it now. If you will wield this weapon for a just cause, I hand its power over to you.
- 7923: Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
- 7924: ...
- 7925: My might is yours to wield.
- 7926: Go forth and experience the destructive power that laid low the Earth Serpent...
- 7927: ... So, you have found me.
- 7928: I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
- 7929: And now...
- 7930: Hwaah!
- 7931: Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
- 7932: Well, it's for the best, I suppose. In my current state, $0 is nothing more than an ornament, its power going to waste.
- 7933: I entrust this staff to you! Take up $0, <Player>, and bind it to you in a contract of blood!
- 7934: I take my leave of you now. I only wish that I was able to stay a little longer...
- 7935: ...
- 7936: I am yours to wield.
- 7937: But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
- 7938: ... You have discovered my resting place.
- 7939: The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
- 7940: Ah, one more test of your patience...
- 7941: Where is this place?
- 7942: Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
- 7943: Your hands tell me that your skill in archery is far from ordinary. $0 will fit snugly into your sure grasp.
- 7944: However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
- 7945: Farewell...
- 7946: ...
- 7947: It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
- 7948: You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
- 7949: ... We finally meet.
- 7950: I am now free from the pit of Dynamis to spit fire in this world once again.
- 7951: But I must ask you to wait before taking me into your possession...
- 7952: Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
- 7953: Hm? You think you're the one who's going to take up my gun?
- 7954: You do seem to have a fair eye for marksmanship. And $0 would look perfect nestled in the crook of your arm...
- 7955: Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
- 7956: This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
- 7957: ...
- 7958: A weapon has no will of its own. But it was made for a purpose.
- 7959: Take me to a new battlefield, a new arena for the hunt...
- 7960: ... I am saved.
- 7961: Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
- 7962: A few more moments, if you please...
- 7963: Hello there. I am Terounalivet, a military musician of the Hydra Corps.
- 7964: You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
- 7965: To be completely truthful, I am heartbroken to be giving up the $0, the most famous of instruments, even to a fellow bard.
- 7966: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
- 7967: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
- 7968: ...
- 7969: He was a wonderful performer.
- 7970: Let us be on our way. Our tour of the world has only just begun...
- 7971: Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?
- 7972: We've set up a secret marker somewhere in the bowels of a dreadful dungeon. Your goal is to reach that marker alive, kupo!
- 7973: Oh, a new adventurer! Best of luck, kupo!
- 7974: Are you helping out the new adventurers? Best of luck in your endeavors, kupo!
- 7975: You're not wearing your yukata! Put it on and show me how it looks, kupo!
- 7976: Here's your reward for reaching the goal, kupo!
- 7977: Wear the yukata the next time you come to see me! I can't wait to see how you look, kupo!
- 7978: Partner up with lots of different adventurers and bring back all kinds of trophies to prove your courage! When you've brought enough, I'll give you something really special, kupo!
- 7979: The face in the portrait you brought me is just... Kupupupu!
- 7980: Incredible, kupo! You must have nerves of darksteel! Here, you've earned this, kupo!
- 7981: You took another dive into the dreaded dungeon, kupo? Well, you deserve a little something for your preternatural perseverance, kupo.
- 7982: You haven't earned my really special present yet! Only truly dauntless dungeon-delvers get that, kupo!
- 7983: This isn't enough to prove you reached the goal as a dungeon-delving duo. You have to bring me the item your partner received to show that you were both successful, kupo!
- 7984: To go on this fright-filled face-off with fear, you need a partner who can prove you reached the goal. Come back when you have a buddy in bravery, kupo!
- 7985: This adventure into adversity is only available to two-person parties. Split up into pairs and talk to me again, kupo!
- 7986: Please come back with a different partner. It'll be no fun to scare you if your reactions are too similar, kupo!
- 7987: Your partner isn't ready to go. Please wait a little longer, kupo.
- 7988: Your partner must talk to me as well. I'll be waiting for you whenever you're ready, kupo.
- 7989: You can only choose one partner a day. Come back again tomorrow, kupo!
- 7990: Hold up there! It looks like your candidate for courageous companionship has already got a partner! You can't choose that person at the moment, kupo!
- 7991: Please wait a little longer or find a new partner before coming back, kupo.
- 7992: Are you ready to test your courage, kupo?
- 7993: Are you ready to go? [Ready, kupo!/I'm too terrified, kupo!]
- 7994: I'll be checking to see if you reached the goal. You can use this magical scroll to make a speedy return to town, kupo.
- 7995: If you both succeed, I'll have a prize waiting for you! Now, off you go, kupo!
- 7996: You can only carry one $0.
- 7997: Are you participating in this petrifying pilgrimage with the person in your present party?
- 7998: Hey, you changed partners! You can't switch halfway through, kupo!
- 7999: Wait, the number of people in your party has changed! You have to be in a two-person party, kupo!
- 8000: Choose your partner wisely. Come back when you think you have a winning combo, kupo!
- 8001: Boo-hah-hah`...kupo!
- 8002: Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!
- 8003: Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!
- 8004: Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!
- 8005: Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu...
- 8006: This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery.
- 8007: Why do ghosts say "boo," anyway?
- 8008: I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!
- 8009: Maybe I'm doing something wrong, kupo?
- 8010: If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...
- 8011: Unable to enter next area. Expansion pack not installed.
- 8012: Kyah! Kyah! Heretics being in our midst! Kill them!
- 8013: Kyah? You being the underling of Zeelozok?
- 8014: Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?
- 8015: Ka-kyah!? You being Zeelozok's messenger, here to deliver $1 for Ruu Cogo the Larktongue?
- 8016: Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!
- 8017: Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!
- 8018: Hoot! But I be tiring of war and blood!
- 8019: This time I be letting you go. Be flying home, smoothskin! Ka-kyah!
- 8020: <Player>! <Player>! Are you okay? Open your eyes!
- 8021: <Player>! <Player>! Don't give up on me! Open your eyes!
- 8022: <Player>! Are you hurt? Look at me!
- 8023: <Player>! <Player>! Are you injured? Open your eyes!
- 8024: <Player>! <Player>! Are you okay!? Open you eyes!
- 8025: <Player>! <Player>! Are you okay!? Come on, open your eyes!
- 8026: <Player>! <Player>! Are you okay? Open your eyes!
- 8027: <Player>! <Player>! Are you hurt!? Open your eyes!
- 8028: <Player>! <Player>! Are you hurt? Look at me!
- 8029: <Player>! <Player>! Oh no, are you okay? Open your eyes for me!
- 8030: <Player>! <Player>! Are you injured? Open your eyes!
- 8031: <Player>! <Player>! Are you hurt? Talk to me!
- 8032: Phew, you seem okay.
- 8033: Don't worry me like that!
- 8034: You seem fine. Good.
- 8035: You appear unhurt. Excellent.
- 8036: You had me worried, <Player>. I'm glad you're okay.
- 8037: <Player>! How are you feeling? It's good to have you back.
- 8038: You seem okay. Whew!
- 8039: Oh, you're okay! Super! Fantastic!
- 8040: You seem to be okay. Good.
- 8041: You're okay! Yaaay!
- 8042: You appear unhurt. Excellent.
- 8043: You're okay... Don't make me worry like that again.
- 8044: When the monster attacked you, I heard your voice through the signal pearl and came running to help.
- 8045: I heard you getting attacked by a monster through the signal pearl and got here as fast as I could!
- 8046: I heard you through the signal pearl. You seemed to be in trouble, so I came to help.
- 8047: I heard you through the signal pearl, and you seemed to be in need of aid.
- 8048: I heard your voice through the signal pearl. That's how I knew you were in trouble.
- 8049: When the monster attacked you, I heard your voice through the signal pearl and came here as fast as I could.
- 8050: I came to help as soon as I heard through the signal pearl that you were in trouble.
- 8051: I heard you getting attacked through the signal pearl! So I had to run over here to make sure you're okay!
- 8052: I heard you through the signal pearl and sensed danger. That is why I am here now.
- 8053: I heard through the signal pearl that you were getting attacked, and I was sooo worried!
- 8054: I heard you through the signal pearl, and you seemed to be in need of aid.
- 8055: Your voice carried through signal pearl when the monster attacked. That's how I knew to come.
- 8056: I'm glad you're okay.
- 8057: Whew, glad you aren't hurt!
- 8058: Anyway, it's good that you're not hurt.
- 8059: I am glad you are unscathed.
- 8060: I'm glad you're not hurt.
- 8061: I'm so relieved you're okay!
- 8062: I'm so glad you're okay.
- 8063: I'm sooo glad you're not hurt!
- 8064: In any case, I am glad that you are well.
- 8065: I'm so happy that you're okay!
- 8066: I am glad you are unscathed.
- 8067: I'm glad you're safe.
- 8068: Anyway, should we look for the $3? It must be here somewhere...
- 8069: You came to look for the $3, right? It has got to be here somewhere!
- 8070: You came here to search for the $3, didn't you? It should be here, somewhere.
- 8071: I assume you came to search for the $3. It should be in the vicinity.
- 8072: You came here to search for the $3, didn't you? It should be somewhere nearby.
- 8073: Now, the reason you came here, was to find the $3, right? It has to be around here somewhere.
- 8074: So you came looking for the $3, right? It must be here somewhere...
- 8075: Hey, you came to look for the $3, right? I'm sure it's around here somewhere!
- 8076: You were looking for the $3, I see. Perhaps it is somewhere around here.
- 8077: Hey, aren't you looking for the $3? I bet we can find it around here somewhere!
- 8078: I assume you came to search for the $3. It should be in the vicinity.
- 8079: I gather you came here to search for the $3. It cannot be far away.
- 8080: H-how did you get here...?
- 8081: Wh-where did you come from...!?
- 8082: <Player>... Why...?
- 8083: How did you get here?
- 8084: H-how did you find me...?
- 8085: How did you get here...?
- 8086: H-how did you get here...?
- 8087: Wh-wh-why are you here...!?
- 8088: <Player>... How...?
- 8089: It's...<Player>...!
- 8090: How did you get here?
- 8091: Wh...Why are you here...?
- 8092: You heard me through the signal pearl? So...you're here to save me...
- 8093: You could hear my shouts through the signal pearl and came to help?
- 8094: You heard me through the signal pearl? So, you're here to help.
- 8095: So...you heard me through the signal pearl and came to help.
- 8096: You heard me through the signal pearl and came to my rescue?
- 8097: You heard my voice through the signal pearl...and came to help?
- 8098: You heard me through the signal pearl and...came to save me?
- 8099: You could hear me through the signal pearl? You came to save me!?
- 8100: You heard me through the signal pearl and came to my aid?
- 8101: You heard me through the signal pearl? ...You came to save me!
- 8102: So...you heard me through the signal pearl and came to help.
- 8103: So you heard me through the signal pearl...
- 8104: Thanks. I feel stronger with you around.
- 8105: Thanks for coming. There's nothing we can't do when we are together!
- 8106: Thanks...for your help.
- 8107: Thank you. Your presence gives me strength.
- 8108: Thanks for saving me, <Player>.
- 8109: I've never been saved like that before. It's kinda embarrassing, heheh. I owe you, <Player>.
- 8110: Thank you so much. Around you, I feel like I can do anything.
- 8111: Thanks! We are the perfect team! Yeah!
- 8112: You have my thanks. Your presence is heartening.
- 8113: You're so nice! I feel so strong around you!
- 8114: Thank you. Your presence gives me strength.
- 8115: I was complacent. Th...thank you.
- 8116: Oh yeah! I have to get the $3. Can you come with me, <Player>?
- 8117: Oh yeah! I still have to get the $3. Let's go, <Player>!
- 8118: Ah, the $3. We should search for it together.
- 8119: I have yet to get the $3. Shall we journey together, <Player>?
- 8120: I came out here to get the $3. Let's look for it together, <Player>.
- 8121: I'm here for the $3. Seeing how you're already here, how about we look for it together?
- 8122: Oh yeah! I still need to get the $3. Will you come with me, <Player>?
- 8123: Oh yeah, I almost forgot! I need to get the $3! Come with me, <Player>, please!
- 8124: I still do not have the $3. I would appreciate your company.
- 8125: Oh yeah! I still have to get the $3! I need you with me for this, <Player>!
- 8126: I have yet to get the $3. Shall we journey together, <Player>?
- 8127: I haven't obtained the $3 I came for, yet. Search with me, <Player>.
- 8128: Pass through the door? [Yes./No.]
- 8129: This is the $3...
- 8130: Here it is, the $3...
- 8131: The $3...
- 8132: This is the $3...
+ 7803: 
+ 7804: There is nothing out of the ordinary here.
+ 7805: You hear a voice from out of nowhere...
+ 7806: You obtain $1 $0 !
+ 7807: ... At last we meet.
+ 7808: I have been freed from my prison and can soak up the sweat and blood of this world once more.
+ 7809: Wait, there is something I must...
+ 7810: This place is...?
+ 7811: I see... You must be the new wielder for these.
+ 7812: Yes, with your fighting spirit I believe you will be able to master the $0.
+ 7813: The $0 have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
+ 7814: They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
+ 7815: ...
+ 7816: I hope you don't think this is the end.
+ 7817: Your real life as a martial artist is just beginning. Time to start your training anew!
+ 7818: ... Finally! We finally meet face to face!
+ 7819: I have a presence in this world again! What an exhilarating feeling!
+ 7820: Ah yes, there is one more thing...
+ 7821: Eh? What?
+ 7822: Oh. You must be this one's new owner.
+ 7823: With your dagger skills, you'll make a perfect wielder for the $0.
+ 7824: It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
+ 7825: Treat her well...
+ 7826: ...
+ 7827: Splendid! From this day forth, I belong to you.
+ 7828: So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
+ 7829: ... Thou hast found me.
+ 7830: I have now thrice shown my true form in this world.
+ 7831: A moment...
+ 7832: ... What has happened to me?
+ 7833: I see, you are the sword's new owner?
+ 7834: Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding $0.
+ 7835: When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
+ 7836: And now I, too, can rest unburdened...
+ 7837: ...
+ 7838: Thou art blessed this day.
+ 7839: Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
+ 7840: ... You have found me.
+ 7841: Allow me to show my respect. You who have gained the strength of so many must be a true hero.
+ 7842: But first...
+ 7843: Who are you?
+ 7844: This must be some sort of joke. You are the new wielder of this weapon?
+ 7845: Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
+ 7846: However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
+ 7847: Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
+ 7848: ...
+ 7849: Now, my heroic master...
+ 7850: For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
+ 7851: ... You...me, meet.
+ 7852: Me...free... Thanks to you. Me, your...
+ 7853: Wait...
+ 7854: What the...?
+ 7855: Ah, now I see. The wheel has turned.
+ 7856: Truthfully spoken, I am thankful. # is a splendid axe, but ever does it hunger.
+ 7857: I have taken many lives to sate its need, and have reached the end of my strength.
+ 7858: You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
+ 7859: ...
+ 7860: You, master, me. Good, work. Me, thank, you.
+ 7861: Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
+ 7862: ... Ah, you found me!
+ 7863: I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
+ 7864: One moment...
+ 7865: ... This is...Jeuno!? Have I finally returned?
+ 7866: I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
+ 7867: Hmm. With your polished skills, you will make a fine master for $0.
+ 7868: The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
+ 7869: Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use $0 to avenge the Hydra Corps...
+ 7870: ...
+ 7871: I congratulate you also...my new master.
+ 7872: Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
+ 7873: ... You have found me.
+ 7874: My forbidden power is now yours, and I am liberated from my prison.
+ 7875: You have but to gain her respect...
+ 7876: Such a long dream I was having...
+ 7877: It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
+ 7878: And you? Do you seek the same darkness that I did... It seems you have already found your way to $0.
+ 7879: Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
+ 7880: And think long and hard on whether or not this power should be used. Do not end up like me...
+ 7881: ...
+ 7882: Heh. Heh heh. Hahahahahahaha!
+ 7883: Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
+ 7884: ... You have unearthed me at last.
+ 7885: I am free from Dynamis, free to fly through the heavens once more.
+ 7886: All that remains is...
+ 7887: Hello? Is it possible that I...
+ 7888: But, no. I have not returned to this realm... You. You are to be my successor?
+ 7889: You certainly seem to have the required skill with the lance. Enough to convince $0 to lend you its power, at any rate.
+ 7890: Having this spear on the battlefield makes you a match for almost any opponent.
+ 7891: Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
+ 7892: ...
+ 7893: The ceremony of inheritance is complete.
+ 7894: It is time for you to go forth and experience my overwhelming strength...
+ 7895: ... I have been rediscovered at last.
+ 7896: Thanks to you, I have made my escape from the shrouded land.
+ 7897: You must now gain the sanction of my master...
+ 7898: It is a pity, indeed.
+ 7899: This day has come far too soon for my liking.
+ 7900: However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the $0.
+ 7901: Take this blade as your own. Travel far down the path of the ninja.
+ 7902: I will be watching you from the shadows...
+ 7903: ...
+ 7904: A fine master...
+ 7905: My keen edge is now yours to wield. A sharpness said to make even demons wail...
+ 7906: ... This day has finally come.
+ 7907: I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
+ 7908: In any event...
+ 7909: What is going on here?
+ 7910: Ah, my successor has come.
+ 7911: I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the $0 and returned to my home, the Great War had begun.
+ 7912: When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
+ 7913: You have my gratitude. Farewell, $0...
+ 7914: ...
+ 7915: It has been a hard path to reach this point.
+ 7916: But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
+ 7917: ... At long last, you have arrived.
+ 7918: I was not convinced you were serious about completing this trial...
+ 7919: You have proven me wrong...
+ 7920: I have heard of your coming.
+ 7921: You are to be the new master of this hammer of war?
+ 7922: Every time $0 is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
+ 7923: However, there is little meaning in me keeping it now. If you will wield this weapon for a just cause, I hand its power over to you.
+ 7924: Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
+ 7925: ...
+ 7926: My might is yours to wield.
+ 7927: Go forth and experience the destructive power that laid low the Earth Serpent...
+ 7928: ... So, you have found me.
+ 7929: I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
+ 7930: And now...
+ 7931: Hwaah!
+ 7932: Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
+ 7933: Well, it's for the best, I suppose. In my current state, $0 is nothing more than an ornament, its power going to waste.
+ 7934: I entrust this staff to you! Take up $0, <Player>, and bind it to you in a contract of blood!
+ 7935: I take my leave of you now. I only wish that I was able to stay a little longer...
+ 7936: ...
+ 7937: I am yours to wield.
+ 7938: But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
+ 7939: ... You have discovered my resting place.
+ 7940: The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
+ 7941: Ah, one more test of your patience...
+ 7942: Where is this place?
+ 7943: Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
+ 7944: Your hands tell me that your skill in archery is far from ordinary. $0 will fit snugly into your sure grasp.
+ 7945: However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
+ 7946: Farewell...
+ 7947: ...
+ 7948: It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
+ 7949: You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
+ 7950: ... We finally meet.
+ 7951: I am now free from the pit of Dynamis to spit fire in this world once again.
+ 7952: But I must ask you to wait before taking me into your possession...
+ 7953: Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
+ 7954: Hm? You think you're the one who's going to take up my gun?
+ 7955: You do seem to have a fair eye for marksmanship. And $0 would look perfect nestled in the crook of your arm...
+ 7956: Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
+ 7957: This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
+ 7958: ...
+ 7959: A weapon has no will of its own. But it was made for a purpose.
+ 7960: Take me to a new battlefield, a new arena for the hunt...
+ 7961: ... I am saved.
+ 7962: Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
+ 7963: A few more moments, if you please...
+ 7964: Hello there. I am Terounalivet, a military musician of the Hydra Corps.
+ 7965: You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
+ 7966: To be completely truthful, I am heartbroken to be giving up the $0, the most famous of instruments, even to a fellow bard.
+ 7967: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
+ 7968: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
+ 7969: ...
+ 7970: He was a wonderful performer.
+ 7971: Let us be on our way. Our tour of the world has only just begun...
+ 7972: Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?
+ 7973: We've set up a secret marker somewhere in the bowels of a dreadful dungeon. Your goal is to reach that marker alive, kupo!
+ 7974: Oh, a new adventurer! Best of luck, kupo!
+ 7975: Are you helping out the new adventurers? Best of luck in your endeavors, kupo!
+ 7976: You're not wearing your yukata! Put it on and show me how it looks, kupo!
+ 7977: Here's your reward for reaching the goal, kupo!
+ 7978: Wear the yukata the next time you come to see me! I can't wait to see how you look, kupo!
+ 7979: Partner up with lots of different adventurers and bring back all kinds of trophies to prove your courage! When you've brought enough, I'll give you something really special, kupo!
+ 7980: The face in the portrait you brought me is just... Kupupupu!
+ 7981: Incredible, kupo! You must have nerves of darksteel! Here, you've earned this, kupo!
+ 7982: You took another dive into the dreaded dungeon, kupo? Well, you deserve a little something for your preternatural perseverance, kupo.
+ 7983: You haven't earned my really special present yet! Only truly dauntless dungeon-delvers get that, kupo!
+ 7984: This isn't enough to prove you reached the goal as a dungeon-delving duo. You have to bring me the item your partner received to show that you were both successful, kupo!
+ 7985: To go on this fright-filled face-off with fear, you need a partner who can prove you reached the goal. Come back when you have a buddy in bravery, kupo!
+ 7986: This adventure into adversity is only available to two-person parties. Split up into pairs and talk to me again, kupo!
+ 7987: Please come back with a different partner. It'll be no fun to scare you if your reactions are too similar, kupo!
+ 7988: Your partner isn't ready to go. Please wait a little longer, kupo.
+ 7989: Your partner must talk to me as well. I'll be waiting for you whenever you're ready, kupo.
+ 7990: You can only choose one partner a day. Come back again tomorrow, kupo!
+ 7991: Hold up there! It looks like your candidate for courageous companionship has already got a partner! You can't choose that person at the moment, kupo!
+ 7992: Please wait a little longer or find a new partner before coming back, kupo.
+ 7993: Are you ready to test your courage, kupo?
+ 7994: Are you ready to go? [Ready, kupo!/I'm too terrified, kupo!]
+ 7995: I'll be checking to see if you reached the goal. You can use this magical scroll to make a speedy return to town, kupo.
+ 7996: If you both succeed, I'll have a prize waiting for you! Now, off you go, kupo!
+ 7997: You can only carry one $0.
+ 7998: Are you participating in this petrifying pilgrimage with the person in your present party?
+ 7999: Hey, you changed partners! You can't switch halfway through, kupo!
+ 8000: Wait, the number of people in your party has changed! You have to be in a two-person party, kupo!
+ 8001: Choose your partner wisely. Come back when you think you have a winning combo, kupo!
+ 8002: Boo-hah-hah`...kupo!
+ 8003: Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!
+ 8004: Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!
+ 8005: Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!
+ 8006: Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu...
+ 8007: This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery.
+ 8008: Why do ghosts say "boo," anyway?
+ 8009: I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!
+ 8010: Maybe I'm doing something wrong, kupo?
+ 8011: If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...
+ 8012: Unable to enter next area. Expansion pack not installed.
+ 8013: Kyah! Kyah! Heretics being in our midst! Kill them!
+ 8014: Kyah? You being the underling of Zeelozok?
+ 8015: Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?
+ 8016: Ka-kyah!? You being Zeelozok's messenger, here to deliver $1 for Ruu Cogo the Larktongue?
+ 8017: Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!
+ 8018: Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!
+ 8019: Hoot! But I be tiring of war and blood!
+ 8020: This time I be letting you go. Be flying home, smoothskin! Ka-kyah!
+ 8021: <Player>! <Player>! Are you okay? Open your eyes!
+ 8022: <Player>! <Player>! Don't give up on me! Open your eyes!
+ 8023: <Player>! Are you hurt? Look at me!
+ 8024: <Player>! <Player>! Are you injured? Open your eyes!
+ 8025: <Player>! <Player>! Are you okay!? Open you eyes!
+ 8026: <Player>! <Player>! Are you okay!? Come on, open your eyes!
+ 8027: <Player>! <Player>! Are you okay? Open your eyes!
+ 8028: <Player>! <Player>! Are you hurt!? Open your eyes!
+ 8029: <Player>! <Player>! Are you hurt? Look at me!
+ 8030: <Player>! <Player>! Oh no, are you okay? Open your eyes for me!
+ 8031: <Player>! <Player>! Are you injured? Open your eyes!
+ 8032: <Player>! <Player>! Are you hurt? Talk to me!
+ 8033: Phew, you seem okay.
+ 8034: Don't worry me like that!
+ 8035: You seem fine. Good.
+ 8036: You appear unhurt. Excellent.
+ 8037: You had me worried, <Player>. I'm glad you're okay.
+ 8038: <Player>! How are you feeling? It's good to have you back.
+ 8039: You seem okay. Whew!
+ 8040: Oh, you're okay! Super! Fantastic!
+ 8041: You seem to be okay. Good.
+ 8042: You're okay! Yaaay!
+ 8043: You appear unhurt. Excellent.
+ 8044: You're okay... Don't make me worry like that again.
+ 8045: When the monster attacked you, I heard your voice through the signal pearl and came running to help.
+ 8046: I heard you getting attacked by a monster through the signal pearl and got here as fast as I could!
+ 8047: I heard you through the signal pearl. You seemed to be in trouble, so I came to help.
+ 8048: I heard you through the signal pearl, and you seemed to be in need of aid.
+ 8049: I heard your voice through the signal pearl. That's how I knew you were in trouble.
+ 8050: When the monster attacked you, I heard your voice through the signal pearl and came here as fast as I could.
+ 8051: I came to help as soon as I heard through the signal pearl that you were in trouble.
+ 8052: I heard you getting attacked through the signal pearl! So I had to run over here to make sure you're okay!
+ 8053: I heard you through the signal pearl and sensed danger. That is why I am here now.
+ 8054: I heard through the signal pearl that you were getting attacked, and I was sooo worried!
+ 8055: I heard you through the signal pearl, and you seemed to be in need of aid.
+ 8056: Your voice carried through signal pearl when the monster attacked. That's how I knew to come.
+ 8057: I'm glad you're okay.
+ 8058: Whew, glad you aren't hurt!
+ 8059: Anyway, it's good that you're not hurt.
+ 8060: I am glad you are unscathed.
+ 8061: I'm glad you're not hurt.
+ 8062: I'm so relieved you're okay!
+ 8063: I'm so glad you're okay.
+ 8064: I'm sooo glad you're not hurt!
+ 8065: In any case, I am glad that you are well.
+ 8066: I'm so happy that you're okay!
+ 8067: I am glad you are unscathed.
+ 8068: I'm glad you're safe.
+ 8069: Anyway, should we look for the $3? It must be here somewhere...
+ 8070: You came to look for the $3, right? It has got to be here somewhere!
+ 8071: You came here to search for the $3, didn't you? It should be here, somewhere.
+ 8072: I assume you came to search for the $3. It should be in the vicinity.
+ 8073: You came here to search for the $3, didn't you? It should be somewhere nearby.
+ 8074: Now, the reason you came here, was to find the $3, right? It has to be around here somewhere.
+ 8075: So you came looking for the $3, right? It must be here somewhere...
+ 8076: Hey, you came to look for the $3, right? I'm sure it's around here somewhere!
+ 8077: You were looking for the $3, I see. Perhaps it is somewhere around here.
+ 8078: Hey, aren't you looking for the $3? I bet we can find it around here somewhere!
+ 8079: I assume you came to search for the $3. It should be in the vicinity.
+ 8080: I gather you came here to search for the $3. It cannot be far away.
+ 8081: H-how did you get here...?
+ 8082: Wh-where did you come from...!?
+ 8083: <Player>... Why...?
+ 8084: How did you get here?
+ 8085: H-how did you find me...?
+ 8086: How did you get here...?
+ 8087: H-how did you get here...?
+ 8088: Wh-wh-why are you here...!?
+ 8089: <Player>... How...?
+ 8090: It's...<Player>...!
+ 8091: How did you get here?
+ 8092: Wh...Why are you here...?
+ 8093: You heard me through the signal pearl? So...you're here to save me...
+ 8094: You could hear my shouts through the signal pearl and came to help?
+ 8095: You heard me through the signal pearl? So, you're here to help.
+ 8096: So...you heard me through the signal pearl and came to help.
+ 8097: You heard me through the signal pearl and came to my rescue?
+ 8098: You heard my voice through the signal pearl...and came to help?
+ 8099: You heard me through the signal pearl and...came to save me?
+ 8100: You could hear me through the signal pearl? You came to save me!?
+ 8101: You heard me through the signal pearl and came to my aid?
+ 8102: You heard me through the signal pearl? ...You came to save me!
+ 8103: So...you heard me through the signal pearl and came to help.
+ 8104: So you heard me through the signal pearl...
+ 8105: Thanks. I feel stronger with you around.
+ 8106: Thanks for coming. There's nothing we can't do when we are together!
+ 8107: Thanks...for your help.
+ 8108: Thank you. Your presence gives me strength.
+ 8109: Thanks for saving me, <Player>.
+ 8110: I've never been saved like that before. It's kinda embarrassing, heheh. I owe you, <Player>.
+ 8111: Thank you so much. Around you, I feel like I can do anything.
+ 8112: Thanks! We are the perfect team! Yeah!
+ 8113: You have my thanks. Your presence is heartening.
+ 8114: You're so nice! I feel so strong around you!
+ 8115: Thank you. Your presence gives me strength.
+ 8116: I was complacent. Th...thank you.
+ 8117: Oh yeah! I have to get the $3. Can you come with me, <Player>?
+ 8118: Oh yeah! I still have to get the $3. Let's go, <Player>!
+ 8119: Ah, the $3. We should search for it together.
+ 8120: I have yet to get the $3. Shall we journey together, <Player>?
+ 8121: I came out here to get the $3. Let's look for it together, <Player>.
+ 8122: I'm here for the $3. Seeing how you're already here, how about we look for it together?
+ 8123: Oh yeah! I still need to get the $3. Will you come with me, <Player>?
+ 8124: Oh yeah, I almost forgot! I need to get the $3! Come with me, <Player>, please!
+ 8125: I still do not have the $3. I would appreciate your company.
+ 8126: Oh yeah! I still have to get the $3! I need you with me for this, <Player>!
+ 8127: I have yet to get the $3. Shall we journey together, <Player>?
+ 8128: I haven't obtained the $3 I came for, yet. Search with me, <Player>.
+ 8129: Pass through the door? [Yes./No.]
+ 8130: This is the $3...
+ 8131: Here it is, the $3...
+ 8132: The $3...
  8133: This is the $3...
- 8134: So this is the $3...
- 8135: This is the $3...
- 8136: This is it! The $3!
- 8137: The $3...
- 8138: Ohhh! The $3!
- 8139: This is the $3...
- 8140: The $3...
- 8141: Oh yeah, I hate to say it, but...Diederik found the original painting after all.
- 8142: Oh yeah, I have bad news to tell you! Diederik found the original painting!
- 8143: By the way, I have bad news. Diederik found the original painting.
- 8144: Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
- 8145: By the way, I have some bad news. Diederik...he found the original painting.
- 8146: I have to tell you something. It's a bit of a bummer for us, but Diederik found the original painting.
- 8147: Oh yeah. I hate to say this, but Diederik found the original painting.
- 8148: Ohhh yeah, I hate to tell you this, but, um...Diederik found the original painting!
- 8149: Unfortunately, I must let you know that Diederik has found the original painting.
- 8150: Oh yeah! I have really bad news! Diederik found the original painting!
- 8151: Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
- 8152: There's something you should know. Diederik was able to locate the original painting.
- 8153: I wonder if Angelica has already started on the new painting.
- 8154: Angelica might have already started on the new painting, though!
- 8155: Angelica might have already started on the new painting.
- 8156: However, Angelica may have already begun work on the new painting.
- 8157: I wonder if Angelica has already started painting the new portrait.
- 8158: Angelica may have already begun work on the new painting. Talk about bad timing...
- 8159: Angelica might have already started on the new painting, though.
- 8160: Maybe Angelica is already working on that new painting, though!
- 8161: However, Angelica may already be working on the new painting.
- 8162: Maybe poor Angie's already started working on the new painting, though!
- 8163: However, Angelica may have already begun work on the new painting.
- 8164: It's likely Angelica has already begun work on the new painting. That would be unfortunately timing.
- 8165: She must be waiting for us. I'll go with you so we can apologize to her. Let's go, <Player>!
- 8166: Well, she's waiting! Let's go apologize to her, <Player>!
- 8167: She is waiting for us. Let's go apologize.
- 8168: I am sure she awaits us. Let us go apologize to her, <Player>.
- 8169: We better apologize to her, as soon as possible. Let's go, <Player>!
- 8170: Either way, we shouldn't keep her waiting. Let's go apologize, <Player>.
- 8171: I'll go with you to apologize to her. She must be waiting for us. Let's go, <Player>!
- 8172: I bet she's waiting for us! Let's go apologize to her, <Player>!
- 8173: We should go apologize to Angelica. Let's go, <Player>.
- 8174: She's probably waiting for us! Come on, let's go tell Angelica we're sorry!
- 8175: I am sure she awaits us. Let us go apologize to her, <Player>.
- 8176: I suggest we both go and apologize to her. Let's hurry, now.
- 8177: What's with the down face?
- 8178: What's with that look!?
- 8179: Is something wrong?
- 8180: Is something the matter? You look like you have something to say.
- 8181: What's wrong, <Player>? Is there something on your mind?
- 8182: Is there something wrong, <Player>? You can tell me, you know.
- 8183: What's wrong? Do you have something you want to tell me?
- 8184: What's wrong? Is something stuck to my face, or what?
- 8185: Something seems to be bothering you. What is the matter?
- 8186: What's wrong? You keep scrunching your face up!
- 8187: Is something the matter? You look like you have something to say.
- 8188: What is it you're biting your tongue about, <Player>? Go on, tell me.
- 8189: What!? Diederik found the original painting?
- 8190: Diederik found the original painting!?
- 8191: Diederik found the original painting, you say!?
- 8192: Diederik found the original painting, you say?
- 8193: Really!? Diederik found the original painting?
- 8194: No joke? Diederik located the original painting?
- 8195: What!? Diederik found the original painting?
- 8196: What!? Diederik found the original painting!?
- 8197: Diederik found the original painting, you say?
- 8198: Wha...!? Diederik found the original painting!?
- 8199: Diederik found the original painting, you say?
- 8200: What? You say Diederik found the original painting?
- 8201: We don't need Angelica to make another painting, then.
- 8202: You mean all our work was for nothing!?
- 8203: Well, that cancels the need for a redo, doesn't it?
- 8204: Well then, we won't be needing a redo.
- 8205: Then we don't need to have a new one painted anymore.
- 8206: If that's the case, there's no point getting a new one made up.
- 8207: Then we don't need Angelica to make a new one.
- 8208: Then we won't need Angelica to redo the painting after all!
- 8209: Well then, we won't be needing a redo, will we?
- 8210: But then, that means that we don't need Angelica to make a new painting!
- 8211: Well then, we won't be needing a redo.
- 8212: Then we have no longer have a reason to have a new portrait painted.
- 8213: I'll have to apologize to her. Can you come with me, <Player>?
- 8214: Well, since we don't need the painting anymore, I have to apologize to Angelica! <Player>, I want you to come with me!
- 8215: We should go apologize to Angelica.
- 8216: We must apologize to Angelica. Will you accompany me, <Player>?
- 8217: I have to go apologize and explain things to Angelica. Can you come with me, <Player>?
- 8218: I'm going to go and apologize and explain the situation to Angelica. <Player>, I'd appreciate it if you could come along, too.
- 8219: We should go apologize to her. Will you come with me, <Player>?
- 8220: We should go apologize!
- 8221: Will you come with me to apologize to Angelica, <Player>?
- 8222: We should go tell her we're sorry! Let's go together, <Player>!
- 8223: We must apologize to Angelica. Will you accompany me, <Player>?
- 8224: I will go offer my apologies and explain these developments to Angelica. <Player>, come with me.
- 8225: Exit through the door? [Yes./No.]
- 8226: Finally, it's over... So that was what attacked you...
- 8227: It's about time! That monster got what it deserved for attacking you!
- 8228: Well, that's the end of your attacker.
- 8229: We defeated the monster. Its days of attacking adventurers are no more.
- 8230: I'm glad it's all over. So that's the monster that attacked you...
- 8231: Phew, we managed to defeat it. This monster won't bother you ever again.
- 8232: Finally...we did it. So...that was what attacked you.
- 8233: We did it! The monster that attacked you is history!
- 8234: So much for your attacker. It won't be bothering you again.
- 8235: Hey, we defeated the monster! So that was what attacked you!
- 8236: We defeated the monster. Its days of attacking adventurers are no more.
- 8237: The deed is done. So this is the creature that attacked you...
- 8238: Finally, it's over... That was the monster that attacked me.
- 8239: Alright! That monster got what it deserved for attacking me!
- 8240: I suppose that's the end of my attacker.
- 8241: So, we defeated the monster. Its days of attacking adventurers are no more.
- 8242: Boy, I'm glad that's over. This is the thing that attacked me!
- 8243: Phew, we managed to defeat it. What goes around, comes around!
- 8244: Finally...we did it. That was the monster that attacked me.
- 8245: We did it! The monster that attacked me is history!
- 8246: So much for the monster. It won't be bothering adventurers again.
- 8247: Oh, we defeated the monster! That was the one that attacked me!
- 8248: So, we defeated the monster. Its days of attacking adventurers are no more.
- 8249: The deed is done. Vana'diel has one less monster to contend with.
- 8250: Let's search for the $3.
- 8251: Let's go search for the $3!
- 8252: We should search for the $3.
- 8253: Let us search for the $3.
- 8254: Let's search for the $3.
- 8255: Let's get on with searching for the $3.
- 8256: Let's search for the $3.
- 8257: Let's search for the $3!
- 8258: We should search for the $3 now.
- 8259: Oh yeah! Let's search for the $3 now!
- 8260: Let us search for the $3.
+ 8134: This is the $3...
+ 8135: So this is the $3...
+ 8136: This is the $3...
+ 8137: This is it! The $3!
+ 8138: The $3...
+ 8139: Ohhh! The $3!
+ 8140: This is the $3...
+ 8141: The $3...
+ 8142: Oh yeah, I hate to say it, but...Diederik found the original painting after all.
+ 8143: Oh yeah, I have bad news to tell you! Diederik found the original painting!
+ 8144: By the way, I have bad news. Diederik found the original painting.
+ 8145: Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
+ 8146: By the way, I have some bad news. Diederik...he found the original painting.
+ 8147: I have to tell you something. It's a bit of a bummer for us, but Diederik found the original painting.
+ 8148: Oh yeah. I hate to say this, but Diederik found the original painting.
+ 8149: Ohhh yeah, I hate to tell you this, but, um...Diederik found the original painting!
+ 8150: Unfortunately, I must let you know that Diederik has found the original painting.
+ 8151: Oh yeah! I have really bad news! Diederik found the original painting!
+ 8152: Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
+ 8153: There's something you should know. Diederik was able to locate the original painting.
+ 8154: I wonder if Angelica has already started on the new painting.
+ 8155: Angelica might have already started on the new painting, though!
+ 8156: Angelica might have already started on the new painting.
+ 8157: However, Angelica may have already begun work on the new painting.
+ 8158: I wonder if Angelica has already started painting the new portrait.
+ 8159: Angelica may have already begun work on the new painting. Talk about bad timing...
+ 8160: Angelica might have already started on the new painting, though.
+ 8161: Maybe Angelica is already working on that new painting, though!
+ 8162: However, Angelica may already be working on the new painting.
+ 8163: Maybe poor Angie's already started working on the new painting, though!
+ 8164: However, Angelica may have already begun work on the new painting.
+ 8165: It's likely Angelica has already begun work on the new painting. That would be unfortunately timing.
+ 8166: She must be waiting for us. I'll go with you so we can apologize to her. Let's go, <Player>!
+ 8167: Well, she's waiting! Let's go apologize to her, <Player>!
+ 8168: She is waiting for us. Let's go apologize.
+ 8169: I am sure she awaits us. Let us go apologize to her, <Player>.
+ 8170: We better apologize to her, as soon as possible. Let's go, <Player>!
+ 8171: Either way, we shouldn't keep her waiting. Let's go apologize, <Player>.
+ 8172: I'll go with you to apologize to her. She must be waiting for us. Let's go, <Player>!
+ 8173: I bet she's waiting for us! Let's go apologize to her, <Player>!
+ 8174: We should go apologize to Angelica. Let's go, <Player>.
+ 8175: She's probably waiting for us! Come on, let's go tell Angelica we're sorry!
+ 8176: I am sure she awaits us. Let us go apologize to her, <Player>.
+ 8177: I suggest we both go and apologize to her. Let's hurry, now.
+ 8178: What's with the down face?
+ 8179: What's with that look!?
+ 8180: Is something wrong?
+ 8181: Is something the matter? You look like you have something to say.
+ 8182: What's wrong, <Player>? Is there something on your mind?
+ 8183: Is there something wrong, <Player>? You can tell me, you know.
+ 8184: What's wrong? Do you have something you want to tell me?
+ 8185: What's wrong? Is something stuck to my face, or what?
+ 8186: Something seems to be bothering you. What is the matter?
+ 8187: What's wrong? You keep scrunching your face up!
+ 8188: Is something the matter? You look like you have something to say.
+ 8189: What is it you're biting your tongue about, <Player>? Go on, tell me.
+ 8190: What!? Diederik found the original painting?
+ 8191: Diederik found the original painting!?
+ 8192: Diederik found the original painting, you say!?
+ 8193: Diederik found the original painting, you say?
+ 8194: Really!? Diederik found the original painting?
+ 8195: No joke? Diederik located the original painting?
+ 8196: What!? Diederik found the original painting?
+ 8197: What!? Diederik found the original painting!?
+ 8198: Diederik found the original painting, you say?
+ 8199: Wha...!? Diederik found the original painting!?
+ 8200: Diederik found the original painting, you say?
+ 8201: What? You say Diederik found the original painting?
+ 8202: We don't need Angelica to make another painting, then.
+ 8203: You mean all our work was for nothing!?
+ 8204: Well, that cancels the need for a redo, doesn't it?
+ 8205: Well then, we won't be needing a redo.
+ 8206: Then we don't need to have a new one painted anymore.
+ 8207: If that's the case, there's no point getting a new one made up.
+ 8208: Then we don't need Angelica to make a new one.
+ 8209: Then we won't need Angelica to redo the painting after all!
+ 8210: Well then, we won't be needing a redo, will we?
+ 8211: But then, that means that we don't need Angelica to make a new painting!
+ 8212: Well then, we won't be needing a redo.
+ 8213: Then we have no longer have a reason to have a new portrait painted.
+ 8214: I'll have to apologize to her. Can you come with me, <Player>?
+ 8215: Well, since we don't need the painting anymore, I have to apologize to Angelica! <Player>, I want you to come with me!
+ 8216: We should go apologize to Angelica.
+ 8217: We must apologize to Angelica. Will you accompany me, <Player>?
+ 8218: I have to go apologize and explain things to Angelica. Can you come with me, <Player>?
+ 8219: I'm going to go and apologize and explain the situation to Angelica. <Player>, I'd appreciate it if you could come along, too.
+ 8220: We should go apologize to her. Will you come with me, <Player>?
+ 8221: We should go apologize!
+ 8222: Will you come with me to apologize to Angelica, <Player>?
+ 8223: We should go tell her we're sorry! Let's go together, <Player>!
+ 8224: We must apologize to Angelica. Will you accompany me, <Player>?
+ 8225: I will go offer my apologies and explain these developments to Angelica. <Player>, come with me.
+ 8226: Exit through the door? [Yes./No.]
+ 8227: Finally, it's over... So that was what attacked you...
+ 8228: It's about time! That monster got what it deserved for attacking you!
+ 8229: Well, that's the end of your attacker.
+ 8230: We defeated the monster. Its days of attacking adventurers are no more.
+ 8231: I'm glad it's all over. So that's the monster that attacked you...
+ 8232: Phew, we managed to defeat it. This monster won't bother you ever again.
+ 8233: Finally...we did it. So...that was what attacked you.
+ 8234: We did it! The monster that attacked you is history!
+ 8235: So much for your attacker. It won't be bothering you again.
+ 8236: Hey, we defeated the monster! So that was what attacked you!
+ 8237: We defeated the monster. Its days of attacking adventurers are no more.
+ 8238: The deed is done. So this is the creature that attacked you...
+ 8239: Finally, it's over... That was the monster that attacked me.
+ 8240: Alright! That monster got what it deserved for attacking me!
+ 8241: I suppose that's the end of my attacker.
+ 8242: So, we defeated the monster. Its days of attacking adventurers are no more.
+ 8243: Boy, I'm glad that's over. This is the thing that attacked me!
+ 8244: Phew, we managed to defeat it. What goes around, comes around!
+ 8245: Finally...we did it. That was the monster that attacked me.
+ 8246: We did it! The monster that attacked me is history!
+ 8247: So much for the monster. It won't be bothering adventurers again.
+ 8248: Oh, we defeated the monster! That was the one that attacked me!
+ 8249: So, we defeated the monster. Its days of attacking adventurers are no more.
+ 8250: The deed is done. Vana'diel has one less monster to contend with.
+ 8251: Let's search for the $3.
+ 8252: Let's go search for the $3!
+ 8253: We should search for the $3.
+ 8254: Let us search for the $3.
+ 8255: Let's search for the $3.
+ 8256: Let's get on with searching for the $3.
+ 8257: Let's search for the $3.
+ 8258: Let's search for the $3!
+ 8259: We should search for the $3 now.
+ 8260: Oh yeah! Let's search for the $3 now!
  8261: Let us search for the $3.
- 8262: You can't open the door right now.
- 8263: I brought my Yagudo friends on a bit of a relaxation trip, kupo!
- 8264: Here's a little souvenir from our time there!
- 8265: The cyclopean crystal is emitting a radiant glow.
- 8266: You successfully hew $0 [shard/shards] from the crystal!
- 8267: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
- 8268: The crystal is glowing brighter than before...
- 8269: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
- 8270: Record this fount? [Yes./No.]
- 8271: A palpable force wells up slowly from beneath the surface...
- 8272: This geomagnetic fount has already been recorded.
- 8273: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
- 8274: Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the $3 has restored them to normal!
- 8275: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
- 8276: Your $3 has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
- 8277: Your $3 has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
- 8278: You may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
- 8279: You may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
- 8280: You may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
- 8281: The going was rather tough, but we did pull it off!
- 8282: The very definition of teamwork.
- 8283: Phew, any closer and I'd be pulling-wulling Yagudo beaks outta my behind!
- 8284: And you still might if you don't keep your guard up. Currriosity may have killed the cat, but it's abstraction that annihilates adventurers.
- 8285: You have to admit, though, it's hard to occupy your mind with anything else when this treasure-weasure is staring you right in the face!
- 8286: Is that... Yes, it's $0!
- 8287: <Gasp>!
- 8288: Alright, I want this prrrocess to be as fair as the fur on my flank. Anyone who wants in, cast your lot!
- 8289: I sincerely hope you are blessed with the highest bid, Nantoto.
- 8290: Fhelm Jobeizat cheers Nantoto on!
- 8291: Ulbrik-Mulbrok's lot for the $0: $1 points.
- 8292: Rolandienne's lot for the $0: $1 points.
- 8293: Duberasson's lot for the $0: $1 points.
- 8294: Thundering Chariot's lot for the $0: $1 points.
- 8295: And thus our hero appears on the scene, undoubtedly with a heroic wager in tow!
- 8296: Isakoth's lot for the $0: $1 points.
- 8297: Ervok's lot for the $0: $1 points.
- 8298: Yerva Libarello's lot for the $0: $1 points.
- 8299: Fhelm Jobeizat's lot for the $0: $1 points.
- 8300: Nantoto's lot for the $0: $1 points.
- 8301: Duberasson obtains $0.
- 8302: How serendipitous! After countless months of inquest, I am finally united with the $0 of my dreams!
- 8303: Congratulations. You deserve it.
- 8304: You must be so happy, Duberasson.
- 8305: Fhelm Jobeizat comforts Nantoto.
- 8306: Ack, we've been ambush-wambushed!
- 8307: I thought I told you not to disrrregard your duties!
- 8308: <Player> learns $0!
- 8309: 
- 8310: You are assaulted by an uncanny sensation.
- 8311: The arcane energies begin to course within your veins.
- 8312: You feel a mystical warmth welling up inside you!
- 8313: The heat seems to have drained from your $3.
- 8314: Something's not quite right. Head to $8, where Arciela awaits you.
- 8315: A strange force fills your soul.
- 8316: You begin to glow with an inner warmth!
- 8317: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8318: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8319: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8320: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8321: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 8322: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 8323: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 8324: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 8325: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 8326: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 8327: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 8328: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 8329: You do not have enough tabs.
- 8330: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 8331: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 8332: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 8333: Accept the reward? [Yes, please./No, thanks.]
- 8334: You may change the way you select areas listed in "Teleportation Assistance."
- 8335: Any changes to make? [Keep course./Select by region./Select by content.]
- 8336: Area selection will now be made by [region/content].
- 8337: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 8338: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 8339: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 8340: $8 has been [added to your list of favorites/removed from your list of favorites].
- 8341: Your list of favorites is full. You must remove an existing entry to add new ones.
- 8342: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 8262: Let us search for the $3.
+ 8263: You can't open the door right now.
+ 8264: I brought my Yagudo friends on a bit of a relaxation trip, kupo!
+ 8265: Here's a little souvenir from our time there!
+ 8266: The cyclopean crystal is emitting a radiant glow.
+ 8267: You successfully hew $0 [shard/shards] from the crystal!
+ 8268: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
+ 8269: The crystal is glowing brighter than before...
+ 8270: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
+ 8271: Record this fount? [Yes./No.]
+ 8272: A palpable force wells up slowly from beneath the surface...
+ 8273: This geomagnetic fount has already been recorded.
+ 8274: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
+ 8275: Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the $3 has restored them to normal!
+ 8276: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
+ 8277: Your $3 has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
+ 8278: Your $3 has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
+ 8279: You may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
+ 8280: You may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
+ 8281: You may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
+ 8282: The going was rather tough, but we did pull it off!
+ 8283: The very definition of teamwork.
+ 8284: Phew, any closer and I'd be pulling-wulling Yagudo beaks outta my behind!
+ 8285: And you still might if you don't keep your guard up. Currriosity may have killed the cat, but it's abstraction that annihilates adventurers.
+ 8286: You have to admit, though, it's hard to occupy your mind with anything else when this treasure-weasure is staring you right in the face!
+ 8287: Is that... Yes, it's $0!
+ 8288: <Gasp>!
+ 8289: Alright, I want this prrrocess to be as fair as the fur on my flank. Anyone who wants in, cast your lot!
+ 8290: I sincerely hope you are blessed with the highest bid, Nantoto.
+ 8291: Fhelm Jobeizat cheers Nantoto on!
+ 8292: Ulbrik-Mulbrok's lot for the $0: $1 points.
+ 8293: Rolandienne's lot for the $0: $1 points.
+ 8294: Duberasson's lot for the $0: $1 points.
+ 8295: Thundering Chariot's lot for the $0: $1 points.
+ 8296: And thus our hero appears on the scene, undoubtedly with a heroic wager in tow!
+ 8297: Isakoth's lot for the $0: $1 points.
+ 8298: Ervok's lot for the $0: $1 points.
+ 8299: Yerva Libarello's lot for the $0: $1 points.
+ 8300: Fhelm Jobeizat's lot for the $0: $1 points.
+ 8301: Nantoto's lot for the $0: $1 points.
+ 8302: Duberasson obtains $0.
+ 8303: How serendipitous! After countless months of inquest, I am finally united with the $0 of my dreams!
+ 8304: Congratulations. You deserve it.
+ 8305: You must be so happy, Duberasson.
+ 8306: Fhelm Jobeizat comforts Nantoto.
+ 8307: Ack, we've been ambush-wambushed!
+ 8308: I thought I told you not to disrrregard your duties!
+ 8309: <Player> learns $0!
+ 8310: 
+ 8311: You are assaulted by an uncanny sensation.
+ 8312: The arcane energies begin to course within your veins.
+ 8313: You feel a mystical warmth welling up inside you!
+ 8314: The heat seems to have drained from your $3.
+ 8315: Something's not quite right. Head to $8, where Arciela awaits you.
+ 8316: A strange force fills your soul.
+ 8317: You begin to glow with an inner warmth!
+ 8318: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8319: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8320: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8321: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8322: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 8323: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 8324: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 8325: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 8326: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 8327: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 8328: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 8329: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 8330: You do not have enough tabs.
+ 8331: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 8332: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 8333: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 8334: Accept the reward? [Yes, please./No, thanks.]
+ 8335: You may change the way you select areas listed in "Teleportation Assistance."
+ 8336: Any changes to make? [Keep course./Select by region./Select by content.]
+ 8337: Area selection will now be made by [region/content].
+ 8338: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 8339: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 8340: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 8341: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 8342: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 8343: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

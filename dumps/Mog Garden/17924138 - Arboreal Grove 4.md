@@ -24,23 +24,23 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CCC      |        7372 |
+|       1 | 0x1CCD      |        7373 |
 |       2 | 0x40000000  |  1073741824 |
-|       3 | 0x1CC9      |        7369 |
-|       4 | 0x1CCA      |        7370 |
-|       5 | 0x1CCB      |        7371 |
+|       3 | 0x1CCA      |        7370 |
+|       4 | 0x1CCB      |        7371 |
+|       5 | 0x1CCC      |        7372 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1CC4      |        7364 |
-|       8 | 0x1CC5      |        7365 |
+|       7 | 0x1CC5      |        7365 |
+|       8 | 0x1CC6      |        7366 |
 |       9 | 0x000C      |          12 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x000E      |          14 |
 |      12 | 0x000B      |          11 |
 |      13 | 0x0002      |           2 |
-|      14 | 0x1CC6      |        7366 |
+|      14 | 0x1CC7      |        7367 |
 |      15 | 0x0028      |          40 |
-|      16 | 0x1D73      |        7539 |
-|      17 | 0x1D72      |        7538 |
+|      16 | 0x1D74      |        7540 |
+|      17 | 0x1D73      |        7539 |
 |      18 | 0x002A      |          42 |
 |      19 | 0x0004      |           4 |
 |      20 | 0x001A      |          26 |
@@ -83,15 +83,15 @@
 
 ## String References
 
-- **7364**: This grove of trees is rank $0. You can harvest from it $2 more time[/s].
-- **7365**: This grove is fertilized with $1.
-- **7366**: What will you do? [Prune the trees./Multiple prunings./Remove weeds./Multiple removals./Nothing.]
-- **7369**: Using this new fertilizer will overpower the effects of the $0 you already spread.
-- **7370**: Use the $0? [Yes./No.]
-- **7371**: You fertilized this spot with $0.
-- **7372**: You cannot use that $0 on the grove.
-- **7538**: You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s].
-- **7539**: You have successfully performed that action $0 time[/s], and may no longer do so again.
+- **7365**: This grove of trees is rank $0. You can harvest from it $2 more time[/s].
+- **7366**: This grove is fertilized with $1.
+- **7367**: What will you do? [Prune the trees./Multiple prunings./Remove weeds./Multiple removals./Nothing.]
+- **7370**: Using this new fertilizer will overpower the effects of the $0 you already spread.
+- **7371**: Use the $0? [Yes./No.]
+- **7372**: You fertilized this spot with $0.
+- **7373**: You cannot use that $0 on the grove.
+- **7539**: You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s].
+- **7540**: You have successfully performed that action $0 time[/s], and may no longer do so again.
 
 ## Events
 
@@ -713,23 +713,23 @@ SUBROUTINE_0568:
      0x0010 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
      0x0015 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x002E
      0x001D [0x03] Work_Zone[2] = Work_Zone[3]
-     0x0022 [0x48] [System] [7372*]:
+     0x0022 [0x48] [System] [7373*]:
     → "You cannot use that $0 on the grove."
      0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0026 [0x03] Work_Zone[1] = 1073741824*
      0x002B [0x01] GOTO 0x0079
      0x002E [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x006F
      0x0036 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-     0x003B [0x48] [System] [7369*]:
+     0x003B [0x48] [System] [7370*]:
     → "Using this new fertilizer will overpower the effects of the $0 you already spread."
      0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x003F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-     0x0044 [0x24] CREATE_DIALOG(message_id=7370*, default_option=0*, option_flags=0*)
+     0x0044 [0x24] CREATE_DIALOG(message_id=7371*, default_option=0*, option_flags=0*)
     → "Use the $0? [Yes./No.]"
      0x004B [0x25] WAIT_DIALOG_SELECT()
      0x004C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005C
      0x0054 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0055 [0x48] [System] [7371*]:
+     0x0055 [0x48] [System] [7372*]:
     → "You fertilized this spot with $0."
      0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0059 [0x01] GOTO 0x006C
@@ -738,7 +738,7 @@ SUBROUTINE_0568:
      0x0069 [0x01] GOTO 0x006C
      0x006C [0x01] GOTO 0x0079
      0x006F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0070 [0x48] [System] [7371*]:
+     0x0070 [0x48] [System] [7372*]:
     → "You fertilized this spot with $0."
      0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0074 [0x03] Work_Zone[1] = 0*
@@ -749,11 +749,11 @@ SUBROUTINE_0568:
      0x0085 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
      0x008A [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[9]
      0x008F [0x4A] LocalPlayer looks at EventEntity
-     0x0098 [0x48] [System] [7364*]:
+     0x0098 [0x48] [System] [7365*]:
     → "This grove of trees is rank $0. You can harvest from it $2 more time[/s]."
      0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x009C [0x02] IF !(ExtData[1]->WorkLocal[2] <= 0*) GOTO 0x00A8
-     0x00A4 [0x48] [System] [7365*]:
+     0x00A4 [0x48] [System] [7366*]:
     → "This grove is fertilized with $1."
      0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00A8 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 1*) GOTO 0x00D2
@@ -770,7 +770,7 @@ SUBROUTINE_0568:
      0x00E4 [0x01] GOTO 0x00F1
      0x00E7 [0x03] ExtData[1]->WorkLocal[4] = 11*
      0x00EC [0x03] ExtData[1]->WorkLocal[9] = 2*
-     0x00F1 [0x24] CREATE_DIALOG(message_id=7366*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[4])
+     0x00F1 [0x24] CREATE_DIALOG(message_id=7367*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[4])
     → "What will you do? [Prune the trees./Multiple prunings./Remove weeds./Multiple removals./Nothing.]"
      0x00F8 [0x25] WAIT_DIALOG_SELECT()
      0x00F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012E
@@ -807,10 +807,10 @@ SUBROUTINE_0568:
      0x0192 [0x01] GOTO 0x0149
      0x0195 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
      0x019A [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x01A8
-     0x01A2 [0x48] [System] [7539*]:
+     0x01A2 [0x48] [System] [7540*]:
     → "You have successfully performed that action $0 time[/s], and may no longer do so again."
      0x01A5 [0x01] GOTO 0x01AB
-     0x01A8 [0x48] [System] [7538*]:
+     0x01A8 [0x48] [System] [7539*]:
     → "You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s]."
      0x01AB [0x1A] CALL_SUBROUTINE(address=0x0458)
      0x01AE [0x01] GOTO 0x0276
@@ -847,10 +847,10 @@ SUBROUTINE_0568:
      0x0247 [0x01] GOTO 0x01FE
      0x024A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
      0x024F [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x025D
-     0x0257 [0x48] [System] [7539*]:
+     0x0257 [0x48] [System] [7540*]:
     → "You have successfully performed that action $0 time[/s], and may no longer do so again."
      0x025A [0x01] GOTO 0x0260
-     0x025D [0x48] [System] [7538*]:
+     0x025D [0x48] [System] [7539*]:
     → "You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s]."
      0x0260 [0x1A] CALL_SUBROUTINE(address=0x0458)
      0x0263 [0x01] GOTO 0x0276

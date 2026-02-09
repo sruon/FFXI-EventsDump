@@ -25,23 +25,23 @@
 |       2 | 0x14CD      |        5325 |
 |       3 | 0x14CE      |        5326 |
 |       4 | 0xFC00      |       64512 |
-|       5 | 0x1BA9      |        7081 |
+|       5 | 0x1BAA      |        7082 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0010      |          16 |
-|       8 | 0x1BAA      |        7082 |
+|       8 | 0x1BAB      |        7083 |
 |       9 | 0x0018      |          24 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x001F      |          31 |
-|      12 | 0x1BAB      |        7083 |
+|      12 | 0x1BAC      |        7084 |
 |      13 | 0x0007      |           7 |
 |      14 | 0x40000000  |  1073741824 |
 |      15 | 0x000F      |          15 |
 
 ## String References
 
-- **7081**: Whaddya want this time, cheater? [Current $0./Next $0./Previous $0./Current $1./Next $1./Previous $1./Current $2./Previous $2./Current $3./Previous $3./Current $4./Previous $4./Next $4./Current $5./Previous $5./Next $5./More $5./Forget it.]
-- **7082**: Which $0 do you want? [After phase 1./After phase 2./After phase 3./After phase 4./After phase 5./After phase 6./After phase 7./After phase 8./After phase 9./After phase 10./After phase 11./After phase 12./After phase 13./After phase 14./After phase 15./After phase 16./After phase 17./After phase 18./After phase 19./After phase 20./After phase 21./After phase 22./After phase 23./After phase 24./Nevermind.]
-- **7083**: Level limit? [No limits./60./50./40."0."0./10./Nevermind.]
+- **7082**: Whaddya want this time, cheater? [Current $0./Next $0./Previous $0./Current $1./Next $1./Previous $1./Current $2./Previous $2./Current $3./Previous $3./Current $4./Previous $4./Next $4./Current $5./Previous $5./Next $5./More $5./Forget it.]
+- **7083**: Which $0 do you want? [After phase 1./After phase 2./After phase 3./After phase 4./After phase 5./After phase 6./After phase 7./After phase 8./After phase 9./After phase 10./After phase 11./After phase 12./After phase 13./After phase 14./After phase 15./After phase 16./After phase 17./After phase 18./After phase 19./After phase 20./After phase 21./After phase 22./After phase 23./After phase 24./Nevermind.]
+- **7084**: Level limit? [No limits./60./50./40."0."0./10./Nevermind.]
 
 ## Events
 
@@ -98,13 +98,13 @@
   2: 0x000B [0x03] Work_Zone[4] = 5325*
   3: 0x0010 [0x03] Work_Zone[5] = 5326*
   4: 0x0015 [0x03] ExtData[1]->WorkLocal[1] = 64512*
-  5: 0x001A [0x24] CREATE_DIALOG(message_id=7081*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+  5: 0x001A [0x24] CREATE_DIALOG(message_id=7082*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Whaddya want this time, cheater? [Current $0./Next $0./Previous $0./Current $1./Next $1./Previous $1./Current $2./Previous $2./Current $3./Previous $3./Current $4./Previous $4./Next $4./Current $5./Previous $5./Next $5./More $5./Forget it.]"
   6: 0x0021 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0022 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002D
   8: 0x002A [0x01] GOTO 0x0050
   9: 0x002D [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0050
- 10: 0x0035 [0x24] CREATE_DIALOG(message_id=7082*, default_option=0*, option_flags=0*)
+ 10: 0x0035 [0x24] CREATE_DIALOG(message_id=7083*, default_option=0*, option_flags=0*)
     → "Which $0 do you want? [After phase 1./After phase 2./After phase 3./After phase 4./After phase 5./After phase 6./After phase 7./After phase 8./After phase 9./After phase 10./After phase 11./After phase 12./After phase 13./After phase 14./After phase 15./After phase 16./After phase 17./After phase 18./After phase 19./After phase 20./After phase 21./After phase 22./After phase 23./After phase 24./Nevermind.]"
  11: 0x003C [0x25] WAIT_DIALOG_SELECT()
  12: 0x003D [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x0048
@@ -116,7 +116,7 @@ SUBROUTINE_004D:
 
 SUBROUTINE_0050:
  16: 0x0050 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[0])
- 17: 0x0059 [0x24] CREATE_DIALOG(message_id=7083*, default_option=0*, option_flags=0*)
+ 17: 0x0059 [0x24] CREATE_DIALOG(message_id=7084*, default_option=0*, option_flags=0*)
     → "Level limit? [No limits./60./50./40."0."0./10./Nevermind.]"
  18: 0x0060 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0061 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0071

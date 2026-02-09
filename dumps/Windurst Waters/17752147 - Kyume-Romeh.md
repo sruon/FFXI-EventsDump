@@ -119,24 +119,24 @@
 |      10 | 0x01AE      |         430 |
 |      11 | 0x01AF      |         431 |
 |      12 | 0x002E      |          46 |
-|      13 | 0x22AE      |        8878 |
-|      14 | 0x22AF      |        8879 |
-|      15 | 0x2FFE      |       12286 |
+|      13 | 0x22AF      |        8879 |
+|      14 | 0x22B0      |        8880 |
+|      15 | 0x2FFF      |       12287 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x3007      |       12295 |
-|      18 | 0x3008      |       12296 |
-|      19 | 0x202F      |        8239 |
-|      20 | 0x2030      |        8240 |
-|      21 | 0x2031      |        8241 |
-|      22 | 0x1CEB      |        7403 |
-|      23 | 0x1CEC      |        7404 |
-|      24 | 0x2383      |        9091 |
-|      25 | 0x2384      |        9092 |
-|      26 | 0x2385      |        9093 |
-|      27 | 0x2386      |        9094 |
-|      28 | 0x2387      |        9095 |
-|      29 | 0x2388      |        9096 |
-|      30 | 0x2901      |       10497 |
+|      17 | 0x3008      |       12296 |
+|      18 | 0x3009      |       12297 |
+|      19 | 0x2030      |        8240 |
+|      20 | 0x2031      |        8241 |
+|      21 | 0x2032      |        8242 |
+|      22 | 0x1CEC      |        7404 |
+|      23 | 0x1CED      |        7405 |
+|      24 | 0x2384      |        9092 |
+|      25 | 0x2385      |        9093 |
+|      26 | 0x2386      |        9094 |
+|      27 | 0x2387      |        9095 |
+|      28 | 0x2388      |        9096 |
+|      29 | 0x2389      |        9097 |
+|      30 | 0x2902      |       10498 |
 |      31 | 0xFFFD22F5  |  4294779637 |
 |      32 | 0xFFFE3EF3  |  4294852339 |
 |      33 | 0xFFFFD85A  |  4294957146 |
@@ -153,32 +153,32 @@
 |      44 | 0xFFFD317C  |  4294783356 |
 |      45 | 0xFFFE75F2  |  4294866418 |
 |      46 | 0xFFFFEED0  |  4294962896 |
-|      47 | 0x292D      |       10541 |
-|      48 | 0x292E      |       10542 |
-|      49 | 0x292F      |       10543 |
+|      47 | 0x292E      |       10542 |
+|      48 | 0x292F      |       10543 |
+|      49 | 0x2930      |       10544 |
 
 ## String References
 
-- **7403**: Munch-munch...gloomph...bellllch! That is an intriguing hat you have there!
-- **7404**: Hey, that could make a great story! Thanks, that's my scoop of the day!
-- **8239**: Munch-munch...chew-chew... What's that? You have a question you want to ask me, the walking library?
-- **8240**: Oh, that's easy-weasy. Orn, the Hume gentleman you're referring to, is a traveler who's staying in the hostelry room right above us.
-- **8241**: You disturbed my custard, cake, and jelly for such a trifling matter? Munch-munch...chew-chew...
-- **8878**: Munch-munch...chew-chew... What's that? You have a question you want to ask me, the man on the spot?
-- **8879**: I'm the ace reporter for the "Magic Paradise Weekly." Why, I don't even have to move a finger. All the news just comes to me. Munch-munch...chew-chew...
-- **9091**: Munch-munch...chew-chew... What's that? You have a question you want to ask me, the man on the spot?
-- **9092**: ...? Naiko-Paneiko? <choke>-<gasp>-<burp>!
-- **9093**: Don't ever mention my editor's name while I'm enjoying my steak! I have a beef with him!
-- **9094**: I'm busy eating here. If you can handle it, I'll give you my scoop. So bowl outta here or we'll both be in the soup!
-- **9095**: Don't cheese me off by mentioning my editor's name while I'm enjoying fondue!
-- **9096**: I've forked over my scoop to you, so take it back to him. Come on... Chop chop! Act like a whisk and beat it!
-- **10497**: ...And that's when they took off towards the south part of Windurst Waters. Munch-munch...chew-chew...
-- **10541**: Munch-munch...chew-chew... I was able to find out all sorts of juicy details from that article.
-- **10542**: But I'll have to skip lunch to investigate justaru how authentic this story really is...munch-munch...
-- **10543**: If you're looking for those three Tarutaru, they headed for the air travel agency. If I recall, there's a reporter around that area who works for the same boss as the man on the spot...chew-chew...
-- **12286**: <Player>'s badge flashes brightly.
-- **12295**: Munch-munch...chew-chew... What's that? Something about "Aht Urhgan"? I heard that the beastmen there are crazy-wazy! Rumor has it that they even attack the towns sometimes!
-- **12296**: If I could just go there on a business trip, I'd have enough scoops to last the rest of my life! Then again, if the rumors are true, that might not be very long!
+- **7404**: Munch-munch...gloomph...bellllch! That is an intriguing hat you have there!
+- **7405**: Hey, that could make a great story! Thanks, that's my scoop of the day!
+- **8240**: Munch-munch...chew-chew... What's that? You have a question you want to ask me, the walking library?
+- **8241**: Oh, that's easy-weasy. Orn, the Hume gentleman you're referring to, is a traveler who's staying in the hostelry room right above us.
+- **8242**: You disturbed my custard, cake, and jelly for such a trifling matter? Munch-munch...chew-chew...
+- **8879**: Munch-munch...chew-chew... What's that? You have a question you want to ask me, the man on the spot?
+- **8880**: I'm the ace reporter for the "Magic Paradise Weekly." Why, I don't even have to move a finger. All the news just comes to me. Munch-munch...chew-chew...
+- **9092**: Munch-munch...chew-chew... What's that? You have a question you want to ask me, the man on the spot?
+- **9093**: ...? Naiko-Paneiko? <choke>-<gasp>-<burp>!
+- **9094**: Don't ever mention my editor's name while I'm enjoying my steak! I have a beef with him!
+- **9095**: I'm busy eating here. If you can handle it, I'll give you my scoop. So bowl outta here or we'll both be in the soup!
+- **9096**: Don't cheese me off by mentioning my editor's name while I'm enjoying fondue!
+- **9097**: I've forked over my scoop to you, so take it back to him. Come on... Chop chop! Act like a whisk and beat it!
+- **10498**: ...And that's when they took off towards the south part of Windurst Waters. Munch-munch...chew-chew...
+- **10542**: Munch-munch...chew-chew... I was able to find out all sorts of juicy details from that article.
+- **10543**: But I'll have to skip lunch to investigate justaru how authentic this story really is...munch-munch...
+- **10544**: If you're looking for those three Tarutaru, they headed for the air travel agency. If I recall, there's a reporter around that area who works for the same boss as the man on the spot...chew-chew...
+- **12287**: <Player>'s badge flashes brightly.
+- **12296**: Munch-munch...chew-chew... What's that? Something about "Aht Urhgan"? I heard that the beastmen there are crazy-wazy! Rumor has it that they even attack the towns sometimes!
+- **12297**: If I could just go there on a business trip, I'd have enough scoops to last the rest of my life! Then again, if the rumors are true, that might not be very long!
 
 ## Events
 
@@ -1932,11 +1932,11 @@
   0: 0x0481 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0486 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0487 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0488 [0x1D] PRINT_EVENT_MESSAGE(message_id=8878*)
+  3: 0x0488 [0x1D] PRINT_EVENT_MESSAGE(message_id=8879*)
     → "Munch-munch...chew-chew... What's that? You have a question you want to ask me, the man on the spot?"
   4: 0x048B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x048C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x01)
-  6: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=8879*)
+  6: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=8880*)
     → "I'm the ace reporter for the "Magic Paradise Weekly." Why, I don't even have to move a finger. All the news just comes to me. Munch-munch...chew-chew..."
   7: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0497 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x02)
@@ -1968,15 +1968,15 @@
 
 ```
   0: 0x04A2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x04A3 [0x48] [System] [12286*]:
+  1: 0x04A3 [0x48] [System] [12287*]:
     → "<Player>'s badge flashes brightly."
   2: 0x04A6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x04AB [0x1C] WAIT(30* ticks)
-  4: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
+  4: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
     → "Munch-munch...chew-chew... What's that? Something about "Aht Urhgan"? I heard that the beastmen there are crazy-wazy! Rumor has it that they even attack the towns sometimes!"
   5: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  7: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
+  7: 0x04C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
     → "If I could just go there on a business trip, I'd have enough scoops to last the rest of my life! Then again, if the rumors are true, that might not be very long!"
   8: 0x04C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
@@ -2008,14 +2008,14 @@
   0: 0x04D6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x04DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
+  3: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
     → "Munch-munch...chew-chew... What's that? You have a question you want to ask me, the walking library?"
   4: 0x04E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x01)
-  6: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
+  6: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8241*)
     → "Oh, that's easy-weasy. Orn, the Hume gentleman you're referring to, is a traveler who's staying in the hostelry room right above us."
   7: 0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8241*)
+  8: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
     → "You disturbed my custard, cake, and jelly for such a trifling matter? Munch-munch...chew-chew..."
   9: 0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x02)
@@ -2048,11 +2048,11 @@
   0: 0x04FB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0500 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0501 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
+  3: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
     → "Munch-munch...gloomph...bellllch! That is an intriguing hat you have there!"
   4: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0506 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x2C)
-  6: 0x050D [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
+  6: 0x050D [0x1D] PRINT_EVENT_MESSAGE(message_id=7405*)
     → "Hey, that could make a great story! Thanks, that's my scoop of the day!"
   7: 0x0510 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0511 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x2D)
@@ -2088,23 +2088,23 @@
   0: 0x051C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0521 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0522 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0523 [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
+  3: 0x0523 [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
     → "Munch-munch...chew-chew... What's that? You have a question you want to ask me, the man on the spot?"
   4: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0527 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x21)
-  6: 0x052E [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
+  6: 0x052E [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
     → "...? Naiko-Paneiko? <choke>-<gasp>-<burp>!"
   7: 0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0532 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x22)
   9: 0x0539 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x2C)
  10: 0x0540 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x2D)
  11: 0x0547 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0B)
- 12: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
+ 12: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
     → "Don't ever mention my editor's name while I'm enjoying my steak! I have a beef with him!"
  13: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0552 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0C)
  15: 0x0559 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0D)
- 16: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
+ 16: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
     → "I'm busy eating here. If you can handle it, I'll give you my scoop. So bowl outta here or we'll both be in the soup!"
  17: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0564 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0E)
@@ -2138,10 +2138,10 @@
   1: 0x0574 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0575 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0576 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0B)
-  4: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
+  4: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=9096*)
     → "Don't cheese me off by mentioning my editor's name while I'm enjoying fondue!"
   5: 0x0580 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=9096*)
+  6: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=9097*)
     → "I've forked over my scoop to you, so take it back to him. Come on... Chop chop! Act like a whisk and beat it!"
   7: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0585 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0C)
@@ -2221,7 +2221,7 @@
   1: 0x059F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05A0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x09)
-  4: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10497*)
+  4: 0x05A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10498*)
     → "...And that's when they took off towards the south part of Windurst Waters. Munch-munch...chew-chew..."
   5: 0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0A)
@@ -2447,17 +2447,17 @@
   1: 0x0634 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0635 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0636 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x01)
-  4: 0x063D [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
+  4: 0x063D [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
     → "Munch-munch...chew-chew... I was able to find out all sorts of juicy details from that article."
   5: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0641 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x02)
   7: 0x0648 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x09)
-  8: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
+  8: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
     → "But I'll have to skip lunch to investigate justaru how authentic this story really is...munch-munch..."
   9: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0653 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x0A)
  11: 0x065A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x01)
- 12: 0x0661 [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
+ 12: 0x0661 [0x1D] PRINT_EVENT_MESSAGE(message_id=10544*)
     → "If you're looking for those three Tarutaru, they headed for the air travel agency. If I recall, there's a reporter around that area who works for the same boss as the man on the spot...chew-chew..."
  13: 0x0664 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0665 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyume-Romeh (ID: 17752147/0x010EE053), tag_num=0x02)

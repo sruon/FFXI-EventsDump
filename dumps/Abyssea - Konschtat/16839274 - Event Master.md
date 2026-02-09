@@ -20,26 +20,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FA9      |        8105 |
+|       0 | 0x1FAA      |        8106 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0018      |          24 |
 |       4 | 0x001F      |          31 |
-|       5 | 0x1FAA      |        8106 |
+|       5 | 0x1FAB      |        8107 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x1FAB      |        8107 |
+|       7 | 0x1FAC      |        8108 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x1FAC      |        8108 |
+|       9 | 0x1FAD      |        8109 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x1FAD      |        8109 |
+|      11 | 0x1FAE      |        8110 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x1FAE      |        8110 |
+|      13 | 0x1FAF      |        8111 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x1FAF      |        8111 |
+|      15 | 0x1FB0      |        8112 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x1FB0      |        8112 |
+|      17 | 0x1FB1      |        8113 |
 |      18 | 0x0008      |           8 |
-|      19 | 0x1FB1      |        8113 |
+|      19 | 0x1FB2      |        8114 |
 |      20 | 0x56C18     |      355352 |
 |      21 | 0xFFF9ECD1  |  4294569169 |
 |      22 | 0xFFFFBB84  |  4294949764 |
@@ -47,21 +47,21 @@
 |      24 | 0xAFB80     |      719744 |
 |      25 | 0x5D5E      |       23902 |
 |      26 | 0x0009      |           9 |
-|      27 | 0x1FB2      |        8114 |
+|      27 | 0x1FB3      |        8115 |
 |      28 | 0x000A      |          10 |
 
 ## String References
 
-- **8105**: $P11I$P11p5D->3"B [$P16<$P10:$3Z$3b$3g()/$3N$3G$3X$3gP($17$^$W_)/$3N$3G$3X$3gQ($P15b [ [)/$3N$3G$3X$3gR(LS$P15*$P14z)/$3N$3G$3X$3gS($P11f$^P)/$3N$3G$3X$3gT($P16r$P15*$P14z)/$3N$3G$3X$3gU($P11f$^Q)/$3N$3G$3X$3gV($P15s)/$3N$3G$3X$3gW($J$P10^P)/$3N$3G$3X$3gX($P10l$P12T5)/$3N$3G$3X$3g10($J$P10^Q)/b_i]
-- **8106**: $P11I$P11p5D->3"B [$P16"$3N$3$3A$s$P11TI$3$3Z$3b$3g/>"6H\`L7WD$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
-- **8107**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$3N$3G$3X$3gP$3N$3$3A$s$P11T$22287986H\`Lp$7/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
-- **8108**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$3N$3G$3X$3gQ$3N$3$3A$s$P11T$22287986H\`L7WD$P13n5=1FI7i/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
-- **8109**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
-- **8110**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 $P13|$h/T<Player>H$O$3g$3[$3h5=1FI7i/$P11S<Player>u$3g$3[$3h5=1FI7i/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
-- **8111**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8106**: $P11I$P11p5D->3"B [$P16<$P10:$3Z$3b$3g()/$3N$3G$3X$3gP($17$^$W_)/$3N$3G$3X$3gQ($P15b [ [)/$3N$3G$3X$3gR(LS$P15*$P14z)/$3N$3G$3X$3gS($P11f$^P)/$3N$3G$3X$3gT($P16r$P15*$P14z)/$3N$3G$3X$3gU($P11f$^Q)/$3N$3G$3X$3gV($P15s)/$3N$3G$3X$3gW($J$P10^P)/$3N$3G$3X$3gX($P10l$P12T5)/$3N$3G$3X$3g10($J$P10^Q)/b_i]
+- **8107**: $P11I$P11p5D->3"B [$P16"$3N$3$3A$s$P11TI$3$3Z$3b$3g/>"6H\`L7WD$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8108**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$3N$3G$3X$3gP$3N$3$3A$s$P11T$22287986H\`Lp$7/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8109**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$3N$3G$3X$3gQ$3N$3$3A$s$P11T$22287986H\`L7WD$P13n5=1FI7i/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8110**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8111**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 $P13|$h/T<Player>H$O$3g$3[$3h5=1FI7i/$P11S<Player>u$3g$3[$3h5=1FI7i/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
 - **8112**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
-- **8113**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/NM$3|$3C$3$3gI$P13]$23/HNM$3|$3C$3$3gI$P13]$23/b_i]
-- **8114**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11T$22287986H\`LL$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8113**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
+- **8114**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/NM$3|$3C$3$3gI$P13]$23/HNM$3|$3C$3$3gI$P13]$23/b_i]
+- **8115**: $P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\\$s$P11T$22287986H\`LL$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]
 
 ## Events
 
@@ -154,7 +154,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=8105*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3"B [$P16<$P10:$3Z$3b$3g()/$3N$3G$3X$3gP($17$^$W_)/$3N$3G$3X$3gQ($P15b [ [)/$3N$3G$3X$3gR(LS$P15*$P14z)/$3N$3G$3X$3gS($P11f$^P)/$3N$3G$3X$3gT($P16r$P15*$P14z)/$3N$3G$3X$3gU($P11f$^Q)/$3N$3G$3X$3gV($P15s)/$3N$3G$3X$3gW($J$P10^P)/$3N$3G$3X$3gX($P10l$P12T5)/$3N$3G$3X$3g10($J$P10^Q)/b_i]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002A
@@ -164,7 +164,7 @@
   6: 0x001E [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=0*)
   7: 0x0027 [0x01] GOTO 0x030C
   8: 0x002A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0056
-  9: 0x0032 [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
+  9: 0x0032 [0x24] CREATE_DIALOG(message_id=8107*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3"B [$P16"$3N$3$3A$s$P11TI$3$3Z$3b$3g/>"6H`L7WD$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  10: 0x0039 [0x25] WAIT_DIALOG_SELECT()
  11: 0x003A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0045
@@ -175,7 +175,7 @@ SUBROUTINE_0045:
  14: 0x004A [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=1*)
  15: 0x0053 [0x01] GOTO 0x030C
  16: 0x0056 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0082
- 17: 0x005E [0x24] CREATE_DIALOG(message_id=8107*, default_option=0*, option_flags=0*)
+ 17: 0x005E [0x24] CREATE_DIALOG(message_id=8108*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$3N$3G$3X$3gP$3N$3$3A$s$P11T$22287986H`Lp$7/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  18: 0x0065 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0066 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0071
@@ -186,7 +186,7 @@ SUBROUTINE_0071:
  22: 0x0076 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=2*)
  23: 0x007F [0x01] GOTO 0x030C
  24: 0x0082 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00AE
- 25: 0x008A [0x24] CREATE_DIALOG(message_id=8108*, default_option=0*, option_flags=0*)
+ 25: 0x008A [0x24] CREATE_DIALOG(message_id=8109*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$3N$3G$3X$3gQ$3N$3$3A$s$P11T$22287986H`L7WD$P13n5=1FI7i/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  26: 0x0091 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0092 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009D
@@ -197,7 +197,7 @@ SUBROUTINE_009D:
  30: 0x00A2 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=3*)
  31: 0x00AB [0x01] GOTO 0x030C
  32: 0x00AE [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00DA
- 33: 0x00B6 [0x24] CREATE_DIALOG(message_id=8109*, default_option=0*, option_flags=0*)
+ 33: 0x00B6 [0x24] CREATE_DIALOG(message_id=8110*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  34: 0x00BD [0x25] WAIT_DIALOG_SELECT()
  35: 0x00BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C9
@@ -208,7 +208,7 @@ SUBROUTINE_00C9:
  38: 0x00CE [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=4*)
  39: 0x00D7 [0x01] GOTO 0x030C
  40: 0x00DA [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0106
- 41: 0x00E2 [0x24] CREATE_DIALOG(message_id=8110*, default_option=0*, option_flags=0*)
+ 41: 0x00E2 [0x24] CREATE_DIALOG(message_id=8111*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11Tj/$3A$3C$3e$3 $P13|$h/T<Player>H$O$3g$3[$3h5=1FI7i/$P11S<Player>u$3g$3[$3h5=1FI7i/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  42: 0x00E9 [0x25] WAIT_DIALOG_SELECT()
  43: 0x00EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -219,7 +219,7 @@ SUBROUTINE_00F5:
  46: 0x00FA [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
  47: 0x0103 [0x01] GOTO 0x030C
  48: 0x0106 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0132
- 49: 0x010E [0x24] CREATE_DIALOG(message_id=8111*, default_option=0*, option_flags=0*)
+ 49: 0x010E [0x24] CREATE_DIALOG(message_id=8112*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  50: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  51: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0121
@@ -230,7 +230,7 @@ SUBROUTINE_0121:
  54: 0x0126 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
  55: 0x012F [0x01] GOTO 0x030C
  56: 0x0132 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x015E
- 57: 0x013A [0x24] CREATE_DIALOG(message_id=8112*, default_option=0*, option_flags=0*)
+ 57: 0x013A [0x24] CREATE_DIALOG(message_id=8113*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  58: 0x0141 [0x25] WAIT_DIALOG_SELECT()
  59: 0x0142 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014D
@@ -241,7 +241,7 @@ SUBROUTINE_014D:
  62: 0x0152 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
  63: 0x015B [0x01] GOTO 0x030C
  64: 0x015E [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x021F
- 65: 0x0166 [0x24] CREATE_DIALOG(message_id=8113*, default_option=0*, option_flags=0*)
+ 65: 0x0166 [0x24] CREATE_DIALOG(message_id=8114*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/NM$3|$3C$3$3gI$P13]$23/HNM$3|$3C$3$3gI$P13]$23/b_i]"
  66: 0x016D [0x25] WAIT_DIALOG_SELECT()
  67: 0x016E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0187
@@ -276,7 +276,7 @@ SUBROUTINE_014D:
 SUBROUTINE_021C:
  95: 0x021C [0x01] GOTO 0x030C
  96: 0x021F [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x024B
- 97: 0x0227 [0x24] CREATE_DIALOG(message_id=8114*, default_option=0*, option_flags=0*)
+ 97: 0x0227 [0x24] CREATE_DIALOG(message_id=8115*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11T$22287986H`LL$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/b_i]"
  98: 0x022E [0x25] WAIT_DIALOG_SELECT()
  99: 0x022F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023A
@@ -287,7 +287,7 @@ SUBROUTINE_023A:
 102: 0x023F [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
 103: 0x0248 [0x01] GOTO 0x030C
 104: 0x024B [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x030C
-105: 0x0253 [0x24] CREATE_DIALOG(message_id=8113*, default_option=0*, option_flags=0*)
+105: 0x0253 [0x24] CREATE_DIALOG(message_id=8114*, default_option=0*, option_flags=0*)
     → "$P11I$P11p5D->3" [$P16"$3N$3$3A$s$P11Ti$9$s%L%B$P14\$s$P11Tj/$3A$3C$3e$3 L$P13|$h/$3N$3$3A$s$P11TI$3Z$3b$3g/NM$3|$3C$3$3gI$P13]$23/HNM$3|$3C$3$3gI$P13]$23/b_i]"
 106: 0x025A [0x25] WAIT_DIALOG_SELECT()
 107: 0x025B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0274

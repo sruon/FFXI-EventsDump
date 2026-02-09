@@ -22,9 +22,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0031      |          49 |
-|       1 | 0x2A74      |       10868 |
-|       2 | 0x2A75      |       10869 |
-|       3 | 0x2A76      |       10870 |
+|       1 | 0x2A75      |       10869 |
+|       2 | 0x2A76      |       10870 |
+|       3 | 0x2A77      |       10871 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x00C8      |         200 |
@@ -37,9 +37,9 @@
 
 ## String References
 
-- **10868**: Hold on there, [mister-wister/missie-wissie]! Do you know what's waiting on the other side of this gate for tenderific morsels like you, huh?
-- **10869**: Oh, you do now, do you? Well, it's your funeral...
-- **10870**: Exit to West Sarutabaruta? [Yes./No.]
+- **10869**: Hold on there, [mister-wister/missie-wissie]! Do you know what's waiting on the other side of this gate for tenderific morsels like you, huh?
+- **10870**: Oh, you do now, do you? Well, it's your funeral...
+- **10871**: Exit to West Sarutabaruta? [Yes./No.]
 
 ## Events
 
@@ -124,15 +124,15 @@
   2: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
+  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
     → "Hold on there, [mister-wister/missie-wissie]! Do you know what's waiting on the other side of this gate for tenderific morsels like you, huh?"
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
     → "Oh, you do now, do you? Well, it's your funeral..."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  10: 0x002F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 11: 0x0034 [0x24] CREATE_DIALOG(message_id=10870*, default_option=1*, option_flags=0*)
+ 11: 0x0034 [0x24] CREATE_DIALOG(message_id=10871*, default_option=1*, option_flags=0*)
     → "Exit to West Sarutabaruta? [Yes./No.]"
  12: 0x003B [0x25] WAIT_DIALOG_SELECT()
  13: 0x003C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C7

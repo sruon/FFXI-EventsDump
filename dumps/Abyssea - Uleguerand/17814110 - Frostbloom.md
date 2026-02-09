@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F39      |        7993 |
+|       0 | 0x1F3A      |        7994 |
 
 ## String References
 
-- **7993**: A bright red flower blooms brilliantly atop the pure white snow.
+- **7994**: A bright red flower blooms brilliantly atop the pure white snow.
 
 ## Events
 
@@ -70,7 +70,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [7993*]:
+  1: 0x0002 [0x48] [System] [7994*]:
     → "A bright red flower blooms brilliantly atop the pure white snow."
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x21] END_EVENT

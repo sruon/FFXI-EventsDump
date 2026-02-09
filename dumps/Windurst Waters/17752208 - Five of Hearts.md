@@ -25,15 +25,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F03      |        7939 |
-|       2 | 0x1F04      |        7940 |
-|       3 | 0x23B8      |        9144 |
+|       1 | 0x1F04      |        7940 |
+|       2 | 0x1F05      |        7941 |
+|       3 | 0x23B9      |        9145 |
 
 ## String References
 
-- **7939**: ThIs$26rOaD$26lEaDs$26WIn-DUrsT$26rEs-IdeNtIaL$26A-reA!
-- **7940**: oNe$26cAn$26stOrE$26i-TEms$26IN$26One'S$26mOg-hOUse$26or$26rENt-A-rOOm$26In$26tHe$26rEs-IdEnTiAl$26A-rEa!
-- **9144**: FiVE's$26GRe-EtinG? OF COu-RSe$26iT$26Is$26"heL-Lo"!
+- **7940**: ThIs$26rOaD$26lEaDs$26WIn-DUrsT$26rEs-IdeNtIaL$26A-reA!
+- **7941**: oNe$26cAn$26stOrE$26i-TEms$26IN$26One'S$26mOg-hOUse$26or$26rENt-A-rOOm$26In$26tHe$26rEs-IdEnTiAl$26A-rEa!
+- **9145**: FiVE's$26GRe-EtinG? OF COu-RSe$26iT$26Is$26"heL-Lo"!
 
 ## Events
 
@@ -153,10 +153,10 @@
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "ThIs$26rOaD$26lEaDs$26WIn-DUrsT$26rEs-IdeNtIaL$26A-reA!"
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "oNe$26cAn$26stOrE$26i-TEms$26IN$26One'S$26mOg-hOUse$26or$26rENt-A-rOOm$26In$26tHe$26rEs-IdEnTiAl$26A-rEa!"
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -187,7 +187,7 @@
   0: 0x002F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=9144*)
+  3: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=9145*)
     → "FiVE's$26GRe-EtinG? OF COu-RSe$26iT$26Is$26"heL-Lo"!"
   4: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x003A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

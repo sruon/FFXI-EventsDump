@@ -19,7 +19,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x211D      |        8477 |
+|       0 | 0x211E      |        8478 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0078      |         120 |
 |       3 | 0x00C8      |         200 |
@@ -33,7 +33,7 @@
 
 ## String References
 
-- **8477**: Pass through the gate? [Yes./Not yet.]
+- **8478**: Pass through the gate? [Yes./Not yet.]
 
 ## Events
 
@@ -62,7 +62,7 @@
 #### Opcodes
 
 ```
-  0: 0x0000 [0x24] CREATE_DIALOG(message_id=8477*, default_option=0*, option_flags=0*)
+  0: 0x0000 [0x24] CREATE_DIALOG(message_id=8478*, default_option=0*, option_flags=0*)
     → "Pass through the gate? [Yes./Not yet.]"
   1: 0x0007 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0008 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0059

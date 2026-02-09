@@ -22,29 +22,29 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0002      |           2 |
-|       1 | 0x1B70      |        7024 |
-|       2 | 0x1B56      |        6998 |
+|       1 | 0x1B71      |        7025 |
+|       2 | 0x1B57      |        6999 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x0028      |          40 |
 |       5 | 0x000A      |          10 |
-|       6 | 0x1B57      |        6999 |
+|       6 | 0x1B58      |        7000 |
 |       7 | 0x40000000  |  1073741824 |
-|       8 | 0x1B5E      |        7006 |
-|       9 | 0x1B5F      |        7007 |
-|      10 | 0x1B60      |        7008 |
-|      11 | 0x1B61      |        7009 |
-|      12 | 0x1B62      |        7010 |
-|      13 | 0x1B63      |        7011 |
-|      14 | 0x1B5B      |        7003 |
+|       8 | 0x1B5F      |        7007 |
+|       9 | 0x1B60      |        7008 |
+|      10 | 0x1B61      |        7009 |
+|      11 | 0x1B62      |        7010 |
+|      12 | 0x1B63      |        7011 |
+|      13 | 0x1B64      |        7012 |
+|      14 | 0x1B5C      |        7004 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x0000      |           0 |
-|      17 | 0x1B58      |        7000 |
-|      18 | 0x1B59      |        7001 |
-|      19 | 0x1B5A      |        7002 |
-|      20 | 0x1B5C      |        7004 |
-|      21 | 0x1B67      |        7015 |
-|      22 | 0x1B66      |        7014 |
-|      23 | 0x1B68      |        7016 |
+|      17 | 0x1B59      |        7001 |
+|      18 | 0x1B5A      |        7002 |
+|      19 | 0x1B5B      |        7003 |
+|      20 | 0x1B5D      |        7005 |
+|      21 | 0x1B68      |        7016 |
+|      22 | 0x1B67      |        7015 |
+|      23 | 0x1B69      |        7017 |
 |      24 | 0x2710      |       10000 |
 |      25 | 0x30D40     |      200000 |
 |      26 | 0x13880     |       80000 |
@@ -138,7 +138,7 @@
 |     114 | 0x006E      |         110 |
 |     115 | 0x000C      |          12 |
 |     116 | 0x07FC      |        2044 |
-|     117 | 0x1B6D      |        7021 |
+|     117 | 0x1B6E      |        7022 |
 |     118 | 0x108E      |        4238 |
 |     119 | 0x108F      |        4239 |
 |     120 | 0x1090      |        4240 |
@@ -147,7 +147,7 @@
 |     123 | 0x1093      |        4243 |
 |     124 | 0x1094      |        4244 |
 |     125 | 0x1095      |        4245 |
-|     126 | 0x1B6E      |        7022 |
+|     126 | 0x1B6F      |        7023 |
 |     127 | 0x00C8      |         200 |
 |     128 | 0x196A      |        6506 |
 |     129 | 0x196B      |        6507 |
@@ -157,7 +157,7 @@
 |     133 | 0x196F      |        6511 |
 |     134 | 0x1970      |        6512 |
 |     135 | 0x1971      |        6513 |
-|     136 | 0x1B6F      |        7023 |
+|     136 | 0x1B70      |        7024 |
 |     137 | 0x01C2      |         450 |
 |     138 | 0x05DC      |        1500 |
 |     139 | 0x11170     |       70000 |
@@ -212,66 +212,66 @@
 |     188 | 0x07FA      |        2042 |
 |     189 | 0x1F40      |        8000 |
 |     190 | 0x07FB      |        2043 |
-|     191 | 0x1B78      |        7032 |
-|     192 | 0x1B79      |        7033 |
-|     193 | 0x1B76      |        7030 |
+|     191 | 0x1B79      |        7033 |
+|     192 | 0x1B7A      |        7034 |
+|     193 | 0x1B77      |        7031 |
 |     194 | 0x0018      |          24 |
 |     195 | 0x0D80      |        3456 |
 |     196 | 0x0019      |          25 |
-|     197 | 0x1B69      |        7017 |
-|     198 | 0x1B6A      |        7018 |
+|     197 | 0x1B6A      |        7018 |
+|     198 | 0x1B6B      |        7019 |
 |     199 | 0x001F      |          31 |
-|     200 | 0x1B6C      |        7020 |
-|     201 | 0x1B6B      |        7019 |
-|     202 | 0x1B74      |        7028 |
-|     203 | 0x1B73      |        7027 |
-|     204 | 0x1B75      |        7029 |
-|     205 | 0x1BAB      |        7083 |
-|     206 | 0x1BAC      |        7084 |
-|     207 | 0x1BAD      |        7085 |
-|     208 | 0x1BB5      |        7093 |
-|     209 | 0x1BF7      |        7159 |
-|     210 | 0x1BF8      |        7160 |
-|     211 | 0x1C00      |        7168 |
-|     212 | 0x1C01      |        7169 |
+|     200 | 0x1B6D      |        7021 |
+|     201 | 0x1B6C      |        7020 |
+|     202 | 0x1B75      |        7029 |
+|     203 | 0x1B74      |        7028 |
+|     204 | 0x1B76      |        7030 |
+|     205 | 0x1BAC      |        7084 |
+|     206 | 0x1BAD      |        7085 |
+|     207 | 0x1BAE      |        7086 |
+|     208 | 0x1BB6      |        7094 |
+|     209 | 0x1BF8      |        7160 |
+|     210 | 0x1BF9      |        7161 |
+|     211 | 0x1C01      |        7169 |
+|     212 | 0x1C02      |        7170 |
 
 ## String References
 
-- **6998**: Hello, [sir/ma'am]. I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points.
-- **6999**: However, to assure product quality, I cannot carry out any business with those who rank lower than novice.
-- **7000**: I see that you currently have a trading contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. I'm sorry, but I cannot do any business with you.
-- **7001**: You do have the option to terminate your contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild and form one with us.
-- **7002**: After signing a new contract, you will have to wait until the next delivery phase to trade Guildworkers' Union requested items.
-- **7003**: Create a new contract with us? [Immediately./Not today.]
-- **7004**: Are you certain? [I said, "Immediately."/On second thought...]
-- **7006**: Our system works like this. We will ask you to provide us with a certain item depending on your craft skill rank. There is a set time limit (one day, Earth time) in which you may bring as many of the item as you can synthesize.
-- **7007**: If you happen to create a high quality version of the requested item, we will be more than delighted to accept that as well.
-- **7008**: Trading us these items will earn you "guild points" which can be later exchanged for other specialty goods--some of which are found exclusively at this guild.
-- **7009**: The amount of guild points you will receive varies with the item requested, and there is a limit to how many points you can accumulate during the designated time frame. Trading items after you have reached the limit will result in no points gained.
-- **7010**: When the time limit has expired, the item requested by the guild will change. It will also change in the event your craft skill rises.
-- **7011**: I see that you have not formed a trading contract with any of the other guilds.
-- **7014**: The current requested item is $2. You have $0 guild points accumulated.
-- **7015**: Currently, no items are being requested by the guild. You have $0 guild points accumulated.
-- **7016**: Is there something you need? [I'm just passing through./I would like to use my points./What are the current limits?/How does the trade system work?]
-- **7017**: You have $0 more days (Vana'diel time) to provide us with the requested item.
-- **7018**: Today (Vana'diel time) is the final day we will accept the requested item.
-- **7019**: You can still receive up to $3 guild points by trading us the item before the time limit is up.
-- **7020**: You are not eligible to receive guild points at this time.
-- **7024**: Yes, this is what we are asking for. Good work, <Player>!
-- **7027**: Trade $1 guild points for $0?
-- **7028**: How many do you wish to trade for?
-- **7029**: Trade $1 guild points for $2 $0 ?
-- **7030**: Proceed with the transaction? (GP: $ ) [Yes./No.]
-- **7032**: Exchange points for... [None of these./3($1)./$3($3)./$3($5)./$3($7)./$3($9)./$3($11)./$3($13).]
-- **7033**: Trade $1 guild points for $3?
-- **7083**: 3 is a wonderful new method of woodworking that allows you to enchant lumber with the mysterious energy of black magic and anima.
-- **7084**: 3 is a wonderful new method of woodworking that allows you to enchant lumber with the mysterious energy of white magic and anima.
-- **7085**: 3 is a revolutionary new method of woodworking that allows you to bundle logs together, which lets you process more than one at a time.
-- **7093**: 3 is a wonderful new method of woodworking that allows you to bundle lumber together, making it easier to process more bolts with one crystal.
-- **7159**: 3 is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of black magic and anima.
-- **7160**: 3 is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of white magic and anima.
-- **7168**: 3 is a wonderful new method of goldsmithing that allows you to shape softened ingots with a mandrel, making it easier to process more chains with one crystal.
-- **7169**: 3 is a wonderful new method of goldsmithing that allows you to shape softened ingots on a workshop anvil,making it easier to process more sheets with one crystal.
+- **6999**: Hello, [sir/ma'am]. I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points.
+- **7000**: However, to assure product quality, I cannot carry out any business with those who rank lower than novice.
+- **7001**: I see that you currently have a trading contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. I'm sorry, but I cannot do any business with you.
+- **7002**: You do have the option to terminate your contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild and form one with us.
+- **7003**: After signing a new contract, you will have to wait until the next delivery phase to trade Guildworkers' Union requested items.
+- **7004**: Create a new contract with us? [Immediately./Not today.]
+- **7005**: Are you certain? [I said, "Immediately."/On second thought...]
+- **7007**: Our system works like this. We will ask you to provide us with a certain item depending on your craft skill rank. There is a set time limit (one day, Earth time) in which you may bring as many of the item as you can synthesize.
+- **7008**: If you happen to create a high quality version of the requested item, we will be more than delighted to accept that as well.
+- **7009**: Trading us these items will earn you "guild points" which can be later exchanged for other specialty goods--some of which are found exclusively at this guild.
+- **7010**: The amount of guild points you will receive varies with the item requested, and there is a limit to how many points you can accumulate during the designated time frame. Trading items after you have reached the limit will result in no points gained.
+- **7011**: When the time limit has expired, the item requested by the guild will change. It will also change in the event your craft skill rises.
+- **7012**: I see that you have not formed a trading contract with any of the other guilds.
+- **7015**: The current requested item is $2. You have $0 guild points accumulated.
+- **7016**: Currently, no items are being requested by the guild. You have $0 guild points accumulated.
+- **7017**: Is there something you need? [I'm just passing through./I would like to use my points./What are the current limits?/How does the trade system work?]
+- **7018**: You have $0 more days (Vana'diel time) to provide us with the requested item.
+- **7019**: Today (Vana'diel time) is the final day we will accept the requested item.
+- **7020**: You can still receive up to $3 guild points by trading us the item before the time limit is up.
+- **7021**: You are not eligible to receive guild points at this time.
+- **7025**: Yes, this is what we are asking for. Good work, <Player>!
+- **7028**: Trade $1 guild points for $0?
+- **7029**: How many do you wish to trade for?
+- **7030**: Trade $1 guild points for $2 $0 ?
+- **7031**: Proceed with the transaction? (GP: $ ) [Yes./No.]
+- **7033**: Exchange points for... [None of these./3($1)./$3($3)./$3($5)./$3($7)./$3($9)./$3($11)./$3($13).]
+- **7034**: Trade $1 guild points for $3?
+- **7084**: 3 is a wonderful new method of woodworking that allows you to enchant lumber with the mysterious energy of black magic and anima.
+- **7085**: 3 is a wonderful new method of woodworking that allows you to enchant lumber with the mysterious energy of white magic and anima.
+- **7086**: 3 is a revolutionary new method of woodworking that allows you to bundle logs together, which lets you process more than one at a time.
+- **7094**: 3 is a wonderful new method of woodworking that allows you to bundle lumber together, making it easier to process more bolts with one crystal.
+- **7160**: 3 is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of black magic and anima.
+- **7161**: 3 is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of white magic and anima.
+- **7169**: 3 is a wonderful new method of goldsmithing that allows you to shape softened ingots with a mandrel, making it easier to process more chains with one crystal.
+- **7170**: 3 is a wonderful new method of goldsmithing that allows you to shape softened ingots on a workshop anvil,making it easier to process more sheets with one crystal.
 
 ## Events
 
@@ -320,7 +320,7 @@
 ```
   0: 0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7024*)
+  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7025*)
     → "Yes, this is what we are asking for. Good work, <Player>!"
   3: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0010 [0x03] Work_Zone[1] = Work_Zone[2]
@@ -595,7 +595,7 @@
   6: 0x0035 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[8]
   7: 0x003A [0x06] ExtData[1]->WorkLocal[16] = 0
   8: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  9: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=6998*)
+  9: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
     → "Hello, [sir/ma'am]. I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points."
  10: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0046 [0x02] IF !(ExtData[1]->WorkLocal[12] == 4294967295*) GOTO 0x00AF
@@ -603,7 +603,7 @@
  13: 0x0056 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[4]
  14: 0x005B [0x08] Work_Zone[6] -= 10*
  15: 0x0060 [0x15] Work_Zone[6] /= 10*
- 16: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
+ 16: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=7000*)
     → "However, to assure product quality, I cannot carry out any business with those who rank lower than novice."
  17: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0069 [0x03] Work_Zone[1] = 1073741824*
@@ -616,7 +616,7 @@ SUBROUTINE_00A5:
  23: 0x00AB [0x00] END_REQSTACK()
 
 SUBROUTINE_00FC:
- 24: 0x00FC [0x24] CREATE_DIALOG(message_id=7004*, default_option=1*, option_flags=0*)
+ 24: 0x00FC [0x24] CREATE_DIALOG(message_id=7005*, default_option=1*, option_flags=0*)
     → "Are you certain? [I said, "Immediately."/On second thought...]"
  25: 0x0103 [0x25] WAIT_DIALOG_SELECT()
  26: 0x0104 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0116
@@ -633,11 +633,11 @@ SUBROUTINE_011D:
  33: 0x011D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
  34: 0x0122 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
  35: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x0136
- 36: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7015*)
+ 36: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7016*)
     → "Currently, no items are being requested by the guild. You have $0 guild points accumulated."
  37: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0133 [0x01] GOTO 0x013A
- 39: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=7014*)
+ 39: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=7015*)
     → "The current requested item is $2. You have $0 guild points accumulated."
  40: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -648,7 +648,7 @@ SUBROUTINE_013A:
  44: 0x0149 [0x03] ExtData[1]->WorkLocal[19] = 0*
 
 SUBROUTINE_014E:
- 45: 0x014E [0x24] CREATE_DIALOG(message_id=7016*, default_option=ExtData[1]->WorkLocal[17], option_flags=0*)
+ 45: 0x014E [0x24] CREATE_DIALOG(message_id=7017*, default_option=ExtData[1]->WorkLocal[17], option_flags=0*)
     → "Is there something you need? [I'm just passing through./I would like to use my points./What are the current limits?/How does the trade system work?]"
  46: 0x0155 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0156 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0168
@@ -795,18 +795,18 @@ SUBROUTINE_0406:
 
 SUBROUTINE_0D94:
 184: 0x0D94 [0x3E] IF !(ExtData[1]->WorkLocal[14] bit 31*) GOTO 0x0DA2
-185: 0x0D9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7020*)
+185: 0x0D9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7021*)
     → "You are not eligible to receive guild points at this time."
 186: 0x0D9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0D9F [0x01] GOTO 0x0DBF
 188: 0x0DA2 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[13]
 189: 0x0DA7 [0x08] Work_Zone[5] -= ExtData[1]->WorkLocal[14]
 190: 0x0DAC [0x02] IF !(Work_Zone[5] <= 0*) GOTO 0x0DBB
-191: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7019*)
+191: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7020*)
     → "You can still receive up to $3 guild points by trading us the item before the time limit is up."
 192: 0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0DB8 [0x01] GOTO 0x0DBF
-194: 0x0DBB [0x1D] PRINT_EVENT_MESSAGE(message_id=7020*)
+194: 0x0DBB [0x1D] PRINT_EVENT_MESSAGE(message_id=7021*)
     → "You are not eligible to receive guild points at this time."
 195: 0x0DBE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1238,7 +1238,7 @@ SUBROUTINE_0DEC:
      0x0C1F [0x03] Work_Zone_1700[1] = 20000*
      0x0C24 [0x01] GOTO 0x0C27
      0x0C27 [0x05] ExtData[1]->WorkLocal[16] = 1
-     0x0C2A [0x24] CREATE_DIALOG(message_id=7032*, default_option=ExtData[1]->WorkLocal[19], option_flags=ExtData[1]->WorkLocal[5])
+     0x0C2A [0x24] CREATE_DIALOG(message_id=7033*, default_option=ExtData[1]->WorkLocal[19], option_flags=ExtData[1]->WorkLocal[5])
     → "Exchange points for... [None of these./3($1)./$3($3)./$3($5)./$3($7)./$3($9)./$3($11)./$3($13).]"
      0x0C31 [0x25] WAIT_DIALOG_SELECT()
      0x0C32 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C45
@@ -1283,10 +1283,10 @@ SUBROUTINE_0DEC:
      0x0CFB [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0D4F
      0x0D03 [0x1A] CALL_SUBROUTINE(address=0x0E8D)
      0x0D06 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[9]
-     0x0D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=7033*)
+     0x0D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=7034*)
     → "Trade $1 guild points for $3?"
      0x0D0E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D0F [0x24] CREATE_DIALOG(message_id=7030*, default_option=1*, option_flags=0*)
+     0x0D0F [0x24] CREATE_DIALOG(message_id=7031*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? (GP: $ ) [Yes./No.]"
      0x0D16 [0x25] WAIT_DIALOG_SELECT()
      0x0D17 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D4F
@@ -1311,7 +1311,7 @@ SUBROUTINE_0DEC:
      0x0DF3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
      0x0DF8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0DFB [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0E14
-     0x0E03 [0x1D] PRINT_EVENT_MESSAGE(message_id=7028*)
+     0x0E03 [0x1D] PRINT_EVENT_MESSAGE(message_id=7029*)
     → "How many do you wish to trade for?"
      0x0E06 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E07 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 4*])
@@ -1323,16 +1323,16 @@ SUBROUTINE_0DEC:
      0x0E26 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
      0x0E2B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[7]
      0x0E30 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0E3F
-     0x0E38 [0x1D] PRINT_EVENT_MESSAGE(message_id=7027*)
+     0x0E38 [0x1D] PRINT_EVENT_MESSAGE(message_id=7028*)
     → "Trade $1 guild points for $0?"
      0x0E3B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E3C [0x01] GOTO 0x0E43
-     0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=7029*)
+     0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=7030*)
     → "Trade $1 guild points for $2 $0 ?"
      0x0E42 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E43 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0E46 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[9]
-     0x0E4B [0x24] CREATE_DIALOG(message_id=7030*, default_option=1*, option_flags=0*)
+     0x0E4B [0x24] CREATE_DIALOG(message_id=7031*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? (GP: $ ) [Yes./No.]"
      0x0E52 [0x25] WAIT_DIALOG_SELECT()
      0x0E53 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E86
@@ -1348,42 +1348,42 @@ SUBROUTINE_0DEC:
      0x0E89 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0E8C [0x1B] RETURN
      0x0E8D [0x02] IF !(Work_Zone[2] == 1985*) GOTO 0x0E9C
-     0x0E95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
+     0x0E95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
     → "3 is a wonderful new method of woodworking that allows you to enchant lumber with the mysterious energy of black magic and anima."
      0x0E98 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E99 [0x01] GOTO 0x0F05
      0x0E9C [0x02] IF !(Work_Zone[2] == 1984*) GOTO 0x0EAB
-     0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
+     0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7085*)
     → "3 is a wonderful new method of woodworking that allows you to enchant lumber with the mysterious energy of white magic and anima."
      0x0EA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EA8 [0x01] GOTO 0x0F05
      0x0EAB [0x02] IF !(Work_Zone[2] == 1986*) GOTO 0x0EBA
-     0x0EB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7085*)
+     0x0EB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7086*)
     → "3 is a revolutionary new method of woodworking that allows you to bundle logs together, which lets you process more than one at a time."
      0x0EB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EB7 [0x01] GOTO 0x0F05
      0x0EBA [0x02] IF !(Work_Zone[2] == 1987*) GOTO 0x0EC9
-     0x0EC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
+     0x0EC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7094*)
     → "3 is a wonderful new method of woodworking that allows you to bundle lumber together, making it easier to process more bolts with one crystal."
      0x0EC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EC6 [0x01] GOTO 0x0F05
      0x0EC9 [0x02] IF !(Work_Zone[2] == 1993*) GOTO 0x0ED8
-     0x0ED1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7159*)
+     0x0ED1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7160*)
     → "3 is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of black magic and anima."
      0x0ED4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ED5 [0x01] GOTO 0x0F05
      0x0ED8 [0x02] IF !(Work_Zone[2] == 1992*) GOTO 0x0EE7
-     0x0EE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7160*)
+     0x0EE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7161*)
     → "3 is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of white magic and anima."
      0x0EE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EE4 [0x01] GOTO 0x0F05
      0x0EE7 [0x02] IF !(Work_Zone[2] == 1994*) GOTO 0x0EF6
-     0x0EEF [0x1D] PRINT_EVENT_MESSAGE(message_id=7168*)
+     0x0EEF [0x1D] PRINT_EVENT_MESSAGE(message_id=7169*)
     → "3 is a wonderful new method of goldsmithing that allows you to shape softened ingots with a mandrel, making it easier to process more chains with one crystal."
      0x0EF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EF3 [0x01] GOTO 0x0F05
      0x0EF6 [0x02] IF !(Work_Zone[2] == 1995*) GOTO 0x0F05
-     0x0EFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7169*)
+     0x0EFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7170*)
     → "3 is a wonderful new method of goldsmithing that allows you to shape softened ingots on a workshop anvil,making it easier to process more sheets with one crystal."
      0x0F01 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F02 [0x01] GOTO 0x0F05

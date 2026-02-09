@@ -23,20 +23,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3053      |       12371 |
-|       1 | 0x3054      |       12372 |
+|       0 | 0x3054      |       12372 |
+|       1 | 0x3055      |       12373 |
 |       2 | 0x0470      |        1136 |
-|       3 | 0x3055      |       12373 |
-|       4 | 0x3051      |       12369 |
-|       5 | 0x3052      |       12370 |
+|       3 | 0x3056      |       12374 |
+|       4 | 0x3052      |       12370 |
+|       5 | 0x3053      |       12371 |
 |       6 | 0x0471      |        1137 |
-|       7 | 0x3056      |       12374 |
-|       8 | 0x305A      |       12378 |
+|       7 | 0x3057      |       12375 |
+|       8 | 0x305B      |       12379 |
 |       9 | 0x0472      |        1138 |
-|      10 | 0x3057      |       12375 |
-|      11 | 0x3062      |       12386 |
-|      12 | 0x30C9      |       12489 |
-|      13 | 0x30CA      |       12490 |
+|      10 | 0x3058      |       12376 |
+|      11 | 0x3063      |       12387 |
+|      12 | 0x30CA      |       12490 |
+|      13 | 0x30CB      |       12491 |
 
 ## Events
 
@@ -83,20 +83,20 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
+  0: 0x0001 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
     → "Yes, Master?"
   1: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0009 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
+  2: 0x0009 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12373*]:
     → "I'm all tied up making repairs at the moment. Do forgive me, kupo!"
   3: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0011 [0x03] Work_Zone[2] = 1136*
-  5: 0x0016 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12373*]:
+  5: 0x0016 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12374*]:
     → "By the way, have you been able to track down that $3 yet? Please, Master! Only you can restore structural soundness to your home sweet home!"
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001E [0x2B] Moogle (ID: 17776864/0x010F40E0) [12369*]:
+  7: 0x001E [0x2B] Moogle (ID: 17776864/0x010F40E0) [12370*]:
     → "An adventurer with your mining mastery should be able to find it in a flash, kupo! You wouldn't object to obtaining it for me, would you?"
   8: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0026 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12370*]:
+  9: 0x0026 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
     → "While you're out, I'll take up my tools and get cracking. Happy hunting!"
  10: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002E [0x21] END_EVENT
@@ -124,20 +124,20 @@
 #### Opcodes
 
 ```
-  0: 0x0030 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
+  0: 0x0030 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
     → "Yes, Master?"
   1: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0038 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
+  2: 0x0038 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12373*]:
     → "I'm all tied up making repairs at the moment. Do forgive me, kupo!"
   3: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0040 [0x03] Work_Zone[2] = 1137*
-  5: 0x0045 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12374*]:
+  5: 0x0045 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12375*]:
     → "By the way, have you been able to track down that $3 yet? Please, Master! Only you can restore structural soundness to your home sweet home!"
   6: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004D [0x2B] Moogle (ID: 17776864/0x010F40E0) [12378*]:
+  7: 0x004D [0x2B] Moogle (ID: 17776864/0x010F40E0) [12379*]:
     → "You should be able to log it somewhere, I think."
   8: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0055 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12370*]:
+  9: 0x0055 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
     → "While you're out, I'll take up my tools and get cracking. Happy hunting!"
  10: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x005D [0x21] END_EVENT
@@ -166,20 +166,20 @@
 #### Opcodes
 
 ```
-  0: 0x005F [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
+  0: 0x005F [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
     → "Yes, Master?"
   1: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0067 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
+  2: 0x0067 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12373*]:
     → "I'm all tied up making repairs at the moment. Do forgive me, kupo!"
   3: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x006F [0x03] Work_Zone[2] = 1138*
-  5: 0x0074 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12375*]:
+  5: 0x0074 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12376*]:
     → "By the way, have you been able to track down that $3 yet? Please, Master! Only you can restore structural soundness to your home sweet home!"
   6: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x007C [0x2B] Moogle (ID: 17776864/0x010F40E0) [12386*]:
+  7: 0x007C [0x2B] Moogle (ID: 17776864/0x010F40E0) [12387*]:
     → "Don't worry. Preoccupied predators are leaving their hard-earned catches all over the place these days. Succulent slabs of meat are literally lying around waiting to be harvested by a keen-eyed adventurer like yourself!"
   8: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0084 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12370*]:
+  9: 0x0084 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
     → "While you're out, I'll take up my tools and get cracking. Happy hunting!"
  10: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x008C [0x21] END_EVENT
@@ -207,16 +207,16 @@
 #### Opcodes
 
 ```
-  0: 0x008E [0x2B] Moogle (ID: 17776864/0x010F40E0) [12371*]:
+  0: 0x008E [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
     → "Yes, Master?"
   1: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0096 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12372*]:
+  2: 0x0096 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12373*]:
     → "I'm all tied up making repairs at the moment. Do forgive me, kupo!"
   3: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x009E [0x2B] Moogle (ID: 17776864/0x010F40E0) [12489*]:
+  4: 0x009E [0x2B] Moogle (ID: 17776864/0x010F40E0) [12490*]:
     → "Oh, the agony! Oh, how it pains my tender moogle heart! But we have no choice, kupo..."
   5: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A6 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12490*]:
+  6: 0x00A6 [0x2B] Moogle (ID: 17776864/0x010F40E0) [12491*]:
     → "I beg of you, Master. You must hop on your chocobo, make your way for [La Theine Plateau/Valkurm Dunes/Jugner Forest/Konschtat Highlands/Pashhow Marshlands/Tahrongi Canyon/Buburimu Peninsula/Meriphataud Mountains/The Sanctuary of Zi'Tah/Yuhtunga Jungle/Yhoator Jungle/Western Altepa Desert/Eastern Altepa Desert], and dig up my nest egg, kupo."
   7: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00AE [0x21] END_EVENT

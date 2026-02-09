@@ -39,79 +39,79 @@
 |       1 | 0x0006      |           6 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x3ACE      |       15054 |
-|       5 | 0x3ACF      |       15055 |
-|       6 | 0x3AD7      |       15063 |
-|       7 | 0x3AD3      |       15059 |
-|       8 | 0x3AD0      |       15056 |
-|       9 | 0x3AD1      |       15057 |
-|      10 | 0x3AD2      |       15058 |
+|       4 | 0x3ACF      |       15055 |
+|       5 | 0x3AD0      |       15056 |
+|       6 | 0x3AD8      |       15064 |
+|       7 | 0x3AD4      |       15060 |
+|       8 | 0x3AD1      |       15057 |
+|       9 | 0x3AD2      |       15058 |
+|      10 | 0x3AD3      |       15059 |
 |      11 | 0x001F      |          31 |
 |      12 | 0xFFFFFFFF  |  4294967295 |
-|      13 | 0x3AD8      |       15064 |
-|      14 | 0x3AD6      |       15062 |
-|      15 | 0x218E      |        8590 |
-|      16 | 0x218C      |        8588 |
-|      17 | 0x218D      |        8589 |
-|      18 | 0x218F      |        8591 |
-|      19 | 0x2190      |        8592 |
-|      20 | 0x2191      |        8593 |
-|      21 | 0x2192      |        8594 |
-|      22 | 0x2193      |        8595 |
-|      23 | 0x2194      |        8596 |
-|      24 | 0x2195      |        8597 |
-|      25 | 0x2199      |        8601 |
-|      26 | 0x2196      |        8598 |
-|      27 | 0x2197      |        8599 |
-|      28 | 0x2198      |        8600 |
-|      29 | 0x219A      |        8602 |
-|      30 | 0x219B      |        8603 |
-|      31 | 0x219C      |        8604 |
-|      32 | 0x21A0      |        8608 |
-|      33 | 0x219D      |        8605 |
-|      34 | 0x219E      |        8606 |
-|      35 | 0x219F      |        8607 |
-|      36 | 0x21A1      |        8609 |
-|      37 | 0x1CE4      |        7396 |
-|      38 | 0x1CE6      |        7398 |
-|      39 | 0x1CE7      |        7399 |
+|      13 | 0x3AD9      |       15065 |
+|      14 | 0x3AD7      |       15063 |
+|      15 | 0x218F      |        8591 |
+|      16 | 0x218D      |        8589 |
+|      17 | 0x218E      |        8590 |
+|      18 | 0x2190      |        8592 |
+|      19 | 0x2191      |        8593 |
+|      20 | 0x2192      |        8594 |
+|      21 | 0x2193      |        8595 |
+|      22 | 0x2194      |        8596 |
+|      23 | 0x2195      |        8597 |
+|      24 | 0x2196      |        8598 |
+|      25 | 0x219A      |        8602 |
+|      26 | 0x2197      |        8599 |
+|      27 | 0x2198      |        8600 |
+|      28 | 0x2199      |        8601 |
+|      29 | 0x219B      |        8603 |
+|      30 | 0x219C      |        8604 |
+|      31 | 0x219D      |        8605 |
+|      32 | 0x21A1      |        8609 |
+|      33 | 0x219E      |        8606 |
+|      34 | 0x219F      |        8607 |
+|      35 | 0x21A0      |        8608 |
+|      36 | 0x21A2      |        8610 |
+|      37 | 0x1CE5      |        7397 |
+|      38 | 0x1CE7      |        7399 |
+|      39 | 0x1CE8      |        7400 |
 
 ## String References
 
-- **7396**: Huh...?
-- **7398**: What is that hat you're holding? Let me have a look.
-- **7399**: Hmm...this must be the latest style from the local hatter. It's about time I had some new headwear made. Perhaps I'll drop by later...
-- **8588**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
-- **8589**: Let me see... Have I explained Mog Houses to you before? If not, please allow me to.t
-- **8590**: Listen to Mog House explanation? [Yes./No.]
-- **8591**: A Mog House is a personal apartment that we've provided for your convenience.
-- **8592**: Within your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP.
-- **8593**: As you are a citizen of Windurst, there's already a Mog House prepared for you. You'll find it up the stairs behind me.
-- **8594**: You are completely free to use the room as you see fit. Why, you can even arrange it to suit your own bad tastes.t
-- **8595**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
-- **8596**: Let me see... I've explained Mog Houses to you before, right? Do you want to hear me explanation again?t
-- **8597**: Well, that put a damper on my day...
-- **8598**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
-- **8599**: Hmm... Hey! You currently have a Rent-a-Room leased out in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi], right?
-- **8600**: Do you want us to return the Rent-a-Room in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi], and bring back all your belongings from there to your Mog House here in Windurst?t
-- **8601**: Move out of Rent-a-Room? [Yes./No.]
-- **8602**: There you go. The procedure is finished. The keys to your Rent-a-Room in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi] have been returned and you are free to rest in your Mog House here.
-- **8603**: This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for your use.
-- **8604**: Let me see... You already have a Rent-a-Room leased at the moment, right? Well then, you are free to go through the archway behind me and use the Rent-a-Room as you would your Mog House back in your own country.
-- **8605**: This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for people's use.
-- **8606**: Let me see... You're not a citizen of Windurst, are you? That means you can only lease a Rent-a-Room.
-- **8607**: When you lease a Rent-a-Room here, you can use that room as you would use your personal Mog House back in your home country. Isn't it just "kupo" convenient?t
-- **8608**: Lease a Rent-a-Room? [Yes./No.]
-- **8609**: There you go. The procedure is complete. You now have your own Rent-a-Room in Windurst's residential area, located right behind me. Have a nice stay.t
-- **15054**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
-- **15055**: This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for your use.
-- **15056**: A Mog House is a personal apartment that we've provided for your convenience.
-- **15057**: Within your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP.
-- **15058**: You are completely free to use the room as you see fit. Why, you can even arrange it to suit your own bad tastes.t
-- **15059**: Well, that put a damper on my day...
-- **15062**: Come along then! Don't lag behind!t
-- **15063**: What do you wish to do? [Nothing in particular./Ask for an explanation of Mog Houses./Visit the Mog House of a party member.]
-- **15064**: Whose Mog House will you visit? [Never mind./%1/%2/%3/%4/%5/%6/%7/%8/%9/%10/%11/%12/%13/%14/%15/%16/%17]
+- **7397**: Huh...?
+- **7399**: What is that hat you're holding? Let me have a look.
+- **7400**: Hmm...this must be the latest style from the local hatter. It's about time I had some new headwear made. Perhaps I'll drop by later...
+- **8589**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
+- **8590**: Let me see... Have I explained Mog Houses to you before? If not, please allow me to.t
+- **8591**: Listen to Mog House explanation? [Yes./No.]
+- **8592**: A Mog House is a personal apartment that we've provided for your convenience.
+- **8593**: Within your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP.
+- **8594**: As you are a citizen of Windurst, there's already a Mog House prepared for you. You'll find it up the stairs behind me.
+- **8595**: You are completely free to use the room as you see fit. Why, you can even arrange it to suit your own bad tastes.t
+- **8596**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
+- **8597**: Let me see... I've explained Mog Houses to you before, right? Do you want to hear me explanation again?t
+- **8598**: Well, that put a damper on my day...
+- **8599**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
+- **8600**: Hmm... Hey! You currently have a Rent-a-Room leased out in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi], right?
+- **8601**: Do you want us to return the Rent-a-Room in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi], and bring back all your belongings from there to your Mog House here in Windurst?t
+- **8602**: Move out of Rent-a-Room? [Yes./No.]
+- **8603**: There you go. The procedure is finished. The keys to your Rent-a-Room in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi] have been returned and you are free to rest in your Mog House here.
+- **8604**: This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for your use.
+- **8605**: Let me see... You already have a Rent-a-Room leased at the moment, right? Well then, you are free to go through the archway behind me and use the Rent-a-Room as you would your Mog House back in your own country.
+- **8606**: This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for people's use.
+- **8607**: Let me see... You're not a citizen of Windurst, are you? That means you can only lease a Rent-a-Room.
+- **8608**: When you lease a Rent-a-Room here, you can use that room as you would use your personal Mog House back in your home country. Isn't it just "kupo" convenient?t
+- **8609**: Lease a Rent-a-Room? [Yes./No.]
+- **8610**: There you go. The procedure is complete. You now have your own Rent-a-Room in Windurst's residential area, located right behind me. Have a nice stay.t
+- **15055**: This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use.
+- **15056**: This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for your use.
+- **15057**: A Mog House is a personal apartment that we've provided for your convenience.
+- **15058**: Within your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP.
+- **15059**: You are completely free to use the room as you see fit. Why, you can even arrange it to suit your own bad tastes.t
+- **15060**: Well, that put a damper on my day...
+- **15063**: Come along then! Don't lag behind!t
+- **15064**: What do you wish to do? [Nothing in particular./Ask for an explanation of Mog Houses./Visit the Mog House of a party member.]
+- **15065**: Whose Mog House will you visit? [Never mind./%1/%2/%3/%4/%5/%6/%7/%8/%9/%10/%11/%12/%13/%14/%15/%16/%17]
 
 ## Events
 
@@ -177,33 +177,33 @@
   5: 0x001F [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=2*, condition_work_offset=1*)
   6: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   7: 0x002B [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0041
-  8: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=15054*)
+  8: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=15055*)
     → "This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use."
   9: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0037 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=1*, condition_work_offset=1*)
  11: 0x003E [0x01] GOTO 0x0045
- 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=15055*)
+ 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=15056*)
     → "This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for your use."
  13: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0045:
  14: 0x0045 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x00CF
- 15: 0x004D [0x24] CREATE_DIALOG(message_id=15063*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 15: 0x004D [0x24] CREATE_DIALOG(message_id=15064*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What do you wish to do? [Nothing in particular./Ask for an explanation of Mog Houses./Visit the Mog House of a party member.]"
  16: 0x0054 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0055 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0064
- 18: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=15059*)
+ 18: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=15060*)
     → "Well, that put a damper on my day..."
  19: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0061 [0x01] GOTO 0x00CF
  21: 0x0064 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0082
- 22: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=15056*)
+ 22: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=15057*)
     → "A Mog House is a personal apartment that we've provided for your convenience."
  23: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=15057*)
+ 24: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=15058*)
     → "Within your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP."
  25: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=15058*)
+ 26: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=15059*)
     → "You are completely free to use the room as you see fit. Why, you can even arrange it to suit your own bad tastes.t"
  27: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0078 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
@@ -212,11 +212,11 @@ SUBROUTINE_0045:
  31: 0x008A [0xC2] PARTY_STATE_CHECK: ExtData[1]->WorkLocal[1] = mask of visitable party members
  32: 0x008E [0x0F] ExtData[1]->WorkLocal[1] ^= 4294967295*
  33: 0x0093 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
- 34: 0x009A [0x24] CREATE_DIALOG(message_id=15064*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 34: 0x009A [0x24] CREATE_DIALOG(message_id=15065*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Whose Mog House will you visit? [Never mind./%1/%2/%3/%4/%5/%6/%7/%8/%9/%10/%11/%12/%13/%14/%15/%16/%17]"
  35: 0x00A1 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B1
- 37: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=15059*)
+ 37: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=15060*)
     → "Well, that put a damper on my day..."
  38: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00AE [0x01] GOTO 0x00B1
@@ -226,7 +226,7 @@ SUBROUTINE_00B1:
  41: 0x00B9 [0x03] Work_Zone[1] = 0*
  42: 0x00BE [0x01] GOTO 0x00CC
  43: 0x00C1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 44: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15062*)
+ 44: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=15063*)
     → "Come along then! Don't lag behind!t"
  45: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00C6 [0xC2] PARTY_STATE_CHECK: Work_Zone[1] = check if party member (from Work_Zone[0]) house is open
@@ -266,7 +266,7 @@ SUBROUTINE_00CF:
   1: 0x00D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D8 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Machitata (ID: 17752214/0x010EE096), tag_num=0x04)
-  4: 0x00DF [0x24] CREATE_DIALOG(message_id=8590*, default_option=0*, option_flags=0*)
+  4: 0x00DF [0x24] CREATE_DIALOG(message_id=8591*, default_option=0*, option_flags=0*)
     → "Listen to Mog House explanation? [Yes./No.]"
   5: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
   6: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -312,7 +312,7 @@ SUBROUTINE_0115:
   1: 0x011E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x011F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0120 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Machitata (ID: 17752214/0x010EE096), tag_num=0x06)
-  4: 0x0127 [0x24] CREATE_DIALOG(message_id=8590*, default_option=1*, option_flags=0*)
+  4: 0x0127 [0x24] CREATE_DIALOG(message_id=8591*, default_option=1*, option_flags=0*)
     → "Listen to Mog House explanation? [Yes./No.]"
   5: 0x012E [0x25] WAIT_DIALOG_SELECT()
   6: 0x012F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0146
@@ -349,10 +349,10 @@ SUBROUTINE_015D:
 #### Opcodes
 
 ```
-  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8588*)
+  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8589*)
     → "This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use."
   1: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8589*)
+  2: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8590*)
     → "Let me see... Have I explained Mog Houses to you before? If not, please allow me to.t"
   3: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0169 [0x00] END_REQSTACK()
@@ -378,16 +378,16 @@ SUBROUTINE_015D:
 #### Opcodes
 
 ```
-  0: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=8591*)
+  0: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=8592*)
     → "A Mog House is a personal apartment that we've provided for your convenience."
   1: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=8592*)
+  2: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=8593*)
     → "Within your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP."
   3: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8593*)
+  4: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8594*)
     → "As you are a citizen of Windurst, there's already a Mog House prepared for you. You'll find it up the stairs behind me."
   5: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=8594*)
+  6: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=8595*)
     → "You are completely free to use the room as you see fit. Why, you can even arrange it to suit your own bad tastes.t"
   7: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x017A [0x00] END_REQSTACK()
@@ -413,10 +413,10 @@ SUBROUTINE_015D:
 #### Opcodes
 
 ```
-  0: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8595*)
+  0: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8596*)
     → "This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use."
   1: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=8596*)
+  2: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=8597*)
     → "Let me see... I've explained Mog Houses to you before, right? Do you want to hear me explanation again?t"
   3: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0183 [0x00] END_REQSTACK()
@@ -441,7 +441,7 @@ SUBROUTINE_015D:
 #### Opcodes
 
 ```
-  0: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=8597*)
+  0: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=8598*)
     → "Well, that put a damper on my day..."
   1: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0188 [0x00] END_REQSTACK()
@@ -475,7 +475,7 @@ SUBROUTINE_015D:
   1: 0x018E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0190 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Machitata (ID: 17752214/0x010EE096), tag_num=0x09)
-  4: 0x0197 [0x24] CREATE_DIALOG(message_id=8601*, default_option=0*, option_flags=0*)
+  4: 0x0197 [0x24] CREATE_DIALOG(message_id=8602*, default_option=0*, option_flags=0*)
     → "Move out of Rent-a-Room? [Yes./No.]"
   5: 0x019E [0x25] WAIT_DIALOG_SELECT()
   6: 0x019F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B7
@@ -513,13 +513,13 @@ SUBROUTINE_01CE:
 #### Opcodes
 
 ```
-  0: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8598*)
+  0: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8599*)
     → "This is the entrance to Windurst's residential area, where a Mog House has been prepared for your use."
   1: 0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8599*)
+  2: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8600*)
     → "Hmm... Hey! You currently have a Rent-a-Room leased out in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi], right?"
   3: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8600*)
+  4: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8601*)
     → "Do you want us to return the Rent-a-Room in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi], and bring back all your belongings from there to your Mog House here in Windurst?t"
   5: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01DE [0x00] END_REQSTACK()
@@ -545,7 +545,7 @@ SUBROUTINE_01CE:
 #### Opcodes
 
 ```
-  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8602*)
+  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8603*)
     → "There you go. The procedure is finished. The keys to your Rent-a-Room in [San d'Oria/Bastok/Windurst/Jeuno/Kahzam/Rabao/Norg/Al Zahbi] have been returned and you are free to rest in your Mog House here."
   1: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E3 [0x00] END_REQSTACK()
@@ -599,10 +599,10 @@ SUBROUTINE_01CE:
 #### Opcodes
 
 ```
-  0: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8603*)
+  0: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8604*)
     → "This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for your use."
   1: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8604*)
+  2: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
     → "Let me see... You already have a Rent-a-Room leased at the moment, right? Well then, you are free to go through the archway behind me and use the Rent-a-Room as you would your Mog House back in your own country."
   3: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01FE [0x00] END_REQSTACK()
@@ -636,7 +636,7 @@ SUBROUTINE_01CE:
   1: 0x0204 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0205 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0206 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Machitata (ID: 17752214/0x010EE096), tag_num=0x0E)
-  4: 0x020D [0x24] CREATE_DIALOG(message_id=8608*, default_option=0*, option_flags=0*)
+  4: 0x020D [0x24] CREATE_DIALOG(message_id=8609*, default_option=0*, option_flags=0*)
     → "Lease a Rent-a-Room? [Yes./No.]"
   5: 0x0214 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0215 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x022D
@@ -675,13 +675,13 @@ SUBROUTINE_0244:
 #### Opcodes
 
 ```
-  0: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
+  0: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
     → "This is the entrance to Windurst's residential area, where there are Mog Houses and Rent-a-Rooms available for people's use."
   1: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
+  2: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
     → "Let me see... You're not a citizen of Windurst, are you? That means you can only lease a Rent-a-Room."
   3: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
+  4: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
     → "When you lease a Rent-a-Room here, you can use that room as you would use your personal Mog House back in your home country. Isn't it just "kupo" convenient?t"
   5: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0254 [0x00] END_REQSTACK()
@@ -706,7 +706,7 @@ SUBROUTINE_0244:
 #### Opcodes
 
 ```
-  0: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
+  0: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
     → "There you go. The procedure is complete. You now have your own Rent-a-Room in Windurst's residential area, located right behind me. Have a nice stay.t"
   1: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0259 [0x00] END_REQSTACK()
@@ -736,13 +736,13 @@ SUBROUTINE_0244:
   0: 0x025A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x025F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0260 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
+  3: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7397*)
     → "Huh...?"
   4: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
+  5: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
     → "What is that hat you're holding? Let me have a look."
   6: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
+  7: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
     → "Hmm...this must be the latest style from the local hatter. It's about time I had some new headwear made. Perhaps I'll drop by later..."
   8: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x026D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

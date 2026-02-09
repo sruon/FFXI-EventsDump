@@ -90,21 +90,21 @@
 |      42 | 0xEF0B      |       61195 |
 |      43 | 0x05DC      |        1500 |
 |      44 | 0x0078      |         120 |
-|      45 | 0x1CAF      |        7343 |
+|      45 | 0x1CB0      |        7344 |
 |      46 | 0x0C58      |        3160 |
-|      47 | 0x1CB0      |        7344 |
-|      48 | 0x1CB1      |        7345 |
-|      49 | 0x1CB2      |        7346 |
+|      47 | 0x1CB1      |        7345 |
+|      48 | 0x1CB2      |        7346 |
+|      49 | 0x1CB3      |        7347 |
 |      50 | 0x000A      |          10 |
 |      51 | 0x00F3      |         243 |
-|      52 | 0x1CB3      |        7347 |
-|      53 | 0x1CB4      |        7348 |
-|      54 | 0x1CB5      |        7349 |
+|      52 | 0x1CB4      |        7348 |
+|      53 | 0x1CB5      |        7349 |
+|      54 | 0x1CB6      |        7350 |
 |      55 | 0xFFFE72D2  |  4294865618 |
 |      56 | 0xEF77      |       61303 |
 |      57 | 0x0003      |           3 |
 |      58 | 0x40DF      |       16607 |
-|      59 | 0x1CB6      |        7350 |
+|      59 | 0x1CB7      |        7351 |
 |      60 | 0xFFFEBDA5  |  4294884773 |
 |      61 | 0x4DE5      |       19941 |
 |      62 | 0x011D      |         285 |
@@ -120,38 +120,38 @@
 |      72 | 0x0015      |          21 |
 |      73 | 0x0975      |        2421 |
 |      74 | 0x00EF      |         239 |
-|      75 | 0x1CCF      |        7375 |
+|      75 | 0x1CD0      |        7376 |
 |      76 | 0x0045      |          69 |
-|      77 | 0x1CD0      |        7376 |
-|      78 | 0x1CD1      |        7377 |
-|      79 | 0x1CD2      |        7378 |
-|      80 | 0x1CD3      |        7379 |
-|      81 | 0x1CD4      |        7380 |
-|      82 | 0x1CD5      |        7381 |
-|      83 | 0x1CD6      |        7382 |
-|      84 | 0x1CD7      |        7383 |
-|      85 | 0x1CD8      |        7384 |
-|      86 | 0x1CD9      |        7385 |
+|      77 | 0x1CD1      |        7377 |
+|      78 | 0x1CD2      |        7378 |
+|      79 | 0x1CD3      |        7379 |
+|      80 | 0x1CD4      |        7380 |
+|      81 | 0x1CD5      |        7381 |
+|      82 | 0x1CD6      |        7382 |
+|      83 | 0x1CD7      |        7383 |
+|      84 | 0x1CD8      |        7384 |
+|      85 | 0x1CD9      |        7385 |
+|      86 | 0x1CDA      |        7386 |
 |      87 | 0x0064      |         100 |
-|      88 | 0x1CDA      |        7386 |
-|      89 | 0x1CDB      |        7387 |
-|      90 | 0x1CDC      |        7388 |
+|      88 | 0x1CDB      |        7387 |
+|      89 | 0x1CDC      |        7388 |
+|      90 | 0x1CDD      |        7389 |
 |      91 | 0x0001      |           1 |
-|      92 | 0x1CDD      |        7389 |
-|      93 | 0x1CDE      |        7390 |
+|      92 | 0x1CDE      |        7390 |
+|      93 | 0x1CDF      |        7391 |
 |      94 | 0x0006      |           6 |
-|      95 | 0x1CDF      |        7391 |
-|      96 | 0x1CE0      |        7392 |
-|      97 | 0x1CE1      |        7393 |
-|      98 | 0x1CE2      |        7394 |
-|      99 | 0x1CE3      |        7395 |
-|     100 | 0x1CE4      |        7396 |
-|     101 | 0x1CE6      |        7398 |
-|     102 | 0x1CE7      |        7399 |
+|      95 | 0x1CE0      |        7392 |
+|      96 | 0x1CE1      |        7393 |
+|      97 | 0x1CE2      |        7394 |
+|      98 | 0x1CE3      |        7395 |
+|      99 | 0x1CE4      |        7396 |
+|     100 | 0x1CE5      |        7397 |
+|     101 | 0x1CE7      |        7399 |
+|     102 | 0x1CE8      |        7400 |
 |     103 | 0x000B      |          11 |
-|     104 | 0x1CE8      |        7400 |
+|     104 | 0x1CE9      |        7401 |
 |     105 | 0x009D      |         157 |
-|     106 | 0x1CE9      |        7401 |
+|     106 | 0x1CEA      |        7402 |
 |     107 | 0xFFFF9A70  |  4294941296 |
 |     108 | 0x0FA0      |        4000 |
 |     109 | 0xFFFF9C00  |  4294941696 |
@@ -178,7 +178,7 @@
 
 ## String References
 
-- **7350**: You found $7.
+- **7351**: You found $7.
 
 ## Events
 
@@ -379,22 +379,22 @@
   8: 0x0180 [0x1F] MOVE_ENTITY: EventEntity moves to X=-101.599*, Z=61.195*, Y=1.500*
   9: 0x0188 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  10: 0x018A [0x1C] WAIT(120* ticks)
- 11: 0x018D [0x2B] Zeid (ID: 17481831/0x010AC067) [7343*]:
+ 11: 0x018D [0x2B] Zeid (ID: 17481831/0x010AC067) [7344*]:
     → "Why are you looking at me that way? Have you never seen a dark knight before?"
  12: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0195 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=190*
  14: 0x01A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[190*, 0*]
  15: 0x01B5 [0x4B] UPDATE_ENTITY_YAW(entity=Zeid (ID: 17481831/0x010AC067), yaw=17.4°*)
  16: 0x01BC [0x79] Zeid (ID: 17481831/0x010AC067) looks at LocalPlayer (Basic look)
- 17: 0x01C6 [0x2B] Zeid (ID: 17481831/0x010AC067) [7344*]:
+ 17: 0x01C6 [0x2B] Zeid (ID: 17481831/0x010AC067) [7345*]:
     → "You say Gumbah told you about me? That child is always crossing the line. It's unfortunate what happened to Werei, but I see Volker has not changed."
  18: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x01CE [0x7B] Zeid (ID: 17481831/0x010AC067) stops talking
- 20: 0x01D3 [0x2B] Zeid (ID: 17481831/0x010AC067) [7345*]:
+ 20: 0x01D3 [0x2B] Zeid (ID: 17481831/0x010AC067) [7346*]:
     → "I had thought I might visit the Mines District...but if they are still there, I should probably not."
  21: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x01DB [0x79] Zeid (ID: 17481831/0x010AC067) looks at LocalPlayer (Basic look)
- 23: 0x01E5 [0x2B] Zeid (ID: 17481831/0x010AC067) [7346*]:
+ 23: 0x01E5 [0x2B] Zeid (ID: 17481831/0x010AC067) [7347*]:
     → "And why is it that you have sought me out? You seek training to become a dark knight, perhaps? Yes...I sense you have already felled many enemies..."
  24: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x01ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -407,17 +407,17 @@
  32: 0x022E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=190*
  33: 0x023D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[190*, 0*]
  34: 0x024E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 35: 0x025F [0x2B] Zeid (ID: 17481831/0x010AC067) [7347*]:
+ 35: 0x025F [0x2B] Zeid (ID: 17481831/0x010AC067) [7348*]:
     → "But the way of the dark knight is not one to be taken lightly. It is a hopeless road, where anger and sorrow are your only companions."
  36: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0267 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "swo1" with entities [Zeid (ID: 17481831/0x010AC067), Zeid (ID: 17481831/0x010AC067)], work=243*
- 38: 0x0276 [0x2B] Zeid (ID: 17481831/0x010AC067) [7348*]:
+ 38: 0x0276 [0x2B] Zeid (ID: 17481831/0x010AC067) [7349*]:
     → "But if you still wish to become one, then take this sword. Let it feed on your bloodlust and the blood of your enemies."
  39: 0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x027E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "swo1" with entities [Zeid (ID: 17481831/0x010AC067), Zeid (ID: 17481831/0x010AC067)]
  41: 0x028B [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "wof4" with entities [Zeid (ID: 17481831/0x010AC067), Zeid (ID: 17481831/0x010AC067)]
  42: 0x0298 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "swo2" with entities [Zeid (ID: 17481831/0x010AC067), Zeid (ID: 17481831/0x010AC067)], work=243*
- 43: 0x02A7 [0x2B] Zeid (ID: 17481831/0x010AC067) [7349*]:
+ 43: 0x02A7 [0x2B] Zeid (ID: 17481831/0x010AC067) [7350*]:
     → "I must go. I have some business to attend to in Beadeaux, the Quadav stronghold. Sate that sword's hunger, and we will meet again..."
  44: 0x02AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x02AF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "swo2" with entities [Zeid (ID: 17481831/0x010AC067), Zeid (ID: 17481831/0x010AC067)]
@@ -476,7 +476,7 @@
  11: 0x0351 [0x1E] EventEntity looks at Zeid (ID: 17481831/0x010AC067) and starts talking
  12: 0x0356 [0x1C] WAIT(30* ticks)
  13: 0x0359 [0x03] Work_Zone[9] = 16607*
- 14: 0x035E [0x48] [System] [7350*]:
+ 14: 0x035E [0x48] [System] [7351*]:
     → "You found $7."
  15: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0362 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -718,50 +718,50 @@
   7: 0x040A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
   8: 0x041B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x042C [0x4A] Drake Fang (ID: 17481823/0x010AC05F) looks at LocalPlayer
- 10: 0x0435 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7375*]:
+ 10: 0x0435 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7376*]:
     → "So you heard the details of the incident on Ore Street?"
  11: 0x043C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x043D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Drake Fang (ID: 17481823/0x010AC05F), Drake Fang (ID: 17481823/0x010AC05F)], work=69*
- 13: 0x044C [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7376*]:
+ 13: 0x044C [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7377*]:
     → "That child who calls himself the Talekeeper... We need to find out if what he says is true, but they're still hammering out the details of the plan upstairs."
  14: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0454 [0x6B] STOP_AND_IDLE: Drake Fang (ID: 17481823/0x010AC05F) stops current action and resets to idle (animation="idl0")
- 16: 0x045D [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7377*]:
+ 16: 0x045D [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7378*]:
     → "If we assume from the beginning that he's a fake, it could cast a shadow on our pride. That's probably what's keeping the officials from making a quick decision."
  17: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0465 [0x27] REQ_SET(priority=0x0A, entity_id=Iron Eater (ID: 17481851/0x010AC07B), tag_num=0x02)
  19: 0x046C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
- 20: 0x047D [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7378*]:
+ 20: 0x047D [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7379*]:
     → "I will take responsibility for the adventurer's actions. Give [him/her] [his/her] orders."
  21: 0x0484 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0485 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iron Eater (ID: 17481851/0x010AC07B))
  23: 0x048B [0x4A] Drake Fang (ID: 17481823/0x010AC05F) looks at Iron Eater (ID: 17481851/0x010AC07B)
- 24: 0x0494 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7379*]:
+ 24: 0x0494 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7380*]:
     → "Sir Iron Eater! So, we have received clearance to send adventurers on this expedition?"
  25: 0x049B [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x049C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iron Eater (ID: 17481851/0x010AC07B), Iron Eater (ID: 17481851/0x010AC07B)], work=69*
- 27: 0x04AB [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7380*]:
+ 27: 0x04AB [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7381*]:
     → "We have always had such clearance. Yet none of us knew the task to give the adventurers...until now."
  28: 0x04B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x04B3 [0x6B] STOP_AND_IDLE: Iron Eater (ID: 17481851/0x010AC07B) stops current action and resets to idle (animation="idl0")
  30: 0x04BC [0x79] Iron Eater (ID: 17481851/0x010AC07B) looks at LocalPlayer (Basic look)
- 31: 0x04C6 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7381*]:
+ 31: 0x04C6 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7382*]:
     → "I want you to journey to the Altepa Desert and see if the so-called Talekeeper's story is true."
  32: 0x04CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x04CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
  34: 0x04DF [0x4A] LocalPlayer looks at Iron Eater (ID: 17481851/0x010AC07B)
- 35: 0x04E8 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7382*]:
+ 35: 0x04E8 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7383*]:
     → "He is saying that he found $6 near the Revelation Rock himself."
  36: 0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x04F0 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7383*]:
+ 37: 0x04F0 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7384*]:
     → "If it is real, there is no way a normal child could have gotten his hands on it. It may prove that he is indeed the true Talekeeper."
  38: 0x04F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x04F8 [0x7B] Iron Eater (ID: 17481851/0x010AC07B) stops talking
- 40: 0x04FD [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7384*]:
+ 40: 0x04FD [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7385*]:
     → "And if it is a fake, I want you to try to find $6. This will more than likely be a difficult task."
  41: 0x0504 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0505 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Iron Eater (ID: 17481851/0x010AC07B), Iron Eater (ID: 17481851/0x010AC07B)], work=69*
- 43: 0x0514 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7385*]:
+ 43: 0x0514 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7386*]:
     → "This is a very strange situation for me, but I would like to know the truth. That is all. Good luck on your mission."
  44: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x051C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Iron Eater (ID: 17481851/0x010AC07B), Iron Eater (ID: 17481851/0x010AC07B)], work=69*
@@ -773,7 +773,7 @@
  51: 0x055C [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=239*
  52: 0x056B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
  53: 0x057C [0x4A] Drake Fang (ID: 17481823/0x010AC05F) looks at LocalPlayer
- 54: 0x0585 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7386*]:
+ 54: 0x0585 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7387*]:
     → "If you happen to find $6, take it to Tall Mountain, a guard in the off-limits area in the Mines District."
  55: 0x058C [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x058D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -840,11 +840,11 @@
   6: 0x05D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
   7: 0x05EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   8: 0x05FB [0x4A] Drake Fang (ID: 17481823/0x010AC05F) looks at LocalPlayer
-  9: 0x0604 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7387*]:
+  9: 0x0604 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7388*]:
     → "Ah, you are the one we sent to Zepwell Island. I'm surprised you were so successful in revealing the true colors of that imposter."
  10: 0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x060C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Drake Fang (ID: 17481823/0x010AC05F), Drake Fang (ID: 17481823/0x010AC05F)], work=69*
- 12: 0x061B [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7388*]:
+ 12: 0x061B [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7389*]:
     → "In any case, I just received a message stating that Sir Iron Eater is currently on his way here."
  13: 0x0622 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0623 [0x27] REQ_SET(priority=0x0A, entity_id=Iron Eater (ID: 17481851/0x010AC07B), tag_num=0x02)
@@ -853,42 +853,42 @@
  17: 0x0636 [0x4A] Drake Fang (ID: 17481823/0x010AC05F) looks at Iron Eater (ID: 17481851/0x010AC07B)
  18: 0x063F [0x79] LocalPlayer looks at Iron Eater (ID: 17481851/0x010AC07B) (Basic look)
  19: 0x0649 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
- 20: 0x065A [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7389*]:
+ 20: 0x065A [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7390*]:
     → "I'm sorry about giving you all this extra work, Drake Fang. So, have there been any more complaints about not opening the Korroloka Tunnel to the public?"
  21: 0x0661 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0662 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Drake Fang (ID: 17481823/0x010AC05F), Drake Fang (ID: 17481823/0x010AC05F)], work=69*
- 23: 0x0671 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7390*]:
+ 23: 0x0671 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7391*]:
     → "I wish there were not, but we cannot allow civilians into such a dangerous place."
  24: 0x0678 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0679 [0x6B] STOP_AND_IDLE: Drake Fang (ID: 17481823/0x010AC05F) stops current action and resets to idle (animation="idl0")
  26: 0x0682 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iron Eater (ID: 17481851/0x010AC07B))
  27: 0x0688 [0x6E] Iron Eater (ID: 17481851/0x010AC07B) uses emote 6*
  28: 0x068F [0x99] Wait for Iron Eater (ID: 17481851/0x010AC07B) animation to complete
- 29: 0x0694 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7391*]:
+ 29: 0x0694 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7392*]:
     → "People assume that locked doors always hide secrets, and there is little we can do to change that perception. We need to get that investigation report finished as soon as possible..."
  30: 0x069B [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x069C [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=239*
  32: 0x06AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
  33: 0x06BC [0x99] Wait for Iron Eater (ID: 17481851/0x010AC07B) animation to complete
  34: 0x06C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Iron Eater (ID: 17481851/0x010AC07B), Iron Eater (ID: 17481851/0x010AC07B)], work=69*
- 35: 0x06D0 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7392*]:
+ 35: 0x06D0 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7393*]:
     → "I was supposed to accompany the expeditionary trip to Zepwell Island myself, but I was worried about the happenings in the Mines District."
  36: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x06D8 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7393*]:
+ 37: 0x06D8 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7394*]:
     → "It's almost like all the residents' discontent and hatred have come to a dangerous boil..."
  38: 0x06DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x06E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Iron Eater (ID: 17481851/0x010AC07B), Iron Eater (ID: 17481851/0x010AC07B)], work=69*
- 40: 0x06EF [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7394*]:
+ 40: 0x06EF [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7395*]:
     → "And there is one other thing...something that Zeid said. It was like he was predicting the arrival of the true Talekeeper."
  41: 0x06F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x06F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=239*
  43: 0x0706 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
  44: 0x0717 [0x4A] Iron Eater (ID: 17481851/0x010AC07B) looks at LocalPlayer
- 45: 0x0720 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7395*]:
+ 45: 0x0720 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7396*]:
     → "In any case, I'm leaving this next expedition to you. This is not official, but we have heard that Werei had set off for the Kuftal Tunnel."
  46: 0x0727 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0728 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iron Eater (ID: 17481851/0x010AC07B), Iron Eater (ID: 17481851/0x010AC07B)], work=69*
- 48: 0x0737 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7396*]:
+ 48: 0x0737 [0x2B] Iron Eater (ID: 17481851/0x010AC07B) [7397*]:
     → "We want you to go to the tunnel, find proof that he had been there, and bring it back to Drake Fang."
  49: 0x073E [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x073F [0x6B] STOP_AND_IDLE: Iron Eater (ID: 17481851/0x010AC07B) stops current action and resets to idle (animation="idl0")
@@ -945,13 +945,13 @@
   6: 0x0794 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
   7: 0x07A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   8: 0x07B6 [0x4A] Drake Fang (ID: 17481823/0x010AC05F) looks at LocalPlayer
-  9: 0x07BF [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7398*]:
+  9: 0x07BF [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7399*]:
     → "Well, it looks like Werei left a message on this piece of wood. This is an important find in our investigation."
  10: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x07C7 [0x27] REQ_SET(priority=0x0A, entity_id=Makarim (ID: 17481828/0x010AC064), tag_num=0x04)
  12: 0x07CE [0x27] REQ_SET(priority=0x0A, entity_id=Rasmus (ID: 17481821/0x010AC05D), tag_num=0x04)
  13: 0x07D5 [0x79] Drake Fang (ID: 17481823/0x010AC05F) looks at Makarim (ID: 17481828/0x010AC064) (Basic look)
- 14: 0x07DF [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7399*]:
+ 14: 0x07DF [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7400*]:
     → "Good. Now for--what? Is anything wrong, Foreman Makarim?"
  15: 0x07E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x07E7 [0x27] REQ_SET(priority=0x0A, entity_id=Lasthenes (ID: 17481819/0x010AC05B), tag_num=0x05)
@@ -959,14 +959,14 @@
  18: 0x07FF [0x1E] EventEntity looks at Makarim (ID: 17481828/0x010AC064) and starts talking
  19: 0x0804 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Makarim (ID: 17481828/0x010AC064))
  20: 0x080A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl0" with entities [Makarim (ID: 17481828/0x010AC064), Makarim (ID: 17481828/0x010AC064)], work=11*
- 21: 0x0819 [0x2B] Makarim (ID: 17481828/0x010AC064) [7400*]:
+ 21: 0x0819 [0x2B] Makarim (ID: 17481828/0x010AC064) [7401*]:
     → "Come quick! The Galka from the Mines District have forced their way up to the entrance of the mine!"
  22: 0x0820 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0821 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0831
  24: 0x0829 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 157*
  25: 0x082D [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 157*
  26: 0x0831 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ntl1" with entities [Makarim (ID: 17481828/0x010AC064), Makarim (ID: 17481828/0x010AC064)], work=11*
- 27: 0x0840 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7401*]:
+ 27: 0x0840 [0x2B] Drake Fang (ID: 17481823/0x010AC05F) [7402*]:
     → "What!?"
  28: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0848 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0867

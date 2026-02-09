@@ -36,27 +36,27 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x2B46      |       11078 |
-|       2 | 0x2B47      |       11079 |
-|       3 | 0x2B96      |       11158 |
-|       4 | 0x2B97      |       11159 |
-|       5 | 0x2B4E      |       11086 |
-|       6 | 0x2BDD      |       11229 |
-|       7 | 0x2BDE      |       11230 |
-|       8 | 0x2B5A      |       11098 |
-|       9 | 0x27D8      |       10200 |
+|       1 | 0x2B47      |       11079 |
+|       2 | 0x2B48      |       11080 |
+|       3 | 0x2B97      |       11159 |
+|       4 | 0x2B98      |       11160 |
+|       5 | 0x2B4F      |       11087 |
+|       6 | 0x2BDE      |       11230 |
+|       7 | 0x2BDF      |       11231 |
+|       8 | 0x2B5B      |       11099 |
+|       9 | 0x27D9      |       10201 |
 |      10 | 0xFFFFFC18  |  4294966296 |
 |      11 | 0x7C36      |       31798 |
 |      12 | 0x07CF      |        1999 |
 |      13 | 0x0AFB      |        2811 |
 |      14 | 0x0028      |          40 |
 |      15 | 0x9F2E      |       40750 |
-|      16 | 0x315C      |       12636 |
-|      17 | 0x315D      |       12637 |
-|      18 | 0x31C1      |       12737 |
-|      19 | 0x31C2      |       12738 |
-|      20 | 0x31CB      |       12747 |
-|      21 | 0x31CC      |       12748 |
+|      16 | 0x315D      |       12637 |
+|      17 | 0x315E      |       12638 |
+|      18 | 0x31C2      |       12738 |
+|      19 | 0x31C3      |       12739 |
+|      20 | 0x31CC      |       12748 |
+|      21 | 0x31CD      |       12749 |
 |      22 | 0x0439      |        1081 |
 |      23 | 0xB5B6      |       46518 |
 |      24 | 0x076C      |        1900 |
@@ -74,21 +74,21 @@
 
 ## String References
 
-- **10200**: Welcome. This is the home of the archduke, so please conduct yourself accordingly.
-- **11078**: You're an adventurer, right? So you've probably already heard about the humongous dragon that flew over the western skies.
-- **11079**: At first everybody thought it might be a stray wyvern, but there are rumors that it was actually one of those ancient "wyrms"!
-- **11086**: The Jeuno Armada is readying for an attack on the Wyrmking, Bahamut. However, there is nothing to worry about. Our forces are the strongest, most advanced in all Vana'diel.
-- **11098**: The latest reports state the recent armada mission was a success. However, it did not completely stop the Wyrmking and his minions. It is rumored that the fleet will launch its second attack once the current repairs on the warships are completed.
-- **11158**: I have heard news that the criminal accused of destroying the Telepoints was captured and taken into custody.
-- **11159**: However, when questioned, [he/she] said she had nothing to do with the incidents. To prove [his/her] innocence, the Duchy has ordered the scoundrel to travel to the nations of Bastok, Windurst, and San d'Oria and gather information that will clear [his/her] name.
-- **11229**: Not but a few moments ago, Sir Nag'molada passed by this station. However, he did not seem himself. I wonder if something is wrong...
-- **11230**: Even Captain Wolfgang has been looking disturbed since he received that envelope. What ever could be going on?
-- **12636**: Where could this "fated land" be? I wouldn't even know where to start looking.
-- **12637**: But now that I think of it, I could have sworn I heard that name somewhere before... Where was it...?
-- **12737**: What? Is there a girl in Selbina with a serious case of amnesia?
-- **12738**: How would I know? I'm always confined to my post here in Jeuno. You're the adventurer. Why don't you know these things?
-- **12747**: Captain Wolfgang has asked me to remind you that you are to hurry to the Marble Bridge in Upper Jeuno.
-- **12748**: It sounded as if it was urgent. You had best be on your way!
+- **10201**: Welcome. This is the home of the archduke, so please conduct yourself accordingly.
+- **11079**: You're an adventurer, right? So you've probably already heard about the humongous dragon that flew over the western skies.
+- **11080**: At first everybody thought it might be a stray wyvern, but there are rumors that it was actually one of those ancient "wyrms"!
+- **11087**: The Jeuno Armada is readying for an attack on the Wyrmking, Bahamut. However, there is nothing to worry about. Our forces are the strongest, most advanced in all Vana'diel.
+- **11099**: The latest reports state the recent armada mission was a success. However, it did not completely stop the Wyrmking and his minions. It is rumored that the fleet will launch its second attack once the current repairs on the warships are completed.
+- **11159**: I have heard news that the criminal accused of destroying the Telepoints was captured and taken into custody.
+- **11160**: However, when questioned, [he/she] said she had nothing to do with the incidents. To prove [his/her] innocence, the Duchy has ordered the scoundrel to travel to the nations of Bastok, Windurst, and San d'Oria and gather information that will clear [his/her] name.
+- **11230**: Not but a few moments ago, Sir Nag'molada passed by this station. However, he did not seem himself. I wonder if something is wrong...
+- **11231**: Even Captain Wolfgang has been looking disturbed since he received that envelope. What ever could be going on?
+- **12637**: Where could this "fated land" be? I wouldn't even know where to start looking.
+- **12638**: But now that I think of it, I could have sworn I heard that name somewhere before... Where was it...?
+- **12738**: What? Is there a girl in Selbina with a serious case of amnesia?
+- **12739**: How would I know? I'm always confined to my post here in Jeuno. You're the adventurer. Why don't you know these things?
+- **12748**: Captain Wolfgang has asked me to remind you that you are to hurry to the Marble Bridge in Upper Jeuno.
+- **12749**: It sounded as if it was urgent. You had best be on your way!
 
 ## Events
 
@@ -140,10 +140,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11078*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11079*)
     → "You're an adventurer, right? So you've probably already heard about the humongous dragon that flew over the western skies."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11079*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11080*)
     → "At first everybody thought it might be a stray wyvern, but there are rumors that it was actually one of those ancient "wyrms"!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -179,10 +179,10 @@
   1: 0x0042 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0043 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11158*)
+  4: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=11159*)
     → "I have heard news that the criminal accused of destroying the Telepoints was captured and taken into custody."
   5: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11159*)
+  6: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=11160*)
     → "However, when questioned, [he/she] said she had nothing to do with the incidents. To prove [his/her] innocence, the Duchy has ordered the scoundrel to travel to the nations of Bastok, Windurst, and San d'Oria and gather information that will clear [his/her] name."
   7: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -218,7 +218,7 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0080 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=11086*)
+  4: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=11087*)
     → "The Jeuno Armada is readying for an attack on the Wyrmking, Bahamut. However, there is nothing to worry about. Our forces are the strongest, most advanced in all Vana'diel."
   5: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0093 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -253,10 +253,10 @@
   1: 0x00B6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11229*)
+  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11230*)
     → "Not but a few moments ago, Sir Nag'molada passed by this station. However, he did not seem himself. I wonder if something is wrong..."
   5: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11230*)
+  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=11231*)
     → "Even Captain Wolfgang has been looking disturbed since he received that envelope. What ever could be going on?"
   7: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -292,7 +292,7 @@
   1: 0x00F2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=11098*)
+  4: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=11099*)
     → "The latest reports state the recent armada mission was a success. However, it did not completely stop the Wyrmking and his minions. It is rumored that the fleet will launch its second attack once the current repairs on the warships are completed."
   5: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0107 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -328,7 +328,7 @@
   1: 0x012A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x012B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0130 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=10200*)
+  4: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=10201*)
     → "Welcome. This is the home of the archduke, so please conduct yourself accordingly."
   5: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0143 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -442,10 +442,10 @@
   1: 0x0197 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0198 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0199 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12636*)
+  4: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12637*)
     → "Where could this "fated land" be? I wouldn't even know where to start looking."
   5: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12637*)
+  6: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12638*)
     → "But now that I think of it, I could have sworn I heard that name somewhere before... Where was it...?"
   7: 0x01AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -481,10 +481,10 @@
   1: 0x01D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12737*)
+  4: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12738*)
     → "What? Is there a girl in Selbina with a serious case of amnesia?"
   5: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12738*)
+  6: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12739*)
     → "How would I know? I'm always confined to my post here in Jeuno. You're the adventurer. Why don't you know these things?"
   7: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -546,10 +546,10 @@
   1: 0x0220 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0221 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0222 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=12747*)
+  4: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=12748*)
     → "Captain Wolfgang has asked me to remind you that you are to hurry to the Marble Bridge in Upper Jeuno."
   5: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=12748*)
+  6: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=12749*)
     → "It sounded as if it was urgent. You had best be on your way!"
   7: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0239 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*

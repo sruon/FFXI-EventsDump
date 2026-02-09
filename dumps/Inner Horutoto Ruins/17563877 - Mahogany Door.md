@@ -24,7 +24,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x012C      |         300 |
-|       1 | 0x1C71      |        7281 |
+|       1 | 0x1C72      |        7282 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x003C      |          60 |
@@ -32,29 +32,29 @@
 |       6 | 0x0013      |          19 |
 |       7 | 0x005C      |          92 |
 |       8 | 0x001E      |          30 |
-|       9 | 0x1C74      |        7284 |
+|       9 | 0x1C75      |        7285 |
 |      10 | 0x00A0      |         160 |
-|      11 | 0x1C79      |        7289 |
+|      11 | 0x1C7A      |        7290 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x1C7B      |        7291 |
+|      13 | 0x1C7C      |        7292 |
 |      14 | 0x0064      |         100 |
-|      15 | 0x1C7C      |        7292 |
+|      15 | 0x1C7D      |        7293 |
 |      16 | 0x0032      |          50 |
-|      17 | 0x1C7D      |        7293 |
-|      18 | 0x1C83      |        7299 |
-|      19 | 0x1C8C      |        7308 |
+|      17 | 0x1C7E      |        7294 |
+|      18 | 0x1C84      |        7300 |
+|      19 | 0x1C8D      |        7309 |
 |      20 | 0x00CD      |         205 |
 |      21 | 0x0078      |         120 |
 |      22 | 0x007F      |         127 |
-|      23 | 0x1C8E      |        7310 |
-|      24 | 0x1C95      |        7317 |
-|      25 | 0x1C9A      |        7322 |
+|      23 | 0x1C8F      |        7311 |
+|      24 | 0x1C96      |        7318 |
+|      25 | 0x1C9B      |        7323 |
 |      26 | 0x0BB8      |        3000 |
-|      27 | 0x1C9C      |        7324 |
+|      27 | 0x1C9D      |        7325 |
 
 ## String References
 
-- **7281**: The door is firmly closed.
+- **7282**: The door is firmly closed.
 
 ## Events
 
@@ -146,7 +146,7 @@
 #### Opcodes
 
 ```
-  0: 0x0008 [0x48] [System] [7281*]:
+  0: 0x0008 [0x48] [System] [7282*]:
     → "The door is firmly closed."
   1: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -331,7 +331,7 @@
  27: 0x00C3 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
  28: 0x00C9 [0x4A] LocalPlayer looks at Nanaa Mihgo (ID: 17563878/0x010C00E6)
  29: 0x00D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
- 30: 0x00E3 [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7284*]:
+ 30: 0x00E3 [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7285*]:
     → "Ha ha ha hah..."
  31: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00EB [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x28)
@@ -350,7 +350,7 @@
  45: 0x0142 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=92*
  46: 0x0151 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
  47: 0x0162 [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x2B)
- 48: 0x0169 [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7289*]:
+ 48: 0x0169 [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7290*]:
     → "Hurry up and drop all yourrr belongings! You don't want to keep me waiting!"
  49: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0171 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6))
@@ -370,11 +370,11 @@
  64: 0x01D2 [0x27] REQ_SET(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x29)
  65: 0x01D9 [0x4A] Bopa Greso (ID: 17563879/0x010C00E7) looks at Ace of Swords (ID: 17563883/0x010C00EB)
  66: 0x01E2 [0x4A] Cha Lebagta (ID: 17563880/0x010C00E8) looks at Ace of Swords (ID: 17563883/0x010C00EB)
- 67: 0x01EB [0x2B] Ace of Cups (ID: 17563881/0x010C00E9) [7291*]:
+ 67: 0x01EB [0x2B] Ace of Cups (ID: 17563881/0x010C00E9) [7292*]:
     → "The extinguished magic is our lord!"
  68: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x01F3 [0x1C] WAIT(100* ticks)
- 70: 0x01F6 [0x2B] Ace of Wands (ID: 17563882/0x010C00EA) [7292*]:
+ 70: 0x01F6 [0x2B] Ace of Wands (ID: 17563882/0x010C00EA) [7293*]:
     → "The slumbering strength is our ruler!"
  71: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x01FE [0x2A] GET_REQ_LEVEL(level=8, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6))
@@ -384,7 +384,7 @@
  76: 0x0213 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=92*
  77: 0x0222 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
  78: 0x0233 [0x27] REQ_SET(priority=0x0B, entity_id=Ace of Swords (ID: 17563883/0x010C00EB), tag_num=0x14)
- 79: 0x023A [0x2B] Ace of Swords (ID: 17563883/0x010C00EB) [7293*]:
+ 79: 0x023A [0x2B] Ace of Swords (ID: 17563883/0x010C00EB) [7294*]:
     → "We have found you, Mithra! Return the lifeforce of our leader back to us!"
  80: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0242 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ace of Swords (ID: 17563883/0x010C00EB))
@@ -410,7 +410,7 @@
 101: 0x0305 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17563883/0x010C00EB), tag_num=0x04)
 102: 0x030C [0x1C] WAIT(60* ticks)
 103: 0x030F [0x27] REQ_SET(priority=0x0B, entity_id=Ace of Swords (ID: 17563883/0x010C00EB), tag_num=0x15)
-104: 0x0316 [0x2B] Ace of Swords (ID: 17563883/0x010C00EB) [7299*]:
+104: 0x0316 [0x2B] Ace of Swords (ID: 17563883/0x010C00EB) [7300*]:
     → "So, Mithra... Tell us where you hid our ruler's belongings! If you do not want to join him in death, then you had best speak the truth!"
 105: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x031E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ace of Swords (ID: 17563883/0x010C00EB))
@@ -440,7 +440,7 @@
 130: 0x0401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17563881/0x010C00E9), tag_num=0x09)
 131: 0x0408 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17563882/0x010C00EA), tag_num=0x01)
 132: 0x040F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17563883/0x010C00EB), tag_num=0x05)
-133: 0x0416 [0x2B] Ace of Cups (ID: 17563881/0x010C00E9) [7308*]:
+133: 0x0416 [0x2B] Ace of Cups (ID: 17563881/0x010C00E9) [7309*]:
     → "We will be returning to town... After we have silenced you forever!"
 134: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x041E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ace of Cups (ID: 17563881/0x010C00E9))
@@ -475,7 +475,7 @@
 164: 0x0515 [0x4A] Cha Lebagta (ID: 17563880/0x010C00E8) looks at Ajido-Marujido (ID: 17563874/0x010C00E2)
 165: 0x051E [0x4A] LocalPlayer looks at Ajido-Marujido (ID: 17563874/0x010C00E2)
 166: 0x0527 [0x79] Nanaa Mihgo (ID: 17563878/0x010C00E6) looks at Ajido-Marujido (ID: 17563874/0x010C00E2) (Basic look)
-167: 0x0531 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7310*]:
+167: 0x0531 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7311*]:
     → "This time you've gone too far!"
 168: 0x0538 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0539 [0x1C] WAIT(30* ticks)
@@ -516,7 +516,7 @@
 204: 0x066F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
 205: 0x0680 [0x79] Ajido-Marujido (ID: 17563874/0x010C00E2) looks at Nanaa Mihgo (ID: 17563878/0x010C00E6) (Basic look)
 206: 0x068A [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x44)
-207: 0x0691 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7317*]:
+207: 0x0691 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7318*]:
     → "So, now I see... You stole that book from our Cardian friends there, eh?"
 208: 0x0698 [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x0699 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))
@@ -536,7 +536,7 @@
 223: 0x070A [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=92*
 224: 0x0719 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
 225: 0x072A [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x45)
-226: 0x0731 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7322*]:
+226: 0x0731 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7323*]:
     → "You have the gall to think I enjoy playing cat and mouse, running around after you, do you? Really, now...?"
 227: 0x0738 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x0739 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))
@@ -551,7 +551,7 @@
 237: 0x0776 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x26)
 238: 0x077D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
 239: 0x078E [0x4B] UPDATE_ENTITY_YAW(entity=Ajido-Marujido (ID: 17563874/0x010C00E2), yaw=0.0°*)
-240: 0x0795 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7324*]:
+240: 0x0795 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7325*]:
     → "Next stop, ol' Karaha-Baruha's residence! I had better hurry back to Windurst Walls before it's too late..."
 241: 0x079C [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x079D [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x46)

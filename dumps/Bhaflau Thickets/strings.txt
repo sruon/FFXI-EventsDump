@@ -1,5 +1,5 @@
 # Strings for Bhaflau Thickets
-# Total: 7735 strings
+# Total: 7736 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7065,189 +7065,189 @@
  7061: Vana'Bout No. $0 has concluded.
  7062: Obtained temporary item: $0.
  7063: Lost temporary item: $0.
- 7064: You can't fish here.
- 7065: You can't fish without a rod in your hands.
- 7066: You can't fish without bait on the hook.
- 7067: You can't fish at the moment.
- 7068: You didn't catch anything.
- 7069: %0 caught a monster!
- 7070: Your line breaks.
- 7071: Your rod breaks.
- 7072: Something caught the hook!
- 7073: You lost your catch.
- 7074: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7075: You feel there's something here.
- 7076: You feel there's something nearby.
- 7077: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7078: %0 caught $1 $0 !
- 7079: You dig and you dig, but find nothing.
- 7080: $0/$0p$3Z$3b$3g
- 7081: Your rod breaks. Whatever caught the hook was pretty big.
- 7082: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7083: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7084: You lost your catch due to your lack of skill.
- 7085: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7086: You didn't catch anything.
- 7087: The paper on your $0 ripped.
- 7088: A tiny goldfish approaches!
- 7089: A plump, black goldfish approaches!
- 7090: A fat, juicy goldfish approaches!
- 7091: There are no goldfish to be found...
- 7092: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7093: The goldfish slipped off your scoop...
- 7094: ch$0 skill up check.
- 7095: a:$0.
- 7096: Time $0 / Status $1 / $2
- 7097: d:$0. e:$1. f:$2. g:$3.
- 7098: h: $1. i: $0. sr: $2.
- 7099: j:$0. k:$1.
- 7100: You give up and reel in your line.
- 7101: You give up.
- 7102: %0 obtains $1 gil.
- 7103: %0 caught $0!
- 7104: You don't know how much longer you can keep this one on the line...
- 7105: You have a good feeling about this one!
- 7106: You have a bad feeling about this one.
- 7107: You have a terrible feeling about this one...
- 7108: You don't know if you have enough skill to reel this one in.
- 7109: You're fairly sure you don't have enough skill to reel this one in.
- 7110: You're positive you don't have enough skill to reel this one in!
- 7111: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7112: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7113: l: $0. m: $1. n: $2. CH: $3.
- 7114: Something caught the hook!!!
- 7115: You feel something pulling at your line.
- 7116: Something clamps onto your line ferociously!
- 7117: Your keen angler's senses tell you that this is the pull of $0!
- 7118: This strength... You get the sense that you are on the verge of an epic catch!
- 7119: The timer has started. $0 seconds remaining.
- 7120: $0sec.$1/$2sec.
- 7121: 0:$0 1:$1 2:$2 3:$3
- 7122: 4:$0 5:$1 6:$2 7:$3
- 7123: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7124: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7125: $0/$1($2j
- 7126: Version invalid error!
- 7127: Hurry before the goldfish sees you!
- 7128: %0 fishes up a large box!
- 7129: $23$o$P122$8$0
- 7130: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7131: PointF$0 >>> $1
- 7132: [$1($0)/skillF$1]
- 7133: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7134: Im Rnd : $0 Pz Rnd : $1
- 7135: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7136: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7137: skill : $0 size : $1 kind : $2 sch : $3
- 7138: time : $0 mes : $1 flag : $2 bonus : $3
- 7139: item : $0 hp : $1 pow : $2 swing : $3
- 7140: suc : $0 cons : $1 weight : $2 +- : $3
- 7141: speed : $0 +- : $1 exc : $2 client : $3
- 7142: general : $0
- 7143: ro:$0 rs:$1 ps:$2 dt:$3
- 7144: ra:$0 ti:$1
- 7145: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7146: You get the distinct sense that your moogle friend frequents this spot...
- 7147: You have a feeling that your moogle friend has been through this way...
- 7148: You suspect that the scenery around here would be to a moogle's liking...
- 7149: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7150: You have a hunch that this area would be favored by moogles...
- 7151: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7152: %0 catches $1 $0 !
- 7153: %0 obtained $6!
- 7154: It appears your chocobo found this item with ease.
- 7155: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7156: FPT $0 DPT $1 DoT$2
- 7157: FPT $0 TDPT $1 h$2
- 7158: You cannot fish at this time.
- 7159: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7160: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7161: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7162: You receive $0 bayld!
- 7163: Your chocobo refuses to partake of the $0.
- 7164: Tallying conquest results...
- 7165: Conquest results tallied.
- 7166: This region is currently under San d'Orian control.
- 7167: This region is currently under Bastokan control.
- 7168: This region is currently under Windurstian control.
- 7169: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7170: This region is currently neutral.
- 7171: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7172: All three nations are tied for first place.
- 7173: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7174: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7175: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7176: All three nations are tied for first place.
- 7177: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7178: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7179: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7180: All three nations are tied for first place.
- 7181: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7182: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7183: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7184: All three nations are tied for first place.
- 7185: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7186: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7187: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7188: Global balance of power: All three nations are tied for first place.
- 7189: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7190: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7191: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7192: All three nations are tied for first place.
- 7193: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7194: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7195: Conquest update: This region is currently neutral.
- 7196: Conquest update: This region is currently under San d'Orian control.
- 7197: Conquest update: This region is currently under Bastokan control.
- 7198: Conquest update: This region is currently under Windurstian control.
- 7199: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7200: All three nations are at a deadlock.
- 7201: The beastmen are on the rise.
- 7202: Regional influence: San d'Oria - Dominant
- 7203: Regional influence: San d'Oria - Major
- 7204: Regional influence: San d'Oria - Minor
- 7205: Regional influence: San d'Oria - Minimal
- 7206: Bastok - Dominant
- 7207: Bastok - Major
- 7208: Bastok - Minor
- 7209: Bastok - Minimal
- 7210: Windurst - Dominant
- 7211: Windurst - Major
- 7212: Windurst - Minor
- 7213: Windurst - Minimal
- 7214: Bastok and Windurst have formed an alliance.
- 7215: San d'Oria and Windurst have formed an alliance.
- 7216: San d'Oria and Bastok have formed an alliance.
- 7217: Bastok and Windurst are currently allies.
- 7218: San d'Oria and Windurst are currently allies.
- 7219: San d'Oria and Bastok are currently allies.
- 7220: $10$P11.$17F$0 $P14;$P12hF$1
- 7221: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7222: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7223: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7224: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7225: The beastmen are gaining power.
- 7226: San d'Oria's regional control is now 10% closer to the first place country's!
- 7227: Bastok's regional control is now 10% closer to the first place country's!
- 7228: Windurst's regional control are now 10% closer to the first place country's!
- 7229: San d'Oria's region points have increased!
- 7230: Bastok's region points have increased!
- 7231: Windurst's region points have increased!
- 7232: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7233: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7234: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7235: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7236: A Bastokan Expeditionary Force has been dispatched to this area.
- 7237: A Windurstian Expeditionary Force has been dispatched to this area.
- 7238: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7239: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7240: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7241: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7242: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7243: There was a curse on the beastmen's banner!
- 7244: The curse of the beastmen's banner has been lifted!
- 7245: There is a beastmen's banner.
- 7246: @
+ 7064: It won't open.
+ 7065: You can't fish here.
+ 7066: You can't fish without a rod in your hands.
+ 7067: You can't fish without bait on the hook.
+ 7068: You can't fish at the moment.
+ 7069: You didn't catch anything.
+ 7070: %0 caught a monster!
+ 7071: Your line breaks.
+ 7072: Your rod breaks.
+ 7073: Something caught the hook!
+ 7074: You lost your catch.
+ 7075: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7076: You feel there's something here.
+ 7077: You feel there's something nearby.
+ 7078: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7079: %0 caught $1 $0 !
+ 7080: You dig and you dig, but find nothing.
+ 7081: $0/$0p$3Z$3b$3g
+ 7082: Your rod breaks. Whatever caught the hook was pretty big.
+ 7083: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7084: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7085: You lost your catch due to your lack of skill.
+ 7086: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7087: You didn't catch anything.
+ 7088: The paper on your $0 ripped.
+ 7089: A tiny goldfish approaches!
+ 7090: A plump, black goldfish approaches!
+ 7091: A fat, juicy goldfish approaches!
+ 7092: There are no goldfish to be found...
+ 7093: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7094: The goldfish slipped off your scoop...
+ 7095: ch$0 skill up check.
+ 7096: a:$0.
+ 7097: Time $0 / Status $1 / $2
+ 7098: d:$0. e:$1. f:$2. g:$3.
+ 7099: h: $1. i: $0. sr: $2.
+ 7100: j:$0. k:$1.
+ 7101: You give up and reel in your line.
+ 7102: You give up.
+ 7103: %0 obtains $1 gil.
+ 7104: %0 caught $0!
+ 7105: You don't know how much longer you can keep this one on the line...
+ 7106: You have a good feeling about this one!
+ 7107: You have a bad feeling about this one.
+ 7108: You have a terrible feeling about this one...
+ 7109: You don't know if you have enough skill to reel this one in.
+ 7110: You're fairly sure you don't have enough skill to reel this one in.
+ 7111: You're positive you don't have enough skill to reel this one in!
+ 7112: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7113: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7114: l: $0. m: $1. n: $2. CH: $3.
+ 7115: Something caught the hook!!!
+ 7116: You feel something pulling at your line.
+ 7117: Something clamps onto your line ferociously!
+ 7118: Your keen angler's senses tell you that this is the pull of $0!
+ 7119: This strength... You get the sense that you are on the verge of an epic catch!
+ 7120: The timer has started. $0 seconds remaining.
+ 7121: $0sec.$1/$2sec.
+ 7122: 0:$0 1:$1 2:$2 3:$3
+ 7123: 4:$0 5:$1 6:$2 7:$3
+ 7124: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7125: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7126: $0/$1($2j
+ 7127: Version invalid error!
+ 7128: Hurry before the goldfish sees you!
+ 7129: %0 fishes up a large box!
+ 7130: $23$o$P122$8$0
+ 7131: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7132: PointF$0 >>> $1
+ 7133: [$1($0)/skillF$1]
+ 7134: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7135: Im Rnd : $0 Pz Rnd : $1
+ 7136: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7137: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7138: skill : $0 size : $1 kind : $2 sch : $3
+ 7139: time : $0 mes : $1 flag : $2 bonus : $3
+ 7140: item : $0 hp : $1 pow : $2 swing : $3
+ 7141: suc : $0 cons : $1 weight : $2 +- : $3
+ 7142: speed : $0 +- : $1 exc : $2 client : $3
+ 7143: general : $0
+ 7144: ro:$0 rs:$1 ps:$2 dt:$3
+ 7145: ra:$0 ti:$1
+ 7146: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7147: You get the distinct sense that your moogle friend frequents this spot...
+ 7148: You have a feeling that your moogle friend has been through this way...
+ 7149: You suspect that the scenery around here would be to a moogle's liking...
+ 7150: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7151: You have a hunch that this area would be favored by moogles...
+ 7152: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7153: %0 catches $1 $0 !
+ 7154: %0 obtained $6!
+ 7155: It appears your chocobo found this item with ease.
+ 7156: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7157: FPT $0 DPT $1 DoT$2
+ 7158: FPT $0 TDPT $1 h$2
+ 7159: You cannot fish at this time.
+ 7160: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7161: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7162: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7163: You receive $0 bayld!
+ 7164: Your chocobo refuses to partake of the $0.
+ 7165: Tallying conquest results...
+ 7166: Conquest results tallied.
+ 7167: This region is currently under San d'Orian control.
+ 7168: This region is currently under Bastokan control.
+ 7169: This region is currently under Windurstian control.
+ 7170: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7171: This region is currently neutral.
+ 7172: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7173: All three nations are tied for first place.
+ 7174: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7175: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7176: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7177: All three nations are tied for first place.
+ 7178: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7179: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7180: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7181: All three nations are tied for first place.
+ 7182: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7183: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7184: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7185: All three nations are tied for first place.
+ 7186: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7188: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7189: Global balance of power: All three nations are tied for first place.
+ 7190: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7191: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7192: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7193: All three nations are tied for first place.
+ 7194: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7196: Conquest update: This region is currently neutral.
+ 7197: Conquest update: This region is currently under San d'Orian control.
+ 7198: Conquest update: This region is currently under Bastokan control.
+ 7199: Conquest update: This region is currently under Windurstian control.
+ 7200: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7201: All three nations are at a deadlock.
+ 7202: The beastmen are on the rise.
+ 7203: Regional influence: San d'Oria - Dominant
+ 7204: Regional influence: San d'Oria - Major
+ 7205: Regional influence: San d'Oria - Minor
+ 7206: Regional influence: San d'Oria - Minimal
+ 7207: Bastok - Dominant
+ 7208: Bastok - Major
+ 7209: Bastok - Minor
+ 7210: Bastok - Minimal
+ 7211: Windurst - Dominant
+ 7212: Windurst - Major
+ 7213: Windurst - Minor
+ 7214: Windurst - Minimal
+ 7215: Bastok and Windurst have formed an alliance.
+ 7216: San d'Oria and Windurst have formed an alliance.
+ 7217: San d'Oria and Bastok have formed an alliance.
+ 7218: Bastok and Windurst are currently allies.
+ 7219: San d'Oria and Windurst are currently allies.
+ 7220: San d'Oria and Bastok are currently allies.
+ 7221: $10$P11.$17F$0 $P14;$P12hF$1
+ 7222: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7223: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7224: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7225: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7226: The beastmen are gaining power.
+ 7227: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7228: Bastok's regional control is now 10% closer to the first place country's!
+ 7229: Windurst's regional control are now 10% closer to the first place country's!
+ 7230: San d'Oria's region points have increased!
+ 7231: Bastok's region points have increased!
+ 7232: Windurst's region points have increased!
+ 7233: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7234: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7235: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7236: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7237: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7238: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7239: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7240: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7241: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7242: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7243: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7244: There was a curse on the beastmen's banner!
+ 7245: The curse of the beastmen's banner has been lifted!
+ 7246: There is a beastmen's banner.
  7247: @
  7248: @
  7249: @
@@ -7322,417 +7322,418 @@
  7318: @
  7319: @
  7320: @
- 7321: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7322: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7323: The gate is firmly closed...
- 7324: You must move closer.
- 7325: This gate guards an area under Imperial control.
- 7326: "Azouph Isle Staging Point."
- 7327: "Mamool Ja Staging Point."
- 7328: "Halvung Staging Point."
- 7329: "Dvucca Isle Staging Point."
- 7330: "Ilrusi Atoll Staging Point."
- 7331: "Nyzul Isle Staging Point."
- 7332: Enter the gate? [Yes./No.]
- 7333: Leave through the gate? [Yes./No.]
- 7334: Use the device? [Yes./No.]
- 7335: You cannot leave this area while in the possession of $3.
- 7336: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
- 7337: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
- 7338: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
- 7339: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
- 7340: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
- 7341: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
- 7342: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
- 7343: This is a restricted area.
- 7344: There is no response...
- 7345: You're a mercenary from Salaheem's Sentinels?
- 7346: This tunnel leads to the Alzadaal Undersea Ruins.
- 7347: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
- 7348: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
- 7349: The fee for entering the ruins comes to $1 $0 .
- 7350: Very well. You may proceed.
- 7351: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
- 7352: Leave the ruins? [Yes, I'm done here./Not just yet.]
- 7353: DEBUG: You return your entry ticket.
- 7354: If you need a map of the ruins, you can purchase one for $1 $0 .
- 7355: Here is your $3. Keep it in a safe place.
- 7356: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
- 7357: You have a $3? Let me have a closer look at that...
- 7358: $!7. $3}$3 [$3W$3$3$P15:P%{$10p$P10h%L7ifI
- 7359: $3~$3b$3V$3 $3$20T$6p$P11IqEKI [11/12/13]
- 7360: $P10h%L$s [5$3`$3F$3b$3N$6B /
- 7361: $P12J$P10M$8$P14sB
- 7362: $3A$3C$3e$3 <Player>x/\9qE5=B
- 7363: $P12N)*$P10h%L$l [F$6E7$4260453F$P11RADKB]
- 7364: $P10h%L5\5=$7406152E`"")g$3g$3[$3h7jN$3998261$3G$3$3AI$P14rWif$23599041$P13x%b5$|/iF$P10h%L $13$P12D>fI
- 7365: $30<Player>uHLE$P10h%LE+\9qE5=B
- 7366: $0*$P15TAD+\5=B
- 7367: Enter Aht Urhgan Whitegate? [Yes./No.]
- 7368: Press a button to continue.
- 7369: There is nothing out of the ordinary here.
- 7370: Now is not the time for that!
- 7371: Good day to you, adventurer. The passage over there leads to the Alchemists' Guild.
- 7372: Long have I practiced the art of alchemy, yet I do not find myself becoming bored. It truly is fascinating...
- 7373: No! Lemme go!
- 7374: Stop that! Behave yourself!
- 7375: Again, you come before me... Nothing has changed since the last time.
- 7376: Please, won't you reconsider?
- 7377: This child has nimble fingers and would soon pick up the trade if he were to live at the guild...
- 7378: Yes, and he uses those nimble fingers to pilfer my goods!
- 7379: What have you done with those herbs and vials?
- 7380: Ah, what are you gripin' about? It was just a bunch of junk anyway.
- 7381: Tinga! Mind your manners!
- 7382: Who asked you!? I don't need no stinkin' job! If you love this place so much, why don't you work here!?
- 7383: I won't always be around to take care of you. Try to understand.
- 7384: I don't need no one to take care of me! Stay out of my life!
- 7385: <Sigh>... I'm sorry you had to see that.
- 7386: You're an adventurer, right? I've done a fair share of adventuring myself, traveling the world with my sword and my wits.
- 7387: It was not long after I arrived in Al Zahbi when I ran into Tinga.
- 7388: He had lost both his parents... An orphan...
- 7389: I tried to find somebody to take him in, but every door was slammed in my face.
- 7390: So I decided to look after him for a time and found myself getting attached to the little scamp...
- 7391: I couldn't just leave him and pick up my adventures again.
- 7392: I was going to continue my mercenary work here and raise Tinga as my own...
- 7393: But then I realized I could no longer swing a sword. It seems I've contracted some sort of illness...
- 7394: The doctor says there is not much time left for me.
- 7395: Before I pass from this life, I want to make sure Tinga has some way to support himself.
- 7396: Well, you can see how well that effort is going. He has no mind to begin a trade and is only interested in causing mischief.
- 7397: But deep down, I know he's a good kid.
- 7398: What do you say? Do you think you can help out a fellow adventurer?
- 7399: I need you to help me turn his life around.
- 7400: Any time I try to have a serious talk with him, he just runs away...
- 7401: To tell the truth, I have no idea where he is most of the time.
- 7402: Quite the dilemma. Perhaps I may be of assistance?
- 7403: !!!
- 7404: You would help us!?
- 7405: I'm not so cold-hearted as all that.
- 7406: The problem is how to draw Tinga out of hiding...
- 7407: How about we pretend to leave this $0 behind by mistake?
- 7408: Excellent. Please go on ahead. I shall join you once my work here is done for the day.
- 7409: Thank you, Ahaadah.
- 7410: Hail! I trust I did not keep you waiting too long? Have you brought the item I requested?
- 7411: (Play the part of a merchant. Just follow my lead.)
- 7412: Yes! This is exactly what I was searching for! You've done well to obtain such an extraordinarily rare item!
- 7413: What's this!? You say you have something even more impressive for sale? Well then, my good merchant, lead on!
- 7414: Well, well. Look who decided to show up.
- 7415: Hey! Come back here!
- 7416: Aha. Nowhere left to run.
- 7417: What's wrong with you!? Do you want my autograph that bad!?
- 7418: Spare me your witty comments and return the item you stole.
- 7419: I didn't steal nothin'! I just picked it up!
- 7420: Enough is enough! You will return everything you've taken from my store!
- 7421: If you do as you're told, I might even reconsider the request to take you as my pupil.
- 7422: That old junk? I threw it away already.
- 7423: Threw it away...! Why even take it in the first place!?
- 7424: Heh heh. You're not alone, if it makes you feel any better.
- 7425: These saucers are from the Shararat Teahouse.
- 7426: These clothes are from Imeeya's store.
- 7427: And this carpet I got from Yazweel's place.
- 7428: I swiped all this stuff in half a day! You grownups are so pathetic!
- 7429: Not that I need any of it...
- 7430: You little...
- 7431: You got somethin' to say to me? Don't worry, none of that junk I just dropped was yours.
- 7432: That's the final straw!
- 7433: I've been lenient since you're just a child, but...
- 7434: You go too far!
- 7435: Give me back my carpet!
- 7436: Oh, calm down already.
- 7437: Calm down!? I'm going to go out of business if you break any more of my crockery!
- 7438: And you were the one who poked holes in all of my wares, weren't you!?
- 7439: My carpet!
- 7440: What's going on here?
- 7441: You...
- 7442: Tinga has ruined all of our livelihoods.
- 7443: Is this true, Tinga?
- 7444: So what if it is?
- 7445: Then you must apologize to everyone and give back all the things you took.
- 7446: What am I supposed to do with a pile of broken cups!?
- 7447: We don't need your kind around here!
- 7448: You probably put the child up to this in the first place!
- 7449: I never...! How could you...!?
- 7450: You're too sick to work and can't earn a living anymore. Isn't that right, adventurer?
- 7451: I knew you foreign adventurers were up to no good!
- 7452: Take your sneaking accomplice and get out of our city!
- 7453: Very well. I'll leave if that's what you want.
- 7454: But please, let Tinga stay. He's just a child.
- 7455: Tinga...
- 7456: ...
- 7457: I'm glad I had the chance to meet you.
- 7458: Who cares? Why don't you leave already?
- 7459: I wish there was more I could've done for you...
- 7460: I said get lost already!
- 7461: Everything has gone downhill since I met you.
- 7462: ...
- 7463: If you hadn't interfered, some rich family might have adopted me instead.
- 7464: I really wish you had just left me alone!
- 7465: But now it looks like I'm finally gettin' rid of you.
- 7466: I...
- 7467: I'm sorry...
- 7468: <Player>. Ahaadah. Thank you for all your help.
- 7469: Alcander...
- 7470: It's fine, really. No one is to blame for this.
- 7471: That child certainly is a handful.
- 7472: What are we supposed to do with him?
- 7473: Who would take him in?
- 7474: Especially after that adventurer set him on the wrong path...
- 7475: You don't know what you're talkin' about!
- 7476: Alcander didn't do nothin' wrong! I'm the bad one!
- 7477: Who was the one who looked after me when I was all alone? Not one of you, that's for darn sure!
- 7478: Alcander was the only person who ever looked out for me!
- 7479: What the...!
- 7480: What's going on here, Tinga? I thought you hated Alcander!
- 7481: He's my best friend...
- 7482: If that's true, then why do all those terrible things? You've forced him away from you.
- 7483: I did it because I want him to stay with me...
- 7484: I know he's really sick and won't be around much longer, so...
- 7485: Ghosts always come out at night, you know.
- 7486: Why's that?
- 7487: Because it's scarier that way. Ghosts only show up when they hate someone enough to stay in this world.
- 7488: Is that true?
- 7489: Of course it's true. They come back to haunt the people who hurt them in life. That's what makes them so scary!
- 7490: I figured if Alcander hated me enough, then he would come back as a ghost...
- 7491: Then I could see him all the time...
- 7492: I see now... You poor child...
- 7493: But listen to me, Tinga. What you're planning is selfish.
- 7494: It means that Alcander must spend eternity feeling only hate and anger.
- 7495: Is that a fate you would wish for yourself?
- 7496: What's wrong, kid?
- 7497: Don't worry, everything will be okay. I was alone, too, but now I've met you.
- 7498: It's good to have friends, don't you think?
- 7499: I can't let this happen...!
- 7500: No, child! It's too dangerous out there!
- 7501: You have to bring them back.
- 7502: Who knows what creatures are lurking beyond the city walls?
- 7503: What do you say? [Leave it to me./Not my problem.]
- 7504: Have you no heart? You can't stand by and do nothing.
- 7505: Thank you. They can't have gone far. You can catch them if you hurry.
- 7506: You... You're that adventurer...
- 7507: Leave me be. I'm done for...
- 7508: Thank you... I am in your debt again.
- 7509: Although your effort may have been in vain... There is not much...
- 7510: Alcander!
- 7511: Tinga!? What are you doing out here? You could get hurt!
- 7512: Thank you for saving him...
- 7513: Tinga...?
- 7514: I knew somethin' was wrong. Even when I was causin' all that trouble so you'd come and see me. You were tryin' so hard to get me into that guild...
- 7515: ...
- 7516: I couldn't take it no more! All that worryin' about what's gonna happen to me after you go away!
- 7517: Think about livin' instead! I don't want you to go!
- 7518: Tinga... I became so afraid when I could no longer wield a sword.
- 7519: I felt so alone. Even though I know that's not true...
- 7520: I've been saying this whole time how I want to save you from your fate.
- 7521: But I had it wrong.
- 7522: Tinga... You're the one who saved me.
- 7523: You're right. There's still time for me.
- 7524: I can't just give up. Somewhere in this big, wide world there must be a cure for my illness.
- 7525: And you. This is for saving my life. I hope it aids you in your adventures.
- 7526: You really should learn a trade, Tinga. You have to learn to stand on your own two feet.
- 7527: Okay.
- 7528: Meet me at Port Al Zahbi towards the south of town. Tinga spends much of his time there, and a little performance may be enough to draw the attention of our little fugitive.
- 7529: My apologies. I was accosted by a customer. Tinga should be running around the port somewhere. I shall join you in the chase momentarily.
- 7530: Tinga must have followed Alcander out into Bhaflau Thickets. They probably haven't gone far.
- 7531: You are their only hope. Alcander may have once been an adventurer, but his illness... He is in no shape to defend himself from the savage creatures out there... You must hurry!
- 7532: Alcander and Tinga are safe? That is good news. And they have begun a journey to search for a cure? I do hope they find one...
- 7533: This is the Mamool Ja staging point. What are you here for?
- 7534: You are trespassing on Imperial Army territory. If you have not received authorization, then you must leave at once!
- 7535: This is the Mamool Ja staging point. You are on Imperial terri...what's this?
- 7536: You have something to say? Out with it, now.
- 7537: Show him the $3? [Yes./I have nothing to say.]
- 7538: You show the $3 to the Immortal.
- 7539: Daswil grins slightly.
- 7540: Oho, so you brought me $6! You must be one of Naja's messengers.
- 7541: This $3 contains oil from a berry that can only be found in a nation that lies to the far south, called Zhwa. It takes days to extract the oil. This is a highly valuable item...
- 7542: Stationed out in this forsaken land without all the trimmings of home, the scent of this oil is our only comfort.
- 7543: You'll have to pardon me. I owe you for your kind service.
- 7544: Hopefully you will find this information valuable...
- 7545: Do you see the glowing, blue design a bit behind you?
- 7546: That is a "runic portal." Runic portals are used for transport to distant locations.
- 7547: They are a product of the great wisdom of Aht Urhgan's honorable alchemists. It functions by wondrous principles that are completely unfathomable to me.
- 7548: You don't need to understand how it works to be impressed by the runic portals, though. Simply use it, and then you will truly understand its excellence.
- 7549: A few hours' walk from here will take you to Al Zahbi, but with the runic portal, you can be there in the wink of an eye!
- 7550: Not only that, but if you travel to the capital from here, henceforth you will be able to return to this place using the same method!
- 7551: If you should ever have urgent business here at the Mamool Ja staging point, you can make good use of the runic portal.
- 7552: Is that so? Then you are trespassing on Imperial territory. Withdraw at once!
- 7553: Remember to use the runic portal if you ever have pressing business here at the Mamool Ja staging point.
- 7554: <Player>'s mercenary badge flashes.
- 7555: The mark of the wildcat? Did you become a mercenary for Salaheem's Sentinels?
- 7556: Oho! That's great! Naja has got you wrapped around her paw now, eh?
- 7557: You hand over the $3 to the Immortal.
- 7558: Your Imperial Standing has increased!
- 7559: There is nothing out of the ordinary here.
- 7560: You can hear a strange voice... "Items, items, la la la la la`t"
- 7561: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7562: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7563: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7564: Now, listen close...
- 7565: Oh... Well, if that's the case, I'm outta here.
- 7566: The Goblin slipped away when you were not looking...
- 7567: You can hear a strange, raspy voice...
- 7568: I travel......hear lots... Hear...stories... Can tell...if...
- 7569: .........listen......
- 7570: Oh...... ...outta here.........
- 7571: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7572: What story would you like to be told? [On second thought, maybe later./The Prankster(pt.1)./The Prankster(pt.2)./Immortal Sentries./Beginnings.]
- 7573: 
+ 7321: @
+ 7322: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7323: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7324: The gate is firmly closed...
+ 7325: You must move closer.
+ 7326: This gate guards an area under Imperial control.
+ 7327: "Azouph Isle Staging Point."
+ 7328: "Mamool Ja Staging Point."
+ 7329: "Halvung Staging Point."
+ 7330: "Dvucca Isle Staging Point."
+ 7331: "Ilrusi Atoll Staging Point."
+ 7332: "Nyzul Isle Staging Point."
+ 7333: Enter the gate? [Yes./No.]
+ 7334: Leave through the gate? [Yes./No.]
+ 7335: Use the device? [Yes./No.]
+ 7336: You cannot leave this area while in the possession of $3.
+ 7337: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
+ 7338: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
+ 7339: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
+ 7340: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
+ 7341: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
+ 7342: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
+ 7343: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
+ 7344: This is a restricted area.
+ 7345: There is no response...
+ 7346: You're a mercenary from Salaheem's Sentinels?
+ 7347: This tunnel leads to the Alzadaal Undersea Ruins.
+ 7348: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+ 7349: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+ 7350: The fee for entering the ruins comes to $1 $0 .
+ 7351: Very well. You may proceed.
+ 7352: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+ 7353: Leave the ruins? [Yes, I'm done here./Not just yet.]
+ 7354: DEBUG: You return your entry ticket.
+ 7355: If you need a map of the ruins, you can purchase one for $1 $0 .
+ 7356: Here is your $3. Keep it in a safe place.
+ 7357: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
+ 7358: You have a $3? Let me have a closer look at that...
+ 7359: $!7. $3}$3 [$3W$3$3$P15:P%{$10p$P10h%L7ifI
+ 7360: $3~$3b$3V$3 $3$20T$6p$P11IqEKI [11/12/13]
+ 7361: $P10h%L$s [5$3`$3F$3b$3N$6B /
+ 7362: $P12J$P10M$8$P14sB
+ 7363: $3A$3C$3e$3 <Player>x/\9qE5=B
+ 7364: $P12N)*$P10h%L$l [F$6E7$4260453F$P11RADKB]
+ 7365: $P10h%L5\5=$7406152E`"")g$3g$3[$3h7jN$3998261$3G$3$3AI$P14rWif$23599041$P13x%b5$|/iF$P10h%L $13$P12D>fI
+ 7366: $30<Player>uHLE$P10h%LE+\9qE5=B
+ 7367: $0*$P15TAD+\5=B
+ 7368: Enter Aht Urhgan Whitegate? [Yes./No.]
+ 7369: Press a button to continue.
+ 7370: There is nothing out of the ordinary here.
+ 7371: Now is not the time for that!
+ 7372: Good day to you, adventurer. The passage over there leads to the Alchemists' Guild.
+ 7373: Long have I practiced the art of alchemy, yet I do not find myself becoming bored. It truly is fascinating...
+ 7374: No! Lemme go!
+ 7375: Stop that! Behave yourself!
+ 7376: Again, you come before me... Nothing has changed since the last time.
+ 7377: Please, won't you reconsider?
+ 7378: This child has nimble fingers and would soon pick up the trade if he were to live at the guild...
+ 7379: Yes, and he uses those nimble fingers to pilfer my goods!
+ 7380: What have you done with those herbs and vials?
+ 7381: Ah, what are you gripin' about? It was just a bunch of junk anyway.
+ 7382: Tinga! Mind your manners!
+ 7383: Who asked you!? I don't need no stinkin' job! If you love this place so much, why don't you work here!?
+ 7384: I won't always be around to take care of you. Try to understand.
+ 7385: I don't need no one to take care of me! Stay out of my life!
+ 7386: <Sigh>... I'm sorry you had to see that.
+ 7387: You're an adventurer, right? I've done a fair share of adventuring myself, traveling the world with my sword and my wits.
+ 7388: It was not long after I arrived in Al Zahbi when I ran into Tinga.
+ 7389: He had lost both his parents... An orphan...
+ 7390: I tried to find somebody to take him in, but every door was slammed in my face.
+ 7391: So I decided to look after him for a time and found myself getting attached to the little scamp...
+ 7392: I couldn't just leave him and pick up my adventures again.
+ 7393: I was going to continue my mercenary work here and raise Tinga as my own...
+ 7394: But then I realized I could no longer swing a sword. It seems I've contracted some sort of illness...
+ 7395: The doctor says there is not much time left for me.
+ 7396: Before I pass from this life, I want to make sure Tinga has some way to support himself.
+ 7397: Well, you can see how well that effort is going. He has no mind to begin a trade and is only interested in causing mischief.
+ 7398: But deep down, I know he's a good kid.
+ 7399: What do you say? Do you think you can help out a fellow adventurer?
+ 7400: I need you to help me turn his life around.
+ 7401: Any time I try to have a serious talk with him, he just runs away...
+ 7402: To tell the truth, I have no idea where he is most of the time.
+ 7403: Quite the dilemma. Perhaps I may be of assistance?
+ 7404: !!!
+ 7405: You would help us!?
+ 7406: I'm not so cold-hearted as all that.
+ 7407: The problem is how to draw Tinga out of hiding...
+ 7408: How about we pretend to leave this $0 behind by mistake?
+ 7409: Excellent. Please go on ahead. I shall join you once my work here is done for the day.
+ 7410: Thank you, Ahaadah.
+ 7411: Hail! I trust I did not keep you waiting too long? Have you brought the item I requested?
+ 7412: (Play the part of a merchant. Just follow my lead.)
+ 7413: Yes! This is exactly what I was searching for! You've done well to obtain such an extraordinarily rare item!
+ 7414: What's this!? You say you have something even more impressive for sale? Well then, my good merchant, lead on!
+ 7415: Well, well. Look who decided to show up.
+ 7416: Hey! Come back here!
+ 7417: Aha. Nowhere left to run.
+ 7418: What's wrong with you!? Do you want my autograph that bad!?
+ 7419: Spare me your witty comments and return the item you stole.
+ 7420: I didn't steal nothin'! I just picked it up!
+ 7421: Enough is enough! You will return everything you've taken from my store!
+ 7422: If you do as you're told, I might even reconsider the request to take you as my pupil.
+ 7423: That old junk? I threw it away already.
+ 7424: Threw it away...! Why even take it in the first place!?
+ 7425: Heh heh. You're not alone, if it makes you feel any better.
+ 7426: These saucers are from the Shararat Teahouse.
+ 7427: These clothes are from Imeeya's store.
+ 7428: And this carpet I got from Yazweel's place.
+ 7429: I swiped all this stuff in half a day! You grownups are so pathetic!
+ 7430: Not that I need any of it...
+ 7431: You little...
+ 7432: You got somethin' to say to me? Don't worry, none of that junk I just dropped was yours.
+ 7433: That's the final straw!
+ 7434: I've been lenient since you're just a child, but...
+ 7435: You go too far!
+ 7436: Give me back my carpet!
+ 7437: Oh, calm down already.
+ 7438: Calm down!? I'm going to go out of business if you break any more of my crockery!
+ 7439: And you were the one who poked holes in all of my wares, weren't you!?
+ 7440: My carpet!
+ 7441: What's going on here?
+ 7442: You...
+ 7443: Tinga has ruined all of our livelihoods.
+ 7444: Is this true, Tinga?
+ 7445: So what if it is?
+ 7446: Then you must apologize to everyone and give back all the things you took.
+ 7447: What am I supposed to do with a pile of broken cups!?
+ 7448: We don't need your kind around here!
+ 7449: You probably put the child up to this in the first place!
+ 7450: I never...! How could you...!?
+ 7451: You're too sick to work and can't earn a living anymore. Isn't that right, adventurer?
+ 7452: I knew you foreign adventurers were up to no good!
+ 7453: Take your sneaking accomplice and get out of our city!
+ 7454: Very well. I'll leave if that's what you want.
+ 7455: But please, let Tinga stay. He's just a child.
+ 7456: Tinga...
+ 7457: ...
+ 7458: I'm glad I had the chance to meet you.
+ 7459: Who cares? Why don't you leave already?
+ 7460: I wish there was more I could've done for you...
+ 7461: I said get lost already!
+ 7462: Everything has gone downhill since I met you.
+ 7463: ...
+ 7464: If you hadn't interfered, some rich family might have adopted me instead.
+ 7465: I really wish you had just left me alone!
+ 7466: But now it looks like I'm finally gettin' rid of you.
+ 7467: I...
+ 7468: I'm sorry...
+ 7469: <Player>. Ahaadah. Thank you for all your help.
+ 7470: Alcander...
+ 7471: It's fine, really. No one is to blame for this.
+ 7472: That child certainly is a handful.
+ 7473: What are we supposed to do with him?
+ 7474: Who would take him in?
+ 7475: Especially after that adventurer set him on the wrong path...
+ 7476: You don't know what you're talkin' about!
+ 7477: Alcander didn't do nothin' wrong! I'm the bad one!
+ 7478: Who was the one who looked after me when I was all alone? Not one of you, that's for darn sure!
+ 7479: Alcander was the only person who ever looked out for me!
+ 7480: What the...!
+ 7481: What's going on here, Tinga? I thought you hated Alcander!
+ 7482: He's my best friend...
+ 7483: If that's true, then why do all those terrible things? You've forced him away from you.
+ 7484: I did it because I want him to stay with me...
+ 7485: I know he's really sick and won't be around much longer, so...
+ 7486: Ghosts always come out at night, you know.
+ 7487: Why's that?
+ 7488: Because it's scarier that way. Ghosts only show up when they hate someone enough to stay in this world.
+ 7489: Is that true?
+ 7490: Of course it's true. They come back to haunt the people who hurt them in life. That's what makes them so scary!
+ 7491: I figured if Alcander hated me enough, then he would come back as a ghost...
+ 7492: Then I could see him all the time...
+ 7493: I see now... You poor child...
+ 7494: But listen to me, Tinga. What you're planning is selfish.
+ 7495: It means that Alcander must spend eternity feeling only hate and anger.
+ 7496: Is that a fate you would wish for yourself?
+ 7497: What's wrong, kid?
+ 7498: Don't worry, everything will be okay. I was alone, too, but now I've met you.
+ 7499: It's good to have friends, don't you think?
+ 7500: I can't let this happen...!
+ 7501: No, child! It's too dangerous out there!
+ 7502: You have to bring them back.
+ 7503: Who knows what creatures are lurking beyond the city walls?
+ 7504: What do you say? [Leave it to me./Not my problem.]
+ 7505: Have you no heart? You can't stand by and do nothing.
+ 7506: Thank you. They can't have gone far. You can catch them if you hurry.
+ 7507: You... You're that adventurer...
+ 7508: Leave me be. I'm done for...
+ 7509: Thank you... I am in your debt again.
+ 7510: Although your effort may have been in vain... There is not much...
+ 7511: Alcander!
+ 7512: Tinga!? What are you doing out here? You could get hurt!
+ 7513: Thank you for saving him...
+ 7514: Tinga...?
+ 7515: I knew somethin' was wrong. Even when I was causin' all that trouble so you'd come and see me. You were tryin' so hard to get me into that guild...
+ 7516: ...
+ 7517: I couldn't take it no more! All that worryin' about what's gonna happen to me after you go away!
+ 7518: Think about livin' instead! I don't want you to go!
+ 7519: Tinga... I became so afraid when I could no longer wield a sword.
+ 7520: I felt so alone. Even though I know that's not true...
+ 7521: I've been saying this whole time how I want to save you from your fate.
+ 7522: But I had it wrong.
+ 7523: Tinga... You're the one who saved me.
+ 7524: You're right. There's still time for me.
+ 7525: I can't just give up. Somewhere in this big, wide world there must be a cure for my illness.
+ 7526: And you. This is for saving my life. I hope it aids you in your adventures.
+ 7527: You really should learn a trade, Tinga. You have to learn to stand on your own two feet.
+ 7528: Okay.
+ 7529: Meet me at Port Al Zahbi towards the south of town. Tinga spends much of his time there, and a little performance may be enough to draw the attention of our little fugitive.
+ 7530: My apologies. I was accosted by a customer. Tinga should be running around the port somewhere. I shall join you in the chase momentarily.
+ 7531: Tinga must have followed Alcander out into Bhaflau Thickets. They probably haven't gone far.
+ 7532: You are their only hope. Alcander may have once been an adventurer, but his illness... He is in no shape to defend himself from the savage creatures out there... You must hurry!
+ 7533: Alcander and Tinga are safe? That is good news. And they have begun a journey to search for a cure? I do hope they find one...
+ 7534: This is the Mamool Ja staging point. What are you here for?
+ 7535: You are trespassing on Imperial Army territory. If you have not received authorization, then you must leave at once!
+ 7536: This is the Mamool Ja staging point. You are on Imperial terri...what's this?
+ 7537: You have something to say? Out with it, now.
+ 7538: Show him the $3? [Yes./I have nothing to say.]
+ 7539: You show the $3 to the Immortal.
+ 7540: Daswil grins slightly.
+ 7541: Oho, so you brought me $6! You must be one of Naja's messengers.
+ 7542: This $3 contains oil from a berry that can only be found in a nation that lies to the far south, called Zhwa. It takes days to extract the oil. This is a highly valuable item...
+ 7543: Stationed out in this forsaken land without all the trimmings of home, the scent of this oil is our only comfort.
+ 7544: You'll have to pardon me. I owe you for your kind service.
+ 7545: Hopefully you will find this information valuable...
+ 7546: Do you see the glowing, blue design a bit behind you?
+ 7547: That is a "runic portal." Runic portals are used for transport to distant locations.
+ 7548: They are a product of the great wisdom of Aht Urhgan's honorable alchemists. It functions by wondrous principles that are completely unfathomable to me.
+ 7549: You don't need to understand how it works to be impressed by the runic portals, though. Simply use it, and then you will truly understand its excellence.
+ 7550: A few hours' walk from here will take you to Al Zahbi, but with the runic portal, you can be there in the wink of an eye!
+ 7551: Not only that, but if you travel to the capital from here, henceforth you will be able to return to this place using the same method!
+ 7552: If you should ever have urgent business here at the Mamool Ja staging point, you can make good use of the runic portal.
+ 7553: Is that so? Then you are trespassing on Imperial territory. Withdraw at once!
+ 7554: Remember to use the runic portal if you ever have pressing business here at the Mamool Ja staging point.
+ 7555: <Player>'s mercenary badge flashes.
+ 7556: The mark of the wildcat? Did you become a mercenary for Salaheem's Sentinels?
+ 7557: Oho! That's great! Naja has got you wrapped around her paw now, eh?
+ 7558: You hand over the $3 to the Immortal.
+ 7559: Your Imperial Standing has increased!
+ 7560: There is nothing out of the ordinary here.
+ 7561: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7562: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7563: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7564: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7565: Now, listen close...
+ 7566: Oh... Well, if that's the case, I'm outta here.
+ 7567: The Goblin slipped away when you were not looking...
+ 7568: You can hear a strange, raspy voice...
+ 7569: I travel......hear lots... Hear...stories... Can tell...if...
+ 7570: .........listen......
+ 7571: Oh...... ...outta here.........
+ 7572: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7573: What story would you like to be told? [On second thought, maybe later./The Prankster(pt.1)./The Prankster(pt.2)./Immortal Sentries./Beginnings.]
  7574: 
  7575: 
- 7576: Harvesting is possible here if you have $0.
- 7577: Probability of loss = $3/10000.
- 7578: Your $7 breaks!
- 7579: You successfully harvest $0!
- 7580: You harvest $0, but your $7 breaks.
- 7581: You are unable to harvest anything.
- 7582: You cannot carry any more items. Your inventory is full.
- 7583: You have a feeling you might find something here!
- 7584: A sudden chill sweeps over you...
- 7585: Nothing happens...
- 7586: You must move closer to the target.
- 7587: The suggested level for $0 is $3. Place a level restriction on the party?
- 7588: Place a level restriction? [No./Level 70./Level 60./Level 50.]
- 7589: Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0."
- 7590: Accept this setting? [Yes./No./Change setting.]
- 7591: Accept this setting? [Yes./No.]
- 7592: Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
- 7593: Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
- 7594: All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?
- 7595: Are you ready? [Yes./No.]
- 7596: Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
- 7597: Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended.
- 7598: An error has occurred. You were unable to enter the area.
- 7599: You cannot enter at this time. Please wait a while before trying again.
- 7600: This area is fully occupied. You were unable to enter.
- 7601: Could not connect to server.
- 7602: Connecting to server. Please wait.
- 7603: The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
- 7604: Not all of your party members meet the requirements for this objective. Unable to enter area.
- 7605: Your party does not meet the requirements for this Assault mission.
- 7606: You are not in possession of $6. Unable to enter area.
- 7607: Your party does not meet the minimum required number of $0 members. Unable to enter area.
- 7608: One or more party members are too far away from the entrance. Unable to enter area.
- 7609: One or more party members are carrying imbued items. Unable to enter area.
- 7610: You are carrying imbued items. Unable to enter area.
- 7611: One or more party members do not meet the level requirement (Lv. $0). Unable to enter area.
- 7612: You do not have the appropriate mythic weapon equipped. Unable to enter area.
- 7613: You can only participate once per Earth day. Please try again later.
- 7614: You are unable to participate because one or more of your party members has not achieved master status in his job.
- 7615: Which objective will you attempt? [None./$0./The Gathering Storm.]
- 7616: Dummy.
- 7617: The Ahmibi Watchtower door is locked.
- 7618: Greetings, mercenary. I am % of the Immortals.
- 7619: You are here on an Assault mission? Then you'll be wanting command verification.
- 7620: Do you want command verification? [Yes./No./Command what...?]
- 7621: If you have $0 [credit/credits] available from your Imperial Standing, I will recognize your ability to lead this Assault mission.
- 7622: Receive command verification? [Yes. ($0 [credit/credits])/No.]
- 7623: Very well. Consider your command of this mission verified.
- 7624: With this in your possession, you will be able to pass through the runic seal and enter the Assault area. Good luck.
- 7625: I cannot entrust leadership of a mission to a mercenary with such an unimpressive standing. Return to me when you are worthy.
- 7626: You refuse to assume leadership? Perhaps you should make that decision before you speak to me.
- 7627: No? Then I suggest you complete your preparations and await your leader's orders!
- 7628: Receiving command verification will authorize you to begin an Assault mission.
- 7629: Naturally, you are also charged with the responsibility of making sure your party members are ready to enter the Assault area.
- 7630: However, successfully completing an Assault mission under your command will most certainly improve your standing with the Empire.
- 7631: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
- 7632: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
- 7633: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
- 7634: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7635: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7636: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7637: Al Zahbi is Besieged! Defend the Astral Candescence!
- 7638: Al Zahbi is no longer Besieged.
- 7639: The beastmen have retreated.
- 7640: The Mamool Ja Savages have retreated.
- 7641: The Troll Mercenaries have retreated.
- 7642: The Undead Swarm has retreated.
- 7643: Al Zahbi has recovered the Astral Candescence.
- 7644: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
- 7645: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
- 7646: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
- 7647: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
- 7648: --------------/ : ($P12n [$5$30$Tj]
- 7649: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
- 7650: ydiff:$0zglobal:$1 own:$2 kind:$3
- 7651: yinfo:$0zwait:$1 kind:$2 kind_old:$3
- 7652: act:$0 node_speed_fix:$1 dst_node:$2 :$3
- 7653: NodeTarget:$0 POS($1 $2 $3)
- 7654: NodeNow:$0 POS($1 $2 $3)
- 7655: move_kind:$0 move_result:$1 same_count:$2 old:$3
- 7656: That mark... Well, well. Well, indeed...
- 7657: Gwahahahaha!
- 7658: Were Naja's little errands not enough to satisfy your lust for power?
- 7659: Wonderful! That is how it should be--mortals striving to be more than ordinary.
- 7660: The world teaches us this is so. You've brought a smile to my face!
- 7661: Let's see if I can't do the same for you.
- 7662: Oho, you're stronger than you look. Your ambition has tempered your will.
- 7663: Gwahahahaha! You know how to get on my good side!
- 7664: It's as I told you--mortals were meant to seek power. But do not drown in its embrace!
- 7665: Blue magic is the power of the beast within. As mortals, we can only control a small portion of this strength.
- 7666: If you forget this fact, and open the floodgates... Your very self will be washed away...
- 7667: Remember these words as the beast gnaws on your heart.
- 7668: The water in this spring is an unusual color...
- 7669: You collect a sample of the water.
- 7670: You no longer need the water from this spring.
- 7671: You do not need any more water from this spring.
- 7672: <Player> presses the $3 into the Warhorse Hoofprint!
- 7673: You sense an ominous presence...
- 7674: The heady fragrance of wine pervades the air...
- 7675: Minute glittering fragments are scattered all over...
- 7676: Broken shards of insect wing are scattered all over...
- 7677: The ground is strewn with shed leaves...
- 7678: Piles of pamama peels litter the ground...
- 7679: The ground is smeared with bloodstains...
- 7680: Numerous strands of hair are scattered all over...
- 7681: Broken shards of insect wing are scattered all over...
- 7682: A sickly sweet fragrance pervades the air...
- 7683: An acidic odor pervades the air...
- 7684: A putrid odor threatens to overwhelm you...
- 7685: The ground is smeared with bloodstains...
- 7686: An acidic odor pervades the air...
- 7687: A sickly sweet fragrance pervades the air...
- 7688: A stifling stench pervades the air...
- 7689: The ground is carpeted in a thin layer of cinder.
- 7690: A sickly sweet fragrance pervades the air...
- 7691: The ground is strewn with shed leaves...
- 7692: A sickly sweet fragrance pervades the air...
- 7693: The ground here is slimy to the touch...
- 7694: A stifling stench pervades the air...
- 7695: Shredded scraps of paper are scattered all over...
- 7696: The ground is strewn with shed leaves...
- 7697: A stifling stench pervades the air...
- 7698: Minute glittering fragments are scattered all over...
- 7699: Light, fluttery objects litter the ground...
- 7700: A sickly sweet fragrance pervades the air...
- 7701: Minute glittering fragments are scattered all over...
- 7702: The ground here is slimy to the touch...
- 7703: The ground is smeared with bloodstains...
- 7704: Something draws near!
- 7705: There is nothing out of the ordinary here.
- 7706: Hey ho, adventurer! Might you be the one who summoned me? Only folks who've ventured to Vana'diel via an unnamed mystical gateway have the ability to do so, kupo.
- 7707: Casting and removing moogle magic on adventurers like yourself is my specialty, kupo. What's the magic for, you ask? You could say it's a ticket for entry into battlefields from which abundant honor can be won!
- 7708: Let's see... It appears you['ve yet to receive the enchantment/ already have the enchantment], kupo.
- 7709: Would you like to [receive the enchantment/have the enchantment removed]?
- 7710: [Receive the enchantment/Have the enchantment removed]? [Yes, please./No, thanks.]
- 7711: Your wish is my command!
- 7712: Please remember that the enchantment will wear off the next time you step through the unnamed mystical gateway. But never fear! I'm always here at your hopelessly humble service, kupo!
- 7713: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7714: Set this as current home point? [Yes./No.]
- 7715: Home point set!
- 7716: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7717: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7718: You have registered a new home point! You are now able to teleport here from any other home point.
- 7719: You may teleport from here to any other home point you have registered.
- 7720: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7721: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7722: You have not yet registered any other home points, and thus are unable to teleport.
- 7723: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7724: There is no fee for teleporting to Home Point #$2 in $8.
- 7725: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7726: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7727: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7728: You may change the method of selecting the area of your desired home point to teleport to.
- 7729: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7730: You are now selecting by [region/expansion].
- 7731: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7732: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7733: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7734: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7576: 
+ 7577: Harvesting is possible here if you have $0.
+ 7578: Probability of loss = $3/10000.
+ 7579: Your $7 breaks!
+ 7580: You successfully harvest $0!
+ 7581: You harvest $0, but your $7 breaks.
+ 7582: You are unable to harvest anything.
+ 7583: You cannot carry any more items. Your inventory is full.
+ 7584: You have a feeling you might find something here!
+ 7585: A sudden chill sweeps over you...
+ 7586: Nothing happens...
+ 7587: You must move closer to the target.
+ 7588: The suggested level for $0 is $3. Place a level restriction on the party?
+ 7589: Place a level restriction? [No./Level 70./Level 60./Level 50.]
+ 7590: Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0."
+ 7591: Accept this setting? [Yes./No./Change setting.]
+ 7592: Accept this setting? [Yes./No.]
+ 7593: Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
+ 7594: Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
+ 7595: All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?
+ 7596: Are you ready? [Yes./No.]
+ 7597: Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
+ 7598: Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended.
+ 7599: An error has occurred. You were unable to enter the area.
+ 7600: You cannot enter at this time. Please wait a while before trying again.
+ 7601: This area is fully occupied. You were unable to enter.
+ 7602: Could not connect to server.
+ 7603: Connecting to server. Please wait.
+ 7604: The order has been given to invade [the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
+ 7605: Not all of your party members meet the requirements for this objective. Unable to enter area.
+ 7606: Your party does not meet the requirements for this Assault mission.
+ 7607: You are not in possession of $6. Unable to enter area.
+ 7608: Your party does not meet the minimum required number of $0 members. Unable to enter area.
+ 7609: One or more party members are too far away from the entrance. Unable to enter area.
+ 7610: One or more party members are carrying imbued items. Unable to enter area.
+ 7611: You are carrying imbued items. Unable to enter area.
+ 7612: One or more party members do not meet the level requirement (Lv. $0). Unable to enter area.
+ 7613: You do not have the appropriate mythic weapon equipped. Unable to enter area.
+ 7614: You can only participate once per Earth day. Please try again later.
+ 7615: You are unable to participate because one or more of your party members has not achieved master status in his job.
+ 7616: Which objective will you attempt? [None./$0./The Gathering Storm.]
+ 7617: Dummy.
+ 7618: The Ahmibi Watchtower door is locked.
+ 7619: Greetings, mercenary. I am % of the Immortals.
+ 7620: You are here on an Assault mission? Then you'll be wanting command verification.
+ 7621: Do you want command verification? [Yes./No./Command what...?]
+ 7622: If you have $0 [credit/credits] available from your Imperial Standing, I will recognize your ability to lead this Assault mission.
+ 7623: Receive command verification? [Yes. ($0 [credit/credits])/No.]
+ 7624: Very well. Consider your command of this mission verified.
+ 7625: With this in your possession, you will be able to pass through the runic seal and enter the Assault area. Good luck.
+ 7626: I cannot entrust leadership of a mission to a mercenary with such an unimpressive standing. Return to me when you are worthy.
+ 7627: You refuse to assume leadership? Perhaps you should make that decision before you speak to me.
+ 7628: No? Then I suggest you complete your preparations and await your leader's orders!
+ 7629: Receiving command verification will authorize you to begin an Assault mission.
+ 7630: Naturally, you are also charged with the responsibility of making sure your party members are ready to enter the Assault area.
+ 7631: However, successfully completing an Assault mission under your command will most certainly improve your standing with the Empire.
+ 7632: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
+ 7633: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
+ 7634: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
+ 7635: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7636: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7637: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7638: Al Zahbi is Besieged! Defend the Astral Candescence!
+ 7639: Al Zahbi is no longer Besieged.
+ 7640: The beastmen have retreated.
+ 7641: The Mamool Ja Savages have retreated.
+ 7642: The Troll Mercenaries have retreated.
+ 7643: The Undead Swarm has retreated.
+ 7644: Al Zahbi has recovered the Astral Candescence.
+ 7645: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
+ 7646: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
+ 7647: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
+ 7648: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
+ 7649: --------------/ : ($P12n [$5$30$Tj]
+ 7650: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
+ 7651: ydiff:$0zglobal:$1 own:$2 kind:$3
+ 7652: yinfo:$0zwait:$1 kind:$2 kind_old:$3
+ 7653: act:$0 node_speed_fix:$1 dst_node:$2 :$3
+ 7654: NodeTarget:$0 POS($1 $2 $3)
+ 7655: NodeNow:$0 POS($1 $2 $3)
+ 7656: move_kind:$0 move_result:$1 same_count:$2 old:$3
+ 7657: That mark... Well, well. Well, indeed...
+ 7658: Gwahahahaha!
+ 7659: Were Naja's little errands not enough to satisfy your lust for power?
+ 7660: Wonderful! That is how it should be--mortals striving to be more than ordinary.
+ 7661: The world teaches us this is so. You've brought a smile to my face!
+ 7662: Let's see if I can't do the same for you.
+ 7663: Oho, you're stronger than you look. Your ambition has tempered your will.
+ 7664: Gwahahahaha! You know how to get on my good side!
+ 7665: It's as I told you--mortals were meant to seek power. But do not drown in its embrace!
+ 7666: Blue magic is the power of the beast within. As mortals, we can only control a small portion of this strength.
+ 7667: If you forget this fact, and open the floodgates... Your very self will be washed away...
+ 7668: Remember these words as the beast gnaws on your heart.
+ 7669: The water in this spring is an unusual color...
+ 7670: You collect a sample of the water.
+ 7671: You no longer need the water from this spring.
+ 7672: You do not need any more water from this spring.
+ 7673: <Player> presses the $3 into the Warhorse Hoofprint!
+ 7674: You sense an ominous presence...
+ 7675: The heady fragrance of wine pervades the air...
+ 7676: Minute glittering fragments are scattered all over...
+ 7677: Broken shards of insect wing are scattered all over...
+ 7678: The ground is strewn with shed leaves...
+ 7679: Piles of pamama peels litter the ground...
+ 7680: The ground is smeared with bloodstains...
+ 7681: Numerous strands of hair are scattered all over...
+ 7682: Broken shards of insect wing are scattered all over...
+ 7683: A sickly sweet fragrance pervades the air...
+ 7684: An acidic odor pervades the air...
+ 7685: A putrid odor threatens to overwhelm you...
+ 7686: The ground is smeared with bloodstains...
+ 7687: An acidic odor pervades the air...
+ 7688: A sickly sweet fragrance pervades the air...
+ 7689: A stifling stench pervades the air...
+ 7690: The ground is carpeted in a thin layer of cinder.
+ 7691: A sickly sweet fragrance pervades the air...
+ 7692: The ground is strewn with shed leaves...
+ 7693: A sickly sweet fragrance pervades the air...
+ 7694: The ground here is slimy to the touch...
+ 7695: A stifling stench pervades the air...
+ 7696: Shredded scraps of paper are scattered all over...
+ 7697: The ground is strewn with shed leaves...
+ 7698: A stifling stench pervades the air...
+ 7699: Minute glittering fragments are scattered all over...
+ 7700: Light, fluttery objects litter the ground...
+ 7701: A sickly sweet fragrance pervades the air...
+ 7702: Minute glittering fragments are scattered all over...
+ 7703: The ground here is slimy to the touch...
+ 7704: The ground is smeared with bloodstains...
+ 7705: Something draws near!
+ 7706: There is nothing out of the ordinary here.
+ 7707: Hey ho, adventurer! Might you be the one who summoned me? Only folks who've ventured to Vana'diel via an unnamed mystical gateway have the ability to do so, kupo.
+ 7708: Casting and removing moogle magic on adventurers like yourself is my specialty, kupo. What's the magic for, you ask? You could say it's a ticket for entry into battlefields from which abundant honor can be won!
+ 7709: Let's see... It appears you['ve yet to receive the enchantment/ already have the enchantment], kupo.
+ 7710: Would you like to [receive the enchantment/have the enchantment removed]?
+ 7711: [Receive the enchantment/Have the enchantment removed]? [Yes, please./No, thanks.]
+ 7712: Your wish is my command!
+ 7713: Please remember that the enchantment will wear off the next time you step through the unnamed mystical gateway. But never fear! I'm always here at your hopelessly humble service, kupo!
+ 7714: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7715: Set this as current home point? [Yes./No.]
+ 7716: Home point set!
+ 7717: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7718: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7719: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7720: You may teleport from here to any other home point you have registered.
+ 7721: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7722: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7723: You have not yet registered any other home points, and thus are unable to teleport.
+ 7724: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7725: There is no fee for teleporting to Home Point #$2 in $8.
+ 7726: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7727: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7728: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7729: You may change the method of selecting the area of your desired home point to teleport to.
+ 7730: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7731: You are now selecting by [region/expansion].
+ 7732: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7733: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7734: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7735: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]

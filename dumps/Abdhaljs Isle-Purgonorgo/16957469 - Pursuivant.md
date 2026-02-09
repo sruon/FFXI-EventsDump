@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D20      |        7456 |
+|       0 | 0x1D21      |        7457 |
 |       1 | 0x0003      |           3 |
 |       2 | 0x00E6      |         230 |
 
 ## String References
 
-- **7456**: Back into the breach, <Player>!
+- **7457**: Back into the breach, <Player>!
 
 ## Events
 
@@ -74,7 +74,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
     → "Back into the breach, <Player>!"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x73] EventEntity casts magic 3* on LocalPlayer

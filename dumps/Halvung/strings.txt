@@ -1,5 +1,5 @@
 # Strings for Halvung
-# Total: 8165 strings
+# Total: 8166 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7065,89 +7065,89 @@
  7061: Vana'Bout No. $0 has concluded.
  7062: Obtained temporary item: $0.
  7063: Lost temporary item: $0.
- 7064: Tallying conquest results...
- 7065: Conquest results tallied.
- 7066: This region is currently under San d'Orian control.
- 7067: This region is currently under Bastokan control.
- 7068: This region is currently under Windurstian control.
- 7069: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7070: This region is currently neutral.
- 7071: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7072: All three nations are tied for first place.
- 7073: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7074: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7075: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7088: Global balance of power: All three nations are tied for first place.
- 7089: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7090: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7092: All three nations are tied for first place.
- 7093: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7095: Conquest update: This region is currently neutral.
- 7096: Conquest update: This region is currently under San d'Orian control.
- 7097: Conquest update: This region is currently under Bastokan control.
- 7098: Conquest update: This region is currently under Windurstian control.
- 7099: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7100: All three nations are at a deadlock.
- 7101: The beastmen are on the rise.
- 7102: Regional influence: San d'Oria - Dominant
- 7103: Regional influence: San d'Oria - Major
- 7104: Regional influence: San d'Oria - Minor
- 7105: Regional influence: San d'Oria - Minimal
- 7106: Bastok - Dominant
- 7107: Bastok - Major
- 7108: Bastok - Minor
- 7109: Bastok - Minimal
- 7110: Windurst - Dominant
- 7111: Windurst - Major
- 7112: Windurst - Minor
- 7113: Windurst - Minimal
- 7114: Bastok and Windurst have formed an alliance.
- 7115: San d'Oria and Windurst have formed an alliance.
- 7116: San d'Oria and Bastok have formed an alliance.
- 7117: Bastok and Windurst are currently allies.
- 7118: San d'Oria and Windurst are currently allies.
- 7119: San d'Oria and Bastok are currently allies.
- 7120: $10$P11.$17F$0 $P14;$P12hF$1
- 7121: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7122: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7123: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7124: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7125: The beastmen are gaining power.
- 7126: San d'Oria's regional control is now 10% closer to the first place country's!
- 7127: Bastok's regional control is now 10% closer to the first place country's!
- 7128: Windurst's regional control are now 10% closer to the first place country's!
- 7129: San d'Oria's region points have increased!
- 7130: Bastok's region points have increased!
- 7131: Windurst's region points have increased!
- 7132: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7133: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7134: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7135: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7136: A Bastokan Expeditionary Force has been dispatched to this area.
- 7137: A Windurstian Expeditionary Force has been dispatched to this area.
- 7138: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7139: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7140: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7141: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7142: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7143: There was a curse on the beastmen's banner!
- 7144: The curse of the beastmen's banner has been lifted!
- 7145: There is a beastmen's banner.
- 7146: @
+ 7064: It won't open.
+ 7065: Tallying conquest results...
+ 7066: Conquest results tallied.
+ 7067: This region is currently under San d'Orian control.
+ 7068: This region is currently under Bastokan control.
+ 7069: This region is currently under Windurstian control.
+ 7070: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7071: This region is currently neutral.
+ 7072: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7073: All three nations are tied for first place.
+ 7074: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7075: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7089: Global balance of power: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7093: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7096: Conquest update: This region is currently neutral.
+ 7097: Conquest update: This region is currently under San d'Orian control.
+ 7098: Conquest update: This region is currently under Bastokan control.
+ 7099: Conquest update: This region is currently under Windurstian control.
+ 7100: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7101: All three nations are at a deadlock.
+ 7102: The beastmen are on the rise.
+ 7103: Regional influence: San d'Oria - Dominant
+ 7104: Regional influence: San d'Oria - Major
+ 7105: Regional influence: San d'Oria - Minor
+ 7106: Regional influence: San d'Oria - Minimal
+ 7107: Bastok - Dominant
+ 7108: Bastok - Major
+ 7109: Bastok - Minor
+ 7110: Bastok - Minimal
+ 7111: Windurst - Dominant
+ 7112: Windurst - Major
+ 7113: Windurst - Minor
+ 7114: Windurst - Minimal
+ 7115: Bastok and Windurst have formed an alliance.
+ 7116: San d'Oria and Windurst have formed an alliance.
+ 7117: San d'Oria and Bastok have formed an alliance.
+ 7118: Bastok and Windurst are currently allies.
+ 7119: San d'Oria and Windurst are currently allies.
+ 7120: San d'Oria and Bastok are currently allies.
+ 7121: $10$P11.$17F$0 $P14;$P12hF$1
+ 7122: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7123: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7124: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7125: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7126: The beastmen are gaining power.
+ 7127: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7128: Bastok's regional control is now 10% closer to the first place country's!
+ 7129: Windurst's regional control are now 10% closer to the first place country's!
+ 7130: San d'Oria's region points have increased!
+ 7131: Bastok's region points have increased!
+ 7132: Windurst's region points have increased!
+ 7133: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7134: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7135: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7136: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7137: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7138: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7139: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7140: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7141: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7142: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7143: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7144: There was a curse on the beastmen's banner!
+ 7145: The curse of the beastmen's banner has been lifted!
+ 7146: There is a beastmen's banner.
  7147: @
  7148: @
  7149: @
@@ -7222,241 +7222,241 @@
  7218: @
  7219: @
  7220: @
- 7221: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7222: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7223: The gate is firmly closed...
- 7224: You must move closer.
- 7225: This gate guards an area under Imperial control.
- 7226: "Azouph Isle Staging Point."
- 7227: "Mamool Ja Staging Point."
- 7228: "Halvung Staging Point."
- 7229: "Dvucca Isle Staging Point."
- 7230: "Ilrusi Atoll Staging Point."
- 7231: "Nyzul Isle Staging Point."
- 7232: Enter the gate? [Yes./No.]
- 7233: Leave through the gate? [Yes./No.]
- 7234: Use the device? [Yes./No.]
- 7235: You cannot leave this area while in the possession of $3.
- 7236: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
- 7237: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
- 7238: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
- 7239: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
- 7240: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
- 7241: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
- 7242: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
- 7243: This is a restricted area.
- 7244: There is no response...
- 7245: You're a mercenary from Salaheem's Sentinels?
- 7246: This tunnel leads to the Alzadaal Undersea Ruins.
- 7247: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
- 7248: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
- 7249: The fee for entering the ruins comes to $1 $0 .
- 7250: Very well. You may proceed.
- 7251: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
- 7252: Leave the ruins? [Yes, I'm done here./Not just yet.]
- 7253: DEBUG: You return your entry ticket.
- 7254: If you need a map of the ruins, you can purchase one for $1 $0 .
- 7255: Here is your $3. Keep it in a safe place.
- 7256: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
- 7257: You have a $3? Let me have a closer look at that...
- 7258: DEBUG: Number=$0. Checking empty rooms...
- 7259: Test switch on!
- 7260: I don't want to be locked up in this funny-looking jar forrrever! Please get me out of here!
- 7261: It's so hot in here. I can't stand it any longer... Please get me out of here before I drrry up like a date!
- 7262: This place is so dank and gloomy and deprrressing... Please get me out of here!
- 7263: I owe you one! I better get back now before the weapons in my shop rrrust away to nothing!
- 7264: You're the [man/woman] who saved me! You rrreally got me out of a tight spot. Here, this is on the house!
- 7265: Step rrright up to Kahah Hobichai's Blades! We've got everything your battle-thirrrsty heart desires!
- 7266: They can't keep me cooped up in here! This is a violation of shopkeepers' rights! They think armor merchants can't fight, eh!?
- 7267: They can't keep me cooped up in here! It feels like someone's left the furnace on for three years! I've got places to go, people to see!
- 7268: They can't keep me cooped up in here! I'm lucky I equipped some of my shop's goods... This place is so cold and creepy.
- 7269: I owe you one! I'm sure my fans are waiting for me, so I had better get back before they do something drastic!
- 7270: Heeey, I recognize you. I owe my success to you! Here, you've earned this!
- 7271: Hey, how ya doin'? Welcome to the armor shop of the Ulthalam Parade's leading star--Allard, in the flesh!
- 7272: A-another person...? Please help me! I can't stand this place...too many scales...icky...
- 7273: A-another person? Please help me! I can't stand this place...too hot...I've always preferred cold weather...
- 7274: A-another person? Please help me! I can't stand this place...too much sea...I'm more of a mountain person...
- 7275: Thank you! I run a shop that sells magic scrolls...but I can't use magic... Drop by if you're ever in the area.
- 7276: Oh! I-it's you! Oh my, how should I thank you? I don't know what kind of things you like... Ah, I know... Here, take this.
- 7277: Welcome... I'm Zafif, and this is my magic shop... I hope you can find something of use here.
- 7278: Ohhh... My little legs are so waky-shaky I can't even move them!
- 7279: Ohhh... My tummy is wumble-grumbling!
- 7280: Ohhh... My legs are asleep! I can't even wove-move. What'll I do?
- 7281: Free! Freeee! Now I can go back to my shop! Thank you!
- 7282: Oh, I remember you! Here, I wound-found this in the middle drawer. Here you go, now! It's yours!
- 7283: Chayaya's Projectiles! Get your darts and more at Chayaya's Projectiles! Just don't touch the stuff in the high drawers, okay?
- 7284: Well now, I wonder where this is. I hope my chocobos are somehow getting along without me.
- 7285: I wonder how my chocobos will fare while I am locked up here...
- 7286: I wonder how much time has passed since I was captured. I am quite worried about my chocobos...
- 7287: You have my utmost gratitude. I must return to town and feed my chocobos before they grow hungry.
- 7288: You are the adventurer who saved me, are you not? I have been waiting to meet again so I could give you this.
- 7289: The Chocobo Stables are currently not open. Please come back later.
- 7290: Please save poooor Chochoroon, okay? Nothing to dooo in croood jar.
- 7291: Please save poooor Chochoroon, okay? Nothing to dooo in sooooty cage.
- 7292: Please save poooor Chochoroon, okay? Nothing to dooo behind spoooky bars.
- 7293: Nice, nice adventoorer! Thank yooo! Now Chochoroon can return to appraising mysteriooos item, okay?
- 7294: Nice adventooorer save Chochoroon, yes? Chochoroon very happy. Chochoroon give yooo present.
- 7295: This place gives me the creeps. I should've practiced using teleportation magic on myself!
- 7296: This place is going to make me melt into a puddle. I bet if you were stuck in here, you could use magic and make a grand escape, but me...
- 7297: This place is going to freeze me into a block of sub-zero gelato. I bet you could warm yourself up with fire magic, but me...
- 7298: I don't know who you are, but you're the nicest person I ever met! Thank you!
- 7299: You saved me earlier! Thank you very much! You can have this...for free!
- 7300: As I was being dragged to this dreadful place, I noticed many questionable decorations about the area. I wonder if those are a type of charm against evil...
- 7301: As I sit in this cage and reflect, I feel the "true darkness" creeping ever closer... I must return to town at once.
- 7302: There's something foul in the air here. Can you not feel it? The "true darkness" is approaching.
- 7303: I give you my thanks, adventurer. I must now make haste back to town, where I can help ward off the darkness. We shall meet again.
- 7304: You saved me from my shadowy prison. Thank you. I have no wards against the darkness now, so I am afraid you must settle with this.
- 7305: This is terrible... How will the auction house in Al Zahbi ever function without me?
- 7306: This is awful... Who will take care of the auction house while I'm gone?
- 7307: This is horrible... I've still got the keys to the auction house in my pocket! Noone'll be able to get in without them!
- 7308: Thank you! Now I can go back to town and reopen the auction house!
- 7309: I was beginning to think the auction house was going to have to shut down for good...until you saved me. Please accept my thanks.
- 7310: This auction house is renowned for its low transaction fees, and the fact that it's connected to Jeuno makes it extremely convenient!
- 7311: I was sure I could overpower the beastmen, but they were just too strong... I must strive harder if I am to face my followers again.
- 7312: I was planning to build my strength from morning until night...but all my power turned out to be useless when I really needed it.
- 7313: You've fought the beastmen so many times they don't even make a scratch on you now, right?
- 7314: Thank you. I've realized now that I must train the mind as well as the body. I must return and share this revelation!
- 7315: Thank you for freeing me earlier. I have decided to train both my body and mind from now on. Please accept this as gratitude.
- 7316: See how hard my students are working? It brings me great pleasure each day to see how much they are growing under my guidance.
- 7317: I would be devastated if anything were to happen to Her Magnificence while I was confined! You must help me!
- 7318: The Serpent Generals are under my guidance, and all I can do is wile away the days as Her Magnificence remains unguarded!
- 7319: Who will protect the Empress while I am wiling away in this prison? Even perishing here would not absolve me if she is hurt!
- 7320: Praise be to you! I shall return now and ensure the Empress's safety. May she reign a thousand years!
- 7321: Her Magnificence the Empress is safely shielded now, and it is all thanks to your efforts. You have the makings of a hero.
- 7322: The mercenaries and the Imperial Army shall fight and perish as one to shield the Empress from harm!
- 7323: May Her Magnificence reign a thousand years!
- 7324: My presence was all for naught... My failure to protect the Astral Candescence is a transgression worthy of a thousand deaths...
- 7325: Hear my plea... You mercenaries may be all that I can trust. Recover the Astral Candescence and bring it safely back to Al Zahbi...I implore you!
- 7326: Ah, [/Private Second Class /Private First Class /Superior Private /Lance Corporal /Corporal /Sergeant /Sergeant Major /Chief Sergeant /Second Lieutenant /First Lieutenant /Captain ]<Player>! It is reassuring indeed to have such a mighty ally to aid in the defense of Al Zahbi.
- 7327: I am honored to fight at your side in the name of Her Magnificence!
- 7328: Foul lizards, I damn you! Go ahead and bask in your victory. It shall be your last!
- 7329: Damn you foolish Trolls! When I get out of here, I shall bathe your dwellings in scarlet!
- 7330: You are not undead, are you? Release me from this prison now! I shall make ashes from those witches!
- 7331: ... I shall not praise you for fulfilling your duty. I will take your name, though.
- 7332: <Player>, is it? This should please you...
- 7333: You are a mercenary, are you?
- 7334: Hmph, filthy money-grubbers. Those who are controlled by money are eventually betrayed by it.
- 7335: Damn those spineless Imperial soldiers! How could they let the Astral Candescence slip out right under their very noses!?
- 7336: ...Hm? You! Yes, you! What do you think you're staring at, anyway? Go get the Astral Candescence back, and now!
- 7337: Ugh, you again. I have no patience for the mercenary mentality.
- 7338: But you do show some skill in battle. I'll give you that much, <Player>...
- 7339: I'm going to be stuck in here forrrever... I'll never get out like this...
- 7340: What if they'rrre planning to drag me off to the headsman? I...I'm scared...
- 7341: My knees start to wobble at the mere thought of those eerrrie fish people... I can't even move...
- 7342: What do you want? I was just about to bust out of there myself!
- 7343: Oh, I rrremember you. Here, this is for you.
- 7344: I-I'm not thanking you for anything. Don't get the wrrrong idea. This is just to cover the costs of your journey.
- 7345: Leave me alone. I can't stand merrrcenaries.
- 7346: Just make sure you don't get in our way when we're rrripping up the battlefield.
- 7347: How am I going to get out of this...? The...the...Astral Candescence... What'll I tell the Empress...?
- 7348: ...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!
- 7349: Hmph, just because you think you know a thing or two about me now doesn't mean I like you.
- 7350: I am a generrral. You are a mercenary. Rrremember your station.
- 7351: Hey, lizard people! I'm going to start breaking things if I don't get some food in here soon!
- 7352: Damn, it's hot in here... Hey, pipsqueak! Yes, you! Get me out of here before I dry up like a date!
- 7353: I've still got life in my bones! Unlike you mindless corpses, I need sustenance to keep moving!
- 7354: Gahahaha! You were a living person after all! I can't believe that of all people, a mercenary saved my hide!
- 7355: Hey, you're the [man/woman] who braved the beastmen to save me earlier, aren't you? Thank you! This is for you.
- 7356: When the beastmen invade, make sure you get behind us while we decimate the enemy. We wouldn't want you getting hurt now, would we?
- 7357: Gahahaha!
- 7358: Damn, we lost bad, didn't we? They even managed to take the Astral Candescence... But it's times like these...
- 7359: Gahahaha! ...that we should laugh in the face of fate and take back what's ours!
- 7360: Oho, it's you! This battle will be over in time for lunch, then. I hate to miss a meal!
- 7361: Gahahaha!
- 7362: That scent... You are a person, are you not? I am Najelith of the Galeserpent. I bid you, release me from this prison!
- 7363: Those footsteps... You are a person, are you not? I am Najelith of the Galeserpent. I bid you, release me from this prison!
- 7364: The sound of breathing... You are a living being, are you not? I am Najelith of the Galeserpent. I bid you, release me from this prison!
- 7365: Many thanks. I am Najelith of the Galeserpent--one of the five Serpent Generals. I owe my escape to you.
- 7366: Thanks to your heroic rescue, I was able to safely return to my post. I would like to show you my gratitude with this gift.
- 7367: We Serpent Generals will defend Al Zahbi with our lives.
- 7368: The mercenaries also have an important role in protecting the Empire. Do not forget that.
- 7369: The Astral Candescence is the Empress's treasure, the hope of our nation, and the bond between us...
- 7370: <Player>... I must stay here for the capital's defense... So I beg of you, please recapture the Astral Candescence for Aht Urhgan!
- 7371: <Player>, you are here to lend your strength to our defenses?
- 7372: Then let us drive back the beastmen, shoulder to shoulder!
- 7373: The door is locked. You might be able to open it with $0.
- 7374: The door is locked. You might be able to open it with $0 or $1.
- 7375: The $0 breaks!
- 7376: You cannot trade right now.
- 7377: There is no need to use the key right now...
- 7378: You unlock the door from the inside.
- 7379: <Player> successfully opened the lock with the $0!
- 7380: <Player> failed to open the lock with the $0...
- 7381: <Player> failed to open the lock with the $0 and set off a trap!
+ 7221: @
+ 7222: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7223: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7224: The gate is firmly closed...
+ 7225: You must move closer.
+ 7226: This gate guards an area under Imperial control.
+ 7227: "Azouph Isle Staging Point."
+ 7228: "Mamool Ja Staging Point."
+ 7229: "Halvung Staging Point."
+ 7230: "Dvucca Isle Staging Point."
+ 7231: "Ilrusi Atoll Staging Point."
+ 7232: "Nyzul Isle Staging Point."
+ 7233: Enter the gate? [Yes./No.]
+ 7234: Leave through the gate? [Yes./No.]
+ 7235: Use the device? [Yes./No.]
+ 7236: You cannot leave this area while in the possession of $3.
+ 7237: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
+ 7238: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
+ 7239: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
+ 7240: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
+ 7241: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
+ 7242: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
+ 7243: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
+ 7244: This is a restricted area.
+ 7245: There is no response...
+ 7246: You're a mercenary from Salaheem's Sentinels?
+ 7247: This tunnel leads to the Alzadaal Undersea Ruins.
+ 7248: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+ 7249: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+ 7250: The fee for entering the ruins comes to $1 $0 .
+ 7251: Very well. You may proceed.
+ 7252: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+ 7253: Leave the ruins? [Yes, I'm done here./Not just yet.]
+ 7254: DEBUG: You return your entry ticket.
+ 7255: If you need a map of the ruins, you can purchase one for $1 $0 .
+ 7256: Here is your $3. Keep it in a safe place.
+ 7257: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
+ 7258: You have a $3? Let me have a closer look at that...
+ 7259: DEBUG: Number=$0. Checking empty rooms...
+ 7260: Test switch on!
+ 7261: I don't want to be locked up in this funny-looking jar forrrever! Please get me out of here!
+ 7262: It's so hot in here. I can't stand it any longer... Please get me out of here before I drrry up like a date!
+ 7263: This place is so dank and gloomy and deprrressing... Please get me out of here!
+ 7264: I owe you one! I better get back now before the weapons in my shop rrrust away to nothing!
+ 7265: You're the [man/woman] who saved me! You rrreally got me out of a tight spot. Here, this is on the house!
+ 7266: Step rrright up to Kahah Hobichai's Blades! We've got everything your battle-thirrrsty heart desires!
+ 7267: They can't keep me cooped up in here! This is a violation of shopkeepers' rights! They think armor merchants can't fight, eh!?
+ 7268: They can't keep me cooped up in here! It feels like someone's left the furnace on for three years! I've got places to go, people to see!
+ 7269: They can't keep me cooped up in here! I'm lucky I equipped some of my shop's goods... This place is so cold and creepy.
+ 7270: I owe you one! I'm sure my fans are waiting for me, so I had better get back before they do something drastic!
+ 7271: Heeey, I recognize you. I owe my success to you! Here, you've earned this!
+ 7272: Hey, how ya doin'? Welcome to the armor shop of the Ulthalam Parade's leading star--Allard, in the flesh!
+ 7273: A-another person...? Please help me! I can't stand this place...too many scales...icky...
+ 7274: A-another person? Please help me! I can't stand this place...too hot...I've always preferred cold weather...
+ 7275: A-another person? Please help me! I can't stand this place...too much sea...I'm more of a mountain person...
+ 7276: Thank you! I run a shop that sells magic scrolls...but I can't use magic... Drop by if you're ever in the area.
+ 7277: Oh! I-it's you! Oh my, how should I thank you? I don't know what kind of things you like... Ah, I know... Here, take this.
+ 7278: Welcome... I'm Zafif, and this is my magic shop... I hope you can find something of use here.
+ 7279: Ohhh... My little legs are so waky-shaky I can't even move them!
+ 7280: Ohhh... My tummy is wumble-grumbling!
+ 7281: Ohhh... My legs are asleep! I can't even wove-move. What'll I do?
+ 7282: Free! Freeee! Now I can go back to my shop! Thank you!
+ 7283: Oh, I remember you! Here, I wound-found this in the middle drawer. Here you go, now! It's yours!
+ 7284: Chayaya's Projectiles! Get your darts and more at Chayaya's Projectiles! Just don't touch the stuff in the high drawers, okay?
+ 7285: Well now, I wonder where this is. I hope my chocobos are somehow getting along without me.
+ 7286: I wonder how my chocobos will fare while I am locked up here...
+ 7287: I wonder how much time has passed since I was captured. I am quite worried about my chocobos...
+ 7288: You have my utmost gratitude. I must return to town and feed my chocobos before they grow hungry.
+ 7289: You are the adventurer who saved me, are you not? I have been waiting to meet again so I could give you this.
+ 7290: The Chocobo Stables are currently not open. Please come back later.
+ 7291: Please save poooor Chochoroon, okay? Nothing to dooo in croood jar.
+ 7292: Please save poooor Chochoroon, okay? Nothing to dooo in sooooty cage.
+ 7293: Please save poooor Chochoroon, okay? Nothing to dooo behind spoooky bars.
+ 7294: Nice, nice adventoorer! Thank yooo! Now Chochoroon can return to appraising mysteriooos item, okay?
+ 7295: Nice adventooorer save Chochoroon, yes? Chochoroon very happy. Chochoroon give yooo present.
+ 7296: This place gives me the creeps. I should've practiced using teleportation magic on myself!
+ 7297: This place is going to make me melt into a puddle. I bet if you were stuck in here, you could use magic and make a grand escape, but me...
+ 7298: This place is going to freeze me into a block of sub-zero gelato. I bet you could warm yourself up with fire magic, but me...
+ 7299: I don't know who you are, but you're the nicest person I ever met! Thank you!
+ 7300: You saved me earlier! Thank you very much! You can have this...for free!
+ 7301: As I was being dragged to this dreadful place, I noticed many questionable decorations about the area. I wonder if those are a type of charm against evil...
+ 7302: As I sit in this cage and reflect, I feel the "true darkness" creeping ever closer... I must return to town at once.
+ 7303: There's something foul in the air here. Can you not feel it? The "true darkness" is approaching.
+ 7304: I give you my thanks, adventurer. I must now make haste back to town, where I can help ward off the darkness. We shall meet again.
+ 7305: You saved me from my shadowy prison. Thank you. I have no wards against the darkness now, so I am afraid you must settle with this.
+ 7306: This is terrible... How will the auction house in Al Zahbi ever function without me?
+ 7307: This is awful... Who will take care of the auction house while I'm gone?
+ 7308: This is horrible... I've still got the keys to the auction house in my pocket! Noone'll be able to get in without them!
+ 7309: Thank you! Now I can go back to town and reopen the auction house!
+ 7310: I was beginning to think the auction house was going to have to shut down for good...until you saved me. Please accept my thanks.
+ 7311: This auction house is renowned for its low transaction fees, and the fact that it's connected to Jeuno makes it extremely convenient!
+ 7312: I was sure I could overpower the beastmen, but they were just too strong... I must strive harder if I am to face my followers again.
+ 7313: I was planning to build my strength from morning until night...but all my power turned out to be useless when I really needed it.
+ 7314: You've fought the beastmen so many times they don't even make a scratch on you now, right?
+ 7315: Thank you. I've realized now that I must train the mind as well as the body. I must return and share this revelation!
+ 7316: Thank you for freeing me earlier. I have decided to train both my body and mind from now on. Please accept this as gratitude.
+ 7317: See how hard my students are working? It brings me great pleasure each day to see how much they are growing under my guidance.
+ 7318: I would be devastated if anything were to happen to Her Magnificence while I was confined! You must help me!
+ 7319: The Serpent Generals are under my guidance, and all I can do is wile away the days as Her Magnificence remains unguarded!
+ 7320: Who will protect the Empress while I am wiling away in this prison? Even perishing here would not absolve me if she is hurt!
+ 7321: Praise be to you! I shall return now and ensure the Empress's safety. May she reign a thousand years!
+ 7322: Her Magnificence the Empress is safely shielded now, and it is all thanks to your efforts. You have the makings of a hero.
+ 7323: The mercenaries and the Imperial Army shall fight and perish as one to shield the Empress from harm!
+ 7324: May Her Magnificence reign a thousand years!
+ 7325: My presence was all for naught... My failure to protect the Astral Candescence is a transgression worthy of a thousand deaths...
+ 7326: Hear my plea... You mercenaries may be all that I can trust. Recover the Astral Candescence and bring it safely back to Al Zahbi...I implore you!
+ 7327: Ah, [/Private Second Class /Private First Class /Superior Private /Lance Corporal /Corporal /Sergeant /Sergeant Major /Chief Sergeant /Second Lieutenant /First Lieutenant /Captain ]<Player>! It is reassuring indeed to have such a mighty ally to aid in the defense of Al Zahbi.
+ 7328: I am honored to fight at your side in the name of Her Magnificence!
+ 7329: Foul lizards, I damn you! Go ahead and bask in your victory. It shall be your last!
+ 7330: Damn you foolish Trolls! When I get out of here, I shall bathe your dwellings in scarlet!
+ 7331: You are not undead, are you? Release me from this prison now! I shall make ashes from those witches!
+ 7332: ... I shall not praise you for fulfilling your duty. I will take your name, though.
+ 7333: <Player>, is it? This should please you...
+ 7334: You are a mercenary, are you?
+ 7335: Hmph, filthy money-grubbers. Those who are controlled by money are eventually betrayed by it.
+ 7336: Damn those spineless Imperial soldiers! How could they let the Astral Candescence slip out right under their very noses!?
+ 7337: ...Hm? You! Yes, you! What do you think you're staring at, anyway? Go get the Astral Candescence back, and now!
+ 7338: Ugh, you again. I have no patience for the mercenary mentality.
+ 7339: But you do show some skill in battle. I'll give you that much, <Player>...
+ 7340: I'm going to be stuck in here forrrever... I'll never get out like this...
+ 7341: What if they'rrre planning to drag me off to the headsman? I...I'm scared...
+ 7342: My knees start to wobble at the mere thought of those eerrrie fish people... I can't even move...
+ 7343: What do you want? I was just about to bust out of there myself!
+ 7344: Oh, I rrremember you. Here, this is for you.
+ 7345: I-I'm not thanking you for anything. Don't get the wrrrong idea. This is just to cover the costs of your journey.
+ 7346: Leave me alone. I can't stand merrrcenaries.
+ 7347: Just make sure you don't get in our way when we're rrripping up the battlefield.
+ 7348: How am I going to get out of this...? The...the...Astral Candescence... What'll I tell the Empress...?
+ 7349: ...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!
+ 7350: Hmph, just because you think you know a thing or two about me now doesn't mean I like you.
+ 7351: I am a generrral. You are a mercenary. Rrremember your station.
+ 7352: Hey, lizard people! I'm going to start breaking things if I don't get some food in here soon!
+ 7353: Damn, it's hot in here... Hey, pipsqueak! Yes, you! Get me out of here before I dry up like a date!
+ 7354: I've still got life in my bones! Unlike you mindless corpses, I need sustenance to keep moving!
+ 7355: Gahahaha! You were a living person after all! I can't believe that of all people, a mercenary saved my hide!
+ 7356: Hey, you're the [man/woman] who braved the beastmen to save me earlier, aren't you? Thank you! This is for you.
+ 7357: When the beastmen invade, make sure you get behind us while we decimate the enemy. We wouldn't want you getting hurt now, would we?
+ 7358: Gahahaha!
+ 7359: Damn, we lost bad, didn't we? They even managed to take the Astral Candescence... But it's times like these...
+ 7360: Gahahaha! ...that we should laugh in the face of fate and take back what's ours!
+ 7361: Oho, it's you! This battle will be over in time for lunch, then. I hate to miss a meal!
+ 7362: Gahahaha!
+ 7363: That scent... You are a person, are you not? I am Najelith of the Galeserpent. I bid you, release me from this prison!
+ 7364: Those footsteps... You are a person, are you not? I am Najelith of the Galeserpent. I bid you, release me from this prison!
+ 7365: The sound of breathing... You are a living being, are you not? I am Najelith of the Galeserpent. I bid you, release me from this prison!
+ 7366: Many thanks. I am Najelith of the Galeserpent--one of the five Serpent Generals. I owe my escape to you.
+ 7367: Thanks to your heroic rescue, I was able to safely return to my post. I would like to show you my gratitude with this gift.
+ 7368: We Serpent Generals will defend Al Zahbi with our lives.
+ 7369: The mercenaries also have an important role in protecting the Empire. Do not forget that.
+ 7370: The Astral Candescence is the Empress's treasure, the hope of our nation, and the bond between us...
+ 7371: <Player>... I must stay here for the capital's defense... So I beg of you, please recapture the Astral Candescence for Aht Urhgan!
+ 7372: <Player>, you are here to lend your strength to our defenses?
+ 7373: Then let us drive back the beastmen, shoulder to shoulder!
+ 7374: The door is locked. You might be able to open it with $0.
+ 7375: The door is locked. You might be able to open it with $0 or $1.
+ 7376: The $0 breaks!
+ 7377: You cannot trade right now.
+ 7378: There is no need to use the key right now...
+ 7379: You unlock the door from the inside.
+ 7380: <Player> successfully opened the lock with the $0!
+ 7381: <Player> failed to open the lock with the $0...
  7382: <Player> failed to open the lock with the $0 and set off a trap!
  7383: <Player> failed to open the lock with the $0 and set off a trap!
- 7384: You cannot open the cage while in a weakened state.
- 7385: You must move closer to open the cage.
- 7386: The prisoner is free. Your Imperial Standing has increased!
- 7387: <Player> rattles the bars of the cage door!
- 7388: You must move closer.
- 7389: The gate is firmly shut.
- 7390: Use the $3? [Yes./No.]
- 7391: Looking closely, you see a red bell-type symbol painted on the wood...
- 7392: You ring the red bell and hear the dull sound of something being unlocked...
- 7393: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7394: You rap on the gate using the same pattern you saw in the pictographs. You hear the creaking sound of a bar lifting on the other side of the gate.
- 7395: Listening closely, you can faintly hear the melancholy singing voice of a woman...
- 7396: All of a sudden, the tiny Merrow begins to sing... "I have longed to sing for you...the fleeting nature of life..." The other side of the door grows silent, and then you hear a voice... "Enter, foolish ones who fear us not..."
- 7397: The Astral Candescence appears to be unharmed...
- 7398: Nothing happens...
- 7399: Al Zahbi is under attack!
- 7400: The Mamool Ja Savages have breached the Balrahn Defense Line!
- 7401: The Troll Mercenaries have breached the Balrahn Defense Line!
- 7402: The Undead Swarm has breached the Balrahn Defense Line!
- 7403: They are advancing on the Imperial capital!
- 7404: Martial law has been declared in Al Zahbi! Repeating... Martial law has been declared in Al Zahbi!
- 7405: All non-combatants in the Commoners' Ward are to evacuate immediately! Repeating... All non-combatants in the Commoners' Ward are to evacuate immediately!
- 7406: The enemy is just outside our walls! All who can fight, take up your weapons and protect the gate!
- 7407: Imperial Defense Force, at your positions! Do not let the beastmen near the Hall of Binding!
- 7408: Fellow combatants!
- 7409: The future of the Empire rests on your shoulders!
- 7410: May we be victorious and bring glory to the Empress this day!
- 7411: Gahahaha!
- 7412: So our enemies think they've already won, do they?
- 7413: I'll teach them a lesson!
- 7414: Everyone, lend me your courage.
- 7415: If only we put our trust in each other...
- 7416: ...we can triumph over this threat!
- 7417: Will the Empire thrive? Or fall into ruin?
- 7418: Well? Fight and see!
- 7419: War and perish, minions! Feed all your fury and desperation into the fray!
- 7420: This is all you've got?
- 7421: Defenders of the Empire!
- 7422: Shrrred our foes into meat jerky!
- 7423: The Serpent Generals have been captured, and the fate of the Empire is now in your hands! If we shall perish, we perish together! For the Empress!
- 7424: The Serpent Generals have fallen.
- 7425: The beastmen have entered the Hall of Binding! The Astral Candescence has been taken.
- 7426: Our army...has been defeated...
- 7427: Excellent work, fellow combatants!
- 7428: Bask in the victory of the Imperial Army!
- 7429: Let us raise a triumphant cheer for Her Magnificence the Empress!
- 7430: Gahahaha!
- 7431: It's time to rejoice!
- 7432: The beastmen got a taste of our army and ran off with their tails between their legs! Rich!
- 7433: Everyone, rejoice!
- 7434: We have defeated the beastmen!
- 7435: Let us celebrate our victory!
- 7436: Damn, they retreated...
- 7437: Well, what are you all waiting for? After them!
- 7438: And don't stop until the beastmen have no safe place to turn to!
- 7439: Phew... We...we finally won...
- 7440: My brrrave defenders...
- 7441: You have earned your rrrest...
- 7442: Our enemies have retreated behind the Balrahn Line. The Imperial Army is victorious! I am sure the Empress is most pleased.
- 7443: Skyserpent General Rughadjeen has fallen.
- 7444: Flameserpent General Gadalar has fallen.
- 7445: Waterserpent General Mihli Aliapoh has fallen.
- 7446: Stoneserpent General Zazarg has fallen.
- 7447: Galeserpent General Najelith has fallen.
- 7448: All forces to the Hall of Binding! Defend the Astral Candescence!
- 7449: Enter the battlefield? [Enter./Decline.]
- 7450: Leave the battlefield? [Run away./Stay.]
- 7451: You cannot enter the battlefield at present. Please wait a little longer.
+ 7384: <Player> failed to open the lock with the $0 and set off a trap!
+ 7385: You cannot open the cage while in a weakened state.
+ 7386: You must move closer to open the cage.
+ 7387: The prisoner is free. Your Imperial Standing has increased!
+ 7388: <Player> rattles the bars of the cage door!
+ 7389: You must move closer.
+ 7390: The gate is firmly shut.
+ 7391: Use the $3? [Yes./No.]
+ 7392: Looking closely, you see a red bell-type symbol painted on the wood...
+ 7393: You ring the red bell and hear the dull sound of something being unlocked...
+ 7394: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7395: You rap on the gate using the same pattern you saw in the pictographs. You hear the creaking sound of a bar lifting on the other side of the gate.
+ 7396: Listening closely, you can faintly hear the melancholy singing voice of a woman...
+ 7397: All of a sudden, the tiny Merrow begins to sing... "I have longed to sing for you...the fleeting nature of life..." The other side of the door grows silent, and then you hear a voice... "Enter, foolish ones who fear us not..."
+ 7398: The Astral Candescence appears to be unharmed...
+ 7399: Nothing happens...
+ 7400: Al Zahbi is under attack!
+ 7401: The Mamool Ja Savages have breached the Balrahn Defense Line!
+ 7402: The Troll Mercenaries have breached the Balrahn Defense Line!
+ 7403: The Undead Swarm has breached the Balrahn Defense Line!
+ 7404: They are advancing on the Imperial capital!
+ 7405: Martial law has been declared in Al Zahbi! Repeating... Martial law has been declared in Al Zahbi!
+ 7406: All non-combatants in the Commoners' Ward are to evacuate immediately! Repeating... All non-combatants in the Commoners' Ward are to evacuate immediately!
+ 7407: The enemy is just outside our walls! All who can fight, take up your weapons and protect the gate!
+ 7408: Imperial Defense Force, at your positions! Do not let the beastmen near the Hall of Binding!
+ 7409: Fellow combatants!
+ 7410: The future of the Empire rests on your shoulders!
+ 7411: May we be victorious and bring glory to the Empress this day!
+ 7412: Gahahaha!
+ 7413: So our enemies think they've already won, do they?
+ 7414: I'll teach them a lesson!
+ 7415: Everyone, lend me your courage.
+ 7416: If only we put our trust in each other...
+ 7417: ...we can triumph over this threat!
+ 7418: Will the Empire thrive? Or fall into ruin?
+ 7419: Well? Fight and see!
+ 7420: War and perish, minions! Feed all your fury and desperation into the fray!
+ 7421: This is all you've got?
+ 7422: Defenders of the Empire!
+ 7423: Shrrred our foes into meat jerky!
+ 7424: The Serpent Generals have been captured, and the fate of the Empire is now in your hands! If we shall perish, we perish together! For the Empress!
+ 7425: The Serpent Generals have fallen.
+ 7426: The beastmen have entered the Hall of Binding! The Astral Candescence has been taken.
+ 7427: Our army...has been defeated...
+ 7428: Excellent work, fellow combatants!
+ 7429: Bask in the victory of the Imperial Army!
+ 7430: Let us raise a triumphant cheer for Her Magnificence the Empress!
+ 7431: Gahahaha!
+ 7432: It's time to rejoice!
+ 7433: The beastmen got a taste of our army and ran off with their tails between their legs! Rich!
+ 7434: Everyone, rejoice!
+ 7435: We have defeated the beastmen!
+ 7436: Let us celebrate our victory!
+ 7437: Damn, they retreated...
+ 7438: Well, what are you all waiting for? After them!
+ 7439: And don't stop until the beastmen have no safe place to turn to!
+ 7440: Phew... We...we finally won...
+ 7441: My brrrave defenders...
+ 7442: You have earned your rrrest...
+ 7443: Our enemies have retreated behind the Balrahn Line. The Imperial Army is victorious! I am sure the Empress is most pleased.
+ 7444: Skyserpent General Rughadjeen has fallen.
+ 7445: Flameserpent General Gadalar has fallen.
+ 7446: Waterserpent General Mihli Aliapoh has fallen.
+ 7447: Stoneserpent General Zazarg has fallen.
+ 7448: Galeserpent General Najelith has fallen.
+ 7449: All forces to the Hall of Binding! Defend the Astral Candescence!
+ 7450: Enter the battlefield? [Enter./Decline.]
+ 7451: Leave the battlefield? [Run away./Stay.]
  7452: You cannot enter the battlefield at present. Please wait a little longer.
- 7453: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7454: Your time in the battlefield is up! Now exiting...
- 7455: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7453: You cannot enter the battlefield at present. Please wait a little longer.
+ 7454: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7455: Your time in the battlefield is up! Now exiting...
  7456: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7457: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7458: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7466,59 +7466,59 @@
  7462: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7463: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7464: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7465: You have been enchanted so that you may enter!
- 7466: Your entry enchantment has expired!
- 7467: You are not cleared to enter the battlefield. Now exiting...
- 7468: A cursed seal has been placed upon this platform.
- 7469: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7470: There is no response. You cannot escape!
- 7471: The door is sealed shut with an evil curse.
- 7472: A mysterious force is sealing the platform.
- 7473: The old wooden door is locked tight.
- 7474: The door is sealed with a mysterious energy.
- 7475: It is a giant crystal.
- 7476: A strong magical force is whirling up from the platform.
- 7477: A fierce column of wind blocks your path. You cannot proceed any further...
- 7478: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7479: An unfathomable light is rising from this strangely marked platform...
- 7480: A heavy wooden gate. It is tightly locked...
- 7481: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7465: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7466: You have been enchanted so that you may enter!
+ 7467: Your entry enchantment has expired!
+ 7468: You are not cleared to enter the battlefield. Now exiting...
+ 7469: A cursed seal has been placed upon this platform.
+ 7470: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7471: There is no response. You cannot escape!
+ 7472: The door is sealed shut with an evil curse.
+ 7473: A mysterious force is sealing the platform.
+ 7474: The old wooden door is locked tight.
+ 7475: The door is sealed with a mysterious energy.
+ 7476: It is a giant crystal.
+ 7477: A strong magical force is whirling up from the platform.
+ 7478: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7479: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7480: An unfathomable light is rising from this strangely marked platform...
+ 7481: A heavy wooden gate. It is tightly locked...
  7482: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7483: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7484: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7485: A glowing mist of ever-changing proportions floats before you...
- 7486: A solid iron gate. It is tightly locked...
- 7487: You see a gigantic crystal, glowing with amber light...
+ 7485: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7486: A glowing mist of ever-changing proportions floats before you...
+ 7487: A solid iron gate. It is tightly locked...
  7488: You see a gigantic crystal, glowing with amber light...
- 7489: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7490: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7491: If you listen closely, you can faintly hear female voices singing in rounds...
- 7492: It appears as if something had been thrust into the rockface here...
- 7493: A decorative door. It appears to be locked...
- 7494: The door is locked.
- 7495: The gate is locked.
- 7496: The door is locked.
+ 7489: You see a gigantic crystal, glowing with amber light...
+ 7490: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7491: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7492: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7493: It appears as if something had been thrust into the rockface here...
+ 7494: A decorative door. It appears to be locked...
+ 7495: The door is locked.
+ 7496: The gate is locked.
  7497: The door is locked.
- 7498: There seems to be a space beneath the floor, but you are unable to access it.
- 7499: You do not meet the requirements to enter the battlefield. Access is denied.
- 7500: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7501: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7502: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7503: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7504: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7505: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7506: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7507: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7508: You were unable to protect the special character. Now leaving the battlefield.
- 7509: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7510: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7511: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7512: Your $0 is torn...
- 7513: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7514: Your $0 is torn...
- 7515: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7516: You see innumerable stars shimmering in the distance...
- 7517: @
+ 7498: The door is locked.
+ 7499: There seems to be a space beneath the floor, but you are unable to access it.
+ 7500: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7501: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7502: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7503: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7504: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7505: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7506: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7507: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7508: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7509: You were unable to protect the special character. Now leaving the battlefield.
+ 7510: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7511: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7512: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7513: Your $0 is torn...
+ 7514: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7515: Your $0 is torn...
+ 7516: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7517: You see innumerable stars shimmering in the distance...
  7518: @
  7519: @
  7520: @
@@ -7526,643 +7526,644 @@
  7522: @
  7523: @
  7524: @
- 7525: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7525: @
  7526: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7527: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7528: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7529: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7530: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7530: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7531: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7532: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7533: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7534: i$20%.%p$P15zj
- 7535: $7278448;39\5=Bj
+ 7533: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7534: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7535: i$20%.%p$P15zj
  7536: $7278448;39\5=Bj
  7537: $7278448;39\5=Bj
- 7538: remove@1
- 7539: remove@2
- 7540: remove@3
- 7541: i$3{$3X_A$P13|5=j
- 7542: i$3{$3X_B$P13|5=j
- 7543: i$3{$3X_C$P13|5=j
- 7544: $6750818j=j
- 7545: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7546: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7547: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7538: $7278448;39\5=Bj
+ 7539: remove@1
+ 7540: remove@2
+ 7541: remove@3
+ 7542: i$3{$3X_A$P13|5=j
+ 7543: i$3{$3X_B$P13|5=j
+ 7544: i$3{$3X_C$P13|5=j
+ 7545: $6750818j=j
+ 7546: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7547: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7548: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7549: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7550: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7551: GL$20%.L$P16<$P11Op)i$132960a b
- 7552: GL$20%.LIDp)i$132960a b
- 7553: $20%._AL$3p$3243853
- 7554: $20%._BL$3p$3243853
- 7555: $20%._CL$3p$3243853
- 7556: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7557: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7558: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7550: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7551: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7552: GL$20%.L$P16<$P11Op)i$132960a b
+ 7553: GL$20%.LIDp)i$132960a b
+ 7554: $20%._AL$3p$3243853
+ 7555: $20%._BL$3p$3243853
+ 7556: $20%._CL$3p$3243853
+ 7557: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7558: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7559: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7560: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7561: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7561: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7562: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7563: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7564: $6819916%L$P10l$20*()5"
+ 7564: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7565: $6819916%L$P10l$20*()5"
  7566: $6819916%L$P10l$20*()5"
- 7567: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7567: $6819916%L$P10l$20*()5"
  7568: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7569: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7570: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7571: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7572: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7573: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7574: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7575: i$20%._A$P13&$22$3C$3x$3$3g
- 7576: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7577: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7578: i$20%._B$P13&$22$3C$3x$3$3g
- 7579: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7580: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7581: i$20%._C$P13&$22$3C$3x$3$3g
- 7582: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7583: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7584: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7585: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7586: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7587: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7588: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7589: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7590: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7591: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7592: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7593: $6647884nding$8%p$@$s5\5=B
- 7594: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7570: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7571: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7572: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7573: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7574: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7575: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7576: i$20%._A$P13&$22$3C$3x$3$3g
+ 7577: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7578: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7579: i$20%._B$P13&$22$3C$3x$3$3g
+ 7580: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7581: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7582: i$20%._C$P13&$22$3C$3x$3$3g
+ 7583: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7584: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7585: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7586: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7587: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7588: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7589: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7590: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7591: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7592: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7593: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7594: $6647884nding$8%p$@$s5\5=B
  7595: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7596: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7597: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7598: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7599: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7600: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7601: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7602: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7603: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7604: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7605: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7606: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7607: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7608: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7609: ($20%._AM$0$P14u$6E7)
- 7610: ($20%._BM$0$P14u$6E7)
- 7611: ($20%._CM$0$P14u$6E7)
- 7612: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7613: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7614: i$20%._A$P13|$:I$3g$3$3C5\7
- 7615: i$20%._B$P13|$:I$3g$3$3C5\7
- 7616: i$20%._C$P13|$:I$3g$3$3C5\7
- 7617: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7618: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7619: (AIMID* h\9qE5=)
- 7620: (BIMID* h\9qE5=)
- 7621: (CIMID* h\9qE5=)
- 7622: (AIID* h\5=)
- 7623: (BIID* h\5=)
- 7624: (CIID* h\5=)
- 7625: (AM7EI$P10f$P16q* h\5=)
- 7626: (BM7EI$P10f$P16q* h\5=)
- 7627: (CM7EI$P10f$P16q* h\5=)
- 7628: $2097706ADH"=_$P13|$:E+\9q
- 7629: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7630: i$20%.%p$P15zj
- 7631: $7278448;39\5=Bj
+ 7597: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7598: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7599: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7600: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7601: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7602: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7603: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7604: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7605: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7606: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7607: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7608: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7609: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7610: ($20%._AM$0$P14u$6E7)
+ 7611: ($20%._BM$0$P14u$6E7)
+ 7612: ($20%._CM$0$P14u$6E7)
+ 7613: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7614: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7615: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7616: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7617: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7618: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7619: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7620: (AIMID* h\9qE5=)
+ 7621: (BIMID* h\9qE5=)
+ 7622: (CIMID* h\9qE5=)
+ 7623: (AIID* h\5=)
+ 7624: (BIID* h\5=)
+ 7625: (CIID* h\5=)
+ 7626: (AM7EI$P10f$P16q* h\5=)
+ 7627: (BM7EI$P10f$P16q* h\5=)
+ 7628: (CM7EI$P10f$P16q* h\5=)
+ 7629: $2097706ADH"=_$P13|$:E+\9q
+ 7630: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7631: i$20%.%p$P15zj
  7632: $7278448;39\5=Bj
  7633: $7278448;39\5=Bj
- 7634: i$3{$3X_A$A&=j
- 7635: i$3{$3X_B$A&=j
- 7636: i$3{$3X_C$A&=j
- 7637: i$3{$3X_A$P13|5=j
- 7638: i$3{$3X_B$P13|5=j
- 7639: i$3{$3X_C$P13|5=j
- 7640: H=M$20%.`I$P13|j;$E7
- 7641: H=M$20%.aI$P13|j;$E7
- 7642: H=M$20%.bI$P13|j;$E7
- 7643: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7644: $4457025i
- 7645: $4456998"i
- 7646: $24952730=j
- 7647: $656169$3$3N$3f$3b$3hj
- 7648: $P12N`"H"
- 7649: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7634: $7278448;39\5=Bj
+ 7635: i$3{$3X_A$A&=j
+ 7636: i$3{$3X_B$A&=j
+ 7637: i$3{$3X_C$A&=j
+ 7638: i$3{$3X_A$P13|5=j
+ 7639: i$3{$3X_B$P13|5=j
+ 7640: i$3{$3X_C$P13|5=j
+ 7641: H=M$20%.`I$P13|j;$E7
+ 7642: H=M$20%.aI$P13|j;$E7
+ 7643: H=M$20%.bI$P13|j;$E7
+ 7644: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7645: $4457025i
+ 7646: $4456998"i
+ 7647: $24952730=j
+ 7648: $656169$3$3N$3f$3b$3hj
+ 7649: $P12N`"H"
  7650: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7651: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7652: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7652: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7653: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7654: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7655: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7656: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7656: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7657: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7658: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7659: pending$3`$3F$3b$3N$3I[$3P[
- 7660: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7659: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7660: pending$3`$3F$3b$3N$3I[$3P[
  7661: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7662: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7663: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7664: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7665: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7666: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7667: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7663: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7664: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7665: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7666: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7667: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7668: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7669: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7670: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7671: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7672: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7673: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7674: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7675: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7676: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7677: $6750818j=j
- 7678: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7679: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7680: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7681: GL$20%.L$P16<$P11Op)i$132960a b
- 7682: GL$20%.LIDp)i$132960a b
- 7683: $20%._AL$3p$3243853
- 7684: $20%._BL$3p$3243853
- 7685: $20%._CL$3p$3243853
- 7686: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7687: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7688: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7670: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7671: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7672: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7673: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7674: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7675: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7676: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7677: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7678: $6750818j=j
+ 7679: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7680: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7681: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7682: GL$20%.L$P16<$P11Op)i$132960a b
+ 7683: GL$20%.LIDp)i$132960a b
+ 7684: $20%._AL$3p$3243853
+ 7685: $20%._BL$3p$3243853
+ 7686: $20%._CL$3p$3243853
+ 7687: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7688: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7689: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7690: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7691: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7691: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7692: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7693: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7694: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7695: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7696: $6819916%L$P10l$20*()5"
+ 7696: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7697: $6819916%L$P10l$20*()5"
- 7698: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7698: $6819916%L$P10l$20*()5"
  7699: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7700: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7701: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7702: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7703: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7704: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7705: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7706: i$20%._A$P13&$22$3C$3x$3$3g
- 7707: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7708: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7709: i$20%._B$P13&$22$3C$3x$3$3g
- 7710: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7711: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7712: i$20%._C$P13&$22$3C$3x$3$3g
- 7713: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7714: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7715: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7716: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7717: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7718: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7719: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7720: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7721: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7722: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7723: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7724: $6647884nding$8%p$@$s5\5=B
- 7725: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7701: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7702: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7703: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7704: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7705: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7706: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7707: i$20%._A$P13&$22$3C$3x$3$3g
+ 7708: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7709: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7710: i$20%._B$P13&$22$3C$3x$3$3g
+ 7711: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7712: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7713: i$20%._C$P13&$22$3C$3x$3$3g
+ 7714: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7715: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7716: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7717: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7718: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7719: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7720: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7721: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7722: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7723: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7724: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7725: $6647884nding$8%p$@$s5\5=B
  7726: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7727: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7728: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7729: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7730: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7731: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7732: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7733: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7734: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7735: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7736: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7737: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7738: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7739: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7740: ($20%._AM$0$P14u$6E7)
- 7741: ($20%._BM$0$P14u$6E7)
- 7742: ($20%._CM$0$P14u$6E7)
- 7743: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7744: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7745: i$20%._A$P13|$:I$3g$3$3C5\7
- 7746: i$20%._B$P13|$:I$3g$3$3C5\7
- 7747: i$20%._C$P13|$:I$3g$3$3C5\7
- 7748: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7749: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7750: (AIMID* h\9qE5=)
- 7751: (BIMID* h\9qE5=)
- 7752: (CIMID* h\9qE5=)
- 7753: (AIID* h\5=)
- 7754: (BIID* h\5=)
- 7755: (CIID* h\5=)
- 7756: (AM7EI$P10f$P16q* h\5=)
- 7757: (BM7EI$P10f$P16q* h\5=)
- 7758: (CM7EI$P10f$P16q* h\5=)
- 7759: $2097706ADH"=_$P13|$:E+\9q
- 7760: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7761: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7762: Only <Player> can enter the battlefield.
- 7763: The time limit for this battle is $3 minutes.
- 7764: There is a crack in the $3. It no longer contains a monster.
- 7765: A crack has formed on the $3, and the beast inside has been unleashed!
- 7766: Boss mode : $6!!
- 7767: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7768: $7
- 7769: DEBUG1
- 7770: $T&$:I$P16_i)$4719207" $P16_i
- 7771: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7772: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7773: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7774: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7775: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7776: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7777: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7778: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7779: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7780: CLI_NUM0 = $0
- 7781: CLI_NUM1 = $1
- 7782: CLI_NUM2 = $2
- 7783: CLI_NUM3 = $3
- 7784: CLI_NUM4 = $4
- 7785: CLI_NUM5 = $5
- 7786: CLI_NUM6 = $6
- 7787: CLI_NUM7 = $6
- 7788: Skip the event? [Yes./No.]
- 7789: Battlefield clear time: $3 second[/s]!
- 7790: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7791: The current battlefield clear time record is $3 second[/s].
- 7792: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7793: Called the NPC! PC ID = $0! RESULT = $1!
- 7794: Got rid of the NPC! PC ID = $0!
- 7795: The NPC has fallen, and he can't get up! Leaving room A!
- 7796: The NPC has fallen, and he can't get up! Leaving room B!
- 7797: The NPC has fallen, and he can't get up! Leaving room C!
- 7798: The NPC has fallen, and he can't get up! Leaving room D!
- 7799: All party members have fallen in battle. Now leaving the battlefield.
- 7800: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7801: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7802: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7803: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7804: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7805: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7806: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7807: What the hell is that number!? It's not possible!!!
- 7808: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7809: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7810: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7811: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7812: That record is held by $5 adventurers, including %0!
- 7813: That record is held by %0!
- 7814: The pictographs on the $3 and $3 fade away without a trace...
- 7815: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7816: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7817: A malignant force escapes from your $3.
- 7818: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7819: Your $3 is calling out to something...
- 7820: The $0 has a large crack running straight down the side.
- 7821: Something awakens owing to the presence of the $3...
- 7822: The oath has been fulfilled owing to the power of your $3.
- 7823: I am %, officer of the Imperial Army.
- 7824: Don't waste my time, adventurer.
- 7825: $0! Excellent work. I will inform the commander immediately.
- 7826: Your Imperial Standing has increased!
- 7827: What is your business? [I want to receive Sanction./I want to spend my credits./I want to spend my accolades./I have some questions.../Nothing, sorry to bother you.]
- 7828: I will bestow upon you the Empire's Sanction. Good luck.
- 7829: The Astral Candescence is now in Al Zahbi, so you will receive an experience bonus from battles. You can also select one of the following bonuses in exchange for a slight decrease in your Imperial Standing.
- 7830: Choose a bonus for $8 [credit/credits]? [Not now./Regen./Refresh./Increased meal duration.]
- 7831: You have received the Empire's Sanction.
- 7832: You do not have enough Imperial Standing credits to receive the bonus.
- 7833: You cannot receive the bonus. The Astral Candescence has been taken.
- 7834: You currently possess $0 [Imperial Standing credit/Imperial Standing credits]. Would you like to use them to purchase items?
- 7835: You currently possess $0 [Imperial Standing accolade/Imperial Standing Accolades]. Would you like to use them to purchase items?
- 7836: Which item do you wish to purchase? [Common items (All ranks)./1000-pt. items (Private 2nd Class)."000-pt. items (Private 1st Class)./4000-pt. items (Superior Private)./8000-pt. items (Lance Corporal)./16000-pt. items (Corporal)."4000-pt. items (Sergeant)."2000-pt. items (Sergeant Major)./40000-pt. items (Chief Sergeant)./48000-pt. items (Second Lieutenant)./56000-pt. items (First Lieutenant)./Cancel.]
- 7837: Which item do you wish to purchase? [Common items (All ranks)."000-pt. items (First Lieutenant.)/Escutcheon materials (All ranks)./Cancel.]
- 7838: There are currently no items available for that rank.
- 7839: Your Imperial Standing is too low to purchase the $3.
- 7840: Are you sure you want to purchase the $3?
- 7841: You already possess $6.
- 7842: Which item do you wish to purchase? [$3 ($20 credits)./$3 ($20 credits)./$3 ($20 credits)./Return.]
- 7843: You do not meet the requirements to purchase the $8.
- 7844: Your rank is too low to purchase the $8.
- 7845: Your Imperial Standing is too low to purchase the $8.
+ 7728: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7729: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7730: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7731: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7732: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7733: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7734: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7735: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7736: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7737: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7738: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7739: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7740: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7741: ($20%._AM$0$P14u$6E7)
+ 7742: ($20%._BM$0$P14u$6E7)
+ 7743: ($20%._CM$0$P14u$6E7)
+ 7744: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7745: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7746: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7747: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7748: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7749: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7750: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7751: (AIMID* h\9qE5=)
+ 7752: (BIMID* h\9qE5=)
+ 7753: (CIMID* h\9qE5=)
+ 7754: (AIID* h\5=)
+ 7755: (BIID* h\5=)
+ 7756: (CIID* h\5=)
+ 7757: (AM7EI$P10f$P16q* h\5=)
+ 7758: (BM7EI$P10f$P16q* h\5=)
+ 7759: (CM7EI$P10f$P16q* h\5=)
+ 7760: $2097706ADH"=_$P13|$:E+\9q
+ 7761: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7762: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7763: Only <Player> can enter the battlefield.
+ 7764: The time limit for this battle is $3 minutes.
+ 7765: There is a crack in the $3. It no longer contains a monster.
+ 7766: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7767: Boss mode : $6!!
+ 7768: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7769: $7
+ 7770: DEBUG1
+ 7771: $T&$:I$P16_i)$4719207" $P16_i
+ 7772: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7773: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7774: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7775: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7776: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7777: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7778: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7779: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7780: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7781: CLI_NUM0 = $0
+ 7782: CLI_NUM1 = $1
+ 7783: CLI_NUM2 = $2
+ 7784: CLI_NUM3 = $3
+ 7785: CLI_NUM4 = $4
+ 7786: CLI_NUM5 = $5
+ 7787: CLI_NUM6 = $6
+ 7788: CLI_NUM7 = $6
+ 7789: Skip the event? [Yes./No.]
+ 7790: Battlefield clear time: $3 second[/s]!
+ 7791: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7792: The current battlefield clear time record is $3 second[/s].
+ 7793: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7794: Called the NPC! PC ID = $0! RESULT = $1!
+ 7795: Got rid of the NPC! PC ID = $0!
+ 7796: The NPC has fallen, and he can't get up! Leaving room A!
+ 7797: The NPC has fallen, and he can't get up! Leaving room B!
+ 7798: The NPC has fallen, and he can't get up! Leaving room C!
+ 7799: The NPC has fallen, and he can't get up! Leaving room D!
+ 7800: All party members have fallen in battle. Now leaving the battlefield.
+ 7801: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7802: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7803: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7804: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7805: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7806: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7807: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7808: What the hell is that number!? It's not possible!!!
+ 7809: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7810: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7811: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7812: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7813: That record is held by $5 adventurers, including %0!
+ 7814: That record is held by %0!
+ 7815: The pictographs on the $3 and $3 fade away without a trace...
+ 7816: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7817: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7818: A malignant force escapes from your $3.
+ 7819: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7820: Your $3 is calling out to something...
+ 7821: The $0 has a large crack running straight down the side.
+ 7822: Something awakens owing to the presence of the $3...
+ 7823: The oath has been fulfilled owing to the power of your $3.
+ 7824: I am %, officer of the Imperial Army.
+ 7825: Don't waste my time, adventurer.
+ 7826: $0! Excellent work. I will inform the commander immediately.
+ 7827: Your Imperial Standing has increased!
+ 7828: What is your business? [I want to receive Sanction./I want to spend my credits./I want to spend my accolades./I have some questions.../Nothing, sorry to bother you.]
+ 7829: I will bestow upon you the Empire's Sanction. Good luck.
+ 7830: The Astral Candescence is now in Al Zahbi, so you will receive an experience bonus from battles. You can also select one of the following bonuses in exchange for a slight decrease in your Imperial Standing.
+ 7831: Choose a bonus for $8 [credit/credits]? [Not now./Regen./Refresh./Increased meal duration.]
+ 7832: You have received the Empire's Sanction.
+ 7833: You do not have enough Imperial Standing credits to receive the bonus.
+ 7834: You cannot receive the bonus. The Astral Candescence has been taken.
+ 7835: You currently possess $0 [Imperial Standing credit/Imperial Standing credits]. Would you like to use them to purchase items?
+ 7836: You currently possess $0 [Imperial Standing accolade/Imperial Standing Accolades]. Would you like to use them to purchase items?
+ 7837: Which item do you wish to purchase? [Common items (All ranks)./1000-pt. items (Private 2nd Class)."000-pt. items (Private 1st Class)./4000-pt. items (Superior Private)./8000-pt. items (Lance Corporal)./16000-pt. items (Corporal)."4000-pt. items (Sergeant)."2000-pt. items (Sergeant Major)./40000-pt. items (Chief Sergeant)./48000-pt. items (Second Lieutenant)./56000-pt. items (First Lieutenant)./Cancel.]
+ 7838: Which item do you wish to purchase? [Common items (All ranks)."000-pt. items (First Lieutenant.)/Escutcheon materials (All ranks)./Cancel.]
+ 7839: There are currently no items available for that rank.
+ 7840: Your Imperial Standing is too low to purchase the $3.
+ 7841: Are you sure you want to purchase the $3?
+ 7842: You already possess $6.
+ 7843: Which item do you wish to purchase? [$3 ($20 credits)./$3 ($20 credits)./$3 ($20 credits)./Return.]
+ 7844: You do not meet the requirements to purchase the $8.
+ 7845: Your rank is too low to purchase the $8.
  7846: Your Imperial Standing is too low to purchase the $8.
- 7847: You cannot equip the $8. Do you still wish to proceed?
- 7848: Your level is too low to equip the $8. Do you still wish to proceed?
- 7849: You seem to be able to equip the $8. Do you wish to proceed?
- 7850: Are you sure you want to purchase the $8?
+ 7847: Your Imperial Standing is too low to purchase the $8.
+ 7848: You cannot equip the $8. Do you still wish to proceed?
+ 7849: Your level is too low to equip the $8. Do you still wish to proceed?
+ 7850: You seem to be able to equip the $8. Do you wish to proceed?
  7851: Are you sure you want to purchase the $8?
- 7852: I can sell you up to $! more $8. Are you sure you want to purchase them?
- 7853: I cannot sell you any more $8.
- 7854: Enter how many you would like to purchase ($" to $#), or 0 to cancel.
- 7855: Proceed? [Yes, purchase item./Cancel purchase.]
- 7856: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
- 7857: Which item do you wish to purchase? [$9./$10./$11./Back.]
- 7858: Which item do you wish to purchase? [$9./$10./$11./$12./Back.]
- 7859: Which item do you wish to purchase? [$9./$10./$11./$12./$13./Back.]
- 7860: Which item do you wish to purchase? [$9 ($20 credits)./$10 ($21 credits)./$11 ($22 credits)./$12 ($23 credits)./$13 ($24 credits)./$14 ($25 credits)./$15 ($26 credits)./$16 ($27 credits)./$17 ($28 credits)./Next page./Previous page./Back.]
- 7861: Which item do you wish to purchase? [$9 ($20 accolades)./$10 ($21 accolades)./$11 ($22 accolades)./$12 ($23 accolades)./$13 ($24 accolades)./Back.]
- 7862: Which item do you wish to purchase? [$9 ($21 accolades)./$10 ($22 accolades)./$11 ($23 accolades)./$12 ($24 accolades)./$13 ($25 accolades)./$14 ($26 accolades)./$15 ($27 accolades)./$16 ($28 accolades)./$17 ($29 accolades)./$18 ($30 accolades)./$19 ($31 accolades)./$20 ($ accolades)./Back.]
- 7863: Which item do you wish to purchase? [$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Back.]
- 7864: What do you wish to know about? [Nothing./Sanction./Imperial Standing./Besieged.]
- 7865: What about Besieged? [Never mind./Besieged basics./"Serpent Generals."/Astral Candescence in Al Zahbi./Astral Candescence with beastmen./Empire's current state of defense.]
- 7866: "Sanction" is a magic spell that we use to observe and assess mercenaries' actions.
- 7867: Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.
- 7868: When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.
- 7869: Sanction is also necessary in order to receive crystals from the enemies you defeat.
- 7870: But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.
- 7871: You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.
- 7872: Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.
- 7873: You can view your Imperial Standing by selecting "Besieged" under "Region Info."
- 7874: You can also speak to me at any time to exchange your Imperial Standing credits for items.
- 7875: "Besieged" occurs when the beastman armies breach the walls of Al Zahbi.
- 7876: Everyone in town who is capable of wielding a weapon is called to action to defend Al Zahbi alongside the Imperial Army.
- 7877: The beastmen's main purpose is to enter the Hall of Binding and wrest the "Astral Candescence" from the Empire's control.
- 7878: You need not know what the Astral Candescence is.
- 7879: All you must know is that it is your duty to protect the five Serpent Generals who hold the keys to the Hall of Binding, and to drive the beastman hordes from the Imperial capital.
- 7880: The Empire's safety and its future rest on your capable shoulders! Rest assured that you will be rewarded for your efforts.
- 7881: The Empire's defense is entrusted to five generals.
- 7882: Each possesses a name corresponding to the symbols of the Empire--the serpents of flame, water, stone, gales, and sky.
- 7883: Furthermore, the mirrors used to open the Hall of Binding are divided among their possession. Thus, the generals' fates determine the tide of battle.
- 7884: If all five generals should fall in battle, the Hall of Binding will open, and the beastmen will be able to seize the Astral Candescence.
- 7885: It is your responsibility to prevent such a disaster from happening. We are depending on you!
- 7886: When the Astral Candescence is safely resting on its plinth in the Hall of Binding, it emanates waves that bestow special bonuses to Sanction.
- 7887: The first bonus is a slight boost to the amount of experience points received from battles. You will receive this effect simply by having Sanction cast on you.
- 7888: There are several other bonus effects, but you must sacrifice some of your Imperial Standing credits in order to receive them.
- 7889: Keep in mind that the bonuses become more powerful with the number of times the Imperial capital is successfully defended.
- 7890: Sanction's strength will reset if the beastmen succeed in invading the Hall of Binding, though.
- 7891: The waves emanating from the Astral Candescence in Al Zahbi bring a multitude of blessings to all of us. You must not let it fall into the hands of the beastmen!
- 7892: If the beastmen manage to take the Astral Candescence, its recovery will become our top priority. Find the coveted item on a plinth in one of the beastman strongholds and seize it back for the Empire!
- 7893: We aren't quite sure what the beastmen are scheming to do with such power, but we do know that the Astral Candescence's waves can increase the beastmen's strength.
- 7894: As if that weren't enough, we have recent reports that the beastmen have set "archaic mirrors" in their strongholds to magnify the power of the waves.
- 7895: If you should come across any archaic mirrors, take them immediately and trade them to an Imperial guard.
- 7896: Al Zahbi has been successively victorious in $4 [battle/battles] to defend the capital, bringing the Imperial defense to a value of $5. The Imperial capital has seen $6 [victory/victories] overall, and the Astral Candescence has been seized by the beastmen a total of $7 [time/times].
- 7897: You do not possess the $1 [Imperial Standing credit/Imperial Standing credits] required to fully recharge the $0.
- 7898: Please be aware that you can only recharge $0 once during the period between each Conquest tally.
- 7899: The $0 is already fully charged.
- 7900: Your $0 has received $2 [charge/charges] in exchange for $1 [Imperial Standing credit/Imperial Standing credits]. It is now fully recharged.
- 7901: Your Imperial Standing has increased by $0 credits!
- 7902: Your Imperial Standing Accolades have increased by $0 credits!
- 7903: There is no response. You cannot escape!
- 7904: You have broken the clear time record for "[Halvung Invasion/]"!
- 7905: The current battlefield clear time record for "[Halvung Invasion/]" is $3 second[/s].
- 7906: The current battlefield clear time record for "[Halvung Invasion/]" is $3 minute[/s] $2 second[/s].
- 7907: Entering the battlefield for "[Halvung Invasion/]"!
- 7908: Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]
- 7909: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7910: You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate...
- 7911: The pictographs on the $3 and $3 fade away without a trace...
- 7912: Choose a picture to take.
- 7913: First scene.
- 7914: Second scene.
- 7915: Third scene.
- 7916: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
- 7917: <Player> records the first scene.
- 7918: <Player> records the second scene.
- 7919: <Player> records the third scene.
- 7920: <Player> takes in the surrounding scenery. ...The view is breathtaking.
- 7921: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
- 7922: There is nothing out of the ordinary here.
- 7923: You see something shiny on the ground...
- 7924: %0 begins pushing on the lever!
- 7925: <Player>'s hand has grown numb...
- 7926: <Player> can't hold on for much longer...
- 7927: %0 releases the lever.
- 7928: Nothing happens...
- 7929: You are too far away.
- 7930: There is a wide trench around the gate here. There are three keyholes of differing sizes inside the trench.
- 7931: The $0 shatters... The $1 shatters... The $2 shatters...
- 7932: Exit? (You cannot reenter here.) [Yes./Not now.]
- 7933: There is nothing out of the ordinary here.
- 7934: You can hear a strange voice... "Items, items, la la la la la`t"
- 7935: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7936: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7937: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7938: Now, listen close...
- 7939: Oh... Well, if that's the case, I'm outta here.
- 7940: The Goblin slipped away when you were not looking...
- 7941: You can hear a strange, raspy voice...
- 7942: I travel......hear lots... Hear...stories... Can tell...if...
- 7943: .........listen......
- 7944: Oh...... ...outta here.........
- 7945: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7946: What story would you like to be told? [On second thought, maybe later./Get the Picture.]
- 7947: 
+ 7852: Are you sure you want to purchase the $8?
+ 7853: I can sell you up to $! more $8. Are you sure you want to purchase them?
+ 7854: I cannot sell you any more $8.
+ 7855: Enter how many you would like to purchase ($" to $#), or 0 to cancel.
+ 7856: Proceed? [Yes, purchase item./Cancel purchase.]
+ 7857: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
+ 7858: Which item do you wish to purchase? [$9./$10./$11./Back.]
+ 7859: Which item do you wish to purchase? [$9./$10./$11./$12./Back.]
+ 7860: Which item do you wish to purchase? [$9./$10./$11./$12./$13./Back.]
+ 7861: Which item do you wish to purchase? [$9 ($20 credits)./$10 ($21 credits)./$11 ($22 credits)./$12 ($23 credits)./$13 ($24 credits)./$14 ($25 credits)./$15 ($26 credits)./$16 ($27 credits)./$17 ($28 credits)./Next page./Previous page./Back.]
+ 7862: Which item do you wish to purchase? [$9 ($20 accolades)./$10 ($21 accolades)./$11 ($22 accolades)./$12 ($23 accolades)./$13 ($24 accolades)./Back.]
+ 7863: Which item do you wish to purchase? [$9 ($21 accolades)./$10 ($22 accolades)./$11 ($23 accolades)./$12 ($24 accolades)./$13 ($25 accolades)./$14 ($26 accolades)./$15 ($27 accolades)./$16 ($28 accolades)./$17 ($29 accolades)./$18 ($30 accolades)./$19 ($31 accolades)./$20 ($ accolades)./Back.]
+ 7864: Which item do you wish to purchase? [$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Back.]
+ 7865: What do you wish to know about? [Nothing./Sanction./Imperial Standing./Besieged.]
+ 7866: What about Besieged? [Never mind./Besieged basics./"Serpent Generals."/Astral Candescence in Al Zahbi./Astral Candescence with beastmen./Empire's current state of defense.]
+ 7867: "Sanction" is a magic spell that we use to observe and assess mercenaries' actions.
+ 7868: Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.
+ 7869: When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.
+ 7870: Sanction is also necessary in order to receive crystals from the enemies you defeat.
+ 7871: But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.
+ 7872: You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.
+ 7873: Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.
+ 7874: You can view your Imperial Standing by selecting "Besieged" under "Region Info."
+ 7875: You can also speak to me at any time to exchange your Imperial Standing credits for items.
+ 7876: "Besieged" occurs when the beastman armies breach the walls of Al Zahbi.
+ 7877: Everyone in town who is capable of wielding a weapon is called to action to defend Al Zahbi alongside the Imperial Army.
+ 7878: The beastmen's main purpose is to enter the Hall of Binding and wrest the "Astral Candescence" from the Empire's control.
+ 7879: You need not know what the Astral Candescence is.
+ 7880: All you must know is that it is your duty to protect the five Serpent Generals who hold the keys to the Hall of Binding, and to drive the beastman hordes from the Imperial capital.
+ 7881: The Empire's safety and its future rest on your capable shoulders! Rest assured that you will be rewarded for your efforts.
+ 7882: The Empire's defense is entrusted to five generals.
+ 7883: Each possesses a name corresponding to the symbols of the Empire--the serpents of flame, water, stone, gales, and sky.
+ 7884: Furthermore, the mirrors used to open the Hall of Binding are divided among their possession. Thus, the generals' fates determine the tide of battle.
+ 7885: If all five generals should fall in battle, the Hall of Binding will open, and the beastmen will be able to seize the Astral Candescence.
+ 7886: It is your responsibility to prevent such a disaster from happening. We are depending on you!
+ 7887: When the Astral Candescence is safely resting on its plinth in the Hall of Binding, it emanates waves that bestow special bonuses to Sanction.
+ 7888: The first bonus is a slight boost to the amount of experience points received from battles. You will receive this effect simply by having Sanction cast on you.
+ 7889: There are several other bonus effects, but you must sacrifice some of your Imperial Standing credits in order to receive them.
+ 7890: Keep in mind that the bonuses become more powerful with the number of times the Imperial capital is successfully defended.
+ 7891: Sanction's strength will reset if the beastmen succeed in invading the Hall of Binding, though.
+ 7892: The waves emanating from the Astral Candescence in Al Zahbi bring a multitude of blessings to all of us. You must not let it fall into the hands of the beastmen!
+ 7893: If the beastmen manage to take the Astral Candescence, its recovery will become our top priority. Find the coveted item on a plinth in one of the beastman strongholds and seize it back for the Empire!
+ 7894: We aren't quite sure what the beastmen are scheming to do with such power, but we do know that the Astral Candescence's waves can increase the beastmen's strength.
+ 7895: As if that weren't enough, we have recent reports that the beastmen have set "archaic mirrors" in their strongholds to magnify the power of the waves.
+ 7896: If you should come across any archaic mirrors, take them immediately and trade them to an Imperial guard.
+ 7897: Al Zahbi has been successively victorious in $4 [battle/battles] to defend the capital, bringing the Imperial defense to a value of $5. The Imperial capital has seen $6 [victory/victories] overall, and the Astral Candescence has been seized by the beastmen a total of $7 [time/times].
+ 7898: You do not possess the $1 [Imperial Standing credit/Imperial Standing credits] required to fully recharge the $0.
+ 7899: Please be aware that you can only recharge $0 once during the period between each Conquest tally.
+ 7900: The $0 is already fully charged.
+ 7901: Your $0 has received $2 [charge/charges] in exchange for $1 [Imperial Standing credit/Imperial Standing credits]. It is now fully recharged.
+ 7902: Your Imperial Standing has increased by $0 credits!
+ 7903: Your Imperial Standing Accolades have increased by $0 credits!
+ 7904: There is no response. You cannot escape!
+ 7905: You have broken the clear time record for "[Halvung Invasion/]"!
+ 7906: The current battlefield clear time record for "[Halvung Invasion/]" is $3 second[/s].
+ 7907: The current battlefield clear time record for "[Halvung Invasion/]" is $3 minute[/s] $2 second[/s].
+ 7908: Entering the battlefield for "[Halvung Invasion/]"!
+ 7909: Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]
+ 7910: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7911: You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate...
+ 7912: The pictographs on the $3 and $3 fade away without a trace...
+ 7913: Choose a picture to take.
+ 7914: First scene.
+ 7915: Second scene.
+ 7916: Third scene.
+ 7917: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+ 7918: <Player> records the first scene.
+ 7919: <Player> records the second scene.
+ 7920: <Player> records the third scene.
+ 7921: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+ 7922: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+ 7923: There is nothing out of the ordinary here.
+ 7924: You see something shiny on the ground...
+ 7925: %0 begins pushing on the lever!
+ 7926: <Player>'s hand has grown numb...
+ 7927: <Player> can't hold on for much longer...
+ 7928: %0 releases the lever.
+ 7929: Nothing happens...
+ 7930: You are too far away.
+ 7931: There is a wide trench around the gate here. There are three keyholes of differing sizes inside the trench.
+ 7932: The $0 shatters... The $1 shatters... The $2 shatters...
+ 7933: Exit? (You cannot reenter here.) [Yes./Not now.]
+ 7934: There is nothing out of the ordinary here.
+ 7935: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7936: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7937: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7938: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7939: Now, listen close...
+ 7940: Oh... Well, if that's the case, I'm outta here.
+ 7941: The Goblin slipped away when you were not looking...
+ 7942: You can hear a strange, raspy voice...
+ 7943: I travel......hear lots... Hear...stories... Can tell...if...
+ 7944: .........listen......
+ 7945: Oh...... ...outta here.........
+ 7946: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7947: What story would you like to be told? [On second thought, maybe later./Get the Picture.]
  7948: 
  7949: 
- 7950: off.
- 7951: Troll's defense mode on!
- 7952: $0
- 7953: Mining is possible here if you have $0.
- 7954: Probability of loss = $3/10000.
- 7955: Your $7 breaks!
- 7956: You successfully dig up $0!
- 7957: You dig up $0, but your $7 breaks in the process.
- 7958: You are unable to mine anything.
- 7959: You cannot carry any more items. Your inventory is full.
- 7960: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
- 7961: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
- 7962: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
- 7963: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7964: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7965: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
- 7966: Al Zahbi is Besieged! Defend the Astral Candescence!
- 7967: Al Zahbi is no longer Besieged.
- 7968: The beastmen have retreated.
- 7969: The Mamool Ja Savages have retreated.
- 7970: The Troll Mercenaries have retreated.
- 7971: The Undead Swarm has retreated.
- 7972: Al Zahbi has recovered the Astral Candescence.
- 7973: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
- 7974: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
- 7975: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
- 7976: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
- 7977: --------------/ : ($P12n [$5$30$Tj]
- 7978: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
- 7979: ydiff:$0zglobal:$1 own:$2 kind:$3
- 7980: yinfo:$0zwait:$1 kind:$2 kind_old:$3
- 7981: act:$0 node_speed_fix:$1 dst_node:$2 :$3
- 7982: NodeTarget:$0 POS($1 $2 $3)
- 7983: NodeNow:$0 POS($1 $2 $3)
- 7984: move_kind:$0 move_result:$1 same_count:$2 old:$3
- 7985: You hear a skittering sound rushing towards you!
- 7986: The wamouracampa strengthens its defenses!
- 7987: The wamouracampa's defenses are wavering!
- 7988: The wamouracampa's defenses seem unable to hold up much longer.
- 7989: The wamouracampa's defenses are down!
- 7990: The wamouracampa's defenses are beginning to malfunction!
- 7991: The wamouracampa is losing its confidence in its defenses.
- 7992: The wamouracampa gives up on its defenses!
- 7993: Faint light is emitting from the gaps in the rock. %0 moves the rock aside.
- 7994: The light does not seem to be reaching the wamouracampa.
- 7995: The light shines on the wamouracampa!
- 7996: The wamouracampa is blinded, leaving its defenses open!
- 7997: Now is not the time for that!
- 7998: I is Gurfurlur, the big boss. And you is dead.
- 7999: I is dead? But I is the strongest...
- 8000: You can see blue flames flickering from a hole in the ground here...
- 8001: Nothing happens...
- 8002: Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?
- 8003: We've set up a secret marker somewhere in the bowels of a dreadful dungeon. Your goal is to reach that marker alive, kupo!
- 8004: Oh, a new adventurer! Best of luck, kupo!
- 8005: Are you helping out the new adventurers? Best of luck in your endeavors, kupo!
- 8006: You're not wearing your yukata! Put it on and show me how it looks, kupo!
- 8007: Here's your reward for reaching the goal, kupo!
- 8008: Wear the yukata the next time you come to see me! I can't wait to see how you look, kupo!
- 8009: Partner up with lots of different adventurers and bring back all kinds of trophies to prove your courage! When you've brought enough, I'll give you something really special, kupo!
- 8010: The face in the portrait you brought me is just... Kupupupu!
- 8011: Incredible, kupo! You must have nerves of darksteel! Here, you've earned this, kupo!
- 8012: You took another dive into the dreaded dungeon, kupo? Well, you deserve a little something for your preternatural perseverance, kupo.
- 8013: You haven't earned my really special present yet! Only truly dauntless dungeon-delvers get that, kupo!
- 8014: This isn't enough to prove you reached the goal as a dungeon-delving duo. You have to bring me the item your partner received to show that you were both successful, kupo!
- 8015: To go on this fright-filled face-off with fear, you need a partner who can prove you reached the goal. Come back when you have a buddy in bravery, kupo!
- 8016: This adventure into adversity is only available to two-person parties. Split up into pairs and talk to me again, kupo!
- 8017: Please come back with a different partner. It'll be no fun to scare you if your reactions are too similar, kupo!
- 8018: Your partner isn't ready to go. Please wait a little longer, kupo.
- 8019: Your partner must talk to me as well. I'll be waiting for you whenever you're ready, kupo.
- 8020: You can only choose one partner a day. Come back again tomorrow, kupo!
- 8021: Hold up there! It looks like your candidate for courageous companionship has already got a partner! You can't choose that person at the moment, kupo!
- 8022: Please wait a little longer or find a new partner before coming back, kupo.
- 8023: Are you ready to test your courage, kupo?
- 8024: Are you ready to go? [Ready, kupo!/I'm too terrified, kupo!]
- 8025: I'll be checking to see if you reached the goal. You can use this magical scroll to make a speedy return to town, kupo.
- 8026: If you both succeed, I'll have a prize waiting for you! Now, off you go, kupo!
- 8027: You can only carry one $0.
- 8028: Are you participating in this petrifying pilgrimage with the person in your present party?
- 8029: Hey, you changed partners! You can't switch halfway through, kupo!
- 8030: Wait, the number of people in your party has changed! You have to be in a two-person party, kupo!
- 8031: Choose your partner wisely. Come back when you think you have a winning combo, kupo!
- 8032: Boo-hah-hah`...kupo!
- 8033: Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!
- 8034: Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!
- 8035: Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!
- 8036: Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu...
- 8037: This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery.
- 8038: Why do ghosts say "boo," anyway?
- 8039: I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!
- 8040: Maybe I'm doing something wrong, kupo?
- 8041: If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...
- 8042: Unable to enter next area. Expansion pack not installed.
- 8043: You sense an ominous presence...
- 8044: The heady fragrance of wine pervades the air...
- 8045: Minute glittering fragments are scattered all over...
- 8046: Broken shards of insect wing are scattered all over...
- 8047: The ground is strewn with shed leaves...
- 8048: Piles of pamama peels litter the ground...
- 8049: The ground is smeared with bloodstains...
- 8050: Numerous strands of hair are scattered all over...
- 8051: Broken shards of insect wing are scattered all over...
- 8052: A sickly sweet fragrance pervades the air...
- 8053: An acidic odor pervades the air...
- 8054: A putrid odor threatens to overwhelm you...
- 8055: The ground is smeared with bloodstains...
- 8056: An acidic odor pervades the air...
- 8057: A sickly sweet fragrance pervades the air...
- 8058: A stifling stench pervades the air...
- 8059: The ground is carpeted in a thin layer of cinder.
- 8060: A sickly sweet fragrance pervades the air...
- 8061: The ground is strewn with shed leaves...
- 8062: A sickly sweet fragrance pervades the air...
- 8063: The ground here is slimy to the touch...
- 8064: A stifling stench pervades the air...
- 8065: Shredded scraps of paper are scattered all over...
- 8066: The ground is strewn with shed leaves...
- 8067: A stifling stench pervades the air...
- 8068: Minute glittering fragments are scattered all over...
- 8069: Light, fluttery objects litter the ground...
- 8070: A sickly sweet fragrance pervades the air...
- 8071: Minute glittering fragments are scattered all over...
- 8072: The ground here is slimy to the touch...
- 8073: The ground is smeared with bloodstains...
- 8074: Something draws near!
- 8075: A dull piece of metal lies on the ground. It appears to be a bracelet of sorts, but the layers of grime covering its surface render it wholly unwearable.
- 8076: The winds remain as silent as ever.
- 8077: Obtained key item: 3.
- 8078: You lift the lever with all your might!
- 8079: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 8080: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 8081: You have returned to the field of battle.
- 8082: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 8083: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 8084: You have only $0 [second/seconds] (Earth time) remaining.
- 8085: Your time for this Confrontation is up...
- 8086: The monster fades before your eyes, a look of disappointment on its face.
- 8087: (Test message.)
- 8088: Enter the garrison? [Yes./No.]
- 8089: The $3 is ripped violently to pieces!
- 8090: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 8091: Hark! Our foe lurks thither. How wouldst thou proceed?
- 8092: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 8093: Our foe advances...may thine aim be true!
- 8094: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 8095: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 8096: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8097: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8098: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8099: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 8100: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 8101: Greetings, traveler! How dost thou fare in thine adventures?
- 8102: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 8103: Dost thou find this enchantment to thy liking?
- 8104: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 8105: Splendid! May it serve thee well.
- 8106: %0 obtained $0!
- 8107: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 8108: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 8109: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 8110: Though it may fall short of thy expectations, pray accept it.
- 8111: Otherwise, we shall have no choice but to dispose of it.
- 8112: Many thanks for thine assistance!
- 8113: Pray accept this $0 as but a humble token of our gratitude.
- 8114: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 8115: $3f$3o$3b$3O$590643$3$3NM
- 8116: $3f$3o$3b$3O$201475X$3^$3243853
- 8117: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
- 8118: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
- 8119: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
- 8120: You are not the party leader.
- 8121: Some members of your party/alliance are not in the appropriate staging zone.
- 8122: You must have at least $0 people in your party/alliance to participate.
- 8123: One or more party/alliance members have not accepted the objective for $0.
- 8124: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
- 8125: One or more party/alliance members have not yet received their additional rewards for completing $0.
- 8126: Unable to commence Wanted battle
- 8127: One or more party/alliance members has a fellow active.
- 8128: One or more party/alliance members has an alter ego active.
- 8129: One or more party/alliance members is already participating in other content.
- 8130: One or more party/alliance members is currently viewing a cut scene.
- 8131: $0 has been removed. Reselect the objective and try again.
- 8132: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
- 8133: Your party leader is attempting to commence a Wanted battle.
- 8134: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
- 8135: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
- 8136: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
- 8137: No one in your party has set the appropriate Records of Eminence objective.
- 8138: $0 will be active the next time you join this battle.
- 8139: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8140: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8141: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8142: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8143: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 8144: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 8145: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 8146: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 8147: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 8148: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 8149: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 8150: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 8151: You do not have enough tabs.
- 8152: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 8153: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 8154: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 8155: Accept the reward? [Yes, please./No, thanks.]
- 8156: You may change the way you select areas listed in "Teleportation Assistance."
- 8157: Any changes to make? [Keep course./Select by region./Select by content.]
- 8158: Area selection will now be made by [region/content].
- 8159: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 8160: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 8161: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 8162: $8 has been [added to your list of favorites/removed from your list of favorites].
- 8163: Your list of favorites is full. You must remove an existing entry to add new ones.
- 8164: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 7950: 
+ 7951: off.
+ 7952: Troll's defense mode on!
+ 7953: $0
+ 7954: Mining is possible here if you have $0.
+ 7955: Probability of loss = $3/10000.
+ 7956: Your $7 breaks!
+ 7957: You successfully dig up $0!
+ 7958: You dig up $0, but your $7 breaks in the process.
+ 7959: You are unable to mine anything.
+ 7960: You cannot carry any more items. Your inventory is full.
+ 7961: The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
+ 7962: The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
+ 7963: The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
+ 7964: The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7965: The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7966: The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+ 7967: Al Zahbi is Besieged! Defend the Astral Candescence!
+ 7968: Al Zahbi is no longer Besieged.
+ 7969: The beastmen have retreated.
+ 7970: The Mamool Ja Savages have retreated.
+ 7971: The Troll Mercenaries have retreated.
+ 7972: The Undead Swarm has retreated.
+ 7973: Al Zahbi has recovered the Astral Candescence.
+ 7974: The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
+ 7975: The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
+ 7976: The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
+ 7977: The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
+ 7978: --------------/ : ($P12n [$5$30$Tj]
+ 7979: PARAM0:$0 PARAM1:$1 PARAM2:$2 PARAM3:$3
+ 7980: ydiff:$0zglobal:$1 own:$2 kind:$3
+ 7981: yinfo:$0zwait:$1 kind:$2 kind_old:$3
+ 7982: act:$0 node_speed_fix:$1 dst_node:$2 :$3
+ 7983: NodeTarget:$0 POS($1 $2 $3)
+ 7984: NodeNow:$0 POS($1 $2 $3)
+ 7985: move_kind:$0 move_result:$1 same_count:$2 old:$3
+ 7986: You hear a skittering sound rushing towards you!
+ 7987: The wamouracampa strengthens its defenses!
+ 7988: The wamouracampa's defenses are wavering!
+ 7989: The wamouracampa's defenses seem unable to hold up much longer.
+ 7990: The wamouracampa's defenses are down!
+ 7991: The wamouracampa's defenses are beginning to malfunction!
+ 7992: The wamouracampa is losing its confidence in its defenses.
+ 7993: The wamouracampa gives up on its defenses!
+ 7994: Faint light is emitting from the gaps in the rock. %0 moves the rock aside.
+ 7995: The light does not seem to be reaching the wamouracampa.
+ 7996: The light shines on the wamouracampa!
+ 7997: The wamouracampa is blinded, leaving its defenses open!
+ 7998: Now is not the time for that!
+ 7999: I is Gurfurlur, the big boss. And you is dead.
+ 8000: I is dead? But I is the strongest...
+ 8001: You can see blue flames flickering from a hole in the ground here...
+ 8002: Nothing happens...
+ 8003: Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?
+ 8004: We've set up a secret marker somewhere in the bowels of a dreadful dungeon. Your goal is to reach that marker alive, kupo!
+ 8005: Oh, a new adventurer! Best of luck, kupo!
+ 8006: Are you helping out the new adventurers? Best of luck in your endeavors, kupo!
+ 8007: You're not wearing your yukata! Put it on and show me how it looks, kupo!
+ 8008: Here's your reward for reaching the goal, kupo!
+ 8009: Wear the yukata the next time you come to see me! I can't wait to see how you look, kupo!
+ 8010: Partner up with lots of different adventurers and bring back all kinds of trophies to prove your courage! When you've brought enough, I'll give you something really special, kupo!
+ 8011: The face in the portrait you brought me is just... Kupupupu!
+ 8012: Incredible, kupo! You must have nerves of darksteel! Here, you've earned this, kupo!
+ 8013: You took another dive into the dreaded dungeon, kupo? Well, you deserve a little something for your preternatural perseverance, kupo.
+ 8014: You haven't earned my really special present yet! Only truly dauntless dungeon-delvers get that, kupo!
+ 8015: This isn't enough to prove you reached the goal as a dungeon-delving duo. You have to bring me the item your partner received to show that you were both successful, kupo!
+ 8016: To go on this fright-filled face-off with fear, you need a partner who can prove you reached the goal. Come back when you have a buddy in bravery, kupo!
+ 8017: This adventure into adversity is only available to two-person parties. Split up into pairs and talk to me again, kupo!
+ 8018: Please come back with a different partner. It'll be no fun to scare you if your reactions are too similar, kupo!
+ 8019: Your partner isn't ready to go. Please wait a little longer, kupo.
+ 8020: Your partner must talk to me as well. I'll be waiting for you whenever you're ready, kupo.
+ 8021: You can only choose one partner a day. Come back again tomorrow, kupo!
+ 8022: Hold up there! It looks like your candidate for courageous companionship has already got a partner! You can't choose that person at the moment, kupo!
+ 8023: Please wait a little longer or find a new partner before coming back, kupo.
+ 8024: Are you ready to test your courage, kupo?
+ 8025: Are you ready to go? [Ready, kupo!/I'm too terrified, kupo!]
+ 8026: I'll be checking to see if you reached the goal. You can use this magical scroll to make a speedy return to town, kupo.
+ 8027: If you both succeed, I'll have a prize waiting for you! Now, off you go, kupo!
+ 8028: You can only carry one $0.
+ 8029: Are you participating in this petrifying pilgrimage with the person in your present party?
+ 8030: Hey, you changed partners! You can't switch halfway through, kupo!
+ 8031: Wait, the number of people in your party has changed! You have to be in a two-person party, kupo!
+ 8032: Choose your partner wisely. Come back when you think you have a winning combo, kupo!
+ 8033: Boo-hah-hah`...kupo!
+ 8034: Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!
+ 8035: Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!
+ 8036: Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!
+ 8037: Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu...
+ 8038: This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery.
+ 8039: Why do ghosts say "boo," anyway?
+ 8040: I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!
+ 8041: Maybe I'm doing something wrong, kupo?
+ 8042: If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...
+ 8043: Unable to enter next area. Expansion pack not installed.
+ 8044: You sense an ominous presence...
+ 8045: The heady fragrance of wine pervades the air...
+ 8046: Minute glittering fragments are scattered all over...
+ 8047: Broken shards of insect wing are scattered all over...
+ 8048: The ground is strewn with shed leaves...
+ 8049: Piles of pamama peels litter the ground...
+ 8050: The ground is smeared with bloodstains...
+ 8051: Numerous strands of hair are scattered all over...
+ 8052: Broken shards of insect wing are scattered all over...
+ 8053: A sickly sweet fragrance pervades the air...
+ 8054: An acidic odor pervades the air...
+ 8055: A putrid odor threatens to overwhelm you...
+ 8056: The ground is smeared with bloodstains...
+ 8057: An acidic odor pervades the air...
+ 8058: A sickly sweet fragrance pervades the air...
+ 8059: A stifling stench pervades the air...
+ 8060: The ground is carpeted in a thin layer of cinder.
+ 8061: A sickly sweet fragrance pervades the air...
+ 8062: The ground is strewn with shed leaves...
+ 8063: A sickly sweet fragrance pervades the air...
+ 8064: The ground here is slimy to the touch...
+ 8065: A stifling stench pervades the air...
+ 8066: Shredded scraps of paper are scattered all over...
+ 8067: The ground is strewn with shed leaves...
+ 8068: A stifling stench pervades the air...
+ 8069: Minute glittering fragments are scattered all over...
+ 8070: Light, fluttery objects litter the ground...
+ 8071: A sickly sweet fragrance pervades the air...
+ 8072: Minute glittering fragments are scattered all over...
+ 8073: The ground here is slimy to the touch...
+ 8074: The ground is smeared with bloodstains...
+ 8075: Something draws near!
+ 8076: A dull piece of metal lies on the ground. It appears to be a bracelet of sorts, but the layers of grime covering its surface render it wholly unwearable.
+ 8077: The winds remain as silent as ever.
+ 8078: Obtained key item: 3.
+ 8079: You lift the lever with all your might!
+ 8080: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 8081: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 8082: You have returned to the field of battle.
+ 8083: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 8084: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 8085: You have only $0 [second/seconds] (Earth time) remaining.
+ 8086: Your time for this Confrontation is up...
+ 8087: The monster fades before your eyes, a look of disappointment on its face.
+ 8088: (Test message.)
+ 8089: Enter the garrison? [Yes./No.]
+ 8090: The $3 is ripped violently to pieces!
+ 8091: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 8092: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 8093: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 8094: Our foe advances...may thine aim be true!
+ 8095: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 8096: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 8097: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8098: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8099: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8100: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 8101: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 8102: Greetings, traveler! How dost thou fare in thine adventures?
+ 8103: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 8104: Dost thou find this enchantment to thy liking?
+ 8105: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 8106: Splendid! May it serve thee well.
+ 8107: %0 obtained $0!
+ 8108: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 8109: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 8110: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 8111: Though it may fall short of thy expectations, pray accept it.
+ 8112: Otherwise, we shall have no choice but to dispose of it.
+ 8113: Many thanks for thine assistance!
+ 8114: Pray accept this $0 as but a humble token of our gratitude.
+ 8115: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 8116: $3f$3o$3b$3O$590643$3$3NM
+ 8117: $3f$3o$3b$3O$201475X$3^$3243853
+ 8118: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
+ 8119: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
+ 8120: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
+ 8121: You are not the party leader.
+ 8122: Some members of your party/alliance are not in the appropriate staging zone.
+ 8123: You must have at least $0 people in your party/alliance to participate.
+ 8124: One or more party/alliance members have not accepted the objective for $0.
+ 8125: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
+ 8126: One or more party/alliance members have not yet received their additional rewards for completing $0.
+ 8127: Unable to commence Wanted battle
+ 8128: One or more party/alliance members has a fellow active.
+ 8129: One or more party/alliance members has an alter ego active.
+ 8130: One or more party/alliance members is already participating in other content.
+ 8131: One or more party/alliance members is currently viewing a cut scene.
+ 8132: $0 has been removed. Reselect the objective and try again.
+ 8133: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
+ 8134: Your party leader is attempting to commence a Wanted battle.
+ 8135: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
+ 8136: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
+ 8137: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 8138: No one in your party has set the appropriate Records of Eminence objective.
+ 8139: $0 will be active the next time you join this battle.
+ 8140: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8141: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8142: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8143: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8144: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 8145: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 8146: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 8147: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 8148: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 8149: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 8150: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 8151: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 8152: You do not have enough tabs.
+ 8153: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 8154: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 8155: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 8156: Accept the reward? [Yes, please./No, thanks.]
+ 8157: You may change the way you select areas listed in "Teleportation Assistance."
+ 8158: Any changes to make? [Keep course./Select by region./Select by content.]
+ 8159: Area selection will now be made by [region/content].
+ 8160: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 8161: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 8162: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 8163: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 8164: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 8165: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

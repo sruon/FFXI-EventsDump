@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0167      |         359 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F4F      |        8015 |
-|       3 | 0x1F50      |        8016 |
+|       2 | 0x1F50      |        8016 |
+|       3 | 0x1F51      |        8017 |
 
 ## String References
 
-- **8015**: This is the arrrchway to Windurst Walls, the hearrrtland of Windurst.
-- **8016**: In the centerrr of Windurst Walls is a giant star tree that grew out of and then encompassed Heavens Tower. That's where the Star Sibyl, who rules overrr our federation, lives.
+- **8016**: This is the arrrchway to Windurst Walls, the hearrrtland of Windurst.
+- **8017**: In the centerrr of Windurst Walls is a giant star tree that grew out of and then encompassed Heavens Tower. That's where the Star Sibyl, who rules overrr our federation, lives.
 
 ## Events
 
@@ -155,10 +155,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mahoh Mahborogho (ID: 17764508/0x010F109C), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "This is the arrrchway to Windurst Walls, the hearrrtland of Windurst."
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "In the centerrr of Windurst Walls is a giant star tree that grew out of and then encompassed Heavens Tower. That's where the Star Sibyl, who rules overrr our federation, lives."
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mahoh Mahborogho (ID: 17764508/0x010F109C), tag_num=0x02)

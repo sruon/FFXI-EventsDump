@@ -25,7 +25,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1F89      |        8073 |
+|       2 | 0x1F8A      |        8074 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
@@ -36,25 +36,25 @@
 |      10 | 0x000F      |          15 |
 |      11 | 0x000A      |          10 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x1F66      |        8038 |
-|      14 | 0x1F72      |        8050 |
-|      15 | 0x1F8F      |        8079 |
-|      16 | 0x1F67      |        8039 |
+|      13 | 0x1F67      |        8039 |
+|      14 | 0x1F73      |        8051 |
+|      15 | 0x1F90      |        8080 |
+|      16 | 0x1F68      |        8040 |
 |      17 | 0x000B      |          11 |
 |      18 | 0x000E      |          14 |
-|      19 | 0x1F8C      |        8076 |
-|      20 | 0x1F7B      |        8059 |
-|      21 | 0x1F90      |        8080 |
-|      22 | 0x1F7A      |        8058 |
-|      23 | 0x1F7C      |        8060 |
-|      24 | 0x1F7D      |        8061 |
-|      25 | 0x1F8A      |        8074 |
-|      26 | 0x1F8B      |        8075 |
-|      27 | 0x1F91      |        8081 |
+|      19 | 0x1F8D      |        8077 |
+|      20 | 0x1F7C      |        8060 |
+|      21 | 0x1F91      |        8081 |
+|      22 | 0x1F7B      |        8059 |
+|      23 | 0x1F7D      |        8061 |
+|      24 | 0x1F7E      |        8062 |
+|      25 | 0x1F8B      |        8075 |
+|      26 | 0x1F8C      |        8076 |
+|      27 | 0x1F92      |        8082 |
 |      28 | 0x0032      |          50 |
-|      29 | 0x1F9A      |        8090 |
+|      29 | 0x1F9B      |        8091 |
 |      30 | 0x0008      |           8 |
-|      31 | 0x1FA5      |        8101 |
+|      31 | 0x1FA6      |        8102 |
 |      32 | 0x0064      |         100 |
 |      33 | 0x0065      |         101 |
 |      34 | 0x0066      |         102 |
@@ -67,22 +67,22 @@
 
 ## String References
 
-- **8038**: Select a difficulty. [Back./Very difficult. (Level: ???)/Difficult. (Level: $10)/Normal. (Level: $11)/Easy. (Level: $12)/Very easy. (Level: $13)]
-- **8039**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **8050**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **8058**: You are currently number $3 in line to be drawn into this nightmare.
-- **8059**: You are currently number $3 in line, with $2 in front of you.
-- **8060**: Prepare yourselves! The battlefield is almost ready!
-- **8061**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **8073**: Attempt which? (Auto-transport: [off/on]) [None./$26A Stygian Pact./$26Champion of the Dawn./$26Divine Interference./$26Maiden of the Dusk././././././././././././Toggle auto-transport.]
-- **8074**: Only party members present with you in this area will be transported to [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8075**: Entering [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8076**: You have chosen not to [apply to/enter] [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8079**: Applying to enter [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
-- **8080**: You are currently applying to enter [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8081**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
-- **8090**: Designate a value between $0 and $1.
-- **8101**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
+- **8039**: Select a difficulty. [Back./Very difficult. (Level: ???)/Difficult. (Level: $10)/Normal. (Level: $11)/Easy. (Level: $12)/Very easy. (Level: $13)]
+- **8040**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **8051**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **8059**: You are currently number $3 in line to be drawn into this nightmare.
+- **8060**: You are currently number $3 in line, with $2 in front of you.
+- **8061**: Prepare yourselves! The battlefield is almost ready!
+- **8062**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **8074**: Attempt which? (Auto-transport: [off/on]) [None./$26A Stygian Pact./$26Champion of the Dawn./$26Divine Interference./$26Maiden of the Dusk././././././././././././Toggle auto-transport.]
+- **8075**: Only party members present with you in this area will be transported to [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8076**: Entering [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8077**: You have chosen not to [apply to/enter] [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8080**: Applying to enter [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
+- **8081**: You are currently applying to enter [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8082**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
+- **8091**: Designate a value between $0 and $1.
+- **8102**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
 
 ## Events
 
@@ -166,7 +166,7 @@
   9: 0x002B [0x03] ExtData[1]->WorkLocal[3] = 0*
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[1] = 0*
  11: 0x0035 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
- 12: 0x003A [0x24] CREATE_DIALOG(message_id=8073*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 12: 0x003A [0x24] CREATE_DIALOG(message_id=8074*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Attempt which? (Auto-transport: [off/on]) [None./$26A Stygian Pact./$26Champion of the Dawn./$26Divine Interference./$26Maiden of the Dusk././././././././././././Toggle auto-transport.]"
  13: 0x0041 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0042 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0052
@@ -197,7 +197,7 @@ SUBROUTINE_00A4:
  37: 0x00C2 [0x07] Work_Zone_1700[4] += 5*
  38: 0x00C7 [0x07] Work_Zone_1700[5] += 0*
  39: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0131
- 40: 0x00D4 [0x24] CREATE_DIALOG(message_id=8038*, default_option=0*, option_flags=0*)
+ 40: 0x00D4 [0x24] CREATE_DIALOG(message_id=8039*, default_option=0*, option_flags=0*)
     → "Select a difficulty. [Back./Very difficult. (Level: ???)/Difficult. (Level: $10)/Normal. (Level: $11)/Easy. (Level: $12)/Very easy. (Level: $13)]"
  41: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  42: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EC
@@ -225,15 +225,15 @@ SUBROUTINE_0131:
 
 SUBROUTINE_0144:
  62: 0x0144 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 63: 0x0149 [0x48] [System] [8050*]:
+ 63: 0x0149 [0x48] [System] [8051*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
  64: 0x014C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  65: 0x0151 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 66: 0x0156 [0x48] [System] [8079*]:
+ 66: 0x0156 [0x48] [System] [8080*]:
     → "Applying to enter [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?"
  67: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x015A [0x03] Work_Zone[3] = 0*
- 69: 0x015F [0x24] CREATE_DIALOG(message_id=8039*, default_option=0*, option_flags=0*)
+ 69: 0x015F [0x24] CREATE_DIALOG(message_id=8040*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  70: 0x0166 [0x25] WAIT_DIALOG_SELECT()
  71: 0x0167 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0198
@@ -248,7 +248,7 @@ SUBROUTINE_0144:
  80: 0x0198 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  81: 0x019D [0x03] Work_Zone[3] = 0*
  82: 0x01A2 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 83: 0x01A7 [0x48] [System] [8076*]:
+ 83: 0x01A7 [0x48] [System] [8077*]:
     → "You have chosen not to [apply to/enter] [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  84: 0x01AA [0x03] Work_Zone[1] = 1073741824*
  85: 0x01AF [0x21] END_EVENT
@@ -294,26 +294,26 @@ SUBROUTINE_01B1:
   0: 0x01B3 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[4]
   1: 0x01B8 [0x03] Work_Zone[4] = Work_Zone[6]
   2: 0x01BD [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x01CC
-  3: 0x01C5 [0x48] [System] [8059*]:
+  3: 0x01C5 [0x48] [System] [8060*]:
     → "You are currently number $3 in line, with $2 in front of you."
   4: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01C9 [0x01] GOTO 0x01D0
-  6: 0x01CC [0x48] [System] [8080*]:
+  6: 0x01CC [0x48] [System] [8081*]:
     → "You are currently applying to enter [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   7: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01D0:
   8: 0x01D0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[18]
-  9: 0x01D5 [0x48] [System] [8058*]:
+  9: 0x01D5 [0x48] [System] [8059*]:
     → "You are currently number $3 in line to be drawn into this nightmare."
  10: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x01D9 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x01EC
- 12: 0x01E1 [0x48] [System] [8060*]:
+ 12: 0x01E1 [0x48] [System] [8061*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  13: 0x01E4 [0x03] Work_Zone[1] = 1073741824*
  14: 0x01E9 [0x01] GOTO 0x021E
  15: 0x01EC [0x03] Work_Zone[2] = 1*
- 16: 0x01F1 [0x24] CREATE_DIALOG(message_id=8061*, default_option=1*, option_flags=0*)
+ 16: 0x01F1 [0x24] CREATE_DIALOG(message_id=8062*, default_option=1*, option_flags=0*)
     → "Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  17: 0x01F8 [0x25] WAIT_DIALOG_SELECT()
  18: 0x01F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0209
@@ -356,11 +356,11 @@ SUBROUTINE_021E:
   0: 0x0220 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0221 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[2]
   2: 0x0226 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[4]
-  3: 0x022B [0x48] [System] [8074*]:
+  3: 0x022B [0x48] [System] [8075*]:
     → "Only party members present with you in this area will be transported to [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   4: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x022F [0x03] Work_Zone[3] = 1*
-  6: 0x0234 [0x24] CREATE_DIALOG(message_id=8039*, default_option=0*, option_flags=0*)
+  6: 0x0234 [0x24] CREATE_DIALOG(message_id=8040*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
   7: 0x023B [0x25] WAIT_DIALOG_SELECT()
   8: 0x023C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0276
@@ -370,7 +370,7 @@ SUBROUTINE_021E:
  12: 0x024D [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x026E
  13: 0x0255 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
  14: 0x025A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[16]
- 15: 0x025F [0x48] [System] [8075*]:
+ 15: 0x025F [0x48] [System] [8076*]:
     → "Entering [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  16: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0263 [0x1A] CALL_SUBROUTINE(address=0x03AC)
@@ -435,7 +435,7 @@ SUBROUTINE_027B:
   0: 0x027D [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[2]
   1: 0x0282 [0x05] ExtData[1]->WorkLocal[10] = 1
   2: 0x0285 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x03AA
-  3: 0x028D [0x24] CREATE_DIALOG(message_id=8081*, default_option=0*, option_flags=0*)
+  3: 0x028D [0x24] CREATE_DIALOG(message_id=8082*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]"
   4: 0x0294 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0295 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A9
@@ -451,7 +451,7 @@ SUBROUTINE_027B:
  15: 0x02BD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02F1
  16: 0x02C5 [0x03] Work_Zone[2] = 1*
  17: 0x02CA [0x03] Work_Zone[3] = 50*
- 18: 0x02CF [0x48] [System] [8090*]:
+ 18: 0x02CF [0x48] [System] [8091*]:
     → "Designate a value between $0 and $1."
  19: 0x02D2 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  20: 0x02D8 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -463,7 +463,7 @@ SUBROUTINE_027B:
  26: 0x02F1 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0325
  27: 0x02F9 [0x03] Work_Zone[2] = 1*
  28: 0x02FE [0x03] Work_Zone[3] = 50*
- 29: 0x0303 [0x48] [System] [8090*]:
+ 29: 0x0303 [0x48] [System] [8091*]:
     → "Designate a value between $0 and $1."
  30: 0x0306 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  31: 0x030C [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -479,7 +479,7 @@ SUBROUTINE_027B:
  41: 0x0336 [0x01] GOTO 0x03A7
  42: 0x0339 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x03A4
  43: 0x0341 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
- 44: 0x0346 [0x24] CREATE_DIALOG(message_id=8101*, default_option=0*, option_flags=0*)
+ 44: 0x0346 [0x24] CREATE_DIALOG(message_id=8102*, default_option=0*, option_flags=0*)
     → "$)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]"
  45: 0x034D [0x25] WAIT_DIALOG_SELECT()
  46: 0x034E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035E

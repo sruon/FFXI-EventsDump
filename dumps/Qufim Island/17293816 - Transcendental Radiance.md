@@ -26,11 +26,11 @@
 |       2 | 0x0001      |           1 |
 |       3 | 0x0602      |        1538 |
 |       4 | 0x04F7      |        1271 |
-|       5 | 0x2CFB      |       11515 |
-|       6 | 0x2CFE      |       11518 |
+|       5 | 0x2CFC      |       11516 |
+|       6 | 0x2CFF      |       11519 |
 |       7 | 0x003C      |          60 |
-|       8 | 0x2CFD      |       11517 |
-|       9 | 0x2CFF      |       11519 |
+|       8 | 0x2CFE      |       11518 |
+|       9 | 0x2D00      |       11520 |
 |      10 | 0x40000000  |  1073741824 |
 |      11 | 0x00C8      |         200 |
 |      12 | 0x0013      |          19 |
@@ -44,10 +44,10 @@
 
 ## String References
 
-- **11515**: Your $3 resonates with the eerie light before you.
-- **11517**: [Enter the portal/Warp to Abyssea - Empyreal Paradox]? [Proceed. ($3 cruor)/Not yet.]
-- **11518**: Cruor will not be expended for those possessing $6.
-- **11519**: You do not have enough energy in cruor to warp to your destination.
+- **11516**: Your $3 resonates with the eerie light before you.
+- **11518**: [Enter the portal/Warp to Abyssea - Empyreal Paradox]? [Proceed. ($3 cruor)/Not yet.]
+- **11519**: Cruor will not be expended for those possessing $6.
+- **11520**: You do not have enough energy in cruor to warp to your destination.
 
 ## Events
 
@@ -186,17 +186,17 @@
   8: 0x002D [0x03] Work_Zone[2] = 1271*
 
 SUBROUTINE_0032:
-  9: 0x0032 [0x48] [System] [11515*]:
+  9: 0x0032 [0x48] [System] [11516*]:
     → "Your $3 resonates with the eerie light before you."
  10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0036 [0x03] Work_Zone[2] = 1538*
- 12: 0x003B [0x48] [System] [11518*]:
+ 12: 0x003B [0x48] [System] [11519*]:
     → "Cruor will not be expended for those possessing $6."
  13: 0x003E [0x1C] WAIT(60* ticks)
  14: 0x0041 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  15: 0x0043 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  16: 0x0045 [0x03] Work_Zone[2] = 1*
- 17: 0x004A [0x24] CREATE_DIALOG(message_id=11517*, default_option=1*, option_flags=0*)
+ 17: 0x004A [0x24] CREATE_DIALOG(message_id=11518*, default_option=1*, option_flags=0*)
     → "[Enter the portal/Warp to Abyssea - Empyreal Paradox]? [Proceed. ($3 cruor)/Not yet.]"
  18: 0x0051 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0052 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0137
@@ -207,7 +207,7 @@ SUBROUTINE_0032:
  24: 0x006B [0x03] Work_Zone[1] = 1*
  25: 0x0070 [0x01] GOTO 0x0087
  26: 0x0073 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x007F
- 27: 0x007B [0x48] [System] [11519*]:
+ 27: 0x007B [0x48] [System] [11520*]:
     → "You do not have enough energy in cruor to warp to your destination."
  28: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x007F [0x03] Work_Zone[1] = 1073741824*

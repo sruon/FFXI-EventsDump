@@ -1,5 +1,5 @@
 # Strings for Temenos
-# Total: 7328 strings
+# Total: 7329 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,106 +7226,107 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Use the device? [Yes./No.]
- 7228: DEBUG: Stage clear!
- 7229: DEBUG: Reset...
- 7230: You do not meet the requirements to remain here. Warping you to Al'Taieu...
- 7231: Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower - 1st Basement./Never mind.]
- 7232: Enter which floor of the tower? [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]
- 7233: Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]
- 7234: Returning to entrance. [Sure./No thanks.]
- 7235: Acquired Temenos Units: $0. Remaining Temenos Units: $1. Total Temenos Units: $2/$3.
- 7236: Welcome to Temenos. Please present your $3.
- 7237: ...Credentials not present. Authorizing new issuance.
- 7238: Registration in progress...
- 7239: Welcome to Temenos. This place is designed for the generation of new life-forms.
- 7240: North, West, East, and Central Towers contain monsters for recording data in your $3.
- 7241: Successfully recording data will permit you to open Temenos Coffers.
- 7242: You will also be authorized to collect a special currency called Temenos Units.
- 7243: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
- 7244: Temenos Units can be used in the Temenos Furnace.
- 7245: Please use it to your advantage.
- 7246: Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency.
- 7247: The more data, the stronger the Grace.
- 7248: Your registration is now complete. Currently recording initial data in your $3.
- 7249: Please set your initial monster level. The higher the level, the more precise the data we can gather.
- 7250: Your $3 is now fully prepared. Glory to Zilart.
- 7251: ...
- 7252: ......
- 7253: Enter a level value between 119 and $1 to be recorded in your $3.
- 7254: "$1" has been recorded in your $3.
- 7255: Enter 0 to cancel.
- 7256: It won't open.
- 7257: Increasing the level will reset your progress.
- 7258: What will you do? [Change level and reset./Never mind.]
- 7259: Progress has been reset.
- 7260: Unrecognized entrant. Please proceed to the Temenos Operator.
- 7261: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%.@/CN Opening.$1./Reforging.@/Unique data./Nothing for now.]
- 7262: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
- 7263: The Temenos Furnace uses data to enhance your equipment.
- 7264: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Nothing for now.]
- 7265: Which item? [#./$1./$2./$3./$4./Back.]
- 7266: Reforging your item into $0 requires $1 and $2 Temenos Units.
- 7267: 3 confirmed.
- 7268: 3 effects: Accuracy+$1@Ranged Accuracy+$1@Magic Accuracy+$1.
- 7269: $3 effects: BPALL+$3.
- 7270: $3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%
- 7271: You are not authorized to use Temenos Units.
- 7272: You are authorized to use Temenos Units.
- 7273: Fusing your $0 with $1 Apollyon Units to create $2.
- 7274: Proceed? [Yes./No.]
- 7275: You have been approved to use the Temenos Furnace.
- 7276: You may collect data $0 more time[/s].
- 7277: You have been granted the otherwise unobtainable designation Temenos Emancipator.
- 7278: $0 detected. Several equipment items can now be created.
- 7279: Which? [Create $0./Create $1./None of these.]
- 7280: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Temenos Units shall be expended in the process.
- 7281: You do not have enough Temenos Units.
- 7282: I have generated new notorious monsters based on your data.
- 7283: Here is a quick rundown.
- 7284: 1: they do not take your set level into account.
- 7285: 2: there are 22 types, but only 4 will appear on any given day (Earth time).
- 7286: $0: vanquishing them affects the contents of the Temenos Coffer available four weeks later.
- 7287: This should enable you to collect even more precise data.
- 7288: The $0 changes form when one uses Temenos Units.
- 7289: It can produce special equipment.
- 7290: The produced equipment can be further infused.
- 7291: Notorious monster vanquishing information will affect Temenos Coffers in $0 [days/hours/hour or less] (Earth time).
- 7292: #, $1, and $2. confirmed. Able to create $3.
- 7293: Create? [Create./Do not create.]
- 7294: Confirming $0, $1... Able to create $2.
- 7295: Carrying over attributes from the $0 to the $4.
- 7296: Your $0 will be consumed.
- 7297: Temenos Operator: CN opening status:
- 7298: Condition $0: [Incomplete/Complete] ($2/$3).
- 7299: Temenos Operator: CN opened.
- 7300: Do what? ($5: $6.) [Change to $0./Change to $1./Change to $2./Change to $3./Change to $4./Do nothing.]
- 7301: Able to change up to $0.
- 7302: Changing $1 $0 into $3 $0 .
- 7303: Do what? [Phase 1./Phase 2./@/Back.]
- 7304: New notorious monsters have been created based on collected data aand registrant information.
- 7305: Communicating data on new notorious monsters.
- 7306: 2: Notorious monsters are classified into three categories.
- 7307: 3: Notorious monster spawn conditions are divided into two sets.
- 7308: 4: They spawn in CN, which opens when certain conditions are met.
- 7309: CN is open.
- 7310: Creating $0 based on registrant information.
- 7311: Multiple $0 may by created from $1 and $2.
- 7312: Created items can be used to unlock and reforge new equipment.
- 7313: Up to $3 $0 can be changed into other types.
- 7314: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
- 7315: However, the original equipment will be consumed in the process.
- 7316: You have received the designation Temenos Liberator, which has become unattainable by other means.
- 7317: Unique data can be collected after $0 more attempt[/s].
- 7318: Unique data will be recorded after dealing damage to a notorious monster.
- 7319: A wide variety of data is needed to ensure the unique data's precision.
- 7320: Acquiring the requisite amount of unique data will unlock one Temenos Coffer in either the north, west, east, or central towers.
- 7321: Unique data may be accumulated up to a cap of $0.
- 7322: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
- 7323: slot:@ initStep:@ ticket:@ expire:@sec
- 7324: $P15[$P116$3f$593776$z%;5\5=B
- 7325: $60298775=B
- 7326: $3`$3P$3b$3gp$P14j$|5\5=B
- 7327: Error:@
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Use the device? [Yes./No.]
+ 7229: DEBUG: Stage clear!
+ 7230: DEBUG: Reset...
+ 7231: You do not meet the requirements to remain here. Warping you to Al'Taieu...
+ 7232: Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower - 1st Basement./Never mind.]
+ 7233: Enter which floor of the tower? [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]
+ 7234: Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]
+ 7235: Returning to entrance. [Sure./No thanks.]
+ 7236: Acquired Temenos Units: $0. Remaining Temenos Units: $1. Total Temenos Units: $2/$3.
+ 7237: Welcome to Temenos. Please present your $3.
+ 7238: ...Credentials not present. Authorizing new issuance.
+ 7239: Registration in progress...
+ 7240: Welcome to Temenos. This place is designed for the generation of new life-forms.
+ 7241: North, West, East, and Central Towers contain monsters for recording data in your $3.
+ 7242: Successfully recording data will permit you to open Temenos Coffers.
+ 7243: You will also be authorized to collect a special currency called Temenos Units.
+ 7244: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
+ 7245: Temenos Units can be used in the Temenos Furnace.
+ 7246: Please use it to your advantage.
+ 7247: Special Limbus buffs known as Grace are also available to those who have deposited a sufficient amount of currency.
+ 7248: The more data, the stronger the Grace.
+ 7249: Your registration is now complete. Currently recording initial data in your $3.
+ 7250: Please set your initial monster level. The higher the level, the more precise the data we can gather.
+ 7251: Your $3 is now fully prepared. Glory to Zilart.
+ 7252: ...
+ 7253: ......
+ 7254: Enter a level value between 119 and $1 to be recorded in your $3.
+ 7255: "$1" has been recorded in your $3.
+ 7256: Enter 0 to cancel.
+ 7257: It won't open.
+ 7258: Increasing the level will reset your progress.
+ 7259: What will you do? [Change level and reset./Never mind.]
+ 7260: Progress has been reset.
+ 7261: Unrecognized entrant. Please proceed to the Temenos Operator.
+ 7262: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%.@/CN Opening.$1./Reforging.@/Unique data./Nothing for now.]
+ 7263: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
+ 7264: The Temenos Furnace uses data to enhance your equipment.
+ 7265: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Nothing for now.]
+ 7266: Which item? [#./$1./$2./$3./$4./Back.]
+ 7267: Reforging your item into $0 requires $1 and $2 Temenos Units.
+ 7268: 3 confirmed.
+ 7269: 3 effects: Accuracy+$1@Ranged Accuracy+$1@Magic Accuracy+$1.
+ 7270: $3 effects: BPALL+$3.
+ 7271: $3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%
+ 7272: You are not authorized to use Temenos Units.
+ 7273: You are authorized to use Temenos Units.
+ 7274: Fusing your $0 with $1 Apollyon Units to create $2.
+ 7275: Proceed? [Yes./No.]
+ 7276: You have been approved to use the Temenos Furnace.
+ 7277: You may collect data $0 more time[/s].
+ 7278: You have been granted the otherwise unobtainable designation Temenos Emancipator.
+ 7279: $0 detected. Several equipment items can now be created.
+ 7280: Which? [Create $0./Create $1./None of these.]
+ 7281: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Temenos Units shall be expended in the process.
+ 7282: You do not have enough Temenos Units.
+ 7283: I have generated new notorious monsters based on your data.
+ 7284: Here is a quick rundown.
+ 7285: 1: they do not take your set level into account.
+ 7286: 2: there are 22 types, but only 4 will appear on any given day (Earth time).
+ 7287: $0: vanquishing them affects the contents of the Temenos Coffer available four weeks later.
+ 7288: This should enable you to collect even more precise data.
+ 7289: The $0 changes form when one uses Temenos Units.
+ 7290: It can produce special equipment.
+ 7291: The produced equipment can be further infused.
+ 7292: Notorious monster vanquishing information will affect Temenos Coffers in $0 [days/hours/hour or less] (Earth time).
+ 7293: #, $1, and $2. confirmed. Able to create $3.
+ 7294: Create? [Create./Do not create.]
+ 7295: Confirming $0, $1... Able to create $2.
+ 7296: Carrying over attributes from the $0 to the $4.
+ 7297: Your $0 will be consumed.
+ 7298: Temenos Operator: CN opening status:
+ 7299: Condition $0: [Incomplete/Complete] ($2/$3).
+ 7300: Temenos Operator: CN opened.
+ 7301: Do what? ($5: $6.) [Change to $0./Change to $1./Change to $2./Change to $3./Change to $4./Do nothing.]
+ 7302: Able to change up to $0.
+ 7303: Changing $1 $0 into $3 $0 .
+ 7304: Do what? [Phase 1./Phase 2./@/Back.]
+ 7305: New notorious monsters have been created based on collected data aand registrant information.
+ 7306: Communicating data on new notorious monsters.
+ 7307: 2: Notorious monsters are classified into three categories.
+ 7308: 3: Notorious monster spawn conditions are divided into two sets.
+ 7309: 4: They spawn in CN, which opens when certain conditions are met.
+ 7310: CN is open.
+ 7311: Creating $0 based on registrant information.
+ 7312: Multiple $0 may by created from $1 and $2.
+ 7313: Created items can be used to unlock and reforge new equipment.
+ 7314: Up to $3 $0 can be changed into other types.
+ 7315: Reforged equipment attributes can be carried over to higher-tier equipmen of the same series and equipment slot.
+ 7316: However, the original equipment will be consumed in the process.
+ 7317: You have received the designation Temenos Liberator, which has become unattainable by other means.
+ 7318: Unique data can be collected after $0 more attempt[/s].
+ 7319: Unique data will be recorded after dealing damage to a notorious monster.
+ 7320: A wide variety of data is needed to ensure the unique data's precision.
+ 7321: Acquiring the requisite amount of unique data will unlock one Temenos Coffer in either the north, west, east, or central towers.
+ 7322: Unique data may be accumulated up to a cap of $0.
+ 7323: $3$3$3o$3X$3`$3P$3b$3g$3$3j$3$5[(@@) [$3X$3e[$3^$3X$m$P14F/@@/$P15[$P116$3f[$3^$9$z%;/$3`$3P$3b$3g$P14j$|/b_i]
+ 7324: slot:@ initStep:@ ticket:@ expire:@sec
+ 7325: $P15[$P116$3f$593776$z%;5\5=B
+ 7326: $60298775=B
+ 7327: $3`$3P$3b$3gp$P14j$|5\5=B
+ 7328: Error:@

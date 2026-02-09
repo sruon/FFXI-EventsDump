@@ -26,15 +26,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0055      |          85 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x226E      |        8814 |
-|       3 | 0x1EEE      |        7918 |
-|       4 | 0x1EEF      |        7919 |
+|       2 | 0x226F      |        8815 |
+|       3 | 0x1EEF      |        7919 |
+|       4 | 0x1EF0      |        7920 |
 
 ## String References
 
-- **7918**: The food offerings made to the Yagudo are first placed in the two altars in front of each of the cavern entrances in Giddeus.
-- **7919**: But if you don't hurry up, the Yagudo will carry them off to their underground treasure chambers for later distribution.
-- **8814**: tNanah-nananah!t Before a new dish gets added to the menu at the westaurant over there, we's alweady tasted it! I bet you're jealous, 'coz we're sooo wucky!
+- **7919**: The food offerings made to the Yagudo are first placed in the two altars in front of each of the cavern entrances in Giddeus.
+- **7920**: But if you don't hurry up, the Yagudo will carry them off to their underground treasure chambers for later distribution.
+- **8815**: tNanah-nananah!t Before a new dish gets added to the menu at the westaurant over there, we's alweady tasted it! I bet you're jealous, 'coz we're sooo wucky!
 
 ## Events
 
@@ -160,7 +160,7 @@
   2: 0x003B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rabiri-Tabiri (ID: 17752172/0x010EE06C), tag_num=0x01)
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8814*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8815*)
     → "tNanah-nananah!t Before a new dish gets added to the menu at the westaurant over there, we's alweady tasted it! I bet you're jealous, 'coz we're sooo wucky!"
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0048 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rabiri-Tabiri (ID: 17752172/0x010EE06C), tag_num=0x02)
@@ -195,10 +195,10 @@
   2: 0x005E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x005F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0060 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rabiri-Tabiri (ID: 17752172/0x010EE06C), tag_num=0x01)
-  5: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+  5: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "The food offerings made to the Yagudo are first placed in the two altars in front of each of the cavern entrances in Giddeus."
   6: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+  7: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "But if you don't hurry up, the Yagudo will carry them off to their underground treasure chambers for later distribution."
   8: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x006F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rabiri-Tabiri (ID: 17752172/0x010EE06C), tag_num=0x02)

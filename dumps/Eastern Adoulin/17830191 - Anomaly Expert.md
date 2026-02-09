@@ -35,166 +35,166 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003B      |          59 |
-|       1 | 0x3292      |       12946 |
-|       2 | 0x3293      |       12947 |
-|       3 | 0x3294      |       12948 |
-|       4 | 0x3295      |       12949 |
+|       1 | 0x3293      |       12947 |
+|       2 | 0x3294      |       12948 |
+|       3 | 0x3295      |       12949 |
+|       4 | 0x3296      |       12950 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0006      |           6 |
-|       7 | 0x3296      |       12950 |
+|       7 | 0x3297      |       12951 |
 |       8 | 0x40000000  |  1073741824 |
 |       9 | 0x0007      |           7 |
-|      10 | 0x3297      |       12951 |
+|      10 | 0x3298      |       12952 |
 |      11 | 0x000A      |          10 |
-|      12 | 0x3298      |       12952 |
-|      13 | 0x3299      |       12953 |
-|      14 | 0x329B      |       12955 |
+|      12 | 0x3299      |       12953 |
+|      13 | 0x329A      |       12954 |
+|      14 | 0x329C      |       12956 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x0012      |          18 |
-|      17 | 0x329A      |       12954 |
-|      18 | 0x330B      |       13067 |
-|      19 | 0x330C      |       13068 |
-|      20 | 0x330D      |       13069 |
+|      17 | 0x329B      |       12955 |
+|      18 | 0x330C      |       13068 |
+|      19 | 0x330D      |       13069 |
+|      20 | 0x330E      |       13070 |
 |      21 | 0x001F      |          31 |
 |      22 | 0x0020      |          32 |
 |      23 | 0x003F      |          63 |
-|      24 | 0x329C      |       12956 |
+|      24 | 0x329D      |       12957 |
 |      25 | 0x0002      |           2 |
 |      26 | 0x0003      |           3 |
 |      27 | 0x0004      |           4 |
 |      28 | 0x0005      |           5 |
-|      29 | 0x329D      |       12957 |
-|      30 | 0x329E      |       12958 |
-|      31 | 0x329F      |       12959 |
-|      32 | 0x32A0      |       12960 |
-|      33 | 0x32B6      |       12982 |
-|      34 | 0x32B7      |       12983 |
-|      35 | 0x32B8      |       12984 |
-|      36 | 0x32B9      |       12985 |
-|      37 | 0x32BA      |       12986 |
-|      38 | 0x32BB      |       12987 |
-|      39 | 0x32BC      |       12988 |
-|      40 | 0x32BD      |       12989 |
-|      41 | 0x32BE      |       12990 |
-|      42 | 0x32BF      |       12991 |
-|      43 | 0x32C0      |       12992 |
-|      44 | 0x330F      |       13071 |
-|      45 | 0x3310      |       13072 |
-|      46 | 0x3311      |       13073 |
-|      47 | 0x3312      |       13074 |
-|      48 | 0x3313      |       13075 |
-|      49 | 0x3314      |       13076 |
-|      50 | 0x32C1      |       12993 |
-|      51 | 0x32C2      |       12994 |
-|      52 | 0x32C3      |       12995 |
-|      53 | 0x32C4      |       12996 |
-|      54 | 0x32C5      |       12997 |
-|      55 | 0x32C6      |       12998 |
-|      56 | 0x32C7      |       12999 |
-|      57 | 0x32C8      |       13000 |
-|      58 | 0x32C9      |       13001 |
-|      59 | 0x32CA      |       13002 |
-|      60 | 0x32CB      |       13003 |
-|      61 | 0x32CC      |       13004 |
-|      62 | 0x32CD      |       13005 |
-|      63 | 0x32CE      |       13006 |
-|      64 | 0x32CF      |       13007 |
-|      65 | 0x32D0      |       13008 |
-|      66 | 0x32D1      |       13009 |
-|      67 | 0x32D2      |       13010 |
-|      68 | 0x32D3      |       13011 |
-|      69 | 0x32D4      |       13012 |
-|      70 | 0x32D5      |       13013 |
-|      71 | 0x32D6      |       13014 |
-|      72 | 0x32D7      |       13015 |
-|      73 | 0x32D8      |       13016 |
+|      29 | 0x329E      |       12958 |
+|      30 | 0x329F      |       12959 |
+|      31 | 0x32A0      |       12960 |
+|      32 | 0x32A1      |       12961 |
+|      33 | 0x32B7      |       12983 |
+|      34 | 0x32B8      |       12984 |
+|      35 | 0x32B9      |       12985 |
+|      36 | 0x32BA      |       12986 |
+|      37 | 0x32BB      |       12987 |
+|      38 | 0x32BC      |       12988 |
+|      39 | 0x32BD      |       12989 |
+|      40 | 0x32BE      |       12990 |
+|      41 | 0x32BF      |       12991 |
+|      42 | 0x32C0      |       12992 |
+|      43 | 0x32C1      |       12993 |
+|      44 | 0x3310      |       13072 |
+|      45 | 0x3311      |       13073 |
+|      46 | 0x3312      |       13074 |
+|      47 | 0x3313      |       13075 |
+|      48 | 0x3314      |       13076 |
+|      49 | 0x3315      |       13077 |
+|      50 | 0x32C2      |       12994 |
+|      51 | 0x32C3      |       12995 |
+|      52 | 0x32C4      |       12996 |
+|      53 | 0x32C5      |       12997 |
+|      54 | 0x32C6      |       12998 |
+|      55 | 0x32C7      |       12999 |
+|      56 | 0x32C8      |       13000 |
+|      57 | 0x32C9      |       13001 |
+|      58 | 0x32CA      |       13002 |
+|      59 | 0x32CB      |       13003 |
+|      60 | 0x32CC      |       13004 |
+|      61 | 0x32CD      |       13005 |
+|      62 | 0x32CE      |       13006 |
+|      63 | 0x32CF      |       13007 |
+|      64 | 0x32D0      |       13008 |
+|      65 | 0x32D1      |       13009 |
+|      66 | 0x32D2      |       13010 |
+|      67 | 0x32D3      |       13011 |
+|      68 | 0x32D4      |       13012 |
+|      69 | 0x32D5      |       13013 |
+|      70 | 0x32D6      |       13014 |
+|      71 | 0x32D7      |       13015 |
+|      72 | 0x32D8      |       13016 |
+|      73 | 0x32D9      |       13017 |
 |      74 | 0x0008      |           8 |
-|      75 | 0x32A1      |       12961 |
-|      76 | 0x32A2      |       12962 |
-|      77 | 0x32A3      |       12963 |
+|      75 | 0x32A2      |       12962 |
+|      76 | 0x32A3      |       12963 |
+|      77 | 0x32A4      |       12964 |
 |      78 | 0x08F8      |        2296 |
 |      79 | 0x08F9      |        2297 |
 |      80 | 0x08FA      |        2298 |
 |      81 | 0x09E2      |        2530 |
 |      82 | 0x09E1      |        2529 |
 |      83 | 0x09E3      |        2531 |
-|      84 | 0x32A4      |       12964 |
-|      85 | 0x32A5      |       12965 |
-|      86 | 0x32A6      |       12966 |
-|      87 | 0x32A7      |       12967 |
-|      88 | 0x32A8      |       12968 |
-|      89 | 0x32A9      |       12969 |
-|      90 | 0x32AA      |       12970 |
-|      91 | 0x32AB      |       12971 |
-|      92 | 0x32AD      |       12973 |
-|      93 | 0x32AE      |       12974 |
-|      94 | 0x32AF      |       12975 |
+|      84 | 0x32A5      |       12965 |
+|      85 | 0x32A6      |       12966 |
+|      86 | 0x32A7      |       12967 |
+|      87 | 0x32A8      |       12968 |
+|      88 | 0x32A9      |       12969 |
+|      89 | 0x32AA      |       12970 |
+|      90 | 0x32AB      |       12971 |
+|      91 | 0x32AC      |       12972 |
+|      92 | 0x32AE      |       12974 |
+|      93 | 0x32AF      |       12975 |
+|      94 | 0x32B0      |       12976 |
 |      95 | 0x000F      |          15 |
 |      96 | 0x0010      |          16 |
 |      97 | 0x0013      |          19 |
 |      98 | 0x0014      |          20 |
 |      99 | 0x0079      |         121 |
-|     100 | 0x32B3      |       12979 |
-|     101 | 0x32B4      |       12980 |
-|     102 | 0x32B0      |       12976 |
+|     100 | 0x32B4      |       12980 |
+|     101 | 0x32B5      |       12981 |
+|     102 | 0x32B1      |       12977 |
 |     103 | 0xFFFFFFFF  |  4294967295 |
-|     104 | 0x330E      |       13070 |
-|     105 | 0x32F6      |       13046 |
-|     106 | 0x32F7      |       13047 |
-|     107 | 0x32B5      |       12981 |
-|     108 | 0x32F8      |       13048 |
-|     109 | 0x32F9      |       13049 |
-|     110 | 0x32FA      |       13050 |
+|     104 | 0x330F      |       13071 |
+|     105 | 0x32F7      |       13047 |
+|     106 | 0x32F8      |       13048 |
+|     107 | 0x32B6      |       12982 |
+|     108 | 0x32F9      |       13049 |
+|     109 | 0x32FA      |       13050 |
+|     110 | 0x32FB      |       13051 |
 |     111 | 0x18F7      |        6391 |
-|     112 | 0x3309      |       13065 |
-|     113 | 0x330A      |       13066 |
-|     114 | 0x32D9      |       13017 |
+|     112 | 0x330A      |       13066 |
+|     113 | 0x330B      |       13067 |
+|     114 | 0x32DA      |       13018 |
 |     115 | 0x00BE      |         190 |
 |     116 | 0x0078      |         120 |
 |     117 | 0x00F0      |         240 |
-|     118 | 0x32DA      |       13018 |
-|     119 | 0x32DB      |       13019 |
-|     120 | 0x32DD      |       13021 |
-|     121 | 0x32DE      |       13022 |
-|     122 | 0x32DF      |       13023 |
+|     118 | 0x32DB      |       13019 |
+|     119 | 0x32DC      |       13020 |
+|     120 | 0x32DE      |       13022 |
+|     121 | 0x32DF      |       13023 |
+|     122 | 0x32E0      |       13024 |
 |     123 | 0x0800      |        2048 |
 |     124 | 0x0FFF      |        4095 |
 |     125 | 0x0019      |          25 |
-|     126 | 0x32E0      |       13024 |
-|     127 | 0x32E1      |       13025 |
-|     128 | 0x32E2      |       13026 |
-|     129 | 0x32E3      |       13027 |
-|     130 | 0x32E4      |       13028 |
-|     131 | 0x32E5      |       13029 |
+|     126 | 0x32E1      |       13025 |
+|     127 | 0x32E2      |       13026 |
+|     128 | 0x32E3      |       13027 |
+|     129 | 0x32E4      |       13028 |
+|     130 | 0x32E5      |       13029 |
+|     131 | 0x32E6      |       13030 |
 |     132 | 0x0015      |          21 |
-|     133 | 0x32E8      |       13032 |
+|     133 | 0x32E9      |       13033 |
 |     134 | 0x001D      |          29 |
-|     135 | 0x32E9      |       13033 |
-|     136 | 0x32EA      |       13034 |
-|     137 | 0x32EB      |       13035 |
-|     138 | 0x32EC      |       13036 |
-|     139 | 0x32ED      |       13037 |
-|     140 | 0x32EE      |       13038 |
-|     141 | 0x32EF      |       13039 |
-|     142 | 0x32F0      |       13040 |
-|     143 | 0x32F1      |       13041 |
+|     135 | 0x32EA      |       13034 |
+|     136 | 0x32EB      |       13035 |
+|     137 | 0x32EC      |       13036 |
+|     138 | 0x32ED      |       13037 |
+|     139 | 0x32EE      |       13038 |
+|     140 | 0x32EF      |       13039 |
+|     141 | 0x32F0      |       13040 |
+|     142 | 0x32F1      |       13041 |
+|     143 | 0x32F2      |       13042 |
 |     144 | 0x000C      |          12 |
-|     145 | 0x32F2      |       13042 |
-|     146 | 0x32F3      |       13043 |
-|     147 | 0x32F4      |       13044 |
+|     145 | 0x32F3      |       13043 |
+|     146 | 0x32F4      |       13044 |
+|     147 | 0x32F5      |       13045 |
 |     148 | 0x000B      |          11 |
-|     149 | 0x32F5      |       13045 |
-|     150 | 0x32FE      |       13054 |
-|     151 | 0x32FF      |       13055 |
-|     152 | 0x3300      |       13056 |
-|     153 | 0x3301      |       13057 |
-|     154 | 0x3302      |       13058 |
-|     155 | 0x3303      |       13059 |
-|     156 | 0x3304      |       13060 |
-|     157 | 0x3305      |       13061 |
-|     158 | 0x3306      |       13062 |
-|     159 | 0x3307      |       13063 |
-|     160 | 0x3308      |       13064 |
+|     149 | 0x32F6      |       13046 |
+|     150 | 0x32FF      |       13055 |
+|     151 | 0x3300      |       13056 |
+|     152 | 0x3301      |       13057 |
+|     153 | 0x3302      |       13058 |
+|     154 | 0x3303      |       13059 |
+|     155 | 0x3304      |       13060 |
+|     156 | 0x3305      |       13061 |
+|     157 | 0x3306      |       13062 |
+|     158 | 0x3307      |       13063 |
+|     159 | 0x3308      |       13064 |
+|     160 | 0x3309      |       13065 |
 |     161 | 0x0009      |           9 |
 |     162 | 0x000E      |          14 |
 |     163 | 0x0018      |          24 |
@@ -235,19 +235,19 @@
 ## String References
 
 - **6391**: Obtained: #.
-- **12953**: Ready for some spelunking? [My gear's as good as on!/Caves, eew...]
-- **12957**: What will you ask of her? [Explain the whole shebang./Yantric planchette defusion./Receive rewards./Nothing at this time.]
-- **12959**: The following topics are inscribed on the vellum.
-- **12960**: Learn about which topic? [Treasures./Fractures./Obscured domains./Mweya plasm./Yantric planchettes./Yggrete./Yggrete shards./Yggzi beads./Not interested at the moment.]
-- **12964**: Examine which item? [3./$3./$3./$3./$3./$3./Never mind.]
-- **12967**: What now? [Check the $3./Remove yggzi beads./Do nothing.]
-- **12973**: Remove which? [#./$1./$2./$3./$4./None.]
-- **12975**: Are you sure? [Positive./Wait, I need time to think...]
-- **13022**: - $0
-- **13023**: ...right? Let me just scratch a couple etchings in here and...
-- **13026**: -$0
-- **13027**: That should be it for now.
-- **13070**: Receive which rewards? [None./Celadon, zaffre, and alizarin-related ones./Russet, phlox, and aster-related ones./Ones for conquering $1 fractures.]
+- **12954**: Ready for some spelunking? [My gear's as good as on!/Caves, eew...]
+- **12958**: What will you ask of her? [Explain the whole shebang./Yantric planchette defusion./Receive rewards./Nothing at this time.]
+- **12960**: The following topics are inscribed on the vellum.
+- **12961**: Learn about which topic? [Treasures./Fractures./Obscured domains./Mweya plasm./Yantric planchettes./Yggrete./Yggrete shards./Yggzi beads./Not interested at the moment.]
+- **12965**: Examine which item? [3./$3./$3./$3./$3./$3./Never mind.]
+- **12968**: What now? [Check the $3./Remove yggzi beads./Do nothing.]
+- **12974**: Remove which? [#./$1./$2./$3./$4./None.]
+- **12976**: Are you sure? [Positive./Wait, I need time to think...]
+- **13023**: - $0
+- **13024**: ...right? Let me just scratch a couple etchings in here and...
+- **13027**: -$0
+- **13028**: That should be it for now.
+- **13071**: Receive which rewards? [None./Celadon, zaffre, and alizarin-related ones./Russet, phlox, and aster-related ones./Ones for conquering $1 fractures.]
 
 ## Events
 
@@ -303,13 +303,13 @@
   3: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0015 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
   5: 0x001A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  6: 0x0029 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12946*]:
+  6: 0x0029 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12947*]:
     → "Ah yes, who can forget the smell of Eastern Ulbuka. Fetid jungles, noxious rrrivers, and sulfurous magma. It's enough to bring a tear to the eye."
   7: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0031 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12947*]:
+  8: 0x0031 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12948*]:
     → "But you know what gets me even more excited? Tiny caves filled with trrreasure dotting the landscape!"
   9: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0039 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12948*]:
+ 10: 0x0039 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12949*]:
     → "Gee, you know what would be positively wonderrrful? If some strong pioneer were to go down there and beat up the monsters guarding it! You wouldn't happen to know any, would you?"
  11: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0041 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -353,13 +353,13 @@
   2: 0x005C [0x4A] Anomaly Expert (ID: 17830191/0x0110112F) looks at LocalPlayer
   3: 0x0065 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0066 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
-  5: 0x006B [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12949*]:
+  5: 0x006B [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12950*]:
     → "Oh, what's this now? You're a pioneerrr? I had expected someone with a bit more...panache. Still, while you're here, mind smashing some skulls?"
   6: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0073 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0096
   8: 0x007B [0x6E] EventEntity uses emote 6*
   9: 0x0082 [0x99] Wait for EventEntity animation to complete
- 10: 0x0087 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12950*]:
+ 10: 0x0087 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12951*]:
     → "But wait--those arrrms of yours are like twigs! <Sigh> Waiting for the right [man/woman] to come around is such a pain..."
  11: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x008F [0x03] Work_Zone[1] = 1073741824*
@@ -367,21 +367,21 @@
  14: 0x0095 [0x00] END_REQSTACK()
  15: 0x0096 [0x6E] EventEntity uses emote 7*
  16: 0x009D [0x99] Wait for EventEntity animation to complete
- 17: 0x00A2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12951*]:
+ 17: 0x00A2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12952*]:
     → "Why, yes, a specimen such as yourself will do purrrfectly! Caught like a mouse, you are!"
  18: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00AA [0x6E] EventEntity uses emote 10*
  20: 0x00B1 [0x99] Wait for EventEntity animation to complete
- 21: 0x00B6 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12952*]:
+ 21: 0x00B6 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12953*]:
     → "Just let me work a little hocus-pocus and...there! Now you're ready to go delving for trrreasure! Right? I'm not going to let you turn back!"
  22: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x00BE [0x24] CREATE_DIALOG(message_id=12953*, default_option=0*, option_flags=0*)
+ 23: 0x00BE [0x24] CREATE_DIALOG(message_id=12954*, default_option=0*, option_flags=0*)
     → "Ready for some spelunking? [My gear's as good as on!/Caves, eew...]"
  24: 0x00C5 [0x25] WAIT_DIALOG_SELECT()
  25: 0x00C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EA
  26: 0x00CE [0x6E] EventEntity uses emote 7*
  27: 0x00D5 [0x99] Wait for EventEntity animation to complete
- 28: 0x00DA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12955*]:
+ 28: 0x00DA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12956*]:
     → "Wow, you might be dependable after all! There's no need to ink our deal on parchment--I've already collected a hair sample in case I need to curse you for betraying me. Here's how it works: I discover the probable location of a treasure, and you go out and find it for me. Wrap your pea brain around that one."
  29: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00E2 [0x03] Work_Zone[1] = 1*
@@ -389,7 +389,7 @@
  32: 0x00EA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0110
  33: 0x00F2 [0x6E] EventEntity uses emote 18*
  34: 0x00F9 [0x99] Wait for EventEntity animation to complete
- 35: 0x00FE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12954*]:
+ 35: 0x00FE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12955*]:
     → "Wh-what? This is trrreasure we're talking about here! Riches abound! Woo the [woman/man] of your dreams...or the [man/woman] of your dreams, if you're into that! Not that I care about you people either way."
  36: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0106 [0x03] Work_Zone[1] = 1073741824*
@@ -438,13 +438,13 @@ SUBROUTINE_0110:
   3: 0x0125 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0126 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
   5: 0x012B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  6: 0x013A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13067*]:
+  6: 0x013A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13068*]:
     → "Well, well, well, what purrrfect timing for an adventurer--uh, pioneer maybe--to show up!"
   7: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0142 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13068*]:
+  8: 0x0142 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13069*]:
     → "We've just rrrecently discovered some new excavation sites! What're we calling them? Why, the hyper-intuitive "obscured domains," of course!"
   9: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x014A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13069*]:
+ 10: 0x014A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13070*]:
     → "Sounds like a rrrousing good time, doesn't it? I knew you'd agree! Time to go pawing around for yggrete, then. Bye bye!"
  11: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0152 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -655,7 +655,7 @@ SUBROUTINE_0110:
  25: 0x01CE [0x4A] Anomaly Expert (ID: 17830191/0x0110112F) looks at LocalPlayer
  26: 0x01D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  27: 0x01D8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
- 28: 0x01DD [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12956*]:
+ 28: 0x01DD [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12957*]:
     → "You must be brrrimming with questions. I suppose even the simplest of explanations would confound you, but...bah. Just ask away."
  29: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x01E5 [0x05] ExtData[1]->WorkLocal[10] = 1
@@ -670,14 +670,14 @@ SUBROUTINE_0110:
  39: 0x021F [0x3E] IF !(ExtData[1]->WorkLocal[20] bit 5*) GOTO 0x0234
  40: 0x0226 [0x3E] IF !(ExtData[1]->WorkLocal[20] bit 6*) GOTO 0x0234
  41: 0x022D [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=2*, condition_work_offset=1*)
- 42: 0x0234 [0x24] CREATE_DIALOG(message_id=12957*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
+ 42: 0x0234 [0x24] CREATE_DIALOG(message_id=12958*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
     → "What will you ask of her? [Explain the whole shebang./Yantric planchette defusion./Receive rewards./Nothing at this time.]"
  43: 0x023B [0x25] WAIT_DIALOG_SELECT()
  44: 0x023C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x043D
- 45: 0x0244 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12958*]:
+ 45: 0x0244 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12959*]:
     → ""The whole shebang"? <Sigh> I've had to explain this so many times, I had all the answers engrrraved on pieces of leather!"
  46: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x024C [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [12959*]:
+ 47: 0x024C [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [12960*]:
  48: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0254 [0x05] ExtData[1]->WorkLocal[12] = 1
  50: 0x0257 [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x043A
@@ -687,149 +687,149 @@ SUBROUTINE_0110:
  54: 0x026D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[25], bit_index_work_offset=2*, condition_work_offset=1*)
 
 SUBROUTINE_0274:
- 55: 0x0274 [0x24] CREATE_DIALOG(message_id=12960*, default_option=0*, option_flags=ExtData[1]->WorkLocal[25])
+ 55: 0x0274 [0x24] CREATE_DIALOG(message_id=12961*, default_option=0*, option_flags=ExtData[1]->WorkLocal[25])
     → "Learn about which topic? [Treasures./Fractures./Obscured domains./Mweya plasm./Yantric planchettes./Yggrete./Yggrete shards./Yggzi beads./Not interested at the moment.]"
  56: 0x027B [0x25] WAIT_DIALOG_SELECT()
  57: 0x027C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AC
- 58: 0x0284 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12982*]:
+ 58: 0x0284 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12983*]:
     → "Of courrrse, what good is an adventurer without [his/her] spoils? Too bad for you, sweet cheeks, that you might not be interested in what I'm looking for."
  59: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x028C [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12983*]:
+ 60: 0x028C [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12984*]:
     → "You might think me a bit rrrough around the edges, but I assure you that I am an academic of the highest caliber. I would claw someone's eyes out to get ahold of what's beyond those veils!"
  61: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0294 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12984*]:
+ 62: 0x0294 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12985*]:
     → "...But monsters aren't my forrrte. Here's the deal. You go bash their faces in and bring me back what they're guarding. Anything the monsters have in their possession is yours. I couldn't care less."
  63: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x029C [0x03] Work_Zone[2] = 3*
- 65: 0x02A1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12985*]:
+ 65: 0x02A1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12986*]:
     → "And if you find anything out of the orrrdinary, you'd better bring it to me or I'll hunt you down. Yes, find a total of $0 of what I need and I'll throw in something else to sweeten the pot."
  66: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x02A9 [0x01] GOTO 0x0437
  68: 0x02AC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02EF
- 69: 0x02B4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12986*]:
+ 69: 0x02B4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12987*]:
     → "Have you got lint in your earrrs? A fracture is a fracture! You know, a mystical underground cave. They've got to have them back where you come from--or are you really that oblivious? As to the details...well, these are untamed wilds, after all. Expect the unexpected."
  70: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x02BC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12987*]:
+ 71: 0x02BC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12988*]:
     → "That's why I'm licking my lips at the thought of finding arrrcane knowledge! Yes, think of the pow... <Cough, cough> What I mean to say is..."
  72: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x02C4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12988*]:
+ 73: 0x02C4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12989*]:
     → "Even finding these fractures is a burrrden. You catch a glimpse of rocky entrance, only to see it fade into mist. Yes, the treasures are always a paw ahead. Never more, never less."
  74: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x02CC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12989*]:
+ 75: 0x02CC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12990*]:
     → "To be frrrank with you, I don't understand much about this whole ordeal. What I do know is that you need a yantric planchette to even have a prayer of finding the real entrance."
  76: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x02D4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12990*]:
+ 77: 0x02D4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12991*]:
     → "These yantric planchettes don't make themselves, my pet. They're crrrafted from only the finest yggrete--and no one can fashion them but me."
  78: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x02DC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12991*]:
+ 79: 0x02DC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12992*]:
     → "You see where I'm going with this, or do I have to carrrve it into your flesh? First the stone. Then the planchette. Then the fracture. Then the treasure. Is that comprehensible enough?"
  80: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x02E4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12992*]:
+ 81: 0x02E4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12993*]:
     → "Yes...do this and all the plunderrr will be ripe for the plucking. Hunting fish in a barrel...unless the creatures lurking below get to you first."
  82: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x02EC [0x01] GOTO 0x0437
  84: 0x02EF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0332
- 85: 0x02F7 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13071*]:
+ 85: 0x02F7 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13072*]:
     → "What are obscured domains? How stupid do you have to be? They're arrreas that are obscured."
  86: 0x02FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x02FF [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13072*]:
+ 87: 0x02FF [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13073*]:
     → "They were crrreat--er, they exist adjacent to Marjami Ravine, Yorcia Weald, and Kamihr Drifts."
  88: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0307 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13073*]:
+ 89: 0x0307 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13074*]:
     → "Past their veils, groves upon groves of trees and shrubs and what have you grrrow there, so it's easy to get lost like a rat in a maze."
  90: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x030F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13074*]:
+ 91: 0x030F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13075*]:
     → "Huh? M-me? No, I've never been to one! I'm only...rrrepeating what I heard. Right."
  92: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x0317 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13075*]:
+ 93: 0x0317 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13076*]:
     → "As for the entrrrances, though, they're the same as the ones you use for fractures. Surprise!"
  94: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x031F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13076*]:
+ 95: 0x031F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13077*]:
     → "I think they're called mirages or vellum or something. I let my subordinates deal with the mundane particulars."
  96: 0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0327 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12989*]:
+ 97: 0x0327 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12990*]:
     → "To be frrrank with you, I don't understand much about this whole ordeal. What I do know is that you need a yantric planchette to even have a prayer of finding the real entrance."
  98: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x032F [0x01] GOTO 0x0437
 100: 0x0332 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0355
-101: 0x033A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12993*]:
+101: 0x033A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12994*]:
     → "Mweya plasm is a substance of grrreat power found coating the scales and flesh of fiends beyond the veils."
 102: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x0342 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12994*]:
+103: 0x0342 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12995*]:
     → "Its white sheen and otherworldly luster...hmm... <Cough> Hmph! Either way I have no use for it. Strange as the untamed wilds, it's well sought after by the Inventors' Coalition."
 104: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x034A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12995*]:
+105: 0x034A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12996*]:
     → "I'm usually not one to be concerned about the prrractical implications of such things, but think of the possibilities! I said think, damn you! <Sigh> I'm sure those inventors back in Western Adoulin will trade you trinkets for even just a drop of the stuff."
 106: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0352 [0x01] GOTO 0x0437
 108: 0x0355 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0398
-109: 0x035D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12996*]:
+109: 0x035D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12997*]:
     → "I'm more than just sharp claws and a prrretty face--I'm also the only one who can make yantric planchettes! That's why I'm here!"
 110: 0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x0365 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12997*]:
+111: 0x0365 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12998*]:
     → "You're completely useless unless you trade me yggrrrete so I can make one."
 112: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x036D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12998*]:
+113: 0x036D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12999*]:
     → "Why? <Scowl> Because you can't find the extra-dimensional entrrrances and step inside without one!"
 114: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x0375 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12999*]:
+115: 0x0375 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13000*]:
     → "<Sigh>"
 116: 0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x037D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13000*]:
+117: 0x037D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13001*]:
     → "Stop looking at me like that. No, I don't know why it worrrks that way, okay? That's why I've got to study these things!"
 118: 0x0384 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x0385 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13001*]:
+119: 0x0385 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13002*]:
     → "Oh, and another thing, tenderpaws--once you've used a yantric planchette, it crrrumbles into dust and becomes completely useless."
 120: 0x038C [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x038D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13002*]:
+121: 0x038D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13003*]:
     → "Of course, it goes without saying that the yggrete becomes totally useless, too. And before you ask--no, I won't give a damn if you come back to me crrrying and bawling. I'll just laugh in your face."
 122: 0x0394 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0395 [0x01] GOTO 0x0437
 124: 0x0398 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x03CB
-125: 0x03A0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13003*]:
+125: 0x03A0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13004*]:
     → "Yggrete are petrified pieces of wood from a tree said to contain mystical powerrrs. But they're hard as rock--just like your head, evidently--so you can think of them as stones."
 126: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x03A8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13004*]:
+127: 0x03A8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13005*]:
     → "They come in many colors depending on the latent energies within. It's those enerrrgies I need to make a yantric planchette."
 128: 0x03AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x03B0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13005*]:
+129: 0x03B0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13006*]:
     → "The color of the yggrete deterrrmines what entrance it leads to. See how nice I am, spending all my time to supply you with this imporrrtant information?"
 130: 0x03B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x03B8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13006*]:
+131: 0x03B8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13007*]:
     → ""Why are they called yggrete?" Really? <Sigh> There's no helping some people. Suffice to say, it's one of nature's grrreatest mysteries."
 132: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x03C0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13007*]:
+133: 0x03C0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13008*]:
     → "So if you come across any yggrete, just trrrade them to me so I can make you a yantric planchette. With that, you can go bash some brains in to help me find what I need! I trust you can do that much."
 134: 0x03C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x03C8 [0x01] GOTO 0x0437
 136: 0x03CB [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x03F6
-137: 0x03D3 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13008*]:
+137: 0x03D3 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13009*]:
     → "So, you want to know what yggrete shards are? Someone really needs to slap some sense into you--might as well be me. They're...sharrrds of yggrete."
 138: 0x03DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x03DB [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13009*]:
+139: 0x03DB [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13010*]:
     → "I shouldn't fault you too much, though, because they aren't used in the same way. No, these are used to call monsterrrs to you."
 140: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x03E3 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13010*]:
+141: 0x03E3 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13011*]:
     → "They can also be condensed into mweya plasm...if you desirrre."
 142: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x03EB [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13011*]:
+143: 0x03EB [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13012*]:
     → "Use them once and they become inert and sterrrile, just like...never mind. Don't be an idiot by using them when you don't mean to."
 144: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x03F3 [0x01] GOTO 0x0437
 146: 0x03F6 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0429
-147: 0x03FE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13012*]:
+147: 0x03FE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13013*]:
     → "Yggzi beads are another forrrm of yggrete. You know, magic and all."
 148: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x0406 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13013*]:
+149: 0x0406 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13014*]:
     → "By infusing a yantric planchette with these mystic beads, you can prevent certain monsters from approaching you--now, if only they could stop idiots from apprrroaching me."
 150: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
-151: 0x040E [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13014*]:
+151: 0x040E [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13015*]:
     → "Each yantric planchette can be infused with up to three yggzi beads. Might as well try them for yourself, no?"
 152: 0x0415 [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x0416 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13015*]:
+153: 0x0416 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13016*]:
     → "Having all this talent is tough enough--I don't need to be doing other people's dirrrty work, too."
 154: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
-155: 0x041E [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13016*]:
+155: 0x041E [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13017*]:
     → "They can also be turned into mweya plasm just like yggrete shards. A plebeian like you doesn't need any of that, though."
 156: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0426 [0x01] GOTO 0x0437
@@ -842,12 +842,12 @@ SUBROUTINE_0437:
 162: 0x043A [0x01] GOTO 0x0B2B
 163: 0x043D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08DB
 164: 0x0445 [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x0458
-165: 0x044D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12961*]:
+165: 0x044D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12962*]:
     → "Let me get a look at your...what? You don't have a yantric planchette!? Well, then, get crrracking! Find me some yggrete before I kick your butt back to Jeuno!"
 166: 0x0454 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0455 [0x01] GOTO 0x08D8
 168: 0x0458 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x046B
-169: 0x0460 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12962*]:
+169: 0x0460 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12963*]:
     → "You've got a yantrrric planchette, but...what's this? It has no yggzi beads? Bah, I didn't think someone could be this useless until I met you."
 170: 0x0467 [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x0468 [0x01] GOTO 0x08D8
@@ -862,7 +862,7 @@ SUBROUTINE_0476:
 176: 0x0480 [0x03] ExtData[1]->WorkLocal[2] = 0*
 177: 0x0485 [0x03] ExtData[1]->WorkLocal[3] = 0*
 178: 0x048A [0x03] ExtData[1]->WorkLocal[6] = 0*
-179: 0x048F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12963*]:
+179: 0x048F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12964*]:
     → "Let's prrroceed!"
 180: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0497 [0x03] Work_Zone[2] = 2296*
@@ -901,7 +901,7 @@ SUBROUTINE_050A:
 204: 0x0514 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=5*, condition_work_offset=1*)
 
 SUBROUTINE_051B:
-205: 0x051B [0x24] CREATE_DIALOG(message_id=12964*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
+205: 0x051B [0x24] CREATE_DIALOG(message_id=12965*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
     → "Examine which item? [3./$3./$3./$3./$3./$3./Never mind.]"
 206: 0x0522 [0x25] WAIT_DIALOG_SELECT()
 207: 0x0523 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0538
@@ -935,10 +935,10 @@ SUBROUTINE_051B:
 SUBROUTINE_05AF:
 234: 0x05AF [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x08D5
 235: 0x05B7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-236: 0x05BC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12965*]:
+236: 0x05BC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12966*]:
     → "3. That'll do, adventurerrr. That'll do."
 237: 0x05C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-238: 0x05C4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12966*]:
+238: 0x05C4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12967*]:
     → "And what shall we do with this, hmm?"
 239: 0x05CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x05CC [0x05] ExtData[1]->WorkLocal[14] = 1
@@ -948,7 +948,7 @@ SUBROUTINE_05CF:
 
 SUBROUTINE_05D7:
 242: 0x05D7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-243: 0x05DC [0x24] CREATE_DIALOG(message_id=12967*, default_option=0*, option_flags=0*)
+243: 0x05DC [0x24] CREATE_DIALOG(message_id=12968*, default_option=0*, option_flags=0*)
     → "What now? [Check the $3./Remove yggzi beads./Do nothing.]"
 244: 0x05E3 [0x25] WAIT_DIALOG_SELECT()
 245: 0x05E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06DF
@@ -960,11 +960,11 @@ SUBROUTINE_05D7:
 251: 0x0609 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits ExtData[1]->WorkLocal[23]-ExtData[1]->WorkLocal[24])
 252: 0x0612 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x062A
 253: 0x061A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-254: 0x061F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12968*]:
+254: 0x061F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12969*]:
     → "Let me get a good look. Why, this is just a normal $3! No yggzi beads, nothing!"
 255: 0x0626 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0627 [0x01] GOTO 0x06DC
-257: 0x062A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12969*]:
+257: 0x062A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12970*]:
     → "I've got a cat's eye for this sort of thing. Just let me..."
 258: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0632 [0x03] ExtData[1]->WorkLocal[2] = 0*
@@ -972,40 +972,40 @@ SUBROUTINE_05D7:
 261: 0x063C [0x14] ExtData[1]->WorkLocal[3] *= 8*
 262: 0x0641 [0x9D] Work_Zone[2] = 0x10F4[ExtData[1]->WorkLocal[3]] // Read WORD
 263: 0x0649 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x065B
-264: 0x0650 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12970*]:
+264: 0x0650 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12971*]:
     → "$0."
 265: 0x0657 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x0658 [0x0B] ExtData[1]->WorkLocal[2]++
 267: 0x065B [0x0B] ExtData[1]->WorkLocal[3]++
 268: 0x065E [0x9D] Work_Zone[2] = 0x10F4[ExtData[1]->WorkLocal[3]] // Read WORD
 269: 0x0666 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x0678
-270: 0x066D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12970*]:
+270: 0x066D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12971*]:
     → "$0."
 271: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x0675 [0x0B] ExtData[1]->WorkLocal[2]++
 273: 0x0678 [0x0B] ExtData[1]->WorkLocal[3]++
 274: 0x067B [0x9D] Work_Zone[2] = 0x10F4[ExtData[1]->WorkLocal[3]] // Read WORD
 275: 0x0683 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x0695
-276: 0x068A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12970*]:
+276: 0x068A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12971*]:
     → "$0."
 277: 0x0691 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0692 [0x0B] ExtData[1]->WorkLocal[2]++
 279: 0x0695 [0x0B] ExtData[1]->WorkLocal[3]++
 280: 0x0698 [0x9D] Work_Zone[2] = 0x10F4[ExtData[1]->WorkLocal[3]] // Read WORD
 281: 0x06A0 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x06B2
-282: 0x06A7 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12970*]:
+282: 0x06A7 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12971*]:
     → "$0."
 283: 0x06AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x06AF [0x0B] ExtData[1]->WorkLocal[2]++
 285: 0x06B2 [0x0B] ExtData[1]->WorkLocal[3]++
 286: 0x06B5 [0x9D] Work_Zone[2] = 0x10F4[ExtData[1]->WorkLocal[3]] // Read WORD
 287: 0x06BD [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 4*) GOTO 0x06CF
-288: 0x06C4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12970*]:
+288: 0x06C4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12971*]:
     → "$0."
 289: 0x06CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x06CC [0x0B] ExtData[1]->WorkLocal[2]++
 291: 0x06CF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-292: 0x06D4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12971*]:
+292: 0x06D4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12972*]:
     → "Yup, that's it. $0 of 'em, too!"
 293: 0x06DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1021,7 +1021,7 @@ SUBROUTINE_06E7:
 300: 0x06FC [0x9D] ExtData[1]->WorkLocal[24] = 0x10D4[ExtData[1]->WorkLocal[0]] // Read WORD
 301: 0x0704 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits ExtData[1]->WorkLocal[23]-ExtData[1]->WorkLocal[24])
 302: 0x070D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0720
-303: 0x0715 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12962*]:
+303: 0x0715 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12963*]:
     → "You've got a yantrrric planchette, but...what's this? It has no yggzi beads? Bah, I didn't think someone could be this useless until I met you."
 304: 0x071C [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x071D [0x01] GOTO 0x08C1
@@ -1062,7 +1062,7 @@ SUBROUTINE_077A:
 330: 0x07A5 [0x9D] Work_Zone[5] = 0x10F4[ExtData[1]->WorkLocal[0]] // Read WORD
 331: 0x07AD [0x0B] ExtData[1]->WorkLocal[0]++
 332: 0x07B0 [0x9D] Work_Zone[6] = 0x10F4[ExtData[1]->WorkLocal[0]] // Read WORD
-333: 0x07B8 [0x24] CREATE_DIALOG(message_id=12973*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
+333: 0x07B8 [0x24] CREATE_DIALOG(message_id=12974*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
     → "Remove which? [#./$1./$2./$3./$4./None.]"
 334: 0x07BF [0x25] WAIT_DIALOG_SELECT()
 335: 0x07C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07CB
@@ -1084,10 +1084,10 @@ SUBROUTINE_077A:
 
 SUBROUTINE_0819:
 351: 0x0819 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
-352: 0x081E [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12974*]:
+352: 0x081E [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12975*]:
     → "Sure you want to rrremove that $0? If you back out after I do it...things are going to end badly."
 353: 0x0825 [0x23] WAIT_FOR_DIALOG_INTERACTION
-354: 0x0826 [0x24] CREATE_DIALOG(message_id=12975*, default_option=1*, option_flags=0*)
+354: 0x0826 [0x24] CREATE_DIALOG(message_id=12976*, default_option=1*, option_flags=0*)
     → "Are you sure? [Positive./Wait, I need time to think...]"
 355: 0x082D [0x25] WAIT_DIALOG_SELECT()
 356: 0x082E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08AB
@@ -1104,11 +1104,11 @@ SUBROUTINE_0819:
 367: 0x087D [0x40] SET_BIT_WORK_RANGE(start_bit=ExtData[1]->WorkLocal[23], end_bit=ExtData[1]->WorkLocal[24], target=ExtData[1]->WorkLocal[4], source=ExtData[1]->WorkLocal[0])
 368: 0x0886 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
 369: 0x0887 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x089A
-370: 0x088F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12979*]:
+370: 0x088F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12980*]:
     → "Need to make any other adjustments?"
 371: 0x0896 [0x23] WAIT_FOR_DIALOG_INTERACTION
 372: 0x0897 [0x01] GOTO 0x08A8
-373: 0x089A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12980*]:
+373: 0x089A [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12981*]:
     → "There's nothing for me to tinkerrr with here."
 374: 0x08A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x08A2 [0x06] ExtData[1]->WorkLocal[14] = 0
@@ -1117,7 +1117,7 @@ SUBROUTINE_0819:
 SUBROUTINE_08A8:
 377: 0x08A8 [0x01] GOTO 0x08C1
 378: 0x08AB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08C1
-379: 0x08B3 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12976*]:
+379: 0x08B3 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12977*]:
     → "Hmph. I'll forrrgive you for wasting my time--just this once."
 380: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x08BB [0x01] GOTO 0x06E7
@@ -1159,7 +1159,7 @@ SUBROUTINE_094D:
 407: 0x094D [0x3E] IF !(ExtData[1]->WorkLocal[4] bit 63*) GOTO 0x095B
 408: 0x0954 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[25], bit_index_work_offset=3*, condition_work_offset=1*)
 409: 0x095B [0x03] Work_Zone[3] = 6*
-410: 0x0960 [0x24] CREATE_DIALOG(message_id=13070*, default_option=0*, option_flags=ExtData[1]->WorkLocal[25])
+410: 0x0960 [0x24] CREATE_DIALOG(message_id=13071*, default_option=0*, option_flags=ExtData[1]->WorkLocal[25])
     → "Receive which rewards? [None./Celadon, zaffre, and alizarin-related ones./Russet, phlox, and aster-related ones./Ones for conquering $1 fractures.]"
 411: 0x0967 [0x25] WAIT_DIALOG_SELECT()
 412: 0x0968 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0976
@@ -1167,10 +1167,10 @@ SUBROUTINE_094D:
 414: 0x0973 [0x01] GOTO 0x0B12
 415: 0x0976 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09F3
 416: 0x097E [0x42] SET_CLI_EVENT_CANCEL_DATA()
-417: 0x097F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13046*]:
+417: 0x097F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
     → "I suppose I owe you something--a leftoverrr from my machinations. I have no need of it."
 418: 0x0986 [0x23] WAIT_FOR_DIALOG_INTERACTION
-419: 0x0987 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
+419: 0x0987 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
     → "Did I say "machinations"? No, I don't believe I did, and I'll rrrake your face if you say otherwise!"
 420: 0x098E [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x098F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -1178,19 +1178,19 @@ SUBROUTINE_094D:
 423: 0x099A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 424: 0x099C [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
 425: 0x09A1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x09B4
-426: 0x09A9 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12981*]:
+426: 0x09A9 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12982*]:
     → "Oh? Looks like your sack is full. Come back once you've emptied it out.[ As much as I'd like to do it for you, I shouldn't touch something so purrrsonal without permission./]"
 427: 0x09B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 428: 0x09B1 [0x01] GOTO 0x09EF
-429: 0x09B4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
+429: 0x09B4 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
     → "Let's just reach in the bag and see what it is..."
 430: 0x09BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-431: 0x09BC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
+431: 0x09BC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
     → "Yes, isn't this just amazing?"
 432: 0x09C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 433: 0x09C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
 434: 0x09D3 [0x03] Work_Zone[3] = 3*
-435: 0x09D8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
+435: 0x09D8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13051*]:
     → "You've prrroven far more useful than I imagined. If you bring me $1 more treasures I'm sure I can find something else to give you. Just be quicker on the uptake next time!"
 436: 0x09DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x09E0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
@@ -1205,10 +1205,10 @@ SUBROUTINE_09EF:
 443: 0x09F0 [0x01] GOTO 0x0B12
 444: 0x09F3 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0A87
 445: 0x09FB [0x42] SET_CLI_EVENT_CANCEL_DATA()
-446: 0x09FC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13046*]:
+446: 0x09FC [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
     → "I suppose I owe you something--a leftoverrr from my machinations. I have no need of it."
 447: 0x0A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
-448: 0x0A04 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
+448: 0x0A04 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
     → "Did I say "machinations"? No, I don't believe I did, and I'll rrrake your face if you say otherwise!"
 449: 0x0A0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x0A0C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=3*)
@@ -1216,19 +1216,19 @@ SUBROUTINE_09EF:
 452: 0x0A17 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 453: 0x0A19 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
 454: 0x0A1E [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0A31
-455: 0x0A26 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12981*]:
+455: 0x0A26 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12982*]:
     → "Oh? Looks like your sack is full. Come back once you've emptied it out.[ As much as I'd like to do it for you, I shouldn't touch something so purrrsonal without permission./]"
 456: 0x0A2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x0A2E [0x01] GOTO 0x0A83
-458: 0x0A31 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
+458: 0x0A31 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
     → "Let's just reach in the bag and see what it is..."
 459: 0x0A38 [0x23] WAIT_FOR_DIALOG_INTERACTION
-460: 0x0A39 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
+460: 0x0A39 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
     → "Yes, isn't this just amazing?"
 461: 0x0A40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 462: 0x0A41 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
 463: 0x0A50 [0x03] Work_Zone[3] = 3*
-464: 0x0A55 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
+464: 0x0A55 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13051*]:
     → "You've prrroven far more useful than I imagined. If you bring me $1 more treasures I'm sure I can find something else to give you. Just be quicker on the uptake next time!"
 465: 0x0A5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 466: 0x0A5D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
@@ -1238,10 +1238,10 @@ SUBROUTINE_09EF:
 469: 0x0A66 [0x06] ExtData[1]->WorkLocal[10] = 0
 470: 0x0A69 [0x06] ExtData[1]->WorkLocal[26] = 0
 471: 0x0A6C [0x3E] IF !(ExtData[1]->WorkLocal[4] bit 63*) GOTO 0x0A83
-472: 0x0A73 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13065*]:
+472: 0x0A73 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13066*]:
     → "Oh, if you've still got some sprrring in your step, why not try exploring all the different veiled territories and collecting the riches within?"
 473: 0x0A7A [0x23] WAIT_FOR_DIALOG_INTERACTION
-474: 0x0A7B [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13066*]:
+474: 0x0A7B [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13067*]:
     → "If you're able to lick them all good, then I might just give you a prrresent...if I feel like it."
 475: 0x0A82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1250,10 +1250,10 @@ SUBROUTINE_0A83:
 477: 0x0A84 [0x01] GOTO 0x0B12
 478: 0x0A87 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0B12
 479: 0x0A8F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-480: 0x0A90 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13046*]:
+480: 0x0A90 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
     → "I suppose I owe you something--a leftoverrr from my machinations. I have no need of it."
 481: 0x0A97 [0x23] WAIT_FOR_DIALOG_INTERACTION
-482: 0x0A98 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
+482: 0x0A98 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
     → "Did I say "machinations"? No, I don't believe I did, and I'll rrrake your face if you say otherwise!"
 483: 0x0A9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 484: 0x0AA0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=4*)
@@ -1262,19 +1262,19 @@ SUBROUTINE_0A83:
 487: 0x0AAD [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
 488: 0x0AB2 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
 489: 0x0AB7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0ACA
-490: 0x0ABF [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12981*]:
+490: 0x0ABF [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12982*]:
     → "Oh? Looks like your sack is full. Come back once you've emptied it out.[ As much as I'd like to do it for you, I shouldn't touch something so purrrsonal without permission./]"
 491: 0x0AC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x0AC7 [0x01] GOTO 0x0B0E
-493: 0x0ACA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
+493: 0x0ACA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
     → "Let's just reach in the bag and see what it is..."
 494: 0x0AD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-495: 0x0AD2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
+495: 0x0AD2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
     → "Yes, isn't this just amazing?"
 496: 0x0AD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x0ADA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
 498: 0x0AE9 [0x03] Work_Zone[3] = 6*
-499: 0x0AEE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
+499: 0x0AEE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13051*]:
     → "You've prrroven far more useful than I imagined. If you bring me $1 more treasures I'm sure I can find something else to give you. Just be quicker on the uptake next time!"
 500: 0x0AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 501: 0x0AF6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
@@ -1351,20 +1351,20 @@ SUBROUTINE_0B2B:
   6: 0x0B4E [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   7: 0x0B53 [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[4]
   8: 0x0B58 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  9: 0x0B5D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13017*]:
+  9: 0x0B5D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13018*]:
     → "So you brrrought me $0? And I was about to pounce on you for wasting my time. Let me get a good look..."
  10: 0x0B64 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0B65 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "frst" with entities [EventEntity, EventEntity], work=[190*, 0*]
  12: 0x0B76 [0x1C] WAIT(120* ticks)
  13: 0x0B79 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "okex" with entities [EventEntity, EventEntity], work=[190*, 0*]
  14: 0x0B8A [0x1C] WAIT(240* ticks)
- 15: 0x0B8D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13018*]:
+ 15: 0x0B8D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13019*]:
     → "Perfect! Easy as unrrraveling a ball of yarn."
  16: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0B95 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
  18: 0x0BA4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  19: 0x0BA9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[27]
- 20: 0x0BAE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13019*]:
+ 20: 0x0BAE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13020*]:
     → "Here you go--your very own $3. Purrrfect for finding those [fractures/obscured domains]."
  21: 0x0BB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0BB6 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
@@ -1438,38 +1438,38 @@ SUBROUTINE_0B2B:
  14: 0x0C05 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0C10
  15: 0x0C0D [0x0B] ExtData[1]->WorkLocal[15]++
  16: 0x0C10 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 17: 0x0C15 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13021*]:
+ 17: 0x0C15 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13022*]:
     → "What's this now? You want me to attach your:"
  18: 0x0C1C [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0C1D [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x0C28
  20: 0x0C25 [0x01] GOTO 0x0C97
  21: 0x0C28 [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x0C40
  22: 0x0C30 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 23: 0x0C35 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13022*]:
+ 23: 0x0C35 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
  24: 0x0C3C [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0C3D [0x01] GOTO 0x0C97
  26: 0x0C40 [0x02] IF !(ExtData[1]->WorkLocal[15] == 2*) GOTO 0x0C65
  27: 0x0C48 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 28: 0x0C4D [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13022*]:
+ 28: 0x0C4D [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
  29: 0x0C54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0C55 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 31: 0x0C5A [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13022*]:
+ 31: 0x0C5A [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
  32: 0x0C61 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0C62 [0x01] GOTO 0x0C97
  34: 0x0C65 [0x02] IF !(ExtData[1]->WorkLocal[15] == 3*) GOTO 0x0C97
  35: 0x0C6D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 36: 0x0C72 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13022*]:
+ 36: 0x0C72 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
  37: 0x0C79 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0C7A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 39: 0x0C7F [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13022*]:
+ 39: 0x0C7F [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
  40: 0x0C86 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0C87 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 42: 0x0C8C [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13022*]:
+ 42: 0x0C8C [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
  43: 0x0C93 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0C94 [0x01] GOTO 0x0C97
 
 SUBROUTINE_0C97:
- 45: 0x0C97 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13023*]:
+ 45: 0x0C97 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13024*]:
  46: 0x0C9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0C9F [0x3A] CONVERT_YAW_TO_BYTE(entity=EventEntity, result_destination=ExtData[1]->WorkLocal[0])
  48: 0x0CA6 [0x02] IF !(ExtData[1]->WorkLocal[0] > 2048*) GOTO 0x0CB6
@@ -1485,50 +1485,50 @@ SUBROUTINE_0CC8:
  56: 0x0CD0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
  57: 0x0CD5 [0x6E] EventEntity uses emote 25*
  58: 0x0CDC [0x99] Wait for EventEntity animation to complete
- 59: 0x0CE1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13024*]:
+ 59: 0x0CE1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13025*]:
     → "Grrraaaaaah!"
  60: 0x0CE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0CE9 [0x4A] Anomaly Expert (ID: 17830191/0x0110112F) looks at LocalPlayer
  62: 0x0CF2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  63: 0x0CF3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
  64: 0x0CF8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
- 65: 0x0CFD [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13025*]:
+ 65: 0x0CFD [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13026*]:
     → "I was grrracious enough to attach the following to your $3:"
  66: 0x0D04 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0D05 [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x0D10
  68: 0x0D0D [0x01] GOTO 0x0D7F
  69: 0x0D10 [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x0D28
  70: 0x0D18 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 71: 0x0D1D [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13026*]:
+ 71: 0x0D1D [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
  72: 0x0D24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0D25 [0x01] GOTO 0x0D7F
  74: 0x0D28 [0x02] IF !(ExtData[1]->WorkLocal[15] == 2*) GOTO 0x0D4D
  75: 0x0D30 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 76: 0x0D35 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13026*]:
+ 76: 0x0D35 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
  77: 0x0D3C [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0D3D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 79: 0x0D42 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13026*]:
+ 79: 0x0D42 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
  80: 0x0D49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0D4A [0x01] GOTO 0x0D7F
  82: 0x0D4D [0x02] IF !(ExtData[1]->WorkLocal[15] == 3*) GOTO 0x0D7F
  83: 0x0D55 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 84: 0x0D5A [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13026*]:
+ 84: 0x0D5A [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
  85: 0x0D61 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0D62 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 87: 0x0D67 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13026*]:
+ 87: 0x0D67 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
  88: 0x0D6E [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0D6F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 90: 0x0D74 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13026*]:
+ 90: 0x0D74 [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
  91: 0x0D7B [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0D7C [0x01] GOTO 0x0D7F
 
 SUBROUTINE_0D7F:
- 93: 0x0D7F [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13027*]:
+ 93: 0x0D7F [0x49] Anomaly Expert (ID: 17830191/0x0110112F) (No speaker name) [13028*]:
  94: 0x0D86 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x0D87 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13028*]:
+ 95: 0x0D87 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13029*]:
     → "What? Do I have some catnip on my face?"
  96: 0x0D8E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0D8F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13029*]:
+ 97: 0x0D8F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13030*]:
     → "Anyway, herrre you go."
  98: 0x0D96 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0D97 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[1]
@@ -1573,28 +1573,28 @@ SUBROUTINE_0D7F:
   6: 0x0DBC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0DC1 [0x6E] EventEntity uses emote 21*
   8: 0x0DC8 [0x99] Wait for EventEntity animation to complete
-  9: 0x0DCD [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13032*]:
+  9: 0x0DCD [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13033*]:
     → "You can't be serious... 6? H-how could a nitwit such as you possibly have...?"
  10: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0DD5 [0x6E] EventEntity uses emote 29*
  12: 0x0DDC [0x99] Wait for EventEntity animation to complete
- 13: 0x0DE1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13033*]:
+ 13: 0x0DE1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13034*]:
     → "I must say that you've surrrpassed my expectations. A nicer person might congrrratulate you."
  14: 0x0DE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0DE9 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13034*]:
+ 15: 0x0DE9 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13035*]:
     → "You're "worthy" of the moniker "adventurerrr"...or was it "pioneer" now?"
  16: 0x0DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0DF1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13035*]:
+ 17: 0x0DF1 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13036*]:
     → "If you're feeling lucky, you can try your hand at one of the other fractures. If you did it once, then you might even be able to do it again...against all my expectations."
  18: 0x0DF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0DF9 [0x6E] EventEntity uses emote 32*
  20: 0x0E00 [0x99] Wait for EventEntity animation to complete
- 21: 0x0E05 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13036*]:
+ 21: 0x0E05 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13037*]:
     → "(Yes, yes...with such command of the aetherrr, [he/she]...)"
  22: 0x0E0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0E0D [0x6E] EventEntity uses emote 29*
  24: 0x0E14 [0x99] Wait for EventEntity animation to complete
- 25: 0x0E19 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13037*]:
+ 25: 0x0E19 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13038*]:
     → "H-huh? Those fractures must be wreaking havoc on your ears. I didn't say a damned thing, and I'll rrrake your face if you say otherwise!"
  26: 0x0E20 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0E21 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[0]
@@ -1635,23 +1635,23 @@ SUBROUTINE_0D7F:
   4: 0x0E3C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
   5: 0x0E41 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   6: 0x0E46 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  7: 0x0E4B [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13038*]:
+  7: 0x0E4B [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13039*]:
     → "Look who came crrrawling back in fail... What!? 6!? You did it again!?"
   8: 0x0E52 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0E53 [0x6E] EventEntity uses emote 29*
  10: 0x0E5A [0x99] Wait for EventEntity animation to complete
- 11: 0x0E5F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13039*]:
+ 11: 0x0E5F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13040*]:
     → "How could you possibly have accomplished such a feat, what with those chicken bones you call legs?"
  12: 0x0E66 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0E67 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13040*]:
+ 13: 0x0E67 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13041*]:
     → "And if that weren't eye-popping enough, those inventorrr folk came barreling over here talking about new items they've discovered in exchange for mweya plasm. Like I care about such things!"
  14: 0x0E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0E6F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13041*]:
+ 15: 0x0E6F [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13042*]:
     → "You must be drrripping with the stuff by now, so pay them a visit before they come back to assault my ears with their meaningless drivel."
  16: 0x0E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0E77 [0x6E] EventEntity uses emote 12*
  18: 0x0E7E [0x99] Wait for EventEntity animation to complete
- 19: 0x0E83 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13042*]:
+ 19: 0x0E83 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13043*]:
     → "You've come this far--fancy yourself up to the challenge of explorrring the third cave for me, or are you going to Moblin your way out of it?"
  20: 0x0E8A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0E8B [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[0]
@@ -1697,39 +1697,39 @@ SUBROUTINE_0D7F:
   5: 0x0EAB [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   6: 0x0EB0 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   7: 0x0EB5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  8: 0x0EBA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13043*]:
+  8: 0x0EBA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13044*]:
     → "Enough pawing around! Get off your haunches and... Huh? You actually got $6!? Unbelievable!"
   9: 0x0EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0EC2 [0x6E] EventEntity uses emote 7*
  11: 0x0EC9 [0x99] Wait for EventEntity animation to complete
- 12: 0x0ECE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13044*]:
+ 12: 0x0ECE [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13045*]:
     → "I chalked the first two times up to serendipity, but to have done it again... Yes, my rrresearch will advance by leaps and bounds!"
  13: 0x0ED5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0ED6 [0x6E] EventEntity uses emote 11*
  15: 0x0EDD [0x99] Wait for EventEntity animation to complete
- 16: 0x0EE2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13045*]:
+ 16: 0x0EE2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13046*]:
     → "At first I thought you were so wet behind the earrrs that I could water my plants with your face, but this is something else. You've somehow managed to acquire all three treasures!"
  17: 0x0EE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0EEA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13046*]:
+ 18: 0x0EEA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
     → "I suppose I owe you something--a leftoverrr from my machinations. I have no need of it."
  19: 0x0EF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0EF2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13047*]:
+ 20: 0x0EF2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
     → "Did I say "machinations"? No, I don't believe I did, and I'll rrrake your face if you say otherwise!"
  21: 0x0EF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0EFA [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0F0D
- 23: 0x0F02 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12981*]:
+ 23: 0x0F02 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12982*]:
     → "Oh? Looks like your sack is full. Come back once you've emptied it out.[ As much as I'd like to do it for you, I shouldn't touch something so purrrsonal without permission./]"
  24: 0x0F09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0F0A [0x01] GOTO 0x0F42
- 26: 0x0F0D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
+ 26: 0x0F0D [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
     → "Let's just reach in the bag and see what it is..."
  27: 0x0F14 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0F15 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
+ 28: 0x0F15 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
     → "Yes, isn't this just amazing?"
  29: 0x0F1C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0F1D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
  31: 0x0F2C [0x03] Work_Zone[3] = 3*
- 32: 0x0F31 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
+ 32: 0x0F31 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13051*]:
     → "You've prrroven far more useful than I imagined. If you bring me $1 more treasures I'm sure I can find something else to give you. Just be quicker on the uptake next time!"
  33: 0x0F38 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0F39 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
@@ -1777,17 +1777,17 @@ SUBROUTINE_0F42:
   6: 0x0F67 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0F6C [0x6E] EventEntity uses emote 21*
   8: 0x0F73 [0x99] Wait for EventEntity animation to complete
-  9: 0x0F78 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13054*]:
+  9: 0x0F78 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13055*]:
     → "S-suffering succotash! That's $6, isn't it!? I can hardly believe you had it in you to rrrout that fiend."
  10: 0x0F7F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0F80 [0x6E] EventEntity uses emote 29*
  12: 0x0F87 [0x99] Wait for EventEntity animation to complete
- 13: 0x0F8C [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13055*]:
+ 13: 0x0F8C [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13056*]:
     → "Huh!? As if I'd ever watch you flounder your way through a battle. I'll tear out your thrrroat if you suggest anything like that again! I only figured because your $3 looked really powerful."
  14: 0x0F93 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0F94 [0x6E] EventEntity uses emote 12*
  16: 0x0F9B [0x99] Wait for EventEntity animation to complete
- 17: 0x0FA0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13056*]:
+ 17: 0x0FA0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13057*]:
     → "A commendable job--for the rrrunt of the litter. Don't forget the other fractures out there, either."
  18: 0x0FA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0FA8 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[0]
@@ -1827,17 +1827,17 @@ SUBROUTINE_0F42:
   4: 0x0FC3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Anomaly Expert (ID: 17830191/0x0110112F) Render.Flags0 and Render.Flags3 conditions are met
   5: 0x0FC8 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   6: 0x0FCD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  7: 0x0FD2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13057*]:
+  7: 0x0FD2 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13058*]:
     → "What a rrresplendent $3... I could stare at it for hours on end."
   8: 0x0FD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0FDA [0x6E] EventEntity uses emote 29*
  10: 0x0FE1 [0x99] Wait for EventEntity animation to complete
- 11: 0x0FE6 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13058*]:
+ 11: 0x0FE6 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13059*]:
     → "The longer you look, the more it mesmerrrizes you, doesn't it? I can almost feel its power coming out, grabbing me by the scrrruff, and carrying me to a happier place."
  12: 0x0FED [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0FEE [0x6E] EventEntity uses emote 12*
  14: 0x0FF5 [0x99] Wait for EventEntity animation to complete
- 15: 0x0FFA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13059*]:
+ 15: 0x0FFA [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13060*]:
     → "Enough with my fantasies, go stalk some prrrey for your third treasure!"
  16: 0x1001 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1002 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[0]
@@ -1894,45 +1894,45 @@ SUBROUTINE_0F42:
   5: 0x1022 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   6: 0x1027 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   7: 0x102C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-  8: 0x1031 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13060*]:
+  8: 0x1031 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13061*]:
     → "<Purrr><purrr> Yes, $6... Another stunning example of the beauty that lies within these frrractures. Who would've thunk you'd get this far?"
   9: 0x1038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1039 [0x6E] EventEntity uses emote 7*
  11: 0x1040 [0x99] Wait for EventEntity animation to complete
- 12: 0x1045 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13061*]:
+ 12: 0x1045 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13062*]:
     → "What? Of course I'm being condescending. I like my purrrsonal interactions like my fish--ice cold."
  13: 0x104C [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x104D [0x6E] EventEntity uses emote 11*
  15: 0x1054 [0x99] Wait for EventEntity animation to complete
- 16: 0x1059 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13062*]:
+ 16: 0x1059 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13063*]:
     → "Still, I'll give crrredit where credit's due...to me for choosing you."
  17: 0x1060 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x1061 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13063*]:
+ 18: 0x1061 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13064*]:
     → "But I jest...or do I? Now that you've amassed all three known treasures, I've an announcement. To reward you for your valiant endeavors, I'd like to offer you a rrrandom trinket from some extras I found in a ditch!"
  19: 0x1068 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x1069 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13064*]:
+ 20: 0x1069 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13065*]:
     → "Hm? No, no, no, I said "so extraordinary they'll help in a pinch!" Yes, that's it. Yeesh, I didn't know you were such a negative Nylene."
  21: 0x1070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1071 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x1084
- 23: 0x1079 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12981*]:
+ 23: 0x1079 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [12982*]:
     → "Oh? Looks like your sack is full. Come back once you've emptied it out.[ As much as I'd like to do it for you, I shouldn't touch something so purrrsonal without permission./]"
  24: 0x1080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1081 [0x01] GOTO 0x10CC
- 26: 0x1084 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13048*]:
+ 26: 0x1084 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
     → "Let's just reach in the bag and see what it is..."
  27: 0x108B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x108C [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13049*]:
+ 28: 0x108C [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
     → "Yes, isn't this just amazing?"
  29: 0x1093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=121*
  31: 0x10A3 [0x03] Work_Zone[3] = 3*
- 32: 0x10A8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13050*]:
+ 32: 0x10A8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13051*]:
     → "You've prrroven far more useful than I imagined. If you bring me $1 more treasures I'm sure I can find something else to give you. Just be quicker on the uptake next time!"
  33: 0x10AF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x10B0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13065*]:
+ 34: 0x10B0 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13066*]:
     → "Oh, if you've still got some sprrring in your step, why not try exploring all the different veiled territories and collecting the riches within?"
  35: 0x10B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x10B8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13066*]:
+ 36: 0x10B8 [0x2B] Anomaly Expert (ID: 17830191/0x0110112F) [13067*]:
     → "If you're able to lick them all good, then I might just give you a prrresent...if I feel like it."
  37: 0x10BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x10C0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]

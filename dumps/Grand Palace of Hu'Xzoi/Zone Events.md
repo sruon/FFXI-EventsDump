@@ -61,31 +61,31 @@
 |       5 | 0x00A3      |         163 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x01B9      |         441 |
-|       8 | 0x1C61      |        7265 |
-|       9 | 0x1C62      |        7266 |
+|       8 | 0x1C62      |        7266 |
+|       9 | 0x1C63      |        7267 |
 |      10 | 0x01AF      |         431 |
-|      11 | 0x1C63      |        7267 |
+|      11 | 0x1C64      |        7268 |
 |      12 | 0x0291      |         657 |
-|      13 | 0x1C64      |        7268 |
-|      14 | 0x1C65      |        7269 |
+|      13 | 0x1C65      |        7269 |
+|      14 | 0x1C66      |        7270 |
 |      15 | 0x003C      |          60 |
 |      16 | 0x003B      |          59 |
-|      17 | 0x1C66      |        7270 |
-|      18 | 0x1C67      |        7271 |
-|      19 | 0x1C68      |        7272 |
+|      17 | 0x1C67      |        7271 |
+|      18 | 0x1C68      |        7272 |
+|      19 | 0x1C69      |        7273 |
 |      20 | 0x0001      |           1 |
-|      21 | 0x1C69      |        7273 |
+|      21 | 0x1C6A      |        7274 |
 |      22 | 0x01EC      |         492 |
 |      23 | 0x005A      |          90 |
-|      24 | 0x1C6A      |        7274 |
+|      24 | 0x1C6B      |        7275 |
 |      25 | 0x001D      |          29 |
-|      26 | 0x1C6B      |        7275 |
+|      26 | 0x1C6C      |        7276 |
 |      27 | 0x01A4      |         420 |
-|      28 | 0x1C6C      |        7276 |
-|      29 | 0x1C6D      |        7277 |
-|      30 | 0x1C6E      |        7278 |
-|      31 | 0x1C6F      |        7279 |
-|      32 | 0x1C70      |        7280 |
+|      28 | 0x1C6D      |        7277 |
+|      29 | 0x1C6E      |        7278 |
+|      30 | 0x1C6F      |        7279 |
+|      31 | 0x1C70      |        7280 |
+|      32 | 0x1C71      |        7281 |
 |      33 | 0xFFFFB1EC  |  4294947308 |
 |      34 | 0xFFFBA8AC  |  4294682796 |
 |      35 | 0x0BFF      |        3071 |
@@ -113,8 +113,8 @@
 |      57 | 0x3F763     |      259939 |
 |      58 | 0xFFFF5929  |  4294924585 |
 |      59 | 0xFFFB1E32  |  4294647346 |
-|      60 | 0x1C58      |        7256 |
-|      61 | 0x1C57      |        7255 |
+|      60 | 0x1C59      |        7257 |
+|      61 | 0x1C58      |        7256 |
 |      62 | 0x52080     |      336000 |
 |      63 | 0xAAE60     |      700000 |
 |      64 | 0xFFFFF6B9  |  4294964921 |
@@ -130,7 +130,7 @@
 |      74 | 0x186A0     |      100000 |
 |      75 | 0x5BCBF     |      375999 |
 |      76 | 0x0C00      |        3072 |
-|      77 | 0x1C59      |        7257 |
+|      77 | 0x1C5A      |        7258 |
 |      78 | 0xFFF84F40  |  4294463296 |
 |      79 | 0xFFFE7961  |  4294867297 |
 |      80 | 0xFFFD5080  |  4294791296 |
@@ -168,10 +168,10 @@
 
 ## String References
 
-- **7255**: Use the device? [Yes./No.]
-- **7256**: This device appears to be connected to the level below.
-- **7257**: This device appears to be connected to the level above.
-- **7271**: Can you hear it? [Loud and clear./Hear what?]
+- **7256**: Use the device? [Yes./No.]
+- **7257**: This device appears to be connected to the level below.
+- **7258**: This device appears to be connected to the level above.
+- **7272**: Can you hear it? [Loud and clear./Hear what?]
 
 ## Events
 
@@ -333,17 +333,17 @@
  15: 0x0069 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
  16: 0x007A [0x4E] SET_ENTITY_HIDE_FLAG: Show Louverance (ID: 16916916/0x010221B4)
  17: 0x0080 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfm0" with entities [Makki-Chebukki (ID: 16916918/0x010221B6), Makki-Chebukki (ID: 16916918/0x010221B6)], work=441*
- 18: 0x008F [0x2B] Makki-Chebukki (ID: 16916918/0x010221B6) [7265*]:
+ 18: 0x008F [0x2B] Makki-Chebukki (ID: 16916918/0x010221B6) [7266*]:
     → "Open the gates! The elder prince has returned!"
  19: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0097 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfm1" with entities [Makki-Chebukki (ID: 16916918/0x010221B6), Makki-Chebukki (ID: 16916918/0x010221B6)], work=441*
  21: 0x00A6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfk0" with entities [Kukki-Chebukki (ID: 16916919/0x010221B7), Kukki-Chebukki (ID: 16916919/0x010221B7)], work=441*
- 22: 0x00B5 [0x2B] Kukki-Chebukki (ID: 16916919/0x010221B7) [7266*]:
+ 22: 0x00B5 [0x2B] Kukki-Chebukki (ID: 16916919/0x010221B7) [7267*]:
     → "Lower the drawbridge! The younger prince is home!"
  23: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00BD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfk1" with entities [Kukki-Chebukki (ID: 16916919/0x010221B7), Kukki-Chebukki (ID: 16916919/0x010221B7)], work=441*
  25: 0x00CC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfc0" with entities [Cherukiki (ID: 16916920/0x010221B8), Cherukiki (ID: 16916920/0x010221B8)], work=431*
- 26: 0x00DB [0x2B] Cherukiki (ID: 16916920/0x010221B8) [7267*]:
+ 26: 0x00DB [0x2B] Cherukiki (ID: 16916920/0x010221B8) [7268*]:
     → "Prepare the banquet table! The princess is starved!"
  27: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00E3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dfc1" with entities [Cherukiki (ID: 16916920/0x010221B8), Cherukiki (ID: 16916920/0x010221B8)], work=431*
@@ -362,7 +362,7 @@
  41: 0x016E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
  42: 0x017F [0x2A] GET_REQ_LEVEL(level=10, entity_id=Louverance (ID: 16916916/0x010221B4))
  43: 0x0185 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "si01" with entities [Louverance (ID: 16916916/0x010221B4), Louverance (ID: 16916916/0x010221B4)], work=657*
- 44: 0x0194 [0x2B] Louverance (ID: 16916916/0x010221B4) [7268*]:
+ 44: 0x0194 [0x2B] Louverance (ID: 16916916/0x010221B4) [7269*]:
     → "Another obstacle in our path?"
  45: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x019C [0x80] LOAD_WAIT(entity=Ulmia (ID: 16916912/0x010221B0))
@@ -377,7 +377,7 @@
  55: 0x01E9 [0x4A] Kukki-Chebukki (ID: 16916919/0x010221B7) looks at Ulmia (ID: 16916912/0x010221B0)
  56: 0x01F2 [0x4A] Cherukiki (ID: 16916920/0x010221B8) looks at Ulmia (ID: 16916912/0x010221B0)
  57: 0x01FB [0x79] Ulmia (ID: 16916912/0x010221B0) looks at Cherukiki (ID: 16916920/0x010221B8) (Basic look)
- 58: 0x0205 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7269*]:
+ 58: 0x0205 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7270*]:
     → "What mischief are you three up to this time?"
  59: 0x020C [0x1C] WAIT(60* ticks)
  60: 0x020F [0x79] Ulmia (ID: 16916912/0x010221B0) looks at Makki-Chebukki (ID: 16916918/0x010221B6) (Basic look)
@@ -388,23 +388,23 @@
  65: 0x0232 [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=163*
  66: 0x0241 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
  67: 0x0252 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Shikaree Z (ID: 16916915/0x010221B3), Shikaree Z (ID: 16916915/0x010221B3)], work=59*
- 68: 0x0261 [0x2B] Shikaree Z (ID: 16916915/0x010221B3) [7270*]:
+ 68: 0x0261 [0x2B] Shikaree Z (ID: 16916915/0x010221B3) [7271*]:
     → "I can hear it clearly now. The source must be beyond this gate."
  69: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0269 [0x24] CREATE_DIALOG(message_id=7271*, default_option=0*, option_flags=0*)
+ 70: 0x0269 [0x24] CREATE_DIALOG(message_id=7272*, default_option=0*, option_flags=0*)
     → "Can you hear it? [Loud and clear./Hear what?]"
  71: 0x0270 [0x25] WAIT_DIALOG_SELECT()
  72: 0x0271 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029D
  73: 0x0279 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Shikaree Z (ID: 16916915/0x010221B3), Shikaree Z (ID: 16916915/0x010221B3)], work=59*
  74: 0x0288 [0x79] Shikaree Z (ID: 16916915/0x010221B3) looks at LocalPlayer (Basic look)
- 75: 0x0292 [0x2B] Shikaree Z (ID: 16916915/0x010221B3) [7272*]:
+ 75: 0x0292 [0x2B] Shikaree Z (ID: 16916915/0x010221B3) [7273*]:
     → "Our contact with the mothercrystal must have altered our senses in some way. That would explain this ethereal voice..."
  76: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x029A [0x01] GOTO 0x02C9
  78: 0x029D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02C9
  79: 0x02A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Shikaree Z (ID: 16916915/0x010221B3), Shikaree Z (ID: 16916915/0x010221B3)], work=59*
  80: 0x02B4 [0x79] Shikaree Z (ID: 16916915/0x010221B3) looks at LocalPlayer (Basic look)
- 81: 0x02BE [0x2B] Shikaree Z (ID: 16916915/0x010221B3) [7273*]:
+ 81: 0x02BE [0x2B] Shikaree Z (ID: 16916915/0x010221B3) [7274*]:
     → "You can't hear it? A voice is calling to us, suffocating in its insistence."
  82: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x02C6 [0x01] GOTO 0x02C9
@@ -415,14 +415,14 @@ SUBROUTINE_02C9:
  86: 0x02DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
  87: 0x02EE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gba0" with entities [Jabbos (ID: 16916914/0x010221B2), Jabbos (ID: 16916914/0x010221B2)], work=492*
  88: 0x02FD [0x1C] WAIT(90* ticks)
- 89: 0x0300 [0x2B] Jabbos (ID: 16916914/0x010221B2) [7274*]:
+ 89: 0x0300 [0x2B] Jabbos (ID: 16916914/0x010221B2) [7275*]:
     → "It is...telling us...to pass through...this gate..."
  90: 0x0307 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0308 [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=163*
  92: 0x0317 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
  93: 0x0328 [0x6B] STOP_AND_IDLE: Jabbos (ID: 16916914/0x010221B2) stops current action and resets to idle (animation="idl0")
  94: 0x0331 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Louverance (ID: 16916916/0x010221B4), Louverance (ID: 16916916/0x010221B4)], work=29*
- 95: 0x0340 [0x2B] Louverance (ID: 16916916/0x010221B4) [7275*]:
+ 95: 0x0340 [0x2B] Louverance (ID: 16916916/0x010221B4) [7276*]:
     → "A portal of this magnificence can only lead to the audience chamber of the Zilartian king."
  96: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0348 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Louverance (ID: 16916916/0x010221B4), Louverance (ID: 16916916/0x010221B4)], work=29*
@@ -431,27 +431,27 @@ SUBROUTINE_02C9:
 100: 0x0361 [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=163*
 101: 0x0370 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
 102: 0x0381 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Ulmia (ID: 16916912/0x010221B0), Ulmia (ID: 16916912/0x010221B0)], work=420*
-103: 0x0390 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7276*]:
+103: 0x0390 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7277*]:
     → "Could this soul-stirring voice belong to the king himself?"
 104: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0398 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hta0" with entities [Ulmia (ID: 16916912/0x010221B0), Ulmia (ID: 16916912/0x010221B0)], work=420*
-106: 0x03A7 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7277*]:
+106: 0x03A7 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7278*]:
     → "If so, then why does the gate remain closed? Are the children of Vana'diel not welcome here...?"
 107: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x03AF [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=163*
 109: 0x03BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
 110: 0x03CF [0x4A] Ulmia (ID: 16916912/0x010221B0) looks at LocalPlayer
-111: 0x03D8 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7278*]:
+111: 0x03D8 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7279*]:
     → "Oh, <Player>. Whatever are we to do?"
 112: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x03E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Ulmia (ID: 16916912/0x010221B0), Ulmia (ID: 16916912/0x010221B0)], work=420*
-114: 0x03EF [0x2B] Ulmia (ID: 16916912/0x010221B0) [7279*]:
+114: 0x03EF [0x2B] Ulmia (ID: 16916912/0x010221B0) [7280*]:
     → "Cardinal Mildaurion gifted us with a ring that has the power to transport a person directly to Tavnazia..."
 115: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x03F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=163*
 117: 0x0406 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[163*, 0*]
 118: 0x0417 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc1" with entities [Ulmia (ID: 16916912/0x010221B0), Ulmia (ID: 16916912/0x010221B0)], work=420*
-119: 0x0426 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7280*]:
+119: 0x0426 [0x2B] Ulmia (ID: 16916912/0x010221B0) [7281*]:
     → "But I have no intention of returning until we discover the way to open this gate. Perhaps it may be of some small use to you, <Player>."
 120: 0x042D [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x042E [0x1A] CALL_SUBROUTINE(address=0x046C)
@@ -784,10 +784,10 @@ SUBROUTINE_04C0:
 
 ```
   0: 0x0553 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0555 [0x48] [System] [7256*]:
+  1: 0x0555 [0x48] [System] [7257*]:
     → "This device appears to be connected to the level below."
   2: 0x0558 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0559 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x0559 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x0560 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0561 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0590
@@ -834,10 +834,10 @@ SUBROUTINE_059B:
 
 ```
   0: 0x059F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x05A1 [0x48] [System] [7256*]:
+  1: 0x05A1 [0x48] [System] [7257*]:
     → "This device appears to be connected to the level below."
   2: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05A5 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x05A5 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x05AC [0x25] WAIT_DIALOG_SELECT()
   5: 0x05AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DC
@@ -884,10 +884,10 @@ SUBROUTINE_05E7:
 
 ```
   0: 0x05EB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x05ED [0x48] [System] [7256*]:
+  1: 0x05ED [0x48] [System] [7257*]:
     → "This device appears to be connected to the level below."
   2: 0x05F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05F1 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x05F1 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x05F8 [0x25] WAIT_DIALOG_SELECT()
   5: 0x05F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0628
@@ -934,10 +934,10 @@ SUBROUTINE_0633:
 
 ```
   0: 0x0637 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0639 [0x48] [System] [7256*]:
+  1: 0x0639 [0x48] [System] [7257*]:
     → "This device appears to be connected to the level below."
   2: 0x063C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x063D [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x063D [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x0644 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0645 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0674
@@ -983,10 +983,10 @@ SUBROUTINE_067F:
 
 ```
   0: 0x0683 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0685 [0x48] [System] [7256*]:
+  1: 0x0685 [0x48] [System] [7257*]:
     → "This device appears to be connected to the level below."
   2: 0x0688 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0689 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x0689 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x0690 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0691 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C0
@@ -1033,10 +1033,10 @@ SUBROUTINE_06CB:
 
 ```
   0: 0x06CF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x06D1 [0x48] [System] [7257*]:
+  1: 0x06D1 [0x48] [System] [7258*]:
     → "This device appears to be connected to the level above."
   2: 0x06D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x06D5 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x06D5 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x06DC [0x25] WAIT_DIALOG_SELECT()
   5: 0x06DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x070C
@@ -1083,10 +1083,10 @@ SUBROUTINE_0717:
 
 ```
   0: 0x071B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x071D [0x48] [System] [7257*]:
+  1: 0x071D [0x48] [System] [7258*]:
     → "This device appears to be connected to the level above."
   2: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0721 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x0721 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x0728 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0729 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0758
@@ -1133,10 +1133,10 @@ SUBROUTINE_0763:
 
 ```
   0: 0x0767 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0769 [0x48] [System] [7257*]:
+  1: 0x0769 [0x48] [System] [7258*]:
     → "This device appears to be connected to the level above."
   2: 0x076C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x076D [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x076D [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x0774 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0775 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A4
@@ -1182,10 +1182,10 @@ SUBROUTINE_07AF:
 
 ```
   0: 0x07B3 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x07B5 [0x48] [System] [7257*]:
+  1: 0x07B5 [0x48] [System] [7258*]:
     → "This device appears to be connected to the level above."
   2: 0x07B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x07B9 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x07B9 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x07C0 [0x25] WAIT_DIALOG_SELECT()
   5: 0x07C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07F0
@@ -1232,10 +1232,10 @@ SUBROUTINE_07FB:
 
 ```
   0: 0x07FF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0801 [0x48] [System] [7257*]:
+  1: 0x0801 [0x48] [System] [7258*]:
     → "This device appears to be connected to the level above."
   2: 0x0804 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0805 [0x24] CREATE_DIALOG(message_id=7255*, default_option=1*, option_flags=0*)
+  3: 0x0805 [0x24] CREATE_DIALOG(message_id=7256*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x080C [0x25] WAIT_DIALOG_SELECT()
   5: 0x080D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x083C

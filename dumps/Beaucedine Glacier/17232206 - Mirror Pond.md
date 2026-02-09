@@ -29,17 +29,17 @@
 |       6 | 0x0003      |           3 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x001E      |          30 |
-|       9 | 0x1D0F      |        7439 |
-|      10 | 0x1D10      |        7440 |
+|       9 | 0x1D10      |        7440 |
+|      10 | 0x1D11      |        7441 |
 |      11 | 0x0BC9      |        3017 |
-|      12 | 0x1D11      |        7441 |
-|      13 | 0x1D12      |        7442 |
-|      14 | 0x1D13      |        7443 |
-|      15 | 0x1D14      |        7444 |
-|      16 | 0x1D15      |        7445 |
-|      17 | 0x1D16      |        7446 |
-|      18 | 0x1D17      |        7447 |
-|      19 | 0x1D18      |        7448 |
+|      12 | 0x1D12      |        7442 |
+|      13 | 0x1D13      |        7443 |
+|      14 | 0x1D14      |        7444 |
+|      15 | 0x1D15      |        7445 |
+|      16 | 0x1D16      |        7446 |
+|      17 | 0x1D17      |        7447 |
+|      18 | 0x1D18      |        7448 |
+|      19 | 0x1D19      |        7449 |
 |      20 | 0x004B      |          75 |
 |      21 | 0x005A      |          90 |
 |      22 | 0x0065      |         101 |
@@ -156,7 +156,7 @@
  19: 0x0088 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=11*
  20: 0x0097 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg03" with entities [LocalPlayer, LocalPlayer], work=[11*, 0*]
  21: 0x00A8 [0x1C] WAIT(30* ticks)
- 22: 0x00AB [0x2B] Dariah (ID: 17232207/0x0106F14F) [7439*]:
+ 22: 0x00AB [0x2B] Dariah (ID: 17232207/0x0106F14F) [7440*]:
     → "Hey! What are you doing there?"
  23: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00B3 [0x1A] CALL_SUBROUTINE(address=0x0272)
@@ -172,7 +172,7 @@
  34: 0x00F2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=11*
  35: 0x0101 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg05" with entities [LocalPlayer, LocalPlayer], work=[11*, 0*]
  36: 0x0112 [0x1C] WAIT(30* ticks)
- 37: 0x0115 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7440*]:
+ 37: 0x0115 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7441*]:
     → "Carmelo asked you? You mean he's still..."
  38: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x011D [0x4B] UPDATE_ENTITY_YAW(entity=Dariah (ID: 17232207/0x0106F14F), yaw=16.6°*)
@@ -180,31 +180,31 @@
  41: 0x0125 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dariah (ID: 17232207/0x0106F14F) Render.Flags0 and Render.Flags3 conditions are met
  42: 0x012A [0x1C] WAIT(15* ticks)
  43: 0x012D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl0" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)], work=11*
- 44: 0x013C [0x2B] Dariah (ID: 17232207/0x0106F14F) [7441*]:
+ 44: 0x013C [0x2B] Dariah (ID: 17232207/0x0106F14F) [7442*]:
     → "Yes, I am the woman he seeks. Why did I leave him? Let's just say that the hands of his clock were about to break."
  45: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x0144 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7442*]:
+ 46: 0x0144 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7443*]:
     → "In those days, he would do anything to make me happy. Anything! He even sold the one thing that brought us together to buy me something that would make me more happy."
  47: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x014C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl1" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)], work=11*
  49: 0x015B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "utl1" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)]
  50: 0x0168 [0x1C] WAIT(30* ticks)
- 51: 0x016B [0x2B] Dariah (ID: 17232207/0x0106F14F) [7443*]:
+ 51: 0x016B [0x2B] Dariah (ID: 17232207/0x0106F14F) [7444*]:
     → "I'm not mad about that, it's just that...I felt that if I had stayed, he would have thrown away everything--all that he cherished, all that he was--just for me."
  52: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0173 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "unz0" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)]
  54: 0x0180 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg06" with entities [LocalPlayer, LocalPlayer], work=[11*, 0*]
  55: 0x0191 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)], work=10*
- 56: 0x01A0 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7444*]:
+ 56: 0x01A0 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7445*]:
     → "I feared he would throw away his future for the sake of our present. Eventually, his time would have come to a stop."
  57: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x01A8 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7445*]:
+ 58: 0x01A8 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7446*]:
     → "I told him that we were like the hands of a clock... That even if we parted, we would meet again."
  59: 0x01AF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x01B0 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7446*]:
+ 60: 0x01B0 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7447*]:
     → "But he wanted us to stay where both hands met...even if that meant breaking the gears that kept us in motion."
  61: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x01B8 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7447*]:
+ 62: 0x01B8 [0x2B] Dariah (ID: 17232207/0x0106F14F) [7448*]:
     → "Try to stop time...and you'll only break the hands of the clock."
  63: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)], work=10*
@@ -214,7 +214,7 @@
  68: 0x01FC [0x4A] Dariah (ID: 17232207/0x0106F14F) looks at LocalPlayer
  69: 0x0205 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  70: 0x0206 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dariah (ID: 17232207/0x0106F14F) Render.Flags0 and Render.Flags3 conditions are met
- 71: 0x020B [0x2B] Dariah (ID: 17232207/0x0106F14F) [7448*]:
+ 71: 0x020B [0x2B] Dariah (ID: 17232207/0x0106F14F) [7449*]:
     → "Tell him that as long as we live, we will meet again--as long as the hands of the clock are moving."
  72: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0213 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kas0" with entities [Dariah (ID: 17232207/0x0106F14F), Dariah (ID: 17232207/0x0106F14F)], work=11*

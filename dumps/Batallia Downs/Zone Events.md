@@ -111,10 +111,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x1D74      |        7540 |
+|       1 | 0x1D75      |        7541 |
 |       2 | 0x0003      |           3 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1D75      |        7541 |
+|       4 | 0x1D76      |        7542 |
 |       5 | 0x341CA     |      213450 |
 |       6 | 0xFFF6AB5A  |  4294355802 |
 |       7 | 0x4021      |       16417 |
@@ -201,12 +201,12 @@
 |      88 | 0xFFFD97A5  |  4294809509 |
 |      89 | 0x22BA      |        8890 |
 |      90 | 0x0F8D      |        3981 |
-|      91 | 0x1E0F      |        7695 |
+|      91 | 0x1E10      |        7696 |
 |      92 | 0x001E      |          30 |
-|      93 | 0x1E10      |        7696 |
-|      94 | 0x1E11      |        7697 |
-|      95 | 0x1E15      |        7701 |
-|      96 | 0x1E12      |        7698 |
+|      93 | 0x1E11      |        7697 |
+|      94 | 0x1E12      |        7698 |
+|      95 | 0x1E16      |        7702 |
+|      96 | 0x1E13      |        7699 |
 |      97 | 0x00C9      |         201 |
 |      98 | 0x000B      |          11 |
 |      99 | 0xFFFCF255  |  4294767189 |
@@ -318,27 +318,27 @@
 |     205 | 0x33194     |      209300 |
 |     206 | 0xFFFFC144  |  4294951236 |
 |     207 | 0x01AD      |         429 |
-|     208 | 0x32C5      |       12997 |
-|     209 | 0x32C6      |       12998 |
-|     210 | 0x32C7      |       12999 |
-|     211 | 0x32C8      |       13000 |
-|     212 | 0x32C9      |       13001 |
-|     213 | 0x32CA      |       13002 |
-|     214 | 0x32CB      |       13003 |
-|     215 | 0x32CC      |       13004 |
-|     216 | 0x32D1      |       13009 |
-|     217 | 0x32D3      |       13011 |
-|     218 | 0x32D4      |       13012 |
-|     219 | 0x32D2      |       13010 |
+|     208 | 0x32C6      |       12998 |
+|     209 | 0x32C7      |       12999 |
+|     210 | 0x32C8      |       13000 |
+|     211 | 0x32C9      |       13001 |
+|     212 | 0x32CA      |       13002 |
+|     213 | 0x32CB      |       13003 |
+|     214 | 0x32CC      |       13004 |
+|     215 | 0x32CD      |       13005 |
+|     216 | 0x32D2      |       13010 |
+|     217 | 0x32D4      |       13012 |
+|     218 | 0x32D5      |       13013 |
+|     219 | 0x32D3      |       13011 |
 
 ## String References
 
-- **7540**: Something is buried underneath a piece of light blue glass.
-- **7541**: You leave the glass where it is.
-- **13009**: The raptor speeds off into the sunset...
-- **13010**: Reattempt the course? [Yes, please./Yes, but at a lower difficulty./I'm done for now.]
-- **13011**: At lower difficulty levels the raptor will remain in high spirits for longer and its Pep gauge will fill up easier.
-- **13012**: Note that you will be unable to qualify for the best time record at a lower difficulty level.
+- **7541**: Something is buried underneath a piece of light blue glass.
+- **7542**: You leave the glass where it is.
+- **13010**: The raptor speeds off into the sunset...
+- **13011**: Reattempt the course? [Yes, please./Yes, but at a lower difficulty./I'm done for now.]
+- **13012**: At lower difficulty levels the raptor will remain in high spirits for longer and its Pep gauge will fill up easier.
+- **13013**: Note that you will be unable to qualify for the best time record at a lower difficulty level.
 
 ## Events
 
@@ -422,12 +422,12 @@
   7: 0x0014 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[1]
   8: 0x0023 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [LocalPlayer, LocalPlayer]
   9: 0x0030 [0x1C] WAIT(60* ticks)
- 10: 0x0033 [0x48] [System] [7540*]:
+ 10: 0x0033 [0x48] [System] [7541*]:
     → "Something is buried underneath a piece of light blue glass."
  11: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0037 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [??? (ID: 17207826/0x01069212), ??? (ID: 17207826/0x01069212)], work=[3*, 0*]
  13: 0x0048 [0x1C] WAIT(60* ticks)
- 14: 0x004B [0x48] [System] [7541*]:
+ 14: 0x004B [0x48] [System] [7542*]:
     → "You leave the glass where it is."
  15: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x004F [0x1C] WAIT(60* ticks)
@@ -1350,11 +1350,11 @@ SUBROUTINE_0133:
  16: 0x03A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x03B4 [0x4A] Couvoullie (ID: 17207853/0x0106922D) looks at LocalPlayer
  18: 0x03BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x03CE [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7695*]:
+ 19: 0x03CE [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7696*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x03D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Couvoullie (ID: 17207853/0x0106922D), Couvoullie (ID: 17207853/0x0106922D)], work=30*
- 22: 0x03E5 [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7696*]:
+ 22: 0x03E5 [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7697*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x03EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x03ED [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x043F
@@ -1366,17 +1366,17 @@ SUBROUTINE_0133:
  30: 0x0418 [0x15] Work_Zone[6] /= 60*
  31: 0x041D [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0424 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0437
- 33: 0x042C [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7697*]:
+ 33: 0x042C [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7698*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0434 [0x01] GOTO 0x043F
- 36: 0x0437 [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7701*]:
+ 36: 0x0437 [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7702*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_043F:
  38: 0x043F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Couvoullie (ID: 17207853/0x0106922D), Couvoullie (ID: 17207853/0x0106922D)], work=30*
- 39: 0x044E [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7698*]:
+ 39: 0x044E [0x2B] Couvoullie (ID: 17207853/0x0106922D) [7699*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0455 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0456 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=5*
@@ -3102,10 +3102,10 @@ SUBROUTINE_0E7B:
  10: 0x0EC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x0EDA [0x1C] WAIT(120* ticks)
  12: 0x0EDD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
- 13: 0x0EEC [0x2B] Syrillia (ID: 17207978/0x010692AA) [12997*]:
+ 13: 0x0EEC [0x2B] Syrillia (ID: 17207978/0x010692AA) [12998*]:
     → "Expertly done! Never have I seen anyone mount a raptor with such aplomb, and I daresay I never will again!"
  14: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0EF4 [0x2B] Syrillia (ID: 17207978/0x010692AA) [12998*]:
+ 15: 0x0EF4 [0x2B] Syrillia (ID: 17207978/0x010692AA) [12999*]:
     → "Your skill is so impressive, in fact, that I'll let this one take you all the way back to Jeuno."
  16: 0x0EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0EFC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
@@ -3116,13 +3116,13 @@ SUBROUTINE_0E7B:
  22: 0x0F2D [0x7E] CHOCOBO_MOUNT: Execute attachment function on LocalPlayer
  23: 0x0F33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  24: 0x0F44 [0x1C] WAIT(120* ticks)
- 25: 0x0F47 [0x2B] Syrillia (ID: 17207978/0x010692AA) [12999*]:
+ 25: 0x0F47 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13000*]:
     → "You see, our current research involves not only training the raptors in following commands of the common man, but also in having them reach their destinations without any input from their masters."
  26: 0x0F4E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0F4F [0x2B] Syrillia (ID: 17207978/0x010692AA) [13000*]:
+ 27: 0x0F4F [0x2B] Syrillia (ID: 17207978/0x010692AA) [13001*]:
     → "I'll use my linkpearl to apprise Mapitoto of the situation so that she can prepare a suitable reward for you."
  28: 0x0F56 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0F57 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13001*]:
+ 29: 0x0F57 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13002*]:
     → "Have a safe journey back!"
  30: 0x0F5E [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0F5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3167,23 +3167,23 @@ SUBROUTINE_0E7B:
   5: 0x0F92 [0x15] Work_Zone[2] /= 60*
   6: 0x0F97 [0x3F] Work_Zone[3] = ExtData[1]->WorkLocal[6] % 60*
   7: 0x0F9E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
-  8: 0x0FAD [0x2B] Syrillia (ID: 17207978/0x010692AA) [13002*]:
+  8: 0x0FAD [0x2B] Syrillia (ID: 17207978/0x010692AA) [13003*]:
     → "Glad to see you made it in one piece! It took you a total of $0 minute[/s] and $1 second[/s] to complete the course."
   9: 0x0FB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0FB5 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0FE0
  11: 0x0FBD [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0FD0
- 12: 0x0FC5 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13003*]:
+ 12: 0x0FC5 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13004*]:
     → "Congratulations are in order--you've beaten the best time!"
  13: 0x0FCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0FCD [0x01] GOTO 0x0FE0
  15: 0x0FD0 [0x02] IF !(ExtData[1]->WorkLocal[6] >= ExtData[1]->WorkLocal[7]) GOTO 0x0FE0
- 16: 0x0FD8 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13003*]:
+ 16: 0x0FD8 [0x2B] Syrillia (ID: 17207978/0x010692AA) [13004*]:
     → "Congratulations are in order--you've beaten the best time!"
  17: 0x0FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0FE0:
  18: 0x0FE0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Syrillia (ID: 17207978/0x010692AA), Syrillia (ID: 17207978/0x010692AA)], work=30*
- 19: 0x0FEF [0x2B] Syrillia (ID: 17207978/0x010692AA) [13004*]:
+ 19: 0x0FEF [0x2B] Syrillia (ID: 17207978/0x010692AA) [13005*]:
     → "Let me send you off safely to Jeuno. Hopefully you'll participate again soon!"
  20: 0x0FF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0FF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3223,20 +3223,20 @@ SUBROUTINE_0FE0:
 ```
   0: 0x100D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x100E [0x06] ExtData[1]->WorkLocal[8] = 0
-  2: 0x1011 [0x48] [System] [13009*]:
+  2: 0x1011 [0x48] [System] [13010*]:
     → "The raptor speeds off into the sunset..."
   3: 0x1014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1015 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x102E
-  5: 0x101D [0x48] [System] [13011*]:
+  5: 0x101D [0x48] [System] [13012*]:
     → "At lower difficulty levels the raptor will remain in high spirits for longer and its Pep gauge will fill up easier."
   6: 0x1020 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x102B
-  7: 0x1028 [0x48] [System] [13012*]:
+  7: 0x1028 [0x48] [System] [13013*]:
     → "Note that you will be unable to qualify for the best time record at a lower difficulty level."
   8: 0x102B [0x01] GOTO 0x1035
   9: 0x102E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
 
 SUBROUTINE_1035:
- 10: 0x1035 [0x24] CREATE_DIALOG(message_id=13010*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 10: 0x1035 [0x24] CREATE_DIALOG(message_id=13011*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Reattempt the course? [Yes, please./Yes, but at a lower difficulty./I'm done for now.]"
  11: 0x103C [0x25] WAIT_DIALOG_SELECT()
  12: 0x103D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x106D

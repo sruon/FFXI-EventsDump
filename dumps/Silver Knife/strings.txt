@@ -1,5 +1,5 @@
 # Strings for Silver Knife
-# Total: 7479 strings
+# Total: 7480 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,257 +7226,258 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Push button to continue.
- 7228: @@
- 7229: Welcome.
- 7230: I am Oscarnot, and I am the master of ceremonies here in the Silver Knife.
- 7231: I have been charged with permitting only our valuable clientele to participate in the auctions.
- 7232: Unfortunately, your name is not on my register. Please leave.
- 7233: All manner of valuable items are put up here for auction.
- 7234: We currently do not have any events ongoing at the moment.
- 7235: I was invited back for a second round because I was such a big spender the first go.
- 7236: And if you too have received an invitation...then it stands to reason that you are a rival!
- 7237: Why, with so many rare and precious goods, I barely know what to bid on first!
- 7238: Perhaps I can find a lovely dress to suit my fancy!
- 7239: I never would have expected a simple pioneer to be permitted entry within these halls.
- 7240: Do you truly have a discerning eye like the rest of us?
- 7241: Are you finished with your business?
- 7242: Leave? [Yes./No.]
- 7243: We eagerly await your return.
- 7244: Leave? [Yes./No.]
- 7245: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
- 7246: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
- 7247: Now close your eyes...
- 7248: Which memory will you have recalled? [None./Additional scenarios.]
- 7249: Which memory will you have recalled? [None./Skokkr Undrborn's Temptation(pt.1)./Skokkr Undrborn's Temptation(pt.2)./Skokkr Undrborn's Temptation(pt.3).]
- 7250: Which memory will you have recalled? [None./]
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Push button to continue.
+ 7229: @@
+ 7230: Welcome.
+ 7231: I am Oscarnot, and I am the master of ceremonies here in the Silver Knife.
+ 7232: I have been charged with permitting only our valuable clientele to participate in the auctions.
+ 7233: Unfortunately, your name is not on my register. Please leave.
+ 7234: All manner of valuable items are put up here for auction.
+ 7235: We currently do not have any events ongoing at the moment.
+ 7236: I was invited back for a second round because I was such a big spender the first go.
+ 7237: And if you too have received an invitation...then it stands to reason that you are a rival!
+ 7238: Why, with so many rare and precious goods, I barely know what to bid on first!
+ 7239: Perhaps I can find a lovely dress to suit my fancy!
+ 7240: I never would have expected a simple pioneer to be permitted entry within these halls.
+ 7241: Do you truly have a discerning eye like the rest of us?
+ 7242: Are you finished with your business?
+ 7243: Leave? [Yes./No.]
+ 7244: We eagerly await your return.
+ 7245: Leave? [Yes./No.]
+ 7246: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+ 7247: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+ 7248: Now close your eyes...
+ 7249: Which memory will you have recalled? [None./Additional scenarios.]
+ 7250: Which memory will you have recalled? [None./Skokkr Undrborn's Temptation(pt.1)./Skokkr Undrborn's Temptation(pt.2)./Skokkr Undrborn's Temptation(pt.3).]
  7251: Which memory will you have recalled? [None./]
  7252: Which memory will you have recalled? [None./]
  7253: Which memory will you have recalled? [None./]
  7254: Which memory will you have recalled? [None./]
- 7255: Hey, I heard-weard all the details from Skokkr... Er, Skhoh Undhreh.
- 7256: When you've found the World Eater Egg or other related paraphernalia, can you bring-wing them to me?
- 7257: I got a guy who can handle such exotic items.
- 7258: Oh, is this an avataru's spirit? My feelings are difficult to put into words.
- 7259: But never mind that. Skhoh Undhreh told me that we needed-weeded a suitable vessel.
- 7260: I'm led to believe that Ruspix in Leafallia is collecting gallimaufry. Can you bring me a little bit? Say...$0.
- 7261: Goblins sure have a nose for the rare, even though I'm confident he has no idea what it actually is. Hence the name.
- 7262: Remember, come back when you have $0 gallimaufry for me!
- 7263: Which Prime Weapon would you like?
- 7264: Which one? ($0 gall.) [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./None for now.]
- 7265: You wantaru the $0? It'll run you $1 gallimaufry.
- 7266: Are you sure? ($0 gall.) [Positive./Hang on...]
- 7267: A deal's a deal! Make sure to come back tomorrow.
- 7268: I'm currently requisitioning your $0. One weapon at a time!
- 7269: Hey, that's not enough-wough gallimaufry!
- 7270: Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message.
- 7271: "The vessel is now ready, and I would implore you to test it well. Beware, lest the bearer's soul be devoured." Spooky!
- 7272: You must be in possession of a Prime Weapon other than an instrument or shield in order to progress with The Voracious Resurgence storyline.
- 7273: Ask about what? [Forging a Prime Weapon./Tempering a Prime Weapon./Nothing.]
- 7274: I've got a message-wessage from Skhoh Undhreh.
- 7275: "The vessel may be prepared, but that does not mean it is complete. I require more materials."
- 7276: And what do you know--she even gave me a list! "$3 $0 and $1 gallimaufry."
- 7277: Can you bring-wing me the Prime Weapon you are interested in knowing the materials for?
- 7278: Okay! I've got your $0 all safe and sound. Make sure to come back tomorrow!
- 7279: "I have determined that the vessel required can be replicated with $6! We can counteract the corruption that way."
- 7280: "When the time for Ragnarok is close at hand, the Prime Weapons can ascend to their final form at last. But new materials are required."
- 7281: Yeah, yeah...keep on babbling-wabbling, Skhoh Undhreh. Huh? A message for you? Nope, nothing like that.
- 7282: So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 .
- 7283: "Collect what I require and the ascension will be complete."
- 7284: You have done all that is required. Enjoy your prize.
- 7285: Only a select few are allowed to proceed beyond this point.
- 7286: As for you--my apologies, but we cannot allow you to pass.
- 7287: Many valuable articles are being stored here for the upcoming Auria Collection auction.
- 7288: We have established a viewing period so that potential bidders can examine the articles in person in order to determine their proper worth.
- 7289: However, the viewing period is now over. We appreciate your understanding.
- 7290: Oh no! I have absolutely no idea where the item I placed a requestaru for is.
- 7291: I thoughtaru I could learn something by coming here. However, I have no idea where to begin...
- 7292: I received an invitation to this auction from the one and only Chero-Machero. I plan to take advantage of this opportunity.
- 7293: The auction catalog contains many rare and unusual items. This is no time to be clutching one's purse strings.
- 7294: What should I do? There are so many wonderful things to choose from...
- 7295: I am hoping to find a large and exquisite jewel that looks great on me. I wonder if the "Ovostone" is some kind of gemstone.
- 7296: Ah! I can tell by the way you speak and carry yourself that you are my competition here.
- 7297: No? I am pretty good at reading people. I deal in antiquities, you see.
- 7298: Welcome, [sir/madame].
- 7299: My name is Oscarnot and I will be serving as the auctioneer.
- 7300: I trust that you received the catalog containing our wares on offer?
- 7301: If you see an item that catches your fancy, please write down your bid on the included bid sheet.
- 7302: Also, please note that while we are still currently accepting bids, the cutoff time is rapidly approaching.
- 7303: I have the catalog and bid sheets, but I am not planning to bid on anything at the currentaru time.
- 7304: More importantly, <Player>... Have you seen anyone suspicious yet?
- 7305: Have you seen anyone suspicious? [Yes, I have./No, not really./I haven't spoken to everyone yet.]
- 7306: Seriously!? Who?
- 7307: I talked to everyone here and nobody-wobody stuck out to me.
- 7308: Maybe Skhoh Undhreh has not arrived at the venue-wenue yet.
- 7309: Wh-whataru is this!?
- 7310: Hey, stop right there!
- 7311: Please accept my apologies for the commotion.
- 7312: Please be assured that we will expunge these beastmen with the utmost haste.
- 7313: Expunge? What do you mean by thataru?
- 7314: They do not have an invitation, so we will simply remove them from the venue.
- 7315: ...! Ah, is that you, <Player>!?
- 7316: Hey! How dare you speak to our guests! Keep it moving!
- 7317: The egg is just up ahead!
- 7318: You must find it!
- 7319: Do you know them, <Player>?
- 7320: Do you know them? [Yes, I do./No, I've never seen them before.]
- 7321: It seems you are quite famous-wamous.
- 7322: Oh? Are you sure? They seemed to know your name even...
- 7323: At any rate, what was that commentaru about an egg?
- 7324: What did they mean? [A boiled egg./The World Eater Egg./An egg sandwich.]
- 7325: I understand completely. I'm pretty hungry-wungry too.
- 7326: Whataru did you say!? Surely, you don't mean...
- 7327: I see... Those beastmen were searching for the World Eater Egg in order to splitaru it open.
- 7328: They said that the "egg is just up ahead"...
- 7329: Wait, you mean the World Eater Egg is here? It's being put up for auction-wauction?
- 7330: That reminds me--the "Mysterious Ovostone" was one of the items in the auction catalog-watalog.
- 7331: It was discovered in Xarcabard in the Middle Lands and seems-weems to have been magically turned to stone.
- 7332: Maybe we should place a bid-wid!
- 7333: Everyone, may I have your attention please! Bidding is now closed for this auction!
- 7334: Already!?
- 7335: Sir Oscarnot, there is an item that I simply mustaru bid on...
- 7336: I am sorry, but there is nothing that can be done.
- 7337: It is vital that we maintain total fairness with the bidding process. Everyone must abide by the same rules. Please accept our humble apologies.
- 7338: Yes, I suppose you're rightaru. Still, this is so unfortunate...
- 7339: Given the situation, we have no choice but to sneak into where they're holding-wolding this "Mysterious Ovostone" and see it for ourselves.
- 7340: Naturally, we're justaru going to look. It's not like I'm planning to steal it or anything.
- 7341: As far as I know, the items contained within the catalog are in the room behind that curtain-wurtain.
- 7342: Now, in order to enter the room withoutaru attracting suspicion...
- 7343: Huh!? What's that!?
- 7344: I think that Skokkr Undrborn is in thataru room!
- 7345: <Player>, I mustaru go! I'll leave the "World Eater Egg" to you!
- 7346: We have officially closed the bidding for the Auria Collection.
- 7347: It is vital that we maintain total fairness with the bidding process. Everyone must abide by the same rules. Please accept our humble apologies.
- 7348: Oww... That intruder bit my hand.
- 7349: Oh! Forgive me! Are you finished with your business?
- 7350: Do you want to leave? [Yes./No, not yet.]
- 7351: The room just beyond here is reserved for special individuals known as VIPs.
- 7352: Yes, we let Lady Oshasha pass. We hear that she is quite an important person.
- 7353: I am sorry, but you are not allowed to enter. I assume you know the reason why.
- 7354: What am I to do? They have already closed the bidding...
- 7355: I am not really used to this sort of thing... Maybe my bid was off by a zero?
- 7356: Sir Reginald is simply amazing. He has gathered some truly impressive pieces for this collection.
- 7357: What did you place a bid on? That piece near the wall that looks like a bunch of scribbles at first glance caught my eye...
- 7358: No, I shouldn't get my hopes up. I don't even know if I had the winning bid yet.
- 7359: Hey, no one told me that they were showing the items in that small room behind the curtain!
- 7360: Now I am worried because I based my bid solely on seeing the catalog. I guess I was too impatient.
- 7361: Only authorized personnel are allowed beyond this point.
- 7362: The reason is that the items from the Auria Collection are being stored there.
- 7363: Please wait while we check and pack the items before handing them over to the winning bidders.
- 7364: Hm? You need to check something in there?
- 7365: As I just mentioned, this area is only accessible to authorized personnel. And you are definitely not authorized personnel.
- 7366: This area is off-limits to unauthorized personnel.
- 7367: You definitely do not look like you are authorized to be here. Therefore, I cannot let you through.
- 7368: The bidding is over, but I asked if I could be let in the room to see the items again.
- 7369: However, the young lady told me that the room was off-limits to unauthorized personnel.
- 7370: Although, I see that the Silver Knife staff are able to come and go as they please. If I could somehow get one of their uniforms...
- 7371: <Sigh> I ordered a drink, but I cannot remember which server I was speaking to.
- 7372: You simply cannot tell them apart when they are wearing that uniform.
- 7373: What's that? You're wondering if I entered the room where they're keeping the items?
- 7374: Naturally, I would never spend such sums if I couldn't see the items in person. It was quite a sight to behold, I tell you.
- 7375: Ah, this is no good... It's impossible to locate the item I was asked to find-wind...
- 7376: I thoughtaru that if I came here, I could find some answers. It was hard work getting my hands on this mask and clothes.
- 7377: Hm? You're having some trouble too? You're looking-wooking for clothes like these?
- 7378: You can borrow them from the Mithra known as Runje Desaali in Eastern Adoulin.
- 7379: Are you new here? If you want to leave, then just leave!
- 7380: Do you want to leave? [Yes./No, not yet.]
- 7381: Hurry back... You'll be in trouble if I catch you skipping work.
- 7382: Do you want to leave? [Yes./No, not yet.]
- 7383: Hey, you there... What was your name again?
- 7384: No matter--we seem to have run out of refreshments, so go get some from the pantry.
- 7385: Ah, you did it, I see. You took-wook my advice.
- 7386: It's no use though... I can smell the delicious aroma!
- 7387: Excuse me. When will we know if we had the winning bid or not?
- 7388: It is rude to make an elderly woman wait so long.
- 7389: I am simply exhausted. Can you bring me a chair?
- 7390: Wait, you are that pioneer that was hanging around here earlier. I could tell immediately--you do not look very comfortable in those clothes.
- 7391: This is just between us, but are you in need of money?
- 7392: If I don't win the auction, I would like to know who had the winning bid...
- 7393: Please do not talk to me right now. It feels like I am forgetting something important...
- 7394: Hey! You are in charge of packing the items, right? Will you be finished soon?
- 7395: Our guests are growing anxious. Please hurry up and finish.
- 7396: Come on, get in here already.
- 7397: I must insist that you rrrefrain from touching that!
- 7398: You do rrrealize the contents of that barrel, yes?
- 7399: You mustn't disturrrb what's inside by tossing it about.
- 7400: That's because the winner of that egg is none otherrr than me, Skhoh Undhreh!
- 7401: However, it seems I should prrrobably share my real name with you.
- 7402: It is I, Skokkr Undrborn.
- 7403: I have hearrrd much about you from the spirits, <Player>. It is good to see you.
- 7404: Now then, I could barrrely believe my ears when I learned what was inside this barrel.
- 7405: Thanks to the Destiny Destroyers, it seems that it's the "rrreal egg."
- 7406: There is no need to worry though. I am a type of demon rrreferred to as a dvergr.
- 7407: I am a faithful serrrvant of Lord Odin himself.
- 7408: If it trrruly is the "World Eater Egg," then I plan to use it in service of Lord Odin.
- 7409: Hm? I should probably leave before this ruse is discovered.
- 7410: Lutete is waiting by Oscarnot. I believe that she is feeling rrrather better now.
- 7411: Listen to this--I managed to win every item I bid on. I guess I have still got the touch after all.
- 7412: I have yet to take possession of the items though, so I am not sure if they are what I am expecting.
- 7413: <Sigh> I was not able to get the jewel I bid on.
- 7414: This is a total travesty! I think that flashily dressed Mithra that came out from the room had the winning bid!
- 7415: Well? Were you able to get the items you were after?
- 7416: I was actually able to secure about half of the ones I bid on!
- 7417: You all did a very good job. Very impressive indeed! Bwahaha!
- 7418: Phew... It seems my work here is mostly done.
- 7419: I want to hurry home and change out of these hot clothes.
- 7420: The room just beyond here is reserved for special individuals known as VIPs.
- 7421: I am sorry, but you are not allowed to enter. I assume you know the reason why.
- 7422: Excuse me, [sir/madame]. Lady Oshasha is waiting for you.
- 7423: <Player>, did you meetaru with Skokkr Undrborn!?
- 7424: I never thoughtaru that Skokkr would appear in such a form.
- 7425: Did she... Or waitaru a moment, should I say him?
- 7426: At any rate, I was able to learn much from this momentaru.
- 7427: The nemesis of my ancestors Gurebu-Ogurebu and Medada... I wonder whataru Garazu-Horeizu is up to now.
- 7428: I see... Due to your lineage, you have taken a special interest in Garazu-Horeizu's rrresurrection and the threat he poses.
- 7429: It is imprrressive for one of your kind to show such concern. However, I doubt there is anything that you can do...
- 7430: In the 200 years since Garazu-Horeizu arrived in Valhalla, he has slowly been rrrecruiting allies to his side.
- 7431: Furrrthermore, he has been gathering information on a terrifying beast known as Chaos in order to complete his new style of magic.
- 7432: The terrestrial avatar Chaos...
- 7433: It is also said that only very special weapons rrreferred to as "Prime Weapons" are able to defeat it.
- 7434: Five thousand years ago, Lord Odin dealt the finishing blow, or so we all thought. It may have caused us to let down our guarrrd.
- 7435: Yet, it seems that an incrrredible find has been made...
- 7436: The egg that the fearrrsome beast left behind in Valhalla!
- 7437: It was rrreferred to as the "World Eater Egg."
- 7438: Garazu-Horeizu continued prrrotecting the egg for one hundred years until it could hatch...
- 7439: As a rrresult, the creature that was born from the egg was an identical copy of Chaos.
- 7440: It was a giant drrragon with wings of purple and gold...
- 7441: Everyone came to call it Chaos, and Lord Odin orrrdered its immediate extermination.
- 7442: However, that moment is when Garazu-Horeizu rrrevealed his true colors.
- 7443: He declared a rrrebellion against Lord Odin, and began feeding Chaos!
- 7444: It feasted on the souls of those that had been slain by Chaos.
- 7445: After devouring the souls, Chaos became even stronger, allowing Garazu-Horeizu to finally rrrealize his new type of magic.
- 7446: Many souls found themselves manipulated by that magic--enough to rrraise an army against Lord Odin, even.
- 7447: Furrrthermore, he used his inexhaustible supply of magic to create elaborate illusions to use against Lord Odin's army!
- 7448: You can prrrobably imagine what happened next...
- 7449: The entire powerrr structure within Valhalla was upended in a single instant!
- 7450: Based on what I've heard-weard, Garazu-Horeizu has completed his Vortex Theory.
- 7451: What? I've hearrrd that term Vortex Theory before...
- 7452: It was from one of your acquaintances!
- 7453: He even met Gurebu-Ogurebu and Medada!
- 7454: Are you sure!? You mean-wean they're in Valhalla!?
- 7455: Of courrrse I am. The lucky few who have been accepted by Lord Odin are automatically sent to Valhalla.
- 7456: I imagine both of them are contributing grrreatly in the fight against Chaos and Garazu-Horeizu. Although, with the gates to Valhalla closed, it is hard to say for sure.
- 7457: Please, Skokkr! Is there anything I can do to assistaru them!?
- 7458: I may not be able to fight-wight directly against Garazu-Horeizu or his minions...
- 7459: However, I am certain that I can fightaru Garazu-Horeizu in some other way! I'll do whatever it takes to bring him down!
- 7460: Ah... It's almost enough to make me cry...
- 7461: The rrregret and impatience you feel about not knowing what to do... It eats at you and prevents you from sleeping even.
- 7462: I am curious about where a destrrructive soul such as yourself will end up. Normally, I would simply leave you be.
- 7463: However! There is actually something that I'd like to rrrequest of you!
- 7464: Wh-what do you have in mind-wind?
- 7465: It's simple, actually. I want you to brrring me the $3.
- 7466: If the "World Eater Egg" that I just bought is the rrreal thing, I would like to perform some tests with it.
- 7467: In orrrder to collect the souls needed for the test, I need to make a deal. So I must have the $3!
- 7468: So as you can see, I'm in a little-wittle trouble.
- 7469: This particular book-wook can be found in the Celennia Memorial Library's reliquary. There is no way to even check it out though, let alone have them give it to us.
- 7470: For now, I shall return to the library-wibrary and speak with Valli and Lerene.
- 7471: If they have made progress decoding the book, then they mightaru know of something that can help.
- 7472: Can you spare a moment before you go, <Player>?
- 7473: You see, those insolent Goblins that tried to scare everybody are refusing to leave their spot in front of the Silver Knife.
- 7474: I asked them why and they said that they need to talk to you, <Player>.
- 7475: I imagine the circumstances are complicated, but please speak with Glowing Hearth outside before you go.
- 7476: You see, those insolent Goblins that tried to scare everybody are refusing to leave their spot in front of the Silver Knife.
- 7477: I asked them why and they said that they need to talk to you, <Player>.
- 7478: I imagine the circumstances are complicated, but please speak with Glowing Hearth outside before you go.
+ 7255: Which memory will you have recalled? [None./]
+ 7256: Hey, I heard-weard all the details from Skokkr... Er, Skhoh Undhreh.
+ 7257: When you've found the World Eater Egg or other related paraphernalia, can you bring-wing them to me?
+ 7258: I got a guy who can handle such exotic items.
+ 7259: Oh, is this an avataru's spirit? My feelings are difficult to put into words.
+ 7260: But never mind that. Skhoh Undhreh told me that we needed-weeded a suitable vessel.
+ 7261: I'm led to believe that Ruspix in Leafallia is collecting gallimaufry. Can you bring me a little bit? Say...$0.
+ 7262: Goblins sure have a nose for the rare, even though I'm confident he has no idea what it actually is. Hence the name.
+ 7263: Remember, come back when you have $0 gallimaufry for me!
+ 7264: Which Prime Weapon would you like?
+ 7265: Which one? ($0 gall.) [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./None for now.]
+ 7266: You wantaru the $0? It'll run you $1 gallimaufry.
+ 7267: Are you sure? ($0 gall.) [Positive./Hang on...]
+ 7268: A deal's a deal! Make sure to come back tomorrow.
+ 7269: I'm currently requisitioning your $0. One weapon at a time!
+ 7270: Hey, that's not enough-wough gallimaufry!
+ 7271: Good timing-wiming. Your $0 just arrived from Skhoh Undhreh, along with a message.
+ 7272: "The vessel is now ready, and I would implore you to test it well. Beware, lest the bearer's soul be devoured." Spooky!
+ 7273: You must be in possession of a Prime Weapon other than an instrument or shield in order to progress with The Voracious Resurgence storyline.
+ 7274: Ask about what? [Forging a Prime Weapon./Tempering a Prime Weapon./Nothing.]
+ 7275: I've got a message-wessage from Skhoh Undhreh.
+ 7276: "The vessel may be prepared, but that does not mean it is complete. I require more materials."
+ 7277: And what do you know--she even gave me a list! "$3 $0 and $1 gallimaufry."
+ 7278: Can you bring-wing me the Prime Weapon you are interested in knowing the materials for?
+ 7279: Okay! I've got your $0 all safe and sound. Make sure to come back tomorrow!
+ 7280: "I have determined that the vessel required can be replicated with $6! We can counteract the corruption that way."
+ 7281: "When the time for Ragnarok is close at hand, the Prime Weapons can ascend to their final form at last. But new materials are required."
+ 7282: Yeah, yeah...keep on babbling-wabbling, Skhoh Undhreh. Huh? A message for you? Nope, nothing like that.
+ 7283: So here's your favorite list of materials: $1 gallimaufry, $3$0 , and $5$0$4 .
+ 7284: "Collect what I require and the ascension will be complete."
+ 7285: You have done all that is required. Enjoy your prize.
+ 7286: Only a select few are allowed to proceed beyond this point.
+ 7287: As for you--my apologies, but we cannot allow you to pass.
+ 7288: Many valuable articles are being stored here for the upcoming Auria Collection auction.
+ 7289: We have established a viewing period so that potential bidders can examine the articles in person in order to determine their proper worth.
+ 7290: However, the viewing period is now over. We appreciate your understanding.
+ 7291: Oh no! I have absolutely no idea where the item I placed a requestaru for is.
+ 7292: I thoughtaru I could learn something by coming here. However, I have no idea where to begin...
+ 7293: I received an invitation to this auction from the one and only Chero-Machero. I plan to take advantage of this opportunity.
+ 7294: The auction catalog contains many rare and unusual items. This is no time to be clutching one's purse strings.
+ 7295: What should I do? There are so many wonderful things to choose from...
+ 7296: I am hoping to find a large and exquisite jewel that looks great on me. I wonder if the "Ovostone" is some kind of gemstone.
+ 7297: Ah! I can tell by the way you speak and carry yourself that you are my competition here.
+ 7298: No? I am pretty good at reading people. I deal in antiquities, you see.
+ 7299: Welcome, [sir/madame].
+ 7300: My name is Oscarnot and I will be serving as the auctioneer.
+ 7301: I trust that you received the catalog containing our wares on offer?
+ 7302: If you see an item that catches your fancy, please write down your bid on the included bid sheet.
+ 7303: Also, please note that while we are still currently accepting bids, the cutoff time is rapidly approaching.
+ 7304: I have the catalog and bid sheets, but I am not planning to bid on anything at the currentaru time.
+ 7305: More importantly, <Player>... Have you seen anyone suspicious yet?
+ 7306: Have you seen anyone suspicious? [Yes, I have./No, not really./I haven't spoken to everyone yet.]
+ 7307: Seriously!? Who?
+ 7308: I talked to everyone here and nobody-wobody stuck out to me.
+ 7309: Maybe Skhoh Undhreh has not arrived at the venue-wenue yet.
+ 7310: Wh-whataru is this!?
+ 7311: Hey, stop right there!
+ 7312: Please accept my apologies for the commotion.
+ 7313: Please be assured that we will expunge these beastmen with the utmost haste.
+ 7314: Expunge? What do you mean by thataru?
+ 7315: They do not have an invitation, so we will simply remove them from the venue.
+ 7316: ...! Ah, is that you, <Player>!?
+ 7317: Hey! How dare you speak to our guests! Keep it moving!
+ 7318: The egg is just up ahead!
+ 7319: You must find it!
+ 7320: Do you know them, <Player>?
+ 7321: Do you know them? [Yes, I do./No, I've never seen them before.]
+ 7322: It seems you are quite famous-wamous.
+ 7323: Oh? Are you sure? They seemed to know your name even...
+ 7324: At any rate, what was that commentaru about an egg?
+ 7325: What did they mean? [A boiled egg./The World Eater Egg./An egg sandwich.]
+ 7326: I understand completely. I'm pretty hungry-wungry too.
+ 7327: Whataru did you say!? Surely, you don't mean...
+ 7328: I see... Those beastmen were searching for the World Eater Egg in order to splitaru it open.
+ 7329: They said that the "egg is just up ahead"...
+ 7330: Wait, you mean the World Eater Egg is here? It's being put up for auction-wauction?
+ 7331: That reminds me--the "Mysterious Ovostone" was one of the items in the auction catalog-watalog.
+ 7332: It was discovered in Xarcabard in the Middle Lands and seems-weems to have been magically turned to stone.
+ 7333: Maybe we should place a bid-wid!
+ 7334: Everyone, may I have your attention please! Bidding is now closed for this auction!
+ 7335: Already!?
+ 7336: Sir Oscarnot, there is an item that I simply mustaru bid on...
+ 7337: I am sorry, but there is nothing that can be done.
+ 7338: It is vital that we maintain total fairness with the bidding process. Everyone must abide by the same rules. Please accept our humble apologies.
+ 7339: Yes, I suppose you're rightaru. Still, this is so unfortunate...
+ 7340: Given the situation, we have no choice but to sneak into where they're holding-wolding this "Mysterious Ovostone" and see it for ourselves.
+ 7341: Naturally, we're justaru going to look. It's not like I'm planning to steal it or anything.
+ 7342: As far as I know, the items contained within the catalog are in the room behind that curtain-wurtain.
+ 7343: Now, in order to enter the room withoutaru attracting suspicion...
+ 7344: Huh!? What's that!?
+ 7345: I think that Skokkr Undrborn is in thataru room!
+ 7346: <Player>, I mustaru go! I'll leave the "World Eater Egg" to you!
+ 7347: We have officially closed the bidding for the Auria Collection.
+ 7348: It is vital that we maintain total fairness with the bidding process. Everyone must abide by the same rules. Please accept our humble apologies.
+ 7349: Oww... That intruder bit my hand.
+ 7350: Oh! Forgive me! Are you finished with your business?
+ 7351: Do you want to leave? [Yes./No, not yet.]
+ 7352: The room just beyond here is reserved for special individuals known as VIPs.
+ 7353: Yes, we let Lady Oshasha pass. We hear that she is quite an important person.
+ 7354: I am sorry, but you are not allowed to enter. I assume you know the reason why.
+ 7355: What am I to do? They have already closed the bidding...
+ 7356: I am not really used to this sort of thing... Maybe my bid was off by a zero?
+ 7357: Sir Reginald is simply amazing. He has gathered some truly impressive pieces for this collection.
+ 7358: What did you place a bid on? That piece near the wall that looks like a bunch of scribbles at first glance caught my eye...
+ 7359: No, I shouldn't get my hopes up. I don't even know if I had the winning bid yet.
+ 7360: Hey, no one told me that they were showing the items in that small room behind the curtain!
+ 7361: Now I am worried because I based my bid solely on seeing the catalog. I guess I was too impatient.
+ 7362: Only authorized personnel are allowed beyond this point.
+ 7363: The reason is that the items from the Auria Collection are being stored there.
+ 7364: Please wait while we check and pack the items before handing them over to the winning bidders.
+ 7365: Hm? You need to check something in there?
+ 7366: As I just mentioned, this area is only accessible to authorized personnel. And you are definitely not authorized personnel.
+ 7367: This area is off-limits to unauthorized personnel.
+ 7368: You definitely do not look like you are authorized to be here. Therefore, I cannot let you through.
+ 7369: The bidding is over, but I asked if I could be let in the room to see the items again.
+ 7370: However, the young lady told me that the room was off-limits to unauthorized personnel.
+ 7371: Although, I see that the Silver Knife staff are able to come and go as they please. If I could somehow get one of their uniforms...
+ 7372: <Sigh> I ordered a drink, but I cannot remember which server I was speaking to.
+ 7373: You simply cannot tell them apart when they are wearing that uniform.
+ 7374: What's that? You're wondering if I entered the room where they're keeping the items?
+ 7375: Naturally, I would never spend such sums if I couldn't see the items in person. It was quite a sight to behold, I tell you.
+ 7376: Ah, this is no good... It's impossible to locate the item I was asked to find-wind...
+ 7377: I thoughtaru that if I came here, I could find some answers. It was hard work getting my hands on this mask and clothes.
+ 7378: Hm? You're having some trouble too? You're looking-wooking for clothes like these?
+ 7379: You can borrow them from the Mithra known as Runje Desaali in Eastern Adoulin.
+ 7380: Are you new here? If you want to leave, then just leave!
+ 7381: Do you want to leave? [Yes./No, not yet.]
+ 7382: Hurry back... You'll be in trouble if I catch you skipping work.
+ 7383: Do you want to leave? [Yes./No, not yet.]
+ 7384: Hey, you there... What was your name again?
+ 7385: No matter--we seem to have run out of refreshments, so go get some from the pantry.
+ 7386: Ah, you did it, I see. You took-wook my advice.
+ 7387: It's no use though... I can smell the delicious aroma!
+ 7388: Excuse me. When will we know if we had the winning bid or not?
+ 7389: It is rude to make an elderly woman wait so long.
+ 7390: I am simply exhausted. Can you bring me a chair?
+ 7391: Wait, you are that pioneer that was hanging around here earlier. I could tell immediately--you do not look very comfortable in those clothes.
+ 7392: This is just between us, but are you in need of money?
+ 7393: If I don't win the auction, I would like to know who had the winning bid...
+ 7394: Please do not talk to me right now. It feels like I am forgetting something important...
+ 7395: Hey! You are in charge of packing the items, right? Will you be finished soon?
+ 7396: Our guests are growing anxious. Please hurry up and finish.
+ 7397: Come on, get in here already.
+ 7398: I must insist that you rrrefrain from touching that!
+ 7399: You do rrrealize the contents of that barrel, yes?
+ 7400: You mustn't disturrrb what's inside by tossing it about.
+ 7401: That's because the winner of that egg is none otherrr than me, Skhoh Undhreh!
+ 7402: However, it seems I should prrrobably share my real name with you.
+ 7403: It is I, Skokkr Undrborn.
+ 7404: I have hearrrd much about you from the spirits, <Player>. It is good to see you.
+ 7405: Now then, I could barrrely believe my ears when I learned what was inside this barrel.
+ 7406: Thanks to the Destiny Destroyers, it seems that it's the "rrreal egg."
+ 7407: There is no need to worry though. I am a type of demon rrreferred to as a dvergr.
+ 7408: I am a faithful serrrvant of Lord Odin himself.
+ 7409: If it trrruly is the "World Eater Egg," then I plan to use it in service of Lord Odin.
+ 7410: Hm? I should probably leave before this ruse is discovered.
+ 7411: Lutete is waiting by Oscarnot. I believe that she is feeling rrrather better now.
+ 7412: Listen to this--I managed to win every item I bid on. I guess I have still got the touch after all.
+ 7413: I have yet to take possession of the items though, so I am not sure if they are what I am expecting.
+ 7414: <Sigh> I was not able to get the jewel I bid on.
+ 7415: This is a total travesty! I think that flashily dressed Mithra that came out from the room had the winning bid!
+ 7416: Well? Were you able to get the items you were after?
+ 7417: I was actually able to secure about half of the ones I bid on!
+ 7418: You all did a very good job. Very impressive indeed! Bwahaha!
+ 7419: Phew... It seems my work here is mostly done.
+ 7420: I want to hurry home and change out of these hot clothes.
+ 7421: The room just beyond here is reserved for special individuals known as VIPs.
+ 7422: I am sorry, but you are not allowed to enter. I assume you know the reason why.
+ 7423: Excuse me, [sir/madame]. Lady Oshasha is waiting for you.
+ 7424: <Player>, did you meetaru with Skokkr Undrborn!?
+ 7425: I never thoughtaru that Skokkr would appear in such a form.
+ 7426: Did she... Or waitaru a moment, should I say him?
+ 7427: At any rate, I was able to learn much from this momentaru.
+ 7428: The nemesis of my ancestors Gurebu-Ogurebu and Medada... I wonder whataru Garazu-Horeizu is up to now.
+ 7429: I see... Due to your lineage, you have taken a special interest in Garazu-Horeizu's rrresurrection and the threat he poses.
+ 7430: It is imprrressive for one of your kind to show such concern. However, I doubt there is anything that you can do...
+ 7431: In the 200 years since Garazu-Horeizu arrived in Valhalla, he has slowly been rrrecruiting allies to his side.
+ 7432: Furrrthermore, he has been gathering information on a terrifying beast known as Chaos in order to complete his new style of magic.
+ 7433: The terrestrial avatar Chaos...
+ 7434: It is also said that only very special weapons rrreferred to as "Prime Weapons" are able to defeat it.
+ 7435: Five thousand years ago, Lord Odin dealt the finishing blow, or so we all thought. It may have caused us to let down our guarrrd.
+ 7436: Yet, it seems that an incrrredible find has been made...
+ 7437: The egg that the fearrrsome beast left behind in Valhalla!
+ 7438: It was rrreferred to as the "World Eater Egg."
+ 7439: Garazu-Horeizu continued prrrotecting the egg for one hundred years until it could hatch...
+ 7440: As a rrresult, the creature that was born from the egg was an identical copy of Chaos.
+ 7441: It was a giant drrragon with wings of purple and gold...
+ 7442: Everyone came to call it Chaos, and Lord Odin orrrdered its immediate extermination.
+ 7443: However, that moment is when Garazu-Horeizu rrrevealed his true colors.
+ 7444: He declared a rrrebellion against Lord Odin, and began feeding Chaos!
+ 7445: It feasted on the souls of those that had been slain by Chaos.
+ 7446: After devouring the souls, Chaos became even stronger, allowing Garazu-Horeizu to finally rrrealize his new type of magic.
+ 7447: Many souls found themselves manipulated by that magic--enough to rrraise an army against Lord Odin, even.
+ 7448: Furrrthermore, he used his inexhaustible supply of magic to create elaborate illusions to use against Lord Odin's army!
+ 7449: You can prrrobably imagine what happened next...
+ 7450: The entire powerrr structure within Valhalla was upended in a single instant!
+ 7451: Based on what I've heard-weard, Garazu-Horeizu has completed his Vortex Theory.
+ 7452: What? I've hearrrd that term Vortex Theory before...
+ 7453: It was from one of your acquaintances!
+ 7454: He even met Gurebu-Ogurebu and Medada!
+ 7455: Are you sure!? You mean-wean they're in Valhalla!?
+ 7456: Of courrrse I am. The lucky few who have been accepted by Lord Odin are automatically sent to Valhalla.
+ 7457: I imagine both of them are contributing grrreatly in the fight against Chaos and Garazu-Horeizu. Although, with the gates to Valhalla closed, it is hard to say for sure.
+ 7458: Please, Skokkr! Is there anything I can do to assistaru them!?
+ 7459: I may not be able to fight-wight directly against Garazu-Horeizu or his minions...
+ 7460: However, I am certain that I can fightaru Garazu-Horeizu in some other way! I'll do whatever it takes to bring him down!
+ 7461: Ah... It's almost enough to make me cry...
+ 7462: The rrregret and impatience you feel about not knowing what to do... It eats at you and prevents you from sleeping even.
+ 7463: I am curious about where a destrrructive soul such as yourself will end up. Normally, I would simply leave you be.
+ 7464: However! There is actually something that I'd like to rrrequest of you!
+ 7465: Wh-what do you have in mind-wind?
+ 7466: It's simple, actually. I want you to brrring me the $3.
+ 7467: If the "World Eater Egg" that I just bought is the rrreal thing, I would like to perform some tests with it.
+ 7468: In orrrder to collect the souls needed for the test, I need to make a deal. So I must have the $3!
+ 7469: So as you can see, I'm in a little-wittle trouble.
+ 7470: This particular book-wook can be found in the Celennia Memorial Library's reliquary. There is no way to even check it out though, let alone have them give it to us.
+ 7471: For now, I shall return to the library-wibrary and speak with Valli and Lerene.
+ 7472: If they have made progress decoding the book, then they mightaru know of something that can help.
+ 7473: Can you spare a moment before you go, <Player>?
+ 7474: You see, those insolent Goblins that tried to scare everybody are refusing to leave their spot in front of the Silver Knife.
+ 7475: I asked them why and they said that they need to talk to you, <Player>.
+ 7476: I imagine the circumstances are complicated, but please speak with Glowing Hearth outside before you go.
+ 7477: You see, those insolent Goblins that tried to scare everybody are refusing to leave their spot in front of the Silver Knife.
+ 7478: I asked them why and they said that they need to talk to you, <Player>.
+ 7479: I imagine the circumstances are complicated, but please speak with Glowing Hearth outside before you go.

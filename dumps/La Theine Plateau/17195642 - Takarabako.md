@@ -25,38 +25,38 @@
 |       2 | 0x0064      |         100 |
 |       3 | 0x0013      |          19 |
 |       4 | 0x003C      |          60 |
-|       5 | 0x1D53      |        7507 |
-|       6 | 0x1D54      |        7508 |
+|       5 | 0x1D54      |        7508 |
+|       6 | 0x1D55      |        7509 |
 |       7 | 0x0078      |         120 |
 |       8 | 0x007F      |         127 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1D55      |        7509 |
+|      10 | 0x1D56      |        7510 |
 |      11 | 0x000F      |          15 |
-|      12 | 0x1D56      |        7510 |
-|      13 | 0x1D57      |        7511 |
+|      12 | 0x1D57      |        7511 |
+|      13 | 0x1D58      |        7512 |
 |      14 | 0x001E      |          30 |
-|      15 | 0x1D58      |        7512 |
+|      15 | 0x1D59      |        7513 |
 |      16 | 0x00AA      |         170 |
-|      17 | 0x1D5C      |        7516 |
+|      17 | 0x1D5D      |        7517 |
 |      18 | 0x005C      |          92 |
-|      19 | 0x1D69      |        7529 |
+|      19 | 0x1D6A      |        7530 |
 |      20 | 0x0014      |          20 |
 |      21 | 0x000A      |          10 |
 |      22 | 0x006E      |         110 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x012C      |         300 |
 |      25 | 0x0008      |           8 |
-|      26 | 0x1D72      |        7538 |
-|      27 | 0x1D74      |        7540 |
-|      28 | 0x1D79      |        7545 |
+|      26 | 0x1D73      |        7539 |
+|      27 | 0x1D75      |        7541 |
+|      28 | 0x1D7A      |        7546 |
 |      29 | 0x0190      |         400 |
-|      30 | 0x1D80      |        7552 |
-|      31 | 0x1D81      |        7553 |
+|      30 | 0x1D81      |        7553 |
+|      31 | 0x1D82      |        7554 |
 
 ## String References
 
-- **7507**: You find an old chest!
-- **7508**: However, your $3 breaks.
+- **7508**: You find an old chest!
+- **7509**: However, your $3 breaks.
 
 ## Events
 
@@ -267,10 +267,10 @@
  11: 0x0038 [0x80] LOAD_WAIT(entity=Nanaa Mihgo (ID: 17195641/0x01066279))
  12: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x14)
  13: 0x0044 [0x1C] WAIT(60* ticks)
- 14: 0x0047 [0x48] [System] [7507*]:
+ 14: 0x0047 [0x48] [System] [7508*]:
     → "You find an old chest!"
  15: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x004B [0x48] [System] [7508*]:
+ 16: 0x004B [0x48] [System] [7509*]:
     → "However, your $3 breaks."
  17: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x004F [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
@@ -280,7 +280,7 @@
  22: 0x0063 [0x27] REQ_SET(priority=0x0B, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x18)
  23: 0x006A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  24: 0x007B [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x23)
- 25: 0x0082 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7509*]:
+ 25: 0x0082 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7510*]:
     → "Hey! What do you think you're doing, finding the trrreasure chest before me!?"
  26: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x008A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279))
@@ -289,10 +289,10 @@
  30: 0x00A5 [0x4A] LocalPlayer looks at Nanaa Mihgo (ID: 17195641/0x01066279)
  31: 0x00AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=[15*, 0*]
  32: 0x00BF [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x24)
- 33: 0x00C6 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7510*]:
+ 33: 0x00C6 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7511*]:
     → "Rrright, move it or lose it. I'll be the one to open it."
  34: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00CE [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7511*]:
+ 35: 0x00CE [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7512*]:
     → "There might be some kinda nasty trrrap just waiting to spring on a kitten like you."
  36: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00D6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279))
@@ -309,7 +309,7 @@
  48: 0x0125 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [LocalPlayer, LocalPlayer], work=[15*, 0*]
  49: 0x0136 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "open" with entities [EventEntity, EventEntity]
  50: 0x0143 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 51: 0x0154 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7512*]:
+ 51: 0x0154 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7513*]:
     → "...Rauuugh! Got it open! Now, let's take a look at the treasure..."
  52: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x015C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279))
@@ -330,7 +330,7 @@
  68: 0x01D3 [0x27] REQ_SET(priority=0x0B, entity_id=Ulzana (ID: 17195638/0x01066276), tag_num=0x10)
  69: 0x01DA [0x1C] WAIT(30* ticks)
  70: 0x01DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [LocalPlayer, LocalPlayer], work=[15*, 0*]
- 71: 0x01EE [0x2B] Ulzana (ID: 17195638/0x01066276) [7516*]:
+ 71: 0x01EE [0x2B] Ulzana (ID: 17195638/0x01066276) [7517*]:
     → "You two! Stay where you are!"
  72: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x01F6 [0x4E] SET_ENTITY_HIDE_FLAG: Show Vauderame (ID: 17195632/0x01066270)
@@ -420,7 +420,7 @@
 157: 0x0521 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ulzana (ID: 17195638/0x01066276), tag_num=0x0F)
 158: 0x0528 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [LocalPlayer, LocalPlayer], work=[15*, 0*]
 159: 0x0539 [0x27] REQ_SET(priority=0x0B, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x16)
-160: 0x0540 [0x2B] Vauderame (ID: 17195632/0x01066270) [7529*]:
+160: 0x0540 [0x2B] Vauderame (ID: 17195632/0x01066270) [7530*]:
     → "You forget, Kanika. Atarefaunet's band is no more. We are now known as Vauderame's Knights."
 161: 0x0547 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0548 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kanika (ID: 17195637/0x01066275), tag_num=0x02)
@@ -478,7 +478,7 @@
 214: 0x071B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Sneaking Tiger (ID: 17195635/0x01066273), tag_num=0x12)
 215: 0x0722 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279))
 216: 0x0728 [0x27] REQ_SET(priority=0x0B, entity_id=Chepelle (ID: 17195633/0x01066271), tag_num=0x12)
-217: 0x072F [0x2B] Chepelle (ID: 17195633/0x01066271) [7538*]:
+217: 0x072F [0x2B] Chepelle (ID: 17195633/0x01066271) [7539*]:
     → "...Are you sure about those two? It's not like you to leave loose ends, even if their memory has been erased."
 218: 0x0736 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0737 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Chepelle (ID: 17195633/0x01066271))
@@ -486,7 +486,7 @@
 221: 0x0744 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x22)
 222: 0x074B [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279))
 223: 0x0751 [0x27] REQ_SET(priority=0x0B, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x17)
-224: 0x0758 [0x2B] Vauderame (ID: 17195632/0x01066270) [7540*]:
+224: 0x0758 [0x2B] Vauderame (ID: 17195632/0x01066270) [7541*]:
     → "Then there is this adventurer. [He/She] looks like someone I did away with in another time..."
 225: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x0760 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Vauderame (ID: 17195632/0x01066270))
@@ -499,7 +499,7 @@
 233: 0x078B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Vauderame (ID: 17195632/0x01066270), tag_num=0x25)
 234: 0x0792 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
 235: 0x0797 [0x1C] WAIT(100* ticks)
-236: 0x079A [0x2B] Vauderame (ID: 17195632/0x01066270) [7545*]:
+236: 0x079A [0x2B] Vauderame (ID: 17195632/0x01066270) [7546*]:
     → "My homeland, Tavnazia."
 237: 0x07A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x07A2 [0x1C] WAIT(300* ticks)
@@ -548,13 +548,13 @@
 281: 0x08FA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x30)
 282: 0x0901 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [LocalPlayer, LocalPlayer], work=[15*, 0*]
 283: 0x0912 [0x27] REQ_SET(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x25)
-284: 0x0919 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7552*]:
+284: 0x0919 [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7553*]:
     → "Time to leave this place behind. Although I would like to see Vauderame's face when he opens the chest to find it empty..."
 285: 0x0920 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0921 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279))
 287: 0x0927 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
 288: 0x092C [0x1C] WAIT(60* ticks)
-289: 0x092F [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7553*]:
+289: 0x092F [0x2B] Nanaa Mihgo (ID: 17195641/0x01066279) [7554*]:
     → "...Hmmm. I get the feeling there's something important I'm forgetting..."
 290: 0x0936 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x0937 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

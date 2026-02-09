@@ -58,13 +58,13 @@
 |      25 | 0x1D92F     |      121135 |
 |      26 | 0xFFFFE94E  |  4294961486 |
 |      27 | 0x0050      |          80 |
-|      28 | 0x2366      |        9062 |
-|      29 | 0x2367      |        9063 |
+|      28 | 0x2367      |        9063 |
+|      29 | 0x2368      |        9064 |
 
 ## String References
 
-- **9062**: d $3TThose who found the light again were those who knew themselves. Those who knew courage. Those who knew justice. Those who knew truth.
-- **9063**: R $3TAnd then there came one whose determination would create a new future. That radiance would be as a beacon for all that lay ahead.
+- **9063**: d $3TThose who found the light again were those who knew themselves. Those who knew courage. Those who knew justice. Those who knew truth.
+- **9064**: R $3TAnd then there came one whose determination would create a new future. That radiance would be as a beacon for all that lay ahead.
 
 ## Events
 
@@ -333,7 +333,7 @@
 
 ```
   0: 0x006C [0x67] HIDE_HUD_ELEMENTS(param1=0x801B, param2=0x801B)
-  1: 0x0071 [0x48] [System] [9062*]:
+  1: 0x0071 [0x48] [System] [9063*]:
     → "d $3TThose who found the light again were those who knew themselves. Those who knew courage. Those who knew justice. Those who knew truth."
   2: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0075 [0x00] END_REQSTACK()
@@ -358,7 +358,7 @@
 #### Opcodes
 
 ```
-  0: 0x0076 [0x48] [System] [9063*]:
+  0: 0x0076 [0x48] [System] [9064*]:
     → "R $3TAnd then there came one whose determination would create a new future. That radiance would be as a beacon for all that lay ahead."
   1: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x007A [0x00] END_REQSTACK()

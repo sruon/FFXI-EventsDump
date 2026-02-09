@@ -1,5 +1,5 @@
 # Strings for Pso'Xja
-# Total: 7515 strings
+# Total: 7516 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,7 +7069,7 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Proceed onward? [Yes./No.]
+ 7068: It won't open.
  7069: Proceed onward? [Yes./No.]
  7070: Proceed onward? [Yes./No.]
  7071: Proceed onward? [Yes./No.]
@@ -7078,102 +7078,102 @@
  7074: Proceed onward? [Yes./No.]
  7075: Proceed onward? [Yes./No.]
  7076: Proceed onward? [Yes./No.]
- 7077: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
- 7078: Return to the following area? [Riverne - Site #A01./Do not return.]
- 7079: Return to the following area? [Riverne - Site #B01./Do not return.]
- 7080: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
- 7081: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
- 7082: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
- 7083: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
- 7084: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
- 7085: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
- 7086: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
- 7087: Really warp to the Propagator? [Yes./No.]
- 7088: Really warp to the Solicitor? [Yes./No.]
- 7089: Really warp to the Ponderer? [Yes./No.]
- 7090: Tallying conquest results...
- 7091: Conquest results tallied.
- 7092: This region is currently under San d'Orian control.
- 7093: This region is currently under Bastokan control.
- 7094: This region is currently under Windurstian control.
- 7095: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7096: This region is currently neutral.
- 7097: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7098: All three nations are tied for first place.
- 7099: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7100: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7102: All three nations are tied for first place.
- 7103: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7104: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7105: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7106: All three nations are tied for first place.
- 7107: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7108: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7109: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7110: All three nations are tied for first place.
- 7111: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7112: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7113: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7114: Global balance of power: All three nations are tied for first place.
- 7115: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7116: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7117: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7118: All three nations are tied for first place.
- 7119: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7120: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7121: Conquest update: This region is currently neutral.
- 7122: Conquest update: This region is currently under San d'Orian control.
- 7123: Conquest update: This region is currently under Bastokan control.
- 7124: Conquest update: This region is currently under Windurstian control.
- 7125: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7126: All three nations are at a deadlock.
- 7127: The beastmen are on the rise.
- 7128: Regional influence: San d'Oria - Dominant
- 7129: Regional influence: San d'Oria - Major
- 7130: Regional influence: San d'Oria - Minor
- 7131: Regional influence: San d'Oria - Minimal
- 7132: Bastok - Dominant
- 7133: Bastok - Major
- 7134: Bastok - Minor
- 7135: Bastok - Minimal
- 7136: Windurst - Dominant
- 7137: Windurst - Major
- 7138: Windurst - Minor
- 7139: Windurst - Minimal
- 7140: Bastok and Windurst have formed an alliance.
- 7141: San d'Oria and Windurst have formed an alliance.
- 7142: San d'Oria and Bastok have formed an alliance.
- 7143: Bastok and Windurst are currently allies.
- 7144: San d'Oria and Windurst are currently allies.
- 7145: San d'Oria and Bastok are currently allies.
- 7146: $10$P11.$17F$0 $P14;$P12hF$1
- 7147: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7148: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7149: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7150: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7151: The beastmen are gaining power.
- 7152: San d'Oria's regional control is now 10% closer to the first place country's!
- 7153: Bastok's regional control is now 10% closer to the first place country's!
- 7154: Windurst's regional control are now 10% closer to the first place country's!
- 7155: San d'Oria's region points have increased!
- 7156: Bastok's region points have increased!
- 7157: Windurst's region points have increased!
- 7158: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7159: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7160: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7161: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7162: A Bastokan Expeditionary Force has been dispatched to this area.
- 7163: A Windurstian Expeditionary Force has been dispatched to this area.
- 7164: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7165: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7166: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7167: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7168: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7169: There was a curse on the beastmen's banner!
- 7170: The curse of the beastmen's banner has been lifted!
- 7171: There is a beastmen's banner.
- 7172: @
+ 7077: Proceed onward? [Yes./No.]
+ 7078: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
+ 7079: Return to the following area? [Riverne - Site #A01./Do not return.]
+ 7080: Return to the following area? [Riverne - Site #B01./Do not return.]
+ 7081: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
+ 7082: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
+ 7083: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
+ 7084: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
+ 7085: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
+ 7086: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+ 7087: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+ 7088: Really warp to the Propagator? [Yes./No.]
+ 7089: Really warp to the Solicitor? [Yes./No.]
+ 7090: Really warp to the Ponderer? [Yes./No.]
+ 7091: Tallying conquest results...
+ 7092: Conquest results tallied.
+ 7093: This region is currently under San d'Orian control.
+ 7094: This region is currently under Bastokan control.
+ 7095: This region is currently under Windurstian control.
+ 7096: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7097: This region is currently neutral.
+ 7098: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7099: All three nations are tied for first place.
+ 7100: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7102: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7103: All three nations are tied for first place.
+ 7104: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7105: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7106: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7107: All three nations are tied for first place.
+ 7108: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7109: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7110: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7111: All three nations are tied for first place.
+ 7112: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7113: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7114: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7115: Global balance of power: All three nations are tied for first place.
+ 7116: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7117: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7118: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7119: All three nations are tied for first place.
+ 7120: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7121: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7122: Conquest update: This region is currently neutral.
+ 7123: Conquest update: This region is currently under San d'Orian control.
+ 7124: Conquest update: This region is currently under Bastokan control.
+ 7125: Conquest update: This region is currently under Windurstian control.
+ 7126: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7127: All three nations are at a deadlock.
+ 7128: The beastmen are on the rise.
+ 7129: Regional influence: San d'Oria - Dominant
+ 7130: Regional influence: San d'Oria - Major
+ 7131: Regional influence: San d'Oria - Minor
+ 7132: Regional influence: San d'Oria - Minimal
+ 7133: Bastok - Dominant
+ 7134: Bastok - Major
+ 7135: Bastok - Minor
+ 7136: Bastok - Minimal
+ 7137: Windurst - Dominant
+ 7138: Windurst - Major
+ 7139: Windurst - Minor
+ 7140: Windurst - Minimal
+ 7141: Bastok and Windurst have formed an alliance.
+ 7142: San d'Oria and Windurst have formed an alliance.
+ 7143: San d'Oria and Bastok have formed an alliance.
+ 7144: Bastok and Windurst are currently allies.
+ 7145: San d'Oria and Windurst are currently allies.
+ 7146: San d'Oria and Bastok are currently allies.
+ 7147: $10$P11.$17F$0 $P14;$P12hF$1
+ 7148: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7149: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7150: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7151: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7152: The beastmen are gaining power.
+ 7153: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7154: Bastok's regional control is now 10% closer to the first place country's!
+ 7155: Windurst's regional control are now 10% closer to the first place country's!
+ 7156: San d'Oria's region points have increased!
+ 7157: Bastok's region points have increased!
+ 7158: Windurst's region points have increased!
+ 7159: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7160: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7161: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7162: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7163: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7164: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7165: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7166: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7167: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7168: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7169: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7170: There was a curse on the beastmen's banner!
+ 7171: The curse of the beastmen's banner has been lifted!
+ 7172: There is a beastmen's banner.
  7173: @
  7174: @
  7175: @
@@ -7248,271 +7248,272 @@
  7244: @
  7245: @
  7246: @
- 7247: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7248: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7249: The device appears to be in operation...
- 7250: Obtained key item: 3.
- 7251: There is nothing out of the ordinary here.
- 7252: The door is locked.
- 7253: The arch above the door is glowing blue...
- 7254: The arch above the door is glowing green...
- 7255: The $3 is responding to the glow from the arch!
- 7256: The $3 emits a brilliant light then disappears!
- 7257: The door cannot be opened from this side.
- 7258: Press button to continue.
- 7259: %0 examines the door. A trap connected to it has been activated!
- 7260: %0 examines the door. The trap connected to it fails to activate.
- 7261: %0 discovers a trap connected to the door, but fails to disarm it!
- 7262: %0 discovers a trap connected to the door and succeeds in disarming it!
- 7263: A potent field of magic exists beyond the door. You sense that simply touching the door will transport you elsewhere.
- 7264: %0 examines the stone compartment. A trap connected to it has been activated!
- 7265: The stone compartment is tightly locked...
- 7266: The trap on the door is broken.
- 7267: The door is shut tightly.
- 7268: You feel your body being pulled by a dark force on the other side of the door.
- 7269: DEBUG:***$3{$3X$P13|5=$3t$3$3O$3I$3$P13***
- 7270: Use the device? [Yes./No.]
- 7271: Hold the $3 up to the door? [Yes./Not yet.]
- 7272: Enter through the door? [Yes./No.]
- 7273: Exit through the door? [Yes./No.]
- 7274: Touch the door? [Yes./No.]
- 7275: DEBUG:$3t$3$3OI$3G$3$1[* h\7B
- 7276: DEBUG:%2M$3_$3$3W$3 $3$2`I"\7B
- 7277: DEBUG:%2M$3_$3$3W$3 $3$2aI"\7B
- 7278: DEBUG:%2M$3_$3$3W$3 $3$2bI"\7B
- 7279: DEBUG:%2M$3_$3$3W$3 $3$2cI"\7B
- 7280: DEBUG:%2M$3_$3$3W$3 $3$2dI"\7B
- 7281: DEBUG:%2M$3_$3$3W$3 $3$2eI"\7B
- 7282: DEBUG:$3_$3$3W$3 $3$2` $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7283: DEBUG:$3_$3$3W$3 $3$2a $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7284: DEBUG:$3_$3$3W$3 $3$2b $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7285: DEBUG:$3_$3$3W$3 $3$2c $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7286: DEBUG:$3_$3$3W$3 $3$2d $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7287: DEBUG:$3_$3$3W$3 $3$2e $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7288: Where the hell have you been, <Player>!?
- 7289: We have been waiting for your arrival. Did you encounter something unexpected?
- 7290: Never could I have imagined that such a masterpiece of ancient architecture could be hidden beneath these towers. I sense the Gates of Paradise are within our reach.
- 7291: Louverance! We were not expecting to see you here.
- 7292: Hey, buddy, if you came to try to stop me, don't think I'll leave here without a fight. I'm not going anywhere until I get my box back!
- 7293: I have no such intentions. I am simply here as an heir to the Knights Mistalle.
- 7294: What worries me more is the absence of Nag'molada...
- 7295: I assume he has already set off for the fourth crystal.
- 7296: And that is what we must do. Follow me; Phoenix will lead the way.
- 7297: Good lord!
- 7298: It's...
- 7299: The mothercrystal. Legend says that Vana'diel was formed when it split into five pieces. This is one of those pieces...
- 7300: The divine light it emits...
- 7301: This is from where we are born, and where we all eventually return...
- 7302: Simply gazing upon its beauty soothes the mind and soul...
- 7303: Hey, <Player>. Can you hear it?
- 7304: That song... The crystal... It's calling us...
- 7305: @ That star...you... ...song...yours...
- 7306: ...someday...hope...become...dreams...our prayers...
- 7307: ...And what was split asunder will once more become whole. Complete and inseparable for all eternity. @
- 7308: ...!
- 7309: Now that all the performers have arrived, the play can begin!
- 7310: Nag'molada!
- 7311: You slimy thief! Give back the vessel!
- 7312: Ah, Tavnazia's precious baptismal vessel. I was amused when I learned how the box was being used.
- 7313: According to the old man, Despachiaire, all those who entered the faith were required to pledge their loyalty to the Dawn Goddess before this vessel.
- 7314: While not quite practical, it is a quite intriguing use. In this way, even devolved creatures such as yourselves could become subconsciously aware of the power of the box.
- 7315: Not practical? What do you mean!? Do you know what the box is really used for!?
- 7316: Of course, just as I know the use of that amulet you carry.
- 7317: The amulet...?
- 7318: Many millennia ago, the king of the Zilart made that amulet--the testament of affinity--to peer into the hearts of the Kuluu.
- 7319: The Zilart were born with the ability to communicate directly with the mind of another. This is called the "whisper of the soul."
- 7320: However, as centuries passed, some people were overcome by the Emptiness and lost this power of communication. Those who could no longer harness the whisper of the soul were known as the Kuluu.
- 7321: The Zilartian king ordered the production of amulets--such as the one you possess--to contain the darkness residing within these unfortunate souls and open their hearts...
- 7322: And thus, the thoughts of all those who wore one were known by him.
- 7323: That amulet you hold... It was given to you by the Zilartian prince, was it not? And now you have begun using it to further your twisted schemes.
- 7324: <Player>. The boy has been using you as a guide over space and time into a world unknown to him.
- 7325: Using you to guide him to the mothercrystals.
- 7326: And that's why I can see what he sees...
- 7327: However, it seems as if he made a poor choice in guides...
- 7328: It took too long for you petty adventurers to reach the fourth crystal, let alone the first three.
- 7329: Thanks to your incompetence, I had enough time to obtain this box, as well as find out who you really are.
- 7330: It was you who brought an end to our era... You who betrayed us!
- 7331: You...Selh'teus!
- 7332: Though you bear the mark of the Kuluu, you betrayed your people and the trust of the Zilartian prince...
- 7333: Though you have inherited the will of the slumbering gods, you betrayed them as well...
- 7334: And though you were born of the mothercrystal, now you plot to betray her...
- 7335: My heart yearns to know why you have chosen the path of traitor.
- 7336: However, that answer can wait for a later day.
- 7337: The answer I seek now is that to a different question. Tell me... Tell me where you obtained the power to control the Emptiness!
- 7338: When the attempt to open the Gates of Paradise failed and Al'Taieu was destroyed, why did only you survive?
- 7339: What happened that day!? What did you see and what did you learn!? What unspeakable powers do you possess!?
- 7340: ...
- 7341: No answers, Selh'teus?
- 7342: Then the only option left to me is to force them from the Emptiness inside you!
- 7343: Prishe!
- 7344: Stop!
- 7345: Ha ha ha! Behold the true power of the "Eye of Altana." Behold the transformation of Emptiness to magicite!
- 7346: Did you forget, Selh'teus?
- 7347: ...!
- 7348: Now answer me, boy! Unless you want to be ripped apart from the inside!
- 7349: <Player>!
- 7350: Don't lose this!
- 7351: Come on, Selh'teus! Stop thinking and start talking!
- 7352: Tell me! Tell me what to say! Tell me what to sing!
- 7353: What!?
- 7354: @ That star is you, and the song is yours.
- 7355: And someday, that hope will become our dreams...our prayers...
- 7356: Shine forth, star of hope! Let your song ring out across all of Vana'diel!
- 7357: And what was split asunder will once more become whole. Complete and inseparable for all eternity. @
- 7358: Is he trying to...answer me?
- 7359: Is it only that I cannot hear him, because I...I have lost the whisper of the soul...?
- 7360: So this is the device which will provide us with the power of Carbuncle...
- 7361: Let us begin, <Player>.
- 7362: I... I can hear the voice of Phoenix!
- 7363: She's telling us to return to the place where we first met Selh'teus... But that would be...Jeuno!
- 7364: <Player>...
- 7365: I am truly sorry. You did not have to come...
- 7366: It is my fault that you became a tool of the terrestrial avatars...
- 7367: The Phoenix Blade has confirmed what Nag'molada said.
- 7368: When the Gates of Paradise open, the terrestrial avatars will return to their original form--mere beasts...
- 7369: The slumbering gods will awake and the Vana'diel we know will be transformed into a Paradise blessed with their glory.
- 7370: However, with their awakening, the Lord of Chaos shall also return.
- 7371: Whether this is good or bad, not even Phoenix knows...
- 7372: ...Not even Phoenix knows... And so countless lives were lost in my country to the Far East...
- 7373: The Phoenix Blade was forged from the flames of resurrection--the flames left by Phoenix.
- 7374: Its sole purpose: to destroy the Emptiness. However, it lacked the power to fulfill that mission. It required a strength only obtained by taking innocent lives.
- 7375: The number of people who were ultimately sacrificed is unspeakable.
- 7376: Bandits and criminals were the first to be taken. Soon, villages that could not pay their tributes began offering sacrifices in place of money or crops.
- 7377: Finally, the lives of those who had fallen into the slumber of the Emptiness were taken as they slept, unaware of the fate that had befallen them.
- 7378: To you, the tactics chosen by my country may sound barbaric.
- 7379: However, my people realize that this is only part of their destiny...
- 7380: They accept their deaths in exchange to prevent the deaths of others.
- 7381: They know that with their passing, they will have protected the world their children and their grandchildren will inherit.
- 7382: <Player>... My country has entrusted me with a great task, and I am here to fulfill it.
- 7383: One aspect of that task is to protect the Phoenix Blade with my life.
- 7384: I must follow my orders at any cost...and that is why I need you to promise me...
- 7385: ...if Phoenix leads me down a path that defies the will and morality of men, then you will do what is right for this world...
- 7386: ...
- 7387: Now I must continue, <Player>.
- 7388: It is said that deep within this tower, the power of Fenrir sleeps, and one can speak with the avatar if his power is released.
- 7389: I can only pray my spirit remains as strong as yours.
- 7390: I am Fenrir... Though I am no longer of body, my spirit continues to roam the heavens...
- 7391: However, my strength has begun to fade, as do stars come morn...
- 7392: O guardian of the moon, my name is Tenzen. I have come from a land far to the east, the blade born of Phoenix at my side.
- 7393: Great misfortune has befallen Vana'diel. The four mothercrystals have lost their power and were overtaken by the Emptiness. Vana'diel trembles at the arrival of the Keeper of the Apocalypse...
- 7394: To save our world, we require your strength and your wisdom. Can you offer us your assistance?
- 7395: ...So you still choose the path...to live and die...with the children of the dawn...
- 7396: ...The path of the terrestrial avatars... The path of the people...
- 7397: ...? I apologize, but I do not quite understand what you are trying to tell us.
- 7398: The memories...of ten thousand years ago... They will guide you...
- 7399: Witness...the vows of ancient times... The decisions made... Before I fade into the morning...sky...
- 7400: Where are we!?
- 7401: Could this be Fenrir's vision?
- 7402: If we are truly witnessing civilizations past...
- 7403: Then those fighting Fenrir are our...ancestors?
- 7404: Listen carefully, people of Vana'diel. Though you have accepted twilight, you still choose to remain in this world.
- 7405: You did not heed our warnings, and now the light of the crystals has begun to fade--chaos is upon you.
- 7406: There is nothing more we can do for you. We no longer have time for idle chatter.
- 7407: If you wish to remain as you are, leave this place immediately.
- 7408: There is still time before the pact between the terrestrial avatars and Selh'teus is fulfilled.
- 7409: Go! Live your lives...until the flames of your souls have flickered out.
- 7410: Wait. Our future is not yet decided.
- 7411: We have come to request of you a new destiny.
- 7412: A new destiny?
- 7413: I shall repeat myself one last time. Your destinies have been recorded in the pages of the universe.
- 7414: The answer given by the mothercrystals becomes truth. The memories of the crystal have been uttered. These words cannot be changed.
- 7415: Yes, we understand.
- 7416: As time passes, the lifeforce that dwells within us all becomes tainted. Darkness is born...
- 7417: And then comes one who harbors that darkness--the Keeper of the Apocalypse--and he will lead us into the twilight.
- 7418: This destiny is not decided by you, and cannot be changed using even the divination power of the stars or moon. It is a given.
- 7419: However, I traveled to my homeland and I spoke with the dying Selh'teus...
- 7420: And he told me, if the Keeper of the Apocalypse is defeated, then the pact with the terrestrial avatars would be broken.
- 7421: You are correct. But you can only succeed by first breaking the chains that bind your people.
- 7422: With Selh'teus gone, who is there left with the strength--the courage--to accomplish that daunting task? Who is there left to bear forth an answer to an answerless riddle?
- 7423: ... I am left. I have found the answer.
- 7424: Selh'teus told me what he was trying to accomplish because he wished for me to continue in his footsteps.
- 7425: It... It cannot be...
- 7426: You are the one who escaped from the curse of the Emptiness.
- 7427: Even my readings could not predict this crossing of destinies...
- 7428: ...
- 7429: You who have broken free from the circle of life--you may be able to watch over the destinies of mankind until the end arrives.
- 7430: But when it does--when the Keeper of the Apocalypse rises up--you will be powerless.
- 7431: And you will witness every man and woman on Vana'diel blindly march into the void of twilight, their arrogance, apathy, cowardice, rage, and envy drawing them deeper and deeper into the darkness.
- 7432: Yes. However, there is still hope. The lifeforce of men is strong. They will persevere along the river of time until an answer is found.
- 7433: Fenrir, guardian of the moon, we await your divination! Tell us the fated era! Tell us the fated land!
- 7434: If we know only when and where the Keeper of the Apocalypse will rise forth, we will find a way to defeat him! Mankind will find a way!
- 7435: The fated era... The fated land...
- 7436: The hardships that accompany the destiny you so desire to bear are beyond any you could even imagine.
- 7437: However, this may be the only true form of retribution for your past sins. Are you ready to take upon your back the destiny of all mankind?
- 7438: ...
- 7439: Then I am not one to stand in your way. Let the moon reading begin!
- 7440: ...and so... ...destiny... ...has spoken...
- 7441: ...after ten thousand years of sleep... ...the Keeper of the Apocalypse... ...will rise once again...
- 7442: ...in Tavnazia...
- 7443: ... ...<Player>...
- 7444: Could Fenrir's words be the truth, or simply some form of trickery?
- 7445: After ten thousand years of sleep, the Keeper of the Apocalypse will rise once again...in Tavnazia?
- 7446: Ten thousand years have passed... Tavnazia... The abhorrent one... But...
- 7447: ... I must return to Bastok and speak with Lady Ulmia immediately!
- 7448: @@
- 7449: mes1
- 7450: The $3 flashes with blinding light!
- 7451: The $3 fades into nothingness...
- 7452: ...But the door remains closed. You have no choice but to return to Jeuno.
- 7453: There is nothing out of the ordinary here.
- 7454: You can hear a strange voice... "Items, items, la la la la la`t"
- 7455: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7456: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7457: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7458: Now, listen close...
- 7459: Oh... Well, if that's the case, I'm outta here.
- 7460: The Goblin slipped away when you were not looking...
- 7461: You can hear a strange, raspy voice...
- 7462: I travel......hear lots... Hear...stories... Can tell...if...
- 7463: .........listen......
- 7464: Oh...... ...outta here.........
- 7465: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7466: What story would you like to be told? [No, thank you./The Enduring Tumult of War(pt.1)./The Enduring Tumult of War(pt.2)./Spiral./And the Compass Guides(pt.1)./And the Compass Guides(pt.2).]
- 7467: 
+ 7247: @
+ 7248: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7249: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7250: The device appears to be in operation...
+ 7251: Obtained key item: 3.
+ 7252: There is nothing out of the ordinary here.
+ 7253: The door is locked.
+ 7254: The arch above the door is glowing blue...
+ 7255: The arch above the door is glowing green...
+ 7256: The $3 is responding to the glow from the arch!
+ 7257: The $3 emits a brilliant light then disappears!
+ 7258: The door cannot be opened from this side.
+ 7259: Press button to continue.
+ 7260: %0 examines the door. A trap connected to it has been activated!
+ 7261: %0 examines the door. The trap connected to it fails to activate.
+ 7262: %0 discovers a trap connected to the door, but fails to disarm it!
+ 7263: %0 discovers a trap connected to the door and succeeds in disarming it!
+ 7264: A potent field of magic exists beyond the door. You sense that simply touching the door will transport you elsewhere.
+ 7265: %0 examines the stone compartment. A trap connected to it has been activated!
+ 7266: The stone compartment is tightly locked...
+ 7267: The trap on the door is broken.
+ 7268: The door is shut tightly.
+ 7269: You feel your body being pulled by a dark force on the other side of the door.
+ 7270: DEBUG:***$3{$3X$P13|5=$3t$3$3O$3I$3$P13***
+ 7271: Use the device? [Yes./No.]
+ 7272: Hold the $3 up to the door? [Yes./Not yet.]
+ 7273: Enter through the door? [Yes./No.]
+ 7274: Exit through the door? [Yes./No.]
+ 7275: Touch the door? [Yes./No.]
+ 7276: DEBUG:$3t$3$3OI$3G$3$1[* h\7B
+ 7277: DEBUG:%2M$3_$3$3W$3 $3$2`I"\7B
+ 7278: DEBUG:%2M$3_$3$3W$3 $3$2aI"\7B
+ 7279: DEBUG:%2M$3_$3$3W$3 $3$2bI"\7B
+ 7280: DEBUG:%2M$3_$3$3W$3 $3$2cI"\7B
+ 7281: DEBUG:%2M$3_$3$3W$3 $3$2dI"\7B
+ 7282: DEBUG:%2M$3_$3$3W$3 $3$2eI"\7B
+ 7283: DEBUG:$3_$3$3W$3 $3$2` $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7284: DEBUG:$3_$3$3W$3 $3$2a $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7285: DEBUG:$3_$3$3W$3 $3$2b $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7286: DEBUG:$3_$3$3W$3 $3$2c $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7287: DEBUG:$3_$3$3W$3 $3$2d $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7288: DEBUG:$3_$3$3W$3 $3$2e $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7289: Where the hell have you been, <Player>!?
+ 7290: We have been waiting for your arrival. Did you encounter something unexpected?
+ 7291: Never could I have imagined that such a masterpiece of ancient architecture could be hidden beneath these towers. I sense the Gates of Paradise are within our reach.
+ 7292: Louverance! We were not expecting to see you here.
+ 7293: Hey, buddy, if you came to try to stop me, don't think I'll leave here without a fight. I'm not going anywhere until I get my box back!
+ 7294: I have no such intentions. I am simply here as an heir to the Knights Mistalle.
+ 7295: What worries me more is the absence of Nag'molada...
+ 7296: I assume he has already set off for the fourth crystal.
+ 7297: And that is what we must do. Follow me; Phoenix will lead the way.
+ 7298: Good lord!
+ 7299: It's...
+ 7300: The mothercrystal. Legend says that Vana'diel was formed when it split into five pieces. This is one of those pieces...
+ 7301: The divine light it emits...
+ 7302: This is from where we are born, and where we all eventually return...
+ 7303: Simply gazing upon its beauty soothes the mind and soul...
+ 7304: Hey, <Player>. Can you hear it?
+ 7305: That song... The crystal... It's calling us...
+ 7306: @ That star...you... ...song...yours...
+ 7307: ...someday...hope...become...dreams...our prayers...
+ 7308: ...And what was split asunder will once more become whole. Complete and inseparable for all eternity. @
+ 7309: ...!
+ 7310: Now that all the performers have arrived, the play can begin!
+ 7311: Nag'molada!
+ 7312: You slimy thief! Give back the vessel!
+ 7313: Ah, Tavnazia's precious baptismal vessel. I was amused when I learned how the box was being used.
+ 7314: According to the old man, Despachiaire, all those who entered the faith were required to pledge their loyalty to the Dawn Goddess before this vessel.
+ 7315: While not quite practical, it is a quite intriguing use. In this way, even devolved creatures such as yourselves could become subconsciously aware of the power of the box.
+ 7316: Not practical? What do you mean!? Do you know what the box is really used for!?
+ 7317: Of course, just as I know the use of that amulet you carry.
+ 7318: The amulet...?
+ 7319: Many millennia ago, the king of the Zilart made that amulet--the testament of affinity--to peer into the hearts of the Kuluu.
+ 7320: The Zilart were born with the ability to communicate directly with the mind of another. This is called the "whisper of the soul."
+ 7321: However, as centuries passed, some people were overcome by the Emptiness and lost this power of communication. Those who could no longer harness the whisper of the soul were known as the Kuluu.
+ 7322: The Zilartian king ordered the production of amulets--such as the one you possess--to contain the darkness residing within these unfortunate souls and open their hearts...
+ 7323: And thus, the thoughts of all those who wore one were known by him.
+ 7324: That amulet you hold... It was given to you by the Zilartian prince, was it not? And now you have begun using it to further your twisted schemes.
+ 7325: <Player>. The boy has been using you as a guide over space and time into a world unknown to him.
+ 7326: Using you to guide him to the mothercrystals.
+ 7327: And that's why I can see what he sees...
+ 7328: However, it seems as if he made a poor choice in guides...
+ 7329: It took too long for you petty adventurers to reach the fourth crystal, let alone the first three.
+ 7330: Thanks to your incompetence, I had enough time to obtain this box, as well as find out who you really are.
+ 7331: It was you who brought an end to our era... You who betrayed us!
+ 7332: You...Selh'teus!
+ 7333: Though you bear the mark of the Kuluu, you betrayed your people and the trust of the Zilartian prince...
+ 7334: Though you have inherited the will of the slumbering gods, you betrayed them as well...
+ 7335: And though you were born of the mothercrystal, now you plot to betray her...
+ 7336: My heart yearns to know why you have chosen the path of traitor.
+ 7337: However, that answer can wait for a later day.
+ 7338: The answer I seek now is that to a different question. Tell me... Tell me where you obtained the power to control the Emptiness!
+ 7339: When the attempt to open the Gates of Paradise failed and Al'Taieu was destroyed, why did only you survive?
+ 7340: What happened that day!? What did you see and what did you learn!? What unspeakable powers do you possess!?
+ 7341: ...
+ 7342: No answers, Selh'teus?
+ 7343: Then the only option left to me is to force them from the Emptiness inside you!
+ 7344: Prishe!
+ 7345: Stop!
+ 7346: Ha ha ha! Behold the true power of the "Eye of Altana." Behold the transformation of Emptiness to magicite!
+ 7347: Did you forget, Selh'teus?
+ 7348: ...!
+ 7349: Now answer me, boy! Unless you want to be ripped apart from the inside!
+ 7350: <Player>!
+ 7351: Don't lose this!
+ 7352: Come on, Selh'teus! Stop thinking and start talking!
+ 7353: Tell me! Tell me what to say! Tell me what to sing!
+ 7354: What!?
+ 7355: @ That star is you, and the song is yours.
+ 7356: And someday, that hope will become our dreams...our prayers...
+ 7357: Shine forth, star of hope! Let your song ring out across all of Vana'diel!
+ 7358: And what was split asunder will once more become whole. Complete and inseparable for all eternity. @
+ 7359: Is he trying to...answer me?
+ 7360: Is it only that I cannot hear him, because I...I have lost the whisper of the soul...?
+ 7361: So this is the device which will provide us with the power of Carbuncle...
+ 7362: Let us begin, <Player>.
+ 7363: I... I can hear the voice of Phoenix!
+ 7364: She's telling us to return to the place where we first met Selh'teus... But that would be...Jeuno!
+ 7365: <Player>...
+ 7366: I am truly sorry. You did not have to come...
+ 7367: It is my fault that you became a tool of the terrestrial avatars...
+ 7368: The Phoenix Blade has confirmed what Nag'molada said.
+ 7369: When the Gates of Paradise open, the terrestrial avatars will return to their original form--mere beasts...
+ 7370: The slumbering gods will awake and the Vana'diel we know will be transformed into a Paradise blessed with their glory.
+ 7371: However, with their awakening, the Lord of Chaos shall also return.
+ 7372: Whether this is good or bad, not even Phoenix knows...
+ 7373: ...Not even Phoenix knows... And so countless lives were lost in my country to the Far East...
+ 7374: The Phoenix Blade was forged from the flames of resurrection--the flames left by Phoenix.
+ 7375: Its sole purpose: to destroy the Emptiness. However, it lacked the power to fulfill that mission. It required a strength only obtained by taking innocent lives.
+ 7376: The number of people who were ultimately sacrificed is unspeakable.
+ 7377: Bandits and criminals were the first to be taken. Soon, villages that could not pay their tributes began offering sacrifices in place of money or crops.
+ 7378: Finally, the lives of those who had fallen into the slumber of the Emptiness were taken as they slept, unaware of the fate that had befallen them.
+ 7379: To you, the tactics chosen by my country may sound barbaric.
+ 7380: However, my people realize that this is only part of their destiny...
+ 7381: They accept their deaths in exchange to prevent the deaths of others.
+ 7382: They know that with their passing, they will have protected the world their children and their grandchildren will inherit.
+ 7383: <Player>... My country has entrusted me with a great task, and I am here to fulfill it.
+ 7384: One aspect of that task is to protect the Phoenix Blade with my life.
+ 7385: I must follow my orders at any cost...and that is why I need you to promise me...
+ 7386: ...if Phoenix leads me down a path that defies the will and morality of men, then you will do what is right for this world...
+ 7387: ...
+ 7388: Now I must continue, <Player>.
+ 7389: It is said that deep within this tower, the power of Fenrir sleeps, and one can speak with the avatar if his power is released.
+ 7390: I can only pray my spirit remains as strong as yours.
+ 7391: I am Fenrir... Though I am no longer of body, my spirit continues to roam the heavens...
+ 7392: However, my strength has begun to fade, as do stars come morn...
+ 7393: O guardian of the moon, my name is Tenzen. I have come from a land far to the east, the blade born of Phoenix at my side.
+ 7394: Great misfortune has befallen Vana'diel. The four mothercrystals have lost their power and were overtaken by the Emptiness. Vana'diel trembles at the arrival of the Keeper of the Apocalypse...
+ 7395: To save our world, we require your strength and your wisdom. Can you offer us your assistance?
+ 7396: ...So you still choose the path...to live and die...with the children of the dawn...
+ 7397: ...The path of the terrestrial avatars... The path of the people...
+ 7398: ...? I apologize, but I do not quite understand what you are trying to tell us.
+ 7399: The memories...of ten thousand years ago... They will guide you...
+ 7400: Witness...the vows of ancient times... The decisions made... Before I fade into the morning...sky...
+ 7401: Where are we!?
+ 7402: Could this be Fenrir's vision?
+ 7403: If we are truly witnessing civilizations past...
+ 7404: Then those fighting Fenrir are our...ancestors?
+ 7405: Listen carefully, people of Vana'diel. Though you have accepted twilight, you still choose to remain in this world.
+ 7406: You did not heed our warnings, and now the light of the crystals has begun to fade--chaos is upon you.
+ 7407: There is nothing more we can do for you. We no longer have time for idle chatter.
+ 7408: If you wish to remain as you are, leave this place immediately.
+ 7409: There is still time before the pact between the terrestrial avatars and Selh'teus is fulfilled.
+ 7410: Go! Live your lives...until the flames of your souls have flickered out.
+ 7411: Wait. Our future is not yet decided.
+ 7412: We have come to request of you a new destiny.
+ 7413: A new destiny?
+ 7414: I shall repeat myself one last time. Your destinies have been recorded in the pages of the universe.
+ 7415: The answer given by the mothercrystals becomes truth. The memories of the crystal have been uttered. These words cannot be changed.
+ 7416: Yes, we understand.
+ 7417: As time passes, the lifeforce that dwells within us all becomes tainted. Darkness is born...
+ 7418: And then comes one who harbors that darkness--the Keeper of the Apocalypse--and he will lead us into the twilight.
+ 7419: This destiny is not decided by you, and cannot be changed using even the divination power of the stars or moon. It is a given.
+ 7420: However, I traveled to my homeland and I spoke with the dying Selh'teus...
+ 7421: And he told me, if the Keeper of the Apocalypse is defeated, then the pact with the terrestrial avatars would be broken.
+ 7422: You are correct. But you can only succeed by first breaking the chains that bind your people.
+ 7423: With Selh'teus gone, who is there left with the strength--the courage--to accomplish that daunting task? Who is there left to bear forth an answer to an answerless riddle?
+ 7424: ... I am left. I have found the answer.
+ 7425: Selh'teus told me what he was trying to accomplish because he wished for me to continue in his footsteps.
+ 7426: It... It cannot be...
+ 7427: You are the one who escaped from the curse of the Emptiness.
+ 7428: Even my readings could not predict this crossing of destinies...
+ 7429: ...
+ 7430: You who have broken free from the circle of life--you may be able to watch over the destinies of mankind until the end arrives.
+ 7431: But when it does--when the Keeper of the Apocalypse rises up--you will be powerless.
+ 7432: And you will witness every man and woman on Vana'diel blindly march into the void of twilight, their arrogance, apathy, cowardice, rage, and envy drawing them deeper and deeper into the darkness.
+ 7433: Yes. However, there is still hope. The lifeforce of men is strong. They will persevere along the river of time until an answer is found.
+ 7434: Fenrir, guardian of the moon, we await your divination! Tell us the fated era! Tell us the fated land!
+ 7435: If we know only when and where the Keeper of the Apocalypse will rise forth, we will find a way to defeat him! Mankind will find a way!
+ 7436: The fated era... The fated land...
+ 7437: The hardships that accompany the destiny you so desire to bear are beyond any you could even imagine.
+ 7438: However, this may be the only true form of retribution for your past sins. Are you ready to take upon your back the destiny of all mankind?
+ 7439: ...
+ 7440: Then I am not one to stand in your way. Let the moon reading begin!
+ 7441: ...and so... ...destiny... ...has spoken...
+ 7442: ...after ten thousand years of sleep... ...the Keeper of the Apocalypse... ...will rise once again...
+ 7443: ...in Tavnazia...
+ 7444: ... ...<Player>...
+ 7445: Could Fenrir's words be the truth, or simply some form of trickery?
+ 7446: After ten thousand years of sleep, the Keeper of the Apocalypse will rise once again...in Tavnazia?
+ 7447: Ten thousand years have passed... Tavnazia... The abhorrent one... But...
+ 7448: ... I must return to Bastok and speak with Lady Ulmia immediately!
+ 7449: @@
+ 7450: mes1
+ 7451: The $3 flashes with blinding light!
+ 7452: The $3 fades into nothingness...
+ 7453: ...But the door remains closed. You have no choice but to return to Jeuno.
+ 7454: There is nothing out of the ordinary here.
+ 7455: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7456: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7457: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7458: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7459: Now, listen close...
+ 7460: Oh... Well, if that's the case, I'm outta here.
+ 7461: The Goblin slipped away when you were not looking...
+ 7462: You can hear a strange, raspy voice...
+ 7463: I travel......hear lots... Hear...stories... Can tell...if...
+ 7464: .........listen......
+ 7465: Oh...... ...outta here.........
+ 7466: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7467: What story would you like to be told? [No, thank you./The Enduring Tumult of War(pt.1)./The Enduring Tumult of War(pt.2)./Spiral./And the Compass Guides(pt.1)./And the Compass Guides(pt.2).]
  7468: 
  7469: 
- 7470: B$P10l$3f$3o$3b$3O%p$3$3j$3$5[ [$3L$3$3$3$3Z$3 [/$3$1[$3v/$3J$3$3$7$3C$3x$3$3g]
- 7471: $3C$3x$3$3gp$P11I$P11p [$E$9)g/$3R$3$3e39:$3W$3$1[$3g$P15:/$3R$3$3e43:$E$P10w/$3R$3$3e53: [$2kF$P10t%gL$P14 /$3i$3O$3$3$1[$3_"H"/$3J[$3o$3$3N$3 [/$12L$17L%b/$3t$3F$3$3$3 [/$3x$3$3`%p/$P122$P10.%p]
- 7472: $3{$3^$3$97F$31V$P10i]\7
- 7473: $3W$3$3$3$3v$P10fp$P11I$P11p [PRSC513$67843[$3_"H"/PRSC514^$P11f4$3N$3$3X$3^$3 [/PRSC5512^$3J[$3o$3$3N$3 [/PRSC5541$1117516L%b/PRSC5542^$3t$3F$3$3$3 [/$3$1[$3t$P14`L$28$26$l$P10,%p/$P11f4$3N$3$3X$3^$3 [$26$l$P10,%p/%_ [$3T$3 [$3^$3o$3 [$3^$26$l$P10,%p]
- 7474: This chest is locked. It can be opened with $0.
- 7475: This chest is empty.
- 7476: Your inventory is full. You cannot carry any more items.
- 7477: You must be closer to the chest to open it.
- 7478: %0 opens the chest and finds $0.
- 7479: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7480: %0 obtains a key item, $6, from the chest.
- 7481: You obtain a key item, $6, from the chest.
- 7482: You unlock the chest!
- 7483: %0 fails to open the chest.
- 7484: The chest was trapped!
- 7485: You cannot open the chest when you are in a weakened state.
- 7486: The chest was a mimic!
- 7487: You cannot open the chest while participating in the moogle event.
- 7488: The chest was but an illusion...
- 7489: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7490: A broken knife blade can be seen among the rubble...
- 7491: Something has approached the $0!
- 7492: Nothing happens...
- 7493: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7494: Set this as current home point? [Yes./No.]
- 7495: Home point set!
- 7496: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7497: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7498: You have registered a new home point! You are now able to teleport here from any other home point.
- 7499: You may teleport from here to any other home point you have registered.
- 7500: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7501: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7502: You have not yet registered any other home points, and thus are unable to teleport.
- 7503: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7504: There is no fee for teleporting to Home Point #$2 in $8.
- 7505: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7506: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7507: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7508: You may change the method of selecting the area of your desired home point to teleport to.
- 7509: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7510: You are now selecting by [region/expansion].
- 7511: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7512: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7513: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7514: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7470: 
+ 7471: B$P10l$3f$3o$3b$3O%p$3$3j$3$5[ [$3L$3$3$3$3Z$3 [/$3$1[$3v/$3J$3$3$7$3C$3x$3$3g]
+ 7472: $3C$3x$3$3gp$P11I$P11p [$E$9)g/$3R$3$3e39:$3W$3$1[$3g$P15:/$3R$3$3e43:$E$P10w/$3R$3$3e53: [$2kF$P10t%gL$P14 /$3i$3O$3$3$1[$3_"H"/$3J[$3o$3$3N$3 [/$12L$17L%b/$3t$3F$3$3$3 [/$3x$3$3`%p/$P122$P10.%p]
+ 7473: $3{$3^$3$97F$31V$P10i]\7
+ 7474: $3W$3$3$3$3v$P10fp$P11I$P11p [PRSC513$67843[$3_"H"/PRSC514^$P11f4$3N$3$3X$3^$3 [/PRSC5512^$3J[$3o$3$3N$3 [/PRSC5541$1117516L%b/PRSC5542^$3t$3F$3$3$3 [/$3$1[$3t$P14`L$28$26$l$P10,%p/$P11f4$3N$3$3X$3^$3 [$26$l$P10,%p/%_ [$3T$3 [$3^$3o$3 [$3^$26$l$P10,%p]
+ 7475: This chest is locked. It can be opened with $0.
+ 7476: This chest is empty.
+ 7477: Your inventory is full. You cannot carry any more items.
+ 7478: You must be closer to the chest to open it.
+ 7479: %0 opens the chest and finds $0.
+ 7480: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7481: %0 obtains a key item, $6, from the chest.
+ 7482: You obtain a key item, $6, from the chest.
+ 7483: You unlock the chest!
+ 7484: %0 fails to open the chest.
+ 7485: The chest was trapped!
+ 7486: You cannot open the chest when you are in a weakened state.
+ 7487: The chest was a mimic!
+ 7488: You cannot open the chest while participating in the moogle event.
+ 7489: The chest was but an illusion...
+ 7490: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7491: A broken knife blade can be seen among the rubble...
+ 7492: Something has approached the $0!
+ 7493: Nothing happens...
+ 7494: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7495: Set this as current home point? [Yes./No.]
+ 7496: Home point set!
+ 7497: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7498: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7499: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7500: You may teleport from here to any other home point you have registered.
+ 7501: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7502: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7503: You have not yet registered any other home points, and thus are unable to teleport.
+ 7504: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7505: There is no fee for teleporting to Home Point #$2 in $8.
+ 7506: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7507: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7508: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7509: You may change the method of selecting the area of your desired home point to teleport to.
+ 7510: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7511: You are now selecting by [region/expansion].
+ 7512: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7513: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7514: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7515: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]

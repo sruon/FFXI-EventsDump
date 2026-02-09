@@ -140,18 +140,18 @@
 0010: FF 7F F0 FF FF 7F 66 64  6F 31 01 80 55 00 80 F0  ......fdo1..U...
 0020: FF FF 7F F0 FF FF 7F 66  64 6F 31 38 02 80 02 00  .......fdo18....
 0030: 00 03 80 00 3E 00 77 04  80 05 80 A9 06 80 37 07  ....>.w.......7.
-0040: 80 08 80 09 80 0A 80 94  01 E1 91 09 01 94 01 F0  ................
-0050: FF FF 7F 97 01 80 03 80  79 00 F0 FF FF 7F E1 91  ........y.......
+0040: 80 08 80 09 80 0A 80 94  01 E3 91 09 01 94 01 F0  ................
+0050: FF FF 7F 97 01 80 03 80  79 00 F0 FF FF 7F E3 91  ........y.......
 0060: 09 01 45 0B 80 F0 FF FF  7F F0 FF FF 7F 71 30 30  ..E..........q00
 0070: 31 01 80 55 0B 80 F0 FF  FF 7F F0 FF FF 7F 71 30  1..U..........q0
 0080: 30 31 45 00 80 F0 FF FF  7F F0 FF FF 7F 66 64 69  01E..........fdi
 0090: 31 01 80 55 00 80 F0 FF  FF 7F F0 FF FF 7F 66 64  1..U..........fd
 00A0: 69 31 1C 0C 80 45 0B 80  F0 FF FF 7F F0 FF FF 7F  i1...E..........
 00B0: 71 30 30 32 01 80 55 0B  80 F0 FF FF 7F F0 FF FF  q002..U.........
-00C0: 7F 71 30 30 32 1C 0C 80  45 00 80 E1 91 09 01 E1  .q002...E.......
+00C0: 7F 71 30 30 32 1C 0C 80  45 00 80 E3 91 09 01 E3  .q002...E.......
 00D0: 91 09 01 6F 76 6C 31 01  80 45 0B 80 F0 FF FF 7F  ...ovl1..E......
 00E0: F0 FF FF 7F 71 30 30 33  01 80 1C 0C 80 45 0D 80  ....q003.....E..
-00F0: E1 91 09 01 E1 91 09 01  77 68 6F 31 01 80 55 0B  ........who1..U.
+00F0: E3 91 09 01 E3 91 09 01  77 68 6F 31 01 80 55 0B  ........who1..U.
 0100: 80 F0 FF FF 7F F0 FF FF  7F 71 30 30 33 55 0D 80  .........q003U..
 0110: F0 FF FF 7F F0 FF FF 7F  77 68 6F 31 02 00 00 03  ........who1....
 0120: 80 00 25 01 78 46 00 45  0D 80 F0 FF FF 7F F0 FF  ..%.xF.E........
@@ -172,10 +172,10 @@
   8: 0x0036 [0x77] SET_EVENT_TIME_WEATHER(hour=23*, weather=255*)
   9: 0x003B [0xA9] DISABLE_GAME_TIME_SET_SPECIFIC(time_offset=0x8006)
  10: 0x003E [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=33.526*, z=-61.582*, y=-20.643*, direction=193.1°*
- 11: 0x0047 [0x94] ??? (ID: 17404385/0x010991E1)->Render.Flags3 ^= 0x01
+ 11: 0x0047 [0x94] ??? (ID: 17404387/0x010991E3)->Render.Flags3 ^= 0x01
  12: 0x004D [0x94] LocalPlayer->Render.Flags3 ^= 0x01
  13: 0x0053 [0x97] SAVE_SET_WIND_VALUES(wind_base=0x8001, wind_width=0x8003)
- 14: 0x0058 [0x79] LocalPlayer looks at ??? (ID: 17404385/0x010991E1) (Basic look)
+ 14: 0x0058 [0x79] LocalPlayer looks at ??? (ID: 17404387/0x010991E3) (Basic look)
  15: 0x0062 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=[7*, 0*]
  16: 0x0073 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=7*
  17: 0x0082 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -184,10 +184,10 @@
  20: 0x00A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=[7*, 0*]
  21: 0x00B6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=7*
  22: 0x00C5 [0x1C] WAIT(120* ticks)
- 23: 0x00C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [??? (ID: 17404385/0x010991E1), ??? (ID: 17404385/0x010991E1)], work=[200*, 0*]
+ 23: 0x00C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [??? (ID: 17404387/0x010991E3), ??? (ID: 17404387/0x010991E3)], work=[200*, 0*]
  24: 0x00D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=[7*, 0*]
  25: 0x00EA [0x1C] WAIT(120* ticks)
- 26: 0x00ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [??? (ID: 17404385/0x010991E1), ??? (ID: 17404385/0x010991E1)], work=[201*, 0*]
+ 26: 0x00ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [??? (ID: 17404387/0x010991E3), ??? (ID: 17404387/0x010991E3)], work=[201*, 0*]
  27: 0x00FE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=7*
  28: 0x010D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
  29: 0x011C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0125
@@ -476,8 +476,8 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 01B0:          45 18 80 F0 FF  FF 7F F0 FF FF 7F 73 30     E..........s0
-01C0: 37 38 01 80 1C 19 80 62  12 80 F0 91 09 01 F0 91  78.....b........
-01D0: 09 01 6D 61 69 31 01 80  62 12 80 EF 91 09 01 EF  ..mai1..b.......
+01C0: 37 38 01 80 1C 19 80 62  12 80 F2 91 09 01 F2 91  78.....b........
+01D0: 09 01 6D 61 69 31 01 80  62 12 80 F1 91 09 01 F1  ..mai1..b.......
 01E0: 91 09 01 6D 61 69 31 01  80 1C 1A 80 45 00 80 F8  ...mai1.....E...
 01F0: FF FF 7F F8 FF FF 7F 66  64 6F 31 01 80 1C 19 80  .......fdo1.....
 0200: 52 18 80 F0 FF FF 7F F0  FF FF 7F 73 30 37 38 00  R..........s078.
@@ -488,8 +488,8 @@
 ```
   0: 0x01B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [LocalPlayer, LocalPlayer], work=[251*, 0*]
   1: 0x01C4 [0x1C] WAIT(60* ticks)
-  2: 0x01C7 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "mai1" with entities [Spare Two (ID: 17404400/0x010991F0), Spare Two (ID: 17404400/0x010991F0)], work=[13*, 0*]
-  3: 0x01D8 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "mai1" with entities [Spare Zero (ID: 17404399/0x010991EF), Spare Zero (ID: 17404399/0x010991EF)], work=[13*, 0*]
+  2: 0x01C7 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "mai1" with entities [Spare Two (ID: 17404402/0x010991F2), Spare Two (ID: 17404402/0x010991F2)], work=[13*, 0*]
+  3: 0x01D8 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "mai1" with entities [Spare Zero (ID: 17404401/0x010991F1), Spare Zero (ID: 17404401/0x010991F1)], work=[13*, 0*]
   4: 0x01E9 [0x1C] WAIT(180* ticks)
   5: 0x01EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   6: 0x01FD [0x1C] WAIT(60* ticks)
@@ -544,8 +544,8 @@
 0250: FF FF 7F 73 30 37 36 01  80 1C 1C 80 52 18 80 F0  ...s076.....R...
 0260: FF FF 7F F0 FF FF 7F 73  30 37 36 45 00 80 F0 FF  .......s076E....
 0270: FF 7F F0 FF FF 7F 6F 76  6C 31 01 80 45 18 80 F8  ......ovl1..E...
-0280: FF FF 7F F8 FF FF 7F 73  30 38 33 01 80 4A ED 91  .......s083..J..
-0290: 09 01 EE 91 09 01 6F 76  ED 91 09 01 1C 1B 80 00  ......ov........
+0280: FF FF 7F F8 FF FF 7F 73  30 38 33 01 80 4A EF 91  .......s083..J..
+0290: 09 01 F0 91 09 01 6F 76  EF 91 09 01 1C 1B 80 00  ......ov........
 02A0: 03 02 00 01 00 02 02 00  1D 80 05 B5 02 08 02 00  ................
 02B0: 03 80 01 BA 02 08 02 00  1E 80 14 02 00 1F 80 07  ................
 02C0: 02 00 20 80 1B 03 02 00  01 00 02 02 00 1D 80 05  .. .............
@@ -566,9 +566,9 @@
   2: 0x025C [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=251*
   3: 0x026B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   4: 0x027C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[251*, 0*]
-  5: 0x028D [0x4A] Zonpa-Zippa (ID: 17404397/0x010991ED) looks at Karaha-Baruha (ID: 17404398/0x010991EE)
+  5: 0x028D [0x4A] Zonpa-Zippa (ID: 17404399/0x010991EF) looks at Karaha-Baruha (ID: 17404400/0x010991F0)
   6: 0x0296 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  7: 0x0297 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404397/0x010991ED) Render.Flags0 and Render.Flags3 conditions are met
+  7: 0x0297 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x029C [0x1C] WAIT(130* ticks)
   9: 0x029F [0x00] END_REQSTACK()
 ```
@@ -789,7 +789,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 03C0:                      32  12 80 1F 00 2A 80 2B 80         2....*.+.
-03D0: 2C 80 1F 01 6F 1E 0D 92  09 01 6F 70 00           ,...o.....op.   
+03D0: 2C 80 1F 01 6F 1E 0F 92  09 01 6F 70 00           ,...o.....op.   
 ```
 
 #### Opcodes
@@ -799,7 +799,7 @@
   1: 0x03CA [0x1F] MOVE_ENTITY: EventEntity moves to X=107.021*, Z=141.759*, Y=8.433*
   2: 0x03D2 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x03D4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x03D5 [0x1E] EventEntity looks at Magh Bihu (ID: 17404429/0x0109920D) and starts talking
+  4: 0x03D5 [0x1E] EventEntity looks at Magh Bihu (ID: 17404431/0x0109920F) and starts talking
   5: 0x03DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x03DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x03DC [0x00] END_REQSTACK()
@@ -873,7 +873,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 03F0:                                   32 12 80 1F 00             2....
-0400: 33 80 34 80 35 80 1F 01  6F 1E 0D 92 09 01 6F 70  3.4.5...o.....op
+0400: 33 80 34 80 35 80 1F 01  6F 1E 0F 92 09 01 6F 70  3.4.5...o.....op
 0410: 00                                                .               
 ```
 
@@ -884,7 +884,7 @@
   1: 0x03FE [0x1F] MOVE_ENTITY: EventEntity moves to X=102.869*, Z=141.399*, Y=8.434*
   2: 0x0406 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0408 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0409 [0x1E] EventEntity looks at Magh Bihu (ID: 17404429/0x0109920D) and starts talking
+  4: 0x0409 [0x1E] EventEntity looks at Magh Bihu (ID: 17404431/0x0109920F) and starts talking
   5: 0x040E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x040F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0410 [0x00] END_REQSTACK()

@@ -23,29 +23,29 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2005      |        8197 |
-|       1 | 0x2006      |        8198 |
-|       2 | 0x2007      |        8199 |
-|       3 | 0x2008      |        8200 |
+|       0 | 0x2006      |        8198 |
+|       1 | 0x2007      |        8199 |
+|       2 | 0x2008      |        8200 |
+|       3 | 0x2009      |        8201 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x200E      |        8206 |
+|       5 | 0x200F      |        8207 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x200D      |        8205 |
-|       8 | 0x200C      |        8204 |
-|       9 | 0x2010      |        8208 |
-|      10 | 0x200F      |        8207 |
+|       7 | 0x200E      |        8206 |
+|       8 | 0x200D      |        8205 |
+|       9 | 0x2011      |        8209 |
+|      10 | 0x2010      |        8208 |
 
 ## String References
 
-- **8197**: You're quite the accomplished mountaineer to make it this far. Yes, my men could learn a thing or two from you, I think.
-- **8198**: So you're the one who's come to assist us in our approach? This is excellent news.
-- **8199**: When I give the signal, ten of our men will come sliding in this direction.
-- **8200**: Should any of them veer off course, you are to extend a helping hand and guide them back in the proper direction.
-- **8204**: Incredible! An unqualified success, and it's all due to your efforts, <Player>.
-- **8205**: Fair work, <Player>. $0 [man/men] missed their target, but other than being a bit shaken, [he/they] should be none the worse for wear. In fact, I daresay the climb back up will do [him/them] some good.
-- **8206**: I will pass along word of your success to Michilca. She will have a suitable reward for you.
-- **8207**: This will not do at all. With such a small regiment, we will be the easiest of pickings for the fiends that lurk within. No, there is no choice but to attempt the operation again when all our soldiers have returned.
-- **8208**: The journey back up will be long and slow. In the meantime, you should report the failure of the operation to Michilca.
+- **8198**: You're quite the accomplished mountaineer to make it this far. Yes, my men could learn a thing or two from you, I think.
+- **8199**: So you're the one who's come to assist us in our approach? This is excellent news.
+- **8200**: When I give the signal, ten of our men will come sliding in this direction.
+- **8201**: Should any of them veer off course, you are to extend a helping hand and guide them back in the proper direction.
+- **8205**: Incredible! An unqualified success, and it's all due to your efforts, <Player>.
+- **8206**: Fair work, <Player>. $0 [man/men] missed their target, but other than being a bit shaken, [he/they] should be none the worse for wear. In fact, I daresay the climb back up will do [him/them] some good.
+- **8207**: I will pass along word of your success to Michilca. She will have a suitable reward for you.
+- **8208**: This will not do at all. With such a small regiment, we will be the easiest of pickings for the fiends that lurk within. No, there is no choice but to attempt the operation again when all our soldiers have returned.
+- **8209**: The journey back up will be long and slow. In the meantime, you should report the failure of the operation to Michilca.
 
 ## Events
 
@@ -93,7 +93,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
     → "You're quite the accomplished mountaineer to make it this far. Yes, my men could learn a thing or two from you, I think."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -124,13 +124,13 @@
   0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0013 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0014 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
     → "So you're the one who's come to assist us in our approach? This is excellent news."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
+  5: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
     → "When I give the signal, ten of our men will come sliding in this direction."
   6: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
+  7: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
     → "Should any of them veer off course, you are to extend a helping hand and guide them back in the proper direction."
   8: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0021 [0x21] END_EVENT
@@ -163,22 +163,22 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0039
-  4: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+  4: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "I will pass along word of your success to Michilca. She will have a suitable reward for you."
   5: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0036 [0x01] GOTO 0x0054
   7: 0x0039 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x004C
-  8: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
+  8: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
     → "Fair work, <Player>. $0 [man/men] missed their target, but other than being a bit shaken, [he/they] should be none the worse for wear. In fact, I daresay the climb back up will do [him/them] some good."
   9: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+ 10: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "I will pass along word of your success to Michilca. She will have a suitable reward for you."
  11: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0049 [0x01] GOTO 0x0054
- 13: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
+ 13: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
     → "Incredible! An unqualified success, and it's all due to your efforts, <Player>."
  14: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+ 15: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "I will pass along word of your success to Michilca. She will have a suitable reward for you."
  16: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -212,14 +212,14 @@ SUBROUTINE_0054:
   1: 0x005B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005D [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x006C
-  4: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
+  4: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
     → "The journey back up will be long and slow. In the meantime, you should report the failure of the operation to Michilca."
   5: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0069 [0x01] GOTO 0x0074
-  7: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
+  7: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
     → "This will not do at all. With such a small regiment, we will be the easiest of pickings for the fiends that lurk within. No, there is no choice but to attempt the operation again when all our soldiers have returned."
   8: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
+  9: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
     → "The journey back up will be long and slow. In the meantime, you should report the failure of the operation to Michilca."
  10: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

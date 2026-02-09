@@ -25,31 +25,31 @@
 |       2 | 0x0030      |          48 |
 |       3 | 0x0031      |          49 |
 |       4 | 0x0032      |          50 |
-|       5 | 0x32F2      |       13042 |
+|       5 | 0x32F3      |       13043 |
 |       6 | 0x01F7      |         503 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x32E8      |       13032 |
-|       9 | 0x32EA      |       13034 |
-|      10 | 0x32EB      |       13035 |
-|      11 | 0x32EC      |       13036 |
-|      12 | 0x32ED      |       13037 |
+|       8 | 0x32E9      |       13033 |
+|       9 | 0x32EB      |       13035 |
+|      10 | 0x32EC      |       13036 |
+|      11 | 0x32ED      |       13037 |
+|      12 | 0x32EE      |       13038 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x32EE      |       13038 |
-|      15 | 0x32F0      |       13040 |
+|      14 | 0x32EF      |       13039 |
+|      15 | 0x32F1      |       13041 |
 |      16 | 0x0003      |           3 |
-|      17 | 0x32F1      |       13041 |
+|      17 | 0x32F2      |       13042 |
 
 ## String References
 
-- **13032**: So you're the new scout, eh? Well, here then. Take this.
-- **13034**: Are you familiar with fiendtrappers? [Fiend what now?/I practically invented them.]
-- **13035**: Hmph...some scout you are. <Sigh>... The device I just issued you is called a fiendtrapper. Together with a blank fiend plate, it forms the latest in portable recording technology available to our army.
-- **13036**: Calm down and listen, now. When you use the fiendtrapper, the data will be recorded to the blank fiend plate inside. Quite a marvelous invention, really.
-- **13037**: Got it? Even you must have understood that explanation. Your orders are to take that device and gather enemy intel on those damnable Orcs!
-- **13038**: A know-it-all, huh? Suit yourself. How about going and getting your hands on some enemy surveillance, then?
-- **13040**: Quit wasting your time! I don't see any Orcs 'round here what needs spying on! Now get on with it!
-- **13041**: Why do you insist on bothering me? Go and report to Rasdinice immediately!
-- **13042**: What do you want? Some of us are busy. Do you know what busy means? Or do you require an explanation for that, too?
+- **13033**: So you're the new scout, eh? Well, here then. Take this.
+- **13035**: Are you familiar with fiendtrappers? [Fiend what now?/I practically invented them.]
+- **13036**: Hmph...some scout you are. <Sigh>... The device I just issued you is called a fiendtrapper. Together with a blank fiend plate, it forms the latest in portable recording technology available to our army.
+- **13037**: Calm down and listen, now. When you use the fiendtrapper, the data will be recorded to the blank fiend plate inside. Quite a marvelous invention, really.
+- **13038**: Got it? Even you must have understood that explanation. Your orders are to take that device and gather enemy intel on those damnable Orcs!
+- **13039**: A know-it-all, huh? Suit yourself. How about going and getting your hands on some enemy surveillance, then?
+- **13041**: Quit wasting your time! I don't see any Orcs 'round here what needs spying on! Now get on with it!
+- **13042**: Why do you insist on bothering me? Go and report to Rasdinice immediately!
+- **13043**: What do you want? Some of us are busy. Do you know what busy means? Or do you require an explanation for that, too?
 
 ## Events
 
@@ -130,7 +130,7 @@
  19: 0x0056 [0x02] IF !(ExtData[1]->WorkLocal[0] == 50*) GOTO 0x0064
  20: 0x005E [0x1A] CALL_SUBROUTINE(address=0x0078)
  21: 0x0061 [0x01] GOTO 0x0068
- 22: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=13042*)
+ 22: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=13043*)
     → "What do you want? Some of us are busy. Do you know what busy means? Or do you require an explanation for that, too?"
  23: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -143,25 +143,25 @@ SUBROUTINE_0068:
 
 SUBROUTINE_0078:
  29: 0x0078 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00BA
- 30: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=13032*)
+ 30: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=13033*)
     → "So you're the new scout, eh? Well, here then. Take this."
  31: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0084 [0x24] CREATE_DIALOG(message_id=13034*, default_option=0*, option_flags=0*)
+ 32: 0x0084 [0x24] CREATE_DIALOG(message_id=13035*, default_option=0*, option_flags=0*)
     → "Are you familiar with fiendtrappers? [Fiend what now?/I practically invented them.]"
  33: 0x008B [0x25] WAIT_DIALOG_SELECT()
  34: 0x008C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A3
- 35: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=13035*)
+ 35: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=13036*)
     → "Hmph...some scout you are. <Sigh>... The device I just issued you is called a fiendtrapper. Together with a blank fiend plate, it forms the latest in portable recording technology available to our army."
  36: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=13036*)
+ 37: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=13037*)
     → "Calm down and listen, now. When you use the fiendtrapper, the data will be recorded to the blank fiend plate inside. Quite a marvelous invention, really."
  38: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=13037*)
+ 39: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=13038*)
     → "Got it? Even you must have understood that explanation. Your orders are to take that device and gather enemy intel on those damnable Orcs!"
  40: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00A0 [0x01] GOTO 0x00B2
  42: 0x00A3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B2
- 43: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13038*)
+ 43: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13039*)
     → "A know-it-all, huh? Suit yourself. How about going and getting your hands on some enemy surveillance, then?"
  44: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00AF [0x01] GOTO 0x00B2
@@ -170,13 +170,13 @@ SUBROUTINE_00B2:
  46: 0x00B2 [0x03] Work_Zone[1] = 1*
  47: 0x00B7 [0x01] GOTO 0x00E2
  48: 0x00BA [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00CE
- 49: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13040*)
+ 49: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13041*)
     → "Quit wasting your time! I don't see any Orcs 'round here what needs spying on! Now get on with it!"
  50: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00C6 [0x03] Work_Zone[1] = 0*
  52: 0x00CB [0x01] GOTO 0x00E2
  53: 0x00CE [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x00E2
- 54: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13041*)
+ 54: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13042*)
     → "Why do you insist on bothering me? Go and report to Rasdinice immediately!"
  55: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x00DA [0x03] Work_Zone[1] = 0*

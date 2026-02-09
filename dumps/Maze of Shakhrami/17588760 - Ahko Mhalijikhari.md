@@ -25,49 +25,49 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003B      |          59 |
-|       1 | 0x1C90      |        7312 |
-|       2 | 0x1C88      |        7304 |
-|       3 | 0x1C89      |        7305 |
-|       4 | 0x1C8A      |        7306 |
-|       5 | 0x1C8B      |        7307 |
-|       6 | 0x1C8C      |        7308 |
-|       7 | 0x1C8D      |        7309 |
-|       8 | 0x1C8E      |        7310 |
+|       1 | 0x1C91      |        7313 |
+|       2 | 0x1C89      |        7305 |
+|       3 | 0x1C8A      |        7306 |
+|       4 | 0x1C8B      |        7307 |
+|       5 | 0x1C8C      |        7308 |
+|       6 | 0x1C8D      |        7309 |
+|       7 | 0x1C8E      |        7310 |
+|       8 | 0x1C8F      |        7311 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x1C91      |        7313 |
+|      11 | 0x1C92      |        7314 |
 |      12 | 0x00C8      |         200 |
 |      13 | 0x003C      |          60 |
 |      14 | 0x01F3      |         499 |
 |      15 | 0x005A      |          90 |
 |      16 | 0x0034      |          52 |
-|      17 | 0x1C8F      |        7311 |
+|      17 | 0x1C90      |        7312 |
 |      18 | 0x001E      |          30 |
-|      19 | 0x1C94      |        7316 |
-|      20 | 0x1C95      |        7317 |
+|      19 | 0x1C95      |        7317 |
+|      20 | 0x1C96      |        7318 |
 |      21 | 0x40000000  |  1073741824 |
-|      22 | 0x1C92      |        7314 |
+|      22 | 0x1C93      |        7315 |
 |      23 | 0x000E      |          14 |
 |      24 | 0x0002      |           2 |
 |      25 | 0x01DA      |         474 |
-|      26 | 0x1C93      |        7315 |
+|      26 | 0x1C94      |        7316 |
 
 ## String References
 
-- **7304**: Ah, you're here at last! Rrready and rrraring to perform your V.E.R.M.I.N. assignment?
-- **7305**: Okay, here's the deal. Find and defeat the creatures that've been rrrunning amok down here, and then take the proof of their demise to Lumomo in Windurst.
-- **7306**: We've prrrepared this special ointment to rub on your skin that will lure the creatures out of hiding.
-- **7307**: Those buggerrrs have been spotted mostly around I-10. Shouldn't be too hard for you to get to.
-- **7308**: The effect of the ointment lasts for about a day. If it wears off, or you want the effect rrremoved, just come back here and talk with me.
-- **7309**: The ointment may have some interrresting...side effects. Rrready, tiger?
-- **7310**: Apply the ointment? [Slap it on./Not rrright now...]
-- **7311**: Oh? Lost your nerrrve? Talk to me if you change your mind.
-- **7312**: Move along, adventurrrer.
-- **7313**: Rrright, here we go! Close your eyes...
-- **7314**: You want the effect rrremoved? Okay, just close your eyes...
-- **7315**: How...lovely. A chunk of $3. Well, take it back to Lumomo. I'm sure she'll apprrreciate your efforts.
-- **7316**: What do you want?
-- **7317**: What do you desire? [Nothing./To have the ointment removed./To reconfirm where I'm going.]
+- **7305**: Ah, you're here at last! Rrready and rrraring to perform your V.E.R.M.I.N. assignment?
+- **7306**: Okay, here's the deal. Find and defeat the creatures that've been rrrunning amok down here, and then take the proof of their demise to Lumomo in Windurst.
+- **7307**: We've prrrepared this special ointment to rub on your skin that will lure the creatures out of hiding.
+- **7308**: Those buggerrrs have been spotted mostly around I-10. Shouldn't be too hard for you to get to.
+- **7309**: The effect of the ointment lasts for about a day. If it wears off, or you want the effect rrremoved, just come back here and talk with me.
+- **7310**: The ointment may have some interrresting...side effects. Rrready, tiger?
+- **7311**: Apply the ointment? [Slap it on./Not rrright now...]
+- **7312**: Oh? Lost your nerrrve? Talk to me if you change your mind.
+- **7313**: Move along, adventurrrer.
+- **7314**: Rrright, here we go! Close your eyes...
+- **7315**: You want the effect rrremoved? Okay, just close your eyes...
+- **7316**: How...lovely. A chunk of $3. Well, take it back to Lumomo. I'm sure she'll apprrreciate your efforts.
+- **7317**: What do you want?
+- **7318**: What do you desire? [Nothing./To have the ointment removed./To reconfirm where I'm going.]
 
 ## Events
 
@@ -119,7 +119,7 @@
   2: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "Move along, adventurrrer."
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -164,32 +164,32 @@
   1: 0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0036 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
     → "Ah, you're here at last! Rrready and rrraring to perform your V.E.R.M.I.N. assignment?"
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
+  6: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
     → "Okay, here's the deal. Find and defeat the creatures that've been rrrunning amok down here, and then take the proof of their demise to Lumomo in Windurst."
   7: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+  8: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
     → "We've prrrepared this special ointment to rub on your skin that will lure the creatures out of hiding."
   9: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+ 10: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "Those buggerrrs have been spotted mostly around I-10. Shouldn't be too hard for you to get to."
  11: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+ 12: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
     → "The effect of the ointment lasts for about a day. If it wears off, or you want the effect rrremoved, just come back here and talk with me."
  13: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+ 14: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → "The ointment may have some interrresting...side effects. Rrready, tiger?"
  15: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7310*, default_option=1*, option_flags=0*)
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7311*, default_option=1*, option_flags=0*)
     → "Apply the ointment? [Slap it on./Not rrright now...]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C0
  19: 0x006D [0x42] SET_CLI_EVENT_CANCEL_DATA()
  20: 0x006E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  21: 0x0070 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+ 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "Rrright, here we go! Close your eyes..."
  23: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0076 [0x03] Work_Zone[1] = 1*
@@ -205,7 +205,7 @@
  34: 0x00C9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  35: 0x00CB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  36: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=52*
- 37: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+ 37: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "Oh? Lost your nerrrve? Talk to me if you change your mind."
  38: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00E0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
@@ -254,7 +254,7 @@ SUBROUTINE_00F8:
   4: 0x0106 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0107 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0108 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  7: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+  7: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "Rrright, here we go! Close your eyes..."
   8: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x011B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -264,10 +264,10 @@ SUBROUTINE_00F8:
  13: 0x0149 [0x1C] WAIT(90* ticks)
  14: 0x014C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x015D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 16: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+ 16: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "Those buggerrrs have been spotted mostly around I-10. Shouldn't be too hard for you to get to."
  17: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+ 18: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
     → "The effect of the ointment lasts for about a day. If it wears off, or you want the effect rrremoved, just come back here and talk with me."
  19: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0174 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -314,10 +314,10 @@ SUBROUTINE_00F8:
   4: 0x0191 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0192 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0193 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  7: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+  7: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "What do you want?"
   8: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x01A6 [0x24] CREATE_DIALOG(message_id=7317*, default_option=0*, option_flags=0*)
+  9: 0x01A6 [0x24] CREATE_DIALOG(message_id=7318*, default_option=0*, option_flags=0*)
     → "What do you desire? [Nothing./To have the ointment removed./To reconfirm where I'm going.]"
  10: 0x01AD [0x25] WAIT_DIALOG_SELECT()
  11: 0x01AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CD
@@ -325,7 +325,7 @@ SUBROUTINE_00F8:
  13: 0x01C5 [0x03] Work_Zone[1] = 1073741824*
  14: 0x01CA [0x01] GOTO 0x0246
  15: 0x01CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0223
- 16: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+ 16: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "You want the effect rrremoved? Okay, just close your eyes..."
  17: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -337,7 +337,7 @@ SUBROUTINE_00F8:
  24: 0x021B [0x03] Work_Zone[1] = 0*
  25: 0x0220 [0x01] GOTO 0x0246
  26: 0x0223 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0246
- 27: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+ 27: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "Those buggerrrs have been spotted mostly around I-10. Shouldn't be too hard for you to get to."
  28: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x022F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -378,7 +378,7 @@ SUBROUTINE_0246:
   3: 0x0251 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0252 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
   5: 0x0261 [0x03] Work_Zone[2] = 474*
-  6: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+  6: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
     → "How...lovely. A chunk of $3. Well, take it back to Lumomo. I'm sure she'll apprrreciate your efforts."
   7: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x026A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

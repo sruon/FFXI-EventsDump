@@ -1,5 +1,5 @@
 # Strings for Ghelsba Outpost
-# Total: 7994 strings
+# Total: 7995 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -7601,226 +7601,226 @@
  7597: Vana'Bout No. $0 has concluded.
  7598: Obtained temporary item: $0.
  7599: Lost temporary item: $0.
- 7600: You can't fish here.
- 7601: You can't fish without a rod in your hands.
- 7602: You can't fish without bait on the hook.
- 7603: You can't fish at the moment.
- 7604: You didn't catch anything.
- 7605: %0 caught a monster!
- 7606: Your line breaks.
- 7607: Your rod breaks.
- 7608: Something caught the hook!
- 7609: You lost your catch.
- 7610: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7611: You feel there's something here.
- 7612: You feel there's something nearby.
- 7613: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7614: %0 caught $1 $0 !
- 7615: You dig and you dig, but find nothing.
- 7616: $0/$0p$3Z$3b$3g
- 7617: Your rod breaks. Whatever caught the hook was pretty big.
- 7618: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7619: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7620: You lost your catch due to your lack of skill.
- 7621: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7622: You didn't catch anything.
- 7623: The paper on your $0 ripped.
- 7624: A tiny goldfish approaches!
- 7625: A plump, black goldfish approaches!
- 7626: A fat, juicy goldfish approaches!
- 7627: There are no goldfish to be found...
- 7628: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7629: The goldfish slipped off your scoop...
- 7630: ch$0 skill up check.
- 7631: a:$0.
- 7632: Time $0 / Status $1 / $2
- 7633: d:$0. e:$1. f:$2. g:$3.
- 7634: h: $1. i: $0. sr: $2.
- 7635: j:$0. k:$1.
- 7636: You give up and reel in your line.
- 7637: You give up.
- 7638: %0 obtains $1 gil.
- 7639: %0 caught $0!
- 7640: You don't know how much longer you can keep this one on the line...
- 7641: You have a good feeling about this one!
- 7642: You have a bad feeling about this one.
- 7643: You have a terrible feeling about this one...
- 7644: You don't know if you have enough skill to reel this one in.
- 7645: You're fairly sure you don't have enough skill to reel this one in.
- 7646: You're positive you don't have enough skill to reel this one in!
- 7647: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7648: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7649: l: $0. m: $1. n: $2. CH: $3.
- 7650: Something caught the hook!!!
- 7651: You feel something pulling at your line.
- 7652: Something clamps onto your line ferociously!
- 7653: Your keen angler's senses tell you that this is the pull of $0!
- 7654: This strength... You get the sense that you are on the verge of an epic catch!
- 7655: The timer has started. $0 seconds remaining.
- 7656: $0sec.$1/$2sec.
- 7657: 0:$0 1:$1 2:$2 3:$3
- 7658: 4:$0 5:$1 6:$2 7:$3
- 7659: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7660: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7661: $0/$1($2j
- 7662: Version invalid error!
- 7663: Hurry before the goldfish sees you!
- 7664: %0 fishes up a large box!
- 7665: $23$o$P122$8$0
- 7666: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7667: PointF$0 >>> $1
- 7668: [$1($0)/skillF$1]
- 7669: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7670: Im Rnd : $0 Pz Rnd : $1
- 7671: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7672: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7673: skill : $0 size : $1 kind : $2 sch : $3
- 7674: time : $0 mes : $1 flag : $2 bonus : $3
- 7675: item : $0 hp : $1 pow : $2 swing : $3
- 7676: suc : $0 cons : $1 weight : $2 +- : $3
- 7677: speed : $0 +- : $1 exc : $2 client : $3
- 7678: general : $0
- 7679: ro:$0 rs:$1 ps:$2 dt:$3
- 7680: ra:$0 ti:$1
- 7681: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7682: You get the distinct sense that your moogle friend frequents this spot...
- 7683: You have a feeling that your moogle friend has been through this way...
- 7684: You suspect that the scenery around here would be to a moogle's liking...
- 7685: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7686: You have a hunch that this area would be favored by moogles...
- 7687: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7688: %0 catches $1 $0 !
- 7689: %0 obtained $6!
- 7690: It appears your chocobo found this item with ease.
- 7691: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7692: FPT $0 DPT $1 DoT$2
- 7693: FPT $0 TDPT $1 h$2
- 7694: You cannot fish at this time.
- 7695: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7696: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7697: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7698: You receive $0 bayld!
- 7699: Your chocobo refuses to partake of the $0.
- 7700: Select a name for your Wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Nanaja/Khocha]
- 7701: Your wyvern has a new name.
+ 7600: It won't open.
+ 7601: You can't fish here.
+ 7602: You can't fish without a rod in your hands.
+ 7603: You can't fish without bait on the hook.
+ 7604: You can't fish at the moment.
+ 7605: You didn't catch anything.
+ 7606: %0 caught a monster!
+ 7607: Your line breaks.
+ 7608: Your rod breaks.
+ 7609: Something caught the hook!
+ 7610: You lost your catch.
+ 7611: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7612: You feel there's something here.
+ 7613: You feel there's something nearby.
+ 7614: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7615: %0 caught $1 $0 !
+ 7616: You dig and you dig, but find nothing.
+ 7617: $0/$0p$3Z$3b$3g
+ 7618: Your rod breaks. Whatever caught the hook was pretty big.
+ 7619: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7620: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7621: You lost your catch due to your lack of skill.
+ 7622: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7623: You didn't catch anything.
+ 7624: The paper on your $0 ripped.
+ 7625: A tiny goldfish approaches!
+ 7626: A plump, black goldfish approaches!
+ 7627: A fat, juicy goldfish approaches!
+ 7628: There are no goldfish to be found...
+ 7629: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7630: The goldfish slipped off your scoop...
+ 7631: ch$0 skill up check.
+ 7632: a:$0.
+ 7633: Time $0 / Status $1 / $2
+ 7634: d:$0. e:$1. f:$2. g:$3.
+ 7635: h: $1. i: $0. sr: $2.
+ 7636: j:$0. k:$1.
+ 7637: You give up and reel in your line.
+ 7638: You give up.
+ 7639: %0 obtains $1 gil.
+ 7640: %0 caught $0!
+ 7641: You don't know how much longer you can keep this one on the line...
+ 7642: You have a good feeling about this one!
+ 7643: You have a bad feeling about this one.
+ 7644: You have a terrible feeling about this one...
+ 7645: You don't know if you have enough skill to reel this one in.
+ 7646: You're fairly sure you don't have enough skill to reel this one in.
+ 7647: You're positive you don't have enough skill to reel this one in!
+ 7648: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7649: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7650: l: $0. m: $1. n: $2. CH: $3.
+ 7651: Something caught the hook!!!
+ 7652: You feel something pulling at your line.
+ 7653: Something clamps onto your line ferociously!
+ 7654: Your keen angler's senses tell you that this is the pull of $0!
+ 7655: This strength... You get the sense that you are on the verge of an epic catch!
+ 7656: The timer has started. $0 seconds remaining.
+ 7657: $0sec.$1/$2sec.
+ 7658: 0:$0 1:$1 2:$2 3:$3
+ 7659: 4:$0 5:$1 6:$2 7:$3
+ 7660: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7661: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7662: $0/$1($2j
+ 7663: Version invalid error!
+ 7664: Hurry before the goldfish sees you!
+ 7665: %0 fishes up a large box!
+ 7666: $23$o$P122$8$0
+ 7667: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7668: PointF$0 >>> $1
+ 7669: [$1($0)/skillF$1]
+ 7670: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7671: Im Rnd : $0 Pz Rnd : $1
+ 7672: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7673: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7674: skill : $0 size : $1 kind : $2 sch : $3
+ 7675: time : $0 mes : $1 flag : $2 bonus : $3
+ 7676: item : $0 hp : $1 pow : $2 swing : $3
+ 7677: suc : $0 cons : $1 weight : $2 +- : $3
+ 7678: speed : $0 +- : $1 exc : $2 client : $3
+ 7679: general : $0
+ 7680: ro:$0 rs:$1 ps:$2 dt:$3
+ 7681: ra:$0 ti:$1
+ 7682: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7683: You get the distinct sense that your moogle friend frequents this spot...
+ 7684: You have a feeling that your moogle friend has been through this way...
+ 7685: You suspect that the scenery around here would be to a moogle's liking...
+ 7686: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7687: You have a hunch that this area would be favored by moogles...
+ 7688: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7689: %0 catches $1 $0 !
+ 7690: %0 obtained $6!
+ 7691: It appears your chocobo found this item with ease.
+ 7692: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7693: FPT $0 DPT $1 DoT$2
+ 7694: FPT $0 TDPT $1 h$2
+ 7695: You cannot fish at this time.
+ 7696: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7697: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7698: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7699: You receive $0 bayld!
+ 7700: Your chocobo refuses to partake of the $0.
+ 7701: Select a name for your Wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Nanaja/Khocha]
  7702: Your wyvern has a new name.
- 7703: Is this the name you really want? [This is the one./I need more time to think./Forget about it.]
- 7704: Oi 'av naw business wi' de likes av you.
- 7705: Oi spy ye've got a gran' wyvern dare witcha.
- 7706: Ye gave a name ter yer wyvern whaen yer made yer pact, roi? Well, I'll let ye in on a secret. Did ye know ye can change yer wyvern's name?
- 7707: If ye pay me fee of $7 gil, oi can 'elp yer. Waaat do yer say? You can alwus back oyt at any time.
- 7708: Ye want ter change yer wyvern's name again? Jes pay me fee of $7 gil, an' oi can 'elp yer.
- 7709: Ask the woman for her help? [Yes./No.]
- 7710: A wyvern's name is a part av its destiny. A change may be good for it. Come back if ye change yer mind.
- 7711: Choose a new name from de followin'. An' don't go givin' yer wyvern de seem name, now, hear?
- 7712: Waaat a gran' name ye 'av chosen. Good day!
- 7713: You don't 'av enough gil. Come back whaen ye do.
- 7714: Select a name for your wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Look at the next list./Quit]
- 7715: Select a name for your wyvern. [Nanaja/Khocha/Dino/Chomper/Huffy/Pouncer/Fido/Lucy/Jake/Rocky/Rex/Rusty/Himmelskralle/Gizmo/Spike/Sylvester/Milo/Tom/Toby/Felix/Komet/Bo/Molly/Unryu/Daisy/Baron/Ginger/Muffin/Lumineux/Look at the previous list./Look at the next list./Quit]
- 7716: Select a name for your wyvern. [Quatrevents/Toryu/Tataba/Etoilazuree/Grisnuage/Belorage/Centonnerre/Nouvellune/Missy/Amedeo/Tranchevent/Soufflefeu/Etoile/Tonnerre/Nuage/Foudre/Hyuh/Orage/Lune/Astre/Waffenzahn/Soleil/Courageux/Koffla-Paffla/Venteuse/Lunaire/Tora/Celeste/Galja-Mogalja/Look at the previous list./Look at the next list./Quit]
- 7717: Select a name for your wyvern. [Gaboh/Vhyun/Orageuse/Stellaire/Solaire/Wirbelwind/Blutkralle/Bogen/Junker/Flink/Knirps/Bodo/Soryu/Wawaro/Totona/Levian-Movian/Kagero/Joseph/Paparal/Coco/Ringo/Nonomi/Teter/Gigima/Gogodavi/Rurumo/Tupah/Jyubih/Majha/Look at the previous list./Look at the next list./Quit]
- 7718: $201475X$3^$3998261
- 7719: HI)5="1F* i)$4784712`5H" $3$1[$3v $3t$3$3O$3`$3F$3b$3N $3J$3$3$3$1[$3h $3C$3x$3$3g
- 7720: ;$]L$P10i$s$s$P11Tp$P10]$P12h [HI`5H"/xlP$3998255/xlP$3998255i$P11e$P109$P130$7078501P$3998255/elP$3998261/l$3t$3$3O$3N$3$3A]
- 7721: G1I$3$1[$3v7iH [$3I[$3N$,%.$P11O/$3I[$3N$,%.$6/$3o$3g$3 [$3G$3$3A/$3X$3^[$3g$P12n$P13_]
- 7722: $3{$3^$3$2p$317F$P10i^
- 7723: $3o$3g$3 [$3I$3$P13]
- 7724: $3o$3g$3 [$3I$3t]
- 7725: $3{$3X$3|$3b$3v
- 7726: $3U$3R`$3|$3b$3v
- 7727: $3U$3Ra$3|$3b$3v
- 7728: $3o$3g$3 [$3$3Z$3b$3g$P12JA=]
- 7729: TEST1
- 7730: TEST2
- 7731: TEST3
- 7732: TEST4
- 7733: BINDI$P16_ifB$P12h$3{$3^$3$95DKI
- 7734: This looks like an Orcish dwelling. The door is firmly shut.
- 7735: The door is locked. [Try to force the lock./Give up.]
- 7736: Smells like people... People! Get them! Throw into sheep hut!!!
- 7737: You open the door.
- 7738: Hey, where you going? Nobody escape Orc camp alive! Gwah hah hah hah!
- 7739: But me kidding. Today your lucky day! Me different from other Orc. Me nice! If you nice too, me let you go. But freedom not for free!
- 7740: What? Don't get my joke? You dumbface! Gil! Me want gil!
- 7741: Me very nice Orc. Me give bargain. 100 gil! Or me give you to friends. They not nice like me.
- 7742: Well? [Pay the Orc./Fight to the bitter end.]
- 7743: Poor dumbface, too bad! So sad. Now you die!
- 7744: Gwah hah! Thanks for gil. Me nice Orc. Me keep promise. Now get out!
- 7745: You don't want play nice? Fine by me!
- 7746: You give me 100 gil, I not tell friends where you go. Gwah hah hah! Good price for dumbface, I think.
- 7747: Gwah hah hah. Sorry. Now not good time.
- 7748: You think you won!?
- 7749: Your time soon end!
- 7750: Your days is numbered! Me say so!
- 7751: Th-thank you!
- 7752: But, I wonder what that Orc meant...
- 7753: Could it be true...that a new leader has united the hordes?
- 7754: Do the beastmen really wish to war with us again?
- 7755: I will return to the chateau with these two. Be careful, friend.
- 7756: You have broken the clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!
- 7757: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 second[/s].
- 7758: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 minute[/s] $2 second[/s].
- 7759: Entering the battlefield for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!
- 7760: Which battlefield will you enter? [None./Save the Children./The Holy Crest./Wings of Fury./Petrifying Pair./Toadal Recall./Mirror, Mirror./././././././././././././././././././././././././]
- 7761: Logging is possible here if you have $0.
- 7762: Probability of loss = $3/10000.
- 7763: Your $7 breaks!
- 7764: You successfully cut off $0!
- 7765: You cut off $0, but your $7 breaks in the process.
- 7766: You are unable to log anything.
- 7767: You cannot carry any more items. Your inventory is full.
- 7768: Wait!
- 7769: You are the adventurer that Pieuje sent, are you not?
- 7770: Bravely have you fought against the Orcs. Well done!
- 7771: On behalf of my spineless brother, I thank you.
- 7772: He had not the strength to save one boy, and so sent an adventurer in his stead.
- 7773: Indeed he is dirt upon the name of House d'Oraguille.
- 7774: Well, enough blather. Let us save the boy. Open the door!
- 7775: Is anyone here?
- 7776: Why, Your Highness!
- 7777: You are Tedimout? From the cathedral?
- 7778: Yes, it's me! Truly I am grateful you came, Your Highness!
- 7779: I am relieved he seems well. I will bring the boy back to San d'Oria.
- 7780: You have my thanks, adventurer. I will inform the guards of your deeds. Now, let us be off!
- 7781: Wait!
- 7782: Something is odd about the dragon. We may soon be out of time. Leave this to me!
- 7783: Cyranuce! Are you all right?
- 7784: Alas! I am too late! <Player>, go!
- 7785: Cyranuce, are you all right? Hurry, take this!
- 7786: Rahal, such a thing is of no use. It cannot save me. I yearn to die, and I will take the dragon with me!
- 7787: No, Cyranuce! You must take it!
- 7788: Rahal, you of all people should know. By bringing it here, you proved you believed in me.
- 7789: Cyranuce...
- 7790: I knew you would come to save me. Though my death is near, I am glad.
- 7791: And you, <Player>.
- 7792: And what of the dragon, Rahal? Are you to slay it?
- 7793: Yes, it must be done... To keep others from becoming like you.
- 7794: Hear my last wish! You must again believe in dragons, as we did long ago. Surely somewhere there is one of holy will!
- 7795: Cyranuce!
- 7796: Thank you, Rahal! Now, my time has come!
- 7797: What the--!
- 7798: No!
- 7799: How can this be!? The sign of holiness!
- 7800: You were right, Cyranuce. The dragoon born today shall inherit your purpose. Be at peace, my friend.
- 7801: You can now become a dragoon!
- 7802: There is nothing out of the ordinary here.
- 7803: You can hear a strange voice... "Items, items, la la la la la`t"
- 7804: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7805: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7806: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7807: Now, listen close...
- 7808: Oh... Well, if that's the case, I'm outta here.
- 7809: The Goblin slipped away when you were not looking...
- 7810: You can hear a strange, raspy voice...
- 7811: I travel......hear lots... Hear...stories... Can tell...if...
- 7812: .........listen......
- 7813: Oh...... ...outta here.........
- 7814: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7815: What story would you like to be told? [On second thought, maybe later./Save the Children(pt.1)./Save the Children(pt.2)./Save the Children(pt.3-A)./Save the Children(pt.3-B)./The Holy Crest(pt.1)./The Holy Crest(pt.2)./Mirror, Mirror(pt.1)./Mirror, Mirror(pt.2)./Mirror, Mirror(pt.3)./Face of the Future.]
- 7816: 
+ 7703: Your wyvern has a new name.
+ 7704: Is this the name you really want? [This is the one./I need more time to think./Forget about it.]
+ 7705: Oi 'av naw business wi' de likes av you.
+ 7706: Oi spy ye've got a gran' wyvern dare witcha.
+ 7707: Ye gave a name ter yer wyvern whaen yer made yer pact, roi? Well, I'll let ye in on a secret. Did ye know ye can change yer wyvern's name?
+ 7708: If ye pay me fee of $7 gil, oi can 'elp yer. Waaat do yer say? You can alwus back oyt at any time.
+ 7709: Ye want ter change yer wyvern's name again? Jes pay me fee of $7 gil, an' oi can 'elp yer.
+ 7710: Ask the woman for her help? [Yes./No.]
+ 7711: A wyvern's name is a part av its destiny. A change may be good for it. Come back if ye change yer mind.
+ 7712: Choose a new name from de followin'. An' don't go givin' yer wyvern de seem name, now, hear?
+ 7713: Waaat a gran' name ye 'av chosen. Good day!
+ 7714: You don't 'av enough gil. Come back whaen ye do.
+ 7715: Select a name for your wyvern. [Azure/Cerulean/Rygor/Firewing/Delphyne/Ember/Rover/Max/Buster/Duke/Oscar/Maggie/Jessie/Lady/Hien/Raiden/Lumiere/Eisenzahn/Pfeil/Wuffi/George/Donryu/Qiqiru/Karav-Marav/Oboro/Darug-Borug/Mikan/Vhiki/Sasavi/Tatang/Look at the next list./Quit]
+ 7716: Select a name for your wyvern. [Nanaja/Khocha/Dino/Chomper/Huffy/Pouncer/Fido/Lucy/Jake/Rocky/Rex/Rusty/Himmelskralle/Gizmo/Spike/Sylvester/Milo/Tom/Toby/Felix/Komet/Bo/Molly/Unryu/Daisy/Baron/Ginger/Muffin/Lumineux/Look at the previous list./Look at the next list./Quit]
+ 7717: Select a name for your wyvern. [Quatrevents/Toryu/Tataba/Etoilazuree/Grisnuage/Belorage/Centonnerre/Nouvellune/Missy/Amedeo/Tranchevent/Soufflefeu/Etoile/Tonnerre/Nuage/Foudre/Hyuh/Orage/Lune/Astre/Waffenzahn/Soleil/Courageux/Koffla-Paffla/Venteuse/Lunaire/Tora/Celeste/Galja-Mogalja/Look at the previous list./Look at the next list./Quit]
+ 7718: Select a name for your wyvern. [Gaboh/Vhyun/Orageuse/Stellaire/Solaire/Wirbelwind/Blutkralle/Bogen/Junker/Flink/Knirps/Bodo/Soryu/Wawaro/Totona/Levian-Movian/Kagero/Joseph/Paparal/Coco/Ringo/Nonomi/Teter/Gigima/Gogodavi/Rurumo/Tupah/Jyubih/Majha/Look at the previous list./Look at the next list./Quit]
+ 7719: $201475X$3^$3998261
+ 7720: HI)5="1F* i)$4784712`5H" $3$1[$3v $3t$3$3O$3`$3F$3b$3N $3J$3$3$3$1[$3h $3C$3x$3$3g
+ 7721: ;$]L$P10i$s$s$P11Tp$P10]$P12h [HI`5H"/xlP$3998255/xlP$3998255i$P11e$P109$P130$7078501P$3998255/elP$3998261/l$3t$3$3O$3N$3$3A]
+ 7722: G1I$3$1[$3v7iH [$3I[$3N$,%.$P11O/$3I[$3N$,%.$6/$3o$3g$3 [$3G$3$3A/$3X$3^[$3g$P12n$P13_]
+ 7723: $3{$3^$3$2p$317F$P10i^
+ 7724: $3o$3g$3 [$3I$3$P13]
+ 7725: $3o$3g$3 [$3I$3t]
+ 7726: $3{$3X$3|$3b$3v
+ 7727: $3U$3R`$3|$3b$3v
+ 7728: $3U$3Ra$3|$3b$3v
+ 7729: $3o$3g$3 [$3$3Z$3b$3g$P12JA=]
+ 7730: TEST1
+ 7731: TEST2
+ 7732: TEST3
+ 7733: TEST4
+ 7734: BINDI$P16_ifB$P12h$3{$3^$3$95DKI
+ 7735: This looks like an Orcish dwelling. The door is firmly shut.
+ 7736: The door is locked. [Try to force the lock./Give up.]
+ 7737: Smells like people... People! Get them! Throw into sheep hut!!!
+ 7738: You open the door.
+ 7739: Hey, where you going? Nobody escape Orc camp alive! Gwah hah hah hah!
+ 7740: But me kidding. Today your lucky day! Me different from other Orc. Me nice! If you nice too, me let you go. But freedom not for free!
+ 7741: What? Don't get my joke? You dumbface! Gil! Me want gil!
+ 7742: Me very nice Orc. Me give bargain. 100 gil! Or me give you to friends. They not nice like me.
+ 7743: Well? [Pay the Orc./Fight to the bitter end.]
+ 7744: Poor dumbface, too bad! So sad. Now you die!
+ 7745: Gwah hah! Thanks for gil. Me nice Orc. Me keep promise. Now get out!
+ 7746: You don't want play nice? Fine by me!
+ 7747: You give me 100 gil, I not tell friends where you go. Gwah hah hah! Good price for dumbface, I think.
+ 7748: Gwah hah hah. Sorry. Now not good time.
+ 7749: You think you won!?
+ 7750: Your time soon end!
+ 7751: Your days is numbered! Me say so!
+ 7752: Th-thank you!
+ 7753: But, I wonder what that Orc meant...
+ 7754: Could it be true...that a new leader has united the hordes?
+ 7755: Do the beastmen really wish to war with us again?
+ 7756: I will return to the chateau with these two. Be careful, friend.
+ 7757: You have broken the clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!
+ 7758: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 second[/s].
+ 7759: The current battlefield clear time record for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]" is $3 minute[/s] $2 second[/s].
+ 7760: Entering the battlefield for "[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]"!
+ 7761: Which battlefield will you enter? [None./Save the Children./The Holy Crest./Wings of Fury./Petrifying Pair./Toadal Recall./Mirror, Mirror./././././././././././././././././././././././././]
+ 7762: Logging is possible here if you have $0.
+ 7763: Probability of loss = $3/10000.
+ 7764: Your $7 breaks!
+ 7765: You successfully cut off $0!
+ 7766: You cut off $0, but your $7 breaks in the process.
+ 7767: You are unable to log anything.
+ 7768: You cannot carry any more items. Your inventory is full.
+ 7769: Wait!
+ 7770: You are the adventurer that Pieuje sent, are you not?
+ 7771: Bravely have you fought against the Orcs. Well done!
+ 7772: On behalf of my spineless brother, I thank you.
+ 7773: He had not the strength to save one boy, and so sent an adventurer in his stead.
+ 7774: Indeed he is dirt upon the name of House d'Oraguille.
+ 7775: Well, enough blather. Let us save the boy. Open the door!
+ 7776: Is anyone here?
+ 7777: Why, Your Highness!
+ 7778: You are Tedimout? From the cathedral?
+ 7779: Yes, it's me! Truly I am grateful you came, Your Highness!
+ 7780: I am relieved he seems well. I will bring the boy back to San d'Oria.
+ 7781: You have my thanks, adventurer. I will inform the guards of your deeds. Now, let us be off!
+ 7782: Wait!
+ 7783: Something is odd about the dragon. We may soon be out of time. Leave this to me!
+ 7784: Cyranuce! Are you all right?
+ 7785: Alas! I am too late! <Player>, go!
+ 7786: Cyranuce, are you all right? Hurry, take this!
+ 7787: Rahal, such a thing is of no use. It cannot save me. I yearn to die, and I will take the dragon with me!
+ 7788: No, Cyranuce! You must take it!
+ 7789: Rahal, you of all people should know. By bringing it here, you proved you believed in me.
+ 7790: Cyranuce...
+ 7791: I knew you would come to save me. Though my death is near, I am glad.
+ 7792: And you, <Player>.
+ 7793: And what of the dragon, Rahal? Are you to slay it?
+ 7794: Yes, it must be done... To keep others from becoming like you.
+ 7795: Hear my last wish! You must again believe in dragons, as we did long ago. Surely somewhere there is one of holy will!
+ 7796: Cyranuce!
+ 7797: Thank you, Rahal! Now, my time has come!
+ 7798: What the--!
+ 7799: No!
+ 7800: How can this be!? The sign of holiness!
+ 7801: You were right, Cyranuce. The dragoon born today shall inherit your purpose. Be at peace, my friend.
+ 7802: You can now become a dragoon!
+ 7803: There is nothing out of the ordinary here.
+ 7804: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7805: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7806: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7807: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7808: Now, listen close...
+ 7809: Oh... Well, if that's the case, I'm outta here.
+ 7810: The Goblin slipped away when you were not looking...
+ 7811: You can hear a strange, raspy voice...
+ 7812: I travel......hear lots... Hear...stories... Can tell...if...
+ 7813: .........listen......
+ 7814: Oh...... ...outta here.........
+ 7815: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7816: What story would you like to be told? [On second thought, maybe later./Save the Children(pt.1)./Save the Children(pt.2)./Save the Children(pt.3-A)./Save the Children(pt.3-B)./The Holy Crest(pt.1)./The Holy Crest(pt.2)./Mirror, Mirror(pt.1)./Mirror, Mirror(pt.2)./Mirror, Mirror(pt.3)./Face of the Future.]
  7817: 
  7818: 
- 7819: <Player>! Are you okay!?
+ 7819: 
  7820: <Player>! Are you okay!?
  7821: <Player>! Are you okay!?
  7822: <Player>! Are you okay!?
@@ -7832,7 +7832,7 @@
  7828: <Player>! Are you okay!?
  7829: <Player>! Are you okay!?
  7830: <Player>! Are you okay!?
- 7831: The mirror was feeding power to the beast...
+ 7831: <Player>! Are you okay!?
  7832: The mirror was feeding power to the beast...
  7833: The mirror was feeding power to the beast...
  7834: The mirror was feeding power to the beast...
@@ -7844,7 +7844,7 @@
  7840: The mirror was feeding power to the beast...
  7841: The mirror was feeding power to the beast...
  7842: The mirror was feeding power to the beast...
- 7843: Let's finish this, <Player>!
+ 7843: The mirror was feeding power to the beast...
  7844: Let's finish this, <Player>!
  7845: Let's finish this, <Player>!
  7846: Let's finish this, <Player>!
@@ -7856,142 +7856,143 @@
  7852: Let's finish this, <Player>!
  7853: Let's finish this, <Player>!
  7854: Let's finish this, <Player>!
- 7855: The mirror is cracked, <Player>. Now what do we do with it?
- 7856: I smashed the mirror without thinking. Now what do we do with it, <Player>?
- 7857: Well, the mirror is harmless now. What should we do with it, <Player>?
- 7858: I've damaged the mirror, <Player>. What should we do with it?
- 7859: I cracked the mirror, <Player>. What should we do with it?
- 7860: Seven years of bad luck can't be that bad...can it? What should we do with the mirror, <Player>?
- 7861: I've shattered the mirror, <Player>. What do we do with it now?
- 7862: Smashing the mirror was the only thing I could think of. What do I do with it now, <Player>?
- 7863: Breaking the mirror was my only choice. What do I do with it now, <Player>?
- 7864: Looks like seven years of bad luck for me. What do I do with the mirror now, <Player>?
- 7865: I've damaged the mirror. What should we do, <Player>?
- 7866: I had no choice but to break the mirror. What do you suggest we do with it now, <Player>?
- 7867: Take it to Luto? [That would be best./I don't think so.]
- 7868: I suppose you're right. Our Mithran friend seems well informed about Near Eastern artifacts.
- 7869: Of course! Luto would know what to do!
- 7870: You could be right. She does know a lot about Near Eastern artifacts.
- 7871: Why, of course. Our Mithran associate would be the perfect choice, considering her area of expertise.
- 7872: You're right. After all, she knows a lot about such objects.
- 7873: Good idea. No one else would know more about Near Eastern objects than her.
- 7874: Good idea. Luto knows a lot about Near Eastern artifacts.
- 7875: Of course! Luto is the perfect person to ask!
- 7876: You're probably right. She's the expert on all things Near Eastern.
- 7877: Luto? Oh, the Mithra in Jeuno! Yes, she would be the perfect person to help us!
- 7878: Why, of course. Our Mithran associate would be the perfect choice, considering her area of expertise.
- 7879: Hmmm... Considering her field of expertise, you are probably right.
- 7880: Are you sure? Our Mithran friend seems well informed about Near Eastern artifacts.
- 7881: Are you sure? I really think Luto would know what to do!
- 7882: Are you sure? She does know a lot about Near Eastern artifacts.
- 7883: Are you sure? Our Mithran associate would be the perfect choice, considering her area of expertise.
- 7884: Oh? But I thought she would be the best person to talk to about the mirror.
- 7885: Are you sure? I don't think I know anyone with more knowledge about the Near East than Luto.
- 7886: Are you sure? Luto knows a lot about Near Eastern artifacts.
- 7887: Are you sure? I really think Luto is the perfect person to ask!
- 7888: Are you sure? She is the expert on all things Near Eastern.
- 7889: Luto? Oh, the Mithra in Jeuno! Wouldn't she be the perfect person to help us?
- 7890: Are you sure? Our Mithran associate would be the perfect choice, considering her area of expertise.
- 7891: That's fine with me. But name one person you know who has more knowledge on Near Eastern artifacts than Luto.
- 7892: You know, this mirror really does look similar to the Glass of All-Seeing...
+ 7855: Let's finish this, <Player>!
+ 7856: The mirror is cracked, <Player>. Now what do we do with it?
+ 7857: I smashed the mirror without thinking. Now what do we do with it, <Player>?
+ 7858: Well, the mirror is harmless now. What should we do with it, <Player>?
+ 7859: I've damaged the mirror, <Player>. What should we do with it?
+ 7860: I cracked the mirror, <Player>. What should we do with it?
+ 7861: Seven years of bad luck can't be that bad...can it? What should we do with the mirror, <Player>?
+ 7862: I've shattered the mirror, <Player>. What do we do with it now?
+ 7863: Smashing the mirror was the only thing I could think of. What do I do with it now, <Player>?
+ 7864: Breaking the mirror was my only choice. What do I do with it now, <Player>?
+ 7865: Looks like seven years of bad luck for me. What do I do with the mirror now, <Player>?
+ 7866: I've damaged the mirror. What should we do, <Player>?
+ 7867: I had no choice but to break the mirror. What do you suggest we do with it now, <Player>?
+ 7868: Take it to Luto? [That would be best./I don't think so.]
+ 7869: I suppose you're right. Our Mithran friend seems well informed about Near Eastern artifacts.
+ 7870: Of course! Luto would know what to do!
+ 7871: You could be right. She does know a lot about Near Eastern artifacts.
+ 7872: Why, of course. Our Mithran associate would be the perfect choice, considering her area of expertise.
+ 7873: You're right. After all, she knows a lot about such objects.
+ 7874: Good idea. No one else would know more about Near Eastern objects than her.
+ 7875: Good idea. Luto knows a lot about Near Eastern artifacts.
+ 7876: Of course! Luto is the perfect person to ask!
+ 7877: You're probably right. She's the expert on all things Near Eastern.
+ 7878: Luto? Oh, the Mithra in Jeuno! Yes, she would be the perfect person to help us!
+ 7879: Why, of course. Our Mithran associate would be the perfect choice, considering her area of expertise.
+ 7880: Hmmm... Considering her field of expertise, you are probably right.
+ 7881: Are you sure? Our Mithran friend seems well informed about Near Eastern artifacts.
+ 7882: Are you sure? I really think Luto would know what to do!
+ 7883: Are you sure? She does know a lot about Near Eastern artifacts.
+ 7884: Are you sure? Our Mithran associate would be the perfect choice, considering her area of expertise.
+ 7885: Oh? But I thought she would be the best person to talk to about the mirror.
+ 7886: Are you sure? I don't think I know anyone with more knowledge about the Near East than Luto.
+ 7887: Are you sure? Luto knows a lot about Near Eastern artifacts.
+ 7888: Are you sure? I really think Luto is the perfect person to ask!
+ 7889: Are you sure? She is the expert on all things Near Eastern.
+ 7890: Luto? Oh, the Mithra in Jeuno! Wouldn't she be the perfect person to help us?
+ 7891: Are you sure? Our Mithran associate would be the perfect choice, considering her area of expertise.
+ 7892: That's fine with me. But name one person you know who has more knowledge on Near Eastern artifacts than Luto.
  7893: You know, this mirror really does look similar to the Glass of All-Seeing...
  7894: You know, this mirror really does look similar to the Glass of All-Seeing...
  7895: You know, this mirror really does look similar to the Glass of All-Seeing...
- 7896: You know, this mirror really does look a lot like the Glass of All-Seeing...
- 7897: You know, I couldn't help but notice how much this mirror resembles the Glass of All-Seeing...
- 7898: You know, this mirror really does look similar to the Glass of All-Seeing...
+ 7896: You know, this mirror really does look similar to the Glass of All-Seeing...
+ 7897: You know, this mirror really does look a lot like the Glass of All-Seeing...
+ 7898: You know, I couldn't help but notice how much this mirror resembles the Glass of All-Seeing...
  7899: You know, this mirror really does look similar to the Glass of All-Seeing...
  7900: You know, this mirror really does look similar to the Glass of All-Seeing...
  7901: You know, this mirror really does look similar to the Glass of All-Seeing...
  7902: You know, this mirror really does look similar to the Glass of All-Seeing...
- 7903: You know, this mirror really does share similiarities with the Glass of All-Seeing...
- 7904: The cyclopean crystal is emitting a radiant glow.
- 7905: You successfully hew $0 [shard/shards] from the crystal!
- 7906: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
- 7907: The crystal is glowing brighter than before...
- 7908: Yaaaaaarrrgh!!!
- 7909: <Huff, puff>...
- 7910: No. 'Twas no better than your last effort.
- 7911: What in the world...<gasp>...do you mean? How can there have been...<pant>...any indecision in that!?
- 7912: You mask it with blind aggression, but these eyes will not be tricked. Like the fool who tries to swim clad in armor, your movements are encumbered by indecision still.
- 7913: Listen to me, boy. No man can undo his past.
- 7914: Every man gladly clings on to his joys and successes. But as a ship raises anchor that it might sail towards the horizon, so too must a man bear the weight of his failures if he would move forward.
- 7915: I shall share with you a pearl of wisdom.
- 7916: "He who would toast with victory's sweetest nectar must first partake of defeat's bitterest victuals."
- 7917: These are the words of my erstwhile teacher.
- 7918: Huh? Why foul your mouth with something bitter? That makes not a whit of sense...
- 7919: <Sigh>... In time, you will come to understand. For now, stay focused on the enemy!
- 7920: Hm? You're the adventurer from before...
- 7921: Forgive me my introspection, but your resemblance to an acquaintance of decades past evokes within me memories of bygone days.
- 7922: <Puff, pant> All right...who's next...?
- 7923: Ah.
- 7924: Indecisive, am I!? Yaaaaaarrrgh!!!
- 7925: Uwaaaaaah! Stop! H-hold your morbols--I mean, chocobos!
- 7926: Hm. A marginal improvement.
- 7927: Blaaarrrgh!!!
- 7928: Huh? Not an Orc?
- 7929: Th-that was uncalled for...
- 7930: I know that voice...
- 7931: Be strong, man!
- 7932: Int...Intelligence Operative...<gasp>...Lharant...<wheeze>...reporting, sir...
- 7933: So, the dauntless agent who had infiltrated the den of Orcs was you all along! Altana's breath, 'tis good to see you alive...if somewhat the worse for wear.
- 7934: No need for concern, sir. The internal injuries sustained from that fell blow are already--<cough, hack>--on the mend.
- 7935: More importantly, I come bearing intelligence on the latest Orcish activities. As breathing triggers some discomfort still, I'd be most obliged if you could lean closer...
- 7936: (Th-this is...)
- 7937: (Magnificent! Magnificent beyond words! So, this is the fruit of twenty years of labor!)
- 7938: (Aaah, Master Zogbog! No see you long time!)
- 7939: (Egads, Mekglok! How you've aged! Though two decades would do this to any Orc, to be sure.)
- 7940: (Well pleased am I with your dedication. Entrusting the blueprints to you was a decision most wise.)
- 7941: (Twenty year pass already? Me very enjoy work, so no feel like twenty year!)
- 7942: (Gahaha! Dependable as ever, I see! Now, tell me. Is it operational?)
- 7943: (Right now me inject magic, Master Zogbog. It be ready soon.)
- 7944: (Ah! Me want to show Master Zogbog something else. This way please come.)
- 7945: <Gasp>!
- 7946: (D-do my eyes play at mischief? Dare I hope that before me stands a mighty legion, ready to carry out my bidding?)
- 7947: (You like, Master Zogbog? Me already finish inject magic, so they ready to move.)
- 7948: (B-beyond my wildest dreams! With these miracles of science at my disposal, history shall be at my mercy!)
- 7949: Gahahaha...
- 7950: Gwahahahahaha!!!
- 7951: ...And that concludes my report.
- 7952: Wait! You mentioned seeing an Elvaan child being held captive...
- 7953: Tell me what he looked like!
- 7954: Regrettably, the dimness revealed little to me of the lad's appearance. I did, however, take note of the sword which lay at his side.
- 7955: 'Twas a finely forged blade of fiery red steel, doubtless worth good coin. I suspect the lad is highborn.
- 7956: A friend of yours, I gather? Would that I could've extracted the lad, but the Orcs standing sentry made the task quite impossible.
- 7957: <Player>, the fault is mine that he's been taken! We must rescue him!
- 7958: I've not given you leave, boy! Your training isn't complete!
- 7959: Curses! He stands not a chance on his own. Lharant, take word to Bostillette. We shall precede the main force in infiltrating the enemy's lair.
- 7960: S-surely you jest!? You're but a few, and the statues are powerful and many!
- 7961: There's no helping it. Insolent as he may be, we cannot stand idly by while the boy rushes headlong into grave peril. Now go, Lharant!
- 7962: Very well, sir. Before I leave, I would give you this $3. It should allow you to escape the enemy's notice when you steal into the caverns.
- 7963: 'Tis designed for single use, but spares can be obtained from the covert communications chest should the need arise.
- 7964: Please take all care, sir. I shall fly like the wind back to base camp.
- 7965: (What? An Elvaan child on the loose, causing mayhem in Ghelsba, you say?)
- 7966: (Excenmille, I'll wager...)
- 7967: (Mekglok, ready the statues for immediate deployment.)
- 7968: (If you mean small one, they already ready, Master Zogbog.)
- 7969: (No. Not only those.)
- 7970: (I would see the crowning glory of my legion christened in battle.)
- 7971: (Huh? M-Master Zogbog, me not finish inject magic into big one. And many trial to run--)
- 7972: (The enemy is but one scrawny Elvaan boy...plus what other vermin crawls out of the woodwork.)
- 7973: (This shall serve perfectly as the final test run before I send forth my legion to conquer the past!)
- 7974: (B-but Master Zogbog...)
- 7975: (Enough! You will do as I say!)
- 7976: (Y-yes, Master Zogbog.)
- 7977: (Gahaha... The moment of our showdown is come, Excenmille.)
- 7978: (By the honor of my fallen clan, I swear I shall have satisfaction of you this day!)
- 7979: Uwaaah! I...I'm going to be dealt a d-d-dreadful death, kupo!
- 7980: Look, I'm keeping the creature provoked, so there's nothing to be afraid of. You can stop hiding in mommy's skirt now.
- 7981: Uwaaah! A monstrous moogle-eating mommy lizard! Don't let it n-n-near me, kupo!
- 7982: A monstrous moogle-eating...what? Are you even listening to me? Nothing's going to hurt you, so get a grip already!
- 7983: Uwaaah! Um...I mean, is that n-n-novennial attire you're sporting? It looks suitably swanky on you, k-k-kupo!
- 7984: <Player> apprises the moogle of the material shortage.
- 7985: Uwaaah! I-I mean, oh dear, that's quite a p-p-pickle. But I'm not to blame. I would've made a d-d-dozen deliveries by now, weren't it for the repulsive reptiles raging for my moogle flesh, k-k-kupo.
- 7986: A moogle stricken with an unnatural fear of the very thing he hunts... Can it get any more absurd?
- 7987: H-hey, I'll have you know our duties were designated by a draw! I had no choice whatsoever in my posting, kupo!
- 7988: Adventurer, I must beg a b-b-boon of you. I need this $3 delivered without delay to San d'Oria.
- 7989: Deliver the $3? [I shall./Um...]
- 7990: My th-thanks, kupo! A more altruistic adventurer I've never known! Now, a moogle crafter awaits by the Tanners' Guild. Please see the skin s-s-safely to his hands.
- 7991: The adventurer's obviously busy. Instead of bothering [him/her], why don't I just take it?
- 7992: Uwaaah! You can't leave me to fend for myself, kupo! I won't last a minute on my own!
- 7993: <Sigh>... Even unreasonable fear has limits, you know. Look, friend. We could really do with the help. As a fellow adventurer, won't you reconsider?
+ 7903: You know, this mirror really does look similar to the Glass of All-Seeing...
+ 7904: You know, this mirror really does share similiarities with the Glass of All-Seeing...
+ 7905: The cyclopean crystal is emitting a radiant glow.
+ 7906: You successfully hew $0 [shard/shards] from the crystal!
+ 7907: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
+ 7908: The crystal is glowing brighter than before...
+ 7909: Yaaaaaarrrgh!!!
+ 7910: <Huff, puff>...
+ 7911: No. 'Twas no better than your last effort.
+ 7912: What in the world...<gasp>...do you mean? How can there have been...<pant>...any indecision in that!?
+ 7913: You mask it with blind aggression, but these eyes will not be tricked. Like the fool who tries to swim clad in armor, your movements are encumbered by indecision still.
+ 7914: Listen to me, boy. No man can undo his past.
+ 7915: Every man gladly clings on to his joys and successes. But as a ship raises anchor that it might sail towards the horizon, so too must a man bear the weight of his failures if he would move forward.
+ 7916: I shall share with you a pearl of wisdom.
+ 7917: "He who would toast with victory's sweetest nectar must first partake of defeat's bitterest victuals."
+ 7918: These are the words of my erstwhile teacher.
+ 7919: Huh? Why foul your mouth with something bitter? That makes not a whit of sense...
+ 7920: <Sigh>... In time, you will come to understand. For now, stay focused on the enemy!
+ 7921: Hm? You're the adventurer from before...
+ 7922: Forgive me my introspection, but your resemblance to an acquaintance of decades past evokes within me memories of bygone days.
+ 7923: <Puff, pant> All right...who's next...?
+ 7924: Ah.
+ 7925: Indecisive, am I!? Yaaaaaarrrgh!!!
+ 7926: Uwaaaaaah! Stop! H-hold your morbols--I mean, chocobos!
+ 7927: Hm. A marginal improvement.
+ 7928: Blaaarrrgh!!!
+ 7929: Huh? Not an Orc?
+ 7930: Th-that was uncalled for...
+ 7931: I know that voice...
+ 7932: Be strong, man!
+ 7933: Int...Intelligence Operative...<gasp>...Lharant...<wheeze>...reporting, sir...
+ 7934: So, the dauntless agent who had infiltrated the den of Orcs was you all along! Altana's breath, 'tis good to see you alive...if somewhat the worse for wear.
+ 7935: No need for concern, sir. The internal injuries sustained from that fell blow are already--<cough, hack>--on the mend.
+ 7936: More importantly, I come bearing intelligence on the latest Orcish activities. As breathing triggers some discomfort still, I'd be most obliged if you could lean closer...
+ 7937: (Th-this is...)
+ 7938: (Magnificent! Magnificent beyond words! So, this is the fruit of twenty years of labor!)
+ 7939: (Aaah, Master Zogbog! No see you long time!)
+ 7940: (Egads, Mekglok! How you've aged! Though two decades would do this to any Orc, to be sure.)
+ 7941: (Well pleased am I with your dedication. Entrusting the blueprints to you was a decision most wise.)
+ 7942: (Twenty year pass already? Me very enjoy work, so no feel like twenty year!)
+ 7943: (Gahaha! Dependable as ever, I see! Now, tell me. Is it operational?)
+ 7944: (Right now me inject magic, Master Zogbog. It be ready soon.)
+ 7945: (Ah! Me want to show Master Zogbog something else. This way please come.)
+ 7946: <Gasp>!
+ 7947: (D-do my eyes play at mischief? Dare I hope that before me stands a mighty legion, ready to carry out my bidding?)
+ 7948: (You like, Master Zogbog? Me already finish inject magic, so they ready to move.)
+ 7949: (B-beyond my wildest dreams! With these miracles of science at my disposal, history shall be at my mercy!)
+ 7950: Gahahaha...
+ 7951: Gwahahahahaha!!!
+ 7952: ...And that concludes my report.
+ 7953: Wait! You mentioned seeing an Elvaan child being held captive...
+ 7954: Tell me what he looked like!
+ 7955: Regrettably, the dimness revealed little to me of the lad's appearance. I did, however, take note of the sword which lay at his side.
+ 7956: 'Twas a finely forged blade of fiery red steel, doubtless worth good coin. I suspect the lad is highborn.
+ 7957: A friend of yours, I gather? Would that I could've extracted the lad, but the Orcs standing sentry made the task quite impossible.
+ 7958: <Player>, the fault is mine that he's been taken! We must rescue him!
+ 7959: I've not given you leave, boy! Your training isn't complete!
+ 7960: Curses! He stands not a chance on his own. Lharant, take word to Bostillette. We shall precede the main force in infiltrating the enemy's lair.
+ 7961: S-surely you jest!? You're but a few, and the statues are powerful and many!
+ 7962: There's no helping it. Insolent as he may be, we cannot stand idly by while the boy rushes headlong into grave peril. Now go, Lharant!
+ 7963: Very well, sir. Before I leave, I would give you this $3. It should allow you to escape the enemy's notice when you steal into the caverns.
+ 7964: 'Tis designed for single use, but spares can be obtained from the covert communications chest should the need arise.
+ 7965: Please take all care, sir. I shall fly like the wind back to base camp.
+ 7966: (What? An Elvaan child on the loose, causing mayhem in Ghelsba, you say?)
+ 7967: (Excenmille, I'll wager...)
+ 7968: (Mekglok, ready the statues for immediate deployment.)
+ 7969: (If you mean small one, they already ready, Master Zogbog.)
+ 7970: (No. Not only those.)
+ 7971: (I would see the crowning glory of my legion christened in battle.)
+ 7972: (Huh? M-Master Zogbog, me not finish inject magic into big one. And many trial to run--)
+ 7973: (The enemy is but one scrawny Elvaan boy...plus what other vermin crawls out of the woodwork.)
+ 7974: (This shall serve perfectly as the final test run before I send forth my legion to conquer the past!)
+ 7975: (B-but Master Zogbog...)
+ 7976: (Enough! You will do as I say!)
+ 7977: (Y-yes, Master Zogbog.)
+ 7978: (Gahaha... The moment of our showdown is come, Excenmille.)
+ 7979: (By the honor of my fallen clan, I swear I shall have satisfaction of you this day!)
+ 7980: Uwaaah! I...I'm going to be dealt a d-d-dreadful death, kupo!
+ 7981: Look, I'm keeping the creature provoked, so there's nothing to be afraid of. You can stop hiding in mommy's skirt now.
+ 7982: Uwaaah! A monstrous moogle-eating mommy lizard! Don't let it n-n-near me, kupo!
+ 7983: A monstrous moogle-eating...what? Are you even listening to me? Nothing's going to hurt you, so get a grip already!
+ 7984: Uwaaah! Um...I mean, is that n-n-novennial attire you're sporting? It looks suitably swanky on you, k-k-kupo!
+ 7985: <Player> apprises the moogle of the material shortage.
+ 7986: Uwaaah! I-I mean, oh dear, that's quite a p-p-pickle. But I'm not to blame. I would've made a d-d-dozen deliveries by now, weren't it for the repulsive reptiles raging for my moogle flesh, k-k-kupo.
+ 7987: A moogle stricken with an unnatural fear of the very thing he hunts... Can it get any more absurd?
+ 7988: H-hey, I'll have you know our duties were designated by a draw! I had no choice whatsoever in my posting, kupo!
+ 7989: Adventurer, I must beg a b-b-boon of you. I need this $3 delivered without delay to San d'Oria.
+ 7990: Deliver the $3? [I shall./Um...]
+ 7991: My th-thanks, kupo! A more altruistic adventurer I've never known! Now, a moogle crafter awaits by the Tanners' Guild. Please see the skin s-s-safely to his hands.
+ 7992: The adventurer's obviously busy. Instead of bothering [him/her], why don't I just take it?
+ 7993: Uwaaah! You can't leave me to fend for myself, kupo! I won't last a minute on my own!
+ 7994: <Sigh>... Even unreasonable fear has limits, you know. Look, friend. We could really do with the help. As a fellow adventurer, won't you reconsider?

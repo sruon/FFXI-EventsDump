@@ -153,17 +153,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0007      |           7 |
-|       1 | 0x1C83      |        7299 |
+|       1 | 0x1C84      |        7300 |
 |       2 | 0x0071      |         113 |
-|       3 | 0x1C8D      |        7309 |
+|       3 | 0x1C8E      |        7310 |
 |       4 | 0x0039      |          57 |
-|       5 | 0x1C9A      |        7322 |
-|       6 | 0x1CAD      |        7341 |
-|       7 | 0x1CAE      |        7342 |
-|       8 | 0x1CAF      |        7343 |
-|       9 | 0x1CB1      |        7345 |
-|      10 | 0x1CD7      |        7383 |
-|      11 | 0x1CD8      |        7384 |
+|       5 | 0x1C9B      |        7323 |
+|       6 | 0x1CAE      |        7342 |
+|       7 | 0x1CAF      |        7343 |
+|       8 | 0x1CB0      |        7344 |
+|       9 | 0x1CB2      |        7346 |
+|      10 | 0x1CD8      |        7384 |
+|      11 | 0x1CD9      |        7385 |
 |      12 | 0x0015      |          21 |
 |      13 | 0xFFFF22B6  |  4294910646 |
 |      14 | 0xFFFDDF65  |  4294827877 |
@@ -340,7 +340,7 @@
 
 ```
   0: 0x0004 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0006 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7299*]:
+  1: 0x0006 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7300*]:
     → "Dangit, I need that soup pot if I'm going to beat him. How can I get another-wother one..."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000E [0x21] END_EVENT
@@ -415,7 +415,7 @@
   1: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x001C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x001D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x001E [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7309*]:
+  4: 0x001E [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7310*]:
     → "Hmm... I'm pretty sure everybody my age knows what $6 is."
   5: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0026 [0x21] END_EVENT
@@ -466,7 +466,7 @@
 ```
   0: 0x0029 [0x03] Work_Zone[8] = 113*
   1: 0x002E [0x03] Work_Zone[9] = 57*
-  2: 0x0033 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7322*]:
+  2: 0x0033 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7323*]:
     → "Okay! As long as I've got this $3 and Mom's $3, I'll finally beat that guy!"
   3: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x003B [0x21] END_EVENT
@@ -497,13 +497,13 @@
 ```
   0: 0x003D [0x03] Work_Zone[9] = 57*
   1: 0x0042 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0047 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7341*]:
+  2: 0x0047 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7342*]:
     → "What was I thinking, fighting that guy? I should've listened to Two."
   3: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x004F [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7342*]:
+  4: 0x004F [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7343*]:
     → "Don't tell Mom about the $3. I busted a big hole in it! I'm dead meat if she finds out."
   5: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0057 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7343*]:
+  6: 0x0057 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7344*]:
     → "But I was too hard on Two. I gotta tell him I'm sorry. Say, have you seen him anywhere? I wonder where he went."
   7: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005F [0x21] END_EVENT
@@ -529,7 +529,7 @@
 #### Opcodes
 
 ```
-  0: 0x0061 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7345*]:
+  0: 0x0061 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7346*]:
     → "It's all my fault. I never should've said those things. There's so much I still want to tell him."
   1: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0069 [0x21] END_EVENT
@@ -580,10 +580,10 @@
 
 ```
   0: 0x006C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0071 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7383*]:
+  1: 0x0071 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7384*]:
     → "I'm sure Two and I will keep on arguing, but I always want him to stay."
   2: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0079 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7384*]:
+  3: 0x0079 [0x2B] Panta-Putta (ID: 17780758/0x010F5016) [7385*]:
     → "After all, he's my very best friend."
   4: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0081 [0x21] END_EVENT

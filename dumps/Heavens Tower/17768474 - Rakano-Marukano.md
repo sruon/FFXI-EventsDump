@@ -45,33 +45,33 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC3      |        7363 |
-|       1 | 0x1CC4      |        7364 |
+|       0 | 0x1CC4      |        7364 |
+|       1 | 0x1CC5      |        7365 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1CC6      |        7366 |
-|       5 | 0x1CC7      |        7367 |
-|       6 | 0x1CC8      |        7368 |
-|       7 | 0x1CC9      |        7369 |
-|       8 | 0x1CCA      |        7370 |
-|       9 | 0x1CCB      |        7371 |
-|      10 | 0x1CCD      |        7373 |
-|      11 | 0x1CCE      |        7374 |
+|       4 | 0x1CC7      |        7367 |
+|       5 | 0x1CC8      |        7368 |
+|       6 | 0x1CC9      |        7369 |
+|       7 | 0x1CCA      |        7370 |
+|       8 | 0x1CCB      |        7371 |
+|       9 | 0x1CCC      |        7372 |
+|      10 | 0x1CCE      |        7374 |
+|      11 | 0x1CCF      |        7375 |
 |      12 | 0x1BE3      |        7139 |
-|      13 | 0x1CCF      |        7375 |
-|      14 | 0x1CD0      |        7376 |
-|      15 | 0x1CD2      |        7378 |
-|      16 | 0x1CD3      |        7379 |
-|      17 | 0x1CD4      |        7380 |
+|      13 | 0x1CD0      |        7376 |
+|      14 | 0x1CD1      |        7377 |
+|      15 | 0x1CD3      |        7379 |
+|      16 | 0x1CD4      |        7380 |
+|      17 | 0x1CD5      |        7381 |
 |      18 | 0x00FD      |         253 |
 |      19 | 0x00C8      |         200 |
 |      20 | 0x0078      |         120 |
-|      21 | 0x1CD5      |        7381 |
-|      22 | 0x1CD1      |        7377 |
-|      23 | 0x1CC5      |        7365 |
-|      24 | 0x1CD7      |        7383 |
-|      25 | 0x1CD6      |        7382 |
-|      26 | 0x1CD8      |        7384 |
+|      21 | 0x1CD6      |        7382 |
+|      22 | 0x1CD2      |        7378 |
+|      23 | 0x1CC6      |        7366 |
+|      24 | 0x1CD8      |        7384 |
+|      25 | 0x1CD7      |        7383 |
+|      26 | 0x1CD9      |        7385 |
 |      27 | 0x0028      |          40 |
 |      28 | 0x001E      |          30 |
 |      29 | 0x0029      |          41 |
@@ -80,27 +80,27 @@
 ## String References
 
 - **7139**: You do not have enough gil.
-- **7363**: Welcome to [San d'Oria/Bastok/Windurst]. Do you wish to change your allegiance from your current one to [San d'Oria/Bastok/Windurst]?
-- **7364**: Ask about changing your allegiance? [Yes./No.]
-- **7365**: Then, good journey, [sir/miss].
-- **7366**: You can apply here to change your allegiance to [San d'Oria/Bastok/Windurst].
-- **7367**: We will have to seal away some of your memories as an international security measure. Those memories will be unsealed should you change your allegiance back to your former country.
-- **7368**: Incidentally, if this is your first time changing your allegiance, you will have to start over from rank 1 in your new nation.
-- **7369**: Your rank in your former nation is still kept, so if you change your allegiance back you will return to your previous rank.
-- **7370**: In addition, you will retain your current conquest points as well as any records of your expeditionary force quests. Oh, and you will be required to pay a processing fee of $5 gil along with your application for transfer.
-- **7371**: You will also retain your current rank in [San d'Oria/Bastok/Windurst], which is presently rank $2.
-- **7373**: Do you still wish to change your allegiance?
-- **7374**: Change your allegiance to [San d'Oria/Bastok/Windurst]? [Yes./No.]
-- **7375**: I am obligated to ask you again: Are you sure you want to go through with this?
-- **7376**: Change your allegiance to [San d'Oria/Bastok/Windurst]? [Yes./No.]
-- **7377**: I know it isn't an easy decision to make. Please think it through before you decide.
-- **7378**: Very well. I will accept your application for [San d'Orian/Bastokan/Windurstian] citizenship.
-- **7379**: I will now cast a spell to seal some of your memories away. Close your eyes...
-- **7380**: May your decision be a wise one...
-- **7381**: You are now a citizen of [San d'Oria/Bastok/Windurst]!
-- **7382**: This is where citizens of other nations apply for citizenship in [San d'Oria/Bastok/Windurst]. Since you are [San d'Orian/Bastokan/Windurstian], there is not much I can do for you.
-- **7383**: I cannot accept applications for [San d'Orian/Bastokan/Windurstian] citizenship while you are on a mission.
-- **7384**: Your home country seems to be in trouble... I cannot accept [San d'Orian/Bastokan/Windurstian] citizenship applications at this time.
+- **7364**: Welcome to [San d'Oria/Bastok/Windurst]. Do you wish to change your allegiance from your current one to [San d'Oria/Bastok/Windurst]?
+- **7365**: Ask about changing your allegiance? [Yes./No.]
+- **7366**: Then, good journey, [sir/miss].
+- **7367**: You can apply here to change your allegiance to [San d'Oria/Bastok/Windurst].
+- **7368**: We will have to seal away some of your memories as an international security measure. Those memories will be unsealed should you change your allegiance back to your former country.
+- **7369**: Incidentally, if this is your first time changing your allegiance, you will have to start over from rank 1 in your new nation.
+- **7370**: Your rank in your former nation is still kept, so if you change your allegiance back you will return to your previous rank.
+- **7371**: In addition, you will retain your current conquest points as well as any records of your expeditionary force quests. Oh, and you will be required to pay a processing fee of $5 gil along with your application for transfer.
+- **7372**: You will also retain your current rank in [San d'Oria/Bastok/Windurst], which is presently rank $2.
+- **7374**: Do you still wish to change your allegiance?
+- **7375**: Change your allegiance to [San d'Oria/Bastok/Windurst]? [Yes./No.]
+- **7376**: I am obligated to ask you again: Are you sure you want to go through with this?
+- **7377**: Change your allegiance to [San d'Oria/Bastok/Windurst]? [Yes./No.]
+- **7378**: I know it isn't an easy decision to make. Please think it through before you decide.
+- **7379**: Very well. I will accept your application for [San d'Orian/Bastokan/Windurstian] citizenship.
+- **7380**: I will now cast a spell to seal some of your memories away. Close your eyes...
+- **7381**: May your decision be a wise one...
+- **7382**: You are now a citizen of [San d'Oria/Bastok/Windurst]!
+- **7383**: This is where citizens of other nations apply for citizenship in [San d'Oria/Bastok/Windurst]. Since you are [San d'Orian/Bastokan/Windurstian], there is not much I can do for you.
+- **7384**: I cannot accept applications for [San d'Orian/Bastokan/Windurstian] citizenship while you are on a mission.
+- **7385**: Your home country seems to be in trouble... I cannot accept [San d'Orian/Bastokan/Windurstian] citizenship applications at this time.
 
 ## Events
 
@@ -164,43 +164,43 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "Welcome to [San d'Oria/Bastok/Windurst]. Do you wish to change your allegiance from your current one to [San d'Oria/Bastok/Windurst]?"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x24] CREATE_DIALOG(message_id=7364*, default_option=1*, option_flags=0*)
+  4: 0x000B [0x24] CREATE_DIALOG(message_id=7365*, default_option=1*, option_flags=0*)
     → "Ask about changing your allegiance? [Yes./No.]"
   5: 0x0012 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0013 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0108
   7: 0x001B [0x03] Work_Zone[1] = 0*
-  8: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
+  8: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
     → "You can apply here to change your allegiance to [San d'Oria/Bastok/Windurst]."
   9: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+ 10: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
     → "We will have to seal away some of your memories as an international security measure. Those memories will be unsealed should you change your allegiance back to your former country."
  11: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0028 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x003F
- 13: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
+ 13: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "Incidentally, if this is your first time changing your allegiance, you will have to start over from rank 1 in your new nation."
  14: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
+ 15: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
     → "Your rank in your former nation is still kept, so if you change your allegiance back you will return to your previous rank."
  16: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+ 17: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "In addition, you will retain your current conquest points as well as any records of your expeditionary force quests. Oh, and you will be required to pay a processing fee of $5 gil along with your application for transfer."
  18: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x003C [0x01] GOTO 0x0047
- 20: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
+ 20: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
     → "You will also retain your current rank in [San d'Oria/Bastok/Windurst], which is presently rank $2."
  21: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+ 22: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "In addition, you will retain your current conquest points as well as any records of your expeditionary force quests. Oh, and you will be required to pay a processing fee of $5 gil along with your application for transfer."
  23: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0047:
- 24: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
+ 24: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
     → "Do you still wish to change your allegiance?"
  25: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x004B [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+ 26: 0x004B [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "Change your allegiance to [San d'Oria/Bastok/Windurst]? [Yes./No.]"
  27: 0x0052 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F1
@@ -212,20 +212,20 @@ SUBROUTINE_0047:
  33: 0x006D [0x21] END_EVENT
  34: 0x006E [0x00] END_REQSTACK()
  35: 0x006F [0x03] Work_Zone[1] = 0*
- 36: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
+ 36: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
     → "I am obligated to ask you again: Are you sure you want to go through with this?"
  37: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0078 [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
+ 38: 0x0078 [0x24] CREATE_DIALOG(message_id=7377*, default_option=1*, option_flags=0*)
     → "Change your allegiance to [San d'Oria/Bastok/Windurst]? [Yes./No.]"
  39: 0x007F [0x25] WAIT_DIALOG_SELECT()
  40: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DA
- 41: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+ 41: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "Very well. I will accept your application for [San d'Orian/Bastokan/Windurstian] citizenship."
  42: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+ 43: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
     → "I will now cast a spell to seal some of your memories away. Close your eyes..."
  44: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 45: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "May your decision be a wise one..."
  46: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0094 [0x73] EventEntity casts magic 253* on LocalPlayer
@@ -234,13 +234,13 @@ SUBROUTINE_0047:
  50: 0x00B3 [0x1C] WAIT(120* ticks)
  51: 0x00B6 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00D2
  52: 0x00BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 53: 0x00CF [0x48] [System] [7381*]:
+ 53: 0x00CF [0x48] [System] [7382*]:
     → "You are now a citizen of [San d'Oria/Bastok/Windurst]!"
  54: 0x00D2 [0x03] Work_Zone[1] = 1*
  55: 0x00D7 [0x01] GOTO 0x00EE
  56: 0x00DA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EE
  57: 0x00E2 [0x03] Work_Zone[1] = 0*
- 58: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+ 58: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
     → "I know it isn't an easy decision to make. Please think it through before you decide."
  59: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00EB [0x01] GOTO 0x00EE
@@ -249,7 +249,7 @@ SUBROUTINE_00EE:
  61: 0x00EE [0x01] GOTO 0x0105
  62: 0x00F1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0105
  63: 0x00F9 [0x03] Work_Zone[1] = 0*
- 64: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+ 64: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
     → "I know it isn't an easy decision to make. Please think it through before you decide."
  65: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0102 [0x01] GOTO 0x0105
@@ -258,7 +258,7 @@ SUBROUTINE_0105:
  67: 0x0105 [0x01] GOTO 0x011C
  68: 0x0108 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x011C
  69: 0x0110 [0x03] Work_Zone[1] = 0*
- 70: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+ 70: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "Then, good journey, [sir/miss]."
  71: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0119 [0x01] GOTO 0x011C
@@ -289,7 +289,7 @@ SUBROUTINE_011C:
 
 ```
   0: 0x0120 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+  1: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
     → "I cannot accept applications for [San d'Orian/Bastokan/Windurstian] citizenship while you are on a mission."
   2: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0129 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -318,7 +318,7 @@ SUBROUTINE_011C:
 
 ```
   0: 0x012D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "This is where citizens of other nations apply for citizenship in [San d'Oria/Bastok/Windurst]. Since you are [San d'Orian/Bastokan/Windurstian], there is not much I can do for you."
   2: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0136 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -347,7 +347,7 @@ SUBROUTINE_011C:
 
 ```
   0: 0x013A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+  1: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
     → "Your home country seems to be in trouble... I cannot accept [San d'Orian/Bastokan/Windurstian] citizenship applications at this time."
   2: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0143 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

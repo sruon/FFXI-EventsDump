@@ -126,63 +126,63 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x222F      |        8751 |
+|       0 | 0x2230      |        8752 |
 |       1 | 0x0032      |          50 |
-|       2 | 0x2230      |        8752 |
-|       3 | 0x2231      |        8753 |
-|       4 | 0x2232      |        8754 |
-|       5 | 0x2233      |        8755 |
-|       6 | 0x2234      |        8756 |
-|       7 | 0x2235      |        8757 |
-|       8 | 0x2236      |        8758 |
-|       9 | 0x2237      |        8759 |
-|      10 | 0x2238      |        8760 |
-|      11 | 0x2239      |        8761 |
-|      12 | 0x223A      |        8762 |
+|       2 | 0x2231      |        8753 |
+|       3 | 0x2232      |        8754 |
+|       4 | 0x2233      |        8755 |
+|       5 | 0x2234      |        8756 |
+|       6 | 0x2235      |        8757 |
+|       7 | 0x2236      |        8758 |
+|       8 | 0x2237      |        8759 |
+|       9 | 0x2238      |        8760 |
+|      10 | 0x2239      |        8761 |
+|      11 | 0x223A      |        8762 |
+|      12 | 0x223B      |        8763 |
 |      13 | 0x0000      |           0 |
 |      14 | 0x005A      |          90 |
 |      15 | 0x18F8      |        6392 |
-|      16 | 0x223B      |        8763 |
-|      17 | 0x223C      |        8764 |
-|      18 | 0x223D      |        8765 |
-|      19 | 0x223E      |        8766 |
-|      20 | 0x223F      |        8767 |
-|      21 | 0x2242      |        8770 |
-|      22 | 0x2243      |        8771 |
-|      23 | 0x2240      |        8768 |
+|      16 | 0x223C      |        8764 |
+|      17 | 0x223D      |        8765 |
+|      18 | 0x223E      |        8766 |
+|      19 | 0x223F      |        8767 |
+|      20 | 0x2240      |        8768 |
+|      21 | 0x2243      |        8771 |
+|      22 | 0x2244      |        8772 |
+|      23 | 0x2241      |        8769 |
 |      24 | 0x0001      |           1 |
-|      25 | 0x2244      |        8772 |
+|      25 | 0x2245      |        8773 |
 |      26 | 0x069C      |        1692 |
 |      27 | 0x069D      |        1693 |
 |      28 | 0x069E      |        1694 |
-|      29 | 0x2245      |        8773 |
-|      30 | 0x2246      |        8774 |
-|      31 | 0x2247      |        8775 |
-|      32 | 0x2248      |        8776 |
-|      33 | 0x2241      |        8769 |
-|      34 | 0x1DB9      |        7609 |
-|      35 | 0x234F      |        9039 |
-|      36 | 0x2350      |        9040 |
-|      37 | 0x2351      |        9041 |
-|      38 | 0x2353      |        9043 |
+|      29 | 0x2246      |        8774 |
+|      30 | 0x2247      |        8775 |
+|      31 | 0x2248      |        8776 |
+|      32 | 0x2249      |        8777 |
+|      33 | 0x2242      |        8770 |
+|      34 | 0x1DBA      |        7610 |
+|      35 | 0x2350      |        9040 |
+|      36 | 0x2351      |        9041 |
+|      37 | 0x2352      |        9042 |
+|      38 | 0x2354      |        9044 |
 |      39 | 0x0002      |           2 |
-|      40 | 0x2352      |        9042 |
-|      41 | 0x1DBA      |        7610 |
-|      42 | 0x1DBB      |        7611 |
+|      40 | 0x2353      |        9043 |
+|      41 | 0x1DBB      |        7611 |
+|      42 | 0x1DBC      |        7612 |
 |      43 | 0x0079      |         121 |
 |      44 | 0x0224      |         548 |
 |      45 | 0x0076      |         118 |
-|      46 | 0x1DBC      |        7612 |
-|      47 | 0x1DBD      |        7613 |
-|      48 | 0x1DBE      |        7614 |
-|      49 | 0x1DBF      |        7615 |
-|      50 | 0x1DC0      |        7616 |
-|      51 | 0x1DC2      |        7618 |
-|      52 | 0x1DC3      |        7619 |
-|      53 | 0x1DC4      |        7620 |
+|      46 | 0x1DBD      |        7613 |
+|      47 | 0x1DBE      |        7614 |
+|      48 | 0x1DBF      |        7615 |
+|      49 | 0x1DC0      |        7616 |
+|      50 | 0x1DC1      |        7617 |
+|      51 | 0x1DC3      |        7619 |
+|      52 | 0x1DC4      |        7620 |
+|      53 | 0x1DC5      |        7621 |
 |      54 | 0x00C9      |         201 |
-|      55 | 0x1DC1      |        7617 |
-|      56 | 0x2354      |        9044 |
+|      55 | 0x1DC2      |        7618 |
+|      56 | 0x2355      |        9045 |
 |      57 | 0x000C      |          12 |
 |      58 | 0xFFFED6C4  |  4294891204 |
 |      59 | 0xFFFDEB5B  |  4294830939 |
@@ -285,50 +285,50 @@
 ## String References
 
 - **6392**: Obtained $0 gil.
-- **7609**: Welcome to Neptune's Spire!
-- **7610**: Well? [Show me your goods./I'm fine./ ]
-- **7611**: Have a nice day.
-- **7612**: Ordinary travelers don't ask about Tenshodo. You really want to know? Fine, allow me to explain.
-- **7613**: Tenshodo is a, er, special trading organization, founded years ago by Grandmaster Aldo's father. We only conduct trades with our exclusive membership.
-- **7614**: Thanks to our monopolies on certain trade routes, we offer a wide selection of rare goods.
-- **7615**: Applicants for membership are required to obtain $1 from an active member in good standing, or acquire $6 from our branch in Bastok.
-- **7616**: Please show me your $1, or your $3, and I will issue $6.
-- **7617**: Yes, that $3 is valid. You are now a member of the Tenshodo. Feel free to browse our Jeuno headquarters, or our convenient Bastok branch.
-- **7618**: Yes, that $1 is valid. You are now a member of the Tenshodo. In addition to our Jeuno headquarters, we also have a branch in Bastok.
-- **7619**: Please take the door in the back. You may invite a new member with your $1, or you may dispose of it in any way you please.
-- **7620**: We look forward to serving you.
-- **8751**: What, you want to explore the towers of Pso'Xja? That shouldn't be a problem. We recently opened those ruins to all explorers.
-- **8752**: However, the Tenshodo is currently conducting an investigation on the deeper areas of the central tower, and we can't have pesky adventurers running around getting in our way.
-- **8753**: Though...if you were to scratch our backs, we wouldn't have any problems scratching yours.
-- **8754**: It just happens that the Tenshodo is searching for a certain jewel that is very popular in the Near Eastern countries.
-- **8755**: What kind of gem is it? Hmmm... Well, they're thin, hexagonally shaped, and come in rare colors like carmine and cyan. I heard that rich people like to decorate their turbans with them.
-- **8756**: They even say that sometimes a strange light shoots from their centers, though I've never seen it happen.
-- **8757**: Luckily for you, we've been finding a lot of those jewels in the other towers of Pso'Xja.
-- **8758**: Unfortunately, some strange device in that place seems to weaken even the strongest of our members. That's where you come in.
-- **8759**: Now, if you were to find one of those and bring it back to me, I'm pretty sure I could convince the boss to allow you access to the central tower.
-- **8760**: If you want to have access to the deeper parts of Pso'Xja, bring me a jewel from the ruins and I'll see what I can do.
-- **8761**: Hmmm... This looks a lot like what we're dealing in, but the color just isn't right. We want something a little more "exotic" than the regular colored gems.
-- **8762**: Well, what do you know? This is exactly what we've been looking for.
-- **8763**: You know, you're not a bad treasure hunter. Did you ever think of joining the Tenshodo?
-- **8764**: Ah, but you'd probably get bored really quick. Anyway, take this pass. It will give you access to the more "sensitive" areas of the ruins.
-- **8765**: But I'll warn you one last time--the central tower ruins are still under investigation.
-- **8766**: Don't expect any search parties if you happen to get lost.
-- **8767**: Welcome to Neptune's Spire! Hm? Oh, I remember you. You're the one that brought us that gem from Pso'Xja. After you brought it in, we learned that... Wait, how do I know I can trust you?
-- **8768**: Can you keep a secret? [My lips are sealed./I can't guarantee anything.]
-- **8769**: Then the Tenshodo can't trust you with this info. See you around, [mister/lady].
-- **8770**: Welcome to Neptune's... Ah, look who's back. Did you find some glue for your loose lips?
-- **8771**: If I find out you told anyone about this, I'll... Well, you know what we'll do to you. Anyway, about those Pso'Xja gems...
-- **8772**: Well, it looks like those jewels aren't just any rocks that fell out of some hole in a mountain.
-- **8773**: Thanks to adventurers like you, we've learned that there are three types: gray, cyan, and carmine--and they all harbor some kind of strange energy that's not found anywhere else on Vana'diel.
-- **8774**: Also, we've recently received reports from our colleagues in Bastok that the chief Republican engineer, Cid, has been collecting the gems.
-- **8775**: Now, if we can find out what power those chips truly hold, the Tenshodo could make a killing!
-- **8776**: Oh, and of course you'll get your cut. You're not thinking we'd short-change you, are you?
-- **9039**: I remember you. Don't tell me that the $3 I gave you has been collecting dust in your Mog House.
-- **9040**: So, have you already been to the so-called "Shrouded Maw"? We've heard many different stories from adventurers who've tried to enter the strange portal that appears on that altar down there. According to some of our more reliable sources, the best way to get in is by using one of these $3 things.
-- **9041**: Now, I could give you one if you want, but it's going to cost you. Hey, what did you expect? Anyway, bring me $2, and I'll provide you with what you need. Trrrust me!
-- **9042**: I'm sorry, our next shipment of $5 won't be arriving until ( Earth time). Come back then and I'll get you the goods you're after.
-- **9043**: Welcome! What can I do for you today?
-- **9044**: Ah, $0. Here you are, [sir/ma'am]. Have a safe trip!
+- **7610**: Welcome to Neptune's Spire!
+- **7611**: Well? [Show me your goods./I'm fine./ ]
+- **7612**: Have a nice day.
+- **7613**: Ordinary travelers don't ask about Tenshodo. You really want to know? Fine, allow me to explain.
+- **7614**: Tenshodo is a, er, special trading organization, founded years ago by Grandmaster Aldo's father. We only conduct trades with our exclusive membership.
+- **7615**: Thanks to our monopolies on certain trade routes, we offer a wide selection of rare goods.
+- **7616**: Applicants for membership are required to obtain $1 from an active member in good standing, or acquire $6 from our branch in Bastok.
+- **7617**: Please show me your $1, or your $3, and I will issue $6.
+- **7618**: Yes, that $3 is valid. You are now a member of the Tenshodo. Feel free to browse our Jeuno headquarters, or our convenient Bastok branch.
+- **7619**: Yes, that $1 is valid. You are now a member of the Tenshodo. In addition to our Jeuno headquarters, we also have a branch in Bastok.
+- **7620**: Please take the door in the back. You may invite a new member with your $1, or you may dispose of it in any way you please.
+- **7621**: We look forward to serving you.
+- **8752**: What, you want to explore the towers of Pso'Xja? That shouldn't be a problem. We recently opened those ruins to all explorers.
+- **8753**: However, the Tenshodo is currently conducting an investigation on the deeper areas of the central tower, and we can't have pesky adventurers running around getting in our way.
+- **8754**: Though...if you were to scratch our backs, we wouldn't have any problems scratching yours.
+- **8755**: It just happens that the Tenshodo is searching for a certain jewel that is very popular in the Near Eastern countries.
+- **8756**: What kind of gem is it? Hmmm... Well, they're thin, hexagonally shaped, and come in rare colors like carmine and cyan. I heard that rich people like to decorate their turbans with them.
+- **8757**: They even say that sometimes a strange light shoots from their centers, though I've never seen it happen.
+- **8758**: Luckily for you, we've been finding a lot of those jewels in the other towers of Pso'Xja.
+- **8759**: Unfortunately, some strange device in that place seems to weaken even the strongest of our members. That's where you come in.
+- **8760**: Now, if you were to find one of those and bring it back to me, I'm pretty sure I could convince the boss to allow you access to the central tower.
+- **8761**: If you want to have access to the deeper parts of Pso'Xja, bring me a jewel from the ruins and I'll see what I can do.
+- **8762**: Hmmm... This looks a lot like what we're dealing in, but the color just isn't right. We want something a little more "exotic" than the regular colored gems.
+- **8763**: Well, what do you know? This is exactly what we've been looking for.
+- **8764**: You know, you're not a bad treasure hunter. Did you ever think of joining the Tenshodo?
+- **8765**: Ah, but you'd probably get bored really quick. Anyway, take this pass. It will give you access to the more "sensitive" areas of the ruins.
+- **8766**: But I'll warn you one last time--the central tower ruins are still under investigation.
+- **8767**: Don't expect any search parties if you happen to get lost.
+- **8768**: Welcome to Neptune's Spire! Hm? Oh, I remember you. You're the one that brought us that gem from Pso'Xja. After you brought it in, we learned that... Wait, how do I know I can trust you?
+- **8769**: Can you keep a secret? [My lips are sealed./I can't guarantee anything.]
+- **8770**: Then the Tenshodo can't trust you with this info. See you around, [mister/lady].
+- **8771**: Welcome to Neptune's... Ah, look who's back. Did you find some glue for your loose lips?
+- **8772**: If I find out you told anyone about this, I'll... Well, you know what we'll do to you. Anyway, about those Pso'Xja gems...
+- **8773**: Well, it looks like those jewels aren't just any rocks that fell out of some hole in a mountain.
+- **8774**: Thanks to adventurers like you, we've learned that there are three types: gray, cyan, and carmine--and they all harbor some kind of strange energy that's not found anywhere else on Vana'diel.
+- **8775**: Also, we've recently received reports from our colleagues in Bastok that the chief Republican engineer, Cid, has been collecting the gems.
+- **8776**: Now, if we can find out what power those chips truly hold, the Tenshodo could make a killing!
+- **8777**: Oh, and of course you'll get your cut. You're not thinking we'd short-change you, are you?
+- **9040**: I remember you. Don't tell me that the $3 I gave you has been collecting dust in your Mog House.
+- **9041**: So, have you already been to the so-called "Shrouded Maw"? We've heard many different stories from adventurers who've tried to enter the strange portal that appears on that altar down there. According to some of our more reliable sources, the best way to get in is by using one of these $3 things.
+- **9042**: Now, I could give you one if you want, but it's going to cost you. Hey, what did you expect? Anyway, bring me $2, and I'll provide you with what you need. Trrrust me!
+- **9043**: I'm sorry, our next shipment of $5 won't be arriving until ( Earth time). Come back then and I'll get you the goods you're after.
+- **9044**: Welcome! What can I do for you today?
+- **9045**: Ah, $0. Here you are, [sir/ma'am]. Have a safe trip!
 
 ## Events
 
@@ -385,35 +385,35 @@
   2: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8751*)
+  5: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8752*)
     → "What, you want to explore the towers of Pso'Xja? That shouldn't be a problem. We recently opened those ruins to all explorers."
   6: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x000F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8752*)
+  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8753*)
     → "However, the Tenshodo is currently conducting an investigation on the deeper areas of the central tower, and we can't have pesky adventurers running around getting in our way."
   9: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0022 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 11: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8753*)
+ 11: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8754*)
     → "Though...if you were to scratch our backs, we wouldn't have any problems scratching yours."
  12: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8754*)
+ 13: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8755*)
     → "It just happens that the Tenshodo is searching for a certain jewel that is very popular in the Near Eastern countries."
  14: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8755*)
+ 15: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8756*)
     → "What kind of gem is it? Hmmm... Well, they're thin, hexagonally shaped, and come in rare colors like carmine and cyan. I heard that rich people like to decorate their turbans with them."
  16: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x003D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 18: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=8756*)
+ 18: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
     → "They even say that sometimes a strange light shoots from their centers, though I've never seen it happen."
  19: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
+ 20: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
     → "Luckily for you, we've been finding a lot of those jewels in the other towers of Pso'Xja."
  21: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
+ 22: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8759*)
     → "Unfortunately, some strange device in that place seems to weaken even the strongest of our members. That's where you come in."
  23: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0058 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
- 25: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8759*)
+ 25: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8760*)
     → "Now, if you were to find one of those and bring it back to me, I'm pretty sure I could convince the boss to allow you access to the central tower."
  26: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x006B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
@@ -444,7 +444,7 @@
   0: 0x007A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0080 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8760*)
+  3: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8761*)
     → "If you want to have access to the deeper parts of Pso'Xja, bring me a jewel from the ruins and I'll see what I can do."
   4: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0085 [0x21] END_EVENT
@@ -474,7 +474,7 @@
   0: 0x0087 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x008C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x008D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8761*)
+  3: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8762*)
     → "Hmmm... This looks a lot like what we're dealing in, but the color just isn't right. We want something a little more "exotic" than the regular colored gems."
   4: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0092 [0x21] END_EVENT
@@ -511,7 +511,7 @@
   3: 0x009C [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8762*)
+  6: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8763*)
     → "Well, what do you know? This is exactly what we've been looking for."
   7: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A7 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x00D7
@@ -522,16 +522,16 @@
     → "Obtained $0 gil."
  13: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00CA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 15: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8763*)
+ 15: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8764*)
     → "You know, you're not a bad treasure hunter. Did you ever think of joining the Tenshodo?"
  16: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8764*)
+ 17: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8765*)
     → "Ah, but you'd probably get bored really quick. Anyway, take this pass. It will give you access to the more "sensitive" areas of the ruins."
  18: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8765*)
+ 19: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8766*)
     → "But I'll warn you one last time--the central tower ruins are still under investigation."
  20: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8766*)
+ 21: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8767*)
     → "Don't expect any search parties if you happen to get lost."
  22: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00E7 [0x21] END_EVENT
@@ -575,15 +575,15 @@
   3: 0x00F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   5: 0x0101 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0110
-  6: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=8767*)
+  6: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=8768*)
     → "Welcome to Neptune's Spire! Hm? Oh, I remember you. You're the one that brought us that gem from Pso'Xja. After you brought it in, we learned that... Wait, how do I know I can trust you?"
   7: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x010D [0x01] GOTO 0x011C
   9: 0x0110 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 10: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=8770*)
+ 10: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=8771*)
     → "Welcome to Neptune's... Ah, look who's back. Did you find some glue for your loose lips?"
  11: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8771*)
+ 12: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8772*)
     → "If I find out you told anyone about this, I'll... Well, you know what we'll do to you. Anyway, about those Pso'Xja gems..."
  13: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0119 [0x01] GOTO 0x013F
@@ -591,7 +591,7 @@
 SUBROUTINE_011C:
  15: 0x011C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=50*
  16: 0x012B [0x06] Work_Zone[1] = 0
- 17: 0x012E [0x24] CREATE_DIALOG(message_id=8768*, default_option=1*, option_flags=0*)
+ 17: 0x012E [0x24] CREATE_DIALOG(message_id=8769*, default_option=1*, option_flags=0*)
     → "Can you keep a secret? [My lips are sealed./I can't guarantee anything.]"
  18: 0x0135 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0136 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0192
@@ -599,29 +599,29 @@ SUBROUTINE_011C:
 
 SUBROUTINE_013F:
  21: 0x013F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 22: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8772*)
+ 22: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8773*)
     → "Well, it looks like those jewels aren't just any rocks that fell out of some hole in a mountain."
  23: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0152 [0x03] Work_Zone[2] = 1692*
  25: 0x0157 [0x03] Work_Zone[3] = 1693*
  26: 0x015C [0x03] Work_Zone[4] = 1694*
- 27: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8773*)
+ 27: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
     → "Thanks to adventurers like you, we've learned that there are three types: gray, cyan, and carmine--and they all harbor some kind of strange energy that's not found anywhere else on Vana'diel."
  28: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0165 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 30: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
+ 30: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
     → "Also, we've recently received reports from our colleagues in Bastok that the chief Republican engineer, Cid, has been collecting the gems."
  31: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
+ 32: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8776*)
     → "Now, if we can find out what power those chips truly hold, the Tenshodo could make a killing!"
  33: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x017C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 35: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=8776*)
+ 35: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=8777*)
     → "Oh, and of course you'll get your cut. You're not thinking we'd short-change you, are you?"
  36: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x018F [0x01] GOTO 0x01A6
  38: 0x0192 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01A6
- 39: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=8769*)
+ 39: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=8770*)
     → "Then the Tenshodo can't trust you with this info. See you around, [mister/lady]."
  40: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x019E [0x03] Work_Zone[1] = 1*
@@ -664,41 +664,41 @@ SUBROUTINE_01A6:
   0: 0x01A8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x01AA [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x01AB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+  3: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "Welcome to Neptune's Spire!"
   4: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B4 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x01CF
-  6: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+  6: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I remember you. Don't tell me that the $3 I gave you has been collecting dust in your Mog House."
   7: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+  8: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "So, have you already been to the so-called "Shrouded Maw"? We've heard many different stories from adventurers who've tried to enter the strange portal that appears on that altar down there. According to some of our more reliable sources, the best way to get in is by using one of these $3 things."
   9: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
+ 10: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
     → "Now, I could give you one if you want, but it's going to cost you. Hey, what did you expect? Anyway, bring me $2, and I'll provide you with what you need. Trrrust me!"
  11: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
+ 12: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9044*)
     → "Welcome! What can I do for you today?"
  13: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01CC [0x01] GOTO 0x01E2
  15: 0x01CF [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x01E2
- 16: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+ 16: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "I'm sorry, our next shipment of $5 won't be arriving until ( Earth time). Come back then and I'll get you the goods you're after."
  17: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
+ 18: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9044*)
     → "Welcome! What can I do for you today?"
  19: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01DF [0x01] GOTO 0x01E2
 
 SUBROUTINE_01E2:
- 21: 0x01E2 [0x24] CREATE_DIALOG(message_id=7610*, default_option=1*, option_flags=Work_Zone[2])
+ 21: 0x01E2 [0x24] CREATE_DIALOG(message_id=7611*, default_option=1*, option_flags=Work_Zone[2])
     → "Well? [Show me your goods./I'm fine./ ]"
  22: 0x01E9 [0x25] WAIT_DIALOG_SELECT()
  23: 0x01EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FA
  24: 0x01F2 [0x03] Work_Zone[1] = 0*
  25: 0x01F7 [0x01] GOTO 0x0241
  26: 0x01FA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x020E
- 27: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+ 27: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
     → "Have a nice day."
  28: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0206 [0x03] Work_Zone[1] = 1*
@@ -707,19 +707,19 @@ SUBROUTINE_01E2:
  32: 0x0216 [0x03] Work_Zone[2] = 121*
  33: 0x021B [0x03] Work_Zone[3] = 548*
  34: 0x0220 [0x03] Work_Zone[4] = 118*
- 35: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
+ 35: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "Ordinary travelers don't ask about Tenshodo. You really want to know? Fine, allow me to explain."
  36: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 37: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
     → "Tenshodo is a, er, special trading organization, founded years ago by Grandmaster Aldo's father. We only conduct trades with our exclusive membership."
  38: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
+ 39: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "Thanks to our monopolies on certain trade routes, we offer a wide selection of rare goods."
  40: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
+ 41: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
     → "Applicants for membership are required to obtain $1 from an active member in good standing, or acquire $6 from our branch in Bastok."
  42: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
+ 43: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
     → "Please show me your $1, or your $3, and I will issue $6."
  44: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0239 [0x03] Work_Zone[1] = 2*
@@ -754,13 +754,13 @@ SUBROUTINE_0241:
   0: 0x0243 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0245 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0246 [0x03] Work_Zone[3] = 548*
-  3: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
+  3: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
     → "Yes, that $1 is valid. You are now a member of the Tenshodo. In addition to our Jeuno headquarters, we also have a branch in Bastok."
   4: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+  5: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
     → "Please take the door in the back. You may invite a new member with your $1, or you may dispose of it in any way you please."
   6: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  7: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "We look forward to serving you."
   8: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0257 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -794,13 +794,13 @@ SUBROUTINE_0241:
   1: 0x026C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x026D [0x03] Work_Zone[2] = 121*
   3: 0x0272 [0x03] Work_Zone[3] = 548*
-  4: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
+  4: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
     → "Yes, that $3 is valid. You are now a member of the Tenshodo. Feel free to browse our Jeuno headquarters, or our convenient Bastok branch."
   5: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+  6: 0x027B [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
     → "Please take the door in the back. You may invite a new member with your $1, or you may dispose of it in any way you please."
   7: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  8: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "We look forward to serving you."
   9: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0283 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -830,7 +830,7 @@ SUBROUTINE_0241:
 ```
   0: 0x0296 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0297 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=9044*)
+  2: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=9045*)
     → "Ah, $0. Here you are, [sir/ma'am]. Have a safe trip!"
   3: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02A0 [0x21] END_EVENT

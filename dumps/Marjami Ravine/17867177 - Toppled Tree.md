@@ -74,32 +74,32 @@
 |       5 | 0x0007      |           7 |
 |       6 | 0x000B      |          11 |
 |       7 | 0x000E      |          14 |
-|       8 | 0x1E31      |        7729 |
+|       8 | 0x1E32      |        7730 |
 |       9 | 0x086D      |        2157 |
-|      10 | 0x1E32      |        7730 |
-|      11 | 0x1E33      |        7731 |
-|      12 | 0x1E34      |        7732 |
-|      13 | 0x1E35      |        7733 |
-|      14 | 0x1E36      |        7734 |
-|      15 | 0x1E37      |        7735 |
-|      16 | 0x1E38      |        7736 |
-|      17 | 0x1E39      |        7737 |
-|      18 | 0x1E3A      |        7738 |
-|      19 | 0x1E3B      |        7739 |
-|      20 | 0x1E3C      |        7740 |
-|      21 | 0x1E3D      |        7741 |
-|      22 | 0x1E3E      |        7742 |
-|      23 | 0x1E3F      |        7743 |
-|      24 | 0x1E41      |        7745 |
-|      25 | 0x1E42      |        7746 |
-|      26 | 0x1E43      |        7747 |
-|      27 | 0x1E44      |        7748 |
-|      28 | 0x1E45      |        7749 |
-|      29 | 0x1E46      |        7750 |
-|      30 | 0x1E47      |        7751 |
-|      31 | 0x1E48      |        7752 |
-|      32 | 0x1E5B      |        7771 |
-|      33 | 0x1E5C      |        7772 |
+|      10 | 0x1E33      |        7731 |
+|      11 | 0x1E34      |        7732 |
+|      12 | 0x1E35      |        7733 |
+|      13 | 0x1E36      |        7734 |
+|      14 | 0x1E37      |        7735 |
+|      15 | 0x1E38      |        7736 |
+|      16 | 0x1E39      |        7737 |
+|      17 | 0x1E3A      |        7738 |
+|      18 | 0x1E3B      |        7739 |
+|      19 | 0x1E3C      |        7740 |
+|      20 | 0x1E3D      |        7741 |
+|      21 | 0x1E3E      |        7742 |
+|      22 | 0x1E3F      |        7743 |
+|      23 | 0x1E40      |        7744 |
+|      24 | 0x1E42      |        7746 |
+|      25 | 0x1E43      |        7747 |
+|      26 | 0x1E44      |        7748 |
+|      27 | 0x1E45      |        7749 |
+|      28 | 0x1E46      |        7750 |
+|      29 | 0x1E47      |        7751 |
+|      30 | 0x1E48      |        7752 |
+|      31 | 0x1E49      |        7753 |
+|      32 | 0x1E5C      |        7772 |
+|      33 | 0x1E5D      |        7773 |
 |      34 | 0x4176E     |      268142 |
 |      35 | 0x16824     |       92196 |
 |      36 | 0xFFFF63BC  |  4294927292 |
@@ -148,31 +148,31 @@
 
 ## String References
 
-- **7729**: The Velkk have a strong presence here. My job is to keep them out of our affairs.
-- **7730**: If only there was a registered pioneer with $6 that I could count on--then my job would be easier by malms.
-- **7731**: Hold there, pioneer--I'm in need of your aid. Have you ever had the misfortune of squaring off against a Velkk?
-- **7732**: Foul beasts, those. Stinky and violent, with an unpredictable streak at that. Maybe a bit stupid, but it's only a matter of time before they turn their spears to Adoulin.
-- **7733**: That's why the coalitions put me here to "keep an eye on them"...and I've noticed something startling.
-- **7734**: They're able to use the ivy that snakes along the side of the cliffs here in Marjami Ravine to scale vertical walls, enabling them to move almost effortlessly from place to place!
-- **7735**: I figured that if those brutes can do it, it can't be too hard, right? But the ivy is covered with all manner of thorns and briars, making climbing an exercise in futility.
-- **7736**: And then something came to me; what if we could make gloves out of the hides they use? Then we could keep our hands safe for sure.
-- **7737**: I assume I don't have to spell this out, but just in case--I want you to raid one of their encampments and "procure" some of their leather.
-- **7738**: On multiple occasions I've seen leather scraps strewn about the outskirts of the encampment of theirs to the southwest.
-- **7739**: This'll be a dangerous task, to be sure, but I'm sure you've seen worse during your extensive travels of the Middle Lands.
-- **7740**: I'd go myself, but I've been commanded to stay at this post--so help a Galka out, will you?
-- **7741**: The Velkk process most of their leather in an encampment to the southwest. I'd bet my tunic that you'll find some quality material there.
-- **7742**: If I'm right, we'll be able to craft us some gloves that'll let us climb the ivy ourselves.
-- **7743**: The thorns should pose no issue then. So get out there and bring me back that hide!
-- **7745**: You're back! Did you get what I asked for? Yes, this is some high-quality leather.
-- **7746**: Soft to the touch, yet firm and resilient. No wonder they were able to climb that ivy like you or I would climb rope!
-- **7747**: I'll just have to make us a couple of pairs of gloves out of this and we'll be scaling the cliffs in no time!
-- **7748**: Talk about perfect! Udip Ferawoh said she'd take over my post for a little bit in case I needed a break--which I'll use to give this another go!
-- **7749**: I've got to make some preparations first, though.
-- **7750**: You interested in coming, too? Once I'm ready, I'll be heading off to the southwest of here, where the closest patch of ivy grows. Maybe I'll see you there.
-- **7751**: I'm going to try my hand at climbing the ivy again now that I can make those gloves. If you've got a spare moment, I'd like for you to be there, too.
-- **7752**: The closest place to try them out is southwest of here. By Altana, this is going to be quite the ride!
-- **7771**: Putting those skills you learned in that Goddessforsaken hole to good use? Must come in handy during your treks around Eastern Ulbuka.
-- **7772**: I know that I've got a ways to go--but I'll get there someday.
+- **7730**: The Velkk have a strong presence here. My job is to keep them out of our affairs.
+- **7731**: If only there was a registered pioneer with $6 that I could count on--then my job would be easier by malms.
+- **7732**: Hold there, pioneer--I'm in need of your aid. Have you ever had the misfortune of squaring off against a Velkk?
+- **7733**: Foul beasts, those. Stinky and violent, with an unpredictable streak at that. Maybe a bit stupid, but it's only a matter of time before they turn their spears to Adoulin.
+- **7734**: That's why the coalitions put me here to "keep an eye on them"...and I've noticed something startling.
+- **7735**: They're able to use the ivy that snakes along the side of the cliffs here in Marjami Ravine to scale vertical walls, enabling them to move almost effortlessly from place to place!
+- **7736**: I figured that if those brutes can do it, it can't be too hard, right? But the ivy is covered with all manner of thorns and briars, making climbing an exercise in futility.
+- **7737**: And then something came to me; what if we could make gloves out of the hides they use? Then we could keep our hands safe for sure.
+- **7738**: I assume I don't have to spell this out, but just in case--I want you to raid one of their encampments and "procure" some of their leather.
+- **7739**: On multiple occasions I've seen leather scraps strewn about the outskirts of the encampment of theirs to the southwest.
+- **7740**: This'll be a dangerous task, to be sure, but I'm sure you've seen worse during your extensive travels of the Middle Lands.
+- **7741**: I'd go myself, but I've been commanded to stay at this post--so help a Galka out, will you?
+- **7742**: The Velkk process most of their leather in an encampment to the southwest. I'd bet my tunic that you'll find some quality material there.
+- **7743**: If I'm right, we'll be able to craft us some gloves that'll let us climb the ivy ourselves.
+- **7744**: The thorns should pose no issue then. So get out there and bring me back that hide!
+- **7746**: You're back! Did you get what I asked for? Yes, this is some high-quality leather.
+- **7747**: Soft to the touch, yet firm and resilient. No wonder they were able to climb that ivy like you or I would climb rope!
+- **7748**: I'll just have to make us a couple of pairs of gloves out of this and we'll be scaling the cliffs in no time!
+- **7749**: Talk about perfect! Udip Ferawoh said she'd take over my post for a little bit in case I needed a break--which I'll use to give this another go!
+- **7750**: I've got to make some preparations first, though.
+- **7751**: You interested in coming, too? Once I'm ready, I'll be heading off to the southwest of here, where the closest patch of ivy grows. Maybe I'll see you there.
+- **7752**: I'm going to try my hand at climbing the ivy again now that I can make those gloves. If you've got a spare moment, I'd like for you to be there, too.
+- **7753**: The closest place to try them out is southwest of here. By Altana, this is going to be quite the ride!
+- **7772**: Putting those skills you learned in that Goddessforsaken hole to good use? Must come in handy during your treks around Eastern Ulbuka.
+- **7773**: I know that I've got a ways to go--but I'll get there someday.
 
 ## Events
 
@@ -862,11 +862,11 @@
   1: 0x01CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01CD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
-  4: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+  4: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "The Velkk have a strong presence here. My job is to keep them out of our affairs."
   5: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01D9 [0x03] Work_Zone[2] = 2157*
-  7: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
+  7: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "If only there was a registered pioneer with $6 that I could count on--then my job would be easier by malms."
   8: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)
@@ -907,44 +907,44 @@
   2: 0x01F1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
-  5: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
+  5: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
     → "Hold there, pioneer--I'm in need of your aid. Have you ever had the misfortune of squaring off against a Velkk?"
   6: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
+  7: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
     → "Foul beasts, those. Stinky and violent, with an unpredictable streak at that. Maybe a bit stupid, but it's only a matter of time before they turn their spears to Adoulin."
   8: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0202 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x03)
  10: 0x0209 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)
- 11: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
+ 11: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
     → "That's why the coalitions put me here to "keep an eye on them"...and I've noticed something startling."
  12: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0214 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x05)
  14: 0x021B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x0F)
- 15: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
+ 15: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7735*)
     → "They're able to use the ivy that snakes along the side of the cliffs here in Marjami Ravine to scale vertical walls, enabling them to move almost effortlessly from place to place!"
  16: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7735*)
+ 17: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7736*)
     → "I figured that if those brutes can do it, it can't be too hard, right? But the ivy is covered with all manner of thorns and briars, making climbing an exercise in futility."
  18: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x022A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x10)
  20: 0x0231 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x11)
- 21: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7736*)
+ 21: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7737*)
     → "And then something came to me; what if we could make gloves out of the hides they use? Then we could keep our hands safe for sure."
  22: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x023C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x12)
  24: 0x0243 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x08)
- 25: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=7737*)
+ 25: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
     → "I assume I don't have to spell this out, but just in case--I want you to raid one of their encampments and "procure" some of their leather."
  26: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
+ 27: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=7739*)
     → "On multiple occasions I've seen leather scraps strewn about the outskirts of the encampment of theirs to the southwest."
  28: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7739*)
+ 29: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7740*)
     → "This'll be a dangerous task, to be sure, but I'm sure you've seen worse during your extensive travels of the Middle Lands."
  30: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0256 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x09)
  32: 0x025D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x0A)
- 33: 0x0264 [0x1D] PRINT_EVENT_MESSAGE(message_id=7740*)
+ 33: 0x0264 [0x1D] PRINT_EVENT_MESSAGE(message_id=7741*)
     → "I'd go myself, but I've been commanded to stay at this post--so help a Galka out, will you?"
  34: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0268 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x0B)
@@ -978,13 +978,13 @@
   1: 0x0278 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0279 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x027A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
-  4: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=7741*)
+  4: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
     → "The Velkk process most of their leather in an encampment to the southwest. I'd bet my tunic that you'll find some quality material there."
   5: 0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
+  6: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=7743*)
     → "If I'm right, we'll be able to craft us some gloves that'll let us climb the ivy ourselves."
   7: 0x0288 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7743*)
+  8: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
     → "The thorns should pose no issue then. So get out there and bring me back that hide!"
   9: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x028D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)
@@ -1023,30 +1023,30 @@
   2: 0x029E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x029F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02A0 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x0C)
-  5: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
+  5: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
     → "You're back! Did you get what I asked for? Yes, this is some high-quality leather."
   6: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02AB [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
   8: 0x02B1 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x18)
-  9: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
+  9: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
     → "Soft to the touch, yet firm and resilient. No wonder they were able to climb that ivy like you or I would climb rope!"
  10: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
+ 11: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
     → "I'll just have to make us a couple of pairs of gloves out of this and we'll be scaling the cliffs in no time!"
  12: 0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x02C0 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
  14: 0x02C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x0F)
- 15: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
+ 15: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
     → "Talk about perfect! Udip Ferawoh said she'd take over my post for a little bit in case I needed a break--which I'll use to give this another go!"
  16: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x02D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x10)
  18: 0x02D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x11)
- 19: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+ 19: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "I've got to make some preparations first, though."
  20: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x02E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x12)
  22: 0x02EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
- 23: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
+ 23: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
     → "You interested in coming, too? Once I'm ready, I'll be heading off to the southwest of here, where the closest patch of ivy grows. Maybe I'll see you there."
  24: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x02F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)
@@ -1080,10 +1080,10 @@
   1: 0x0305 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0306 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0307 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
-  4: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
+  4: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7752*)
     → "I'm going to try my hand at climbing the ivy again now that I can make those gloves. If you've got a spare moment, I'd like for you to be there, too."
   5: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0312 [0x1D] PRINT_EVENT_MESSAGE(message_id=7752*)
+  6: 0x0312 [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
     → "The closest place to try them out is southwest of here. By Altana, this is going to be quite the ride!"
   7: 0x0315 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0316 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)
@@ -1139,10 +1139,10 @@
   1: 0x0327 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0328 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0329 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
-  4: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
+  4: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
     → "Putting those skills you learned in that Goddessforsaken hole to good use? Must come in handy during your treks around Eastern Ulbuka."
   5: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
+  6: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
     → "I know that I've got a ways to go--but I'll get there someday."
   7: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0338 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)

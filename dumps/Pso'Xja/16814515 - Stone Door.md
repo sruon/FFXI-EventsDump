@@ -21,8 +21,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C62      |        7266 |
-|       1 | 0x1C68      |        7272 |
+|       0 | 0x1C63      |        7267 |
+|       1 | 0x1C69      |        7273 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C8      |         200 |
@@ -31,13 +31,13 @@
 |       7 | 0x00A0      |         160 |
 |       8 | 0x00B4      |         180 |
 |       9 | 0x0096      |         150 |
-|      10 | 0x1C69      |        7273 |
+|      10 | 0x1C6A      |        7274 |
 
 ## String References
 
-- **7266**: The trap on the door is broken.
-- **7272**: Enter through the door? [Yes./No.]
-- **7273**: Exit through the door? [Yes./No.]
+- **7267**: The trap on the door is broken.
+- **7273**: Enter through the door? [Yes./No.]
+- **7274**: Exit through the door? [Yes./No.]
 
 ## Events
 
@@ -95,10 +95,10 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7266*]:
+  1: 0x0003 [0x48] [System] [7267*]:
     → "The trap on the door is broken."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7272*, default_option=1*, option_flags=0*)
+  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
     → "Enter through the door? [Yes./No.]"
   4: 0x000E [0x25] WAIT_DIALOG_SELECT()
   5: 0x000F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B3
@@ -166,7 +166,7 @@ SUBROUTINE_00BE:
 
 ```
   0: 0x00C2 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00C4 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x00C4 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Exit through the door? [Yes./No.]"
   2: 0x00CB [0x25] WAIT_DIALOG_SELECT()
   3: 0x00CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0170

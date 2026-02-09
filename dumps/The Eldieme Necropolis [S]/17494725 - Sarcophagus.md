@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DBE      |        7614 |
+|       0 | 0x1DBF      |        7615 |
 
 ## String References
 
-- **7614**: You find a piece of the map lying on top of the sarcophagus!
+- **7615**: You find a piece of the map lying on top of the sarcophagus!
 
 ## Events
 
@@ -70,7 +70,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [7614*]:
+  1: 0x0002 [0x48] [System] [7615*]:
     → "You find a piece of the map lying on top of the sarcophagus!"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x21] END_EVENT

@@ -117,14 +117,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DC7      |        7623 |
+|       0 | 0x1DC8      |        7624 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x005A      |          90 |
 |       5 | 0x003C      |          60 |
 |       6 | 0x00C9      |         201 |
-|       7 | 0x2036      |        8246 |
+|       7 | 0x2037      |        8247 |
 |       8 | 0x00EA      |         234 |
 |       9 | 0x5A461     |      369761 |
 |      10 | 0xFFFC8C39  |  4294741049 |
@@ -310,9 +310,9 @@
 |     190 | 0x5A6B7     |      370359 |
 |     191 | 0xFFFC8D30  |  4294741296 |
 |     192 | 0x2363      |        9059 |
-|     193 | 0x1F8B      |        8075 |
-|     194 | 0x1F8A      |        8074 |
-|     195 | 0x1F89      |        8073 |
+|     193 | 0x1F8C      |        8076 |
+|     194 | 0x1F8B      |        8075 |
+|     195 | 0x1F8A      |        8074 |
 |     196 | 0x0013      |          19 |
 |     197 | 0x119C5     |       72133 |
 |     198 | 0xFFFFFFFC  |  4294967292 |
@@ -328,20 +328,20 @@
 |     208 | 0x00BF      |         191 |
 |     209 | 0x0090      |         144 |
 |     210 | 0x00B4      |         180 |
-|     211 | 0x1CB5      |        7349 |
-|     212 | 0x1CB6      |        7350 |
-|     213 | 0x1CB8      |        7352 |
-|     214 | 0x1CB9      |        7353 |
-|     215 | 0x1CBA      |        7354 |
-|     216 | 0x1CBB      |        7355 |
+|     211 | 0x1CB6      |        7350 |
+|     212 | 0x1CB7      |        7351 |
+|     213 | 0x1CB9      |        7353 |
+|     214 | 0x1CBA      |        7354 |
+|     215 | 0x1CBB      |        7355 |
+|     216 | 0x1CBC      |        7356 |
 |     217 | 0x0102      |         258 |
 |     218 | 0x0202      |         514 |
 |     219 | 0x0156      |         342 |
 
 ## String References
 
-- **7623**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **8246**: The sandworm swallows you whole!
+- **7624**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **8247**: The sandworm swallows you whole!
 
 ## Events
 
@@ -415,7 +415,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7623*]:
+  1: 0x0003 [0x48] [System] [7624*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0017 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0033
@@ -454,7 +454,7 @@
 
 ```
   0: 0x0068 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0069 [0x48] [System] [8246*]:
+  1: 0x0069 [0x48] [System] [8247*]:
     → "The sandworm swallows you whole!"
   2: 0x006C [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x007D [0x1C] WAIT(60* ticks)
@@ -2964,12 +2964,12 @@ SUBROUTINE_0A71:
   3: 0x0B64 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[4]
   4: 0x0B69 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
   5: 0x0B6E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0B81
-  6: 0x0B76 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+  6: 0x0B76 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
   7: 0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B7E [0x01] GOTO 0x0C87
   9: 0x0B81 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0B94
- 10: 0x0B89 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 10: 0x0B89 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  11: 0x0B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0B91 [0x01] GOTO 0x0C87
@@ -2977,22 +2977,22 @@ SUBROUTINE_0A71:
  14: 0x0B9C [0x03] Work_Zone[2] = 0*
  15: 0x0BA1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0BC7
  16: 0x0BA9 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0BBC
- 17: 0x0BB1 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 17: 0x0BB1 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "You say you are a representative of the [Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst]...? Perhaps it is time I put my training to the test..."
  18: 0x0BB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0BB9 [0x01] GOTO 0x0BC4
- 20: 0x0BBC [0x2B] Dalzakk (ID: 17179272/0x01062288) [8073*]:
+ 20: 0x0BBC [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  21: 0x0BC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0BC4:
  22: 0x0BC4 [0x01] GOTO 0x0BE2
  23: 0x0BC7 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0BDA
- 24: 0x0BCF [0x2B] Dalzakk (ID: 17179272/0x01062288) [8073*]:
+ 24: 0x0BCF [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  25: 0x0BD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0BD7 [0x01] GOTO 0x0BE2
- 27: 0x0BDA [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 27: 0x0BDA [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  28: 0x0BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3002,22 +3002,22 @@ SUBROUTINE_0BE2:
  31: 0x0BED [0x03] Work_Zone[2] = 1*
  32: 0x0BF2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0C18
  33: 0x0BFA [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C0D
- 34: 0x0C02 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 34: 0x0C02 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "You say you are a representative of the [Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst]...? Perhaps it is time I put my training to the test..."
  35: 0x0C09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0C0A [0x01] GOTO 0x0C15
- 37: 0x0C0D [0x2B] Dalzakk (ID: 17179272/0x01062288) [8073*]:
+ 37: 0x0C0D [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  38: 0x0C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C15:
  39: 0x0C15 [0x01] GOTO 0x0C33
  40: 0x0C18 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0C2B
- 41: 0x0C20 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8073*]:
+ 41: 0x0C20 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  42: 0x0C27 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0C28 [0x01] GOTO 0x0C33
- 44: 0x0C2B [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 44: 0x0C2B [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  45: 0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3027,22 +3027,22 @@ SUBROUTINE_0C33:
  48: 0x0C3E [0x03] Work_Zone[2] = 2*
  49: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0C69
  50: 0x0C4B [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0C5E
- 51: 0x0C53 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
+ 51: 0x0C53 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
     → "You say you are a representative of the [Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst]...? Perhaps it is time I put my training to the test..."
  52: 0x0C5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0C5B [0x01] GOTO 0x0C66
- 54: 0x0C5E [0x2B] Dalzakk (ID: 17179272/0x01062288) [8073*]:
+ 54: 0x0C5E [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  55: 0x0C65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C66:
  56: 0x0C66 [0x01] GOTO 0x0C84
  57: 0x0C69 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0C7C
- 58: 0x0C71 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8073*]:
+ 58: 0x0C71 [0x2B] Dalzakk (ID: 17179272/0x01062288) [8074*]:
     → "As you can see, I still have many malms to tread before my training is complete. Perhaps one day our paths will cross again on the fields of battle. Until then, friend."
  59: 0x0C78 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0C79 [0x01] GOTO 0x0C84
- 61: 0x0C7C [0x2B] Dalzakk (ID: 17179272/0x01062288) [8075*]:
+ 61: 0x0C7C [0x2B] Dalzakk (ID: 17179272/0x01062288) [8076*]:
     → "What is a lone Galka doing in a place like this? You are not that perceptive, are you?"
  62: 0x0C83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3577,17 +3577,17 @@ SUBROUTINE_10B8:
 
 SUBROUTINE_10B9:
 109: 0x10B9 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x10CC
-110: 0x10C1 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7349*]:
+110: 0x10C1 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7350*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x10C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x10C9 [0x01] GOTO 0x10F2
 113: 0x10CC [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x10DF
-114: 0x10D4 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7349*]:
+114: 0x10D4 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7350*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x10DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x10DC [0x01] GOTO 0x10F2
 117: 0x10DF [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x10F2
-118: 0x10E7 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7349*]:
+118: 0x10E7 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7350*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x10EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x10EF [0x01] GOTO 0x10F2
@@ -3597,17 +3597,17 @@ SUBROUTINE_10F2:
 
 SUBROUTINE_10F3:
 122: 0x10F3 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x1106
-123: 0x10FB [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7350*]:
+123: 0x10FB [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7351*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x1102 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x1103 [0x01] GOTO 0x112C
 126: 0x1106 [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x1119
-127: 0x110E [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7350*]:
+127: 0x110E [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7351*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x1115 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x1116 [0x01] GOTO 0x112C
 130: 0x1119 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x112C
-131: 0x1121 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7350*]:
+131: 0x1121 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7351*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x1128 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x1129 [0x01] GOTO 0x112C
@@ -3617,17 +3617,17 @@ SUBROUTINE_112C:
 
 SUBROUTINE_112D:
 135: 0x112D [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x1140
-136: 0x1135 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7352*]:
+136: 0x1135 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7353*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x113C [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x113D [0x01] GOTO 0x1166
 139: 0x1140 [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x1153
-140: 0x1148 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7352*]:
+140: 0x1148 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7353*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x114F [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x1150 [0x01] GOTO 0x1166
 143: 0x1153 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x1166
-144: 0x115B [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7352*]:
+144: 0x115B [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7353*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x1162 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x1163 [0x01] GOTO 0x1166
@@ -3637,17 +3637,17 @@ SUBROUTINE_1166:
 
 SUBROUTINE_1167:
 148: 0x1167 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x117A
-149: 0x116F [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7353*]:
+149: 0x116F [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7354*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x1176 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x1177 [0x01] GOTO 0x11A0
 152: 0x117A [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x118D
-153: 0x1182 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7353*]:
+153: 0x1182 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7354*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x1189 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x118A [0x01] GOTO 0x11A0
 156: 0x118D [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x11A0
-157: 0x1195 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7353*]:
+157: 0x1195 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7354*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x119C [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x119D [0x01] GOTO 0x11A0
@@ -3657,17 +3657,17 @@ SUBROUTINE_11A0:
 
 SUBROUTINE_11A1:
 161: 0x11A1 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x11B4
-162: 0x11A9 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7354*]:
+162: 0x11A9 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7355*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x11B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x11B1 [0x01] GOTO 0x11DA
 165: 0x11B4 [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x11C7
-166: 0x11BC [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7354*]:
+166: 0x11BC [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7355*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x11C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x11C4 [0x01] GOTO 0x11DA
 169: 0x11C7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x11DA
-170: 0x11CF [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7354*]:
+170: 0x11CF [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7355*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x11D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x11D7 [0x01] GOTO 0x11DA
@@ -3677,17 +3677,17 @@ SUBROUTINE_11DA:
 
 SUBROUTINE_11DB:
 174: 0x11DB [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x11EE
-175: 0x11E3 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7355*]:
+175: 0x11E3 [0x2B] Alreage, R.K. (ID: 17179313/0x010622B1) [7356*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x11EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x11EB [0x01] GOTO 0x1214
 178: 0x11EE [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x1201
-179: 0x11F6 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7355*]:
+179: 0x11F6 [0x2B] Dancing Thunder, L.C. (ID: 17179314/0x010622B2) [7356*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x11FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x11FE [0x01] GOTO 0x1214
 182: 0x1201 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x1214
-183: 0x1209 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7355*]:
+183: 0x1209 [0x2B] Hdya Mhirako, M.C. (ID: 17179315/0x010622B3) [7356*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x1210 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x1211 [0x01] GOTO 0x1214

@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CE2      |        7394 |
-|       1 | 0x1CE3      |        7395 |
-|       2 | 0x1CE4      |        7396 |
+|       0 | 0x1CE3      |        7395 |
+|       1 | 0x1CE4      |        7396 |
+|       2 | 0x1CE5      |        7397 |
 
 ## String References
 
-- **7394**: A workbook written by Iru-Kuiru.
-- **7395**: "That place was most definitely cursed. It was as if each of us were having our strings pulled by some unseen force..."
-- **7396**: "The Goddess only knows what that power was. I knew fear like I had never known before, and was struck mindless with panic before the terror that lurked within those walls."
+- **7395**: A workbook written by Iru-Kuiru.
+- **7396**: "That place was most definitely cursed. It was as if each of us were having our strings pulled by some unseen force..."
+- **7397**: "The Goddess only knows what that power was. I knew fear like I had never known before, and was struck mindless with panic before the terror that lurked within those walls."
 
 ## Events
 
@@ -74,13 +74,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
     → "A workbook written by Iru-Kuiru."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
     → ""That place was most definitely cursed. It was as if each of us were having our strings pulled by some unseen force...""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7397*)
     → ""The Goddess only knows what that power was. I knew fear like I had never known before, and was struck mindless with panic before the terror that lurked within those walls.""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

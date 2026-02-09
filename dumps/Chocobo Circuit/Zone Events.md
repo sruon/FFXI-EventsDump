@@ -89,20 +89,20 @@
 |      36 | 0x0012      |          18 |
 |      37 | 0x0017      |          23 |
 |      38 | 0xFFFFFFFC  |  4294967292 |
-|      39 | 0x234F      |        9039 |
+|      39 | 0x2350      |        9040 |
 |      40 | 0xFFFFFFFA  |  4294967290 |
 |      41 | 0xFFFFFFFF  |  4294967295 |
 |      42 | 0xFFFFFFFE  |  4294967294 |
-|      43 | 0x2341      |        9025 |
+|      43 | 0x2342      |        9026 |
 |      44 | 0xFFFFFFF9  |  4294967289 |
-|      45 | 0x2340      |        9024 |
+|      45 | 0x2341      |        9025 |
 |      46 | 0xFFFFFFFD  |  4294967293 |
-|      47 | 0x2350      |        9040 |
-|      48 | 0x2351      |        9041 |
+|      47 | 0x2351      |        9041 |
+|      48 | 0x2352      |        9042 |
 |      49 | 0x00BF      |         191 |
-|      50 | 0x2360      |        9056 |
-|      51 | 0x2517      |        9495 |
-|      52 | 0x2518      |        9496 |
+|      50 | 0x2361      |        9057 |
+|      51 | 0x2518      |        9496 |
+|      52 | 0x2519      |        9497 |
 |      53 | 0xFFF84F40  |  4294463296 |
 |      54 | 0xFFFA8D78  |  4294610296 |
 |      55 | 0x1000      |        4096 |
@@ -115,7 +115,7 @@
 |      62 | 0xFFFB0690  |  4294641296 |
 |      63 | 0xFFFB8778  |  4294674296 |
 |      64 | 0x0400      |        1024 |
-|      65 | 0x2516      |        9494 |
+|      65 | 0x2517      |        9495 |
 |      66 | 0xFFFA81C0  |  4294607296 |
 |      67 | 0xFFF8EF68  |  4294504296 |
 |      68 | 0xFFFFF060  |  4294963296 |
@@ -130,15 +130,15 @@
 
 ## String References
 
-- **9024**: I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race.
-- **9025**: I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race.
-- **9039**: I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you.
-- **9040**: I'm sorry. The other chocobos have not finished resting. Please come back a little later.
-- **9041**: One moment please while entries are confirmed with CRA headquarters.
-- **9056**: Enter #$470607P. Q. R. S. T. U. V. W. X. Cancel. Confirm.
-- **9494**: Use the device? [Yes./No.]
-- **9495**: You may teleport once to any entrance lobby in the three nations or Jeuno.
-- **9496**: Teleport to which lobby? [Stay put./San d'Oria./Bastok./Windurst./Jeuno.]
+- **9025**: I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race.
+- **9026**: I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race.
+- **9040**: I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you.
+- **9041**: I'm sorry. The other chocobos have not finished resting. Please come back a little later.
+- **9042**: One moment please while entries are confirmed with CRA headquarters.
+- **9057**: Enter #$470607P. Q. R. S. T. U. V. W. X. Cancel. Confirm.
+- **9495**: Use the device? [Yes./No.]
+- **9496**: You may teleport once to any entrance lobby in the three nations or Jeuno.
+- **9497**: Teleport to which lobby? [Stay put./San d'Oria./Bastok./Windurst./Jeuno.]
 
 ## Events
 
@@ -1109,7 +1109,7 @@ SUBROUTINE_082D:
  18: 0x082E [0x00] END_REQSTACK()
 
 SUBROUTINE_0877:
- 19: 0x0877 [0x48] [System] [9041*]:
+ 19: 0x0877 [0x48] [System] [9042*]:
     → "One moment please while entries are confirmed with CRA headquarters."
  20: 0x087A [0x06] ExtData[1]->WorkLocal[48] = 0
  21: 0x087D [0x03] Work_Zone[9] = 4294967292*
@@ -1161,24 +1161,24 @@ SUBROUTINE_08BF:
 # Dead code (unreachable instructions):
      0x082F [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0840
      0x0837 [0x1A] CALL_SUBROUTINE(address=0x0933)
-     0x083A [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x083A [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x083D [0x1A] CALL_SUBROUTINE(address=0x0934)
      0x0840 [0x02] IF !(Work_Zone[9] == 4294967294*) GOTO 0x0852
      0x0848 [0x1A] CALL_SUBROUTINE(address=0x0933)
-     0x084B [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
+     0x084B [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
     → "I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race."
      0x084E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x084F [0x1A] CALL_SUBROUTINE(address=0x0934)
      0x0852 [0x02] IF !(Work_Zone[9] == 4294967289*) GOTO 0x0864
      0x085A [0x1A] CALL_SUBROUTINE(address=0x0933)
-     0x085D [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+     0x085D [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
      0x0860 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0861 [0x1A] CALL_SUBROUTINE(address=0x0934)
      0x0864 [0x02] IF !(Work_Zone[9] == 4294967293*) GOTO 0x0876
      0x086C [0x1A] CALL_SUBROUTINE(address=0x0933)
-     0x086F [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x086F [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "I'm sorry. The other chocobos have not finished resting. Please come back a little later."
      0x0872 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0873 [0x1A] CALL_SUBROUTINE(address=0x0934)
@@ -1198,7 +1198,7 @@ SUBROUTINE_08BF:
      0x09BC [0x1B] RETURN
      0x09BD [0x06] Work_Zone[2] = 0
      0x09C0 [0x02] IF !(1* == 1*) GOTO 0x0A05
-     0x09C8 [0x24] CREATE_DIALOG(message_id=9056*, default_option=0*, option_flags=0*)
+     0x09C8 [0x24] CREATE_DIALOG(message_id=9057*, default_option=0*, option_flags=0*)
     → "Enter #$470607P. Q. R. S. T. U. V. W. X. Cancel. Confirm."
      0x09CF [0x25] WAIT_DIALOG_SELECT()
      0x09D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09DB
@@ -1296,10 +1296,10 @@ SUBROUTINE_08BF:
 
 ```
   0: 0x0A10 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0A12 [0x48] [System] [9495*]:
+  1: 0x0A12 [0x48] [System] [9496*]:
     → "You may teleport once to any entrance lobby in the three nations or Jeuno."
   2: 0x0A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0A16 [0x24] CREATE_DIALOG(message_id=9496*, default_option=0*, option_flags=0*)
+  3: 0x0A16 [0x24] CREATE_DIALOG(message_id=9497*, default_option=0*, option_flags=0*)
     → "Teleport to which lobby? [Stay put./San d'Oria./Bastok./Windurst./Jeuno.]"
   4: 0x0A1D [0x25] WAIT_DIALOG_SELECT()
   5: 0x0A1E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A29
@@ -1371,7 +1371,7 @@ SUBROUTINE_0AD1:
 
 ```
   0: 0x0AD5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0AD7 [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0AD7 [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0ADE [0x25] WAIT_DIALOG_SELECT()
   3: 0x0ADF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B09
@@ -1416,7 +1416,7 @@ SUBROUTINE_0B14:
 
 ```
   0: 0x0B18 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0B1A [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0B1A [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0B21 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0B22 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B4C
@@ -1461,7 +1461,7 @@ SUBROUTINE_0B57:
 
 ```
   0: 0x0B5B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0B5D [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0B5D [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0B64 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0B65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B8F
@@ -1507,7 +1507,7 @@ SUBROUTINE_0B9A:
 
 ```
   0: 0x0B9E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0BA0 [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0BA0 [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0BA7 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0BA8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BD2
@@ -1552,7 +1552,7 @@ SUBROUTINE_0BDD:
 
 ```
   0: 0x0BE1 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0BE3 [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0BE3 [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0BEA [0x25] WAIT_DIALOG_SELECT()
   3: 0x0BEB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C15
@@ -1597,7 +1597,7 @@ SUBROUTINE_0C20:
 
 ```
   0: 0x0C24 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0C26 [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0C26 [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0C2D [0x25] WAIT_DIALOG_SELECT()
   3: 0x0C2E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C58
@@ -1642,7 +1642,7 @@ SUBROUTINE_0C63:
 
 ```
   0: 0x0C67 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0C69 [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0C69 [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0C70 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0C71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C9B
@@ -1687,7 +1687,7 @@ SUBROUTINE_0CA6:
 
 ```
   0: 0x0CAA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0CAC [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0CAC [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0CB3 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0CB4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CDE
@@ -1732,7 +1732,7 @@ SUBROUTINE_0CE9:
 
 ```
   0: 0x0CED [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0CEF [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0CEF [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0CF6 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0CF7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D21
@@ -1777,7 +1777,7 @@ SUBROUTINE_0D2C:
 
 ```
   0: 0x0D30 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0D32 [0x24] CREATE_DIALOG(message_id=9494*, default_option=1*, option_flags=0*)
+  1: 0x0D32 [0x24] CREATE_DIALOG(message_id=9495*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0D39 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0D3A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D64

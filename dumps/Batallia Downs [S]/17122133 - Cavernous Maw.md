@@ -28,25 +28,25 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1B9D      |        7069 |
+|       0 | 0x1B9E      |        7070 |
 |       1 | 0x038E      |         910 |
-|       2 | 0x1BA0      |        7072 |
+|       2 | 0x1BA1      |        7073 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x003C      |          60 |
 |       7 | 0x0013      |          19 |
 |       8 | 0x0155      |         341 |
-|       9 | 0x1B9F      |        7071 |
+|       9 | 0x1BA0      |        7072 |
 |      10 | 0x00C9      |         201 |
-|      11 | 0x1B9E      |        7070 |
+|      11 | 0x1B9F      |        7071 |
 
 ## String References
 
-- **7069**: You can feel the warm, moist breath of the maw on your skin.
-- **7070**: An unseen force is drawing you towards the maw.
-- **7071**: A portal has opened within the depths of the maw.
-- **7072**: Raise your $3? [Yes./No.]
+- **7070**: You can feel the warm, moist breath of the maw on your skin.
+- **7071**: An unseen force is drawing you towards the maw.
+- **7072**: A portal has opened within the depths of the maw.
+- **7073**: Raise your $3? [Yes./No.]
 
 ## Events
 
@@ -105,11 +105,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7069*]:
+  1: 0x0003 [0x48] [System] [7070*]:
     → "You can feel the warm, moist breath of the maw on your skin."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 910*
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CF
@@ -124,7 +124,7 @@
  15: 0x003F [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x04)
  16: 0x0046 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "at06" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  17: 0x0057 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 18: 0x0068 [0x48] [System] [7071*]:
+ 18: 0x0068 [0x48] [System] [7072*]:
     → "A portal has opened within the depths of the maw."
  19: 0x006B [0x1C] WAIT(60* ticks)
  20: 0x006E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -178,11 +178,11 @@ SUBROUTINE_00DA:
 
 ```
   0: 0x00DE [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00E0 [0x48] [System] [7070*]:
+  1: 0x00E0 [0x48] [System] [7071*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E4 [0x03] Work_Zone[2] = 910*
-  4: 0x00E9 [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
+  4: 0x00E9 [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x00F0 [0x25] WAIT_DIALOG_SELECT()
   6: 0x00F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A9

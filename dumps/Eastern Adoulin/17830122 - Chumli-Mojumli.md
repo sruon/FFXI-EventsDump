@@ -26,13 +26,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0029      |          41 |
-|       1 | 0x291F      |       10527 |
-|       2 | 0x2920      |       10528 |
+|       1 | 0x2920      |       10528 |
+|       2 | 0x2921      |       10529 |
 |       3 | 0x0028      |          40 |
-|       4 | 0x1FBD      |        8125 |
-|       5 | 0x1FBE      |        8126 |
+|       4 | 0x1FBE      |        8126 |
+|       5 | 0x1FBF      |        8127 |
 |       6 | 0x0078      |         120 |
-|       7 | 0x2921      |       10529 |
+|       7 | 0x2922      |       10530 |
 |       8 | 0x005A      |          90 |
 |       9 | 0x000D      |          13 |
 |      10 | 0x14834     |       84020 |
@@ -44,11 +44,11 @@
 
 ## String References
 
-- **8125**: You've brought me a survey-wurvey about the Twelve Orders? I thought pioneers were supposed be out colonizing the land, not running menial tasks in Adoulin.
-- **8126**: Everything about Woltaris is correctaru. I suppose that's all you need?
-- **10527**: This impressive estataru belongs to Melvien de Malecroix, the minister of finance.
-- **10528**: Despite fierce opposition from many in Adoulin, he convinced the council to move forward with the colonization effort. The only reason-weason you're able to stay here is because of him, so he deserves your utmost respect.
-- **10529**: But now...none of us will ever see him again. The horrors-worrors of the jungle know no bounds!
+- **8126**: You've brought me a survey-wurvey about the Twelve Orders? I thought pioneers were supposed be out colonizing the land, not running menial tasks in Adoulin.
+- **8127**: Everything about Woltaris is correctaru. I suppose that's all you need?
+- **10528**: This impressive estataru belongs to Melvien de Malecroix, the minister of finance.
+- **10529**: Despite fierce opposition from many in Adoulin, he convinced the council to move forward with the colonization effort. The only reason-weason you're able to stay here is because of him, so he deserves your utmost respect.
+- **10530**: But now...none of us will ever see him again. The horrors-worrors of the jungle know no bounds!
 
 ## Events
 
@@ -99,10 +99,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [EventEntity, EventEntity], work=41*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10527*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10528*)
     → "This impressive estataru belongs to Melvien de Malecroix, the minister of finance."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10528*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10529*)
     → "Despite fierce opposition from many in Adoulin, he convinced the council to move forward with the colonization effort. The only reason-weason you're able to stay here is because of him, so he deserves your utmost respect."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x21] END_EVENT
@@ -136,10 +136,10 @@
   2: 0x0027 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0028 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0029 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+  5: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "You've brought me a survey-wurvey about the Twelve Orders? I thought pioneers were supposed be out colonizing the land, not running menial tasks in Adoulin."
   6: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
+  7: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
     → "Everything about Woltaris is correctaru. I suppose that's all you need?"
   8: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0040 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -174,11 +174,11 @@
   0: 0x0051 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10527*)
+  3: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10528*)
     → "This impressive estataru belongs to Melvien de Malecroix, the minister of finance."
   4: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x06 - Load ext scheduler with flag (OpCode 0x5B mode 1, flag 1), ref=40*, entity1=EventEntity, entity2=EventEntity, string="gkr0", extra=120*)
-  6: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10529*)
+  6: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10530*)
     → "But now...none of us will ever see him again. The horrors-worrors of the jungle know no bounds!"
   7: 0x0071 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
   8: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION

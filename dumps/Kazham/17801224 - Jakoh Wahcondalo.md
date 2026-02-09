@@ -100,9 +100,9 @@
 |       0 | 0x0213      |         531 |
 |       1 | 0x016C      |         364 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x26F2      |        9970 |
-|       4 | 0x285F      |       10335 |
-|       5 | 0x2860      |       10336 |
+|       3 | 0x26F3      |        9971 |
+|       4 | 0x2860      |       10336 |
+|       5 | 0x2861      |       10337 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x003C      |          60 |
@@ -112,12 +112,12 @@
 |      12 | 0x0005      |           5 |
 |      13 | 0x0006      |           6 |
 |      14 | 0x0008      |           8 |
-|      15 | 0x26F5      |        9973 |
-|      16 | 0x26F6      |        9974 |
+|      15 | 0x26F6      |        9974 |
+|      16 | 0x26F7      |        9975 |
 |      17 | 0x0064      |         100 |
-|      18 | 0x26F3      |        9971 |
-|      19 | 0x26F4      |        9972 |
-|      20 | 0x26F7      |        9975 |
+|      18 | 0x26F4      |        9972 |
+|      19 | 0x26F5      |        9973 |
+|      20 | 0x26F8      |        9976 |
 |      21 | 0x1815A     |       98650 |
 |      22 | 0xFFFE4600  |  4294854144 |
 |      23 | 0xFFFFC568  |  4294952296 |
@@ -128,164 +128,164 @@
 |      28 | 0xFFFFC551  |  4294952273 |
 |      29 | 0x18A08     |      100872 |
 |      30 | 0xFFFE454B  |  4294853963 |
-|      31 | 0x277D      |       10109 |
-|      32 | 0x277E      |       10110 |
-|      33 | 0x2783      |       10115 |
-|      34 | 0x2784      |       10116 |
-|      35 | 0x2786      |       10118 |
-|      36 | 0x2787      |       10119 |
-|      37 | 0x2788      |       10120 |
-|      38 | 0x278A      |       10122 |
-|      39 | 0x278B      |       10123 |
-|      40 | 0x278C      |       10124 |
-|      41 | 0x2790      |       10128 |
-|      42 | 0x2791      |       10129 |
-|      43 | 0x2793      |       10131 |
-|      44 | 0x2794      |       10132 |
-|      45 | 0x2797      |       10135 |
-|      46 | 0x2798      |       10136 |
-|      47 | 0x279E      |       10142 |
-|      48 | 0x27A0      |       10144 |
-|      49 | 0x27A2      |       10146 |
-|      50 | 0x27A6      |       10150 |
-|      51 | 0x27A7      |       10151 |
-|      52 | 0x27A9      |       10153 |
-|      53 | 0x27AC      |       10156 |
+|      31 | 0x277E      |       10110 |
+|      32 | 0x277F      |       10111 |
+|      33 | 0x2784      |       10116 |
+|      34 | 0x2785      |       10117 |
+|      35 | 0x2787      |       10119 |
+|      36 | 0x2788      |       10120 |
+|      37 | 0x2789      |       10121 |
+|      38 | 0x278B      |       10123 |
+|      39 | 0x278C      |       10124 |
+|      40 | 0x278D      |       10125 |
+|      41 | 0x2791      |       10129 |
+|      42 | 0x2792      |       10130 |
+|      43 | 0x2794      |       10132 |
+|      44 | 0x2795      |       10133 |
+|      45 | 0x2798      |       10136 |
+|      46 | 0x2799      |       10137 |
+|      47 | 0x279F      |       10143 |
+|      48 | 0x27A1      |       10145 |
+|      49 | 0x27A3      |       10147 |
+|      50 | 0x27A7      |       10151 |
+|      51 | 0x27A8      |       10152 |
+|      52 | 0x27AA      |       10154 |
+|      53 | 0x27AD      |       10157 |
 |      54 | 0x0001      |           1 |
 |      55 | 0x0002      |           2 |
-|      56 | 0x27AD      |       10157 |
-|      57 | 0x27AA      |       10154 |
-|      58 | 0x27AB      |       10155 |
-|      59 | 0x27AE      |       10158 |
-|      60 | 0x27AF      |       10159 |
-|      61 | 0x27B0      |       10160 |
-|      62 | 0x27B1      |       10161 |
+|      56 | 0x27AE      |       10158 |
+|      57 | 0x27AB      |       10155 |
+|      58 | 0x27AC      |       10156 |
+|      59 | 0x27AF      |       10159 |
+|      60 | 0x27B0      |       10160 |
+|      61 | 0x27B1      |       10161 |
+|      62 | 0x27B2      |       10162 |
 |      63 | 0x00C9      |         201 |
-|      64 | 0x27B7      |       10167 |
-|      65 | 0x27B8      |       10168 |
-|      66 | 0x27B9      |       10169 |
-|      67 | 0x27BA      |       10170 |
-|      68 | 0x27BB      |       10171 |
-|      69 | 0x27BC      |       10172 |
-|      70 | 0x28EE      |       10478 |
-|      71 | 0x28EF      |       10479 |
+|      64 | 0x27B8      |       10168 |
+|      65 | 0x27B9      |       10169 |
+|      66 | 0x27BA      |       10170 |
+|      67 | 0x27BB      |       10171 |
+|      68 | 0x27BC      |       10172 |
+|      69 | 0x27BD      |       10173 |
+|      70 | 0x28EF      |       10479 |
+|      71 | 0x28F0      |       10480 |
 |      72 | 0x00A3      |         163 |
 |      73 | 0x007F      |         127 |
 |      74 | 0x00E4      |         228 |
-|      75 | 0x2993      |       10643 |
-|      76 | 0x2994      |       10644 |
-|      77 | 0x2995      |       10645 |
-|      78 | 0x2996      |       10646 |
-|      79 | 0x2997      |       10647 |
-|      80 | 0x2998      |       10648 |
-|      81 | 0x2999      |       10649 |
-|      82 | 0x299A      |       10650 |
+|      75 | 0x2994      |       10644 |
+|      76 | 0x2995      |       10645 |
+|      77 | 0x2996      |       10646 |
+|      78 | 0x2997      |       10647 |
+|      79 | 0x2998      |       10648 |
+|      80 | 0x2999      |       10649 |
+|      81 | 0x299A      |       10650 |
+|      82 | 0x299B      |       10651 |
 |      83 | 0x0087      |         135 |
-|      84 | 0x299B      |       10651 |
-|      85 | 0x299C      |       10652 |
-|      86 | 0x29A2      |       10658 |
-|      87 | 0x29A3      |       10659 |
-|      88 | 0x299D      |       10653 |
-|      89 | 0x299E      |       10654 |
-|      90 | 0x299F      |       10655 |
-|      91 | 0x29A0      |       10656 |
-|      92 | 0x29A1      |       10657 |
+|      84 | 0x299C      |       10652 |
+|      85 | 0x299D      |       10653 |
+|      86 | 0x29A3      |       10659 |
+|      87 | 0x29A4      |       10660 |
+|      88 | 0x299E      |       10654 |
+|      89 | 0x299F      |       10655 |
+|      90 | 0x29A0      |       10656 |
+|      91 | 0x29A1      |       10657 |
+|      92 | 0x29A2      |       10658 |
 |      93 | 0x0004      |           4 |
-|      94 | 0x29A4      |       10660 |
-|      95 | 0x29A5      |       10661 |
-|      96 | 0x29A6      |       10662 |
-|      97 | 0x29A7      |       10663 |
-|      98 | 0x29A8      |       10664 |
+|      94 | 0x29A5      |       10661 |
+|      95 | 0x29A6      |       10662 |
+|      96 | 0x29A7      |       10663 |
+|      97 | 0x29A8      |       10664 |
+|      98 | 0x29A9      |       10665 |
 |      99 | 0x0078      |         120 |
-|     100 | 0x29A9      |       10665 |
-|     101 | 0x29AA      |       10666 |
-|     102 | 0x29AB      |       10667 |
-|     103 | 0x29AC      |       10668 |
-|     104 | 0x29AD      |       10669 |
-|     105 | 0x29AE      |       10670 |
+|     100 | 0x29AA      |       10666 |
+|     101 | 0x29AB      |       10667 |
+|     102 | 0x29AC      |       10668 |
+|     103 | 0x29AD      |       10669 |
+|     104 | 0x29AE      |       10670 |
+|     105 | 0x29AF      |       10671 |
 |     106 | 0x18744     |      100164 |
 |     107 | 0xFFFE3B15  |  4294851349 |
-|     108 | 0x29D5      |       10709 |
-|     109 | 0x29D6      |       10710 |
+|     108 | 0x29D6      |       10710 |
+|     109 | 0x29D7      |       10711 |
 
 ## String References
 
-- **9970**: I am Jakoh Wahcondalo, the Chieftainness of Kazham. This is my village. We have only one rrrule here--I make the rrrules.
-- **9971**: Hah-hah-hah! So Gilgamesh is asking me to let you pass through to the Temple of Uggalepih, is he? That old dog hasn't changed a bit.
-- **9972**: Have you never hearrrd the tales of Uggalepih? Do you even know what you'll be getting yourself into?
-- **9973**: Well, don't say I didn't warn you.
-- **9974**: Here, take this key. It opens the door that leads to the deeper parrrts of the temple. Have fun! Hah-hah-hah!
-- **9975**: You don't know the way to the temple? It's just to the southeast of here. But that's all the help I can give you. I'm not rrrisking my, or any of my guards', tails.
-- **10109**: And tell this Angelica that the Temple of Uggalepih is no place for her fancy mainland modern art.
-- **10110**: Not that I expect her to listen...
-- **10115**: That letter doesn't look like it was addressed to you... Unless you've changed yourrr name to Jakoh.
-- **10116**: <Hiss> I neverrr gave you perrrmission to rrread my letterrrs! Get over herrre!
-- **10118**: So, even after all we have told her of the dangerrrs of Uggalepih, she still wants to go through with her plan...
-- **10119**: Well, I am not going to spend my time worrying over crazy mainlanders' outrageous schemes.
-- **10120**: You've brought her painting from the mainlands, haven't you? Well, you're free to hang it in the temple, but don't expect any of my women to run in there and save you when you get into trrrouble.
-- **10122**: Now off with you!
-- **10123**: You're on this boat for the long haul, [mister/missy]. You jump off now, you'll be taking down someone's dreams with you.
-- **10124**: But, you stay on too long, and you might sink anyway...
-- **10128**: Interrresting... Tell me more.
-- **10129**: ... Long, long ago, an ancient race, now extinct, lived in that temple.
-- **10131**: I will try explaining this to her in another letter, but I doubt she will listen...
-- **10132**: Oh, and take this. It might have been useless work, but work is work.
-- **10135**: I will try explaining to Angelica what happened this time in a letter, but I doubt she will listen...
-- **10136**: I would ask you to do it, but after what happened to her painting, I don't think it would be a very good idea if you showed up at her door.
-- **10142**: As I expected... Mainlanders neverrr listen to reason. So, can I count on you to take this painting to the gallery?
-- **10144**: I see... I guess I'll have to find someone a little less busy. Etteh Sulaej! Send a messengerrr to the adventurerrr's inn!
-- **10146**: A glutton for punishment, I see. Take this painting to the gallery. I hope Angelica's painting is better received this time around.
-- **10150**: Strange voices...evil spirits... Many mysteries still lurk behind the walls of that ancient temple.
-- **10151**: What arrre you mainlanders thinking?
-- **10153**: Hah-hah! It looks like the spirit wasn't moved by Angelica's latest work, eitherrr.
-- **10154**: You have the nerrrve to show your face in herrre afterrr what you did?
-- **10155**: How could you even think of touching the $1?
-- **10156**: How could you!? [I'm sorry.../I didn't do anything...]
-- **10157**: Liar!
-- **10158**: You may not be able to see it, but the Tonberries' $1 is therrre in your hands.
-- **10159**: Anyone who has been currrsed by that flame is forrrbidden to enterrr Kazham. I'll give you a day. Get yourrr things togetherrr and get out of my village!
-- **10160**: The $1 in your body has the power to call forrrth the Tonberries. That is why anyone currrsed with that flame is forrrbidden frrrom enterrring Kazham!
-- **10161**: You have a day. Get yourrr things togetherrr and get out of my village!
-- **10167**: Are you still herrre? I thought I told you to get out of my village! If you don't leave rrright now, I'll have to dispose of you myself...
-- **10168**: What is this you say? You've removed the curse?
-- **10169**: Well, well, well... I guess there is no longer any reason to banish you from Kazham.
-- **10170**: I can assume that you won't be touching any morrre $1 from now on, will you?
-- **10171**: Don't get me wrong. I've spent my time in the mainlands. I don't hate all of you.
-- **10172**: But you mainlanders cause too many problems. You should think a little more beforrre you act. Understood?
-- **10335**: You touched a Rafflesia flowerrr, didn't you? You idiot! You mean to tell me you mainlanderrrs' noses are so primitive that you cannot even sense this rrrotten smell?
-- **10336**: If you don't want me to slice you up and serrrve you to the Opo-opos, I would suggest a quick exit. NOW!
-- **10478**: Rhinostery minister? Here in Kazham?
-- **10479**: Oh, yes. Now I remember. That strrrange little lady with the funny accent. Yes, she kept asking me about the ancient times, so I sent her to someone ancient--our former chieftainness.
-- **10643**: Ah, if it isn't <Player>. Lately, I've been hearrring rumors about you. They say that for a mainlander, you are quite talented when it comes to wielding a daggerrr.
-- **10644**: I'm not one to brrrag, but I, too, am quite skilled with knives. Why, just the other day I came up with a new technique that can slice and dice even the toughest Tonberrry.
-- **10645**: But there's a problem...
-- **10646**: If anybody gets their grrrimy hands on it, I'll be in trrrouble. That's why I have to start practicing dodging the technique as well as using it.
-- **10647**: And that's the prrroblem. None of the pussycats around here have the skill required to perrrform it!
-- **10648**: If I could only find someone that could match me in battle...
-- **10649**: How about you? Do you want to take a stab at learrrning my new technique?
-- **10650**: Here, take one of my daggerrrs and practice until the blade's been completely drrrained of its power. Come back here when you're done, and I'll show you my secrrrets.
-- **10651**: If you want to learn my new technique, you're going to have to train with that daggerrr. Do you have a prrroblem with that!?
-- **10652**: Any complaints? [No, ma'am!/I seem to have misplaced the dagger./I've had enough of this training.]
-- **10653**: You lose any more of my belongings, and I will scrrratch your eyes out and eat them for dinner!
-- **10654**: So, you mean to say this task was too difficult for you?
-- **10655**: Really quit your training? [Yes./Not just yet.]
-- **10656**: Hmph. Well, I guess it's betterrr this way. I prrrobably would have killed a weakling like you just showing you the technique.
-- **10657**: Oh, and you can get rid of that daggerrr yourself. I wouldn't think of using another [man's/woman's] weapon.
-- **10658**: That daggerrr I gave you, I made it myself--rrright down to its hidden abilities. But the more you use it, the less powerful it becomes.
-- **10659**: When all its powerrr is gone, bring it back here and we'll test how good you rrreally have become.
-- **10660**: You're far from being done, [tigerrr/kitty]. When all the dagger's power is gone, bring it back here. Then we'll test how good you rrreally have become.
-- **10661**: Ah, so you're finally done. I was beginning to worry that you'd neverrr come back.
-- **10662**: Now it's time to see if you rrreally have what it takes to be my parrrtner in prrractice. Take this map to the Gustav Tunnel and dice up the monster waiting for you there.
-- **10663**: And don't forget to brrring back $6. Otherwise, how am I supposed to know that you just didn't have some of your cat pack defeat the monsterrr for you?
-- **10664**: Now get out of here! The quicker you get back from the Gustav Tunnel, the quicker I can start prrracticing!
-- **10665**: You're finally back! Congrrratulations on taking out the monster in the tunnel.
-- **10666**: If you could handle that beast, then you are more than worrrthy to learn my new technique. Now let's begin...
-- **10667**: So what do you think? Never seen anything like it before, have you? I must say, I am one smarrrt cat.
-- **10668**: Thanks to you, I also was able to come up with a way to dodge it. What? You want me to teach you that, too?
-- **10669**: I'm sorry, but that won't be possible. To tell you the trrruth, the only real way to dodge that technique would involve killing your opponent.
-- **10670**: You wouldn't want to be killed by me now, would you?
-- **10709**: From the time of that expedition thirty years ago until my inauguration as chieftainness...
-- **10710**: Kazham has not been gentle with outsiders. That's just the kind of people we Mithra are.
+- **9971**: I am Jakoh Wahcondalo, the Chieftainness of Kazham. This is my village. We have only one rrrule here--I make the rrrules.
+- **9972**: Hah-hah-hah! So Gilgamesh is asking me to let you pass through to the Temple of Uggalepih, is he? That old dog hasn't changed a bit.
+- **9973**: Have you never hearrrd the tales of Uggalepih? Do you even know what you'll be getting yourself into?
+- **9974**: Well, don't say I didn't warn you.
+- **9975**: Here, take this key. It opens the door that leads to the deeper parrrts of the temple. Have fun! Hah-hah-hah!
+- **9976**: You don't know the way to the temple? It's just to the southeast of here. But that's all the help I can give you. I'm not rrrisking my, or any of my guards', tails.
+- **10110**: And tell this Angelica that the Temple of Uggalepih is no place for her fancy mainland modern art.
+- **10111**: Not that I expect her to listen...
+- **10116**: That letter doesn't look like it was addressed to you... Unless you've changed yourrr name to Jakoh.
+- **10117**: <Hiss> I neverrr gave you perrrmission to rrread my letterrrs! Get over herrre!
+- **10119**: So, even after all we have told her of the dangerrrs of Uggalepih, she still wants to go through with her plan...
+- **10120**: Well, I am not going to spend my time worrying over crazy mainlanders' outrageous schemes.
+- **10121**: You've brought her painting from the mainlands, haven't you? Well, you're free to hang it in the temple, but don't expect any of my women to run in there and save you when you get into trrrouble.
+- **10123**: Now off with you!
+- **10124**: You're on this boat for the long haul, [mister/missy]. You jump off now, you'll be taking down someone's dreams with you.
+- **10125**: But, you stay on too long, and you might sink anyway...
+- **10129**: Interrresting... Tell me more.
+- **10130**: ... Long, long ago, an ancient race, now extinct, lived in that temple.
+- **10132**: I will try explaining this to her in another letter, but I doubt she will listen...
+- **10133**: Oh, and take this. It might have been useless work, but work is work.
+- **10136**: I will try explaining to Angelica what happened this time in a letter, but I doubt she will listen...
+- **10137**: I would ask you to do it, but after what happened to her painting, I don't think it would be a very good idea if you showed up at her door.
+- **10143**: As I expected... Mainlanders neverrr listen to reason. So, can I count on you to take this painting to the gallery?
+- **10145**: I see... I guess I'll have to find someone a little less busy. Etteh Sulaej! Send a messengerrr to the adventurerrr's inn!
+- **10147**: A glutton for punishment, I see. Take this painting to the gallery. I hope Angelica's painting is better received this time around.
+- **10151**: Strange voices...evil spirits... Many mysteries still lurk behind the walls of that ancient temple.
+- **10152**: What arrre you mainlanders thinking?
+- **10154**: Hah-hah! It looks like the spirit wasn't moved by Angelica's latest work, eitherrr.
+- **10155**: You have the nerrrve to show your face in herrre afterrr what you did?
+- **10156**: How could you even think of touching the $1?
+- **10157**: How could you!? [I'm sorry.../I didn't do anything...]
+- **10158**: Liar!
+- **10159**: You may not be able to see it, but the Tonberries' $1 is therrre in your hands.
+- **10160**: Anyone who has been currrsed by that flame is forrrbidden to enterrr Kazham. I'll give you a day. Get yourrr things togetherrr and get out of my village!
+- **10161**: The $1 in your body has the power to call forrrth the Tonberries. That is why anyone currrsed with that flame is forrrbidden frrrom enterrring Kazham!
+- **10162**: You have a day. Get yourrr things togetherrr and get out of my village!
+- **10168**: Are you still herrre? I thought I told you to get out of my village! If you don't leave rrright now, I'll have to dispose of you myself...
+- **10169**: What is this you say? You've removed the curse?
+- **10170**: Well, well, well... I guess there is no longer any reason to banish you from Kazham.
+- **10171**: I can assume that you won't be touching any morrre $1 from now on, will you?
+- **10172**: Don't get me wrong. I've spent my time in the mainlands. I don't hate all of you.
+- **10173**: But you mainlanders cause too many problems. You should think a little more beforrre you act. Understood?
+- **10336**: You touched a Rafflesia flowerrr, didn't you? You idiot! You mean to tell me you mainlanderrrs' noses are so primitive that you cannot even sense this rrrotten smell?
+- **10337**: If you don't want me to slice you up and serrrve you to the Opo-opos, I would suggest a quick exit. NOW!
+- **10479**: Rhinostery minister? Here in Kazham?
+- **10480**: Oh, yes. Now I remember. That strrrange little lady with the funny accent. Yes, she kept asking me about the ancient times, so I sent her to someone ancient--our former chieftainness.
+- **10644**: Ah, if it isn't <Player>. Lately, I've been hearrring rumors about you. They say that for a mainlander, you are quite talented when it comes to wielding a daggerrr.
+- **10645**: I'm not one to brrrag, but I, too, am quite skilled with knives. Why, just the other day I came up with a new technique that can slice and dice even the toughest Tonberrry.
+- **10646**: But there's a problem...
+- **10647**: If anybody gets their grrrimy hands on it, I'll be in trrrouble. That's why I have to start practicing dodging the technique as well as using it.
+- **10648**: And that's the prrroblem. None of the pussycats around here have the skill required to perrrform it!
+- **10649**: If I could only find someone that could match me in battle...
+- **10650**: How about you? Do you want to take a stab at learrrning my new technique?
+- **10651**: Here, take one of my daggerrrs and practice until the blade's been completely drrrained of its power. Come back here when you're done, and I'll show you my secrrrets.
+- **10652**: If you want to learn my new technique, you're going to have to train with that daggerrr. Do you have a prrroblem with that!?
+- **10653**: Any complaints? [No, ma'am!/I seem to have misplaced the dagger./I've had enough of this training.]
+- **10654**: You lose any more of my belongings, and I will scrrratch your eyes out and eat them for dinner!
+- **10655**: So, you mean to say this task was too difficult for you?
+- **10656**: Really quit your training? [Yes./Not just yet.]
+- **10657**: Hmph. Well, I guess it's betterrr this way. I prrrobably would have killed a weakling like you just showing you the technique.
+- **10658**: Oh, and you can get rid of that daggerrr yourself. I wouldn't think of using another [man's/woman's] weapon.
+- **10659**: That daggerrr I gave you, I made it myself--rrright down to its hidden abilities. But the more you use it, the less powerful it becomes.
+- **10660**: When all its powerrr is gone, bring it back here and we'll test how good you rrreally have become.
+- **10661**: You're far from being done, [tigerrr/kitty]. When all the dagger's power is gone, bring it back here. Then we'll test how good you rrreally have become.
+- **10662**: Ah, so you're finally done. I was beginning to worry that you'd neverrr come back.
+- **10663**: Now it's time to see if you rrreally have what it takes to be my parrrtner in prrractice. Take this map to the Gustav Tunnel and dice up the monster waiting for you there.
+- **10664**: And don't forget to brrring back $6. Otherwise, how am I supposed to know that you just didn't have some of your cat pack defeat the monsterrr for you?
+- **10665**: Now get out of here! The quicker you get back from the Gustav Tunnel, the quicker I can start prrracticing!
+- **10666**: You're finally back! Congrrratulations on taking out the monster in the tunnel.
+- **10667**: If you could handle that beast, then you are more than worrrthy to learn my new technique. Now let's begin...
+- **10668**: So what do you think? Never seen anything like it before, have you? I must say, I am one smarrrt cat.
+- **10669**: Thanks to you, I also was able to come up with a way to dodge it. What? You want me to teach you that, too?
+- **10670**: I'm sorry, but that won't be possible. To tell you the trrruth, the only real way to dodge that technique would involve killing your opponent.
+- **10671**: You wouldn't want to be killed by me now, would you?
+- **10710**: From the time of that expedition thirty years ago until my inauguration as chieftainness...
+- **10711**: Kazham has not been gentle with outsiders. That's just the kind of people we Mithra are.
 
 ## Events
 
@@ -896,7 +896,7 @@
   1: 0x0189 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x018B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=9970*)
+  4: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=9971*)
     → "I am Jakoh Wahcondalo, the Chieftainness of Kazham. This is my village. We have only one rrrule here--I make the rrrules."
   5: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0196 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
@@ -931,11 +931,11 @@
   0: 0x01AF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10335*)
+  3: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10336*)
     → "You touched a Rafflesia flowerrr, didn't you? You idiot! You mean to tell me you mainlanderrrs' noses are so primitive that you cannot even sense this rrrotten smell?"
   4: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0D)
-  6: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10336*)
+  6: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10337*)
     → "If you don't want me to slice you up and serrrve you to the Opo-opos, I would suggest a quick exit. NOW!"
   7: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0E)
@@ -1040,7 +1040,7 @@
 
 SUBROUTINE_02D8:
  36: 0x02D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0F)
- 37: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9973*)
+ 37: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9974*)
     → "Well, don't say I didn't warn you."
  38: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x02E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x10)
@@ -1069,7 +1069,7 @@ SUBROUTINE_0361:
 
 SUBROUTINE_03AA:
  60: 0x03AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x13)
- 61: 0x03B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9974*)
+ 61: 0x03B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9975*)
     → "Here, take this key. It opens the door that leads to the deeper parrrts of the temple. Have fun! Hah-hah-hah!"
  62: 0x03B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x03B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x14)
@@ -1114,11 +1114,11 @@ SUBROUTINE_041A:
 
 ```
   0: 0x0438 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0B)
-  1: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=9971*)
+  1: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=9972*)
     → "Hah-hah-hah! So Gilgamesh is asking me to let you pass through to the Temple of Uggalepih, is he? That old dog hasn't changed a bit."
   2: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0443 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0C)
-  4: 0x044A [0x1D] PRINT_EVENT_MESSAGE(message_id=9972*)
+  4: 0x044A [0x1D] PRINT_EVENT_MESSAGE(message_id=9973*)
     → "Have you never hearrrd the tales of Uggalepih? Do you even know what you'll be getting yourself into?"
   5: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x044E [0x00] END_REQSTACK()
@@ -1150,7 +1150,7 @@ SUBROUTINE_041A:
   1: 0x0454 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0455 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0456 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=9975*)
+  4: 0x045D [0x1D] PRINT_EVENT_MESSAGE(message_id=9976*)
     → "You don't know the way to the temple? It's just to the southeast of here. But that's all the help I can give you. I'm not rrrisking my, or any of my guards', tails."
   5: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0461 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
@@ -1318,12 +1318,12 @@ SUBROUTINE_041A:
   1: 0x04D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x04DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10109*)
+  4: 0x04DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10110*)
     → "And tell this Angelica that the Temple of Uggalepih is no place for her fancy mainland modern art."
   5: 0x04DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
   7: 0x04E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
-  8: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=10110*)
+  8: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=10111*)
     → "Not that I expect her to listen..."
   9: 0x04F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -1374,7 +1374,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10115*)
+  0: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10116*)
     → "That letter doesn't look like it was addressed to you... Unless you've changed yourrr name to Jakoh."
   1: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0501 [0x00] END_REQSTACK()
@@ -1399,7 +1399,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=10116*)
+  0: 0x0502 [0x1D] PRINT_EVENT_MESSAGE(message_id=10117*)
     → "<Hiss> I neverrr gave you perrrmission to rrread my letterrrs! Get over herrre!"
   1: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0506 [0x00] END_REQSTACK()
@@ -1424,7 +1424,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=10118*)
+  0: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=10119*)
     → "So, even after all we have told her of the dangerrrs of Uggalepih, she still wants to go through with her plan..."
   1: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x050B [0x00] END_REQSTACK()
@@ -1450,7 +1450,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=10119*)
+  0: 0x050C [0x1D] PRINT_EVENT_MESSAGE(message_id=10120*)
     → "Well, I am not going to spend my time worrying over crazy mainlanders' outrageous schemes."
   1: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0510 [0x00] END_REQSTACK()
@@ -1475,7 +1475,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0511 [0x1D] PRINT_EVENT_MESSAGE(message_id=10120*)
+  0: 0x0511 [0x1D] PRINT_EVENT_MESSAGE(message_id=10121*)
     → "You've brought her painting from the mainlands, haven't you? Well, you're free to hang it in the temple, but don't expect any of my women to run in there and save you when you get into trrrouble."
   1: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0515 [0x00] END_REQSTACK()
@@ -1500,7 +1500,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=10122*)
+  0: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=10123*)
     → "Now off with you!"
   1: 0x0519 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x051A [0x00] END_REQSTACK()
@@ -1532,12 +1532,12 @@ SUBROUTINE_041A:
   1: 0x0520 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0521 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0522 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x0529 [0x1D] PRINT_EVENT_MESSAGE(message_id=10123*)
+  4: 0x0529 [0x1D] PRINT_EVENT_MESSAGE(message_id=10124*)
     → "You're on this boat for the long haul, [mister/missy]. You jump off now, you'll be taking down someone's dreams with you."
   5: 0x052C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x052D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
   7: 0x0534 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
-  8: 0x053B [0x1D] PRINT_EVENT_MESSAGE(message_id=10124*)
+  8: 0x053B [0x1D] PRINT_EVENT_MESSAGE(message_id=10125*)
     → "But, you stay on too long, and you might sink anyway..."
   9: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x053F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -1587,7 +1587,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=10128*)
+  0: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=10129*)
     → "Interrresting... Tell me more."
   1: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x054F [0x00] END_REQSTACK()
@@ -1612,7 +1612,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=10129*)
+  0: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=10130*)
     → "... Long, long ago, an ancient race, now extinct, lived in that temple."
   1: 0x0553 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0554 [0x00] END_REQSTACK()
@@ -1637,7 +1637,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0555 [0x1D] PRINT_EVENT_MESSAGE(message_id=10131*)
+  0: 0x0555 [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
     → "I will try explaining this to her in another letter, but I doubt she will listen..."
   1: 0x0558 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0559 [0x00] END_REQSTACK()
@@ -1662,7 +1662,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
+  0: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=10133*)
     → "Oh, and take this. It might have been useless work, but work is work."
   1: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x055E [0x00] END_REQSTACK()
@@ -1694,12 +1694,12 @@ SUBROUTINE_041A:
   1: 0x0564 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0565 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0566 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=10135*)
+  4: 0x056D [0x1D] PRINT_EVENT_MESSAGE(message_id=10136*)
     → "I will try explaining to Angelica what happened this time in a letter, but I doubt she will listen..."
   5: 0x0570 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0571 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
   7: 0x0578 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
-  8: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=10136*)
+  8: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=10137*)
     → "I would ask you to do it, but after what happened to her painting, I don't think it would be a very good idea if you showed up at her door."
   9: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0583 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -1750,7 +1750,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x058F [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
+  0: 0x058F [0x1D] PRINT_EVENT_MESSAGE(message_id=10143*)
     → "As I expected... Mainlanders neverrr listen to reason. So, can I count on you to take this painting to the gallery?"
   1: 0x0592 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0593 [0x00] END_REQSTACK()
@@ -1775,7 +1775,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=10144*)
+  0: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=10145*)
     → "I see... I guess I'll have to find someone a little less busy. Etteh Sulaej! Send a messengerrr to the adventurerrr's inn!"
   1: 0x0597 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0598 [0x00] END_REQSTACK()
@@ -1800,7 +1800,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=10146*)
+  0: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=10147*)
     → "A glutton for punishment, I see. Take this painting to the gallery. I hope Angelica's painting is better received this time around."
   1: 0x059C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x059D [0x00] END_REQSTACK()
@@ -1854,12 +1854,12 @@ SUBROUTINE_041A:
   1: 0x05A4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05A5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10150*)
+  4: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10151*)
     → "Strange voices...evil spirits... Many mysteries still lurk behind the walls of that ancient temple."
   5: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
   7: 0x05B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
-  8: 0x05BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10151*)
+  8: 0x05BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10152*)
     → "What arrre you mainlanders thinking?"
   9: 0x05C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -1910,7 +1910,7 @@ SUBROUTINE_041A:
 #### Opcodes
 
 ```
-  0: 0x05CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10153*)
+  0: 0x05CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10154*)
     → "Hah-hah! It looks like the spirit wasn't moved by Angelica's latest work, eitherrr."
   1: 0x05D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05D3 [0x00] END_REQSTACK()
@@ -1950,7 +1950,7 @@ SUBROUTINE_041A:
   4: 0x05E2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x3A)
   5: 0x05E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0E)
   6: 0x05F0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x3B)
-  7: 0x05F7 [0x24] CREATE_DIALOG(message_id=10156*, default_option=0*, option_flags=0*)
+  7: 0x05F7 [0x24] CREATE_DIALOG(message_id=10157*, default_option=0*, option_flags=0*)
     → "How could you!? [I'm sorry.../I didn't do anything...]"
   8: 0x05FE [0x25] WAIT_DIALOG_SELECT()
   9: 0x05FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x060F
@@ -1958,7 +1958,7 @@ SUBROUTINE_041A:
  11: 0x060C [0x01] GOTO 0x0623
  12: 0x060F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0623
  13: 0x0617 [0x03] Work_Zone[1] = 2*
- 14: 0x061C [0x1D] PRINT_EVENT_MESSAGE(message_id=10157*)
+ 14: 0x061C [0x1D] PRINT_EVENT_MESSAGE(message_id=10158*)
     → "Liar!"
  15: 0x061F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0620 [0x01] GOTO 0x0623
@@ -1994,7 +1994,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x0651 [0x1D] PRINT_EVENT_MESSAGE(message_id=10154*)
+  0: 0x0651 [0x1D] PRINT_EVENT_MESSAGE(message_id=10155*)
     → "You have the nerrrve to show your face in herrre afterrr what you did?"
   1: 0x0654 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0655 [0x00] END_REQSTACK()
@@ -2019,7 +2019,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x0656 [0x1D] PRINT_EVENT_MESSAGE(message_id=10155*)
+  0: 0x0656 [0x1D] PRINT_EVENT_MESSAGE(message_id=10156*)
     → "How could you even think of touching the $1?"
   1: 0x0659 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x065A [0x00] END_REQSTACK()
@@ -2044,7 +2044,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=10158*)
+  0: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=10159*)
     → "You may not be able to see it, but the Tonberries' $1 is therrre in your hands."
   1: 0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x065F [0x00] END_REQSTACK()
@@ -2069,7 +2069,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x0660 [0x1D] PRINT_EVENT_MESSAGE(message_id=10159*)
+  0: 0x0660 [0x1D] PRINT_EVENT_MESSAGE(message_id=10160*)
     → "Anyone who has been currrsed by that flame is forrrbidden to enterrr Kazham. I'll give you a day. Get yourrr things togetherrr and get out of my village!"
   1: 0x0663 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0664 [0x00] END_REQSTACK()
@@ -2100,11 +2100,11 @@ SUBROUTINE_0623:
   1: 0x066A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x066B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x066C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0D)
-  4: 0x0673 [0x1D] PRINT_EVENT_MESSAGE(message_id=10160*)
+  4: 0x0673 [0x1D] PRINT_EVENT_MESSAGE(message_id=10161*)
     → "The $1 in your body has the power to call forrrth the Tonberries. That is why anyone currrsed with that flame is forrrbidden frrrom enterrring Kazham!"
   5: 0x0676 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0677 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0E)
-  7: 0x067E [0x1D] PRINT_EVENT_MESSAGE(message_id=10161*)
+  7: 0x067E [0x1D] PRINT_EVENT_MESSAGE(message_id=10162*)
     → "You have a day. Get yourrr things togetherrr and get out of my village!"
   8: 0x0681 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0682 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2176,7 +2176,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x06E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10167*)
+  0: 0x06E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
     → "Are you still herrre? I thought I told you to get out of my village! If you don't leave rrright now, I'll have to dispose of you myself..."
   1: 0x06EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06ED [0x00] END_REQSTACK()
@@ -2202,7 +2202,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x06EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
+  0: 0x06EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10169*)
     → "What is this you say? You've removed the curse?"
   1: 0x06F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06F2 [0x00] END_REQSTACK()
@@ -2227,7 +2227,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x06F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10169*)
+  0: 0x06F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10170*)
     → "Well, well, well... I guess there is no longer any reason to banish you from Kazham."
   1: 0x06F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06F7 [0x00] END_REQSTACK()
@@ -2252,7 +2252,7 @@ SUBROUTINE_0623:
 #### Opcodes
 
 ```
-  0: 0x06F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10170*)
+  0: 0x06F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10171*)
     → "I can assume that you won't be touching any morrre $1 from now on, will you?"
   1: 0x06FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06FC [0x00] END_REQSTACK()
@@ -2284,12 +2284,12 @@ SUBROUTINE_0623:
   1: 0x0702 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0703 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0704 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x070B [0x1D] PRINT_EVENT_MESSAGE(message_id=10171*)
+  4: 0x070B [0x1D] PRINT_EVENT_MESSAGE(message_id=10172*)
     → "Don't get me wrong. I've spent my time in the mainlands. I don't hate all of you."
   5: 0x070E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x070F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
   7: 0x0716 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
-  8: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=10172*)
+  8: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=10173*)
     → "But you mainlanders cause too many problems. You should think a little more beforrre you act. Understood?"
   9: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0721 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -2324,12 +2324,12 @@ SUBROUTINE_0623:
   1: 0x0731 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0732 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0733 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x07)
-  4: 0x073A [0x1D] PRINT_EVENT_MESSAGE(message_id=10478*)
+  4: 0x073A [0x1D] PRINT_EVENT_MESSAGE(message_id=10479*)
     → "Rhinostery minister? Here in Kazham?"
   5: 0x073D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x073E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x08)
   7: 0x0745 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x09)
-  8: 0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=10479*)
+  8: 0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=10480*)
     → "Oh, yes. Now I remember. That strrrange little lady with the funny accent. Yes, she kept asking me about the ancient times, so I sent her to someone ancient--our former chieftainness."
   9: 0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0750 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0A)
@@ -2436,7 +2436,7 @@ SUBROUTINE_0623:
 
 SUBROUTINE_07FC:
  29: 0x07FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 30: 0x080D [0x1D] PRINT_EVENT_MESSAGE(message_id=10643*)
+ 30: 0x080D [0x1D] PRINT_EVENT_MESSAGE(message_id=10644*)
     → "Ah, if it isn't <Player>. Lately, I've been hearrring rumors about you. They say that for a mainlander, you are quite talented when it comes to wielding a daggerrr."
  31: 0x0810 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0811 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x082B
@@ -2450,12 +2450,12 @@ SUBROUTINE_07FC:
 SUBROUTINE_0854:
  39: 0x0854 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[228*, 0*]
  40: 0x0865 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
- 41: 0x086C [0x1D] PRINT_EVENT_MESSAGE(message_id=10644*)
+ 41: 0x086C [0x1D] PRINT_EVENT_MESSAGE(message_id=10645*)
     → "I'm not one to brrrag, but I, too, am quite skilled with knives. Why, just the other day I came up with a new technique that can slice and dice even the toughest Tonberrry."
  42: 0x086F [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0870 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
  44: 0x0877 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
- 45: 0x087E [0x1D] PRINT_EVENT_MESSAGE(message_id=10645*)
+ 45: 0x087E [0x1D] PRINT_EVENT_MESSAGE(message_id=10646*)
     → "But there's a problem..."
  46: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0882 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -2476,17 +2476,17 @@ SUBROUTINE_0854:
 
 SUBROUTINE_0919:
  62: 0x0919 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x07)
- 63: 0x0920 [0x1D] PRINT_EVENT_MESSAGE(message_id=10646*)
+ 63: 0x0920 [0x1D] PRINT_EVENT_MESSAGE(message_id=10647*)
     → "If anybody gets their grrrimy hands on it, I'll be in trrrouble. That's why I have to start practicing dodging the technique as well as using it."
  64: 0x0923 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0924 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x08)
  66: 0x092B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x09)
- 67: 0x0932 [0x1D] PRINT_EVENT_MESSAGE(message_id=10647*)
+ 67: 0x0932 [0x1D] PRINT_EVENT_MESSAGE(message_id=10648*)
     → "And that's the prrroblem. None of the pussycats around here have the skill required to perrrform it!"
  68: 0x0935 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0936 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0A)
  70: 0x093D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
- 71: 0x0944 [0x1D] PRINT_EVENT_MESSAGE(message_id=10648*)
+ 71: 0x0944 [0x1D] PRINT_EVENT_MESSAGE(message_id=10649*)
     → "If I could only find someone that could match me in battle..."
  72: 0x0947 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0948 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
@@ -2509,12 +2509,12 @@ SUBROUTINE_0919:
 SUBROUTINE_09D4:
  89: 0x09D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[228*, 0*]
  90: 0x09E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0F)
- 91: 0x09EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10649*)
+ 91: 0x09EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10650*)
     → "How about you? Do you want to take a stab at learrrning my new technique?"
  92: 0x09EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x09F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x10)
  94: 0x09F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x13)
- 95: 0x09FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10650*)
+ 95: 0x09FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10651*)
     → "Here, take one of my daggerrrs and practice until the blade's been completely drrrained of its power. Come back here when you're done, and I'll show you my secrrrets."
  96: 0x0A01 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0A02 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -2563,18 +2563,18 @@ SUBROUTINE_09D4:
   0: 0x0A49 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0A4E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A4F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0A50 [0x1D] PRINT_EVENT_MESSAGE(message_id=10651*)
+  3: 0x0A50 [0x1D] PRINT_EVENT_MESSAGE(message_id=10652*)
     → "If you want to learn my new technique, you're going to have to train with that daggerrr. Do you have a prrroblem with that!?"
   4: 0x0A53 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0A54 [0x03] Work_Zone[1] = 0*
-  6: 0x0A59 [0x24] CREATE_DIALOG(message_id=10652*, default_option=0*, option_flags=Work_Zone[6])
+  6: 0x0A59 [0x24] CREATE_DIALOG(message_id=10653*, default_option=0*, option_flags=Work_Zone[6])
     → "Any complaints? [No, ma'am!/I seem to have misplaced the dagger./I've had enough of this training.]"
   7: 0x0A60 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0A61 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A79
-  9: 0x0A69 [0x1D] PRINT_EVENT_MESSAGE(message_id=10658*)
+  9: 0x0A69 [0x1D] PRINT_EVENT_MESSAGE(message_id=10659*)
     → "That daggerrr I gave you, I made it myself--rrright down to its hidden abilities. But the more you use it, the less powerful it becomes."
  10: 0x0A6C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0A6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10659*)
+ 11: 0x0A6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10660*)
     → "When all its powerrr is gone, bring it back here and we'll test how good you rrreally have become."
  12: 0x0A70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0A71 [0x03] Work_Zone[1] = 0*
@@ -2582,25 +2582,25 @@ SUBROUTINE_09D4:
  15: 0x0A79 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A8E
  16: 0x0A81 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  17: 0x0A82 [0x03] Work_Zone[1] = 1*
- 18: 0x0A87 [0x1D] PRINT_EVENT_MESSAGE(message_id=10653*)
+ 18: 0x0A87 [0x1D] PRINT_EVENT_MESSAGE(message_id=10654*)
     → "You lose any more of my belongings, and I will scrrratch your eyes out and eat them for dinner!"
  19: 0x0A8A [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0A8B [0x01] GOTO 0x0AD3
  21: 0x0A8E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0AD3
  22: 0x0A96 [0x03] Work_Zone[1] = 2*
- 23: 0x0A9B [0x1D] PRINT_EVENT_MESSAGE(message_id=10654*)
+ 23: 0x0A9B [0x1D] PRINT_EVENT_MESSAGE(message_id=10655*)
     → "So, you mean to say this task was too difficult for you?"
  24: 0x0A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0A9F [0x24] CREATE_DIALOG(message_id=10655*, default_option=1*, option_flags=0*)
+ 25: 0x0A9F [0x24] CREATE_DIALOG(message_id=10656*, default_option=1*, option_flags=0*)
     → "Really quit your training? [Yes./Not just yet.]"
  26: 0x0AA6 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0AA7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AC0
  28: 0x0AAF [0x42] SET_CLI_EVENT_CANCEL_DATA()
  29: 0x0AB0 [0x03] Work_Zone[1] = 3*
- 30: 0x0AB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10656*)
+ 30: 0x0AB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10657*)
     → "Hmph. Well, I guess it's betterrr this way. I prrrobably would have killed a weakling like you just showing you the technique."
  31: 0x0AB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0AB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10657*)
+ 32: 0x0AB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10658*)
     → "Oh, and you can get rid of that daggerrr yourself. I wouldn't think of using another [man's/woman's] weapon."
  33: 0x0ABC [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0ABD [0x01] GOTO 0x0AD0
@@ -2640,7 +2640,7 @@ SUBROUTINE_0AD3:
   0: 0x0AD7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0ADC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0ADD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0ADE [0x1D] PRINT_EVENT_MESSAGE(message_id=10660*)
+  3: 0x0ADE [0x1D] PRINT_EVENT_MESSAGE(message_id=10661*)
     → "You're far from being done, [tigerrr/kitty]. When all the dagger's power is gone, bring it back here. Then we'll test how good you rrreally have become."
   4: 0x0AE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0AE2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2737,7 +2737,7 @@ SUBROUTINE_0AD3:
 SUBROUTINE_0BBA:
  34: 0x0BBA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  35: 0x0BCB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
- 36: 0x0BD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10661*)
+ 36: 0x0BD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10662*)
     → "Ah, so you're finally done. I was beginning to worry that you'd neverrr come back."
  37: 0x0BD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0BD6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
@@ -2759,12 +2759,12 @@ SUBROUTINE_0C54:
  52: 0x0C54 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  53: 0x0C65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[228*, 0*]
  54: 0x0C76 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
- 55: 0x0C7D [0x1D] PRINT_EVENT_MESSAGE(message_id=10662*)
+ 55: 0x0C7D [0x1D] PRINT_EVENT_MESSAGE(message_id=10663*)
     → "Now it's time to see if you rrreally have what it takes to be my parrrtner in prrractice. Take this map to the Gustav Tunnel and dice up the monster waiting for you there."
  56: 0x0C80 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0C81 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
  58: 0x0C88 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0B)
- 59: 0x0C8F [0x1D] PRINT_EVENT_MESSAGE(message_id=10663*)
+ 59: 0x0C8F [0x1D] PRINT_EVENT_MESSAGE(message_id=10664*)
     → "And don't forget to brrring back $6. Otherwise, how am I supposed to know that you just didn't have some of your cat pack defeat the monsterrr for you?"
  60: 0x0C92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0C93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0C)
@@ -2805,7 +2805,7 @@ SUBROUTINE_0C54:
   0: 0x0CE4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0CE9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0CEA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0CEB [0x1D] PRINT_EVENT_MESSAGE(message_id=10664*)
+  3: 0x0CEB [0x1D] PRINT_EVENT_MESSAGE(message_id=10665*)
     → "Now get out of here! The quicker you get back from the Gustav Tunnel, the quicker I can start prrracticing!"
   4: 0x0CEE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0CEF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2916,12 +2916,12 @@ SUBROUTINE_0C54:
 SUBROUTINE_0DC7:
  34: 0x0DC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  35: 0x0DD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
- 36: 0x0DDF [0x1D] PRINT_EVENT_MESSAGE(message_id=10665*)
+ 36: 0x0DDF [0x1D] PRINT_EVENT_MESSAGE(message_id=10666*)
     → "You're finally back! Congrrratulations on taking out the monster in the tunnel."
  37: 0x0DE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0DE3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
  39: 0x0DEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
- 40: 0x0DF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10666*)
+ 40: 0x0DF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
     → "If you could handle that beast, then you are more than worrrthy to learn my new technique. Now let's begin..."
  41: 0x0DF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0DF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -2945,12 +2945,12 @@ SUBROUTINE_0E87:
  58: 0x0E87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[228*, 0*]
  59: 0x0E98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  60: 0x0EA9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0B)
- 61: 0x0EB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
+ 61: 0x0EB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
     → "So what do you think? Never seen anything like it before, have you? I must say, I am one smarrrt cat."
  62: 0x0EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0EB4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0C)
  64: 0x0EBB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
- 65: 0x0EC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
+ 65: 0x0EC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
     → "Thanks to you, I also was able to come up with a way to dodge it. What? You want me to teach you that, too?"
  66: 0x0EC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0EC6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
@@ -2965,12 +2965,12 @@ SUBROUTINE_0E87:
 
 SUBROUTINE_0F25:
  76: 0x0F25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x07)
- 77: 0x0F2C [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
+ 77: 0x0F2C [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
     → "I'm sorry, but that won't be possible. To tell you the trrruth, the only real way to dodge that technique would involve killing your opponent."
  78: 0x0F2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0F30 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x08)
  80: 0x0F37 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x09)
- 81: 0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
+ 81: 0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=10671*)
     → "You wouldn't want to be killed by me now, would you?"
  82: 0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0F42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0A)
@@ -3072,10 +3072,10 @@ SUBROUTINE_0FA5:
   1: 0x0FED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0FEE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0FEF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-  4: 0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10709*)
+  4: 0x0FF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10710*)
     → "From the time of that expedition thirty years ago until my inauguration as chieftainness..."
   5: 0x0FF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=10710*)
+  6: 0x0FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=10711*)
     → "Kazham has not been gentle with outsiders. That's just the kind of people we Mithra are."
   7: 0x0FFD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0FFE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)

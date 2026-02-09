@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2F44      |       12100 |
-|       2 | 0x2F45      |       12101 |
+|       1 | 0x2F45      |       12101 |
+|       2 | 0x2F46      |       12102 |
 
 ## String References
 
-- **12100**: Hey you, whaddaya say to a little friendly wager? The Allied Forces of Altana or the Beastman Confederate? Where's your money?
-- **12101**: Haha, I'm sorry, I'm sorry. Never mind me.
+- **12101**: Hey you, whaddaya say to a little friendly wager? The Allied Forces of Altana or the Beastman Confederate? Where's your money?
+- **12102**: Haha, I'm sorry, I'm sorry. Never mind me.
 
 ## Events
 
@@ -76,10 +76,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Berengein (ID: 17105394/0x010501F2), Berengein (ID: 17105394/0x010501F2)], work=20*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
     → "Hey you, whaddaya say to a little friendly wager? The Allied Forces of Altana or the Beastman Confederate? Where's your money?"
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
     → "Haha, I'm sorry, I'm sorry. Never mind me."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Berengein (ID: 17105394/0x010501F2), Berengein (ID: 17105394/0x010501F2)], work=20*

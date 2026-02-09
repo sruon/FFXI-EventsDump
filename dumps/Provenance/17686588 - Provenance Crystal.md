@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAC      |        7340 |
+|       0 | 0x1CAD      |        7341 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00FF      |         255 |
@@ -41,7 +41,7 @@
 
 ## String References
 
-- **7340**: Leave the battlefield? [Run away./Stay.]
+- **7341**: Leave the battlefield? [Run away./Stay.]
 
 ## Events
 
@@ -98,7 +98,7 @@
 
 ```
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7340*, default_option=1*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7341*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AE

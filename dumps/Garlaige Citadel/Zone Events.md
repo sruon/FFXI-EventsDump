@@ -65,17 +65,17 @@
 |      31 | 0x0078      |         120 |
 |      32 | 0x0040      |          64 |
 |      33 | 0x001E      |          30 |
-|      34 | 0x1CBD      |        7357 |
-|      35 | 0x1CBE      |        7358 |
+|      34 | 0x1CBE      |        7358 |
+|      35 | 0x1CBF      |        7359 |
 |      36 | 0x005A      |          90 |
-|      37 | 0x1CBF      |        7359 |
+|      37 | 0x1CC0      |        7360 |
 |      38 | 0x00F0      |         240 |
 |      39 | 0xFFFA3662  |  4294588002 |
 |      40 | 0x5E15A     |      385370 |
 |      41 | 0xFFFFD7F7  |  4294957047 |
 |      42 | 0x0422      |        1058 |
 |      43 | 0x00B4      |         180 |
-|      44 | 0x1D29      |        7465 |
+|      44 | 0x1D2A      |        7466 |
 |      45 | 0xFFFD4152  |  4294787410 |
 |      46 | 0xF53B      |       62779 |
 |      47 | 0xFFFFF34E  |  4294964046 |
@@ -453,11 +453,11 @@ SUBROUTINE_0066:
  25: 0x01F7 [0x79] LocalPlayer looks at Rainemard (ID: 17596817/0x010C8191) (Basic look)
  26: 0x0201 [0x1C] WAIT(30* ticks)
  27: 0x0204 [0x27] REQ_SET(priority=0x04, entity_id=Rainemard (ID: 17596817/0x010C8191), tag_num=0x05)
- 28: 0x020B [0x2B] Rainemard (ID: 17596817/0x010C8191) [7357*]:
+ 28: 0x020B [0x2B] Rainemard (ID: 17596817/0x010C8191) [7358*]:
     → "Who are you? I am sorry. Someone killed me and hid my remains here..."
  29: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0213 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Rainemard (ID: 17596817/0x010C8191), tag_num=0x07)
- 31: 0x021A [0x2B] Rainemard (ID: 17596817/0x010C8191) [7358*]:
+ 31: 0x021A [0x2B] Rainemard (ID: 17596817/0x010C8191) [7359*]:
     → "For so long, I have begged for someone to come release my trapped soul. But none heard my pleas..."
  32: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0222 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Rainemard (ID: 17596817/0x010C8191), tag_num=0x08)
@@ -468,7 +468,7 @@ SUBROUTINE_0066:
  38: 0x023F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
  39: 0x0250 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=207*
  40: 0x025F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rainemard (ID: 17596817/0x010C8191))
- 41: 0x0265 [0x2B] Rainemard (ID: 17596817/0x010C8191) [7359*]:
+ 41: 0x0265 [0x2B] Rainemard (ID: 17596817/0x010C8191) [7360*]:
     → "Now I am free! You have my thanks, but I have no time. I must go now."
  42: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x026D [0x27] REQ_SET(priority=0x04, entity_id=Rainemard (ID: 17596817/0x010C8191), tag_num=0x04)
@@ -523,7 +523,7 @@ SUBROUTINE_0066:
   8: 0x02EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x02FB [0x1C] WAIT(180* ticks)
  10: 0x02FE [0x79] Wanzo-Unzozo (ID: 17596835/0x010C81A3) looks at LocalPlayer (Basic look)
- 11: 0x0308 [0x2B] Wanzo-Unzozo (ID: 17596835/0x010C81A3) [7465*]:
+ 11: 0x0308 [0x2B] Wanzo-Unzozo (ID: 17596835/0x010C81A3) [7466*]:
     → "There you are! I was starting to get the heeby-weeby-jeebies waiting for you in this creepy-crawly place. Let's skeda-da-daddle!"
  12: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0310 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

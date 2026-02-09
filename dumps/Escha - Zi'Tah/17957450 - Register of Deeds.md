@@ -30,11 +30,11 @@
 |       7 | 0x0002      |           2 |
 |       8 | 0x0014      |          20 |
 |       9 | 0x001D      |          29 |
-|      10 | 0x1DFC      |        7676 |
+|      10 | 0x1DFD      |        7677 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x1DFD      |        7677 |
-|      13 | 0x1DFE      |        7678 |
-|      14 | 0x1DFF      |        7679 |
+|      12 | 0x1DFE      |        7678 |
+|      13 | 0x1DFF      |        7679 |
+|      14 | 0x1E00      |        7680 |
 |      15 | 0x001B      |          27 |
 |      16 | 0x000C      |          12 |
 |      17 | 0x0006      |           6 |
@@ -272,10 +272,10 @@
 
 ## String References
 
-- **7676**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
-- **7677**: Monsters Defeated in Escha - Zi'Tah. [Go back./Wepwawet. [/y$26z]/Lustful Lydia. [/y$26z]/Aglaophotis. [/y$26z]/Tangata Manu. [/y$26z]/Vidala. [/y$26z]/Gestalt. [/y$26z]/Angrboda. [/y$26z]/Cunnast. [/y$26z]/Revetaur. [/y$26z]/Ferrodon. [/y$26z]/Gulltop. [/y$26z]/Vyala. [/y$26z]/Ionos. [/y$26z]/Sensual Sandy. [/y$26z]/Nosoi. [/y$26z]/Brittlis. [/y$26z]/Kamohoalii. [/y$26z]/Umdhlebi. [/y$26z]/Fleetstalker. [/y$26z]/Shockmaw. [/y$26z]/Urmahlullu. [/y$26z]/Next Page.]
-- **7678**: Monsters Defeated in Escha - Zi'Tah. [Go back./Blazewing. [/y$26z]/Bucca/Puca/Alpluachra. [/y$26z]/Pazuzu. [/y$26z]/Wrathare. [/y$26z]/Previous page.]
-- **7679**: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Azi Dahaka $3 time[/s]./Defeated Mireu $5 time[/s].]
+- **7677**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
+- **7678**: Monsters Defeated in Escha - Zi'Tah. [Go back./Wepwawet. [/y$26z]/Lustful Lydia. [/y$26z]/Aglaophotis. [/y$26z]/Tangata Manu. [/y$26z]/Vidala. [/y$26z]/Gestalt. [/y$26z]/Angrboda. [/y$26z]/Cunnast. [/y$26z]/Revetaur. [/y$26z]/Ferrodon. [/y$26z]/Gulltop. [/y$26z]/Vyala. [/y$26z]/Ionos. [/y$26z]/Sensual Sandy. [/y$26z]/Nosoi. [/y$26z]/Brittlis. [/y$26z]/Kamohoalii. [/y$26z]/Umdhlebi. [/y$26z]/Fleetstalker. [/y$26z]/Shockmaw. [/y$26z]/Urmahlullu. [/y$26z]/Next Page.]
+- **7679**: Monsters Defeated in Escha - Zi'Tah. [Go back./Blazewing. [/y$26z]/Bucca/Puca/Alpluachra. [/y$26z]/Pazuzu. [/y$26z]/Wrathare. [/y$26z]/Previous page.]
+- **7680**: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Azi Dahaka $3 time[/s]./Defeated Mireu $5 time[/s].]
 
 ## Events
 
@@ -567,7 +567,7 @@ SUBROUTINE_0067:
 
 SUBROUTINE_0070:
  22: 0x0070 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x00BF
- 23: 0x0078 [0x24] CREATE_DIALOG(message_id=7676*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[8])
+ 23: 0x0078 [0x24] CREATE_DIALOG(message_id=7677*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[8])
     → "What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]"
  24: 0x007F [0x25] WAIT_DIALOG_SELECT()
  25: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0093
@@ -599,7 +599,7 @@ SUBROUTINE_00CC:
  43: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0142
  44: 0x00D4 [0x1A] CALL_SUBROUTINE(address=0x0176)
  45: 0x00D7 [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x010B
- 46: 0x00DF [0x24] CREATE_DIALOG(message_id=7677*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 46: 0x00DF [0x24] CREATE_DIALOG(message_id=7678*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Monsters Defeated in Escha - Zi'Tah. [Go back./Wepwawet. [/y$26z]/Lustful Lydia. [/y$26z]/Aglaophotis. [/y$26z]/Tangata Manu. [/y$26z]/Vidala. [/y$26z]/Gestalt. [/y$26z]/Angrboda. [/y$26z]/Cunnast. [/y$26z]/Revetaur. [/y$26z]/Ferrodon. [/y$26z]/Gulltop. [/y$26z]/Vyala. [/y$26z]/Ionos. [/y$26z]/Sensual Sandy. [/y$26z]/Nosoi. [/y$26z]/Brittlis. [/y$26z]/Kamohoalii. [/y$26z]/Umdhlebi. [/y$26z]/Fleetstalker. [/y$26z]/Shockmaw. [/y$26z]/Urmahlullu. [/y$26z]/Next Page.]"
  47: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
  48: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -613,7 +613,7 @@ SUBROUTINE_00F5:
  54: 0x0105 [0x06] ExtData[1]->WorkLocal[10] = 0
  55: 0x0108 [0x01] GOTO 0x013F
  56: 0x010B [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x013F
- 57: 0x0113 [0x24] CREATE_DIALOG(message_id=7678*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 57: 0x0113 [0x24] CREATE_DIALOG(message_id=7679*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Monsters Defeated in Escha - Zi'Tah. [Go back./Blazewing. [/y$26z]/Bucca/Puca/Alpluachra. [/y$26z]/Pazuzu. [/y$26z]/Wrathare. [/y$26z]/Previous page.]"
  58: 0x011A [0x25] WAIT_DIALOG_SELECT()
  59: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0129
@@ -640,7 +640,7 @@ SUBROUTINE_014C:
  72: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0175
  73: 0x0154 [0x1A] CALL_SUBROUTINE(address=0x0344)
  74: 0x0157 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
- 75: 0x015C [0x24] CREATE_DIALOG(message_id=7679*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 75: 0x015C [0x24] CREATE_DIALOG(message_id=7680*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Azi Dahaka $3 time[/s]./Defeated Mireu $5 time[/s].]"
  76: 0x0163 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0164 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0172

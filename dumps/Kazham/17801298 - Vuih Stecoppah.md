@@ -88,26 +88,26 @@
 |      11 | 0xFFFFDE76  |  4294958710 |
 |      12 | 0xFFFF9050  |  4294938704 |
 |      13 | 0xFFFFEFCC  |  4294963148 |
-|      14 | 0x28AC      |       10412 |
-|      15 | 0x28AD      |       10413 |
-|      16 | 0x28AE      |       10414 |
-|      17 | 0x28AF      |       10415 |
-|      18 | 0x28B0      |       10416 |
-|      19 | 0x28B1      |       10417 |
+|      14 | 0x28AD      |       10413 |
+|      15 | 0x28AE      |       10414 |
+|      16 | 0x28AF      |       10415 |
+|      17 | 0x28B0      |       10416 |
+|      18 | 0x28B1      |       10417 |
+|      19 | 0x28B2      |       10418 |
 |      20 | 0x0009      |           9 |
-|      21 | 0x28B3      |       10419 |
-|      22 | 0x28B5      |       10421 |
-|      23 | 0x28B6      |       10422 |
-|      24 | 0x28BC      |       10428 |
-|      25 | 0x28BF      |       10431 |
-|      26 | 0x28C0      |       10432 |
-|      27 | 0x28C1      |       10433 |
-|      28 | 0x28C2      |       10434 |
-|      29 | 0x28C3      |       10435 |
-|      30 | 0x28C4      |       10436 |
-|      31 | 0x28C5      |       10437 |
-|      32 | 0x28C6      |       10438 |
-|      33 | 0x28C7      |       10439 |
+|      21 | 0x28B4      |       10420 |
+|      22 | 0x28B6      |       10422 |
+|      23 | 0x28B7      |       10423 |
+|      24 | 0x28BD      |       10429 |
+|      25 | 0x28C0      |       10432 |
+|      26 | 0x28C1      |       10433 |
+|      27 | 0x28C2      |       10434 |
+|      28 | 0x28C3      |       10435 |
+|      29 | 0x28C4      |       10436 |
+|      30 | 0x28C5      |       10437 |
+|      31 | 0x28C6      |       10438 |
+|      32 | 0x28C7      |       10439 |
+|      33 | 0x28C8      |       10440 |
 |      34 | 0xAC46      |       44102 |
 |      35 | 0xFFFD5405  |  4294792197 |
 |      36 | 0xFFFFD509  |  4294956297 |
@@ -116,42 +116,42 @@
 |      39 | 0xFFFD4260  |  4294787680 |
 |      40 | 0x0104      |         260 |
 |      41 | 0x0008      |           8 |
-|      42 | 0x28CB      |       10443 |
-|      43 | 0x28CD      |       10445 |
-|      44 | 0x28CF      |       10447 |
-|      45 | 0x28D1      |       10449 |
-|      46 | 0x28D3      |       10451 |
-|      47 | 0x28D4      |       10452 |
-|      48 | 0x28D5      |       10453 |
+|      42 | 0x28CC      |       10444 |
+|      43 | 0x28CE      |       10446 |
+|      44 | 0x28D0      |       10448 |
+|      45 | 0x28D2      |       10450 |
+|      46 | 0x28D4      |       10452 |
+|      47 | 0x28D5      |       10453 |
+|      48 | 0x28D6      |       10454 |
 
 ## String References
 
-- **10412**: You don't have to be afrrraid! That Opo-opo likes you!
-- **10413**: He's saying that he likes your smell. He says you smell like the jungle!
-- **10414**: He's also saying that if you give all the Opo-opos in the village a present, they will make you their king!
-- **10415**: He's saying that he wants an "Opoppo." That means he wants $1!
-- **10416**: But you have to be carrreful. The Opo-opos have a very strrrict system of hierarchy. If an Opo-opo lower than themselves gets a present beforrre they do, they'll go all "Opi-opi!"
-- **10417**: So, if you don't give them their presents in the rrright order, you'll have to start all overrr again.
-- **10419**: Sorry! I'll be rrright there!
-- **10421**: Ha-ha! Sorry you don't like it! Bye-bye!
-- **10422**: Oh, I didn't tell you my name, did I?
-- **10428**: But even if you did know the rrright order, you've got to know what the Opo-opos are saying if you want to know what they want.
-- **10431**: Listen carrrefully! "Opoh opo!" means $3.
-- **10432**: Now listen! "Opopoppo!" means $3.
-- **10433**: Listen up! "Oh! Ohpo!" means $3.
-- **10434**: Listen closely! "Opopoh-o" means $3.
-- **10435**: Listen! "Popo-o Popo-o" means $3.
-- **10436**: Listen carrrefully! "Poppo-opo!" means $3.
-- **10437**: Now listen! "Po-oppo Opo-opo!" means $3.
-- **10438**: Listen up! "Opo-opo-opo-opo-o popopo-opopo!" means $3.
-- **10439**: Listen closely! "Ohpo-opo Poh-opo-o!" means $3.
-- **10443**: Wow! The Opo-opos are saying that they've made you their king!
-- **10445**: They're saying they are going to give their king their most prrrized possession.
-- **10447**: Opoh!? Opo-opoh poppopopopo! Opoppo-opo!
-- **10449**: Opi-opi! Opo-opo opi-opi!
-- **10451**: Oh, I'm sorry! The Opo-opos just asked you to do something that would have been impossible.
-- **10452**: Here, I'll give you these instead.
-- **10453**: Long live the king! Opo-opo!
+- **10413**: You don't have to be afrrraid! That Opo-opo likes you!
+- **10414**: He's saying that he likes your smell. He says you smell like the jungle!
+- **10415**: He's also saying that if you give all the Opo-opos in the village a present, they will make you their king!
+- **10416**: He's saying that he wants an "Opoppo." That means he wants $1!
+- **10417**: But you have to be carrreful. The Opo-opos have a very strrrict system of hierarchy. If an Opo-opo lower than themselves gets a present beforrre they do, they'll go all "Opi-opi!"
+- **10418**: So, if you don't give them their presents in the rrright order, you'll have to start all overrr again.
+- **10420**: Sorry! I'll be rrright there!
+- **10422**: Ha-ha! Sorry you don't like it! Bye-bye!
+- **10423**: Oh, I didn't tell you my name, did I?
+- **10429**: But even if you did know the rrright order, you've got to know what the Opo-opos are saying if you want to know what they want.
+- **10432**: Listen carrrefully! "Opoh opo!" means $3.
+- **10433**: Now listen! "Opopoppo!" means $3.
+- **10434**: Listen up! "Oh! Ohpo!" means $3.
+- **10435**: Listen closely! "Opopoh-o" means $3.
+- **10436**: Listen! "Popo-o Popo-o" means $3.
+- **10437**: Listen carrrefully! "Poppo-opo!" means $3.
+- **10438**: Now listen! "Po-oppo Opo-opo!" means $3.
+- **10439**: Listen up! "Opo-opo-opo-opo-o popopo-opopo!" means $3.
+- **10440**: Listen closely! "Ohpo-opo Poh-opo-o!" means $3.
+- **10444**: Wow! The Opo-opos are saying that they've made you their king!
+- **10446**: They're saying they are going to give their king their most prrrized possession.
+- **10448**: Opoh!? Opo-opoh poppopopopo! Opoppo-opo!
+- **10450**: Opi-opi! Opo-opo opi-opi!
+- **10452**: Oh, I'm sorry! The Opo-opos just asked you to do something that would have been impossible.
+- **10453**: Here, I'll give you these instead.
+- **10454**: Long live the king! Opo-opo!
 
 ## Events
 
@@ -727,7 +727,7 @@
 #### Opcodes
 
 ```
-  0: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=10412*)
+  0: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=10413*)
     → "You don't have to be afrrraid! That Opo-opo likes you!"
   1: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013A [0x00] END_REQSTACK()
@@ -752,7 +752,7 @@
 #### Opcodes
 
 ```
-  0: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=10413*)
+  0: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=10414*)
     → "He's saying that he likes your smell. He says you smell like the jungle!"
   1: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013F [0x00] END_REQSTACK()
@@ -777,7 +777,7 @@
 #### Opcodes
 
 ```
-  0: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=10414*)
+  0: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=10415*)
     → "He's also saying that if you give all the Opo-opos in the village a present, they will make you their king!"
   1: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0144 [0x00] END_REQSTACK()
@@ -802,7 +802,7 @@
 #### Opcodes
 
 ```
-  0: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=10415*)
+  0: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=10416*)
     → "He's saying that he wants an "Opoppo." That means he wants $1!"
   1: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0149 [0x00] END_REQSTACK()
@@ -827,7 +827,7 @@
 #### Opcodes
 
 ```
-  0: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=10416*)
+  0: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=10417*)
     → "But you have to be carrreful. The Opo-opos have a very strrrict system of hierarchy. If an Opo-opo lower than themselves gets a present beforrre they do, they'll go all "Opi-opi!""
   1: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x014E [0x00] END_REQSTACK()
@@ -853,7 +853,7 @@
 #### Opcodes
 
 ```
-  0: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=10417*)
+  0: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=10418*)
     → "So, if you don't give them their presents in the rrright order, you'll have to start all overrr again."
   1: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0153 [0x00] END_REQSTACK()
@@ -881,7 +881,7 @@
 ```
   0: 0x0154 [0x6E] EventEntity uses emote 9*
   1: 0x015B [0x99] Wait for EventEntity animation to complete
-  2: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=10419*)
+  2: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=10420*)
     → "Sorry! I'll be rrright there!"
   3: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0164 [0x00] END_REQSTACK()
@@ -906,7 +906,7 @@
 #### Opcodes
 
 ```
-  0: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=10421*)
+  0: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
     → "Ha-ha! Sorry you don't like it! Bye-bye!"
   1: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0169 [0x00] END_REQSTACK()
@@ -931,7 +931,7 @@
 #### Opcodes
 
 ```
-  0: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
+  0: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
     → "Oh, I didn't tell you my name, did I?"
   1: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x016E [0x00] END_REQSTACK()
@@ -1000,7 +1000,7 @@
 #### Opcodes
 
 ```
-  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
+  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
     → "But even if you did know the rrright order, you've got to know what the Opo-opos are saying if you want to know what they want."
   1: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0175 [0x00] END_REQSTACK()
@@ -1025,7 +1025,7 @@
 #### Opcodes
 
 ```
-  0: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=10431*)
+  0: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
     → "Listen carrrefully! "Opoh opo!" means $3."
   1: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017A [0x00] END_REQSTACK()
@@ -1050,7 +1050,7 @@
 #### Opcodes
 
 ```
-  0: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
+  0: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
     → "Now listen! "Opopoppo!" means $3."
   1: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017F [0x00] END_REQSTACK()
@@ -1075,7 +1075,7 @@
 #### Opcodes
 
 ```
-  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
+  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
     → "Listen up! "Oh! Ohpo!" means $3."
   1: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0184 [0x00] END_REQSTACK()
@@ -1100,7 +1100,7 @@
 #### Opcodes
 
 ```
-  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
+  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=10435*)
     → "Listen closely! "Opopoh-o" means $3."
   1: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0189 [0x00] END_REQSTACK()
@@ -1125,7 +1125,7 @@
 #### Opcodes
 
 ```
-  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=10435*)
+  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=10436*)
     → "Listen! "Popo-o Popo-o" means $3."
   1: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018E [0x00] END_REQSTACK()
@@ -1151,7 +1151,7 @@
 #### Opcodes
 
 ```
-  0: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=10436*)
+  0: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=10437*)
     → "Listen carrrefully! "Poppo-opo!" means $3."
   1: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0193 [0x00] END_REQSTACK()
@@ -1176,7 +1176,7 @@
 #### Opcodes
 
 ```
-  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=10437*)
+  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=10438*)
     → "Now listen! "Po-oppo Opo-opo!" means $3."
   1: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0198 [0x00] END_REQSTACK()
@@ -1201,7 +1201,7 @@
 #### Opcodes
 
 ```
-  0: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=10438*)
+  0: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=10439*)
     → "Listen up! "Opo-opo-opo-opo-o popopo-opopo!" means $3."
   1: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x019D [0x00] END_REQSTACK()
@@ -1227,7 +1227,7 @@
 #### Opcodes
 
 ```
-  0: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=10439*)
+  0: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=10440*)
     → "Listen closely! "Ohpo-opo Poh-opo-o!" means $3."
   1: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01A2 [0x00] END_REQSTACK()
@@ -1375,7 +1375,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10443*)
+  0: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10444*)
     → "Wow! The Opo-opos are saying that they've made you their king!"
   1: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01DE [0x00] END_REQSTACK()
@@ -1401,7 +1401,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10445*)
+  0: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10446*)
     → "They're saying they are going to give their king their most prrrized possession."
   1: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E3 [0x00] END_REQSTACK()
@@ -1426,7 +1426,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10447*)
+  0: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10448*)
     → "Opoh!? Opo-opoh poppopopopo! Opoppo-opo!"
   1: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E8 [0x00] END_REQSTACK()
@@ -1451,7 +1451,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10449*)
+  0: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10450*)
     → "Opi-opi! Opo-opo opi-opi!"
   1: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01ED [0x00] END_REQSTACK()
@@ -1477,7 +1477,7 @@
 #### Opcodes
 
 ```
-  0: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
+  0: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
     → "Oh, I'm sorry! The Opo-opos just asked you to do something that would have been impossible."
   1: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F2 [0x00] END_REQSTACK()
@@ -1502,7 +1502,7 @@
 #### Opcodes
 
 ```
-  0: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
+  0: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
     → "Here, I'll give you these instead."
   1: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F7 [0x00] END_REQSTACK()
@@ -1527,7 +1527,7 @@
 #### Opcodes
 
 ```
-  0: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
+  0: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
     → "Long live the king! Opo-opo!"
   1: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01FC [0x00] END_REQSTACK()

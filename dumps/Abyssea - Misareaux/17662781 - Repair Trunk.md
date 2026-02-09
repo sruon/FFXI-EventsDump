@@ -22,41 +22,41 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F7B      |        8059 |
+|       0 | 0x1F7C      |        8060 |
 |       1 | 0x065C      |        1628 |
-|       2 | 0x1F84      |        8068 |
-|       3 | 0x1F7C      |        8060 |
-|       4 | 0x1F7D      |        8061 |
+|       2 | 0x1F85      |        8069 |
+|       3 | 0x1F7D      |        8061 |
+|       4 | 0x1F7E      |        8062 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1F7E      |        8062 |
+|       6 | 0x1F7F      |        8063 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x1F85      |        8069 |
+|       8 | 0x1F86      |        8070 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x1F86      |        8070 |
+|      10 | 0x1F87      |        8071 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x1F87      |        8071 |
-|      13 | 0x1F7F      |        8063 |
-|      14 | 0x1F80      |        8064 |
-|      15 | 0x1F81      |        8065 |
-|      16 | 0x1F82      |        8066 |
+|      12 | 0x1F88      |        8072 |
+|      13 | 0x1F80      |        8064 |
+|      14 | 0x1F81      |        8065 |
+|      15 | 0x1F82      |        8066 |
+|      16 | 0x1F83      |        8067 |
 |      17 | 0x0004      |           4 |
-|      18 | 0x1F83      |        8067 |
+|      18 | 0x1F84      |        8068 |
 
 ## String References
 
-- **8059**: The trunk is filled to the brim with ensorceled provisions.
-- **8060**: Begin cramming the provisions into your $3?
-- **8061**: Proceed? [Let the cramming commence!/Not yet.]
-- **8062**: Select an action. [Examine the sack./Cram an elongated flask./Cram a triangular flask./Cram an oil cloth./Finish cramming.]
-- **8063**: The $3 appears to be in perfectly sound condition.
-- **8064**: The $3 feels a little bit taut.
-- **8065**: The $3 is showing signs of stretching.
-- **8066**: The fabric of the $3 is squeaking under the tension.
-- **8067**: The fabric of the $3 is squeaking with extreme urgency.
-- **8068**: A massive rent in the $3 smiles up at you, as if mocking your failure.
-- **8069**: You cram an elongated flask into the $3.
-- **8070**: You cram a triangular flask into the $3.
-- **8071**: You cram an oil cloth into the $3.
+- **8060**: The trunk is filled to the brim with ensorceled provisions.
+- **8061**: Begin cramming the provisions into your $3?
+- **8062**: Proceed? [Let the cramming commence!/Not yet.]
+- **8063**: Select an action. [Examine the sack./Cram an elongated flask./Cram a triangular flask./Cram an oil cloth./Finish cramming.]
+- **8064**: The $3 appears to be in perfectly sound condition.
+- **8065**: The $3 feels a little bit taut.
+- **8066**: The $3 is showing signs of stretching.
+- **8067**: The fabric of the $3 is squeaking under the tension.
+- **8068**: The fabric of the $3 is squeaking with extreme urgency.
+- **8069**: A massive rent in the $3 smiles up at you, as if mocking your failure.
+- **8070**: You cram an elongated flask into the $3.
+- **8071**: You cram a triangular flask into the $3.
+- **8072**: You cram an oil cloth into the $3.
 
 ## Events
 
@@ -108,7 +108,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x48] [System] [8059*]:
+  0: 0x0002 [0x48] [System] [8060*]:
     → "The trunk is filled to the brim with ensorceled provisions."
   1: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0006 [0x21] END_EVENT
@@ -136,10 +136,10 @@
 
 ```
   0: 0x0008 [0x03] Work_Zone[2] = 1628*
-  1: 0x000D [0x48] [System] [8059*]:
+  1: 0x000D [0x48] [System] [8060*]:
     → "The trunk is filled to the brim with ensorceled provisions."
   2: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0011 [0x48] [System] [8068*]:
+  3: 0x0011 [0x48] [System] [8069*]:
     → "A massive rent in the $3 smiles up at you, as if mocking your failure."
   4: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0015 [0x21] END_EVENT
@@ -184,20 +184,20 @@
 #### Opcodes
 
 ```
-  0: 0x0017 [0x48] [System] [8059*]:
+  0: 0x0017 [0x48] [System] [8060*]:
     → "The trunk is filled to the brim with ensorceled provisions."
   1: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001B [0x03] Work_Zone[2] = 1628*
-  3: 0x0020 [0x48] [System] [8060*]:
+  3: 0x0020 [0x48] [System] [8061*]:
     → "Begin cramming the provisions into your $3?"
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x24] CREATE_DIALOG(message_id=8061*, default_option=0*, option_flags=0*)
+  5: 0x0024 [0x24] CREATE_DIALOG(message_id=8062*, default_option=0*, option_flags=0*)
     → "Proceed? [Let the cramming commence!/Not yet.]"
   6: 0x002B [0x25] WAIT_DIALOG_SELECT()
   7: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CF
   8: 0x0034 [0x06] ExtData[1]->WorkLocal[0] = 0
   9: 0x0037 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00CC
- 10: 0x003F [0x24] CREATE_DIALOG(message_id=8062*, default_option=0*, option_flags=0*)
+ 10: 0x003F [0x24] CREATE_DIALOG(message_id=8063*, default_option=0*, option_flags=0*)
     → "Select an action. [Examine the sack./Cram an elongated flask./Cram a triangular flask./Cram an oil cloth./Finish cramming.]"
  11: 0x0046 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005E
@@ -208,7 +208,7 @@
  17: 0x005B [0x01] GOTO 0x00C9
  18: 0x005E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0080
  19: 0x0066 [0x03] Work_Zone[2] = 1628*
- 20: 0x006B [0x48] [System] [8069*]:
+ 20: 0x006B [0x48] [System] [8070*]:
     → "You cram an elongated flask into the $3."
  21: 0x006E [0x03] Work_Zone[1] = 1*
  22: 0x0073 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -218,7 +218,7 @@
  26: 0x007D [0x01] GOTO 0x00C9
  27: 0x0080 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00A2
  28: 0x0088 [0x03] Work_Zone[2] = 1628*
- 29: 0x008D [0x48] [System] [8070*]:
+ 29: 0x008D [0x48] [System] [8071*]:
     → "You cram a triangular flask into the $3."
  30: 0x0090 [0x03] Work_Zone[1] = 2*
  31: 0x0095 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -228,7 +228,7 @@
  35: 0x009F [0x01] GOTO 0x00C9
  36: 0x00A2 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00C4
  37: 0x00AA [0x03] Work_Zone[2] = 1628*
- 38: 0x00AF [0x48] [System] [8071*]:
+ 38: 0x00AF [0x48] [System] [8072*]:
     → "You cram an oil cloth into the $3."
  39: 0x00B2 [0x03] Work_Zone[1] = 3*
  40: 0x00B7 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
@@ -249,31 +249,31 @@ SUBROUTINE_00CF:
 SUBROUTINE_00D1:
  50: 0x00D1 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00E5
  51: 0x00D9 [0x03] Work_Zone[2] = 1628*
- 52: 0x00DE [0x48] [System] [8063*]:
+ 52: 0x00DE [0x48] [System] [8064*]:
     → "The $3 appears to be in perfectly sound condition."
  53: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00E2 [0x01] GOTO 0x0135
  55: 0x00E5 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x00F9
  56: 0x00ED [0x03] Work_Zone[2] = 1628*
- 57: 0x00F2 [0x48] [System] [8064*]:
+ 57: 0x00F2 [0x48] [System] [8065*]:
     → "The $3 feels a little bit taut."
  58: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x00F6 [0x01] GOTO 0x0135
  60: 0x00F9 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x010D
  61: 0x0101 [0x03] Work_Zone[2] = 1628*
- 62: 0x0106 [0x48] [System] [8065*]:
+ 62: 0x0106 [0x48] [System] [8066*]:
     → "The $3 is showing signs of stretching."
  63: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x010A [0x01] GOTO 0x0135
  65: 0x010D [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0121
  66: 0x0115 [0x03] Work_Zone[2] = 1628*
- 67: 0x011A [0x48] [System] [8066*]:
+ 67: 0x011A [0x48] [System] [8067*]:
     → "The fabric of the $3 is squeaking under the tension."
  68: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x011E [0x01] GOTO 0x0135
  70: 0x0121 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0135
  71: 0x0129 [0x03] Work_Zone[2] = 1628*
- 72: 0x012E [0x48] [System] [8067*]:
+ 72: 0x012E [0x48] [System] [8068*]:
     → "The fabric of the $3 is squeaking with extreme urgency."
  73: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0132 [0x01] GOTO 0x0135

@@ -39,11 +39,11 @@
 |       9 | 0x43DD      |       17373 |
 |      10 | 0xFFFF9FF4  |  4294942708 |
 |      11 | 0x054A      |        1354 |
-|      12 | 0x20AB      |        8363 |
+|      12 | 0x20AC      |        8364 |
 
 ## String References
 
-- **8363**: He\`y, don't run so fasty-wasty!
+- **8364**: He\`y, don't run so fasty-wasty!
 
 ## Events
 
@@ -262,7 +262,7 @@
 #### Opcodes
 
 ```
-  0: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=8363*)
+  0: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=8364*)
     → "He`y, don't run so fasty-wasty!"
   1: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0065 [0x00] END_REQSTACK()

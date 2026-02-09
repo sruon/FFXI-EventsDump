@@ -21,20 +21,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B2E      |       11054 |
+|       0 | 0x2B2F      |       11055 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x2B2F      |       11055 |
-|       3 | 0x2B30      |       11056 |
-|       4 | 0x2B31      |       11057 |
-|       5 | 0x2B32      |       11058 |
+|       2 | 0x2B30      |       11056 |
+|       3 | 0x2B31      |       11057 |
+|       4 | 0x2B32      |       11058 |
+|       5 | 0x2B33      |       11059 |
 
 ## String References
 
-- **11054**: The Tavnazian and San d'Orian Cathedrals both have roots in the same faith that originated centuries ago in the Elvaan kingdom.
-- **11055**: However, under the guidance of Cardinal Mildaurion C Giloumet, the Tavnazian Cathedral eventually branched from the original teachings of the San d'Orian church and began to evolve separately.
-- **11056**: Unfortunately, the Great War put an end to any further development of the Marquisate's culture...
-- **11057**: Now that Jeuno has reinstated ties with Tavnazia, it's only a matter of time before talks with the San d'Orian Cathedral are held.
-- **11058**: But I wonder if San d'Oria will really offer to help us...
+- **11055**: The Tavnazian and San d'Orian Cathedrals both have roots in the same faith that originated centuries ago in the Elvaan kingdom.
+- **11056**: However, under the guidance of Cardinal Mildaurion C Giloumet, the Tavnazian Cathedral eventually branched from the original teachings of the San d'Orian church and began to evolve separately.
+- **11057**: Unfortunately, the Great War put an end to any further development of the Marquisate's culture...
+- **11058**: Now that Jeuno has reinstated ties with Tavnazia, it's only a matter of time before talks with the San d'Orian Cathedral are held.
+- **11059**: But I wonder if San d'Oria will really offer to help us...
 
 ## Events
 
@@ -83,15 +83,15 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11054*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11055*)
     → "The Tavnazian and San d'Orian Cathedrals both have roots in the same faith that originated centuries ago in the Elvaan kingdom."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11055*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11056*)
     → "However, under the guidance of Cardinal Mildaurion C Giloumet, the Tavnazian Cathedral eventually branched from the original teachings of the San d'Orian church and began to evolve separately."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
-  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=11056*)
+  7: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=11057*)
     → "Unfortunately, the Great War put an end to any further development of the Marquisate's culture..."
   8: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0030 [0x21] END_EVENT
@@ -119,11 +119,11 @@
 
 ```
   0: 0x0032 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11057*)
+  1: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11058*)
     → "Now that Jeuno has reinstated ties with Tavnazia, it's only a matter of time before talks with the San d'Orian Cathedral are held."
   2: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=11058*)
+  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=11059*)
     → "But I wonder if San d'Oria will really offer to help us..."
   5: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004E [0x21] END_EVENT

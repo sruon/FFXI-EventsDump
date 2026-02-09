@@ -25,33 +25,33 @@
 |       0 | 0x0B4A      |        2890 |
 |       1 | 0x0003      |           3 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1EE1      |        7905 |
-|       4 | 0x1EE2      |        7906 |
-|       5 | 0x1EE4      |        7908 |
-|       6 | 0x1EE5      |        7909 |
-|       7 | 0x1EE6      |        7910 |
+|       3 | 0x1EE2      |        7906 |
+|       4 | 0x1EE3      |        7907 |
+|       5 | 0x1EE5      |        7909 |
+|       6 | 0x1EE6      |        7910 |
+|       7 | 0x1EE7      |        7911 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1EE7      |        7911 |
-|      10 | 0x1EE8      |        7912 |
-|      11 | 0x1EEB      |        7915 |
-|      12 | 0x1EEC      |        7916 |
-|      13 | 0x1EE9      |        7913 |
-|      14 | 0x1EEA      |        7914 |
+|       9 | 0x1EE8      |        7912 |
+|      10 | 0x1EE9      |        7913 |
+|      11 | 0x1EEC      |        7916 |
+|      12 | 0x1EED      |        7917 |
+|      13 | 0x1EEA      |        7914 |
+|      14 | 0x1EEB      |        7915 |
 |      15 | 0x00C9      |         201 |
 
 ## String References
 
-- **7905**: There's something foul in the air of late. Can you not feel it? Dark times have befallen us, yes, but this is something else altogether. This is...the "true darkness."
-- **7906**: Could it be that I am the only soul who senses this wickedness...?
-- **7908**: Such a charm would need to be made of $1 $0 ...
-- **7909**: Might you bring me the materials I require?
-- **7910**: Will you gather the materials? [As well as some for myself!/I don't think so...]
-- **7911**: I am in your debt! I must have them to ward away the darkness... Remember, I need $1 $0 !
-- **7912**: You do not share my fear... While we stand here debating, the true darkness creeps ever closer! I must do something!
-- **7913**: My charm requires $1 $0 ... Make haste!
-- **7914**: Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.
-- **7915**: I must have more charms! Please, bring me sets of $1 $0 !
-- **7916**: I promise you shall not leave empty-handed!
+- **7906**: There's something foul in the air of late. Can you not feel it? Dark times have befallen us, yes, but this is something else altogether. This is...the "true darkness."
+- **7907**: Could it be that I am the only soul who senses this wickedness...?
+- **7909**: Such a charm would need to be made of $1 $0 ...
+- **7910**: Might you bring me the materials I require?
+- **7911**: Will you gather the materials? [As well as some for myself!/I don't think so...]
+- **7912**: I am in your debt! I must have them to ward away the darkness... Remember, I need $1 $0 !
+- **7913**: You do not share my fear... While we stand here debating, the true darkness creeps ever closer! I must do something!
+- **7914**: My charm requires $1 $0 ... Make haste!
+- **7915**: Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.
+- **7916**: I must have more charms! Please, bring me sets of $1 $0 !
+- **7917**: I promise you shall not leave empty-handed!
 
 ## Events
 
@@ -112,40 +112,40 @@
   5: 0x001B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x001C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0064
-  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "There's something foul in the air of late. Can you not feel it? Dark times have befallen us, yes, but this is something else altogether. This is...the "true darkness.""
   9: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+ 10: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "Could it be that I am the only soul who senses this wickedness...?"
  11: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+ 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Such a charm would need to be made of $1 $0 ..."
  13: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+ 14: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "Might you bring me the materials I require?"
  15: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0035 [0x24] CREATE_DIALOG(message_id=7910*, default_option=1*, option_flags=0*)
+ 16: 0x0035 [0x24] CREATE_DIALOG(message_id=7911*, default_option=1*, option_flags=0*)
     → "Will you gather the materials? [As well as some for myself!/I don't think so...]"
  17: 0x003C [0x25] WAIT_DIALOG_SELECT()
  18: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0052
  19: 0x0045 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 20: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+ 20: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "I am in your debt! I must have them to ward away the darkness... Remember, I need $1 $0 !"
  21: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x004A [0x03] Work_Zone[1] = 1*
  23: 0x004F [0x01] GOTO 0x0061
  24: 0x0052 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0061
- 25: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+ 25: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "You do not share my fear... While we stand here debating, the true darkness creeps ever closer! I must do something!"
  26: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x005E [0x01] GOTO 0x0061
 
 SUBROUTINE_0061:
  28: 0x0061 [0x01] GOTO 0x006C
- 29: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 29: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "I must have more charms! Please, bring me sets of $1 $0 !"
  30: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+ 31: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "I promise you shall not leave empty-handed!"
  32: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -177,7 +177,7 @@ SUBROUTINE_006C:
   0: 0x006E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0073 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0074 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  3: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "My charm requires $1 $0 ... Make haste!"
   4: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0079 [0x21] END_EVENT
@@ -210,7 +210,7 @@ SUBROUTINE_006C:
   2: 0x007E [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0083 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0084 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+  5: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can."
   6: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0089 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

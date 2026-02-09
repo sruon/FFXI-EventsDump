@@ -134,10 +134,10 @@
 |      12 | 0xFFFF1F8F  |  4294909839 |
 |      13 | 0x1DBC0     |      121792 |
 |      14 | 0xFFFFCEED  |  4294954733 |
-|      15 | 0x1C72      |        7282 |
-|      16 | 0x1C73      |        7283 |
-|      17 | 0x1C7A      |        7290 |
-|      18 | 0x1C7B      |        7291 |
+|      15 | 0x1C73      |        7283 |
+|      16 | 0x1C74      |        7284 |
+|      17 | 0x1C7B      |        7291 |
+|      18 | 0x1C7C      |        7292 |
 |      19 | 0x001F      |          31 |
 |      20 | 0x0001      |           1 |
 |      21 | 0x0002      |           2 |
@@ -157,308 +157,308 @@
 |      35 | 0x0015      |          21 |
 |      36 | 0x0016      |          22 |
 |      37 | 0x0017      |          23 |
-|      38 | 0x1A5D      |        6749 |
+|      38 | 0x1A5E      |        6750 |
 |      39 | 0x0000      |           0 |
-|      40 | 0x1C79      |        7289 |
+|      40 | 0x1C7A      |        7290 |
 |      41 | 0x00C8      |         200 |
 |      42 | 0x003C      |          60 |
 |      43 | 0x008B      |         139 |
-|      44 | 0x1C7F      |        7295 |
-|      45 | 0x1C86      |        7302 |
-|      46 | 0x1C88      |        7304 |
-|      47 | 0x1C7D      |        7293 |
-|      48 | 0x1C7E      |        7294 |
-|      49 | 0x1C80      |        7296 |
-|      50 | 0x1C81      |        7297 |
-|      51 | 0x1C82      |        7298 |
-|      52 | 0x1C83      |        7299 |
-|      53 | 0x1C84      |        7300 |
-|      54 | 0x1C85      |        7301 |
-|      55 | 0x1C8E      |        7310 |
-|      56 | 0x1C8F      |        7311 |
-|      57 | 0x1C87      |        7303 |
-|      58 | 0x1C8C      |        7308 |
-|      59 | 0x1C8D      |        7309 |
-|      60 | 0x1C90      |        7312 |
-|      61 | 0x1C91      |        7313 |
-|      62 | 0x1C96      |        7318 |
-|      63 | 0x1C97      |        7319 |
-|      64 | 0x1C9D      |        7325 |
-|      65 | 0x1C9A      |        7322 |
-|      66 | 0x1C9B      |        7323 |
-|      67 | 0x1C9C      |        7324 |
-|      68 | 0x1C9E      |        7326 |
-|      69 | 0x1C9F      |        7327 |
-|      70 | 0x1CA0      |        7328 |
-|      71 | 0x1CA1      |        7329 |
-|      72 | 0x1CA7      |        7335 |
-|      73 | 0x1CA8      |        7336 |
-|      74 | 0x1CA9      |        7337 |
-|      75 | 0x1CAA      |        7338 |
-|      76 | 0x1CAB      |        7339 |
-|      77 | 0x1CAC      |        7340 |
-|      78 | 0x1CAD      |        7341 |
-|      79 | 0x1CAE      |        7342 |
-|      80 | 0x1CAF      |        7343 |
-|      81 | 0x1CB0      |        7344 |
-|      82 | 0x1CB1      |        7345 |
-|      83 | 0x1CB2      |        7346 |
-|      84 | 0x1CB9      |        7353 |
-|      85 | 0x1CBA      |        7354 |
-|      86 | 0x1CBB      |        7355 |
+|      44 | 0x1C80      |        7296 |
+|      45 | 0x1C87      |        7303 |
+|      46 | 0x1C89      |        7305 |
+|      47 | 0x1C7E      |        7294 |
+|      48 | 0x1C7F      |        7295 |
+|      49 | 0x1C81      |        7297 |
+|      50 | 0x1C82      |        7298 |
+|      51 | 0x1C83      |        7299 |
+|      52 | 0x1C84      |        7300 |
+|      53 | 0x1C85      |        7301 |
+|      54 | 0x1C86      |        7302 |
+|      55 | 0x1C8F      |        7311 |
+|      56 | 0x1C90      |        7312 |
+|      57 | 0x1C88      |        7304 |
+|      58 | 0x1C8D      |        7309 |
+|      59 | 0x1C8E      |        7310 |
+|      60 | 0x1C91      |        7313 |
+|      61 | 0x1C92      |        7314 |
+|      62 | 0x1C97      |        7319 |
+|      63 | 0x1C98      |        7320 |
+|      64 | 0x1C9E      |        7326 |
+|      65 | 0x1C9B      |        7323 |
+|      66 | 0x1C9C      |        7324 |
+|      67 | 0x1C9D      |        7325 |
+|      68 | 0x1C9F      |        7327 |
+|      69 | 0x1CA0      |        7328 |
+|      70 | 0x1CA1      |        7329 |
+|      71 | 0x1CA2      |        7330 |
+|      72 | 0x1CA8      |        7336 |
+|      73 | 0x1CA9      |        7337 |
+|      74 | 0x1CAA      |        7338 |
+|      75 | 0x1CAB      |        7339 |
+|      76 | 0x1CAC      |        7340 |
+|      77 | 0x1CAD      |        7341 |
+|      78 | 0x1CAE      |        7342 |
+|      79 | 0x1CAF      |        7343 |
+|      80 | 0x1CB0      |        7344 |
+|      81 | 0x1CB1      |        7345 |
+|      82 | 0x1CB2      |        7346 |
+|      83 | 0x1CB3      |        7347 |
+|      84 | 0x1CBA      |        7354 |
+|      85 | 0x1CBB      |        7355 |
+|      86 | 0x1CBC      |        7356 |
 |      87 | 0x00C9      |         201 |
-|      88 | 0x1CBC      |        7356 |
-|      89 | 0x1CC4      |        7364 |
-|      90 | 0x1CC1      |        7361 |
-|      91 | 0x1CC2      |        7362 |
-|      92 | 0x1CC3      |        7363 |
-|      93 | 0x1CC5      |        7365 |
-|      94 | 0x1CC6      |        7366 |
-|      95 | 0x1CC7      |        7367 |
-|      96 | 0x1CC8      |        7368 |
-|      97 | 0x1CD1      |        7377 |
-|      98 | 0x1CCF      |        7375 |
-|      99 | 0x1CD0      |        7376 |
-|     100 | 0x1CD2      |        7378 |
-|     101 | 0x1CD3      |        7379 |
-|     102 | 0x1CD4      |        7380 |
-|     103 | 0x1CD5      |        7381 |
-|     104 | 0x1CDC      |        7388 |
-|     105 | 0x1CDD      |        7389 |
-|     106 | 0x1CE2      |        7394 |
-|     107 | 0x1CE3      |        7395 |
-|     108 | 0x1CE6      |        7398 |
-|     109 | 0x1CE7      |        7399 |
-|     110 | 0x1CE8      |        7400 |
-|     111 | 0x1CE9      |        7401 |
-|     112 | 0x1CEA      |        7402 |
-|     113 | 0x1CF1      |        7409 |
-|     114 | 0x1CF2      |        7410 |
-|     115 | 0x1CF3      |        7411 |
-|     116 | 0x1CF4      |        7412 |
-|     117 | 0x1CF5      |        7413 |
-|     118 | 0x1CFA      |        7418 |
-|     119 | 0x1CFB      |        7419 |
-|     120 | 0x1CFC      |        7420 |
-|     121 | 0x1CFD      |        7421 |
-|     122 | 0x1CFE      |        7422 |
-|     123 | 0x1D04      |        7428 |
-|     124 | 0x1D05      |        7429 |
-|     125 | 0x1D0A      |        7434 |
-|     126 | 0x1D0B      |        7435 |
-|     127 | 0x1D0C      |        7436 |
-|     128 | 0x1D0D      |        7437 |
-|     129 | 0x1D0E      |        7438 |
-|     130 | 0x1D0F      |        7439 |
-|     131 | 0x1D10      |        7440 |
-|     132 | 0x1D11      |        7441 |
-|     133 | 0x1D16      |        7446 |
-|     134 | 0x1D17      |        7447 |
-|     135 | 0x1D18      |        7448 |
-|     136 | 0x1D19      |        7449 |
-|     137 | 0x1D1A      |        7450 |
-|     138 | 0x220E      |        8718 |
-|     139 | 0x220F      |        8719 |
-|     140 | 0x2210      |        8720 |
-|     141 | 0x2211      |        8721 |
+|      88 | 0x1CBD      |        7357 |
+|      89 | 0x1CC5      |        7365 |
+|      90 | 0x1CC2      |        7362 |
+|      91 | 0x1CC3      |        7363 |
+|      92 | 0x1CC4      |        7364 |
+|      93 | 0x1CC6      |        7366 |
+|      94 | 0x1CC7      |        7367 |
+|      95 | 0x1CC8      |        7368 |
+|      96 | 0x1CC9      |        7369 |
+|      97 | 0x1CD2      |        7378 |
+|      98 | 0x1CD0      |        7376 |
+|      99 | 0x1CD1      |        7377 |
+|     100 | 0x1CD3      |        7379 |
+|     101 | 0x1CD4      |        7380 |
+|     102 | 0x1CD5      |        7381 |
+|     103 | 0x1CD6      |        7382 |
+|     104 | 0x1CDD      |        7389 |
+|     105 | 0x1CDE      |        7390 |
+|     106 | 0x1CE3      |        7395 |
+|     107 | 0x1CE4      |        7396 |
+|     108 | 0x1CE7      |        7399 |
+|     109 | 0x1CE8      |        7400 |
+|     110 | 0x1CE9      |        7401 |
+|     111 | 0x1CEA      |        7402 |
+|     112 | 0x1CEB      |        7403 |
+|     113 | 0x1CF2      |        7410 |
+|     114 | 0x1CF3      |        7411 |
+|     115 | 0x1CF4      |        7412 |
+|     116 | 0x1CF5      |        7413 |
+|     117 | 0x1CF6      |        7414 |
+|     118 | 0x1CFB      |        7419 |
+|     119 | 0x1CFC      |        7420 |
+|     120 | 0x1CFD      |        7421 |
+|     121 | 0x1CFE      |        7422 |
+|     122 | 0x1CFF      |        7423 |
+|     123 | 0x1D05      |        7429 |
+|     124 | 0x1D06      |        7430 |
+|     125 | 0x1D0B      |        7435 |
+|     126 | 0x1D0C      |        7436 |
+|     127 | 0x1D0D      |        7437 |
+|     128 | 0x1D0E      |        7438 |
+|     129 | 0x1D0F      |        7439 |
+|     130 | 0x1D10      |        7440 |
+|     131 | 0x1D11      |        7441 |
+|     132 | 0x1D12      |        7442 |
+|     133 | 0x1D17      |        7447 |
+|     134 | 0x1D18      |        7448 |
+|     135 | 0x1D19      |        7449 |
+|     136 | 0x1D1A      |        7450 |
+|     137 | 0x1D1B      |        7451 |
+|     138 | 0x220F      |        8719 |
+|     139 | 0x2210      |        8720 |
+|     140 | 0x2211      |        8721 |
+|     141 | 0x2212      |        8722 |
 |     142 | 0x0006      |           6 |
-|     143 | 0x2212      |        8722 |
-|     144 | 0x2219      |        8729 |
-|     145 | 0x221A      |        8730 |
-|     146 | 0x221B      |        8731 |
-|     147 | 0x221C      |        8732 |
-|     148 | 0x221D      |        8733 |
-|     149 | 0x221E      |        8734 |
-|     150 | 0x221F      |        8735 |
-|     151 | 0x2220      |        8736 |
-|     152 | 0x2226      |        8742 |
-|     153 | 0x2227      |        8743 |
-|     154 | 0x2228      |        8744 |
-|     155 | 0x2229      |        8745 |
-|     156 | 0x222A      |        8746 |
-|     157 | 0x2231      |        8753 |
-|     158 | 0x2232      |        8754 |
-|     159 | 0x2233      |        8755 |
-|     160 | 0x2234      |        8756 |
-|     161 | 0x2235      |        8757 |
+|     143 | 0x2213      |        8723 |
+|     144 | 0x221A      |        8730 |
+|     145 | 0x221B      |        8731 |
+|     146 | 0x221C      |        8732 |
+|     147 | 0x221D      |        8733 |
+|     148 | 0x221E      |        8734 |
+|     149 | 0x221F      |        8735 |
+|     150 | 0x2220      |        8736 |
+|     151 | 0x2221      |        8737 |
+|     152 | 0x2227      |        8743 |
+|     153 | 0x2228      |        8744 |
+|     154 | 0x2229      |        8745 |
+|     155 | 0x222A      |        8746 |
+|     156 | 0x222B      |        8747 |
+|     157 | 0x2232      |        8754 |
+|     158 | 0x2233      |        8755 |
+|     159 | 0x2234      |        8756 |
+|     160 | 0x2235      |        8757 |
+|     161 | 0x2236      |        8758 |
 |     162 | 0x0007      |           7 |
-|     163 | 0x223C      |        8764 |
-|     164 | 0x223D      |        8765 |
-|     165 | 0x223E      |        8766 |
-|     166 | 0x223F      |        8767 |
-|     167 | 0x2246      |        8774 |
-|     168 | 0x2247      |        8775 |
-|     169 | 0x2248      |        8776 |
-|     170 | 0x2249      |        8777 |
+|     163 | 0x223D      |        8765 |
+|     164 | 0x223E      |        8766 |
+|     165 | 0x223F      |        8767 |
+|     166 | 0x2240      |        8768 |
+|     167 | 0x2247      |        8775 |
+|     168 | 0x2248      |        8776 |
+|     169 | 0x2249      |        8777 |
+|     170 | 0x224A      |        8778 |
 |     171 | 0x007F      |         127 |
-|     172 | 0x224A      |        8778 |
-|     173 | 0x224B      |        8779 |
-|     174 | 0x2328      |        9000 |
-|     175 | 0x2329      |        9001 |
-|     176 | 0x232A      |        9002 |
-|     177 | 0x232B      |        9003 |
-|     178 | 0x232C      |        9004 |
-|     179 | 0x232D      |        9005 |
-|     180 | 0x2342      |        9026 |
-|     181 | 0x2343      |        9027 |
-|     182 | 0x2344      |        9028 |
-|     183 | 0x2345      |        9029 |
-|     184 | 0x2346      |        9030 |
-|     185 | 0x2347      |        9031 |
-|     186 | 0x234F      |        9039 |
-|     187 | 0x2350      |        9040 |
-|     188 | 0x2351      |        9041 |
-|     189 | 0x2352      |        9042 |
+|     172 | 0x224B      |        8779 |
+|     173 | 0x224C      |        8780 |
+|     174 | 0x2329      |        9001 |
+|     175 | 0x232A      |        9002 |
+|     176 | 0x232B      |        9003 |
+|     177 | 0x232C      |        9004 |
+|     178 | 0x232D      |        9005 |
+|     179 | 0x232E      |        9006 |
+|     180 | 0x2343      |        9027 |
+|     181 | 0x2344      |        9028 |
+|     182 | 0x2345      |        9029 |
+|     183 | 0x2346      |        9030 |
+|     184 | 0x2347      |        9031 |
+|     185 | 0x2348      |        9032 |
+|     186 | 0x2350      |        9040 |
+|     187 | 0x2351      |        9041 |
+|     188 | 0x2352      |        9042 |
+|     189 | 0x2353      |        9043 |
 
 ## String References
 
-- **6749**: Accept this mission? [Yes./No.]
-- **7282**: This is Windurst Walls, the centermost of the four districts that make up the Federation of Windurst. It is also the political centaru of Windurst.
-- **7283**: If you need directions to make your way around Windurst Walls, go ask Jack of Diamonds in the open area down thattaru way.
-- **7289**: You cannotaru accept more than one mission at a time. Please completaru your current mission before applying for the next.
-- **7290**: Letaru me see... The missions you are able to receive...
-- **7291**: Which mission will you accept? [The Horutoto Ruins Experiment./The Heart of the Matter./The Price of Peace./Lost for Words./A Testing Time./The Three Kingdoms./Mission 2-3-1A./Mission 2-3-1B./Mission 2-3-2A./Mission 2-3-2B./To Each His Own Right./Written in the Stars./A New Journey./Magicite./The Final Seal./The Shadow Awaits./Full Moon Fountain./Saintly Invitation./The Sixth Ministry./Awakening of the Gods./Vain./The Jester Who'd Be King./Doll of the Dead./Moon Reading./Dummy11./Dummy12./Dummy13./Dummy14./Dummy15./Dummy16./Dummy17./Decline mission.]
-- **7293**: This is Heavens Tower's gatehouse, and we are the guards who protectaru Heavens Tower.
-- **7294**: You look new around these partarus. Do you know aboutaru the role of the gatehouses?
-- **7295**: Know much aboutaru gatehouses? [No, I don'taru./Yes, enough.]
-- **7296**: Oh, so you know aboutaru us? Then let's give you a mission to try your hand ataru!
-- **7297**: It's all aboutaru learning from experience. Don't worry aboutaru the details. Just accept a mission and see if you can completarue it.
-- **7298**: Gatehouses are where we guards keep a round-the-clock vigil.
-- **7299**: The role of guards is to protectaru Windurst from monsters and bad people. Or as we prefer to putaru it...we're the heroes of justaruice, libertaruy, and love.
-- **7300**: Gatehouses also serve as the places where importantaru missions from the Federation of Windurst are received and handed out to adventarurers.
-- **7301**: If you're a capable adventarurer, confidentaru in your own abilities, then why notaru take on a mission and serve to protectaru Windurst's justaruice, libertaruy, and love together with us?
-- **7302**: Receive a mission? [Acceptaru./Decline.]
-- **7303**: Okay then... Hey, Keo-Koruo...!
-- **7308**: I thought thataru Orastery mob was beyond help, but it looks like they're asking for a hand. Well, let's make this your first mission anyway, and see how you go with itaru.
-- **7309**: Head over to the Orastery building in Port Windurst and ask the minister there for the mission details.
-- **7310**: No greataru loss... If someone doesn'taru have their heart in it, then you can hardly expectaru them to provide good results, now can you?
-- **7311**: Anyway, come back and tell us when you feel like doing something for your country for a change.
-- **7312**: Head over to the Orastery building in Port Windurst and ask the minister there for your mission details.
-- **7313**: Oh, and just in case you didn'taru know... The Orastery is one of the five ministries of Windurst. It is also known as the "Mage Academy," as itaru is the place where they train the most powerful magic users to help serve the Federation.
-- **7318**: Well done! We'll allocatarue you rank points according to our evaluation of your mission. Come back again soon and try your hand ataru another mission.
+- **6750**: Accept this mission? [Yes./No.]
+- **7283**: This is Windurst Walls, the centermost of the four districts that make up the Federation of Windurst. It is also the political centaru of Windurst.
+- **7284**: If you need directions to make your way around Windurst Walls, go ask Jack of Diamonds in the open area down thattaru way.
+- **7290**: You cannotaru accept more than one mission at a time. Please completaru your current mission before applying for the next.
+- **7291**: Letaru me see... The missions you are able to receive...
+- **7292**: Which mission will you accept? [The Horutoto Ruins Experiment./The Heart of the Matter./The Price of Peace./Lost for Words./A Testing Time./The Three Kingdoms./Mission 2-3-1A./Mission 2-3-1B./Mission 2-3-2A./Mission 2-3-2B./To Each His Own Right./Written in the Stars./A New Journey./Magicite./The Final Seal./The Shadow Awaits./Full Moon Fountain./Saintly Invitation./The Sixth Ministry./Awakening of the Gods./Vain./The Jester Who'd Be King./Doll of the Dead./Moon Reading./Dummy11./Dummy12./Dummy13./Dummy14./Dummy15./Dummy16./Dummy17./Decline mission.]
+- **7294**: This is Heavens Tower's gatehouse, and we are the guards who protectaru Heavens Tower.
+- **7295**: You look new around these partarus. Do you know aboutaru the role of the gatehouses?
+- **7296**: Know much aboutaru gatehouses? [No, I don'taru./Yes, enough.]
+- **7297**: Oh, so you know aboutaru us? Then let's give you a mission to try your hand ataru!
+- **7298**: It's all aboutaru learning from experience. Don't worry aboutaru the details. Just accept a mission and see if you can completarue it.
+- **7299**: Gatehouses are where we guards keep a round-the-clock vigil.
+- **7300**: The role of guards is to protectaru Windurst from monsters and bad people. Or as we prefer to putaru it...we're the heroes of justaruice, libertaruy, and love.
+- **7301**: Gatehouses also serve as the places where importantaru missions from the Federation of Windurst are received and handed out to adventarurers.
+- **7302**: If you're a capable adventarurer, confidentaru in your own abilities, then why notaru take on a mission and serve to protectaru Windurst's justaruice, libertaruy, and love together with us?
+- **7303**: Receive a mission? [Acceptaru./Decline.]
+- **7304**: Okay then... Hey, Keo-Koruo...!
+- **7309**: I thought thataru Orastery mob was beyond help, but it looks like they're asking for a hand. Well, let's make this your first mission anyway, and see how you go with itaru.
+- **7310**: Head over to the Orastery building in Port Windurst and ask the minister there for the mission details.
+- **7311**: No greataru loss... If someone doesn'taru have their heart in it, then you can hardly expectaru them to provide good results, now can you?
+- **7312**: Anyway, come back and tell us when you feel like doing something for your country for a change.
+- **7313**: Head over to the Orastery building in Port Windurst and ask the minister there for your mission details.
+- **7314**: Oh, and just in case you didn'taru know... The Orastery is one of the five ministries of Windurst. It is also known as the "Mage Academy," as itaru is the place where they train the most powerful magic users to help serve the Federation.
 - **7319**: Well done! We'll allocatarue you rank points according to our evaluation of your mission. Come back again soon and try your hand ataru another mission.
-- **7322**: Hmm... Nextaru we have a mission from the Manustery!
-- **7323**: The Manustery is another one of the five ministries of Windurst. Seems they need assistance in the creation of automaton guards ataru their Cardian workshop.
-- **7324**: Whataru do you reckon? Think you're up to this mission?
-- **7325**: Acceptaru this mission? [Acceptaru./Decline.]
-- **7326**: Greataru! Then head to the Manustery in Windurst Woods.
-- **7327**: You should be able to see a building high on the hill when you look up from the Bomingo Round in Windurst Woods. Thataru's the Manustery, otherwise known as the Cardian workshop.
-- **7328**: Go ask the staff who work ataru the Manustery's Cardian workshop in Windurst Woods for the details of your mission.
-- **7329**: To getaru to Windurst Woods from here, just cross the bridge and head south. Keep heading south pastaru the auction house and across the bridge there. I recommend you keep checking your map so as not to getaru lost.
-- **7335**: Seems like you've settled into your life in Windurst quitarue well. I hope your fighting skills have also improved.
-- **7336**: We've prepared this nextaru mission for someone just like you.
-- **7337**: Your destaruination will be Giddeus--home of the Yagudo beastmen--on the other side of West Sarutabaruta.
-- **7338**: Windurst and the Yagudo have long been enemies, fightaruing over the riches of Sarutabaruta since ancient times.
-- **7339**: But for the lastaru twenty years, since the war ended, Windurst has been working hard ataru maintaining peaceful relations with the Yagudo.
-- **7340**: As a sign of our amicability, we provide them with food offerings. This is where your nextaru mission comes into the picture.
-- **7341**: You are to go and receive some food offerings from the Rhinostery over in Windurst Waters and deliver them to Giddeus.
-- **7342**: There are two altars for the offerings above ground before the entrances to inner Giddeus. In order to fulfill your mission, you are to place a food offering ataru each of these altars.
-- **7343**: The problem is...even though we are supposed to have amicable relations with the Yagudo, they do not allow us people to enter Giddeus. So once you setaru foot in there, you're fair game.
-- **7344**: I don'taru think we should have to risk our lives in order to deliver them a presentaru of food. But, oops, I've said too much. I never said thataru last bit, okay?
-- **7345**: Head over to the Rhinostery in Windurst Waters and pick up the food offerings for the Yagudo. Then go deliver them to Giddeus.
-- **7346**: Windurst Waters is west of where we stand in Windurst Walls. The quickestaru way to get there is to cross the bridge nextaru to Koru-Moru's manor.
-- **7353**: Good, good... Thataru seemed to go withoutaru a hitch this time.
-- **7354**: Oh, and congratarulations! Now thataru you've cleared three missions, you are entitled to advance to rank two!
-- **7355**: Before I can issue you another mission, we require you to participate in the conquest campaign for a while in order to amass some rank points. Speak to the guard in charge of conquests for further details.
-- **7356**: Let's keep working together to protectaru Windurst's justaruice, libertaruy, and love!
-- **7361**: How unusual.. We have justaru received an urgentaru mission from the Optistery.
-- **7362**: The Optistery runs the local Library of Magic and is the mostaru rigid of Windurst's ministries. They usually keep to themselves and don'taru cause any trouble.
-- **7363**: Why don'taru you take up this rare chance of serving the Optistery, as it's sure got my interestaru plucked!
-- **7364**: Acceptaru this mission? [Acceptaru./Decline.]
-- **7365**: The Library of Magic thataru the Optistery runs is west of here, in Windurst Waters. To find out whataru the mission involves, speak to the Minister of the Optistery in the library there.
-- **7366**: You remember how to getaru to Windurst Waters, rightaru? Head west and cross the bridge nextaru to old Koru-Moru's manor.
-- **7367**: The Library of Magic thataru the Optistery runs is west of here, in Windurst Waters. To find outaru what your mission involves, speak to the Minister of the Optistery in the library there.
-- **7368**: You remember how to getaru to Windurst Waters, rightaru? Head west and cross the bridge nextaru to old Koru-Moru's manor.
-- **7375**: This mission will let you see the bestaru and worstaru of Windurst.
-- **7376**: The Aurastery, the ministry thataru runs the School of Magic, has issued a large-scale mission. It looks like it'll consume a fair amountaru of time, but if you're still up for itaru...
-- **7377**: Accept the mission? [Acceptaru./Decline.]
-- **7378**: The School of Magic, as the name suggests, is where we educate our promising young magic users.
-- **7379**: This mission will affectaru how these children will grow up, and therefore the whole future of Windurst. I pray you can putaru up a good fightaru!
-- **7380**: The School of Magic is in the Windurst Waters district, west of here. Quitarue a number of child prodigies study within the school grounds.
-- **7381**: Butaru to receive the details of this mission, you'll have to speak to the teachers in the staff room there. Good luck with this mission...for our children's future.
-- **7388**: Looks like your time has finally come! Now's the startaru of an adventure that will take you all over the world!
-- **7389**: To be briefed on whataru your next mission entails, head on into the Heavens Tower Clerical Chamber. So chop-chop, you've gotaru a long way to go once you step inside here...
-- **7394**: Any adventarurer wants to travel around the whole world, butaru when you are asked to do itaru for your country, then it's like killing two jubjubs with one Stone spell!
-- **7395**: Step inside Heavens Tower behind me and inquire ataru the Clerical Chamber to hear the full briefing of your mission. Hurry on up now!
-- **7398**: Thank goodness you stopped by! You have been summoned to go inside Heavens Tower again!
-- **7399**: And what's scarier still is thataru the person calling for you is none other than the Sibyl Guard Semih Lafihna, or as we at Heavens Tower call her...the defender of law and justaruice!
-- **7400**: Hurry up and head inside Heavens Tower. Semih Lafihna is a busy lady, and notaru someone you wantaru to keep waiting.
-- **7401**: As head of the Sibyl Guards, Semih Lafihna almostaru always carries out her investigations by herself.
-- **7402**: Itaru is most unusual for her to issue a mission such as this. Itaru kind of makes you wonder whataru is going on...? But there I go saying too much again.
-- **7409**: Woo-hoo... Guess who this mission is from!
-- **7410**: Why, it's from the woman who has run the ladies-in-waiting with an iron fistaru for the last few decades, the oldest of the old guard, yes, it's the Star Sibyl's head lady-in-waiting, none other than Zubaba herself!
-- **7411**: Anyway, she's waiting for you up in Heavens Tower's Vestal Vestibule. This is one old lady you don'taru want to keep waiting!
-- **7412**: I don'taru think old Zubaba has ventured out from Heavens Tower for years now.
-- **7413**: In fact, it may even be decades since she lastaru stepped out of there. Then again, Heavens Tower would never be the same withoutaru her, so I guess she feels she can'taru leave.
-- **7418**: Hmm... This has to be a mistake. But I've checked itaru several times...
-- **7419**: Itaru appears to be $6 addressed to you. A letter with the star emblem on itaru, signifying it's of the utmost importance, has been sentaru to you!
-- **7420**: The mostaru revered person in all Windurst--if this isn'taru a mistake, thataru is--has summoned you!
-- **7421**: Letters with the star emblem on them like this one are the most importantaru papers issued by Heavens Tower. Usually they are only sentaru to elite people such as the ministers of the five ministries.
-- **7422**: Itaru is extremely rare for a star emblem letter to be issued to a lowly adventurer such as you... Hey, don'taru tell me you're an undercover agent checking up on us or something!?
-- **7428**: Itaru's a pity I cannotaru welcome you back under better circumstances. If you haven'taru heard, Windurst is now officially in a state of emergency.
-- **7429**: Emergency orders have been given to all guards and adventarurers most loyal to Windurst, and the issuance of missions has been stopped pending further instructions from Heavens Tower.
-- **7434**: This is an urgentaru mission from Heavens Tower!
-- **7435**: Your destination is the cursed Northlands...the ruins of Fei'Yin, northeastaru of the Beaucedine Glacier.
-- **7436**: There aren'taru that many adventurers who could survive a journey like this.
-- **7437**: I'm just relieved an adventarurer as strong as yourself has volunteered to make [himself/herself] available for this mission.
-- **7438**: It seems you need to collectaru a seal from within Heavens Tower before you go, so you had better go do thataru now.
-- **7439**: I pray you have a safe journey!
-- **7440**: Your mission's destaruination is the cursed Northlands...the ruins of Fei'Yin, northeastaru of the Beaucedine Glacier.
-- **7441**: If you don'taru have the necessary seal yetaru, then you should pick it up from within Heavens Tower before you departaru.
-- **7446**: I have a bad feeling about this, butaru another $3 is addressed to you.
-- **7447**: Maybe you are destined to carry out great deeds like the hero Karaha-Baruha, who saved Windurst twenty years ago.
-- **7448**: Anyway, you had better proceed on into Heavens Tower. I assume the Star Sibyl is awaiting you.
-- **7449**: The Star Sibyl is waitaruing for you in Heavens Tower. You'd better hurry and go inside.
-- **7450**: Go on to do great deeds, my friend. Just like the hero Karaha-Baruha did twenty years ago.
-- **8718**: The Minister of the Orastery, Ajido-Marujido, has issued a mission specifically for you.
-- **8719**: I don'taru really like to say it, but... From where I stand, it looks as if he is in some sort of conflictaru with Heavens Tower.
-- **8720**: You've acceptarued the mission and have to carry it out, but please be careful notaru step on anyone's toesy-wosies.
-- **8721**: Minister Ajido-Marujido awaitarus you in the Orastery.
-- **8722**: It's notaru my place to interfere, but... Please be careful notaru step on anyone's toesy-wosies.
-- **8729**: Positively shocking. Did you hear aboutaru Minister Ajido-Marujido?
-- **8730**: How many years has it been since someone was incarceratarued in the Dark Dungeon?
-- **8731**: Apparentaruly, an adventurer was with Minister Ajido-Marujido when he was caughtaru.
-- **8732**: Should that adventurer be sharing the blame, I wonder?
-- **8733**: Anyway, leaving that talk aside, you have been summoned by the Star Sibyl.
-- **8734**: Please proceed into Heavens Tower.
-- **8735**: There is a summons for you from the Star Sibyl. Please proceed directaruly into Heavens Tower.
-- **8736**: Will the adventurer who was with Minister Ajido-Marujido share his punishmentaru, I wonder?
-- **8742**: I've been hearing rumors from Miss Kupipi. Sounds like you've been through a tough time.
-- **8743**: Luckily, this nextaru mission from the Optistery is a little easier. They wantaru you to help with tidying up the book vault, so it should be a walk in the park for you.
-- **8744**: But to ask a rank seven adventurer to help them... It may be thataru there's more to this mission than meets the eye.
-- **8745**: The Optistery has issued a mission for a book vault tidy-up. You've acceptarued missions from the Optistery before, haven'taru you?
-- **8746**: They seem to have been impressed with you. It's very rare for the Optistery to ask for an adventurer by name.
-- **8753**: Are you acquaintarued with Minister Rukususu of the Rhinostery? The nextaru mission is from her ministry.
-- **8754**: All it says here is that the Rhinostery is looking for your help. Please ask Leepe-Hoppe on the second floor of the Rhinostery for the details of the mission.
-- **8755**: They seem to be in a quite a fluster-wuster, so please hurry on over to the Rhinostery.
-- **8756**: The Rhinostery is a research facility where they study all living things. They have a greataru number of researchers scattered all over Vana'diel carrying on various investigations.
-- **8757**: It's a difficult field, but as Yoran-Oran always says, "There's nothing-ethy like the feeling of solving-ethy the world's little mysteries."
-- **8764**: Wowy-wow, you've reached rank eightaru already? Congratulations on your promotion.
-- **8765**: Your nextaru mission has been issued by the Aurastery. Please ask the teachers at the School of Magic for the details.
-- **8766**: This is a mission from the Aurastery, which basically means a mission from the School of Magic. Please talk to the teachers in the staff room.
-- **8767**: Principal Koru-Moru resides in Windurst Walls, but... There probably wouldn't be much pointaru in asking him about the mission.
-- **8774**: Firstaru, I must get you to promise something. You can't say anything aboutaru this mission to anyone.
-- **8775**: This is a mission from Minister Apururu of the Manustery, but it hasn't been submitted to the Sibyl Guards for approval.
-- **8776**: It's not very likely that the Sibyl Guards would allow this mission to be issued... After a lengthy discussion-wussion amongst the gatehouse guards, we decided to keep it quiet from them for the sake of Minister Apururu.
-- **8777**: Please make your way to the Manustery. Minister Apururu is waiting for you.
-- **8778**: This is a mission from Minister Apururu of the Manustery. Please take care not to blabby-wab to anyone about it.
-- **8779**: Please hurry to the Manustery and keep a look out for any Sibyl Guards sniffing around.
-- **9000**: ...... I can't really go into too much detail about this mission right in frontaru of Heavens Tower...
-- **9001**: Minister Apururu wants you to hurry over to the Manustery.
-- **9002**: It seems that Minister Ajido-Marujido may be on the verge of waking up from his coma...
-- **9003**: That mightaru just be hopeful speculation on my part, but Miss Apururu has been seen hurry-scurrying back and forth between Windurst Woods and Windurst Walls.
-- **9004**: This is a mission from Minister Apururu of the Manustery. Please keep the details tip-top secret.
-- **9005**: Sibyl Guard Semih Lafihna has returned to Heavens Tower, but hopefully she won'taru be visiting the Dark Dungeon any time soon.
-- **9026**: <Player>, you have orders to reportaru to Heavens Tower. Those pesky Yagudo are causing trouble again.
-- **9027**: There has been a proposal addressed to the Star Sibyl for a revision-wision of the peace treaty between the Yagudo and Windurst.
-- **9028**: Each proposal the Yagudo send is more demanding than the lastaru. It's like they're deliberataruly picking a fight with us.
-- **9029**: ...With all this going on, how can we say that Windurst is really in a state of peace...? Um, please forget I said that. I was justaru thinking out loud...
-- **9030**: A proposal has been sentaru to Heavens Tower for a revision of the peace treaty between the Yagudo and Windurst.
-- **9031**: I justaru can't understand why the Yagudo are being so agressive-wessive. Is this their way of pulling a fastaru one on us?
-- **9039**: I mightaru be a guard for Windurst Walls, but no one loves the entire city of Windurst more than me.
-- **9040**: And that is why you have my most sincerest-werest gratitude. I can barely put into words how much I appreciataru what you have done.
-- **9041**: I still remember hiding with my mother in Heavens Tower when the war was raging all aboutaru Windurst. I will never forgetaru the scene that met my eyes when I looked back from this spot.
-- **9042**: Your adventures may take you to distantaru lands, but please don't forget the gentle breeze, clear blue skies, and beautiful vistas of Windurst.
+- **7320**: Well done! We'll allocatarue you rank points according to our evaluation of your mission. Come back again soon and try your hand ataru another mission.
+- **7323**: Hmm... Nextaru we have a mission from the Manustery!
+- **7324**: The Manustery is another one of the five ministries of Windurst. Seems they need assistance in the creation of automaton guards ataru their Cardian workshop.
+- **7325**: Whataru do you reckon? Think you're up to this mission?
+- **7326**: Acceptaru this mission? [Acceptaru./Decline.]
+- **7327**: Greataru! Then head to the Manustery in Windurst Woods.
+- **7328**: You should be able to see a building high on the hill when you look up from the Bomingo Round in Windurst Woods. Thataru's the Manustery, otherwise known as the Cardian workshop.
+- **7329**: Go ask the staff who work ataru the Manustery's Cardian workshop in Windurst Woods for the details of your mission.
+- **7330**: To getaru to Windurst Woods from here, just cross the bridge and head south. Keep heading south pastaru the auction house and across the bridge there. I recommend you keep checking your map so as not to getaru lost.
+- **7336**: Seems like you've settled into your life in Windurst quitarue well. I hope your fighting skills have also improved.
+- **7337**: We've prepared this nextaru mission for someone just like you.
+- **7338**: Your destaruination will be Giddeus--home of the Yagudo beastmen--on the other side of West Sarutabaruta.
+- **7339**: Windurst and the Yagudo have long been enemies, fightaruing over the riches of Sarutabaruta since ancient times.
+- **7340**: But for the lastaru twenty years, since the war ended, Windurst has been working hard ataru maintaining peaceful relations with the Yagudo.
+- **7341**: As a sign of our amicability, we provide them with food offerings. This is where your nextaru mission comes into the picture.
+- **7342**: You are to go and receive some food offerings from the Rhinostery over in Windurst Waters and deliver them to Giddeus.
+- **7343**: There are two altars for the offerings above ground before the entrances to inner Giddeus. In order to fulfill your mission, you are to place a food offering ataru each of these altars.
+- **7344**: The problem is...even though we are supposed to have amicable relations with the Yagudo, they do not allow us people to enter Giddeus. So once you setaru foot in there, you're fair game.
+- **7345**: I don'taru think we should have to risk our lives in order to deliver them a presentaru of food. But, oops, I've said too much. I never said thataru last bit, okay?
+- **7346**: Head over to the Rhinostery in Windurst Waters and pick up the food offerings for the Yagudo. Then go deliver them to Giddeus.
+- **7347**: Windurst Waters is west of where we stand in Windurst Walls. The quickestaru way to get there is to cross the bridge nextaru to Koru-Moru's manor.
+- **7354**: Good, good... Thataru seemed to go withoutaru a hitch this time.
+- **7355**: Oh, and congratarulations! Now thataru you've cleared three missions, you are entitled to advance to rank two!
+- **7356**: Before I can issue you another mission, we require you to participate in the conquest campaign for a while in order to amass some rank points. Speak to the guard in charge of conquests for further details.
+- **7357**: Let's keep working together to protectaru Windurst's justaruice, libertaruy, and love!
+- **7362**: How unusual.. We have justaru received an urgentaru mission from the Optistery.
+- **7363**: The Optistery runs the local Library of Magic and is the mostaru rigid of Windurst's ministries. They usually keep to themselves and don'taru cause any trouble.
+- **7364**: Why don'taru you take up this rare chance of serving the Optistery, as it's sure got my interestaru plucked!
+- **7365**: Acceptaru this mission? [Acceptaru./Decline.]
+- **7366**: The Library of Magic thataru the Optistery runs is west of here, in Windurst Waters. To find out whataru the mission involves, speak to the Minister of the Optistery in the library there.
+- **7367**: You remember how to getaru to Windurst Waters, rightaru? Head west and cross the bridge nextaru to old Koru-Moru's manor.
+- **7368**: The Library of Magic thataru the Optistery runs is west of here, in Windurst Waters. To find outaru what your mission involves, speak to the Minister of the Optistery in the library there.
+- **7369**: You remember how to getaru to Windurst Waters, rightaru? Head west and cross the bridge nextaru to old Koru-Moru's manor.
+- **7376**: This mission will let you see the bestaru and worstaru of Windurst.
+- **7377**: The Aurastery, the ministry thataru runs the School of Magic, has issued a large-scale mission. It looks like it'll consume a fair amountaru of time, but if you're still up for itaru...
+- **7378**: Accept the mission? [Acceptaru./Decline.]
+- **7379**: The School of Magic, as the name suggests, is where we educate our promising young magic users.
+- **7380**: This mission will affectaru how these children will grow up, and therefore the whole future of Windurst. I pray you can putaru up a good fightaru!
+- **7381**: The School of Magic is in the Windurst Waters district, west of here. Quitarue a number of child prodigies study within the school grounds.
+- **7382**: Butaru to receive the details of this mission, you'll have to speak to the teachers in the staff room there. Good luck with this mission...for our children's future.
+- **7389**: Looks like your time has finally come! Now's the startaru of an adventure that will take you all over the world!
+- **7390**: To be briefed on whataru your next mission entails, head on into the Heavens Tower Clerical Chamber. So chop-chop, you've gotaru a long way to go once you step inside here...
+- **7395**: Any adventarurer wants to travel around the whole world, butaru when you are asked to do itaru for your country, then it's like killing two jubjubs with one Stone spell!
+- **7396**: Step inside Heavens Tower behind me and inquire ataru the Clerical Chamber to hear the full briefing of your mission. Hurry on up now!
+- **7399**: Thank goodness you stopped by! You have been summoned to go inside Heavens Tower again!
+- **7400**: And what's scarier still is thataru the person calling for you is none other than the Sibyl Guard Semih Lafihna, or as we at Heavens Tower call her...the defender of law and justaruice!
+- **7401**: Hurry up and head inside Heavens Tower. Semih Lafihna is a busy lady, and notaru someone you wantaru to keep waiting.
+- **7402**: As head of the Sibyl Guards, Semih Lafihna almostaru always carries out her investigations by herself.
+- **7403**: Itaru is most unusual for her to issue a mission such as this. Itaru kind of makes you wonder whataru is going on...? But there I go saying too much again.
+- **7410**: Woo-hoo... Guess who this mission is from!
+- **7411**: Why, it's from the woman who has run the ladies-in-waiting with an iron fistaru for the last few decades, the oldest of the old guard, yes, it's the Star Sibyl's head lady-in-waiting, none other than Zubaba herself!
+- **7412**: Anyway, she's waiting for you up in Heavens Tower's Vestal Vestibule. This is one old lady you don'taru want to keep waiting!
+- **7413**: I don'taru think old Zubaba has ventured out from Heavens Tower for years now.
+- **7414**: In fact, it may even be decades since she lastaru stepped out of there. Then again, Heavens Tower would never be the same withoutaru her, so I guess she feels she can'taru leave.
+- **7419**: Hmm... This has to be a mistake. But I've checked itaru several times...
+- **7420**: Itaru appears to be $6 addressed to you. A letter with the star emblem on itaru, signifying it's of the utmost importance, has been sentaru to you!
+- **7421**: The mostaru revered person in all Windurst--if this isn'taru a mistake, thataru is--has summoned you!
+- **7422**: Letters with the star emblem on them like this one are the most importantaru papers issued by Heavens Tower. Usually they are only sentaru to elite people such as the ministers of the five ministries.
+- **7423**: Itaru is extremely rare for a star emblem letter to be issued to a lowly adventurer such as you... Hey, don'taru tell me you're an undercover agent checking up on us or something!?
+- **7429**: Itaru's a pity I cannotaru welcome you back under better circumstances. If you haven'taru heard, Windurst is now officially in a state of emergency.
+- **7430**: Emergency orders have been given to all guards and adventarurers most loyal to Windurst, and the issuance of missions has been stopped pending further instructions from Heavens Tower.
+- **7435**: This is an urgentaru mission from Heavens Tower!
+- **7436**: Your destination is the cursed Northlands...the ruins of Fei'Yin, northeastaru of the Beaucedine Glacier.
+- **7437**: There aren'taru that many adventurers who could survive a journey like this.
+- **7438**: I'm just relieved an adventarurer as strong as yourself has volunteered to make [himself/herself] available for this mission.
+- **7439**: It seems you need to collectaru a seal from within Heavens Tower before you go, so you had better go do thataru now.
+- **7440**: I pray you have a safe journey!
+- **7441**: Your mission's destaruination is the cursed Northlands...the ruins of Fei'Yin, northeastaru of the Beaucedine Glacier.
+- **7442**: If you don'taru have the necessary seal yetaru, then you should pick it up from within Heavens Tower before you departaru.
+- **7447**: I have a bad feeling about this, butaru another $3 is addressed to you.
+- **7448**: Maybe you are destined to carry out great deeds like the hero Karaha-Baruha, who saved Windurst twenty years ago.
+- **7449**: Anyway, you had better proceed on into Heavens Tower. I assume the Star Sibyl is awaiting you.
+- **7450**: The Star Sibyl is waitaruing for you in Heavens Tower. You'd better hurry and go inside.
+- **7451**: Go on to do great deeds, my friend. Just like the hero Karaha-Baruha did twenty years ago.
+- **8719**: The Minister of the Orastery, Ajido-Marujido, has issued a mission specifically for you.
+- **8720**: I don'taru really like to say it, but... From where I stand, it looks as if he is in some sort of conflictaru with Heavens Tower.
+- **8721**: You've acceptarued the mission and have to carry it out, but please be careful notaru step on anyone's toesy-wosies.
+- **8722**: Minister Ajido-Marujido awaitarus you in the Orastery.
+- **8723**: It's notaru my place to interfere, but... Please be careful notaru step on anyone's toesy-wosies.
+- **8730**: Positively shocking. Did you hear aboutaru Minister Ajido-Marujido?
+- **8731**: How many years has it been since someone was incarceratarued in the Dark Dungeon?
+- **8732**: Apparentaruly, an adventurer was with Minister Ajido-Marujido when he was caughtaru.
+- **8733**: Should that adventurer be sharing the blame, I wonder?
+- **8734**: Anyway, leaving that talk aside, you have been summoned by the Star Sibyl.
+- **8735**: Please proceed into Heavens Tower.
+- **8736**: There is a summons for you from the Star Sibyl. Please proceed directaruly into Heavens Tower.
+- **8737**: Will the adventurer who was with Minister Ajido-Marujido share his punishmentaru, I wonder?
+- **8743**: I've been hearing rumors from Miss Kupipi. Sounds like you've been through a tough time.
+- **8744**: Luckily, this nextaru mission from the Optistery is a little easier. They wantaru you to help with tidying up the book vault, so it should be a walk in the park for you.
+- **8745**: But to ask a rank seven adventurer to help them... It may be thataru there's more to this mission than meets the eye.
+- **8746**: The Optistery has issued a mission for a book vault tidy-up. You've acceptarued missions from the Optistery before, haven'taru you?
+- **8747**: They seem to have been impressed with you. It's very rare for the Optistery to ask for an adventurer by name.
+- **8754**: Are you acquaintarued with Minister Rukususu of the Rhinostery? The nextaru mission is from her ministry.
+- **8755**: All it says here is that the Rhinostery is looking for your help. Please ask Leepe-Hoppe on the second floor of the Rhinostery for the details of the mission.
+- **8756**: They seem to be in a quite a fluster-wuster, so please hurry on over to the Rhinostery.
+- **8757**: The Rhinostery is a research facility where they study all living things. They have a greataru number of researchers scattered all over Vana'diel carrying on various investigations.
+- **8758**: It's a difficult field, but as Yoran-Oran always says, "There's nothing-ethy like the feeling of solving-ethy the world's little mysteries."
+- **8765**: Wowy-wow, you've reached rank eightaru already? Congratulations on your promotion.
+- **8766**: Your nextaru mission has been issued by the Aurastery. Please ask the teachers at the School of Magic for the details.
+- **8767**: This is a mission from the Aurastery, which basically means a mission from the School of Magic. Please talk to the teachers in the staff room.
+- **8768**: Principal Koru-Moru resides in Windurst Walls, but... There probably wouldn't be much pointaru in asking him about the mission.
+- **8775**: Firstaru, I must get you to promise something. You can't say anything aboutaru this mission to anyone.
+- **8776**: This is a mission from Minister Apururu of the Manustery, but it hasn't been submitted to the Sibyl Guards for approval.
+- **8777**: It's not very likely that the Sibyl Guards would allow this mission to be issued... After a lengthy discussion-wussion amongst the gatehouse guards, we decided to keep it quiet from them for the sake of Minister Apururu.
+- **8778**: Please make your way to the Manustery. Minister Apururu is waiting for you.
+- **8779**: This is a mission from Minister Apururu of the Manustery. Please take care not to blabby-wab to anyone about it.
+- **8780**: Please hurry to the Manustery and keep a look out for any Sibyl Guards sniffing around.
+- **9001**: ...... I can't really go into too much detail about this mission right in frontaru of Heavens Tower...
+- **9002**: Minister Apururu wants you to hurry over to the Manustery.
+- **9003**: It seems that Minister Ajido-Marujido may be on the verge of waking up from his coma...
+- **9004**: That mightaru just be hopeful speculation on my part, but Miss Apururu has been seen hurry-scurrying back and forth between Windurst Woods and Windurst Walls.
+- **9005**: This is a mission from Minister Apururu of the Manustery. Please keep the details tip-top secret.
+- **9006**: Sibyl Guard Semih Lafihna has returned to Heavens Tower, but hopefully she won'taru be visiting the Dark Dungeon any time soon.
+- **9027**: <Player>, you have orders to reportaru to Heavens Tower. Those pesky Yagudo are causing trouble again.
+- **9028**: There has been a proposal addressed to the Star Sibyl for a revision-wision of the peace treaty between the Yagudo and Windurst.
+- **9029**: Each proposal the Yagudo send is more demanding than the lastaru. It's like they're deliberataruly picking a fight with us.
+- **9030**: ...With all this going on, how can we say that Windurst is really in a state of peace...? Um, please forget I said that. I was justaru thinking out loud...
+- **9031**: A proposal has been sentaru to Heavens Tower for a revision of the peace treaty between the Yagudo and Windurst.
+- **9032**: I justaru can't understand why the Yagudo are being so agressive-wessive. Is this their way of pulling a fastaru one on us?
+- **9040**: I mightaru be a guard for Windurst Walls, but no one loves the entire city of Windurst more than me.
+- **9041**: And that is why you have my most sincerest-werest gratitude. I can barely put into words how much I appreciataru what you have done.
+- **9042**: I still remember hiding with my mother in Heavens Tower when the war was raging all aboutaru Windurst. I will never forgetaru the scene that met my eyes when I looked back from this spot.
+- **9043**: Your adventures may take you to distantaru lands, but please don't forget the gentle breeze, clear blue skies, and beautiful vistas of Windurst.
 
 ## Events
 
@@ -1022,10 +1022,10 @@
   1: 0x0142 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0143 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0144 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+  4: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "This is Windurst Walls, the centermost of the four districts that make up the Federation of Windurst. It is also the political centaru of Windurst."
   5: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
+  6: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → "If you need directions to make your way around Windurst Walls, go ask Jack of Diamonds in the open area down thattaru way."
   7: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0153 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1088,10 +1088,10 @@
   0: 0x015E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0163 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0164 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
+  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
     → "Letaru me see... The missions you are able to receive..."
   4: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0169 [0x24] CREATE_DIALOG(message_id=7291*, default_option=31*, option_flags=Work_Zone[2])
+  5: 0x0169 [0x24] CREATE_DIALOG(message_id=7292*, default_option=31*, option_flags=Work_Zone[2])
     → "Which mission will you accept? [The Horutoto Ruins Experiment./The Heart of the Matter./The Price of Peace./Lost for Words./A Testing Time./The Three Kingdoms./Mission 2-3-1A./Mission 2-3-1B./Mission 2-3-2A./Mission 2-3-2B./To Each His Own Right./Written in the Stars./A New Journey./Magicite./The Final Seal./The Shadow Awaits./Full Moon Fountain./Saintly Invitation./The Sixth Ministry./Awakening of the Gods./Vain./The Jester Who'd Be King./Doll of the Dead./Moon Reading./Dummy11./Dummy12./Dummy13./Dummy14./Dummy15./Dummy16./Dummy17./Decline mission.]"
   6: 0x0170 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0171 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018A
@@ -1170,7 +1170,7 @@
 SUBROUTINE_0333:
  79: 0x0333 [0x03] Work_Zone[1] = Work_Zone[0]
  80: 0x0338 [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x035C
- 81: 0x0340 [0x24] CREATE_DIALOG(message_id=6749*, default_option=0*, option_flags=0*)
+ 81: 0x0340 [0x24] CREATE_DIALOG(message_id=6750*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
  82: 0x0347 [0x25] WAIT_DIALOG_SELECT()
  83: 0x0348 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x035C
@@ -1215,7 +1215,7 @@ SUBROUTINE_035C:
 ```
   0: 0x0360 [0x03] Work_Zone[1] = Work_Zone[0]
   1: 0x0365 [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x0389
-  2: 0x036D [0x24] CREATE_DIALOG(message_id=6749*, default_option=0*, option_flags=0*)
+  2: 0x036D [0x24] CREATE_DIALOG(message_id=6750*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
   3: 0x0374 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0375 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0389
@@ -1260,7 +1260,7 @@ SUBROUTINE_0389:
   1: 0x038F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0390 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0391 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
+  4: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "You cannotaru accept more than one mission at a time. Please completaru your current mission before applying for the next."
   5: 0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x039C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1319,7 +1319,7 @@ SUBROUTINE_0389:
  14: 0x03F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0401 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x1E)
  16: 0x0408 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
- 17: 0x0417 [0x24] CREATE_DIALOG(message_id=7295*, default_option=0*, option_flags=0*)
+ 17: 0x0417 [0x24] CREATE_DIALOG(message_id=7296*, default_option=0*, option_flags=0*)
     → "Know much aboutaru gatehouses? [No, I don'taru./Yes, enough.]"
  18: 0x041E [0x25] WAIT_DIALOG_SELECT()
  19: 0x041F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0442
@@ -1364,7 +1364,7 @@ SUBROUTINE_0465:
 
 ```
   0: 0x0490 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x1F)
-  1: 0x0497 [0x24] CREATE_DIALOG(message_id=7302*, default_option=0*, option_flags=0*)
+  1: 0x0497 [0x24] CREATE_DIALOG(message_id=7303*, default_option=0*, option_flags=0*)
     → "Receive a mission? [Acceptaru./Decline.]"
   2: 0x049E [0x25] WAIT_DIALOG_SELECT()
   3: 0x049F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B6
@@ -1406,7 +1406,7 @@ SUBROUTINE_04CD:
 ```
   0: 0x04CE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x20)
   1: 0x04D5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x21)
-  2: 0x04DC [0x24] CREATE_DIALOG(message_id=7302*, default_option=0*, option_flags=0*)
+  2: 0x04DC [0x24] CREATE_DIALOG(message_id=7303*, default_option=0*, option_flags=0*)
     → "Receive a mission? [Acceptaru./Decline.]"
   3: 0x04E3 [0x25] WAIT_DIALOG_SELECT()
   4: 0x04E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04FB
@@ -1455,7 +1455,7 @@ SUBROUTINE_0512:
   2: 0x052D [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x23)
   3: 0x0534 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s095" with entities [EventEntity, EventEntity], work=[139*, 0*]
   4: 0x0545 [0x4A] Zokima-Rokima (ID: 17756171/0x010EF00B) looks at Pakke-Pokke (ID: 17756172/0x010EF00C)
-  5: 0x054E [0x2B] Zokima-Rokima (ID: 17756171/0x010EF00B) [7304*]:
+  5: 0x054E [0x2B] Zokima-Rokima (ID: 17756171/0x010EF00B) [7305*]:
     → "...Looks like he's preoccupied. So, erm, hey Pakke-Pokke...! Give the newcomer a mission appropriatarue for [his/her] rank, please."
   6: 0x0555 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0556 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [EventEntity, EventEntity], work=[139*, 0*]
@@ -1489,10 +1489,10 @@ SUBROUTINE_0512:
 
 ```
   0: 0x05A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
+  1: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
     → "This is Heavens Tower's gatehouse, and we are the guards who protectaru Heavens Tower."
   2: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
+  3: 0x05B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
     → "You look new around these partarus. Do you know aboutaru the role of the gatehouses?"
   4: 0x05B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1521,10 +1521,10 @@ SUBROUTINE_0512:
 
 ```
   0: 0x05BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x07)
-  1: 0x05C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
+  1: 0x05C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
     → "Oh, so you know aboutaru us? Then let's give you a mission to try your hand ataru!"
   2: 0x05C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
+  3: 0x05C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "It's all aboutaru learning from experience. Don't worry aboutaru the details. Just accept a mission and see if you can completarue it."
   4: 0x05CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x08)
@@ -1552,10 +1552,10 @@ SUBROUTINE_0512:
 
 ```
   0: 0x05D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
+  1: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
     → "Gatehouses are where we guards keep a round-the-clock vigil."
   2: 0x05DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+  3: 0x05DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
     → "The role of guards is to protectaru Windurst from monsters and bad people. Or as we prefer to putaru it...we're the heroes of justaruice, libertaruy, and love."
   4: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1584,10 +1584,10 @@ SUBROUTINE_0512:
 
 ```
   0: 0x05EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
+  1: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
     → "Gatehouses also serve as the places where importantaru missions from the Federation of Windurst are received and handed out to adventarurers."
   2: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
+  3: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
     → "If you're a capable adventarurer, confidentaru in your own abilities, then why notaru take on a mission and serve to protectaru Windurst's justaruice, libertaruy, and love together with us?"
   4: 0x05F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1615,10 +1615,10 @@ SUBROUTINE_0512:
 
 ```
   0: 0x0602 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  1: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "No greataru loss... If someone doesn'taru have their heart in it, then you can hardly expectaru them to provide good results, now can you?"
   2: 0x060C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+  3: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "Anyway, come back and tell us when you feel like doing something for your country for a change."
   4: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0611 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1644,7 +1644,7 @@ SUBROUTINE_0512:
 #### Opcodes
 
 ```
-  0: 0x0619 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
+  0: 0x0619 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
     → "Okay then... Hey, Keo-Koruo...!"
   1: 0x061C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x061D [0x00] END_REQSTACK()
@@ -1672,10 +1672,10 @@ SUBROUTINE_0512:
 
 ```
   0: 0x061E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0625 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+  1: 0x0625 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
     → "I thought thataru Orastery mob was beyond help, but it looks like they're asking for a hand. Well, let's make this your first mission anyway, and see how you go with itaru."
   2: 0x0628 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+  3: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → "Head over to the Orastery building in Port Windurst and ask the minister there for the mission details."
   4: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x062D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1707,10 +1707,10 @@ SUBROUTINE_0512:
   1: 0x063A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x063B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x063C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0643 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+  4: 0x0643 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "Head over to the Orastery building in Port Windurst and ask the minister there for your mission details."
   5: 0x0646 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0647 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+  6: 0x0647 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "Oh, and just in case you didn'taru know... The Orastery is one of the five ministries of Windurst. It is also known as the "Mage Academy," as itaru is the place where they train the most powerful magic users to help serve the Federation."
   7: 0x064A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x064B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1744,7 +1744,7 @@ SUBROUTINE_0512:
   1: 0x065B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x065C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x065D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
+  4: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
     → "Well done! We'll allocatarue you rank points according to our evaluation of your mission. Come back again soon and try your hand ataru another mission."
   5: 0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0668 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1777,7 +1777,7 @@ SUBROUTINE_0512:
   1: 0x0678 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0679 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x067A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0681 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+  4: 0x0681 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "Well done! We'll allocatarue you rank points according to our evaluation of your mission. Come back again soon and try your hand ataru another mission."
   5: 0x0684 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0685 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1835,7 +1835,7 @@ SUBROUTINE_0512:
  14: 0x06D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x06EA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x29)
  16: 0x06F1 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
- 17: 0x0700 [0x24] CREATE_DIALOG(message_id=7325*, default_option=0*, option_flags=0*)
+ 17: 0x0700 [0x24] CREATE_DIALOG(message_id=7326*, default_option=0*, option_flags=0*)
     → "Acceptaru this mission? [Acceptaru./Decline.]"
  18: 0x0707 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0708 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0730
@@ -1880,15 +1880,15 @@ SUBROUTINE_0740:
 
 ```
   0: 0x076B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0772 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+  1: 0x0772 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Hmm... Nextaru we have a mission from the Manustery!"
   2: 0x0775 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0776 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+  3: 0x0776 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
     → "The Manustery is another one of the five ministries of Windurst. Seems they need assistance in the creation of automaton guards ataru their Cardian workshop."
   4: 0x0779 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x077A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
   6: 0x0781 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  7: 0x0788 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
+  7: 0x0788 [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "Whataru do you reckon? Think you're up to this mission?"
   8: 0x078B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x078C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1916,10 +1916,10 @@ SUBROUTINE_0740:
 
 ```
   0: 0x0794 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x079B [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
+  1: 0x079B [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
     → "Greataru! Then head to the Manustery in Windurst Woods."
   2: 0x079E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
+  3: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
     → "You should be able to see a building high on the hill when you look up from the Bomingo Round in Windurst Woods. Thataru's the Manustery, otherwise known as the Cardian workshop."
   4: 0x07A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -1951,10 +1951,10 @@ SUBROUTINE_0740:
   1: 0x07B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x07B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x07B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
+  4: 0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "Go ask the staff who work ataru the Manustery's Cardian workshop in Windurst Woods for the details of your mission."
   5: 0x07BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x07BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+  6: 0x07BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
     → "To getaru to Windurst Woods from here, just cross the bridge and head south. Keep heading south pastaru the auction house and across the bridge there. I recommend you keep checking your map so as not to getaru lost."
   7: 0x07C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x07C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2054,10 +2054,10 @@ SUBROUTINE_0740:
 
 ```
   0: 0x08C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x08C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
+  1: 0x08C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
     → "Seems like you've settled into your life in Windurst quitarue well. I hope your fighting skills have also improved."
   2: 0x08CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x08CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
+  3: 0x08CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
     → "We've prepared this nextaru mission for someone just like you."
   4: 0x08D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2085,10 +2085,10 @@ SUBROUTINE_0740:
 
 ```
   0: 0x08D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x08E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
+  1: 0x08E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
     → "Your destaruination will be Giddeus--home of the Yagudo beastmen--on the other side of West Sarutabaruta."
   2: 0x08E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x08E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
+  3: 0x08E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
     → "Windurst and the Yagudo have long been enemies, fightaruing over the riches of Sarutabaruta since ancient times."
   4: 0x08E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2116,7 +2116,7 @@ SUBROUTINE_0740:
 
 ```
   0: 0x08F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x08F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
+  1: 0x08F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
     → "But for the lastaru twenty years, since the war ended, Windurst has been working hard ataru maintaining peaceful relations with the Yagudo."
   2: 0x08FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2144,7 +2144,7 @@ SUBROUTINE_0740:
 
 ```
   0: 0x0903 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x090A [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
+  1: 0x090A [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
     → "As a sign of our amicability, we provide them with food offerings. This is where your nextaru mission comes into the picture."
   2: 0x090D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x090E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2172,11 +2172,11 @@ SUBROUTINE_0740:
 
 ```
   0: 0x0916 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
-  1: 0x091D [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+  1: 0x091D [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
     → "You are to go and receive some food offerings from the Rhinostery over in Windurst Waters and deliver them to Giddeus."
   2: 0x0920 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0921 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0A)
-  4: 0x0928 [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
+  4: 0x0928 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
     → "There are two altars for the offerings above ground before the entrances to inner Giddeus. In order to fulfill your mission, you are to place a food offering ataru each of these altars."
   5: 0x092B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x092C [0x00] END_REQSTACK()
@@ -2205,12 +2205,12 @@ SUBROUTINE_0740:
 
 ```
   0: 0x092D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
-  1: 0x0934 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+  1: 0x0934 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "The problem is...even though we are supposed to have amicable relations with the Yagudo, they do not allow us people to enter Giddeus. So once you setaru foot in there, you're fair game."
   2: 0x0937 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0938 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
   4: 0x093F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
-  5: 0x0946 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+  5: 0x0946 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "I don'taru think we should have to risk our lives in order to deliver them a presentaru of food. But, oops, I've said too much. I never said thataru last bit, okay?"
   6: 0x0949 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x094A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
@@ -2242,10 +2242,10 @@ SUBROUTINE_0740:
   1: 0x0957 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0958 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0959 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+  4: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Head over to the Rhinostery in Windurst Waters and pick up the food offerings for the Yagudo. Then go deliver them to Giddeus."
   5: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+  6: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Windurst Waters is west of where we stand in Windurst Walls. The quickestaru way to get there is to cross the bridge nextaru to Koru-Moru's manor."
   7: 0x0967 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0968 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2303,17 +2303,17 @@ SUBROUTINE_0740:
  13: 0x09AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x09BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x09CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 16: 0x09D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+ 16: 0x09D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "Good, good... Thataru seemed to go withoutaru a hitch this time."
  17: 0x09D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x09D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+ 18: 0x09D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "Oh, and congratarulations! Now thataru you've cleared three missions, you are entitled to advance to rank two!"
  19: 0x09DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x09DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  21: 0x09E3 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
  22: 0x09F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  23: 0x0A03 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
- 24: 0x0A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+ 24: 0x0A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "Before I can issue you another mission, we require you to participate in the conquest campaign for a while in order to amass some rank points. Speak to the guard in charge of conquests for further details."
  25: 0x0A0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0A0E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0A)
@@ -2353,7 +2353,7 @@ SUBROUTINE_0740:
   1: 0x0A59 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A5A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+  4: 0x0A62 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "Let's keep working together to protectaru Windurst's justaruice, libertaruy, and love!"
   5: 0x0A65 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0A66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2411,7 +2411,7 @@ SUBROUTINE_0740:
  14: 0x0ABA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0ACB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x37)
  16: 0x0AD2 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
- 17: 0x0AE1 [0x24] CREATE_DIALOG(message_id=7364*, default_option=0*, option_flags=0*)
+ 17: 0x0AE1 [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=0*)
     → "Acceptaru this mission? [Acceptaru./Decline.]"
  18: 0x0AE8 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0AE9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B11
@@ -2455,13 +2455,13 @@ SUBROUTINE_0B21:
 
 ```
   0: 0x0B4C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+  1: 0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
     → "How unusual.. We have justaru received an urgentaru mission from the Optistery."
   2: 0x0B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B57 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
+  3: 0x0B57 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "The Optistery runs the local Library of Magic and is the mostaru rigid of Windurst's ministries. They usually keep to themselves and don'taru cause any trouble."
   4: 0x0B5A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+  5: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "Why don'taru you take up this rare chance of serving the Optistery, as it's sure got my interestaru plucked!"
   6: 0x0B5E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0B5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2489,10 +2489,10 @@ SUBROUTINE_0B21:
 
 ```
   0: 0x0B67 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+  1: 0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "The Library of Magic thataru the Optistery runs is west of here, in Windurst Waters. To find out whataru the mission involves, speak to the Minister of the Optistery in the library there."
   2: 0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B72 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
+  3: 0x0B72 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
     → "You remember how to getaru to Windurst Waters, rightaru? Head west and cross the bridge nextaru to old Koru-Moru's manor."
   4: 0x0B75 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B76 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2524,10 +2524,10 @@ SUBROUTINE_0B21:
   1: 0x0B83 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B84 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B85 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0B8C [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+  4: 0x0B8C [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
     → "The Library of Magic thataru the Optistery runs is west of here, in Windurst Waters. To find outaru what your mission involves, speak to the Minister of the Optistery in the library there."
   5: 0x0B8F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B90 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
+  6: 0x0B90 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "You remember how to getaru to Windurst Waters, rightaru? Head west and cross the bridge nextaru to old Koru-Moru's manor."
   7: 0x0B93 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B94 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2586,7 +2586,7 @@ SUBROUTINE_0B21:
  14: 0x0BE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0BF9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x3B)
  16: 0x0C00 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
- 17: 0x0C0F [0x24] CREATE_DIALOG(message_id=7377*, default_option=0*, option_flags=0*)
+ 17: 0x0C0F [0x24] CREATE_DIALOG(message_id=7378*, default_option=0*, option_flags=0*)
     → "Accept the mission? [Acceptaru./Decline.]"
  18: 0x0C16 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0C17 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C3F
@@ -2630,10 +2630,10 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x0C7A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0C81 [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
+  1: 0x0C81 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
     → "This mission will let you see the bestaru and worstaru of Windurst."
   2: 0x0C84 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0C85 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
+  3: 0x0C85 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
     → "The Aurastery, the ministry thataru runs the School of Magic, has issued a large-scale mission. It looks like it'll consume a fair amountaru of time, but if you're still up for itaru..."
   4: 0x0C88 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0C89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2661,10 +2661,10 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x0C91 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0C98 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+  1: 0x0C98 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "The School of Magic, as the name suggests, is where we educate our promising young magic users."
   2: 0x0C9B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0C9C [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+  3: 0x0C9C [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
     → "This mission will affectaru how these children will grow up, and therefore the whole future of Windurst. I pray you can putaru up a good fightaru!"
   4: 0x0C9F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0CA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2696,10 +2696,10 @@ SUBROUTINE_0C4F:
   1: 0x0CAD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0CAE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0CAF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0CB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+  4: 0x0CB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "The School of Magic is in the Windurst Waters district, west of here. Quitarue a number of child prodigies study within the school grounds."
   5: 0x0CB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+  6: 0x0CBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "Butaru to receive the details of this mission, you'll have to speak to the teachers in the staff room there. Good luck with this mission...for our children's future."
   7: 0x0CBD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0CBE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2786,7 +2786,7 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x0D70 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0D)
-  1: 0x0D77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+  1: 0x0D77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "Looks like your time has finally come! Now's the startaru of an adventure that will take you all over the world!"
   2: 0x0D7A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D7B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0E)
@@ -2814,7 +2814,7 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x0D83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x0D8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
+  1: 0x0D8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
     → "To be briefed on whataru your next mission entails, head on into the Heavens Tower Clerical Chamber. So chop-chop, you've gotaru a long way to go once you step inside here..."
   2: 0x0D8D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D8E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2846,10 +2846,10 @@ SUBROUTINE_0C4F:
   1: 0x0D9B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D9C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0D9D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0DA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
+  4: 0x0DA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
     → "Any adventarurer wants to travel around the whole world, butaru when you are asked to do itaru for your country, then it's like killing two jubjubs with one Stone spell!"
   5: 0x0DA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0DA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
+  6: 0x0DA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
     → "Step inside Heavens Tower behind me and inquire ataru the Clerical Chamber to hear the full briefing of your mission. Hurry on up now!"
   7: 0x0DAB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0DAC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -2907,17 +2907,17 @@ SUBROUTINE_0C4F:
  13: 0x0DEF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x0E00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0E11 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 16: 0x0E18 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
+ 16: 0x0E18 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
     → "Thank goodness you stopped by! You have been summoned to go inside Heavens Tower again!"
  17: 0x0E1B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0E1C [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
+ 18: 0x0E1C [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
     → "And what's scarier still is thataru the person calling for you is none other than the Sibyl Guard Semih Lafihna, or as we at Heavens Tower call her...the defender of law and justaruice!"
  19: 0x0E1F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0E20 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  21: 0x0E27 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
  22: 0x0E36 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  23: 0x0E47 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
- 24: 0x0E4E [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
+ 24: 0x0E4E [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
     → "Hurry up and head inside Heavens Tower. Semih Lafihna is a busy lady, and notaru someone you wantaru to keep waiting."
  25: 0x0E51 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0E52 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0A)
@@ -2957,10 +2957,10 @@ SUBROUTINE_0C4F:
   1: 0x0E9D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E9E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E9F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0EA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
+  4: 0x0EA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
     → "As head of the Sibyl Guards, Semih Lafihna almostaru always carries out her investigations by herself."
   5: 0x0EA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0EAA [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
+  6: 0x0EAA [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
     → "Itaru is most unusual for her to issue a mission such as this. Itaru kind of makes you wonder whataru is going on...? But there I go saying too much again."
   7: 0x0EAD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0EAE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3015,13 +3015,13 @@ SUBROUTINE_0C4F:
  13: 0x0EF1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x0F02 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0F13 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 16: 0x0F1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
+ 16: 0x0F1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
     → "Woo-hoo... Guess who this mission is from!"
  17: 0x0F1D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0F1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
+ 18: 0x0F1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
     → "Why, it's from the woman who has run the ladies-in-waiting with an iron fistaru for the last few decades, the oldest of the old guard, yes, it's the Star Sibyl's head lady-in-waiting, none other than Zubaba herself!"
  19: 0x0F21 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0F22 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
+ 20: 0x0F22 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
     → "Anyway, she's waiting for you up in Heavens Tower's Vestal Vestibule. This is one old lady you don'taru want to keep waiting!"
  21: 0x0F25 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0F26 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3061,10 +3061,10 @@ SUBROUTINE_0C4F:
   1: 0x0F71 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0F72 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0F73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x0F7A [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+  4: 0x0F7A [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "I don'taru think old Zubaba has ventured out from Heavens Tower for years now."
   5: 0x0F7D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0F7E [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+  6: 0x0F7E [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "In fact, it may even be decades since she lastaru stepped out of there. Then again, Heavens Tower would never be the same withoutaru her, so I guess she feels she can'taru leave."
   7: 0x0F81 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0F82 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3155,7 +3155,7 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x1045 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
-  1: 0x104C [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+  1: 0x104C [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "Hmm... This has to be a mistake. But I've checked itaru several times..."
   2: 0x104F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1050 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
@@ -3186,12 +3186,12 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x1066 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x07)
-  1: 0x106D [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+  1: 0x106D [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "Itaru appears to be $6 addressed to you. A letter with the star emblem on itaru, signifying it's of the utmost importance, has been sentaru to you!"
   2: 0x1070 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1071 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x08)
   4: 0x1078 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  5: 0x107F [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  5: 0x107F [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "The mostaru revered person in all Windurst--if this isn'taru a mistake, thataru is--has summoned you!"
   6: 0x1082 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1083 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3223,10 +3223,10 @@ SUBROUTINE_0C4F:
   1: 0x1090 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1091 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1092 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x1099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+  4: 0x1099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "Letters with the star emblem on them like this one are the most importantaru papers issued by Heavens Tower. Usually they are only sentaru to elite people such as the ministers of the five ministries."
   5: 0x109C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x109D [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+  6: 0x109D [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "Itaru is extremely rare for a star emblem letter to be issued to a lowly adventurer such as you... Hey, don'taru tell me you're an undercover agent checking up on us or something!?"
   7: 0x10A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x10A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3260,10 +3260,10 @@ SUBROUTINE_0C4F:
   1: 0x10B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x10B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x10B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x10BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+  4: 0x10BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "Itaru's a pity I cannotaru welcome you back under better circumstances. If you haven'taru heard, Windurst is now officially in a state of emergency."
   5: 0x10BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x10BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+  6: 0x10BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "Emergency orders have been given to all guards and adventarurers most loyal to Windurst, and the issuance of missions has been stopped pending further instructions from Heavens Tower."
   7: 0x10C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x10C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3356,7 +3356,7 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x119D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x11A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+  1: 0x11A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "This is an urgentaru mission from Heavens Tower!"
   2: 0x11A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x11A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3384,13 +3384,13 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x11B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x11B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+  1: 0x11B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "Your destination is the cursed Northlands...the ruins of Fei'Yin, northeastaru of the Beaucedine Glacier."
   2: 0x11BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x11BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+  3: 0x11BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "There aren'taru that many adventurers who could survive a journey like this."
   4: 0x11BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x11BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+  5: 0x11BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "I'm just relieved an adventarurer as strong as yourself has volunteered to make [himself/herself] available for this mission."
   6: 0x11C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x11C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3419,10 +3419,10 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x11CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x11D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
+  1: 0x11D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "It seems you need to collectaru a seal from within Heavens Tower before you go, so you had better go do thataru now."
   2: 0x11D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x11D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+  3: 0x11D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "I pray you have a safe journey!"
   4: 0x11D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x11DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3454,10 +3454,10 @@ SUBROUTINE_0C4F:
   1: 0x11E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x11E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x11E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x11F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+  4: 0x11F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "Your mission's destaruination is the cursed Northlands...the ruins of Fei'Yin, northeastaru of the Beaucedine Glacier."
   5: 0x11F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x11F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
+  6: 0x11F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
     → "If you don'taru have the necessary seal yetaru, then you should pick it up from within Heavens Tower before you departaru."
   7: 0x11F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x11F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3543,10 +3543,10 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x129B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  1: 0x12A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
+  1: 0x12A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
     → "I have a bad feeling about this, butaru another $3 is addressed to you."
   2: 0x12A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x12A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  3: 0x12A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Maybe you are destined to carry out great deeds like the hero Karaha-Baruha, who saved Windurst twenty years ago."
   4: 0x12A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x12AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3574,7 +3574,7 @@ SUBROUTINE_0C4F:
 
 ```
   0: 0x12B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0F)
-  1: 0x12B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+  1: 0x12B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "Anyway, you had better proceed on into Heavens Tower. I assume the Star Sibyl is awaiting you."
   2: 0x12BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x12BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x10)
@@ -3606,10 +3606,10 @@ SUBROUTINE_0C4F:
   1: 0x12CA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x12CB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x12CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x12D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+  4: 0x12D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "The Star Sibyl is waitaruing for you in Heavens Tower. You'd better hurry and go inside."
   5: 0x12D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
+  6: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
     → "Go on to do great deeds, my friend. Just like the hero Karaha-Baruha did twenty years ago."
   7: 0x12DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x12DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3668,20 +3668,20 @@ SUBROUTINE_0C4F:
  13: 0x131C [0x4A] Pakke-Pokke (ID: 17756172/0x010EF00C) looks at LocalPlayer
  14: 0x1325 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  15: 0x1336 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 16: 0x1347 [0x1D] PRINT_EVENT_MESSAGE(message_id=8718*)
+ 16: 0x1347 [0x1D] PRINT_EVENT_MESSAGE(message_id=8719*)
     → "The Minister of the Orastery, Ajido-Marujido, has issued a mission specifically for you."
  17: 0x134A [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x134B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
  19: 0x1352 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  20: 0x1363 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
- 21: 0x136A [0x1D] PRINT_EVENT_MESSAGE(message_id=8719*)
+ 21: 0x136A [0x1D] PRINT_EVENT_MESSAGE(message_id=8720*)
     → "I don'taru really like to say it, but... From where I stand, it looks as if he is in some sort of conflictaru with Heavens Tower."
  22: 0x136D [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x136E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
  24: 0x1375 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
  25: 0x1384 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  26: 0x1395 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
- 27: 0x139C [0x1D] PRINT_EVENT_MESSAGE(message_id=8720*)
+ 27: 0x139C [0x1D] PRINT_EVENT_MESSAGE(message_id=8721*)
     → "You've acceptarued the mission and have to carry it out, but please be careful notaru step on anyone's toesy-wosies."
  28: 0x139F [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x13A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3721,13 +3721,13 @@ SUBROUTINE_0C4F:
   1: 0x13DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x13DD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x13DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x13E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8721*)
+  4: 0x13E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8722*)
     → "Minister Ajido-Marujido awaitarus you in the Orastery."
   5: 0x13E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x13E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
   7: 0x13F0 [0x6E] EventEntity uses emote 6*
   8: 0x13F7 [0x99] Wait for EventEntity animation to complete
-  9: 0x13FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8722*)
+  9: 0x13FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8723*)
     → "It's notaru my place to interfere, but... Please be careful notaru step on anyone's toesy-wosies."
  10: 0x13FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1400 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3791,30 +3791,30 @@ SUBROUTINE_0C4F:
  13: 0x143C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x144D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x145E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 16: 0x1465 [0x1D] PRINT_EVENT_MESSAGE(message_id=8729*)
+ 16: 0x1465 [0x1D] PRINT_EVENT_MESSAGE(message_id=8730*)
     → "Positively shocking. Did you hear aboutaru Minister Ajido-Marujido?"
  17: 0x1468 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1469 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  19: 0x1470 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0D)
- 20: 0x1477 [0x1D] PRINT_EVENT_MESSAGE(message_id=8730*)
+ 20: 0x1477 [0x1D] PRINT_EVENT_MESSAGE(message_id=8731*)
     → "How many years has it been since someone was incarceratarued in the Dark Dungeon?"
  21: 0x147A [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x147B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0E)
  23: 0x1482 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  24: 0x1493 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x07)
- 25: 0x149A [0x1D] PRINT_EVENT_MESSAGE(message_id=8731*)
+ 25: 0x149A [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
     → "Apparentaruly, an adventurer was with Minister Ajido-Marujido when he was caughtaru."
  26: 0x149D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x149E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x08)
  28: 0x14A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 29: 0x14AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
+ 29: 0x14AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8733*)
     → "Should that adventurer be sharing the blame, I wonder?"
  30: 0x14AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x14B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  32: 0x14B7 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
  33: 0x14C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[139*, 0*]
  34: 0x14D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
- 35: 0x14DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8733*)
+ 35: 0x14DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8734*)
     → "Anyway, leaving that talk aside, you have been summoned by the Star Sibyl."
  36: 0x14E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x14E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0A)
@@ -3822,7 +3822,7 @@ SUBROUTINE_0C4F:
  39: 0x14F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  40: 0x1509 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  41: 0x151A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 42: 0x1521 [0x1D] PRINT_EVENT_MESSAGE(message_id=8734*)
+ 42: 0x1521 [0x1D] PRINT_EVENT_MESSAGE(message_id=8735*)
     → "Please proceed into Heavens Tower."
  43: 0x1524 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x1525 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -3863,12 +3863,12 @@ SUBROUTINE_0C4F:
   1: 0x1561 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1562 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1563 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x156A [0x1D] PRINT_EVENT_MESSAGE(message_id=8735*)
+  4: 0x156A [0x1D] PRINT_EVENT_MESSAGE(message_id=8736*)
     → "There is a summons for you from the Star Sibyl. Please proceed directaruly into Heavens Tower."
   5: 0x156D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x156E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
   7: 0x1575 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
-  8: 0x157C [0x1D] PRINT_EVENT_MESSAGE(message_id=8736*)
+  8: 0x157C [0x1D] PRINT_EVENT_MESSAGE(message_id=8737*)
     → "Will the adventurer who was with Minister Ajido-Marujido share his punishmentaru, I wonder?"
   9: 0x157F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1580 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
@@ -3930,19 +3930,19 @@ SUBROUTINE_0C4F:
  13: 0x15D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x15E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x15F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 16: 0x15FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8742*)
+ 16: 0x15FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
     → "I've been hearing rumors from Miss Kupipi. Sounds like you've been through a tough time."
  17: 0x15FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x15FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  19: 0x1605 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
- 20: 0x160C [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
+ 20: 0x160C [0x1D] PRINT_EVENT_MESSAGE(message_id=8744*)
     → "Luckily, this nextaru mission from the Optistery is a little easier. They wantaru you to help with tidying up the book vault, so it should be a walk in the park for you."
  21: 0x160F [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1610 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0A)
  23: 0x1617 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  24: 0x1628 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[139*, 0*]
  25: 0x1639 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
- 26: 0x1640 [0x1D] PRINT_EVENT_MESSAGE(message_id=8744*)
+ 26: 0x1640 [0x1D] PRINT_EVENT_MESSAGE(message_id=8745*)
     → "But to ask a rank seven adventurer to help them... It may be thataru there's more to this mission than meets the eye."
  27: 0x1643 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1644 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
@@ -3985,12 +3985,12 @@ SUBROUTINE_0C4F:
   1: 0x169D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x169E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x169F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
-  4: 0x16A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8745*)
+  4: 0x16A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8746*)
     → "The Optistery has issued a mission for a book vault tidy-up. You've acceptarued missions from the Optistery before, haven'taru you?"
   5: 0x16A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x16AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
   7: 0x16B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
-  8: 0x16B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8746*)
+  8: 0x16B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8747*)
     → "They seem to have been impressed with you. It's very rare for the Optistery to ask for an adventurer by name."
   9: 0x16BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x16BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
@@ -4051,13 +4051,13 @@ SUBROUTINE_0C4F:
  13: 0x16FD [0x4A] Pakke-Pokke (ID: 17756172/0x010EF00C) looks at LocalPlayer
  14: 0x1706 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  15: 0x1717 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 16: 0x1728 [0x1D] PRINT_EVENT_MESSAGE(message_id=8753*)
+ 16: 0x1728 [0x1D] PRINT_EVENT_MESSAGE(message_id=8754*)
     → "Are you acquaintarued with Minister Rukususu of the Rhinostery? The nextaru mission is from her ministry."
  17: 0x172B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x172C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
  19: 0x1733 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  20: 0x1744 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
- 21: 0x174B [0x1D] PRINT_EVENT_MESSAGE(message_id=8754*)
+ 21: 0x174B [0x1D] PRINT_EVENT_MESSAGE(message_id=8755*)
     → "All it says here is that the Rhinostery is looking for your help. Please ask Leepe-Hoppe on the second floor of the Rhinostery for the details of the mission."
  22: 0x174E [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x174F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
@@ -4065,7 +4065,7 @@ SUBROUTINE_0C4F:
  25: 0x1765 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  26: 0x1776 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[139*, 0*]
  27: 0x1787 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 28: 0x178E [0x1D] PRINT_EVENT_MESSAGE(message_id=8755*)
+ 28: 0x178E [0x1D] PRINT_EVENT_MESSAGE(message_id=8756*)
     → "They seem to be in a quite a fluster-wuster, so please hurry on over to the Rhinostery."
  29: 0x1791 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1792 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4106,12 +4106,12 @@ SUBROUTINE_0C4F:
   1: 0x17DD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x17DE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x17DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x07)
-  4: 0x17E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8756*)
+  4: 0x17E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
     → "The Rhinostery is a research facility where they study all living things. They have a greataru number of researchers scattered all over Vana'diel carrying on various investigations."
   5: 0x17E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x17EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x08)
   7: 0x17F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  8: 0x17F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
+  8: 0x17F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
     → "It's a difficult field, but as Yoran-Oran always says, "There's nothing-ethy like the feeling of solving-ethy the world's little mysteries.""
   9: 0x17FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x17FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -4167,11 +4167,11 @@ SUBROUTINE_0C4F:
  14: 0x1850 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x1861 [0x6E] EventEntity uses emote 7*
  16: 0x1868 [0x99] Wait for EventEntity animation to complete
- 17: 0x186D [0x1D] PRINT_EVENT_MESSAGE(message_id=8764*)
+ 17: 0x186D [0x1D] PRINT_EVENT_MESSAGE(message_id=8765*)
     → "Wowy-wow, you've reached rank eightaru already? Congratulations on your promotion."
  18: 0x1870 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x1871 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 20: 0x1878 [0x1D] PRINT_EVENT_MESSAGE(message_id=8765*)
+ 20: 0x1878 [0x1D] PRINT_EVENT_MESSAGE(message_id=8766*)
     → "Your nextaru mission has been issued by the Aurastery. Please ask the teachers at the School of Magic for the details."
  21: 0x187B [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x187C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -4210,10 +4210,10 @@ SUBROUTINE_0C4F:
   1: 0x18B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x18B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x18BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x18C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8766*)
+  4: 0x18C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8767*)
     → "This is a mission from the Aurastery, which basically means a mission from the School of Magic. Please talk to the teachers in the staff room."
   5: 0x18C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x18C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8767*)
+  6: 0x18C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8768*)
     → "Principal Koru-Moru resides in Windurst Walls, but... There probably wouldn't be much pointaru in asking him about the mission."
   7: 0x18C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x18C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -4277,19 +4277,19 @@ SUBROUTINE_0C4F:
  14: 0x1911 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s115" with entities [EventEntity, EventEntity], work=[139*, 0*]
  15: 0x1922 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  16: 0x1933 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 17: 0x193A [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
+ 17: 0x193A [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
     → "Firstaru, I must get you to promise something. You can't say anything aboutaru this mission to anyone."
  18: 0x193D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x193E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  20: 0x1945 [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [EventEntity, EventEntity], work=139*
  21: 0x1954 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  22: 0x1965 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
- 23: 0x196C [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
+ 23: 0x196C [0x1D] PRINT_EVENT_MESSAGE(message_id=8776*)
     → "This is a mission from Minister Apururu of the Manustery, but it hasn't been submitted to the Sibyl Guards for approval."
  24: 0x196F [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1970 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
  26: 0x1977 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
- 27: 0x197E [0x1D] PRINT_EVENT_MESSAGE(message_id=8776*)
+ 27: 0x197E [0x1D] PRINT_EVENT_MESSAGE(message_id=8777*)
     → "It's not very likely that the Sibyl Guards would allow this mission to be issued... After a lengthy discussion-wussion amongst the gatehouse guards, we decided to keep it quiet from them for the sake of Minister Apururu."
  28: 0x1981 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x1982 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
@@ -4298,7 +4298,7 @@ SUBROUTINE_0C4F:
  32: 0x19A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  33: 0x19BA [0x6E] EventEntity uses emote 1*
  34: 0x19C1 [0x99] Wait for EventEntity animation to complete
- 35: 0x19C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8777*)
+ 35: 0x19C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8778*)
     → "Please make your way to the Manustery. Minister Apururu is waiting for you."
  36: 0x19C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x19CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4339,12 +4339,12 @@ SUBROUTINE_0C4F:
   1: 0x1A07 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1A08 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1A09 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0D)
-  4: 0x1A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=8778*)
+  4: 0x1A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=8779*)
     → "This is a mission from Minister Apururu of the Manustery. Please take care not to blabby-wab to anyone about it."
   5: 0x1A13 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1A14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0E)
   7: 0x1A1B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x09)
-  8: 0x1A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8779*)
+  8: 0x1A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8780*)
     → "Please hurry to the Manustery and keep a look out for any Sibyl Guards sniffing around."
   9: 0x1A25 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1A26 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x0A)
@@ -4404,24 +4404,24 @@ SUBROUTINE_0C4F:
  13: 0x1A69 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x1A7A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x1A8B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
- 16: 0x1A92 [0x1D] PRINT_EVENT_MESSAGE(message_id=9000*)
+ 16: 0x1A92 [0x1D] PRINT_EVENT_MESSAGE(message_id=9001*)
     → "...... I can't really go into too much detail about this mission right in frontaru of Heavens Tower..."
  17: 0x1A95 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1A96 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
  19: 0x1A9D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
- 20: 0x1AA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9001*)
+ 20: 0x1AA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9002*)
     → "Minister Apururu wants you to hurry over to the Manustery."
  21: 0x1AA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1AA8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
  23: 0x1AAF [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
  24: 0x1ABE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  25: 0x1ACF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 26: 0x1AD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9002*)
+ 26: 0x1AD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9003*)
     → "It seems that Minister Ajido-Marujido may be on the verge of waking up from his coma..."
  27: 0x1AD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1ADA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  29: 0x1AE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x07)
- 30: 0x1AE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9003*)
+ 30: 0x1AE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9004*)
     → "That mightaru just be hopeful speculation on my part, but Miss Apururu has been seen hurry-scurrying back and forth between Windurst Woods and Windurst Walls."
  31: 0x1AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x1AEC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x08)
@@ -4461,10 +4461,10 @@ SUBROUTINE_0C4F:
   1: 0x1B37 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1B38 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1B39 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x1B40 [0x1D] PRINT_EVENT_MESSAGE(message_id=9004*)
+  4: 0x1B40 [0x1D] PRINT_EVENT_MESSAGE(message_id=9005*)
     → "This is a mission from Minister Apururu of the Manustery. Please keep the details tip-top secret."
   5: 0x1B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1B44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9005*)
+  6: 0x1B44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9006*)
     → "Sibyl Guard Semih Lafihna has returned to Heavens Tower, but hopefully she won'taru be visiting the Dark Dungeon any time soon."
   7: 0x1B47 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1B48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -4527,19 +4527,19 @@ SUBROUTINE_0C4F:
  13: 0x1B8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[139*, 0*]
  14: 0x1B9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x1BAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 16: 0x1BB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+ 16: 0x1BB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "<Player>, you have orders to reportaru to Heavens Tower. Those pesky Yagudo are causing trouble again."
  17: 0x1BB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1BB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
  19: 0x1BBF [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=139*
  20: 0x1BCE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[139*, 0*]
  21: 0x1BDF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x03)
- 22: 0x1BE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
+ 22: 0x1BE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
     → "There has been a proposal addressed to the Star Sibyl for a revision-wision of the peace treaty between the Yagudo and Windurst."
  23: 0x1BE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1BEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x04)
  25: 0x1BF1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x05)
- 26: 0x1BF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+ 26: 0x1BF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "Each proposal the Yagudo send is more demanding than the lastaru. It's like they're deliberataruly picking a fight with us."
  27: 0x1BFB [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1BFC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x06)
@@ -4548,7 +4548,7 @@ SUBROUTINE_0C4F:
  31: 0x1C23 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[139*, 0*]
  32: 0x1C34 [0x6E] EventEntity uses emote 6*
  33: 0x1C3B [0x99] Wait for EventEntity animation to complete
- 34: 0x1C40 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+ 34: 0x1C40 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "...With all this going on, how can we say that Windurst is really in a state of peace...? Um, please forget I said that. I was justaru thinking out loud..."
  35: 0x1C43 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x1C44 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4587,10 +4587,10 @@ SUBROUTINE_0C4F:
   1: 0x1C88 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1C89 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1C8A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  4: 0x1C91 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+  4: 0x1C91 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "A proposal has been sentaru to Heavens Tower for a revision of the peace treaty between the Yagudo and Windurst."
   5: 0x1C94 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1C95 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+  6: 0x1C95 [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "I justaru can't understand why the Yagudo are being so agressive-wessive. Is this their way of pulling a fastaru one on us?"
   7: 0x1C98 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1C99 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
@@ -4627,20 +4627,20 @@ SUBROUTINE_0C4F:
   2: 0x1CAA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x1CAB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x1CAC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
-  5: 0x1CB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+  5: 0x1CB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I mightaru be a guard for Windurst Walls, but no one loves the entire city of Windurst more than me."
   6: 0x1CB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1CB7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)
   8: 0x1CBE [0x6E] EventEntity uses emote 6*
   9: 0x1CC5 [0x99] Wait for EventEntity animation to complete
- 10: 0x1CCA [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+ 10: 0x1CCA [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "And that is why you have my most sincerest-werest gratitude. I can barely put into words how much I appreciataru what you have done."
  11: 0x1CCD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x1CCE [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
+ 12: 0x1CCE [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
     → "I still remember hiding with my mother in Heavens Tower when the war was raging all aboutaru Windurst. I will never forgetaru the scene that met my eyes when I looked back from this spot."
  13: 0x1CD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1CD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x01)
- 15: 0x1CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+ 15: 0x1CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Your adventures may take you to distantaru lands, but please don't forget the gentle breeze, clear blue skies, and beautiful vistas of Windurst."
  16: 0x1CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1CDD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zokima-Rokima (ID: 17756171/0x010EF00B), tag_num=0x02)

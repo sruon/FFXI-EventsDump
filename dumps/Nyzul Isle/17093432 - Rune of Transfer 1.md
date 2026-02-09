@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D9D      |        7581 |
+|       0 | 0x1D9E      |        7582 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 
 ## String References
 
-- **7581**: Warp to Floor $0? (Difficulty: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]) [Yes./No.]
+- **7582**: Warp to Floor $0? (Difficulty: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]) [Yes./No.]
 
 ## Events
 
@@ -73,7 +73,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7581*, default_option=1*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7582*, default_option=1*, option_flags=0*)
     → "Warp to Floor $0? (Difficulty: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]) [Yes./No.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019

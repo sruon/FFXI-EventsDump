@@ -23,9 +23,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2711      |       10001 |
-|       1 | 0x2712      |       10002 |
-|       2 | 0x2713      |       10003 |
+|       0 | 0x2712      |       10002 |
+|       1 | 0x2713      |       10003 |
+|       2 | 0x2714      |       10004 |
 |       3 | 0xFFFFFE39  |  4294966841 |
 |       4 | 0xFFFFC57B  |  4294952315 |
 |       5 | 0xFFFFF060  |  4294963296 |
@@ -33,9 +33,9 @@
 
 ## String References
 
-- **10001**: Hey! Don't take one more step. You're not going anywhere until you get checked by Dakha Topsalwan.
-- **10002**: You can't come in here! This is the airship arrivals gate.
-- **10003**: If you are ready to depart Kazham, pay the boarding fee at the counter on the other side.
+- **10002**: Hey! Don't take one more step. You're not going anywhere until you get checked by Dakha Topsalwan.
+- **10003**: You can't come in here! This is the airship arrivals gate.
+- **10004**: If you are ready to depart Kazham, pay the boarding fee at the counter on the other side.
 
 ## Events
 
@@ -83,7 +83,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10001*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10002*)
     → "Hey! Don't take one more step. You're not going anywhere until you get checked by Dakha Topsalwan."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -114,10 +114,10 @@
   0: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0015 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0016 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10002*)
+  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10003*)
     → "You can't come in here! This is the airship arrivals gate."
   4: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10003*)
+  5: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10004*)
     → "If you are ready to depart Kazham, pay the boarding fee at the counter on the other side."
   6: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

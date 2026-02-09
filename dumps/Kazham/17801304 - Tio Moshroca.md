@@ -25,11 +25,11 @@
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0006      |           6 |
-|       3 | 0x26F8      |        9976 |
+|       3 | 0x26F9      |        9977 |
 
 ## String References
 
-- **9976**: No, no, no. I can't let you through here. Authorized perrrsonnel only.
+- **9977**: No, no, no. I can't let you through here. Authorized perrrsonnel only.
 
 ## Events
 
@@ -129,7 +129,7 @@
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x6E] EventEntity uses emote 6*
   4: 0x0028 [0x99] Wait for EventEntity animation to complete
-  5: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=9976*)
+  5: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=9977*)
     → "No, no, no. I can't let you through here. Authorized perrrsonnel only."
   6: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0031 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

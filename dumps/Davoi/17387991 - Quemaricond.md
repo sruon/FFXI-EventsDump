@@ -61,12 +61,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D5B      |        7515 |
-|       1 | 0x1D5C      |        7516 |
-|       2 | 0x1D5D      |        7517 |
-|       3 | 0x1D5E      |        7518 |
-|       4 | 0x1D5F      |        7519 |
-|       5 | 0x1D60      |        7520 |
+|       0 | 0x1D5C      |        7516 |
+|       1 | 0x1D5D      |        7517 |
+|       2 | 0x1D5E      |        7518 |
+|       3 | 0x1D5F      |        7519 |
+|       4 | 0x1D60      |        7520 |
+|       5 | 0x1D61      |        7521 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x00C9      |         201 |
@@ -83,12 +83,12 @@
 
 ## String References
 
-- **7515**: What? I apologize, but I am in quite a hurry.
-- **7516**: What is this? You were ordered by Prince Trion to return with the report?
-- **7517**: Wonderful! To tell you the truth, I have been lost for the past few days. I cannot make heads or tails of where I'm going in this dreadful place.
-- **7518**: Without this vital report, the Royal Knights will be in the dark! Your assistance is greatly appreciated!
-- **7519**: Here is the report. Now hurry back to Prince Trion!
-- **7520**: Deep in Davoi, the Royal Knight, Bernal, and his Tarutaru companion are waiting for assistance. You must make haste, and deliver that report to Prince Trion!
+- **7516**: What? I apologize, but I am in quite a hurry.
+- **7517**: What is this? You were ordered by Prince Trion to return with the report?
+- **7518**: Wonderful! To tell you the truth, I have been lost for the past few days. I cannot make heads or tails of where I'm going in this dreadful place.
+- **7519**: Without this vital report, the Royal Knights will be in the dark! Your assistance is greatly appreciated!
+- **7520**: Here is the report. Now hurry back to Prince Trion!
+- **7521**: Deep in Davoi, the Royal Knight, Bernal, and his Tarutaru companion are waiting for assistance. You must make haste, and deliver that report to Prince Trion!
 
 ## Events
 
@@ -170,7 +170,7 @@
 #### Opcodes
 
 ```
-  0: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+  0: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "What? I apologize, but I am in quite a hurry."
   1: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003B [0x00] END_REQSTACK()
@@ -196,7 +196,7 @@
 #### Opcodes
 
 ```
-  0: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  0: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "What is this? You were ordered by Prince Trion to return with the report?"
   1: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0040 [0x00] END_REQSTACK()
@@ -221,7 +221,7 @@
 #### Opcodes
 
 ```
-  0: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  0: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "Wonderful! To tell you the truth, I have been lost for the past few days. I cannot make heads or tails of where I'm going in this dreadful place."
   1: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0045 [0x00] END_REQSTACK()
@@ -246,7 +246,7 @@
 #### Opcodes
 
 ```
-  0: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  0: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "Without this vital report, the Royal Knights will be in the dark! Your assistance is greatly appreciated!"
   1: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x004A [0x00] END_REQSTACK()
@@ -271,7 +271,7 @@
 #### Opcodes
 
 ```
-  0: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  0: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Here is the report. Now hurry back to Prince Trion!"
   1: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x004F [0x00] END_REQSTACK()
@@ -296,7 +296,7 @@
 #### Opcodes
 
 ```
-  0: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+  0: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "Deep in Davoi, the Royal Knight, Bernal, and his Tarutaru companion are waiting for assistance. You must make haste, and deliver that report to Prince Trion!"
   1: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0054 [0x00] END_REQSTACK()

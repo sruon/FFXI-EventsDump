@@ -87,60 +87,60 @@
 |      62 | 0x0907      |        2311 |
 |      63 | 0x0B51      |        2897 |
 |      64 | 0x0272      |         626 |
-|      65 | 0x1F87      |        8071 |
+|      65 | 0x1F88      |        8072 |
 |      66 | 0x0050      |          80 |
-|      67 | 0x1F88      |        8072 |
+|      67 | 0x1F89      |        8073 |
 |      68 | 0x0045      |          69 |
-|      69 | 0x1F89      |        8073 |
-|      70 | 0x1F8A      |        8074 |
+|      69 | 0x1F8A      |        8074 |
+|      70 | 0x1F8B      |        8075 |
 |      71 | 0x0019      |          25 |
-|      72 | 0x1F8B      |        8075 |
-|      73 | 0x1F8C      |        8076 |
-|      74 | 0x1F8D      |        8077 |
+|      72 | 0x1F8C      |        8076 |
+|      73 | 0x1F8D      |        8077 |
+|      74 | 0x1F8E      |        8078 |
 |      75 | 0x001A      |          26 |
-|      76 | 0x1F8E      |        8078 |
+|      76 | 0x1F8F      |        8079 |
 |      77 | 0x0016      |          22 |
-|      78 | 0x1F8F      |        8079 |
+|      78 | 0x1F90      |        8080 |
 |      79 | 0x0F57      |        3927 |
 |      80 | 0x0292      |         658 |
 |      81 | 0x1000      |        4096 |
-|      82 | 0x1F90      |        8080 |
-|      83 | 0x1F91      |        8081 |
-|      84 | 0x1F92      |        8082 |
-|      85 | 0x1F93      |        8083 |
+|      82 | 0x1F91      |        8081 |
+|      83 | 0x1F92      |        8082 |
+|      84 | 0x1F93      |        8083 |
+|      85 | 0x1F94      |        8084 |
 |      86 | 0x6D4F8     |      447736 |
 |      87 | 0xFFFAAAEB  |  4294617835 |
 |      88 | 0xFFFFC1DD  |  4294951389 |
 |      89 | 0x0822      |        2082 |
 |      90 | 0x02EB      |         747 |
-|      91 | 0x1F96      |        8086 |
-|      92 | 0x1F97      |        8087 |
-|      93 | 0x1F98      |        8088 |
+|      91 | 0x1F97      |        8087 |
+|      92 | 0x1F98      |        8088 |
+|      93 | 0x1F99      |        8089 |
 |      94 | 0x0009      |           9 |
-|      95 | 0x1F99      |        8089 |
-|      96 | 0x1F9A      |        8090 |
-|      97 | 0x1F9B      |        8091 |
-|      98 | 0x1F9C      |        8092 |
-|      99 | 0x1F9D      |        8093 |
-|     100 | 0x1F9E      |        8094 |
-|     101 | 0x1F9F      |        8095 |
-|     102 | 0x1FA0      |        8096 |
-|     103 | 0x1FA1      |        8097 |
-|     104 | 0x1FA2      |        8098 |
-|     105 | 0x1FA3      |        8099 |
-|     106 | 0x1FA4      |        8100 |
-|     107 | 0x1FA5      |        8101 |
-|     108 | 0x1FA6      |        8102 |
-|     109 | 0x1FA7      |        8103 |
-|     110 | 0x1FA8      |        8104 |
-|     111 | 0x1FA9      |        8105 |
-|     112 | 0x1FAA      |        8106 |
-|     113 | 0x1FAB      |        8107 |
-|     114 | 0x1FAC      |        8108 |
-|     115 | 0x1FAD      |        8109 |
-|     116 | 0x1FAE      |        8110 |
+|      95 | 0x1F9A      |        8090 |
+|      96 | 0x1F9B      |        8091 |
+|      97 | 0x1F9C      |        8092 |
+|      98 | 0x1F9D      |        8093 |
+|      99 | 0x1F9E      |        8094 |
+|     100 | 0x1F9F      |        8095 |
+|     101 | 0x1FA0      |        8096 |
+|     102 | 0x1FA1      |        8097 |
+|     103 | 0x1FA2      |        8098 |
+|     104 | 0x1FA3      |        8099 |
+|     105 | 0x1FA4      |        8100 |
+|     106 | 0x1FA5      |        8101 |
+|     107 | 0x1FA6      |        8102 |
+|     108 | 0x1FA7      |        8103 |
+|     109 | 0x1FA8      |        8104 |
+|     110 | 0x1FA9      |        8105 |
+|     111 | 0x1FAA      |        8106 |
+|     112 | 0x1FAB      |        8107 |
+|     113 | 0x1FAC      |        8108 |
+|     114 | 0x1FAD      |        8109 |
+|     115 | 0x1FAE      |        8110 |
+|     116 | 0x1FAF      |        8111 |
 |     117 | 0x0024      |          36 |
-|     118 | 0x1FAF      |        8111 |
+|     118 | 0x1FB0      |        8112 |
 
 ## Events
 
@@ -547,7 +547,7 @@ SUBROUTINE_04D2:
  37: 0x06A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  38: 0x06B9 [0x4A] Borghest (ID: 17863405/0x011092ED) looks at LocalPlayer
  39: 0x06C2 [0x1C] WAIT(30* ticks)
- 40: 0x06C5 [0x2B] Borghest (ID: 17863405/0x011092ED) [8071*]:
+ 40: 0x06C5 [0x2B] Borghest (ID: 17863405/0x011092ED) [8072*]:
     → "If you've got nothing better to do than bother me, I suggest you get out of my sight."
  41: 0x06CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x06CD [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x02)
@@ -556,17 +556,17 @@ SUBROUTINE_04D2:
  45: 0x06DE [0x1C] WAIT(40* ticks)
  46: 0x06E1 [0x52] END_LOAD_SCHEDULER: End scheduler "s112" with entities [LocalPlayer, LocalPlayer], work=626*
  47: 0x06F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=[626*, 0*]
- 48: 0x0701 [0x2B] Borghest (ID: 17863405/0x011092ED) [8072*]:
+ 48: 0x0701 [0x2B] Borghest (ID: 17863405/0x011092ED) [8073*]:
     → "Oh ho, you've got news of Logan? Hmph. Good to hear that damned pansy will stop faking it and get back to work."
  49: 0x0708 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0709 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
- 51: 0x0718 [0x2B] Borghest (ID: 17863405/0x011092ED) [8073*]:
+ 51: 0x0718 [0x2B] Borghest (ID: 17863405/0x011092ED) [8074*]:
     → "Yeah, yeah, I know he's really sick. It's just that everyone's been working their butts off to cover his workload. So that old biddy Svenja finally found a cure, eh?"
  52: 0x071F [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0720 [0x52] END_LOAD_SCHEDULER: End scheduler "s113" with entities [LocalPlayer, LocalPlayer], work=626*
  54: 0x072F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [LocalPlayer, LocalPlayer], work=[626*, 0*]
  55: 0x0740 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
- 56: 0x074F [0x2B] Borghest (ID: 17863405/0x011092ED) [8074*]:
+ 56: 0x074F [0x2B] Borghest (ID: 17863405/0x011092ED) [8075*]:
     → "I know I'm a bit hard on the boy, but if he's really coming back, then we need to get him a little something."
  57: 0x0756 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0757 [0x52] END_LOAD_SCHEDULER: End scheduler "s114" with entities [LocalPlayer, LocalPlayer], work=626*
@@ -576,25 +576,25 @@ SUBROUTINE_04D2:
  62: 0x0783 [0x4A] Donda-Bonda (ID: 17863406/0x011092EE) looks at Borghest (ID: 17863405/0x011092ED)
  63: 0x078C [0x6E] Borghest (ID: 17863405/0x011092ED) uses emote 25*
  64: 0x0793 [0x99] Wait for Borghest (ID: 17863405/0x011092ED) animation to complete
- 65: 0x0798 [0x2B] Borghest (ID: 17863405/0x011092ED) [8075*]:
+ 65: 0x0798 [0x2B] Borghest (ID: 17863405/0x011092ED) [8076*]:
     → "Yo, you lazy good-for-nothings! We've gotta place a special order for that nincompoop of ours, Logan!"
  66: 0x079F [0x1C] WAIT(30* ticks)
  67: 0x07A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x07A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [LocalPlayer, LocalPlayer], work=626*
  69: 0x07B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s116" with entities [LocalPlayer, LocalPlayer], work=[626*, 0*]
  70: 0x07C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [Donda-Bonda (ID: 17863406/0x011092EE), Donda-Bonda (ID: 17863406/0x011092EE)], work=40*
- 71: 0x07D2 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8076*]:
+ 71: 0x07D2 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8077*]:
     → "Oh, come on, boss. We just started our break and now you want us to go back out there?"
  72: 0x07D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x07DA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ttl0" with entities [Jaureche (ID: 17863407/0x011092EF), Jaureche (ID: 17863407/0x011092EF)], work=2301*
- 74: 0x07E9 [0x2B] Jaureche (ID: 17863407/0x011092EF) [8077*]:
+ 74: 0x07E9 [0x2B] Jaureche (ID: 17863407/0x011092EF) [8078*]:
     → "My arms have already turned to jelly...please, let us at least sit for ten minutes!"
  75: 0x07F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x07F1 [0x52] END_LOAD_SCHEDULER: End scheduler "s116" with entities [LocalPlayer, LocalPlayer], work=626*
  77: 0x0800 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s117" with entities [LocalPlayer, LocalPlayer], work=[626*, 0*]
  78: 0x0811 [0x6E] Borghest (ID: 17863405/0x011092ED) uses emote 26*
  79: 0x0818 [0x99] Wait for Borghest (ID: 17863405/0x011092ED) animation to complete
- 80: 0x081D [0x2B] Borghest (ID: 17863405/0x011092ED) [8078*]:
+ 80: 0x081D [0x2B] Borghest (ID: 17863405/0x011092ED) [8079*]:
     → "Oh, I'm sorry, delicate maidens. Of course we wouldn't want you to get your freshly painted nails chipped. Maybe I should serve you some tea and crumpets before you pass out from the vapors, hmm?"
  81: 0x0824 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0825 [0x52] END_LOAD_SCHEDULER: End scheduler "s117" with entities [LocalPlayer, LocalPlayer], work=626*
@@ -603,7 +603,7 @@ SUBROUTINE_04D2:
  85: 0x084E [0x1C] WAIT(30* ticks)
  86: 0x0851 [0x6E] Borghest (ID: 17863405/0x011092ED) uses emote 22*
  87: 0x0858 [0x99] Wait for Borghest (ID: 17863405/0x011092ED) animation to complete
- 88: 0x085D [0x2B] Borghest (ID: 17863405/0x011092ED) [8079*]:
+ 88: 0x085D [0x2B] Borghest (ID: 17863405/0x011092ED) [8080*]:
     → "<Sigh> Why do I even bother paying these slobs? Well, my brave pioneer, what are you standing here for? Go gather what we need to make Logan's welcome-back present!"
  89: 0x0864 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0865 [0x52] END_LOAD_SCHEDULER: End scheduler "s118" with entities [LocalPlayer, LocalPlayer], work=626*
@@ -612,18 +612,18 @@ SUBROUTINE_04D2:
  93: 0x0894 [0x03] Work_Zone[2] = 3927*
  94: 0x0899 [0x03] Work_Zone[3] = 658*
  95: 0x089E [0x03] Work_Zone[4] = 4096*
- 96: 0x08A3 [0x2B] Borghest (ID: 17863405/0x011092ED) [8080*]:
+ 96: 0x08A3 [0x2B] Borghest (ID: 17863405/0x011092ED) [8081*]:
     → "To make a pickaxe, we'll need $0, $1, and $2."
  97: 0x08AA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x08AB [0x2B] Borghest (ID: 17863405/0x011092ED) [8081*]:
+ 98: 0x08AB [0x2B] Borghest (ID: 17863405/0x011092ED) [8082*]:
     → "For the love of...don't you start sniveling too, you slack-jawed moron! All you need is the materials, and the coalition will put it on my tab."
  99: 0x08B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x08B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s119" with entities [LocalPlayer, LocalPlayer], work=626*
 101: 0x08C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s120" with entities [LocalPlayer, LocalPlayer], work=[626*, 0*]
-102: 0x08D3 [0x2B] Borghest (ID: 17863405/0x011092ED) [8082*]:
+102: 0x08D3 [0x2B] Borghest (ID: 17863405/0x011092ED) [8083*]:
     → "That lovely Chanteillie at the Inventors' Coalition will take good care of you. She'd better, because I sure won't."
 103: 0x08DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x08DB [0x2B] Borghest (ID: 17863405/0x011092ED) [8083*]:
+104: 0x08DB [0x2B] Borghest (ID: 17863405/0x011092ED) [8084*]:
     → "And since you'll be in the city, I'm sure you'd be fine with bringing it to Logan yourself. I'll be far too busy changing these boys' diapers."
 105: 0x08E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x08E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -769,7 +769,7 @@ SUBROUTINE_04D2:
  19: 0x09BA [0x1C] WAIT(15* ticks)
  20: 0x09BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x09CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
- 22: 0x09DD [0x2B] Borghest (ID: 17863405/0x011092ED) [8086*]:
+ 22: 0x09DD [0x2B] Borghest (ID: 17863405/0x011092ED) [8087*]:
     → "Fine day for you to be trottin' out here, <Player>. If you're here lookin' for answers 'bout that whole disease debacle, I'm 'fraid you won't ding nothin'."
  23: 0x09E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x09E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
@@ -777,28 +777,28 @@ SUBROUTINE_04D2:
  26: 0x09FB [0x1C] WAIT(30* ticks)
  27: 0x09FE [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=747*
  28: 0x0A0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
- 29: 0x0A1E [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8087*]:
+ 29: 0x0A1E [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8088*]:
     → "Have you seen Logan? Please--it's urgent!"
  30: 0x0A25 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0A26 [0x79] Borghest (ID: 17863405/0x011092ED) looks at Donda-Bonda (ID: 17863406/0x011092EE) (Basic look)
- 32: 0x0A30 [0x2B] Borghest (ID: 17863405/0x011092ED) [8088*]:
+ 32: 0x0A30 [0x2B] Borghest (ID: 17863405/0x011092ED) [8089*]:
     → "Hm? Did ya bring some chaff in with your wheat?"
  33: 0x0A37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0A38 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Donda-Bonda (ID: 17863406/0x011092EE))
  35: 0x0A3E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Donda-Bonda (ID: 17863406/0x011092EE), Donda-Bonda (ID: 17863406/0x011092EE)], work=9*
  36: 0x0A4D [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=747*
  37: 0x0A5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
- 38: 0x0A6D [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8089*]:
+ 38: 0x0A6D [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8090*]:
     → "I'm Othellius, healer from the Order of Janniston. Your man Logan slipped away from our infirmary, and we're afraid he may be in trouble."
  39: 0x0A74 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0A75 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Donda-Bonda (ID: 17863406/0x011092EE), Donda-Bonda (ID: 17863406/0x011092EE)], work=9*
  41: 0x0A84 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=747*
  42: 0x0A93 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
- 43: 0x0AA4 [0x2B] Borghest (ID: 17863405/0x011092ED) [8090*]:
+ 43: 0x0AA4 [0x2B] Borghest (ID: 17863405/0x011092ED) [8091*]:
     → "Logan did what, now?"
  44: 0x0AAB [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0AAC [0x79] Donda-Bonda (ID: 17863406/0x011092EE) looks at LocalPlayer (Basic look)
- 46: 0x0AB6 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8091*]:
+ 46: 0x0AB6 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8092*]:
     → "Your pioneer friend explained to us that he may be off hunting some unknown quarry."
  47: 0x0ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0ABE [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=747*
@@ -806,26 +806,26 @@ SUBROUTINE_04D2:
  50: 0x0ADE [0x6E] Borghest (ID: 17863405/0x011092ED) uses emote 4*
  51: 0x0AE5 [0x99] Wait for Borghest (ID: 17863405/0x011092ED) animation to complete
  52: 0x0AEA [0x79] Donda-Bonda (ID: 17863406/0x011092EE) looks at Borghest (ID: 17863405/0x011092ED) (Basic look)
- 53: 0x0AF4 [0x2B] Borghest (ID: 17863405/0x011092ED) [8092*]:
+ 53: 0x0AF4 [0x2B] Borghest (ID: 17863405/0x011092ED) [8093*]:
     → "Gwahaha! Looks like the boy's not quite the fragile ballerina I'd pegged him as!"
  54: 0x0AFB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x0AFC [0x2B] Borghest (ID: 17863405/0x011092ED) [8093*]:
+ 55: 0x0AFC [0x2B] Borghest (ID: 17863405/0x011092ED) [8094*]:
     → "Ah, it does me good to know that not even the most frightful of plagues can hamper his love for colonization."
  56: 0x0B03 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0B04 [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=747*
  58: 0x0B13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
  59: 0x0B24 [0x6E] Donda-Bonda (ID: 17863406/0x011092EE) uses emote 25*
  60: 0x0B2B [0x99] Wait for Donda-Bonda (ID: 17863406/0x011092EE) animation to complete
- 61: 0x0B30 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8094*]:
+ 61: 0x0B30 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8095*]:
     → "This is no time for jokes! Has your time in the wilds stripped you of all sense of danger and urgency!?"
  62: 0x0B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0B38 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=747*
  64: 0x0B47 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
  65: 0x0B58 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
- 66: 0x0B67 [0x2B] Borghest (ID: 17863405/0x011092ED) [8095*]:
+ 66: 0x0B67 [0x2B] Borghest (ID: 17863405/0x011092ED) [8096*]:
     → "It's not all that, lad. Calm yourself down and we'll whip ourselves up a plan."
  67: 0x0B6E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0B6F [0x2B] Borghest (ID: 17863405/0x011092ED) [8096*]:
+ 68: 0x0B6F [0x2B] Borghest (ID: 17863405/0x011092ED) [8097*]:
     → "Not that he's been here, 'course, but I've got an inkling of where he might have traipsed off to."
  69: 0x0B76 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0B77 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
@@ -839,33 +839,33 @@ SUBROUTINE_04D2:
  78: 0x0BCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
 
 SUBROUTINE_0BDE:
- 79: 0x0BDE [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8097*]:
+ 79: 0x0BDE [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8098*]:
     → "Then...you know where he is?"
  80: 0x0BE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0BE6 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=747*
  82: 0x0BF5 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=747*
  83: 0x0C04 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
  84: 0x0C15 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
- 85: 0x0C24 [0x2B] Borghest (ID: 17863405/0x011092ED) [8098*]:
+ 85: 0x0C24 [0x2B] Borghest (ID: 17863405/0x011092ED) [8099*]:
     → "Couldn't tell you exactly where, no, but I'd wager a flagon that he's off tryin' to ransack a morbol."
  86: 0x0C2B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0C2C [0x2B] Borghest (ID: 17863405/0x011092ED) [8099*]:
+ 87: 0x0C2C [0x2B] Borghest (ID: 17863405/0x011092ED) [8100*]:
     → "You mostly see 'em here in the basalt fields, but--and this is where things get interesting--there's been sightings of some o'er in Yorcia Weald."
  88: 0x0C33 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0C34 [0x2B] Borghest (ID: 17863405/0x011092ED) [8100*]:
+ 89: 0x0C34 [0x2B] Borghest (ID: 17863405/0x011092ED) [8101*]:
     → "Curiosity got the hold of your patient 'fore he fell ill, and he went off to investigate the menace. Got himself more than a couple bruises, at that."
  90: 0x0C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0C3C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
  92: 0x0C4B [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=747*
  93: 0x0C5A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
  94: 0x0C6B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Donda-Bonda (ID: 17863406/0x011092EE), Donda-Bonda (ID: 17863406/0x011092EE)], work=9*
- 95: 0x0C7A [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8101*]:
+ 95: 0x0C7A [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8102*]:
     → "He went off to Yorcia Weald?"
  96: 0x0C81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0C82 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Donda-Bonda (ID: 17863406/0x011092EE), Donda-Bonda (ID: 17863406/0x011092EE)], work=9*
  98: 0x0C91 [0x6E] Borghest (ID: 17863405/0x011092ED) uses emote 7*
  99: 0x0C98 [0x99] Wait for Borghest (ID: 17863405/0x011092ED) animation to complete
-100: 0x0C9D [0x2B] Borghest (ID: 17863405/0x011092ED) [8102*]:
+100: 0x0C9D [0x2B] Borghest (ID: 17863405/0x011092ED) [8103*]:
     → "Yup. We'll give you a hand--Logan is as much our charge as yours."
 101: 0x0CA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0CA5 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=747*
@@ -877,14 +877,14 @@ SUBROUTINE_0BDE:
 108: 0x0CD9 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=747*
 109: 0x0CE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
 110: 0x0CF9 [0x79] Borghest (ID: 17863405/0x011092ED) looks at LocalPlayer (Basic look)
-111: 0x0D03 [0x2B] Borghest (ID: 17863405/0x011092ED) [8103*]:
+111: 0x0D03 [0x2B] Borghest (ID: 17863405/0x011092ED) [8104*]:
     → "What's this, then? You crossed a morbol over in Foret de Hennetiel?"
 112: 0x0D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0D0B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
-114: 0x0D1A [0x2B] Borghest (ID: 17863405/0x011092ED) [8104*]:
+114: 0x0D1A [0x2B] Borghest (ID: 17863405/0x011092ED) [8105*]:
     → "Hang on there, sport. Did you come across a dagger thrust into its side?"
 115: 0x0D21 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x0D22 [0x2B] Borghest (ID: 17863405/0x011092ED) [8105*]:
+116: 0x0D22 [0x2B] Borghest (ID: 17863405/0x011092ED) [8106*]:
     → "Logan'd mentioned he plunged his dagger into the beast somethin' fierce, but it lumbered away with the blade still embedded in its flesh."
 117: 0x0D29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x0D2A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
@@ -894,26 +894,26 @@ SUBROUTINE_0BDE:
 122: 0x0D60 [0x1C] WAIT(150* ticks)
 123: 0x0D63 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=747*
 124: 0x0D72 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
-125: 0x0D83 [0x2B] Borghest (ID: 17863405/0x011092ED) [8106*]:
+125: 0x0D83 [0x2B] Borghest (ID: 17863405/0x011092ED) [8107*]:
     → "Th-that's Logan's blade, alright! Found it in Foret de Hennetiel, huh?"
 126: 0x0D8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0D8B [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=747*
 128: 0x0D9A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
 129: 0x0DAB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
-130: 0x0DBA [0x2B] Borghest (ID: 17863405/0x011092ED) [8107*]:
+130: 0x0DBA [0x2B] Borghest (ID: 17863405/0x011092ED) [8108*]:
     → "I'd wager that's as good a place to start looking as any."
 131: 0x0DC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x0DC2 [0x2B] Borghest (ID: 17863405/0x011092ED) [8108*]:
+132: 0x0DC2 [0x2B] Borghest (ID: 17863405/0x011092ED) [8109*]:
     → "I tell you, <Player>, you're quicker on your feet than those lazy oafs at the station."
 133: 0x0DC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0DCA [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=747*
 135: 0x0DD9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[747*, 0*]
 136: 0x0DEA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
-137: 0x0DF9 [0x2B] Borghest (ID: 17863405/0x011092ED) [8109*]:
+137: 0x0DF9 [0x2B] Borghest (ID: 17863405/0x011092ED) [8110*]:
     → "But like I said--your first step is to head to Foret de Hennetiel."
 138: 0x0E00 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0E01 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
-140: 0x0E10 [0x2B] Borghest (ID: 17863405/0x011092ED) [8110*]:
+140: 0x0E10 [0x2B] Borghest (ID: 17863405/0x011092ED) [8111*]:
     → "While the boys and I're doing what we can over in Yorcia Weald, the two of you should haul tail over to the frontier station out in the foret and see if you can find out anythin'."
 141: 0x0E17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0E18 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Borghest (ID: 17863405/0x011092ED), Borghest (ID: 17863405/0x011092ED)], work=69*
@@ -931,7 +931,7 @@ SUBROUTINE_0E7F:
 152: 0x0E86 [0x99] Wait for Donda-Bonda (ID: 17863406/0x011092EE) animation to complete
 153: 0x0E8B [0x6E] LocalPlayer uses emote 36*
 154: 0x0E92 [0x99] Wait for LocalPlayer animation to complete
-155: 0x0E97 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8111*]:
+155: 0x0E97 [0x2B] Donda-Bonda (ID: 17863406/0x011092EE) [8112*]:
     → "Good plan."
 156: 0x0E9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0E9F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

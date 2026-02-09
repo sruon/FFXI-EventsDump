@@ -23,12 +23,12 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0008      |           8 |
 |       2 | 0xFFFFFFFF  |  4294967295 |
-|       3 | 0x2505      |        9477 |
+|       3 | 0x2506      |        9478 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x2504      |        9476 |
+|       5 | 0x2505      |        9477 |
 |       6 | 0x0018      |          24 |
-|       7 | 0x24DC      |        9436 |
-|       8 | 0x2326      |        8998 |
+|       7 | 0x24DD      |        9437 |
+|       8 | 0x2327      |        8999 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0003      |           3 |
@@ -36,7 +36,7 @@
 |      13 | 0x0005      |           5 |
 |      14 | 0x0006      |           6 |
 |      15 | 0x0007      |           7 |
-|      16 | 0x24E0      |        9440 |
+|      16 | 0x24E1      |        9441 |
 |      17 | 0x00C8      |         200 |
 |      18 | 0x0120      |         288 |
 |      19 | 0x003C      |          60 |
@@ -54,20 +54,20 @@
 |      31 | 0x00DF      |         223 |
 |      32 | 0x0023      |          35 |
 |      33 | 0x0090      |         144 |
-|      34 | 0x24DD      |        9437 |
-|      35 | 0x24DF      |        9439 |
-|      36 | 0x24DE      |        9438 |
+|      34 | 0x24DE      |        9438 |
+|      35 | 0x24E0      |        9440 |
+|      36 | 0x24DF      |        9439 |
 |      37 | 0x0020      |          32 |
 |      38 | 0x0017      |          23 |
 |      39 | 0x001F      |          31 |
-|      40 | 0x232A      |        9002 |
+|      40 | 0x232B      |        9003 |
 |      41 | 0x0014      |          20 |
 |      42 | 0x000C      |          12 |
 |      43 | 0x000D      |          13 |
-|      44 | 0x232B      |        9003 |
+|      44 | 0x232C      |        9004 |
 |      45 | 0x0078      |         120 |
-|      46 | 0x250A      |        9482 |
-|      47 | 0x24E1      |        9441 |
+|      46 | 0x250B      |        9483 |
+|      47 | 0x24E2      |        9442 |
 |      48 | 0x000A      |          10 |
 |      49 | 0x0028      |          40 |
 |      50 | 0x002D      |          45 |
@@ -157,18 +157,18 @@
 
 ## String References
 
-- **8998**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
-- **9002**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **9003**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
-- **9436**: What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]
-- **9437**: Entry No. $0 \` %1 \`
-- **9438**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3
-- **9439**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None
-- **9440**: The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-].
-- **9441**: The current odds are as follows:
-- **9476**: Here you can check the latest stats for the next race.
-- **9477**: Preparations for the next race are currently underway. Please wait just a bit longer.
-- **9482**: The following is a list of the chocobos entered in the race.
+- **8999**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
+- **9003**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **9004**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
+- **9437**: What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]
+- **9438**: Entry No. $0 \` %1 \`
+- **9439**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3
+- **9440**: Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None
+- **9441**: The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-].
+- **9442**: The current odds are as follows:
+- **9477**: Here you can check the latest stats for the next race.
+- **9478**: Preparations for the next race are currently underway. Please wait just a bit longer.
+- **9483**: The following is a list of the chocobos entered in the race.
 
 ## Events
 
@@ -343,7 +343,7 @@
   1: 0x0002 [0x03] Work_Zone[1] = 0*
   2: 0x0007 [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   3: 0x000A [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0019
-  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9477*)
+  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9478*)
     → "Preparations for the next race are currently underway. Please wait just a bit longer."
   5: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0016 [0x01] GOTO 0x04B8
@@ -355,14 +355,14 @@
  12: 0x0032 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[7]
  13: 0x0037 [0x1E] EventEntity looks at LocalPlayer and starts talking
  14: 0x003C [0x1C] WAIT(30* ticks)
- 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9476*)
+ 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=9477*)
     → "Here you can check the latest stats for the next race."
  16: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0043 [0x03] ExtData[1]->WorkLocal[0] = 24*
  18: 0x0048 [0x03] ExtData[1]->WorkLocal[3] = 0*
 
 SUBROUTINE_004D:
- 19: 0x004D [0x24] CREATE_DIALOG(message_id=9436*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 19: 0x004D [0x24] CREATE_DIALOG(message_id=9437*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What would you like to do? [Visit the paddock./See a list of the chocobos./Check the toteboard./Purchase a chocobet ticket./Get an explanation./Quit.]"
  20: 0x0054 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0055 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0454
@@ -371,7 +371,7 @@ SUBROUTINE_004D:
 
 SUBROUTINE_0065:
  24: 0x0065 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0451
- 25: 0x006D [0x24] CREATE_DIALOG(message_id=8998*, default_option=0*, option_flags=0*)
+ 25: 0x006D [0x24] CREATE_DIALOG(message_id=8999*, default_option=0*, option_flags=0*)
     → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
  26: 0x0074 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0085
@@ -404,7 +404,7 @@ SUBROUTINE_0065:
  54: 0x0108 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0115
  55: 0x0110 [0x03] ExtData[1]->WorkLocal[13] = 1*
  56: 0x0115 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
- 57: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9440*)
+ 57: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9441*)
     → "The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-]."
  58: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -498,18 +498,18 @@ SUBROUTINE_030F:
 135: 0x0386 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=[144*, 0*]
 136: 0x0397 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
 137: 0x039C [0x07] Work_Zone[2] += 1*
-138: 0x03A1 [0x48] [System] [9437*]:
+138: 0x03A1 [0x48] [System] [9438*]:
     → "Entry No. $0 ` %1 `"
 139: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x03A5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
 141: 0x03AA [0x9D] Work_Zone[5] = 0x06BA[ExtData[1]->WorkLocal[10]] // Read WORD
 142: 0x03B2 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[9]
 143: 0x03B7 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x03C6
-144: 0x03BF [0x48] [System] [9439*]:
+144: 0x03BF [0x48] [System] [9440*]:
     → "Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: None"
 145: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x03C3 [0x01] GOTO 0x03CA
-147: 0x03C6 [0x48] [System] [9438*]:
+147: 0x03C6 [0x48] [System] [9439*]:
     → "Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep Pace/Final Spurt] Equipment: $3"
 148: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -522,13 +522,13 @@ SUBROUTINE_03CA:
 154: 0x03EF [0x15] Work_Zone[4] /= 32*
 155: 0x03F4 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[11] (bits 24*-31*)
 156: 0x03FD [0x15] Work_Zone[5] /= 32*
-157: 0x0402 [0x48] [System] [9002*]:
+157: 0x0402 [0x48] [System] [9003*]:
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
 158: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0406 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[12] (bits 20*-23*)
 160: 0x040F [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[12] (bits 9*-12*)
 161: 0x0418 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[12] (bits 13*-16*)
-162: 0x0421 [0x48] [System] [9003*]:
+162: 0x0421 [0x48] [System] [9004*]:
     → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
 163: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0425 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "nak0" with entities [Unnamed NPC (ID: 17063975/0x01046027), Unnamed NPC (ID: 17063975/0x01046027)], work=223*
@@ -543,14 +543,14 @@ SUBROUTINE_03CA:
 173: 0x0461 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 174: 0x0463 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 175: 0x0465 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x11 - Open chocobo racing card window, work_offset1=Work_Zone[9], work_offset2=Work_Zone[7])
-176: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=9482*)
+176: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=9483*)
     → "The following is a list of the chocobos entered in the race."
 177: 0x046E [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x046F [0xB4] UI_WINDOW_STRING_HANDLER(case=0x12 - Close chocobo racing card window, work_offset1=0*, work_offset2=0*)
 179: 0x0475 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x0482
 180: 0x047D [0x03] ExtData[1]->WorkLocal[13] = 1*
 181: 0x0482 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
-182: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=9440*)
+182: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=9441*)
     → "The weather forecast for today's race calls for [-/clear skies/cloudy skies/-/a heat wave/-/rain/-/sandstorms/-/wind/-/snow/-/thunderstorms/-/Auroras/-/dark skies/-]."
 183: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x048B [0x01] GOTO 0x004D

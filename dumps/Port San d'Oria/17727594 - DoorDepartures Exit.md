@@ -27,7 +27,7 @@
 |       1 | 0x0C00      |        3072 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x00C8      |         200 |
-|       4 | 0x1DC1      |        7617 |
+|       4 | 0x1DC2      |        7618 |
 |       5 | 0x0000      |           0 |
 |       6 | 0xFFFFD274  |  4294955636 |
 |       7 | 0x6D0D      |       27917 |
@@ -35,7 +35,7 @@
 
 ## String References
 
-- **7617**: Pay $0 gil and leave San d'Oria? [Yes./No.]
+- **7618**: Pay $0 gil and leave San d'Oria? [Yes./No.]
 
 ## Events
 
@@ -123,7 +123,7 @@
   8: 0x002D [0x46] CAMERA_CONTROL: Disable user control
   9: 0x002F [0x4A] Anton (ID: 17727510/0x010E8016) looks at LocalPlayer
  10: 0x0038 [0x03] Work_Zone[2] = 200*
- 11: 0x003D [0x24] CREATE_DIALOG(message_id=7617*, default_option=1*, option_flags=0*)
+ 11: 0x003D [0x24] CREATE_DIALOG(message_id=7618*, default_option=1*, option_flags=0*)
     → "Pay $0 gil and leave San d'Oria? [Yes./No.]"
  12: 0x0044 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0045 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009E

@@ -196,13 +196,13 @@
 |      61 | 0x07D0      |        2000 |
 |      62 | 0x0005      |           5 |
 |      63 | 0x0E95      |        3733 |
-|      64 | 0x3072      |       12402 |
+|      64 | 0x3073      |       12403 |
 |      65 | 0x000F      |          15 |
 |      66 | 0x0096      |         150 |
 |      67 | 0x0E9C      |        3740 |
-|      68 | 0x3078      |       12408 |
+|      68 | 0x3079      |       12409 |
 |      69 | 0x0C00      |        3072 |
-|      70 | 0x3079      |       12409 |
+|      70 | 0x307A      |       12410 |
 |      71 | 0x0097      |         151 |
 |      72 | 0x000D      |          13 |
 |      73 | 0xFFFE4F5B  |  4294856539 |
@@ -215,15 +215,15 @@
 |      80 | 0x0E81      |        3713 |
 |      81 | 0x0E8F      |        3727 |
 |      82 | 0x0E99      |        3737 |
-|      83 | 0x3075      |       12405 |
+|      83 | 0x3076      |       12406 |
 |      84 | 0x0E9D      |        3741 |
-|      85 | 0x307A      |       12410 |
+|      85 | 0x307B      |       12411 |
 |      86 | 0x0EA1      |        3745 |
 |      87 | 0x0EA2      |        3746 |
 |      88 | 0x0EB7      |        3767 |
 |      89 | 0x0EAF      |        3759 |
 |      90 | 0x0EB0      |        3760 |
-|      91 | 0x3056      |       12374 |
+|      91 | 0x3057      |       12375 |
 |      92 | 0x0EB1      |        3761 |
 |      93 | 0x0EB2      |        3762 |
 |      94 | 0x0EB4      |        3764 |
@@ -235,25 +235,25 @@
 |     100 | 0x0EBC      |        3772 |
 |     101 | 0x0EBF      |        3775 |
 |     102 | 0x0EC0      |        3776 |
-|     103 | 0x3057      |       12375 |
-|     104 | 0x3058      |       12376 |
+|     103 | 0x3058      |       12376 |
+|     104 | 0x3059      |       12377 |
 |     105 | 0x2AE0      |       10976 |
 |     106 | 0x0EC1      |        3777 |
-|     107 | 0x3059      |       12377 |
+|     107 | 0x305A      |       12378 |
 |     108 | 0x0EC3      |        3779 |
 |     109 | 0x0EC7      |        3783 |
-|     110 | 0x305B      |       12379 |
+|     110 | 0x305C      |       12380 |
 |     111 | 0x0EC9      |        3785 |
 |     112 | 0x0ECA      |        3786 |
-|     113 | 0x305C      |       12380 |
-|     114 | 0x305D      |       12381 |
+|     113 | 0x305D      |       12381 |
+|     114 | 0x305E      |       12382 |
 |     115 | 0x0ECB      |        3787 |
-|     116 | 0x305E      |       12382 |
+|     116 | 0x305F      |       12383 |
 |     117 | 0x0ECE      |        3790 |
 |     118 | 0x0ED3      |        3795 |
-|     119 | 0x3060      |       12384 |
-|     120 | 0x3062      |       12386 |
-|     121 | 0x3063      |       12387 |
+|     119 | 0x3061      |       12385 |
+|     120 | 0x3063      |       12387 |
+|     121 | 0x3064      |       12388 |
 |     122 | 0x0ED6      |        3798 |
 |     123 | 0x0EE1      |        3809 |
 |     124 | 0x0EE4      |        3812 |
@@ -262,20 +262,20 @@
 |     127 | 0x19292     |      103058 |
 |     128 | 0x0A17      |        2583 |
 |     129 | 0x00D5      |         213 |
-|     130 | 0x2FF8      |       12280 |
-|     131 | 0x2FF7      |       12279 |
-|     132 | 0x2FFB      |       12283 |
-|     133 | 0x2FFE      |       12286 |
-|     134 | 0x2FFF      |       12287 |
+|     130 | 0x2FF9      |       12281 |
+|     131 | 0x2FF8      |       12280 |
+|     132 | 0x2FFC      |       12284 |
+|     133 | 0x2FFF      |       12287 |
+|     134 | 0x3000      |       12288 |
 |     135 | 0x0006      |           6 |
-|     136 | 0x3002      |       12290 |
-|     137 | 0x3003      |       12291 |
-|     138 | 0x3006      |       12294 |
-|     139 | 0x3007      |       12295 |
-|     140 | 0x3052      |       12370 |
-|     141 | 0x3053      |       12371 |
-|     142 | 0x313C      |       12604 |
-|     143 | 0x313D      |       12605 |
+|     136 | 0x3003      |       12291 |
+|     137 | 0x3004      |       12292 |
+|     138 | 0x3007      |       12295 |
+|     139 | 0x3008      |       12296 |
+|     140 | 0x3053      |       12371 |
+|     141 | 0x3054      |       12372 |
+|     142 | 0x313D      |       12605 |
+|     143 | 0x313E      |       12606 |
 |     144 | 0xFFFE4C36  |  4294855734 |
 |     145 | 0x18B3E     |      101182 |
 
@@ -348,31 +348,31 @@
 - **3812**: Although it's an incy-wincy bit hard to believe at times, our minister and Miss Apururu really are brother and sister...
 - **3813**: But, hey... Jeezy-peezy! Doesn't that mean the wand was broken to begin with?
 - **10976**: Obtained $0 gil.
-- **12279**: Oh, you're finally here! The minister has been antsy-wantsy waiting for you!
-- **12283**: Wait! Minister!?
-- **12286**: I'd always believed thataru the minister would restore the Horutoto Ruins.
-- **12287**: ...But, I wonder if the towers will really become active again? We've used oodles and oodles of Mana Orbs and dug deep into the Orastery's budgetaru for this project...
-- **12290**: Minister Ajido-Marujido said he was heading for the central tower of the Horutoto Ruins.
-- **12291**: Could you go and find him in the underground complex and bring him backy-wack for us? Tell him the Sibyl Guards really have their hackles up this time.
-- **12294**: Heeber-jeebers!
-- **12295**: What are we going to do! The minister has been caughtaru red-handed!
-- **12370**: I heard the story from Minister Apururu and Professor Shantotto. You risked all sorts of hazards and hardships to rescue our minister.
-- **12371**: I wanted to assist you, no mattaru the cost. Without the minister, I wouldn't be where I am today.
-- **12374**: Oh, you startled me!
-- **12375**: Thank you so much! I was so worried, my tummy-wummy was doing somersaults.
-- **12376**: Take this with my thanks. Now I have to get this wand fixed!
-- **12377**: Thank you! Now I have to get this wand fixed!
-- **12379**: That's just not true, Kuroido-Moroido. She didn't get mad at all... And that's why it's so distressing.
-- **12380**: Everyone knows how acid-tongued Professor Shantotto is. That very same professor said this to me.
-- **12381**: "That wand was passed down to Ajido-Marujido from his mother and he holds it very dear to his heart. I pity you, poor Hakkuru-Rinkuru. You'll probably get yourself snapped in half as well!"
-- **12382**: Oh Goddess! I don't want to be snapped in half!
-- **12384**: No! Apologizing won't do any good. It'll just be "snap!", and then me lying there in two pieces!
-- **12386**: Oh Goddess! The last time Professor Shantotto was here, she took one look at me and said this.
-- **12387**: "That wand was passed down to Ajido-Marujido from his mother and he holds it very dear to his heart. I pity you, poor Hakkuru-Rinkuru. You'll probably get yourself snapped in half as well!"
-- **12405**: It wasn't for an experiment. The brigadier generals were bickering over the Orastery's budget...
-- **12410**: Huh!? Wait just a momentaru! None of those things can be equipped by mages...???
-- **12604**: Hey, did you hear? Our minister's been pardoned for his crimes!
-- **12605**: These events have made me realize justaru how great Minister Ajido-Marujido really is! His title should be more like the "Amazingly Magnificent Minister Ajido-Marujido!"
+- **12280**: Oh, you're finally here! The minister has been antsy-wantsy waiting for you!
+- **12284**: Wait! Minister!?
+- **12287**: I'd always believed thataru the minister would restore the Horutoto Ruins.
+- **12288**: ...But, I wonder if the towers will really become active again? We've used oodles and oodles of Mana Orbs and dug deep into the Orastery's budgetaru for this project...
+- **12291**: Minister Ajido-Marujido said he was heading for the central tower of the Horutoto Ruins.
+- **12292**: Could you go and find him in the underground complex and bring him backy-wack for us? Tell him the Sibyl Guards really have their hackles up this time.
+- **12295**: Heeber-jeebers!
+- **12296**: What are we going to do! The minister has been caughtaru red-handed!
+- **12371**: I heard the story from Minister Apururu and Professor Shantotto. You risked all sorts of hazards and hardships to rescue our minister.
+- **12372**: I wanted to assist you, no mattaru the cost. Without the minister, I wouldn't be where I am today.
+- **12375**: Oh, you startled me!
+- **12376**: Thank you so much! I was so worried, my tummy-wummy was doing somersaults.
+- **12377**: Take this with my thanks. Now I have to get this wand fixed!
+- **12378**: Thank you! Now I have to get this wand fixed!
+- **12380**: That's just not true, Kuroido-Moroido. She didn't get mad at all... And that's why it's so distressing.
+- **12381**: Everyone knows how acid-tongued Professor Shantotto is. That very same professor said this to me.
+- **12382**: "That wand was passed down to Ajido-Marujido from his mother and he holds it very dear to his heart. I pity you, poor Hakkuru-Rinkuru. You'll probably get yourself snapped in half as well!"
+- **12383**: Oh Goddess! I don't want to be snapped in half!
+- **12385**: No! Apologizing won't do any good. It'll just be "snap!", and then me lying there in two pieces!
+- **12387**: Oh Goddess! The last time Professor Shantotto was here, she took one look at me and said this.
+- **12388**: "That wand was passed down to Ajido-Marujido from his mother and he holds it very dear to his heart. I pity you, poor Hakkuru-Rinkuru. You'll probably get yourself snapped in half as well!"
+- **12406**: It wasn't for an experiment. The brigadier generals were bickering over the Orastery's budget...
+- **12411**: Huh!? Wait just a momentaru! None of those things can be equipped by mages...???
+- **12605**: Hey, did you hear? Our minister's been pardoned for his crimes!
+- **12606**: These events have made me realize justaru how great Minister Ajido-Marujido really is! His title should be more like the "Amazingly Magnificent Minister Ajido-Marujido!"
 
 ## Events
 
@@ -2470,7 +2470,7 @@ SUBROUTINE_0C5D:
 187: 0x0CAF [0x4A] Apururu (ID: 17760283/0x010F001B) looks at Shantotto (ID: 17760282/0x010F001A)
 188: 0x0CB8 [0x4A] Kuroido-Moido (ID: 17760274/0x010F0012) looks at Shantotto (ID: 17760282/0x010F001A)
 189: 0x0CC1 [0x4A] Hakkuru-Rinkuru (ID: 17760273/0x010F0011) looks at Shantotto (ID: 17760282/0x010F001A)
-190: 0x0CCA [0x2B] Shantotto (ID: 17760282/0x010F001A) [12402*]:
+190: 0x0CCA [0x2B] Shantotto (ID: 17760282/0x010F001A) [12403*]:
     → "Now, now. No need to get so agitated. The situation is not that tragic. You're one lucky adventurer to have Minister Apururu to tend to you after having a taste of my magic."
 191: 0x0CD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2531,7 +2531,7 @@ SUBROUTINE_0E01:
 240: 0x0E3C [0x01] GOTO 0x0E84
 241: 0x0E3F [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17760283/0x010F001B), tag_num=0x34)
 242: 0x0E46 [0x27] REQ_SET(priority=0x0B, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x3F)
-243: 0x0E4D [0x2B] Apururu (ID: 17760283/0x010F001B) [12408*]:
+243: 0x0E4D [0x2B] Apururu (ID: 17760283/0x010F001B) [12409*]:
     → "That's just what I wanted to talk to you about. Since he couldn't get in touch with Ajido-Marujido, a shopkeeper in Jeuno contacted me about my brother's purchases."
 244: 0x0E54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0E55 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17760283/0x010F001B))
@@ -2540,7 +2540,7 @@ SUBROUTINE_0E01:
 248: 0x0E68 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 249: 0x0E69 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Apururu (ID: 17760283/0x010F001B) Render.Flags0 and Render.Flags3 conditions are met
 250: 0x0E6E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17760283/0x010F001B), tag_num=0x01)
-251: 0x0E75 [0x2B] Apururu (ID: 17760283/0x010F001B) [12409*]:
+251: 0x0E75 [0x2B] Apururu (ID: 17760283/0x010F001B) [12410*]:
     → "My brother has already used next year's budget. He's bought swords, axes, armor, shields..."
 252: 0x0E7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x0E7D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17760283/0x010F001B), tag_num=0x02)
@@ -2878,7 +2878,7 @@ SUBROUTINE_0F86:
 
 ```
   0: 0x1136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x01)
-  1: 0x113D [0x1D] PRINT_EVENT_MESSAGE(message_id=12405*)
+  1: 0x113D [0x1D] PRINT_EVENT_MESSAGE(message_id=12406*)
     → "It wasn't for an experiment. The brigadier generals were bickering over the Orastery's budget..."
   2: 0x1140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1141 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x02)
@@ -2934,7 +2934,7 @@ SUBROUTINE_0F86:
 
 ```
   0: 0x115C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x14)
-  1: 0x1163 [0x1D] PRINT_EVENT_MESSAGE(message_id=12410*)
+  1: 0x1163 [0x1D] PRINT_EVENT_MESSAGE(message_id=12411*)
     → "Huh!? Wait just a momentaru! None of those things can be equipped by mages...???"
   2: 0x1166 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1167 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x15)
@@ -3129,7 +3129,7 @@ SUBROUTINE_124A:
 
 ```
   0: 0x1274 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x16)
-  1: 0x127B [0x1D] PRINT_EVENT_MESSAGE(message_id=12374*)
+  1: 0x127B [0x1D] PRINT_EVENT_MESSAGE(message_id=12375*)
     → "Oh, you startled me!"
   2: 0x127E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x127F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x17)
@@ -3368,12 +3368,12 @@ SUBROUTINE_124A:
  13: 0x134C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x08)
  14: 0x1353 [0x01] GOTO 0x137A
  15: 0x1356 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x01)
- 16: 0x135D [0x1D] PRINT_EVENT_MESSAGE(message_id=12375*)
+ 16: 0x135D [0x1D] PRINT_EVENT_MESSAGE(message_id=12376*)
     → "Thank you so much! I was so worried, my tummy-wummy was doing somersaults."
  17: 0x1360 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1361 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x02)
  19: 0x1368 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x07)
- 20: 0x136F [0x1D] PRINT_EVENT_MESSAGE(message_id=12376*)
+ 20: 0x136F [0x1D] PRINT_EVENT_MESSAGE(message_id=12377*)
     → "Take this with my thanks. Now I have to get this wand fixed!"
  21: 0x1372 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x1373 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x08)
@@ -3417,7 +3417,7 @@ SUBROUTINE_137A:
     → "I've got to hurry-scurry and fix this wand before the minister gets back!"
   6: 0x13AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x13AC [0x01] GOTO 0x13B3
-  8: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12377*)
+  8: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12378*)
     → "Thank you! Now I have to get this wand fixed!"
   9: 0x13B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3554,7 +3554,7 @@ SUBROUTINE_13B3:
 #### Opcodes
 
 ```
-  0: 0x13E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12379*)
+  0: 0x13E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12380*)
     → "That's just not true, Kuroido-Moroido. She didn't get mad at all... And that's why it's so distressing."
   1: 0x13E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x13EA [0x00] END_REQSTACK()
@@ -3616,12 +3616,12 @@ SUBROUTINE_13B3:
 
 ```
   0: 0x1410 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x09)
-  1: 0x1417 [0x1D] PRINT_EVENT_MESSAGE(message_id=12380*)
+  1: 0x1417 [0x1D] PRINT_EVENT_MESSAGE(message_id=12381*)
     → "Everyone knows how acid-tongued Professor Shantotto is. That very same professor said this to me."
   2: 0x141A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x141B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0A)
   4: 0x1422 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x1A)
-  5: 0x1429 [0x1D] PRINT_EVENT_MESSAGE(message_id=12381*)
+  5: 0x1429 [0x1D] PRINT_EVENT_MESSAGE(message_id=12382*)
     → ""That wand was passed down to Ajido-Marujido from his mother and he holds it very dear to his heart. I pity you, poor Hakkuru-Rinkuru. You'll probably get yourself snapped in half as well!""
   6: 0x142C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x142D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x1B)
@@ -3672,7 +3672,7 @@ SUBROUTINE_13B3:
 #### Opcodes
 
 ```
-  0: 0x143A [0x1D] PRINT_EVENT_MESSAGE(message_id=12382*)
+  0: 0x143A [0x1D] PRINT_EVENT_MESSAGE(message_id=12383*)
     → "Oh Goddess! I don't want to be snapped in half!"
   1: 0x143D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x143E [0x00] END_REQSTACK()
@@ -3709,7 +3709,7 @@ SUBROUTINE_13B3:
     → "Waa`a! I'm such a ding-a-ling! I'm going to be fired for sure this time!"
   6: 0x1458 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1459 [0x01] GOTO 0x1460
-  8: 0x145C [0x1D] PRINT_EVENT_MESSAGE(message_id=12382*)
+  8: 0x145C [0x1D] PRINT_EVENT_MESSAGE(message_id=12383*)
     → "Oh Goddess! I don't want to be snapped in half!"
   9: 0x145F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3790,7 +3790,7 @@ SUBROUTINE_1460:
 
 ```
   0: 0x1478 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x14)
-  1: 0x147F [0x1D] PRINT_EVENT_MESSAGE(message_id=12384*)
+  1: 0x147F [0x1D] PRINT_EVENT_MESSAGE(message_id=12385*)
     → "No! Apologizing won't do any good. It'll just be "snap!", and then me lying there in two pieces!"
   2: 0x1482 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1483 [0x00] END_REQSTACK()
@@ -3817,10 +3817,10 @@ SUBROUTINE_1460:
 
 ```
   0: 0x1484 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x14)
-  1: 0x148B [0x1D] PRINT_EVENT_MESSAGE(message_id=12386*)
+  1: 0x148B [0x1D] PRINT_EVENT_MESSAGE(message_id=12387*)
     → "Oh Goddess! The last time Professor Shantotto was here, she took one look at me and said this."
   2: 0x148E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x148F [0x1D] PRINT_EVENT_MESSAGE(message_id=12387*)
+  3: 0x148F [0x1D] PRINT_EVENT_MESSAGE(message_id=12388*)
     → ""That wand was passed down to Ajido-Marujido from his mother and he holds it very dear to his heart. I pity you, poor Hakkuru-Rinkuru. You'll probably get yourself snapped in half as well!""
   4: 0x1492 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1493 [0x00] END_REQSTACK()
@@ -4000,7 +4000,7 @@ SUBROUTINE_1460:
  29: 0x159B [0x1E] EventEntity looks at Ajido-Marujido (ID: 17760281/0x010F0019) and starts talking
  30: 0x15A0 [0x4A] Kuroido-Moido (ID: 17760274/0x010F0012) looks at Ajido-Marujido (ID: 17760281/0x010F0019)
  31: 0x15A9 [0x4A] LocalPlayer looks at Ajido-Marujido (ID: 17760281/0x010F0019)
- 32: 0x15B2 [0x2B] Ajido-Marujido (ID: 17760281/0x010F0019) [12280*]:
+ 32: 0x15B2 [0x2B] Ajido-Marujido (ID: 17760281/0x010F0019) [12281*]:
     → "You're late! Everything is nearly ready to go."
  33: 0x15B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x15BA [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17760281/0x010F0019))
@@ -4058,7 +4058,7 @@ SUBROUTINE_1460:
 #### Opcodes
 
 ```
-  0: 0x16D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12279*)
+  0: 0x16D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12280*)
     → "Oh, you're finally here! The minister has been antsy-wantsy waiting for you!"
   1: 0x16D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x16D8 [0x00] END_REQSTACK()
@@ -4083,7 +4083,7 @@ SUBROUTINE_1460:
 #### Opcodes
 
 ```
-  0: 0x16D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12283*)
+  0: 0x16D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12284*)
     → "Wait! Minister!?"
   1: 0x16DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x16DD [0x00] END_REQSTACK()
@@ -4116,12 +4116,12 @@ SUBROUTINE_1460:
   1: 0x16E3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x16E4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x16E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x1C)
-  4: 0x16EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12286*)
+  4: 0x16EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12287*)
     → "I'd always believed thataru the minister would restore the Horutoto Ruins."
   5: 0x16EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x16F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x1D)
   7: 0x16F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x03)
-  8: 0x16FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12287*)
+  8: 0x16FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12288*)
     → "...But, I wonder if the towers will really become active again? We've used oodles and oodles of Mana Orbs and dug deep into the Orastery's budgetaru for this project..."
   9: 0x1701 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1702 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x04)
@@ -4159,11 +4159,11 @@ SUBROUTINE_1460:
   2: 0x1721 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1722 [0x6E] EventEntity uses emote 6*
   4: 0x1729 [0x99] Wait for EventEntity animation to complete
-  5: 0x172E [0x1D] PRINT_EVENT_MESSAGE(message_id=12290*)
+  5: 0x172E [0x1D] PRINT_EVENT_MESSAGE(message_id=12291*)
     → "Minister Ajido-Marujido said he was heading for the central tower of the Horutoto Ruins."
   6: 0x1731 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1732 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0B)
-  8: 0x1739 [0x1D] PRINT_EVENT_MESSAGE(message_id=12291*)
+  8: 0x1739 [0x1D] PRINT_EVENT_MESSAGE(message_id=12292*)
     → "Could you go and find him in the underground complex and bring him backy-wack for us? Tell him the Sibyl Guards really have their hackles up this time."
   9: 0x173C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x173D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0C)
@@ -4198,12 +4198,12 @@ SUBROUTINE_1460:
   1: 0x174D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x174E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x174F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0F)
-  4: 0x1756 [0x1D] PRINT_EVENT_MESSAGE(message_id=12294*)
+  4: 0x1756 [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
     → "Heeber-jeebers!"
   5: 0x1759 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x175A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x10)
   7: 0x1761 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x14)
-  8: 0x1768 [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
+  8: 0x1768 [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
     → "What are we going to do! The minister has been caughtaru red-handed!"
   9: 0x176B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x176C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x15)
@@ -4238,12 +4238,12 @@ SUBROUTINE_1460:
   1: 0x177C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x177D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x177E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0F)
-  4: 0x1785 [0x1D] PRINT_EVENT_MESSAGE(message_id=12294*)
+  4: 0x1785 [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
     → "Heeber-jeebers!"
   5: 0x1788 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1789 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x10)
   7: 0x1790 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x14)
-  8: 0x1797 [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
+  8: 0x1797 [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
     → "What are we going to do! The minister has been caughtaru red-handed!"
   9: 0x179A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x179B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x15)
@@ -4278,12 +4278,12 @@ SUBROUTINE_1460:
   1: 0x17AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x17AC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x17AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x01)
-  4: 0x17B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12370*)
+  4: 0x17B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12371*)
     → "I heard the story from Minister Apururu and Professor Shantotto. You risked all sorts of hazards and hardships to rescue our minister."
   5: 0x17B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x17B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x02)
   7: 0x17BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x1A)
-  8: 0x17C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12371*)
+  8: 0x17C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12372*)
     → "I wanted to assist you, no mattaru the cost. Without the minister, I wouldn't be where I am today."
   9: 0x17C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x17CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x1B)
@@ -4318,12 +4318,12 @@ SUBROUTINE_1460:
   1: 0x17DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x17DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x17DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x0F)
-  4: 0x17E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12604*)
+  4: 0x17E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12605*)
     → "Hey, did you hear? Our minister's been pardoned for his crimes!"
   5: 0x17E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x17E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x10)
   7: 0x17EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x01)
-  8: 0x17F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12605*)
+  8: 0x17F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12606*)
     → "These events have made me realize justaru how great Minister Ajido-Marujido really is! His title should be more like the "Amazingly Magnificent Minister Ajido-Marujido!""
   9: 0x17F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x17F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakkuru-Rinkuru (ID: 17760273/0x010F0011), tag_num=0x02)

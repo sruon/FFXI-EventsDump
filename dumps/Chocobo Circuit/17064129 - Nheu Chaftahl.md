@@ -22,17 +22,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x260D      |        9741 |
-|       1 | 0x260E      |        9742 |
-|       2 | 0x2611      |        9745 |
-|       3 | 0x2612      |        9746 |
+|       0 | 0x260E      |        9742 |
+|       1 | 0x260F      |        9743 |
+|       2 | 0x2612      |        9746 |
+|       3 | 0x2613      |        9747 |
 
 ## String References
 
-- **9741**: Hey, you want to know which chocobo is fastest? It's my LunarHarvester! I rrraised her myself!
-- **9742**: LunarHarvester was my grrrandpa's chocobo's chick. That's why she's so fast!
-- **9745**: Yay! Yay! LunarHarvester is the best! I have to go tell Grrrandpa!
-- **9746**: S-she lost... Th-this can't be true!
+- **9742**: Hey, you want to know which chocobo is fastest? It's my LunarHarvester! I rrraised her myself!
+- **9743**: LunarHarvester was my grrrandpa's chocobo's chick. That's why she's so fast!
+- **9746**: Yay! Yay! LunarHarvester is the best! I have to go tell Grrrandpa!
+- **9747**: S-she lost... Th-this can't be true!
 
 ## Events
 
@@ -79,10 +79,10 @@
 
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9741*)
+  1: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
     → "Hey, you want to know which chocobo is fastest? It's my LunarHarvester! I rrraised her myself!"
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
+  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
     → "LunarHarvester was my grrrandpa's chocobo's chick. That's why she's so fast!"
   4: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0012 [0x21] END_EVENT
@@ -110,7 +110,7 @@
 
 ```
   0: 0x0014 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
+  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9746*)
     → "Yay! Yay! LunarHarvester is the best! I have to go tell Grrrandpa!"
   2: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0021 [0x21] END_EVENT
@@ -138,7 +138,7 @@
 
 ```
   0: 0x0023 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9746*)
+  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9747*)
     → "S-she lost... Th-this can't be true!"
   2: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0030 [0x21] END_EVENT

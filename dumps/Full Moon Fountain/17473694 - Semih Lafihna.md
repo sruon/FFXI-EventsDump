@@ -70,8 +70,8 @@
 |      12 | 0xFFFF12D1  |  4294906577 |
 |      13 | 0xC101      |       49409 |
 |      14 | 0x2635      |        9781 |
-|      15 | 0x1C41      |        7233 |
-|      16 | 0x1C44      |        7236 |
+|      15 | 0x1C42      |        7234 |
+|      16 | 0x1C45      |        7237 |
 |      17 | 0xFFFF1552  |  4294907218 |
 |      18 | 0xDEE7      |       57063 |
 |      19 | 0x2578      |        9592 |
@@ -99,8 +99,8 @@
 
 ## String References
 
-- **7233**: You've gone too farrr this time, Ajido-Marujido. The Star Sibyl has given us authorrrization to bring you to justice.
-- **7236**: Come quietly or there'll be trrrouble! Ajido-Marujido, I hereby arrest you for crrrimes committed against Heavens Tower!
+- **7234**: You've gone too farrr this time, Ajido-Marujido. The Star Sibyl has given us authorrrization to bring you to justice.
+- **7237**: Come quietly or there'll be trrrouble! Ajido-Marujido, I hereby arrest you for crrrimes committed against Heavens Tower!
 
 ## Events
 
@@ -670,7 +670,7 @@
 #### Opcodes
 
 ```
-  0: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7233*)
+  0: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
     → "You've gone too farrr this time, Ajido-Marujido. The Star Sibyl has given us authorrrization to bring you to justice."
   1: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01A9 [0x00] END_REQSTACK()
@@ -695,7 +695,7 @@
 #### Opcodes
 
 ```
-  0: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
+  0: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
     → "Come quietly or there'll be trrrouble! Ajido-Marujido, I hereby arrest you for crrrimes committed against Heavens Tower!"
   1: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01AE [0x00] END_REQSTACK()

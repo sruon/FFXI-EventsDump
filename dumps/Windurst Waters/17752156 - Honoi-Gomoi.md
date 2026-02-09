@@ -169,7 +169,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3C52      |       15442 |
+|       0 | 0x3C53      |       15443 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x0029      |          41 |
 |       3 | 0x003C      |          60 |
@@ -183,10 +183,10 @@
 |      11 | 0x01AE      |         430 |
 |      12 | 0x01AF      |         431 |
 |      13 | 0x002E      |          46 |
-|      14 | 0x230A      |        8970 |
-|      15 | 0x1CE8      |        7400 |
-|      16 | 0x1CE9      |        7401 |
-|      17 | 0x1CEA      |        7402 |
+|      14 | 0x230B      |        8971 |
+|      15 | 0x1CE9      |        7401 |
+|      16 | 0x1CEA      |        7402 |
+|      17 | 0x1CEB      |        7403 |
 |      18 | 0x0000      |           0 |
 |      19 | 0x00C8      |         200 |
 |      20 | 0x0078      |         120 |
@@ -197,9 +197,9 @@
 |      25 | 0x0003      |           3 |
 |      26 | 0x00F7      |         247 |
 |      27 | 0x0004      |           4 |
-|      28 | 0x2661      |        9825 |
-|      29 | 0x2668      |        9832 |
-|      30 | 0x2669      |        9833 |
+|      28 | 0x2662      |        9826 |
+|      29 | 0x2669      |        9833 |
+|      30 | 0x266A      |        9834 |
 |      31 | 0x0097      |         151 |
 |      32 | 0xFFFD0687  |  4294772359 |
 |      33 | 0xFFFE206F  |  4294844527 |
@@ -209,22 +209,22 @@
 |      37 | 0xFFFD061A  |  4294772250 |
 |      38 | 0xFFFE1FDB  |  4294844379 |
 |      39 | 0xFFFFD85B  |  4294957147 |
-|      40 | 0x2662      |        9826 |
-|      41 | 0x2663      |        9827 |
-|      42 | 0x2664      |        9828 |
-|      43 | 0x2665      |        9829 |
-|      44 | 0x2666      |        9830 |
-|      45 | 0x2667      |        9831 |
-|      46 | 0x266A      |        9834 |
-|      47 | 0x266B      |        9835 |
+|      40 | 0x2663      |        9827 |
+|      41 | 0x2664      |        9828 |
+|      42 | 0x2665      |        9829 |
+|      43 | 0x2666      |        9830 |
+|      44 | 0x2667      |        9831 |
+|      45 | 0x2668      |        9832 |
+|      46 | 0x266B      |        9835 |
+|      47 | 0x266C      |        9836 |
 |      48 | 0x0CBA      |        3258 |
-|      49 | 0x266E      |        9838 |
+|      49 | 0x266F      |        9839 |
 |      50 | 0xFFFD12D0  |  4294775504 |
 |      51 | 0xFFFE6373  |  4294861683 |
 |      52 | 0x0AA7      |        2727 |
-|      53 | 0x2670      |        9840 |
+|      53 | 0x2671      |        9841 |
 |      54 | 0x0064      |         100 |
-|      55 | 0x2671      |        9841 |
+|      55 | 0x2672      |        9842 |
 |      56 | 0xFFFD0A3B  |  4294773307 |
 |      57 | 0xFFFE659C  |  4294862236 |
 |      58 | 0xFFFD04EF  |  4294771951 |
@@ -237,46 +237,46 @@
 |      65 | 0xFFFE77F1  |  4294866929 |
 |      66 | 0xFFFD16EC  |  4294776556 |
 |      67 | 0xFFFE73E6  |  4294865894 |
-|      68 | 0x266C      |        9836 |
-|      69 | 0x266D      |        9837 |
-|      70 | 0x266F      |        9839 |
-|      71 | 0x2672      |        9842 |
-|      72 | 0x2673      |        9843 |
-|      73 | 0x2674      |        9844 |
-|      74 | 0x2675      |        9845 |
+|      68 | 0x266D      |        9837 |
+|      69 | 0x266E      |        9838 |
+|      70 | 0x2670      |        9840 |
+|      71 | 0x2673      |        9843 |
+|      72 | 0x2674      |        9844 |
+|      73 | 0x2675      |        9845 |
+|      74 | 0x2676      |        9846 |
 |      75 | 0xFFFD1393  |  4294775699 |
 |      76 | 0xFFFE59D7  |  4294859223 |
 |      77 | 0x0542      |        1346 |
-|      78 | 0x2677      |        9847 |
-|      79 | 0x2679      |        9849 |
+|      78 | 0x2678      |        9848 |
+|      79 | 0x267A      |        9850 |
 |      80 | 0x00C9      |         201 |
 |      81 | 0xFFFD121A  |  4294775322 |
 |      82 | 0xFFFE55D8  |  4294858200 |
-|      83 | 0x2676      |        9846 |
-|      84 | 0x267A      |        9850 |
-|      85 | 0x267B      |        9851 |
-|      86 | 0x267E      |        9854 |
-|      87 | 0x267F      |        9855 |
-|      88 | 0x2680      |        9856 |
-|      89 | 0x2683      |        9859 |
-|      90 | 0x2684      |        9860 |
-|      91 | 0x2686      |        9862 |
-|      92 | 0x268C      |        9868 |
+|      83 | 0x2677      |        9847 |
+|      84 | 0x267B      |        9851 |
+|      85 | 0x267C      |        9852 |
+|      86 | 0x267F      |        9855 |
+|      87 | 0x2680      |        9856 |
+|      88 | 0x2681      |        9857 |
+|      89 | 0x2684      |        9860 |
+|      90 | 0x2685      |        9861 |
+|      91 | 0x2687      |        9863 |
+|      92 | 0x268D      |        9869 |
 |      93 | 0x0002      |           2 |
-|      94 | 0x2685      |        9861 |
-|      95 | 0x2687      |        9863 |
-|      96 | 0x2688      |        9864 |
-|      97 | 0x2689      |        9865 |
-|      98 | 0x268A      |        9866 |
-|      99 | 0x268B      |        9867 |
-|     100 | 0x268D      |        9869 |
-|     101 | 0x268E      |        9870 |
-|     102 | 0x268F      |        9871 |
-|     103 | 0x2690      |        9872 |
-|     104 | 0x2691      |        9873 |
-|     105 | 0x2692      |        9874 |
-|     106 | 0x2693      |        9875 |
-|     107 | 0x2694      |        9876 |
+|      94 | 0x2686      |        9862 |
+|      95 | 0x2688      |        9864 |
+|      96 | 0x2689      |        9865 |
+|      97 | 0x268A      |        9866 |
+|      98 | 0x268B      |        9867 |
+|      99 | 0x268C      |        9868 |
+|     100 | 0x268E      |        9870 |
+|     101 | 0x268F      |        9871 |
+|     102 | 0x2690      |        9872 |
+|     103 | 0x2691      |        9873 |
+|     104 | 0x2692      |        9874 |
+|     105 | 0x2693      |        9875 |
+|     106 | 0x2694      |        9876 |
+|     107 | 0x2695      |        9877 |
 |     108 | 0xFFFD0AE9  |  4294773481 |
 |     109 | 0xFFFE1CAD  |  4294843565 |
 |     110 | 0x0995      |        2453 |
@@ -288,11 +288,11 @@
 |     116 | 0xFFFD0560  |  4294772064 |
 |     117 | 0xFFFE25BC  |  4294845884 |
 |     118 | 0x0C73      |        3187 |
-|     119 | 0x292A      |       10538 |
-|     120 | 0x292B      |       10539 |
-|     121 | 0x292C      |       10540 |
-|     122 | 0x2972      |       10610 |
-|     123 | 0x2973      |       10611 |
+|     119 | 0x292B      |       10539 |
+|     120 | 0x292C      |       10540 |
+|     121 | 0x292D      |       10541 |
+|     122 | 0x2973      |       10611 |
+|     123 | 0x2974      |       10612 |
 |     124 | 0x01BA      |         442 |
 |     125 | 0x3B60F     |      243215 |
 |     126 | 0x42C2      |       17090 |
@@ -306,63 +306,63 @@
 
 ## String References
 
-- **7400**: Wait right there! Hey, I said wait!
-- **7401**: That hat you have there...it must be the latest style by that mad hatter.
-- **7402**: Okay, now that I know there's a new type of hat available, I have no need for you. Make yourself scarce, kid!
-- **8970**: Who the hell are you? Did you know that this residence belongs to the unspeakably rich Honoi-Gomoi--oh, that's me, you know!--before you so rudely barged in?
-- **9825**: Mana Orbs...!!!
-- **9826**: Hmph!!! What the hell do you know about Mana Orbs!?
-- **9827**: ...Unbelievable! After I specifically told those little brats at the port not to talk to anyone about this!
-- **9828**: ...What did you say!? You're friends with those meddlesome minors? Hmph! Aren't you embarrassed to tell people you hang around with kids at your age?
-- **9829**: Well, that's your business, I guess. If you're buddy-wuddies with those whippersnappers, I have only this to say to you: Give me back my Mana Orb!
-- **9830**: For the past few years, I've given $1 to the thief from Windurst Woods, Nanaa Mihgo, and had her search the towers of Sarutabaruta...
-- **9831**: When I thought I finally had one within my grasp, that idiot Mithra dropped it somewhere! Do you know how much trouble I went through to find out it was those S.O.B.'s who had picked it up!?
-- **9832**: I'm not letting this mattaru drop! You can deliver a message to them...
-- **9833**: GIVE ME BACK MY MANA O\`RB!
-- **9834**: For years I've had Nanaa Mihgo search...
-- **9835**: Just thinking of that moronic Mithra losing my precious Mana Orb, only to have it claimed by a bunch of anklebiters... Argh, it makes my blood boil!
-- **9836**: What the hell is this?
-- **9837**: Are you trying to tell me to give up on my Mana Orb by giving me this?
-- **9838**: You've got Yagudo droppings for brains, stripling! This has nothing to do with money!
-- **9839**: And while I'm at it, you might as well know that I gave Nanaa Mihgo one $1 every week as payment for searching for that Mana Orb!
-- **9840**: Take a look over here! Feast your eyes on all the wonderful goods that I possess! I'm rich beyond your wildest dreams!
-- **9841**: I've got so many $1, I'm throwing them away! Here, take one if it'll make you disappear and leave me be!
-- **9842**: Hm? What're you making that face for?
-- **9843**: I'll take this to the Manustery! It's a crime against Cardians to have a Mana Orb. You'll probably get thrown into prison and made to break rocks all day!
-- **9844**: You've got Yagudo droppings for brains, stripling! This has nothing to do with money!
-- **9845**: I can take this to the Manustery, you know! That is, if you don't mind those S.O.B.'s getting into hot water for hiding a Mana Orb!
-- **9846**: ...!?
-- **9847**: You used that Mana Orb on a Cardian!?
-- **9849**: ...Unbelievable... All that incredible power... Wasted on a useless puppet... A puppet...
-- **9850**: That's it! Disassemble that Cardian right this instantaru!
-- **9851**: Then pull out the Mana Orb and bring it here to me! You got that!?
-- **9854**: Here's a linkshell, tell somebody who cares! You've got no clue of the value of that Mana Orb, and I don't need to hear your meaningless sniveling!
-- **9855**: That Mana Orb is more than it appears to be. Its worth is incalculable!
-- **9856**: Go and start taking that automaton to pieces! You hear me!
-- **9859**: Go and start taking that automaton to pieces! You hear me?
-- **9860**: ...You again! What do you want with me now? Have you come to stand up for those S.O.B.'s? You're wasting your time!
-- **9861**: Unless, of course, you're willing to listen to my offer. I'll make it worth your while, so you'd be smart to take me up on it.
-- **9862**: Take the offer? [Worth my while...?/No thanks, ya big meanie.]
-- **9863**: You're not going to amount to much as an adventurer if you don't recognize your opportunities.
-- **9864**: Well now, an adventurer worthy of the name. You realize you have to look at things with a cool head on your shoulders.
-- **9865**: If what those S.O.B.'s say is true, I doubt they'll be able to disassemble that Cardian on their own.
-- **9866**: I don't know too much about Cardians, but I'm sure it won't just sit there quietly while someone tries to take it to pieces. More than likely it'll lash out and we'll have all sorts of trouble on our hands.
-- **9867**: This is where you come in. To keep the little moppets safe, you're going to have to be the one to do it.
-- **9868**: They'll probably be upset with you for a long while, but they'll get over it. Surely you don't want to see them suffer over this mess any longer.
-- **9869**: If you care for those kids, you'll take it upon yourself to do the dirty work... That's what adults are there for, right?
+- **7401**: Wait right there! Hey, I said wait!
+- **7402**: That hat you have there...it must be the latest style by that mad hatter.
+- **7403**: Okay, now that I know there's a new type of hat available, I have no need for you. Make yourself scarce, kid!
+- **8971**: Who the hell are you? Did you know that this residence belongs to the unspeakably rich Honoi-Gomoi--oh, that's me, you know!--before you so rudely barged in?
+- **9826**: Mana Orbs...!!!
+- **9827**: Hmph!!! What the hell do you know about Mana Orbs!?
+- **9828**: ...Unbelievable! After I specifically told those little brats at the port not to talk to anyone about this!
+- **9829**: ...What did you say!? You're friends with those meddlesome minors? Hmph! Aren't you embarrassed to tell people you hang around with kids at your age?
+- **9830**: Well, that's your business, I guess. If you're buddy-wuddies with those whippersnappers, I have only this to say to you: Give me back my Mana Orb!
+- **9831**: For the past few years, I've given $1 to the thief from Windurst Woods, Nanaa Mihgo, and had her search the towers of Sarutabaruta...
+- **9832**: When I thought I finally had one within my grasp, that idiot Mithra dropped it somewhere! Do you know how much trouble I went through to find out it was those S.O.B.'s who had picked it up!?
+- **9833**: I'm not letting this mattaru drop! You can deliver a message to them...
+- **9834**: GIVE ME BACK MY MANA O\`RB!
+- **9835**: For years I've had Nanaa Mihgo search...
+- **9836**: Just thinking of that moronic Mithra losing my precious Mana Orb, only to have it claimed by a bunch of anklebiters... Argh, it makes my blood boil!
+- **9837**: What the hell is this?
+- **9838**: Are you trying to tell me to give up on my Mana Orb by giving me this?
+- **9839**: You've got Yagudo droppings for brains, stripling! This has nothing to do with money!
+- **9840**: And while I'm at it, you might as well know that I gave Nanaa Mihgo one $1 every week as payment for searching for that Mana Orb!
+- **9841**: Take a look over here! Feast your eyes on all the wonderful goods that I possess! I'm rich beyond your wildest dreams!
+- **9842**: I've got so many $1, I'm throwing them away! Here, take one if it'll make you disappear and leave me be!
+- **9843**: Hm? What're you making that face for?
+- **9844**: I'll take this to the Manustery! It's a crime against Cardians to have a Mana Orb. You'll probably get thrown into prison and made to break rocks all day!
+- **9845**: You've got Yagudo droppings for brains, stripling! This has nothing to do with money!
+- **9846**: I can take this to the Manustery, you know! That is, if you don't mind those S.O.B.'s getting into hot water for hiding a Mana Orb!
+- **9847**: ...!?
+- **9848**: You used that Mana Orb on a Cardian!?
+- **9850**: ...Unbelievable... All that incredible power... Wasted on a useless puppet... A puppet...
+- **9851**: That's it! Disassemble that Cardian right this instantaru!
+- **9852**: Then pull out the Mana Orb and bring it here to me! You got that!?
+- **9855**: Here's a linkshell, tell somebody who cares! You've got no clue of the value of that Mana Orb, and I don't need to hear your meaningless sniveling!
+- **9856**: That Mana Orb is more than it appears to be. Its worth is incalculable!
+- **9857**: Go and start taking that automaton to pieces! You hear me!
+- **9860**: Go and start taking that automaton to pieces! You hear me?
+- **9861**: ...You again! What do you want with me now? Have you come to stand up for those S.O.B.'s? You're wasting your time!
+- **9862**: Unless, of course, you're willing to listen to my offer. I'll make it worth your while, so you'd be smart to take me up on it.
+- **9863**: Take the offer? [Worth my while...?/No thanks, ya big meanie.]
+- **9864**: You're not going to amount to much as an adventurer if you don't recognize your opportunities.
+- **9865**: Well now, an adventurer worthy of the name. You realize you have to look at things with a cool head on your shoulders.
+- **9866**: If what those S.O.B.'s say is true, I doubt they'll be able to disassemble that Cardian on their own.
+- **9867**: I don't know too much about Cardians, but I'm sure it won't just sit there quietly while someone tries to take it to pieces. More than likely it'll lash out and we'll have all sorts of trouble on our hands.
+- **9868**: This is where you come in. To keep the little moppets safe, you're going to have to be the one to do it.
+- **9869**: They'll probably be upset with you for a long while, but they'll get over it. Surely you don't want to see them suffer over this mess any longer.
 - **9870**: If you care for those kids, you'll take it upon yourself to do the dirty work... That's what adults are there for, right?
-- **9871**: Unbelievable!
-- **9872**: You're refusing to carry out the task you've already agreed to?
-- **9873**: And you call yourself an adventurer? Only a fool would pass up the chance to work for me.
-- **9874**: ...Fine, then. There's no sense going on about it. Plenty of other adventurers out there. I'll just find myself one with a backbone.
-- **9875**: This conversation is over. Go live with your S.O.B. friends in your happy little fantasy world. That's more your level.
+- **9871**: If you care for those kids, you'll take it upon yourself to do the dirty work... That's what adults are there for, right?
+- **9872**: Unbelievable!
+- **9873**: You're refusing to carry out the task you've already agreed to?
+- **9874**: And you call yourself an adventurer? Only a fool would pass up the chance to work for me.
+- **9875**: ...Fine, then. There's no sense going on about it. Plenty of other adventurers out there. I'll just find myself one with a backbone.
 - **9876**: This conversation is over. Go live with your S.O.B. friends in your happy little fantasy world. That's more your level.
-- **10538**: Take that $3 to Yoran-Oran. He should be able to fix it!
-- **10539**: I can use that mirror to show people my memories of Tavnazia...?
-- **10540**: That...that's impossible! Now give it back! Give me back my mirror!
-- **10610**: Hey, you're the mangy adventurer that was with Sir Louverance. You're not getting in his way now, are you? Hm?
-- **10611**: He said that he was heading on business for a tiny island to the southeast of Mhaura. You'd better not be thinking of following him!
-- **15442**: Eh? You presume to give this pathetic excuse for a Starlight Celebration present to me, the insanely well-to-do Honoi-Gomoi!? Hmph, I'll accept it, but only because you're being so stubborn about it.
+- **9877**: This conversation is over. Go live with your S.O.B. friends in your happy little fantasy world. That's more your level.
+- **10539**: Take that $3 to Yoran-Oran. He should be able to fix it!
+- **10540**: I can use that mirror to show people my memories of Tavnazia...?
+- **10541**: That...that's impossible! Now give it back! Give me back my mirror!
+- **10611**: Hey, you're the mangy adventurer that was with Sir Louverance. You're not getting in his way now, are you? Hm?
+- **10612**: He said that he was heading on business for a tiny island to the southeast of Mhaura. You'd better not be thinking of following him!
+- **15443**: Eh? You presume to give this pathetic excuse for a Starlight Celebration present to me, the insanely well-to-do Honoi-Gomoi!? Hmph, I'll accept it, but only because you're being so stubborn about it.
 
 ## Events
 
@@ -409,7 +409,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15442*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15443*)
     → "Eh? You presume to give this pathetic excuse for a Starlight Celebration present to me, the insanely well-to-do Honoi-Gomoi!? Hmph, I'll accept it, but only because you're being so stubborn about it."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT
@@ -2143,7 +2143,7 @@
   0: 0x048D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0492 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0493 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0494 [0x1D] PRINT_EVENT_MESSAGE(message_id=8970*)
+  3: 0x0494 [0x1D] PRINT_EVENT_MESSAGE(message_id=8971*)
     → "Who the hell are you? Did you know that this residence belongs to the unspeakably rich Honoi-Gomoi--oh, that's me, you know!--before you so rudely barged in?"
   4: 0x0497 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0498 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2175,13 +2175,13 @@
   0: 0x049C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x04A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
+  3: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
     → "Wait right there! Hey, I said wait!"
   4: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
+  5: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
     → "That hat you have there...it must be the latest style by that mad hatter."
   6: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x04AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
+  7: 0x04AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
     → "Okay, now that I know there's a new type of hat available, I have no need for you. Make yourself scarce, kid!"
   8: 0x04AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04AF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2290,7 +2290,7 @@
 SUBROUTINE_0562:
  27: 0x0562 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  28: 0x0573 [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x4B)
- 29: 0x057A [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9825*]:
+ 29: 0x057A [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9826*]:
     → "Mana Orbs...!!!"
  30: 0x0581 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0582 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -2340,7 +2340,7 @@ SUBROUTINE_05E5:
  73: 0x0716 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=247*
  74: 0x0725 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  75: 0x0736 [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x4C)
- 76: 0x073D [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9832*]:
+ 76: 0x073D [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9833*]:
     → "I'm not letting this mattaru drop! You can deliver a message to them..."
  77: 0x0744 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0745 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -2351,7 +2351,7 @@ SUBROUTINE_05E5:
  83: 0x0781 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  84: 0x0782 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  85: 0x0783 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1E)
- 86: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=9833*)
+ 86: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=9834*)
     → "GIVE ME BACK MY MANA O`RB!"
  87: 0x078D [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x078E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1F)
@@ -2447,7 +2447,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0811 [0x1D] PRINT_EVENT_MESSAGE(message_id=9825*)
+  0: 0x0811 [0x1D] PRINT_EVENT_MESSAGE(message_id=9826*)
     → "Mana Orbs...!!!"
   1: 0x0814 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0815 [0x00] END_REQSTACK()
@@ -2472,7 +2472,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0816 [0x1D] PRINT_EVENT_MESSAGE(message_id=9826*)
+  0: 0x0816 [0x1D] PRINT_EVENT_MESSAGE(message_id=9827*)
     → "Hmph!!! What the hell do you know about Mana Orbs!?"
   1: 0x0819 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x081A [0x00] END_REQSTACK()
@@ -2497,7 +2497,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x081B [0x1D] PRINT_EVENT_MESSAGE(message_id=9827*)
+  0: 0x081B [0x1D] PRINT_EVENT_MESSAGE(message_id=9828*)
     → "...Unbelievable! After I specifically told those little brats at the port not to talk to anyone about this!"
   1: 0x081E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x081F [0x00] END_REQSTACK()
@@ -2522,7 +2522,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0820 [0x1D] PRINT_EVENT_MESSAGE(message_id=9828*)
+  0: 0x0820 [0x1D] PRINT_EVENT_MESSAGE(message_id=9829*)
     → "...What did you say!? You're friends with those meddlesome minors? Hmph! Aren't you embarrassed to tell people you hang around with kids at your age?"
   1: 0x0823 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0824 [0x00] END_REQSTACK()
@@ -2547,7 +2547,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0825 [0x1D] PRINT_EVENT_MESSAGE(message_id=9829*)
+  0: 0x0825 [0x1D] PRINT_EVENT_MESSAGE(message_id=9830*)
     → "Well, that's your business, I guess. If you're buddy-wuddies with those whippersnappers, I have only this to say to you: Give me back my Mana Orb!"
   1: 0x0828 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0829 [0x00] END_REQSTACK()
@@ -2572,7 +2572,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x082A [0x1D] PRINT_EVENT_MESSAGE(message_id=9830*)
+  0: 0x082A [0x1D] PRINT_EVENT_MESSAGE(message_id=9831*)
     → "For the past few years, I've given $1 to the thief from Windurst Woods, Nanaa Mihgo, and had her search the towers of Sarutabaruta..."
   1: 0x082D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x082E [0x00] END_REQSTACK()
@@ -2598,7 +2598,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x082F [0x1D] PRINT_EVENT_MESSAGE(message_id=9831*)
+  0: 0x082F [0x1D] PRINT_EVENT_MESSAGE(message_id=9832*)
     → "When I thought I finally had one within my grasp, that idiot Mithra dropped it somewhere! Do you know how much trouble I went through to find out it was those S.O.B.'s who had picked it up!?"
   1: 0x0832 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0833 [0x00] END_REQSTACK()
@@ -2623,7 +2623,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=9832*)
+  0: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=9833*)
     → "I'm not letting this mattaru drop! You can deliver a message to them..."
   1: 0x0837 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0838 [0x00] END_REQSTACK()
@@ -2655,10 +2655,10 @@ SUBROUTINE_05E5:
   1: 0x083E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x083F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0840 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
-  4: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=9834*)
+  4: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
     → "For years I've had Nanaa Mihgo search..."
   5: 0x084A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x084B [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
+  6: 0x084B [0x1D] PRINT_EVENT_MESSAGE(message_id=9836*)
     → "Just thinking of that moronic Mithra losing my precious Mana Orb, only to have it claimed by a bunch of anklebiters... Argh, it makes my blood boil!"
   7: 0x084E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x084F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
@@ -2756,7 +2756,7 @@ SUBROUTINE_05E5:
  28: 0x0939 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1A)
  29: 0x0940 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1B)
  30: 0x0947 [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x4C)
- 31: 0x094E [0x1D] PRINT_EVENT_MESSAGE(message_id=9838*)
+ 31: 0x094E [0x1D] PRINT_EVENT_MESSAGE(message_id=9839*)
     → "You've got Yagudo droppings for brains, stripling! This has nothing to do with money!"
  32: 0x0951 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0952 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -2774,7 +2774,7 @@ SUBROUTINE_05E5:
  45: 0x09B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x43)
  46: 0x09BE [0x27] REQ_SET(priority=0x0E, entity_id=LocalPlayer, tag_num=0x45)
  47: 0x09C5 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-191.792*, z=-105.613*, y=-10.149*, direction=239.7°*
- 48: 0x09CE [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9840*]:
+ 48: 0x09CE [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9841*]:
     → "Take a look over here! Feast your eyes on all the wonderful goods that I possess! I'm rich beyond your wildest dreams!"
  49: 0x09D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x09D6 [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x57)
@@ -2783,7 +2783,7 @@ SUBROUTINE_05E5:
  53: 0x09F5 [0x1C] WAIT(100* ticks)
  54: 0x09F8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
  55: 0x09FE [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x58)
- 56: 0x0A05 [0x1D] PRINT_EVENT_MESSAGE(message_id=9841*)
+ 56: 0x0A05 [0x1D] PRINT_EVENT_MESSAGE(message_id=9842*)
     → "I've got so many $1, I'm throwing them away! Here, take one if it'll make you disappear and leave me be!"
  57: 0x0A08 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0A09 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -2895,7 +2895,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0AFC [0x1D] PRINT_EVENT_MESSAGE(message_id=9836*)
+  0: 0x0AFC [0x1D] PRINT_EVENT_MESSAGE(message_id=9837*)
     → "What the hell is this?"
   1: 0x0AFF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B00 [0x00] END_REQSTACK()
@@ -2920,7 +2920,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0B01 [0x1D] PRINT_EVENT_MESSAGE(message_id=9837*)
+  0: 0x0B01 [0x1D] PRINT_EVENT_MESSAGE(message_id=9838*)
     → "Are you trying to tell me to give up on my Mana Orb by giving me this?"
   1: 0x0B04 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B05 [0x00] END_REQSTACK()
@@ -2945,7 +2945,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0B06 [0x1D] PRINT_EVENT_MESSAGE(message_id=9838*)
+  0: 0x0B06 [0x1D] PRINT_EVENT_MESSAGE(message_id=9839*)
     → "You've got Yagudo droppings for brains, stripling! This has nothing to do with money!"
   1: 0x0B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B0A [0x00] END_REQSTACK()
@@ -2970,7 +2970,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0B0B [0x1D] PRINT_EVENT_MESSAGE(message_id=9839*)
+  0: 0x0B0B [0x1D] PRINT_EVENT_MESSAGE(message_id=9840*)
     → "And while I'm at it, you might as well know that I gave Nanaa Mihgo one $1 every week as payment for searching for that Mana Orb!"
   1: 0x0B0E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B0F [0x00] END_REQSTACK()
@@ -2995,7 +2995,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9840*)
+  0: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9841*)
     → "Take a look over here! Feast your eyes on all the wonderful goods that I possess! I'm rich beyond your wildest dreams!"
   1: 0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B14 [0x00] END_REQSTACK()
@@ -3020,7 +3020,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0B15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9842*)
+  0: 0x0B15 [0x1D] PRINT_EVENT_MESSAGE(message_id=9843*)
     → "Hm? What're you making that face for?"
   1: 0x0B18 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B19 [0x00] END_REQSTACK()
@@ -3045,7 +3045,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0B1A [0x1D] PRINT_EVENT_MESSAGE(message_id=9843*)
+  0: 0x0B1A [0x1D] PRINT_EVENT_MESSAGE(message_id=9844*)
     → "I'll take this to the Manustery! It's a crime against Cardians to have a Mana Orb. You'll probably get thrown into prison and made to break rocks all day!"
   1: 0x0B1D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B1E [0x00] END_REQSTACK()
@@ -3078,12 +3078,12 @@ SUBROUTINE_05E5:
   1: 0x0B24 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B25 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B26 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1E)
-  4: 0x0B2D [0x1D] PRINT_EVENT_MESSAGE(message_id=9844*)
+  4: 0x0B2D [0x1D] PRINT_EVENT_MESSAGE(message_id=9845*)
     → "You've got Yagudo droppings for brains, stripling! This has nothing to do with money!"
   5: 0x0B30 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1F)
   7: 0x0B38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
-  8: 0x0B3F [0x1D] PRINT_EVENT_MESSAGE(message_id=9845*)
+  8: 0x0B3F [0x1D] PRINT_EVENT_MESSAGE(message_id=9846*)
     → "I can take this to the Manustery, you know! That is, if you don't mind those S.O.B.'s getting into hot water for hiding a Mana Orb!"
   9: 0x0B42 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x19)
@@ -3240,7 +3240,7 @@ SUBROUTINE_05E5:
  57: 0x0CB2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  58: 0x0CC3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  59: 0x0CD4 [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x62)
- 60: 0x0CDB [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9847*]:
+ 60: 0x0CDB [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9848*]:
     → "You used that Mana Orb on a Cardian!?"
  61: 0x0CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0CE3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17752269/0x010EE0CD), tag_num=0x0C)
@@ -3250,7 +3250,7 @@ SUBROUTINE_05E5:
  66: 0x0CFE [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=247*
  67: 0x0D0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  68: 0x0D1E [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x63)
- 69: 0x0D25 [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9849*]:
+ 69: 0x0D25 [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9850*]:
     → "...Unbelievable... All that incredible power... Wasted on a useless puppet... A puppet..."
  70: 0x0D2C [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0D2D [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -3394,7 +3394,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9846*)
+  0: 0x0FA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9847*)
     → "...!?"
   1: 0x0FAB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FAC [0x00] END_REQSTACK()
@@ -3420,7 +3420,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FAD [0x1D] PRINT_EVENT_MESSAGE(message_id=9847*)
+  0: 0x0FAD [0x1D] PRINT_EVENT_MESSAGE(message_id=9848*)
     → "You used that Mana Orb on a Cardian!?"
   1: 0x0FB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FB1 [0x00] END_REQSTACK()
@@ -3445,7 +3445,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9849*)
+  0: 0x0FB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9850*)
     → "...Unbelievable... All that incredible power... Wasted on a useless puppet... A puppet..."
   1: 0x0FB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FB6 [0x00] END_REQSTACK()
@@ -3470,7 +3470,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9850*)
+  0: 0x0FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9851*)
     → "That's it! Disassemble that Cardian right this instantaru!"
   1: 0x0FBA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FBB [0x00] END_REQSTACK()
@@ -3496,7 +3496,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FBC [0x1D] PRINT_EVENT_MESSAGE(message_id=9851*)
+  0: 0x0FBC [0x1D] PRINT_EVENT_MESSAGE(message_id=9852*)
     → "Then pull out the Mana Orb and bring it here to me! You got that!?"
   1: 0x0FBF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FC0 [0x00] END_REQSTACK()
@@ -3521,7 +3521,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9854*)
+  0: 0x0FC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9855*)
     → "Here's a linkshell, tell somebody who cares! You've got no clue of the value of that Mana Orb, and I don't need to hear your meaningless sniveling!"
   1: 0x0FC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FC5 [0x00] END_REQSTACK()
@@ -3546,7 +3546,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9855*)
+  0: 0x0FC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9856*)
     → "That Mana Orb is more than it appears to be. Its worth is incalculable!"
   1: 0x0FC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FCA [0x00] END_REQSTACK()
@@ -3571,7 +3571,7 @@ SUBROUTINE_05E5:
 #### Opcodes
 
 ```
-  0: 0x0FCB [0x1D] PRINT_EVENT_MESSAGE(message_id=9856*)
+  0: 0x0FCB [0x1D] PRINT_EVENT_MESSAGE(message_id=9857*)
     → "Go and start taking that automaton to pieces! You hear me!"
   1: 0x0FCE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FCF [0x00] END_REQSTACK()
@@ -3599,7 +3599,7 @@ SUBROUTINE_05E5:
   0: 0x0FD0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0FD5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0FD6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0FD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9859*)
+  3: 0x0FD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9860*)
     → "Go and start taking that automaton to pieces! You hear me?"
   4: 0x0FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0FDB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3709,7 +3709,7 @@ SUBROUTINE_05E5:
 SUBROUTINE_108E:
  27: 0x108E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  28: 0x109F [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x4B)
- 29: 0x10A6 [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9860*]:
+ 29: 0x10A6 [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9861*]:
     → "...You again! What do you want with me now? Have you come to stand up for those S.O.B.'s? You're wasting your time!"
  30: 0x10AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x10AE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -3729,7 +3729,7 @@ SUBROUTINE_1111:
  43: 0x1122 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  44: 0x1133 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
  45: 0x113A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x6F)
- 46: 0x1141 [0x24] CREATE_DIALOG(message_id=9862*, default_option=0*, option_flags=0*)
+ 46: 0x1141 [0x24] CREATE_DIALOG(message_id=9863*, default_option=0*, option_flags=0*)
     → "Take the offer? [Worth my while...?/No thanks, ya big meanie.]"
  47: 0x1148 [0x25] WAIT_DIALOG_SELECT()
  48: 0x1149 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1296
@@ -3756,7 +3756,7 @@ SUBROUTINE_1111:
  69: 0x1211 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=247*
  70: 0x1220 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  71: 0x1231 [0x27] REQ_SET(priority=0x0B, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x4C)
- 72: 0x1238 [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9868*]:
+ 72: 0x1238 [0x2B] Honoi-Gomoi (ID: 17752156/0x010EE05C) [9869*]:
     → "They'll probably be upset with you for a long while, but they'll get over it. Surely you don't want to see them suffer over this mess any longer."
  73: 0x123F [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x1240 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C))
@@ -3814,7 +3814,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1320 [0x1D] PRINT_EVENT_MESSAGE(message_id=9860*)
+  0: 0x1320 [0x1D] PRINT_EVENT_MESSAGE(message_id=9861*)
     → "...You again! What do you want with me now? Have you come to stand up for those S.O.B.'s? You're wasting your time!"
   1: 0x1323 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1324 [0x00] END_REQSTACK()
@@ -3839,7 +3839,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1325 [0x1D] PRINT_EVENT_MESSAGE(message_id=9861*)
+  0: 0x1325 [0x1D] PRINT_EVENT_MESSAGE(message_id=9862*)
     → "Unless, of course, you're willing to listen to my offer. I'll make it worth your while, so you'd be smart to take me up on it."
   1: 0x1328 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1329 [0x00] END_REQSTACK()
@@ -3864,7 +3864,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x132A [0x1D] PRINT_EVENT_MESSAGE(message_id=9863*)
+  0: 0x132A [0x1D] PRINT_EVENT_MESSAGE(message_id=9864*)
     → "You're not going to amount to much as an adventurer if you don't recognize your opportunities."
   1: 0x132D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x132E [0x00] END_REQSTACK()
@@ -3890,7 +3890,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x132F [0x1D] PRINT_EVENT_MESSAGE(message_id=9864*)
+  0: 0x132F [0x1D] PRINT_EVENT_MESSAGE(message_id=9865*)
     → "Well now, an adventurer worthy of the name. You realize you have to look at things with a cool head on your shoulders."
   1: 0x1332 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1333 [0x00] END_REQSTACK()
@@ -3915,7 +3915,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1334 [0x1D] PRINT_EVENT_MESSAGE(message_id=9865*)
+  0: 0x1334 [0x1D] PRINT_EVENT_MESSAGE(message_id=9866*)
     → "If what those S.O.B.'s say is true, I doubt they'll be able to disassemble that Cardian on their own."
   1: 0x1337 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1338 [0x00] END_REQSTACK()
@@ -3940,7 +3940,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1339 [0x1D] PRINT_EVENT_MESSAGE(message_id=9866*)
+  0: 0x1339 [0x1D] PRINT_EVENT_MESSAGE(message_id=9867*)
     → "I don't know too much about Cardians, but I'm sure it won't just sit there quietly while someone tries to take it to pieces. More than likely it'll lash out and we'll have all sorts of trouble on our hands."
   1: 0x133C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x133D [0x00] END_REQSTACK()
@@ -3966,7 +3966,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x133E [0x1D] PRINT_EVENT_MESSAGE(message_id=9867*)
+  0: 0x133E [0x1D] PRINT_EVENT_MESSAGE(message_id=9868*)
     → "This is where you come in. To keep the little moppets safe, you're going to have to be the one to do it."
   1: 0x1341 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1342 [0x00] END_REQSTACK()
@@ -3991,7 +3991,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1343 [0x1D] PRINT_EVENT_MESSAGE(message_id=9868*)
+  0: 0x1343 [0x1D] PRINT_EVENT_MESSAGE(message_id=9869*)
     → "They'll probably be upset with you for a long while, but they'll get over it. Surely you don't want to see them suffer over this mess any longer."
   1: 0x1346 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1347 [0x00] END_REQSTACK()
@@ -4016,7 +4016,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1348 [0x1D] PRINT_EVENT_MESSAGE(message_id=9869*)
+  0: 0x1348 [0x1D] PRINT_EVENT_MESSAGE(message_id=9870*)
     → "If you care for those kids, you'll take it upon yourself to do the dirty work... That's what adults are there for, right?"
   1: 0x134B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x134C [0x00] END_REQSTACK()
@@ -4048,7 +4048,7 @@ SUBROUTINE_12D1:
   1: 0x1352 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1353 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1354 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
-  4: 0x135B [0x1D] PRINT_EVENT_MESSAGE(message_id=9870*)
+  4: 0x135B [0x1D] PRINT_EVENT_MESSAGE(message_id=9871*)
     → "If you care for those kids, you'll take it upon yourself to do the dirty work... That's what adults are there for, right?"
   5: 0x135E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x135F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x19)
@@ -4174,7 +4174,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x14F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9871*)
+  0: 0x14F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9872*)
     → "Unbelievable!"
   1: 0x14F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x14F4 [0x00] END_REQSTACK()
@@ -4199,7 +4199,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x14F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9872*)
+  0: 0x14F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9873*)
     → "You're refusing to carry out the task you've already agreed to?"
   1: 0x14F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x14F9 [0x00] END_REQSTACK()
@@ -4224,7 +4224,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x14FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9873*)
+  0: 0x14FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
     → "And you call yourself an adventurer? Only a fool would pass up the chance to work for me."
   1: 0x14FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x14FE [0x00] END_REQSTACK()
@@ -4250,7 +4250,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x14FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
+  0: 0x14FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
     → "...Fine, then. There's no sense going on about it. Plenty of other adventurers out there. I'll just find myself one with a backbone."
   1: 0x1502 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1503 [0x00] END_REQSTACK()
@@ -4275,7 +4275,7 @@ SUBROUTINE_12D1:
 #### Opcodes
 
 ```
-  0: 0x1504 [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
+  0: 0x1504 [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
     → "This conversation is over. Go live with your S.O.B. friends in your happy little fantasy world. That's more your level."
   1: 0x1507 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1508 [0x00] END_REQSTACK()
@@ -4307,7 +4307,7 @@ SUBROUTINE_12D1:
   1: 0x150E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x150F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1510 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
-  4: 0x1517 [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
+  4: 0x1517 [0x1D] PRINT_EVENT_MESSAGE(message_id=9877*)
     → "This conversation is over. Go live with your S.O.B. friends in your happy little fantasy world. That's more your level."
   5: 0x151A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x151B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x18)
@@ -4530,7 +4530,7 @@ SUBROUTINE_12D1:
   1: 0x15BE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x15BF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x15C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1E)
-  4: 0x15C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
+  4: 0x15C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
     → "Take that $3 to Yoran-Oran. He should be able to fix it!"
   5: 0x15CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x15CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1F)
@@ -4563,11 +4563,11 @@ SUBROUTINE_12D1:
   0: 0x15D6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x15DB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x15DC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x15DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
+  3: 0x15DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
     → "I can use that mirror to show people my memories of Tavnazia...?"
   4: 0x15E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x15E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x2D)
-  6: 0x15E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
+  6: 0x15E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
     → "That...that's impossible! Now give it back! Give me back my mirror!"
   7: 0x15EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x15EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x2E)
@@ -4600,11 +4600,11 @@ SUBROUTINE_12D1:
   0: 0x15F7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x15FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x15FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x15FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10610*)
+  3: 0x15FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10611*)
     → "Hey, you're the mangy adventurer that was with Sir Louverance. You're not getting in his way now, are you? Hm?"
   4: 0x1601 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1602 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1E)
-  6: 0x1609 [0x1D] PRINT_EVENT_MESSAGE(message_id=10611*)
+  6: 0x1609 [0x1D] PRINT_EVENT_MESSAGE(message_id=10612*)
     → "He said that he was heading on business for a tiny island to the southeast of Mhaura. You'd better not be thinking of following him!"
   7: 0x160C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x160D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Honoi-Gomoi (ID: 17752156/0x010EE05C), tag_num=0x1F)

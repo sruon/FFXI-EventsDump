@@ -47,19 +47,19 @@
 |       7 | 0x000D      |          13 |
 |       8 | 0xFFFFFA3F  |  4294965823 |
 |       9 | 0x9046      |       36934 |
-|      10 | 0x1AA4      |        6820 |
-|      11 | 0x1AA5      |        6821 |
-|      12 | 0x1AA9      |        6825 |
-|      13 | 0x1AAA      |        6826 |
-|      14 | 0x1AAB      |        6827 |
+|      10 | 0x1AA5      |        6821 |
+|      11 | 0x1AA6      |        6822 |
+|      12 | 0x1AAA      |        6826 |
+|      13 | 0x1AAB      |        6827 |
+|      14 | 0x1AAC      |        6828 |
 
 ## String References
 
-- **6820**: Yes, sire.
-- **6821**: Francmage, I've summoned you here today to talk about one thing--the Northlands investigation.
-- **6825**: We must take control of this situation immediately. Still, we cannot let them walk about the Northlands freely. Who knows what they're plotting under the guise of this "investigation."
-- **6826**: Francmage, listen. Go with the investigation party, and keep a close eye on what our foreign "friends" do. They are up to something, it is certain.
-- **6827**: I am sure nothing will come of this, but in case they do find something in that wasteland, do not let them take it. Understood?
+- **6821**: Yes, sire.
+- **6822**: Francmage, I've summoned you here today to talk about one thing--the Northlands investigation.
+- **6826**: We must take control of this situation immediately. Still, we cannot let them walk about the Northlands freely. Who knows what they're plotting under the guise of this "investigation."
+- **6827**: Francmage, listen. Go with the investigation party, and keep a close eye on what our foreign "friends" do. They are up to something, it is certain.
+- **6828**: I am sure nothing will come of this, but in case they do find something in that wasteland, do not let them take it. Understood?
 
 ## Events
 
@@ -425,7 +425,7 @@
 
 ```
   0: 0x00D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x03)
-  1: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=6820*)
+  1: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=6821*)
     → "Yes, sire."
   2: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x04)
@@ -451,7 +451,7 @@
 #### Opcodes
 
 ```
-  0: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6821*)
+  0: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6822*)
     → "Francmage, I've summoned you here today to talk about one thing--the Northlands investigation."
   1: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00EF [0x00] END_REQSTACK()
@@ -478,7 +478,7 @@
 
 ```
   0: 0x00F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x05)
-  1: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6825*)
+  1: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6826*)
     → "We must take control of this situation immediately. Still, we cannot let them walk about the Northlands freely. Who knows what they're plotting under the guise of this "investigation.""
   2: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x06)
@@ -506,7 +506,7 @@
 
 ```
   0: 0x0103 [0x27] REQ_SET(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x01)
-  1: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=6826*)
+  1: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=6827*)
     → "Francmage, listen. Go with the investigation party, and keep a close eye on what our foreign "friends" do. They are up to something, it is certain."
   2: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x010E [0x2A] GET_REQ_LEVEL(level=8, entity_id=Periduque (ID: 17772700/0x010F309C))
@@ -536,7 +536,7 @@
 
 ```
   0: 0x011C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x07)
-  1: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=6827*)
+  1: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=6828*)
     → "I am sure nothing will come of this, but in case they do find something in that wasteland, do not let them take it. Understood?"
   2: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0127 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Periduque (ID: 17772700/0x010F309C), tag_num=0x08)

@@ -22,11 +22,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x06B6      |        1718 |
-|       1 | 0x1EF8      |        7928 |
+|       1 | 0x1EF9      |        7929 |
 
 ## String References
 
-- **7928**: It is stocked to the brim with $5.
+- **7929**: It is stocked to the brim with $5.
 
 ## Events
 
@@ -73,7 +73,7 @@
 ```
   0: 0x0001 [0x03] Work_Zone[2] = 1718*
   1: 0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0007 [0x48] [System] [7928*]:
+  2: 0x0007 [0x48] [System] [7929*]:
     → "It is stocked to the brim with $5."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT
@@ -101,7 +101,7 @@
 
 ```
   0: 0x000D [0x03] Work_Zone[2] = 1718*
-  1: 0x0012 [0x48] [System] [7928*]:
+  1: 0x0012 [0x48] [System] [7929*]:
     → "It is stocked to the brim with $5."
   2: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0016 [0x21] END_EVENT

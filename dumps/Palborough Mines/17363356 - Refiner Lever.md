@@ -20,28 +20,28 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CDD      |        7389 |
+|       0 | 0x1CDE      |        7390 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x1CDF      |        7391 |
+|       4 | 0x1CE0      |        7392 |
 |       5 | 0x0032      |          50 |
 |       6 | 0x0005      |           5 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1CDE      |        7390 |
+|       8 | 0x1CDF      |        7391 |
 |       9 | 0x0257      |         599 |
-|      10 | 0x1CE0      |        7392 |
-|      11 | 0x1CE1      |        7393 |
+|      10 | 0x1CE1      |        7393 |
+|      11 | 0x1CE2      |        7394 |
 |      12 | 0x18EF      |        6383 |
 
 ## String References
 
 - **6383**: You cannot obtain the $0.
-- **7389**: Pull the lever? [Yes./No.]
-- **7390**: Something falls out of the machine!
-- **7391**: Nothing happens.
-- **7392**: You obtain $1 $0 !
-- **7393**: There seems to be more left in the machine, but you can't carry any more items.
+- **7390**: Pull the lever? [Yes./No.]
+- **7391**: Something falls out of the machine!
+- **7392**: Nothing happens.
+- **7393**: You obtain $1 $0 !
+- **7394**: There seems to be more left in the machine, but you can't carry any more items.
 
 ## Events
 
@@ -108,7 +108,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x4A] LocalPlayer looks at Refiner Lever (ID: 17363356/0x0108F19C)
-  2: 0x000B [0x24] CREATE_DIALOG(message_id=7389*, default_option=0*, option_flags=0*)
+  2: 0x000B [0x24] CREATE_DIALOG(message_id=7390*, default_option=0*, option_flags=0*)
     → "Pull the lever? [Yes./No.]"
   3: 0x0012 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0013 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001E
@@ -117,7 +117,7 @@
   7: 0x0026 [0x4C] EventEntity->StatusEvent = 8 // Open door
   8: 0x0027 [0x1C] WAIT(60* ticks)
   9: 0x002A [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0039
- 10: 0x0032 [0x48] [System] [7391*]:
+ 10: 0x0032 [0x48] [System] [7392*]:
     → "Nothing happens."
  11: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0036 [0x01] GOTO 0x0140
@@ -147,15 +147,15 @@
 
 SUBROUTINE_0101:
  36: 0x0101 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mis2" with entities [Refiner Lever (ID: 17363356/0x0108F19C), Refiner Lever (ID: 17363356/0x0108F19C)]
- 37: 0x010E [0x48] [System] [7390*]:
+ 37: 0x010E [0x48] [System] [7391*]:
     → "Something falls out of the machine!"
  38: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0112 [0x03] Work_Zone[2] = 599*
- 40: 0x0117 [0x48] [System] [7392*]:
+ 40: 0x0117 [0x48] [System] [7393*]:
     → "You obtain $1 $0 !"
  41: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x011B [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0127
- 43: 0x0123 [0x48] [System] [7393*]:
+ 43: 0x0123 [0x48] [System] [7394*]:
     → "There seems to be more left in the machine, but you can't carry any more items."
  44: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0127 [0x01] GOTO 0x0140

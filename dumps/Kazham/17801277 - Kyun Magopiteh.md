@@ -27,17 +27,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2718      |       10008 |
-|       3 | 0x2719      |       10009 |
-|       4 | 0x2870      |       10352 |
-|       5 | 0x2871      |       10353 |
+|       2 | 0x2719      |       10009 |
+|       3 | 0x271A      |       10010 |
+|       4 | 0x2871      |       10353 |
+|       5 | 0x2872      |       10354 |
 
 ## String References
 
-- **10008**: You're one of those [people/people/people/people/people/people/people/Mithra/people] borrrn over in the mainlands.
-- **10009**: You may think that we Mithra all wanderrr around, never settling down in one place, but you're wrong. Spend a little time here, and you'll see our true colors.
-- **10352**: So anotherrr mainlander went off and stuck [his/her] nose where it didn't belong... When will you people learrrn?
-- **10353**: Head over to M & P's. I think I rrremember them talking about an ancient method of rrremoving that smell. Not that it's going to work...
+- **10009**: You're one of those [people/people/people/people/people/people/people/Mithra/people] borrrn over in the mainlands.
+- **10010**: You may think that we Mithra all wanderrr around, never settling down in one place, but you're wrong. Spend a little time here, and you'll see our true colors.
+- **10353**: So anotherrr mainlander went off and stuck [his/her] nose where it didn't belong... When will you people learrrn?
+- **10354**: Head over to M & P's. I think I rrremember them talking about an ancient method of rrremoving that smell. Not that it's going to work...
 
 ## Events
 
@@ -138,10 +138,10 @@
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyun Magopiteh (ID: 17801277/0x010FA03D), tag_num=0x01)
   4: 0x0028 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x04)
-  5: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10008*)
+  5: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10009*)
     → "You're one of those [people/people/people/people/people/people/people/Mithra/people] borrrn over in the mainlands."
   6: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10009*)
+  7: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10010*)
     → "You may think that we Mithra all wanderrr around, never settling down in one place, but you're wrong. Spend a little time here, and you'll see our true colors."
   8: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyun Magopiteh (ID: 17801277/0x010FA03D), tag_num=0x02)
@@ -175,10 +175,10 @@
   1: 0x0047 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0048 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0049 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyun Magopiteh (ID: 17801277/0x010FA03D), tag_num=0x01)
-  4: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=10352*)
+  4: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=10353*)
     → "So anotherrr mainlander went off and stuck [his/her] nose where it didn't belong... When will you people learrrn?"
   5: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=10353*)
+  6: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=10354*)
     → "Head over to M & P's. I think I rrremember them talking about an ancient method of rrremoving that smell. Not that it's going to work..."
   7: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kyun Magopiteh (ID: 17801277/0x010FA03D), tag_num=0x02)

@@ -20,50 +20,50 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x4B8A      |       19338 |
-|       1 | 0x4B8B      |       19339 |
+|       0 | 0x4B8B      |       19339 |
+|       1 | 0x4B8C      |       19340 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x4B8C      |       19340 |
-|       5 | 0x4B8D      |       19341 |
-|       6 | 0x4B8E      |       19342 |
-|       7 | 0x4B8F      |       19343 |
+|       4 | 0x4B8D      |       19341 |
+|       5 | 0x4B8E      |       19342 |
+|       6 | 0x4B8F      |       19343 |
+|       7 | 0x4B90      |       19344 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x4B90      |       19344 |
-|      10 | 0x4B91      |       19345 |
-|      11 | 0x4B92      |       19346 |
-|      12 | 0x4B93      |       19347 |
-|      13 | 0x4B94      |       19348 |
+|       9 | 0x4B91      |       19345 |
+|      10 | 0x4B92      |       19346 |
+|      11 | 0x4B93      |       19347 |
+|      12 | 0x4B94      |       19348 |
+|      13 | 0x4B95      |       19349 |
 |      14 | 0x0003      |           3 |
-|      15 | 0x4B95      |       19349 |
-|      16 | 0x4B96      |       19350 |
-|      17 | 0x4B97      |       19351 |
+|      15 | 0x4B96      |       19350 |
+|      16 | 0x4B97      |       19351 |
+|      17 | 0x4B98      |       19352 |
 |      18 | 0x0004      |           4 |
-|      19 | 0x4B98      |       19352 |
-|      20 | 0x4B99      |       19353 |
-|      21 | 0x4B9A      |       19354 |
-|      22 | 0x4B9B      |       19355 |
+|      19 | 0x4B99      |       19353 |
+|      20 | 0x4B9A      |       19354 |
+|      21 | 0x4B9B      |       19355 |
+|      22 | 0x4B9C      |       19356 |
 
 ## String References
 
-- **19338**: A manual describing proper chat manners floats in front of you.
-- **19339**: Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]
-- **19340**: Perhaps consider starting with a simple greeting. Something like...
-- **19341**: "Hello, everyone. My name's <Player>. Nice to meet you!"
-- **19342**: Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you.
-- **19343**: No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot.
-- **19344**: When speaking with others, it's critical to listen and be mindful of what they say.
-- **19345**: Always talking and never listening may come across as rude.
-- **19346**: Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message.
-- **19347**: It also helps to be clear and concise.
-- **19348**: Being vague might cause others to get the wrong impression.
-- **19349**: Be extremely careful when giving out personal information such as your address or telephone number.
-- **19350**: Furthermore, refrain from making disparaging or aggressive remarks.
-- **19351**: Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment.
-- **19352**: After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members.
-- **19353**: One of your options in such a situation is to inform the linkshell leader and then leave.
-- **19354**: Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals.
-- **19355**: Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel.
+- **19339**: A manual describing proper chat manners floats in front of you.
+- **19340**: Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]
+- **19341**: Perhaps consider starting with a simple greeting. Something like...
+- **19342**: "Hello, everyone. My name's <Player>. Nice to meet you!"
+- **19343**: Of course, injecting your own personal flavor may act as a conversation starter and help people to remember you.
+- **19344**: No matter which route you choose, make sure to always remain polite. There is no better way to start a friendship off on the right foot.
+- **19345**: When speaking with others, it's critical to listen and be mindful of what they say.
+- **19346**: Always talking and never listening may come across as rude.
+- **19347**: Another important point is to always be mindful of the listener. How would you feel if someone said that to you? Think carefully before sending someone a message.
+- **19348**: It also helps to be clear and concise.
+- **19349**: Being vague might cause others to get the wrong impression.
+- **19350**: Be extremely careful when giving out personal information such as your address or telephone number.
+- **19351**: Furthermore, refrain from making disparaging or aggressive remarks.
+- **19352**: Once you are close to someone, you may be more comfortable letting your hair down, but it is strongly recommended that you refrain from any actions that may be construed as harassment.
+- **19353**: After joining a linkshell, you may find that you have difficulty participating in conversation or that your personality is too different from the other members.
+- **19354**: One of your options in such a situation is to inform the linkshell leader and then leave.
+- **19355**: Finding a linkshell that is the perfect fit might not always be easy, but there is certainly a group out there that will match your feelings and goals.
+- **19356**: Once you find those kinds of friends, hold them fast and value them as much as they value you. There is no better way to enjoy life in Vana'diel.
 
 ## Events
 
@@ -118,10 +118,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [19338*]:
+  1: 0x000A [0x48] [System] [19339*]:
     → "A manual describing proper chat manners floats in front of you."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=19339*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=19340*, default_option=0*, option_flags=0*)
     → "Read up on which topic? [None for now./I don't know what to talk about./How can I get people to like me?/What shouldn't I do?/What happens if we don't mesh?]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0023

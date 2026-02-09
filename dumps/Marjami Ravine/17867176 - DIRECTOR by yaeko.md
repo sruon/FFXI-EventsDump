@@ -30,58 +30,58 @@
 |       6 | 0x0001      |           1 |
 |       7 | 0x0295      |         661 |
 |       8 | 0x005A      |          90 |
-|       9 | 0x1E49      |        7753 |
+|       9 | 0x1E4A      |        7754 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x1E4A      |        7754 |
+|      11 | 0x1E4B      |        7755 |
 |      12 | 0x003C      |          60 |
-|      13 | 0x1E4B      |        7755 |
-|      14 | 0x1E4C      |        7756 |
-|      15 | 0x1E4D      |        7757 |
-|      16 | 0x1E4E      |        7758 |
-|      17 | 0x1E4F      |        7759 |
-|      18 | 0x1E50      |        7760 |
-|      19 | 0x1E51      |        7761 |
+|      13 | 0x1E4C      |        7756 |
+|      14 | 0x1E4D      |        7757 |
+|      15 | 0x1E4E      |        7758 |
+|      16 | 0x1E4F      |        7759 |
+|      17 | 0x1E50      |        7760 |
+|      18 | 0x1E51      |        7761 |
+|      19 | 0x1E52      |        7762 |
 |      20 | 0x0078      |         120 |
 |      21 | 0x0028      |          40 |
-|      22 | 0x1E52      |        7762 |
-|      23 | 0x1E53      |        7763 |
-|      24 | 0x1E54      |        7764 |
-|      25 | 0x1E55      |        7765 |
-|      26 | 0x1E56      |        7766 |
-|      27 | 0x1E57      |        7767 |
-|      28 | 0x1E58      |        7768 |
+|      22 | 0x1E53      |        7763 |
+|      23 | 0x1E54      |        7764 |
+|      24 | 0x1E55      |        7765 |
+|      25 | 0x1E56      |        7766 |
+|      26 | 0x1E57      |        7767 |
+|      27 | 0x1E58      |        7768 |
+|      28 | 0x1E59      |        7769 |
 |      29 | 0x0005      |           5 |
 |      30 | 0x0006      |           6 |
-|      31 | 0x1E59      |        7769 |
-|      32 | 0x1E5A      |        7770 |
+|      31 | 0x1E5A      |        7770 |
+|      32 | 0x1E5B      |        7771 |
 |      33 | 0x00C9      |         201 |
 |      34 | 0x0002      |           2 |
 |      35 | 0x029B      |         667 |
-|      36 | 0x1E6D      |        7789 |
-|      37 | 0x1E6E      |        7790 |
-|      38 | 0x1E6F      |        7791 |
-|      39 | 0x1E70      |        7792 |
-|      40 | 0x1E71      |        7793 |
+|      36 | 0x1E6E      |        7790 |
+|      37 | 0x1E6F      |        7791 |
+|      38 | 0x1E70      |        7792 |
+|      39 | 0x1E71      |        7793 |
+|      40 | 0x1E72      |        7794 |
 |      41 | 0x0032      |          50 |
-|      42 | 0x1E72      |        7794 |
-|      43 | 0x1E73      |        7795 |
-|      44 | 0x1E74      |        7796 |
-|      45 | 0x1E75      |        7797 |
+|      42 | 0x1E73      |        7795 |
+|      43 | 0x1E74      |        7796 |
+|      44 | 0x1E75      |        7797 |
+|      45 | 0x1E76      |        7798 |
 |      46 | 0x0014      |          20 |
-|      47 | 0x1E76      |        7798 |
-|      48 | 0x1E77      |        7799 |
-|      49 | 0x1E78      |        7800 |
-|      50 | 0x1E79      |        7801 |
-|      51 | 0x1E7A      |        7802 |
-|      52 | 0x1E7B      |        7803 |
-|      53 | 0x1E7C      |        7804 |
-|      54 | 0x1E7D      |        7805 |
-|      55 | 0x1E7E      |        7806 |
-|      56 | 0x1E7F      |        7807 |
+|      47 | 0x1E77      |        7799 |
+|      48 | 0x1E78      |        7800 |
+|      49 | 0x1E79      |        7801 |
+|      50 | 0x1E7A      |        7802 |
+|      51 | 0x1E7B      |        7803 |
+|      52 | 0x1E7C      |        7804 |
+|      53 | 0x1E7D      |        7805 |
+|      54 | 0x1E7E      |        7806 |
+|      55 | 0x1E7F      |        7807 |
+|      56 | 0x1E80      |        7808 |
 |      57 | 0x00BE      |         190 |
-|      58 | 0x1E80      |        7808 |
-|      59 | 0x1E81      |        7809 |
-|      60 | 0x1E82      |        7810 |
+|      58 | 0x1E81      |        7809 |
+|      59 | 0x1E82      |        7810 |
+|      60 | 0x1E83      |        7811 |
 
 ## Events
 
@@ -268,7 +268,7 @@
  23: 0x00B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Scalable Area (ID: 17867183/0x0110A1AF), tag_num=0x03)
  24: 0x00B7 [0x79] LocalPlayer looks at Scalable Area (ID: 17867183/0x0110A1AF) (Basic look)
  25: 0x00C1 [0x1C] WAIT(90* ticks)
- 26: 0x00C4 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7753*]:
+ 26: 0x00C4 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7754*]:
     → "Owwwwww...gaaah!"
  27: 0x00CB [0x1C] WAIT(30* ticks)
  28: 0x00CE [0x4A] LocalPlayer looks at Toppled Tree (ID: 17867177/0x0110A1A9)
@@ -285,7 +285,7 @@
  39: 0x0130 [0x1C] WAIT(90* ticks)
  40: 0x0133 [0x52] END_LOAD_SCHEDULER: End scheduler "s152" with entities [LocalPlayer, LocalPlayer], work=661*
  41: 0x0142 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s153" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
- 42: 0x0153 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7754*]:
+ 42: 0x0153 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7755*]:
     → "<Player>! Don't just stand there, help me outta here!"
  43: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x015B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -308,19 +308,19 @@
  61: 0x01E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s154" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
  62: 0x01F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  63: 0x0203 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 64: 0x0212 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7755*]:
+ 64: 0x0212 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7756*]:
     → "Oh, this is just great. Now we're both stuck in this cursed hole."
  65: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x021A [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
  67: 0x0220 [0x52] END_LOAD_SCHEDULER: End scheduler "s154" with entities [LocalPlayer, LocalPlayer], work=661*
  68: 0x022F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s155" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
  69: 0x0240 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x02)
- 70: 0x0247 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7756*]:
+ 70: 0x0247 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7757*]:
     → "What's that? Yeah, I know we should have been able to climb the ivy with these gloves."
  71: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x024F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x03)
  73: 0x0256 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x04)
- 74: 0x025D [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7757*]:
+ 74: 0x025D [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7758*]:
     → "I figured that all I needed to do was fashion a pair out of the leather you gave me and then just grab on..."
  75: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0265 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x05)
@@ -329,7 +329,7 @@
  79: 0x028C [0x7B] Toppled Tree (ID: 17867177/0x0110A1A9) stops talking
  80: 0x0291 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x16)
  81: 0x0298 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x24)
- 82: 0x029F [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7758*]:
+ 82: 0x029F [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7759*]:
     → "...But things are never that simple, are they? Think you can give me a boost?"
  83: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x02A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -350,16 +350,16 @@
  99: 0x032C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s157" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
 100: 0x033D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 101: 0x034E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-102: 0x035D [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7759*]:
+102: 0x035D [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7760*]:
     → "Ooof... Ow ow ow!"
 103: 0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0365 [0x52] END_LOAD_SCHEDULER: End scheduler "s157" with entities [LocalPlayer, LocalPlayer], work=661*
 105: 0x0374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s158" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
 106: 0x0385 [0x79] Toppled Tree (ID: 17867177/0x0110A1A9) looks at LocalPlayer (Basic look)
-107: 0x038F [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7760*]:
+107: 0x038F [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7761*]:
     → "We made a little bit of progress, I suppose...but I need to be able to do this alone."
 108: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
-109: 0x0397 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7761*]:
+109: 0x0397 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7762*]:
     → "Wait--I've got an idea. Can you stand a couple steps back and watch carefully as I give it another go? Maybe you'll be able to see what I'm doing wrong."
 110: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x039F [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x18)
@@ -382,7 +382,7 @@
 128: 0x0430 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s159" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
 129: 0x0441 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 130: 0x0452 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-131: 0x0461 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7762*]:
+131: 0x0461 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7763*]:
     → "Owww... Not again...<cough>"
 132: 0x0468 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0469 [0x1C] WAIT(90* ticks)
@@ -390,7 +390,7 @@
 135: 0x047D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
 136: 0x048C [0x52] END_LOAD_SCHEDULER: End scheduler "s159" with entities [LocalPlayer, LocalPlayer], work=661*
 137: 0x049B [0x92] LocalPlayer->Render.Flags3 = Flags3  // No change (flag=0)
-138: 0x04A1 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7763*]:
+138: 0x04A1 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7764*]:
     → "I-I think I know what I'm doing wrong, but my back...I think I threw it out <wince>. Here, put these gloves on and see if you can't do better than I did."
 139: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x04A9 [0x1C] WAIT(120* ticks)
@@ -408,10 +408,10 @@
 152: 0x0521 [0x1C] WAIT(30* ticks)
 153: 0x0524 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x11)
 154: 0x052B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x12)
-155: 0x0532 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7764*]:
+155: 0x0532 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7765*]:
     → "Hmm...maybe the problem is that we're too focused on our hands. What if we used our toes to grope about for a sturdy place to anchor ourselves?"
 156: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
-157: 0x053A [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7765*]:
+157: 0x053A [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7766*]:
     → "You've also got better balance than I do. Give it another go."
 158: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0542 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -428,20 +428,20 @@
 170: 0x05C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s161" with entities [LocalPlayer, LocalPlayer], work=661*
 171: 0x05D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s162" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
 172: 0x05E2 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x19)
-173: 0x05E9 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7766*]:
+173: 0x05E9 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7767*]:
     → "Great job, <Player>! You figured out how to do it!"
 174: 0x05F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x05F1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
 176: 0x05F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s162" with entities [LocalPlayer, LocalPlayer], work=661*
 177: 0x0606 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s163" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
 178: 0x0617 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x1A)
-179: 0x061E [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7767*]:
+179: 0x061E [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7768*]:
     → "Take those gloves with you, free of charge--they're bound to come in handy."
 180: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0626 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
 182: 0x062C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x1D)
 183: 0x0633 [0x4A] LocalPlayer looks at Toppled Tree (ID: 17867177/0x0110A1A9)
-184: 0x063C [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7768*]:
+184: 0x063C [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7769*]:
     → "Watching the way you expertly clawed your way out of here gave me the confidence to have another crack at it."
 185: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0644 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -456,10 +456,10 @@
 195: 0x0691 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s164" with entities [LocalPlayer, LocalPlayer], work=[661*, 0*]
 
 SUBROUTINE_06A2:
-196: 0x06A2 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7769*]:
+196: 0x06A2 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7770*]:
     → "I'll be able to climb those rocks as deftly as you once I put on a bit more muscle."
 197: 0x06A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-198: 0x06AA [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7770*]:
+198: 0x06AA [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7771*]:
     → "Feel free to head back to camp, or to continue with your pioneering activities--I'll claw my way out of here somehow. Best of luck, <Player>!"
 199: 0x06B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x06B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -654,10 +654,10 @@ SUBROUTINE_0715:
  24: 0x07E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  25: 0x07F5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  26: 0x0804 [0x27] REQ_SET(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x13)
- 27: 0x080B [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7789*]:
+ 27: 0x080B [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7790*]:
     → "How did everything go? Do you rrremember who I am? More importantly, do you remember who you are?"
  28: 0x0812 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0813 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7790*]:
+ 29: 0x0813 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7791*]:
     → "Hoho, that was a little joke. But better you see me in that state than those Velkk, hmm?"
  30: 0x081A [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x081B [0x2A] GET_REQ_LEVEL(level=8, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB))
@@ -672,14 +672,14 @@ SUBROUTINE_0715:
 
 SUBROUTINE_0879:
  40: 0x0879 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x09)
- 41: 0x0880 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7791*]:
+ 41: 0x0880 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7792*]:
     → "So tell me--what have you learrrned?"
  42: 0x0887 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0888 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0A)
  44: 0x088F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0B)
  45: 0x0896 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x29)
  46: 0x089D [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x2A)
- 47: 0x08A4 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7792*]:
+ 47: 0x08A4 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7793*]:
     → "Hey, Udip! What kind of sick mind do you have to make this [man/woman] do your dangerous research for you?"
  48: 0x08AB [0x1C] WAIT(30* ticks)
  49: 0x08AE [0x79] Udip Ferawoh (ID: 17867179/0x0110A1AB) looks at Toppled Tree (ID: 17867177/0x0110A1A9) (Basic look)
@@ -702,7 +702,7 @@ SUBROUTINE_08FE:
  64: 0x0928 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=667*
  65: 0x0937 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
  66: 0x0948 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0949 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7793*]:
+ 67: 0x0949 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7794*]:
     → "C'mon, we've got to clean our friend up!"
  68: 0x0950 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0951 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
@@ -714,11 +714,11 @@ SUBROUTINE_08FE:
  75: 0x098B [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  76: 0x0991 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
  77: 0x0997 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x13)
- 78: 0x099E [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7794*]:
+ 78: 0x099E [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7795*]:
     → "What odd wounds... You say you got them from the protuberances, right?"
  79: 0x09A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x09A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x14)
- 81: 0x09AD [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7795*]:
+ 81: 0x09AD [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7796*]:
     → "Hmm, hmm. Interesting. We've seen Velkk hide with similar markings."
  82: 0x09B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x09B5 [0x4A] LocalPlayer looks at Udip Ferawoh (ID: 17867179/0x0110A1AB)
@@ -736,12 +736,12 @@ SUBROUTINE_0A16:
  93: 0x0A1C [0x79] LocalPlayer looks at Udip Ferawoh (ID: 17867179/0x0110A1AB) (Basic look)
  94: 0x0A26 [0x79] Toppled Tree (ID: 17867177/0x0110A1A9) looks at Udip Ferawoh (ID: 17867179/0x0110A1AB) (Basic look)
  95: 0x0A30 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x2C)
- 96: 0x0A37 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7796*]:
+ 96: 0x0A37 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7797*]:
     → "But that would be Trrree's specialty, wouldn't it?"
  97: 0x0A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0A3F [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
  99: 0x0A45 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0D)
-100: 0x0A4C [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7797*]:
+100: 0x0A4C [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7798*]:
     → "Currriouser and currriouser. Do you suppose the Velkk have a habit of falling into their own traps?"
 101: 0x0A53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0A54 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x0E)
@@ -767,7 +767,7 @@ SUBROUTINE_0AB8:
 120: 0x0AEB [0x4A] Udip Ferawoh (ID: 17867179/0x0110A1AB) looks at Orsa-Porsa (ID: 17867180/0x0110A1AC)
 121: 0x0AF4 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC))
 122: 0x0AFA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x04)
-123: 0x0B01 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7798*]:
+123: 0x0B01 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7799*]:
     → "You betaru! Those protuberances don't care who gets close. They're equal opportunity assailants!"
 124: 0x0B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0B09 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x05)
@@ -775,7 +775,7 @@ SUBROUTINE_0AB8:
 127: 0x0B1F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
 128: 0x0B30 [0x79] Udip Ferawoh (ID: 17867179/0x0110A1AB) looks at Orsa-Porsa (ID: 17867180/0x0110A1AC) (Basic look)
 129: 0x0B3A [0x27] REQ_SET(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x11)
-130: 0x0B41 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7799*]:
+130: 0x0B41 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7800*]:
     → "Orsa-Porsa!"
 131: 0x0B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0B49 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB))
@@ -784,10 +784,10 @@ SUBROUTINE_0AB8:
 135: 0x0B6F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x2D)
 136: 0x0B76 [0x7B] Orsa-Porsa (ID: 17867180/0x0110A1AC) stops talking
 137: 0x0B7B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x0E)
-138: 0x0B82 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7800*]:
+138: 0x0B82 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7801*]:
     → "I leave you alone for two minutarus, and just look at these juicy tidbits you dig up!"
 139: 0x0B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x0B8A [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7801*]:
+140: 0x0B8A [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7802*]:
     → "And now here we are, your eyes glintaruing like you want to ask something of the master Velkk researcher."
 141: 0x0B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0B92 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x0F)
@@ -796,7 +796,7 @@ SUBROUTINE_0AB8:
 145: 0x0BB9 [0x4A] LocalPlayer looks at Orsa-Porsa (ID: 17867180/0x0110A1AC)
 146: 0x0BC2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x10)
 147: 0x0BC9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x01)
-148: 0x0BD0 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7802*]:
+148: 0x0BD0 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7803*]:
     → "Well, since you're here... Have you ever seen a Velkk get caught in one of their own trrraps?"
 149: 0x0BD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0BD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x02)
@@ -808,18 +808,18 @@ SUBROUTINE_0AB8:
 156: 0x0BFD [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=667*
 157: 0x0C0C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
 158: 0x0C1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x04)
-159: 0x0C24 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7803*]:
+159: 0x0C24 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7804*]:
     → "You betaru your life! With my own two eyes!"
 160: 0x0C2B [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0C2C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x05)
 162: 0x0C33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x0A)
-163: 0x0C3A [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7804*]:
+163: 0x0C3A [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7805*]:
     → "I saw one with his eyes blinking faster than a heartwing flapping its, err...wings! And a spiky vine was wrappy-wapped around his legs! You should've seen the jig he was dancing!"
 164: 0x0C41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x0C42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x0B)
 166: 0x0C49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x03)
 167: 0x0C50 [0x27] REQ_SET(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x11)
-168: 0x0C57 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7805*]:
+168: 0x0C57 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7806*]:
     → "Nyah-hah! That must be how they free themselves from the spinescent prrrotuberances!"
 169: 0x0C5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0C5F [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=667*
@@ -827,7 +827,7 @@ SUBROUTINE_0AB8:
 172: 0x0C7F [0x4A] Orsa-Porsa (ID: 17867180/0x0110A1AC) looks at Toppled Tree (ID: 17867177/0x0110A1A9)
 173: 0x0C88 [0x79] Udip Ferawoh (ID: 17867179/0x0110A1AB) looks at Toppled Tree (ID: 17867177/0x0110A1A9) (Basic look)
 174: 0x0C92 [0x27] REQ_SET(priority=0x08, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9), tag_num=0x2E)
-175: 0x0C99 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7806*]:
+175: 0x0C99 [0x2B] Toppled Tree (ID: 17867177/0x0110A1A9) [7807*]:
     → "Hey, O-P, you gotta tell us these things up front! Just what was he doing?"
 176: 0x0CA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0CA1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Toppled Tree (ID: 17867177/0x0110A1A9))
@@ -836,7 +836,7 @@ SUBROUTINE_0AB8:
 180: 0x0CBC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
 181: 0x0CCD [0x7B] Orsa-Porsa (ID: 17867180/0x0110A1AC) stops talking
 182: 0x0CD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Orsa-Porsa (ID: 17867180/0x0110A1AC), tag_num=0x0C)
-183: 0x0CD9 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7807*]:
+183: 0x0CD9 [0x2B] Orsa-Porsa (ID: 17867180/0x0110A1AC) [7808*]:
     → "It went something like this...!"
 184: 0x0CE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0CE1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -860,7 +860,7 @@ SUBROUTINE_0AB8:
 203: 0x0D8F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=[667*, 0*]
 204: 0x0DA0 [0x79] LocalPlayer looks at Udip Ferawoh (ID: 17867179/0x0110A1AB) (Basic look)
 205: 0x0DAA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x01)
-206: 0x0DB1 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7808*]:
+206: 0x0DB1 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7809*]:
     → "Wow, to think I'd ever get to bear witness to such a rrremarkable display of dancing prowess! And he made it look so easy, too. Right, <Player>?"
 207: 0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0DB9 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=667*
@@ -875,12 +875,12 @@ SUBROUTINE_0AB8:
 SUBROUTINE_0E11:
 216: 0x0E11 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x02)
 217: 0x0E18 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x03)
-218: 0x0E1F [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7809*]:
+218: 0x0E1F [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7810*]:
     → "Now those pesky protuberances will be nothing more than a small bump in the rrroad of progress!"
 219: 0x0E26 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x0E27 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x04)
 221: 0x0E2E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Udip Ferawoh (ID: 17867179/0x0110A1AB), tag_num=0x05)
-222: 0x0E35 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7810*]:
+222: 0x0E35 [0x2B] Udip Ferawoh (ID: 17867179/0x0110A1AB) [7811*]:
     → "And what's more, we've got you to thank for this breakthrrrough. Much obliged!"
 223: 0x0E3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x0E3D [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)

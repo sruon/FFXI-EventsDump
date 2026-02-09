@@ -53,30 +53,30 @@
 |      15 | 0x17736     |       96054 |
 |      16 | 0xC9E8      |       51688 |
 |      17 | 0x001E      |          30 |
-|      18 | 0x2B81      |       11137 |
+|      18 | 0x2B82      |       11138 |
 |      19 | 0x0015      |          21 |
-|      20 | 0x2B82      |       11138 |
+|      20 | 0x2B83      |       11139 |
 |      21 | 0x0014      |          20 |
-|      22 | 0x2B83      |       11139 |
+|      22 | 0x2B84      |       11140 |
 |      23 | 0x001B      |          27 |
-|      24 | 0x2B85      |       11141 |
-|      25 | 0x2B86      |       11142 |
-|      26 | 0x2B84      |       11140 |
+|      24 | 0x2B86      |       11142 |
+|      25 | 0x2B87      |       11143 |
+|      26 | 0x2B85      |       11141 |
 |      27 | 0x0030      |          48 |
-|      28 | 0x2B87      |       11143 |
-|      29 | 0x2B88      |       11144 |
+|      28 | 0x2B88      |       11144 |
+|      29 | 0x2B89      |       11145 |
 |      30 | 0x00F0      |         240 |
 
 ## String References
 
-- **11137**: Only in a p-place like this c-can a m-m-m-man like m-m-m-me hide from the ridicule of the w-world.
-- **11138**: Hm? Oh...um... Yes... Pay n-no heed t-to m-m-m-y ramblings...
-- **11139**: I thought that in a p-place like this, I m-m-m-might be able to hide from the r-ridicule of the w-world. However, n-now that Tavnazia has reopened its doors to the outside...
-- **11140**: B-but... You understand...r-right? No?
-- **11141**: I never really needed a mannequin to remind me how beautiful my Alsha was...is.
-- **11142**: That's right. From now on, she'll be here, right by my side...
-- **11143**: Are you trying to tell me you have lost...?
-- **11144**: Here. You must learn to cherish them with all you heart.
+- **11138**: Only in a p-place like this c-can a m-m-m-man like m-m-m-me hide from the ridicule of the w-world.
+- **11139**: Hm? Oh...um... Yes... Pay n-no heed t-to m-m-m-y ramblings...
+- **11140**: I thought that in a p-place like this, I m-m-m-might be able to hide from the r-ridicule of the w-world. However, n-now that Tavnazia has reopened its doors to the outside...
+- **11141**: B-but... You understand...r-right? No?
+- **11142**: I never really needed a mannequin to remind me how beautiful my Alsha was...is.
+- **11143**: That's right. From now on, she'll be here, right by my side...
+- **11144**: Are you trying to tell me you have lost...?
+- **11145**: Here. You must learn to cherish them with all you heart.
 
 ## Events
 
@@ -344,11 +344,11 @@
 ```
   0: 0x0057 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005C [0x1C] WAIT(30* ticks)
-  2: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=11137*)
+  2: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=11138*)
     → "Only in a p-place like this c-can a m-m-m-man like m-m-m-me hide from the ridicule of the w-world."
   3: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=21*
-  5: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11138*)
+  5: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=11139*)
     → "Hm? Oh...um... Yes... Pay n-no heed t-to m-m-m-y ramblings..."
   6: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0076 [0x1C] WAIT(30* ticks)
@@ -381,10 +381,10 @@
   0: 0x007B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0080 [0x1C] WAIT(30* ticks)
   2: 0x0083 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=20*
-  3: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11139*)
+  3: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=11140*)
     → "I thought that in a p-place like this, I m-m-m-might be able to hide from the r-ridicule of the w-world. However, n-now that Tavnazia has reopened its doors to the outside..."
   4: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=11138*)
+  5: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=11139*)
     → "Hm? Oh...um... Yes... Pay n-no heed t-to m-m-m-y ramblings..."
   6: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=20*
@@ -419,10 +419,10 @@
   0: 0x00AE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B3 [0x1C] WAIT(30* ticks)
   2: 0x00B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=27*
-  3: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11141*)
+  3: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11142*)
     → "I never really needed a mannequin to remind me how beautiful my Alsha was...is."
   4: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11142*)
+  5: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11143*)
     → "That's right. From now on, she'll be here, right by my side..."
   6: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=27*
@@ -453,11 +453,11 @@
 
 ```
   0: 0x00E1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11137*)
+  1: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11138*)
     → "Only in a p-place like this c-can a m-m-m-man like m-m-m-me hide from the ridicule of the w-world."
   2: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=21*
-  4: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11140*)
+  4: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11141*)
     → "B-but... You understand...r-right? No?"
   5: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00FD [0x1C] WAIT(30* ticks)
@@ -489,10 +489,10 @@
 ```
   0: 0x0102 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0107 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=20*
-  2: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=11139*)
+  2: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=11140*)
     → "I thought that in a p-place like this, I m-m-m-might be able to hide from the r-ridicule of the w-world. However, n-now that Tavnazia has reopened its doors to the outside..."
   3: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=11140*)
+  4: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=11141*)
     → "B-but... You understand...r-right? No?"
   5: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x011E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=20*
@@ -565,10 +565,10 @@
 
 ```
   0: 0x0188 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11143*)
+  1: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11144*)
     → "Are you trying to tell me you have lost...?"
   2: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=11144*)
+  3: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=11145*)
     → "Here. You must learn to cherish them with all you heart."
   4: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0195 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Enaremand (ID: 16883839/0x0101A07F), Enaremand (ID: 16883839/0x0101A07F)], work=20*

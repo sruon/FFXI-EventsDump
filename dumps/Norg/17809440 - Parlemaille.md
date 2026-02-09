@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x286B      |       10347 |
-|       1 | 0x286C      |       10348 |
+|       0 | 0x286C      |       10348 |
+|       1 | 0x286D      |       10349 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x000A      |          10 |
 |       4 | 0x0014      |          20 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **10347**: The jungle that covers this island is so big, it's been divided into two--the Yhoator Jungle and the Yuhtunga Jungle.
-- **10348**: I wouldn't recommend traveling without a map, since you could get lost, or...eaten. Remember, it's a jungle out there. Har har! Get it?
+- **10348**: The jungle that covers this island is so big, it's been divided into two--the Yhoator Jungle and the Yuhtunga Jungle.
+- **10349**: I wouldn't recommend traveling without a map, since you could get lost, or...eaten. Remember, it's a jungle out there. Har har! Get it?
 
 ## Events
 
@@ -98,10 +98,10 @@
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x0011)
   1: 0x0004 [0x1A] CALL_SUBROUTINE(address=0x004F)
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10347*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10348*)
     → "The jungle that covers this island is so big, it's been divided into two--the Yhoator Jungle and the Yuhtunga Jungle."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10348*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10349*)
     → "I wouldn't recommend traveling without a map, since you could get lost, or...eaten. Remember, it's a jungle out there. Har har! Get it?"
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000F [0x21] END_EVENT

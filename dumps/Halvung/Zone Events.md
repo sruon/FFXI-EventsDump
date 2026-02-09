@@ -37,26 +37,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EE8      |        7912 |
+|       0 | 0x1EE9      |        7913 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x001B      |          27 |
 |       4 | 0x00FD      |         253 |
 |       5 | 0x003C      |          60 |
-|       6 | 0x1EE9      |        7913 |
-|       7 | 0x1EEA      |        7914 |
-|       8 | 0x1EEB      |        7915 |
-|       9 | 0x1EEC      |        7916 |
+|       6 | 0x1EEA      |        7914 |
+|       7 | 0x1EEB      |        7915 |
+|       8 | 0x1EEC      |        7916 |
+|       9 | 0x1EED      |        7917 |
 |      10 | 0x0001      |           1 |
 |      11 | 0x0078      |         120 |
 |      12 | 0x00FE      |         254 |
-|      13 | 0x1EED      |        7917 |
+|      13 | 0x1EEE      |        7918 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x1EEE      |        7918 |
+|      15 | 0x1EEF      |        7919 |
 |      16 | 0x0003      |           3 |
-|      17 | 0x1EEF      |        7919 |
-|      18 | 0x1EF0      |        7920 |
-|      19 | 0x1EF1      |        7921 |
+|      17 | 0x1EF0      |        7920 |
+|      18 | 0x1EF1      |        7921 |
+|      19 | 0x1EF2      |        7922 |
 |      20 | 0x5763A     |      357946 |
 |      21 | 0x49391     |      299921 |
 |      22 | 0x1000      |        4096 |
@@ -85,8 +85,8 @@
 |      45 | 0x0010      |          16 |
 |      46 | 0x001F      |          31 |
 |      47 | 0xFFFFFFFF  |  4294967295 |
-|      48 | 0x1EE4      |        7908 |
-|      49 | 0x1D19      |        7449 |
+|      48 | 0x1EE5      |        7909 |
+|      49 | 0x1D1A      |        7450 |
 |      50 | 0x00FF      |         255 |
 |      51 | 0x0013      |          19 |
 |      52 | 0x0004      |           4 |
@@ -94,9 +94,9 @@
 |      54 | 0x493E0     |      300000 |
 |      55 | 0xFFF9CE10  |  4294561296 |
 |      56 | 0x4C90      |       19600 |
-|      57 | 0x1D24      |        7460 |
+|      57 | 0x1D25      |        7461 |
 |      58 | 0x0005      |           5 |
-|      59 | 0x1D4B      |        7499 |
+|      59 | 0x1D4C      |        7500 |
 |      60 | 0x0006      |           6 |
 |      61 | 0x0007      |           7 |
 |      62 | 0x0009      |           9 |
@@ -115,11 +115,11 @@
 |      75 | 0x001C      |          28 |
 |      76 | 0x001D      |          29 |
 |      77 | 0x001E      |          30 |
-|      78 | 0x1E80      |        7808 |
+|      78 | 0x1E81      |        7809 |
 |      79 | 0x0064      |         100 |
-|      80 | 0x1E6C      |        7788 |
+|      80 | 0x1E6D      |        7789 |
 |      81 | 0x008F      |         143 |
-|      82 | 0x1D1C      |        7452 |
+|      82 | 0x1D1D      |        7453 |
 |      83 | 0x00C9      |         201 |
 |      84 | 0xFFFA2BD0  |  4294585296 |
 |      85 | 0x49D4      |       18900 |
@@ -165,40 +165,40 @@
 |     125 | 0x5E8E      |       24206 |
 |     126 | 0x01B5      |         437 |
 |     127 | 0x00D9      |         217 |
-|     128 | 0x1EE6      |        7910 |
+|     128 | 0x1EE7      |        7911 |
 |     129 | 0x005A      |          90 |
 |     130 | 0x0321      |         801 |
 |     131 | 0x0322      |         802 |
-|     132 | 0x1EE7      |        7911 |
+|     132 | 0x1EE8      |        7912 |
 |     133 | 0x006C      |         108 |
 |     134 | 0x0073      |         115 |
 |     135 | 0x008B      |         139 |
-|     136 | 0x1D1A      |        7450 |
+|     136 | 0x1D1B      |        7451 |
 |     137 | 0xFFF9D5E0  |  4294563296 |
 |     138 | 0x4C2C      |       19500 |
 
 ## String References
 
-- **7449**: Enter the battlefield? [Enter./Decline.]
-- **7450**: Leave the battlefield? [Run away./Stay.]
-- **7452**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7460**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7499**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7788**: Skip the event? [Yes./No.]
-- **7808**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7908**: Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]
-- **7910**: You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate...
-- **7911**: The pictographs on the $3 and $3 fade away without a trace...
-- **7912**: Choose a picture to take.
-- **7913**: First scene.
-- **7914**: Second scene.
-- **7915**: Third scene.
-- **7916**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
-- **7917**: <Player> records the first scene.
-- **7918**: <Player> records the second scene.
-- **7919**: <Player> records the third scene.
-- **7920**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
-- **7921**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+- **7450**: Enter the battlefield? [Enter./Decline.]
+- **7451**: Leave the battlefield? [Run away./Stay.]
+- **7453**: You cannot enter the battlefield at present. Please wait a little longer.
+- **7461**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7500**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7789**: Skip the event? [Yes./No.]
+- **7809**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7909**: Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]
+- **7911**: You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate...
+- **7912**: The pictographs on the $3 and $3 fade away without a trace...
+- **7913**: Choose a picture to take.
+- **7914**: First scene.
+- **7915**: Second scene.
+- **7916**: Third scene.
+- **7917**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+- **7918**: <Player> records the first scene.
+- **7919**: <Player> records the second scene.
+- **7920**: <Player> records the third scene.
+- **7921**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+- **7922**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
 
 ## Events
 
@@ -311,7 +311,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7912*]:
+  1: 0x0003 [0x48] [System] [7913*]:
     → "Choose a picture to take."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -325,7 +325,7 @@
  11: 0x0050 [0x1C] WAIT(60* ticks)
  12: 0x0053 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0064 [0x1C] WAIT(60* ticks)
- 14: 0x0067 [0x48] [System] [7913*]:
+ 14: 0x0067 [0x48] [System] [7914*]:
     → "First scene."
  15: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x006B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -335,7 +335,7 @@
  20: 0x00AB [0x1C] WAIT(60* ticks)
  21: 0x00AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x00BF [0x1C] WAIT(60* ticks)
- 23: 0x00C2 [0x48] [System] [7914*]:
+ 23: 0x00C2 [0x48] [System] [7915*]:
     → "Second scene."
  24: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -345,10 +345,10 @@
  29: 0x0106 [0x1C] WAIT(60* ticks)
  30: 0x0109 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x011A [0x1C] WAIT(60* ticks)
- 32: 0x011D [0x48] [System] [7915*]:
+ 32: 0x011D [0x48] [System] [7916*]:
     → "Third scene."
  33: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0121 [0x24] CREATE_DIALOG(message_id=7916*, default_option=0*, option_flags=0*)
+ 34: 0x0121 [0x24] CREATE_DIALOG(message_id=7917*, default_option=0*, option_flags=0*)
     → "Which picture will you take? [Show me again./First scene./Second scene./Third scene.]"
  35: 0x0128 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0129 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0134
@@ -363,7 +363,7 @@
  45: 0x0190 [0x1C] WAIT(120* ticks)
  46: 0x0193 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  47: 0x01A4 [0x1C] WAIT(120* ticks)
- 48: 0x01A7 [0x48] [System] [7917*]:
+ 48: 0x01A7 [0x48] [System] [7918*]:
     → "<Player> records the first scene."
  49: 0x01AA [0x03] ExtData[1]->WorkLocal[0] = 1*
  50: 0x01AF [0x03] Work_Zone[1] = 1*
@@ -378,7 +378,7 @@
  59: 0x0213 [0x1C] WAIT(120* ticks)
  60: 0x0216 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  61: 0x0227 [0x1C] WAIT(120* ticks)
- 62: 0x022A [0x48] [System] [7918*]:
+ 62: 0x022A [0x48] [System] [7919*]:
     → "<Player> records the second scene."
  63: 0x022D [0x03] ExtData[1]->WorkLocal[0] = 1*
  64: 0x0232 [0x03] Work_Zone[1] = 2*
@@ -387,7 +387,7 @@
  67: 0x0242 [0x1C] WAIT(120* ticks)
  68: 0x0245 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  69: 0x0256 [0x1C] WAIT(120* ticks)
- 70: 0x0259 [0x48] [System] [7919*]:
+ 70: 0x0259 [0x48] [System] [7920*]:
     → "<Player> records the third scene."
  71: 0x025C [0x03] ExtData[1]->WorkLocal[0] = 1*
  72: 0x0261 [0x03] Work_Zone[1] = 3*
@@ -426,7 +426,7 @@ SUBROUTINE_0269:
 #### Opcodes
 
 ```
-  0: 0x02D1 [0x48] [System] [7920*]:
+  0: 0x02D1 [0x48] [System] [7921*]:
     → "<Player> takes in the surrounding scenery. ...The view is breathtaking."
   1: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D5 [0x21] END_EVENT
@@ -452,7 +452,7 @@ SUBROUTINE_0269:
 #### Opcodes
 
 ```
-  0: 0x02D7 [0x48] [System] [7921*]:
+  0: 0x02D7 [0x48] [System] [7922*]:
     → "<Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture."
   1: 0x02DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DB [0x21] END_EVENT
@@ -825,7 +825,7 @@ SUBROUTINE_0269:
  10: 0x0389 [0x03] ExtData[1]->WorkLocal[9] = 4294967295*
  11: 0x038E [0x0F] ExtData[1]->WorkLocal[9] ^= ExtData[1]->WorkLocal[7]
  12: 0x0393 [0x10] ExtData[1]->WorkLocal[9] <<= 1*
- 13: 0x0398 [0x24] CREATE_DIALOG(message_id=7908*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+ 13: 0x0398 [0x24] CREATE_DIALOG(message_id=7909*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Which battlefield will you enter? [None./Halvung Invasion././././././././././././././././././././././././././././././]"
  14: 0x039F [0x25] WAIT_DIALOG_SELECT()
  15: 0x03A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AE
@@ -880,7 +880,7 @@ SUBROUTINE_0488:
  56: 0x04BA [0x01] GOTO 0x09D0
  57: 0x04BD [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x04DA
  58: 0x04C5 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x04D4
- 59: 0x04CD [0x48] [System] [7460*]:
+ 59: 0x04CD [0x48] [System] [7461*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  60: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x04D1 [0x01] GOTO 0x04D4
@@ -889,7 +889,7 @@ SUBROUTINE_04D4:
  62: 0x04D4 [0x01] GOTO 0x09E7
 
 SUBROUTINE_06E4:
- 63: 0x06E4 [0x48] [System] [7808*]:
+ 63: 0x06E4 [0x48] [System] [7809*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
  64: 0x06E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x06E8 [0x01] GOTO 0x09E7
@@ -897,7 +897,7 @@ SUBROUTINE_06E4:
 SUBROUTINE_0728:
  66: 0x0728 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x074E
  67: 0x0730 [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x074E
- 68: 0x0738 [0x24] CREATE_DIALOG(message_id=7788*, default_option=1*, option_flags=0*)
+ 68: 0x0738 [0x24] CREATE_DIALOG(message_id=7789*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  69: 0x073F [0x25] WAIT_DIALOG_SELECT()
  70: 0x0740 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x074E
@@ -1033,7 +1033,7 @@ SUBROUTINE_09D0:
 192: 0x09D3 [0x02] IF !(0* == 1*) GOTO 0x09E0
 193: 0x09DB [0x03] ExtData[1]->WorkLocal[1] = 2*
 194: 0x09E0 [0x01] GOTO 0x0439
-195: 0x09E3 [0x48] [System] [7452*]:
+195: 0x09E3 [0x48] [System] [7453*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 196: 0x09E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1219,7 +1219,7 @@ SUBROUTINE_0BA9:
  26: 0x0BA9 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
  27: 0x0BAC [0x02] IF !(ExtData[1]->WorkLocal[20] == 1*) GOTO 0x0C0B
  28: 0x0BB4 [0x1C] WAIT(15* ticks)
- 29: 0x0BB7 [0x24] CREATE_DIALOG(message_id=7788*, default_option=1*, option_flags=0*)
+ 29: 0x0BB7 [0x24] CREATE_DIALOG(message_id=7789*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  30: 0x0BBE [0x25] WAIT_DIALOG_SELECT()
  31: 0x0BBF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C0B
@@ -1490,7 +1490,7 @@ SUBROUTINE_0E5E:
 
 ```
 # Dead code (unreachable instructions):
-     0x0EA4 [0x24] CREATE_DIALOG(message_id=7449*, default_option=1*, option_flags=0*)
+     0x0EA4 [0x24] CREATE_DIALOG(message_id=7450*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0EAB [0x25] WAIT_DIALOG_SELECT()
      0x0EAC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EBA
@@ -1507,7 +1507,7 @@ SUBROUTINE_0E5E:
      0x0EDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bc62" with entities [LocalPlayer, LocalPlayer], work=[217*, 0*]
      0x0EF0 [0x1C] WAIT(10* ticks)
      0x0EF3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-     0x0F04 [0x48] [System] [7910*]:
+     0x0F04 [0x48] [System] [7911*]:
     → "You rap on the gate using the pattern you see on the two musical scores. After a time, you hear the creaking sound of a heavy bar being lifted on the other side of the gate..."
      0x0F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F08 [0x27] REQ_SET(priority=0x03, entity_id=Decorative Bronze Gate (ID: 17031693/0x0103E20D), tag_num=0x03)
@@ -1519,7 +1519,7 @@ SUBROUTINE_0E5E:
      0x0F26 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Decorative Bronze Gate (ID: 17031693/0x0103E20D))
      0x0F2C [0x03] Work_Zone[2] = 801*
      0x0F31 [0x03] Work_Zone[3] = 802*
-     0x0F36 [0x48] [System] [7911*]:
+     0x0F36 [0x48] [System] [7912*]:
     → "The pictographs on the $3 and $3 fade away without a trace..."
      0x0F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F3A [0x92] LocalPlayer->Render.Flags3 ^= 0x01
@@ -1552,7 +1552,7 @@ SUBROUTINE_0E5E:
      0x1012 [0x1C] WAIT(120* ticks)
      0x1015 [0x46] CAMERA_CONTROL: Restore default settings
      0x1017 [0x1B] RETURN
-     0x1018 [0x24] CREATE_DIALOG(message_id=7450*, default_option=1*, option_flags=0*)
+     0x1018 [0x24] CREATE_DIALOG(message_id=7451*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x101F [0x25] WAIT_DIALOG_SELECT()
      0x1020 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x102E

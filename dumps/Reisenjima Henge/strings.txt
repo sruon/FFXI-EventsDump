@@ -1,5 +1,5 @@
 # Strings for Reisenjima Henge
-# Total: 7368 strings
+# Total: 7369 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7065,89 +7065,89 @@
  7061: Vana'Bout No. $0 has concluded.
  7062: Obtained temporary item: $0.
  7063: Lost temporary item: $0.
- 7064: Tallying conquest results...
- 7065: Conquest results tallied.
- 7066: This region is currently under San d'Orian control.
- 7067: This region is currently under Bastokan control.
- 7068: This region is currently under Windurstian control.
- 7069: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7070: This region is currently neutral.
- 7071: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7072: All three nations are tied for first place.
- 7073: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7074: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7075: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7088: Global balance of power: All three nations are tied for first place.
- 7089: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7090: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7092: All three nations are tied for first place.
- 7093: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7095: Conquest update: This region is currently neutral.
- 7096: Conquest update: This region is currently under San d'Orian control.
- 7097: Conquest update: This region is currently under Bastokan control.
- 7098: Conquest update: This region is currently under Windurstian control.
- 7099: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7100: All three nations are at a deadlock.
- 7101: The beastmen are on the rise.
- 7102: Regional influence: San d'Oria - Dominant
- 7103: Regional influence: San d'Oria - Major
- 7104: Regional influence: San d'Oria - Minor
- 7105: Regional influence: San d'Oria - Minimal
- 7106: Bastok - Dominant
- 7107: Bastok - Major
- 7108: Bastok - Minor
- 7109: Bastok - Minimal
- 7110: Windurst - Dominant
- 7111: Windurst - Major
- 7112: Windurst - Minor
- 7113: Windurst - Minimal
- 7114: Bastok and Windurst have formed an alliance.
- 7115: San d'Oria and Windurst have formed an alliance.
- 7116: San d'Oria and Bastok have formed an alliance.
- 7117: Bastok and Windurst are currently allies.
- 7118: San d'Oria and Windurst are currently allies.
- 7119: San d'Oria and Bastok are currently allies.
- 7120: $10$P11.$17F$0 $P14;$P12hF$1
- 7121: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7122: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7123: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7124: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7125: The beastmen are gaining power.
- 7126: San d'Oria's regional control is now 10% closer to the first place country's!
- 7127: Bastok's regional control is now 10% closer to the first place country's!
- 7128: Windurst's regional control are now 10% closer to the first place country's!
- 7129: San d'Oria's region points have increased!
- 7130: Bastok's region points have increased!
- 7131: Windurst's region points have increased!
- 7132: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7133: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7134: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7135: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7136: A Bastokan Expeditionary Force has been dispatched to this area.
- 7137: A Windurstian Expeditionary Force has been dispatched to this area.
- 7138: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7139: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7140: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7141: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7142: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7143: There was a curse on the beastmen's banner!
- 7144: The curse of the beastmen's banner has been lifted!
- 7145: There is a beastmen's banner.
- 7146: @
+ 7064: It won't open.
+ 7065: Tallying conquest results...
+ 7066: Conquest results tallied.
+ 7067: This region is currently under San d'Orian control.
+ 7068: This region is currently under Bastokan control.
+ 7069: This region is currently under Windurstian control.
+ 7070: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7071: This region is currently neutral.
+ 7072: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7073: All three nations are tied for first place.
+ 7074: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7075: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7089: Global balance of power: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7093: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7096: Conquest update: This region is currently neutral.
+ 7097: Conquest update: This region is currently under San d'Orian control.
+ 7098: Conquest update: This region is currently under Bastokan control.
+ 7099: Conquest update: This region is currently under Windurstian control.
+ 7100: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7101: All three nations are at a deadlock.
+ 7102: The beastmen are on the rise.
+ 7103: Regional influence: San d'Oria - Dominant
+ 7104: Regional influence: San d'Oria - Major
+ 7105: Regional influence: San d'Oria - Minor
+ 7106: Regional influence: San d'Oria - Minimal
+ 7107: Bastok - Dominant
+ 7108: Bastok - Major
+ 7109: Bastok - Minor
+ 7110: Bastok - Minimal
+ 7111: Windurst - Dominant
+ 7112: Windurst - Major
+ 7113: Windurst - Minor
+ 7114: Windurst - Minimal
+ 7115: Bastok and Windurst have formed an alliance.
+ 7116: San d'Oria and Windurst have formed an alliance.
+ 7117: San d'Oria and Bastok have formed an alliance.
+ 7118: Bastok and Windurst are currently allies.
+ 7119: San d'Oria and Windurst are currently allies.
+ 7120: San d'Oria and Bastok are currently allies.
+ 7121: $10$P11.$17F$0 $P14;$P12hF$1
+ 7122: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7123: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7124: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7125: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7126: The beastmen are gaining power.
+ 7127: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7128: Bastok's regional control is now 10% closer to the first place country's!
+ 7129: Windurst's regional control are now 10% closer to the first place country's!
+ 7130: San d'Oria's region points have increased!
+ 7131: Bastok's region points have increased!
+ 7132: Windurst's region points have increased!
+ 7133: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7134: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7135: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7136: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7137: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7138: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7139: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7140: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7141: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7142: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7143: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7144: There was a curse on the beastmen's banner!
+ 7145: The curse of the beastmen's banner has been lifted!
+ 7146: There is a beastmen's banner.
  7147: @
  7148: @
  7149: @
@@ -7222,150 +7222,151 @@
  7218: @
  7219: @
  7220: @
- 7221: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7222: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7223: You can't fish here.
- 7224: You can't fish without a rod in your hands.
- 7225: You can't fish without bait on the hook.
- 7226: You can't fish at the moment.
- 7227: You didn't catch anything.
- 7228: %0 caught a monster!
- 7229: Your line breaks.
- 7230: Your rod breaks.
- 7231: Something caught the hook!
- 7232: You lost your catch.
- 7233: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7234: You feel there's something here.
- 7235: You feel there's something nearby.
- 7236: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7237: %0 caught $1 $0 !
- 7238: You dig and you dig, but find nothing.
- 7239: $0/$0p$3Z$3b$3g
- 7240: Your rod breaks. Whatever caught the hook was pretty big.
- 7241: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7242: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7243: You lost your catch due to your lack of skill.
- 7244: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7245: You didn't catch anything.
- 7246: The paper on your $0 ripped.
- 7247: A tiny goldfish approaches!
- 7248: A plump, black goldfish approaches!
- 7249: A fat, juicy goldfish approaches!
- 7250: There are no goldfish to be found...
- 7251: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7252: The goldfish slipped off your scoop...
- 7253: ch$0 skill up check.
- 7254: a:$0.
- 7255: Time $0 / Status $1 / $2
- 7256: d:$0. e:$1. f:$2. g:$3.
- 7257: h: $1. i: $0. sr: $2.
- 7258: j:$0. k:$1.
- 7259: You give up and reel in your line.
- 7260: You give up.
- 7261: %0 obtains $1 gil.
- 7262: %0 caught $0!
- 7263: You don't know how much longer you can keep this one on the line...
- 7264: You have a good feeling about this one!
- 7265: You have a bad feeling about this one.
- 7266: You have a terrible feeling about this one...
- 7267: You don't know if you have enough skill to reel this one in.
- 7268: You're fairly sure you don't have enough skill to reel this one in.
- 7269: You're positive you don't have enough skill to reel this one in!
- 7270: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7271: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7272: l: $0. m: $1. n: $2. CH: $3.
- 7273: Something caught the hook!!!
- 7274: You feel something pulling at your line.
- 7275: Something clamps onto your line ferociously!
- 7276: Your keen angler's senses tell you that this is the pull of $0!
- 7277: This strength... You get the sense that you are on the verge of an epic catch!
- 7278: The timer has started. $0 seconds remaining.
- 7279: $0sec.$1/$2sec.
- 7280: 0:$0 1:$1 2:$2 3:$3
- 7281: 4:$0 5:$1 6:$2 7:$3
- 7282: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7283: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7284: $0/$1($2j
- 7285: Version invalid error!
- 7286: Hurry before the goldfish sees you!
- 7287: %0 fishes up a large box!
- 7288: $23$o$P122$8$0
- 7289: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7290: PointF$0 >>> $1
- 7291: [$1($0)/skillF$1]
- 7292: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7293: Im Rnd : $0 Pz Rnd : $1
- 7294: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7295: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7296: skill : $0 size : $1 kind : $2 sch : $3
- 7297: time : $0 mes : $1 flag : $2 bonus : $3
- 7298: item : $0 hp : $1 pow : $2 swing : $3
- 7299: suc : $0 cons : $1 weight : $2 +- : $3
- 7300: speed : $0 +- : $1 exc : $2 client : $3
- 7301: general : $0
- 7302: ro:$0 rs:$1 ps:$2 dt:$3
- 7303: ra:$0 ti:$1
- 7304: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7305: You get the distinct sense that your moogle friend frequents this spot...
- 7306: You have a feeling that your moogle friend has been through this way...
- 7307: You suspect that the scenery around here would be to a moogle's liking...
- 7308: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7309: You have a hunch that this area would be favored by moogles...
- 7310: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7311: %0 catches $1 $0 !
- 7312: %0 obtained $6!
- 7313: It appears your chocobo found this item with ease.
- 7314: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7315: FPT $0 DPT $1 DoT$2
- 7316: FPT $0 TDPT $1 h$2
- 7317: You cannot fish at this time.
- 7318: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7319: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7320: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7321: You receive $0 bayld!
- 7322: Your chocobo refuses to partake of the $0.
- 7323: $3{$3^$3$97F$31V$P10i]\7
- 7324: @@
- 7325: All party members have fallen in battle. Mission failure in $0 [minute/minutes].
- 7326: Now exiting.
- 7327: Your stay has been extended by $0 minute[/s].
- 7328: What will you do? [Go into the light./Go into the smaller light./Do not go into the light.]
- 7329: Go into which light? [Kin./Gin./Kei./Kyou./Fu./Do not go into the light.]
- 7330: What will you do? [Escape./Head toward Ou./Remain.]
- 7331: The light contains...something other than peace and serenity!
- 7332: Obey... Follow the light...
- 7333: Vanquish all transcended foes.
- 7334: Vanquish $0 sweetwater foe[/s].
- 7335: Vanquish 1 specific monster.
- 7336: Vanquish all monsters.
- 7337: The light shall come even if you fail to obey.
- 7338: Vanquish the [Glassy Thinker/Glassy Craver/Glassy Gorger].
- 7339: Vanquish [Kin/Gin/Kei/Kyou/Fu/Ou].
- 7340: Open $0 treasure portent[/s].
- 7341: A spectral light flares up.
- 7342: [There are/You sense] $0 omens from your foes!
- 7343: The light begins to waver.
- 7344: Follow the light and carry out your charge before time runs out. You have $0 second[/s] remaining.
- 7345: Carry out your charge before time runs out. You have $0 second[/s] remaining.
- 7346: A faint light twinkles into existence.
- 7347: One of your party members is currently busy.
- 7348: $0: [Execute/You have executed/You have failed to execute/You have executed] $1 skillchain[/s] using weapon skills on your foes!
- 7349: $0: [Deal/You have dealt/You have failed to deal/You have dealt] $1 critical hit[/s] to your foes.
- 7350: $0: [Vanquish/You have vanquished/You have failed to vanquish/You have vanquished] $1 foe[/s].
- 7351: $0: [Cast/You have cast/You have failed to cast/You have cast] $1 spell[/s] on your foes.
- 7352: $0: [Use/You have used/You have failed to use/You have used] $1 [ability/abilities] on your foes.
- 7353: $0: [Use/You have used/You have failed to use/You have used] $1 physical weapon skill[/s] on your foes.
- 7354: $0: [Use/You have used/You have failed to use/You have used] $1 elemental weapon skill[/s] on your foes.
- 7355: $0: [Use/You have used/You have failed to use/You have used] $1 weapon skill[/s] on your foes.
- 7356: $0: [Perform/You have performed/You have failed to perform/You have performed] $1 magic burst[/s] on your foes.
- 7357: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 in a single auto-attack.
- 7358: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 in a single auto-attack.
- 7359: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 using a single weapon skill.
- 7360: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 using a single weapon skill.
- 7361: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 using a single magic attack without performing a magic burst.
- 7362: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 using a single magic attack without performing a magic burst.
- 7363: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 using a single magic burst.
- 7364: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 using a single magic burst.
- 7365: $0: [Restore/You have restored/You have failed to restore/You have restored] at least $1 HP $2 time[/s].
- 7366: $0 kill[/s] remaining until you can reforge artifacts to +3.
- 7367: You are now able to reforge artifacts to +3.
+ 7221: @
+ 7222: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7223: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7224: You can't fish here.
+ 7225: You can't fish without a rod in your hands.
+ 7226: You can't fish without bait on the hook.
+ 7227: You can't fish at the moment.
+ 7228: You didn't catch anything.
+ 7229: %0 caught a monster!
+ 7230: Your line breaks.
+ 7231: Your rod breaks.
+ 7232: Something caught the hook!
+ 7233: You lost your catch.
+ 7234: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7235: You feel there's something here.
+ 7236: You feel there's something nearby.
+ 7237: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7238: %0 caught $1 $0 !
+ 7239: You dig and you dig, but find nothing.
+ 7240: $0/$0p$3Z$3b$3g
+ 7241: Your rod breaks. Whatever caught the hook was pretty big.
+ 7242: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7243: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7244: You lost your catch due to your lack of skill.
+ 7245: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7246: You didn't catch anything.
+ 7247: The paper on your $0 ripped.
+ 7248: A tiny goldfish approaches!
+ 7249: A plump, black goldfish approaches!
+ 7250: A fat, juicy goldfish approaches!
+ 7251: There are no goldfish to be found...
+ 7252: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7253: The goldfish slipped off your scoop...
+ 7254: ch$0 skill up check.
+ 7255: a:$0.
+ 7256: Time $0 / Status $1 / $2
+ 7257: d:$0. e:$1. f:$2. g:$3.
+ 7258: h: $1. i: $0. sr: $2.
+ 7259: j:$0. k:$1.
+ 7260: You give up and reel in your line.
+ 7261: You give up.
+ 7262: %0 obtains $1 gil.
+ 7263: %0 caught $0!
+ 7264: You don't know how much longer you can keep this one on the line...
+ 7265: You have a good feeling about this one!
+ 7266: You have a bad feeling about this one.
+ 7267: You have a terrible feeling about this one...
+ 7268: You don't know if you have enough skill to reel this one in.
+ 7269: You're fairly sure you don't have enough skill to reel this one in.
+ 7270: You're positive you don't have enough skill to reel this one in!
+ 7271: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7272: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7273: l: $0. m: $1. n: $2. CH: $3.
+ 7274: Something caught the hook!!!
+ 7275: You feel something pulling at your line.
+ 7276: Something clamps onto your line ferociously!
+ 7277: Your keen angler's senses tell you that this is the pull of $0!
+ 7278: This strength... You get the sense that you are on the verge of an epic catch!
+ 7279: The timer has started. $0 seconds remaining.
+ 7280: $0sec.$1/$2sec.
+ 7281: 0:$0 1:$1 2:$2 3:$3
+ 7282: 4:$0 5:$1 6:$2 7:$3
+ 7283: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7284: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7285: $0/$1($2j
+ 7286: Version invalid error!
+ 7287: Hurry before the goldfish sees you!
+ 7288: %0 fishes up a large box!
+ 7289: $23$o$P122$8$0
+ 7290: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7291: PointF$0 >>> $1
+ 7292: [$1($0)/skillF$1]
+ 7293: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7294: Im Rnd : $0 Pz Rnd : $1
+ 7295: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7296: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7297: skill : $0 size : $1 kind : $2 sch : $3
+ 7298: time : $0 mes : $1 flag : $2 bonus : $3
+ 7299: item : $0 hp : $1 pow : $2 swing : $3
+ 7300: suc : $0 cons : $1 weight : $2 +- : $3
+ 7301: speed : $0 +- : $1 exc : $2 client : $3
+ 7302: general : $0
+ 7303: ro:$0 rs:$1 ps:$2 dt:$3
+ 7304: ra:$0 ti:$1
+ 7305: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7306: You get the distinct sense that your moogle friend frequents this spot...
+ 7307: You have a feeling that your moogle friend has been through this way...
+ 7308: You suspect that the scenery around here would be to a moogle's liking...
+ 7309: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7310: You have a hunch that this area would be favored by moogles...
+ 7311: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7312: %0 catches $1 $0 !
+ 7313: %0 obtained $6!
+ 7314: It appears your chocobo found this item with ease.
+ 7315: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7316: FPT $0 DPT $1 DoT$2
+ 7317: FPT $0 TDPT $1 h$2
+ 7318: You cannot fish at this time.
+ 7319: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7320: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7321: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7322: You receive $0 bayld!
+ 7323: Your chocobo refuses to partake of the $0.
+ 7324: $3{$3^$3$97F$31V$P10i]\7
+ 7325: @@
+ 7326: All party members have fallen in battle. Mission failure in $0 [minute/minutes].
+ 7327: Now exiting.
+ 7328: Your stay has been extended by $0 minute[/s].
+ 7329: What will you do? [Go into the light./Go into the smaller light./Do not go into the light.]
+ 7330: Go into which light? [Kin./Gin./Kei./Kyou./Fu./Do not go into the light.]
+ 7331: What will you do? [Escape./Head toward Ou./Remain.]
+ 7332: The light contains...something other than peace and serenity!
+ 7333: Obey... Follow the light...
+ 7334: Vanquish all transcended foes.
+ 7335: Vanquish $0 sweetwater foe[/s].
+ 7336: Vanquish 1 specific monster.
+ 7337: Vanquish all monsters.
+ 7338: The light shall come even if you fail to obey.
+ 7339: Vanquish the [Glassy Thinker/Glassy Craver/Glassy Gorger].
+ 7340: Vanquish [Kin/Gin/Kei/Kyou/Fu/Ou].
+ 7341: Open $0 treasure portent[/s].
+ 7342: A spectral light flares up.
+ 7343: [There are/You sense] $0 omens from your foes!
+ 7344: The light begins to waver.
+ 7345: Follow the light and carry out your charge before time runs out. You have $0 second[/s] remaining.
+ 7346: Carry out your charge before time runs out. You have $0 second[/s] remaining.
+ 7347: A faint light twinkles into existence.
+ 7348: One of your party members is currently busy.
+ 7349: $0: [Execute/You have executed/You have failed to execute/You have executed] $1 skillchain[/s] using weapon skills on your foes!
+ 7350: $0: [Deal/You have dealt/You have failed to deal/You have dealt] $1 critical hit[/s] to your foes.
+ 7351: $0: [Vanquish/You have vanquished/You have failed to vanquish/You have vanquished] $1 foe[/s].
+ 7352: $0: [Cast/You have cast/You have failed to cast/You have cast] $1 spell[/s] on your foes.
+ 7353: $0: [Use/You have used/You have failed to use/You have used] $1 [ability/abilities] on your foes.
+ 7354: $0: [Use/You have used/You have failed to use/You have used] $1 physical weapon skill[/s] on your foes.
+ 7355: $0: [Use/You have used/You have failed to use/You have used] $1 elemental weapon skill[/s] on your foes.
+ 7356: $0: [Use/You have used/You have failed to use/You have used] $1 weapon skill[/s] on your foes.
+ 7357: $0: [Perform/You have performed/You have failed to perform/You have performed] $1 magic burst[/s] on your foes.
+ 7358: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 in a single auto-attack.
+ 7359: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 in a single auto-attack.
+ 7360: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 using a single weapon skill.
+ 7361: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 using a single weapon skill.
+ 7362: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 using a single magic attack without performing a magic burst.
+ 7363: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 using a single magic attack without performing a magic burst.
+ 7364: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by at least $1 using a single magic burst.
+ 7365: $0: [Reduce/You have reduced/You have failed to reduce/You have reduced] your foe's HP by $1 using a single magic burst.
+ 7366: $0: [Restore/You have restored/You have failed to restore/You have restored] at least $1 HP $2 time[/s].
+ 7367: $0 kill[/s] remaining until you can reforge artifacts to +3.
+ 7368: You are now able to reforge artifacts to +3.

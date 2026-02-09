@@ -67,28 +67,28 @@
 |      14 | 0x000A      |          10 |
 |      15 | 0x00F2      |         242 |
 |      16 | 0x0015      |          21 |
-|      17 | 0x1A72      |        6770 |
+|      17 | 0x1A73      |        6771 |
 |      18 | 0x00C8      |         200 |
-|      19 | 0x1A7F      |        6783 |
-|      20 | 0x1A81      |        6785 |
-|      21 | 0x1E7D      |        7805 |
-|      22 | 0x1E7F      |        7807 |
+|      19 | 0x1A80      |        6784 |
+|      20 | 0x1A82      |        6786 |
+|      21 | 0x1E7E      |        7806 |
+|      22 | 0x1E80      |        7808 |
 |      23 | 0x0013      |          19 |
 |      24 | 0x0176      |         374 |
 |      25 | 0x0031      |          49 |
 |      26 | 0x0078      |         120 |
 |      27 | 0x0008      |           8 |
 |      28 | 0x0032      |          50 |
-|      29 | 0x1DB5      |        7605 |
+|      29 | 0x1DB6      |        7606 |
 |      30 | 0x0002      |           2 |
 |      31 | 0x0004      |           4 |
 |      32 | 0x0005      |           5 |
 |      33 | 0x0006      |           6 |
 |      34 | 0x0007      |           7 |
-|      35 | 0x1DB9      |        7609 |
+|      35 | 0x1DBA      |        7610 |
 |      36 | 0x0064      |         100 |
 |      37 | 0x0096      |         150 |
-|      38 | 0x1DC3      |        7619 |
+|      38 | 0x1DC4      |        7620 |
 |      39 | 0x00C9      |         201 |
 
 ## Events
@@ -575,7 +575,7 @@
   7: 0x00F8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Perfaumand (ID: 17731611/0x010E901B) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x00FD [0x4A] LocalPlayer looks at Perfaumand (ID: 17731611/0x010E901B)
   9: 0x0106 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)], work=21*
- 10: 0x0115 [0x2B] Perfaumand (ID: 17731611/0x010E901B) [6770*]:
+ 10: 0x0115 [0x2B] Perfaumand (ID: 17731611/0x010E901B) [6771*]:
     → "I have a message from Prince Trion asking you to make any reports of your findings to the guards at the gatehouses."
  11: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x011D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)]
@@ -626,7 +626,7 @@
   7: 0x018F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Perfaumand (ID: 17731611/0x010E901B) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x0194 [0x4A] LocalPlayer looks at Perfaumand (ID: 17731611/0x010E901B)
   9: 0x019D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)], work=21*
- 10: 0x01AC [0x2B] Perfaumand (ID: 17731611/0x010E901B) [6783*]:
+ 10: 0x01AC [0x2B] Perfaumand (ID: 17731611/0x010E901B) [6784*]:
     → "Prince Trion is preparing for the journey to King Ranperre's Tomb. He asked me to tell you to travel there and purge the area of any monsters before they arrive."
  11: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01B4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)]
@@ -676,7 +676,7 @@
   7: 0x0226 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Perfaumand (ID: 17731611/0x010E901B) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x022B [0x4A] LocalPlayer looks at Perfaumand (ID: 17731611/0x010E901B)
   9: 0x0234 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)], work=21*
- 10: 0x0243 [0x2B] Perfaumand (ID: 17731611/0x010E901B) [6785*]:
+ 10: 0x0243 [0x2B] Perfaumand (ID: 17731611/0x010E901B) [6786*]:
     → "Prince Trion has left a message with me: "Deliver your report to the guards at the gatehouse.""
  11: 0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x024B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)]
@@ -727,7 +727,7 @@
   7: 0x02BD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Perfaumand (ID: 17731611/0x010E901B) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x02C2 [0x4A] LocalPlayer looks at Perfaumand (ID: 17731611/0x010E901B)
   9: 0x02CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)], work=21*
- 10: 0x02DA [0x2B] Perfaumand (ID: 17731611/0x010E901B) [7805*]:
+ 10: 0x02DA [0x2B] Perfaumand (ID: 17731611/0x010E901B) [7806*]:
     → "Prince Trion has departed for Fei'Yin. May the grace of the Goddess bring victory to the knights of the Kingdom!"
  11: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02E2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)]
@@ -777,7 +777,7 @@
   7: 0x0354 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Perfaumand (ID: 17731611/0x010E901B) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x0359 [0x4A] LocalPlayer looks at Perfaumand (ID: 17731611/0x010E901B)
   9: 0x0362 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)], work=21*
- 10: 0x0371 [0x2B] Perfaumand (ID: 17731611/0x010E901B) [7807*]:
+ 10: 0x0371 [0x2B] Perfaumand (ID: 17731611/0x010E901B) [7808*]:
     → "Prince Trion has returned safely and is currently awaiting your arrival in the Audience Chamber."
  11: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0379 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [Perfaumand (ID: 17731611/0x010E901B), Perfaumand (ID: 17731611/0x010E901B)]
@@ -935,7 +935,7 @@
 
 SUBROUTINE_04D8:
  37: 0x04D8 [0x1C] WAIT(50* ticks)
- 38: 0x04DB [0x2B] Trion (ID: 17731587/0x010E9003) [7605*]:
+ 38: 0x04DB [0x2B] Trion (ID: 17731587/0x010E9003) [7606*]:
     → "<Player>! Many are those who speak of your triumphs in the name of San d'Oria!"
  39: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x04E3 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Trion (ID: 17731587/0x010E9003))
@@ -1008,7 +1008,7 @@ SUBROUTINE_05EC:
 SUBROUTINE_067F:
 102: 0x067F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[49*, 0*]
 103: 0x0690 [0x27] REQ_SET(priority=0x0B, entity_id=Trion (ID: 17731587/0x010E9003), tag_num=0x59)
-104: 0x0697 [0x2B] Trion (ID: 17731587/0x010E9003) [7609*]:
+104: 0x0697 [0x2B] Trion (ID: 17731587/0x010E9003) [7610*]:
     → "The Royal Knights have but a single purpose: to exterminate the Orcs who ravage our lands!"
 105: 0x069E [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x069F [0x2A] GET_REQ_LEVEL(level=11, entity_id=Trion (ID: 17731587/0x010E9003))
@@ -1181,7 +1181,7 @@ SUBROUTINE_07BE:
  28: 0x0A1D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Trion (ID: 17731587/0x010E9003), tag_num=0x6C)
  29: 0x0A24 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Trion (ID: 17731587/0x010E9003), tag_num=0x4C)
  30: 0x0A2B [0x27] REQ_SET(priority=0x0B, entity_id=Trion (ID: 17731587/0x010E9003), tag_num=0x6A)
- 31: 0x0A32 [0x2B] Trion (ID: 17731587/0x010E9003) [7619*]:
+ 31: 0x0A32 [0x2B] Trion (ID: 17731587/0x010E9003) [7620*]:
     → "No, but wait... This matter requires more than Royal Knights... Confound it! We need Temple Knights as well!"
  32: 0x0A39 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0A3A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Trion (ID: 17731587/0x010E9003))

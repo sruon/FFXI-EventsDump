@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2171      |        8561 |
-|       1 | 0x2172      |        8562 |
+|       0 | 0x2172      |        8562 |
+|       1 | 0x2173      |        8563 |
 
 ## String References
 
-- **8561**: Whoa! Is this a new toy!?
-- **8562**: It is a new toy! And it's all mine mine mine! Hahaha! All my friends are going to be jealous-wealous of me now!
+- **8562**: Whoa! Is this a new toy!?
+- **8563**: It is a new toy! And it's all mine mine mine! Hahaha! All my friends are going to be jealous-wealous of me now!
 
 ## Events
 
@@ -74,10 +74,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=8561*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
     → "Whoa! Is this a new toy!?"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
     → "It is a new toy! And it's all mine mine mine! Hahaha! All my friends are going to be jealous-wealous of me now!"
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000F [0x21] END_EVENT

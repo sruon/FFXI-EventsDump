@@ -21,17 +21,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1CC3      |        7363 |
+|       1 | 0x1CC4      |        7364 |
 |       2 | 0x012C      |         300 |
-|       3 | 0x1CC5      |        7365 |
+|       3 | 0x1CC6      |        7366 |
 |       4 | 0x00C9      |         201 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x003C      |          60 |
 
 ## String References
 
-- **7363**: Brush in hand, you stand up straight in front of the blank canvas and begin to concentrate.
-- **7365**: By focusing your thoughts on the $3, a new painting begins to appear on the canvas...
+- **7364**: Brush in hand, you stand up straight in front of the blank canvas and begin to concentrate.
+- **7366**: By focusing your thoughts on the $3, a new painting begins to appear on the canvas...
 
 ## Events
 
@@ -81,10 +81,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x38] SET_CLIENT_EVENT_MODE(mode=1*)
-  2: 0x0006 [0x48] [System] [7363*]:
+  2: 0x0006 [0x48] [System] [7364*]:
     → "Brush in hand, you stand up straight in front of the blank canvas and begin to concentrate."
   3: 0x0009 [0x1C] WAIT(300* ticks)
-  4: 0x000C [0x48] [System] [7365*]:
+  4: 0x000C [0x48] [System] [7366*]:
     → "By focusing your thoughts on the $3, a new painting begins to appear on the canvas..."
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0010 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)

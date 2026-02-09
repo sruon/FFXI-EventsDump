@@ -73,48 +73,48 @@
 |      10 | 0xFFFFFF9B  |  4294967195 |
 |      11 | 0x5DB9      |       23993 |
 |      12 | 0x0708      |        1800 |
-|      13 | 0x1EFC      |        7932 |
-|      14 | 0x1EFE      |        7934 |
-|      15 | 0x1F04      |        7940 |
-|      16 | 0x1F05      |        7941 |
-|      17 | 0x1F06      |        7942 |
-|      18 | 0x1F07      |        7943 |
+|      13 | 0x1EFD      |        7933 |
+|      14 | 0x1EFF      |        7935 |
+|      15 | 0x1F05      |        7941 |
+|      16 | 0x1F06      |        7942 |
+|      17 | 0x1F07      |        7943 |
+|      18 | 0x1F08      |        7944 |
 |      19 | 0x0006      |           6 |
-|      20 | 0x1F09      |        7945 |
-|      21 | 0x1F0C      |        7948 |
-|      22 | 0x1F0D      |        7949 |
-|      23 | 0x1F0E      |        7950 |
-|      24 | 0x1F0F      |        7951 |
-|      25 | 0x1F10      |        7952 |
-|      26 | 0x1F11      |        7953 |
-|      27 | 0x1F12      |        7954 |
-|      28 | 0x1F13      |        7955 |
-|      29 | 0x1F16      |        7958 |
-|      30 | 0x1F18      |        7960 |
-|      31 | 0x1F1A      |        7962 |
-|      32 | 0x1F1B      |        7963 |
+|      20 | 0x1F0A      |        7946 |
+|      21 | 0x1F0D      |        7949 |
+|      22 | 0x1F0E      |        7950 |
+|      23 | 0x1F0F      |        7951 |
+|      24 | 0x1F10      |        7952 |
+|      25 | 0x1F11      |        7953 |
+|      26 | 0x1F12      |        7954 |
+|      27 | 0x1F13      |        7955 |
+|      28 | 0x1F14      |        7956 |
+|      29 | 0x1F17      |        7959 |
+|      30 | 0x1F19      |        7961 |
+|      31 | 0x1F1B      |        7963 |
+|      32 | 0x1F1C      |        7964 |
 
 ## String References
 
-- **7932**: Well, ladies and gentlemen, are we all here? Allow me to introduce myself. I am Vauderame.
-- **7934**: Firstly, I wonder if you have heard of the group known as Atarefaunet's band?
-- **7940**: It would seem the veterans among you are well-versed in thieving history.
-- **7941**: During the Great War, the leader of the band, Atarefaunet, was killed by a traitor and the rest of the members scattered to the winds.
-- **7942**: However, the Tenshodo has managed to divine the current whereabouts of the remaining members.
-- **7943**: The task I have called you here for today is to deliver a $3 to each of the thieves of Atarefaunet's band.
-- **7945**: No, of course not. What could thieves of twenty years ago accomplish now?
-- **7948**: ...That is the main point of the message in the $3.
-- **7949**: However, it is not certain that they will just meekly sign the papers. My job is to make certain these brigands follow the will of the Tenshodo.
-- **7950**: And that is where you come in. Use your knowledge and talents to get those signatures and bring them back here to me.
-- **7951**: I will now hand each of you a sealed envelope. Seek out the member whose name is revealed therein.
-- **7952**: Lastly, it is against thieving etiquette to sneak a look at the members assigned to people other than yourself. As I'm sure you are aware, too much knowledge is a dangerous thing in this business...
-- **7953**: Now, please come to me one at a time to receive your envelope.
-- **7954**: You are the adventurer thief <Player>?
-- **7955**: Since you are an adventurer, I will give you the member who requires the most muscle to deal with. Go and meet with the Galka staying at the inn located in the town of Selbina.
-- **7958**: It appears the Galka gave you some trouble, as I expected. Your face tells of trying times.
-- **7960**: Ah, Nanaa Mihgo, that makes everyone.
-- **7962**: I thank you all for flawlessly completing the task I set.
-- **7963**: As a reward, I will give each of you a weapon designed specifically for thieves. Please come to me one at a time.
+- **7933**: Well, ladies and gentlemen, are we all here? Allow me to introduce myself. I am Vauderame.
+- **7935**: Firstly, I wonder if you have heard of the group known as Atarefaunet's band?
+- **7941**: It would seem the veterans among you are well-versed in thieving history.
+- **7942**: During the Great War, the leader of the band, Atarefaunet, was killed by a traitor and the rest of the members scattered to the winds.
+- **7943**: However, the Tenshodo has managed to divine the current whereabouts of the remaining members.
+- **7944**: The task I have called you here for today is to deliver a $3 to each of the thieves of Atarefaunet's band.
+- **7946**: No, of course not. What could thieves of twenty years ago accomplish now?
+- **7949**: ...That is the main point of the message in the $3.
+- **7950**: However, it is not certain that they will just meekly sign the papers. My job is to make certain these brigands follow the will of the Tenshodo.
+- **7951**: And that is where you come in. Use your knowledge and talents to get those signatures and bring them back here to me.
+- **7952**: I will now hand each of you a sealed envelope. Seek out the member whose name is revealed therein.
+- **7953**: Lastly, it is against thieving etiquette to sneak a look at the members assigned to people other than yourself. As I'm sure you are aware, too much knowledge is a dangerous thing in this business...
+- **7954**: Now, please come to me one at a time to receive your envelope.
+- **7955**: You are the adventurer thief <Player>?
+- **7956**: Since you are an adventurer, I will give you the member who requires the most muscle to deal with. Go and meet with the Galka staying at the inn located in the town of Selbina.
+- **7959**: It appears the Galka gave you some trouble, as I expected. Your face tells of trying times.
+- **7961**: Ah, Nanaa Mihgo, that makes everyone.
+- **7963**: I thank you all for flawlessly completing the task I set.
+- **7964**: As a reward, I will give each of you a weapon designed specifically for thieves. Please come to me one at a time.
 
 ## Events
 
@@ -720,7 +720,7 @@
 #### Opcodes
 
 ```
-  0: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+  0: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Well, ladies and gentlemen, are we all here? Allow me to introduce myself. I am Vauderame."
   1: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x015E [0x00] END_REQSTACK()
@@ -748,7 +748,7 @@
 
 ```
   0: 0x015F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x01)
-  1: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+  1: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "Firstly, I wonder if you have heard of the group known as Atarefaunet's band?"
   2: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x016A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x02)
@@ -776,7 +776,7 @@
 
 ```
   0: 0x0172 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x01)
-  1: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+  1: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "It would seem the veterans among you are well-versed in thieving history."
   2: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x017D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x02)
@@ -802,7 +802,7 @@
 #### Opcodes
 
 ```
-  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "During the Great War, the leader of the band, Atarefaunet, was killed by a traitor and the rest of the members scattered to the winds."
   1: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0189 [0x00] END_REQSTACK()
@@ -827,7 +827,7 @@
 #### Opcodes
 
 ```
-  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "However, the Tenshodo has managed to divine the current whereabouts of the remaining members."
   1: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018E [0x00] END_REQSTACK()
@@ -855,7 +855,7 @@
 
 ```
   0: 0x018F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x01)
-  1: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+  1: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "The task I have called you here for today is to deliver a $3 to each of the thieves of Atarefaunet's band."
   2: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x019A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x02)
@@ -884,7 +884,7 @@
 ```
   0: 0x01A2 [0x6E] EventEntity uses emote 6*
   1: 0x01A9 [0x99] Wait for EventEntity animation to complete
-  2: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+  2: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "No, of course not. What could thieves of twenty years ago accomplish now?"
   3: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01B2 [0x00] END_REQSTACK()
@@ -909,10 +909,10 @@
 #### Opcodes
 
 ```
-  0: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+  0: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "...That is the main point of the message in the $3."
   1: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
+  2: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
     → "However, it is not certain that they will just meekly sign the papers. My job is to make certain these brigands follow the will of the Tenshodo."
   3: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01BB [0x00] END_REQSTACK()
@@ -938,7 +938,7 @@
 #### Opcodes
 
 ```
-  0: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+  0: 0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "And that is where you come in. Use your knowledge and talents to get those signatures and bring them back here to me."
   1: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C0 [0x00] END_REQSTACK()
@@ -963,7 +963,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+  0: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
     → "I will now hand each of you a sealed envelope. Seek out the member whose name is revealed therein."
   1: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C5 [0x00] END_REQSTACK()
@@ -988,7 +988,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
+  0: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "Lastly, it is against thieving etiquette to sneak a look at the members assigned to people other than yourself. As I'm sure you are aware, too much knowledge is a dangerous thing in this business..."
   1: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CA [0x00] END_REQSTACK()
@@ -1013,7 +1013,7 @@
 #### Opcodes
 
 ```
-  0: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+  0: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "Now, please come to me one at a time to receive your envelope."
   1: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CF [0x00] END_REQSTACK()
@@ -1038,10 +1038,10 @@
 #### Opcodes
 
 ```
-  0: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  0: 0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "You are the adventurer thief <Player>?"
   1: 0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  2: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "Since you are an adventurer, I will give you the member who requires the most muscle to deal with. Go and meet with the Galka staying at the inn located in the town of Selbina."
   3: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01D8 [0x00] END_REQSTACK()
@@ -1091,7 +1091,7 @@
 
 ```
   0: 0x01DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x01)
-  1: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+  1: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "It appears the Galka gave you some trouble, as I expected. Your face tells of trying times."
   2: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x02)
@@ -1118,7 +1118,7 @@
 #### Opcodes
 
 ```
-  0: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+  0: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Ah, Nanaa Mihgo, that makes everyone."
   1: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F3 [0x00] END_REQSTACK()
@@ -1144,7 +1144,7 @@
 
 ```
   0: 0x01F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x01)
-  1: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+  1: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "I thank you all for flawlessly completing the task I set."
   2: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01FF [0x00] END_REQSTACK()
@@ -1169,7 +1169,7 @@
 #### Opcodes
 
 ```
-  0: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+  0: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "As a reward, I will give each of you a weapon designed specifically for thieves. Please come to me one at a time."
   1: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0204 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vauderame (ID: 17780799/0x010F503F), tag_num=0x02)

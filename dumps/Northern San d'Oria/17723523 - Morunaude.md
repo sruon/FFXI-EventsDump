@@ -43,27 +43,27 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1C1C      |        7196 |
-|       2 | 0x1C1D      |        7197 |
-|       3 | 0x1C1E      |        7198 |
-|       4 | 0x1C1F      |        7199 |
-|       5 | 0x1C20      |        7200 |
-|       6 | 0x1C21      |        7201 |
-|       7 | 0x1C22      |        7202 |
-|       8 | 0x1C23      |        7203 |
-|       9 | 0x1C24      |        7204 |
+|       1 | 0x1C1D      |        7197 |
+|       2 | 0x1C1E      |        7198 |
+|       3 | 0x1C1F      |        7199 |
+|       4 | 0x1C20      |        7200 |
+|       5 | 0x1C21      |        7201 |
+|       6 | 0x1C22      |        7202 |
+|       7 | 0x1C23      |        7203 |
+|       8 | 0x1C24      |        7204 |
+|       9 | 0x1C25      |        7205 |
 
 ## String References
 
-- **7196**: Our furniture is built to last!
-- **7197**: Say, that $3 you've got there...
-- **7198**: What did you say? It was in the $2 you purchased...from us?
-- **7199**: Might I have a look? Wait, this $3 looks familiar.
-- **7200**: Yes, as I thought! This is the mark of the royal family. This is a teacup of noble lineage!
-- **7201**: You must return it to its rightful owner, wherever he or she might be.
-- **7202**: That $2 you found was crafted of old. I would love to hear the history behind it.
-- **7203**: Few pieces of such age and quality remain.
-- **7204**: Shame on Calovour! Hawking such a treasure as if it were junk!
+- **7197**: Our furniture is built to last!
+- **7198**: Say, that $3 you've got there...
+- **7199**: What did you say? It was in the $2 you purchased...from us?
+- **7200**: Might I have a look? Wait, this $3 looks familiar.
+- **7201**: Yes, as I thought! This is the mark of the royal family. This is a teacup of noble lineage!
+- **7202**: You must return it to its rightful owner, wherever he or she might be.
+- **7203**: That $2 you found was crafted of old. I would love to hear the history behind it.
+- **7204**: Few pieces of such age and quality remain.
+- **7205**: Shame on Calovour! Hawking such a treasure as if it were junk!
 
 ## Events
 
@@ -472,7 +472,7 @@
   1: 0x00DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x01)
-  4: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7196*)
+  4: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7197*)
     → "Our furniture is built to last!"
   5: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x02)
@@ -534,10 +534,10 @@
 
 ```
   0: 0x0114 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x01)
-  1: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7197*)
+  1: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7198*)
     → "Say, that $3 you've got there..."
   2: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7198*)
+  3: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7199*)
     → "What did you say? It was in the $2 you purchased...from us?"
   4: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0123 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x02)
@@ -565,7 +565,7 @@
 
 ```
   0: 0x012B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x01)
-  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7199*)
+  1: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7200*)
     → "Might I have a look? Wait, this $3 looks familiar."
   2: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x02)
@@ -597,11 +597,11 @@
   0: 0x013E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x03)
   1: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x04)
   2: 0x014C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x05)
-  3: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7200*)
+  3: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7201*)
     → "Yes, as I thought! This is the mark of the royal family. This is a teacup of noble lineage!"
   4: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x06)
-  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7201*)
+  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7202*)
     → "You must return it to its rightful owner, wherever he or she might be."
   7: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0162 [0x00] END_REQSTACK()
@@ -632,13 +632,13 @@
   1: 0x0168 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0169 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x016A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x01)
-  4: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7202*)
+  4: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7203*)
     → "That $2 you found was crafted of old. I would love to hear the history behind it."
   5: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7203*)
+  6: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7204*)
     → "Few pieces of such age and quality remain."
   7: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7204*)
+  8: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7205*)
     → "Shame on Calovour! Hawking such a treasure as if it were junk!"
   9: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x017D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Morunaude (ID: 17723523/0x010E7083), tag_num=0x02)

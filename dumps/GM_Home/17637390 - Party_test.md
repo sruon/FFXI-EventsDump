@@ -24,17 +24,17 @@
 |       1 | 0x0001      |           1 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x1BC8      |        7112 |
+|       4 | 0x1BC9      |        7113 |
 |       5 | 0x0004      |           4 |
-|       6 | 0x1BC9      |        7113 |
+|       6 | 0x1BCA      |        7114 |
 |       7 | 0x0005      |           5 |
-|       8 | 0x1BCA      |        7114 |
+|       8 | 0x1BCB      |        7115 |
 
 ## String References
 
-- **7112**: $10$P11.$17*<Player>a$$3$2228778i<B
-- **7113**: $m$P110*<Player>a$$3$2228778i<B
-- **7114**: $3W$3 $3u*<Player>a$$3$2228778i<B
+- **7113**: $10$P11.$17*<Player>a$$3$2228778i<B
+- **7114**: $m$P110*<Player>a$$3$2228778i<B
+- **7115**: $3W$3 $3u*<Player>a$$3$2228778i<B
 
 ## Events
 
@@ -108,19 +108,19 @@ SUBROUTINE_0021:
  16: 0x003D [0x01] GOTO 0x0085
  17: 0x0040 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0057
  18: 0x0048 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0054
- 19: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7112*)
+ 19: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
     → "$10$P11.$17*<Player>a$$3$2228778i<B"
  20: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0054 [0x01] GOTO 0x0085
  22: 0x0057 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x006E
  23: 0x005F [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x006B
- 24: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
+ 24: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
     → "$m$P110*<Player>a$$3$2228778i<B"
  25: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x006B [0x01] GOTO 0x0085
  27: 0x006E [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0085
  28: 0x0076 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0082
- 29: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
+ 29: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7115*)
     → "$3W$3 $3u*<Player>a$$3$2228778i<B"
  30: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0082 [0x01] GOTO 0x0085

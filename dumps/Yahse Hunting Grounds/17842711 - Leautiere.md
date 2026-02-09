@@ -24,33 +24,33 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1D6A      |        7530 |
-|       2 | 0x1D6B      |        7531 |
-|       3 | 0x1D6C      |        7532 |
-|       4 | 0x1D6D      |        7533 |
-|       5 | 0x1D6E      |        7534 |
-|       6 | 0x1D6F      |        7535 |
-|       7 | 0x1D70      |        7536 |
-|       8 | 0x1D71      |        7537 |
-|       9 | 0x1D72      |        7538 |
-|      10 | 0x1D73      |        7539 |
-|      11 | 0x1D74      |        7540 |
+|       1 | 0x1D6B      |        7531 |
+|       2 | 0x1D6C      |        7532 |
+|       3 | 0x1D6D      |        7533 |
+|       4 | 0x1D6E      |        7534 |
+|       5 | 0x1D6F      |        7535 |
+|       6 | 0x1D70      |        7536 |
+|       7 | 0x1D71      |        7537 |
+|       8 | 0x1D72      |        7538 |
+|       9 | 0x1D73      |        7539 |
+|      10 | 0x1D74      |        7540 |
+|      11 | 0x1D75      |        7541 |
 |      12 | 0x00C9      |         201 |
 |      13 | 0x0000      |           0 |
 
 ## String References
 
-- **7530**: One distinctive landmark of the Yahse Hunting Grounds is the Moh Gates, a grotto leading to the Morimar Basalt Fields.
-- **7531**: Reports from our scouts have indicated the presence of several large fissures from which magma boils forth.
-- **7532**: We have been charged with the exploration of this natural phenomenon, yet even our competency has some limits. If a pioneer were to lend [his/her] aid, however...
-- **7533**: Should you be willing, I would request that you visit the gates, examine in great detail these fissures and the magma contained within, then report your findings back to me.
-- **7534**: The lurid fiends found within the gates are of a calibre unmatched by those aboveground. Keep your wits about you and ensure your preparations are failsafe. The life you save may be your own.
-- **7535**: Not even the horrors of the deeps can stop you! Pray tell, what have you discovered? A strange force within...hmmm, this corroborates the information that others have brought me.
-- **7536**: To be frank, the gates are not the only location in Eastern Ulbuka where such mysterious energies reside.
-- **7537**: Though such energies can be found throughout every region of Vana'diel, in Adoulin we have called them "ergon loci" since time immemorial. This term was invented by the geomancers, who boast an unparalleled harmony with nature.
-- **7538**: This warmth that you felt goes beyond mere steam rising from magma. Indeed, you may have found one of these ergon loci. Still, this is beyond my area of expertise, so all I can proffer are simple theories.
-- **7539**: Whether the locus is the magma itself or simply the whole area it runs through is not for me to say. This may be worthy of further research.
-- **7540**: But you did not come here for a seminar on mystical puissance. Here. Your efforts deserve appropriate compensation.
+- **7531**: One distinctive landmark of the Yahse Hunting Grounds is the Moh Gates, a grotto leading to the Morimar Basalt Fields.
+- **7532**: Reports from our scouts have indicated the presence of several large fissures from which magma boils forth.
+- **7533**: We have been charged with the exploration of this natural phenomenon, yet even our competency has some limits. If a pioneer were to lend [his/her] aid, however...
+- **7534**: Should you be willing, I would request that you visit the gates, examine in great detail these fissures and the magma contained within, then report your findings back to me.
+- **7535**: The lurid fiends found within the gates are of a calibre unmatched by those aboveground. Keep your wits about you and ensure your preparations are failsafe. The life you save may be your own.
+- **7536**: Not even the horrors of the deeps can stop you! Pray tell, what have you discovered? A strange force within...hmmm, this corroborates the information that others have brought me.
+- **7537**: To be frank, the gates are not the only location in Eastern Ulbuka where such mysterious energies reside.
+- **7538**: Though such energies can be found throughout every region of Vana'diel, in Adoulin we have called them "ergon loci" since time immemorial. This term was invented by the geomancers, who boast an unparalleled harmony with nature.
+- **7539**: This warmth that you felt goes beyond mere steam rising from magma. Indeed, you may have found one of these ergon loci. Still, this is beyond my area of expertise, so all I can proffer are simple theories.
+- **7540**: Whether the locus is the magma itself or simply the whole area it runs through is not for me to say. This may be worthy of further research.
+- **7541**: But you did not come here for a seminar on mystical puissance. Here. Your efforts deserve appropriate compensation.
 
 ## Events
 
@@ -103,19 +103,19 @@
   2: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "One distinctive landmark of the Yahse Hunting Grounds is the Moh Gates, a grotto leading to the Morimar Basalt Fields."
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "Reports from our scouts have indicated the presence of several large fissures from which magma boils forth."
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "We have been charged with the exploration of this natural phenomenon, yet even our competency has some limits. If a pioneer were to lend [his/her] aid, however..."
  10: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+ 11: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "Should you be willing, I would request that you visit the gates, examine in great detail these fissures and the magma contained within, then report your findings back to me."
  12: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+ 13: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "The lurid fiends found within the gates are of a calibre unmatched by those aboveground. Keep your wits about you and ensure your preparations are failsafe. The life you save may be your own."
  14: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=20*
@@ -150,7 +150,7 @@
   2: 0x0043 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0044 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0045 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+  5: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "The lurid fiends found within the gates are of a calibre unmatched by those aboveground. Keep your wits about you and ensure your preparations are failsafe. The life you save may be your own."
   6: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0058 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=20*
@@ -187,22 +187,22 @@
   2: 0x006F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0070 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0071 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "Not even the horrors of the deeps can stop you! Pray tell, what have you discovered? A strange force within...hmmm, this corroborates the information that others have brought me."
   6: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+  7: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "To be frank, the gates are not the only location in Eastern Ulbuka where such mysterious energies reside."
   8: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
+  9: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
     → "Though such energies can be found throughout every region of Vana'diel, in Adoulin we have called them "ergon loci" since time immemorial. This term was invented by the geomancers, who boast an unparalleled harmony with nature."
  10: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
+ 11: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
     → "This warmth that you felt goes beyond mere steam rising from magma. Indeed, you may have found one of these ergon loci. Still, this is beyond my area of expertise, so all I can proffer are simple theories."
  12: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+ 13: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "Whether the locus is the magma itself or simply the whole area it runs through is not for me to say. This may be worthy of further research."
  14: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
+ 15: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "But you did not come here for a seminar on mystical puissance. Here. Your efforts deserve appropriate compensation."
  16: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0098 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=20*
@@ -238,10 +238,10 @@
   2: 0x00C0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00C1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
+  5: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
     → "This warmth that you felt goes beyond mere steam rising from magma. Indeed, you may have found one of these ergon loci. Still, this is beyond my area of expertise, so all I can proffer are simple theories."
   6: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+  7: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "Whether the locus is the magma itself or simply the whole area it runs through is not for me to say. This may be worthy of further research."
   8: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=20*

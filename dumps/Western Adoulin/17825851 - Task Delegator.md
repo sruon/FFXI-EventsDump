@@ -56,7 +56,7 @@
 |      21 | 0x1C20      |        7200 |
 |      22 | 0x1518      |        5400 |
 |      23 | 0x08A2      |        2210 |
-|      24 | 0x1C9A      |        7322 |
+|      24 | 0x1C9B      |        7323 |
 |      25 | 0x0006      |           6 |
 |      26 | 0x0C22      |        3106 |
 |      27 | 0x08A3      |        2211 |
@@ -69,85 +69,85 @@
 |      34 | 0x0CEB      |        3307 |
 |      35 | 0x0015      |          21 |
 |      36 | 0x08A4      |        2212 |
-|      37 | 0x1C9B      |        7323 |
+|      37 | 0x1C9C      |        7324 |
 |      38 | 0x0016      |          22 |
 |      39 | 0x08A5      |        2213 |
-|      40 | 0x1C9C      |        7324 |
-|      41 | 0x1C95      |        7317 |
-|      42 | 0x1C9D      |        7325 |
-|      43 | 0x1C9F      |        7327 |
-|      44 | 0x1C9E      |        7326 |
-|      45 | 0x1C96      |        7318 |
-|      46 | 0x1CA0      |        7328 |
-|      47 | 0x1CB3      |        7347 |
-|      48 | 0x1CB4      |        7348 |
-|      49 | 0x1CCC      |        7372 |
-|      50 | 0x1CBD      |        7357 |
-|      51 | 0x1CCF      |        7375 |
+|      40 | 0x1C9D      |        7325 |
+|      41 | 0x1C96      |        7318 |
+|      42 | 0x1C9E      |        7326 |
+|      43 | 0x1CA0      |        7328 |
+|      44 | 0x1C9F      |        7327 |
+|      45 | 0x1C97      |        7319 |
+|      46 | 0x1CA1      |        7329 |
+|      47 | 0x1CB4      |        7348 |
+|      48 | 0x1CB5      |        7349 |
+|      49 | 0x1CCD      |        7373 |
+|      50 | 0x1CBE      |        7358 |
+|      51 | 0x1CD0      |        7376 |
 |      52 | 0x0063      |          99 |
-|      53 | 0x1CD1      |        7377 |
-|      54 | 0x1CD2      |        7378 |
-|      55 | 0x1CD3      |        7379 |
-|      56 | 0x1CD4      |        7380 |
-|      57 | 0x1CD7      |        7383 |
-|      58 | 0x1CD8      |        7384 |
-|      59 | 0x1CD9      |        7385 |
-|      60 | 0x1CDA      |        7386 |
-|      61 | 0x1CDB      |        7387 |
-|      62 | 0x1CDF      |        7391 |
-|      63 | 0x1CE0      |        7392 |
-|      64 | 0x1CE1      |        7393 |
-|      65 | 0x1CE2      |        7394 |
-|      66 | 0x1CFF      |        7423 |
-|      67 | 0x1CE4      |        7396 |
+|      53 | 0x1CD2      |        7378 |
+|      54 | 0x1CD3      |        7379 |
+|      55 | 0x1CD4      |        7380 |
+|      56 | 0x1CD5      |        7381 |
+|      57 | 0x1CD8      |        7384 |
+|      58 | 0x1CD9      |        7385 |
+|      59 | 0x1CDA      |        7386 |
+|      60 | 0x1CDB      |        7387 |
+|      61 | 0x1CDC      |        7388 |
+|      62 | 0x1CE0      |        7392 |
+|      63 | 0x1CE1      |        7393 |
+|      64 | 0x1CE2      |        7394 |
+|      65 | 0x1CE3      |        7395 |
+|      66 | 0x1D00      |        7424 |
+|      67 | 0x1CE5      |        7397 |
 |      68 | 0x0007      |           7 |
-|      69 | 0x1CE7      |        7399 |
-|      70 | 0x1CEA      |        7402 |
-|      71 | 0x1D00      |        7424 |
-|      72 | 0x1CE8      |        7400 |
-|      73 | 0x1CEB      |        7403 |
-|      74 | 0x1CE9      |        7401 |
-|      75 | 0x1CEC      |        7404 |
-|      76 | 0x1CEE      |        7406 |
-|      77 | 0x1CEF      |        7407 |
-|      78 | 0x1CF0      |        7408 |
+|      69 | 0x1CE8      |        7400 |
+|      70 | 0x1CEB      |        7403 |
+|      71 | 0x1D01      |        7425 |
+|      72 | 0x1CE9      |        7401 |
+|      73 | 0x1CEC      |        7404 |
+|      74 | 0x1CEA      |        7402 |
+|      75 | 0x1CED      |        7405 |
+|      76 | 0x1CEF      |        7407 |
+|      77 | 0x1CF0      |        7408 |
+|      78 | 0x1CF1      |        7409 |
 |      79 | 0x000A      |          10 |
-|      80 | 0x1CF4      |        7412 |
-|      81 | 0x1CF5      |        7413 |
+|      80 | 0x1CF5      |        7413 |
+|      81 | 0x1CF6      |        7414 |
 |      82 | 0x000B      |          11 |
-|      83 | 0x1CF6      |        7414 |
-|      84 | 0x1CF8      |        7416 |
-|      85 | 0x1CF9      |        7417 |
-|      86 | 0x1CFA      |        7418 |
-|      87 | 0x1CB6      |        7350 |
-|      88 | 0x1CBB      |        7355 |
-|      89 | 0x1C99      |        7321 |
+|      83 | 0x1CF7      |        7415 |
+|      84 | 0x1CF9      |        7417 |
+|      85 | 0x1CFA      |        7418 |
+|      86 | 0x1CFB      |        7419 |
+|      87 | 0x1CB7      |        7351 |
+|      88 | 0x1CBC      |        7356 |
+|      89 | 0x1C9A      |        7322 |
 |      90 | 0x0017      |          23 |
 |      91 | 0x001F      |          31 |
 |      92 | 0x0014      |          20 |
 |      93 | 0x001D      |          29 |
-|      94 | 0x1C98      |        7320 |
-|      95 | 0x1C97      |        7319 |
-|      96 | 0x1CA1      |        7329 |
-|      97 | 0x1CA2      |        7330 |
-|      98 | 0x1CA3      |        7331 |
-|      99 | 0x1CA4      |        7332 |
-|     100 | 0x1CA5      |        7333 |
-|     101 | 0x1CA6      |        7334 |
-|     102 | 0x1CA7      |        7335 |
-|     103 | 0x1CA9      |        7337 |
-|     104 | 0x1CAA      |        7338 |
-|     105 | 0x1CAB      |        7339 |
-|     106 | 0x1CAC      |        7340 |
-|     107 | 0x1CAD      |        7341 |
-|     108 | 0x1CAE      |        7342 |
-|     109 | 0x1CAF      |        7343 |
-|     110 | 0x1CB0      |        7344 |
-|     111 | 0x1CB1      |        7345 |
-|     112 | 0x1CB2      |        7346 |
-|     113 | 0x1CB5      |        7349 |
-|     114 | 0x1CBA      |        7354 |
-|     115 | 0x1CBC      |        7356 |
+|      94 | 0x1C99      |        7321 |
+|      95 | 0x1C98      |        7320 |
+|      96 | 0x1CA2      |        7330 |
+|      97 | 0x1CA3      |        7331 |
+|      98 | 0x1CA4      |        7332 |
+|      99 | 0x1CA5      |        7333 |
+|     100 | 0x1CA6      |        7334 |
+|     101 | 0x1CA7      |        7335 |
+|     102 | 0x1CA8      |        7336 |
+|     103 | 0x1CAA      |        7338 |
+|     104 | 0x1CAB      |        7339 |
+|     105 | 0x1CAC      |        7340 |
+|     106 | 0x1CAD      |        7341 |
+|     107 | 0x1CAE      |        7342 |
+|     108 | 0x1CAF      |        7343 |
+|     109 | 0x1CB0      |        7344 |
+|     110 | 0x1CB1      |        7345 |
+|     111 | 0x1CB2      |        7346 |
+|     112 | 0x1CB3      |        7347 |
+|     113 | 0x1CB6      |        7350 |
+|     114 | 0x1CBB      |        7355 |
+|     115 | 0x1CBD      |        7357 |
 |     116 | 0x40000000  |  1073741824 |
 |     117 | 0x044D      |        1101 |
 |     118 | 0x044E      |        1102 |
@@ -421,137 +421,137 @@
 |     386 | 0x18AE      |        6318 |
 |     387 | 0x18AF      |        6319 |
 |     388 | 0x03E7      |         999 |
-|     389 | 0x1CBE      |        7358 |
-|     390 | 0x1CBF      |        7359 |
-|     391 | 0x1CC0      |        7360 |
-|     392 | 0x1CC1      |        7361 |
-|     393 | 0x1CC2      |        7362 |
-|     394 | 0x1CC3      |        7363 |
+|     389 | 0x1CBF      |        7359 |
+|     390 | 0x1CC0      |        7360 |
+|     391 | 0x1CC1      |        7361 |
+|     392 | 0x1CC2      |        7362 |
+|     393 | 0x1CC3      |        7363 |
+|     394 | 0x1CC4      |        7364 |
 |     395 | 0x0013      |          19 |
-|     396 | 0x1CCA      |        7370 |
-|     397 | 0x1CC4      |        7364 |
-|     398 | 0x1CC5      |        7365 |
-|     399 | 0x1CFB      |        7419 |
-|     400 | 0x1CC6      |        7366 |
-|     401 | 0x1CC9      |        7369 |
-|     402 | 0x1CC7      |        7367 |
-|     403 | 0x1CB7      |        7351 |
-|     404 | 0x1CB8      |        7352 |
-|     405 | 0x1CCD      |        7373 |
-|     406 | 0x1CCE      |        7374 |
-|     407 | 0x1CD5      |        7381 |
-|     408 | 0x1CD6      |        7382 |
-|     409 | 0x1CDC      |        7388 |
-|     410 | 0x1CDD      |        7389 |
-|     411 | 0x1CDE      |        7390 |
-|     412 | 0x1CE5      |        7397 |
-|     413 | 0x1CE6      |        7398 |
-|     414 | 0x1CED      |        7405 |
-|     415 | 0x1CF1      |        7409 |
-|     416 | 0x1CF2      |        7410 |
-|     417 | 0x1CF3      |        7411 |
+|     396 | 0x1CCB      |        7371 |
+|     397 | 0x1CC5      |        7365 |
+|     398 | 0x1CC6      |        7366 |
+|     399 | 0x1CFC      |        7420 |
+|     400 | 0x1CC7      |        7367 |
+|     401 | 0x1CCA      |        7370 |
+|     402 | 0x1CC8      |        7368 |
+|     403 | 0x1CB8      |        7352 |
+|     404 | 0x1CB9      |        7353 |
+|     405 | 0x1CCE      |        7374 |
+|     406 | 0x1CCF      |        7375 |
+|     407 | 0x1CD6      |        7382 |
+|     408 | 0x1CD7      |        7383 |
+|     409 | 0x1CDD      |        7389 |
+|     410 | 0x1CDE      |        7390 |
+|     411 | 0x1CDF      |        7391 |
+|     412 | 0x1CE6      |        7398 |
+|     413 | 0x1CE7      |        7399 |
+|     414 | 0x1CEE      |        7406 |
+|     415 | 0x1CF2      |        7410 |
+|     416 | 0x1CF3      |        7411 |
+|     417 | 0x1CF4      |        7412 |
 |     418 | 0x0026      |          38 |
 
 ## String References
 
-- **7317**: [How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition.
-- **7318**: Here at the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, we entrust various tasks related to [the colonization effort/the protection of Adoulin/the transport of goods through Adoulin and Ulbuka/the collection of information for the benefit of the coalition/the pursuit of new technologies/the provision of new entertainment forms] to those willing to aid our cause.
-- **7319**: <Player>, is it not? Brenton at the Pioneers' Coalition has been looking for you. Please go see him at your earliest convenience.
-- **7320**: <Player>, correct? Brenton here would like to have a word with you. He said it was important.
-- **7321**: [Welcome back./I'm glad to see you again./We've been waiting for you./Back and better than ever, I see./How are things?/Why, hello there!] It is my understanding that you have completed one of our tasks. Do you have anything to report?
-- **7322**: Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable.
-- **7323**: Let me take a look... This $3 is broken. Unfortunately, it's of no use to us now. Go back to the frontier station and bring back another one--whole, this time!
-- **7324**: I wish you speed upon your journey.
-- **7325**: You're not a registered pioneer? I am only authorized to give tasks to those with the appropriate credentials.
-- **7326**: Come back when you have the requisite certification.
-- **7327**: Since you're already here, why not take a few minutes to fill out the forms? It won't take long.
-- **7328**: Our records don't seem to mention you. Is this your first time accepting a coalition assignment? Then let me take a moment to explain a bit more about what we do.
-- **7329**: The six coalitions here in Adoulin each require the help of pioneers in their own way to support the colonization effort. These tasks both directly and indirectly support the colonization effort.
-- **7330**: We will, of course, pay appropriate recompense to those completing these assignments. Further, the Twelve Orders will recognize your efforts as you continue to accomplish these goals, and may even provide you with more important duties as you begin to make a name for yourself.
-- **7331**: Perhaps more significantly, the influence of each coalition will expand as more pioneers fulfill these obligations, and the Twelve Orders will permit them to expand.
-- **7332**: This, in turn, will enable the coalitions to increase the number and quality of the services they provide, thereby enabling them to contribute to the colonization project even more.
-- **7333**: Likewise, if one coalition does not receive enough pioneer support, it may shrink in scale, even if it had previously expanded. It is for this reason that we try to make our assignments as lucrative as feasible.
-- **7334**: However, we want to ensure that all pioneers are able to contribute equally. As such, the number of coalition assignments that can be undertaken each day is governed by a system comprised of imprimaturs.
-- **7335**: You will have to part with one imprimatur per job you undertake. Each pioneer may possess up to $0 of such permits, with additional imprimaturs distributed at set intervals.
-- **7337**: One benefit of this system is that you are able to contribute at your own pace. You may save up imprimaturs over a period of time and fill many orders at once, or you may instead use them as they come in.
-- **7338**: Additionally, you can choose to spend multiple imprimaturs for one task. Predictably, you will receive rewards commensurate with the number of imprimaturs used.
-- **7339**: The convenience of pioneers was our foremost priority when establishing this system. You may use all your imprimaturs to support a particular coalition, or you may instead choose to distribute them among several.
-- **7340**: You may also cancel an assignment after it has been accepted. Any imprimaturs used will be returned to you--unless this would put you over the maximum amount, in which case they will be destroyed.
-- **7341**: There is another aspect of the system I have not yet touched on: "coalition referendums."
-- **7342**: The coalition referendums help determine how a particular coalition is going to expand. Pioneers are able to vote on which direction the coalition should head.
-- **7343**: When you complete an assignment, you will be asked to choose which plan the coalition should prioritize.
-- **7344**: A coalition's expansion and services are inexorably intertwined, so take ample stock of which services are on offer before casting your ballot.
-- **7345**: The expansion process will take approximately one week (Earth time). Note that coalitions that have not received much pioneer contribution will not expand.
-- **7346**: I know this is a lot of information to take in, but it is an essential part of your pioneering activities in Ulbuka.
-- **7347**: Since this is your first time here, I shall provide you with a total of $0 imprimaturs so that you may get started right away.
-- **7348**: What would you like to do? ($0 imprimatur[/s]) [Undertake a coalition assignment./Report on a completed assignment./Cancel an in-progress assignment./Check imprimatur distribution time./Hear an explanation of the system./End the conversation.]
-- **7349**: What's this, then? You don't have any imprimaturs? Hmm... You needn't be overly worried, for the next batch will be distributed in $0 [second/minute][/s].
-- **7350**: Select which assignment to cancel.
-- **7351**: Really cancel? [Yes./No.]
-- **7352**: I have filled out this form stating your cancellation, and restored your imprimaturs to their original amount.
-- **7354**: The next batch of imprimaturs will be distributed in $0 [second/minute][/s].
-- **7355**: You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones.
-- **7356**: We look forward to seeing you again.
-- **7357**: We are currently able to offer you the following coalition assignments.
-- **7358**: Unfortunately, we do not currently have any assignments for you to undertake.
-- **7359**: Select how many imprimaturs you would like to expend for this assignment.
-- **7360**: How many will you use? (Total: $0). [One./Two./Three./Four./Five./Hang on one moment.]
-- **7361**: Use $0 imprimatur[/s]? [Of course!/No way.]
-- **7362**: You used $0 imprimatur[/s], and currently have a stock of $1.
-- **7363**: Return here once you have completed your assignment. We appreciate your assistance and hope for your safe return.
-- **7364**: Your report was quite valuable. Thank you. We ask that you submit your vote in the coalition referendum before receiving your reward.
-- **7365**: Select which item the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition should prioritize in its expansion plan.
-- **7366**: Truly abstain from voting? [Yes. Voting is institutionalized coercion./No. Democracy is a privilege.]
-- **7367**: It's a shame you feel that way. Still, you deserve proper compensation. Here you go.
-- **7369**: [Really? That?/Are you sure?/I can't believe.../Hmm.../That's not the way I would have taken it...] Well, I suppose that's why it's your vote, and not mine. What's important is that you expressed your opinion. And now, your compensation.
-- **7370**: I congratulate you on your success and am pleased to hear your report. The coalition has prepared a reward befitting your contributions.
-- **7372**: Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]
-- **7373**: [Accept/Report on/Cancel] which coalition assignment? [Procure: Western Adoulin.[/$26]/Procure: Eastern Adoulin.[/$26]/Procure: Rala Waterways.[/$26]/Procure: Ceizak Battlegrounds.[/$26]/Procure: Yahse Hunting Grounds.[/$26]/Procure: Foret de Hennetiel.[/$26]/Procure: Morimar Basalt Fields.[/$26]/Procure: Yorcia Weald.[/$26]/Procure: Marjami Ravine.[/$26]/Procure: Kamihr Drifts.[/$26]/Procure: Sih Gates.[/$26]/Procure: Moh Gates.[/$26]/Procure: Cirdas Caverns.[/$26]/Procure: Dho Gates.[/$26]/Procure: Woh Gates.[/$26]/Procure: Outer Ra'Kaznar.[/$26]/Procure: Ra'Kaznar Inner Court.[/$26]/Procure: mei.[/$26]/Procure: mgk.[/$26]/Cancel.]
-- **7374**: [Accept/Report on/Cancel] which coalition assignment? [Clear: Western Adoulin.[/$26]/Clear: Eastern Adoulin.[/$26]/Clear: Rala Waterways.[/$26]/Clear: Ceizak Battlegrounds.[/$26]/Clear: Yahse Hunting Grounds.[/$26]/Clear: Foret de Hennetiel.[/$26]/Clear: Morimar Basalt Fields.[/$26]/Clear: Yorcia Weald.[/$26]/Clear: Marjami Ravine.[/$26]/Clear: Kamihr Drifts.[/$26]/Clear: Sih Gates.[/$26]/Clear: Moh Gates.[/$26]/Clear: Cirdas Caverns.[/$26]/Clear: Dho Gates.[/$26]/Clear: Woh Gates.[/$26]/Clear: Outer Ra'Kaznar.[/$26]/Clear: Ra'Kaznar Innert Court.[/$26]/Clear: mei.[/$26]/Clear: mgk.[/$26]/Cancel.]
-- **7375**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure materials for the colonization effort. The assignment will be considered completed if you procure $2 materials by [logging/mining/harvesting].
-- **7377**: Alternatively, the objective may also be completed by gathering pioneering materials from [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7378**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy obstacles there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
-- **7379**: Alternatively, the objective may also be completed by destroying obstacles in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7380**: Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]
-- **7381**: [Accept/Report on/Cancel] which coalition assignment? [Preserve: Western Adoulin.[/$26]/Preserve: Eastern Adoulin.[/$26]/Preserve: Rala Waterways.[/$26]/Preserve: Ceizak Battlegrounds.[/$26]/Preserve: Yahse Hunting Grounds.[/$26]/Preserve: Foret de Hennetiel.[/$26]/Preserve: Morimar Basalt Fields.[/$26]/Preserve: Yorcia Weald.[/$26]/Preserve: Marjami Ravine.[/$26]/Preserve: Kamihr Drifts.[/$26]/Preserve: Sih Gates.[/$26]/Preserve: Moh Gates.[/$26]/Preserve: Cirdas Caverns.[/$26]/Preserve: Dho Gates.[/$26]/Preserve: Woh Gates.[/$26]/Preserve: Outer Ra'Kaznar.[/$26]/Preserve: Ra'Kaznar Inner Court.[/$26]/Preserve: mei.[/$26]/Preserve: mgk.[/$26]/Cancel.]
-- **7382**: [Accept/Report on/Cancel] which coalition assignment? [Patrol: Western Adoulin.[/$26]/Patrol: Eastern Adoulin.[/$26]/Patrol: Rala Waterways.[/$26]/Patrol: Ceizak Battlegrounds.[/$26]/Patrol: Yahse Hunting Grounds.[/$26]/Patrol: Foret de Hennetiel.[/$26]/Patrol: Morimar Basalt Fields.[/$26]/Patrol: Yorcia Weald.[/$26]/Patrol: Marjami Ravine.[/$26]/Patrol: Kamihr Drifts.[/$26]/Patrol: Sih Gates.[/$26]/Patrol: Moh Gates.[/$26]/Patrol: Cirdas Caverns.[/$26]/Patrol: Dho Gates.[/$26]/Patrol: Woh Gates.[/$26]/Patrol: Outer Ra'Kaznar.[/$26]/Patrol: Ra'Kaznar Inner Court.[/$26]/Patrol: mei.[/$26]/Patrol: mgk.[/$26]/Cancel.]
-- **7383**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy monster lairs there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
-- **7384**: Alternatively, the objective may also be completed by destroying lairs in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7385**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and vanquish monsters there. The assignment will be considered completed if you vanquish $2 [umbrils/umbrils/toads/twitherym/chapuli/craklaw/matamata/Yorcia Weald/Marjami Ravine/Kamihr Drifts/twitherym/raptors/maroliths/efts/acuexes/ironclads/mei/mei/mgk].
-- **7386**: Further, the objective may also be completed by vanquishing monsters in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7387**: Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]
-- **7388**: [Accept/Report on/Cancel] which coalition assignment? [Provide: Western Adoulin.[/$26]/Provide: Eastern Adoulin.[/$26]/Provide: Rala Waterways.[/$26]/Provide: Ceizak Battlegrounds.[/$26]/Provide: Yahse Hunting Grounds.[/$26]/Provide: Foret de Hennetiel.[/$26]/Provide: Morimar Basalt Fields.[/$26]/Provide: Yorcia Weald.[/$26]/Provide: Marjami Ravine.[/$26]/Provide: Kamihr Drifts.[/$26]/Provide: Sih Gates.[/$26]/Provide: Moh Gates.[/$26]/Provide: Cirdas Caverns.[/$26]/Provide: Dho Gates.[/$26]/Provide: Woh Gates.[/$26]/Provide: Outer Ra'Kaznar.[/$26]/Provide: Ra'Kaznar Inner Court.[/$26]/Provide: mei.[/$26]/Provide: mgk.[/$26]/Cancel.]
-- **7389**: [Accept/Report on/Cancel] which coalition assignment? [Deliver: Western Adoulin.[/$26]/Deliver: Eastern Adoulin.[/$26]/Deliver: Rala Waterways.[/$26]/Deliver: Ceizak Battlegrounds.[/$26]/Deliver: Yahse Hunting Grounds.[/$26]/Deliver: Foret de Hennetiel.[/$26]/Deliver: Morimar Basalt Fields.[/$26]/Deliver: Yorcia Weald.[/$26]/Deliver: Marjami Ravine.[/$26]/Deliver: Kamihr Drifts.[/$26]/Deliver: Sih Gates.[/$26]/Deliver: Moh Gates.[/$26]/Deliver: Cirdas Caverns.[/$26]/Deliver: Dho Gates.[/$26]/Deliver: Woh Gates.[/$26]/Deliver: Outer Ra'Kaznar.[/$26]/Deliver: Ra'Kaznar Inner Court.[/$26]/Deliver: mei.[/$26]/Deliver: mgk.[/$26]/Cancel.]
-- **7390**: [Accept/Report on/Cancel] which coalition assignment? [Support: Western Adoulin.[/$26]/Support: Eastern Adoulin.[/$26]/Support: Rala Waterways.[/$26]/Support: Ceizak Battlegrounds.[/$26]/Support: Yahse Hunting Grounds.[/$26]/Support: Foret de Hennetiel.[/$26]/Support: Morimar Basalt Fields.[/$26]/Support: Yorcia Weald.[/$26]/Support: Marjami Ravine.[/$26]/Support: Kamihr Drifts.[/$26]/Support: Sih Gates.[/$26]/Support: Moh Gates.[/$26]/Support: Cirdas Caverns.[/$26]/Support: Dho Gates.[/$26]/Support: Woh Gates.[/$26]/Support: Outer Ra'Kaznar.[/$26]/Support: Ra'Kaznar Inner Court.[/$26]/Support: mei.[/$26]/Support: mgk.[/$26]/Cancel.]
-- **7391**: You must deliver supplies to the site in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] where the frontier station is to be constructed. The assignment will be considered completed if you deliver $6.
-- **7392**: You must bring supplies from the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] back to the assignment desk. This assignment will be considered completed if you bring back $6.
-- **7393**: You must bring supplies to the frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you deliver $6.
-- **7394**: Further, the objective may also be completed by delivering supplies to a frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7396**: Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]
-- **7397**: [Accept/Report on/Cancel] which coalition assignment? [Survey: Western Adoulin.[/$26]/Survey: Eastern Adoulin.[/$26]/Survey: Rala Waterways.[/$26]/Survey: Ceizak Battlegrounds.[/$26]/Survey: Yahse Hunting Grounds.[/$26]/Survey: Foret de Hennetiel.[/$26]/Survey: Morimar Basalt Fields.[/$26]/Survey: Yorcia Weald.[/$26]/Survey: Marjami Ravine.[/$26]/Survey: Kamihr Drifts.[/$26]/Survey: Sih Gates.[/$26]/Survey: Moh Gates.[/$26]/Survey: Cirdas Caverns.[/$26]/Survey: Dho Gates.[/$26]/Survey: Woh Gates.[/$26]/Survey: Outer Ra'Kaznar.[/$26]/Survey: Ra'Kaznar Inner Court.[/$26]/Survey: mei.[/$26]/Survey: mgk.[/$26]/Cancel.]
-- **7398**: [Accept/Report on/Cancel] which coalition assignment? [Analyze: Western Adoulin.[/$26]/Analyze: Eastern Adoulin.[/$26]/Analyze: Rala Waterways.[/$26]/Analyze: Ceizak Battlegrounds.[/$26]/Analyze: Yahse Hunting Grounds.[/$26]/Analyze: Foret de Hennetiel.[/$26]/Analyze: Morimar Basalt Fields.[/$26]/Analyze: Yorcia Weald.[/$26]/Analyze: Marjami Ravine.[/$26]/Analyze: Kamihr Drifts.[/$26]/Analyze: Sih Gates.[/$26]/Analyze: Moh Gates.[/$26]/Analyze: Cirdas Caverns.[/$26]/Analyze: Dho Gates.[/$26]/Analyze: Woh Gates.[/$26]/Analyze: Outer Ra'Kaznar.[/$26]/Analyze: Ra'Kaznar Inner Court.[/$26]/Analyze: mei.[/$26]/Analyze: mgk.[/$26]/Cancel.]
-- **7399**: You must survey special tracts of land overflowing with mystical powers in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you survey an ergon locus located there.
-- **7400**: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure rare materials located there. The assignment will be considered completed if you procure $2 $0$0 .
-- **7401**: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
-- **7402**: Alternatively, the objective may also be completed by surveying an ergon locus in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7403**: Alternatively, the objective may also be completed by procuring $1 found in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7404**: Select assignment type. [Gather materials.[/$26]/None of the above.]
-- **7405**: [Accept/Report on/Cancel] which coalition assignment? [Gather: Western Adoulin.[/$26]/Gather: Eastern Adoulin.[/$26]/Gather: Rala Waterways.[/$26]/Gather: Ceizak Battlegrounds.[/$26]/Gather: Yahse Hunting Grounds.[/$26]/Gather: Foret de Hennetiel.[/$26]/Gather: Morimar Basalt Fields.[/$26]/Gather: Yorcia Weald.[/$26]/Gather: Marjami Ravine.[/$26]/Gather: Kamihr Drifts.[/$26]/Gather: Sih Gates.[/$26]/Gather: Moh Gates.[/$26]/Gather: Cirdas Caverns.[/$26]/Gather: Dho Gates.[/$26]/Gather: Woh Gates.[/$26]/Gather: Outer Ra'Kaznar.[/$26]/Gather: Ra'Kaznar Inner Court.[/$26]/Gather: mei.[/$26]/Gather: mgk.[/$26]/Cancel.]
-- **7406**: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure specific materials located there. The assignment will be considered completed if you procure $2 $0$0 .
-- **7407**: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
-- **7408**: Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]
-- **7409**: [Accept/Report on/Cancel] which coalition assignment? [Recover: Western Adoulin.[/$26]/Recover: Eastern Adoulin.[/$26]/Recover: Rala Waterways.[/$26]/Recover: Ceizak Battlegrounds.[/$26]/Recover: Yahse Hunting Grounds.[/$26]/Recover: Foret de Hennetiel.[/$26]/Recover: Morimar Basalt Fields.[/$26]/Recover: Yorcia Weald.[/$26]/Recover: Marjami Ravine.[/$26]/Recover: Kamihr Drifts.[/$26]/Recover: Sih Gates.[/$26]/Recover: Moh Gates.[/$26]/Recover: Cirdas Caverns.[/$26]/Recover: Dho Gates.[/$26]/Recover: Woh Gates.[/$26]/Recover: Outer Ra'Kaznar.[/$26]/Recover: Ra'Kaznar Inner Court.[/$26]/Recover: mei.[/$26]/Recover: mgk.[/$26]/Cancel.]
-- **7410**: [Accept/Report on/Cancel] which coalition assignment? [Research: Western Adoulin.[/$26]/Research: Eastern Adoulin.[/$26]/Research: Rala Waterways.[/$26]/Research: Ceizak Battlegrounds.[/$26]/Research: Yahse Hunting Grounds.[/$26]/Research: Foret de Hennetiel.[/$26]/Research: Morimar Basalt Fields.[/$26]/Research: Yorcia Weald[/$26]/Research: Marjami Ravine.[/$26]/Research: Kamihr Drifts.[/$26]/Research: Sih Gates.[/$26]/Research: Moh Gates.[/$26]/Research: Cirdas Caverns.[/$26]/Research: Dho Gates.[/$26]/Research: Woh Gates.[/$26]/Research: Outer Ra'Kaznar.[/$26]/Research: Ra'Kaznar Inner Court.[/$26]/Research: mei.[/$26]/Research: mgk.[/$26]/Cancel.]
-- **7411**: [Accept/Report on/Cancel] which coalition assignment? [Boost: Western Adoulin.[/$26]/Boost: Eastern Adoulin.[/$26]/Boost: Rala Waterways.[/$26]/Boost: Ceizak Battlegrounds.[/$26]/Boost: Yahse Hunting Grounds.[/$26]/Boost: Foret de Hennetiel.[/$26]/Boost: Morimar Basalt Fields.[/$26]/Boost: Yorcia Weald.[/$26]/Boost: Marjami Ravine.[/$26]/Boost: Kamihr Drifts.[/$26]/Boost: Sih Gates.[/$26]/Boost: Moh Gates.[/$26]/Boost: Cirdas Caverns.[/$26]/Boost: Dho Gates.[/$26]/Boost: Woh Gates.[/$26]/Boost: Outer Ra'Kaznar.[/$26]/Boost: Ra'Kaznar Inner Court.[/$26]/Boost: mei.[/$26]/Boost: mgk.[/$26]/Cancel.]
-- **7412**: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner court/mei/mgk] and find an item that a pioneer lost there. The assignment will be considered completed if you find $6.
-- **7413**: However, the pioneer may have dropped it in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] instead.
-- **7414**: Head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] to find and observe a monster located there. The assignment will be considered completed if you become the victim of a special attack from [an umbril/an umbril/a slug/a chapuli/a chapuli/a craklaw/a matamata/a snapweed/a tulfaire/a raaz/a crakklaw/a matamata/an aceux/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk].
-- **7416**: Alternatively, the objective may also be completed by being the victim of a special attack in the creatures' secondary habitat of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
-- **7417**: You must head to the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and cheer up the staff located there. The assignment will be considered completed if you successfully raise their spirits.
-- **7418**: Alternatively, the objective may also be completed by raising the spirits of those in the nearby area of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], as they are in need of encouragement as well.
-- **7419**: What expansion plan will you [vote for/view]? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./[None of these/None of these].]
-- **7423**: We also give additional rewards based on the degree of construction or the durability of the facility to those pioneers brave enough to travel far distances or into particularly dangerous territory.
-- **7424**: We also give additional rewards based on the extent of the survey to those pioneers brave enough to travel far distances or into particularly dangerous territory.
+- **7318**: [How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition.
+- **7319**: Here at the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, we entrust various tasks related to [the colonization effort/the protection of Adoulin/the transport of goods through Adoulin and Ulbuka/the collection of information for the benefit of the coalition/the pursuit of new technologies/the provision of new entertainment forms] to those willing to aid our cause.
+- **7320**: <Player>, is it not? Brenton at the Pioneers' Coalition has been looking for you. Please go see him at your earliest convenience.
+- **7321**: <Player>, correct? Brenton here would like to have a word with you. He said it was important.
+- **7322**: [Welcome back./I'm glad to see you again./We've been waiting for you./Back and better than ever, I see./How are things?/Why, hello there!] It is my understanding that you have completed one of our tasks. Do you have anything to report?
+- **7323**: Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable.
+- **7324**: Let me take a look... This $3 is broken. Unfortunately, it's of no use to us now. Go back to the frontier station and bring back another one--whole, this time!
+- **7325**: I wish you speed upon your journey.
+- **7326**: You're not a registered pioneer? I am only authorized to give tasks to those with the appropriate credentials.
+- **7327**: Come back when you have the requisite certification.
+- **7328**: Since you're already here, why not take a few minutes to fill out the forms? It won't take long.
+- **7329**: Our records don't seem to mention you. Is this your first time accepting a coalition assignment? Then let me take a moment to explain a bit more about what we do.
+- **7330**: The six coalitions here in Adoulin each require the help of pioneers in their own way to support the colonization effort. These tasks both directly and indirectly support the colonization effort.
+- **7331**: We will, of course, pay appropriate recompense to those completing these assignments. Further, the Twelve Orders will recognize your efforts as you continue to accomplish these goals, and may even provide you with more important duties as you begin to make a name for yourself.
+- **7332**: Perhaps more significantly, the influence of each coalition will expand as more pioneers fulfill these obligations, and the Twelve Orders will permit them to expand.
+- **7333**: This, in turn, will enable the coalitions to increase the number and quality of the services they provide, thereby enabling them to contribute to the colonization project even more.
+- **7334**: Likewise, if one coalition does not receive enough pioneer support, it may shrink in scale, even if it had previously expanded. It is for this reason that we try to make our assignments as lucrative as feasible.
+- **7335**: However, we want to ensure that all pioneers are able to contribute equally. As such, the number of coalition assignments that can be undertaken each day is governed by a system comprised of imprimaturs.
+- **7336**: You will have to part with one imprimatur per job you undertake. Each pioneer may possess up to $0 of such permits, with additional imprimaturs distributed at set intervals.
+- **7338**: One benefit of this system is that you are able to contribute at your own pace. You may save up imprimaturs over a period of time and fill many orders at once, or you may instead use them as they come in.
+- **7339**: Additionally, you can choose to spend multiple imprimaturs for one task. Predictably, you will receive rewards commensurate with the number of imprimaturs used.
+- **7340**: The convenience of pioneers was our foremost priority when establishing this system. You may use all your imprimaturs to support a particular coalition, or you may instead choose to distribute them among several.
+- **7341**: You may also cancel an assignment after it has been accepted. Any imprimaturs used will be returned to you--unless this would put you over the maximum amount, in which case they will be destroyed.
+- **7342**: There is another aspect of the system I have not yet touched on: "coalition referendums."
+- **7343**: The coalition referendums help determine how a particular coalition is going to expand. Pioneers are able to vote on which direction the coalition should head.
+- **7344**: When you complete an assignment, you will be asked to choose which plan the coalition should prioritize.
+- **7345**: A coalition's expansion and services are inexorably intertwined, so take ample stock of which services are on offer before casting your ballot.
+- **7346**: The expansion process will take approximately one week (Earth time). Note that coalitions that have not received much pioneer contribution will not expand.
+- **7347**: I know this is a lot of information to take in, but it is an essential part of your pioneering activities in Ulbuka.
+- **7348**: Since this is your first time here, I shall provide you with a total of $0 imprimaturs so that you may get started right away.
+- **7349**: What would you like to do? ($0 imprimatur[/s]) [Undertake a coalition assignment./Report on a completed assignment./Cancel an in-progress assignment./Check imprimatur distribution time./Hear an explanation of the system./End the conversation.]
+- **7350**: What's this, then? You don't have any imprimaturs? Hmm... You needn't be overly worried, for the next batch will be distributed in $0 [second/minute][/s].
+- **7351**: Select which assignment to cancel.
+- **7352**: Really cancel? [Yes./No.]
+- **7353**: I have filled out this form stating your cancellation, and restored your imprimaturs to their original amount.
+- **7355**: The next batch of imprimaturs will be distributed in $0 [second/minute][/s].
+- **7356**: You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones.
+- **7357**: We look forward to seeing you again.
+- **7358**: We are currently able to offer you the following coalition assignments.
+- **7359**: Unfortunately, we do not currently have any assignments for you to undertake.
+- **7360**: Select how many imprimaturs you would like to expend for this assignment.
+- **7361**: How many will you use? (Total: $0). [One./Two./Three./Four./Five./Hang on one moment.]
+- **7362**: Use $0 imprimatur[/s]? [Of course!/No way.]
+- **7363**: You used $0 imprimatur[/s], and currently have a stock of $1.
+- **7364**: Return here once you have completed your assignment. We appreciate your assistance and hope for your safe return.
+- **7365**: Your report was quite valuable. Thank you. We ask that you submit your vote in the coalition referendum before receiving your reward.
+- **7366**: Select which item the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition should prioritize in its expansion plan.
+- **7367**: Truly abstain from voting? [Yes. Voting is institutionalized coercion./No. Democracy is a privilege.]
+- **7368**: It's a shame you feel that way. Still, you deserve proper compensation. Here you go.
+- **7370**: [Really? That?/Are you sure?/I can't believe.../Hmm.../That's not the way I would have taken it...] Well, I suppose that's why it's your vote, and not mine. What's important is that you expressed your opinion. And now, your compensation.
+- **7371**: I congratulate you on your success and am pleased to hear your report. The coalition has prepared a reward befitting your contributions.
+- **7373**: Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]
+- **7374**: [Accept/Report on/Cancel] which coalition assignment? [Procure: Western Adoulin.[/$26]/Procure: Eastern Adoulin.[/$26]/Procure: Rala Waterways.[/$26]/Procure: Ceizak Battlegrounds.[/$26]/Procure: Yahse Hunting Grounds.[/$26]/Procure: Foret de Hennetiel.[/$26]/Procure: Morimar Basalt Fields.[/$26]/Procure: Yorcia Weald.[/$26]/Procure: Marjami Ravine.[/$26]/Procure: Kamihr Drifts.[/$26]/Procure: Sih Gates.[/$26]/Procure: Moh Gates.[/$26]/Procure: Cirdas Caverns.[/$26]/Procure: Dho Gates.[/$26]/Procure: Woh Gates.[/$26]/Procure: Outer Ra'Kaznar.[/$26]/Procure: Ra'Kaznar Inner Court.[/$26]/Procure: mei.[/$26]/Procure: mgk.[/$26]/Cancel.]
+- **7375**: [Accept/Report on/Cancel] which coalition assignment? [Clear: Western Adoulin.[/$26]/Clear: Eastern Adoulin.[/$26]/Clear: Rala Waterways.[/$26]/Clear: Ceizak Battlegrounds.[/$26]/Clear: Yahse Hunting Grounds.[/$26]/Clear: Foret de Hennetiel.[/$26]/Clear: Morimar Basalt Fields.[/$26]/Clear: Yorcia Weald.[/$26]/Clear: Marjami Ravine.[/$26]/Clear: Kamihr Drifts.[/$26]/Clear: Sih Gates.[/$26]/Clear: Moh Gates.[/$26]/Clear: Cirdas Caverns.[/$26]/Clear: Dho Gates.[/$26]/Clear: Woh Gates.[/$26]/Clear: Outer Ra'Kaznar.[/$26]/Clear: Ra'Kaznar Innert Court.[/$26]/Clear: mei.[/$26]/Clear: mgk.[/$26]/Cancel.]
+- **7376**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure materials for the colonization effort. The assignment will be considered completed if you procure $2 materials by [logging/mining/harvesting].
+- **7378**: Alternatively, the objective may also be completed by gathering pioneering materials from [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7379**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy obstacles there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
+- **7380**: Alternatively, the objective may also be completed by destroying obstacles in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7381**: Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]
+- **7382**: [Accept/Report on/Cancel] which coalition assignment? [Preserve: Western Adoulin.[/$26]/Preserve: Eastern Adoulin.[/$26]/Preserve: Rala Waterways.[/$26]/Preserve: Ceizak Battlegrounds.[/$26]/Preserve: Yahse Hunting Grounds.[/$26]/Preserve: Foret de Hennetiel.[/$26]/Preserve: Morimar Basalt Fields.[/$26]/Preserve: Yorcia Weald.[/$26]/Preserve: Marjami Ravine.[/$26]/Preserve: Kamihr Drifts.[/$26]/Preserve: Sih Gates.[/$26]/Preserve: Moh Gates.[/$26]/Preserve: Cirdas Caverns.[/$26]/Preserve: Dho Gates.[/$26]/Preserve: Woh Gates.[/$26]/Preserve: Outer Ra'Kaznar.[/$26]/Preserve: Ra'Kaznar Inner Court.[/$26]/Preserve: mei.[/$26]/Preserve: mgk.[/$26]/Cancel.]
+- **7383**: [Accept/Report on/Cancel] which coalition assignment? [Patrol: Western Adoulin.[/$26]/Patrol: Eastern Adoulin.[/$26]/Patrol: Rala Waterways.[/$26]/Patrol: Ceizak Battlegrounds.[/$26]/Patrol: Yahse Hunting Grounds.[/$26]/Patrol: Foret de Hennetiel.[/$26]/Patrol: Morimar Basalt Fields.[/$26]/Patrol: Yorcia Weald.[/$26]/Patrol: Marjami Ravine.[/$26]/Patrol: Kamihr Drifts.[/$26]/Patrol: Sih Gates.[/$26]/Patrol: Moh Gates.[/$26]/Patrol: Cirdas Caverns.[/$26]/Patrol: Dho Gates.[/$26]/Patrol: Woh Gates.[/$26]/Patrol: Outer Ra'Kaznar.[/$26]/Patrol: Ra'Kaznar Inner Court.[/$26]/Patrol: mei.[/$26]/Patrol: mgk.[/$26]/Cancel.]
+- **7384**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy monster lairs there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive].
+- **7385**: Alternatively, the objective may also be completed by destroying lairs in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7386**: You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and vanquish monsters there. The assignment will be considered completed if you vanquish $2 [umbrils/umbrils/toads/twitherym/chapuli/craklaw/matamata/Yorcia Weald/Marjami Ravine/Kamihr Drifts/twitherym/raptors/maroliths/efts/acuexes/ironclads/mei/mei/mgk].
+- **7387**: Further, the objective may also be completed by vanquishing monsters in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7388**: Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]
+- **7389**: [Accept/Report on/Cancel] which coalition assignment? [Provide: Western Adoulin.[/$26]/Provide: Eastern Adoulin.[/$26]/Provide: Rala Waterways.[/$26]/Provide: Ceizak Battlegrounds.[/$26]/Provide: Yahse Hunting Grounds.[/$26]/Provide: Foret de Hennetiel.[/$26]/Provide: Morimar Basalt Fields.[/$26]/Provide: Yorcia Weald.[/$26]/Provide: Marjami Ravine.[/$26]/Provide: Kamihr Drifts.[/$26]/Provide: Sih Gates.[/$26]/Provide: Moh Gates.[/$26]/Provide: Cirdas Caverns.[/$26]/Provide: Dho Gates.[/$26]/Provide: Woh Gates.[/$26]/Provide: Outer Ra'Kaznar.[/$26]/Provide: Ra'Kaznar Inner Court.[/$26]/Provide: mei.[/$26]/Provide: mgk.[/$26]/Cancel.]
+- **7390**: [Accept/Report on/Cancel] which coalition assignment? [Deliver: Western Adoulin.[/$26]/Deliver: Eastern Adoulin.[/$26]/Deliver: Rala Waterways.[/$26]/Deliver: Ceizak Battlegrounds.[/$26]/Deliver: Yahse Hunting Grounds.[/$26]/Deliver: Foret de Hennetiel.[/$26]/Deliver: Morimar Basalt Fields.[/$26]/Deliver: Yorcia Weald.[/$26]/Deliver: Marjami Ravine.[/$26]/Deliver: Kamihr Drifts.[/$26]/Deliver: Sih Gates.[/$26]/Deliver: Moh Gates.[/$26]/Deliver: Cirdas Caverns.[/$26]/Deliver: Dho Gates.[/$26]/Deliver: Woh Gates.[/$26]/Deliver: Outer Ra'Kaznar.[/$26]/Deliver: Ra'Kaznar Inner Court.[/$26]/Deliver: mei.[/$26]/Deliver: mgk.[/$26]/Cancel.]
+- **7391**: [Accept/Report on/Cancel] which coalition assignment? [Support: Western Adoulin.[/$26]/Support: Eastern Adoulin.[/$26]/Support: Rala Waterways.[/$26]/Support: Ceizak Battlegrounds.[/$26]/Support: Yahse Hunting Grounds.[/$26]/Support: Foret de Hennetiel.[/$26]/Support: Morimar Basalt Fields.[/$26]/Support: Yorcia Weald.[/$26]/Support: Marjami Ravine.[/$26]/Support: Kamihr Drifts.[/$26]/Support: Sih Gates.[/$26]/Support: Moh Gates.[/$26]/Support: Cirdas Caverns.[/$26]/Support: Dho Gates.[/$26]/Support: Woh Gates.[/$26]/Support: Outer Ra'Kaznar.[/$26]/Support: Ra'Kaznar Inner Court.[/$26]/Support: mei.[/$26]/Support: mgk.[/$26]/Cancel.]
+- **7392**: You must deliver supplies to the site in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] where the frontier station is to be constructed. The assignment will be considered completed if you deliver $6.
+- **7393**: You must bring supplies from the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] back to the assignment desk. This assignment will be considered completed if you bring back $6.
+- **7394**: You must bring supplies to the frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you deliver $6.
+- **7395**: Further, the objective may also be completed by delivering supplies to a frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7397**: Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]
+- **7398**: [Accept/Report on/Cancel] which coalition assignment? [Survey: Western Adoulin.[/$26]/Survey: Eastern Adoulin.[/$26]/Survey: Rala Waterways.[/$26]/Survey: Ceizak Battlegrounds.[/$26]/Survey: Yahse Hunting Grounds.[/$26]/Survey: Foret de Hennetiel.[/$26]/Survey: Morimar Basalt Fields.[/$26]/Survey: Yorcia Weald.[/$26]/Survey: Marjami Ravine.[/$26]/Survey: Kamihr Drifts.[/$26]/Survey: Sih Gates.[/$26]/Survey: Moh Gates.[/$26]/Survey: Cirdas Caverns.[/$26]/Survey: Dho Gates.[/$26]/Survey: Woh Gates.[/$26]/Survey: Outer Ra'Kaznar.[/$26]/Survey: Ra'Kaznar Inner Court.[/$26]/Survey: mei.[/$26]/Survey: mgk.[/$26]/Cancel.]
+- **7399**: [Accept/Report on/Cancel] which coalition assignment? [Analyze: Western Adoulin.[/$26]/Analyze: Eastern Adoulin.[/$26]/Analyze: Rala Waterways.[/$26]/Analyze: Ceizak Battlegrounds.[/$26]/Analyze: Yahse Hunting Grounds.[/$26]/Analyze: Foret de Hennetiel.[/$26]/Analyze: Morimar Basalt Fields.[/$26]/Analyze: Yorcia Weald.[/$26]/Analyze: Marjami Ravine.[/$26]/Analyze: Kamihr Drifts.[/$26]/Analyze: Sih Gates.[/$26]/Analyze: Moh Gates.[/$26]/Analyze: Cirdas Caverns.[/$26]/Analyze: Dho Gates.[/$26]/Analyze: Woh Gates.[/$26]/Analyze: Outer Ra'Kaznar.[/$26]/Analyze: Ra'Kaznar Inner Court.[/$26]/Analyze: mei.[/$26]/Analyze: mgk.[/$26]/Cancel.]
+- **7400**: You must survey special tracts of land overflowing with mystical powers in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you survey an ergon locus located there.
+- **7401**: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure rare materials located there. The assignment will be considered completed if you procure $2 $0$0 .
+- **7402**: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
+- **7403**: Alternatively, the objective may also be completed by surveying an ergon locus in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7404**: Alternatively, the objective may also be completed by procuring $1 found in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7405**: Select assignment type. [Gather materials.[/$26]/None of the above.]
+- **7406**: [Accept/Report on/Cancel] which coalition assignment? [Gather: Western Adoulin.[/$26]/Gather: Eastern Adoulin.[/$26]/Gather: Rala Waterways.[/$26]/Gather: Ceizak Battlegrounds.[/$26]/Gather: Yahse Hunting Grounds.[/$26]/Gather: Foret de Hennetiel.[/$26]/Gather: Morimar Basalt Fields.[/$26]/Gather: Yorcia Weald.[/$26]/Gather: Marjami Ravine.[/$26]/Gather: Kamihr Drifts.[/$26]/Gather: Sih Gates.[/$26]/Gather: Moh Gates.[/$26]/Gather: Cirdas Caverns.[/$26]/Gather: Dho Gates.[/$26]/Gather: Woh Gates.[/$26]/Gather: Outer Ra'Kaznar.[/$26]/Gather: Ra'Kaznar Inner Court.[/$26]/Gather: mei.[/$26]/Gather: mgk.[/$26]/Cancel.]
+- **7407**: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure specific materials located there. The assignment will be considered completed if you procure $2 $0$0 .
+- **7408**: The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report.
+- **7409**: Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]
+- **7410**: [Accept/Report on/Cancel] which coalition assignment? [Recover: Western Adoulin.[/$26]/Recover: Eastern Adoulin.[/$26]/Recover: Rala Waterways.[/$26]/Recover: Ceizak Battlegrounds.[/$26]/Recover: Yahse Hunting Grounds.[/$26]/Recover: Foret de Hennetiel.[/$26]/Recover: Morimar Basalt Fields.[/$26]/Recover: Yorcia Weald.[/$26]/Recover: Marjami Ravine.[/$26]/Recover: Kamihr Drifts.[/$26]/Recover: Sih Gates.[/$26]/Recover: Moh Gates.[/$26]/Recover: Cirdas Caverns.[/$26]/Recover: Dho Gates.[/$26]/Recover: Woh Gates.[/$26]/Recover: Outer Ra'Kaznar.[/$26]/Recover: Ra'Kaznar Inner Court.[/$26]/Recover: mei.[/$26]/Recover: mgk.[/$26]/Cancel.]
+- **7411**: [Accept/Report on/Cancel] which coalition assignment? [Research: Western Adoulin.[/$26]/Research: Eastern Adoulin.[/$26]/Research: Rala Waterways.[/$26]/Research: Ceizak Battlegrounds.[/$26]/Research: Yahse Hunting Grounds.[/$26]/Research: Foret de Hennetiel.[/$26]/Research: Morimar Basalt Fields.[/$26]/Research: Yorcia Weald[/$26]/Research: Marjami Ravine.[/$26]/Research: Kamihr Drifts.[/$26]/Research: Sih Gates.[/$26]/Research: Moh Gates.[/$26]/Research: Cirdas Caverns.[/$26]/Research: Dho Gates.[/$26]/Research: Woh Gates.[/$26]/Research: Outer Ra'Kaznar.[/$26]/Research: Ra'Kaznar Inner Court.[/$26]/Research: mei.[/$26]/Research: mgk.[/$26]/Cancel.]
+- **7412**: [Accept/Report on/Cancel] which coalition assignment? [Boost: Western Adoulin.[/$26]/Boost: Eastern Adoulin.[/$26]/Boost: Rala Waterways.[/$26]/Boost: Ceizak Battlegrounds.[/$26]/Boost: Yahse Hunting Grounds.[/$26]/Boost: Foret de Hennetiel.[/$26]/Boost: Morimar Basalt Fields.[/$26]/Boost: Yorcia Weald.[/$26]/Boost: Marjami Ravine.[/$26]/Boost: Kamihr Drifts.[/$26]/Boost: Sih Gates.[/$26]/Boost: Moh Gates.[/$26]/Boost: Cirdas Caverns.[/$26]/Boost: Dho Gates.[/$26]/Boost: Woh Gates.[/$26]/Boost: Outer Ra'Kaznar.[/$26]/Boost: Ra'Kaznar Inner Court.[/$26]/Boost: mei.[/$26]/Boost: mgk.[/$26]/Cancel.]
+- **7413**: You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner court/mei/mgk] and find an item that a pioneer lost there. The assignment will be considered completed if you find $6.
+- **7414**: However, the pioneer may have dropped it in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] instead.
+- **7415**: Head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] to find and observe a monster located there. The assignment will be considered completed if you become the victim of a special attack from [an umbril/an umbril/a slug/a chapuli/a chapuli/a craklaw/a matamata/a snapweed/a tulfaire/a raaz/a crakklaw/a matamata/an aceux/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk].
+- **7417**: Alternatively, the objective may also be completed by being the victim of a special attack in the creatures' secondary habitat of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby.
+- **7418**: You must head to the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and cheer up the staff located there. The assignment will be considered completed if you successfully raise their spirits.
+- **7419**: Alternatively, the objective may also be completed by raising the spirits of those in the nearby area of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], as they are in need of encouragement as well.
+- **7420**: What expansion plan will you [vote for/view]? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./[None of these/None of these].]
+- **7424**: We also give additional rewards based on the degree of construction or the durability of the facility to those pioneers brave enough to travel far distances or into particularly dangerous territory.
+- **7425**: We also give additional rewards based on the extent of the survey to those pioneers brave enough to travel far distances or into particularly dangerous territory.
 
 ## Events
 
@@ -2679,7 +2679,7 @@ SUBROUTINE_00F6:
  45: 0x00FD [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0222
  46: 0x0105 [0x3E] IF !(ExtData[1]->WorkLocal[19] bit 16*) GOTO 0x0135
  47: 0x010C [0x03] Work_Zone[2] = 2210*
- 48: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+ 48: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable."
  49: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0115 [0x03] ExtData[1]->WorkLocal[9] = 4*
@@ -2690,7 +2690,7 @@ SUBROUTINE_00F6:
  55: 0x0130 [0x03] ExtData[1]->WorkLocal[3] = 1*
  56: 0x0135 [0x3E] IF !(ExtData[1]->WorkLocal[19] bit 17*) GOTO 0x0165
  57: 0x013C [0x03] Work_Zone[2] = 2211*
- 58: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+ 58: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable."
  59: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0145 [0x03] ExtData[1]->WorkLocal[9] = 4*
@@ -2701,7 +2701,7 @@ SUBROUTINE_00F6:
  65: 0x0160 [0x03] ExtData[1]->WorkLocal[3] = 1*
  66: 0x0165 [0x3E] IF !(ExtData[1]->WorkLocal[20] bit 26*) GOTO 0x0195
  67: 0x016C [0x03] Work_Zone[2] = 2214*
- 68: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+ 68: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable."
  69: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0175 [0x03] ExtData[1]->WorkLocal[9] = 4*
@@ -2712,7 +2712,7 @@ SUBROUTINE_00F6:
  75: 0x0190 [0x03] ExtData[1]->WorkLocal[3] = 1*
  76: 0x0195 [0x3E] IF !(ExtData[1]->WorkLocal[20] bit 27*) GOTO 0x01C5
  77: 0x019C [0x03] Work_Zone[2] = 2215*
- 78: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+ 78: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable."
  79: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x01A5 [0x03] ExtData[1]->WorkLocal[9] = 4*
@@ -2723,7 +2723,7 @@ SUBROUTINE_00F6:
  85: 0x01C0 [0x03] ExtData[1]->WorkLocal[3] = 1*
  86: 0x01C5 [0x3E] IF !(ExtData[1]->WorkLocal[20] bit 28*) GOTO 0x01F5
  87: 0x01CC [0x03] Work_Zone[2] = 2216*
- 88: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+ 88: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Let me take a look... Why, this $3 is broken! I'll give you another one, but you really must be more careful with something so valuable."
  89: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x01D5 [0x03] ExtData[1]->WorkLocal[9] = 4*
@@ -2734,13 +2734,13 @@ SUBROUTINE_00F6:
  95: 0x01F0 [0x03] ExtData[1]->WorkLocal[3] = 1*
  96: 0x01F5 [0x3E] IF !(ExtData[1]->WorkLocal[21] bit 21*) GOTO 0x020A
  97: 0x01FC [0x03] Work_Zone[2] = 2212*
- 98: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+ 98: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
     → "Let me take a look... This $3 is broken. Unfortunately, it's of no use to us now. Go back to the frontier station and bring back another one--whole, this time!"
  99: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0205 [0x03] ExtData[1]->WorkLocal[3] = 1*
 101: 0x020A [0x3E] IF !(ExtData[1]->WorkLocal[21] bit 22*) GOTO 0x021F
 102: 0x0211 [0x03] Work_Zone[2] = 2213*
-103: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+103: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
     → "Let me take a look... This $3 is broken. Unfortunately, it's of no use to us now. Go back to the frontier station and bring back another one--whole, this time!"
 104: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x021A [0x03] ExtData[1]->WorkLocal[3] = 1*
@@ -2748,23 +2748,23 @@ SUBROUTINE_00F6:
 
 SUBROUTINE_0222:
 107: 0x0222 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x022E
-108: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
+108: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "I wish you speed upon your journey."
 109: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x022E [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x025C
 111: 0x0236 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-112: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+112: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "[How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition."
 113: 0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
+114: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
     → "You're not a registered pioneer? I am only authorized to give tasks to those with the appropriate credentials."
 115: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0243 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0252
-117: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
+117: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
     → "Since you're already here, why not take a few minutes to fill out the forms? It won't take long."
 118: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x024F [0x01] GOTO 0x0256
-120: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
+120: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
     → "Come back when you have the requisite certification."
 121: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2775,20 +2775,20 @@ SUBROUTINE_0256:
 125: 0x0264 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 126: 0x0265 [0x03] ExtData[1]->WorkLocal[17] = 0*
 127: 0x026A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-128: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+128: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "[How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition."
 129: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0273 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-131: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
+131: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
     → "Here at the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, we entrust various tasks related to [the colonization effort/the protection of Adoulin/the transport of goods through Adoulin and Ulbuka/the collection of information for the benefit of the coalition/the pursuit of new technologies/the provision of new entertainment forms] to those willing to aid our cause."
 132: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x027C [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0294
-134: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
+134: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "Our records don't seem to mention you. Is this your first time accepting a coalition assignment? Then let me take a moment to explain a bit more about what we do."
 135: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0288 [0x1A] CALL_SUBROUTINE(address=0x1649)
 137: 0x028B [0x03] Work_Zone[2] = 3*
-138: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+138: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Since this is your first time here, I shall provide you with a total of $0 imprimaturs so that you may get started right away."
 139: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0294 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
@@ -2803,7 +2803,7 @@ SUBROUTINE_0298:
 147: 0x02B8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x02C7
 148: 0x02C0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
 149: 0x02C7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-150: 0x02CC [0x24] CREATE_DIALOG(message_id=7348*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+150: 0x02CC [0x24] CREATE_DIALOG(message_id=7349*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "What would you like to do? ($0 imprimatur[/s]) [Undertake a coalition assignment./Report on a completed assignment./Cancel an in-progress assignment./Check imprimatur distribution time./Hear an explanation of the system./End the conversation.]"
 151: 0x02D3 [0x25] WAIT_DIALOG_SELECT()
 152: 0x02D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0893
@@ -2821,7 +2821,7 @@ SUBROUTINE_0300:
 162: 0x0308 [0x05] ExtData[1]->WorkLocal[23] = 1
 163: 0x030B [0x03] Work_Zone[2] = 0*
 164: 0x0310 [0x03] Work_Zone[3] = 0*
-165: 0x0315 [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=0*)
+165: 0x0315 [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=0*)
     → "Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]"
 166: 0x031C [0x25] WAIT_DIALOG_SELECT()
 167: 0x031D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0372
@@ -2830,19 +2830,19 @@ SUBROUTINE_0300:
 170: 0x032F [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 171: 0x0332 [0x1A] CALL_SUBROUTINE(address=0x450B)
 172: 0x0335 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x036F
-173: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+173: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 174: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0341 [0x1A] CALL_SUBROUTINE(address=0x4598)
 176: 0x0344 [0x1A] CALL_SUBROUTINE(address=0x6812)
 177: 0x0347 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x036F
 178: 0x034F [0x1A] CALL_SUBROUTINE(address=0x16E6)
-179: 0x0352 [0x48] [System] [7375*]:
+179: 0x0352 [0x48] [System] [7376*]:
     → "You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure materials for the colonization effort. The assignment will be considered completed if you procure $2 materials by [logging/mining/harvesting]."
 180: 0x0355 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0356 [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x0367
 182: 0x035E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-183: 0x0363 [0x48] [System] [7377*]:
+183: 0x0363 [0x48] [System] [7378*]:
     → "Alternatively, the objective may also be completed by gathering pioneering materials from [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 184: 0x0366 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0367 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -2854,19 +2854,19 @@ SUBROUTINE_0300:
 191: 0x0384 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 192: 0x0387 [0x1A] CALL_SUBROUTINE(address=0x450B)
 193: 0x038A [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x03C4
-194: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+194: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 195: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0396 [0x1A] CALL_SUBROUTINE(address=0x4598)
 197: 0x0399 [0x1A] CALL_SUBROUTINE(address=0x6812)
 198: 0x039C [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x03C4
 199: 0x03A4 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-200: 0x03A7 [0x48] [System] [7378*]:
+200: 0x03A7 [0x48] [System] [7379*]:
     → "You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy obstacles there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive]."
 201: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x03AB [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x03BC
 203: 0x03B3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-204: 0x03B8 [0x48] [System] [7379*]:
+204: 0x03B8 [0x48] [System] [7380*]:
     → "Alternatively, the objective may also be completed by destroying obstacles in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 205: 0x03BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x03BC [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -2887,7 +2887,7 @@ SUBROUTINE_03E6:
 217: 0x03EE [0x05] ExtData[1]->WorkLocal[23] = 1
 218: 0x03F1 [0x03] Work_Zone[2] = 0*
 219: 0x03F6 [0x03] Work_Zone[3] = 0*
-220: 0x03FB [0x24] CREATE_DIALOG(message_id=7380*, default_option=0*, option_flags=0*)
+220: 0x03FB [0x24] CREATE_DIALOG(message_id=7381*, default_option=0*, option_flags=0*)
     → "Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]"
 221: 0x0402 [0x25] WAIT_DIALOG_SELECT()
 222: 0x0403 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0458
@@ -2896,19 +2896,19 @@ SUBROUTINE_03E6:
 225: 0x0415 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 226: 0x0418 [0x1A] CALL_SUBROUTINE(address=0x450B)
 227: 0x041B [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0455
-228: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+228: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 229: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x0427 [0x1A] CALL_SUBROUTINE(address=0x4598)
 231: 0x042A [0x1A] CALL_SUBROUTINE(address=0x6812)
 232: 0x042D [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0455
 233: 0x0435 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-234: 0x0438 [0x48] [System] [7383*]:
+234: 0x0438 [0x48] [System] [7384*]:
     → "You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and destroy monster lairs there. The assignment will be considered completed if you participate in a successful [Colonization Reive/Lair Reive/Wildskeeper Reive]."
 235: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x043C [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x044D
 237: 0x0444 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-238: 0x0449 [0x48] [System] [7384*]:
+238: 0x0449 [0x48] [System] [7385*]:
     → "Alternatively, the objective may also be completed by destroying lairs in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 239: 0x044C [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x044D [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -2920,19 +2920,19 @@ SUBROUTINE_03E6:
 246: 0x046A [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 247: 0x046D [0x1A] CALL_SUBROUTINE(address=0x450B)
 248: 0x0470 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x04AA
-249: 0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+249: 0x0478 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 250: 0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x047C [0x1A] CALL_SUBROUTINE(address=0x4598)
 252: 0x047F [0x1A] CALL_SUBROUTINE(address=0x6812)
 253: 0x0482 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x04AA
 254: 0x048A [0x1A] CALL_SUBROUTINE(address=0x16E6)
-255: 0x048D [0x48] [System] [7385*]:
+255: 0x048D [0x48] [System] [7386*]:
     → "You must head for [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and vanquish monsters there. The assignment will be considered completed if you vanquish $2 [umbrils/umbrils/toads/twitherym/chapuli/craklaw/matamata/Yorcia Weald/Marjami Ravine/Kamihr Drifts/twitherym/raptors/maroliths/efts/acuexes/ironclads/mei/mei/mgk]."
 256: 0x0490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x0491 [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x04A2
 258: 0x0499 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-259: 0x049E [0x48] [System] [7386*]:
+259: 0x049E [0x48] [System] [7387*]:
     → "Further, the objective may also be completed by vanquishing monsters in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 260: 0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x04A2 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -2954,7 +2954,7 @@ SUBROUTINE_04CC:
 273: 0x04D7 [0x03] Work_Zone[2] = 0*
 274: 0x04DC [0x03] Work_Zone[3] = 0*
 275: 0x04E1 [0x03] Work_Zone[4] = 0*
-276: 0x04E6 [0x24] CREATE_DIALOG(message_id=7387*, default_option=0*, option_flags=0*)
+276: 0x04E6 [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=0*)
     → "Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]"
 277: 0x04ED [0x25] WAIT_DIALOG_SELECT()
 278: 0x04EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0532
@@ -2963,14 +2963,14 @@ SUBROUTINE_04CC:
 281: 0x0500 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 282: 0x0503 [0x1A] CALL_SUBROUTINE(address=0x450B)
 283: 0x0506 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x052F
-284: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+284: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 285: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0512 [0x1A] CALL_SUBROUTINE(address=0x4598)
 287: 0x0515 [0x1A] CALL_SUBROUTINE(address=0x6812)
 288: 0x0518 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x052F
 289: 0x0520 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-290: 0x0523 [0x48] [System] [7391*]:
+290: 0x0523 [0x48] [System] [7392*]:
     → "You must deliver supplies to the site in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] where the frontier station is to be constructed. The assignment will be considered completed if you deliver $6."
 291: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
 292: 0x0527 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -2982,14 +2982,14 @@ SUBROUTINE_04CC:
 298: 0x0544 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 299: 0x0547 [0x1A] CALL_SUBROUTINE(address=0x450B)
 300: 0x054A [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0573
-301: 0x0552 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+301: 0x0552 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 302: 0x0555 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x0556 [0x1A] CALL_SUBROUTINE(address=0x4598)
 304: 0x0559 [0x1A] CALL_SUBROUTINE(address=0x6812)
 305: 0x055C [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0573
 306: 0x0564 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-307: 0x0567 [0x48] [System] [7392*]:
+307: 0x0567 [0x48] [System] [7393*]:
     → "You must bring supplies from the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] back to the assignment desk. This assignment will be considered completed if you bring back $6."
 308: 0x056A [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x056B [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3001,22 +3001,22 @@ SUBROUTINE_04CC:
 315: 0x0588 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 316: 0x058B [0x1A] CALL_SUBROUTINE(address=0x450B)
 317: 0x058E [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x05CC
-318: 0x0596 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+318: 0x0596 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 319: 0x0599 [0x23] WAIT_FOR_DIALOG_INTERACTION
 320: 0x059A [0x1A] CALL_SUBROUTINE(address=0x4598)
 321: 0x059D [0x1A] CALL_SUBROUTINE(address=0x6812)
 322: 0x05A0 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x05CC
 323: 0x05A8 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-324: 0x05AB [0x48] [System] [7393*]:
+324: 0x05AB [0x48] [System] [7394*]:
     → "You must bring supplies to the frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you deliver $6."
 325: 0x05AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x05AF [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x05C0
 327: 0x05B7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-328: 0x05BC [0x48] [System] [7394*]:
+328: 0x05BC [0x48] [System] [7395*]:
     → "Further, the objective may also be completed by delivering supplies to a frontier bivouac in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 329: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-330: 0x05C0 [0x48] [System] [7423*]:
+330: 0x05C0 [0x48] [System] [7424*]:
     → "We also give additional rewards based on the degree of construction or the durability of the facility to those pioneers brave enough to travel far distances or into particularly dangerous territory."
 331: 0x05C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x05C4 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3037,7 +3037,7 @@ SUBROUTINE_05EE:
 343: 0x05F6 [0x05] ExtData[1]->WorkLocal[23] = 1
 344: 0x05F9 [0x03] Work_Zone[2] = 0*
 345: 0x05FE [0x03] Work_Zone[3] = 0*
-346: 0x0603 [0x24] CREATE_DIALOG(message_id=7396*, default_option=0*, option_flags=0*)
+346: 0x0603 [0x24] CREATE_DIALOG(message_id=7397*, default_option=0*, option_flags=0*)
     → "Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]"
 347: 0x060A [0x25] WAIT_DIALOG_SELECT()
 348: 0x060B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0664
@@ -3046,22 +3046,22 @@ SUBROUTINE_05EE:
 351: 0x061D [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 352: 0x0620 [0x1A] CALL_SUBROUTINE(address=0x450B)
 353: 0x0623 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0661
-354: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+354: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 355: 0x062E [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x062F [0x1A] CALL_SUBROUTINE(address=0x4598)
 357: 0x0632 [0x1A] CALL_SUBROUTINE(address=0x6812)
 358: 0x0635 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0661
 359: 0x063D [0x1A] CALL_SUBROUTINE(address=0x16E6)
-360: 0x0640 [0x48] [System] [7399*]:
+360: 0x0640 [0x48] [System] [7400*]:
     → "You must survey special tracts of land overflowing with mystical powers in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]. The assignment will be considered completed if you survey an ergon locus located there."
 361: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x0644 [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x0655
 363: 0x064C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-364: 0x0651 [0x48] [System] [7402*]:
+364: 0x0651 [0x48] [System] [7403*]:
     → "Alternatively, the objective may also be completed by surveying an ergon locus in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 365: 0x0654 [0x23] WAIT_FOR_DIALOG_INTERACTION
-366: 0x0655 [0x48] [System] [7424*]:
+366: 0x0655 [0x48] [System] [7425*]:
     → "We also give additional rewards based on the extent of the survey to those pioneers brave enough to travel far distances or into particularly dangerous territory."
 367: 0x0658 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0659 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3073,22 +3073,22 @@ SUBROUTINE_05EE:
 374: 0x0676 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 375: 0x0679 [0x1A] CALL_SUBROUTINE(address=0x450B)
 376: 0x067C [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x06BA
-377: 0x0684 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+377: 0x0684 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 378: 0x0687 [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x0688 [0x1A] CALL_SUBROUTINE(address=0x4598)
 380: 0x068B [0x1A] CALL_SUBROUTINE(address=0x6812)
 381: 0x068E [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x06BA
 382: 0x0696 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-383: 0x0699 [0x48] [System] [7400*]:
+383: 0x0699 [0x48] [System] [7401*]:
     → "You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure rare materials located there. The assignment will be considered completed if you procure $2 $0$0 ."
 384: 0x069C [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x069D [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x06AE
 386: 0x06A5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-387: 0x06AA [0x48] [System] [7403*]:
+387: 0x06AA [0x48] [System] [7404*]:
     → "Alternatively, the objective may also be completed by procuring $1 found in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 388: 0x06AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-389: 0x06AE [0x48] [System] [7401*]:
+389: 0x06AE [0x48] [System] [7402*]:
     → "The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report."
 390: 0x06B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x06B2 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3108,7 +3108,7 @@ SUBROUTINE_06DC:
 401: 0x06DC [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x074D
 402: 0x06E4 [0x05] ExtData[1]->WorkLocal[23] = 1
 403: 0x06E7 [0x03] Work_Zone[2] = 0*
-404: 0x06EC [0x24] CREATE_DIALOG(message_id=7404*, default_option=0*, option_flags=0*)
+404: 0x06EC [0x24] CREATE_DIALOG(message_id=7405*, default_option=0*, option_flags=0*)
     → "Select assignment type. [Gather materials.[/$26]/None of the above.]"
 405: 0x06F3 [0x25] WAIT_DIALOG_SELECT()
 406: 0x06F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x073C
@@ -3117,17 +3117,17 @@ SUBROUTINE_06DC:
 409: 0x0706 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 410: 0x0709 [0x1A] CALL_SUBROUTINE(address=0x450B)
 411: 0x070C [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0739
-412: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+412: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 413: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
 414: 0x0718 [0x1A] CALL_SUBROUTINE(address=0x4598)
 415: 0x071B [0x1A] CALL_SUBROUTINE(address=0x6812)
 416: 0x071E [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0739
 417: 0x0726 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-418: 0x0729 [0x48] [System] [7406*]:
+418: 0x0729 [0x48] [System] [7407*]:
     → "You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and procure specific materials located there. The assignment will be considered completed if you procure $2 $0$0 ."
 419: 0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
-420: 0x072D [0x48] [System] [7407*]:
+420: 0x072D [0x48] [System] [7408*]:
     → "The method of procuring the items does not matter. Simply bringing the items to the assignment desk will serve as your report."
 421: 0x0730 [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x0731 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3149,7 +3149,7 @@ SUBROUTINE_075B:
 434: 0x0766 [0x03] Work_Zone[2] = 0*
 435: 0x076B [0x03] Work_Zone[3] = 0*
 436: 0x0770 [0x03] Work_Zone[4] = 0*
-437: 0x0775 [0x24] CREATE_DIALOG(message_id=7408*, default_option=0*, option_flags=0*)
+437: 0x0775 [0x24] CREATE_DIALOG(message_id=7409*, default_option=0*, option_flags=0*)
     → "Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]"
 438: 0x077C [0x25] WAIT_DIALOG_SELECT()
 439: 0x077D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07D2
@@ -3158,19 +3158,19 @@ SUBROUTINE_075B:
 442: 0x078F [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 443: 0x0792 [0x1A] CALL_SUBROUTINE(address=0x450B)
 444: 0x0795 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x07CF
-445: 0x079D [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+445: 0x079D [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 446: 0x07A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 447: 0x07A1 [0x1A] CALL_SUBROUTINE(address=0x4598)
 448: 0x07A4 [0x1A] CALL_SUBROUTINE(address=0x6812)
 449: 0x07A7 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x07CF
 450: 0x07AF [0x1A] CALL_SUBROUTINE(address=0x16E6)
-451: 0x07B2 [0x48] [System] [7412*]:
+451: 0x07B2 [0x48] [System] [7413*]:
     → "You must head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner court/mei/mgk] and find an item that a pioneer lost there. The assignment will be considered completed if you find $6."
 452: 0x07B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x07B6 [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x07C7
 454: 0x07BE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-455: 0x07C3 [0x48] [System] [7413*]:
+455: 0x07C3 [0x48] [System] [7414*]:
     → "However, the pioneer may have dropped it in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] instead."
 456: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x07C7 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3182,19 +3182,19 @@ SUBROUTINE_075B:
 463: 0x07E4 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 464: 0x07E7 [0x1A] CALL_SUBROUTINE(address=0x450B)
 465: 0x07EA [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0824
-466: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+466: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 467: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 468: 0x07F6 [0x1A] CALL_SUBROUTINE(address=0x4598)
 469: 0x07F9 [0x1A] CALL_SUBROUTINE(address=0x6812)
 470: 0x07FC [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0824
 471: 0x0804 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-472: 0x0807 [0x48] [System] [7414*]:
+472: 0x0807 [0x48] [System] [7415*]:
     → "Head to [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] to find and observe a monster located there. The assignment will be considered completed if you become the victim of a special attack from [an umbril/an umbril/a slug/a chapuli/a chapuli/a craklaw/a matamata/a snapweed/a tulfaire/a raaz/a crakklaw/a matamata/an aceux/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk]."
 473: 0x080A [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x080B [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x081C
 475: 0x0813 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-476: 0x0818 [0x48] [System] [7416*]:
+476: 0x0818 [0x48] [System] [7417*]:
     → "Alternatively, the objective may also be completed by being the victim of a special attack in the creatures' secondary habitat of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], which is located nearby."
 477: 0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
 478: 0x081C [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3206,19 +3206,19 @@ SUBROUTINE_075B:
 484: 0x0839 [0x1A] CALL_SUBROUTINE(address=0x2BE8)
 485: 0x083C [0x1A] CALL_SUBROUTINE(address=0x450B)
 486: 0x083F [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0879
-487: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+487: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "We are currently able to offer you the following coalition assignments."
 488: 0x084A [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x084B [0x1A] CALL_SUBROUTINE(address=0x4598)
 490: 0x084E [0x1A] CALL_SUBROUTINE(address=0x6812)
 491: 0x0851 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x0879
 492: 0x0859 [0x1A] CALL_SUBROUTINE(address=0x16E6)
-493: 0x085C [0x48] [System] [7417*]:
+493: 0x085C [0x48] [System] [7418*]:
     → "You must head to the frontier station in [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk] and cheer up the staff located there. The assignment will be considered completed if you successfully raise their spirits."
 494: 0x085F [0x23] WAIT_FOR_DIALOG_INTERACTION
 495: 0x0860 [0x02] IF !(ExtData[1]->WorkLocal[12] == 99*) GOTO 0x0871
 496: 0x0868 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-497: 0x086D [0x48] [System] [7418*]:
+497: 0x086D [0x48] [System] [7419*]:
     → "Alternatively, the objective may also be completed by raising the spirits of those in the nearby area of [Western Adoulin/Eastern Adoulin/Rala Waterways/Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Yorcia Weald/Marjami Ravine/Kamihr Drifts/Sih Gates/Moh Gates/Cirdas Caverns/Dho Gates/Woh Gates/Outer Ra'Kaznar/Ra'Kaznar Inner Court/mei/mgk], as they are in need of encouragement as well."
 498: 0x0870 [0x23] WAIT_FOR_DIALOG_INTERACTION
 499: 0x0871 [0x03] ExtData[1]->WorkLocal[9] = 0*
@@ -3237,7 +3237,7 @@ SUBROUTINE_0890:
 508: 0x0893 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x089E
 509: 0x089B [0x01] GOTO 0x0E44
 510: 0x089E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0DFD
-511: 0x08A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+511: 0x08A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "Select which assignment to cancel."
 512: 0x08A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x08AA [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0981
@@ -3255,7 +3255,7 @@ SUBROUTINE_08B5:
 523: 0x08E7 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[14] (bits 8*-15*)
 524: 0x08F0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x08FF
 525: 0x08F8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
-526: 0x08FF [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+526: 0x08FF [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]"
 527: 0x0906 [0x25] WAIT_DIALOG_SELECT()
 528: 0x0907 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x093A
@@ -3302,7 +3302,7 @@ SUBROUTINE_098C:
 565: 0x09BE [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[14] (bits 9*-15*)
 566: 0x09C7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x09D6
 567: 0x09CF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
-568: 0x09D6 [0x24] CREATE_DIALOG(message_id=7380*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+568: 0x09D6 [0x24] CREATE_DIALOG(message_id=7381*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]"
 569: 0x09DD [0x25] WAIT_DIALOG_SELECT()
 570: 0x09DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A11
@@ -3352,7 +3352,7 @@ SUBROUTINE_0A63:
 610: 0x0AAD [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[14] (bits 10*-15*)
 611: 0x0AB6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0AC5
 612: 0x0ABE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
-613: 0x0AC5 [0x24] CREATE_DIALOG(message_id=7387*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+613: 0x0AC5 [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]"
 614: 0x0ACC [0x25] WAIT_DIALOG_SELECT()
 615: 0x0ACD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B00
@@ -3410,7 +3410,7 @@ SUBROUTINE_0B85:
 663: 0x0BB7 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[14] (bits 9*-15*)
 664: 0x0BC0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0BCF
 665: 0x0BC8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
-666: 0x0BCF [0x24] CREATE_DIALOG(message_id=7396*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+666: 0x0BCF [0x24] CREATE_DIALOG(message_id=7397*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]"
 667: 0x0BD6 [0x25] WAIT_DIALOG_SELECT()
 668: 0x0BD7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C0A
@@ -3453,7 +3453,7 @@ SUBROUTINE_0C5C:
 701: 0x0C71 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[14] (bits 0*-15*)
 702: 0x0C7A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0C89
 703: 0x0C82 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=0*, condition_work_offset=1*)
-704: 0x0C89 [0x24] CREATE_DIALOG(message_id=7404*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+704: 0x0C89 [0x24] CREATE_DIALOG(message_id=7405*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Gather materials.[/$26]/None of the above.]"
 705: 0x0C90 [0x25] WAIT_DIALOG_SELECT()
 706: 0x0C91 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CC4
@@ -3492,7 +3492,7 @@ SUBROUTINE_0CE3:
 735: 0x0D2D [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[14] (bits 13*-15*)
 736: 0x0D36 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0D45
 737: 0x0D3E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
-738: 0x0D45 [0x24] CREATE_DIALOG(message_id=7408*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+738: 0x0D45 [0x24] CREATE_DIALOG(message_id=7409*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]"
 739: 0x0D4C [0x25] WAIT_DIALOG_SELECT()
 740: 0x0D4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D80
@@ -3544,7 +3544,7 @@ SUBROUTINE_0DFA:
 782: 0x0E12 [0x1A] CALL_SUBROUTINE(address=0x1693)
 783: 0x0E15 [0x06] ExtData[1]->WorkLocal[22] = 0
 784: 0x0E18 [0x01] GOTO 0x0E22
-785: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+785: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones."
 786: 0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 787: 0x0E1F [0x06] ExtData[1]->WorkLocal[22] = 0
@@ -3573,11 +3573,11 @@ SUBROUTINE_0E5A:
 804: 0x0E6A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=0*, condition_work_offset=1*)
 805: 0x0E71 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
 806: 0x0E78 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-807: 0x0E7D [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
+807: 0x0E7D [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
     → "[Welcome back./I'm glad to see you again./We've been waiting for you./Back and better than ever, I see./How are things?/Why, hello there!] It is my understanding that you have completed one of our tasks. Do you have anything to report?"
 808: 0x0E80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 809: 0x0E81 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-810: 0x0E86 [0x24] CREATE_DIALOG(message_id=7348*, default_option=1*, option_flags=ExtData[1]->WorkLocal[8])
+810: 0x0E86 [0x24] CREATE_DIALOG(message_id=7349*, default_option=1*, option_flags=ExtData[1]->WorkLocal[8])
     → "What would you like to do? ($0 imprimatur[/s]) [Undertake a coalition assignment./Report on a completed assignment./Cancel an in-progress assignment./Check imprimatur distribution time./Hear an explanation of the system./End the conversation.]"
 811: 0x0E8D [0x25] WAIT_DIALOG_SELECT()
 812: 0x0E8E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E99
@@ -3614,7 +3614,7 @@ SUBROUTINE_0F01:
 839: 0x0F35 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
 
 SUBROUTINE_0F3C:
-840: 0x0F3C [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+840: 0x0F3C [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Procure materials.[/$26]/Clear the way.[/$26]/None of the above.]"
 841: 0x0F43 [0x25] WAIT_DIALOG_SELECT()
 842: 0x0F44 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F77
@@ -3677,7 +3677,7 @@ SUBROUTINE_101E:
 893: 0x1052 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
 
 SUBROUTINE_1059:
-894: 0x1059 [0x24] CREATE_DIALOG(message_id=7380*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+894: 0x1059 [0x24] CREATE_DIALOG(message_id=7381*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Preserve the peace.[/$26]/Patrol.[/$26]/None of the above.]"
 895: 0x1060 [0x25] WAIT_DIALOG_SELECT()
 896: 0x1061 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1094
@@ -3752,7 +3752,7 @@ SUBROUTINE_117B:
 957: 0x11AF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
 
 SUBROUTINE_11B6:
-958: 0x11B6 [0x24] CREATE_DIALOG(message_id=7387*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+958: 0x11B6 [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Base provisions.[/$26]/Supply delivery.[/$26]/Frontline support.[/$26]/None of the above.]"
 959: 0x11BD [0x25] WAIT_DIALOG_SELECT()
 960: 0x11BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11F1
@@ -3826,7 +3826,7 @@ SUBROUTINE_12CB:
 1022: 0x12FF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=1*, condition_work_offset=1*)
 
 SUBROUTINE_1306:
-1023: 0x1306 [0x24] CREATE_DIALOG(message_id=7396*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+1023: 0x1306 [0x24] CREATE_DIALOG(message_id=7397*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Land surveys.[/$26]/Component analyses.[/$26]/None of the above.]"
 1024: 0x130D [0x25] WAIT_DIALOG_SELECT()
 1025: 0x130E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1341
@@ -3877,7 +3877,7 @@ SUBROUTINE_1393:
 1066: 0x13DC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=0*, condition_work_offset=1*)
 
 SUBROUTINE_13E3:
-1067: 0x13E3 [0x24] CREATE_DIALOG(message_id=7404*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+1067: 0x13E3 [0x24] CREATE_DIALOG(message_id=7405*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Gather materials.[/$26]/None of the above.]"
 1068: 0x13EA [0x25] WAIT_DIALOG_SELECT()
 1069: 0x13EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x141E
@@ -3941,7 +3941,7 @@ SUBROUTINE_14D2:
 1119: 0x1506 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=2*, condition_work_offset=1*)
 
 SUBROUTINE_150D:
-1120: 0x150D [0x24] CREATE_DIALOG(message_id=7408*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+1120: 0x150D [0x24] CREATE_DIALOG(message_id=7409*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select assignment type. [Recovering lost articles.[/$26]/Behavioral research.[/$26]/Morale boosting.[/$26]/None of the above.]"
 1121: 0x1514 [0x25] WAIT_DIALOG_SELECT()
 1122: 0x1515 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1548
@@ -3995,7 +3995,7 @@ SUBROUTINE_15C2:
 1166: 0x15E5 [0x1A] CALL_SUBROUTINE(address=0x1693)
 1167: 0x15E8 [0x06] ExtData[1]->WorkLocal[24] = 0
 1168: 0x15EB [0x01] GOTO 0x15F5
-1169: 0x15EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+1169: 0x15EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones."
 1170: 0x15F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1171: 0x15F2 [0x06] ExtData[1]->WorkLocal[24] = 0
@@ -4015,15 +4015,15 @@ SUBROUTINE_1617:
 1181: 0x161A [0x01] GOTO 0x1647
 1182: 0x161D [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x1647
 1183: 0x1625 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-1184: 0x162A [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+1184: 0x162A [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "[How farrre you?/Hello!/May Altana guide you, pioneer./A pleasure to see you./A fair day to you./It is good to see you.] I am here to provide intrepid pioneers with assignments from the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition."
 1185: 0x162D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1186: 0x162E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x163D
-1187: 0x1636 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
+1187: 0x1636 [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "<Player>, correct? Brenton here would like to have a word with you. He said it was important."
 1188: 0x1639 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1189: 0x163A [0x01] GOTO 0x1641
-1190: 0x163D [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+1190: 0x163D [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "<Player>, is it not? Brenton at the Pioneers' Coalition has been looking for you. Please go see him at your earliest convenience."
 1191: 0x1640 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4036,56 +4036,56 @@ SUBROUTINE_1647:
 1195: 0x1648 [0x00] END_REQSTACK()
 
 SUBROUTINE_1649:
-1196: 0x1649 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+1196: 0x1649 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
     → "The six coalitions here in Adoulin each require the help of pioneers in their own way to support the colonization effort. These tasks both directly and indirectly support the colonization effort."
 1197: 0x164C [0x23] WAIT_FOR_DIALOG_INTERACTION
-1198: 0x164D [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
+1198: 0x164D [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
     → "We will, of course, pay appropriate recompense to those completing these assignments. Further, the Twelve Orders will recognize your efforts as you continue to accomplish these goals, and may even provide you with more important duties as you begin to make a name for yourself."
 1199: 0x1650 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1200: 0x1651 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
+1200: 0x1651 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
     → "Perhaps more significantly, the influence of each coalition will expand as more pioneers fulfill these obligations, and the Twelve Orders will permit them to expand."
 1201: 0x1654 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1202: 0x1655 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
+1202: 0x1655 [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
     → "This, in turn, will enable the coalitions to increase the number and quality of the services they provide, thereby enabling them to contribute to the colonization project even more."
 1203: 0x1658 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1204: 0x1659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
+1204: 0x1659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
     → "Likewise, if one coalition does not receive enough pioneer support, it may shrink in scale, even if it had previously expanded. It is for this reason that we try to make our assignments as lucrative as feasible."
 1205: 0x165C [0x23] WAIT_FOR_DIALOG_INTERACTION
-1206: 0x165D [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
+1206: 0x165D [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
     → "However, we want to ensure that all pioneers are able to contribute equally. As such, the number of coalition assignments that can be undertaken each day is governed by a system comprised of imprimaturs."
 1207: 0x1660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1208: 0x1661 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
-1209: 0x1666 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
+1209: 0x1666 [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
     → "You will have to part with one imprimatur per job you undertake. Each pioneer may possess up to $0 of such permits, with additional imprimaturs distributed at set intervals."
 1210: 0x1669 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1211: 0x166A [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
+1211: 0x166A [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
     → "One benefit of this system is that you are able to contribute at your own pace. You may save up imprimaturs over a period of time and fill many orders at once, or you may instead use them as they come in."
 1212: 0x166D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1213: 0x166E [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
+1213: 0x166E [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
     → "Additionally, you can choose to spend multiple imprimaturs for one task. Predictably, you will receive rewards commensurate with the number of imprimaturs used."
 1214: 0x1671 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1215: 0x1672 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
+1215: 0x1672 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
     → "The convenience of pioneers was our foremost priority when establishing this system. You may use all your imprimaturs to support a particular coalition, or you may instead choose to distribute them among several."
 1216: 0x1675 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1217: 0x1676 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
+1217: 0x1676 [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
     → "You may also cancel an assignment after it has been accepted. Any imprimaturs used will be returned to you--unless this would put you over the maximum amount, in which case they will be destroyed."
 1218: 0x1679 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1219: 0x167A [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+1219: 0x167A [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
     → "There is another aspect of the system I have not yet touched on: "coalition referendums.""
 1220: 0x167D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1221: 0x167E [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
+1221: 0x167E [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
     → "The coalition referendums help determine how a particular coalition is going to expand. Pioneers are able to vote on which direction the coalition should head."
 1222: 0x1681 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1223: 0x1682 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+1223: 0x1682 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "When you complete an assignment, you will be asked to choose which plan the coalition should prioritize."
 1224: 0x1685 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1225: 0x1686 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+1225: 0x1686 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "A coalition's expansion and services are inexorably intertwined, so take ample stock of which services are on offer before casting your ballot."
 1226: 0x1689 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1227: 0x168A [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+1227: 0x168A [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "The expansion process will take approximately one week (Earth time). Note that coalitions that have not received much pioneer contribution will not expand."
 1228: 0x168D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1229: 0x168E [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+1229: 0x168E [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "I know this is a lot of information to take in, but it is an essential part of your pioneering activities in Ulbuka."
 1230: 0x1691 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1231: 0x1692 [0x1B] RETURN
@@ -4100,16 +4100,16 @@ SUBROUTINE_1693:
 1238: 0x16AF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
 1239: 0x16B4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
 1240: 0x16B9 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x16C8
-1241: 0x16C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+1241: 0x16C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "What's this, then? You don't have any imprimaturs? Hmm... You needn't be overly worried, for the next batch will be distributed in $0 [second/minute][/s]."
 1242: 0x16C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1243: 0x16C5 [0x01] GOTO 0x16DB
 1244: 0x16C8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x16D7
-1245: 0x16D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+1245: 0x16D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "You seem to be in possession of the maximum number of imprimaturs. If you do not use them before the next distribution, you will not receive any additional ones."
 1246: 0x16D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1247: 0x16D4 [0x01] GOTO 0x16DB
-1248: 0x16D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+1248: 0x16D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "The next batch of imprimaturs will be distributed in $0 [second/minute][/s]."
 1249: 0x16DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4117,7 +4117,7 @@ SUBROUTINE_16DB:
 1250: 0x16DB [0x1B] RETURN
 
 SUBROUTINE_16DC:
-1251: 0x16DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+1251: 0x16DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "We look forward to seeing you again."
 1252: 0x16DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1253: 0x16E0 [0x03] Work_Zone[1] = 1073741824*
@@ -6599,7 +6599,7 @@ SUBROUTINE_450B:
 3665: 0x457B [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 16*) GOTO 0x4597
 3666: 0x4582 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 17*) GOTO 0x4597
 3667: 0x4589 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 18*) GOTO 0x4597
-3668: 0x4590 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+3668: 0x4590 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
     → "Unfortunately, we do not currently have any assignments for you to undertake."
 3669: 0x4593 [0x23] WAIT_FOR_DIALOG_INTERACTION
 3670: 0x4594 [0x06] ExtData[1]->WorkLocal[23] = 0
@@ -8403,7 +8403,7 @@ SUBROUTINE_6467:
 5412: 0x6467 [0x1B] RETURN
 
 SUBROUTINE_6468:
-5413: 0x6468 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+5413: 0x6468 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Select how many imprimaturs you would like to expend for this assignment."
 5414: 0x646B [0x23] WAIT_FOR_DIALOG_INTERACTION
 5415: 0x646C [0x03] ExtData[1]->WorkLocal[8] = 0*
@@ -8442,7 +8442,7 @@ SUBROUTINE_6524:
 5444: 0x6524 [0x02] IF !(ExtData[1]->WorkLocal[26] == 0*) GOTO 0x6607
 5445: 0x652C [0x05] ExtData[1]->WorkLocal[26] = 1
 5446: 0x652F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-5447: 0x6534 [0x24] CREATE_DIALOG(message_id=7360*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5447: 0x6534 [0x24] CREATE_DIALOG(message_id=7361*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "How many will you use? (Total: $0). [One./Two./Three./Four./Five./Hang on one moment.]"
 5448: 0x653B [0x25] WAIT_DIALOG_SELECT()
 5449: 0x653C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x654C
@@ -8467,7 +8467,7 @@ SUBROUTINE_6524:
 SUBROUTINE_659A:
 5467: 0x659A [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x6604
 5468: 0x65A2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-5469: 0x65A7 [0x24] CREATE_DIALOG(message_id=7361*, default_option=1*, option_flags=0*)
+5469: 0x65A7 [0x24] CREATE_DIALOG(message_id=7362*, default_option=1*, option_flags=0*)
     → "Use $0 imprimatur[/s]? [Of course!/No way.]"
 5470: 0x65AE [0x25] WAIT_DIALOG_SELECT()
 5471: 0x65AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x65F6
@@ -8475,10 +8475,10 @@ SUBROUTINE_659A:
 5473: 0x65B8 [0x08] ExtData[1]->WorkLocal[6] -= ExtData[1]->WorkLocal[11]
 5474: 0x65BD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 5475: 0x65C2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-5476: 0x65C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
+5476: 0x65C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "You used $0 imprimatur[/s], and currently have a stock of $1."
 5477: 0x65CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-5478: 0x65CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+5478: 0x65CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "Return here once you have completed your assignment. We appreciate your assistance and hope for your safe return."
 5479: 0x65CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 5480: 0x65CF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
@@ -8497,7 +8497,7 @@ SUBROUTINE_6604:
 SUBROUTINE_6608:
 5490: 0x6608 [0x02] IF !(ExtData[1]->WorkLocal[15] < 8*) GOTO 0x6640
 5491: 0x6610 [0x03] ExtData[1]->WorkLocal[11] = 15*
-5492: 0x6615 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+5492: 0x6615 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "I congratulate you on your success and am pleased to hear your report. The coalition has prepared a reward befitting your contributions."
 5493: 0x6618 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5494: 0x6619 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
@@ -8507,7 +8507,7 @@ SUBROUTINE_6608:
 5498: 0x663D [0x01] GOTO 0x679F
 5499: 0x6640 [0x02] IF !(ExtData[1]->WorkLocal[15] < 8*) GOTO 0x6678
 5500: 0x6648 [0x03] ExtData[1]->WorkLocal[11] = 15*
-5501: 0x664D [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+5501: 0x664D [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "I congratulate you on your success and am pleased to hear your report. The coalition has prepared a reward befitting your contributions."
 5502: 0x6650 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5503: 0x6651 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
@@ -8515,11 +8515,11 @@ SUBROUTINE_6608:
 5505: 0x6663 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=18*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[10])
 5506: 0x666C [0x40] SET_BIT_WORK_RANGE(start_bit=19*, end_bit=22*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[11])
 5507: 0x6675 [0x01] GOTO 0x679F
-5508: 0x6678 [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
+5508: 0x6678 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
     → "Your report was quite valuable. Thank you. We ask that you submit your vote in the coalition referendum before receiving your reward."
 5509: 0x667B [0x23] WAIT_FOR_DIALOG_INTERACTION
 5510: 0x667C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-5511: 0x6681 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+5511: 0x6681 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "Select which item the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition should prioritize in its expansion plan."
 5512: 0x6684 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5513: 0x6685 [0x06] ExtData[1]->WorkLocal[25] = 0
@@ -8530,7 +8530,7 @@ SUBROUTINE_6688:
 5516: 0x6693 [0x03] ExtData[1]->WorkLocal[8] = 0*
 5517: 0x6698 [0x1A] CALL_SUBROUTINE(address=0x626B)
 5518: 0x669B [0x03] Work_Zone[2] = 0*
-5519: 0x66A0 [0x24] CREATE_DIALOG(message_id=7419*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5519: 0x66A0 [0x24] CREATE_DIALOG(message_id=7420*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "What expansion plan will you [vote for/view]? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./[None of these/None of these].]"
 5520: 0x66A7 [0x25] WAIT_DIALOG_SELECT()
 5521: 0x66A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x66B8
@@ -8558,7 +8558,7 @@ SUBROUTINE_6688:
 5543: 0x6720 [0x03] ExtData[1]->WorkLocal[11] = 7*
 5544: 0x6725 [0x01] GOTO 0x6759
 5545: 0x6728 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x6759
-5546: 0x6730 [0x24] CREATE_DIALOG(message_id=7366*, default_option=1*, option_flags=0*)
+5546: 0x6730 [0x24] CREATE_DIALOG(message_id=7367*, default_option=1*, option_flags=0*)
     → "Truly abstain from voting? [Yes. Voting is institutionalized coercion./No. Democracy is a privilege.]"
 5547: 0x6737 [0x25] WAIT_DIALOG_SELECT()
 5548: 0x6738 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6748
@@ -8577,12 +8577,12 @@ SUBROUTINE_6759:
 5557: 0x6764 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 5558: 0x6765 [0x13] ExtData[1]->WorkLocal[1] = rand() % 4*
 5559: 0x676A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
-5560: 0x676F [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
+5560: 0x676F [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
     → "[Really? That?/Are you sure?/I can't believe.../Hmm.../That's not the way I would have taken it...] Well, I suppose that's why it's your vote, and not mine. What's important is that you expressed your opinion. And now, your compensation."
 5561: 0x6772 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5562: 0x6773 [0x01] GOTO 0x677B
 5563: 0x6776 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-5564: 0x6777 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+5564: 0x6777 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
     → "It's a shame you feel that way. Still, you deserve proper compensation. Here you go."
 5565: 0x677A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -8596,7 +8596,7 @@ SUBROUTINE_679F:
 5570: 0x679F [0x1B] RETURN
 
 SUBROUTINE_67A0:
-5571: 0x67A0 [0x24] CREATE_DIALOG(message_id=7351*, default_option=1*, option_flags=0*)
+5571: 0x67A0 [0x24] CREATE_DIALOG(message_id=7352*, default_option=1*, option_flags=0*)
     → "Really cancel? [Yes./No.]"
 5572: 0x67A7 [0x25] WAIT_DIALOG_SELECT()
 5573: 0x67A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6803
@@ -8612,7 +8612,7 @@ SUBROUTINE_67A0:
 5583: 0x67DE [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_67E1:
-5584: 0x67E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+5584: 0x67E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "I have filled out this form stating your cancellation, and restored your imprimaturs to their original amount."
 5585: 0x67E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 5586: 0x67E5 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=2*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[9])
@@ -8629,7 +8629,7 @@ SUBROUTINE_6811:
 SUBROUTINE_6812:
 5594: 0x6812 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x6B99
 5595: 0x681A [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x69D8
-5596: 0x6822 [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5596: 0x6822 [0x24] CREATE_DIALOG(message_id=7374*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Procure: Western Adoulin.[/$26]/Procure: Eastern Adoulin.[/$26]/Procure: Rala Waterways.[/$26]/Procure: Ceizak Battlegrounds.[/$26]/Procure: Yahse Hunting Grounds.[/$26]/Procure: Foret de Hennetiel.[/$26]/Procure: Morimar Basalt Fields.[/$26]/Procure: Yorcia Weald.[/$26]/Procure: Marjami Ravine.[/$26]/Procure: Kamihr Drifts.[/$26]/Procure: Sih Gates.[/$26]/Procure: Moh Gates.[/$26]/Procure: Cirdas Caverns.[/$26]/Procure: Dho Gates.[/$26]/Procure: Woh Gates.[/$26]/Procure: Outer Ra'Kaznar.[/$26]/Procure: Ra'Kaznar Inner Court.[/$26]/Procure: mei.[/$26]/Procure: mgk.[/$26]/Cancel.]"
 5597: 0x6829 [0x25] WAIT_DIALOG_SELECT()
 5598: 0x682A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x683F
@@ -8720,7 +8720,7 @@ SUBROUTINE_69D2:
 SUBROUTINE_69D5:
 5680: 0x69D5 [0x01] GOTO 0x6B96
 5681: 0x69D8 [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x6B96
-5682: 0x69E0 [0x24] CREATE_DIALOG(message_id=7374*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5682: 0x69E0 [0x24] CREATE_DIALOG(message_id=7375*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Clear: Western Adoulin.[/$26]/Clear: Eastern Adoulin.[/$26]/Clear: Rala Waterways.[/$26]/Clear: Ceizak Battlegrounds.[/$26]/Clear: Yahse Hunting Grounds.[/$26]/Clear: Foret de Hennetiel.[/$26]/Clear: Morimar Basalt Fields.[/$26]/Clear: Yorcia Weald.[/$26]/Clear: Marjami Ravine.[/$26]/Clear: Kamihr Drifts.[/$26]/Clear: Sih Gates.[/$26]/Clear: Moh Gates.[/$26]/Clear: Cirdas Caverns.[/$26]/Clear: Dho Gates.[/$26]/Clear: Woh Gates.[/$26]/Clear: Outer Ra'Kaznar.[/$26]/Clear: Ra'Kaznar Innert Court.[/$26]/Clear: mei.[/$26]/Clear: mgk.[/$26]/Cancel.]"
 5683: 0x69E7 [0x25] WAIT_DIALOG_SELECT()
 5684: 0x69E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x69FD
@@ -8815,7 +8815,7 @@ SUBROUTINE_6B96:
 5767: 0x6B96 [0x01] GOTO 0x7EFA
 5768: 0x6B99 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x6F20
 5769: 0x6BA1 [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x6D5F
-5770: 0x6BA9 [0x24] CREATE_DIALOG(message_id=7381*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5770: 0x6BA9 [0x24] CREATE_DIALOG(message_id=7382*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Preserve: Western Adoulin.[/$26]/Preserve: Eastern Adoulin.[/$26]/Preserve: Rala Waterways.[/$26]/Preserve: Ceizak Battlegrounds.[/$26]/Preserve: Yahse Hunting Grounds.[/$26]/Preserve: Foret de Hennetiel.[/$26]/Preserve: Morimar Basalt Fields.[/$26]/Preserve: Yorcia Weald.[/$26]/Preserve: Marjami Ravine.[/$26]/Preserve: Kamihr Drifts.[/$26]/Preserve: Sih Gates.[/$26]/Preserve: Moh Gates.[/$26]/Preserve: Cirdas Caverns.[/$26]/Preserve: Dho Gates.[/$26]/Preserve: Woh Gates.[/$26]/Preserve: Outer Ra'Kaznar.[/$26]/Preserve: Ra'Kaznar Inner Court.[/$26]/Preserve: mei.[/$26]/Preserve: mgk.[/$26]/Cancel.]"
 5771: 0x6BB0 [0x25] WAIT_DIALOG_SELECT()
 5772: 0x6BB1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6BC6
@@ -8906,7 +8906,7 @@ SUBROUTINE_6D59:
 SUBROUTINE_6D5C:
 5854: 0x6D5C [0x01] GOTO 0x6F1D
 5855: 0x6D5F [0x02] IF !(ExtData[1]->WorkLocal[13] == 3*) GOTO 0x6F1D
-5856: 0x6D67 [0x24] CREATE_DIALOG(message_id=7382*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5856: 0x6D67 [0x24] CREATE_DIALOG(message_id=7383*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Patrol: Western Adoulin.[/$26]/Patrol: Eastern Adoulin.[/$26]/Patrol: Rala Waterways.[/$26]/Patrol: Ceizak Battlegrounds.[/$26]/Patrol: Yahse Hunting Grounds.[/$26]/Patrol: Foret de Hennetiel.[/$26]/Patrol: Morimar Basalt Fields.[/$26]/Patrol: Yorcia Weald.[/$26]/Patrol: Marjami Ravine.[/$26]/Patrol: Kamihr Drifts.[/$26]/Patrol: Sih Gates.[/$26]/Patrol: Moh Gates.[/$26]/Patrol: Cirdas Caverns.[/$26]/Patrol: Dho Gates.[/$26]/Patrol: Woh Gates.[/$26]/Patrol: Outer Ra'Kaznar.[/$26]/Patrol: Ra'Kaznar Inner Court.[/$26]/Patrol: mei.[/$26]/Patrol: mgk.[/$26]/Cancel.]"
 5857: 0x6D6E [0x25] WAIT_DIALOG_SELECT()
 5858: 0x6D6F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6D84
@@ -9001,7 +9001,7 @@ SUBROUTINE_6F1D:
 5941: 0x6F1D [0x01] GOTO 0x7EFA
 5942: 0x6F20 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x7465
 5943: 0x6F28 [0x02] IF !(ExtData[1]->WorkLocal[13] == 4*) GOTO 0x70E6
-5944: 0x6F30 [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+5944: 0x6F30 [0x24] CREATE_DIALOG(message_id=7389*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Provide: Western Adoulin.[/$26]/Provide: Eastern Adoulin.[/$26]/Provide: Rala Waterways.[/$26]/Provide: Ceizak Battlegrounds.[/$26]/Provide: Yahse Hunting Grounds.[/$26]/Provide: Foret de Hennetiel.[/$26]/Provide: Morimar Basalt Fields.[/$26]/Provide: Yorcia Weald.[/$26]/Provide: Marjami Ravine.[/$26]/Provide: Kamihr Drifts.[/$26]/Provide: Sih Gates.[/$26]/Provide: Moh Gates.[/$26]/Provide: Cirdas Caverns.[/$26]/Provide: Dho Gates.[/$26]/Provide: Woh Gates.[/$26]/Provide: Outer Ra'Kaznar.[/$26]/Provide: Ra'Kaznar Inner Court.[/$26]/Provide: mei.[/$26]/Provide: mgk.[/$26]/Cancel.]"
 5945: 0x6F37 [0x25] WAIT_DIALOG_SELECT()
 5946: 0x6F38 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6F4D
@@ -9092,7 +9092,7 @@ SUBROUTINE_70E0:
 SUBROUTINE_70E3:
 6028: 0x70E3 [0x01] GOTO 0x7462
 6029: 0x70E6 [0x02] IF !(ExtData[1]->WorkLocal[13] == 5*) GOTO 0x72A4
-6030: 0x70EE [0x24] CREATE_DIALOG(message_id=7389*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6030: 0x70EE [0x24] CREATE_DIALOG(message_id=7390*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Deliver: Western Adoulin.[/$26]/Deliver: Eastern Adoulin.[/$26]/Deliver: Rala Waterways.[/$26]/Deliver: Ceizak Battlegrounds.[/$26]/Deliver: Yahse Hunting Grounds.[/$26]/Deliver: Foret de Hennetiel.[/$26]/Deliver: Morimar Basalt Fields.[/$26]/Deliver: Yorcia Weald.[/$26]/Deliver: Marjami Ravine.[/$26]/Deliver: Kamihr Drifts.[/$26]/Deliver: Sih Gates.[/$26]/Deliver: Moh Gates.[/$26]/Deliver: Cirdas Caverns.[/$26]/Deliver: Dho Gates.[/$26]/Deliver: Woh Gates.[/$26]/Deliver: Outer Ra'Kaznar.[/$26]/Deliver: Ra'Kaznar Inner Court.[/$26]/Deliver: mei.[/$26]/Deliver: mgk.[/$26]/Cancel.]"
 6031: 0x70F5 [0x25] WAIT_DIALOG_SELECT()
 6032: 0x70F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x710B
@@ -9183,7 +9183,7 @@ SUBROUTINE_729E:
 SUBROUTINE_72A1:
 6114: 0x72A1 [0x01] GOTO 0x7462
 6115: 0x72A4 [0x02] IF !(ExtData[1]->WorkLocal[13] == 6*) GOTO 0x7462
-6116: 0x72AC [0x24] CREATE_DIALOG(message_id=7390*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6116: 0x72AC [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Support: Western Adoulin.[/$26]/Support: Eastern Adoulin.[/$26]/Support: Rala Waterways.[/$26]/Support: Ceizak Battlegrounds.[/$26]/Support: Yahse Hunting Grounds.[/$26]/Support: Foret de Hennetiel.[/$26]/Support: Morimar Basalt Fields.[/$26]/Support: Yorcia Weald.[/$26]/Support: Marjami Ravine.[/$26]/Support: Kamihr Drifts.[/$26]/Support: Sih Gates.[/$26]/Support: Moh Gates.[/$26]/Support: Cirdas Caverns.[/$26]/Support: Dho Gates.[/$26]/Support: Woh Gates.[/$26]/Support: Outer Ra'Kaznar.[/$26]/Support: Ra'Kaznar Inner Court.[/$26]/Support: mei.[/$26]/Support: mgk.[/$26]/Cancel.]"
 6117: 0x72B3 [0x25] WAIT_DIALOG_SELECT()
 6118: 0x72B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x72C9
@@ -9278,7 +9278,7 @@ SUBROUTINE_7462:
 6201: 0x7462 [0x01] GOTO 0x7EFA
 6202: 0x7465 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x77EC
 6203: 0x746D [0x02] IF !(ExtData[1]->WorkLocal[13] == 7*) GOTO 0x762B
-6204: 0x7475 [0x24] CREATE_DIALOG(message_id=7397*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6204: 0x7475 [0x24] CREATE_DIALOG(message_id=7398*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Survey: Western Adoulin.[/$26]/Survey: Eastern Adoulin.[/$26]/Survey: Rala Waterways.[/$26]/Survey: Ceizak Battlegrounds.[/$26]/Survey: Yahse Hunting Grounds.[/$26]/Survey: Foret de Hennetiel.[/$26]/Survey: Morimar Basalt Fields.[/$26]/Survey: Yorcia Weald.[/$26]/Survey: Marjami Ravine.[/$26]/Survey: Kamihr Drifts.[/$26]/Survey: Sih Gates.[/$26]/Survey: Moh Gates.[/$26]/Survey: Cirdas Caverns.[/$26]/Survey: Dho Gates.[/$26]/Survey: Woh Gates.[/$26]/Survey: Outer Ra'Kaznar.[/$26]/Survey: Ra'Kaznar Inner Court.[/$26]/Survey: mei.[/$26]/Survey: mgk.[/$26]/Cancel.]"
 6205: 0x747C [0x25] WAIT_DIALOG_SELECT()
 6206: 0x747D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7492
@@ -9369,7 +9369,7 @@ SUBROUTINE_7625:
 SUBROUTINE_7628:
 6288: 0x7628 [0x01] GOTO 0x77E9
 6289: 0x762B [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x77E9
-6290: 0x7633 [0x24] CREATE_DIALOG(message_id=7398*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6290: 0x7633 [0x24] CREATE_DIALOG(message_id=7399*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Analyze: Western Adoulin.[/$26]/Analyze: Eastern Adoulin.[/$26]/Analyze: Rala Waterways.[/$26]/Analyze: Ceizak Battlegrounds.[/$26]/Analyze: Yahse Hunting Grounds.[/$26]/Analyze: Foret de Hennetiel.[/$26]/Analyze: Morimar Basalt Fields.[/$26]/Analyze: Yorcia Weald.[/$26]/Analyze: Marjami Ravine.[/$26]/Analyze: Kamihr Drifts.[/$26]/Analyze: Sih Gates.[/$26]/Analyze: Moh Gates.[/$26]/Analyze: Cirdas Caverns.[/$26]/Analyze: Dho Gates.[/$26]/Analyze: Woh Gates.[/$26]/Analyze: Outer Ra'Kaznar.[/$26]/Analyze: Ra'Kaznar Inner Court.[/$26]/Analyze: mei.[/$26]/Analyze: mgk.[/$26]/Cancel.]"
 6291: 0x763A [0x25] WAIT_DIALOG_SELECT()
 6292: 0x763B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7650
@@ -9464,7 +9464,7 @@ SUBROUTINE_77E9:
 6375: 0x77E9 [0x01] GOTO 0x7EFA
 6376: 0x77EC [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x79B5
 6377: 0x77F4 [0x02] IF !(ExtData[1]->WorkLocal[13] == 9*) GOTO 0x79B2
-6378: 0x77FC [0x24] CREATE_DIALOG(message_id=7405*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6378: 0x77FC [0x24] CREATE_DIALOG(message_id=7406*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Gather: Western Adoulin.[/$26]/Gather: Eastern Adoulin.[/$26]/Gather: Rala Waterways.[/$26]/Gather: Ceizak Battlegrounds.[/$26]/Gather: Yahse Hunting Grounds.[/$26]/Gather: Foret de Hennetiel.[/$26]/Gather: Morimar Basalt Fields.[/$26]/Gather: Yorcia Weald.[/$26]/Gather: Marjami Ravine.[/$26]/Gather: Kamihr Drifts.[/$26]/Gather: Sih Gates.[/$26]/Gather: Moh Gates.[/$26]/Gather: Cirdas Caverns.[/$26]/Gather: Dho Gates.[/$26]/Gather: Woh Gates.[/$26]/Gather: Outer Ra'Kaznar.[/$26]/Gather: Ra'Kaznar Inner Court.[/$26]/Gather: mei.[/$26]/Gather: mgk.[/$26]/Cancel.]"
 6379: 0x7803 [0x25] WAIT_DIALOG_SELECT()
 6380: 0x7804 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7819
@@ -9559,7 +9559,7 @@ SUBROUTINE_79B2:
 6463: 0x79B2 [0x01] GOTO 0x7EFA
 6464: 0x79B5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x7EFA
 6465: 0x79BD [0x02] IF !(ExtData[1]->WorkLocal[13] == 10*) GOTO 0x7B7B
-6466: 0x79C5 [0x24] CREATE_DIALOG(message_id=7409*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6466: 0x79C5 [0x24] CREATE_DIALOG(message_id=7410*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Recover: Western Adoulin.[/$26]/Recover: Eastern Adoulin.[/$26]/Recover: Rala Waterways.[/$26]/Recover: Ceizak Battlegrounds.[/$26]/Recover: Yahse Hunting Grounds.[/$26]/Recover: Foret de Hennetiel.[/$26]/Recover: Morimar Basalt Fields.[/$26]/Recover: Yorcia Weald.[/$26]/Recover: Marjami Ravine.[/$26]/Recover: Kamihr Drifts.[/$26]/Recover: Sih Gates.[/$26]/Recover: Moh Gates.[/$26]/Recover: Cirdas Caverns.[/$26]/Recover: Dho Gates.[/$26]/Recover: Woh Gates.[/$26]/Recover: Outer Ra'Kaznar.[/$26]/Recover: Ra'Kaznar Inner Court.[/$26]/Recover: mei.[/$26]/Recover: mgk.[/$26]/Cancel.]"
 6467: 0x79CC [0x25] WAIT_DIALOG_SELECT()
 6468: 0x79CD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x79E2
@@ -9650,7 +9650,7 @@ SUBROUTINE_7B75:
 SUBROUTINE_7B78:
 6550: 0x7B78 [0x01] GOTO 0x7EF7
 6551: 0x7B7B [0x02] IF !(ExtData[1]->WorkLocal[13] == 11*) GOTO 0x7D39
-6552: 0x7B83 [0x24] CREATE_DIALOG(message_id=7410*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6552: 0x7B83 [0x24] CREATE_DIALOG(message_id=7411*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Research: Western Adoulin.[/$26]/Research: Eastern Adoulin.[/$26]/Research: Rala Waterways.[/$26]/Research: Ceizak Battlegrounds.[/$26]/Research: Yahse Hunting Grounds.[/$26]/Research: Foret de Hennetiel.[/$26]/Research: Morimar Basalt Fields.[/$26]/Research: Yorcia Weald[/$26]/Research: Marjami Ravine.[/$26]/Research: Kamihr Drifts.[/$26]/Research: Sih Gates.[/$26]/Research: Moh Gates.[/$26]/Research: Cirdas Caverns.[/$26]/Research: Dho Gates.[/$26]/Research: Woh Gates.[/$26]/Research: Outer Ra'Kaznar.[/$26]/Research: Ra'Kaznar Inner Court.[/$26]/Research: mei.[/$26]/Research: mgk.[/$26]/Cancel.]"
 6553: 0x7B8A [0x25] WAIT_DIALOG_SELECT()
 6554: 0x7B8B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7BA0
@@ -9741,7 +9741,7 @@ SUBROUTINE_7D33:
 SUBROUTINE_7D36:
 6636: 0x7D36 [0x01] GOTO 0x7EF7
 6637: 0x7D39 [0x02] IF !(ExtData[1]->WorkLocal[13] == 12*) GOTO 0x7EF7
-6638: 0x7D41 [0x24] CREATE_DIALOG(message_id=7411*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+6638: 0x7D41 [0x24] CREATE_DIALOG(message_id=7412*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "[Accept/Report on/Cancel] which coalition assignment? [Boost: Western Adoulin.[/$26]/Boost: Eastern Adoulin.[/$26]/Boost: Rala Waterways.[/$26]/Boost: Ceizak Battlegrounds.[/$26]/Boost: Yahse Hunting Grounds.[/$26]/Boost: Foret de Hennetiel.[/$26]/Boost: Morimar Basalt Fields.[/$26]/Boost: Yorcia Weald.[/$26]/Boost: Marjami Ravine.[/$26]/Boost: Kamihr Drifts.[/$26]/Boost: Sih Gates.[/$26]/Boost: Moh Gates.[/$26]/Boost: Cirdas Caverns.[/$26]/Boost: Dho Gates.[/$26]/Boost: Woh Gates.[/$26]/Boost: Outer Ra'Kaznar.[/$26]/Boost: Ra'Kaznar Inner Court.[/$26]/Boost: mei.[/$26]/Boost: mgk.[/$26]/Cancel.]"
 6639: 0x7D48 [0x25] WAIT_DIALOG_SELECT()
 6640: 0x7D49 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7D5E

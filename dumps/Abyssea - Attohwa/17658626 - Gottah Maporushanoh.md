@@ -23,24 +23,24 @@
 |---------|-------------|-------------|
 |       0 | 0x0003      |           3 |
 |       1 | 0x0013      |          19 |
-|       2 | 0x2068      |        8296 |
-|       3 | 0x2069      |        8297 |
-|       4 | 0x206A      |        8298 |
-|       5 | 0x206B      |        8299 |
-|       6 | 0x206C      |        8300 |
+|       2 | 0x2069      |        8297 |
+|       3 | 0x206A      |        8298 |
+|       4 | 0x206B      |        8299 |
+|       5 | 0x206C      |        8300 |
+|       6 | 0x206D      |        8301 |
 |       7 | 0x0007      |           7 |
-|       8 | 0x206D      |        8301 |
-|       9 | 0x206E      |        8302 |
+|       8 | 0x206E      |        8302 |
+|       9 | 0x206F      |        8303 |
 
 ## String References
 
-- **8296**: Gee, my head hurrrts...
-- **8297**: I thought it was just the Federation that fell to the horrrdes, but people here're sayin' that Jeuno went down 'n blazes too.
-- **8298**: This chasm ain't a frrriendly place, but perhaps it's as good as anywhere under this blood-rrred sky.
-- **8299**: <Grrroan>... Sorry, but could ya jus' leave me be?
-- **8300**: Ever since I came to this chasm, just walkin' around is sappin' me of all my enerrrgy. I got nothin' left...empty, kaput!
-- **8301**: <Grrroan>... Sorry, but could ya jus' leave me be?
-- **8302**: The fiends out there are too tough for a rookie like me. I gotta get back trrrainin'...soon as I get over this blasted headache.
+- **8297**: Gee, my head hurrrts...
+- **8298**: I thought it was just the Federation that fell to the horrrdes, but people here're sayin' that Jeuno went down 'n blazes too.
+- **8299**: This chasm ain't a frrriendly place, but perhaps it's as good as anywhere under this blood-rrred sky.
+- **8300**: <Grrroan>... Sorry, but could ya jus' leave me be?
+- **8301**: Ever since I came to this chasm, just walkin' around is sappin' me of all my enerrrgy. I got nothin' left...empty, kaput!
+- **8302**: <Grrroan>... Sorry, but could ya jus' leave me be?
+- **8303**: The fiends out there are too tough for a rookie like me. I gotta get back trrrainin'...soon as I get over this blasted headache.
 
 ## Events
 
@@ -90,14 +90,14 @@
   0: 0x0001 [0x02] IF !(Work_Zone[2] >= 3*) GOTO 0x0019
   1: 0x0009 [0x6E] EventEntity uses emote 19*
   2: 0x0010 [0x99] Wait for EventEntity animation to complete
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "Gee, my head hurrrts..."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  6: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+  6: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "I thought it was just the Federation that fell to the horrrdes, but people here're sayin' that Jeuno went down 'n blazes too."
   7: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
+  8: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=8299*)
     → "This chasm ain't a frrriendly place, but perhaps it's as good as anywhere under this blood-rrred sky."
   9: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0026 [0x21] END_EVENT
@@ -133,19 +133,19 @@
   3: 0x002F [0x02] IF !(Work_Zone[2] >= 3*) GOTO 0x004E
   4: 0x0037 [0x6E] EventEntity uses emote 19*
   5: 0x003E [0x99] Wait for EventEntity animation to complete
-  6: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8299*)
+  6: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8300*)
     → "<Grrroan>... Sorry, but could ya jus' leave me be?"
   7: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8300*)
+  8: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8301*)
     → "Ever since I came to this chasm, just walkin' around is sappin' me of all my enerrrgy. I got nothin' left...empty, kaput!"
   9: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x004B [0x01] GOTO 0x0062
  11: 0x004E [0x6E] EventEntity uses emote 7*
  12: 0x0055 [0x99] Wait for EventEntity animation to complete
- 13: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8301*)
+ 13: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
     → "<Grrroan>... Sorry, but could ya jus' leave me be?"
  14: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
+ 15: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
     → "The fiends out there are too tough for a rookie like me. I gotta get back trrrainin'...soon as I get over this blasted headache."
  16: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

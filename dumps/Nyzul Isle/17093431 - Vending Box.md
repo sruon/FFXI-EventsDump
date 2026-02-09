@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1D38      |        7480 |
+|       1 | 0x1D39      |        7481 |
 |       2 | 0x0008      |           8 |
 |       3 | 0x000B      |          11 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1D39      |        7481 |
+|       5 | 0x1D3A      |        7482 |
 |       6 | 0x000C      |          12 |
 |       7 | 0x000F      |          15 |
 |       8 | 0x1509      |        5385 |
@@ -74,32 +74,32 @@
 |      51 | 0x0018      |          24 |
 |      52 | 0x1539      |        5433 |
 |      53 | 0x0019      |          25 |
-|      54 | 0x1D96      |        7574 |
-|      55 | 0x1D8F      |        7567 |
-|      56 | 0x1D3E      |        7486 |
-|      57 | 0x1D90      |        7568 |
-|      58 | 0x1D3D      |        7485 |
-|      59 | 0x1D47      |        7495 |
-|      60 | 0x1D3F      |        7487 |
-|      61 | 0x1D92      |        7570 |
-|      62 | 0x1D3A      |        7482 |
-|      63 | 0x1D3C      |        7484 |
+|      54 | 0x1D97      |        7575 |
+|      55 | 0x1D90      |        7568 |
+|      56 | 0x1D3F      |        7487 |
+|      57 | 0x1D91      |        7569 |
+|      58 | 0x1D3E      |        7486 |
+|      59 | 0x1D48      |        7496 |
+|      60 | 0x1D40      |        7488 |
+|      61 | 0x1D93      |        7571 |
+|      62 | 0x1D3B      |        7483 |
+|      63 | 0x1D3D      |        7485 |
 |      64 | 0x40000000  |  1073741824 |
 
 ## String References
 
-- **7480**: There is a treasure chest here. It appears to create temporary items in exchange for tokens.
-- **7481**: Obtain a temporary item? [Preferred items./Low-grade items ($# tokens)./Medium-grade items ($$ tokens)./High-grade items ($% tokens)./All items./Not now.]
-- **7482**: Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./None of them.]
-- **7484**: Obtain an item? (Tokens: $') [#./Not now.]
-- **7485**: You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?
-- **7486**: Obtain this item? [Yes./No.]
-- **7487**: There are no items available in this category.
-- **7495**: Insufficient tokens.
-- **7567**: You currently have $' token[/s]. Exchange $0 token[/s] for all [low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?
-- **7568**: You currently have $' token[/s]. Obtaining all [low-grade/medium-grade//preferred] temporary items not already in your possession would require $0 token[/s].
-- **7570**: You have not set any temporary item preferences.
-- **7574**: Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0: $#./$1: $#./$2: $#./$3: $#./$4: $#./$5: $#./$6: $#./$7: $#./$8: $#./$9: $#./$10: $#./$11: $#./$12: $$./$13: $$./$14: $$./$15: $$./$16: $$./$17: $$./$18: $$./$19: $$./$20: $$./$21: $$./$22: $$./$23: $$./$24: $%./None of them.]
+- **7481**: There is a treasure chest here. It appears to create temporary items in exchange for tokens.
+- **7482**: Obtain a temporary item? [Preferred items./Low-grade items ($# tokens)./Medium-grade items ($$ tokens)./High-grade items ($% tokens)./All items./Not now.]
+- **7483**: Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./None of them.]
+- **7485**: Obtain an item? (Tokens: $') [#./Not now.]
+- **7486**: You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?
+- **7487**: Obtain this item? [Yes./No.]
+- **7488**: There are no items available in this category.
+- **7496**: Insufficient tokens.
+- **7568**: You currently have $' token[/s]. Exchange $0 token[/s] for all [low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?
+- **7569**: You currently have $' token[/s]. Obtaining all [low-grade/medium-grade//preferred] temporary items not already in your possession would require $0 token[/s].
+- **7571**: You have not set any temporary item preferences.
+- **7575**: Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0: $#./$1: $#./$2: $#./$3: $#./$4: $#./$5: $#./$6: $#./$7: $#./$8: $#./$9: $#./$10: $#./$11: $#./$12: $$./$13: $$./$14: $$./$15: $$./$16: $$./$17: $$./$18: $$./$19: $$./$20: $$./$21: $$./$22: $$./$23: $$./$24: $%./None of them.]
 
 ## Events
 
@@ -714,14 +714,14 @@
   8: 0x0029 [0x03] Work_Zone_1700[27] = ExtData[1]->WorkLocal[7]
   9: 0x002E [0x03] Work_Zone_1700[28] = ExtData[1]->WorkLocal[8]
  10: 0x0033 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[9]
- 11: 0x0038 [0x48] [System] [7480*]:
+ 11: 0x0038 [0x48] [System] [7481*]:
     → "There is a treasure chest here. It appears to create temporary items in exchange for tokens."
  12: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x003C [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=11*, target=Work_Zone[1], source=1*)
  14: 0x0045 [0x05] ExtData[1]->WorkLocal[1] = 1
  15: 0x0048 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x1F66
  16: 0x0050 [0x06] ExtData[1]->WorkLocal[1] = 0
- 17: 0x0053 [0x24] CREATE_DIALOG(message_id=7481*, default_option=0*, option_flags=0*)
+ 17: 0x0053 [0x24] CREATE_DIALOG(message_id=7482*, default_option=0*, option_flags=0*)
     → "Obtain a temporary item? [Preferred items./Low-grade items ($# tokens)./Medium-grade items ($$ tokens)./High-grade items ($% tokens)./All items./Not now.]"
  18: 0x005A [0x25] WAIT_DIALOG_SELECT()
  19: 0x005B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x100A
@@ -1034,17 +1034,17 @@ SUBROUTINE_04D0:
 226: 0x04D0 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0FFD
 227: 0x04D8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0FF3
 228: 0x04E0 [0x03] Work_Zone_1700[30] = ExtData[1]->WorkLocal[0]
-229: 0x04E5 [0x24] CREATE_DIALOG(message_id=7574*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+229: 0x04E5 [0x24] CREATE_DIALOG(message_id=7575*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0: $#./$1: $#./$2: $#./$3: $#./$4: $#./$5: $#./$6: $#./$7: $#./$8: $#./$9: $#./$10: $#./$11: $#./$12: $$./$13: $$./$14: $$./$15: $$./$16: $$./$17: $$./$18: $$./$19: $$./$20: $$./$21: $$./$22: $$./$23: $$./$24: $%./None of them.]"
 230: 0x04EC [0x25] WAIT_DIALOG_SELECT()
 231: 0x04ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0556
 232: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[0]) GOTO 0x0542
 233: 0x04FD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 234: 0x0502 [0x03] Work_Zone[3] = 3*
-235: 0x0507 [0x48] [System] [7567*]:
+235: 0x0507 [0x48] [System] [7568*]:
     → "You currently have $' token[/s]. Exchange $0 token[/s] for all [low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?"
 236: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
-237: 0x050B [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+237: 0x050B [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 238: 0x0512 [0x25] WAIT_DIALOG_SELECT()
 239: 0x0513 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0531
@@ -1062,7 +1062,7 @@ SUBROUTINE_053F:
 249: 0x053F [0x01] GOTO 0x0553
 250: 0x0542 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 251: 0x0547 [0x03] Work_Zone[3] = 3*
-252: 0x054C [0x48] [System] [7568*]:
+252: 0x054C [0x48] [System] [7569*]:
     → "You currently have $' token[/s]. Obtaining all [low-grade/medium-grade//preferred] temporary items not already in your possession would require $0 token[/s]."
 253: 0x054F [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x0550 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1072,11 +1072,11 @@ SUBROUTINE_0553:
 256: 0x0556 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05C2
 257: 0x055E [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x05B8
 258: 0x0566 [0x93] DISPLAY_ITEM_INFO(item_id=5385*)
-259: 0x0569 [0x48] [System] [7485*]:
+259: 0x0569 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 260: 0x056C [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x056D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-262: 0x0570 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+262: 0x0570 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 263: 0x0577 [0x25] WAIT_DIALOG_SELECT()
 264: 0x0578 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05A7
@@ -1098,7 +1098,7 @@ SUBROUTINE_05A4:
 
 SUBROUTINE_05B5:
 278: 0x05B5 [0x01] GOTO 0x05BF
-279: 0x05B8 [0x48] [System] [7495*]:
+279: 0x05B8 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 280: 0x05BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x05BC [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1108,11 +1108,11 @@ SUBROUTINE_05BF:
 283: 0x05C2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x062E
 284: 0x05CA [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0624
 285: 0x05D2 [0x93] DISPLAY_ITEM_INFO(item_id=5386*)
-286: 0x05D5 [0x48] [System] [7485*]:
+286: 0x05D5 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 287: 0x05D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x05D9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-289: 0x05DC [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+289: 0x05DC [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 290: 0x05E3 [0x25] WAIT_DIALOG_SELECT()
 291: 0x05E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0613
@@ -1134,7 +1134,7 @@ SUBROUTINE_0610:
 
 SUBROUTINE_0621:
 305: 0x0621 [0x01] GOTO 0x062B
-306: 0x0624 [0x48] [System] [7495*]:
+306: 0x0624 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 307: 0x0627 [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x0628 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1144,11 +1144,11 @@ SUBROUTINE_062B:
 310: 0x062E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x069A
 311: 0x0636 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0690
 312: 0x063E [0x93] DISPLAY_ITEM_INFO(item_id=5387*)
-313: 0x0641 [0x48] [System] [7485*]:
+313: 0x0641 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 314: 0x0644 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x0645 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-316: 0x0648 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+316: 0x0648 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 317: 0x064F [0x25] WAIT_DIALOG_SELECT()
 318: 0x0650 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x067F
@@ -1170,7 +1170,7 @@ SUBROUTINE_067C:
 
 SUBROUTINE_068D:
 332: 0x068D [0x01] GOTO 0x0697
-333: 0x0690 [0x48] [System] [7495*]:
+333: 0x0690 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 334: 0x0693 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x0694 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1180,11 +1180,11 @@ SUBROUTINE_0697:
 337: 0x069A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0706
 338: 0x06A2 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x06FC
 339: 0x06AA [0x93] DISPLAY_ITEM_INFO(item_id=5388*)
-340: 0x06AD [0x48] [System] [7485*]:
+340: 0x06AD [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 341: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x06B1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-343: 0x06B4 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+343: 0x06B4 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 344: 0x06BB [0x25] WAIT_DIALOG_SELECT()
 345: 0x06BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06EB
@@ -1206,7 +1206,7 @@ SUBROUTINE_06E8:
 
 SUBROUTINE_06F9:
 359: 0x06F9 [0x01] GOTO 0x0703
-360: 0x06FC [0x48] [System] [7495*]:
+360: 0x06FC [0x48] [System] [7496*]:
     → "Insufficient tokens."
 361: 0x06FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x0700 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1216,11 +1216,11 @@ SUBROUTINE_0703:
 364: 0x0706 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0772
 365: 0x070E [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0768
 366: 0x0716 [0x93] DISPLAY_ITEM_INFO(item_id=5389*)
-367: 0x0719 [0x48] [System] [7485*]:
+367: 0x0719 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 368: 0x071C [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x071D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-370: 0x0720 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+370: 0x0720 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 371: 0x0727 [0x25] WAIT_DIALOG_SELECT()
 372: 0x0728 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0757
@@ -1242,7 +1242,7 @@ SUBROUTINE_0754:
 
 SUBROUTINE_0765:
 386: 0x0765 [0x01] GOTO 0x076F
-387: 0x0768 [0x48] [System] [7495*]:
+387: 0x0768 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 388: 0x076B [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x076C [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1252,11 +1252,11 @@ SUBROUTINE_076F:
 391: 0x0772 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x07DE
 392: 0x077A [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x07D4
 393: 0x0782 [0x93] DISPLAY_ITEM_INFO(item_id=5394*)
-394: 0x0785 [0x48] [System] [7485*]:
+394: 0x0785 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 395: 0x0788 [0x23] WAIT_FOR_DIALOG_INTERACTION
 396: 0x0789 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-397: 0x078C [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+397: 0x078C [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 398: 0x0793 [0x25] WAIT_DIALOG_SELECT()
 399: 0x0794 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C3
@@ -1278,7 +1278,7 @@ SUBROUTINE_07C0:
 
 SUBROUTINE_07D1:
 413: 0x07D1 [0x01] GOTO 0x07DB
-414: 0x07D4 [0x48] [System] [7495*]:
+414: 0x07D4 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 415: 0x07D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 416: 0x07D8 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1288,11 +1288,11 @@ SUBROUTINE_07DB:
 418: 0x07DE [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x084A
 419: 0x07E6 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0840
 420: 0x07EE [0x93] DISPLAY_ITEM_INFO(item_id=5396*)
-421: 0x07F1 [0x48] [System] [7485*]:
+421: 0x07F1 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 422: 0x07F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 423: 0x07F5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-424: 0x07F8 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+424: 0x07F8 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 425: 0x07FF [0x25] WAIT_DIALOG_SELECT()
 426: 0x0800 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x082F
@@ -1314,7 +1314,7 @@ SUBROUTINE_082C:
 
 SUBROUTINE_083D:
 440: 0x083D [0x01] GOTO 0x0847
-441: 0x0840 [0x48] [System] [7495*]:
+441: 0x0840 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 442: 0x0843 [0x23] WAIT_FOR_DIALOG_INTERACTION
 443: 0x0844 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1324,11 +1324,11 @@ SUBROUTINE_0847:
 445: 0x084A [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x08B6
 446: 0x0852 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x08AC
 447: 0x085A [0x93] DISPLAY_ITEM_INFO(item_id=5436*)
-448: 0x085D [0x48] [System] [7485*]:
+448: 0x085D [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 449: 0x0860 [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x0861 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-451: 0x0864 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+451: 0x0864 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 452: 0x086B [0x25] WAIT_DIALOG_SELECT()
 453: 0x086C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x089B
@@ -1350,7 +1350,7 @@ SUBROUTINE_0898:
 
 SUBROUTINE_08A9:
 467: 0x08A9 [0x01] GOTO 0x08B3
-468: 0x08AC [0x48] [System] [7495*]:
+468: 0x08AC [0x48] [System] [7496*]:
     → "Insufficient tokens."
 469: 0x08AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x08B0 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1360,11 +1360,11 @@ SUBROUTINE_08B3:
 472: 0x08B6 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0922
 473: 0x08BE [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0918
 474: 0x08C6 [0x93] DISPLAY_ITEM_INFO(item_id=5437*)
-475: 0x08C9 [0x48] [System] [7485*]:
+475: 0x08C9 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 476: 0x08CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x08CD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-478: 0x08D0 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+478: 0x08D0 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 479: 0x08D7 [0x25] WAIT_DIALOG_SELECT()
 480: 0x08D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0907
@@ -1386,7 +1386,7 @@ SUBROUTINE_0904:
 
 SUBROUTINE_0915:
 494: 0x0915 [0x01] GOTO 0x091F
-495: 0x0918 [0x48] [System] [7495*]:
+495: 0x0918 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 496: 0x091B [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x091C [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1396,11 +1396,11 @@ SUBROUTINE_091F:
 499: 0x0922 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x098E
 500: 0x092A [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0984
 501: 0x0932 [0x93] DISPLAY_ITEM_INFO(item_id=5438*)
-502: 0x0935 [0x48] [System] [7485*]:
+502: 0x0935 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 503: 0x0938 [0x23] WAIT_FOR_DIALOG_INTERACTION
 504: 0x0939 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-505: 0x093C [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+505: 0x093C [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 506: 0x0943 [0x25] WAIT_DIALOG_SELECT()
 507: 0x0944 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0973
@@ -1422,7 +1422,7 @@ SUBROUTINE_0970:
 
 SUBROUTINE_0981:
 521: 0x0981 [0x01] GOTO 0x098B
-522: 0x0984 [0x48] [System] [7495*]:
+522: 0x0984 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 523: 0x0987 [0x23] WAIT_FOR_DIALOG_INTERACTION
 524: 0x0988 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1432,11 +1432,11 @@ SUBROUTINE_098B:
 526: 0x098E [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x09FA
 527: 0x0996 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x09F0
 528: 0x099E [0x93] DISPLAY_ITEM_INFO(item_id=5439*)
-529: 0x09A1 [0x48] [System] [7485*]:
+529: 0x09A1 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 530: 0x09A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 531: 0x09A5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-532: 0x09A8 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+532: 0x09A8 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 533: 0x09AF [0x25] WAIT_DIALOG_SELECT()
 534: 0x09B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09DF
@@ -1458,7 +1458,7 @@ SUBROUTINE_09DC:
 
 SUBROUTINE_09ED:
 548: 0x09ED [0x01] GOTO 0x09F7
-549: 0x09F0 [0x48] [System] [7495*]:
+549: 0x09F0 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 550: 0x09F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x09F4 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1468,11 +1468,11 @@ SUBROUTINE_09F7:
 553: 0x09FA [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0A66
 554: 0x0A02 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[7]) GOTO 0x0A5C
 555: 0x0A0A [0x93] DISPLAY_ITEM_INFO(item_id=5397*)
-556: 0x0A0D [0x48] [System] [7485*]:
+556: 0x0A0D [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 557: 0x0A10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 558: 0x0A11 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-559: 0x0A14 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+559: 0x0A14 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 560: 0x0A1B [0x25] WAIT_DIALOG_SELECT()
 561: 0x0A1C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A4B
@@ -1494,7 +1494,7 @@ SUBROUTINE_0A48:
 
 SUBROUTINE_0A59:
 575: 0x0A59 [0x01] GOTO 0x0A63
-576: 0x0A5C [0x48] [System] [7495*]:
+576: 0x0A5C [0x48] [System] [7496*]:
     → "Insufficient tokens."
 577: 0x0A5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 578: 0x0A60 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1504,11 +1504,11 @@ SUBROUTINE_0A63:
 580: 0x0A66 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0AD2
 581: 0x0A6E [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0AC8
 582: 0x0A76 [0x93] DISPLAY_ITEM_INFO(item_id=5390*)
-583: 0x0A79 [0x48] [System] [7485*]:
+583: 0x0A79 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 584: 0x0A7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 585: 0x0A7D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-586: 0x0A80 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+586: 0x0A80 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 587: 0x0A87 [0x25] WAIT_DIALOG_SELECT()
 588: 0x0A88 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AB7
@@ -1530,7 +1530,7 @@ SUBROUTINE_0AB4:
 
 SUBROUTINE_0AC5:
 602: 0x0AC5 [0x01] GOTO 0x0ACF
-603: 0x0AC8 [0x48] [System] [7495*]:
+603: 0x0AC8 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 604: 0x0ACB [0x23] WAIT_FOR_DIALOG_INTERACTION
 605: 0x0ACC [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1540,11 +1540,11 @@ SUBROUTINE_0ACF:
 607: 0x0AD2 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0B3E
 608: 0x0ADA [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0B34
 609: 0x0AE2 [0x93] DISPLAY_ITEM_INFO(item_id=5391*)
-610: 0x0AE5 [0x48] [System] [7485*]:
+610: 0x0AE5 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 611: 0x0AE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 612: 0x0AE9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-613: 0x0AEC [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+613: 0x0AEC [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 614: 0x0AF3 [0x25] WAIT_DIALOG_SELECT()
 615: 0x0AF4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B23
@@ -1566,7 +1566,7 @@ SUBROUTINE_0B20:
 
 SUBROUTINE_0B31:
 629: 0x0B31 [0x01] GOTO 0x0B3B
-630: 0x0B34 [0x48] [System] [7495*]:
+630: 0x0B34 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 631: 0x0B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 632: 0x0B38 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1576,11 +1576,11 @@ SUBROUTINE_0B3B:
 634: 0x0B3E [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0BAA
 635: 0x0B46 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0BA0
 636: 0x0B4E [0x93] DISPLAY_ITEM_INFO(item_id=5392*)
-637: 0x0B51 [0x48] [System] [7485*]:
+637: 0x0B51 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 638: 0x0B54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 639: 0x0B55 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-640: 0x0B58 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+640: 0x0B58 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 641: 0x0B5F [0x25] WAIT_DIALOG_SELECT()
 642: 0x0B60 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B8F
@@ -1602,7 +1602,7 @@ SUBROUTINE_0B8C:
 
 SUBROUTINE_0B9D:
 656: 0x0B9D [0x01] GOTO 0x0BA7
-657: 0x0BA0 [0x48] [System] [7495*]:
+657: 0x0BA0 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 658: 0x0BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 659: 0x0BA4 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1612,11 +1612,11 @@ SUBROUTINE_0BA7:
 661: 0x0BAA [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0C16
 662: 0x0BB2 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0C0C
 663: 0x0BBA [0x93] DISPLAY_ITEM_INFO(item_id=5393*)
-664: 0x0BBD [0x48] [System] [7485*]:
+664: 0x0BBD [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 665: 0x0BC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x0BC1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-667: 0x0BC4 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+667: 0x0BC4 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 668: 0x0BCB [0x25] WAIT_DIALOG_SELECT()
 669: 0x0BCC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BFB
@@ -1638,7 +1638,7 @@ SUBROUTINE_0BF8:
 
 SUBROUTINE_0C09:
 683: 0x0C09 [0x01] GOTO 0x0C13
-684: 0x0C0C [0x48] [System] [7495*]:
+684: 0x0C0C [0x48] [System] [7496*]:
     → "Insufficient tokens."
 685: 0x0C0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 686: 0x0C10 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1648,11 +1648,11 @@ SUBROUTINE_0C13:
 688: 0x0C16 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0C82
 689: 0x0C1E [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0C78
 690: 0x0C26 [0x93] DISPLAY_ITEM_INFO(item_id=5395*)
-691: 0x0C29 [0x48] [System] [7485*]:
+691: 0x0C29 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 692: 0x0C2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 693: 0x0C2D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-694: 0x0C30 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+694: 0x0C30 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 695: 0x0C37 [0x25] WAIT_DIALOG_SELECT()
 696: 0x0C38 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C67
@@ -1674,7 +1674,7 @@ SUBROUTINE_0C64:
 
 SUBROUTINE_0C75:
 710: 0x0C75 [0x01] GOTO 0x0C7F
-711: 0x0C78 [0x48] [System] [7495*]:
+711: 0x0C78 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 712: 0x0C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 713: 0x0C7C [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1684,11 +1684,11 @@ SUBROUTINE_0C7F:
 715: 0x0C82 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x0CEE
 716: 0x0C8A [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0CE4
 717: 0x0C92 [0x93] DISPLAY_ITEM_INFO(item_id=5431*)
-718: 0x0C95 [0x48] [System] [7485*]:
+718: 0x0C95 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 719: 0x0C98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 720: 0x0C99 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-721: 0x0C9C [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+721: 0x0C9C [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 722: 0x0CA3 [0x25] WAIT_DIALOG_SELECT()
 723: 0x0CA4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CD3
@@ -1710,7 +1710,7 @@ SUBROUTINE_0CD0:
 
 SUBROUTINE_0CE1:
 737: 0x0CE1 [0x01] GOTO 0x0CEB
-738: 0x0CE4 [0x48] [System] [7495*]:
+738: 0x0CE4 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 739: 0x0CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 740: 0x0CE8 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1720,11 +1720,11 @@ SUBROUTINE_0CEB:
 742: 0x0CEE [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x0D5A
 743: 0x0CF6 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0D50
 744: 0x0CFE [0x93] DISPLAY_ITEM_INFO(item_id=5432*)
-745: 0x0D01 [0x48] [System] [7485*]:
+745: 0x0D01 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 746: 0x0D04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 747: 0x0D05 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-748: 0x0D08 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+748: 0x0D08 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 749: 0x0D0F [0x25] WAIT_DIALOG_SELECT()
 750: 0x0D10 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D3F
@@ -1746,7 +1746,7 @@ SUBROUTINE_0D3C:
 
 SUBROUTINE_0D4D:
 764: 0x0D4D [0x01] GOTO 0x0D57
-765: 0x0D50 [0x48] [System] [7495*]:
+765: 0x0D50 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 766: 0x0D53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 767: 0x0D54 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1756,11 +1756,11 @@ SUBROUTINE_0D57:
 769: 0x0D5A [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0DC6
 770: 0x0D62 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0DBC
 771: 0x0D6A [0x93] DISPLAY_ITEM_INFO(item_id=5434*)
-772: 0x0D6D [0x48] [System] [7485*]:
+772: 0x0D6D [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 773: 0x0D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 774: 0x0D71 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-775: 0x0D74 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+775: 0x0D74 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 776: 0x0D7B [0x25] WAIT_DIALOG_SELECT()
 777: 0x0D7C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DAB
@@ -1782,7 +1782,7 @@ SUBROUTINE_0DA8:
 
 SUBROUTINE_0DB9:
 791: 0x0DB9 [0x01] GOTO 0x0DC3
-792: 0x0DBC [0x48] [System] [7495*]:
+792: 0x0DBC [0x48] [System] [7496*]:
     → "Insufficient tokens."
 793: 0x0DBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 794: 0x0DC0 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1792,11 +1792,11 @@ SUBROUTINE_0DC3:
 796: 0x0DC6 [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x0E32
 797: 0x0DCE [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0E28
 798: 0x0DD6 [0x93] DISPLAY_ITEM_INFO(item_id=5435*)
-799: 0x0DD9 [0x48] [System] [7485*]:
+799: 0x0DD9 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 800: 0x0DDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 801: 0x0DDD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-802: 0x0DE0 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+802: 0x0DE0 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 803: 0x0DE7 [0x25] WAIT_DIALOG_SELECT()
 804: 0x0DE8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E17
@@ -1818,7 +1818,7 @@ SUBROUTINE_0E14:
 
 SUBROUTINE_0E25:
 818: 0x0E25 [0x01] GOTO 0x0E2F
-819: 0x0E28 [0x48] [System] [7495*]:
+819: 0x0E28 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 820: 0x0E2B [0x23] WAIT_FOR_DIALOG_INTERACTION
 821: 0x0E2C [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1828,11 +1828,11 @@ SUBROUTINE_0E2F:
 823: 0x0E32 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x0E9E
 824: 0x0E3A [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0E94
 825: 0x0E42 [0x93] DISPLAY_ITEM_INFO(item_id=5440*)
-826: 0x0E45 [0x48] [System] [7485*]:
+826: 0x0E45 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 827: 0x0E48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 828: 0x0E49 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-829: 0x0E4C [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+829: 0x0E4C [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 830: 0x0E53 [0x25] WAIT_DIALOG_SELECT()
 831: 0x0E54 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E83
@@ -1854,7 +1854,7 @@ SUBROUTINE_0E80:
 
 SUBROUTINE_0E91:
 845: 0x0E91 [0x01] GOTO 0x0E9B
-846: 0x0E94 [0x48] [System] [7495*]:
+846: 0x0E94 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 847: 0x0E97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 848: 0x0E98 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1864,11 +1864,11 @@ SUBROUTINE_0E9B:
 850: 0x0E9E [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x0F0A
 851: 0x0EA6 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0F00
 852: 0x0EAE [0x93] DISPLAY_ITEM_INFO(item_id=4147*)
-853: 0x0EB1 [0x48] [System] [7485*]:
+853: 0x0EB1 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 854: 0x0EB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 855: 0x0EB5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-856: 0x0EB8 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+856: 0x0EB8 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 857: 0x0EBF [0x25] WAIT_DIALOG_SELECT()
 858: 0x0EC0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EEF
@@ -1890,7 +1890,7 @@ SUBROUTINE_0EEC:
 
 SUBROUTINE_0EFD:
 872: 0x0EFD [0x01] GOTO 0x0F07
-873: 0x0F00 [0x48] [System] [7495*]:
+873: 0x0F00 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 874: 0x0F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 875: 0x0F04 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1900,11 +1900,11 @@ SUBROUTINE_0F07:
 877: 0x0F0A [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x0F76
 878: 0x0F12 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[8]) GOTO 0x0F6C
 879: 0x0F1A [0x93] DISPLAY_ITEM_INFO(item_id=4200*)
-880: 0x0F1D [0x48] [System] [7485*]:
+880: 0x0F1D [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 881: 0x0F20 [0x23] WAIT_FOR_DIALOG_INTERACTION
 882: 0x0F21 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-883: 0x0F24 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+883: 0x0F24 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 884: 0x0F2B [0x25] WAIT_DIALOG_SELECT()
 885: 0x0F2C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F5B
@@ -1926,7 +1926,7 @@ SUBROUTINE_0F58:
 
 SUBROUTINE_0F69:
 899: 0x0F69 [0x01] GOTO 0x0F73
-900: 0x0F6C [0x48] [System] [7495*]:
+900: 0x0F6C [0x48] [System] [7496*]:
     → "Insufficient tokens."
 901: 0x0F6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 902: 0x0F70 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1936,11 +1936,11 @@ SUBROUTINE_0F73:
 904: 0x0F76 [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x0FE2
 905: 0x0F7E [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[9]) GOTO 0x0FD8
 906: 0x0F86 [0x93] DISPLAY_ITEM_INFO(item_id=5433*)
-907: 0x0F89 [0x48] [System] [7485*]:
+907: 0x0F89 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 908: 0x0F8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 909: 0x0F8D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-910: 0x0F90 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+910: 0x0F90 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 911: 0x0F97 [0x25] WAIT_DIALOG_SELECT()
 912: 0x0F98 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FC7
@@ -1962,7 +1962,7 @@ SUBROUTINE_0FC4:
 
 SUBROUTINE_0FD5:
 926: 0x0FD5 [0x01] GOTO 0x0FDF
-927: 0x0FD8 [0x48] [System] [7495*]:
+927: 0x0FD8 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 928: 0x0FDB [0x23] WAIT_FOR_DIALOG_INTERACTION
 929: 0x0FDC [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -1975,14 +1975,14 @@ SUBROUTINE_0FDF:
 
 SUBROUTINE_0FF0:
 934: 0x0FF0 [0x01] GOTO 0x0FFA
-935: 0x0FF3 [0x48] [System] [7487*]:
+935: 0x0FF3 [0x48] [System] [7488*]:
     → "There are no items available in this category."
 936: 0x0FF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 937: 0x0FF7 [0x05] ExtData[1]->WorkLocal[1] = 1
 
 SUBROUTINE_0FFA:
 938: 0x0FFA [0x01] GOTO 0x1004
-939: 0x0FFD [0x48] [System] [7570*]:
+939: 0x0FFD [0x48] [System] [7571*]:
     → "You have not set any temporary item preferences."
 940: 0x1000 [0x23] WAIT_FOR_DIALOG_INTERACTION
 941: 0x1001 [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -2087,17 +2087,17 @@ SUBROUTINE_1170:
 SUBROUTINE_1186:
 1013: 0x1186 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x164D
 1014: 0x118E [0x03] Work_Zone_1700[30] = ExtData[1]->WorkLocal[0]
-1015: 0x1193 [0x24] CREATE_DIALOG(message_id=7482*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+1015: 0x1193 [0x24] CREATE_DIALOG(message_id=7483*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./None of them.]"
 1016: 0x119A [0x25] WAIT_DIALOG_SELECT()
 1017: 0x119B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1204
 1018: 0x11A3 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[0]) GOTO 0x11F0
 1019: 0x11AB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 1020: 0x11B0 [0x03] Work_Zone[3] = 0*
-1021: 0x11B5 [0x48] [System] [7567*]:
+1021: 0x11B5 [0x48] [System] [7568*]:
     → "You currently have $' token[/s]. Exchange $0 token[/s] for all [low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?"
 1022: 0x11B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1023: 0x11B9 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1023: 0x11B9 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1024: 0x11C0 [0x25] WAIT_DIALOG_SELECT()
 1025: 0x11C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11DF
@@ -2115,7 +2115,7 @@ SUBROUTINE_11ED:
 1035: 0x11ED [0x01] GOTO 0x1201
 1036: 0x11F0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 1037: 0x11F5 [0x03] Work_Zone[3] = 0*
-1038: 0x11FA [0x48] [System] [7568*]:
+1038: 0x11FA [0x48] [System] [7569*]:
     → "You currently have $' token[/s]. Obtaining all [low-grade/medium-grade//preferred] temporary items not already in your possession would require $0 token[/s]."
 1039: 0x11FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 1040: 0x11FE [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -2124,11 +2124,11 @@ SUBROUTINE_1201:
 1041: 0x1201 [0x01] GOTO 0x164A
 1042: 0x1204 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x125E
 1043: 0x120C [0x93] DISPLAY_ITEM_INFO(item_id=5385*)
-1044: 0x120F [0x48] [System] [7485*]:
+1044: 0x120F [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1045: 0x1212 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1046: 0x1213 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1047: 0x1216 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1047: 0x1216 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1048: 0x121D [0x25] WAIT_DIALOG_SELECT()
 1049: 0x121E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x124D
@@ -2152,11 +2152,11 @@ SUBROUTINE_125B:
 1063: 0x125B [0x01] GOTO 0x164A
 1064: 0x125E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x12B8
 1065: 0x1266 [0x93] DISPLAY_ITEM_INFO(item_id=5386*)
-1066: 0x1269 [0x48] [System] [7485*]:
+1066: 0x1269 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1067: 0x126C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1068: 0x126D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1069: 0x1270 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1069: 0x1270 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1070: 0x1277 [0x25] WAIT_DIALOG_SELECT()
 1071: 0x1278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12A7
@@ -2180,11 +2180,11 @@ SUBROUTINE_12B5:
 1085: 0x12B5 [0x01] GOTO 0x164A
 1086: 0x12B8 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1312
 1087: 0x12C0 [0x93] DISPLAY_ITEM_INFO(item_id=5387*)
-1088: 0x12C3 [0x48] [System] [7485*]:
+1088: 0x12C3 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1089: 0x12C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1090: 0x12C7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1091: 0x12CA [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1091: 0x12CA [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1092: 0x12D1 [0x25] WAIT_DIALOG_SELECT()
 1093: 0x12D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1301
@@ -2208,11 +2208,11 @@ SUBROUTINE_130F:
 1107: 0x130F [0x01] GOTO 0x164A
 1108: 0x1312 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x136C
 1109: 0x131A [0x93] DISPLAY_ITEM_INFO(item_id=5388*)
-1110: 0x131D [0x48] [System] [7485*]:
+1110: 0x131D [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1111: 0x1320 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1112: 0x1321 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1113: 0x1324 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1113: 0x1324 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1114: 0x132B [0x25] WAIT_DIALOG_SELECT()
 1115: 0x132C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x135B
@@ -2236,11 +2236,11 @@ SUBROUTINE_1369:
 1129: 0x1369 [0x01] GOTO 0x164A
 1130: 0x136C [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x13C6
 1131: 0x1374 [0x93] DISPLAY_ITEM_INFO(item_id=5389*)
-1132: 0x1377 [0x48] [System] [7485*]:
+1132: 0x1377 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1133: 0x137A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1134: 0x137B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1135: 0x137E [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1135: 0x137E [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1136: 0x1385 [0x25] WAIT_DIALOG_SELECT()
 1137: 0x1386 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13B5
@@ -2264,11 +2264,11 @@ SUBROUTINE_13C3:
 1151: 0x13C3 [0x01] GOTO 0x164A
 1152: 0x13C6 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1420
 1153: 0x13CE [0x93] DISPLAY_ITEM_INFO(item_id=5394*)
-1154: 0x13D1 [0x48] [System] [7485*]:
+1154: 0x13D1 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1155: 0x13D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1156: 0x13D5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1157: 0x13D8 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1157: 0x13D8 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1158: 0x13DF [0x25] WAIT_DIALOG_SELECT()
 1159: 0x13E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x140F
@@ -2292,11 +2292,11 @@ SUBROUTINE_141D:
 1173: 0x141D [0x01] GOTO 0x164A
 1174: 0x1420 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x147A
 1175: 0x1428 [0x93] DISPLAY_ITEM_INFO(item_id=5396*)
-1176: 0x142B [0x48] [System] [7485*]:
+1176: 0x142B [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1177: 0x142E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1178: 0x142F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1179: 0x1432 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1179: 0x1432 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1180: 0x1439 [0x25] WAIT_DIALOG_SELECT()
 1181: 0x143A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1469
@@ -2320,11 +2320,11 @@ SUBROUTINE_1477:
 1195: 0x1477 [0x01] GOTO 0x164A
 1196: 0x147A [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x14D4
 1197: 0x1482 [0x93] DISPLAY_ITEM_INFO(item_id=5436*)
-1198: 0x1485 [0x48] [System] [7485*]:
+1198: 0x1485 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1199: 0x1488 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1200: 0x1489 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1201: 0x148C [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1201: 0x148C [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1202: 0x1493 [0x25] WAIT_DIALOG_SELECT()
 1203: 0x1494 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14C3
@@ -2348,11 +2348,11 @@ SUBROUTINE_14D1:
 1217: 0x14D1 [0x01] GOTO 0x164A
 1218: 0x14D4 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x152E
 1219: 0x14DC [0x93] DISPLAY_ITEM_INFO(item_id=5437*)
-1220: 0x14DF [0x48] [System] [7485*]:
+1220: 0x14DF [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1221: 0x14E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1222: 0x14E3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1223: 0x14E6 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1223: 0x14E6 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1224: 0x14ED [0x25] WAIT_DIALOG_SELECT()
 1225: 0x14EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x151D
@@ -2376,11 +2376,11 @@ SUBROUTINE_152B:
 1239: 0x152B [0x01] GOTO 0x164A
 1240: 0x152E [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x1588
 1241: 0x1536 [0x93] DISPLAY_ITEM_INFO(item_id=5438*)
-1242: 0x1539 [0x48] [System] [7485*]:
+1242: 0x1539 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1243: 0x153C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1244: 0x153D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1245: 0x1540 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1245: 0x1540 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1246: 0x1547 [0x25] WAIT_DIALOG_SELECT()
 1247: 0x1548 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1577
@@ -2404,11 +2404,11 @@ SUBROUTINE_1585:
 1261: 0x1585 [0x01] GOTO 0x164A
 1262: 0x1588 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x15E2
 1263: 0x1590 [0x93] DISPLAY_ITEM_INFO(item_id=5439*)
-1264: 0x1593 [0x48] [System] [7485*]:
+1264: 0x1593 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1265: 0x1596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1266: 0x1597 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1267: 0x159A [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1267: 0x159A [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1268: 0x15A1 [0x25] WAIT_DIALOG_SELECT()
 1269: 0x15A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15D1
@@ -2432,11 +2432,11 @@ SUBROUTINE_15DF:
 1283: 0x15DF [0x01] GOTO 0x164A
 1284: 0x15E2 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x163C
 1285: 0x15EA [0x93] DISPLAY_ITEM_INFO(item_id=5397*)
-1286: 0x15ED [0x48] [System] [7485*]:
+1286: 0x15ED [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1287: 0x15F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1288: 0x15F1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1289: 0x15F4 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1289: 0x15F4 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1290: 0x15FB [0x25] WAIT_DIALOG_SELECT()
 1291: 0x15FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x162B
@@ -2464,7 +2464,7 @@ SUBROUTINE_1639:
 
 SUBROUTINE_164A:
 1309: 0x164A [0x01] GOTO 0x1654
-1310: 0x164D [0x48] [System] [7487*]:
+1310: 0x164D [0x48] [System] [7488*]:
     → "There are no items available in this category."
 1311: 0x1650 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1312: 0x1651 [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -2472,7 +2472,7 @@ SUBROUTINE_164A:
 SUBROUTINE_1654:
 1313: 0x1654 [0x01] GOTO 0x101D
 1314: 0x1657 [0x01] GOTO 0x1661
-1315: 0x165A [0x48] [System] [7495*]:
+1315: 0x165A [0x48] [System] [7496*]:
     → "Insufficient tokens."
 1316: 0x165D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1317: 0x165E [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -2576,17 +2576,17 @@ SUBROUTINE_17CA:
 SUBROUTINE_17E0:
 1388: 0x17E0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x1CA7
 1389: 0x17E8 [0x03] Work_Zone_1700[30] = ExtData[1]->WorkLocal[0]
-1390: 0x17ED [0x24] CREATE_DIALOG(message_id=7482*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+1390: 0x17ED [0x24] CREATE_DIALOG(message_id=7483*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Obtain an item? (Tokens: $') [All of them. ($& token[/s])/$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./None of them.]"
 1391: 0x17F4 [0x25] WAIT_DIALOG_SELECT()
 1392: 0x17F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x185E
 1393: 0x17FD [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[0]) GOTO 0x184A
 1394: 0x1805 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 1395: 0x180A [0x03] Work_Zone[3] = 1*
-1396: 0x180F [0x48] [System] [7567*]:
+1396: 0x180F [0x48] [System] [7568*]:
     → "You currently have $' token[/s]. Exchange $0 token[/s] for all [low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?"
 1397: 0x1812 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1398: 0x1813 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1398: 0x1813 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1399: 0x181A [0x25] WAIT_DIALOG_SELECT()
 1400: 0x181B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1839
@@ -2604,7 +2604,7 @@ SUBROUTINE_1847:
 1410: 0x1847 [0x01] GOTO 0x185B
 1411: 0x184A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 1412: 0x184F [0x03] Work_Zone[3] = 1*
-1413: 0x1854 [0x48] [System] [7568*]:
+1413: 0x1854 [0x48] [System] [7569*]:
     → "You currently have $' token[/s]. Obtaining all [low-grade/medium-grade//preferred] temporary items not already in your possession would require $0 token[/s]."
 1414: 0x1857 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1415: 0x1858 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -2613,11 +2613,11 @@ SUBROUTINE_185B:
 1416: 0x185B [0x01] GOTO 0x1CA4
 1417: 0x185E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x18B8
 1418: 0x1866 [0x93] DISPLAY_ITEM_INFO(item_id=5390*)
-1419: 0x1869 [0x48] [System] [7485*]:
+1419: 0x1869 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1420: 0x186C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1421: 0x186D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1422: 0x1870 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1422: 0x1870 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1423: 0x1877 [0x25] WAIT_DIALOG_SELECT()
 1424: 0x1878 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18A7
@@ -2641,11 +2641,11 @@ SUBROUTINE_18B5:
 1438: 0x18B5 [0x01] GOTO 0x1CA4
 1439: 0x18B8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1912
 1440: 0x18C0 [0x93] DISPLAY_ITEM_INFO(item_id=5391*)
-1441: 0x18C3 [0x48] [System] [7485*]:
+1441: 0x18C3 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1442: 0x18C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1443: 0x18C7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1444: 0x18CA [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1444: 0x18CA [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1445: 0x18D1 [0x25] WAIT_DIALOG_SELECT()
 1446: 0x18D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1901
@@ -2669,11 +2669,11 @@ SUBROUTINE_190F:
 1460: 0x190F [0x01] GOTO 0x1CA4
 1461: 0x1912 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x196C
 1462: 0x191A [0x93] DISPLAY_ITEM_INFO(item_id=5392*)
-1463: 0x191D [0x48] [System] [7485*]:
+1463: 0x191D [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1464: 0x1920 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1465: 0x1921 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1466: 0x1924 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1466: 0x1924 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1467: 0x192B [0x25] WAIT_DIALOG_SELECT()
 1468: 0x192C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x195B
@@ -2697,11 +2697,11 @@ SUBROUTINE_1969:
 1482: 0x1969 [0x01] GOTO 0x1CA4
 1483: 0x196C [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x19C6
 1484: 0x1974 [0x93] DISPLAY_ITEM_INFO(item_id=5393*)
-1485: 0x1977 [0x48] [System] [7485*]:
+1485: 0x1977 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1486: 0x197A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1487: 0x197B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1488: 0x197E [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1488: 0x197E [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1489: 0x1985 [0x25] WAIT_DIALOG_SELECT()
 1490: 0x1986 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19B5
@@ -2725,11 +2725,11 @@ SUBROUTINE_19C3:
 1504: 0x19C3 [0x01] GOTO 0x1CA4
 1505: 0x19C6 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1A20
 1506: 0x19CE [0x93] DISPLAY_ITEM_INFO(item_id=5395*)
-1507: 0x19D1 [0x48] [System] [7485*]:
+1507: 0x19D1 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1508: 0x19D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1509: 0x19D5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1510: 0x19D8 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1510: 0x19D8 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1511: 0x19DF [0x25] WAIT_DIALOG_SELECT()
 1512: 0x19E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A0F
@@ -2753,11 +2753,11 @@ SUBROUTINE_1A1D:
 1526: 0x1A1D [0x01] GOTO 0x1CA4
 1527: 0x1A20 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1A7A
 1528: 0x1A28 [0x93] DISPLAY_ITEM_INFO(item_id=5431*)
-1529: 0x1A2B [0x48] [System] [7485*]:
+1529: 0x1A2B [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1530: 0x1A2E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1531: 0x1A2F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1532: 0x1A32 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1532: 0x1A32 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1533: 0x1A39 [0x25] WAIT_DIALOG_SELECT()
 1534: 0x1A3A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A69
@@ -2781,11 +2781,11 @@ SUBROUTINE_1A77:
 1548: 0x1A77 [0x01] GOTO 0x1CA4
 1549: 0x1A7A [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1AD4
 1550: 0x1A82 [0x93] DISPLAY_ITEM_INFO(item_id=5432*)
-1551: 0x1A85 [0x48] [System] [7485*]:
+1551: 0x1A85 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1552: 0x1A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1553: 0x1A89 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1554: 0x1A8C [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1554: 0x1A8C [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1555: 0x1A93 [0x25] WAIT_DIALOG_SELECT()
 1556: 0x1A94 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1AC3
@@ -2809,11 +2809,11 @@ SUBROUTINE_1AD1:
 1570: 0x1AD1 [0x01] GOTO 0x1CA4
 1571: 0x1AD4 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1B2E
 1572: 0x1ADC [0x93] DISPLAY_ITEM_INFO(item_id=5434*)
-1573: 0x1ADF [0x48] [System] [7485*]:
+1573: 0x1ADF [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1574: 0x1AE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1575: 0x1AE3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1576: 0x1AE6 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1576: 0x1AE6 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1577: 0x1AED [0x25] WAIT_DIALOG_SELECT()
 1578: 0x1AEE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B1D
@@ -2837,11 +2837,11 @@ SUBROUTINE_1B2B:
 1592: 0x1B2B [0x01] GOTO 0x1CA4
 1593: 0x1B2E [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x1B88
 1594: 0x1B36 [0x93] DISPLAY_ITEM_INFO(item_id=5435*)
-1595: 0x1B39 [0x48] [System] [7485*]:
+1595: 0x1B39 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1596: 0x1B3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1597: 0x1B3D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1598: 0x1B40 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1598: 0x1B40 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1599: 0x1B47 [0x25] WAIT_DIALOG_SELECT()
 1600: 0x1B48 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B77
@@ -2865,11 +2865,11 @@ SUBROUTINE_1B85:
 1614: 0x1B85 [0x01] GOTO 0x1CA4
 1615: 0x1B88 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x1BE2
 1616: 0x1B90 [0x93] DISPLAY_ITEM_INFO(item_id=5440*)
-1617: 0x1B93 [0x48] [System] [7485*]:
+1617: 0x1B93 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1618: 0x1B96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1619: 0x1B97 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1620: 0x1B9A [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1620: 0x1B9A [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1621: 0x1BA1 [0x25] WAIT_DIALOG_SELECT()
 1622: 0x1BA2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BD1
@@ -2893,11 +2893,11 @@ SUBROUTINE_1BDF:
 1636: 0x1BDF [0x01] GOTO 0x1CA4
 1637: 0x1BE2 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x1C3C
 1638: 0x1BEA [0x93] DISPLAY_ITEM_INFO(item_id=4147*)
-1639: 0x1BED [0x48] [System] [7485*]:
+1639: 0x1BED [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1640: 0x1BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1641: 0x1BF1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1642: 0x1BF4 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1642: 0x1BF4 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1643: 0x1BFB [0x25] WAIT_DIALOG_SELECT()
 1644: 0x1BFC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C2B
@@ -2921,11 +2921,11 @@ SUBROUTINE_1C39:
 1658: 0x1C39 [0x01] GOTO 0x1CA4
 1659: 0x1C3C [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x1C96
 1660: 0x1C44 [0x93] DISPLAY_ITEM_INFO(item_id=4200*)
-1661: 0x1C47 [0x48] [System] [7485*]:
+1661: 0x1C47 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1662: 0x1C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1663: 0x1C4B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1664: 0x1C4E [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1664: 0x1C4E [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1665: 0x1C55 [0x25] WAIT_DIALOG_SELECT()
 1666: 0x1C56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C85
@@ -2953,7 +2953,7 @@ SUBROUTINE_1C93:
 
 SUBROUTINE_1CA4:
 1684: 0x1CA4 [0x01] GOTO 0x1CAE
-1685: 0x1CA7 [0x48] [System] [7487*]:
+1685: 0x1CA7 [0x48] [System] [7488*]:
     → "There are no items available in this category."
 1686: 0x1CAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1687: 0x1CAB [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -2961,7 +2961,7 @@ SUBROUTINE_1CA4:
 SUBROUTINE_1CAE:
 1688: 0x1CAE [0x01] GOTO 0x1677
 1689: 0x1CB1 [0x01] GOTO 0x1CBB
-1690: 0x1CB4 [0x48] [System] [7495*]:
+1690: 0x1CB4 [0x48] [System] [7496*]:
     → "Insufficient tokens."
 1691: 0x1CB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1692: 0x1CB8 [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -2971,23 +2971,23 @@ SUBROUTINE_1CBB:
 1694: 0x1CBE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1D59
 1695: 0x1CC6 [0x02] IF !(ExtData[1]->WorkLocal[3] < ExtData[1]->WorkLocal[9]) GOTO 0x1D4F
 1696: 0x1CCE [0x3E] IF !(ExtData[1]->WorkLocal[4] bit 15*) GOTO 0x1CDF
-1697: 0x1CD5 [0x48] [System] [7487*]:
+1697: 0x1CD5 [0x48] [System] [7488*]:
     → "There are no items available in this category."
 1698: 0x1CD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1699: 0x1CD9 [0x05] ExtData[1]->WorkLocal[1] = 1
 1700: 0x1CDC [0x01] GOTO 0x1D4C
 1701: 0x1CDF [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=15*, target=Work_Zone[1], source=4*)
 1702: 0x1CE8 [0x03] Work_Zone[2] = 5433*
-1703: 0x1CED [0x24] CREATE_DIALOG(message_id=7484*, default_option=0*, option_flags=0*)
+1703: 0x1CED [0x24] CREATE_DIALOG(message_id=7485*, default_option=0*, option_flags=0*)
     → "Obtain an item? (Tokens: $') [#./Not now.]"
 1704: 0x1CF4 [0x25] WAIT_DIALOG_SELECT()
 1705: 0x1CF5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D3E
 1706: 0x1CFD [0x93] DISPLAY_ITEM_INFO(item_id=5433*)
-1707: 0x1D00 [0x48] [System] [7485*]:
+1707: 0x1D00 [0x48] [System] [7486*]:
     → "You currently possess $' token[/s]. Do you wish to exchange tokens for this temporary item?"
 1708: 0x1D03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1709: 0x1D04 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1710: 0x1D07 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1710: 0x1D07 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1711: 0x1D0E [0x25] WAIT_DIALOG_SELECT()
 1712: 0x1D0F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D2D
@@ -3009,7 +3009,7 @@ SUBROUTINE_1D3B:
 
 SUBROUTINE_1D4C:
 1726: 0x1D4C [0x01] GOTO 0x1D56
-1727: 0x1D4F [0x48] [System] [7495*]:
+1727: 0x1D4F [0x48] [System] [7496*]:
     → "Insufficient tokens."
 1728: 0x1D52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1729: 0x1D53 [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -3148,10 +3148,10 @@ SUBROUTINE_1EDD:
 1810: 0x1EED [0x40] SET_BIT_WORK_RANGE(start_bit=12*, end_bit=15*, target=Work_Zone[1], source=5*)
 1811: 0x1EF6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 1812: 0x1EFB [0x03] Work_Zone[3] = 2*
-1813: 0x1F00 [0x48] [System] [7567*]:
+1813: 0x1F00 [0x48] [System] [7568*]:
     → "You currently have $' token[/s]. Exchange $0 token[/s] for all [low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?"
 1814: 0x1F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1815: 0x1F04 [0x24] CREATE_DIALOG(message_id=7486*, default_option=1*, option_flags=0*)
+1815: 0x1F04 [0x24] CREATE_DIALOG(message_id=7487*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
 1816: 0x1F0B [0x25] WAIT_DIALOG_SELECT()
 1817: 0x1F0C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F24
@@ -3167,14 +3167,14 @@ SUBROUTINE_1F32:
 1825: 0x1F32 [0x01] GOTO 0x1F46
 1826: 0x1F35 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 1827: 0x1F3A [0x03] Work_Zone[3] = 2*
-1828: 0x1F3F [0x48] [System] [7568*]:
+1828: 0x1F3F [0x48] [System] [7569*]:
     → "You currently have $' token[/s]. Obtaining all [low-grade/medium-grade//preferred] temporary items not already in your possession would require $0 token[/s]."
 1829: 0x1F42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1830: 0x1F43 [0x05] ExtData[1]->WorkLocal[1] = 1
 
 SUBROUTINE_1F46:
 1831: 0x1F46 [0x01] GOTO 0x1F50
-1832: 0x1F49 [0x48] [System] [7487*]:
+1832: 0x1F49 [0x48] [System] [7488*]:
     → "There are no items available in this category."
 1833: 0x1F4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1834: 0x1F4D [0x05] ExtData[1]->WorkLocal[1] = 1

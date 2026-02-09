@@ -30,11 +30,11 @@
 |       7 | 0x0002      |           2 |
 |       8 | 0x0014      |          20 |
 |       9 | 0x001D      |          29 |
-|      10 | 0x1E8E      |        7822 |
+|      10 | 0x1E8F      |        7823 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x1E8F      |        7823 |
-|      13 | 0x1E90      |        7824 |
-|      14 | 0x1E91      |        7825 |
+|      12 | 0x1E90      |        7824 |
+|      13 | 0x1E91      |        7825 |
+|      14 | 0x1E92      |        7826 |
 |      15 | 0x001C      |          28 |
 |      16 | 0x0015      |          21 |
 |      17 | 0x0007      |           7 |
@@ -272,10 +272,10 @@
 
 ## String References
 
-- **7822**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
-- **7823**: Monsters Defeated on Reisenjima. [Go back./Crom Dubh. [/y$26z]/Golden Kist. [/y$26z]/Mauve-wristed Gomberry. [/y$26z]/Dazzling Dolores. [/y$26z]/Taelmoth the Diremaw. [/y$26z]/Belphegor. [/y$26z]/Kabandha. [/y$26z]/Selkit. [/y$26z]/Sang Buaya. [/y$26z]/Sabotender Royal. [/y$26z]/Zduhac. [/y$26z]/Oryx. [/y$26z]/Strophadia. [/y$26z]/Gajasimha. [/y$26z]/Ironside. [/y$26z]/Sarsaok. [/y$26z]/Old Shuck. [/y$26z]/Bashmu. [/y$26z]/Maju. [/y$26z]/Yakshi. [/y$26z]/Neak. [/y$26z]/Next page.]
-- **7824**: Monsters Defeated on Reisenjima (Pg. 2) [Go back./Teles. [/y$26z]/Zerde. [/y$26z]/Vinipata. [/y$26z]/Schah. [/y$26z]/Albumen. [/y$26z]/Onychophora. [/y$26z]/Erinys. [/y$26z]/Previous page.]
-- **7825**: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Quetzalcoatl $3 time[/s]./Defeated Mireu $5 time[/s].]
+- **7823**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
+- **7824**: Monsters Defeated on Reisenjima. [Go back./Crom Dubh. [/y$26z]/Golden Kist. [/y$26z]/Mauve-wristed Gomberry. [/y$26z]/Dazzling Dolores. [/y$26z]/Taelmoth the Diremaw. [/y$26z]/Belphegor. [/y$26z]/Kabandha. [/y$26z]/Selkit. [/y$26z]/Sang Buaya. [/y$26z]/Sabotender Royal. [/y$26z]/Zduhac. [/y$26z]/Oryx. [/y$26z]/Strophadia. [/y$26z]/Gajasimha. [/y$26z]/Ironside. [/y$26z]/Sarsaok. [/y$26z]/Old Shuck. [/y$26z]/Bashmu. [/y$26z]/Maju. [/y$26z]/Yakshi. [/y$26z]/Neak. [/y$26z]/Next page.]
+- **7825**: Monsters Defeated on Reisenjima (Pg. 2) [Go back./Teles. [/y$26z]/Zerde. [/y$26z]/Vinipata. [/y$26z]/Schah. [/y$26z]/Albumen. [/y$26z]/Onychophora. [/y$26z]/Erinys. [/y$26z]/Previous page.]
+- **7826**: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Quetzalcoatl $3 time[/s]./Defeated Mireu $5 time[/s].]
 
 ## Events
 
@@ -567,7 +567,7 @@ SUBROUTINE_0067:
 
 SUBROUTINE_0070:
  22: 0x0070 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x00BF
- 23: 0x0078 [0x24] CREATE_DIALOG(message_id=7822*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[8])
+ 23: 0x0078 [0x24] CREATE_DIALOG(message_id=7823*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[8])
     → "What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]"
  24: 0x007F [0x25] WAIT_DIALOG_SELECT()
  25: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0093
@@ -599,7 +599,7 @@ SUBROUTINE_00CC:
  43: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0142
  44: 0x00D4 [0x1A] CALL_SUBROUTINE(address=0x0176)
  45: 0x00D7 [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x010B
- 46: 0x00DF [0x24] CREATE_DIALOG(message_id=7823*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 46: 0x00DF [0x24] CREATE_DIALOG(message_id=7824*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Monsters Defeated on Reisenjima. [Go back./Crom Dubh. [/y$26z]/Golden Kist. [/y$26z]/Mauve-wristed Gomberry. [/y$26z]/Dazzling Dolores. [/y$26z]/Taelmoth the Diremaw. [/y$26z]/Belphegor. [/y$26z]/Kabandha. [/y$26z]/Selkit. [/y$26z]/Sang Buaya. [/y$26z]/Sabotender Royal. [/y$26z]/Zduhac. [/y$26z]/Oryx. [/y$26z]/Strophadia. [/y$26z]/Gajasimha. [/y$26z]/Ironside. [/y$26z]/Sarsaok. [/y$26z]/Old Shuck. [/y$26z]/Bashmu. [/y$26z]/Maju. [/y$26z]/Yakshi. [/y$26z]/Neak. [/y$26z]/Next page.]"
  47: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
  48: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -613,7 +613,7 @@ SUBROUTINE_00F5:
  54: 0x0105 [0x06] ExtData[1]->WorkLocal[10] = 0
  55: 0x0108 [0x01] GOTO 0x013F
  56: 0x010B [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x013F
- 57: 0x0113 [0x24] CREATE_DIALOG(message_id=7824*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 57: 0x0113 [0x24] CREATE_DIALOG(message_id=7825*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Monsters Defeated on Reisenjima (Pg. 2) [Go back./Teles. [/y$26z]/Zerde. [/y$26z]/Vinipata. [/y$26z]/Schah. [/y$26z]/Albumen. [/y$26z]/Onychophora. [/y$26z]/Erinys. [/y$26z]/Previous page.]"
  58: 0x011A [0x25] WAIT_DIALOG_SELECT()
  59: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0129
@@ -640,7 +640,7 @@ SUBROUTINE_014C:
  72: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0175
  73: 0x0154 [0x1A] CALL_SUBROUTINE(address=0x0344)
  74: 0x0157 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
- 75: 0x015C [0x24] CREATE_DIALOG(message_id=7825*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
+ 75: 0x015C [0x24] CREATE_DIALOG(message_id=7826*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
     → "Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Quetzalcoatl $3 time[/s]./Defeated Mireu $5 time[/s].]"
  76: 0x0163 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0164 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0172

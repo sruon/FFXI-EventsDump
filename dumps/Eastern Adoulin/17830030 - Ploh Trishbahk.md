@@ -88,7 +88,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0044      |          68 |
-|       1 | 0x293C      |       10556 |
+|       1 | 0x293D      |       10557 |
 |       2 | 0x000D      |          13 |
 |       3 | 0x1879B     |      100251 |
 |       4 | 0xFFFF0E9D  |  4294905501 |
@@ -103,112 +103,112 @@
 |      13 | 0x0008      |           8 |
 |      14 | 0x0032      |          50 |
 |      15 | 0x0898      |        2200 |
-|      16 | 0x2099      |        8345 |
-|      17 | 0x209A      |        8346 |
-|      18 | 0x209B      |        8347 |
-|      19 | 0x1EDF      |        7903 |
-|      20 | 0x1EE0      |        7904 |
-|      21 | 0x1EE1      |        7905 |
-|      22 | 0x1EE2      |        7906 |
-|      23 | 0x1FBF      |        8127 |
-|      24 | 0x1FC0      |        8128 |
+|      16 | 0x209A      |        8346 |
+|      17 | 0x209B      |        8347 |
+|      18 | 0x209C      |        8348 |
+|      19 | 0x1EE0      |        7904 |
+|      20 | 0x1EE1      |        7905 |
+|      21 | 0x1EE2      |        7906 |
+|      22 | 0x1EE3      |        7907 |
+|      23 | 0x1FC0      |        8128 |
+|      24 | 0x1FC1      |        8129 |
 |      25 | 0x1885E     |      100446 |
 |      26 | 0xFFFF004E  |  4294901838 |
 |      27 | 0x0028      |          40 |
 |      28 | 0x17990     |       96656 |
 |      29 | 0xFFFEFFCF  |  4294901711 |
 |      30 | 0x001E      |          30 |
-|      31 | 0x219C      |        8604 |
-|      32 | 0x219D      |        8605 |
-|      33 | 0x219E      |        8606 |
+|      31 | 0x219D      |        8605 |
+|      32 | 0x219E      |        8606 |
+|      33 | 0x219F      |        8607 |
 |      34 | 0x0034      |          52 |
-|      35 | 0x219F      |        8607 |
-|      36 | 0x21A0      |        8608 |
-|      37 | 0x21A1      |        8609 |
-|      38 | 0x21B2      |        8626 |
-|      39 | 0x21B3      |        8627 |
-|      40 | 0x21B4      |        8628 |
-|      41 | 0x2309      |        8969 |
-|      42 | 0x2380      |        9088 |
-|      43 | 0x23D2      |        9170 |
-|      44 | 0x23D3      |        9171 |
-|      45 | 0x243B      |        9275 |
-|      46 | 0x243C      |        9276 |
-|      47 | 0x246C      |        9324 |
-|      48 | 0x246D      |        9325 |
-|      49 | 0x2550      |        9552 |
-|      50 | 0x2551      |        9553 |
-|      51 | 0x256C      |        9580 |
-|      52 | 0x256D      |        9581 |
-|      53 | 0x256E      |        9582 |
-|      54 | 0x256F      |        9583 |
-|      55 | 0x2571      |        9585 |
-|      56 | 0x2572      |        9586 |
-|      57 | 0x2573      |        9587 |
-|      58 | 0x2574      |        9588 |
-|      59 | 0x2570      |        9584 |
-|      60 | 0x25B4      |        9652 |
-|      61 | 0x25B5      |        9653 |
+|      35 | 0x21A0      |        8608 |
+|      36 | 0x21A1      |        8609 |
+|      37 | 0x21A2      |        8610 |
+|      38 | 0x21B3      |        8627 |
+|      39 | 0x21B4      |        8628 |
+|      40 | 0x21B5      |        8629 |
+|      41 | 0x230A      |        8970 |
+|      42 | 0x2381      |        9089 |
+|      43 | 0x23D3      |        9171 |
+|      44 | 0x23D4      |        9172 |
+|      45 | 0x243C      |        9276 |
+|      46 | 0x243D      |        9277 |
+|      47 | 0x246D      |        9325 |
+|      48 | 0x246E      |        9326 |
+|      49 | 0x2551      |        9553 |
+|      50 | 0x2552      |        9554 |
+|      51 | 0x256D      |        9581 |
+|      52 | 0x256E      |        9582 |
+|      53 | 0x256F      |        9583 |
+|      54 | 0x2570      |        9584 |
+|      55 | 0x2572      |        9586 |
+|      56 | 0x2573      |        9587 |
+|      57 | 0x2574      |        9588 |
+|      58 | 0x2575      |        9589 |
+|      59 | 0x2571      |        9585 |
+|      60 | 0x25B5      |        9653 |
+|      61 | 0x25B6      |        9654 |
 |      62 | 0x173A1     |       95137 |
 |      63 | 0xFFFF0573  |  4294903155 |
 |      64 | 0xFFFF63C1  |  4294927297 |
-|      65 | 0x25D2      |        9682 |
+|      65 | 0x25D3      |        9683 |
 |      66 | 0x6D13      |       27923 |
-|      67 | 0x26DD      |        9949 |
-|      68 | 0x26DE      |        9950 |
-|      69 | 0x26DF      |        9951 |
+|      67 | 0x26DE      |        9950 |
+|      68 | 0x26DF      |        9951 |
+|      69 | 0x26E0      |        9952 |
 |      70 | 0x6D9F      |       28063 |
-|      71 | 0x26E0      |        9952 |
-|      72 | 0x26BE      |        9918 |
-|      73 | 0x26E1      |        9953 |
-|      74 | 0x26E2      |        9954 |
-|      75 | 0x26E3      |        9955 |
-|      76 | 0x358A      |       13706 |
-|      77 | 0x358B      |       13707 |
-|      78 | 0x358C      |       13708 |
-|      79 | 0x3639      |       13881 |
-|      80 | 0x363A      |       13882 |
-|      81 | 0x3636      |       13878 |
-|      82 | 0x363C      |       13884 |
-|      83 | 0x3637      |       13879 |
-|      84 | 0x3638      |       13880 |
-|      85 | 0x3647      |       13895 |
-|      86 | 0x2DCC      |       11724 |
-|      87 | 0x2DCD      |       11725 |
-|      88 | 0x2DCE      |       11726 |
+|      71 | 0x26E1      |        9953 |
+|      72 | 0x26BF      |        9919 |
+|      73 | 0x26E2      |        9954 |
+|      74 | 0x26E3      |        9955 |
+|      75 | 0x26E4      |        9956 |
+|      76 | 0x358B      |       13707 |
+|      77 | 0x358C      |       13708 |
+|      78 | 0x358D      |       13709 |
+|      79 | 0x363A      |       13882 |
+|      80 | 0x363B      |       13883 |
+|      81 | 0x3637      |       13879 |
+|      82 | 0x363D      |       13885 |
+|      83 | 0x3638      |       13880 |
+|      84 | 0x3639      |       13881 |
+|      85 | 0x3648      |       13896 |
+|      86 | 0x2DCD      |       11725 |
+|      87 | 0x2DCE      |       11726 |
+|      88 | 0x2DCF      |       11727 |
 |      89 | 0x005A      |          90 |
 |      90 | 0x0001      |           1 |
-|      91 | 0x2DDA      |       11738 |
-|      92 | 0x2DDB      |       11739 |
+|      91 | 0x2DDB      |       11739 |
+|      92 | 0x2DDC      |       11740 |
 |      93 | 0x0002      |           2 |
-|      94 | 0x2E0B      |       11787 |
-|      95 | 0x2E0C      |       11788 |
+|      94 | 0x2E0C      |       11788 |
+|      95 | 0x2E0D      |       11789 |
 |      96 | 0x0003      |           3 |
-|      97 | 0x2E99      |       11929 |
-|      98 | 0x2E9A      |       11930 |
-|      99 | 0x2E9B      |       11931 |
-|     100 | 0x2EC1      |       11969 |
-|     101 | 0x2EC2      |       11970 |
-|     102 | 0x2EC3      |       11971 |
+|      97 | 0x2E9A      |       11930 |
+|      98 | 0x2E9B      |       11931 |
+|      99 | 0x2E9C      |       11932 |
+|     100 | 0x2EC2      |       11970 |
+|     101 | 0x2EC3      |       11971 |
+|     102 | 0x2EC4      |       11972 |
 |     103 | 0x0005      |           5 |
-|     104 | 0x2ECE      |       11982 |
-|     105 | 0x2ECF      |       11983 |
-|     106 | 0x2ED0      |       11984 |
+|     104 | 0x2ECF      |       11983 |
+|     105 | 0x2ED0      |       11984 |
+|     106 | 0x2ED1      |       11985 |
 |     107 | 0x0062      |          98 |
-|     108 | 0x2DF3      |       11763 |
-|     109 | 0x2EF5      |       12021 |
+|     108 | 0x2DF4      |       11764 |
+|     109 | 0x2EF6      |       12022 |
 |     110 | 0x0006      |           6 |
-|     111 | 0x2F55      |       12117 |
-|     112 | 0x2F56      |       12118 |
-|     113 | 0x2F57      |       12119 |
-|     114 | 0x2F58      |       12120 |
+|     111 | 0x2F56      |       12118 |
+|     112 | 0x2F57      |       12119 |
+|     113 | 0x2F58      |       12120 |
+|     114 | 0x2F59      |       12121 |
 |     115 | 0x0105      |         261 |
-|     116 | 0x2F6B      |       12139 |
-|     117 | 0x2F6C      |       12140 |
-|     118 | 0x2F6E      |       12142 |
-|     119 | 0x2F6F      |       12143 |
+|     116 | 0x2F6C      |       12140 |
+|     117 | 0x2F6D      |       12141 |
+|     118 | 0x2F6F      |       12143 |
+|     119 | 0x2F70      |       12144 |
 |     120 | 0x0063      |          99 |
-|     121 | 0x2DF4      |       11764 |
+|     121 | 0x2DF5      |       11765 |
 |     122 | 0x184AC     |       99500 |
 |     123 | 0xFFFF11B8  |  4294906296 |
 |     124 | 0xFFFF632A  |  4294927146 |
@@ -230,99 +230,99 @@
 |     140 | 0x18894     |      100500 |
 |     141 | 0xFFFF0DD0  |  4294905296 |
 |     142 | 0x0121      |         289 |
-|     143 | 0x2F9C      |       12188 |
-|     144 | 0x2F9D      |       12189 |
-|     145 | 0x2F9E      |       12190 |
+|     143 | 0x2F9D      |       12189 |
+|     144 | 0x2F9E      |       12190 |
+|     145 | 0x2F9F      |       12191 |
 |     146 | 0x010B      |         267 |
-|     147 | 0x2FA8      |       12200 |
-|     148 | 0x2FA9      |       12201 |
+|     147 | 0x2FA9      |       12201 |
+|     148 | 0x2FAA      |       12202 |
 
 ## String References
 
-- **7903**: Beforrre you lies Castle Adoulin.
-- **7904**: Those not here on official business must...oh, you're here making the rrrounds?
-- **7905**: The castle is completely securrre, thanks in no small part to us guards.
-- **7906**: Let the Peacekeeperrrs know that nothing is amiss here.
-- **8127**: The master is far too preoccupied to see an outsiderrr like... What's this? The librrrary? Maybe I can be of assistance.
-- **8128**: Those slobs need to update their rrrecords better. So much of this is out of date! There. Now everything is as it should be.
-- **8604**: Ingrrrid herself has left me with a message for you.
-- **8605**: You are to gather four items that have been touched by the Divine.
-- **8606**: The firrrst, a piece of stone wall touched by the light of dawn. The second, holy water untainted by impurity.
-- **8607**: The thirrrd, a flame that has gone unextinguished for seven years. The fourth, the wings of a weather vane that has stood the test of time.
-- **8608**: Perhaps you could start by gathering information from the other exorcists. They would do their utmost to uphold Ingrid's wishes.
-- **8609**: Hildebert's manse is not far from here. I suggest you pay his order a visit and see what information you can glean.
-- **8626**: My dearrr pioneer, we have located the weather vane that you seek.
-- **8627**: To the south of this very plaza lies a larrrge manse whose storage unit contains such an object.
-- **8628**: We have already discussed the issue with the owners, who are waiting for your arrrival at the manse to the south.
-- **8969**: The princess--she's been taken by some horrible beast! If you are truly a friend to the order, then you must go to the wilds to rescue her!
-- **9088**: Feeling a bit lost? I'm sure someone at the Pioneerrrs' Coalition can help you.
-- **9170**: The princess has always been a connoisseurrr of fine vegetables. Surely fresh tomatoes will cheer her up.
-- **9171**: But wasn't that Fremilla's job...?
-- **9275**: The Twelve Orders have tasked you with surrrveying Rala Waterways?
-- **9276**: I would advise you to bring prrrotection. The recent landshivers may have loosened a few stones in the ceilings.
-- **9324**: Arciela has never called such a meeting of the Twelve Orders with such urrrgency.
-- **9325**: She has informed us that you are to be present. I'll purrrmit you entry once the heads have assembled.
-- **9552**: What!? Frrremilla!? I'm at a loss for words!
-- **9553**: If only I could do something to help besides stand guarrrd over the castle.... Either way, there is sadly nothing you can do here at the moment.
-- **9580**: Ah, <Player>. Cynthia entrrrusted me with a message for you.
-- **9581**: It rrreads, "Please bring the heirloom necklace that Master Ygnas mentioned."
-- **9582**: I think it would be easiest if you just hand overrr the necklace to me, and I shall pass it on to Cynthia.
-- **9583**: I await your rrreturn.
-- **9584**: Yes, this $0 does look to be the keepsake they rrrequested.
-- **9585**: Could this be the necklace you're rrreferring to, <Player>?
-- **9586**: A kind citizen came to turrrn this in. It's adorned with the Order of Adoulin's insignia, so I figured you'd be looking for it and took it off his hands.
-- **9587**: Please be a bit more attentive the next time you're entrrrusted with something from then Adoulins. This is a precious heirloom, after all.
-- **9588**: All's well that ends well, I suppose. I'll brrring the necklace to Cynthia, so you're free to do whatever you please.
-- **9652**: I believe the prrrincess has headed to her ancestor's grave in the waterways.
-- **9653**: I strrrongly disagree with her going down there alone, but who am I to stop her? Keep her safe for the good of the nation, pioneer!
-- **9682**: Please, take a good look at the $3 I handed you...and stay by Arciela's side.
-- **9949**: Well met, <Player>. Forrrgive me if I'm butting in, but did you happen to lose $1?
-- **9950**: A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping. Anything emblazoned with the Order of Adoulin's seal is too important to let out of my sight.
-- **9951**: Please ensurrre that you do not lose it again. I would hate to picture the look on the princess's face were you to do so.
-- **9952**: A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping.
-- **10556**: Stop loitering in frrront of Castle Adoulin or I'll gouge your eyes out!
-- **11724**: A secrrret path out of the castle?
-- **11725**: If I were a secret path, where would I be located? Probably a dusty alley or underground tunnel.
-- **11726**: B-but a dutiful guard would not rrreveal such things so flippantly!
-- **11738**: The mystery of the missing tomatoes? You won't learrrn anything unless you find Ygnas.
-- **11739**: I'd scour every corrrner of this town for clues.
-- **11763**: You're wondering if Ygnas is still sneaking out?
-- **11764**: Fremilla hasn't mentioned anything to me, but rrrest assured that you'll be the first to know.
-- **11787**: You are looking for Lorrrd Ygnas? That sounds like a job more suited to the Scouts' Coalition.
-- **11788**: Ah, forrrgive me! It is not the place of a mere guard to speak of such things!
-- **11929**: The waitrrress she's talking about must be Yocile.
-- **11930**: I doubt there to be any impropriety between her and Lord Ygnas.
-- **11931**: Ah, but you wouldn't be interested in my musings. Please, forrrget I mentioned anything.
-- **11969**: Geosuke? He cerrrtainly is the popular figure in our city.
-- **11970**: But let's leave the juicy gossip for a later date. I've got worrrk to do.
-- **11971**: And so do you--there's a different leafkin you've got to worry about right now: Ygnas.
-- **11982**: Lord Ygnas bounded out the frrront gate just a short while ago.
-- **11983**: He's got to be around here somewhere...but where?
-- **11984**: But I dare not concern myself with his affairs. I am but a simple guard.
-- **12021**: With how Fremilla's been in a tizzy the past few days, I wager it'll be a while before she calls on you again.
-- **12117**: You wish to confirm the sweets Fremilla rrrequested for Princess Arciela?
-- **12118**: Hmm... It looks like you need to brrring $0...
-- **12119**: Hmm... It looks like you need to brrring $1 $0 and $3 $0 .
-- **12120**: Once you have what I need, rrreturn here and I will summon Fremilla.
-- **12139**: Oh yes, Fremilla said they werrre heading to the $8.
-- **12140**: I'm sure they'll be fine, but I rrreally can't help but worry about those two. Hopefully, nothing bad happens to them out there.
-- **12142**: I deliverrred the sweets to Princess Arciela.
-- **12143**: And it seems that Fremilla is continuing to trrry her hand at playing detective...
-- **12188**: So I hear you'rrre going to $8.
-- **12189**: Be careful out there, okay?
-- **12190**: Hm? $8? Where's that?
-- **12200**: Lady Arciela has set out for $8.
-- **12201**: I hear you are headed there as well. I wish you a safe and pleasant journey.
-- **13706**: The prrrincess often ventures out into the jungle when her presence is not required at the castle.
-- **13707**: Today is one such day. She mentioned going on a brrrief foray into Ceizak Battlegrounds.
-- **13708**: Her strong sense of wanderrrlust has not faded even as she blossoms into a young woman. Would that I could stop her...
-- **13878**: ...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates.
-- **13879**: Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates.
-- **13880**: But the orrrders have their own issues to face at present, and nary a hand can be spared.
-- **13881**: A jesterrr? You're looking for a demon jester?
-- **13882**: I'd like to help, but I've hearrrd no news of such a creature.
-- **13884**: Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?
-- **13895**: The prrrincess awaits you in Celennia Memorial Library.
+- **7904**: Beforrre you lies Castle Adoulin.
+- **7905**: Those not here on official business must...oh, you're here making the rrrounds?
+- **7906**: The castle is completely securrre, thanks in no small part to us guards.
+- **7907**: Let the Peacekeeperrrs know that nothing is amiss here.
+- **8128**: The master is far too preoccupied to see an outsiderrr like... What's this? The librrrary? Maybe I can be of assistance.
+- **8129**: Those slobs need to update their rrrecords better. So much of this is out of date! There. Now everything is as it should be.
+- **8605**: Ingrrrid herself has left me with a message for you.
+- **8606**: You are to gather four items that have been touched by the Divine.
+- **8607**: The firrrst, a piece of stone wall touched by the light of dawn. The second, holy water untainted by impurity.
+- **8608**: The thirrrd, a flame that has gone unextinguished for seven years. The fourth, the wings of a weather vane that has stood the test of time.
+- **8609**: Perhaps you could start by gathering information from the other exorcists. They would do their utmost to uphold Ingrid's wishes.
+- **8610**: Hildebert's manse is not far from here. I suggest you pay his order a visit and see what information you can glean.
+- **8627**: My dearrr pioneer, we have located the weather vane that you seek.
+- **8628**: To the south of this very plaza lies a larrrge manse whose storage unit contains such an object.
+- **8629**: We have already discussed the issue with the owners, who are waiting for your arrrival at the manse to the south.
+- **8970**: The princess--she's been taken by some horrible beast! If you are truly a friend to the order, then you must go to the wilds to rescue her!
+- **9089**: Feeling a bit lost? I'm sure someone at the Pioneerrrs' Coalition can help you.
+- **9171**: The princess has always been a connoisseurrr of fine vegetables. Surely fresh tomatoes will cheer her up.
+- **9172**: But wasn't that Fremilla's job...?
+- **9276**: The Twelve Orders have tasked you with surrrveying Rala Waterways?
+- **9277**: I would advise you to bring prrrotection. The recent landshivers may have loosened a few stones in the ceilings.
+- **9325**: Arciela has never called such a meeting of the Twelve Orders with such urrrgency.
+- **9326**: She has informed us that you are to be present. I'll purrrmit you entry once the heads have assembled.
+- **9553**: What!? Frrremilla!? I'm at a loss for words!
+- **9554**: If only I could do something to help besides stand guarrrd over the castle.... Either way, there is sadly nothing you can do here at the moment.
+- **9581**: Ah, <Player>. Cynthia entrrrusted me with a message for you.
+- **9582**: It rrreads, "Please bring the heirloom necklace that Master Ygnas mentioned."
+- **9583**: I think it would be easiest if you just hand overrr the necklace to me, and I shall pass it on to Cynthia.
+- **9584**: I await your rrreturn.
+- **9585**: Yes, this $0 does look to be the keepsake they rrrequested.
+- **9586**: Could this be the necklace you're rrreferring to, <Player>?
+- **9587**: A kind citizen came to turrrn this in. It's adorned with the Order of Adoulin's insignia, so I figured you'd be looking for it and took it off his hands.
+- **9588**: Please be a bit more attentive the next time you're entrrrusted with something from then Adoulins. This is a precious heirloom, after all.
+- **9589**: All's well that ends well, I suppose. I'll brrring the necklace to Cynthia, so you're free to do whatever you please.
+- **9653**: I believe the prrrincess has headed to her ancestor's grave in the waterways.
+- **9654**: I strrrongly disagree with her going down there alone, but who am I to stop her? Keep her safe for the good of the nation, pioneer!
+- **9683**: Please, take a good look at the $3 I handed you...and stay by Arciela's side.
+- **9950**: Well met, <Player>. Forrrgive me if I'm butting in, but did you happen to lose $1?
+- **9951**: A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping. Anything emblazoned with the Order of Adoulin's seal is too important to let out of my sight.
+- **9952**: Please ensurrre that you do not lose it again. I would hate to picture the look on the princess's face were you to do so.
+- **9953**: A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping.
+- **10557**: Stop loitering in frrront of Castle Adoulin or I'll gouge your eyes out!
+- **11725**: A secrrret path out of the castle?
+- **11726**: If I were a secret path, where would I be located? Probably a dusty alley or underground tunnel.
+- **11727**: B-but a dutiful guard would not rrreveal such things so flippantly!
+- **11739**: The mystery of the missing tomatoes? You won't learrrn anything unless you find Ygnas.
+- **11740**: I'd scour every corrrner of this town for clues.
+- **11764**: You're wondering if Ygnas is still sneaking out?
+- **11765**: Fremilla hasn't mentioned anything to me, but rrrest assured that you'll be the first to know.
+- **11788**: You are looking for Lorrrd Ygnas? That sounds like a job more suited to the Scouts' Coalition.
+- **11789**: Ah, forrrgive me! It is not the place of a mere guard to speak of such things!
+- **11930**: The waitrrress she's talking about must be Yocile.
+- **11931**: I doubt there to be any impropriety between her and Lord Ygnas.
+- **11932**: Ah, but you wouldn't be interested in my musings. Please, forrrget I mentioned anything.
+- **11970**: Geosuke? He cerrrtainly is the popular figure in our city.
+- **11971**: But let's leave the juicy gossip for a later date. I've got worrrk to do.
+- **11972**: And so do you--there's a different leafkin you've got to worry about right now: Ygnas.
+- **11983**: Lord Ygnas bounded out the frrront gate just a short while ago.
+- **11984**: He's got to be around here somewhere...but where?
+- **11985**: But I dare not concern myself with his affairs. I am but a simple guard.
+- **12022**: With how Fremilla's been in a tizzy the past few days, I wager it'll be a while before she calls on you again.
+- **12118**: You wish to confirm the sweets Fremilla rrrequested for Princess Arciela?
+- **12119**: Hmm... It looks like you need to brrring $0...
+- **12120**: Hmm... It looks like you need to brrring $1 $0 and $3 $0 .
+- **12121**: Once you have what I need, rrreturn here and I will summon Fremilla.
+- **12140**: Oh yes, Fremilla said they werrre heading to the $8.
+- **12141**: I'm sure they'll be fine, but I rrreally can't help but worry about those two. Hopefully, nothing bad happens to them out there.
+- **12143**: I deliverrred the sweets to Princess Arciela.
+- **12144**: And it seems that Fremilla is continuing to trrry her hand at playing detective...
+- **12189**: So I hear you'rrre going to $8.
+- **12190**: Be careful out there, okay?
+- **12191**: Hm? $8? Where's that?
+- **12201**: Lady Arciela has set out for $8.
+- **12202**: I hear you are headed there as well. I wish you a safe and pleasant journey.
+- **13707**: The prrrincess often ventures out into the jungle when her presence is not required at the castle.
+- **13708**: Today is one such day. She mentioned going on a brrrief foray into Ceizak Battlegrounds.
+- **13709**: Her strong sense of wanderrrlust has not faded even as she blossoms into a young woman. Would that I could stop her...
+- **13879**: ...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates.
+- **13880**: Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates.
+- **13881**: But the orrrders have their own issues to face at present, and nary a hand can be spared.
+- **13882**: A jesterrr? You're looking for a demon jester?
+- **13883**: I'd like to help, but I've hearrrd no news of such a creature.
+- **13885**: Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?
+- **13896**: The prrrincess awaits you in Celennia Memorial Library.
 
 ## Events
 
@@ -373,7 +373,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10556*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10557*)
     → "Stop loitering in frrront of Castle Adoulin or I'll gouge your eyes out!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -581,13 +581,13 @@
   2: 0x0091 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ploh Trishbahk (ID: 17830030/0x0110108E) Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
   4: 0x00A5 [0x03] Work_Zone[2] = 2200*
-  5: 0x00AA [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [8345*]:
+  5: 0x00AA [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [8346*]:
     → "Thank you for proffering your $3."
   6: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00B2 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [8346*]:
+  7: 0x00B2 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [8347*]:
     → "I regret to inform you, however, that entrance is not permitted except between the hours of 15:00 and 22:00."
   8: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00BA [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [8347*]:
+  9: 0x00BA [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [8348*]:
     → "I apologize for the inconvenience, but would you please return during the aforementioned times?"
  10: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
@@ -622,16 +622,16 @@
   2: 0x00D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+  5: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "Beforrre you lies Castle Adoulin."
   6: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
+  7: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
     → "Those not here on official business must...oh, you're here making the rrrounds?"
   8: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  9: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "The castle is completely securrre, thanks in no small part to us guards."
  10: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+ 11: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "Let the Peacekeeperrrs know that nothing is amiss here."
  12: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -666,10 +666,10 @@
   2: 0x0111 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0112 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0113 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
+  5: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
     → "The master is far too preoccupied to see an outsiderrr like... What's this? The librrrary? Maybe I can be of assistance."
   6: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+  7: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "Those slobs need to update their rrrecords better. So much of this is out of date! There. Now everything is as it should be."
   8: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x012A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -831,28 +831,28 @@
   2: 0x016D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x016E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x016F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=8604*)
+  5: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
     → "Ingrrrid herself has left me with a message for you."
   6: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=8605*)
+  7: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
     → "You are to gather four items that have been touched by the Divine."
   8: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0186 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  10: 0x0193 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
- 11: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
+ 11: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
     → "The firrrst, a piece of stone wall touched by the light of dawn. The second, holy water untainted by impurity."
  12: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01A6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk2" with entities [EventEntity, EventEntity]
  14: 0x01B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=52*
- 15: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
+ 15: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
     → "The thirrrd, a flame that has gone unextinguished for seven years. The fourth, the wings of a weather vane that has stood the test of time."
  16: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
+ 17: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
     → "Perhaps you could start by gathering information from the other exorcists. They would do their utmost to uphold Ingrid's wishes."
  18: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x01CA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlc0" with entities [EventEntity, EventEntity]
  20: 0x01D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc1" with entities [EventEntity, EventEntity], work=52*
- 21: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
+ 21: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
     → "Hildebert's manse is not far from here. I suggest you pay his order a visit and see what information you can glean."
  22: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x01EA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlc1" with entities [EventEntity, EventEntity]
@@ -892,20 +892,20 @@
   1: 0x0200 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0201 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0202 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8606*)
+  4: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
     → "The firrrst, a piece of stone wall touched by the light of dawn. The second, holy water untainted by impurity."
   5: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8607*)
+  6: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
     → "The thirrrd, a flame that has gone unextinguished for seven years. The fourth, the wings of a weather vane that has stood the test of time."
   7: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0219 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
   9: 0x0226 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
  10: 0x0235 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk2" with entities [EventEntity, EventEntity]
  11: 0x0242 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=52*
- 12: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8608*)
+ 12: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
     → "Perhaps you could start by gathering information from the other exorcists. They would do their utmost to uphold Ingrid's wishes."
  13: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8609*)
+ 14: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8610*)
     → "Hildebert's manse is not far from here. I suggest you pay his order a visit and see what information you can glean."
  15: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0259 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlc0" with entities [EventEntity, EventEntity]
@@ -941,13 +941,13 @@
   2: 0x027D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x027E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x027F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8626*)
+  5: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
     → "My dearrr pioneer, we have located the weather vane that you seek."
   6: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
+  7: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
     → "To the south of this very plaza lies a larrrge manse whose storage unit contains such an object."
   8: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
+  9: 0x0296 [0x1D] PRINT_EVENT_MESSAGE(message_id=8629*)
     → "We have already discussed the issue with the owners, who are waiting for your arrrival at the manse to the south."
  10: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x029A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -981,13 +981,13 @@
   1: 0x02B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8626*)
+  4: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
     → "My dearrr pioneer, we have located the weather vane that you seek."
   5: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
+  6: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
     → "To the south of this very plaza lies a larrrge manse whose storage unit contains such an object."
   7: 0x02C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
+  8: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8629*)
     → "We have already discussed the issue with the owners, who are waiting for your arrrival at the manse to the south."
   9: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1021,7 +1021,7 @@
   1: 0x02E3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8969*)
+  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8970*)
     → "The princess--she's been taken by some horrible beast! If you are truly a friend to the order, then you must go to the wilds to rescue her!"
   5: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1055,7 +1055,7 @@
   1: 0x030E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x030F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0310 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=9088*)
+  4: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=9089*)
     → "Feeling a bit lost? I'm sure someone at the Pioneerrrs' Coalition can help you."
   5: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0323 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1155,10 +1155,10 @@
   1: 0x033C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x033D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x033E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=9170*)
+  4: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=9171*)
     → "The princess has always been a connoisseurrr of fine vegetables. Surely fresh tomatoes will cheer her up."
   5: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=9171*)
+  6: 0x0351 [0x1D] PRINT_EVENT_MESSAGE(message_id=9172*)
     → "But wasn't that Fremilla's job...?"
   7: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0355 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1192,10 +1192,10 @@
   1: 0x036B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x036C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x036D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=9275*)
+  4: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=9276*)
     → "The Twelve Orders have tasked you with surrrveying Rala Waterways?"
   5: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=9276*)
+  6: 0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=9277*)
     → "I would advise you to bring prrrotection. The recent landshivers may have loosened a few stones in the ceilings."
   7: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0384 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1229,10 +1229,10 @@
   1: 0x039A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x039B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x039C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9324*)
+  4: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=9325*)
     → "Arciela has never called such a meeting of the Twelve Orders with such urrrgency."
   5: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9325*)
+  6: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9326*)
     → "She has informed us that you are to be present. I'll purrrmit you entry once the heads have assembled."
   7: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1266,10 +1266,10 @@
   1: 0x03C9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03CA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9552*)
+  4: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9553*)
     → "What!? Frrremilla!? I'm at a loss for words!"
   5: 0x03DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9553*)
+  6: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9554*)
     → "If only I could do something to help besides stand guarrrd over the castle.... Either way, there is sadly nothing you can do here at the moment."
   7: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1303,16 +1303,16 @@
   1: 0x03F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03F9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=9580*)
+  4: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=9581*)
     → "Ah, <Player>. Cynthia entrrrusted me with a message for you."
   5: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=9581*)
+  6: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=9582*)
     → "It rrreads, "Please bring the heirloom necklace that Master Ygnas mentioned.""
   7: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0411 [0x1D] PRINT_EVENT_MESSAGE(message_id=9582*)
+  8: 0x0411 [0x1D] PRINT_EVENT_MESSAGE(message_id=9583*)
     → "I think it would be easiest if you just hand overrr the necklace to me, and I shall pass it on to Cynthia."
   9: 0x0414 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=9583*)
+ 10: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=9584*)
     → "I await your rrreturn."
  11: 0x0418 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0419 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1347,17 +1347,17 @@
   1: 0x042F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0430 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0431 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0440 [0x1D] PRINT_EVENT_MESSAGE(message_id=9585*)
+  4: 0x0440 [0x1D] PRINT_EVENT_MESSAGE(message_id=9586*)
     → "Could this be the necklace you're rrreferring to, <Player>?"
   5: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=9586*)
+  6: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=9587*)
     → "A kind citizen came to turrrn this in. It's adorned with the Order of Adoulin's insignia, so I figured you'd be looking for it and took it off his hands."
   7: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0448 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  9: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=9587*)
+  9: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=9588*)
     → "Please be a bit more attentive the next time you're entrrrusted with something from then Adoulins. This is a precious heirloom, after all."
  10: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=9588*)
+ 11: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=9589*)
     → "All's well that ends well, I suppose. I'll brrring the necklace to Cynthia, so you're free to do whatever you please."
  12: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x045F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1391,7 +1391,7 @@
   2: 0x0476 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0477 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0478 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=9584*)
+  5: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=9585*)
     → "Yes, this $0 does look to be the keepsake they rrrequested."
   6: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x048B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1448,10 +1448,10 @@
   1: 0x04A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9652*)
+  4: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9653*)
     → "I believe the prrrincess has headed to her ancestor's grave in the waterways."
   5: 0x04B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9653*)
+  6: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9654*)
     → "I strrrongly disagree with her going down there alone, but who am I to stop her? Keep her safe for the good of the nation, pioneer!"
   7: 0x04BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1555,7 +1555,7 @@
   1: 0x04E2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04E3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x04F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9682*)
+  4: 0x04F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9683*)
     → "Please, take a good look at the $3 I handed you...and stay by Arciela's side."
   5: 0x04F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1633,13 +1633,13 @@
   2: 0x0510 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0511 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0512 [0x03] Work_Zone[3] = 27923*
-  5: 0x0517 [0x1D] PRINT_EVENT_MESSAGE(message_id=9949*)
+  5: 0x0517 [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
     → "Well met, <Player>. Forrrgive me if I'm butting in, but did you happen to lose $1?"
   6: 0x051A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x051B [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
+  7: 0x051B [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
     → "A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping. Anything emblazoned with the Order of Adoulin's seal is too important to let out of my sight."
   8: 0x051E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x051F [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
+  9: 0x051F [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
     → "Please ensurrre that you do not lose it again. I would hate to picture the look on the princess's face were you to do so."
  10: 0x0522 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0523 [0x21] END_EVENT
@@ -1671,13 +1671,13 @@
   2: 0x052B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x052C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x052D [0x03] Work_Zone[3] = 28063*
-  5: 0x0532 [0x1D] PRINT_EVENT_MESSAGE(message_id=9949*)
+  5: 0x0532 [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
     → "Well met, <Player>. Forrrgive me if I'm butting in, but did you happen to lose $1?"
   6: 0x0535 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
+  7: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=9953*)
     → "A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping."
   8: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x053A [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
+  9: 0x053A [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
     → "Please ensurrre that you do not lose it again. I would hate to picture the look on the princess's face were you to do so."
  10: 0x053D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x053E [0x21] END_EVENT
@@ -1708,13 +1708,13 @@
   1: 0x0541 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0546 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0547 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=9949*)
+  4: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=9950*)
     → "Well met, <Player>. Forrrgive me if I'm butting in, but did you happen to lose $1?"
   5: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
+  6: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=9953*)
     → "A particularly vigilant citizen returrrned it to the castle, where I decided to hold it for safekeeping."
   7: 0x054F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=9951*)
+  8: 0x0550 [0x1D] PRINT_EVENT_MESSAGE(message_id=9952*)
     → "Please ensurrre that you do not lose it again. I would hate to picture the look on the princess's face were you to do so."
   9: 0x0553 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0554 [0x21] END_EVENT
@@ -1751,20 +1751,20 @@
   2: 0x0560 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0561 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0562 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
-  5: 0x0571 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9918*]:
+  5: 0x0571 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9919*]:
     → "A pleasurrre as always, <Player>. You've come at the perfect time."
   6: 0x0578 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0579 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9953*]:
+  7: 0x0579 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9954*]:
     → "Perhaps you wish to exchange the gift the twelve orrrders gave you for another?"
   8: 0x0580 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0581 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x05A2
- 10: 0x0589 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9954*]:
+ 10: 0x0589 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9955*]:
     → "Though I would love to be of service, Fremilla was insistent that you remit 300,000 bayld. Please come back again once you have procurrred the requisite amount."
  11: 0x0590 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0591 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
  13: 0x05A0 [0x21] END_EVENT
  14: 0x05A1 [0x00] END_REQSTACK()
- 15: 0x05A2 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9955*]:
+ 15: 0x05A2 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9956*]:
     → "It appears you have procured the requisite amount of bayld. Please select the item you desire."
  16: 0x05A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x05AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
@@ -1798,7 +1798,7 @@
   1: 0x05C0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05C1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
-  4: 0x05D1 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9954*]:
+  4: 0x05D1 [0x2B] Ploh Trishbahk (ID: 17830030/0x0110108E) [9955*]:
     → "Though I would love to be of service, Fremilla was insistent that you remit 300,000 bayld. Please come back again once you have procurrred the requisite amount."
   5: 0x05D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
@@ -1832,13 +1832,13 @@
   1: 0x05EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
-  4: 0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=13706*)
+  4: 0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=13707*)
     → "The prrrincess often ventures out into the jungle when her presence is not required at the castle."
   5: 0x0603 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=13707*)
+  6: 0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=13708*)
     → "Today is one such day. She mentioned going on a brrrief foray into Ceizak Battlegrounds."
   7: 0x0607 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=13708*)
+  8: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=13709*)
     → "Her strong sense of wanderrrlust has not faded even as she blossoms into a young woman. Would that I could stop her..."
   9: 0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x060C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
@@ -1873,25 +1873,25 @@
   1: 0x0622 [0x1C] WAIT(30* ticks)
   2: 0x0625 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
   3: 0x0634 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x064B
-  4: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=13881*)
+  4: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=13882*)
     → "A jesterrr? You're looking for a demon jester?"
   5: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=13882*)
+  6: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=13883*)
     → "I'd like to help, but I've hearrrd no news of such a creature."
   7: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0644 [0x1D] PRINT_EVENT_MESSAGE(message_id=13878*)
+  8: 0x0644 [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
     → "...But come to think of it, some pioneers have been submitting rrreports of a most curious beast lurking outside the city gates."
   9: 0x0647 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0648 [0x01] GOTO 0x0653
- 11: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=13884*)
+ 11: 0x064B [0x1D] PRINT_EVENT_MESSAGE(message_id=13885*)
     → "Balamor!? The very same crrreature that possessed Fremilla and knocked Chero-Machero flat on his back!?"
  12: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=13879*)
+ 13: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=13880*)
     → "Come to think of it, some pioneers have been submitting rrreports of a beast matching that description lurking outside the city gates."
  14: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0653:
- 15: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=13880*)
+ 15: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=13881*)
     → "But the orrrders have their own issues to face at present, and nary a hand can be spared."
  16: 0x0656 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0657 [0x21] END_EVENT
@@ -1944,7 +1944,7 @@ SUBROUTINE_0653:
   0: 0x065A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x065F [0x1C] WAIT(30* ticks)
   2: 0x0662 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ploh Trishbahk (ID: 17830030/0x0110108E), Ploh Trishbahk (ID: 17830030/0x0110108E)], work=50*
-  3: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=13895*)
+  3: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=13896*)
     → "The prrrincess awaits you in Celennia Memorial Library."
   4: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0675 [0x21] END_EVENT
@@ -2095,24 +2095,24 @@ SUBROUTINE_0653:
   2: 0x0692 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0693 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x06CB
   4: 0x069B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x06AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11724*)
+  5: 0x06AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11725*)
     → "A secrrret path out of the castle?"
   6: 0x06AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x06AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11725*)
+  7: 0x06AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11726*)
     → "If I were a secret path, where would I be located? Probably a dusty alley or underground tunnel."
   8: 0x06B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x06B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
- 10: 0x06C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11726*)
+ 10: 0x06C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11727*)
     → "B-but a dutiful guard would not rrreveal such things so flippantly!"
  11: 0x06C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x06C5 [0x1C] WAIT(90* ticks)
  13: 0x06C8 [0x01] GOTO 0x09A5
  14: 0x06CB [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x06FF
  15: 0x06D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 16: 0x06E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11738*)
+ 16: 0x06E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11739*)
     → "The mystery of the missing tomatoes? You won't learrrn anything unless you find Ygnas."
  17: 0x06E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x06E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11739*)
+ 18: 0x06E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11740*)
     → "I'd scour every corrrner of this town for clues."
  19: 0x06E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x06EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2120,38 +2120,38 @@ SUBROUTINE_0653:
  22: 0x06FC [0x01] GOTO 0x09A5
  23: 0x06FF [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0733
  24: 0x0707 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 25: 0x0716 [0x1D] PRINT_EVENT_MESSAGE(message_id=11787*)
+ 25: 0x0716 [0x1D] PRINT_EVENT_MESSAGE(message_id=11788*)
     → "You are looking for Lorrrd Ygnas? That sounds like a job more suited to the Scouts' Coalition."
  26: 0x0719 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x071A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
- 28: 0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=11788*)
+ 28: 0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=11789*)
     → "Ah, forrrgive me! It is not the place of a mere guard to speak of such things!"
  29: 0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x072D [0x1C] WAIT(90* ticks)
  31: 0x0730 [0x01] GOTO 0x09A5
  32: 0x0733 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x076B
  33: 0x073B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 34: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=11929*)
+ 34: 0x074A [0x1D] PRINT_EVENT_MESSAGE(message_id=11930*)
     → "The waitrrress she's talking about must be Yocile."
  35: 0x074D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x074E [0x1D] PRINT_EVENT_MESSAGE(message_id=11930*)
+ 36: 0x074E [0x1D] PRINT_EVENT_MESSAGE(message_id=11931*)
     → "I doubt there to be any impropriety between her and Lord Ygnas."
  37: 0x0751 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0752 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [EventEntity, EventEntity], work=8*
- 39: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=11931*)
+ 39: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=11932*)
     → "Ah, but you wouldn't be interested in my musings. Please, forrrget I mentioned anything."
  40: 0x0764 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0765 [0x1C] WAIT(90* ticks)
  42: 0x0768 [0x01] GOTO 0x09A5
  43: 0x076B [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x07A3
  44: 0x0773 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 45: 0x0782 [0x1D] PRINT_EVENT_MESSAGE(message_id=11969*)
+ 45: 0x0782 [0x1D] PRINT_EVENT_MESSAGE(message_id=11970*)
     → "Geosuke? He cerrrtainly is the popular figure in our city."
  46: 0x0785 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0786 [0x1D] PRINT_EVENT_MESSAGE(message_id=11970*)
+ 47: 0x0786 [0x1D] PRINT_EVENT_MESSAGE(message_id=11971*)
     → "But let's leave the juicy gossip for a later date. I've got worrrk to do."
  48: 0x0789 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=11971*)
+ 49: 0x078A [0x1D] PRINT_EVENT_MESSAGE(message_id=11972*)
     → "And so do you--there's a different leafkin you've got to worry about right now: Ygnas."
  50: 0x078D [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x078E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2159,13 +2159,13 @@ SUBROUTINE_0653:
  53: 0x07A0 [0x01] GOTO 0x09A5
  54: 0x07A3 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x07DB
  55: 0x07AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 56: 0x07BA [0x1D] PRINT_EVENT_MESSAGE(message_id=11982*)
+ 56: 0x07BA [0x1D] PRINT_EVENT_MESSAGE(message_id=11983*)
     → "Lord Ygnas bounded out the frrront gate just a short while ago."
  57: 0x07BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x07BE [0x1D] PRINT_EVENT_MESSAGE(message_id=11983*)
+ 58: 0x07BE [0x1D] PRINT_EVENT_MESSAGE(message_id=11984*)
     → "He's got to be around here somewhere...but where?"
  59: 0x07C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x07C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11984*)
+ 60: 0x07C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11985*)
     → "But I dare not concern myself with his affairs. I am but a simple guard."
  61: 0x07C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x07C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2173,10 +2173,10 @@ SUBROUTINE_0653:
  64: 0x07D8 [0x01] GOTO 0x09A5
  65: 0x07DB [0x02] IF !(Work_Zone[2] == 98*) GOTO 0x080F
  66: 0x07E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 67: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11763*)
+ 67: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11764*)
     → "You're wondering if Ygnas is still sneaking out?"
  68: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 69: 0x07F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "With how Fremilla's been in a tizzy the past few days, I wager it'll be a while before she calls on you again."
  70: 0x07F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x07FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2212,20 +2212,20 @@ SUBROUTINE_0653:
 
 SUBROUTINE_08C5:
 101: 0x08C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-102: 0x08D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12117*)
+102: 0x08D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12118*)
     → "You wish to confirm the sweets Fremilla rrrequested for Princess Arciela?"
 103: 0x08D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x08D8 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x08E7
-105: 0x08E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12118*)
+105: 0x08E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12119*)
     → "Hmm... It looks like you need to brrring $0..."
 106: 0x08E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x08E4 [0x01] GOTO 0x08EB
-108: 0x08E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12119*)
+108: 0x08E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12120*)
     → "Hmm... It looks like you need to brrring $1 $0 and $3 $0 ."
 109: 0x08EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_08EB:
-110: 0x08EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12120*)
+110: 0x08EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12121*)
     → "Once you have what I need, rrreturn here and I will summon Fremilla."
 111: 0x08EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x08EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2234,10 +2234,10 @@ SUBROUTINE_08EB:
 115: 0x0904 [0x02] IF !(Work_Zone[2] == 7*) GOTO 0x093D
 116: 0x090C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
 117: 0x091B [0x03] Work_Zone[2] = 261*
-118: 0x0920 [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
+118: 0x0920 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
     → "Oh yes, Fremilla said they werrre heading to the $8."
 119: 0x0923 [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x0924 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+120: 0x0924 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "I'm sure they'll be fine, but I rrreally can't help but worry about those two. Hopefully, nothing bad happens to them out there."
 121: 0x0927 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0928 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2245,10 +2245,10 @@ SUBROUTINE_08EB:
 124: 0x093A [0x01] GOTO 0x09A5
 125: 0x093D [0x02] IF !(Work_Zone[2] == 8*) GOTO 0x0971
 126: 0x0945 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-127: 0x0954 [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
+127: 0x0954 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
     → "I deliverrred the sweets to Princess Arciela."
 128: 0x0957 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x0958 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
+129: 0x0958 [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
     → "And it seems that Fremilla is continuing to trrry her hand at playing detective..."
 130: 0x095B [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x095C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2256,10 +2256,10 @@ SUBROUTINE_08EB:
 133: 0x096E [0x01] GOTO 0x09A5
 134: 0x0971 [0x02] IF !(Work_Zone[2] == 99*) GOTO 0x09A5
 135: 0x0979 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-136: 0x0988 [0x1D] PRINT_EVENT_MESSAGE(message_id=11763*)
+136: 0x0988 [0x1D] PRINT_EVENT_MESSAGE(message_id=11764*)
     → "You're wondering if Ygnas is still sneaking out?"
 137: 0x098B [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x098C [0x1D] PRINT_EVENT_MESSAGE(message_id=11764*)
+138: 0x098C [0x1D] PRINT_EVENT_MESSAGE(message_id=11765*)
     → "Fremilla hasn't mentioned anything to me, but rrrest assured that you'll be the first to know."
 139: 0x098F [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0990 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -2603,13 +2603,13 @@ SUBROUTINE_09A5:
   1: 0x0A3E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A3F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A40 [0x03] Work_Zone[2] = 289*
-  4: 0x0A45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12188*)
+  4: 0x0A45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12189*)
     → "So I hear you'rrre going to $8."
   5: 0x0A48 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A49 [0x1D] PRINT_EVENT_MESSAGE(message_id=12189*)
+  6: 0x0A49 [0x1D] PRINT_EVENT_MESSAGE(message_id=12190*)
     → "Be careful out there, okay?"
   7: 0x0A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0A4D [0x1D] PRINT_EVENT_MESSAGE(message_id=12190*)
+  8: 0x0A4D [0x1D] PRINT_EVENT_MESSAGE(message_id=12191*)
     → "Hm? $8? Where's that?"
   9: 0x0A50 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0A51 [0x21] END_EVENT
@@ -2663,10 +2663,10 @@ SUBROUTINE_09A5:
   1: 0x0A5F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A60 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A61 [0x03] Work_Zone[2] = 267*
-  4: 0x0A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=12200*)
+  4: 0x0A66 [0x1D] PRINT_EVENT_MESSAGE(message_id=12201*)
     → "Lady Arciela has set out for $8."
   5: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A6A [0x1D] PRINT_EVENT_MESSAGE(message_id=12201*)
+  6: 0x0A6A [0x1D] PRINT_EVENT_MESSAGE(message_id=12202*)
     → "I hear you are headed there as well. I wish you a safe and pleasant journey."
   7: 0x0A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A6E [0x21] END_EVENT

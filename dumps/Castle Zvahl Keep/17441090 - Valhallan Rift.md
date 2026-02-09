@@ -25,7 +25,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1CDB      |        7387 |
+|       2 | 0x1CDC      |        7388 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
@@ -33,26 +33,26 @@
 |       7 | 0x0018      |          24 |
 |       8 | 0x001F      |          31 |
 |       9 | 0x40000000  |  1073741824 |
-|      10 | 0x1CA7      |        7335 |
-|      11 | 0x1CE1      |        7393 |
-|      12 | 0x1C9C      |        7324 |
+|      10 | 0x1CA8      |        7336 |
+|      11 | 0x1CE2      |        7394 |
+|      12 | 0x1C9D      |        7325 |
 |      13 | 0x000B      |          11 |
 |      14 | 0x000E      |          14 |
-|      15 | 0x1CDE      |        7390 |
-|      16 | 0x1CE5      |        7397 |
-|      17 | 0x1CE2      |        7394 |
-|      18 | 0x1CE4      |        7396 |
-|      19 | 0x1CAE      |        7342 |
-|      20 | 0x1CAF      |        7343 |
-|      21 | 0x1CDC      |        7388 |
-|      22 | 0x1CDD      |        7389 |
-|      23 | 0x1CBB      |        7355 |
+|      15 | 0x1CDF      |        7391 |
+|      16 | 0x1CE6      |        7398 |
+|      17 | 0x1CE3      |        7395 |
+|      18 | 0x1CE5      |        7397 |
+|      19 | 0x1CAF      |        7343 |
+|      20 | 0x1CB0      |        7344 |
+|      21 | 0x1CDD      |        7389 |
+|      22 | 0x1CDE      |        7390 |
+|      23 | 0x1CBC      |        7356 |
 |      24 | 0x0032      |          50 |
-|      25 | 0x1CC4      |        7364 |
+|      25 | 0x1CC5      |        7365 |
 |      26 | 0x0008      |           8 |
 |      27 | 0x000F      |          15 |
 |      28 | 0x0005      |           5 |
-|      29 | 0x1CCF      |        7375 |
+|      29 | 0x1CD0      |        7376 |
 |      30 | 0x0064      |         100 |
 |      31 | 0x0065      |         101 |
 |      32 | 0x0066      |         102 |
@@ -66,21 +66,21 @@
 
 ## String References
 
-- **7324**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **7335**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **7342**: Prepare yourselves! The battlefield is almost ready!
-- **7343**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **7355**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
-- **7364**: Designate a value between $0 and $1.
-- **7375**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
-- **7387**: Enter which? (Auto-transport: [Off/On].) [Never mind./Duke Alloces's Decision./The Voracious Beast (G-H)./The Voracious Beast (Chaos)./Wings of War././././././././././././Toggle Auto-transport.]
-- **7388**: Only party members present with you in this area will be transported to [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **7389**: Entering [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **7390**: You have chosen not to [apply to/enter] [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **7393**: Applying to enter [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
-- **7394**: You are currently applying to enter [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **7396**: Your registration number for entering this nightmare is $3.
-- **7397**: You feel immense pressure coming from the vicinity. IDs up through $3 have been registered, and ID $2 is currently ready.
+- **7325**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **7336**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **7343**: Prepare yourselves! The battlefield is almost ready!
+- **7344**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **7356**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]
+- **7365**: Designate a value between $0 and $1.
+- **7376**: $)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]
+- **7388**: Enter which? (Auto-transport: [Off/On].) [Never mind./Duke Alloces's Decision./The Voracious Beast (G-H)./The Voracious Beast (Chaos)./Wings of War././././././././././././Toggle Auto-transport.]
+- **7389**: Only party members present with you in this area will be transported to [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **7390**: Entering [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **7391**: You have chosen not to [apply to/enter] [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **7394**: Applying to enter [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
+- **7395**: You are currently applying to enter [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **7397**: Your registration number for entering this nightmare is $3.
+- **7398**: You feel immense pressure coming from the vicinity. IDs up through $3 have been registered, and ID $2 is currently ready.
 
 ## Events
 
@@ -157,7 +157,7 @@
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[3] = 0*
  11: 0x0035 [0x03] ExtData[1]->WorkLocal[1] = 0*
  12: 0x003A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
- 13: 0x003F [0x24] CREATE_DIALOG(message_id=7387*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 13: 0x003F [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Enter which? (Auto-transport: [Off/On].) [Never mind./Duke Alloces's Decision./The Voracious Beast (G-H)./The Voracious Beast (Chaos)./Wings of War././././././././././././Toggle Auto-transport.]"
  14: 0x0046 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0047 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0057
@@ -189,17 +189,17 @@ SUBROUTINE_00C1:
  37: 0x00C1 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[1]) GOTO 0x00CB
  38: 0x00C8 [0x01] GOTO 0x00D3
  39: 0x00CB [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 40: 0x00D0 [0x48] [System] [7335*]:
+ 40: 0x00D0 [0x48] [System] [7336*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
 
 SUBROUTINE_00D3:
  41: 0x00D3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  42: 0x00D8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 43: 0x00DD [0x48] [System] [7393*]:
+ 43: 0x00DD [0x48] [System] [7394*]:
     → "Applying to enter [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?"
  44: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00E1 [0x03] Work_Zone[3] = 0*
- 46: 0x00E6 [0x24] CREATE_DIALOG(message_id=7324*, default_option=0*, option_flags=0*)
+ 46: 0x00E6 [0x24] CREATE_DIALOG(message_id=7325*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  47: 0x00ED [0x25] WAIT_DIALOG_SELECT()
  48: 0x00EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011F
@@ -214,7 +214,7 @@ SUBROUTINE_00D3:
  57: 0x011F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  58: 0x0124 [0x03] Work_Zone[3] = 0*
  59: 0x0129 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 60: 0x012E [0x48] [System] [7390*]:
+ 60: 0x012E [0x48] [System] [7391*]:
     → "You have chosen not to [apply to/enter] [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  61: 0x0131 [0x03] Work_Zone[1] = 1073741824*
  62: 0x0136 [0x21] END_EVENT
@@ -261,26 +261,26 @@ SUBROUTINE_0138:
   0: 0x013A [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[4]
   1: 0x013F [0x03] Work_Zone[4] = Work_Zone[6]
   2: 0x0144 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x0153
-  3: 0x014C [0x48] [System] [7397*]:
+  3: 0x014C [0x48] [System] [7398*]:
     → "You feel immense pressure coming from the vicinity. IDs up through $3 have been registered, and ID $2 is currently ready."
   4: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0150 [0x01] GOTO 0x0157
-  6: 0x0153 [0x48] [System] [7394*]:
+  6: 0x0153 [0x48] [System] [7395*]:
     → "You are currently applying to enter [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   7: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0157:
   8: 0x0157 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[19]
-  9: 0x015C [0x48] [System] [7396*]:
+  9: 0x015C [0x48] [System] [7397*]:
     → "Your registration number for entering this nightmare is $3."
  10: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0160 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0173
- 12: 0x0168 [0x48] [System] [7342*]:
+ 12: 0x0168 [0x48] [System] [7343*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  13: 0x016B [0x03] Work_Zone[1] = 1073741824*
  14: 0x0170 [0x01] GOTO 0x01A5
  15: 0x0173 [0x03] Work_Zone[2] = 1*
- 16: 0x0178 [0x24] CREATE_DIALOG(message_id=7343*, default_option=1*, option_flags=0*)
+ 16: 0x0178 [0x24] CREATE_DIALOG(message_id=7344*, default_option=1*, option_flags=0*)
     → "Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  17: 0x017F [0x25] WAIT_DIALOG_SELECT()
  18: 0x0180 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0190
@@ -324,11 +324,11 @@ SUBROUTINE_01A5:
   0: 0x01A7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x01A8 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[2]
   2: 0x01AD [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[4]
-  3: 0x01B2 [0x48] [System] [7388*]:
+  3: 0x01B2 [0x48] [System] [7389*]:
     → "Only party members present with you in this area will be transported to [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   4: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B6 [0x03] Work_Zone[3] = 1*
-  6: 0x01BB [0x24] CREATE_DIALOG(message_id=7324*, default_option=0*, option_flags=0*)
+  6: 0x01BB [0x24] CREATE_DIALOG(message_id=7325*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
   7: 0x01C2 [0x25] WAIT_DIALOG_SELECT()
   8: 0x01C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FD
@@ -338,7 +338,7 @@ SUBROUTINE_01A5:
  12: 0x01D4 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01F5
  13: 0x01DC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
  14: 0x01E1 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
- 15: 0x01E6 [0x48] [System] [7389*]:
+ 15: 0x01E6 [0x48] [System] [7390*]:
     → "Entering [/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  16: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x01EA [0x1A] CALL_SUBROUTINE(address=0x0333)
@@ -402,7 +402,7 @@ SUBROUTINE_0202:
   0: 0x0204 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[2]
   1: 0x0209 [0x05] ExtData[1]->WorkLocal[10] = 1
   2: 0x020C [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x0331
-  3: 0x0214 [0x24] CREATE_DIALOG(message_id=7355*, default_option=0*, option_flags=0*)
+  3: 0x0214 [0x24] CREATE_DIALOG(message_id=7356*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Automatically create./Close dialogue.]"
   4: 0x021B [0x25] WAIT_DIALOG_SELECT()
   5: 0x021C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
@@ -418,7 +418,7 @@ SUBROUTINE_0202:
  15: 0x0244 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0278
  16: 0x024C [0x03] Work_Zone[2] = 1*
  17: 0x0251 [0x03] Work_Zone[3] = 50*
- 18: 0x0256 [0x48] [System] [7364*]:
+ 18: 0x0256 [0x48] [System] [7365*]:
     → "Designate a value between $0 and $1."
  19: 0x0259 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  20: 0x025F [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -430,7 +430,7 @@ SUBROUTINE_0202:
  26: 0x0278 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02AC
  27: 0x0280 [0x03] Work_Zone[2] = 1*
  28: 0x0285 [0x03] Work_Zone[3] = 50*
- 29: 0x028A [0x48] [System] [7364*]:
+ 29: 0x028A [0x48] [System] [7365*]:
     → "Designate a value between $0 and $1."
  30: 0x028D [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  31: 0x0293 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -446,7 +446,7 @@ SUBROUTINE_0202:
  41: 0x02BD [0x01] GOTO 0x032E
  42: 0x02C0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x032B
  43: 0x02C8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
- 44: 0x02CD [0x24] CREATE_DIALOG(message_id=7375*, default_option=0*, option_flags=0*)
+ 44: 0x02CD [0x24] CREATE_DIALOG(message_id=7376*, default_option=0*, option_flags=0*)
     → "$)$P13.$P106$P10, $P13.$lF$0 [1"/%<$P15{/$~_i/$m$P14F/$3$43308646i]"
  45: 0x02D4 [0x25] WAIT_DIALOG_SELECT()
  46: 0x02D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E5

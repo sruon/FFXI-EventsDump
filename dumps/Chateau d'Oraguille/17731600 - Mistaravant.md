@@ -26,14 +26,14 @@
 |       1 | 0xFFFFCCF8  |  4294954232 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x000A      |          10 |
-|       4 | 0x1C0E      |        7182 |
+|       4 | 0x1C0F      |        7183 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1C0F      |        7183 |
+|       6 | 0x1C10      |        7184 |
 
 ## String References
 
-- **7182**: I am Mistaravant. I have served as head steward of this chateau for many a year.
-- **7183**: This is the room of King Destin. No place for the likes of you.
+- **7183**: I am Mistaravant. I have served as head steward of this chateau for many a year.
+- **7184**: This is the room of King Destin. No place for the likes of you.
 
 ## Events
 
@@ -130,11 +130,11 @@
   1: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0013 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  4: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7182*)
+  4: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
     → "I am Mistaravant. I have served as head steward of this chateau for many a year."
   5: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0026 [0x1C] WAIT(30* ticks)
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "This is the room of King Destin. No place for the likes of you."
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

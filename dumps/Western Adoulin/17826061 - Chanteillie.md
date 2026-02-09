@@ -41,8 +41,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2692      |        9874 |
-|       2 | 0x2693      |        9875 |
+|       1 | 0x2693      |        9875 |
+|       2 | 0x2694      |        9876 |
 |       3 | 0x000D      |          13 |
 |       4 | 0x15716     |       87830 |
 |       5 | 0xFFFED70C  |  4294891276 |
@@ -56,14 +56,14 @@
 |      13 | 0x0000      |           0 |
 |      14 | 0x0F4F      |        3919 |
 |      15 | 0x0F57      |        3927 |
-|      16 | 0x2AB8      |       10936 |
+|      16 | 0x2AB9      |       10937 |
 |      17 | 0x2204      |        8708 |
-|      18 | 0x2AB9      |       10937 |
-|      19 | 0x2ABA      |       10938 |
-|      20 | 0x2ABB      |       10939 |
-|      21 | 0x2ABC      |       10940 |
-|      22 | 0x2ABD      |       10941 |
-|      23 | 0x2ABE      |       10942 |
+|      18 | 0x2ABA      |       10938 |
+|      19 | 0x2ABB      |       10939 |
+|      20 | 0x2ABC      |       10940 |
+|      21 | 0x2ABD      |       10941 |
+|      22 | 0x2ABE      |       10942 |
+|      23 | 0x2ABF      |       10943 |
 |      24 | 0x003C      |          60 |
 |      25 | 0xFFFFFA01  |  4294965761 |
 |      26 | 0x000A      |          10 |
@@ -83,22 +83,22 @@
 |      40 | 0xFFFEE794  |  4294895508 |
 |      41 | 0x1585D     |       88157 |
 |      42 | 0xFFFEECF5  |  4294896885 |
-|      43 | 0x2527      |        9511 |
-|      44 | 0x2528      |        9512 |
+|      43 | 0x2528      |        9512 |
+|      44 | 0x2529      |        9513 |
 
 ## String References
 
-- **9511**: There is one undeniable truth about construction: that which is made can always be broken. However, I am confident in the durability of this piece.
-- **9512**: As long as the boy makes sure to treat it with the proper care and respect, it should serve him well for many years to come.
-- **9874**: ...It would behoove an outsider like you to register as a pioneer before entering our premises, but I will not force you to leave. Take a look around our facilities, but do not interfere with anyone's work.
-- **9875**: It is imperative that you be able to properly use the tools with which we, the Inventors' Coalition, supply you. Otherwise, the colonization effort is doomed to fail.
-- **10936**: Ah, <Player>. Amchuchu informed me that you would be assisting in her repair efforts. She requires $0, $1...
-- **10937**: ...And $0. One of each, no more and no less.
-- **10938**: Kindly trade them to me when you return.
-- **10939**: Ah, most excellent. This should suffice.
-- **10940**: I shall see that they are delivered to the appropriate personnel.
-- **10941**: I know our maester asserted that she would have the letter done by the time you returned, but she has a slight penchant for hyperbole. I apologize for the delay, but I must request that you wait a little longer.
-- **10942**: Amchuchu has likely finished composing her missive. A slight knock on the door should get her attention.
+- **9512**: There is one undeniable truth about construction: that which is made can always be broken. However, I am confident in the durability of this piece.
+- **9513**: As long as the boy makes sure to treat it with the proper care and respect, it should serve him well for many years to come.
+- **9875**: ...It would behoove an outsider like you to register as a pioneer before entering our premises, but I will not force you to leave. Take a look around our facilities, but do not interfere with anyone's work.
+- **9876**: It is imperative that you be able to properly use the tools with which we, the Inventors' Coalition, supply you. Otherwise, the colonization effort is doomed to fail.
+- **10937**: Ah, <Player>. Amchuchu informed me that you would be assisting in her repair efforts. She requires $0, $1...
+- **10938**: ...And $0. One of each, no more and no less.
+- **10939**: Kindly trade them to me when you return.
+- **10940**: Ah, most excellent. This should suffice.
+- **10941**: I shall see that they are delivered to the appropriate personnel.
+- **10942**: I know our maester asserted that she would have the letter done by the time you returned, but she has a slight penchant for hyperbole. I apologize for the delay, but I must request that you wait a little longer.
+- **10943**: Amchuchu has likely finished composing her missive. A slight knock on the door should get her attention.
 
 ## Events
 
@@ -149,7 +149,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
     → "...It would behoove an outsider like you to register as a pioneer before entering our premises, but I will not force you to leave. Take a look around our facilities, but do not interfere with anyone's work."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -183,7 +183,7 @@
   1: 0x0031 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0032 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0033 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
+  4: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
     → "It is imperative that you be able to properly use the tools with which we, the Inventors' Coalition, supply you. Otherwise, the colonization effort is doomed to fail."
   5: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -391,14 +391,14 @@
   3: 0x009A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
   4: 0x00A9 [0x03] Work_Zone[2] = 3919*
   5: 0x00AE [0x03] Work_Zone[3] = 3927*
-  6: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10936*)
+  6: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10937*)
     → "Ah, <Player>. Amchuchu informed me that you would be assisting in her repair efforts. She requires $0, $1..."
   7: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B7 [0x03] Work_Zone[2] = 8708*
-  9: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10937*)
+  9: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10938*)
     → "...And $0. One of each, no more and no less."
  10: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10938*)
+ 11: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10939*)
     → "Kindly trade them to me when you return."
  12: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00C4 [0x21] END_EVENT
@@ -435,18 +435,18 @@
   4: 0x00D5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x00D6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
   6: 0x00E5 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00F5
-  7: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=10939*)
+  7: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=10940*)
     → "Ah, most excellent. This should suffice."
   8: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10940*)
+  9: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10941*)
     → "I shall see that they are delivered to the appropriate personnel."
  10: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00F5 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0104
- 12: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10941*)
+ 12: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10942*)
     → "I know our maester asserted that she would have the letter done by the time you returned, but she has a slight penchant for hyperbole. I apologize for the delay, but I must request that you wait a little longer."
  13: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0101 [0x01] GOTO 0x0108
- 15: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=10942*)
+ 15: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=10943*)
     → "Amchuchu has likely finished composing her missive. A slight knock on the door should get her attention."
  16: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -718,10 +718,10 @@ SUBROUTINE_0108:
   0: 0x01B4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B9 [0x1C] WAIT(30* ticks)
   2: 0x01BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  3: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9511*)
+  3: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9512*)
     → "There is one undeniable truth about construction: that which is made can always be broken. However, I am confident in the durability of this piece."
   4: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9512*)
+  5: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9513*)
     → "As long as the boy makes sure to treat it with the proper care and respect, it should serve him well for many years to come."
   6: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01D3 [0x21] END_EVENT

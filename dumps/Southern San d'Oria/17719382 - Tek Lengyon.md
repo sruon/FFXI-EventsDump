@@ -27,18 +27,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0005      |           5 |
-|       1 | 0x1A9A      |        6810 |
+|       1 | 0x1A9B      |        6811 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1AEE      |        6894 |
-|       5 | 0x1AF0      |        6896 |
+|       4 | 0x1AEF      |        6895 |
+|       5 | 0x1AF1      |        6897 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x005A      |          90 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x008C      |         140 |
 |      10 | 0x000F      |          15 |
 |      11 | 0x000A      |          10 |
-|      12 | 0x1ACB      |        6859 |
+|      12 | 0x1ACC      |        6860 |
 |      13 | 0x40000000  |  1073741824 |
 |      14 | 0x0010      |          16 |
 |      15 | 0x0003      |           3 |
@@ -52,35 +52,35 @@
 |      23 | 0x000D      |          13 |
 |      24 | 0x000E      |          14 |
 |      25 | 0x0011      |          17 |
-|      26 | 0x1ACC      |        6860 |
-|      27 | 0x1B3D      |        6973 |
-|      28 | 0x1AF1      |        6897 |
-|      29 | 0x1A9F      |        6815 |
-|      30 | 0x1AC5      |        6853 |
-|      31 | 0x1AA3      |        6819 |
-|      32 | 0x1AA2      |        6818 |
-|      33 | 0x1AA1      |        6817 |
-|      34 | 0x1AA0      |        6816 |
-|      35 | 0x1AF2      |        6898 |
-|      36 | 0x1AED      |        6893 |
+|      26 | 0x1ACD      |        6861 |
+|      27 | 0x1B3E      |        6974 |
+|      28 | 0x1AF2      |        6898 |
+|      29 | 0x1AA0      |        6816 |
+|      30 | 0x1AC6      |        6854 |
+|      31 | 0x1AA4      |        6820 |
+|      32 | 0x1AA3      |        6819 |
+|      33 | 0x1AA2      |        6818 |
+|      34 | 0x1AA1      |        6817 |
+|      35 | 0x1AF3      |        6899 |
+|      36 | 0x1AEE      |        6894 |
 
 ## String References
 
-- **6810**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
-- **6815**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **6816**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **6817**: $4 x $0 $5 x $0$0 $6 x $0
-- **6818**: $4 x $0 $5 x $0$0
-- **6819**: $4 x $0
-- **6853**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **6859**: Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]
-- **6860**: Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]
-- **6893**: The Elvaan in the work arrrea below is the guildmaster. Beautiful, smart--what morrre could you want?
-- **6894**: I wouldn't thrrrow my money around like that. You may need it some day.
-- **6896**: Ahh, the purrressure... Close your eyes and let's begin...
-- **6897**: You could trrry $0. You'll need...
-- **6898**: Windurst used to have a Tanners' Guild, but it closed after so many of our animals died in the war. My dream is to rrrebuild it.
-- **6973**: Sorry, but I rrreally don't think you're ready for that rank yet.
+- **6811**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
+- **6816**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **6817**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **6818**: $4 x $0 $5 x $0$0 $6 x $0
+- **6819**: $4 x $0 $5 x $0$0
+- **6820**: $4 x $0
+- **6854**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **6860**: Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]
+- **6861**: Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]
+- **6894**: The Elvaan in the work arrrea below is the guildmaster. Beautiful, smart--what morrre could you want?
+- **6895**: I wouldn't thrrrow my money around like that. You may need it some day.
+- **6897**: Ahh, the purrressure... Close your eyes and let's begin...
+- **6898**: You could trrry $0. You'll need...
+- **6899**: Windurst used to have a Tanners' Guild, but it closed after so many of our animals died in the war. My dream is to rrrebuild it.
+- **6974**: Sorry, but I rrreally don't think you're ready for that rank yet.
 
 ## Events
 
@@ -178,16 +178,16 @@
 
 ```
   0: 0x0001 [0x3E] IF !(Work_Zone[5] bit 5*) GOTO 0x0347
-  1: 0x0008 [0x24] CREATE_DIALOG(message_id=6810*, default_option=2*, option_flags=0*)
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=6811*, default_option=2*, option_flags=0*)
     → "Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]"
   2: 0x000F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0059
   4: 0x0018 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0027
-  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=6894*)
+  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=6895*)
     → "I wouldn't thrrrow my money around like that. You may need it some day."
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0024 [0x01] GOTO 0x0056
-  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=6896*)
+  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=6897*)
     → "Ahh, the purrressure... Close your eyes and let's begin..."
   9: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002B [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -219,7 +219,7 @@ SUBROUTINE_0092:
  30: 0x00A2 [0x01] GOTO 0x007D
 
 SUBROUTINE_00A5:
- 31: 0x00A5 [0x24] CREATE_DIALOG(message_id=6859*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 31: 0x00A5 [0x24] CREATE_DIALOG(message_id=6860*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which rank of synthesis do you ask about? [Never mind./Amateur./Recruit./Initiate./Novice./Apprentice./Journeyman./Craftsman./Artisan./Adept./Veteran./Expert./Authority./Luminary./Master./Grandmaster.]"
  32: 0x00AC [0x25] WAIT_DIALOG_SELECT()
  33: 0x00AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BF
@@ -272,7 +272,7 @@ SUBROUTINE_00D1:
  76: 0x01CC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=16*, condition_work_offset=1*)
  77: 0x01D3 [0x02] IF !(Work_Zone_1700[8] == 0*) GOTO 0x01E2
  78: 0x01DB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=17*, condition_work_offset=1*)
- 79: 0x01E2 [0x24] CREATE_DIALOG(message_id=6860*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 79: 0x01E2 [0x24] CREATE_DIALOG(message_id=6861*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which synthesis recipe do you ask about? [None./%./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./View more recipes.]"
  80: 0x01E9 [0x25] WAIT_DIALOG_SELECT()
  81: 0x01EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
@@ -289,13 +289,13 @@ SUBROUTINE_0214:
 
 SUBROUTINE_022D:
  90: 0x022D [0x02] IF !(Work_Zone[64] == 0*) GOTO 0x023B
- 91: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=6973*)
+ 91: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=6974*)
     → "Sorry, but I rrreally don't think you're ready for that rank yet."
  92: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0239 [0x21] END_EVENT
  94: 0x023A [0x00] END_REQSTACK()
  95: 0x023B [0x03] Work_Zone[2] = Work_Zone[64]
- 96: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=6897*)
+ 96: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=6898*)
     → "You could trrry $0. You'll need..."
  97: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0244 [0x03] Work_Zone[8] = 5*
@@ -305,11 +305,11 @@ SUBROUTINE_022D:
 102: 0x0258 [0x03] Work_Zone[6] = Work_Zone[68]
 103: 0x025D [0x03] Work_Zone[7] = Work_Zone[85]
 104: 0x0262 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0271
-105: 0x026A [0x48] [System] [6815*]:
+105: 0x026A [0x48] [System] [6816*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
 106: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x026E [0x01] GOTO 0x0275
-108: 0x0271 [0x48] [System] [6853*]:
+108: 0x0271 [0x48] [System] [6854*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
 109: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -323,21 +323,21 @@ SUBROUTINE_0275:
 116: 0x0293 [0x03] Work_Zone[8] = Work_Zone[79]
 117: 0x0298 [0x03] Work_Zone[9] = Work_Zone[80]
 118: 0x029D [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x02AC
-119: 0x02A5 [0x48] [System] [6819*]:
+119: 0x02A5 [0x48] [System] [6820*]:
     → "$4 x $0"
 120: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x02A9 [0x01] GOTO 0x0332
 122: 0x02AC [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x02BB
-123: 0x02B4 [0x48] [System] [6818*]:
+123: 0x02B4 [0x48] [System] [6819*]:
     → "$4 x $0 $5 x $0$0"
 124: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x02B8 [0x01] GOTO 0x0332
 126: 0x02BB [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x02CA
-127: 0x02C3 [0x48] [System] [6817*]:
+127: 0x02C3 [0x48] [System] [6818*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 128: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x02C7 [0x01] GOTO 0x0332
-130: 0x02CA [0x48] [System] [6816*]:
+130: 0x02CA [0x48] [System] [6817*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 131: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x02CE [0x03] Work_Zone[2] = Work_Zone[73]
@@ -351,26 +351,26 @@ SUBROUTINE_0275:
 140: 0x02F6 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0301
 141: 0x02FE [0x01] GOTO 0x0332
 142: 0x0301 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0310
-143: 0x0309 [0x48] [System] [6819*]:
+143: 0x0309 [0x48] [System] [6820*]:
     → "$4 x $0"
 144: 0x030C [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x030D [0x01] GOTO 0x0332
 146: 0x0310 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x031F
-147: 0x0318 [0x48] [System] [6818*]:
+147: 0x0318 [0x48] [System] [6819*]:
     → "$4 x $0 $5 x $0$0"
 148: 0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x031C [0x01] GOTO 0x0332
 150: 0x031F [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x032E
-151: 0x0327 [0x48] [System] [6817*]:
+151: 0x0327 [0x48] [System] [6818*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
 152: 0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x032B [0x01] GOTO 0x0332
-154: 0x032E [0x48] [System] [6816*]:
+154: 0x032E [0x48] [System] [6817*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
 155: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0332:
-156: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=6898*)
+156: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=6899*)
     → "Windurst used to have a Tanners' Guild, but it closed after so many of our animals died in the war. My dream is to rrrebuild it."
 157: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x0336 [0x01] GOTO 0x0344
@@ -379,7 +379,7 @@ SUBROUTINE_0332:
 
 SUBROUTINE_0344:
 161: 0x0344 [0x01] GOTO 0x034B
-162: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=6893*)
+162: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=6894*)
     → "The Elvaan in the work arrrea below is the guildmaster. Beautiful, smart--what morrre could you want?"
 163: 0x034A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

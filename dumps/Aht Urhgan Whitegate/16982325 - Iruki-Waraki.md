@@ -56,39 +56,39 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x16DE      |        5854 |
-|       1 | 0x16DF      |        5855 |
+|       0 | 0x16DF      |        5855 |
+|       1 | 0x16E0      |        5856 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0013      |          19 |
 |       5 | 0x005A      |          90 |
 |       6 | 0x010B      |         267 |
 |       7 | 0x0078      |         120 |
-|       8 | 0x168D      |        5773 |
-|       9 | 0x168E      |        5774 |
+|       8 | 0x168E      |        5774 |
+|       9 | 0x168F      |        5775 |
 |      10 | 0x003C      |          60 |
 |      11 | 0x0006      |           6 |
-|      12 | 0x168F      |        5775 |
-|      13 | 0x1690      |        5776 |
-|      14 | 0x1691      |        5777 |
-|      15 | 0x1692      |        5778 |
-|      16 | 0x1693      |        5779 |
-|      17 | 0x1694      |        5780 |
-|      18 | 0x1695      |        5781 |
+|      12 | 0x1690      |        5776 |
+|      13 | 0x1691      |        5777 |
+|      14 | 0x1692      |        5778 |
+|      15 | 0x1693      |        5779 |
+|      16 | 0x1694      |        5780 |
+|      17 | 0x1695      |        5781 |
+|      18 | 0x1696      |        5782 |
 |      19 | 0x0022      |          34 |
-|      20 | 0x1696      |        5782 |
+|      20 | 0x1697      |        5783 |
 |      21 | 0x001A      |          26 |
-|      22 | 0x1697      |        5783 |
+|      22 | 0x1698      |        5784 |
 |      23 | 0x0031      |          49 |
-|      24 | 0x1698      |        5784 |
-|      25 | 0x1699      |        5785 |
-|      26 | 0x169A      |        5786 |
+|      24 | 0x1699      |        5785 |
+|      25 | 0x169A      |        5786 |
+|      26 | 0x169B      |        5787 |
 |      27 | 0x0019      |          25 |
-|      28 | 0x169B      |        5787 |
-|      29 | 0x169C      |        5788 |
-|      30 | 0x169D      |        5789 |
+|      28 | 0x169C      |        5788 |
+|      29 | 0x169D      |        5789 |
+|      30 | 0x169E      |        5790 |
 |      31 | 0x0018      |          24 |
-|      32 | 0x169E      |        5790 |
+|      32 | 0x169F      |        5791 |
 |      33 | 0x002F      |          47 |
 |      34 | 0x000D      |          13 |
 |      35 | 0x17FDD     |       98269 |
@@ -103,70 +103,70 @@
 |      44 | 0xFFFF9474  |  4294939764 |
 |      45 | 0x0844      |        2116 |
 |      46 | 0x001E      |          30 |
-|      47 | 0x16BD      |        5821 |
-|      48 | 0x16BE      |        5822 |
-|      49 | 0x16BF      |        5823 |
-|      50 | 0x16C0      |        5824 |
-|      51 | 0x16C2      |        5826 |
-|      52 | 0x16C3      |        5827 |
-|      53 | 0x16C4      |        5828 |
-|      54 | 0x16C5      |        5829 |
+|      47 | 0x16BE      |        5822 |
+|      48 | 0x16BF      |        5823 |
+|      49 | 0x16C0      |        5824 |
+|      50 | 0x16C1      |        5825 |
+|      51 | 0x16C3      |        5827 |
+|      52 | 0x16C4      |        5828 |
+|      53 | 0x16C5      |        5829 |
+|      54 | 0x16C6      |        5830 |
 |      55 | 0x0020      |          32 |
-|      56 | 0x16C6      |        5830 |
-|      57 | 0x16C7      |        5831 |
-|      58 | 0x16C8      |        5832 |
-|      59 | 0x16C9      |        5833 |
-|      60 | 0x16CA      |        5834 |
-|      61 | 0x16CB      |        5835 |
-|      62 | 0x16CC      |        5836 |
+|      56 | 0x16C7      |        5831 |
+|      57 | 0x16C8      |        5832 |
+|      58 | 0x16C9      |        5833 |
+|      59 | 0x16CA      |        5834 |
+|      60 | 0x16CB      |        5835 |
+|      61 | 0x16CC      |        5836 |
+|      62 | 0x16CD      |        5837 |
 |      63 | 0x0016      |          22 |
-|      64 | 0x16CD      |        5837 |
-|      65 | 0x16CE      |        5838 |
-|      66 | 0x16CF      |        5839 |
-|      67 | 0x16D0      |        5840 |
-|      68 | 0x16D1      |        5841 |
-|      69 | 0x16D2      |        5842 |
+|      64 | 0x16CE      |        5838 |
+|      65 | 0x16CF      |        5839 |
+|      66 | 0x16D0      |        5840 |
+|      67 | 0x16D1      |        5841 |
+|      68 | 0x16D2      |        5842 |
+|      69 | 0x16D3      |        5843 |
 |      70 | 0x006E      |         110 |
 |      71 | 0x1792F     |       96559 |
 |      72 | 0xFFFF9C90  |  4294941840 |
 |      73 | 0x010C      |         268 |
-|      74 | 0x16D3      |        5843 |
-|      75 | 0x16D4      |        5844 |
+|      74 | 0x16D4      |        5844 |
+|      75 | 0x16D5      |        5845 |
 |      76 | 0x0352      |         850 |
 |      77 | 0x0024      |          36 |
-|      78 | 0x16D5      |        5845 |
-|      79 | 0x16D6      |        5846 |
+|      78 | 0x16D6      |        5846 |
+|      79 | 0x16D7      |        5847 |
 |      80 | 0x45C3      |       17859 |
-|      81 | 0x16D7      |        5847 |
-|      82 | 0x16D8      |        5848 |
-|      83 | 0x16D9      |        5849 |
-|      84 | 0x16DB      |        5851 |
+|      81 | 0x16D8      |        5848 |
+|      82 | 0x16D9      |        5849 |
+|      83 | 0x16DA      |        5850 |
+|      84 | 0x16DC      |        5852 |
 |      85 | 0x0001      |           1 |
-|      86 | 0x16DC      |        5852 |
+|      86 | 0x16DD      |        5853 |
 |      87 | 0x00C9      |         201 |
 |      88 | 0x17958     |       96600 |
 |      89 | 0xFFFF9B8C  |  4294941580 |
 |      90 | 0x17559     |       95577 |
 |      91 | 0xFFFF9DDA  |  4294942170 |
-|      92 | 0x171D      |        5917 |
-|      93 | 0x172A      |        5930 |
+|      92 | 0x171E      |        5918 |
+|      93 | 0x172B      |        5931 |
 |      94 | 0x1041      |        4161 |
 |      95 | 0x15C2      |        5570 |
-|      96 | 0x1736      |        5942 |
-|      97 | 0x1740      |        5952 |
-|      98 | 0x1741      |        5953 |
+|      96 | 0x1737      |        5943 |
+|      97 | 0x1741      |        5953 |
+|      98 | 0x1742      |        5954 |
 |      99 | 0x188F2     |      100594 |
 |     100 | 0xFFFF948F  |  4294939791 |
 |     101 | 0x003A      |          58 |
 |     102 | 0x17E5E     |       97886 |
 |     103 | 0xFFFF9418  |  4294939672 |
 |     104 | 0x0829      |        2089 |
-|     105 | 0x1746      |        5958 |
-|     106 | 0x1747      |        5959 |
-|     107 | 0x1753      |        5971 |
-|     108 | 0x175C      |        5980 |
-|     109 | 0x175D      |        5981 |
-|     110 | 0x175E      |        5982 |
+|     105 | 0x1747      |        5959 |
+|     106 | 0x1748      |        5960 |
+|     107 | 0x1754      |        5972 |
+|     108 | 0x175D      |        5981 |
+|     109 | 0x175E      |        5982 |
+|     110 | 0x175F      |        5983 |
 |     111 | 0x0987      |        2439 |
 |     112 | 0x0096      |         150 |
 |     113 | 0x18446     |       99398 |
@@ -188,67 +188,67 @@
 
 ## String References
 
-- **5773**: Eh? What d'you want?
-- **5774**: Shamarhaan told you about me?
-- **5775**: I'm sorry, but I can't help you.
-- **5776**: I don't have my automaton anymore...
-- **5777**: A puppetmaster without an automaton is like a Goblin without a mask!
-- **5778**: ...Did you just ask me what a Goblin without a mask is like?
-- **5779**: Do you know what happened to the last person who asked me that?
-- **5780**: ......
+- **5774**: Eh? What d'you want?
+- **5775**: Shamarhaan told you about me?
+- **5776**: I'm sorry, but I can't help you.
+- **5777**: I don't have my automaton anymore...
+- **5778**: A puppetmaster without an automaton is like a Goblin without a mask!
+- **5779**: ...Did you just ask me what a Goblin without a mask is like?
+- **5780**: Do you know what happened to the last person who asked me that?
 - **5781**: ......
-- **5782**: I'm not telling you. Just remember, you don't want it to happen to you. Now get lost.
-- **5783**: You want to ask about puppeteering anyway? Talk about not taking a hint...
-- **5784**: Is any of this getting through to you? I can't talk about puppeteering without an automaton!
-- **5785**: Can you talk about the beauty of the Mithra without their ears and tail? Of course not! And this is the same type of thing!
-- **5786**: I'm nothing without ears and a ta--no no, without my automaton! See? Now you're confusing me!
-- **5787**: That's why I can't talk to you about Mith--no, no! Argh! I can't think straight!
-- **5788**: I need an automaton, or I can't even speak correctly!
-- **5789**: Bring me an automaton, and then we can talk!
-- **5790**: Got it? Now get out of here! Out, out!
-- **5821**: You again? What do you want now?
-- **5822**: Y-y-you brought me an a-a-automaton!?
-- **5823**: F-for...m-m-me!?
-- **5824**: ......
-- **5826**: No no no...I...I can't possibly accept this.
-- **5827**: Until recently, I was considered the top puppeteer on Urhguum, so I know how they work... This automaton won't work with anyone but you. Try it out, and you'll see what I mean.
-- **5828**: My automaton only worked for me, and I couldn't have performed with another automaton, either. You form a sort of bond, you see.
-- **5829**: What? Does that create a problem for you? Oh, yes...I did mention that I can't talk about puppeteering without an automaton, didn't I?
-- **5830**: I was just saying that to get rid of you.
-- **5831**: Don't get me wrong. I was completely serious about not being able to talk about Mithra if there are no ears or tail involved...
-- **5832**: Um, anyway, what did you want to ask me about puppeteering?
-- **5833**: Or did you come to ask me how Goblins look under their masks?
-- **5834**: You see, about that...
-- **5835**: Oh? You were more interested in puppeteering after all?
-- **5836**: You want to know what it takes to become a puppetmaster, do you?
-- **5837**: I don't know what you're talking about...
-- **5838**: You're already a puppetmaster!
-- **5839**: You have your own automaton. That's proof!
-- **5840**: Huh? Shamarhaan told you you can't operate an automaton if you're not a puppetmaster?
-- **5841**: Hmph, he's just making stuff up.
-- **5842**: Well...come to think of it, he does have a point. If you can't let the automaton know what you're thinking, it's not going to move.
-- **5843**: I've got something to help you with that... Ah, here it is!
-- **5844**: You can use this controller... Now, try pushing here.
-- **5845**: See? Now it knows what you're thinking!
-- **5846**: And the more you work together, the more responsive it will become to your commands!
-- **5847**: You can use this $1 to give direction to your automaton!
-- **5848**: Oh! And you should give your automaton a name, too. It's all yours now, so you get to decide!
-- **5849**: Choose your automaton's name. [Luron/Drille/Tournefoux/Chafouin/Plaisantin/Loustic/Histrion/Bobeche/Bougrion/Rouleteau/Allouette/Serenade/Ficelette/Tocadie/Caprice/Foucade/Capillotte/Quenotte/Pacotille/Comedie/Kagekiyo/Toraoh/Genta/Kintoki/Koumei/Pamama/Lobo/Tsukushi/Oniwaka/Kenbishi/Hannya/Mashira]
-- **5851**: Are you sure this name is okay? [Yes, this is it./On second thought...]
-- **5852**: Good luck! I'm behind you all the way!
-- **5854**: Leave me alone...
-- **5855**: How are you and your automaton doing? Is it getting more responsive?
-- **5917**: You should head for Nashmau. Good luck, and be careful.
-- **5930**: If anything else comes up, just let me know!
-- **5942**: Bring me $0 and $1, and I'll explain to you my plan.
-- **5952**: What are you still doing here? The thief is in Nashmau, right? I went through a lot to set up that teahouse, so you better make sure the thief gets there!
-- **5953**: ...
-- **5958**: How could Master Shamarhaan ever have decided I was fit for this trade?
-- **5959**: I wonder how I can make Ellie appreciate me again... I wonder if Master Shamarhaan would have any good advice...
-- **5971**: I don't have much of a choice, do I? I guess I'll head for Nashmau, then...
-- **5980**: Hey, <Player>. How's everything going?
-- **5981**: I'm taking a little break from work right now and spending some time with Ellie.
-- **5982**: Your automaton will start to get sulky if you don't pay it enough attention, you know.
+- **5782**: ......
+- **5783**: I'm not telling you. Just remember, you don't want it to happen to you. Now get lost.
+- **5784**: You want to ask about puppeteering anyway? Talk about not taking a hint...
+- **5785**: Is any of this getting through to you? I can't talk about puppeteering without an automaton!
+- **5786**: Can you talk about the beauty of the Mithra without their ears and tail? Of course not! And this is the same type of thing!
+- **5787**: I'm nothing without ears and a ta--no no, without my automaton! See? Now you're confusing me!
+- **5788**: That's why I can't talk to you about Mith--no, no! Argh! I can't think straight!
+- **5789**: I need an automaton, or I can't even speak correctly!
+- **5790**: Bring me an automaton, and then we can talk!
+- **5791**: Got it? Now get out of here! Out, out!
+- **5822**: You again? What do you want now?
+- **5823**: Y-y-you brought me an a-a-automaton!?
+- **5824**: F-for...m-m-me!?
+- **5825**: ......
+- **5827**: No no no...I...I can't possibly accept this.
+- **5828**: Until recently, I was considered the top puppeteer on Urhguum, so I know how they work... This automaton won't work with anyone but you. Try it out, and you'll see what I mean.
+- **5829**: My automaton only worked for me, and I couldn't have performed with another automaton, either. You form a sort of bond, you see.
+- **5830**: What? Does that create a problem for you? Oh, yes...I did mention that I can't talk about puppeteering without an automaton, didn't I?
+- **5831**: I was just saying that to get rid of you.
+- **5832**: Don't get me wrong. I was completely serious about not being able to talk about Mithra if there are no ears or tail involved...
+- **5833**: Um, anyway, what did you want to ask me about puppeteering?
+- **5834**: Or did you come to ask me how Goblins look under their masks?
+- **5835**: You see, about that...
+- **5836**: Oh? You were more interested in puppeteering after all?
+- **5837**: You want to know what it takes to become a puppetmaster, do you?
+- **5838**: I don't know what you're talking about...
+- **5839**: You're already a puppetmaster!
+- **5840**: You have your own automaton. That's proof!
+- **5841**: Huh? Shamarhaan told you you can't operate an automaton if you're not a puppetmaster?
+- **5842**: Hmph, he's just making stuff up.
+- **5843**: Well...come to think of it, he does have a point. If you can't let the automaton know what you're thinking, it's not going to move.
+- **5844**: I've got something to help you with that... Ah, here it is!
+- **5845**: You can use this controller... Now, try pushing here.
+- **5846**: See? Now it knows what you're thinking!
+- **5847**: And the more you work together, the more responsive it will become to your commands!
+- **5848**: You can use this $1 to give direction to your automaton!
+- **5849**: Oh! And you should give your automaton a name, too. It's all yours now, so you get to decide!
+- **5850**: Choose your automaton's name. [Luron/Drille/Tournefoux/Chafouin/Plaisantin/Loustic/Histrion/Bobeche/Bougrion/Rouleteau/Allouette/Serenade/Ficelette/Tocadie/Caprice/Foucade/Capillotte/Quenotte/Pacotille/Comedie/Kagekiyo/Toraoh/Genta/Kintoki/Koumei/Pamama/Lobo/Tsukushi/Oniwaka/Kenbishi/Hannya/Mashira]
+- **5852**: Are you sure this name is okay? [Yes, this is it./On second thought...]
+- **5853**: Good luck! I'm behind you all the way!
+- **5855**: Leave me alone...
+- **5856**: How are you and your automaton doing? Is it getting more responsive?
+- **5918**: You should head for Nashmau. Good luck, and be careful.
+- **5931**: If anything else comes up, just let me know!
+- **5943**: Bring me $0 and $1, and I'll explain to you my plan.
+- **5953**: What are you still doing here? The thief is in Nashmau, right? I went through a lot to set up that teahouse, so you better make sure the thief gets there!
+- **5954**: ...
+- **5959**: How could Master Shamarhaan ever have decided I was fit for this trade?
+- **5960**: I wonder how I can make Ellie appreciate me again... I wonder if Master Shamarhaan would have any good advice...
+- **5972**: I don't have much of a choice, do I? I guess I'll head for Nashmau, then...
+- **5981**: Hey, <Player>. How's everything going?
+- **5982**: I'm taking a little break from work right now and spending some time with Ellie.
+- **5983**: Your automaton will start to get sulky if you don't pay it enough attention, you know.
 
 ## Events
 
@@ -293,7 +293,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=5854*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=5855*)
     → "Leave me alone..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -321,7 +321,7 @@
 
 ```
   0: 0x0007 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=5855*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=5856*)
     → "How are you and your automaton doing? Is it getting more responsive?"
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x7B] EventEntity stops talking
@@ -412,11 +412,11 @@
  15: 0x007E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  16: 0x008F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  17: 0x009E [0x1C] WAIT(120* ticks)
- 18: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5773*)
+ 18: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5774*)
     → "Eh? What d'you want?"
  19: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00A5 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Iruki-Waraki (ID: 16982325/0x01032135), tag_num=0x04)
- 21: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=5774*)
+ 21: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=5775*)
     → "Shamarhaan told you about me?"
  22: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00B0 [0x1C] WAIT(60* ticks)
@@ -424,11 +424,11 @@
  25: 0x00C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k101" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  26: 0x00D3 [0x6E] EventEntity uses emote 6*
  27: 0x00DA [0x99] Wait for EventEntity animation to complete
- 28: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=5775*)
+ 28: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
     → "I'm sorry, but I can't help you."
  29: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00E3 [0x1C] WAIT(60* ticks)
- 31: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+ 31: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "I don't have my automaton anymore..."
  32: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -436,27 +436,27 @@
  35: 0x010A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k102" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  36: 0x011B [0x7B] Iruki-Waraki (ID: 16982325/0x01032135) stops talking
  37: 0x0120 [0x27] REQ_SET(priority=0x0A, entity_id=Iruki-Waraki (ID: 16982325/0x01032135), tag_num=0x05)
- 38: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
+ 38: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=5778*)
     → "A puppetmaster without an automaton is like a Goblin without a mask!"
  39: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x012B [0x1C] WAIT(90* ticks)
  41: 0x012E [0x4A] Iruki-Waraki (ID: 16982325/0x01032135) looks at LocalPlayer
- 42: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=5778*)
+ 42: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=5779*)
     → "...Did you just ask me what a Goblin without a mask is like?"
  43: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x013B [0x52] END_LOAD_SCHEDULER: End scheduler "k102" with entities [LocalPlayer, LocalPlayer], work=267*
  45: 0x014A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k103" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  46: 0x015B [0x1C] WAIT(60* ticks)
- 47: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=5779*)
+ 47: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=5780*)
     → "Do you know what happened to the last person who asked me that?"
  48: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0162 [0x52] END_LOAD_SCHEDULER: End scheduler "k103" with entities [LocalPlayer, LocalPlayer], work=267*
  50: 0x0171 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k104" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  51: 0x0182 [0x7C] EventEntity->Render.Flags2 |= 0x00
- 52: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=5780*)
+ 52: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=5781*)
     → "......"
  53: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=5781*)
+ 54: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=5782*)
     → "......"
  55: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0190 [0x52] END_LOAD_SCHEDULER: End scheduler "k104" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -465,53 +465,53 @@
  59: 0x01B5 [0x7C] EventEntity->Render.Flags2 |= 0x01
  60: 0x01BB [0x6E] EventEntity uses emote 34*
  61: 0x01C2 [0x99] Wait for EventEntity animation to complete
- 62: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5782*)
+ 62: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5783*)
     → "I'm not telling you. Just remember, you don't want it to happen to you. Now get lost."
  63: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01CB [0x1C] WAIT(90* ticks)
  65: 0x01CE [0x6E] EventEntity uses emote 26*
  66: 0x01D5 [0x99] Wait for EventEntity animation to complete
- 67: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=5783*)
+ 67: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=5784*)
     → "You want to ask about puppeteering anyway? Talk about not taking a hint..."
  68: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x01DE [0x52] END_LOAD_SCHEDULER: End scheduler "k105" with entities [LocalPlayer, LocalPlayer], work=267*
  70: 0x01ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k106" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  71: 0x01FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
- 72: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=5784*)
+ 72: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=5785*)
     → "Is any of this getting through to you? I can't talk about puppeteering without an automaton!"
  73: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=5785*)
+ 74: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=5786*)
     → "Can you talk about the beauty of the Mithra without their ears and tail? Of course not! And this is the same type of thing!"
  75: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0215 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
  77: 0x0224 [0x52] END_LOAD_SCHEDULER: End scheduler "k106" with entities [LocalPlayer, LocalPlayer], work=267*
  78: 0x0233 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k107" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
- 79: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=5786*)
+ 79: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=5787*)
     → "I'm nothing without ears and a ta--no no, without my automaton! See? Now you're confusing me!"
  80: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0248 [0x1C] WAIT(60* ticks)
  82: 0x024B [0x6E] EventEntity uses emote 25*
  83: 0x0252 [0x99] Wait for EventEntity animation to complete
- 84: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=5787*)
+ 84: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=5788*)
     → "That's why I can't talk to you about Mith--no, no! Argh! I can't think straight!"
  85: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x025B [0x1C] WAIT(60* ticks)
  87: 0x025E [0x6E] EventEntity uses emote 34*
  88: 0x0265 [0x99] Wait for EventEntity animation to complete
- 89: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=5788*)
+ 89: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=5789*)
     → "I need an automaton, or I can't even speak correctly!"
  90: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x026E [0x52] END_LOAD_SCHEDULER: End scheduler "k107" with entities [LocalPlayer, LocalPlayer], work=267*
  92: 0x027D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k108" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  93: 0x028E [0x1C] WAIT(60* ticks)
- 94: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=5789*)
+ 94: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=5790*)
     → "Bring me an automaton, and then we can talk!"
  95: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0295 [0x1C] WAIT(60* ticks)
  97: 0x0298 [0x6E] EventEntity uses emote 24*
  98: 0x029F [0x99] Wait for EventEntity animation to complete
  99: 0x02A4 [0x1C] WAIT(60* ticks)
-100: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5790*)
+100: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5791*)
     → "Got it? Now get out of here! Out, out!"
 101: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x02AB [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Iruki-Waraki (ID: 16982325/0x01032135), tag_num=0x07)
@@ -650,7 +650,7 @@
 
 ```
   0: 0x032A [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=5789*)
+  1: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=5790*)
     → "Bring me an automaton, and then we can talk!"
   2: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0338 [0x7B] EventEntity stops talking
@@ -776,25 +776,25 @@
  21: 0x03CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x03DD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  23: 0x03EC [0x1C] WAIT(30* ticks)
- 24: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=5821*)
+ 24: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=5822*)
     → "You again? What do you want now?"
  25: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x03F3 [0x52] END_LOAD_SCHEDULER: End scheduler "k200" with entities [LocalPlayer, LocalPlayer], work=267*
  27: 0x0402 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k201" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
- 28: 0x0413 [0x1D] PRINT_EVENT_MESSAGE(message_id=5822*)
+ 28: 0x0413 [0x1D] PRINT_EVENT_MESSAGE(message_id=5823*)
     → "Y-y-you brought me an a-a-automaton!?"
  29: 0x0416 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0417 [0x1C] WAIT(60* ticks)
  31: 0x041A [0x4A] Iruki-Waraki (ID: 16982325/0x01032135) looks at Automaton (ID: 16982166/0x01032096)
- 32: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=5823*)
+ 32: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=5824*)
     → "F-for...m-m-me!?"
  33: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0427 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Iruki-Waraki (ID: 16982325/0x01032135), tag_num=0x0A)
  35: 0x042E [0x7C] EventEntity->Render.Flags2 |= 0x00
- 36: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=5824*)
+ 36: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=5825*)
     → "......"
  37: 0x0437 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=5781*)
+ 38: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=5782*)
     → "......"
  39: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x043C [0x52] END_LOAD_SCHEDULER: End scheduler "k201" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -802,66 +802,66 @@
  42: 0x045C [0x7C] EventEntity->Render.Flags2 |= 0x01
  43: 0x0462 [0x6E] EventEntity uses emote 6*
  44: 0x0469 [0x99] Wait for EventEntity animation to complete
- 45: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=5826*)
+ 45: 0x046E [0x1D] PRINT_EVENT_MESSAGE(message_id=5827*)
     → "No no no...I...I can't possibly accept this."
  46: 0x0471 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0472 [0x1C] WAIT(60* ticks)
- 48: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=5827*)
+ 48: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=5828*)
     → "Until recently, I was considered the top puppeteer on Urhguum, so I know how they work... This automaton won't work with anyone but you. Try it out, and you'll see what I mean."
  49: 0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0479 [0x1C] WAIT(60* ticks)
- 51: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=5828*)
+ 51: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=5829*)
     → "My automaton only worked for me, and I couldn't have performed with another automaton, either. You form a sort of bond, you see."
  52: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0480 [0x52] END_LOAD_SCHEDULER: End scheduler "k202" with entities [LocalPlayer, LocalPlayer], work=267*
  54: 0x048F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k203" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  55: 0x04A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
  56: 0x04A5 [0x1C] WAIT(60* ticks)
- 57: 0x04A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5829*)
+ 57: 0x04A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5830*)
     → "What? Does that create a problem for you? Oh, yes...I did mention that I can't talk about puppeteering without an automaton, didn't I?"
  58: 0x04AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x04AC [0x6E] EventEntity uses emote 32*
  60: 0x04B3 [0x99] Wait for EventEntity animation to complete
- 61: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5830*)
+ 61: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5831*)
     → "I was just saying that to get rid of you."
  62: 0x04BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=5831*)
+ 63: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=5832*)
     → "Don't get me wrong. I was completely serious about not being able to talk about Mithra if there are no ears or tail involved..."
  64: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x04C0 [0x52] END_LOAD_SCHEDULER: End scheduler "k203" with entities [LocalPlayer, LocalPlayer], work=267*
  66: 0x04CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k204" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  67: 0x04E0 [0x1C] WAIT(60* ticks)
- 68: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5832*)
+ 68: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5833*)
     → "Um, anyway, what did you want to ask me about puppeteering?"
  69: 0x04E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x04E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
- 71: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5833*)
+ 71: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5834*)
     → "Or did you come to ask me how Goblins look under their masks?"
  72: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x04FA [0x52] END_LOAD_SCHEDULER: End scheduler "k204" with entities [LocalPlayer, LocalPlayer], work=267*
  74: 0x0509 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k203" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
- 75: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=5834*)
+ 75: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=5835*)
     → "You see, about that..."
  76: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x051E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
- 78: 0x052D [0x1D] PRINT_EVENT_MESSAGE(message_id=5835*)
+ 78: 0x052D [0x1D] PRINT_EVENT_MESSAGE(message_id=5836*)
     → "Oh? You were more interested in puppeteering after all?"
  79: 0x0530 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0531 [0x52] END_LOAD_SCHEDULER: End scheduler "k203" with entities [LocalPlayer, LocalPlayer], work=267*
  81: 0x0540 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k205" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  82: 0x0551 [0x1C] WAIT(30* ticks)
- 83: 0x0554 [0x1D] PRINT_EVENT_MESSAGE(message_id=5836*)
+ 83: 0x0554 [0x1D] PRINT_EVENT_MESSAGE(message_id=5837*)
     → "You want to know what it takes to become a puppetmaster, do you?"
  84: 0x0557 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0558 [0x6E] EventEntity uses emote 22*
  86: 0x055F [0x99] Wait for EventEntity animation to complete
- 87: 0x0564 [0x1D] PRINT_EVENT_MESSAGE(message_id=5837*)
+ 87: 0x0564 [0x1D] PRINT_EVENT_MESSAGE(message_id=5838*)
     → "I don't know what you're talking about..."
  88: 0x0567 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0568 [0x1D] PRINT_EVENT_MESSAGE(message_id=5838*)
+ 89: 0x0568 [0x1D] PRINT_EVENT_MESSAGE(message_id=5839*)
     → "You're already a puppetmaster!"
  90: 0x056B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x056C [0x1D] PRINT_EVENT_MESSAGE(message_id=5839*)
+ 91: 0x056C [0x1D] PRINT_EVENT_MESSAGE(message_id=5840*)
     → "You have your own automaton. That's proof!"
  92: 0x056F [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0570 [0x1C] WAIT(60* ticks)
@@ -869,16 +869,16 @@
  95: 0x0584 [0x52] END_LOAD_SCHEDULER: End scheduler "k205" with entities [LocalPlayer, LocalPlayer], work=267*
  96: 0x0593 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k206" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  97: 0x05A4 [0x1C] WAIT(30* ticks)
- 98: 0x05A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5840*)
+ 98: 0x05A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5841*)
     → "Huh? Shamarhaan told you you can't operate an automaton if you're not a puppetmaster?"
  99: 0x05AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x05AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
-101: 0x05BA [0x1D] PRINT_EVENT_MESSAGE(message_id=5841*)
+101: 0x05BA [0x1D] PRINT_EVENT_MESSAGE(message_id=5842*)
     → "Hmph, he's just making stuff up."
 102: 0x05BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x05BE [0x1C] WAIT(60* ticks)
 104: 0x05C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
-105: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5842*)
+105: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5843*)
     → "Well...come to think of it, he does have a point. If you can't let the automaton know what you're thinking, it's not going to move."
 106: 0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x05D4 [0x52] END_LOAD_SCHEDULER: End scheduler "k206" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -893,11 +893,11 @@
 116: 0x063F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Iruki-Waraki (ID: 16982325/0x01032135), Iruki-Waraki (ID: 16982325/0x01032135)], work=49*
 117: 0x064E [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=96.559*, z=-25.456*, y=-5.999*, direction=23.6°*
 118: 0x0657 [0x1E] EventEntity looks at LocalPlayer and starts talking
-119: 0x065C [0x1D] PRINT_EVENT_MESSAGE(message_id=5843*)
+119: 0x065C [0x1D] PRINT_EVENT_MESSAGE(message_id=5844*)
     → "I've got something to help you with that... Ah, here it is!"
 120: 0x065F [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x0660 [0x1C] WAIT(60* ticks)
-122: 0x0663 [0x1D] PRINT_EVENT_MESSAGE(message_id=5844*)
+122: 0x0663 [0x1D] PRINT_EVENT_MESSAGE(message_id=5845*)
     → "You can use this controller... Now, try pushing here."
 123: 0x0666 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x0667 [0x1C] WAIT(120* ticks)
@@ -911,23 +911,23 @@
 132: 0x06C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k210" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 133: 0x06D4 [0x6E] EventEntity uses emote 36*
 134: 0x06DB [0x99] Wait for EventEntity animation to complete
-135: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5845*)
+135: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5846*)
     → "See? Now it knows what you're thinking!"
 136: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x06E4 [0x1C] WAIT(30* ticks)
-138: 0x06E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5846*)
+138: 0x06E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5847*)
     → "And the more you work together, the more responsive it will become to your commands!"
 139: 0x06EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x06EB [0x03] Work_Zone[3] = 17859*
-141: 0x06F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5847*)
+141: 0x06F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5848*)
     → "You can use this $1 to give direction to your automaton!"
 142: 0x06F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x06F4 [0x52] END_LOAD_SCHEDULER: End scheduler "k210" with entities [LocalPlayer, LocalPlayer], work=267*
 144: 0x0703 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
-145: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=5848*)
+145: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=5849*)
     → "Oh! And you should give your automaton a name, too. It's all yours now, so you get to decide!"
 146: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x0718 [0x24] CREATE_DIALOG(message_id=5849*, default_option=0*, option_flags=0*)
+147: 0x0718 [0x24] CREATE_DIALOG(message_id=5850*, default_option=0*, option_flags=0*)
     → "Choose your automaton's name. [Luron/Drille/Tournefoux/Chafouin/Plaisantin/Loustic/Histrion/Bobeche/Bougrion/Rouleteau/Allouette/Serenade/Ficelette/Tocadie/Caprice/Foucade/Capillotte/Quenotte/Pacotille/Comedie/Kagekiyo/Toraoh/Genta/Kintoki/Koumei/Pamama/Lobo/Tsukushi/Oniwaka/Kenbishi/Hannya/Mashira]"
 148: 0x071F [0x25] WAIT_DIALOG_SELECT()
 149: 0x0720 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x072B
@@ -935,7 +935,7 @@
 
 SUBROUTINE_072B:
 151: 0x072B [0x03] Work_Zone[1] = Work_Zone[0]
-152: 0x0730 [0x24] CREATE_DIALOG(message_id=5851*, default_option=1*, option_flags=0*)
+152: 0x0730 [0x24] CREATE_DIALOG(message_id=5852*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought...]"
 153: 0x0737 [0x25] WAIT_DIALOG_SELECT()
 154: 0x0738 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0743
@@ -948,7 +948,7 @@ SUBROUTINE_0751:
 159: 0x0760 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k209" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
 160: 0x0771 [0x6E] EventEntity uses emote 13*
 161: 0x0778 [0x99] Wait for EventEntity animation to complete
-162: 0x077D [0x1D] PRINT_EVENT_MESSAGE(message_id=5852*)
+162: 0x077D [0x1D] PRINT_EVENT_MESSAGE(message_id=5853*)
     → "Good luck! I'm behind you all the way!"
 163: 0x0780 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0781 [0x1C] WAIT(120* ticks)
@@ -1067,7 +1067,7 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=5917*)
+  0: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=5918*)
     → "You should head for Nashmau. Good luck, and be careful."
   1: 0x0807 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0808 [0x21] END_EVENT
@@ -1116,7 +1116,7 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x080B [0x1D] PRINT_EVENT_MESSAGE(message_id=5930*)
+  0: 0x080B [0x1D] PRINT_EVENT_MESSAGE(message_id=5931*)
     → "If anything else comes up, just let me know!"
   1: 0x080E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x080F [0x21] END_EVENT
@@ -1167,7 +1167,7 @@ SUBROUTINE_0751:
 ```
   0: 0x0812 [0x03] Work_Zone[2] = 4161*
   1: 0x0817 [0x03] Work_Zone[3] = 5570*
-  2: 0x081C [0x1D] PRINT_EVENT_MESSAGE(message_id=5942*)
+  2: 0x081C [0x1D] PRINT_EVENT_MESSAGE(message_id=5943*)
     → "Bring me $0 and $1, and I'll explain to you my plan."
   3: 0x081F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0820 [0x21] END_EVENT
@@ -1215,7 +1215,7 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x0823 [0x1D] PRINT_EVENT_MESSAGE(message_id=5952*)
+  0: 0x0823 [0x1D] PRINT_EVENT_MESSAGE(message_id=5953*)
     → "What are you still doing here? The thief is in Nashmau, right? I went through a lot to set up that teahouse, so you better make sure the thief gets there!"
   1: 0x0826 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0827 [0x21] END_EVENT
@@ -1241,7 +1241,7 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x0829 [0x1D] PRINT_EVENT_MESSAGE(message_id=5953*)
+  0: 0x0829 [0x1D] PRINT_EVENT_MESSAGE(message_id=5954*)
     → "..."
   1: 0x082C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x082D [0x21] END_EVENT
@@ -1337,10 +1337,10 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x0844 [0x1D] PRINT_EVENT_MESSAGE(message_id=5958*)
+  0: 0x0844 [0x1D] PRINT_EVENT_MESSAGE(message_id=5959*)
     → "How could Master Shamarhaan ever have decided I was fit for this trade?"
   1: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0848 [0x1D] PRINT_EVENT_MESSAGE(message_id=5959*)
+  2: 0x0848 [0x1D] PRINT_EVENT_MESSAGE(message_id=5960*)
     → "I wonder how I can make Ellie appreciate me again... I wonder if Master Shamarhaan would have any good advice..."
   3: 0x084B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x084C [0x21] END_EVENT
@@ -1389,7 +1389,7 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=5971*)
+  0: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=5972*)
     → "I don't have much of a choice, do I? I guess I'll head for Nashmau, then..."
   1: 0x0852 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0853 [0x21] END_EVENT
@@ -1438,13 +1438,13 @@ SUBROUTINE_0751:
 #### Opcodes
 
 ```
-  0: 0x0856 [0x1D] PRINT_EVENT_MESSAGE(message_id=5980*)
+  0: 0x0856 [0x1D] PRINT_EVENT_MESSAGE(message_id=5981*)
     → "Hey, <Player>. How's everything going?"
   1: 0x0859 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x085A [0x1D] PRINT_EVENT_MESSAGE(message_id=5981*)
+  2: 0x085A [0x1D] PRINT_EVENT_MESSAGE(message_id=5982*)
     → "I'm taking a little break from work right now and spending some time with Ellie."
   3: 0x085D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x085E [0x1D] PRINT_EVENT_MESSAGE(message_id=5982*)
+  4: 0x085E [0x1D] PRINT_EVENT_MESSAGE(message_id=5983*)
     → "Your automaton will start to get sulky if you don't pay it enough attention, you know."
   5: 0x0861 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0862 [0x21] END_EVENT

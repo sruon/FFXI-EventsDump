@@ -22,17 +22,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x25C5      |        9669 |
-|       1 | 0x25C6      |        9670 |
-|       2 | 0x25C9      |        9673 |
-|       3 | 0x25CA      |        9674 |
+|       0 | 0x25C6      |        9670 |
+|       1 | 0x25C7      |        9671 |
+|       2 | 0x25CA      |        9674 |
+|       3 | 0x25CB      |        9675 |
 
 ## String References
 
-- **9669**: Hey, you're supposed to buy these...number things, rrright? I picked "ID$3:$0-$1". Are these supposed to be some kind of code? They're not???
-- **9670**: A beastmaster frrriend of mine told me you can make a killing here... What? I've been played for a fool???
-- **9673**: Huh? Why do I need to go collect gil from the chocobet center? Oh, I won something!? Whoopeeeeee!
-- **9674**: Huh? You're saying I just threw away all my gil? No no no, this is all wrrrong! I want my money back!
+- **9670**: Hey, you're supposed to buy these...number things, rrright? I picked "ID$3:$0-$1". Are these supposed to be some kind of code? They're not???
+- **9671**: A beastmaster frrriend of mine told me you can make a killing here... What? I've been played for a fool???
+- **9674**: Huh? Why do I need to go collect gil from the chocobet center? Oh, I won something!? Whoopeeeeee!
+- **9675**: Huh? You're saying I just threw away all my gil? No no no, this is all wrrrong! I want my money back!
 
 ## Events
 
@@ -79,10 +79,10 @@
 
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9669*)
+  1: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
     → "Hey, you're supposed to buy these...number things, rrright? I picked "ID$3:$0-$1". Are these supposed to be some kind of code? They're not???"
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9670*)
+  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9671*)
     → "A beastmaster frrriend of mine told me you can make a killing here... What? I've been played for a fool???"
   4: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0012 [0x21] END_EVENT
@@ -110,7 +110,7 @@
 
 ```
   0: 0x0014 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
+  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9674*)
     → "Huh? Why do I need to go collect gil from the chocobet center? Oh, I won something!? Whoopeeeeee!"
   2: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0021 [0x21] END_EVENT
@@ -138,7 +138,7 @@
 
 ```
   0: 0x0023 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9674*)
+  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9675*)
     → "Huh? You're saying I just threw away all my gil? No no no, this is all wrrrong! I want my money back!"
   2: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0030 [0x21] END_EVENT

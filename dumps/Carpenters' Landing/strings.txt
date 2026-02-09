@@ -1,5 +1,5 @@
 # Strings for Carpenters' Landing
-# Total: 7602 strings
+# Total: 7603 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,380 +7226,381 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: $V [4`_COME]
- 7228: $V [4b_COME]
- 7229: $V [4`_REM]
- 7230: $V [4b_REM]
- 7231: $V [4`_GO]
- 7232: $V [4`_NOTGO]
- 7233: $V [4b_GO]
- 7234: $V [4b_NOTGO]
- 7235: The barge bound for [Central Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours] ($0 [minute/minutes] in Earth time).
- 7236: The ship bound for [Central Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now [arriving/departing].
- 7237: The next barge will arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours] ($0 [minute/minutes] in Earth time). However, it is for arrivals only, and you will not be allowed to board.
- 7238: The next barge will arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours] ($0 [minute/minutes] in Earth time). However, it is out-of-service, and will not be accepting passengers.
- 7239: The next barge is about to arrive. It is for arrivals only, and you will not be allowed to board.
- 7240: The next barge is about to arrive. However, it is out-of-service and will not be accepting passengers.
- 7241: This barge is out-of-service. It is not accepting passengers.
- 7242: The barge is full. You could not board.
- 7243: You wish to know of the Knights Mistalle?
- 7244: You're just like everyone else! A maggot looking for a scandal! Well, it's time for me to squash another worm!
- 7245: How...how could you defeat...
- 7246: Come! Strike me down! I am not afraid of death! There is nothing I could want more than to die in the service of my master.
- 7247: Stop this foolishness!
- 7248: Sir Louverance!
- 7249: Do you truly feel your actions here today would please Count Francmage?
- 7250: Noble adventurer, please forgive this man. The Knights Mistalle were once a proud family of knights...until certain happenings within the Kingdom left the count's name scarred with disgrace.
- 7251: The family vowed revenge... However, without a target for that revenge, they were never able to prove their innocence, and their nobility was stripped from them.
- 7252: As you are quite aware, San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.
- 7253: San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.
- 7254: And now I'm just an old man...
- 7255: What answers have you come in search of today? What do you wish to know of the count?
- 7256: Ah, the Multinational Expedition to the Northlands. What were they searching for?
- 7257: I assume their purpose was to investigate the Gates of Paradise. Detailed information on the subject can more than likely be found in the San d'Orian Cathedral.
- 7258: However, even if they did exist, not even a marquis, let alone a count could lay his eyes on the documents without direct permission from the papsque.
- 7259: Though things were quite different when the cathedral was led by the former papsque...Muchavatte...
- 7260: Muchavatte P Couchiret had strong ties with Count Caffaule. While the count passed away many years ago, his wife, Hinaree, still lives alone in their manor in Southern San d'Oria.
- 7261: Perhaps she knows something that may be of use to you. If you mention my name, she should be delighted to assist you.
- 7262: Take my words, adventurer, in exchange for the forgiveness of this old man's sins. Until we meet again...
- 7263: Begone, trespasser! This land belongs to the Knights Mi- This land belongs to Count Teulomme!
- 7264: Well, have you met with Countess Caffaule? I suggest that you follow the advice given to you by Sir Louverance if you wish to reach the goals you have set for yourself.
- 7265: A tree has fallen here...
- 7266: You feel a wave of hatred wash over you!
- 7267: I recognize your face, adventurer. How do you know of this place?
- 7268: Have you come with a message from him? I hear the matter is urgent...
- 7269: How do you respond? [Yes, I have a message./I have no message for you.]
- 7270: What's this you say? A "Master Cid" requests my presence? That name sounds somewhat familiar...
- 7271: What's this you say? You came to request my presence?
- 7272: One moment, [sir/madame]. I do believe you are mistaking me for...him.
- 7273: Sir Louverance! It's a trap!
- 7274: That honorless count set this trap to take your life, young sir!
- 7275: Explain this treachery!
- 7276: I heard word that those vicious Tonberries had been released under the pretense of dealing with an interloping brigand.
- 7277: They described the bandit as a male Elvaan wearing a mask and bright brigandine armor.
- 7278: ...
- 7279: Once a thief, always a thief. It seems he is not content with stealing just my name!
- 7280: Sir Louverance?
- 7281: If you meet this man, give him a message: If you would call yourself a knight, then you must seek a just cause to champion!
- 7282: Farewell!
- 7283: [Sir/Lady] <Player>... I must apologize. It appears you have defeated the Tonberries meant for my demise.
- 7284: You are a most resourceful ally. I will be sure to return the favor in the future.
- 7285: You say that Master Cid requires my presence in Bastok? I must say, gathering lumber was never my most cherished activity in any case.
- 7286: At last, we journey to the celestial capital of Al'Taieu. Our confrontation with the Keeper of the Apocalypse is at hand.
- 7287: Let us finish this battle forthwith. If I am to follow the path of the knight, I must see justice done as a true knight should.
- 7288: And there is no higher cause than saving the world from destruction... Wouldn't you agree, Louverance Mistalle?
- 7289: You can't fish here.
- 7290: You can't fish without a rod in your hands.
- 7291: You can't fish without bait on the hook.
- 7292: You can't fish at the moment.
- 7293: You didn't catch anything.
- 7294: %0 caught a monster!
- 7295: Your line breaks.
- 7296: Your rod breaks.
- 7297: Something caught the hook!
- 7298: You lost your catch.
- 7299: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7300: You feel there's something here.
- 7301: You feel there's something nearby.
- 7302: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7303: %0 caught $1 $0 !
- 7304: You dig and you dig, but find nothing.
- 7305: $0/$0p$3Z$3b$3g
- 7306: Your rod breaks. Whatever caught the hook was pretty big.
- 7307: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7308: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7309: You lost your catch due to your lack of skill.
- 7310: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7311: You didn't catch anything.
- 7312: The paper on your $0 ripped.
- 7313: A tiny goldfish approaches!
- 7314: A plump, black goldfish approaches!
- 7315: A fat, juicy goldfish approaches!
- 7316: There are no goldfish to be found...
- 7317: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7318: The goldfish slipped off your scoop...
- 7319: ch$0 skill up check.
- 7320: a:$0.
- 7321: Time $0 / Status $1 / $2
- 7322: d:$0. e:$1. f:$2. g:$3.
- 7323: h: $1. i: $0. sr: $2.
- 7324: j:$0. k:$1.
- 7325: You give up and reel in your line.
- 7326: You give up.
- 7327: %0 obtains $1 gil.
- 7328: %0 caught $0!
- 7329: You don't know how much longer you can keep this one on the line...
- 7330: You have a good feeling about this one!
- 7331: You have a bad feeling about this one.
- 7332: You have a terrible feeling about this one...
- 7333: You don't know if you have enough skill to reel this one in.
- 7334: You're fairly sure you don't have enough skill to reel this one in.
- 7335: You're positive you don't have enough skill to reel this one in!
- 7336: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7337: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7338: l: $0. m: $1. n: $2. CH: $3.
- 7339: Something caught the hook!!!
- 7340: You feel something pulling at your line.
- 7341: Something clamps onto your line ferociously!
- 7342: Your keen angler's senses tell you that this is the pull of $0!
- 7343: This strength... You get the sense that you are on the verge of an epic catch!
- 7344: The timer has started. $0 seconds remaining.
- 7345: $0sec.$1/$2sec.
- 7346: 0:$0 1:$1 2:$2 3:$3
- 7347: 4:$0 5:$1 6:$2 7:$3
- 7348: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7349: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7350: $0/$1($2j
- 7351: Version invalid error!
- 7352: Hurry before the goldfish sees you!
- 7353: %0 fishes up a large box!
- 7354: $23$o$P122$8$0
- 7355: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7356: PointF$0 >>> $1
- 7357: [$1($0)/skillF$1]
- 7358: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7359: Im Rnd : $0 Pz Rnd : $1
- 7360: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7361: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7362: skill : $0 size : $1 kind : $2 sch : $3
- 7363: time : $0 mes : $1 flag : $2 bonus : $3
- 7364: item : $0 hp : $1 pow : $2 swing : $3
- 7365: suc : $0 cons : $1 weight : $2 +- : $3
- 7366: speed : $0 +- : $1 exc : $2 client : $3
- 7367: general : $0
- 7368: ro:$0 rs:$1 ps:$2 dt:$3
- 7369: ra:$0 ti:$1
- 7370: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7371: You get the distinct sense that your moogle friend frequents this spot...
- 7372: You have a feeling that your moogle friend has been through this way...
- 7373: You suspect that the scenery around here would be to a moogle's liking...
- 7374: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7375: You have a hunch that this area would be favored by moogles...
- 7376: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7377: %0 catches $1 $0 !
- 7378: %0 obtained $6!
- 7379: It appears your chocobo found this item with ease.
- 7380: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7381: FPT $0 DPT $1 DoT$2
- 7382: FPT $0 TDPT $1 h$2
- 7383: You cannot fish at this time.
- 7384: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7385: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7386: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7387: You receive $0 bayld!
- 7388: Your chocobo refuses to partake of the $0.
- 7389: There is nothing out of the ordinary here.
- 7390: You can hear a strange voice... "Items, items, la la la la la`t"
- 7391: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7392: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7393: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7394: Now, listen close...
- 7395: Oh... Well, if that's the case, I'm outta here.
- 7396: The Goblin slipped away when you were not looking...
- 7397: You can hear a strange, raspy voice...
- 7398: I travel......hear lots... Hear...stories... Can tell...if...
- 7399: .........listen......
- 7400: Oh...... ...outta here.........
- 7401: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7402: What story would you like to be told? [On second thought, maybe later./Descendants of a Line Lost./Tea with a Tonberry?/Calm Before the Storm./Aegis.]
- 7403: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: $V [4`_COME]
+ 7229: $V [4b_COME]
+ 7230: $V [4`_REM]
+ 7231: $V [4b_REM]
+ 7232: $V [4`_GO]
+ 7233: $V [4`_NOTGO]
+ 7234: $V [4b_GO]
+ 7235: $V [4b_NOTGO]
+ 7236: The barge bound for [Central Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours] ($0 [minute/minutes] in Earth time).
+ 7237: The ship bound for [Central Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now [arriving/departing].
+ 7238: The next barge will arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours] ($0 [minute/minutes] in Earth time). However, it is for arrivals only, and you will not be allowed to board.
+ 7239: The next barge will arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours] ($0 [minute/minutes] in Earth time). However, it is out-of-service, and will not be accepting passengers.
+ 7240: The next barge is about to arrive. It is for arrivals only, and you will not be allowed to board.
+ 7241: The next barge is about to arrive. However, it is out-of-service and will not be accepting passengers.
+ 7242: This barge is out-of-service. It is not accepting passengers.
+ 7243: The barge is full. You could not board.
+ 7244: You wish to know of the Knights Mistalle?
+ 7245: You're just like everyone else! A maggot looking for a scandal! Well, it's time for me to squash another worm!
+ 7246: How...how could you defeat...
+ 7247: Come! Strike me down! I am not afraid of death! There is nothing I could want more than to die in the service of my master.
+ 7248: Stop this foolishness!
+ 7249: Sir Louverance!
+ 7250: Do you truly feel your actions here today would please Count Francmage?
+ 7251: Noble adventurer, please forgive this man. The Knights Mistalle were once a proud family of knights...until certain happenings within the Kingdom left the count's name scarred with disgrace.
+ 7252: The family vowed revenge... However, without a target for that revenge, they were never able to prove their innocence, and their nobility was stripped from them.
+ 7253: As you are quite aware, San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.
+ 7254: San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.
+ 7255: And now I'm just an old man...
+ 7256: What answers have you come in search of today? What do you wish to know of the count?
+ 7257: Ah, the Multinational Expedition to the Northlands. What were they searching for?
+ 7258: I assume their purpose was to investigate the Gates of Paradise. Detailed information on the subject can more than likely be found in the San d'Orian Cathedral.
+ 7259: However, even if they did exist, not even a marquis, let alone a count could lay his eyes on the documents without direct permission from the papsque.
+ 7260: Though things were quite different when the cathedral was led by the former papsque...Muchavatte...
+ 7261: Muchavatte P Couchiret had strong ties with Count Caffaule. While the count passed away many years ago, his wife, Hinaree, still lives alone in their manor in Southern San d'Oria.
+ 7262: Perhaps she knows something that may be of use to you. If you mention my name, she should be delighted to assist you.
+ 7263: Take my words, adventurer, in exchange for the forgiveness of this old man's sins. Until we meet again...
+ 7264: Begone, trespasser! This land belongs to the Knights Mi- This land belongs to Count Teulomme!
+ 7265: Well, have you met with Countess Caffaule? I suggest that you follow the advice given to you by Sir Louverance if you wish to reach the goals you have set for yourself.
+ 7266: A tree has fallen here...
+ 7267: You feel a wave of hatred wash over you!
+ 7268: I recognize your face, adventurer. How do you know of this place?
+ 7269: Have you come with a message from him? I hear the matter is urgent...
+ 7270: How do you respond? [Yes, I have a message./I have no message for you.]
+ 7271: What's this you say? A "Master Cid" requests my presence? That name sounds somewhat familiar...
+ 7272: What's this you say? You came to request my presence?
+ 7273: One moment, [sir/madame]. I do believe you are mistaking me for...him.
+ 7274: Sir Louverance! It's a trap!
+ 7275: That honorless count set this trap to take your life, young sir!
+ 7276: Explain this treachery!
+ 7277: I heard word that those vicious Tonberries had been released under the pretense of dealing with an interloping brigand.
+ 7278: They described the bandit as a male Elvaan wearing a mask and bright brigandine armor.
+ 7279: ...
+ 7280: Once a thief, always a thief. It seems he is not content with stealing just my name!
+ 7281: Sir Louverance?
+ 7282: If you meet this man, give him a message: If you would call yourself a knight, then you must seek a just cause to champion!
+ 7283: Farewell!
+ 7284: [Sir/Lady] <Player>... I must apologize. It appears you have defeated the Tonberries meant for my demise.
+ 7285: You are a most resourceful ally. I will be sure to return the favor in the future.
+ 7286: You say that Master Cid requires my presence in Bastok? I must say, gathering lumber was never my most cherished activity in any case.
+ 7287: At last, we journey to the celestial capital of Al'Taieu. Our confrontation with the Keeper of the Apocalypse is at hand.
+ 7288: Let us finish this battle forthwith. If I am to follow the path of the knight, I must see justice done as a true knight should.
+ 7289: And there is no higher cause than saving the world from destruction... Wouldn't you agree, Louverance Mistalle?
+ 7290: You can't fish here.
+ 7291: You can't fish without a rod in your hands.
+ 7292: You can't fish without bait on the hook.
+ 7293: You can't fish at the moment.
+ 7294: You didn't catch anything.
+ 7295: %0 caught a monster!
+ 7296: Your line breaks.
+ 7297: Your rod breaks.
+ 7298: Something caught the hook!
+ 7299: You lost your catch.
+ 7300: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7301: You feel there's something here.
+ 7302: You feel there's something nearby.
+ 7303: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7304: %0 caught $1 $0 !
+ 7305: You dig and you dig, but find nothing.
+ 7306: $0/$0p$3Z$3b$3g
+ 7307: Your rod breaks. Whatever caught the hook was pretty big.
+ 7308: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7309: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7310: You lost your catch due to your lack of skill.
+ 7311: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7312: You didn't catch anything.
+ 7313: The paper on your $0 ripped.
+ 7314: A tiny goldfish approaches!
+ 7315: A plump, black goldfish approaches!
+ 7316: A fat, juicy goldfish approaches!
+ 7317: There are no goldfish to be found...
+ 7318: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7319: The goldfish slipped off your scoop...
+ 7320: ch$0 skill up check.
+ 7321: a:$0.
+ 7322: Time $0 / Status $1 / $2
+ 7323: d:$0. e:$1. f:$2. g:$3.
+ 7324: h: $1. i: $0. sr: $2.
+ 7325: j:$0. k:$1.
+ 7326: You give up and reel in your line.
+ 7327: You give up.
+ 7328: %0 obtains $1 gil.
+ 7329: %0 caught $0!
+ 7330: You don't know how much longer you can keep this one on the line...
+ 7331: You have a good feeling about this one!
+ 7332: You have a bad feeling about this one.
+ 7333: You have a terrible feeling about this one...
+ 7334: You don't know if you have enough skill to reel this one in.
+ 7335: You're fairly sure you don't have enough skill to reel this one in.
+ 7336: You're positive you don't have enough skill to reel this one in!
+ 7337: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7338: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7339: l: $0. m: $1. n: $2. CH: $3.
+ 7340: Something caught the hook!!!
+ 7341: You feel something pulling at your line.
+ 7342: Something clamps onto your line ferociously!
+ 7343: Your keen angler's senses tell you that this is the pull of $0!
+ 7344: This strength... You get the sense that you are on the verge of an epic catch!
+ 7345: The timer has started. $0 seconds remaining.
+ 7346: $0sec.$1/$2sec.
+ 7347: 0:$0 1:$1 2:$2 3:$3
+ 7348: 4:$0 5:$1 6:$2 7:$3
+ 7349: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7350: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7351: $0/$1($2j
+ 7352: Version invalid error!
+ 7353: Hurry before the goldfish sees you!
+ 7354: %0 fishes up a large box!
+ 7355: $23$o$P122$8$0
+ 7356: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7357: PointF$0 >>> $1
+ 7358: [$1($0)/skillF$1]
+ 7359: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7360: Im Rnd : $0 Pz Rnd : $1
+ 7361: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7362: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7363: skill : $0 size : $1 kind : $2 sch : $3
+ 7364: time : $0 mes : $1 flag : $2 bonus : $3
+ 7365: item : $0 hp : $1 pow : $2 swing : $3
+ 7366: suc : $0 cons : $1 weight : $2 +- : $3
+ 7367: speed : $0 +- : $1 exc : $2 client : $3
+ 7368: general : $0
+ 7369: ro:$0 rs:$1 ps:$2 dt:$3
+ 7370: ra:$0 ti:$1
+ 7371: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7372: You get the distinct sense that your moogle friend frequents this spot...
+ 7373: You have a feeling that your moogle friend has been through this way...
+ 7374: You suspect that the scenery around here would be to a moogle's liking...
+ 7375: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7376: You have a hunch that this area would be favored by moogles...
+ 7377: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7378: %0 catches $1 $0 !
+ 7379: %0 obtained $6!
+ 7380: It appears your chocobo found this item with ease.
+ 7381: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7382: FPT $0 DPT $1 DoT$2
+ 7383: FPT $0 TDPT $1 h$2
+ 7384: You cannot fish at this time.
+ 7385: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7386: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7387: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7388: You receive $0 bayld!
+ 7389: Your chocobo refuses to partake of the $0.
+ 7390: There is nothing out of the ordinary here.
+ 7391: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7392: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7393: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7394: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7395: Now, listen close...
+ 7396: Oh... Well, if that's the case, I'm outta here.
+ 7397: The Goblin slipped away when you were not looking...
+ 7398: You can hear a strange, raspy voice...
+ 7399: I travel......hear lots... Hear...stories... Can tell...if...
+ 7400: .........listen......
+ 7401: Oh...... ...outta here.........
+ 7402: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7403: What story would you like to be told? [On second thought, maybe later./Descendants of a Line Lost./Tea with a Tonberry?/Calm Before the Storm./Aegis.]
  7404: 
  7405: 
- 7406: Logging is possible here if you have $0.
- 7407: Probability of loss = $3/10000.
- 7408: Your $7 breaks!
- 7409: You successfully cut off $0!
- 7410: You cut off $0, but your $7 breaks in the process.
- 7411: You are unable to log anything.
- 7412: You cannot carry any more items. Your inventory is full.
- 7413: Well, what have we here? An adventurer, by chance?
- 7414: I am Anguenet.
- 7415: My job here at the Carpenters' Landing is to make your short trip on the channel as enjoyable as possible.
- 7416: Shall I give you an idea of the different routes the barge follows?
- 7417: Hear an explanation of the routes? [That won't be necessary./The main canal./The Emfea Waterway./Newtpool.]
- 7418: We leave Central Landing and embark on a leisurely southern course for South Landing. Our route takes us through Newtpool, which as the name suggests, is literally squirming with newts.
- 7419: This is the birthplace of "frog-fishing," an activity requiring the use of live flies.
- 7420: The Newtpool route is extraordinarily popular with fisherman of all shapes and sizes all year round.
- 7421: Ah yes--if you happen to catch yourself a brownish newt, a $1, hand it over to my vertically challenged partner over there.
- 7422: He is a man of few words, but I can assure you his delicious charred newts reflect his unwavering devotion towards pleasing our customers.
- 7423: These mouthwatering delicacies are a treat for young and old. In particular, Mithran customers are always showering our diminutive chef with compliments, and pestering him for the names of his secret spices.
- 7424: We leave South Landing and head northwards to Central Landing through the narrow and winding Emfea Waterway. This is the most exciting route.
- 7425: At times, the barge comes to within several ilms of the cliffs on both sides, causing not a few sweaty palms among the passengers...
- 7426: But please, do not be alarmed. Our experienced captain is the best in the guild, and a safe journey is guaranteed.
- 7427: This waterway is the oldest part of the channel, and its depths teem with rare fish peculiar to this area.
- 7428: Those passengers that have come for a spot of fishing will not go home disappointed. The Emfea Waterway route is an experience not to be missed.
- 7429: We leave from South Landing and head for North Landing, following the main waterway of the Phanauet Channel. This is the longest of the three routes.
- 7430: This canal is the Phanauet Channel's newest and widest waterway.
- 7431: Its waters are used by the Carpenters' Guild to bring in wood and ship out processed lumber--week in, week out.
- 7432: Please pay careful attention to the eastern cliff. You will be able to witness the gentle waterfalls that are one of the main attractions of this route.
- 7433: This canal is also home to an abundant variety of fish, providing a distraction for even the novice fisherman.
- 7434: Enjoy the bounties of nature on the Carpenters' Guild barge.
- 7435: <Sniff...sniff...> $2...gil...
- 7436: ...Done...
- 7437: ...
- 7438: Hello, [sir/ma'am]! I'm selling goods direct from the Carpenters' Guild.
- 7439: Welcome to Carpenters' Landing.
- 7440: Barge tickets can be purchased for $2 gil. Will you be sailing with us today?
- 7441: Buy a ticket? [Yes./No.]
- 7442: Thank you, [sir/madame]. Enjoy your trip.
- 7443: Thank you for sailing with us. Enjoy your trip.
- 7444: I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket.
- 7445: If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing.
- 7446: The barge has arrived. Please purchase a ticket prior to boarding.
- 7447: The barge is about to depart. Please present your ticket for collection.
- 7448: You were refused passage for failing to present $6!
- 7449: Welcome to Carpenters' Landing.
- 7450: Barge tickets can be purchased for $2 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of $3 gil. Will you be sailing with us today?
- 7451: Purchase... [6 ($2 gil)./$6 ($3 gil)./Nothing today.]
- 7452: Thank you, [sir/madam]. I hope you enjoy sailing with us.
- 7453: You cannot buy more than one $3. Use the one you currently have to ride the next ship.
- 7454: Your $3 is valid for $4 more [trip/trips]. You do not need to purchase a new ticket at this time.
- 7455: Your $3 is valid for $4 more [trip/trips]. If you wish, you can purchase a new one for $3 gil.
- 7456: Purchase a new multi-ticket? [Yes ($3 gil)./No.]
- 7457: You use your $3. ($2 trip[/s] remaining)
- 7458: You use up your $3.
- 7459: $1 ticket[/s] [was/were] added to your $3.
- 7460: What's this? You wish to speak with the Tonberry on the barge?
- 7461: That may not be as easy as you think. These Tonberries were captured twenty years ago on their way to the Tavnazian Marquisate, and are not famous for their conversational skills.
- 7462: They were sent to assassinate the captain of the Tavnazian knights. However...
- 7463: The captain in question perished when Tavnazia was destroyed, and the Tonberries were seized as they milled about in confusion and indecision.
- 7464: Fear of incurring their rancor saved them from execution, and instead they were confined to an island prison.
- 7465: That island lies upstream from here, and its inhospitable sands were home to the Tonberries for twenty years.
- 7466: However, after the period of their sentence had passed, the court was surprised and dismayed to find them still very much alive.
- 7467: Although Tonberries are a southern species of beastmen, they are also unique among the fiends. And since they rarely communicate with other creatures, it was difficult to assess whether or not they had repented of their sins.
- 7468: A proposal was made by Count Teulomme, the owner of the lands on which Carpenter's Landing is built. Learning the method from a distant land, the count succeeded in communicating with the Tonberries.
- 7469: After this accomplishment, he proceeded to lay out his plan to employ the little beastmen as captains of the barge.
- 7470: The Carpenters' Guild would be ruined without this canal at its disposal. And since this is the source of Count Teulomme's wealth, he must do his utmost to protect it.
- 7471: Even the Orcs who had attacked the barge captains up until this point would be hesitant to tangle with a Tonberry.
- 7472: They work for a song compared to, say, Elvaan employees, and their knives have been dulled as a precaution.
- 7473: But my own salary has been reduced because of the usefulness of these diminutive fiends, and now I must find other ways to make ends meet...
- 7474: Which is why I ask you to bring me $1, and in exchange I will teach you the method for communicating with the Tonberries.
- 7475: Bring me $1 if you want to speak to the Tonberries.
- 7476: Your contribution is most appreciated. And here is my end of the bargain.
- 7477: This is the blackboard we use when communicating with the Tonberry, Riche.
- 7478: Riche rarely speaks, but he can be convinced to write a few words.
- 7479: Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to.
- 7480: The barge bound for [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] ($0 [minute/minutes] in Earth time).
- 7481: The ship bound for [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now [arriving/departing].
- 7482: The next barge will arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] ($0 [minute/minutes] in Earth time). However, it is out-of-service, and will not be accepting passengers.
- 7483: If you can wait, a barge bound for [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.
- 7484: Welcome to South Landing.
- 7485: Welcome to Central Landing.
- 7486: Welcome to North Landing.
- 7487: There is nothing out of the ordinary here.
- 7488: You are overwhelmed by the putrid stench of decay!
- 7489: O brothersss of rancor, take up thy knives.
- 7490: ...Cleave our foesss with barren hate.
- 7491: ..Take up thy lanternsss. The truth we shall illuminate.
- 7492: Through this we ssseek our just reward...
- 7493: You polish the $3 with the glowing mushroom spores!
- 7494: Bullheaded Grosvez pauses to catch his breath.
- 7495: There is nothing out of the ordinary here.
- 7496: You hear a voice from out of nowhere...
- 7497: You obtain $1 $0 !
- 7498: Come closer. Do not be afraid. I am $0, the impervious shield of everlasting.
- 7499: Thanks to you, I will once again be raised in the defense of a just cause. I am most grateful.
- 7500: All that remains is the rite of succession...
- 7501: ...Hmmm.
- 7502: You are to become the new bearer--the new servant--of $0...
- 7503: Your companions must place great trust in you, otherwise you would not have been chosen.
- 7504: Continue to treasure your friendships, and be willing to risk life and limb to protect them.
- 7505: Such has it always been. It is the duty given to the one who bears $0. Farewell, my successor...
- 7506: ...
- 7507: You have done well. Now I belong to you.
- 7508: Where will you bear me from here? To the heavens? To the pits of hell? Never fear, I will always be ready to defend you...
- 7509: There is a rotten mushroom here. There are 3 openings in its cap.
- 7510: Nothing happens.
- 7511: There is nothing here yet. Check again in the morning.
- 7512: The bark is sticky. The tree has already been plastered with the contents of $0.
- 7513: You smell something sweet.
- 7514: You did not catch anything.
- 7515: You plaster the contents of $0 on the tree.
- 7516: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7517: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7518: You have returned to the field of battle.
- 7519: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7520: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7521: You have only $0 [second/seconds] (Earth time) remaining.
- 7522: Your time for this Confrontation is up...
- 7523: The monster fades before your eyes, a look of disappointment on its face.
- 7524: (Test message.)
- 7525: Enter the garrison? [Yes./No.]
- 7526: The $3 is ripped violently to pieces!
- 7527: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7528: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7529: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7530: Our foe advances...may thine aim be true!
- 7531: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7532: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7533: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7534: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7535: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7536: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7537: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7538: Greetings, traveler! How dost thou fare in thine adventures?
- 7539: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7540: Dost thou find this enchantment to thy liking?
- 7541: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7542: Splendid! May it serve thee well.
- 7543: %0 obtained $0!
- 7544: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7545: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7546: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7547: Though it may fall short of thy expectations, pray accept it.
- 7548: Otherwise, we shall have no choice but to dispose of it.
- 7549: Many thanks for thine assistance!
- 7550: Pray accept this $0 as but a humble token of our gratitude.
- 7551: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7552: $3f$3o$3b$3O$590643$3$3NM
- 7553: $3f$3o$3b$3O$201475X$3^$3243853
- 7554: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
- 7555: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
- 7556: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
- 7557: You are not the party leader.
- 7558: Some members of your party/alliance are not in the appropriate staging zone.
- 7559: You must have at least $0 people in your party/alliance to participate.
- 7560: One or more party/alliance members have not accepted the objective for $0.
- 7561: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
- 7562: One or more party/alliance members have not yet received their additional rewards for completing $0.
- 7563: Unable to commence Wanted battle
- 7564: One or more party/alliance members has a fellow active.
- 7565: One or more party/alliance members has an alter ego active.
- 7566: One or more party/alliance members is already participating in other content.
- 7567: One or more party/alliance members is currently viewing a cut scene.
- 7568: $0 has been removed. Reselect the objective and try again.
- 7569: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
- 7570: Your party leader is attempting to commence a Wanted battle.
- 7571: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
- 7572: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
- 7573: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7574: No one in your party has set the appropriate Records of Eminence objective.
- 7575: $0 will be active the next time you join this battle.
- 7576: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7577: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7578: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7579: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7580: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 7581: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 7582: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 7583: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7584: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 7585: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 7586: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 7587: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 7588: You do not have enough tabs.
- 7589: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 7590: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 7591: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 7592: Accept the reward? [Yes, please./No, thanks.]
- 7593: You may change the way you select areas listed in "Teleportation Assistance."
- 7594: Any changes to make? [Keep course./Select by region./Select by content.]
- 7595: Area selection will now be made by [region/content].
- 7596: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 7597: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7598: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 7599: $8 has been [added to your list of favorites/removed from your list of favorites].
- 7600: Your list of favorites is full. You must remove an existing entry to add new ones.
- 7601: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 7406: 
+ 7407: Logging is possible here if you have $0.
+ 7408: Probability of loss = $3/10000.
+ 7409: Your $7 breaks!
+ 7410: You successfully cut off $0!
+ 7411: You cut off $0, but your $7 breaks in the process.
+ 7412: You are unable to log anything.
+ 7413: You cannot carry any more items. Your inventory is full.
+ 7414: Well, what have we here? An adventurer, by chance?
+ 7415: I am Anguenet.
+ 7416: My job here at the Carpenters' Landing is to make your short trip on the channel as enjoyable as possible.
+ 7417: Shall I give you an idea of the different routes the barge follows?
+ 7418: Hear an explanation of the routes? [That won't be necessary./The main canal./The Emfea Waterway./Newtpool.]
+ 7419: We leave Central Landing and embark on a leisurely southern course for South Landing. Our route takes us through Newtpool, which as the name suggests, is literally squirming with newts.
+ 7420: This is the birthplace of "frog-fishing," an activity requiring the use of live flies.
+ 7421: The Newtpool route is extraordinarily popular with fisherman of all shapes and sizes all year round.
+ 7422: Ah yes--if you happen to catch yourself a brownish newt, a $1, hand it over to my vertically challenged partner over there.
+ 7423: He is a man of few words, but I can assure you his delicious charred newts reflect his unwavering devotion towards pleasing our customers.
+ 7424: These mouthwatering delicacies are a treat for young and old. In particular, Mithran customers are always showering our diminutive chef with compliments, and pestering him for the names of his secret spices.
+ 7425: We leave South Landing and head northwards to Central Landing through the narrow and winding Emfea Waterway. This is the most exciting route.
+ 7426: At times, the barge comes to within several ilms of the cliffs on both sides, causing not a few sweaty palms among the passengers...
+ 7427: But please, do not be alarmed. Our experienced captain is the best in the guild, and a safe journey is guaranteed.
+ 7428: This waterway is the oldest part of the channel, and its depths teem with rare fish peculiar to this area.
+ 7429: Those passengers that have come for a spot of fishing will not go home disappointed. The Emfea Waterway route is an experience not to be missed.
+ 7430: We leave from South Landing and head for North Landing, following the main waterway of the Phanauet Channel. This is the longest of the three routes.
+ 7431: This canal is the Phanauet Channel's newest and widest waterway.
+ 7432: Its waters are used by the Carpenters' Guild to bring in wood and ship out processed lumber--week in, week out.
+ 7433: Please pay careful attention to the eastern cliff. You will be able to witness the gentle waterfalls that are one of the main attractions of this route.
+ 7434: This canal is also home to an abundant variety of fish, providing a distraction for even the novice fisherman.
+ 7435: Enjoy the bounties of nature on the Carpenters' Guild barge.
+ 7436: <Sniff...sniff...> $2...gil...
+ 7437: ...Done...
+ 7438: ...
+ 7439: Hello, [sir/ma'am]! I'm selling goods direct from the Carpenters' Guild.
+ 7440: Welcome to Carpenters' Landing.
+ 7441: Barge tickets can be purchased for $2 gil. Will you be sailing with us today?
+ 7442: Buy a ticket? [Yes./No.]
+ 7443: Thank you, [sir/madame]. Enjoy your trip.
+ 7444: Thank you for sailing with us. Enjoy your trip.
+ 7445: I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket.
+ 7446: If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing.
+ 7447: The barge has arrived. Please purchase a ticket prior to boarding.
+ 7448: The barge is about to depart. Please present your ticket for collection.
+ 7449: You were refused passage for failing to present $6!
+ 7450: Welcome to Carpenters' Landing.
+ 7451: Barge tickets can be purchased for $2 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of $3 gil. Will you be sailing with us today?
+ 7452: Purchase... [6 ($2 gil)./$6 ($3 gil)./Nothing today.]
+ 7453: Thank you, [sir/madam]. I hope you enjoy sailing with us.
+ 7454: You cannot buy more than one $3. Use the one you currently have to ride the next ship.
+ 7455: Your $3 is valid for $4 more [trip/trips]. You do not need to purchase a new ticket at this time.
+ 7456: Your $3 is valid for $4 more [trip/trips]. If you wish, you can purchase a new one for $3 gil.
+ 7457: Purchase a new multi-ticket? [Yes ($3 gil)./No.]
+ 7458: You use your $3. ($2 trip[/s] remaining)
+ 7459: You use up your $3.
+ 7460: $1 ticket[/s] [was/were] added to your $3.
+ 7461: What's this? You wish to speak with the Tonberry on the barge?
+ 7462: That may not be as easy as you think. These Tonberries were captured twenty years ago on their way to the Tavnazian Marquisate, and are not famous for their conversational skills.
+ 7463: They were sent to assassinate the captain of the Tavnazian knights. However...
+ 7464: The captain in question perished when Tavnazia was destroyed, and the Tonberries were seized as they milled about in confusion and indecision.
+ 7465: Fear of incurring their rancor saved them from execution, and instead they were confined to an island prison.
+ 7466: That island lies upstream from here, and its inhospitable sands were home to the Tonberries for twenty years.
+ 7467: However, after the period of their sentence had passed, the court was surprised and dismayed to find them still very much alive.
+ 7468: Although Tonberries are a southern species of beastmen, they are also unique among the fiends. And since they rarely communicate with other creatures, it was difficult to assess whether or not they had repented of their sins.
+ 7469: A proposal was made by Count Teulomme, the owner of the lands on which Carpenter's Landing is built. Learning the method from a distant land, the count succeeded in communicating with the Tonberries.
+ 7470: After this accomplishment, he proceeded to lay out his plan to employ the little beastmen as captains of the barge.
+ 7471: The Carpenters' Guild would be ruined without this canal at its disposal. And since this is the source of Count Teulomme's wealth, he must do his utmost to protect it.
+ 7472: Even the Orcs who had attacked the barge captains up until this point would be hesitant to tangle with a Tonberry.
+ 7473: They work for a song compared to, say, Elvaan employees, and their knives have been dulled as a precaution.
+ 7474: But my own salary has been reduced because of the usefulness of these diminutive fiends, and now I must find other ways to make ends meet...
+ 7475: Which is why I ask you to bring me $1, and in exchange I will teach you the method for communicating with the Tonberries.
+ 7476: Bring me $1 if you want to speak to the Tonberries.
+ 7477: Your contribution is most appreciated. And here is my end of the bargain.
+ 7478: This is the blackboard we use when communicating with the Tonberry, Riche.
+ 7479: Riche rarely speaks, but he can be convinced to write a few words.
+ 7480: Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to.
+ 7481: The barge bound for [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] ($0 [minute/minutes] in Earth time).
+ 7482: The ship bound for [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now [arriving/departing].
+ 7483: The next barge will arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] ($0 [minute/minutes] in Earth time). However, it is out-of-service, and will not be accepting passengers.
+ 7484: If you can wait, a barge bound for [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.
+ 7485: Welcome to South Landing.
+ 7486: Welcome to Central Landing.
+ 7487: Welcome to North Landing.
+ 7488: There is nothing out of the ordinary here.
+ 7489: You are overwhelmed by the putrid stench of decay!
+ 7490: O brothersss of rancor, take up thy knives.
+ 7491: ...Cleave our foesss with barren hate.
+ 7492: ..Take up thy lanternsss. The truth we shall illuminate.
+ 7493: Through this we ssseek our just reward...
+ 7494: You polish the $3 with the glowing mushroom spores!
+ 7495: Bullheaded Grosvez pauses to catch his breath.
+ 7496: There is nothing out of the ordinary here.
+ 7497: You hear a voice from out of nowhere...
+ 7498: You obtain $1 $0 !
+ 7499: Come closer. Do not be afraid. I am $0, the impervious shield of everlasting.
+ 7500: Thanks to you, I will once again be raised in the defense of a just cause. I am most grateful.
+ 7501: All that remains is the rite of succession...
+ 7502: ...Hmmm.
+ 7503: You are to become the new bearer--the new servant--of $0...
+ 7504: Your companions must place great trust in you, otherwise you would not have been chosen.
+ 7505: Continue to treasure your friendships, and be willing to risk life and limb to protect them.
+ 7506: Such has it always been. It is the duty given to the one who bears $0. Farewell, my successor...
+ 7507: ...
+ 7508: You have done well. Now I belong to you.
+ 7509: Where will you bear me from here? To the heavens? To the pits of hell? Never fear, I will always be ready to defend you...
+ 7510: There is a rotten mushroom here. There are 3 openings in its cap.
+ 7511: Nothing happens.
+ 7512: There is nothing here yet. Check again in the morning.
+ 7513: The bark is sticky. The tree has already been plastered with the contents of $0.
+ 7514: You smell something sweet.
+ 7515: You did not catch anything.
+ 7516: You plaster the contents of $0 on the tree.
+ 7517: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7518: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7519: You have returned to the field of battle.
+ 7520: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7521: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7522: You have only $0 [second/seconds] (Earth time) remaining.
+ 7523: Your time for this Confrontation is up...
+ 7524: The monster fades before your eyes, a look of disappointment on its face.
+ 7525: (Test message.)
+ 7526: Enter the garrison? [Yes./No.]
+ 7527: The $3 is ripped violently to pieces!
+ 7528: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7529: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7530: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7531: Our foe advances...may thine aim be true!
+ 7532: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7533: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7534: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7535: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7536: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7537: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7538: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7539: Greetings, traveler! How dost thou fare in thine adventures?
+ 7540: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7541: Dost thou find this enchantment to thy liking?
+ 7542: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7543: Splendid! May it serve thee well.
+ 7544: %0 obtained $0!
+ 7545: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7546: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7547: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7548: Though it may fall short of thy expectations, pray accept it.
+ 7549: Otherwise, we shall have no choice but to dispose of it.
+ 7550: Many thanks for thine assistance!
+ 7551: Pray accept this $0 as but a humble token of our gratitude.
+ 7552: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7553: $3f$3o$3b$3O$590643$3$3NM
+ 7554: $3f$3o$3b$3O$201475X$3^$3243853
+ 7555: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
+ 7556: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
+ 7557: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
+ 7558: You are not the party leader.
+ 7559: Some members of your party/alliance are not in the appropriate staging zone.
+ 7560: You must have at least $0 people in your party/alliance to participate.
+ 7561: One or more party/alliance members have not accepted the objective for $0.
+ 7562: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
+ 7563: One or more party/alliance members have not yet received their additional rewards for completing $0.
+ 7564: Unable to commence Wanted battle
+ 7565: One or more party/alliance members has a fellow active.
+ 7566: One or more party/alliance members has an alter ego active.
+ 7567: One or more party/alliance members is already participating in other content.
+ 7568: One or more party/alliance members is currently viewing a cut scene.
+ 7569: $0 has been removed. Reselect the objective and try again.
+ 7570: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
+ 7571: Your party leader is attempting to commence a Wanted battle.
+ 7572: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
+ 7573: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
+ 7574: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7575: No one in your party has set the appropriate Records of Eminence objective.
+ 7576: $0 will be active the next time you join this battle.
+ 7577: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7578: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7579: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7580: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7581: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 7582: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 7583: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 7584: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7585: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 7586: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 7587: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 7588: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 7589: You do not have enough tabs.
+ 7590: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 7591: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 7592: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 7593: Accept the reward? [Yes, please./No, thanks.]
+ 7594: You may change the way you select areas listed in "Teleportation Assistance."
+ 7595: Any changes to make? [Keep course./Select by region./Select by content.]
+ 7596: Area selection will now be made by [region/content].
+ 7597: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 7598: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7599: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 7600: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 7601: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 7602: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

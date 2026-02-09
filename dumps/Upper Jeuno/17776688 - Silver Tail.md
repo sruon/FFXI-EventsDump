@@ -31,14 +31,14 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x1DC7      |        7623 |
+|       1 | 0x1DC8      |        7624 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1DC8      |        7624 |
+|       3 | 0x1DC9      |        7625 |
 
 ## String References
 
-- **7623**: The master of this chocobo stable is famous! It is an honor to ride a bird here.
-- **7624**: I want to have one of the chocobos for my own, but the master's stubborn! I wonder if he'll ever say yes.
+- **7624**: The master of this chocobo stable is famous! It is an honor to ride a bird here.
+- **7625**: I want to have one of the chocobos for my own, but the master's stubborn! I wonder if he'll ever say yes.
 
 ## Events
 
@@ -157,7 +157,7 @@
   1: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x000B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7623*)
+  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7624*)
     → "The master of this chocobo stable is famous! It is an honor to ride a bird here."
   5: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -166,7 +166,7 @@
   9: 0x002B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x002C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x002D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=60*
- 12: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7624*)
+ 12: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
     → "I want to have one of the chocobos for my own, but the master's stubborn! I wonder if he'll ever say yes."
  13: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0040 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]

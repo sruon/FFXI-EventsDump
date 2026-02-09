@@ -89,22 +89,22 @@
 |      19 | 0x01BF      |         447 |
 |      20 | 0x01E8      |         488 |
 |      21 | 0x01E9      |         489 |
-|      22 | 0x1FBA      |        8122 |
-|      23 | 0x1FBB      |        8123 |
-|      24 | 0x1FC2      |        8130 |
-|      25 | 0x1FC3      |        8131 |
-|      26 | 0x1FD6      |        8150 |
-|      27 | 0x1FDD      |        8157 |
-|      28 | 0x1FDE      |        8158 |
-|      29 | 0x2071      |        8305 |
-|      30 | 0x2072      |        8306 |
-|      31 | 0x2085      |        8325 |
-|      32 | 0x2086      |        8326 |
-|      33 | 0x2103      |        8451 |
-|      34 | 0x2105      |        8453 |
-|      35 | 0x2106      |        8454 |
-|      36 | 0x215F      |        8543 |
-|      37 | 0x2160      |        8544 |
+|      22 | 0x1FBB      |        8123 |
+|      23 | 0x1FBC      |        8124 |
+|      24 | 0x1FC3      |        8131 |
+|      25 | 0x1FC4      |        8132 |
+|      26 | 0x1FD7      |        8151 |
+|      27 | 0x1FDE      |        8158 |
+|      28 | 0x1FDF      |        8159 |
+|      29 | 0x2072      |        8306 |
+|      30 | 0x2073      |        8307 |
+|      31 | 0x2086      |        8326 |
+|      32 | 0x2087      |        8327 |
+|      33 | 0x2104      |        8452 |
+|      34 | 0x2106      |        8454 |
+|      35 | 0x2107      |        8455 |
+|      36 | 0x2160      |        8544 |
+|      37 | 0x2161      |        8545 |
 
 ## String References
 
@@ -125,22 +125,22 @@
 - **447**: The decision of the ministers keeps me from participating in any battle, but an adventurer like you...
 - **488**: I applaud you on your efforts in the Northlands. You are the pride of Windurst!
 - **489**: It is rrregrettable that you cannot be publicly honored for your deeds, but the Sibyl Guards all commend you on what you have accomplished for Windurst.
-- **8122**: Now that the Shadow Lord, King of the beastmen, has been defeated, it is time for the people of Vana'diel to rrrise again. To keep ahead of other nations, we must first stabilize our own country...
-- **8123**: Leave the prrroblems of Windurst in the hands of the Sibyl Guards. You need to be keeping an eye on the progress of our rrrival countries. It is not unthinkable that certain elements could be plotting against us.
-- **8130**: After the defeat of the Shadow Lord, I thought there would be a change in attitude from the Yagudo. However, Castle Oztroja continues to maintain its silence.
-- **8131**: This silence is verrry unsettling. I wonder if they still have another card left to play?
-- **8150**: Proceed to the door in the back.
-- **8157**: The Shadow Lord has fallen, but the beastmen are still stirring.
-- **8158**: They will embrace a new leader and turn their predatory gaze towards us once more. We must keep our skills sharp for the next uprising.
-- **8305**: I, I feel so useless...
-- **8306**: Our best attacks merely rrrebounded off that thing. So this is what it feels like to be completely outmatched...
-- **8325**: For some reason or another, that Joker Cardian and the bearer of darkness seem to share the same kind of aura.
-- **8326**: I can't really explain it very well, but I think Semih Lafihna underrrstands what I mean.
-- **8451**: Semih Lafihna awaits you in the Vestal Chamber.
-- **8453**: Let us join our strength and change the flow of fate.
-- **8454**: A need to fight comes from one's own weakness. A weakness born from lack of rrresolve, impatience, and fear. We must rrrise above all these to grasp a higher power.
-- **8543**: Semih Lafihna and Chieftainness Perih Vashai have been holding talks on what to do concerning the Yagudo.
-- **8544**: Things probably won't change for a while yet. A prrrotracted battle is the same as a defeat. First we need to increase our military strength.
+- **8123**: Now that the Shadow Lord, King of the beastmen, has been defeated, it is time for the people of Vana'diel to rrrise again. To keep ahead of other nations, we must first stabilize our own country...
+- **8124**: Leave the prrroblems of Windurst in the hands of the Sibyl Guards. You need to be keeping an eye on the progress of our rrrival countries. It is not unthinkable that certain elements could be plotting against us.
+- **8131**: After the defeat of the Shadow Lord, I thought there would be a change in attitude from the Yagudo. However, Castle Oztroja continues to maintain its silence.
+- **8132**: This silence is verrry unsettling. I wonder if they still have another card left to play?
+- **8151**: Proceed to the door in the back.
+- **8158**: The Shadow Lord has fallen, but the beastmen are still stirring.
+- **8159**: They will embrace a new leader and turn their predatory gaze towards us once more. We must keep our skills sharp for the next uprising.
+- **8306**: I, I feel so useless...
+- **8307**: Our best attacks merely rrrebounded off that thing. So this is what it feels like to be completely outmatched...
+- **8326**: For some reason or another, that Joker Cardian and the bearer of darkness seem to share the same kind of aura.
+- **8327**: I can't really explain it very well, but I think Semih Lafihna underrrstands what I mean.
+- **8452**: Semih Lafihna awaits you in the Vestal Chamber.
+- **8454**: Let us join our strength and change the flow of fate.
+- **8455**: A need to fight comes from one's own weakness. A weakness born from lack of rrresolve, impatience, and fear. We must rrrise above all these to grasp a higher power.
+- **8544**: Semih Lafihna and Chieftainness Perih Vashai have been holding talks on what to do concerning the Yagudo.
+- **8545**: Things probably won't change for a while yet. A prrrotracted battle is the same as a defeat. First we need to increase our military strength.
 
 ## Events
 
@@ -1194,10 +1194,10 @@
   0: 0x0243 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0248 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0249 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
+  3: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
     → "Now that the Shadow Lord, King of the beastmen, has been defeated, it is time for the people of Vana'diel to rrrise again. To keep ahead of other nations, we must first stabilize our own country..."
   4: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+  5: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Leave the prrroblems of Windurst in the hands of the Sibyl Guards. You need to be keeping an eye on the progress of our rrrival countries. It is not unthinkable that certain elements could be plotting against us."
   6: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0252 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1228,10 +1228,10 @@
   0: 0x0256 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x025B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x025C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+  3: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "After the defeat of the Shadow Lord, I thought there would be a change in attitude from the Yagudo. However, Castle Oztroja continues to maintain its silence."
   4: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  5: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "This silence is verrry unsettling. I wonder if they still have another card left to play?"
   6: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0265 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1264,7 +1264,7 @@
   1: 0x026E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x026F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0270 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x13)
-  4: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=8150*)
+  4: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=8151*)
     → "Proceed to the door in the back."
   5: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x027B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x14)
@@ -1296,10 +1296,10 @@
   0: 0x0286 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x028B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x028C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=8157*)
+  3: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
     → "The Shadow Lord has fallen, but the beastmen are still stirring."
   4: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
+  5: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
     → "They will embrace a new leader and turn their predatory gaze towards us once more. We must keep our skills sharp for the next uprising."
   6: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0295 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1330,10 +1330,10 @@
   0: 0x0299 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x029E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x029F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
+  3: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
     → "I, I feel so useless..."
   4: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
+  5: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
     → "Our best attacks merely rrrebounded off that thing. So this is what it feels like to be completely outmatched..."
   6: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02A8 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1364,10 +1364,10 @@
   0: 0x02AC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8325*)
+  3: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
     → "For some reason or another, that Joker Cardian and the bearer of darkness seem to share the same kind of aura."
   4: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
+  5: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
     → "I can't really explain it very well, but I think Semih Lafihna underrrstands what I mean."
   6: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02BB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1400,7 +1400,7 @@
   1: 0x02C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x13)
-  4: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8451*)
+  4: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8452*)
     → "Semih Lafihna awaits you in the Vestal Chamber."
   5: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x14)
@@ -1432,10 +1432,10 @@
   0: 0x02DC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02E1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x02E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8453*)
+  3: 0x02E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8454*)
     → "Let us join our strength and change the flow of fate."
   4: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8454*)
+  5: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8455*)
     → "A need to fight comes from one's own weakness. A weakness born from lack of rrresolve, impatience, and fear. We must rrrise above all these to grasp a higher power."
   6: 0x02EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02EB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1467,10 +1467,10 @@
   0: 0x02EF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8543*)
+  3: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8544*)
     → "Semih Lafihna and Chieftainness Perih Vashai have been holding talks on what to do concerning the Yagudo."
   4: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8544*)
+  5: 0x02FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8545*)
     → "Things probably won't change for a while yet. A prrrotracted battle is the same as a defeat. First we need to increase our military strength."
   6: 0x02FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02FE [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

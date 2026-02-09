@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DF3      |        7667 |
-|       1 | 0x1DF4      |        7668 |
-|       2 | 0x1DF5      |        7669 |
-|       3 | 0x1DF6      |        7670 |
-|       4 | 0x1DF7      |        7671 |
-|       5 | 0x1DF8      |        7672 |
+|       0 | 0x1DF4      |        7668 |
+|       1 | 0x1DF5      |        7669 |
+|       2 | 0x1DF6      |        7670 |
+|       3 | 0x1DF7      |        7671 |
+|       4 | 0x1DF8      |        7672 |
+|       5 | 0x1DF9      |        7673 |
 
 ## String References
 
-- **7667**: You see a message engraved on the stone:
-- **7668**: These woods of Ronfaure have long been hunting grounds of the Elvaan royalty, and as such are maintained well.
-- **7669**: I came here to see the bravery of the participants in the great autumn hunt, but sadly it was a somber ceremonial affair with little to see.
-- **7670**: I am certain that this stems from the choice of quarry: no longer do they hunt fowl or deer. Rather, giant sheep are released expressly for the hunt.
-- **7671**: As I write this, I pray that the gluttonous grazing of these voracious sheep does not destroy the delicate balance of life in these woods.
-- **7672**: --Gwynham Ironheart, 751 Crystal Era.
+- **7668**: You see a message engraved on the stone:
+- **7669**: These woods of Ronfaure have long been hunting grounds of the Elvaan royalty, and as such are maintained well.
+- **7670**: I came here to see the bravery of the participants in the great autumn hunt, but sadly it was a somber ceremonial affair with little to see.
+- **7671**: I am certain that this stems from the choice of quarry: no longer do they hunt fowl or deer. Rather, giant sheep are released expressly for the hunt.
+- **7672**: As I write this, I pray that the gluttonous grazing of these voracious sheep does not destroy the delicate balance of life in these woods.
+- **7673**: --Gwynham Ironheart, 751 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7667*]:
+  0: 0x0001 [0x48] [System] [7668*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7668*]:
+  2: 0x0005 [0x48] [System] [7669*]:
     → "These woods of Ronfaure have long been hunting grounds of the Elvaan royalty, and as such are maintained well."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7669*]:
+  4: 0x0009 [0x48] [System] [7670*]:
     → "I came here to see the bravery of the participants in the great autumn hunt, but sadly it was a somber ceremonial affair with little to see."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7670*]:
+  6: 0x000D [0x48] [System] [7671*]:
     → "I am certain that this stems from the choice of quarry: no longer do they hunt fowl or deer. Rather, giant sheep are released expressly for the hunt."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7671*]:
+  8: 0x0011 [0x48] [System] [7672*]:
     → "As I write this, I pray that the gluttonous grazing of these voracious sheep does not destroy the delicate balance of life in these woods."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7672*]:
+ 10: 0x0015 [0x48] [System] [7673*]:
     → "--Gwynham Ironheart, 751 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

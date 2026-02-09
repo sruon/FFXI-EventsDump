@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C70      |        7280 |
+|       0 | 0x1C71      |        7281 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -31,7 +31,7 @@
 |       8 | 0x0008      |           8 |
 |       9 | 0x0009      |           9 |
 |      10 | 0x000B      |          11 |
-|      11 | 0x1C71      |        7281 |
+|      11 | 0x1C72      |        7282 |
 |      12 | 0x0005      |           5 |
 |      13 | 0x0006      |           6 |
 |      14 | 0x0007      |           7 |
@@ -39,7 +39,7 @@
 |      16 | 0x07B9      |        1977 |
 |      17 | 0x07BA      |        1978 |
 |      18 | 0x07BB      |        1979 |
-|      19 | 0x1C7C      |        7292 |
+|      19 | 0x1C7D      |        7293 |
 |      20 | 0x000D      |          13 |
 |      21 | 0x0011      |          17 |
 |      22 | 0x001A      |          26 |
@@ -457,9 +457,9 @@
 
 ## String References
 
-- **7280**: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
-- **7281**: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
-- **7292**: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+- **7281**: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+- **7282**: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+- **7293**: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
 
 ## Events
 
@@ -628,7 +628,7 @@
 
 ```
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7280*, default_option=0*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
     → "Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001C
@@ -771,7 +771,7 @@ SUBROUTINE_01F8:
 
 SUBROUTINE_02BF:
 126: 0x02BF [0x06] Work_Zone[1] = 0
-127: 0x02C2 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+127: 0x02C2 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
     → "Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]"
 128: 0x02C9 [0x25] WAIT_DIALOG_SELECT()
 129: 0x02CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DA
@@ -835,7 +835,7 @@ SUBROUTINE_039A:
 175: 0x03A7 [0x06] Work_Zone[5] = 0
 
 SUBROUTINE_03AA:
-176: 0x03AA [0x24] CREATE_DIALOG(message_id=7292*, default_option=0*, option_flags=0*)
+176: 0x03AA [0x24] CREATE_DIALOG(message_id=7293*, default_option=0*, option_flags=0*)
     → "Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]"
 177: 0x03B1 [0x25] WAIT_DIALOG_SELECT()
 178: 0x03B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03CA

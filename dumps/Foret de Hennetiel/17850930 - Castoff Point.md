@@ -25,12 +25,12 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0877      |        2167 |
 |       2 | 0x089D      |        2205 |
-|       3 | 0x1F0F      |        7951 |
+|       3 | 0x1F10      |        7952 |
 |       4 | 0x0004      |           4 |
-|       5 | 0x1F12      |        7954 |
+|       5 | 0x1F13      |        7955 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1F14      |        7956 |
-|       8 | 0x1F15      |        7957 |
+|       7 | 0x1F15      |        7957 |
+|       8 | 0x1F16      |        7958 |
 |       9 | 0x0005      |           5 |
 |      10 | 0x0064      |         100 |
 |      11 | 0x0065      |         101 |
@@ -69,7 +69,7 @@
 |      44 | 0x23D04     |      146692 |
 |      45 | 0xFFFFFF1E  |  4294967070 |
 |      46 | 0x0D4D      |        3405 |
-|      47 | 0x1F13      |        7955 |
+|      47 | 0x1F14      |        7956 |
 |      48 | 0x6DDD0     |      450000 |
 |      49 | 0xFFFF2928  |  4294912296 |
 |      50 | 0xFFFFFC7C  |  4294966396 |
@@ -88,19 +88,19 @@
 |      63 | 0x0078      |         120 |
 |      64 | 0x001E      |          30 |
 |      65 | 0x00A0      |         160 |
-|      66 | 0x1F11      |        7953 |
+|      66 | 0x1F12      |        7954 |
 |      67 | 0xFFFFF800  |  4294965248 |
 |      68 | 0x005A      |          90 |
 |      69 | 0x014A      |         330 |
 
 ## String References
 
-- **7951**: You should be able to head [to the other side/over there] if you have the $3 and $3.
-- **7953**: This river is not suitable for swimming.
-- **7954**: Head [for the other side/over there]? [Yes./No./Dive right in.]
-- **7955**: Gah! You lost control of your boat, sending you spiralling downstream!
-- **7956**: Head in which direction? [Upstream./Downstream.]
-- **7957**: You cannot proceed any farther [upstream/downstream].
+- **7952**: You should be able to head [to the other side/over there] if you have the $3 and $3.
+- **7954**: This river is not suitable for swimming.
+- **7955**: Head [for the other side/over there]? [Yes./No./Dive right in.]
+- **7956**: Gah! You lost control of your boat, sending you spiralling downstream!
+- **7957**: Head in which direction? [Upstream./Downstream.]
+- **7958**: You cannot proceed any farther [upstream/downstream].
 
 ## Events
 
@@ -187,7 +187,7 @@
   0: 0x0001 [0x03] Work_Zone[4] = 0*
   1: 0x0006 [0x03] Work_Zone[6] = 2167*
   2: 0x000B [0x03] Work_Zone[5] = 2205*
-  3: 0x0010 [0x48] [System] [7951*]:
+  3: 0x0010 [0x48] [System] [7952*]:
     → "You should be able to head [to the other side/over there] if you have the $3 and $3."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x03] Work_Zone[4] = 0*
@@ -197,18 +197,18 @@
   9: 0x0029 [0x03] Work_Zone[3] = 0*
 
 SUBROUTINE_002E:
- 10: 0x002E [0x24] CREATE_DIALOG(message_id=7954*, default_option=0*, option_flags=Work_Zone[3])
+ 10: 0x002E [0x24] CREATE_DIALOG(message_id=7955*, default_option=0*, option_flags=Work_Zone[3])
     → "Head [for the other side/over there]? [Yes./No./Dive right in.]"
  11: 0x0035 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0036 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
  13: 0x003E [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0084
  14: 0x0046 [0x03] Work_Zone[3] = 1*
- 15: 0x004B [0x24] CREATE_DIALOG(message_id=7956*, default_option=0*, option_flags=0*)
+ 15: 0x004B [0x24] CREATE_DIALOG(message_id=7957*, default_option=0*, option_flags=0*)
     → "Head in which direction? [Upstream./Downstream.]"
  16: 0x0052 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0069
  18: 0x005B [0x03] Work_Zone[2] = 0*
- 19: 0x0060 [0x48] [System] [7957*]:
+ 19: 0x0060 [0x48] [System] [7958*]:
     → "You cannot proceed any farther [upstream/downstream]."
  20: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0064 [0x21] END_EVENT
@@ -218,7 +218,7 @@ SUBROUTINE_0081:
  23: 0x0081 [0x01] GOTO 0x012D
  24: 0x0084 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x00CA
  25: 0x008C [0x03] Work_Zone[3] = 4*
- 26: 0x0091 [0x24] CREATE_DIALOG(message_id=7956*, default_option=0*, option_flags=0*)
+ 26: 0x0091 [0x24] CREATE_DIALOG(message_id=7957*, default_option=0*, option_flags=0*)
     → "Head in which direction? [Upstream./Downstream.]"
  27: 0x0098 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0099 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B1
@@ -230,7 +230,7 @@ SUBROUTINE_0081:
  34: 0x00AE [0x01] GOTO 0x00C7
  35: 0x00B1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00C7
  36: 0x00B9 [0x03] Work_Zone[2] = 1*
- 37: 0x00BE [0x48] [System] [7957*]:
+ 37: 0x00BE [0x48] [System] [7958*]:
     → "You cannot proceed any farther [upstream/downstream]."
  38: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00C2 [0x21] END_EVENT
@@ -245,7 +245,7 @@ SUBROUTINE_00C7:
  46: 0x00E2 [0x03] Work_Zone[3] = 100*
  47: 0x00E7 [0x01] GOTO 0x012D
  48: 0x00EA [0x03] Work_Zone[3] = Work_Zone[2]
- 49: 0x00EF [0x24] CREATE_DIALOG(message_id=7956*, default_option=0*, option_flags=0*)
+ 49: 0x00EF [0x24] CREATE_DIALOG(message_id=7957*, default_option=0*, option_flags=0*)
     → "Head in which direction? [Upstream./Downstream.]"
  50: 0x00F6 [0x25] WAIT_DIALOG_SELECT()
  51: 0x00F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0112
@@ -372,14 +372,14 @@ SUBROUTINE_0277:
   0: 0x0279 [0x03] Work_Zone[4] = 0*
   1: 0x027E [0x03] Work_Zone[6] = 2167*
   2: 0x0283 [0x03] Work_Zone[5] = 2205*
-  3: 0x0288 [0x48] [System] [7951*]:
+  3: 0x0288 [0x48] [System] [7952*]:
     → "You should be able to head [to the other side/over there] if you have the $3 and $3."
   4: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x028C [0x03] Work_Zone[4] = 0*
   6: 0x0291 [0x02] IF !(Work_Zone[3] <= 0*) GOTO 0x029C
   7: 0x0299 [0x01] GOTO 0x0339
   8: 0x029C [0x03] Work_Zone[3] = 1*
-  9: 0x02A1 [0x24] CREATE_DIALOG(message_id=7954*, default_option=0*, option_flags=Work_Zone[3])
+  9: 0x02A1 [0x24] CREATE_DIALOG(message_id=7955*, default_option=0*, option_flags=Work_Zone[3])
     → "Head [for the other side/over there]? [Yes./No./Dive right in.]"
  10: 0x02A8 [0x25] WAIT_DIALOG_SELECT()
  11: 0x02A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B9
@@ -521,7 +521,7 @@ SUBROUTINE_0339:
   0: 0x033B [0x03] Work_Zone[4] = 0*
   1: 0x0340 [0x03] Work_Zone[6] = 2167*
   2: 0x0345 [0x03] Work_Zone[5] = 2205*
-  3: 0x034A [0x48] [System] [7951*]:
+  3: 0x034A [0x48] [System] [7952*]:
     → "You should be able to head [to the other side/over there] if you have the $3 and $3."
   4: 0x034D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x034E [0x03] Work_Zone[4] = 0*
@@ -531,7 +531,7 @@ SUBROUTINE_0339:
   9: 0x0363 [0x03] Work_Zone[3] = 0*
 
 SUBROUTINE_0368:
- 10: 0x0368 [0x24] CREATE_DIALOG(message_id=7954*, default_option=0*, option_flags=Work_Zone[3])
+ 10: 0x0368 [0x24] CREATE_DIALOG(message_id=7955*, default_option=0*, option_flags=Work_Zone[3])
     → "Head [for the other side/over there]? [Yes./No./Dive right in.]"
  11: 0x036F [0x25] WAIT_DIALOG_SELECT()
  12: 0x0370 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F1
@@ -540,7 +540,7 @@ SUBROUTINE_0368:
  15: 0x037B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  16: 0x037D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x038E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
- 18: 0x039D [0x48] [System] [7955*]:
+ 18: 0x039D [0x48] [System] [7956*]:
     → "Gah! You lost control of your boat, sending you spiralling downstream!"
  19: 0x03A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x03A1 [0x0D] Work_Zone[2] &= 1*
@@ -654,7 +654,7 @@ SUBROUTINE_067C:
 112: 0x068D [0x1C] WAIT(160* ticks)
 113: 0x0690 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 114: 0x06A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
-115: 0x06B0 [0x48] [System] [7953*]:
+115: 0x06B0 [0x48] [System] [7954*]:
     → "This river is not suitable for swimming."
 116: 0x06B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x06B4 [0x1B] RETURN

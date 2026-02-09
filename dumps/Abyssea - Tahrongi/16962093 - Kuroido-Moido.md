@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0031      |          49 |
-|       1 | 0x1FA6      |        8102 |
-|       2 | 0x1FA7      |        8103 |
+|       1 | 0x1FA7      |        8103 |
+|       2 | 0x1FA8      |        8104 |
 
 ## String References
 
-- **8102**: Just a ways ahead of here, you'll find a fiery-wiery defensive barrier that we call a searing ward. It keeps us here safe from the dangers that lurk beyond.
-- **8103**: Before striking out into the canyon, you should talk to our conflux surveyor and have yourself endowed with visitantaru status. Trust me, you won't want to leave home without it!
+- **8103**: Just a ways ahead of here, you'll find a fiery-wiery defensive barrier that we call a searing ward. It keeps us here safe from the dangers that lurk beyond.
+- **8104**: Before striking out into the canyon, you should talk to our conflux surveyor and have yourself endowed with visitantaru status. Trust me, you won't want to leave home without it!
 
 ## Events
 
@@ -78,10 +78,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "Just a ways ahead of here, you'll find a fiery-wiery defensive barrier that we call a searing ward. It keeps us here safe from the dangers that lurk beyond."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "Before striking out into the canyon, you should talk to our conflux surveyor and have yourself endowed with visitantaru status. Trust me, you won't want to leave home without it!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x21] END_EVENT

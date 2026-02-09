@@ -46,16 +46,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F0D      |        7949 |
-|       2 | 0x200A      |        8202 |
+|       1 | 0x1F0E      |        7950 |
+|       2 | 0x200B      |        8203 |
 |       3 | 0x001D      |          29 |
-|       4 | 0x200B      |        8203 |
-|       5 | 0x1EB1      |        7857 |
-|       6 | 0x1EB2      |        7858 |
+|       4 | 0x200C      |        8204 |
+|       5 | 0x1EB2      |        7858 |
+|       6 | 0x1EB3      |        7859 |
 |       7 | 0x03CE      |         974 |
-|       8 | 0x1F0A      |        7946 |
-|       9 | 0x1F08      |        7944 |
-|      10 | 0x1F09      |        7945 |
+|       8 | 0x1F0B      |        7947 |
+|       9 | 0x1F09      |        7945 |
+|      10 | 0x1F0A      |        7946 |
 |      11 | 0x02F3      |         755 |
 |      12 | 0x043C      |        1084 |
 |      13 | 0x08C3      |        2243 |
@@ -75,7 +75,7 @@
 |      27 | 0xFFF8DEBA  |  4294500026 |
 |      28 | 0xC0BF      |       49343 |
 |      29 | 0xFFFF8E45  |  4294938181 |
-|      30 | 0x1FC0      |        8128 |
+|      30 | 0x1FC1      |        8129 |
 |      31 | 0x0029      |          41 |
 |      32 | 0xFFFE6494  |  4294861972 |
 |      33 | 0xFFFFE0BB  |  4294959291 |
@@ -154,7 +154,7 @@
 ```
   0: 0x0002 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000B [0x1C] WAIT(30* ticks)
-  2: 0x000E [0x2B] EventEntity [7949*]:
+  2: 0x000E [0x2B] EventEntity [7950*]:
     → "Who lets a child come alone to a place like this? I think he was tryin' to take a wander outside the walls of the fort..."
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0016 [0x21] END_EVENT
@@ -185,12 +185,12 @@
 ```
   0: 0x0018 [0x4A] EventEntity looks at LocalPlayer
   1: 0x0021 [0x1C] WAIT(30* ticks)
-  2: 0x0024 [0x2B] EventEntity [8202*]:
+  2: 0x0024 [0x2B] EventEntity [8203*]:
     → "If there's any trrrouble around here, we have to get word to the boss, Romaa Mihgo, as soon as possible."
   3: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x002C [0x6E] EventEntity uses emote 29*
   5: 0x0033 [0x99] Wait for EventEntity animation to complete
-  6: 0x0038 [0x2B] EventEntity [8203*]:
+  6: 0x0038 [0x2B] EventEntity [8204*]:
     → "Goddess help you if you're late sendin' in your rrreport... Ulp...!"
   7: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0040 [0x21] END_EVENT
@@ -264,10 +264,10 @@
 ```
   0: 0x0044 [0x4A] EventEntity looks at LocalPlayer
   1: 0x004D [0x1C] WAIT(30* ticks)
-  2: 0x0050 [0x2B] EventEntity [7857*]:
+  2: 0x0050 [0x2B] EventEntity [7858*]:
     → "Those little sorcerers will be in all sorts of trrrouble if the fort is sieged by magic-immune birdmen!"
   3: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0058 [0x2B] EventEntity [7858*]:
+  4: 0x0058 [0x2B] EventEntity [7859*]:
     → "You heard the boss! Better get Ghyo and her girls back here, prrronto!"
   5: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0060 [0x21] END_EVENT
@@ -297,7 +297,7 @@
   0: 0x0062 [0x4A] EventEntity looks at LocalPlayer
   1: 0x006B [0x1C] WAIT(30* ticks)
   2: 0x006E [0x03] Work_Zone[2] = 974*
-  3: 0x0073 [0x2B] EventEntity [7946*]:
+  3: 0x0073 [0x2B] EventEntity [7947*]:
     → "You have the $3 right, <Player>? So go find that tunnel entrance!"
   4: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x007B [0x21] END_EVENT
@@ -328,10 +328,10 @@
   0: 0x007D [0x4A] EventEntity looks at LocalPlayer
   1: 0x0086 [0x1C] WAIT(30* ticks)
   2: 0x0089 [0x03] Work_Zone[2] = 974*
-  3: 0x008E [0x2B] EventEntity [7944*]:
+  3: 0x008E [0x2B] EventEntity [7945*]:
     → "Everything didn't go as planned? Lucky for you, I have a spare $3."
   4: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0096 [0x2B] EventEntity [7945*]:
+  5: 0x0096 [0x2B] EventEntity [7946*]:
     → "Here, take it!"
   6: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009E [0x21] END_EVENT
@@ -702,7 +702,7 @@
 ```
   0: 0x015D [0x4A] EventEntity looks at LocalPlayer
   1: 0x0166 [0x1C] WAIT(30* ticks)
-  2: 0x0169 [0x2B] EventEntity [8128*]:
+  2: 0x0169 [0x2B] EventEntity [8129*]:
     → "A couple of nasty ones are rrrushing the western spire! You must hurry and head them off!"
   3: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0171 [0x21] END_EVENT

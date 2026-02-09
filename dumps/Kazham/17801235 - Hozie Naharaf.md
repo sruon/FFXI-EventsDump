@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2728      |       10024 |
-|       3 | 0x2729      |       10025 |
-|       4 | 0x2879      |       10361 |
-|       5 | 0x287A      |       10362 |
+|       2 | 0x2729      |       10025 |
+|       3 | 0x272A      |       10026 |
+|       4 | 0x287A      |       10362 |
+|       5 | 0x287B      |       10363 |
 
 ## String References
 
-- **10024**: We Mithra are bound to this land. We listen to its cries, protect it, and rrrespect it.
-- **10025**: When a group changes where it lives, the lives of that group change with it, but the ties with the land do not.
-- **10361**: Ugh! Didn't you rrread the notice at the airship arrivals exit?
-- **10362**: If Kazham gets any more adventurers like you, we'll all have to move back to the jungle!
+- **10025**: We Mithra are bound to this land. We listen to its cries, protect it, and rrrespect it.
+- **10026**: When a group changes where it lives, the lives of that group change with it, but the ties with the land do not.
+- **10362**: Ugh! Didn't you rrread the notice at the airship arrivals exit?
+- **10363**: If Kazham gets any more adventurers like you, we'll all have to move back to the jungle!
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hozie Naharaf (ID: 17801235/0x010FA013), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10024*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10025*)
     → "We Mithra are bound to this land. We listen to its cries, protect it, and rrrespect it."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10025*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10026*)
     → "When a group changes where it lives, the lives of that group change with it, but the ties with the land do not."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hozie Naharaf (ID: 17801235/0x010FA013), tag_num=0x02)
@@ -171,10 +171,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hozie Naharaf (ID: 17801235/0x010FA013), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10361*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10362*)
     → "Ugh! Didn't you rrread the notice at the airship arrivals exit?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10362*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10363*)
     → "If Kazham gets any more adventurers like you, we'll all have to move back to the jungle!"
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hozie Naharaf (ID: 17801235/0x010FA013), tag_num=0x02)

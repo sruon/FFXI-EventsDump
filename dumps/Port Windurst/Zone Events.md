@@ -343,14 +343,14 @@
 |     212 | 0x11CD3     |       72915 |
 |     213 | 0xFFFFF4ED  |  4294964461 |
 |     214 | 0x0964      |        2404 |
-|     215 | 0x32C3      |       12995 |
-|     216 | 0x32C4      |       12996 |
-|     217 | 0x32C5      |       12997 |
-|     218 | 0x32C6      |       12998 |
-|     219 | 0x32C7      |       12999 |
-|     220 | 0x32C8      |       13000 |
-|     221 | 0x32C9      |       13001 |
-|     222 | 0x32CA      |       13002 |
+|     215 | 0x32C4      |       12996 |
+|     216 | 0x32C5      |       12997 |
+|     217 | 0x32C6      |       12998 |
+|     218 | 0x32C7      |       12999 |
+|     219 | 0x32C8      |       13000 |
+|     220 | 0x32C9      |       13001 |
+|     221 | 0x32CA      |       13002 |
+|     222 | 0x32CB      |       13003 |
 |     223 | 0xFFFD35D6  |  4294784470 |
 |     224 | 0x11B86     |       72582 |
 |     225 | 0x0BB1      |        2993 |
@@ -2655,28 +2655,28 @@ SUBROUTINE_00C9:
 #### Opcodes
 
 ```
-  0: 0x04F8 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12995*]:
+  0: 0x04F8 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12996*]:
     → "Eh? You say somethin'? Hmph! You dang kids these days ain't got no respect for your elders. Can't you see I'm tryin' to learn this new fandangled fishin' method? In my day, all we had to do was cast a line and wait for the baby to tug. Why, back then it was so easy, I could catch fish while I was sleepin'!"
   1: 0x04FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0500 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12996*]:
+  2: 0x0500 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12997*]:
     → "But now you gotta work for your meal! Let me tell you how it's done... First, you fix a little bait on your line, toss it into the water, and wait for somethin' to bite. Eh? What's changed? Well, nothing yet! Would you just hold your horses and let me get to the good part?"
   3: 0x0507 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0508 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12997*]:
+  4: 0x0508 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12998*]:
     → "Now, once you feel the pull is where the real battle begins--and I say battle because that fish is not going to let you get him without a fight! If he starts tuggin' to the left, you've gotta pull to the right. If he starts tuggin' to the right, you've gotta pull to the left."
   5: 0x050F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0510 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12998*]:
+  6: 0x0510 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12999*]:
     → "Keepin' centered--that's the key to tirin' out that old puppy! And once you think you've softened him up enough, that's when you reel him in. If you confirm a little too early, the fish may still have enough pep to run off with your bait. But if you spend too much time playin' with him, he might just get bored and be on his way."
   7: 0x0517 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0518 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [12999*]:
+  8: 0x0518 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13000*]:
     → "Of course, if you ever get a bad feeling that whatever's on the end of your line's fixin' to snap your rod in two, you could always cancel your way out of things......sissy!"
   9: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0520 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13000*]:
+ 10: 0x0520 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13001*]:
     → "Alright, did you get all that? Well, keep listenin', 'cause I'm not done yet. This new type o' fishin' works differently with different types of rods."
  11: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0528 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13001*]:
+ 12: 0x0528 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13002*]:
     → "Those fancy carbon and glass rods may have what it takes to keep a fish on your line for a long time, but the flexibility of good old-fashioned wooden rods packs enough punch to tire out any fish in the blink of an eye."
  13: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0530 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13002*]:
+ 14: 0x0530 [0x2B] Laughing Lizard (ID: 17760449/0x010F00C1) [13003*]:
     → "But enough of this chitchat. If I don't catch somethin' for tonight's dinner, my wife'll clean me, gut me, and have me in a fryin' pan faster than you can say Galka meuniere!"
  15: 0x0537 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0538 [0x21] END_EVENT

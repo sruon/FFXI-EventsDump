@@ -25,51 +25,51 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x344F      |       13391 |
-|       2 | 0x3450      |       13392 |
-|       3 | 0x3451      |       13393 |
-|       4 | 0x3452      |       13394 |
-|       5 | 0x3453      |       13395 |
+|       1 | 0x3450      |       13392 |
+|       2 | 0x3451      |       13393 |
+|       3 | 0x3452      |       13394 |
+|       4 | 0x3453      |       13395 |
+|       5 | 0x3454      |       13396 |
 |       6 | 0x09CA      |        2506 |
-|       7 | 0x3459      |       13401 |
-|       8 | 0x345A      |       13402 |
-|       9 | 0x345B      |       13403 |
-|      10 | 0x345C      |       13404 |
-|      11 | 0x345D      |       13405 |
-|      12 | 0x345E      |       13406 |
-|      13 | 0x345F      |       13407 |
-|      14 | 0x3460      |       13408 |
-|      15 | 0x3461      |       13409 |
-|      16 | 0x3462      |       13410 |
-|      17 | 0x3463      |       13411 |
-|      18 | 0x3464      |       13412 |
-|      19 | 0x3465      |       13413 |
-|      20 | 0x3466      |       13414 |
-|      21 | 0x3467      |       13415 |
-|      22 | 0x3468      |       13416 |
-|      23 | 0x3469      |       13417 |
-|      24 | 0x346A      |       13418 |
-|      25 | 0x346B      |       13419 |
-|      26 | 0x346C      |       13420 |
-|      27 | 0x346D      |       13421 |
-|      28 | 0x346E      |       13422 |
-|      29 | 0x346F      |       13423 |
-|      30 | 0x3470      |       13424 |
-|      31 | 0x3471      |       13425 |
-|      32 | 0x3472      |       13426 |
-|      33 | 0x3473      |       13427 |
-|      34 | 0x3474      |       13428 |
-|      35 | 0x3475      |       13429 |
-|      36 | 0x3476      |       13430 |
-|      37 | 0x3477      |       13431 |
-|      38 | 0x3478      |       13432 |
-|      39 | 0x3479      |       13433 |
-|      40 | 0x347A      |       13434 |
-|      41 | 0x347B      |       13435 |
-|      42 | 0x347C      |       13436 |
+|       7 | 0x345A      |       13402 |
+|       8 | 0x345B      |       13403 |
+|       9 | 0x345C      |       13404 |
+|      10 | 0x345D      |       13405 |
+|      11 | 0x345E      |       13406 |
+|      12 | 0x345F      |       13407 |
+|      13 | 0x3460      |       13408 |
+|      14 | 0x3461      |       13409 |
+|      15 | 0x3462      |       13410 |
+|      16 | 0x3463      |       13411 |
+|      17 | 0x3464      |       13412 |
+|      18 | 0x3465      |       13413 |
+|      19 | 0x3466      |       13414 |
+|      20 | 0x3467      |       13415 |
+|      21 | 0x3468      |       13416 |
+|      22 | 0x3469      |       13417 |
+|      23 | 0x346A      |       13418 |
+|      24 | 0x346B      |       13419 |
+|      25 | 0x346C      |       13420 |
+|      26 | 0x346D      |       13421 |
+|      27 | 0x346E      |       13422 |
+|      28 | 0x346F      |       13423 |
+|      29 | 0x3470      |       13424 |
+|      30 | 0x3471      |       13425 |
+|      31 | 0x3472      |       13426 |
+|      32 | 0x3473      |       13427 |
+|      33 | 0x3474      |       13428 |
+|      34 | 0x3475      |       13429 |
+|      35 | 0x3476      |       13430 |
+|      36 | 0x3477      |       13431 |
+|      37 | 0x3478      |       13432 |
+|      38 | 0x3479      |       13433 |
+|      39 | 0x347A      |       13434 |
+|      40 | 0x347B      |       13435 |
+|      41 | 0x347C      |       13436 |
+|      42 | 0x347D      |       13437 |
 |      43 | 0x00C9      |         201 |
 |      44 | 0x0000      |           0 |
-|      45 | 0x3CE5      |       15589 |
+|      45 | 0x3CE6      |       15590 |
 
 ## Events
 
@@ -123,19 +123,19 @@
   1: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atelloune (ID: 17719610/0x010E613A) Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0010 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x001F [0x2B] Atelloune (ID: 17719610/0x010E613A) [13391*]:
+  4: 0x001F [0x2B] Atelloune (ID: 17719610/0x010E613A) [13392*]:
     → "Hey! You there! Adventurer! Have you ever happened to see a sandworm? You know, gigantic worm, segmented body, lives in the sand?"
   5: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0027 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13392*]:
+  6: 0x0027 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13393*]:
     → "Well...hmmm... Oh! Then how about a ladybug? They're distinctive little pests with bright red, semicircular bodies, three distinctive black spots and..."
   7: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x002F [0x2B] Atelloune (ID: 17719610/0x010E613A) [13393*]:
+  8: 0x002F [0x2B] Atelloune (ID: 17719610/0x010E613A) [13394*]:
     → "I apologize, I've gone and totally forgotten my manners! You must excuse me. It's a pleasure to make your acquaintance. I'm Atelloune, assistant to renowned biologist Professor Clauvert B Chanoix."
   9: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0037 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13394*]:
+ 10: 0x0037 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13395*]:
     → "To help with the professor's research, I'm searching for all kinds of specimens from Quon and Mindartia whose numbers have been dwindling in recent years."
  11: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x003F [0x2B] Atelloune (ID: 17719610/0x010E613A) [13395*]:
+ 12: 0x003F [0x2B] Atelloune (ID: 17719610/0x010E613A) [13396*]:
     → "I just thought that an adventurer such as yourself had surely seen some rare creatures on your travels...but never mind. I'm sorry for disturbing you."
  13: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0047 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -181,58 +181,58 @@
   4: 0x0069 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x006A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atelloune (ID: 17719610/0x010E613A) Render.Flags0 and Render.Flags3 conditions are met
   6: 0x006F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  7: 0x007E [0x2B] Atelloune (ID: 17719610/0x010E613A) [13401*]:
+  7: 0x007E [0x2B] Atelloune (ID: 17719610/0x010E613A) [13402*]:
     → "Hello, there. Say, if you have some time would you mind lending me an ear? I've got a bit of a problem..."
   8: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0086 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13402*]:
+  9: 0x0086 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13403*]:
     → "Well, I'm not sure if you already knew or not, but I'm Atelloune, assistant to the great zoologist, Professor Clavauert B Chanoix."
  10: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x008E [0x2B] Atelloune (ID: 17719610/0x010E613A) [13403*]:
+ 11: 0x008E [0x2B] Atelloune (ID: 17719610/0x010E613A) [13404*]:
     → "I get a lot of mail in my line of work. You know, letters from people of all ages who are passionate about animals, asking me all sorts of questions."
  12: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0096 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13404*]:
+ 13: 0x0096 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13405*]:
     → "I recently came across a letter whose squiggly handwriting caught my eye."
  14: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x009E [0x2B] Atelloune (ID: 17719610/0x010E613A) [13405*]:
+ 15: 0x009E [0x2B] Atelloune (ID: 17719610/0x010E613A) [13406*]:
     → "It was sent by a young Elvaan boy who didn't give his name."
  16: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x00A6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13406*]:
+ 17: 0x00A6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13407*]:
     → ""Dear Atelloune, my grandpa says that when he was my age there were big, red, round bugs in Ronfaure."
  18: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x00AE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13407*]:
+ 19: 0x00AE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13408*]:
     → ""But I think he's going senile, and is just thinking of an apple. Either that or a liar, and there were never any bugs like that. Please tell him he's crazy.""
  20: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x00B6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13408*]:
+ 21: 0x00B6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13409*]:
     → "...Hmmm."
  22: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x00BE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13409*]:
+ 23: 0x00BE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13410*]:
     → "I really am sorry to bother you with this."
  24: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x00C6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13410*]:
+ 25: 0x00C6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13411*]:
     → "It's just that this kid really struck a nerve with me. I mean, there isn't even a question! So irritating..."
  26: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x00CE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13411*]:
+ 27: 0x00CE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13412*]:
     → "I'm thinking that what he is referring to may be the ladybug. It was a species of vermin which inhabited the Ronfaure region before the war."
  28: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x00D6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13412*]:
+ 29: 0x00D6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13413*]:
     → "You know, when I was just a little girl I mistook them for app--"
  30: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00DE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13413*]:
+ 31: 0x00DE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13414*]:
     → "Never mind that!"
  32: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00E6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13414*]:
+ 33: 0x00E6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13415*]:
     → "Let's focus on the real problem here. The ladybug supposedly went extinct a long time ago."
  34: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00EE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13415*]:
+ 35: 0x00EE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13416*]:
     → "But here's where it gets really interesting!"
  36: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x00F6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13416*]:
+ 37: 0x00F6 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13417*]:
     → "I believe that there must still be some ladybugs out there somewhere in Vana'diel! If you ever happen to see one in your travels, please try and bring me back a live specimen!"
  38: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x00FE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13417*]:
+ 39: 0x00FE [0x2B] Atelloune (ID: 17719610/0x010E613A) [13418*]:
     → "Wait...that's going to be tough. They're actually quite large animals. And I wouldn't want to harm them... Well, if you ever chance upon the corpse of one do you think you could bring back the $0 for me? You'll know them when you see them. That's all I need."
  40: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0106 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13418*]:
+ 41: 0x0106 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13419*]:
     → "I'd reeeally like to blow this brat's mind. And I think that would do just the trick."
  42: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x010E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -280,58 +280,58 @@
   4: 0x0130 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0131 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atelloune (ID: 17719610/0x010E613A) Render.Flags0 and Render.Flags3 conditions are met
   6: 0x0136 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  7: 0x0145 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13419*]:
+  7: 0x0145 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13420*]:
     → "Oh my! Is this really $0!?"
   8: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x014D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13420*]:
+  9: 0x014D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13421*]:
     → "Wow, it's even more beautiful than I imagined. Such brilliance! And this contrast between the red and black... Absolutely remarkable!"
  10: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0155 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13421*]:
+ 11: 0x0155 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13422*]:
     → "Where did you find this!?"
  12: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x015D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13422*]:
+ 13: 0x015D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13423*]:
     → "Ahhh, playing your cards tight to the vest, eh? That's fine, suit yourself."
  14: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0165 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13423*]:
+ 15: 0x0165 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13424*]:
     → "It doesn't matter. This is exactly what I need to make a believer out of that little Elvaan brat. Maybe now he'll recognize the true beauty of the ladybug!"
  16: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x016D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13424*]:
+ 17: 0x016D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13425*]:
     → "To think of that poor grandfather, being called a liar by his own grandchild! Well, this should help him sleep at night."
  18: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0175 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13425*]:
+ 19: 0x0175 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13426*]:
     → "I must say, it's all thanks to you. I'll tell you what. In return, I'll let you in on a little secret..."
  20: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x017D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13426*]:
+ 21: 0x017D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13427*]:
     → "The real reason why the ladybugs went extinct..."
  22: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0185 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13427*]:
+ 23: 0x0185 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13428*]:
     → "To be honest, not even the most esteemed minds in the ecological field could explain why it happened. But I've come across some...other information."
  24: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x018D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13428*]:
+ 25: 0x018D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13429*]:
     → "Rumor has it that right around the time of the Great War the ladybugs were overhunted to extinction by an inconsiderate people with no regard for the natural balance."
  26: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0195 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13429*]:
+ 27: 0x0195 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13430*]:
     → "They were described as seemingly possessed, an eerie and ominous group. Obsessed with the red and black colors of the ladybug, which they could constantly be heard murmuring, as if in a trance. "Red...black...""
  28: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x019D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13430*]:
+ 29: 0x019D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13431*]:
     → "There's no doubt in my mind that these wings were in high demand for some reason or another back then."
  30: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x01A5 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13431*]:
+ 31: 0x01A5 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13432*]:
     → "For example, perhaps some military strategists thought up an application for this characteristic design which so effectively startles predators."
  32: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x01AD [0x2B] Atelloune (ID: 17719610/0x010E613A) [13432*]:
+ 33: 0x01AD [0x2B] Atelloune (ID: 17719610/0x010E613A) [13433*]:
     → "The possibilities are endless!"
  34: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x01B5 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13433*]:
+ 35: 0x01B5 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13434*]:
     → "..."
  36: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x01BD [0x2B] Atelloune (ID: 17719610/0x010E613A) [13434*]:
+ 37: 0x01BD [0x2B] Atelloune (ID: 17719610/0x010E613A) [13435*]:
     → "What? Why are you looking at me like that?"
  38: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x01C5 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13435*]:
+ 39: 0x01C5 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13436*]:
     → "Don't misunderstand. I'll see to it that these wings make their way to that little Elvaan boy...just as soon as I run some tests of my own!"
  40: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x01CD [0x2B] Atelloune (ID: 17719610/0x010E613A) [13436*]:
+ 41: 0x01CD [0x2B] Atelloune (ID: 17719610/0x010E613A) [13437*]:
     → "Here, now take this and be on your way. And no dropping in unannounced! I have work to do..."
  42: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x01D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -371,13 +371,13 @@
   4: 0x0204 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atelloune (ID: 17719610/0x010E613A) Render.Flags0 and Render.Flags3 conditions are met
   5: 0x0209 [0x03] Work_Zone[2] = 2506*
   6: 0x020E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  7: 0x021D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13416*]:
+  7: 0x021D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13417*]:
     → "I believe that there must still be some ladybugs out there somewhere in Vana'diel! If you ever happen to see one in your travels, please try and bring me back a live specimen!"
   8: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0225 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13417*]:
+  9: 0x0225 [0x2B] Atelloune (ID: 17719610/0x010E613A) [13418*]:
     → "Wait...that's going to be tough. They're actually quite large animals. And I wouldn't want to harm them... Well, if you ever chance upon the corpse of one do you think you could bring back the $0 for me? You'll know them when you see them. That's all I need."
  10: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x022D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13418*]:
+ 11: 0x022D [0x2B] Atelloune (ID: 17719610/0x010E613A) [13419*]:
     → "I'd reeeally like to blow this brat's mind. And I think that would do just the trick."
  12: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0235 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -411,7 +411,7 @@
   1: 0x024F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0250 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Atelloune (ID: 17719610/0x010E613A) Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0255 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0264 [0x2B] Atelloune (ID: 17719610/0x010E613A) [15589*]:
+  4: 0x0264 [0x2B] Atelloune (ID: 17719610/0x010E613A) [15590*]:
     → "Never in my wildest dreams did I expect to find obscure crabs in someone's Mog Garden. I must make preparations for a survey this instant."
   5: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x026C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*

@@ -30,62 +30,62 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x2083      |        8323 |
-|       2 | 0x2084      |        8324 |
-|       3 | 0x2085      |        8325 |
-|       4 | 0x2086      |        8326 |
-|       5 | 0x2087      |        8327 |
-|       6 | 0x2088      |        8328 |
-|       7 | 0x2089      |        8329 |
-|       8 | 0x208A      |        8330 |
-|       9 | 0x208B      |        8331 |
+|       1 | 0x2084      |        8324 |
+|       2 | 0x2085      |        8325 |
+|       3 | 0x2086      |        8326 |
+|       4 | 0x2087      |        8327 |
+|       5 | 0x2088      |        8328 |
+|       6 | 0x2089      |        8329 |
+|       7 | 0x208A      |        8330 |
+|       8 | 0x208B      |        8331 |
+|       9 | 0x208C      |        8332 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x208C      |        8332 |
-|      12 | 0x208D      |        8333 |
-|      13 | 0x208E      |        8334 |
-|      14 | 0x208F      |        8335 |
+|      11 | 0x208D      |        8333 |
+|      12 | 0x208E      |        8334 |
+|      13 | 0x208F      |        8335 |
+|      14 | 0x2090      |        8336 |
 |      15 | 0x00C9      |         201 |
 |      16 | 0x0000      |           0 |
-|      17 | 0x2090      |        8336 |
+|      17 | 0x2091      |        8337 |
 |      18 | 0x094F      |        2383 |
-|      19 | 0x2091      |        8337 |
-|      20 | 0x2092      |        8338 |
+|      19 | 0x2092      |        8338 |
+|      20 | 0x2093      |        8339 |
 |      21 | 0x0003      |           3 |
-|      22 | 0x2093      |        8339 |
-|      23 | 0x2094      |        8340 |
-|      24 | 0x2097      |        8343 |
-|      25 | 0x2098      |        8344 |
-|      26 | 0x2099      |        8345 |
-|      27 | 0x209A      |        8346 |
-|      28 | 0x2095      |        8341 |
-|      29 | 0x2096      |        8342 |
+|      22 | 0x2094      |        8340 |
+|      23 | 0x2095      |        8341 |
+|      24 | 0x2098      |        8344 |
+|      25 | 0x2099      |        8345 |
+|      26 | 0x209A      |        8346 |
+|      27 | 0x209B      |        8347 |
+|      28 | 0x2096      |        8342 |
+|      29 | 0x2097      |        8343 |
 
 ## String References
 
-- **8323**: The sky is so gloomy-woomy here... I wish I were back in Adoulin, with blue skies and sunny summers...
-- **8324**: You there, [caballero/caballera]! I've got a little-wittle task for you.
-- **8325**: The Scouts' Coalition is in need of a specialist of my stature to collectaru informacion about numbing blossoms, and I'm in a bit of a bind.
-- **8326**: Many of these impedimentarus grow aqui in Yorcia Weald, and I'm in charge of studying how they grow.
-- **8327**: Care to gather some soil samples for me?
-- **8328**: There's a reason I can't go myself, [hombre/muchacha].
-- **8329**: I've never been good at reading a map, and if I go so much as half a malm away from a waypointaru I get hopelessly lost. Vale?
-- **8330**: Simply put, I'll get eaten-weaten alive.
-- **8331**: So, andale! I'm not getting any younger!
-- **8332**: You gathered some dirtaru for me? Muy bien!
-- **8333**: Madre mia--look at all this pollen-wollen!
-- **8334**: Si, this will make excellentaru research material.
-- **8335**: You've done a wonderful job, mi [amigo/amiga]. Here's a presentaru for you.
-- **8336**: Hey, my favorite colonizador[/a]! I've been waitaruing for you.
-- **8337**: I investigatarued the earth you brought me, and made a startling discovery. These flores--they don't just paralyze people, but they are partly connected with the pollution-wution in Ulbuka we've all come to hate.
-- **8338**: La tierra, she grows numbing blossoms because of the poison. Or maybe it's the blossom-wossoms themselves that poison the land. We aren't sure yet.
-- **8339**: If you have a spare momentaru, collect $0 of the blossoms for me, por favor.
-- **8340**: Ay caramba, don't look at me like that. You know how hard it is for me not to get lostaru! So please--do me this deed.
-- **8341**: Pull up $0 numbing blossoms and bringy-wing them back to me, comprende?
-- **8342**: You're back so soon--estupendo! These will make excellentaru specimens.
-- **8343**: I've been estudiando the bounty you brought me and I've reached a startling-wartling conclusion, [hijo/hija]. The corruption in the land is deeper than we previously thought.
-- **8344**: Bendito! The blightaru is such that it feels some terrible demons must buried deep beneath the surface. But a scientistaru always goes with evidence, not speculation. More work is needed.
-- **8345**: You understand what that means, no? Findy-wind me $0 more numbing blossom[/s] and I'll give you another reward.
-- **8346**: Tear 'em up from the ground and deliver them to me whole, de acuerdo?
+- **8324**: The sky is so gloomy-woomy here... I wish I were back in Adoulin, with blue skies and sunny summers...
+- **8325**: You there, [caballero/caballera]! I've got a little-wittle task for you.
+- **8326**: The Scouts' Coalition is in need of a specialist of my stature to collectaru informacion about numbing blossoms, and I'm in a bit of a bind.
+- **8327**: Many of these impedimentarus grow aqui in Yorcia Weald, and I'm in charge of studying how they grow.
+- **8328**: Care to gather some soil samples for me?
+- **8329**: There's a reason I can't go myself, [hombre/muchacha].
+- **8330**: I've never been good at reading a map, and if I go so much as half a malm away from a waypointaru I get hopelessly lost. Vale?
+- **8331**: Simply put, I'll get eaten-weaten alive.
+- **8332**: So, andale! I'm not getting any younger!
+- **8333**: You gathered some dirtaru for me? Muy bien!
+- **8334**: Madre mia--look at all this pollen-wollen!
+- **8335**: Si, this will make excellentaru research material.
+- **8336**: You've done a wonderful job, mi [amigo/amiga]. Here's a presentaru for you.
+- **8337**: Hey, my favorite colonizador[/a]! I've been waitaruing for you.
+- **8338**: I investigatarued the earth you brought me, and made a startling discovery. These flores--they don't just paralyze people, but they are partly connected with the pollution-wution in Ulbuka we've all come to hate.
+- **8339**: La tierra, she grows numbing blossoms because of the poison. Or maybe it's the blossom-wossoms themselves that poison the land. We aren't sure yet.
+- **8340**: If you have a spare momentaru, collect $0 of the blossoms for me, por favor.
+- **8341**: Ay caramba, don't look at me like that. You know how hard it is for me not to get lostaru! So please--do me this deed.
+- **8342**: Pull up $0 numbing blossoms and bringy-wing them back to me, comprende?
+- **8343**: You're back so soon--estupendo! These will make excellentaru specimens.
+- **8344**: I've been estudiando the bounty you brought me and I've reached a startling-wartling conclusion, [hijo/hija]. The corruption in the land is deeper than we previously thought.
+- **8345**: Bendito! The blightaru is such that it feels some terrible demons must buried deep beneath the surface. But a scientistaru always goes with evidence, not speculation. More work is needed.
+- **8346**: You understand what that means, no? Findy-wind me $0 more numbing blossom[/s] and I'll give you another reward.
+- **8347**: Tear 'em up from the ground and deliver them to me whole, de acuerdo?
 
 ## Events
 
@@ -136,7 +136,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8324*)
     → "The sky is so gloomy-woomy here... I wish I were back in Adoulin, with blue skies and sunny summers..."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -173,28 +173,28 @@
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8324*)
+  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8325*)
     → "You there, [caballero/caballera]! I've got a little-wittle task for you."
   6: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8325*)
+  7: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
     → "The Scouts' Coalition is in need of a specialist of my stature to collectaru informacion about numbing blossoms, and I'm in a bit of a bind."
   8: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
+  9: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
     → "Many of these impedimentarus grow aqui in Yorcia Weald, and I'm in charge of studying how they grow."
  10: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
+ 11: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
     → "Care to gather some soil samples for me?"
  12: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+ 13: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "There's a reason I can't go myself, [hombre/muchacha]."
  14: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
+ 15: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
     → "I've never been good at reading a map, and if I go so much as half a malm away from a waypointaru I get hopelessly lost. Vale?"
  16: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
+ 17: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
     → "Simply put, I'll get eaten-weaten alive."
  18: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
+ 19: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8332*)
     → "So, andale! I'm not getting any younger!"
  20: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -229,10 +229,10 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0080 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
+  4: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
     → "Many of these impedimentarus grow aqui in Yorcia Weald, and I'm in charge of studying how they grow."
   5: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
+  6: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
     → "Care to gather some soil samples for me?"
   7: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0097 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -269,16 +269,16 @@
   2: 0x00AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8332*)
+  5: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8333*)
     → "You gathered some dirtaru for me? Muy bien!"
   6: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8333*)
+  7: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8334*)
     → "Madre mia--look at all this pollen-wollen!"
   8: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8334*)
+  9: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8335*)
     → "Si, this will make excellentaru research material."
  10: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8335*)
+ 11: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
     → "You've done a wonderful job, mi [amigo/amiga]. Here's a presentaru for you."
  12: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -317,21 +317,21 @@
   2: 0x00FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
+  5: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
     → "Hey, my favorite colonizador[/a]! I've been waitaruing for you."
   6: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0111 [0x03] Work_Zone[2] = 2383*
-  8: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
+  8: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
     → "I investigatarued the earth you brought me, and made a startling discovery. These flores--they don't just paralyze people, but they are partly connected with the pollution-wution in Ulbuka we've all come to hate."
   9: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
+ 10: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
     → "La tierra, she grows numbing blossoms because of the poison. Or maybe it's the blossom-wossoms themselves that poison the land. We aren't sure yet."
  11: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x011E [0x03] Work_Zone[2] = 3*
- 13: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
+ 13: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
     → "If you have a spare momentaru, collect $0 of the blossoms for me, por favor."
  14: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
+ 15: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
     → "Ay caramba, don't look at me like that. You know how hard it is for me not to get lostaru! So please--do me this deed."
  16: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x012B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -368,17 +368,17 @@
   2: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0149 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
+  5: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
     → "Hey, my favorite colonizador[/a]! I've been waitaruing for you."
   6: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=8343*)
+  7: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=8344*)
     → "I've been estudiando the bounty you brought me and I've reached a startling-wartling conclusion, [hijo/hija]. The corruption in the land is deeper than we previously thought."
   8: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8344*)
+  9: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8345*)
     → "Bendito! The blightaru is such that it feels some terrible demons must buried deep beneath the surface. But a scientistaru always goes with evidence, not speculation. More work is needed."
  10: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0164 [0x03] Work_Zone[2] = 3*
- 12: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=8345*)
+ 12: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=8346*)
     → "You understand what that means, no? Findy-wind me $0 more numbing blossom[/s] and I'll give you another reward."
  13: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x016D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -414,11 +414,11 @@
   2: 0x0189 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x018A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x018B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
+  5: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
     → "Hey, my favorite colonizador[/a]! I've been waitaruing for you."
   6: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x019E [0x03] Work_Zone[2] = 3*
-  8: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8346*)
+  8: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8347*)
     → "Tear 'em up from the ground and deliver them to me whole, de acuerdo?"
   9: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -454,7 +454,7 @@
   2: 0x01C3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   4: 0x01D3 [0x03] Work_Zone[2] = 3*
-  5: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
+  5: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
     → "Pull up $0 numbing blossoms and bringy-wing them back to me, comprende?"
   6: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -491,10 +491,10 @@
   2: 0x01F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
+  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=8343*)
     → "You're back so soon--estupendo! These will make excellentaru specimens."
   6: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=8335*)
+  7: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
     → "You've done a wonderful job, mi [amigo/amiga]. Here's a presentaru for you."
   8: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x020C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

@@ -1,5 +1,5 @@
 # Strings for Riverne - Site #B01
-# Total: 7800 strings
+# Total: 7801 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,15 +7226,15 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Enter the battlefield? [Enter./Decline.]
- 7228: Leave the battlefield? [Run away./Stay.]
- 7229: You cannot enter the battlefield at present. Please wait a little longer.
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Enter the battlefield? [Enter./Decline.]
+ 7229: Leave the battlefield? [Run away./Stay.]
  7230: You cannot enter the battlefield at present. Please wait a little longer.
- 7231: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7232: Your time in the battlefield is up! Now exiting...
- 7233: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7231: You cannot enter the battlefield at present. Please wait a little longer.
+ 7232: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7233: Your time in the battlefield is up! Now exiting...
  7234: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7235: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7236: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7244,59 +7244,59 @@
  7240: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7241: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7242: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7243: You have been enchanted so that you may enter!
- 7244: Your entry enchantment has expired!
- 7245: You are not cleared to enter the battlefield. Now exiting...
- 7246: A cursed seal has been placed upon this platform.
- 7247: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7248: There is no response. You cannot escape!
- 7249: The door is sealed shut with an evil curse.
- 7250: A mysterious force is sealing the platform.
- 7251: The old wooden door is locked tight.
- 7252: The door is sealed with a mysterious energy.
- 7253: It is a giant crystal.
- 7254: A strong magical force is whirling up from the platform.
- 7255: A fierce column of wind blocks your path. You cannot proceed any further...
- 7256: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7257: An unfathomable light is rising from this strangely marked platform...
- 7258: A heavy wooden gate. It is tightly locked...
- 7259: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7243: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7244: You have been enchanted so that you may enter!
+ 7245: Your entry enchantment has expired!
+ 7246: You are not cleared to enter the battlefield. Now exiting...
+ 7247: A cursed seal has been placed upon this platform.
+ 7248: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7249: There is no response. You cannot escape!
+ 7250: The door is sealed shut with an evil curse.
+ 7251: A mysterious force is sealing the platform.
+ 7252: The old wooden door is locked tight.
+ 7253: The door is sealed with a mysterious energy.
+ 7254: It is a giant crystal.
+ 7255: A strong magical force is whirling up from the platform.
+ 7256: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7257: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7258: An unfathomable light is rising from this strangely marked platform...
+ 7259: A heavy wooden gate. It is tightly locked...
  7260: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7261: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7262: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7263: A glowing mist of ever-changing proportions floats before you...
- 7264: A solid iron gate. It is tightly locked...
- 7265: You see a gigantic crystal, glowing with amber light...
+ 7263: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7264: A glowing mist of ever-changing proportions floats before you...
+ 7265: A solid iron gate. It is tightly locked...
  7266: You see a gigantic crystal, glowing with amber light...
- 7267: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7268: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7269: If you listen closely, you can faintly hear female voices singing in rounds...
- 7270: It appears as if something had been thrust into the rockface here...
- 7271: A decorative door. It appears to be locked...
- 7272: The door is locked.
- 7273: The gate is locked.
- 7274: The door is locked.
+ 7267: You see a gigantic crystal, glowing with amber light...
+ 7268: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7269: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7270: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7271: It appears as if something had been thrust into the rockface here...
+ 7272: A decorative door. It appears to be locked...
+ 7273: The door is locked.
+ 7274: The gate is locked.
  7275: The door is locked.
- 7276: There seems to be a space beneath the floor, but you are unable to access it.
- 7277: You do not meet the requirements to enter the battlefield. Access is denied.
- 7278: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7279: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7280: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7281: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7282: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7283: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7284: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7285: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7286: You were unable to protect the special character. Now leaving the battlefield.
- 7287: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7288: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7289: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7290: Your $0 is torn...
- 7291: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7292: Your $0 is torn...
- 7293: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7294: You see innumerable stars shimmering in the distance...
- 7295: @
+ 7276: The door is locked.
+ 7277: There seems to be a space beneath the floor, but you are unable to access it.
+ 7278: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7279: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7280: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7281: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7282: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7283: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7284: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7285: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7286: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7287: You were unable to protect the special character. Now leaving the battlefield.
+ 7288: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7289: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7290: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7291: Your $0 is torn...
+ 7292: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7293: Your $0 is torn...
+ 7294: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7295: You see innumerable stars shimmering in the distance...
  7296: @
  7297: @
  7298: @
@@ -7304,500 +7304,501 @@
  7300: @
  7301: @
  7302: @
- 7303: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7303: @
  7304: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7305: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7306: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7307: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7308: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7308: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7309: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7310: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7311: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7312: i$20%.%p$P15zj
- 7313: $7278448;39\5=Bj
+ 7311: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7312: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7313: i$20%.%p$P15zj
  7314: $7278448;39\5=Bj
  7315: $7278448;39\5=Bj
- 7316: remove@1
- 7317: remove@2
- 7318: remove@3
- 7319: i$3{$3X_A$P13|5=j
- 7320: i$3{$3X_B$P13|5=j
- 7321: i$3{$3X_C$P13|5=j
- 7322: $6750818j=j
- 7323: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7324: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7325: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7316: $7278448;39\5=Bj
+ 7317: remove@1
+ 7318: remove@2
+ 7319: remove@3
+ 7320: i$3{$3X_A$P13|5=j
+ 7321: i$3{$3X_B$P13|5=j
+ 7322: i$3{$3X_C$P13|5=j
+ 7323: $6750818j=j
+ 7324: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7325: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7326: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7327: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7328: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7329: GL$20%.L$P16<$P11Op)i$132960a b
- 7330: GL$20%.LIDp)i$132960a b
- 7331: $20%._AL$3p$3243853
- 7332: $20%._BL$3p$3243853
- 7333: $20%._CL$3p$3243853
- 7334: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7335: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7336: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7328: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7329: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7330: GL$20%.L$P16<$P11Op)i$132960a b
+ 7331: GL$20%.LIDp)i$132960a b
+ 7332: $20%._AL$3p$3243853
+ 7333: $20%._BL$3p$3243853
+ 7334: $20%._CL$3p$3243853
+ 7335: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7336: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7337: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7338: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7339: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7339: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7340: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7341: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7342: $6819916%L$P10l$20*()5"
+ 7342: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7343: $6819916%L$P10l$20*()5"
  7344: $6819916%L$P10l$20*()5"
- 7345: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7345: $6819916%L$P10l$20*()5"
  7346: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7347: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7348: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7349: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7350: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7351: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7352: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7353: i$20%._A$P13&$22$3C$3x$3$3g
- 7354: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7355: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7356: i$20%._B$P13&$22$3C$3x$3$3g
- 7357: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7358: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7359: i$20%._C$P13&$22$3C$3x$3$3g
- 7360: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7361: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7362: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7363: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7364: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7365: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7366: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7367: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7368: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7369: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7370: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7371: $6647884nding$8%p$@$s5\5=B
- 7372: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7348: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7349: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7350: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7351: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7352: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7353: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7354: i$20%._A$P13&$22$3C$3x$3$3g
+ 7355: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7356: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7357: i$20%._B$P13&$22$3C$3x$3$3g
+ 7358: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7359: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7360: i$20%._C$P13&$22$3C$3x$3$3g
+ 7361: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7362: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7363: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7364: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7365: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7366: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7367: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7368: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7369: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7370: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7371: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7372: $6647884nding$8%p$@$s5\5=B
  7373: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7374: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7375: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7376: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7377: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7378: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7379: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7380: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7381: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7382: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7383: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7384: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7385: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7386: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7387: ($20%._AM$0$P14u$6E7)
- 7388: ($20%._BM$0$P14u$6E7)
- 7389: ($20%._CM$0$P14u$6E7)
- 7390: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7391: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7392: i$20%._A$P13|$:I$3g$3$3C5\7
- 7393: i$20%._B$P13|$:I$3g$3$3C5\7
- 7394: i$20%._C$P13|$:I$3g$3$3C5\7
- 7395: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7396: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7397: (AIMID* h\9qE5=)
- 7398: (BIMID* h\9qE5=)
- 7399: (CIMID* h\9qE5=)
- 7400: (AIID* h\5=)
- 7401: (BIID* h\5=)
- 7402: (CIID* h\5=)
- 7403: (AM7EI$P10f$P16q* h\5=)
- 7404: (BM7EI$P10f$P16q* h\5=)
- 7405: (CM7EI$P10f$P16q* h\5=)
- 7406: $2097706ADH"=_$P13|$:E+\9q
- 7407: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7408: i$20%.%p$P15zj
- 7409: $7278448;39\5=Bj
+ 7375: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7376: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7377: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7378: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7379: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7380: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7381: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7382: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7383: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7384: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7385: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7386: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7387: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7388: ($20%._AM$0$P14u$6E7)
+ 7389: ($20%._BM$0$P14u$6E7)
+ 7390: ($20%._CM$0$P14u$6E7)
+ 7391: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7392: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7393: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7394: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7395: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7396: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7397: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7398: (AIMID* h\9qE5=)
+ 7399: (BIMID* h\9qE5=)
+ 7400: (CIMID* h\9qE5=)
+ 7401: (AIID* h\5=)
+ 7402: (BIID* h\5=)
+ 7403: (CIID* h\5=)
+ 7404: (AM7EI$P10f$P16q* h\5=)
+ 7405: (BM7EI$P10f$P16q* h\5=)
+ 7406: (CM7EI$P10f$P16q* h\5=)
+ 7407: $2097706ADH"=_$P13|$:E+\9q
+ 7408: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7409: i$20%.%p$P15zj
  7410: $7278448;39\5=Bj
  7411: $7278448;39\5=Bj
- 7412: i$3{$3X_A$A&=j
- 7413: i$3{$3X_B$A&=j
- 7414: i$3{$3X_C$A&=j
- 7415: i$3{$3X_A$P13|5=j
- 7416: i$3{$3X_B$P13|5=j
- 7417: i$3{$3X_C$P13|5=j
- 7418: H=M$20%.`I$P13|j;$E7
- 7419: H=M$20%.aI$P13|j;$E7
- 7420: H=M$20%.bI$P13|j;$E7
- 7421: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7422: $4457025i
- 7423: $4456998"i
- 7424: $24952730=j
- 7425: $656169$3$3N$3f$3b$3hj
- 7426: $P12N`"H"
- 7427: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7412: $7278448;39\5=Bj
+ 7413: i$3{$3X_A$A&=j
+ 7414: i$3{$3X_B$A&=j
+ 7415: i$3{$3X_C$A&=j
+ 7416: i$3{$3X_A$P13|5=j
+ 7417: i$3{$3X_B$P13|5=j
+ 7418: i$3{$3X_C$P13|5=j
+ 7419: H=M$20%.`I$P13|j;$E7
+ 7420: H=M$20%.aI$P13|j;$E7
+ 7421: H=M$20%.bI$P13|j;$E7
+ 7422: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7423: $4457025i
+ 7424: $4456998"i
+ 7425: $24952730=j
+ 7426: $656169$3$3N$3f$3b$3hj
+ 7427: $P12N`"H"
  7428: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7429: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7430: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7430: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7431: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7432: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7433: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7434: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7434: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7435: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7436: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7437: pending$3`$3F$3b$3N$3I[$3P[
- 7438: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7437: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7438: pending$3`$3F$3b$3N$3I[$3P[
  7439: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7440: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7441: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7442: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7443: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7444: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7445: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7441: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7442: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7443: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7444: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7445: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7446: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7447: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7448: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7449: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7450: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7451: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7452: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7453: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7454: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7455: $6750818j=j
- 7456: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7457: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7458: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7459: GL$20%.L$P16<$P11Op)i$132960a b
- 7460: GL$20%.LIDp)i$132960a b
- 7461: $20%._AL$3p$3243853
- 7462: $20%._BL$3p$3243853
- 7463: $20%._CL$3p$3243853
- 7464: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7465: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7466: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7448: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7449: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7450: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7451: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7452: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7453: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7454: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7455: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7456: $6750818j=j
+ 7457: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7458: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7459: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7460: GL$20%.L$P16<$P11Op)i$132960a b
+ 7461: GL$20%.LIDp)i$132960a b
+ 7462: $20%._AL$3p$3243853
+ 7463: $20%._BL$3p$3243853
+ 7464: $20%._CL$3p$3243853
+ 7465: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7466: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7467: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7468: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7469: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7469: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7470: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7471: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7472: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7473: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7474: $6819916%L$P10l$20*()5"
+ 7474: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7475: $6819916%L$P10l$20*()5"
- 7476: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7476: $6819916%L$P10l$20*()5"
  7477: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7478: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7479: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7480: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7481: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7482: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7483: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7484: i$20%._A$P13&$22$3C$3x$3$3g
- 7485: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7486: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7487: i$20%._B$P13&$22$3C$3x$3$3g
- 7488: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7489: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7490: i$20%._C$P13&$22$3C$3x$3$3g
- 7491: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7492: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7493: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7494: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7495: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7496: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7497: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7498: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7499: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7500: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7501: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7502: $6647884nding$8%p$@$s5\5=B
- 7503: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7479: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7480: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7481: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7482: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7483: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7484: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7485: i$20%._A$P13&$22$3C$3x$3$3g
+ 7486: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7487: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7488: i$20%._B$P13&$22$3C$3x$3$3g
+ 7489: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7490: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7491: i$20%._C$P13&$22$3C$3x$3$3g
+ 7492: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7493: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7494: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7495: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7496: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7497: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7498: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7499: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7500: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7501: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7502: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7503: $6647884nding$8%p$@$s5\5=B
  7504: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7505: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7506: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7507: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7508: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7509: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7510: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7511: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7512: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7513: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7514: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7515: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7516: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7517: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7518: ($20%._AM$0$P14u$6E7)
- 7519: ($20%._BM$0$P14u$6E7)
- 7520: ($20%._CM$0$P14u$6E7)
- 7521: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7522: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7523: i$20%._A$P13|$:I$3g$3$3C5\7
- 7524: i$20%._B$P13|$:I$3g$3$3C5\7
- 7525: i$20%._C$P13|$:I$3g$3$3C5\7
- 7526: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7527: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7528: (AIMID* h\9qE5=)
- 7529: (BIMID* h\9qE5=)
- 7530: (CIMID* h\9qE5=)
- 7531: (AIID* h\5=)
- 7532: (BIID* h\5=)
- 7533: (CIID* h\5=)
- 7534: (AM7EI$P10f$P16q* h\5=)
- 7535: (BM7EI$P10f$P16q* h\5=)
- 7536: (CM7EI$P10f$P16q* h\5=)
- 7537: $2097706ADH"=_$P13|$:E+\9q
- 7538: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7539: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7540: Only <Player> can enter the battlefield.
- 7541: The time limit for this battle is $3 minutes.
- 7542: There is a crack in the $3. It no longer contains a monster.
- 7543: A crack has formed on the $3, and the beast inside has been unleashed!
- 7544: Boss mode : $6!!
- 7545: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7546: $7
- 7547: DEBUG1
- 7548: $T&$:I$P16_i)$4719207" $P16_i
- 7549: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7550: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7551: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7552: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7553: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7554: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7555: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7556: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7557: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7558: CLI_NUM0 = $0
- 7559: CLI_NUM1 = $1
- 7560: CLI_NUM2 = $2
- 7561: CLI_NUM3 = $3
- 7562: CLI_NUM4 = $4
- 7563: CLI_NUM5 = $5
- 7564: CLI_NUM6 = $6
- 7565: CLI_NUM7 = $6
- 7566: Skip the event? [Yes./No.]
- 7567: Battlefield clear time: $3 second[/s]!
- 7568: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7569: The current battlefield clear time record is $3 second[/s].
- 7570: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7571: Called the NPC! PC ID = $0! RESULT = $1!
- 7572: Got rid of the NPC! PC ID = $0!
- 7573: The NPC has fallen, and he can't get up! Leaving room A!
- 7574: The NPC has fallen, and he can't get up! Leaving room B!
- 7575: The NPC has fallen, and he can't get up! Leaving room C!
- 7576: The NPC has fallen, and he can't get up! Leaving room D!
- 7577: All party members have fallen in battle. Now leaving the battlefield.
- 7578: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7579: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7580: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7581: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7582: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7583: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7584: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7585: What the hell is that number!? It's not possible!!!
- 7586: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7587: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7588: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7589: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7590: That record is held by $5 adventurers, including %0!
- 7591: That record is held by %0!
- 7592: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7593: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7594: A malignant force escapes from your $3.
- 7595: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7596: Your $3 is calling out to something...
- 7597: The $0 has a large crack running straight down the side.
- 7598: Something awakens owing to the presence of the $3...
- 7599: The oath has been fulfilled owing to the power of your $3.
- 7600: There is no response. You cannot escape!
- 7601: You have broken the clear time record for "[Storms of Fate/The Wyrmking Descends]"!
- 7602: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 second[/s].
- 7603: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 minute[/s] $2 second[/s].
- 7604: Entering the battlefield for "[Storms of Fate/The Wyrmking Descends]"!
- 7605: Which battlefield will you enter? [None./Storms of Fate./The Wyrmking Descends./././././././././././././././././././././././././././././]
- 7606: The spatial displacement is very small. If you only had some item that could make it bigger...
- 7607: The spatial displacement has grown.
- 7608: The space around you seems oddly distorted and disrupted.
- 7609: You are being pulled into the spatial displacement!
- 7610: Enter the displacement? [Yes./No.]
- 7611: There is no response...
- 7612: You can see the Misareaux Coast on the other side of the spatial displacement...
- 7613: You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement...
- 7614: Something has been engraved on this stone, but the message is too difficult to make out.
- 7615: There is nothing out of the ordinary here.
- 7616: The ground here is giving off heat.
- 7617: There is no response.
- 7618: There is nothing out of the ordinary here.
- 7619: You can hear a strange voice... "Items, items, la la la la la`t"
- 7620: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7621: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7622: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7623: Now, listen close...
- 7624: Oh... Well, if that's the case, I'm outta here.
- 7625: The Goblin slipped away when you were not looking...
- 7626: You can hear a strange, raspy voice...
- 7627: I travel......hear lots... Hear...stories... Can tell...if...
- 7628: .........listen......
- 7629: Oh...... ...outta here.........
- 7630: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7631: What story would you like to be told? [On second thought, maybe later./Storms of Fate(pt.1)./Storms of Fate(pt.2)./Storms of Fate(pt.3).]
- 7632: 
+ 7506: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7507: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7508: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7509: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7510: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7511: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7512: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7513: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7514: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7515: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7516: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7517: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7518: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7519: ($20%._AM$0$P14u$6E7)
+ 7520: ($20%._BM$0$P14u$6E7)
+ 7521: ($20%._CM$0$P14u$6E7)
+ 7522: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7523: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7524: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7525: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7526: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7527: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7528: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7529: (AIMID* h\9qE5=)
+ 7530: (BIMID* h\9qE5=)
+ 7531: (CIMID* h\9qE5=)
+ 7532: (AIID* h\5=)
+ 7533: (BIID* h\5=)
+ 7534: (CIID* h\5=)
+ 7535: (AM7EI$P10f$P16q* h\5=)
+ 7536: (BM7EI$P10f$P16q* h\5=)
+ 7537: (CM7EI$P10f$P16q* h\5=)
+ 7538: $2097706ADH"=_$P13|$:E+\9q
+ 7539: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7540: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7541: Only <Player> can enter the battlefield.
+ 7542: The time limit for this battle is $3 minutes.
+ 7543: There is a crack in the $3. It no longer contains a monster.
+ 7544: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7545: Boss mode : $6!!
+ 7546: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7547: $7
+ 7548: DEBUG1
+ 7549: $T&$:I$P16_i)$4719207" $P16_i
+ 7550: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7551: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7552: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7553: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7554: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7555: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7556: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7557: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7558: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7559: CLI_NUM0 = $0
+ 7560: CLI_NUM1 = $1
+ 7561: CLI_NUM2 = $2
+ 7562: CLI_NUM3 = $3
+ 7563: CLI_NUM4 = $4
+ 7564: CLI_NUM5 = $5
+ 7565: CLI_NUM6 = $6
+ 7566: CLI_NUM7 = $6
+ 7567: Skip the event? [Yes./No.]
+ 7568: Battlefield clear time: $3 second[/s]!
+ 7569: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7570: The current battlefield clear time record is $3 second[/s].
+ 7571: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7572: Called the NPC! PC ID = $0! RESULT = $1!
+ 7573: Got rid of the NPC! PC ID = $0!
+ 7574: The NPC has fallen, and he can't get up! Leaving room A!
+ 7575: The NPC has fallen, and he can't get up! Leaving room B!
+ 7576: The NPC has fallen, and he can't get up! Leaving room C!
+ 7577: The NPC has fallen, and he can't get up! Leaving room D!
+ 7578: All party members have fallen in battle. Now leaving the battlefield.
+ 7579: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7580: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7581: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7582: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7583: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7584: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7585: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7586: What the hell is that number!? It's not possible!!!
+ 7587: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7588: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7589: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7590: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7591: That record is held by $5 adventurers, including %0!
+ 7592: That record is held by %0!
+ 7593: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7594: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7595: A malignant force escapes from your $3.
+ 7596: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7597: Your $3 is calling out to something...
+ 7598: The $0 has a large crack running straight down the side.
+ 7599: Something awakens owing to the presence of the $3...
+ 7600: The oath has been fulfilled owing to the power of your $3.
+ 7601: There is no response. You cannot escape!
+ 7602: You have broken the clear time record for "[Storms of Fate/The Wyrmking Descends]"!
+ 7603: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 second[/s].
+ 7604: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 minute[/s] $2 second[/s].
+ 7605: Entering the battlefield for "[Storms of Fate/The Wyrmking Descends]"!
+ 7606: Which battlefield will you enter? [None./Storms of Fate./The Wyrmking Descends./././././././././././././././././././././././././././././]
+ 7607: The spatial displacement is very small. If you only had some item that could make it bigger...
+ 7608: The spatial displacement has grown.
+ 7609: The space around you seems oddly distorted and disrupted.
+ 7610: You are being pulled into the spatial displacement!
+ 7611: Enter the displacement? [Yes./No.]
+ 7612: There is no response...
+ 7613: You can see the Misareaux Coast on the other side of the spatial displacement...
+ 7614: You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement...
+ 7615: Something has been engraved on this stone, but the message is too difficult to make out.
+ 7616: There is nothing out of the ordinary here.
+ 7617: The ground here is giving off heat.
+ 7618: There is no response.
+ 7619: There is nothing out of the ordinary here.
+ 7620: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7621: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7622: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7623: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7624: Now, listen close...
+ 7625: Oh... Well, if that's the case, I'm outta here.
+ 7626: The Goblin slipped away when you were not looking...
+ 7627: You can hear a strange, raspy voice...
+ 7628: I travel......hear lots... Hear...stories... Can tell...if...
+ 7629: .........listen......
+ 7630: Oh...... ...outta here.........
+ 7631: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7632: What story would you like to be told? [On second thought, maybe later./Storms of Fate(pt.1)./Storms of Fate(pt.2)./Storms of Fate(pt.3).]
  7633: 
  7634: 
- 7635: <Player>, I have been looking for you. Come. We have confidential matters to discuss.
- 7636: I must speak with you regarding the Wyrmking Bahamut.
- 7637: You may recall him returning to the heavens, but I have received confirmation that he has once again descended upon Cape Riverne.
- 7638: Judging from the activity of the wyrms remaining in the various regions of Vana'diel, I suspected that they had yet to regain their faith in mankind.
- 7639: Most importantly, Tavnazia is in danger. Prishe and Ulmia have already been informed. I assume that you will also lend them your aid.
- 7640: Help out? [Yes./Not yet.]
- 7641: Then you should head to Cape Riverne. Prishe and Ulmia have probably already departed.
- 7642: I see you have other matters to attend to. I know that you would not turn your back on Prishe and Ulmia, though.
- 7643: I am sure we have a little time. Return here when you are ready.
- 7644: I don't understand. Bahamut is nowhere to be found in Monarch Linn! We've searched all over the south side...
- 7645: We must be looking on the wrong side. Let's try again, Prishe.
- 7646: <Player>?
- 7647: I'm so glad you're here! Nothing could reassure me more than your presence.
- 7648: A member of the Tavnazian Patrol witnessed Bahamut returning to Cape Riverne with an army of wyrms.
- 7649: We've looked all over the south side, but Bahamut is nowhere to be found. We're about to begin searching the north side, now.
- 7650: It will take a while to search every island, so I think we should split up.
- 7651: Let's go, Prishe.
- 7652: Oh <Player>, I am simply delighted to see you again!
- 7653: Surprised? I'm a regular girl now, you know! Tehehe!
- 7654: So, it's you. I knew we would meet again, but I must say, this is sooner than I expected.
- 7655: You have done well, but you are naive to think that your troubles would end so easily.
- 7656: What are you planning!?
- 7657: Your friend here held in her body a crystallized form of the Emptiness. You returned it to the mothercrystals, did you not?
- 7658: ...!
- 7659: I sense the will that embodied the Emptiness. It has yet to awaken into this world, but it is tremendously powerful.
- 7660: The mothercrystals are already beginning to feel its effects, enveloped in the Emptiness as they are. It is stirring...
- 7661: My magicite...
- 7662: Mankind will be annihilated. You have simply delayed the process.
- 7663: Do you dare to defy fate once again and fight to preserve your lives?
- 7664: Defy fate and fight? [Fight and live!/Fate is inevitable.]
- 7665: Children of Vana'diel! [Stand in defiance/Accept your fate] and perish! Redeem the world as a part of the mothercrystals!
- 7666: You have delayed mankind's extinction yet again...
- 7667: An age is a mere flicker to a wyrm. However, enough flickers united form a star.
- 7668: Children of Vana'diel. Unite and form a future in which mankind can survive.
- 7669: Let's go home for now, Prishe.
- 7670: Okay...
- 7671: <Player>, please tell Cardinal Mildaurion about this the next time you are in Jeuno.
- 7672: The "Star of Tavnazia"... The stone Prishe released when Promathia was defeated...
- 7673: The children of Vana'diel harbor the Emptiness inside their bodies, even if just a small amount. I envisioned it causing problems before too many thousands of years passed.
- 7674: However, I never dreamed that we would face such a threat so soon.
- 7675: We have no choice now but to stop Bahamut.
- 7676: I have a feeling that he was waiting for you, desiring a confrontation.
- 7677: Bahamut pays respect to the strong, regardless of stature. It is for that reason he is called the Wyrmking.
- 7678: You must gather an army of adventurers and challenge him yet again. Show our adversary the strength of mankind!
- 7679: As for me, I will conduct a thorough investigation of the emanations coming from the mothercrystals. Perhaps I will find something of interest.
- 7680: If you can unlock all the secrets of Vana'diel, we may meet again. I hope with every fabric of my being that that time will come.
- 7681: <Player> uses $0!
- 7682: <Player> uses $0, but nothing happens.
- 7683: We must make preparations and consult with Cardinal Mildaurion.
- 7684: Children of Vana'diel, what do you think to accomplish by fighting for your lives? You know your efforts are futile, yet still you resist...
- 7685: Your lives are a blasphemy against the mothercrystal!
- 7686: Contemplate on the good your death will bring as your mortal form is consumed by my brilliance!
- 7687: Humanity unites, yet it comes to nothing. Consider the mountains and rivers consumed by the Emptiness...
- 7688: No matter how great your desire for humanity's survival, mortals lack the ability to alter their beginnings.
- 7689: All you can do is choose your ending. The light of the Wyrmking shall reveal the justice of your decision!
- 7690: Winged brothers and sisters, hear my call!
- 7691: All those who traverse the endless sea of clouds! All those who bear the shadowless sun as they cross the skies!
- 7692: Come join me in the shedding of divine blood!
- 7693: To think that you could repel the greatest of my power... Your strength is laudable, children of Vana'diel.
- 7694: You may even be able to overcome the inheritor of the will of the Emptiness...
- 7695: The children of Vana'diel fly without wings. With a mere fragment of that power, one could rise to the sun.
- 7696: Children of Vana'diel, what do you think to accomplish by fighting for your lives? You know your efforts are futile, yet still you resist...
- 7697: Atone for your sins against the mothercrystal if you desire to live!
- 7698: I will break your body and sear it to ash, scattered by the wind--never again will you return to the earth of Vana'diel!
- 7699: Your unity has given you great power, and brought forth hope.
- 7700: However, in the great passage of time, even hope great enough to avert the apocalypse is forgotten. Such is the way of mortals.
- 7701: We can choose to end it all here instead. Your hope will be judged by the raging fires of the Wyrmking!
- 7702: To think that you could repel the greatest of my power... Your strength is laudable. So...the children of Vana'diel fly without wings...
- 7703: I must acknowledge your power, defeater of the Emptiness.
- 7704: However, mortals quickly weaken. I will remain here and give this world my divine protection, strengthening the generations to come.
- 7705: Children of Vana'diel, unite and return to me. Come with those who wish to rise to the sun with their power... And come with those who are unafraid of the plummet to great depths in death.
- 7706: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
- 7707: Record this fount? [Yes./No.]
- 7708: A palpable force wells up slowly from beneath the surface...
- 7709: This geomagnetic fount has already been recorded.
- 7710: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
- 7711: Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the $3 has restored them to normal!
- 7712: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
- 7713: Your $3 has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
- 7714: Your $3 has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
- 7715: You may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
- 7716: You may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
- 7717: You may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
- 7718: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7719: Set this as current home point? [Yes./No.]
- 7720: Home point set!
- 7721: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7722: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7723: You have registered a new home point! You are now able to teleport here from any other home point.
- 7724: You may teleport from here to any other home point you have registered.
- 7725: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7726: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7727: You have not yet registered any other home points, and thus are unable to teleport.
- 7728: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7729: There is no fee for teleporting to Home Point #$2 in $8.
- 7730: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7731: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7732: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7733: You may change the method of selecting the area of your desired home point to teleport to.
- 7734: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7735: You are now selecting by [region/expansion].
- 7736: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7737: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7738: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7739: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
- 7740: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7741: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7742: You have returned to the field of battle.
- 7743: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7744: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7745: You have only $0 [second/seconds] (Earth time) remaining.
- 7746: Your time for this Confrontation is up...
- 7747: The monster fades before your eyes, a look of disappointment on its face.
- 7748: (Test message.)
- 7749: Enter the garrison? [Yes./No.]
- 7750: The $3 is ripped violently to pieces!
- 7751: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7752: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7753: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7754: Our foe advances...may thine aim be true!
- 7755: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7756: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7757: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7758: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7759: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7760: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7761: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7762: Greetings, traveler! How dost thou fare in thine adventures?
- 7763: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7764: Dost thou find this enchantment to thy liking?
- 7765: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7766: Splendid! May it serve thee well.
- 7767: %0 obtained $0!
- 7768: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7769: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7770: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7771: Though it may fall short of thy expectations, pray accept it.
- 7772: Otherwise, we shall have no choice but to dispose of it.
- 7773: Many thanks for thine assistance!
- 7774: Pray accept this $0 as but a humble token of our gratitude.
- 7775: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7776: $3f$3o$3b$3O$590643$3$3NM
- 7777: $3f$3o$3b$3O$201475X$3^$3243853
- 7778: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
- 7779: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
- 7780: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
- 7781: You are not the party leader.
- 7782: Some members of your party/alliance are not in the appropriate staging zone.
- 7783: You must have at least $0 people in your party/alliance to participate.
- 7784: One or more party/alliance members have not accepted the objective for $0.
- 7785: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
- 7786: One or more party/alliance members have not yet received their additional rewards for completing $0.
- 7787: Unable to commence Wanted battle
- 7788: One or more party/alliance members has a fellow active.
- 7789: One or more party/alliance members has an alter ego active.
- 7790: One or more party/alliance members is already participating in other content.
- 7791: One or more party/alliance members is currently viewing a cut scene.
- 7792: $0 has been removed. Reselect the objective and try again.
- 7793: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
- 7794: Your party leader is attempting to commence a Wanted battle.
- 7795: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
- 7796: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
- 7797: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7798: No one in your party has set the appropriate Records of Eminence objective.
- 7799: $0 will be active the next time you join this battle.
+ 7635: 
+ 7636: <Player>, I have been looking for you. Come. We have confidential matters to discuss.
+ 7637: I must speak with you regarding the Wyrmking Bahamut.
+ 7638: You may recall him returning to the heavens, but I have received confirmation that he has once again descended upon Cape Riverne.
+ 7639: Judging from the activity of the wyrms remaining in the various regions of Vana'diel, I suspected that they had yet to regain their faith in mankind.
+ 7640: Most importantly, Tavnazia is in danger. Prishe and Ulmia have already been informed. I assume that you will also lend them your aid.
+ 7641: Help out? [Yes./Not yet.]
+ 7642: Then you should head to Cape Riverne. Prishe and Ulmia have probably already departed.
+ 7643: I see you have other matters to attend to. I know that you would not turn your back on Prishe and Ulmia, though.
+ 7644: I am sure we have a little time. Return here when you are ready.
+ 7645: I don't understand. Bahamut is nowhere to be found in Monarch Linn! We've searched all over the south side...
+ 7646: We must be looking on the wrong side. Let's try again, Prishe.
+ 7647: <Player>?
+ 7648: I'm so glad you're here! Nothing could reassure me more than your presence.
+ 7649: A member of the Tavnazian Patrol witnessed Bahamut returning to Cape Riverne with an army of wyrms.
+ 7650: We've looked all over the south side, but Bahamut is nowhere to be found. We're about to begin searching the north side, now.
+ 7651: It will take a while to search every island, so I think we should split up.
+ 7652: Let's go, Prishe.
+ 7653: Oh <Player>, I am simply delighted to see you again!
+ 7654: Surprised? I'm a regular girl now, you know! Tehehe!
+ 7655: So, it's you. I knew we would meet again, but I must say, this is sooner than I expected.
+ 7656: You have done well, but you are naive to think that your troubles would end so easily.
+ 7657: What are you planning!?
+ 7658: Your friend here held in her body a crystallized form of the Emptiness. You returned it to the mothercrystals, did you not?
+ 7659: ...!
+ 7660: I sense the will that embodied the Emptiness. It has yet to awaken into this world, but it is tremendously powerful.
+ 7661: The mothercrystals are already beginning to feel its effects, enveloped in the Emptiness as they are. It is stirring...
+ 7662: My magicite...
+ 7663: Mankind will be annihilated. You have simply delayed the process.
+ 7664: Do you dare to defy fate once again and fight to preserve your lives?
+ 7665: Defy fate and fight? [Fight and live!/Fate is inevitable.]
+ 7666: Children of Vana'diel! [Stand in defiance/Accept your fate] and perish! Redeem the world as a part of the mothercrystals!
+ 7667: You have delayed mankind's extinction yet again...
+ 7668: An age is a mere flicker to a wyrm. However, enough flickers united form a star.
+ 7669: Children of Vana'diel. Unite and form a future in which mankind can survive.
+ 7670: Let's go home for now, Prishe.
+ 7671: Okay...
+ 7672: <Player>, please tell Cardinal Mildaurion about this the next time you are in Jeuno.
+ 7673: The "Star of Tavnazia"... The stone Prishe released when Promathia was defeated...
+ 7674: The children of Vana'diel harbor the Emptiness inside their bodies, even if just a small amount. I envisioned it causing problems before too many thousands of years passed.
+ 7675: However, I never dreamed that we would face such a threat so soon.
+ 7676: We have no choice now but to stop Bahamut.
+ 7677: I have a feeling that he was waiting for you, desiring a confrontation.
+ 7678: Bahamut pays respect to the strong, regardless of stature. It is for that reason he is called the Wyrmking.
+ 7679: You must gather an army of adventurers and challenge him yet again. Show our adversary the strength of mankind!
+ 7680: As for me, I will conduct a thorough investigation of the emanations coming from the mothercrystals. Perhaps I will find something of interest.
+ 7681: If you can unlock all the secrets of Vana'diel, we may meet again. I hope with every fabric of my being that that time will come.
+ 7682: <Player> uses $0!
+ 7683: <Player> uses $0, but nothing happens.
+ 7684: We must make preparations and consult with Cardinal Mildaurion.
+ 7685: Children of Vana'diel, what do you think to accomplish by fighting for your lives? You know your efforts are futile, yet still you resist...
+ 7686: Your lives are a blasphemy against the mothercrystal!
+ 7687: Contemplate on the good your death will bring as your mortal form is consumed by my brilliance!
+ 7688: Humanity unites, yet it comes to nothing. Consider the mountains and rivers consumed by the Emptiness...
+ 7689: No matter how great your desire for humanity's survival, mortals lack the ability to alter their beginnings.
+ 7690: All you can do is choose your ending. The light of the Wyrmking shall reveal the justice of your decision!
+ 7691: Winged brothers and sisters, hear my call!
+ 7692: All those who traverse the endless sea of clouds! All those who bear the shadowless sun as they cross the skies!
+ 7693: Come join me in the shedding of divine blood!
+ 7694: To think that you could repel the greatest of my power... Your strength is laudable, children of Vana'diel.
+ 7695: You may even be able to overcome the inheritor of the will of the Emptiness...
+ 7696: The children of Vana'diel fly without wings. With a mere fragment of that power, one could rise to the sun.
+ 7697: Children of Vana'diel, what do you think to accomplish by fighting for your lives? You know your efforts are futile, yet still you resist...
+ 7698: Atone for your sins against the mothercrystal if you desire to live!
+ 7699: I will break your body and sear it to ash, scattered by the wind--never again will you return to the earth of Vana'diel!
+ 7700: Your unity has given you great power, and brought forth hope.
+ 7701: However, in the great passage of time, even hope great enough to avert the apocalypse is forgotten. Such is the way of mortals.
+ 7702: We can choose to end it all here instead. Your hope will be judged by the raging fires of the Wyrmking!
+ 7703: To think that you could repel the greatest of my power... Your strength is laudable. So...the children of Vana'diel fly without wings...
+ 7704: I must acknowledge your power, defeater of the Emptiness.
+ 7705: However, mortals quickly weaken. I will remain here and give this world my divine protection, strengthening the generations to come.
+ 7706: Children of Vana'diel, unite and return to me. Come with those who wish to rise to the sun with their power... And come with those who are unafraid of the plummet to great depths in death.
+ 7707: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
+ 7708: Record this fount? [Yes./No.]
+ 7709: A palpable force wells up slowly from beneath the surface...
+ 7710: This geomagnetic fount has already been recorded.
+ 7711: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
+ 7712: Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the $3 has restored them to normal!
+ 7713: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
+ 7714: Your $3 has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
+ 7715: Your $3 has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
+ 7716: You may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
+ 7717: You may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
+ 7718: You may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
+ 7719: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7720: Set this as current home point? [Yes./No.]
+ 7721: Home point set!
+ 7722: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7723: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7724: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7725: You may teleport from here to any other home point you have registered.
+ 7726: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7727: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7728: You have not yet registered any other home points, and thus are unable to teleport.
+ 7729: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7730: There is no fee for teleporting to Home Point #$2 in $8.
+ 7731: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7732: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7733: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7734: You may change the method of selecting the area of your desired home point to teleport to.
+ 7735: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7736: You are now selecting by [region/expansion].
+ 7737: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7738: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7739: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7740: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7741: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7742: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7743: You have returned to the field of battle.
+ 7744: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7745: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7746: You have only $0 [second/seconds] (Earth time) remaining.
+ 7747: Your time for this Confrontation is up...
+ 7748: The monster fades before your eyes, a look of disappointment on its face.
+ 7749: (Test message.)
+ 7750: Enter the garrison? [Yes./No.]
+ 7751: The $3 is ripped violently to pieces!
+ 7752: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7753: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7754: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7755: Our foe advances...may thine aim be true!
+ 7756: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7757: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7758: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7759: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7760: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7761: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7762: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7763: Greetings, traveler! How dost thou fare in thine adventures?
+ 7764: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7765: Dost thou find this enchantment to thy liking?
+ 7766: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7767: Splendid! May it serve thee well.
+ 7768: %0 obtained $0!
+ 7769: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7770: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7771: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7772: Though it may fall short of thy expectations, pray accept it.
+ 7773: Otherwise, we shall have no choice but to dispose of it.
+ 7774: Many thanks for thine assistance!
+ 7775: Pray accept this $0 as but a humble token of our gratitude.
+ 7776: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7777: $3f$3o$3b$3O$590643$3$3NM
+ 7778: $3f$3o$3b$3O$201475X$3^$3243853
+ 7779: Those who have accepted $0 must pay $1 Unity accolades to participate. The content for this Wanted battle is $2. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
+ 7780: Commence the Wanted battle? ($1 acc.) [Let's go!/Not yet.]
+ 7781: Accept the appropriate Unity: Wanted objective from the Records of Eminence list.
+ 7782: You are not the party leader.
+ 7783: Some members of your party/alliance are not in the appropriate staging zone.
+ 7784: You must have at least $0 people in your party/alliance to participate.
+ 7785: One or more party/alliance members have not accepted the objective for $0.
+ 7786: One or more party/alliance members do not have the required $0 Unity accolade[/s] to join the fray.
+ 7787: One or more party/alliance members have not yet received their additional rewards for completing $0.
+ 7788: Unable to commence Wanted battle
+ 7789: One or more party/alliance members has a fellow active.
+ 7790: One or more party/alliance members has an alter ego active.
+ 7791: One or more party/alliance members is already participating in other content.
+ 7792: One or more party/alliance members is currently viewing a cut scene.
+ 7793: $0 has been removed. Reselect the objective and try again.
+ 7794: All party members have been knocked out. Leaving the Wanted battle in $0 minute[/s].
+ 7795: Your party leader is attempting to commence a Wanted battle.
+ 7796: Your party leader is attempting to commence a Wanted battle. You do not have the objective set, so your rewards will be limited.
+ 7797: You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.
+ 7798: Which objective would you like to undertake? [None for now./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7799: No one in your party has set the appropriate Records of Eminence objective.
+ 7800: $0 will be active the next time you join this battle.

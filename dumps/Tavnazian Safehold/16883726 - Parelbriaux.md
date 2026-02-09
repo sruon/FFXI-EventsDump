@@ -133,14 +133,14 @@
 |      21 | 0x20AAE     |      133806 |
 |      22 | 0xBEC8      |       48840 |
 |      23 | 0xFFFF63C0  |  4294927296 |
-|      24 | 0x26FA      |        9978 |
-|      25 | 0x27BC      |       10172 |
+|      24 | 0x26FB      |        9979 |
+|      25 | 0x27BD      |       10173 |
 |      26 | 0x001D      |          29 |
-|      27 | 0x27BD      |       10173 |
-|      28 | 0x27BE      |       10174 |
-|      29 | 0x28A8      |       10408 |
-|      30 | 0x28A9      |       10409 |
-|      31 | 0x28AA      |       10410 |
+|      27 | 0x27BE      |       10174 |
+|      28 | 0x27BF      |       10175 |
+|      29 | 0x28A9      |       10409 |
+|      30 | 0x28AA      |       10410 |
+|      31 | 0x28AB      |       10411 |
 |      32 | 0x01A1      |         417 |
 |      33 | 0x01A0      |         416 |
 |      34 | 0x0018      |          24 |
@@ -156,19 +156,19 @@
 |      44 | 0xAEEC      |       44780 |
 |      45 | 0xFFFF5FD8  |  4294926296 |
 |      46 | 0x09D2      |        2514 |
-|      47 | 0x28DE      |       10462 |
-|      48 | 0x28DF      |       10463 |
-|      49 | 0x2B0A      |       11018 |
-|      50 | 0x2B0B      |       11019 |
-|      51 | 0x2B0C      |       11020 |
-|      52 | 0x2B0D      |       11021 |
-|      53 | 0x2B0E      |       11022 |
-|      54 | 0x2B0F      |       11023 |
-|      55 | 0x2B10      |       11024 |
-|      56 | 0x2B11      |       11025 |
-|      57 | 0x2B12      |       11026 |
-|      58 | 0x2B13      |       11027 |
-|      59 | 0x2B14      |       11028 |
+|      47 | 0x28DF      |       10463 |
+|      48 | 0x28E0      |       10464 |
+|      49 | 0x2B0B      |       11019 |
+|      50 | 0x2B0C      |       11020 |
+|      51 | 0x2B0D      |       11021 |
+|      52 | 0x2B0E      |       11022 |
+|      53 | 0x2B0F      |       11023 |
+|      54 | 0x2B10      |       11024 |
+|      55 | 0x2B11      |       11025 |
+|      56 | 0x2B12      |       11026 |
+|      57 | 0x2B13      |       11027 |
+|      58 | 0x2B14      |       11028 |
+|      59 | 0x2B15      |       11029 |
 |      60 | 0x1BBAF     |      113583 |
 |      61 | 0xA7D5      |       42965 |
 |      62 | 0x04D8      |        1240 |
@@ -193,26 +193,26 @@
 
 ## String References
 
-- **9978**: You're looking for Ulmia? Sorry, I haven't seen her. Try asking Justinius, he might know something.
-- **10172**: I'm sorry, I can't let you see Prishe. It's unfortunate, but that's the way it is.
-- **10173**: I haven't told anyone else yet, but they're saying that Prishe is the child of the Twilight God.
-- **10174**: It's true, I'm telling you! That's because I also overheard that Promathia is residing in the deepest corner of the Sacrarium!
-- **10408**: Prishe and Ulmia are inside. By the sound of it, they had a tough time on their trip to the clouds.
-- **10409**: I know I said some pretty harsh things about Prishe before, but after hearing about how she stood up to that beast...
-- **10410**: She has more guts than the rest of the Tavnazian Patrol put together! (Just don't let Justinius know I said that.)
-- **10462**: That Mithra is some kind of tracker called a "sin hunter." That's what old Odeya told me.
-- **10463**: The sin hunter went to talk to her after searching Prishe's room.
-- **11018**: This is Prishe and Ulmia's room.
-- **11019**: I'd keep your distance if you know what's good for you.
-- **11020**: It's been kind of lonely without Ulmia or the boss around.
-- **11021**: I sure hope nothing happens to Ulmia...
-- **11022**: And Prishe? Oh, I know nothing will happen to Prishe. There isn't a jam she hasn't been able to find her way out of!
-- **11023**: You see? I told you Prishe would be fine.
-- **11024**: But I'd suggest putting your adventures on hold for a while. We wouldn't want to make elder Despachiaire too upset...
-- **11025**: Just when I thought they were back for good, Ulmia and Prishe have run off again.
-- **11026**: I wonder if they'll ever be back...
-- **11027**: You're on your way to fight the wyrms, aren't you? I really wish that Ulmia would reconsider going...
-- **11028**: ...but she wouldn't listen to me, would she...
+- **9979**: You're looking for Ulmia? Sorry, I haven't seen her. Try asking Justinius, he might know something.
+- **10173**: I'm sorry, I can't let you see Prishe. It's unfortunate, but that's the way it is.
+- **10174**: I haven't told anyone else yet, but they're saying that Prishe is the child of the Twilight God.
+- **10175**: It's true, I'm telling you! That's because I also overheard that Promathia is residing in the deepest corner of the Sacrarium!
+- **10409**: Prishe and Ulmia are inside. By the sound of it, they had a tough time on their trip to the clouds.
+- **10410**: I know I said some pretty harsh things about Prishe before, but after hearing about how she stood up to that beast...
+- **10411**: She has more guts than the rest of the Tavnazian Patrol put together! (Just don't let Justinius know I said that.)
+- **10463**: That Mithra is some kind of tracker called a "sin hunter." That's what old Odeya told me.
+- **10464**: The sin hunter went to talk to her after searching Prishe's room.
+- **11019**: This is Prishe and Ulmia's room.
+- **11020**: I'd keep your distance if you know what's good for you.
+- **11021**: It's been kind of lonely without Ulmia or the boss around.
+- **11022**: I sure hope nothing happens to Ulmia...
+- **11023**: And Prishe? Oh, I know nothing will happen to Prishe. There isn't a jam she hasn't been able to find her way out of!
+- **11024**: You see? I told you Prishe would be fine.
+- **11025**: But I'd suggest putting your adventures on hold for a while. We wouldn't want to make elder Despachiaire too upset...
+- **11026**: Just when I thought they were back for good, Ulmia and Prishe have run off again.
+- **11027**: I wonder if they'll ever be back...
+- **11028**: You're on your way to fight the wyrms, aren't you? I really wish that Ulmia would reconsider going...
+- **11029**: ...but she wouldn't listen to me, would she...
 
 ## Events
 
@@ -459,7 +459,7 @@
 
 ```
   0: 0x0075 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=9978*)
+  1: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=9979*)
     → "You're looking for Ulmia? Sorry, I haven't seen her. Try asking Justinius, he might know something."
   2: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x007E [0x21] END_EVENT
@@ -489,15 +489,15 @@
 
 ```
   0: 0x0080 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=10172*)
+  1: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=10173*)
     → "I'm sorry, I can't let you see Prishe. It's unfortunate, but that's the way it is."
   2: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0089 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=10173*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=10174*)
     → "I haven't told anyone else yet, but they're saying that Prishe is the child of the Twilight God."
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  7: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10174*)
+  7: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10175*)
     → "It's true, I'm telling you! That's because I also overheard that Promathia is residing in the deepest corner of the Sacrarium!"
   8: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00AF [0x21] END_EVENT
@@ -527,15 +527,15 @@
 
 ```
   0: 0x00B1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10408*)
+  1: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10409*)
     → "Prishe and Ulmia are inside. By the sound of it, they had a tough time on their trip to the clouds."
   2: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10409*)
+  4: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10410*)
     → "I know I said some pretty harsh things about Prishe before, but after hearing about how she stood up to that beast..."
   5: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  7: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10410*)
+  7: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10411*)
     → "She has more guts than the rest of the Tavnazian Patrol put together! (Just don't let Justinius know I said that.)"
   8: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00E0 [0x21] END_EVENT
@@ -563,11 +563,11 @@
 
 ```
   0: 0x00E2 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10409*)
+  1: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10410*)
     → "I know I said some pretty harsh things about Prishe before, but after hearing about how she stood up to that beast..."
   2: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10410*)
+  4: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10411*)
     → "She has more guts than the rest of the Tavnazian Patrol put together! (Just don't let Justinius know I said that.)"
   5: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00FE [0x21] END_EVENT
@@ -2127,10 +2127,10 @@
   1: 0x04FD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04FE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Parelbriaux (ID: 16883726/0x0101A00E), tag_num=0x1B)
-  4: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
+  4: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
     → "That Mithra is some kind of tracker called a "sin hunter." That's what old Odeya told me."
   5: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x050A [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
+  6: 0x050A [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
     → "The sin hunter went to talk to her after searching Prishe's room."
   7: 0x050D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x050E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Parelbriaux (ID: 16883726/0x0101A00E), tag_num=0x1C)
@@ -2163,11 +2163,11 @@
 
 ```
   0: 0x0527 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=11018*)
+  1: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=11019*)
     → "This is Prishe and Ulmia's room."
   2: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0530 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=11019*)
+  4: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=11020*)
     → "I'd keep your distance if you know what's good for you."
   5: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0543 [0x21] END_EVENT
@@ -2197,15 +2197,15 @@
 
 ```
   0: 0x0545 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=11020*)
+  1: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=11021*)
     → "It's been kind of lonely without Ulmia or the boss around."
   2: 0x054D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x054E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=11021*)
+  4: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=11022*)
     → "I sure hope nothing happens to Ulmia..."
   5: 0x0560 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0561 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  7: 0x0570 [0x1D] PRINT_EVENT_MESSAGE(message_id=11022*)
+  7: 0x0570 [0x1D] PRINT_EVENT_MESSAGE(message_id=11023*)
     → "And Prishe? Oh, I know nothing will happen to Prishe. There isn't a jam she hasn't been able to find her way out of!"
   8: 0x0573 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0574 [0x21] END_EVENT
@@ -2234,11 +2234,11 @@
 
 ```
   0: 0x0576 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=11023*)
+  1: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=11024*)
     → "You see? I told you Prishe would be fine."
   2: 0x057E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x057F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=11024*)
+  4: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=11025*)
     → "But I'd suggest putting your adventures on hold for a while. We wouldn't want to make elder Despachiaire too upset..."
   5: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0592 [0x21] END_EVENT
@@ -2267,11 +2267,11 @@
 
 ```
   0: 0x0594 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=11025*)
+  1: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=11026*)
     → "Just when I thought they were back for good, Ulmia and Prishe have run off again."
   2: 0x059C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x059D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11026*)
+  4: 0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11027*)
     → "I wonder if they'll ever be back..."
   5: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05B0 [0x21] END_EVENT
@@ -2299,11 +2299,11 @@
 
 ```
   0: 0x05B2 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x05B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11027*)
+  1: 0x05B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11028*)
     → "You're on your way to fight the wyrms, aren't you? I really wish that Ulmia would reconsider going..."
   2: 0x05BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Parelbriaux (ID: 16883726/0x0101A00E), Parelbriaux (ID: 16883726/0x0101A00E)], work=29*
-  4: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=11028*)
+  4: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=11029*)
     → "...but she wouldn't listen to me, would she..."
   5: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05CE [0x21] END_EVENT

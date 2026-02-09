@@ -23,19 +23,19 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1E7D      |        7805 |
-|       2 | 0x1E7E      |        7806 |
-|       3 | 0x1F07      |        7943 |
-|       4 | 0x1F08      |        7944 |
-|       5 | 0x1F09      |        7945 |
+|       1 | 0x1E7E      |        7806 |
+|       2 | 0x1E7F      |        7807 |
+|       3 | 0x1F08      |        7944 |
+|       4 | 0x1F09      |        7945 |
+|       5 | 0x1F0A      |        7946 |
 
 ## String References
 
-- **7805**: Steam vents dot the area here. Predictably, if you step over one you're in for a bit of a burn.
-- **7806**: Plugging them up with rocks should be enough to keep you safe--and you'll be able to cross without any fear of injury.
-- **7943**: E'rythin' here's goin' to hell in a han'basket. Y'know those traditionalists from the Order of Renaye were here studyin' the oddities with th' ergon loci here. Musta spooked 'em, too, because they ran back to Adoulin wit' their tails 'tween their legs.
-- **7944**: It's all 'bove my head, but they said somethin' about ergon loci poppin' up where none had existed 'fore.
-- **7945**: The spot they were talkin' about is to the north of the second frontier bivouac here. If you're a gemoanc'r, y'might learn somethin' by grabbin' a quick look.
+- **7806**: Steam vents dot the area here. Predictably, if you step over one you're in for a bit of a burn.
+- **7807**: Plugging them up with rocks should be enough to keep you safe--and you'll be able to cross without any fear of injury.
+- **7944**: E'rythin' here's goin' to hell in a han'basket. Y'know those traditionalists from the Order of Renaye were here studyin' the oddities with th' ergon loci here. Musta spooked 'em, too, because they ran back to Adoulin wit' their tails 'tween their legs.
+- **7945**: It's all 'bove my head, but they said somethin' about ergon loci poppin' up where none had existed 'fore.
+- **7946**: The spot they were talkin' about is to the north of the second frontier bivouac here. If you're a gemoanc'r, y'might learn somethin' by grabbin' a quick look.
 
 ## Events
 
@@ -86,10 +86,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
     → "Steam vents dot the area here. Predictably, if you step over one you're in for a bit of a burn."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
     → "Plugging them up with rocks should be enough to keep you safe--and you'll be able to cross without any fear of injury."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*
@@ -124,13 +124,13 @@
   2: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "E'rythin' here's goin' to hell in a han'basket. Y'know those traditionalists from the Order of Renaye were here studyin' the oddities with th' ergon loci here. Musta spooked 'em, too, because they ran back to Adoulin wit' their tails 'tween their legs."
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "It's all 'bove my head, but they said somethin' about ergon loci poppin' up where none had existed 'fore."
   8: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+  9: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "The spot they were talkin' about is to the north of the second frontier bivouac here. If you're a gemoanc'r, y'might learn somethin' by grabbin' a quick look."
  10: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [EventEntity, EventEntity], work=0*

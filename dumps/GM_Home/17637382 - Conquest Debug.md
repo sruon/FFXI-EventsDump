@@ -20,12 +20,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BA1      |        7073 |
+|       0 | 0x1BA2      |        7074 |
 |       1 | 0x0000      |           0 |
 
 ## String References
 
-- **7073**: Vat do you vant? [Conquest points!/1 day gone (Vana'diel time)/1 day gone (earth time)/1 week gone (earth time)/Supplies for supply quest!/Not much at the moment.]
+- **7074**: Vat do you vant? [Conquest points!/1 day gone (Vana'diel time)/1 day gone (earth time)/1 week gone (earth time)/Supplies for supply quest!/Not much at the moment.]
 
 ## Events
 
@@ -71,7 +71,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7073*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7074*, default_option=0*, option_flags=0*)
     → "Vat do you vant? [Conquest points!/1 day gone (Vana'diel time)/1 day gone (earth time)/1 week gone (earth time)/Supplies for supply quest!/Not much at the moment.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0014

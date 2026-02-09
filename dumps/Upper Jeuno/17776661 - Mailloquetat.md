@@ -33,8 +33,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1BAA      |        7082 |
-|       2 | 0x1BB1      |        7089 |
+|       1 | 0x1BAB      |        7083 |
+|       2 | 0x1BB2      |        7090 |
 |       3 | 0x0384      |         900 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0028      |          40 |
@@ -48,8 +48,8 @@
 
 ## String References
 
-- **7082**: In this temple we pray to Altana. You should pray for forgiveness, too.
-- **7089**: You, too, should pray as that faithful one does.
+- **7083**: In this temple we pray to Altana. You should pray for forgiveness, too.
+- **7090**: You, too, should pray as that faithful one does.
 
 ## Events
 
@@ -99,7 +99,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
     → "In this temple we pray to Altana. You should pray for forgiveness, too."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x21] END_EVENT
@@ -219,7 +219,7 @@
 
 ```
   0: 0x003F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+  1: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
     → "You, too, should pray as that faithful one does."
   2: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0048 [0x21] END_EVENT

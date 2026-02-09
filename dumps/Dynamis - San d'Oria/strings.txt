@@ -1,5 +1,5 @@
 # Strings for Dynamis - San d'Oria
-# Total: 7292 strings
+# Total: 7293 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,95 +7069,95 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: The designation on the $0 has been canceled.
- 7069: A connection error has occurred.
- 7070: The maximum number of people has been exceeded.
- 7071: There are signs that something fell here.
- 7072: ----== WARNING ==---- You no longer have clearance to remain in Dynamis. You will be transported out in $1 [second/seconds].
- 7073: Your clearance to remain in Dynamis has been restored. You will no longer be transported.
- 7074: Tallying conquest results...
- 7075: Conquest results tallied.
- 7076: This region is currently under San d'Orian control.
- 7077: This region is currently under Bastokan control.
- 7078: This region is currently under Windurstian control.
- 7079: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7080: This region is currently neutral.
- 7081: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7082: All three nations are tied for first place.
- 7083: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7084: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7085: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7086: All three nations are tied for first place.
- 7087: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7088: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7089: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7090: All three nations are tied for first place.
- 7091: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7092: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7093: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7094: All three nations are tied for first place.
- 7095: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7096: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7097: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7098: Global balance of power: All three nations are tied for first place.
- 7099: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7100: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7101: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7102: All three nations are tied for first place.
- 7103: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7104: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7105: Conquest update: This region is currently neutral.
- 7106: Conquest update: This region is currently under San d'Orian control.
- 7107: Conquest update: This region is currently under Bastokan control.
- 7108: Conquest update: This region is currently under Windurstian control.
- 7109: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7110: All three nations are at a deadlock.
- 7111: The beastmen are on the rise.
- 7112: Regional influence: San d'Oria - Dominant
- 7113: Regional influence: San d'Oria - Major
- 7114: Regional influence: San d'Oria - Minor
- 7115: Regional influence: San d'Oria - Minimal
- 7116: Bastok - Dominant
- 7117: Bastok - Major
- 7118: Bastok - Minor
- 7119: Bastok - Minimal
- 7120: Windurst - Dominant
- 7121: Windurst - Major
- 7122: Windurst - Minor
- 7123: Windurst - Minimal
- 7124: Bastok and Windurst have formed an alliance.
- 7125: San d'Oria and Windurst have formed an alliance.
- 7126: San d'Oria and Bastok have formed an alliance.
- 7127: Bastok and Windurst are currently allies.
- 7128: San d'Oria and Windurst are currently allies.
- 7129: San d'Oria and Bastok are currently allies.
- 7130: $10$P11.$17F$0 $P14;$P12hF$1
- 7131: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7132: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7133: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7134: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7135: The beastmen are gaining power.
- 7136: San d'Oria's regional control is now 10% closer to the first place country's!
- 7137: Bastok's regional control is now 10% closer to the first place country's!
- 7138: Windurst's regional control are now 10% closer to the first place country's!
- 7139: San d'Oria's region points have increased!
- 7140: Bastok's region points have increased!
- 7141: Windurst's region points have increased!
- 7142: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7143: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7144: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7145: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7146: A Bastokan Expeditionary Force has been dispatched to this area.
- 7147: A Windurstian Expeditionary Force has been dispatched to this area.
- 7148: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7149: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7150: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7151: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7152: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7153: There was a curse on the beastmen's banner!
- 7154: The curse of the beastmen's banner has been lifted!
- 7155: There is a beastmen's banner.
- 7156: @
+ 7068: It won't open.
+ 7069: The designation on the $0 has been canceled.
+ 7070: A connection error has occurred.
+ 7071: The maximum number of people has been exceeded.
+ 7072: There are signs that something fell here.
+ 7073: ----== WARNING ==---- You no longer have clearance to remain in Dynamis. You will be transported out in $1 [second/seconds].
+ 7074: Your clearance to remain in Dynamis has been restored. You will no longer be transported.
+ 7075: Tallying conquest results...
+ 7076: Conquest results tallied.
+ 7077: This region is currently under San d'Orian control.
+ 7078: This region is currently under Bastokan control.
+ 7079: This region is currently under Windurstian control.
+ 7080: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7081: This region is currently neutral.
+ 7082: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7083: All three nations are tied for first place.
+ 7084: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7085: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7086: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7087: All three nations are tied for first place.
+ 7088: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7089: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7091: All three nations are tied for first place.
+ 7092: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7093: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7094: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7095: All three nations are tied for first place.
+ 7096: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7097: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7099: Global balance of power: All three nations are tied for first place.
+ 7100: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7101: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7102: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7103: All three nations are tied for first place.
+ 7104: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7105: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7106: Conquest update: This region is currently neutral.
+ 7107: Conquest update: This region is currently under San d'Orian control.
+ 7108: Conquest update: This region is currently under Bastokan control.
+ 7109: Conquest update: This region is currently under Windurstian control.
+ 7110: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7111: All three nations are at a deadlock.
+ 7112: The beastmen are on the rise.
+ 7113: Regional influence: San d'Oria - Dominant
+ 7114: Regional influence: San d'Oria - Major
+ 7115: Regional influence: San d'Oria - Minor
+ 7116: Regional influence: San d'Oria - Minimal
+ 7117: Bastok - Dominant
+ 7118: Bastok - Major
+ 7119: Bastok - Minor
+ 7120: Bastok - Minimal
+ 7121: Windurst - Dominant
+ 7122: Windurst - Major
+ 7123: Windurst - Minor
+ 7124: Windurst - Minimal
+ 7125: Bastok and Windurst have formed an alliance.
+ 7126: San d'Oria and Windurst have formed an alliance.
+ 7127: San d'Oria and Bastok have formed an alliance.
+ 7128: Bastok and Windurst are currently allies.
+ 7129: San d'Oria and Windurst are currently allies.
+ 7130: San d'Oria and Bastok are currently allies.
+ 7131: $10$P11.$17F$0 $P14;$P12hF$1
+ 7132: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7133: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7134: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7135: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7136: The beastmen are gaining power.
+ 7137: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7138: Bastok's regional control is now 10% closer to the first place country's!
+ 7139: Windurst's regional control are now 10% closer to the first place country's!
+ 7140: San d'Oria's region points have increased!
+ 7141: Bastok's region points have increased!
+ 7142: Windurst's region points have increased!
+ 7143: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7144: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7145: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7146: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7147: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7148: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7149: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7150: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7151: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7152: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7153: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7154: There was a curse on the beastmen's banner!
+ 7155: The curse of the beastmen's banner has been lifted!
+ 7156: There is a beastmen's banner.
  7157: @
  7158: @
  7159: @
@@ -7232,64 +7232,65 @@
  7228: @
  7229: @
  7230: @
- 7231: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7232: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7233: The sands of the $3 have begun to fall. You have $0 minutes (Earth time) remaining in Dynamis.
- 7234: Your stay in Dynamis has been extended by $0 minute[/s].
- 7235: You will be expelled from Dynamis in $0 [second/minute] (Earth time).
- 7236: You will be expelled from Dynamis in $0 [seconds/minutes] (Earth time).
- 7237: You have exceeded your allotted time. Now exiting Dynamis.
- 7238: The sands of the hourglass have emptied...
- 7239: You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
- 7240: What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]
- 7241: Proceed out of Dynamis? [Yes, leave./No, remain.]
- 7242: Proceed in unlocking support jobs? [Yes, unlock./No, retain.]
- 7243: Memories of skills long forgotten come flooding back to you...
- 7244: You sense an aura of boundless rage...
- 7245: $0...
- 7246: Or perhaps...
- 7247: You sense that something might happen if you possessed one of these...
- 7248: Or perhaps...
- 7249: %0's attack staggers the fiend!
- 7250: You feel an ominous presence, as if something might happen if you possessed $0.
- 7251: Your allotted time is $0 minute[/s].
- 7252: The monster fades before your eyes, a look of disappointment on its face.
- 7253: DEBUG: Expulsion will occur at .
- 7254: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7255: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7256: You have returned to the field of battle.
- 7257: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7258: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7259: You have only $0 [second/seconds] (Earth time) remaining.
- 7260: Your time for this Confrontation is up...
- 7261: The monster fades before your eyes, a look of disappointment on its face.
- 7262: (Test message.)
- 7263: Enter the garrison? [Yes./No.]
- 7264: The $3 is ripped violently to pieces!
- 7265: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7266: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7267: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7268: Our foe advances...may thine aim be true!
- 7269: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7270: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7271: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7272: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7273: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7274: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7275: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7276: Greetings, traveler! How dost thou fare in thine adventures?
- 7277: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7278: Dost thou find this enchantment to thy liking?
- 7279: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7280: Splendid! May it serve thee well.
- 7281: %0 obtained $0!
- 7282: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7283: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7284: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7285: Though it may fall short of thy expectations, pray accept it.
- 7286: Otherwise, we shall have no choice but to dispose of it.
- 7287: Many thanks for thine assistance!
- 7288: Pray accept this $0 as but a humble token of our gratitude.
- 7289: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7290: $3f$3o$3b$3O$590643$3$3NM
- 7291: $3f$3o$3b$3O$201475X$3^$3243853
+ 7231: @
+ 7232: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7233: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7234: The sands of the $3 have begun to fall. You have $0 minutes (Earth time) remaining in Dynamis.
+ 7235: Your stay in Dynamis has been extended by $0 minute[/s].
+ 7236: You will be expelled from Dynamis in $0 [second/minute] (Earth time).
+ 7237: You will be expelled from Dynamis in $0 [seconds/minutes] (Earth time).
+ 7238: You have exceeded your allotted time. Now exiting Dynamis.
+ 7239: The sands of the hourglass have emptied...
+ 7240: You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
+ 7241: What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]
+ 7242: Proceed out of Dynamis? [Yes, leave./No, remain.]
+ 7243: Proceed in unlocking support jobs? [Yes, unlock./No, retain.]
+ 7244: Memories of skills long forgotten come flooding back to you...
+ 7245: You sense an aura of boundless rage...
+ 7246: $0...
+ 7247: Or perhaps...
+ 7248: You sense that something might happen if you possessed one of these...
+ 7249: Or perhaps...
+ 7250: %0's attack staggers the fiend!
+ 7251: You feel an ominous presence, as if something might happen if you possessed $0.
+ 7252: Your allotted time is $0 minute[/s].
+ 7253: The monster fades before your eyes, a look of disappointment on its face.
+ 7254: DEBUG: Expulsion will occur at .
+ 7255: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7256: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7257: You have returned to the field of battle.
+ 7258: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7259: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7260: You have only $0 [second/seconds] (Earth time) remaining.
+ 7261: Your time for this Confrontation is up...
+ 7262: The monster fades before your eyes, a look of disappointment on its face.
+ 7263: (Test message.)
+ 7264: Enter the garrison? [Yes./No.]
+ 7265: The $3 is ripped violently to pieces!
+ 7266: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7267: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7268: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7269: Our foe advances...may thine aim be true!
+ 7270: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7271: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7272: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7273: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7274: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7275: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7276: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7277: Greetings, traveler! How dost thou fare in thine adventures?
+ 7278: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7279: Dost thou find this enchantment to thy liking?
+ 7280: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7281: Splendid! May it serve thee well.
+ 7282: %0 obtained $0!
+ 7283: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7284: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7285: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7286: Though it may fall short of thy expectations, pray accept it.
+ 7287: Otherwise, we shall have no choice but to dispose of it.
+ 7288: Many thanks for thine assistance!
+ 7289: Pray accept this $0 as but a humble token of our gratitude.
+ 7290: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7291: $3f$3o$3b$3O$590643$3$3NM
+ 7292: $3f$3o$3b$3O$201475X$3^$3243853

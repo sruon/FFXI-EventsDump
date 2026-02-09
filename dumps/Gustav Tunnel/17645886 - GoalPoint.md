@@ -24,19 +24,19 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0040      |          64 |
 |       2 | 0x0014      |          20 |
-|       3 | 0x1CC1      |        7361 |
-|       4 | 0x1CC2      |        7362 |
-|       5 | 0x1CC3      |        7363 |
-|       6 | 0x1CC4      |        7364 |
-|       7 | 0x1CC5      |        7365 |
+|       3 | 0x1CC2      |        7362 |
+|       4 | 0x1CC3      |        7363 |
+|       5 | 0x1CC4      |        7364 |
+|       6 | 0x1CC5      |        7365 |
+|       7 | 0x1CC6      |        7366 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x1CC6      |        7366 |
+|       9 | 0x1CC7      |        7367 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x1CC7      |        7367 |
+|      11 | 0x1CC8      |        7368 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x1CC8      |        7368 |
-|      14 | 0x1CC9      |        7369 |
-|      15 | 0x1CCA      |        7370 |
+|      13 | 0x1CC9      |        7369 |
+|      14 | 0x1CCA      |        7370 |
+|      15 | 0x1CCB      |        7371 |
 
 ## Events
 
@@ -89,19 +89,19 @@
   0: 0x0001 [0x6C] FADE_ENTITY_COLOR(entity_id=Moogle (ID: 17645892/0x010D4144), end_alpha=0*, fade_time=0*)
   1: 0x000A [0x4E] SET_ENTITY_HIDE_FLAG: Show Moogle (ID: 17645892/0x010D4144)
   2: 0x0010 [0x6C] FADE_ENTITY_COLOR(entity_id=Moogle (ID: 17645892/0x010D4144), end_alpha=64*, fade_time=20*)
-  3: 0x0019 [0x2B] Moogle (ID: 17645892/0x010D4144) [7361*]:
+  3: 0x0019 [0x2B] Moogle (ID: 17645892/0x010D4144) [7362*]:
     → "Boo-hah-hah`...kupo!"
   4: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0021 [0x2B] Moogle (ID: 17645892/0x010D4144) [7362*]:
+  5: 0x0021 [0x2B] Moogle (ID: 17645892/0x010D4144) [7363*]:
     → "Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!"
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0029 [0x2B] Moogle (ID: 17645892/0x010D4144) [7363*]:
+  7: 0x0029 [0x2B] Moogle (ID: 17645892/0x010D4144) [7364*]:
     → "Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
   8: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0031 [0x2B] Moogle (ID: 17645892/0x010D4144) [7364*]:
+  9: 0x0031 [0x2B] Moogle (ID: 17645892/0x010D4144) [7365*]:
     → "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
  10: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0039 [0x2B] Moogle (ID: 17645892/0x010D4144) [7365*]:
+ 11: 0x0039 [0x2B] Moogle (ID: 17645892/0x010D4144) [7366*]:
     → "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu..."
  12: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0041 [0x6C] FADE_ENTITY_COLOR(entity_id=Moogle (ID: 17645892/0x010D4144), end_alpha=0*, fade_time=20*)
@@ -142,28 +142,28 @@
   2: 0x0061 [0x6C] FADE_ENTITY_COLOR(entity_id=Moogle (ID: 17645892/0x010D4144), end_alpha=64*, fade_time=20*)
   3: 0x006A [0x13] ExtData[1]->WorkLocal[0] = rand() % 3*
   4: 0x006F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0082
-  5: 0x0077 [0x2B] Moogle (ID: 17645892/0x010D4144) [7366*]:
+  5: 0x0077 [0x2B] Moogle (ID: 17645892/0x010D4144) [7367*]:
     → "This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery."
   6: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007F [0x01] GOTO 0x00CB
   8: 0x0082 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x009D
-  9: 0x008A [0x2B] Moogle (ID: 17645892/0x010D4144) [7361*]:
+  9: 0x008A [0x2B] Moogle (ID: 17645892/0x010D4144) [7362*]:
     → "Boo-hah-hah`...kupo!"
  10: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0092 [0x2B] Moogle (ID: 17645892/0x010D4144) [7367*]:
+ 11: 0x0092 [0x2B] Moogle (ID: 17645892/0x010D4144) [7368*]:
     → "Why do ghosts say "boo," anyway?"
  12: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x009A [0x01] GOTO 0x00CB
  14: 0x009D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00B8
- 15: 0x00A5 [0x2B] Moogle (ID: 17645892/0x010D4144) [7368*]:
+ 15: 0x00A5 [0x2B] Moogle (ID: 17645892/0x010D4144) [7369*]:
     → "I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!"
  16: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x00AD [0x2B] Moogle (ID: 17645892/0x010D4144) [7369*]:
+ 17: 0x00AD [0x2B] Moogle (ID: 17645892/0x010D4144) [7370*]:
     → "Maybe I'm doing something wrong, kupo?"
  18: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00B5 [0x01] GOTO 0x00CB
  20: 0x00B8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00CB
- 21: 0x00C0 [0x2B] Moogle (ID: 17645892/0x010D4144) [7370*]:
+ 21: 0x00C0 [0x2B] Moogle (ID: 17645892/0x010D4144) [7371*]:
     → "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
  22: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00C8 [0x01] GOTO 0x00CB

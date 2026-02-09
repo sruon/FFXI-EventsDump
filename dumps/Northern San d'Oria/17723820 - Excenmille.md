@@ -23,19 +23,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x00C8      |         200 |
-|       2 | 0x47D3      |       18387 |
+|       2 | 0x47D4      |       18388 |
 |       3 | 0x001D      |          29 |
 |       4 | 0x0005      |           5 |
 |       5 | 0x0273      |         627 |
 |       6 | 0x0006      |           6 |
-|       7 | 0x47D4      |       18388 |
+|       7 | 0x47D5      |       18389 |
 |       8 | 0x006B      |         107 |
 |       9 | 0x007F      |         127 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x47DC      |       18396 |
-|      12 | 0x47DD      |       18397 |
-|      13 | 0x47DE      |       18398 |
-|      14 | 0x47DF      |       18399 |
+|      11 | 0x47DD      |       18397 |
+|      12 | 0x47DE      |       18398 |
+|      13 | 0x47DF      |       18399 |
+|      14 | 0x47E0      |       18400 |
 |      15 | 0x00C9      |         201 |
 |      16 | 0x001B      |          27 |
 |      17 | 0xFFFC7A9E  |  4294736542 |
@@ -45,37 +45,37 @@
 |      21 | 0x001E      |          30 |
 |      22 | 0x0078      |         120 |
 |      23 | 0x000F      |          15 |
-|      24 | 0x47B1      |       18353 |
+|      24 | 0x47B2      |       18354 |
 |      25 | 0x0096      |         150 |
-|      26 | 0x47B2      |       18354 |
-|      27 | 0x47B3      |       18355 |
-|      28 | 0x47B4      |       18356 |
-|      29 | 0x47B5      |       18357 |
-|      30 | 0x47B6      |       18358 |
+|      26 | 0x47B3      |       18355 |
+|      27 | 0x47B4      |       18356 |
+|      28 | 0x47B5      |       18357 |
+|      29 | 0x47B6      |       18358 |
+|      30 | 0x47B7      |       18359 |
 |      31 | 0x001A      |          26 |
-|      32 | 0x47B7      |       18359 |
+|      32 | 0x47B8      |       18360 |
 |      33 | 0x005A      |          90 |
-|      34 | 0x47B8      |       18360 |
-|      35 | 0x47B9      |       18361 |
-|      36 | 0x47BA      |       18362 |
+|      34 | 0x47B9      |       18361 |
+|      35 | 0x47BA      |       18362 |
+|      36 | 0x47BB      |       18363 |
 |      37 | 0x0016      |          22 |
-|      38 | 0x47BB      |       18363 |
-|      39 | 0x47BC      |       18364 |
-|      40 | 0x47BD      |       18365 |
-|      41 | 0x47BE      |       18366 |
-|      42 | 0x47BF      |       18367 |
+|      38 | 0x47BC      |       18364 |
+|      39 | 0x47BD      |       18365 |
+|      40 | 0x47BE      |       18366 |
+|      41 | 0x47BF      |       18367 |
+|      42 | 0x47C0      |       18368 |
 |      43 | 0x0002      |           2 |
-|      44 | 0x47C0      |       18368 |
+|      44 | 0x47C1      |       18369 |
 |      45 | 0x0003      |           3 |
-|      46 | 0x47C1      |       18369 |
-|      47 | 0x47C2      |       18370 |
+|      46 | 0x47C2      |       18370 |
+|      47 | 0x47C3      |       18371 |
 |      48 | 0x0004      |           4 |
-|      49 | 0x47C3      |       18371 |
-|      50 | 0x47C4      |       18372 |
+|      49 | 0x47C4      |       18372 |
+|      50 | 0x47C5      |       18373 |
 |      51 | 0x0007      |           7 |
-|      52 | 0x47C5      |       18373 |
+|      52 | 0x47C6      |       18374 |
 |      53 | 0x0046      |          70 |
-|      54 | 0x47C6      |       18374 |
+|      54 | 0x47C7      |       18375 |
 |      55 | 0x0064      |         100 |
 |      56 | 0x0008      |           8 |
 |      57 | 0x00AE      |         174 |
@@ -86,22 +86,22 @@
 |      62 | 0x0599      |        1433 |
 |      63 | 0x00A3      |         163 |
 |      64 | 0x00B1      |         177 |
-|      65 | 0x47C7      |       18375 |
-|      66 | 0x47C8      |       18376 |
+|      65 | 0x47C8      |       18376 |
+|      66 | 0x47C9      |       18377 |
 |      67 | 0x0019      |          25 |
-|      68 | 0x47C9      |       18377 |
-|      69 | 0x47CA      |       18378 |
-|      70 | 0x47CB      |       18379 |
-|      71 | 0x47CC      |       18380 |
-|      72 | 0x47CD      |       18381 |
-|      73 | 0x47CE      |       18382 |
-|      74 | 0x47CF      |       18383 |
+|      68 | 0x47CA      |       18378 |
+|      69 | 0x47CB      |       18379 |
+|      70 | 0x47CC      |       18380 |
+|      71 | 0x47CD      |       18381 |
+|      72 | 0x47CE      |       18382 |
+|      73 | 0x47CF      |       18383 |
+|      74 | 0x47D0      |       18384 |
 |      75 | 0x0014      |          20 |
-|      76 | 0x47D0      |       18384 |
-|      77 | 0x47D1      |       18385 |
+|      76 | 0x47D1      |       18385 |
+|      77 | 0x47D2      |       18386 |
 |      78 | 0x00B2      |         178 |
 |      79 | 0x00D2      |         210 |
-|      80 | 0x47D2      |       18386 |
+|      80 | 0x47D3      |       18387 |
 
 ## Events
 
@@ -164,7 +164,7 @@
   2: 0x000B [0x03] ExtData[1]->WorkLocal[3] = 0*
   3: 0x0010 [0x1A] CALL_SUBROUTINE(address=0x023E)
   4: 0x0013 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
-  5: 0x0018 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18387*]:
+  5: 0x0018 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18388*]:
     → "I advise you to try your hand at your nearest convenience--outside of town, that is."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
@@ -178,7 +178,7 @@
 
 SUBROUTINE_0072:
  15: 0x0072 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [EventEntity, EventEntity], work=[627*, 0*]
- 16: 0x0083 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18388*]:
+ 16: 0x0083 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18389*]:
     → "May I suggest East or West Ronfaure? They are both nearby, and provide ideal conditions for you to try out this newfound power. When you are finished, return here and inform me as to how you are progressing."
  17: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x008B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -486,7 +486,7 @@ SUBROUTINE_0072:
   4: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
   5: 0x00FE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
   6: 0x010B [0x03] Work_Zone[4] = 1*
-  7: 0x0110 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18396*]:
+  7: 0x0110 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18397*]:
     → "[By the way/While I have your attention], Curilla of the Temple Knights is also participating in this initiative."
   8: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0118 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x0132
@@ -502,10 +502,10 @@ SUBROUTINE_015B:
  17: 0x016C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01CE
  18: 0x0174 [0x7B] Excenmille (ID: 17723601/0x010E70D1) stops talking
  19: 0x0179 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
- 20: 0x0188 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18397*]:
+ 20: 0x0188 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18398*]:
     → "I must warn you, however, that she has little time for those who have done her no favors. I highly doubt she would consent to undergoing the ritual with you."
  21: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0190 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18398*]:
+ 22: 0x0190 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18399*]:
     → "Increase your reputation around Vana'diel and do all you can for [San d'Oria/your home nation] first."
  23: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0198 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -513,7 +513,7 @@ SUBROUTINE_015B:
  26: 0x01AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
  27: 0x01BE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
  28: 0x01CB [0x01] GOTO 0x01D6
- 29: 0x01CE [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18399*]:
+ 29: 0x01CE [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18400*]:
     → "I cannot say for certain whether she would accept you or not, but it could do no harm to make an official visit and make your intentions clear."
  30: 0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -565,7 +565,7 @@ SUBROUTINE_0303:
  71: 0x0303 [0x1C] WAIT(15* ticks)
  72: 0x0306 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  73: 0x0317 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
- 74: 0x0326 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18353*]:
+ 74: 0x0326 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18354*]:
     → "I am Excenmille M Aurchiat, overseer of all Conflict-related matters."
  75: 0x032D [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x032E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -585,13 +585,13 @@ SUBROUTINE_03A4:
  88: 0x03A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [EventEntity, EventEntity], work=[627*, 0*]
  89: 0x03B5 [0x7B] Excenmille (ID: 17723601/0x010E70D1) stops talking
  90: 0x03BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
- 91: 0x03C9 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18354*]:
+ 91: 0x03C9 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18355*]:
     → "I see. You wish to try your hand at Trust."
  92: 0x03D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x03D1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
  94: 0x03DE [0x79] Excenmille (ID: 17723601/0x010E70D1) looks at LocalPlayer (Basic look)
  95: 0x03E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
- 96: 0x03F7 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18355*]:
+ 96: 0x03F7 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18356*]:
     → "In bygone times, I might have said that adventurers were to be kept at an arm's distance like the deranged mother of one's partner."
  97: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x03FF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -606,10 +606,10 @@ SUBROUTINE_03A4:
 
 SUBROUTINE_0464:
 107: 0x0464 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-108: 0x0473 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18356*]:
+108: 0x0473 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18357*]:
     → "Yet when I chose to revive the ancient traditions of Conflict and Ballista, it was you--the adventurers--who heeded the call to battle."
 109: 0x047A [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x047B [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18357*]:
+110: 0x047B [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18358*]:
     → "As such, I shall permit you to engage in the Trust ritual with me."
 111: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0483 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -625,13 +625,13 @@ SUBROUTINE_0464:
 SUBROUTINE_04E2:
 121: 0x04E2 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0582
 122: 0x04EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[627*, 0*]
-123: 0x04FB [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18358*]:
+123: 0x04FB [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18359*]:
     → "You...are not aware of what Trust magic is?"
 124: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0503 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
 126: 0x0510 [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 26*
 127: 0x0517 [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
-128: 0x051C [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18359*]:
+128: 0x051C [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18360*]:
     → "Sometimes I wonder if Gondebaud's head is filled with naught but cobwebs."
 129: 0x0523 [0x1C] WAIT(90* ticks)
 130: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -650,10 +650,10 @@ SUBROUTINE_057F:
 
 SUBROUTINE_0593:
 141: 0x0593 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-142: 0x05A2 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18360*]:
+142: 0x05A2 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18361*]:
     → "The Trust ritual draws forth energy from ardent bonds of trust and camaraderie as are forged betwixt brothers-in-arms upon the battlefield."
 143: 0x05A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x05AA [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18361*]:
+144: 0x05AA [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18362*]:
     → "To cut to the quick, if a strong bond exists between the two of us, you will be able to summon an "alter ego" of me."
 145: 0x05B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x05B2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -674,7 +674,7 @@ SUBROUTINE_0626:
 
 SUBROUTINE_0638:
 159: 0x0638 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[627*, 0*]
-160: 0x0649 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18362*]:
+160: 0x0649 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18363*]:
     → "Indeed, I could drive your foes into the sea as I did the Orcs of Rhazowa."
 161: 0x0650 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0651 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=627*
@@ -690,7 +690,7 @@ SUBROUTINE_06A9:
 170: 0x06A9 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x070B
 171: 0x06B1 [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 22*
 172: 0x06B8 [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
-173: 0x06BD [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18363*]:
+173: 0x06BD [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18364*]:
     → "The problem is, I could hardly pick you out of a lineup with similarly built individuals."
 174: 0x06C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x06C5 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x06DF
@@ -704,10 +704,10 @@ SUBROUTINE_06A9:
 SUBROUTINE_0708:
 182: 0x0708 [0x01] GOTO 0x0796
 183: 0x070B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-184: 0x071A [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18364*]:
+184: 0x071A [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18365*]:
     → "Yet if our bonds are not strong enough, then the magic is doomed to certain failure."
 185: 0x0721 [0x23] WAIT_FOR_DIALOG_INTERACTION
-186: 0x0722 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18365*]:
+186: 0x0722 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18366*]:
     → "Let us reflect not just on how the two of us came to know each other, but also on how our mutual experiences have shaped us."
 187: 0x0729 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x072A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -730,11 +730,11 @@ SUBROUTINE_0796:
 203: 0x07C7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
 204: 0x07D4 [0x79] Excenmille (ID: 17723601/0x010E70D1) looks at LocalPlayer (Basic look)
 205: 0x07DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-206: 0x07ED [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18366*]:
+206: 0x07ED [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18367*]:
     → "I remember the honorable efforts you put forth in Ballista."
 207: 0x07F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x07F5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
-209: 0x0802 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18367*]:
+209: 0x0802 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18368*]:
     → "When the sun grows dim and I retire to my quarters, drips of wax gather on my desk as I pore over the day's results. Never could I forget those whose accomplishments stood out from the rest."
 210: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x080A [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=627*
@@ -748,7 +748,7 @@ SUBROUTINE_0796:
 219: 0x0861 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
 220: 0x0870 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
 221: 0x087D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-222: 0x088C [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18368*]:
+222: 0x088C [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18369*]:
     → "[I/I also] remember your exploits in the arena of chocobo races. Your impressive flexibility turned more than one head."
 223: 0x0893 [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x0894 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -768,13 +768,13 @@ SUBROUTINE_0796:
 SUBROUTINE_0921:
 237: 0x0921 [0x7B] Excenmille (ID: 17723601/0x010E70D1) stops talking
 238: 0x0926 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-239: 0x0935 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18369*]:
+239: 0x0935 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18370*]:
     → "I[/, too,] remember meeting you when I was younger. Or perhaps it was one just like you."
 240: 0x093C [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x093D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
 242: 0x094A [0x79] Excenmille (ID: 17723601/0x010E70D1) looks at LocalPlayer (Basic look)
 243: 0x0954 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-244: 0x0963 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18370*]:
+244: 0x0963 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18371*]:
     → "Yes, I recall it clearly now. You remind me of an adventurer I once had a grand time with...hohoho."
 245: 0x096A [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x096B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -792,10 +792,10 @@ SUBROUTINE_09BB:
 256: 0x09C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[627*, 0*]
 257: 0x09D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
 258: 0x09E7 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
-259: 0x09EC [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18371*]:
+259: 0x09EC [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18372*]:
     → "I am reminded of those I fought with side by side...and of my [other/father]."
 260: 0x09F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-261: 0x09F4 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18372*]:
+261: 0x09F4 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18373*]:
     → "House Aurchiat is known to look toward the future, using the past as lessons rather than memories...but I would be remiss if I did not admit that your presence has stirred wonderful feelings within me."
 262: 0x09FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x09FC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -816,12 +816,12 @@ SUBROUTINE_0A87:
 276: 0x0A87 [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
 277: 0x0A8E [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
 278: 0x0A93 [0x1C] WAIT(30* ticks)
-279: 0x0A96 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18373*]:
+279: 0x0A96 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18374*]:
     → "Yes...I am ready to commit to the ritual."
 280: 0x0A9D [0x1C] WAIT(70* ticks)
 281: 0x0AA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x0AA1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-283: 0x0AB0 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18374*]:
+283: 0x0AB0 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18375*]:
     → "Come. Take my hand and concentrate on the bonds that the two of us have forged."
 284: 0x0AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x0AB8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -885,7 +885,7 @@ SUBROUTINE_0BFD:
 337: 0x0C9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [EventEntity, EventEntity], work=[627*, 0*]
 338: 0x0CAC [0x6E] Excenmille (ID: 17723820/0x010E71AC) uses emote 6*
 339: 0x0CB3 [0x99] Wait for Excenmille (ID: 17723820/0x010E71AC) animation to complete
-340: 0x0CB8 [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18375*]:
+340: 0x0CB8 [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18376*]:
     → "Disgraceful!"
 341: 0x0CBF [0x1C] WAIT(90* ticks)
 342: 0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -893,7 +893,7 @@ SUBROUTINE_0BFD:
 344: 0x0CD2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[627*, 0*]
 345: 0x0CE3 [0x7B] Excenmille (ID: 17723601/0x010E70D1) stops talking
 346: 0x0CE8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-347: 0x0CF7 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18376*]:
+347: 0x0CF7 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18377*]:
     → "Hmmm...? No, I'm not displeased. I'm rather pleasantly surprised at our joint success."
 348: 0x0CFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x0CFF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -905,17 +905,17 @@ SUBROUTINE_0BFD:
 355: 0x0D3F [0x99] Wait for Excenmille (ID: 17723820/0x010E71AC) animation to complete
 356: 0x0D44 [0x79] Excenmille (ID: 17723601/0x010E70D1) looks at Excenmille (ID: 17723820/0x010E71AC) (Basic look)
 357: 0x0D4E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-358: 0x0D5D [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18377*]:
+358: 0x0D5D [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18378*]:
     → "What is disgraceful is the very thought that there could be two of me! How can my power be unmatched when there are two Excenmilles?"
 359: 0x0D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x0D65 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
 361: 0x0D72 [0x52] END_LOAD_SCHEDULER: End scheduler "s094" with entities [EventEntity, EventEntity], work=627*
 362: 0x0D81 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s095" with entities [EventEntity, EventEntity], work=[627*, 0*]
 363: 0x0D92 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-364: 0x0DA1 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18378*]:
+364: 0x0DA1 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18379*]:
     → "Think of it, <Player>! Think of the possibilities this magic could open up if only we harness it properly! A whole army of Excenmilles could even..."
 365: 0x0DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-366: 0x0DA9 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18379*]:
+366: 0x0DA9 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18380*]:
     → "Yes, the Orc Empire would be like a prostrate babe crying out for its mother's milk."
 367: 0x0DB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0DB1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -924,7 +924,7 @@ SUBROUTINE_0BFD:
 371: 0x0DD4 [0x99] Wait for Excenmille (ID: 17723820/0x010E71AC) animation to complete
 372: 0x0DD9 [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [EventEntity, EventEntity], work=627*
 373: 0x0DE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [EventEntity, EventEntity], work=[627*, 0*]
-374: 0x0DF9 [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18380*]:
+374: 0x0DF9 [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18381*]:
     → "Hahahaha, would you fancy that? Tonight we drink, tomorrow we vanquish!"
 375: 0x0E00 [0x23] WAIT_FOR_DIALOG_INTERACTION
 376: 0x0E01 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -932,7 +932,7 @@ SUBROUTINE_0BFD:
 378: 0x0E1D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [EventEntity, EventEntity], work=[627*, 0*]
 379: 0x0E2E [0x6E] Excenmille (ID: 17723601/0x010E70D1) uses emote 7*
 380: 0x0E35 [0x99] Wait for Excenmille (ID: 17723601/0x010E70D1) animation to complete
-381: 0x0E3A [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18381*]:
+381: 0x0E3A [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18382*]:
     → "I am warming to the idea of this "Trust" more and more!"
 382: 0x0E41 [0x1C] WAIT(90* ticks)
 383: 0x0E44 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -964,10 +964,10 @@ SUBROUTINE_0F0C:
 407: 0x0F15 [0x1C] WAIT(30* ticks)
 408: 0x0F18 [0x4A] LocalPlayer looks at Excenmille (ID: 17723601/0x010E70D1)
 409: 0x0F21 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-410: 0x0F30 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18382*]:
+410: 0x0F30 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18383*]:
     → "Though I must admit, I barely expected success to come so easily."
 411: 0x0F37 [0x23] WAIT_FOR_DIALOG_INTERACTION
-412: 0x0F38 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18383*]:
+412: 0x0F38 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18384*]:
     → "I triumphed in the bonding only once before. It was with my old friend Rahal, leader of the Royal Knights, but all those who came after have failed spectacularly."
 413: 0x0F3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 414: 0x0F40 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]
@@ -996,13 +996,13 @@ SUBROUTINE_0F0C:
 SUBROUTINE_1009:
 436: 0x1009 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[627*, 0*]
 437: 0x101A [0x79] Excenmille (ID: 17723601/0x010E70D1) looks at Excenmille (ID: 17723820/0x010E71AC) (Basic look)
-438: 0x1024 [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18384*]:
+438: 0x1024 [0x2B] Excenmille (ID: 17723820/0x010E71AC) [18385*]:
     → "But that man can be so infuriating! "Go here!" "Hold your sword like this!" "Turn ninety degrees and touch your nose!""
 439: 0x102B [0x23] WAIT_FOR_DIALOG_INTERACTION
 440: 0x102C [0x52] END_LOAD_SCHEDULER: End scheduler "s099" with entities [EventEntity, EventEntity], work=627*
 441: 0x103B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s101" with entities [EventEntity, EventEntity], work=[627*, 0*]
 442: 0x104C [0x79] Excenmille (ID: 17723601/0x010E70D1) looks at LocalPlayer (Basic look)
-443: 0x1056 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18385*]:
+443: 0x1056 [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18386*]:
     → "Make sure you do not fall into the same trap."
 444: 0x105D [0x1C] WAIT(60* ticks)
 445: 0x1060 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
@@ -1030,7 +1030,7 @@ SUBROUTINE_1138:
 465: 0x1141 [0x79] LocalPlayer looks at Excenmille (ID: 17723601/0x010E70D1) (Basic look)
 466: 0x114B [0x1C] WAIT(30* ticks)
 467: 0x114E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)], work=29*
-468: 0x115D [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18386*]:
+468: 0x115D [0x2B] Excenmille (ID: 17723601/0x010E70D1) [18387*]:
     → "In commemoration of this monumental event, I hereby present you with a scroll containing all we have achieved. Using this should enable you to summon my alter ego."
 469: 0x1164 [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x1165 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Excenmille (ID: 17723601/0x010E70D1), Excenmille (ID: 17723601/0x010E70D1)]

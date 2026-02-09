@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D25      |        7461 |
-|       1 | 0x1D26      |        7462 |
-|       2 | 0x1D27      |        7463 |
+|       0 | 0x1D26      |        7462 |
+|       1 | 0x1D27      |        7463 |
+|       2 | 0x1D28      |        7464 |
 
 ## String References
 
-- **7461**: This book contains a history of the Horutoto Ruins.
-- **7462**: "According to books on the towers, the mage who lost his life during the height of the tower battle was attempting to summon the great beast that lurked in the Full Moon Fountain..."
-- **7463**: "With the destruction of the magical gizmos in the north tower, the great beast was freed to roam Sarutabaruta on nights of the full moon."
+- **7462**: This book contains a history of the Horutoto Ruins.
+- **7463**: "According to books on the towers, the mage who lost his life during the height of the tower battle was attempting to summon the great beast that lurked in the Full Moon Fountain..."
+- **7464**: "With the destruction of the magical gizmos in the north tower, the great beast was freed to roam Sarutabaruta on nights of the full moon."
 
 ## Events
 
@@ -74,13 +74,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "This book contains a history of the Horutoto Ruins."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → ""According to books on the towers, the mage who lost his life during the height of the tower battle was attempting to summon the great beast that lurked in the Full Moon Fountain...""
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → ""With the destruction of the magical gizmos in the north tower, the great beast was freed to roam Sarutabaruta on nights of the full moon.""
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

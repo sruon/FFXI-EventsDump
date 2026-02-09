@@ -29,37 +29,37 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F2D      |        7981 |
-|       1 | 0x1F2E      |        7982 |
-|       2 | 0x1F2F      |        7983 |
-|       3 | 0x1F30      |        7984 |
+|       0 | 0x1F2E      |        7982 |
+|       1 | 0x1F2F      |        7983 |
+|       2 | 0x1F30      |        7984 |
+|       3 | 0x1F31      |        7985 |
 |       4 | 0x0032      |          50 |
-|       5 | 0x1F31      |        7985 |
-|       6 | 0x1F32      |        7986 |
-|       7 | 0x1F33      |        7987 |
+|       5 | 0x1F32      |        7986 |
+|       6 | 0x1F33      |        7987 |
+|       7 | 0x1F34      |        7988 |
 |       8 | 0x00C9      |         201 |
 |       9 | 0x0000      |           0 |
-|      10 | 0x1F34      |        7988 |
-|      11 | 0x1F35      |        7989 |
-|      12 | 0x1F36      |        7990 |
-|      13 | 0x1F37      |        7991 |
+|      10 | 0x1F35      |        7989 |
+|      11 | 0x1F36      |        7990 |
+|      12 | 0x1F37      |        7991 |
+|      13 | 0x1F38      |        7992 |
 |      14 | 0x0005      |           5 |
-|      15 | 0x1F38      |        7992 |
+|      15 | 0x1F39      |        7993 |
 
 ## String References
 
-- **7981**: Whatever shall I do...? Why, if I lost herrr, I would be...
-- **7982**: Help! You must help me!!!
-- **7983**: Forrrgive my poor manners. It's my daughter, you see... She's come down with a terrrible sickness, you see...
-- **7984**: We were attacked... It was all we could do to flee here with our lives... She was in shock, the poor girl. Her body...<sniff>...couldn't take any morrre...
-- **7985**: They say there's a cactus that yields water only after sundown. Water that can cure the rarest of illnesses... I'd go off in search of it myself, but if I left my daughter's side for even a second...
-- **7986**: Please, frrriend, you must help! Why, if I lost her... If I lost her, I would...
-- **7987**: Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!
-- **7988**: Frrriend. You've my thanks for your kindness the other day.
-- **7989**: I'm afraid my daughter's sickness still plagues her. The fever subsided for a time, but is back now worse than ever.
-- **7990**: Please, you must brrring us more cactus water! My daughter's life depends on it!
-- **7991**: Thank you everrr so much! This will cure her for good this time...I just know it will!
-- **7992**: Oh, friend... How can I ever rrrepay you? Thanks to your kindness, my daughter is back on her feet again. You have our eternal grrratitude...
+- **7982**: Whatever shall I do...? Why, if I lost herrr, I would be...
+- **7983**: Help! You must help me!!!
+- **7984**: Forrrgive my poor manners. It's my daughter, you see... She's come down with a terrrible sickness, you see...
+- **7985**: We were attacked... It was all we could do to flee here with our lives... She was in shock, the poor girl. Her body...<sniff>...couldn't take any morrre...
+- **7986**: They say there's a cactus that yields water only after sundown. Water that can cure the rarest of illnesses... I'd go off in search of it myself, but if I left my daughter's side for even a second...
+- **7987**: Please, frrriend, you must help! Why, if I lost her... If I lost her, I would...
+- **7988**: Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!
+- **7989**: Frrriend. You've my thanks for your kindness the other day.
+- **7990**: I'm afraid my daughter's sickness still plagues her. The fever subsided for a time, but is back now worse than ever.
+- **7991**: Please, you must brrring us more cactus water! My daughter's life depends on it!
+- **7992**: Thank you everrr so much! This will cure her for good this time...I just know it will!
+- **7993**: Oh, friend... How can I ever rrrepay you? Thanks to your kindness, my daughter is back on her feet again. You have our eternal grrratitude...
 
 ## Events
 
@@ -107,7 +107,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
     → "Whatever shall I do...? Why, if I lost herrr, I would be..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -142,20 +142,20 @@
   1: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0015 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "Help! You must help me!!!"
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "Forrrgive my poor manners. It's my daughter, you see... She's come down with a terrrible sickness, you see..."
   7: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
+  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
     → "We were attacked... It was all we could do to flee here with our lives... She was in shock, the poor girl. Her body...<sniff>...couldn't take any morrre..."
   9: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0022 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 11: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+ 11: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "They say there's a cactus that yields water only after sundown. Water that can cure the rarest of illnesses... I'd go off in search of it myself, but if I left my daughter's side for even a second..."
  12: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+ 13: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "Please, frrriend, you must help! Why, if I lost her... If I lost her, I would..."
  14: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0039 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -191,10 +191,10 @@
   1: 0x005C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+  4: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "They say there's a cactus that yields water only after sundown. Water that can cure the rarest of illnesses... I'd go off in search of it myself, but if I left my daughter's side for even a second..."
   5: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+  6: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "Please, frrriend, you must help! Why, if I lost her... If I lost her, I would..."
   7: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0075 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -228,7 +228,7 @@
   1: 0x0094 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0099 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x009A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+  4: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!"
   5: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -258,7 +258,7 @@
   0: 0x00B2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+  3: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!"
   4: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00BD [0x21] END_EVENT
@@ -292,14 +292,14 @@
   1: 0x00C0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
+  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "Frrriend. You've my thanks for your kindness the other day."
   5: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "I'm afraid my daughter's sickness still plagues her. The fever subsided for a time, but is back now worse than ever."
   8: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+  9: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "Please, you must brrring us more cactus water! My daughter's life depends on it!"
  10: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -330,7 +330,7 @@
   0: 0x0100 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0105 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0106 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+  3: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "Please, you must brrring us more cactus water! My daughter's life depends on it!"
   4: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x010B [0x21] END_EVENT
@@ -362,7 +362,7 @@
   1: 0x010E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0113 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0114 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+  4: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Thank you everrr so much! This will cure her for good this time...I just know it will!"
   5: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0119 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -393,7 +393,7 @@
   0: 0x012C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0131 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0132 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+  3: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!"
   4: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0137 [0x21] END_EVENT
@@ -425,7 +425,7 @@
   2: 0x0142 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  5: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "Oh, friend... How can I ever rrrepay you? Thanks to your kindness, my daughter is back on her feet again. You have our eternal grrratitude..."
   6: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x014D [0x21] END_EVENT

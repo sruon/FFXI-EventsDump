@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EF1      |        7921 |
+|       0 | 0x1EF2      |        7922 |
 |       1 | 0x007E      |         126 |
 |       2 | 0xFFFFFFFE  |  4294967294 |
 |       3 | 0x0001      |           1 |
@@ -29,26 +29,26 @@
 |       6 | 0x0004      |           4 |
 |       7 | 0x0005      |           5 |
 |       8 | 0x0006      |           6 |
-|       9 | 0x1EF0      |        7920 |
+|       9 | 0x1EF1      |        7921 |
 |      10 | 0x007C      |         124 |
 |      11 | 0x007A      |         122 |
 |      12 | 0x0076      |         118 |
 |      13 | 0x006E      |         110 |
 |      14 | 0x005E      |          94 |
 |      15 | 0x003E      |          62 |
-|      16 | 0x1EF3      |        7923 |
+|      16 | 0x1EF4      |        7924 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x1EF4      |        7924 |
+|      18 | 0x1EF5      |        7925 |
 |      19 | 0x40000000  |  1073741824 |
-|      20 | 0x1EF5      |        7925 |
+|      20 | 0x1EF6      |        7926 |
 |      21 | 0x0020      |          32 |
-|      22 | 0x1EF6      |        7926 |
+|      22 | 0x1EF7      |        7927 |
 |      23 | 0x0040      |          64 |
-|      24 | 0x1EF7      |        7927 |
+|      24 | 0x1EF8      |        7928 |
 |      25 | 0x0060      |          96 |
-|      26 | 0x1EF8      |        7928 |
+|      26 | 0x1EF9      |        7929 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x1EF9      |        7929 |
+|      28 | 0x1EFA      |        7930 |
 |      29 | 0x00A0      |         160 |
 |      30 | 0x18FC      |        6396 |
 |      31 | 0x00C8      |         200 |
@@ -57,15 +57,15 @@
 ## String References
 
 - **6396**: You do not have enough gil.
-- **7920**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
-- **7921**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **7923**: Which memory do you wish to have recalled? [None./Seekers of Adoulin./Adoulin Quests./Additional Scenarios.]
-- **7924**: Which memory do you wish to have recalled? [None./The Watergarden Coliseum./Friction and Fissures./For Whom Do We Toil?/Aiming for Ygnas(pt.1)./Aiming for Ygnas(pt.2)./Arciela's Promise(pt.1)./Arciela's Promise(pt.2)./Behind the Sluices(pt.1)./Behind the Sluices(pt.2)./The Leafkin Monarch./The Tomatoes of Wrath./Balamor's Ruse./The Charlatan./Watery Grave./Blood for Blood.]
-- **7925**: Which memory do you wish to have recalled? [None./Keep Your Bloomers On, Erisa(pt.1)./Keep Your Bloomers On, Erisa(pt.2)./Keep Your Bloomers On, Erisa(pt.3)./Raptor Rapture(pt.1)./Raptor Rapture(pt.2)./Raptor Rapture(pt.3)./Flavors of Our Lives./Endeavoring to Awaken./Forging New Bonds(pt.1)./Forging New Bonds(pt.2)./Forging New Bonds(pt.3)./Forging New Bonds(pt.4)./Forging New Bonds(pt.5)./Runeist Attire(pt.1)./Runeist Attire(pt.2)./Runeist Attire(pt.3)./Runeist Attire(pt.4)./Runeist Attire(pt.5)./Quiescence./The Curious Case of Melvien./A Barrel of Laughs(pt.1)./A Barrel of Laughs(pt.2)./A Barrel of Laughs(pt.3)./The Ygnas Directive 1.]
-- **7926**: Which memory do you wish to have recalled? [None./Gone But Not Forgotten(pt.1)./Gone But Not Forgotten(pt.2)./Gone But Not Forgotten(pt.3)./Solemnity(pt.1)./Solemnity(pt.2).]
-- **7927**: Which memory do you wish to have recalled? [None.]
+- **7921**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **7922**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **7924**: Which memory do you wish to have recalled? [None./Seekers of Adoulin./Adoulin Quests./Additional Scenarios.]
+- **7925**: Which memory do you wish to have recalled? [None./The Watergarden Coliseum./Friction and Fissures./For Whom Do We Toil?/Aiming for Ygnas(pt.1)./Aiming for Ygnas(pt.2)./Arciela's Promise(pt.1)./Arciela's Promise(pt.2)./Behind the Sluices(pt.1)./Behind the Sluices(pt.2)./The Leafkin Monarch./The Tomatoes of Wrath./Balamor's Ruse./The Charlatan./Watery Grave./Blood for Blood.]
+- **7926**: Which memory do you wish to have recalled? [None./Keep Your Bloomers On, Erisa(pt.1)./Keep Your Bloomers On, Erisa(pt.2)./Keep Your Bloomers On, Erisa(pt.3)./Raptor Rapture(pt.1)./Raptor Rapture(pt.2)./Raptor Rapture(pt.3)./Flavors of Our Lives./Endeavoring to Awaken./Forging New Bonds(pt.1)./Forging New Bonds(pt.2)./Forging New Bonds(pt.3)./Forging New Bonds(pt.4)./Forging New Bonds(pt.5)./Runeist Attire(pt.1)./Runeist Attire(pt.2)./Runeist Attire(pt.3)./Runeist Attire(pt.4)./Runeist Attire(pt.5)./Quiescence./The Curious Case of Melvien./A Barrel of Laughs(pt.1)./A Barrel of Laughs(pt.2)./A Barrel of Laughs(pt.3)./The Ygnas Directive 1.]
+- **7927**: Which memory do you wish to have recalled? [None./Gone But Not Forgotten(pt.1)./Gone But Not Forgotten(pt.2)./Gone But Not Forgotten(pt.3)./Solemnity(pt.1)./Solemnity(pt.2).]
 - **7928**: Which memory do you wish to have recalled? [None.]
 - **7929**: Which memory do you wish to have recalled? [None.]
+- **7930**: Which memory do you wish to have recalled? [None.]
 
 ## Events
 
@@ -147,7 +147,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "eton" with entities [EventEntity, EventEntity]
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
@@ -166,12 +166,12 @@
  18: 0x0071 [0x02] IF !(Work_Zone[7] == 4294967294*) GOTO 0x0080
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
- 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+ 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
- 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+ 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
@@ -186,13 +186,13 @@
  36: 0x00C6 [0x01] GOTO 0x01A0
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
- 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=7923*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=7924*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which memory do you wish to have recalled? [None./Seekers of Adoulin./Adoulin Quests./Additional Scenarios.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
- 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=7924*, default_option=0*, option_flags=Work_Zone[2])
+ 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=7925*, default_option=0*, option_flags=Work_Zone[2])
     → "Which memory do you wish to have recalled? [None./The Watergarden Coliseum./Friction and Fissures./For Whom Do We Toil?/Aiming for Ygnas(pt.1)./Aiming for Ygnas(pt.2)./Arciela's Promise(pt.1)./Arciela's Promise(pt.2)./Behind the Sluices(pt.1)./Behind the Sluices(pt.2)./The Leafkin Monarch./The Tomatoes of Wrath./Balamor's Ruse./The Charlatan./Watery Grave./Blood for Blood.]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -205,7 +205,7 @@ SUBROUTINE_0108:
  49: 0x010B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x013A
 
 SUBROUTINE_0113:
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=7925*, default_option=0*, option_flags=Work_Zone[3])
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=7926*, default_option=0*, option_flags=Work_Zone[3])
     → "Which memory do you wish to have recalled? [None./Keep Your Bloomers On, Erisa(pt.1)./Keep Your Bloomers On, Erisa(pt.2)./Keep Your Bloomers On, Erisa(pt.3)./Raptor Rapture(pt.1)./Raptor Rapture(pt.2)./Raptor Rapture(pt.3)./Flavors of Our Lives./Endeavoring to Awaken./Forging New Bonds(pt.1)./Forging New Bonds(pt.2)./Forging New Bonds(pt.3)./Forging New Bonds(pt.4)./Forging New Bonds(pt.5)./Runeist Attire(pt.1)./Runeist Attire(pt.2)./Runeist Attire(pt.3)./Runeist Attire(pt.4)./Runeist Attire(pt.5)./Quiescence./The Curious Case of Melvien./A Barrel of Laughs(pt.1)./A Barrel of Laughs(pt.2)./A Barrel of Laughs(pt.3)./The Ygnas Directive 1.]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -218,7 +218,7 @@ SUBROUTINE_0137:
  57: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0169
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=7926*, default_option=0*, option_flags=Work_Zone[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=7927*, default_option=0*, option_flags=Work_Zone[4])
     → "Which memory do you wish to have recalled? [None./Gone But Not Forgotten(pt.1)./Gone But Not Forgotten(pt.2)./Gone But Not Forgotten(pt.3)./Solemnity(pt.1)./Solemnity(pt.2).]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
@@ -231,7 +231,7 @@ SUBROUTINE_0166:
  65: 0x0169 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0198
 
 SUBROUTINE_0171:
- 66: 0x0171 [0x24] CREATE_DIALOG(message_id=7927*, default_option=0*, option_flags=Work_Zone[5])
+ 66: 0x0171 [0x24] CREATE_DIALOG(message_id=7928*, default_option=0*, option_flags=Work_Zone[5])
     → "Which memory do you wish to have recalled? [None.]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -244,7 +244,7 @@ SUBROUTINE_0195:
  73: 0x0198 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01C7
 
 SUBROUTINE_01A0:
- 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=7928*, default_option=0*, option_flags=Work_Zone[6])
+ 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=7929*, default_option=0*, option_flags=Work_Zone[6])
     → "Which memory do you wish to have recalled? [None.]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
@@ -257,7 +257,7 @@ SUBROUTINE_01C4:
  81: 0x01C7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F6
 
 SUBROUTINE_01CF:
- 82: 0x01CF [0x24] CREATE_DIALOG(message_id=7929*, default_option=0*, option_flags=Work_Zone[7])
+ 82: 0x01CF [0x24] CREATE_DIALOG(message_id=7930*, default_option=0*, option_flags=Work_Zone[7])
     → "Which memory do you wish to have recalled? [None.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9

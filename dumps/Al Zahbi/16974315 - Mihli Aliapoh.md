@@ -36,20 +36,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1E1F      |        7711 |
+|       1 | 0x1E20      |        7712 |
 |       2 | 0x00B4      |         180 |
 |       3 | 0x0019      |          25 |
-|       4 | 0x1E20      |        7712 |
+|       4 | 0x1E21      |        7713 |
 |       5 | 0x012C      |         300 |
 |       6 | 0x002B      |          43 |
 |       7 | 0x0020      |          32 |
-|       8 | 0x1E21      |        7713 |
+|       8 | 0x1E22      |        7714 |
 |       9 | 0x001E      |          30 |
 |      10 | 0x0010      |          16 |
-|      11 | 0x1E22      |        7714 |
+|      11 | 0x1E23      |        7715 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x1E23      |        7715 |
-|      14 | 0x1E24      |        7716 |
+|      13 | 0x1E24      |        7716 |
+|      14 | 0x1E25      |        7717 |
 |      15 | 0x0002      |           2 |
 |      16 | 0x000A      |          10 |
 |      17 | 0x0009      |           9 |
@@ -65,34 +65,34 @@
 |      27 | 0x0000      |           0 |
 |      28 | 0x05ED      |        1517 |
 |      29 | 0x0023      |          35 |
-|      30 | 0x1E25      |        7717 |
+|      30 | 0x1E26      |        7718 |
 |      31 | 0x0022      |          34 |
-|      32 | 0x1E26      |        7718 |
-|      33 | 0x1FEB      |        8171 |
-|      34 | 0x1FEC      |        8172 |
-|      35 | 0x1FED      |        8173 |
-|      36 | 0x1FEE      |        8174 |
+|      32 | 0x1E27      |        7719 |
+|      33 | 0x1FEC      |        8172 |
+|      34 | 0x1FED      |        8173 |
+|      35 | 0x1FEE      |        8174 |
+|      36 | 0x1FEF      |        8175 |
 |      37 | 0x003B      |          59 |
-|      38 | 0x1FEF      |        8175 |
+|      38 | 0x1FF0      |        8176 |
 |      39 | 0x099F      |        2463 |
-|      40 | 0x1FF0      |        8176 |
+|      40 | 0x1FF1      |        8177 |
 
 ## String References
 
-- **7711**: Oh, I rrremember you. Here, this is for you.
-- **7712**: I-I'm not thanking you for anything. Don't get the wrrrong idea. This is just to cover the costs of your journey.
-- **7713**: Leave me alone. I can't stand merrrcenaries.
-- **7714**: Just make sure you don't get in our way when we're rrripping up the battlefield.
-- **7715**: How am I going to get out of this...? The...the...Astral Candescence... What'll I tell the Empress...?
-- **7716**: ...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!
-- **7717**: Hmph, just because you think you know a thing or two about me now doesn't mean I like you.
-- **7718**: I am a generrral. You are a mercenary. Rrremember your station.
-- **8171**: What do you want, mercenary? I've got no time to chatter with the likes of you.
-- **8172**: Elder Nadeey sent you?
-- **8173**: ...
-- **8174**: You're serrrious about having this chat, aren't you?
-- **8175**: Aydeewa Subterrane. Wait there until I finish my duties.
-- **8176**: Oh, and if you bring $0 with you, I might even think about talking to you!
+- **7712**: Oh, I rrremember you. Here, this is for you.
+- **7713**: I-I'm not thanking you for anything. Don't get the wrrrong idea. This is just to cover the costs of your journey.
+- **7714**: Leave me alone. I can't stand merrrcenaries.
+- **7715**: Just make sure you don't get in our way when we're rrripping up the battlefield.
+- **7716**: How am I going to get out of this...? The...the...Astral Candescence... What'll I tell the Empress...?
+- **7717**: ...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!
+- **7718**: Hmph, just because you think you know a thing or two about me now doesn't mean I like you.
+- **7719**: I am a generrral. You are a mercenary. Rrremember your station.
+- **8172**: What do you want, mercenary? I've got no time to chatter with the likes of you.
+- **8173**: Elder Nadeey sent you?
+- **8174**: ...
+- **8175**: You're serrrious about having this chat, aren't you?
+- **8176**: Aydeewa Subterrane. Wait there until I finish my duties.
+- **8177**: Oh, and if you bring $0 with you, I might even think about talking to you!
 
 ## Events
 
@@ -296,12 +296,12 @@
   5: 0x005B [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x0060 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0061 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
+  8: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7712*)
     → "Oh, I rrremember you. Here, this is for you."
   9: 0x0065 [0x1C] WAIT(180* ticks)
  10: 0x0068 [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 25*
  11: 0x006F [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
- 12: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7712*)
+ 12: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
     → "I-I'm not thanking you for anything. Don't get the wrrrong idea. This is just to cover the costs of your journey."
  13: 0x0077 [0x1C] WAIT(300* ticks)
  14: 0x007A [0x21] END_EVENT
@@ -362,14 +362,14 @@
   3: 0x0091 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0092 [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 32*
   5: 0x0099 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
-  6: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
+  6: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7714*)
     → "Leave me alone. I can't stand merrrcenaries."
   7: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A2 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
   9: 0x00A7 [0x1C] WAIT(30* ticks)
  10: 0x00AA [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 16*
  11: 0x00B1 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
- 12: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7714*)
+ 12: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
     → "Just make sure you don't get in our way when we're rrripping up the battlefield."
  13: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00BA [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
@@ -406,14 +406,14 @@
   3: 0x00CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00CD [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 5*
   5: 0x00D4 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
-  6: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
+  6: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
     → "How am I going to get out of this...? The...the...Astral Candescence... What'll I tell the Empress...?"
   7: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DD [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
   9: 0x00E2 [0x1C] WAIT(30* ticks)
  10: 0x00E5 [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 25*
  11: 0x00EC [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
- 12: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
+ 12: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7717*)
     → "...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!"
  13: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00F5 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
@@ -607,7 +607,7 @@ SUBROUTINE_0163:
   3: 0x01F9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01FA [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 35*
   5: 0x0201 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
-  6: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7717*)
+  6: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7718*)
     → "Hmph, just because you think you know a thing or two about me now doesn't mean I like you."
   7: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x020A [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
@@ -615,7 +615,7 @@ SUBROUTINE_0163:
  10: 0x0212 [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 34*
  11: 0x0219 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
  12: 0x021E [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x03)
- 13: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=7718*)
+ 13: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=7719*)
     → "I am a generrral. You are a mercenary. Rrremember your station."
  14: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0229 [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
@@ -653,27 +653,27 @@ SUBROUTINE_0163:
   2: 0x0236 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x023B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x023C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
+  5: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
     → "What do you want, mercenary? I've got no time to chatter with the likes of you."
   6: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+  7: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "Elder Nadeey sent you?"
   8: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0245 [0x6E] Mihli Aliapoh (ID: 16974315/0x010301EB) uses emote 32*
  10: 0x024C [0x99] Wait for Mihli Aliapoh (ID: 16974315/0x010301EB) animation to complete
- 11: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
+ 11: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
     → "..."
  12: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
+ 13: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
     → "You're serrrious about having this chat, aren't you?"
  14: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0259 [0x99] Wait for EventEntity animation to complete
  16: 0x025E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 17: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
+ 17: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "Aydeewa Subterrane. Wait there until I finish my duties."
  18: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0271 [0x03] Work_Zone[2] = 2463*
- 20: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
+ 20: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
     → "Oh, and if you bring $0 with you, I might even think about talking to you!"
  21: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x027A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

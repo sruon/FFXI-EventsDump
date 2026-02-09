@@ -23,38 +23,38 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3FC6      |       16326 |
-|       1 | 0x3FC7      |       16327 |
-|       2 | 0x3FC8      |       16328 |
-|       3 | 0x3FC9      |       16329 |
-|       4 | 0x3FCA      |       16330 |
-|       5 | 0x3FCB      |       16331 |
+|       0 | 0x3FC7      |       16327 |
+|       1 | 0x3FC8      |       16328 |
+|       2 | 0x3FC9      |       16329 |
+|       3 | 0x3FCA      |       16330 |
+|       4 | 0x3FCB      |       16331 |
+|       5 | 0x3FCC      |       16332 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x3FCC      |       16332 |
-|       8 | 0x3FCD      |       16333 |
-|       9 | 0x3FCE      |       16334 |
-|      10 | 0x3FCF      |       16335 |
-|      11 | 0x3FD0      |       16336 |
-|      12 | 0x3FD1      |       16337 |
+|       7 | 0x3FCD      |       16333 |
+|       8 | 0x3FCE      |       16334 |
+|       9 | 0x3FCF      |       16335 |
+|      10 | 0x3FD0      |       16336 |
+|      11 | 0x3FD1      |       16337 |
+|      12 | 0x3FD2      |       16338 |
 |      13 | 0x1008      |        4104 |
-|      14 | 0x3FD2      |       16338 |
-|      15 | 0x3FD3      |       16339 |
-|      16 | 0x3FD4      |       16340 |
-|      17 | 0x3FD5      |       16341 |
-|      18 | 0x3FD6      |       16342 |
-|      19 | 0x3FD7      |       16343 |
+|      14 | 0x3FD3      |       16339 |
+|      15 | 0x3FD4      |       16340 |
+|      16 | 0x3FD5      |       16341 |
+|      17 | 0x3FD6      |       16342 |
+|      18 | 0x3FD7      |       16343 |
+|      19 | 0x3FD8      |       16344 |
 |      20 | 0x003C      |          60 |
-|      21 | 0x3FD8      |       16344 |
-|      22 | 0x3FD9      |       16345 |
-|      23 | 0x3FDA      |       16346 |
-|      24 | 0x3FDB      |       16347 |
-|      25 | 0x3FDC      |       16348 |
-|      26 | 0x3FDD      |       16349 |
+|      21 | 0x3FD9      |       16345 |
+|      22 | 0x3FDA      |       16346 |
+|      23 | 0x3FDB      |       16347 |
+|      24 | 0x3FDC      |       16348 |
+|      25 | 0x3FDD      |       16349 |
+|      26 | 0x3FDE      |       16350 |
 |      27 | 0x000F      |          15 |
 |      28 | 0x0010      |          16 |
 |      29 | 0x001F      |          31 |
-|      30 | 0x3FDE      |       16350 |
-|      31 | 0x3FDF      |       16351 |
+|      30 | 0x3FDF      |       16351 |
+|      31 | 0x3FE0      |       16352 |
 |      32 | 0x0001      |           1 |
 |      33 | 0x0002      |           2 |
 |      34 | 0x0003      |           3 |
@@ -63,7 +63,7 @@
 |      37 | 0x0006      |           6 |
 |      38 | 0x0007      |           7 |
 |      39 | 0x0008      |           8 |
-|      40 | 0x3FE0      |       16352 |
+|      40 | 0x3FE1      |       16353 |
 |      41 | 0x1000      |        4096 |
 |      42 | 0x1001      |        4097 |
 |      43 | 0x1009      |        4105 |
@@ -79,79 +79,79 @@
 |      53 | 0x100E      |        4110 |
 |      54 | 0x1007      |        4103 |
 |      55 | 0x100F      |        4111 |
-|      56 | 0x3FE1      |       16353 |
-|      57 | 0x3FE2      |       16354 |
-|      58 | 0x3FEA      |       16362 |
-|      59 | 0x3FE3      |       16355 |
+|      56 | 0x3FE2      |       16354 |
+|      57 | 0x3FE3      |       16355 |
+|      58 | 0x3FEB      |       16363 |
+|      59 | 0x3FE4      |       16356 |
 |      60 | 0x000C      |          12 |
-|      61 | 0x3FE5      |       16357 |
-|      62 | 0x3FE4      |       16356 |
-|      63 | 0x3FE6      |       16358 |
-|      64 | 0x3FE7      |       16359 |
-|      65 | 0x3FE9      |       16361 |
+|      61 | 0x3FE6      |       16358 |
+|      62 | 0x3FE5      |       16357 |
+|      63 | 0x3FE7      |       16359 |
+|      64 | 0x3FE8      |       16360 |
+|      65 | 0x3FEA      |       16362 |
 |      66 | 0x005B      |          91 |
 |      67 | 0x00B4      |         180 |
 |      68 | 0x0013      |          19 |
 |      69 | 0x001E      |          30 |
-|      70 | 0x3FE8      |       16360 |
-|      71 | 0x3FEB      |       16363 |
-|      72 | 0x3FEC      |       16364 |
-|      73 | 0x3FED      |       16365 |
-|      74 | 0x3FF7      |       16375 |
+|      70 | 0x3FE9      |       16361 |
+|      71 | 0x3FEC      |       16364 |
+|      72 | 0x3FED      |       16365 |
+|      73 | 0x3FEE      |       16366 |
+|      74 | 0x3FF8      |       16376 |
 |      75 | 0x00C9      |         201 |
 |      76 | 0x00F0      |         240 |
-|      77 | 0x3FF3      |       16371 |
-|      78 | 0x3FF4      |       16372 |
-|      79 | 0x3FF8      |       16376 |
-|      80 | 0x3FF9      |       16377 |
+|      77 | 0x3FF4      |       16372 |
+|      78 | 0x3FF5      |       16373 |
+|      79 | 0x3FF9      |       16377 |
+|      80 | 0x3FFA      |       16378 |
 
 ## String References
 
-- **16326**: Able adventurer, warmest welcome from the Magian Mooglehood.
-- **16327**: To think you can perceive me in my true form, kupo! The trials of time take a toll on us all.
-- **16328**: I command and control crystal-related incantations. Their ephemeral essence helps hold Vana'diel together.
-- **16329**: Surely you have studied synthesis? Then you are doubtlessly versed in their myriad uses, kupo.
-- **16330**: Promise you will not speak a syllable to others of my existence here.
-- **16331**: Will you stay mum? [Mum's the word./I don't think so.]
-- **16332**: ...
-- **16333**: I scarce have the stamina to stop you, but I doubt others would believe this tale anyway.
-- **16334**: Still, I shan't assist you if you don't promise.
-- **16335**: Then the deed is done! In exchange, I shall proudly proffer my services in making your crystals ephemeral, too, kupo.
-- **16336**: Ahhh, mayhap I have moved too quickly. Allow me to apprise you of the particulars--of this "crystal storage," if you will.
-- **16337**: It's strikingly simple. Trade me your crystals and I shall safely store them for you. You need only glance at your currencies list to see the amount I'm holding for you.
-- **16338**: But I can store more than crystals alone. % and the like are also acceptable.
-- **16339**: My mysterious moogle magic has limits, kupo, so I can only hold up to 5000 of a particular element.
-- **16340**: You never know what secrets are in store unless you try!
-- **16341**: You can wistfully withdraw them at any time by speaking to me.
-- **16342**: Any number over 12 will be returned as clusters, kupo.
-- **16343**: The % gives a sly smile.
-- **16344**: This service is available to you free from the fetters of funding. As long as you keep this hush-hush, I'll always assist you with no recompense required.
-- **16345**: If you can find me here, then you'll surely see me in other locations too, kupo. Moogle magic, you know.
-- **16346**: Of course, I do not actually exist in Vana'diel. Only a part of me projects into your world.
-- **16347**: It's rather similar to summoning magic, kupo.
-- **16348**: I promise not to bore you with the particulars. Just come chat if you need me, kupo.
-- **16349**: You are now able to store crystals!
-- **16350**: Come for crystal-related concerns, hmm?
-- **16351**: What would you like? [Crystals returned to me./A bit of an explanation./Nothing for now.]
-- **16352**: Which element? [Never mind./Fire o $0/Ice o . $1/Wind o!. $2/Earth o". $3/Lightning o#. $4/Water o$. $5/Light o%. $6/Darkness o&. $7]
-- **16353**: How many would you like? [None, actually./A specific number./As many you can fit.]
-- **16354**: How many? ($8 stored)
-- **16355**: $1 [/fire/ice/wind/earth/lightning/water/light/darkness] crystal[/s], correct? Then that will mean a total of...
-- **16356**: $1 $0 .
-- **16357**: $1 $0 and $3 $0 .
-- **16358**: Are you sure?
-- **16359**: Is this what you desire? [Yes./No.]
-- **16360**: "As many as you can fit!?" I-if you say so...
-- **16361**: Okay... Moogle Magic, ahoy!
-- **16362**: There are limits to what my mysterious moogle magic can make up.
-- **16363**: Inquire about what? [Your purpose./Storing crystals./Retrieving crystals./Who are you?/Nothing in particular.]
-- **16364**: I'm in charge of crystal chants. Crystals, of course, are the very lifeblood of Vana'diel, kupo.
-- **16365**: Surely your sacks are spilling over with them! I can perhaps assist you with your problem.
-- **16371**: That's all there is to it, kupo! Let me know if you need me again.
-- **16372**: Unfortunately, it's all I can do to hold on to what you've already given me, kupo!
-- **16375**: You want me to hold onto these, kupo? Then let the magic begin!
-- **16376**: You have stored $1 $0 for a total of $4.
-- **16377**: You have stored $1 $0 and $3 $0 for a total of $4.
+- **16327**: Able adventurer, warmest welcome from the Magian Mooglehood.
+- **16328**: To think you can perceive me in my true form, kupo! The trials of time take a toll on us all.
+- **16329**: I command and control crystal-related incantations. Their ephemeral essence helps hold Vana'diel together.
+- **16330**: Surely you have studied synthesis? Then you are doubtlessly versed in their myriad uses, kupo.
+- **16331**: Promise you will not speak a syllable to others of my existence here.
+- **16332**: Will you stay mum? [Mum's the word./I don't think so.]
+- **16333**: ...
+- **16334**: I scarce have the stamina to stop you, but I doubt others would believe this tale anyway.
+- **16335**: Still, I shan't assist you if you don't promise.
+- **16336**: Then the deed is done! In exchange, I shall proudly proffer my services in making your crystals ephemeral, too, kupo.
+- **16337**: Ahhh, mayhap I have moved too quickly. Allow me to apprise you of the particulars--of this "crystal storage," if you will.
+- **16338**: It's strikingly simple. Trade me your crystals and I shall safely store them for you. You need only glance at your currencies list to see the amount I'm holding for you.
+- **16339**: But I can store more than crystals alone. % and the like are also acceptable.
+- **16340**: My mysterious moogle magic has limits, kupo, so I can only hold up to 5000 of a particular element.
+- **16341**: You never know what secrets are in store unless you try!
+- **16342**: You can wistfully withdraw them at any time by speaking to me.
+- **16343**: Any number over 12 will be returned as clusters, kupo.
+- **16344**: The % gives a sly smile.
+- **16345**: This service is available to you free from the fetters of funding. As long as you keep this hush-hush, I'll always assist you with no recompense required.
+- **16346**: If you can find me here, then you'll surely see me in other locations too, kupo. Moogle magic, you know.
+- **16347**: Of course, I do not actually exist in Vana'diel. Only a part of me projects into your world.
+- **16348**: It's rather similar to summoning magic, kupo.
+- **16349**: I promise not to bore you with the particulars. Just come chat if you need me, kupo.
+- **16350**: You are now able to store crystals!
+- **16351**: Come for crystal-related concerns, hmm?
+- **16352**: What would you like? [Crystals returned to me./A bit of an explanation./Nothing for now.]
+- **16353**: Which element? [Never mind./Fire o $0/Ice o . $1/Wind o!. $2/Earth o". $3/Lightning o#. $4/Water o$. $5/Light o%. $6/Darkness o&. $7]
+- **16354**: How many would you like? [None, actually./A specific number./As many you can fit.]
+- **16355**: How many? ($8 stored)
+- **16356**: $1 [/fire/ice/wind/earth/lightning/water/light/darkness] crystal[/s], correct? Then that will mean a total of...
+- **16357**: $1 $0 .
+- **16358**: $1 $0 and $3 $0 .
+- **16359**: Are you sure?
+- **16360**: Is this what you desire? [Yes./No.]
+- **16361**: "As many as you can fit!?" I-if you say so...
+- **16362**: Okay... Moogle Magic, ahoy!
+- **16363**: There are limits to what my mysterious moogle magic can make up.
+- **16364**: Inquire about what? [Your purpose./Storing crystals./Retrieving crystals./Who are you?/Nothing in particular.]
+- **16365**: I'm in charge of crystal chants. Crystals, of course, are the very lifeblood of Vana'diel, kupo.
+- **16366**: Surely your sacks are spilling over with them! I can perhaps assist you with your problem.
+- **16372**: That's all there is to it, kupo! Let me know if you need me again.
+- **16373**: Unfortunately, it's all I can do to hold on to what you've already given me, kupo!
+- **16376**: You want me to hold onto these, kupo? Then let the magic begin!
+- **16377**: You have stored $1 $0 for a total of $4.
+- **16378**: You have stored $1 $0 and $3 $0 for a total of $4.
 
 ## Events
 
@@ -402,7 +402,7 @@
 
 SUBROUTINE_077D:
   1: 0x077D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0782 [0x1D] PRINT_EVENT_MESSAGE(message_id=16372*)
+  2: 0x0782 [0x1D] PRINT_EVENT_MESSAGE(message_id=16373*)
     → "Unfortunately, it's all I can do to hold on to what you've already given me, kupo!"
   3: 0x0785 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0786 [0x21] END_EVENT
@@ -418,88 +418,88 @@ SUBROUTINE_077D:
      0x0015 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0016 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x0017 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=16326*)
+     0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=16327*)
     → "Able adventurer, warmest welcome from the Magian Mooglehood."
      0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=16327*)
+     0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=16328*)
     → "To think you can perceive me in my true form, kupo! The trials of time take a toll on us all."
      0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=16328*)
+     0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=16329*)
     → "I command and control crystal-related incantations. Their ephemeral essence helps hold Vana'diel together."
      0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=16329*)
+     0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=16330*)
     → "Surely you have studied synthesis? Then you are doubtlessly versed in their myriad uses, kupo."
      0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=16330*)
+     0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=16331*)
     → "Promise you will not speak a syllable to others of my existence here."
      0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0038 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
-     0x0045 [0x24] CREATE_DIALOG(message_id=16331*, default_option=0*, option_flags=0*)
+     0x0045 [0x24] CREATE_DIALOG(message_id=16332*, default_option=0*, option_flags=0*)
     → "Will you stay mum? [Mum's the word./I don't think so.]"
      0x004C [0x25] WAIT_DIALOG_SELECT()
      0x004D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0058
      0x0055 [0x01] GOTO 0x0081
-     0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=16332*)
+     0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=16333*)
     → "..."
      0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x005C [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=16333*)
+     0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=16334*)
     → "I scarce have the stamina to stop you, but I doubt others would believe this tale anyway."
      0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=16334*)
+     0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=16335*)
     → "Still, I shan't assist you if you don't promise."
      0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0071 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
      0x007E [0x01] GOTO 0x0045
      0x0081 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0082 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
-     0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=16335*)
+     0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=16336*)
     → "Then the deed is done! In exchange, I shall proudly proffer my services in making your crystals ephemeral, too, kupo."
      0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=16336*)
+     0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=16337*)
     → "Ahhh, mayhap I have moved too quickly. Allow me to apprise you of the particulars--of this "crystal storage," if you will."
      0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0097 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
      0x00A4 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16337*)
+     0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=16338*)
     → "It's strikingly simple. Trade me your crystals and I shall safely store them for you. You need only glance at your currencies list to see the amount I'm holding for you."
      0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00B5 [0x03] Work_Zone[2] = 4104*
-     0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=16338*)
+     0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=16339*)
     → "But I can store more than crystals alone. % and the like are also acceptable."
      0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=16339*)
+     0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=16340*)
     → "My mysterious moogle magic has limits, kupo, so I can only hold up to 5000 of a particular element."
      0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16340*)
+     0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=16341*)
     → "You never know what secrets are in store unless you try!"
      0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16341*)
+     0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=16342*)
     → "You can wistfully withdraw them at any time by speaking to me."
      0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=16342*)
+     0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=16343*)
     → "Any number over 12 will be returned as clusters, kupo."
      0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00CE [0x48] [System] [16343*]:
+     0x00CE [0x48] [System] [16344*]:
     → "The % gives a sly smile."
      0x00D1 [0x1C] WAIT(60* ticks)
-     0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16344*)
+     0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16345*)
     → "This service is available to you free from the fetters of funding. As long as you keep this hush-hush, I'll always assist you with no recompense required."
      0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=16345*)
+     0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=16346*)
     → "If you can find me here, then you'll surely see me in other locations too, kupo. Moogle magic, you know."
      0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=16346*)
+     0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=16347*)
     → "Of course, I do not actually exist in Vana'diel. Only a part of me projects into your world."
      0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=16347*)
+     0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=16348*)
     → "It's rather similar to summoning magic, kupo."
      0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16348*)
+     0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16349*)
     → "I promise not to bore you with the particulars. Just come chat if you need me, kupo."
      0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00E8 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
-     0x00F5 [0x48] [System] [16349*]:
+     0x00F5 [0x48] [System] [16350*]:
     → "You are now able to store crystals!"
      0x00F8 [0x21] END_EVENT
      0x00F9 [0x00] END_REQSTACK()
@@ -513,12 +513,12 @@ SUBROUTINE_077D:
      0x0135 [0x41] ExtData[1]->WorkLocal[6] = Work_Zone[5] (bits 0*-15*)
      0x013E [0x41] ExtData[1]->WorkLocal[7] = Work_Zone[5] (bits 16*-31*)
      0x0147 [0x06] ExtData[1]->WorkLocal[8] = 0
-     0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=16350*)
+     0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=16351*)
     → "Come for crystal-related concerns, hmm?"
      0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x014E [0x0B] ExtData[1]->WorkLocal[8]++
      0x0151 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 0*) GOTO 0x063C
-     0x0159 [0x24] CREATE_DIALOG(message_id=16351*, default_option=0*, option_flags=0*)
+     0x0159 [0x24] CREATE_DIALOG(message_id=16352*, default_option=0*, option_flags=0*)
     → "What would you like? [Crystals returned to me./A bit of an explanation./Nothing for now.]"
      0x0160 [0x25] WAIT_DIALOG_SELECT()
      0x0161 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x052B
@@ -549,7 +549,7 @@ SUBROUTINE_077D:
      0x0203 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
      0x0208 [0x02] IF !(ExtData[1]->WorkLocal[7] > 0*) GOTO 0x0217
      0x0210 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=8*, condition_work_offset=1*)
-     0x0217 [0x24] CREATE_DIALOG(message_id=16352*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+     0x0217 [0x24] CREATE_DIALOG(message_id=16353*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Which element? [Never mind./Fire o $0/Ice o . $1/Wind o!. $2/Earth o". $3/Lightning o#. $4/Water o$. $5/Light o%. $6/Darkness o&. $7]"
      0x021E [0x25] WAIT_DIALOG_SELECT()
      0x021F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0243
@@ -614,24 +614,24 @@ SUBROUTINE_077D:
      0x034F [0x08] ExtData[1]->WorkLocal[8] -= 2*
      0x0354 [0x0B] ExtData[1]->WorkLocal[8]++
      0x0357 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 2*) GOTO 0x0525
-     0x035F [0x24] CREATE_DIALOG(message_id=16353*, default_option=0*, option_flags=0*)
+     0x035F [0x24] CREATE_DIALOG(message_id=16354*, default_option=0*, option_flags=0*)
     → "How many would you like? [None, actually./A specific number./As many you can fit.]"
      0x0366 [0x25] WAIT_DIALOG_SELECT()
      0x0367 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0499
      0x036F [0x02] IF !(ExtData[1]->WorkLocal[10] <= 0*) GOTO 0x0490
      0x0377 [0x0B] ExtData[1]->WorkLocal[8]++
      0x037A [0x02] IF !(ExtData[1]->WorkLocal[8] <= 3*) GOTO 0x048D
-     0x0382 [0x1D] PRINT_EVENT_MESSAGE(message_id=16354*)
+     0x0382 [0x1D] PRINT_EVENT_MESSAGE(message_id=16355*)
     → "How many? ($8 stored)"
      0x0385 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
      0x0389 [0x71] USER_INPUT_HANDLER: Process numerical input A (work=ExtData[1]->WorkLocal[15])
      0x038D [0x02] IF !(Work_Zone_1700[0] >= ExtData[1]->WorkLocal[15]) GOTO 0x039C
-     0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=16362*)
+     0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=16363*)
     → "There are limits to what my mysterious moogle magic can make up."
      0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0399 [0x01] GOTO 0x048A
      0x039C [0x02] IF !(ExtData[1]->WorkLocal[15] >= 0*) GOTO 0x03AB
-     0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16362*)
+     0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16363*)
     → "There are limits to what my mysterious moogle magic can make up."
      0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03A8 [0x01] GOTO 0x048A
@@ -640,7 +640,7 @@ SUBROUTINE_077D:
      0x03B6 [0x01] GOTO 0x048A
      0x03B9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
      0x03BE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-     0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=16355*)
+     0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=16356*)
     → "$1 [/fire/ice/wind/earth/lightning/water/light/darkness] crystal[/s], correct? Then that will mean a total of..."
      0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03C7 [0x03] ExtData[1]->WorkLocal[14] = ExtData[1]->WorkLocal[15]
@@ -652,32 +652,32 @@ SUBROUTINE_077D:
      0x03ED [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
      0x03F2 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[11]
      0x03F7 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[12]
-     0x03FC [0x1D] PRINT_EVENT_MESSAGE(message_id=16357*)
+     0x03FC [0x1D] PRINT_EVENT_MESSAGE(message_id=16358*)
     → "$1 $0 and $3 $0 ."
      0x03FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0400 [0x01] GOTO 0x0411
      0x0403 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
      0x0408 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-     0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=16356*)
+     0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=16357*)
     → "$1 $0 ."
      0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0411 [0x01] GOTO 0x042D
      0x0414 [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x042D
      0x041C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
      0x0421 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-     0x0426 [0x1D] PRINT_EVENT_MESSAGE(message_id=16356*)
+     0x0426 [0x1D] PRINT_EVENT_MESSAGE(message_id=16357*)
     → "$1 $0 ."
      0x0429 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x042A [0x01] GOTO 0x042D
-     0x042D [0x1D] PRINT_EVENT_MESSAGE(message_id=16358*)
+     0x042D [0x1D] PRINT_EVENT_MESSAGE(message_id=16359*)
     → "Are you sure?"
      0x0430 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0431 [0x24] CREATE_DIALOG(message_id=16359*, default_option=0*, option_flags=0*)
+     0x0431 [0x24] CREATE_DIALOG(message_id=16360*, default_option=0*, option_flags=0*)
     → "Is this what you desire? [Yes./No.]"
      0x0438 [0x25] WAIT_DIALOG_SELECT()
      0x0439 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0479
      0x0441 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=16361*)
+     0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=16362*)
     → "Okay... Moogle Magic, ahoy!"
      0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0446 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 2 with entities [EventEntity, EventEntity], work=91*
@@ -699,19 +699,19 @@ SUBROUTINE_077D:
      0x0496 [0x01] GOTO 0x0522
      0x0499 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x051C
      0x04A1 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
-     0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=16360*)
+     0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=16361*)
     → ""As many as you can fit!?" I-if you say so..."
      0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04B2 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
-     0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=16358*)
+     0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=16359*)
     → "Are you sure?"
      0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x04C3 [0x24] CREATE_DIALOG(message_id=16359*, default_option=0*, option_flags=0*)
+     0x04C3 [0x24] CREATE_DIALOG(message_id=16360*, default_option=0*, option_flags=0*)
     → "Is this what you desire? [Yes./No.]"
      0x04CA [0x25] WAIT_DIALOG_SELECT()
      0x04CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x050B
      0x04D3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x04D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16361*)
+     0x04D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=16362*)
     → "Okay... Moogle Magic, ahoy!"
      0x04D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04D8 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 2 with entities [EventEntity, EventEntity], work=91*
@@ -735,64 +735,64 @@ SUBROUTINE_077D:
      0x0533 [0x0B] ExtData[1]->WorkLocal[8]++
      0x0536 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 1*) GOTO 0x0630
      0x053E [0x06] Work_Zone[1] = 0
-     0x0541 [0x24] CREATE_DIALOG(message_id=16363*, default_option=0*, option_flags=0*)
+     0x0541 [0x24] CREATE_DIALOG(message_id=16364*, default_option=0*, option_flags=0*)
     → "Inquire about what? [Your purpose./Storing crystals./Retrieving crystals./Who are you?/Nothing in particular.]"
      0x0548 [0x25] WAIT_DIALOG_SELECT()
      0x0549 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0576
      0x0551 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=16364*)
+     0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=16365*)
     → "I'm in charge of crystal chants. Crystals, of course, are the very lifeblood of Vana'diel, kupo."
      0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=16365*)
+     0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=16366*)
     → "Surely your sacks are spilling over with them! I can perhaps assist you with your problem."
      0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0566 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
      0x0573 [0x01] GOTO 0x062D
      0x0576 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05B0
      0x057E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
-     0x058B [0x1D] PRINT_EVENT_MESSAGE(message_id=16337*)
+     0x058B [0x1D] PRINT_EVENT_MESSAGE(message_id=16338*)
     → "It's strikingly simple. Trade me your crystals and I shall safely store them for you. You need only glance at your currencies list to see the amount I'm holding for you."
      0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x058F [0x03] Work_Zone[2] = 4104*
-     0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=16338*)
+     0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=16339*)
     → "But I can store more than crystals alone. % and the like are also acceptable."
      0x0597 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0598 [0x1D] PRINT_EVENT_MESSAGE(message_id=16339*)
+     0x0598 [0x1D] PRINT_EVENT_MESSAGE(message_id=16340*)
     → "My mysterious moogle magic has limits, kupo, so I can only hold up to 5000 of a particular element."
      0x059B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=16340*)
+     0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=16341*)
     → "You never know what secrets are in store unless you try!"
      0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05A0 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
      0x05AD [0x01] GOTO 0x062D
      0x05B0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x05E7
      0x05B8 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
-     0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=16341*)
+     0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=16342*)
     → "You can wistfully withdraw them at any time by speaking to me."
      0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16342*)
+     0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=16343*)
     → "Any number over 12 will be returned as clusters, kupo."
      0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x05CD [0x48] [System] [16343*]:
+     0x05CD [0x48] [System] [16344*]:
     → "The % gives a sly smile."
      0x05D0 [0x1C] WAIT(60* ticks)
-     0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=16344*)
+     0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=16345*)
     → "This service is available to you free from the fetters of funding. As long as you keep this hush-hush, I'll always assist you with no recompense required."
      0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05D7 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
      0x05E4 [0x01] GOTO 0x062D
      0x05E7 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x061C
      0x05EF [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
-     0x05FC [0x1D] PRINT_EVENT_MESSAGE(message_id=16345*)
+     0x05FC [0x1D] PRINT_EVENT_MESSAGE(message_id=16346*)
     → "If you can find me here, then you'll surely see me in other locations too, kupo. Moogle magic, you know."
      0x05FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=16346*)
+     0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=16347*)
     → "Of course, I do not actually exist in Vana'diel. Only a part of me projects into your world."
      0x0603 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=16347*)
+     0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=16348*)
     → "It's rather similar to summoning magic, kupo."
      0x0607 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=16348*)
+     0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=16349*)
     → "I promise not to bore you with the particulars. Just come chat if you need me, kupo."
      0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x060C [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
@@ -839,14 +839,14 @@ SUBROUTINE_077D:
      0x0714 [0x41] ExtData[1]->WorkLocal[37] = Work_Zone[4] (bits 16*-31*)
      0x071D [0x41] ExtData[1]->WorkLocal[38] = Work_Zone[5] (bits 0*-15*)
      0x0726 [0x41] ExtData[1]->WorkLocal[39] = Work_Zone[5] (bits 16*-31*)
-     0x072F [0x1D] PRINT_EVENT_MESSAGE(message_id=16375*)
+     0x072F [0x1D] PRINT_EVENT_MESSAGE(message_id=16376*)
     → "You want me to hold onto these, kupo? Then let the magic begin!"
      0x0732 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0733 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
      0x0740 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
      0x074D [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 2 with entities [EventEntity, EventEntity], work=201*
      0x0759 [0x1C] WAIT(240* ticks)
-     0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=16371*)
+     0x075C [0x1D] PRINT_EVENT_MESSAGE(message_id=16372*)
     → "That's all there is to it, kupo! Let me know if you need me again."
      0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0760 [0x03] ExtData[1]->WorkLocal[41] = 0*
@@ -881,10 +881,10 @@ SUBROUTINE_077D:
      0x0812 [0x9D] IF (0x0876) ExtData[1]->WorkLocal[42] = Work_Zone[6] // extra=0x8027
      0x081C [0x02] IF !(Work_Zone[6] <= 0*) GOTO 0x0835
      0x0824 [0x02] IF !(ExtData[1]->WorkLocal[40] == 0*) GOTO 0x0832
-     0x082C [0x48] [System] [16376*]:
+     0x082C [0x48] [System] [16377*]:
     → "You have stored $1 $0 for a total of $4."
      0x082F [0x01] GOTO 0x0835
-     0x0832 [0x48] [System] [16377*]:
+     0x0832 [0x48] [System] [16378*]:
     → "You have stored $1 $0 and $3 $0 for a total of $4."
      0x0835 [0x1B] RETURN
      0x0836 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unknown NPC (ID: 2150400042/0x802C802A), tag_num=0x2E)

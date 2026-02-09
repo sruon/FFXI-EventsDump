@@ -26,58 +26,58 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x1AA8      |        6824 |
-|       2 | 0x1AA9      |        6825 |
-|       3 | 0x1AAA      |        6826 |
-|       4 | 0x1AAB      |        6827 |
-|       5 | 0x1AAC      |        6828 |
-|       6 | 0x1A5F      |        6751 |
+|       1 | 0x1AA9      |        6825 |
+|       2 | 0x1AAA      |        6826 |
+|       3 | 0x1AAB      |        6827 |
+|       4 | 0x1AAC      |        6828 |
+|       5 | 0x1AAD      |        6829 |
+|       6 | 0x1A60      |        6752 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x1AAD      |        6829 |
-|       9 | 0x1AAE      |        6830 |
-|      10 | 0x1AAF      |        6831 |
-|      11 | 0x1AB0      |        6832 |
-|      12 | 0x1AB1      |        6833 |
-|      13 | 0x1AB2      |        6834 |
-|      14 | 0x1AB3      |        6835 |
+|       8 | 0x1AAE      |        6830 |
+|       9 | 0x1AAF      |        6831 |
+|      10 | 0x1AB0      |        6832 |
+|      11 | 0x1AB1      |        6833 |
+|      12 | 0x1AB2      |        6834 |
+|      13 | 0x1AB3      |        6835 |
+|      14 | 0x1AB4      |        6836 |
 |      15 | 0x0046      |          70 |
 |      16 | 0x0001      |           1 |
-|      17 | 0x1AB4      |        6836 |
+|      17 | 0x1AB5      |        6837 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x0003      |           3 |
 |      20 | 0x0094      |         148 |
-|      21 | 0x1ABB      |        6843 |
-|      22 | 0x1ABC      |        6844 |
+|      21 | 0x1ABC      |        6844 |
+|      22 | 0x1ABD      |        6845 |
 |      23 | 0x0047      |          71 |
 |      24 | 0x00C9      |         201 |
 |      25 | 0x0002      |           2 |
-|      26 | 0x1B58      |        7000 |
-|      27 | 0x1B59      |        7001 |
-|      28 | 0x1B56      |        6998 |
-|      29 | 0x1B57      |        6999 |
+|      26 | 0x1B59      |        7001 |
+|      27 | 0x1B5A      |        7002 |
+|      28 | 0x1B57      |        6999 |
+|      29 | 0x1B58      |        7000 |
 
 ## String References
 
-- **6751**: Well? [Of course./Sorry, but I can't.]
-- **6824**: I hear about you a lot. People say you do much for Selbina.
-- **6825**: I speak for the whole town when I say thank you. Thank you.
-- **6826**: Thing is, the turtlebacks are on the move. Word is they're up to no good.
-- **6827**: I'm itching to go smash them, but I can't leave the town defenseless.
-- **6828**: Maybe you could go instead. What do you say?
-- **6829**: Thanks. The turtlebacks often strike merchants headed to our village. Another caravan was attacked just the other day.
-- **6830**: They fled, but two of them were taken prisoner.
-- **6831**: The turtlebacks prowling outside came from Beadeaux. We think the merchants are held captive there.
-- **6832**: Their names are Evrard and Serafin.
-- **6833**: They say that the turtlebacks keep prisoners locked up tight. Somewhere in Beadeaux there should be such a place.
-- **6834**: The merchants who made it here said that they were different from other turtlebacks. I hope that helps.
-- **6835**: I hate asking others to do our job, but please, rescue the two captives. Their families need them.
-- **6836**: Oh? Pity... I hoped you would say yes.
-- **6843**: We're thankful enough you're safe. We apologize we couldn't help you.
-- **6844**: But you did well. Thank you! This is for your service.
-- **6998**: This is the mayor's mansion. Our mayor is a good man. Go inside and say hello.
-- **6999**: The Valkurm Dunes is Selbina's territory, but our militia is too few to patrol it. It is sad, but you adventurers must keep the sands safe.
-- **7000**: Oh, you again. Thanks for all you've done for us. We need all the help we can get.
-- **7001**: No reports of trouble recently. For us, no news is good news!
+- **6752**: Well? [Of course./Sorry, but I can't.]
+- **6825**: I hear about you a lot. People say you do much for Selbina.
+- **6826**: I speak for the whole town when I say thank you. Thank you.
+- **6827**: Thing is, the turtlebacks are on the move. Word is they're up to no good.
+- **6828**: I'm itching to go smash them, but I can't leave the town defenseless.
+- **6829**: Maybe you could go instead. What do you say?
+- **6830**: Thanks. The turtlebacks often strike merchants headed to our village. Another caravan was attacked just the other day.
+- **6831**: They fled, but two of them were taken prisoner.
+- **6832**: The turtlebacks prowling outside came from Beadeaux. We think the merchants are held captive there.
+- **6833**: Their names are Evrard and Serafin.
+- **6834**: They say that the turtlebacks keep prisoners locked up tight. Somewhere in Beadeaux there should be such a place.
+- **6835**: The merchants who made it here said that they were different from other turtlebacks. I hope that helps.
+- **6836**: I hate asking others to do our job, but please, rescue the two captives. Their families need them.
+- **6837**: Oh? Pity... I hoped you would say yes.
+- **6844**: We're thankful enough you're safe. We apologize we couldn't help you.
+- **6845**: But you did well. Thank you! This is for your service.
+- **6999**: This is the mayor's mansion. Our mayor is a good man. Go inside and say hello.
+- **7000**: The Valkurm Dunes is Selbina's territory, but our militia is too few to patrol it. It is sad, but you adventurers must keep the sands safe.
+- **7001**: Oh, you again. Thanks for all you've done for us. We need all the help we can get.
+- **7002**: No reports of trouble recently. For us, no news is good news!
 
 ## Events
 
@@ -147,58 +147,58 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6824*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6825*)
     → "I hear about you a lot. People say you do much for Selbina."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=6825*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=6826*)
     → "I speak for the whole town when I say thank you. Thank you."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=6826*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=6827*)
     → "Thing is, the turtlebacks are on the move. Word is they're up to no good."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  11: 0x0030 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=6827*)
+ 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=6828*)
     → "I'm itching to go smash them, but I can't leave the town defenseless."
  13: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0043 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  15: 0x0050 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
  16: 0x005F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  17: 0x006C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 18: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=6828*)
+ 18: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=6829*)
     → "Maybe you could go instead. What do you say?"
  19: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x007F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 21: 0x0084 [0x24] CREATE_DIALOG(message_id=6751*, default_option=0*, option_flags=0*)
+ 21: 0x0084 [0x24] CREATE_DIALOG(message_id=6752*, default_option=0*, option_flags=0*)
     → "Well? [Of course./Sorry, but I can't.]"
  22: 0x008B [0x25] WAIT_DIALOG_SELECT()
  23: 0x008C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0128
  24: 0x0094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 25: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6829*)
+ 25: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6830*)
     → "Thanks. The turtlebacks often strike merchants headed to our village. Another caravan was attacked just the other day."
  26: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00A7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  28: 0x00B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 29: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6830*)
+ 29: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6831*)
     → "They fled, but two of them were taken prisoner."
  30: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00C7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  32: 0x00D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
  33: 0x00E3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  34: 0x00F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 35: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=6831*)
+ 35: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=6832*)
     → "The turtlebacks prowling outside came from Beadeaux. We think the merchants are held captive there."
  36: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=6832*)
+ 37: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
     → "Their names are Evrard and Serafin."
  38: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
+ 39: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
     → "They say that the turtlebacks keep prisoners locked up tight. Somewhere in Beadeaux there should be such a place."
  40: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
+ 41: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
     → "The merchants who made it here said that they were different from other turtlebacks. I hope that helps."
  42: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
+ 43: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
     → "I hate asking others to do our job, but please, rescue the two captives. Their families need them."
  44: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0113 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -206,7 +206,7 @@
  47: 0x0125 [0x01] GOTO 0x0155
  48: 0x0128 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0155
  49: 0x0130 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 50: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
+ 50: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=6837*)
     → "Oh? Pity... I hoped you would say yes."
  51: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0143 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
@@ -280,7 +280,7 @@ SUBROUTINE_0155:
  15: 0x01DD [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Evrard (ID: 17793028/0x010F8004), tag_num=0x03)
  16: 0x01E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se01" with entities [LocalPlayer, LocalPlayer], work=[148*, 0*]
  17: 0x01F5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se01" with entities [LocalPlayer, LocalPlayer], work=148*
- 18: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=6843*)
+ 18: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=6844*)
     → "We're thankful enough you're safe. We apologize we couldn't help you."
  19: 0x0207 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
  20: 0x0216 [0x4A] Evrard (ID: 17793028/0x010F8004) looks at EventEntity
@@ -296,7 +296,7 @@ SUBROUTINE_0155:
  30: 0x024C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  31: 0x024D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  32: 0x024E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 33: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=6844*)
+ 33: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=6845*)
     → "But you did well. Thank you! This is for your service."
  34: 0x0260 [0x4A] LocalPlayer looks at EventEntity
  35: 0x0269 [0x4A] Evrard (ID: 17793028/0x010F8004) looks at LocalPlayer
@@ -352,11 +352,11 @@ SUBROUTINE_0155:
   4: 0x030B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x030C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
   6: 0x031B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x032A
-  7: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=7000*)
+  7: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=7001*)
     → "Oh, you again. Thanks for all you've done for us. We need all the help we can get."
   8: 0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0327 [0x01] GOTO 0x032E
- 10: 0x032A [0x1D] PRINT_EVENT_MESSAGE(message_id=7001*)
+ 10: 0x032A [0x1D] PRINT_EVENT_MESSAGE(message_id=7002*)
     → "No reports of trouble recently. For us, no news is good news!"
  11: 0x032D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -397,26 +397,26 @@ SUBROUTINE_032E:
   1: 0x0342 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0343 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0344 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=6830*)
+  4: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=6831*)
     → "They fled, but two of them were taken prisoner."
   5: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0357 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
   7: 0x0364 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
   8: 0x0373 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
   9: 0x0380 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 10: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=6831*)
+ 10: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=6832*)
     → "The turtlebacks prowling outside came from Beadeaux. We think the merchants are held captive there."
  11: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0393 [0x1D] PRINT_EVENT_MESSAGE(message_id=6832*)
+ 12: 0x0393 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
     → "Their names are Evrard and Serafin."
  13: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0397 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
+ 14: 0x0397 [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
     → "They say that the turtlebacks keep prisoners locked up tight. Somewhere in Beadeaux there should be such a place."
  15: 0x039A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x039B [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
+ 16: 0x039B [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
     → "The merchants who made it here said that they were different from other turtlebacks. I hope that helps."
  17: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
+ 18: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
     → "I hate asking others to do our job, but please, rescue the two captives. Their families need them."
  19: 0x03A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x03A3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -454,11 +454,11 @@ SUBROUTINE_032E:
   4: 0x03C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x03C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
   6: 0x03D2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03E1
-  7: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=6998*)
+  7: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
     → "This is the mayor's mansion. Our mayor is a good man. Go inside and say hello."
   8: 0x03DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x03DE [0x01] GOTO 0x03E5
- 10: 0x03E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
+ 10: 0x03E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7000*)
     → "The Valkurm Dunes is Selbina's territory, but our militia is too few to patrol it. It is sad, but you adventurers must keep the sands safe."
  11: 0x03E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

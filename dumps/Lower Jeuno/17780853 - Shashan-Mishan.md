@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x1DD1FCC6  |   500300998 |
-|       1 | 0x1B10      |        6928 |
-|       2 | 0x1B11      |        6929 |
+|       1 | 0x1B11      |        6929 |
+|       2 | 0x1B12      |        6930 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0064      |         100 |
@@ -80,37 +80,37 @@
 |      57 | 0x001D      |          29 |
 |      58 | 0x0D80      |        3456 |
 |      59 | 0x00FF      |         255 |
-|      60 | 0x1B1B      |        6939 |
-|      61 | 0x1B18      |        6936 |
-|      62 | 0x1B15      |        6933 |
-|      63 | 0x1B12      |        6930 |
-|      64 | 0x1B1C      |        6940 |
-|      65 | 0x1B19      |        6937 |
-|      66 | 0x1B16      |        6934 |
-|      67 | 0x1B13      |        6931 |
-|      68 | 0x1B1D      |        6941 |
-|      69 | 0x1B1A      |        6938 |
-|      70 | 0x1B17      |        6935 |
-|      71 | 0x1B14      |        6932 |
-|      72 | 0x1B1E      |        6942 |
+|      60 | 0x1B1C      |        6940 |
+|      61 | 0x1B19      |        6937 |
+|      62 | 0x1B16      |        6934 |
+|      63 | 0x1B13      |        6931 |
+|      64 | 0x1B1D      |        6941 |
+|      65 | 0x1B1A      |        6938 |
+|      66 | 0x1B17      |        6935 |
+|      67 | 0x1B14      |        6932 |
+|      68 | 0x1B1E      |        6942 |
+|      69 | 0x1B1B      |        6939 |
+|      70 | 0x1B18      |        6936 |
+|      71 | 0x1B15      |        6933 |
+|      72 | 0x1B1F      |        6943 |
 
 ## String References
 
-- **6928**: Your fate rides on the changing winds of Vana'diel. I can give you insight on the local weather.
-- **6929**: What area's weather do you wish to know? [Nowhere./Ronfaure./La Theine Plateau./Valkurm Dunes./Jugner Forest./Batallia Downs./Gustaberg./Konschtat Highlands./Pashhow Marshlands./Rolanberry Fields./Beaucedine Glacier./Xarcabard./Cape Teriggan./Altepa Desert./Sarutabaruta./Tahrongi Canyon./Buburimu Peninsula./Meriphataud Mountains./Sauromugue Champaign./The Sanctuary of Zi'Tah./Yuhtunga & Yhoator Jungles./Qufim Island./Tu'Lia./Ferry./Airship./Jeuno./Uleguerand Range./Tavnazian Archipelago./Riverne - Sites #A01 & #B01.]
-- **6930**: That area's forecast for today is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised.
-- **6931**: The forecast for tomorrow is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised.
-- **6932**: And, the forecast for the day after tomorrow is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised.
-- **6933**: Today, that area's weather will be $0 with a chance of $1.
-- **6934**: Tomorrow, the weather will be $0 with a chance of $1.
-- **6935**: And, the day after tomorrow, the weather will be $0 with a chance of $1.
-- **6936**: Today, the weather in that area will be $0. There is also the possibility of $2, so caution is advised.
-- **6937**: Tomorrow, the weather will be $0. There is also the possibility of $2, so caution is advised.
-- **6938**: And, the day after tomorrow, the weather will be $0. There is also the possibility of $2, so caution is advised.
-- **6939**: The weather in that area today will be $0.
-- **6940**: The weather tomorrow will be $0.
-- **6941**: The weather the day after tomorrow will be $0.
-- **6942**: And that's the report, straight from Vana'diel's official weather linkshell.
+- **6929**: Your fate rides on the changing winds of Vana'diel. I can give you insight on the local weather.
+- **6930**: What area's weather do you wish to know? [Nowhere./Ronfaure./La Theine Plateau./Valkurm Dunes./Jugner Forest./Batallia Downs./Gustaberg./Konschtat Highlands./Pashhow Marshlands./Rolanberry Fields./Beaucedine Glacier./Xarcabard./Cape Teriggan./Altepa Desert./Sarutabaruta./Tahrongi Canyon./Buburimu Peninsula./Meriphataud Mountains./Sauromugue Champaign./The Sanctuary of Zi'Tah./Yuhtunga & Yhoator Jungles./Qufim Island./Tu'Lia./Ferry./Airship./Jeuno./Uleguerand Range./Tavnazian Archipelago./Riverne - Sites #A01 & #B01.]
+- **6931**: That area's forecast for today is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised.
+- **6932**: The forecast for tomorrow is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised.
+- **6933**: And, the forecast for the day after tomorrow is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised.
+- **6934**: Today, that area's weather will be $0 with a chance of $1.
+- **6935**: Tomorrow, the weather will be $0 with a chance of $1.
+- **6936**: And, the day after tomorrow, the weather will be $0 with a chance of $1.
+- **6937**: Today, the weather in that area will be $0. There is also the possibility of $2, so caution is advised.
+- **6938**: Tomorrow, the weather will be $0. There is also the possibility of $2, so caution is advised.
+- **6939**: And, the day after tomorrow, the weather will be $0. There is also the possibility of $2, so caution is advised.
+- **6940**: The weather in that area today will be $0.
+- **6941**: The weather tomorrow will be $0.
+- **6942**: The weather the day after tomorrow will be $0.
+- **6943**: And that's the report, straight from Vana'diel's official weather linkshell.
 
 ## Events
 
@@ -200,10 +200,10 @@
 
 ```
   0: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=6928*)
+  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=6929*)
     → "Your fate rides on the changing winds of Vana'diel. I can give you insight on the local weather."
   2: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000F [0x24] CREATE_DIALOG(message_id=6929*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+  3: 0x000F [0x24] CREATE_DIALOG(message_id=6930*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What area's weather do you wish to know? [Nowhere./Ronfaure./La Theine Plateau./Valkurm Dunes./Jugner Forest./Batallia Downs./Gustaberg./Konschtat Highlands./Pashhow Marshlands./Rolanberry Fields./Beaucedine Glacier./Xarcabard./Cape Teriggan./Altepa Desert./Sarutabaruta./Tahrongi Canyon./Buburimu Peninsula./Meriphataud Mountains./Sauromugue Champaign./The Sanctuary of Zi'Tah./Yuhtunga & Yhoator Jungles./Qufim Island./Tu'Lia./Ferry./Airship./Jeuno./Uleguerand Range./Tavnazian Archipelago./Riverne - Sites #A01 & #B01.]"
   4: 0x0016 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0017 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0024
@@ -221,22 +221,22 @@ SUBROUTINE_01EB:
  13: 0x01F5 [0x72] LOAD_EVENT_WEATHER: Request weather file 7033, weather_id=ExtData[1]->WorkLocal[2], param1=0x0172, param2=0x00010002
  14: 0x01FF [0x02] IF !(Work_Zone[3] == 255*) GOTO 0x021D
  15: 0x0207 [0x02] IF !(Work_Zone[4] == 255*) GOTO 0x0216
- 16: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=6939*)
+ 16: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=6940*)
     → "The weather in that area today will be $0."
  17: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0213 [0x01] GOTO 0x021A
- 19: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=6936*)
+ 19: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=6937*)
     → "Today, the weather in that area will be $0. There is also the possibility of $2, so caution is advised."
  20: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_021A:
  21: 0x021A [0x01] GOTO 0x0230
  22: 0x021D [0x02] IF !(Work_Zone[4] == 255*) GOTO 0x022C
- 23: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=6933*)
+ 23: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=6934*)
     → "Today, that area's weather will be $0 with a chance of $1."
  24: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0229 [0x01] GOTO 0x0230
- 26: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=6930*)
+ 26: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=6931*)
     → "That area's forecast for today is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised."
  27: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -245,22 +245,22 @@ SUBROUTINE_0230:
  29: 0x0233 [0x72] LOAD_EVENT_WEATHER: Request weather file 7033, weather_id=ExtData[1]->WorkLocal[2], param1=0x0172, param2=0x00010002
  30: 0x023D [0x02] IF !(Work_Zone[3] == 255*) GOTO 0x025B
  31: 0x0245 [0x02] IF !(Work_Zone[4] == 255*) GOTO 0x0254
- 32: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=6940*)
+ 32: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=6941*)
     → "The weather tomorrow will be $0."
  33: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0251 [0x01] GOTO 0x0258
- 35: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=6937*)
+ 35: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=6938*)
     → "Tomorrow, the weather will be $0. There is also the possibility of $2, so caution is advised."
  36: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0258:
  37: 0x0258 [0x01] GOTO 0x026E
  38: 0x025B [0x02] IF !(Work_Zone[4] == 255*) GOTO 0x026A
- 39: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=6934*)
+ 39: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=6935*)
     → "Tomorrow, the weather will be $0 with a chance of $1."
  40: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0267 [0x01] GOTO 0x026E
- 42: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=6931*)
+ 42: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=6932*)
     → "The forecast for tomorrow is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised."
  43: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -269,27 +269,27 @@ SUBROUTINE_026E:
  45: 0x0271 [0x72] LOAD_EVENT_WEATHER: Request weather file 7033, weather_id=ExtData[1]->WorkLocal[2], param1=0x0172, param2=0x00010002
  46: 0x027B [0x02] IF !(Work_Zone[3] == 255*) GOTO 0x0299
  47: 0x0283 [0x02] IF !(Work_Zone[4] == 255*) GOTO 0x0292
- 48: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=6941*)
+ 48: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=6942*)
     → "The weather the day after tomorrow will be $0."
  49: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x028F [0x01] GOTO 0x0296
- 51: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=6938*)
+ 51: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=6939*)
     → "And, the day after tomorrow, the weather will be $0. There is also the possibility of $2, so caution is advised."
  52: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0296:
  53: 0x0296 [0x01] GOTO 0x02AC
  54: 0x0299 [0x02] IF !(Work_Zone[4] == 255*) GOTO 0x02A8
- 55: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6935*)
+ 55: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6936*)
     → "And, the day after tomorrow, the weather will be $0 with a chance of $1."
  56: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x02A5 [0x01] GOTO 0x02AC
- 58: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6932*)
+ 58: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6933*)
     → "And, the forecast for the day after tomorrow is for $0 with occasional $1. There is also a slight chance of $2, so caution is advised."
  59: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_02AC:
- 60: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6942*)
+ 60: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6943*)
     → "And that's the report, straight from Vana'diel's official weather linkshell."
  61: 0x02AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x02B0 [0x1B] RETURN

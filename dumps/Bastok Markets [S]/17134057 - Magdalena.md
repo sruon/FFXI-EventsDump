@@ -22,13 +22,13 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0013      |          19 |
-|       2 | 0x3017      |       12311 |
-|       3 | 0x3018      |       12312 |
+|       2 | 0x3018      |       12312 |
+|       3 | 0x3019      |       12313 |
 
 ## String References
 
-- **12311**: I'll admit, I wasn't sure how things would turn out when Selbina suddenly declared its independence.
-- **12312**: Senator Werner dispatched the Republican Legion and took control of the situation with such incredible speed. Even the president himself was amazed by the senator's show of skill.
+- **12312**: I'll admit, I wasn't sure how things would turn out when Selbina suddenly declared its independence.
+- **12313**: Senator Werner dispatched the Republican Legion and took control of the situation with such incredible speed. Even the president himself was amazed by the senator's show of skill.
 
 ## Events
 
@@ -78,10 +78,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
     → "I'll admit, I wasn't sure how things would turn out when Selbina suddenly declared its independence."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12313*)
     → "Senator Werner dispatched the Republican Legion and took control of the situation with such incredible speed. Even the president himself was amazed by the senator's show of skill."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT

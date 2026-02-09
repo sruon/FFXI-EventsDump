@@ -24,9 +24,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x001A      |          26 |
-|       2 | 0x2ACF      |       10959 |
-|       3 | 0x2AD0      |       10960 |
-|       4 | 0x2AD1      |       10961 |
+|       2 | 0x2AD0      |       10960 |
+|       3 | 0x2AD1      |       10961 |
+|       4 | 0x2AD2      |       10962 |
 
 ## Events
 
@@ -78,13 +78,13 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 26*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [10959*]:
+  4: 0x0019 [0x2B] EventEntity [10960*]:
     → "<Sigh>... To have come all the way from Olzhirya to Windurst just to be met by this scene of destruction... But we must remain firm."
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x2B] EventEntity [10960*]:
+  6: 0x0021 [0x2B] EventEntity [10961*]:
     → "They say the weakening of a nation is generally the result of its leadership. I don't know what the Star Sibyl or whoever is running Windurrrst is up to..."
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0029 [0x2B] EventEntity [10961*]:
+  8: 0x0029 [0x2B] EventEntity [10962*]:
     → "Strength is everrrything to us Mithra. A leader without strength is no leader at all."
   9: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0031 [0x21] END_EVENT

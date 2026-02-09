@@ -190,25 +190,25 @@
 |      65 | 0xFFFF219A  |  4294910362 |
 |      66 | 0x66F54     |      421716 |
 |      67 | 0xFFFF2CC2  |  4294913218 |
-|      68 | 0x1C5C      |        7260 |
-|      69 | 0x1C5D      |        7261 |
+|      68 | 0x1C5D      |        7261 |
+|      69 | 0x1C5E      |        7262 |
 |      70 | 0x005C      |          92 |
-|      71 | 0x1C5E      |        7262 |
-|      72 | 0x1C5F      |        7263 |
-|      73 | 0x1C60      |        7264 |
-|      74 | 0x1C62      |        7266 |
-|      75 | 0x1C63      |        7267 |
-|      76 | 0x1C66      |        7270 |
+|      71 | 0x1C5F      |        7263 |
+|      72 | 0x1C60      |        7264 |
+|      73 | 0x1C61      |        7265 |
+|      74 | 0x1C63      |        7267 |
+|      75 | 0x1C64      |        7268 |
+|      76 | 0x1C67      |        7271 |
 |      77 | 0x66B1B     |      420635 |
 |      78 | 0xFFFF3C40  |  4294917184 |
-|      79 | 0x1C69      |        7273 |
-|      80 | 0x1C6A      |        7274 |
-|      81 | 0x1C6B      |        7275 |
-|      82 | 0x1C6C      |        7276 |
-|      83 | 0x1C6D      |        7277 |
-|      84 | 0x1C6E      |        7278 |
-|      85 | 0x1C6F      |        7279 |
-|      86 | 0x1C70      |        7280 |
+|      79 | 0x1C6A      |        7274 |
+|      80 | 0x1C6B      |        7275 |
+|      81 | 0x1C6C      |        7276 |
+|      82 | 0x1C6D      |        7277 |
+|      83 | 0x1C6E      |        7278 |
+|      84 | 0x1C6F      |        7279 |
+|      85 | 0x1C70      |        7280 |
+|      86 | 0x1C71      |        7281 |
 |      87 | 0xFFFFC8A2  |  4294953122 |
 |      88 | 0x4FF7      |       20471 |
 |      89 | 0x0885      |        2181 |
@@ -221,17 +221,17 @@
 |      96 | 0xFFFFC56A  |  4294952298 |
 |      97 | 0x4D01      |       19713 |
 |      98 | 0x00E6      |         230 |
-|      99 | 0x1C8E      |        7310 |
-|     100 | 0x1C8F      |        7311 |
-|     101 | 0x1C91      |        7313 |
-|     102 | 0x1C92      |        7314 |
-|     103 | 0x1C94      |        7316 |
-|     104 | 0x1C95      |        7317 |
-|     105 | 0x1C96      |        7318 |
-|     106 | 0x1C97      |        7319 |
-|     107 | 0x1C9A      |        7322 |
-|     108 | 0x1C9B      |        7323 |
-|     109 | 0x1C9C      |        7324 |
+|      99 | 0x1C8F      |        7311 |
+|     100 | 0x1C90      |        7312 |
+|     101 | 0x1C92      |        7314 |
+|     102 | 0x1C93      |        7315 |
+|     103 | 0x1C95      |        7317 |
+|     104 | 0x1C96      |        7318 |
+|     105 | 0x1C97      |        7319 |
+|     106 | 0x1C98      |        7320 |
+|     107 | 0x1C9B      |        7323 |
+|     108 | 0x1C9C      |        7324 |
+|     109 | 0x1C9D      |        7325 |
 |     110 | 0xFFFAF120  |  4294635808 |
 |     111 | 0x241AF     |      147887 |
 |     112 | 0x0D9D      |        3485 |
@@ -248,74 +248,74 @@
 |     123 | 0x003C      |          60 |
 |     124 | 0xFFFAF123  |  4294635811 |
 |     125 | 0x23811     |      145425 |
-|     126 | 0x1CA0      |        7328 |
-|     127 | 0x1CA1      |        7329 |
-|     128 | 0x1CA2      |        7330 |
-|     129 | 0x1CA3      |        7331 |
-|     130 | 0x1CA4      |        7332 |
-|     131 | 0x1CA5      |        7333 |
-|     132 | 0x1CA6      |        7334 |
-|     133 | 0x1CA7      |        7335 |
-|     134 | 0x1CA8      |        7336 |
-|     135 | 0x1CA9      |        7337 |
+|     126 | 0x1CA1      |        7329 |
+|     127 | 0x1CA2      |        7330 |
+|     128 | 0x1CA3      |        7331 |
+|     129 | 0x1CA4      |        7332 |
+|     130 | 0x1CA5      |        7333 |
+|     131 | 0x1CA6      |        7334 |
+|     132 | 0x1CA7      |        7335 |
+|     133 | 0x1CA8      |        7336 |
+|     134 | 0x1CA9      |        7337 |
+|     135 | 0x1CAA      |        7338 |
 |     136 | 0xFFFC7603  |  4294735363 |
 |     137 | 0x16164     |       90468 |
 |     138 | 0x0F1B      |        3867 |
 |     139 | 0xFFFC796B  |  4294736235 |
 |     140 | 0x15DA2     |       89506 |
 |     141 | 0x0E85      |        3717 |
-|     142 | 0x1CDC      |        7388 |
-|     143 | 0x1CDE      |        7390 |
-|     144 | 0x1CDF      |        7391 |
-|     145 | 0x1CE1      |        7393 |
-|     146 | 0x1CE2      |        7394 |
-|     147 | 0x1CE3      |        7395 |
+|     142 | 0x1CDD      |        7389 |
+|     143 | 0x1CDF      |        7391 |
+|     144 | 0x1CE0      |        7392 |
+|     145 | 0x1CE2      |        7394 |
+|     146 | 0x1CE3      |        7395 |
+|     147 | 0x1CE4      |        7396 |
 
 ## String References
 
-- **7260**: And you, Apururu, my own sistaru...! Can'taru you see the truth behind all of this?
-- **7261**: Why do you think they all fear war, but won't lift a finger-winger to do anything about it?
-- **7262**: They all say that Windurst has "peace and security, peace and security," but do you really-weally think our country has peace?
-- **7263**: The wounds the Orastery received from the war haven't healed, even after twenty-odd years. The best of the War Warlock mages are dying off, unable to train new, younger replacementarus.
-- **7264**: Just imagine what would happen if war broke out again. Windurst would be obliterated in an instantaru. That's why...that's why we need some grand new magic...
-- **7266**: Yes, and what about her...? What was the reason she forbade the very magic I seek? If they could have controlled that magic properly, then we wouldn't have had to buddy-buddy with the beastmen in the first place!
-- **7267**: Sure, the spell-weaver died, but the magic itself was a great success...
-- **7270**: Humph. Say whataru you like. A genius is never accepted by the world in his own time. If you've just come here to whinge and whine, then off with you! Go on, getaru!
-- **7273**: Oi! Who's that over there?
-- **7274**: Ah...? What's thataru, you say? A wanna-be newbie adventurer, huh? So you're the one they sent to help me with my experiment...?
-- **7275**: Well, you're too latey-watey! The experiment is over. This gizmo just broke down again...
-- **7276**: And then my pesky little sistaru wandered on in just to add insult to injury!
-- **7277**: Phew... Well, I've had enough for one day. I'm headed home. Seeing as you've come all this way, I'd hate for you to go home empty-handed, so here's a little job for you.
-- **7278**: On your way here, you probably noticed the glowing receptacle gizmos here and there, didn'taru you? Well, inside each of them, there's a magical ball called a "Mana Orb."
-- **7279**: I think one of those Mana Orbs was broken when my experiment failed just now. Your job is to find the broken sphere and take it back to the Orastery.
-- **7280**: Oh, and one more thing... Don't go blabbing about what you just heard here, all rightaru?
-- **7310**: This time you've gone too far!
-- **7311**: When you cannot lie, you must value your words as much as your life!
-- **7313**: So, "Cardians of the Dark," you have already investigatarued me, have you? Dare I ask what evil enterprise you are planning?
-- **7314**: Don'taru tell me that you are after the forbidden magic as well? That couldn't possibly be true, could it?
-- **7316**: Humph. They cannot lie, but they can keep their silence! I underestimatarued them!
-- **7317**: So, now I see... You stole that book from our Cardian friends there, eh?
-- **7318**: But to hide it and your other spoils right under our noses in ol' Karaha-Baruha's residence...? I guess you could say that the darkestaru place is always under the candlestick.
-- **7319**: You can leave the rest to me. Give me the key to the "House of the Hero." I'm talking about Karaha-Baruha's ring. I know you've gotaru it!
-- **7322**: You have the gall to think I enjoy playing cat and mouse, running around after you, do you? Really, now...?
-- **7323**: As for you, adventurer, get out of here while you still can. Otherwise, you'll have a cat in hell's chance of escaping with your belongings intact.
-- **7324**: Next stop, ol' Karaha-Baruha's residence! I had better hurry back to Windurst Walls before it's too late...
-- **7328**: Hey... Are you okay?
-- **7329**: You seem to be all rightaru...
-- **7330**: The Cardians here are very different from the Cardians in town.
-- **7331**: You'll be sorry if you carelessly go anywhere near these guys.
-- **7332**: You see, these are my old man's most powerful creations. The ones he practically worked himself to death over.
-- **7333**: (But, seeing as these Cardians are still up and running about, it must mean that my old man is still alive somewhere...)
-- **7334**: Anyway, what the devil-wevil are you doing in this room?
-- **7335**: These guys are protectaruing a part of the talisman that seals away the Shadow Lord...and that's no ordinary seal! Only the ministers of the five ministries are allowed to enter this room!
-- **7336**: What's that you say...? The great Star Sibyl has collapsed? What terrifying portent did she see in the stars, then...?
-- **7337**: What in the stars is going on? I had better go check with my own eyes. Better head down to Full Moon Fountain...
-- **7388**: Uh...? ...You... Is this a dream?
-- **7390**: Not a dream, huh...? It feels like I've been trapped in a never-ending nightmare...
-- **7391**: The bearer of darkness was here... He said he was searching for something... He seemed to be...in pain...
-- **7393**: What is that? I sense a mysterious force nearby... What is that you're carrying?
-- **7394**: Are you kidding me? One of the ancients returned the magic to this tome?
-- **7395**: That's just ludicrous...! But still, this level of power... It's most definitely...
+- **7261**: And you, Apururu, my own sistaru...! Can'taru you see the truth behind all of this?
+- **7262**: Why do you think they all fear war, but won't lift a finger-winger to do anything about it?
+- **7263**: They all say that Windurst has "peace and security, peace and security," but do you really-weally think our country has peace?
+- **7264**: The wounds the Orastery received from the war haven't healed, even after twenty-odd years. The best of the War Warlock mages are dying off, unable to train new, younger replacementarus.
+- **7265**: Just imagine what would happen if war broke out again. Windurst would be obliterated in an instantaru. That's why...that's why we need some grand new magic...
+- **7267**: Yes, and what about her...? What was the reason she forbade the very magic I seek? If they could have controlled that magic properly, then we wouldn't have had to buddy-buddy with the beastmen in the first place!
+- **7268**: Sure, the spell-weaver died, but the magic itself was a great success...
+- **7271**: Humph. Say whataru you like. A genius is never accepted by the world in his own time. If you've just come here to whinge and whine, then off with you! Go on, getaru!
+- **7274**: Oi! Who's that over there?
+- **7275**: Ah...? What's thataru, you say? A wanna-be newbie adventurer, huh? So you're the one they sent to help me with my experiment...?
+- **7276**: Well, you're too latey-watey! The experiment is over. This gizmo just broke down again...
+- **7277**: And then my pesky little sistaru wandered on in just to add insult to injury!
+- **7278**: Phew... Well, I've had enough for one day. I'm headed home. Seeing as you've come all this way, I'd hate for you to go home empty-handed, so here's a little job for you.
+- **7279**: On your way here, you probably noticed the glowing receptacle gizmos here and there, didn'taru you? Well, inside each of them, there's a magical ball called a "Mana Orb."
+- **7280**: I think one of those Mana Orbs was broken when my experiment failed just now. Your job is to find the broken sphere and take it back to the Orastery.
+- **7281**: Oh, and one more thing... Don't go blabbing about what you just heard here, all rightaru?
+- **7311**: This time you've gone too far!
+- **7312**: When you cannot lie, you must value your words as much as your life!
+- **7314**: So, "Cardians of the Dark," you have already investigatarued me, have you? Dare I ask what evil enterprise you are planning?
+- **7315**: Don'taru tell me that you are after the forbidden magic as well? That couldn't possibly be true, could it?
+- **7317**: Humph. They cannot lie, but they can keep their silence! I underestimatarued them!
+- **7318**: So, now I see... You stole that book from our Cardian friends there, eh?
+- **7319**: But to hide it and your other spoils right under our noses in ol' Karaha-Baruha's residence...? I guess you could say that the darkestaru place is always under the candlestick.
+- **7320**: You can leave the rest to me. Give me the key to the "House of the Hero." I'm talking about Karaha-Baruha's ring. I know you've gotaru it!
+- **7323**: You have the gall to think I enjoy playing cat and mouse, running around after you, do you? Really, now...?
+- **7324**: As for you, adventurer, get out of here while you still can. Otherwise, you'll have a cat in hell's chance of escaping with your belongings intact.
+- **7325**: Next stop, ol' Karaha-Baruha's residence! I had better hurry back to Windurst Walls before it's too late...
+- **7329**: Hey... Are you okay?
+- **7330**: You seem to be all rightaru...
+- **7331**: The Cardians here are very different from the Cardians in town.
+- **7332**: You'll be sorry if you carelessly go anywhere near these guys.
+- **7333**: You see, these are my old man's most powerful creations. The ones he practically worked himself to death over.
+- **7334**: (But, seeing as these Cardians are still up and running about, it must mean that my old man is still alive somewhere...)
+- **7335**: Anyway, what the devil-wevil are you doing in this room?
+- **7336**: These guys are protectaruing a part of the talisman that seals away the Shadow Lord...and that's no ordinary seal! Only the ministers of the five ministries are allowed to enter this room!
+- **7337**: What's that you say...? The great Star Sibyl has collapsed? What terrifying portent did she see in the stars, then...?
+- **7338**: What in the stars is going on? I had better go check with my own eyes. Better head down to Full Moon Fountain...
+- **7389**: Uh...? ...You... Is this a dream?
+- **7391**: Not a dream, huh...? It feels like I've been trapped in a never-ending nightmare...
+- **7392**: The bearer of darkness was here... He said he was searching for something... He seemed to be...in pain...
+- **7394**: What is that? I sense a mysterious force nearby... What is that you're carrying?
+- **7395**: Are you kidding me? One of the ancients returned the magic to this tome?
+- **7396**: That's just ludicrous...! But still, this level of power... It's most definitely...
 
 ## Events
 
@@ -1682,7 +1682,7 @@
 
 ```
   0: 0x038D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x01)
-  1: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+  1: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "And you, Apururu, my own sistaru...! Can'taru you see the truth behind all of this?"
   2: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0398 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x02)
@@ -1714,17 +1714,17 @@
 
 ```
   0: 0x03AE [0x27] REQ_SET(priority=0x0A, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x2F)
-  1: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+  1: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "Why do you think they all fear war, but won't lift a finger-winger to do anything about it?"
   2: 0x03B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
-  4: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+  4: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "They all say that Windurst has "peace and security, peace and security," but do you really-weally think our country has peace?"
   5: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+  6: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "The wounds the Orastery received from the war haven't healed, even after twenty-odd years. The best of the War Warlock mages are dying off, unable to train new, younger replacementarus."
   7: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+  8: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "Just imagine what would happen if war broke out again. Windurst would be obliterated in an instantaru. That's why...that's why we need some grand new magic..."
   9: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x03D6 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))
@@ -1754,12 +1754,12 @@
 
 ```
   0: 0x03DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x01)
-  1: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
+  1: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "Yes, and what about her...? What was the reason she forbade the very magic I seek? If they could have controlled that magic properly, then we wouldn't have had to buddy-buddy with the beastmen in the first place!"
   2: 0x03E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x02)
   4: 0x03EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x03)
-  5: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
+  5: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
     → "Sure, the spell-weaver died, but the magic itself was a great success..."
   6: 0x03F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x04)
@@ -1788,7 +1788,7 @@
 
 ```
   0: 0x0402 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x05)
-  1: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+  1: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Humph. Say whataru you like. A genius is never accepted by the world in his own time. If you've just come here to whinge and whine, then off with you! Go on, getaru!"
   2: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x040D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x06)
@@ -1842,7 +1842,7 @@
 #### Opcodes
 
 ```
-  0: 0x0431 [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
+  0: 0x0431 [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
     → "Oi! Who's that over there?"
   1: 0x0434 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0435 [0x00] END_REQSTACK()
@@ -1869,7 +1869,7 @@
 
 ```
   0: 0x0436 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x01)
-  1: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+  1: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
     → "Ah...? What's thataru, you say? A wanna-be newbie adventurer, huh? So you're the one they sent to help me with my experiment...?"
   2: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0441 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x02)
@@ -1897,7 +1897,7 @@
 
 ```
   0: 0x0449 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x03)
-  1: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+  1: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
     → "Well, you're too latey-watey! The experiment is over. This gizmo just broke down again..."
   2: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0454 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x04)
@@ -1925,7 +1925,7 @@
 
 ```
   0: 0x045C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x09)
-  1: 0x0463 [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
+  1: 0x0463 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "And then my pesky little sistaru wandered on in just to add insult to injury!"
   2: 0x0466 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0467 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0A)
@@ -1954,7 +1954,7 @@
 
 ```
   0: 0x046F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0B)
-  1: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
+  1: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
     → "Phew... Well, I've had enough for one day. I'm headed home. Seeing as you've come all this way, I'd hate for you to go home empty-handed, so here's a little job for you."
   2: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x047A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0C)
@@ -1980,10 +1980,10 @@
 #### Opcodes
 
 ```
-  0: 0x0482 [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+  0: 0x0482 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
     → "On your way here, you probably noticed the glowing receptacle gizmos here and there, didn'taru you? Well, inside each of them, there's a magical ball called a "Mana Orb.""
   1: 0x0485 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+  2: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → "I think one of those Mana Orbs was broken when my experiment failed just now. Your job is to find the broken sphere and take it back to the Orastery."
   3: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x048A [0x00] END_REQSTACK()
@@ -2008,7 +2008,7 @@
 #### Opcodes
 
 ```
-  0: 0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
+  0: 0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
     → "Oh, and one more thing... Don't go blabbing about what you just heard here, all rightaru?"
   1: 0x048E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x048F [0x00] END_REQSTACK()
@@ -2187,7 +2187,7 @@
 #### Opcodes
 
 ```
-  0: 0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  0: 0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "This time you've gone too far!"
   1: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04EE [0x00] END_REQSTACK()
@@ -2215,7 +2215,7 @@
 
 ```
   0: 0x04EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x05)
-  1: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+  1: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "When you cannot lie, you must value your words as much as your life!"
   2: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x07)
@@ -2244,10 +2244,10 @@
 
 ```
   0: 0x0509 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x01)
-  1: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+  1: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "So, "Cardians of the Dark," you have already investigatarued me, have you? Dare I ask what evil enterprise you are planning?"
   2: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0514 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+  3: 0x0514 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "Don'taru tell me that you are after the forbidden magic as well? That couldn't possibly be true, could it?"
   4: 0x0517 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0518 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x02)
@@ -2276,7 +2276,7 @@
 
 ```
   0: 0x0520 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0D)
-  1: 0x0527 [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+  1: 0x0527 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "Humph. They cannot lie, but they can keep their silence! I underestimatarued them!"
   2: 0x052A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x052B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0E)
@@ -2304,7 +2304,7 @@
 #### Opcodes
 
 ```
-  0: 0x0541 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+  0: 0x0541 [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "So, now I see... You stole that book from our Cardian friends there, eh?"
   1: 0x0544 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0545 [0x00] END_REQSTACK()
@@ -2332,12 +2332,12 @@
 
 ```
   0: 0x0546 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x09)
-  1: 0x054D [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
+  1: 0x054D [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
     → "But to hide it and your other spoils right under our noses in ol' Karaha-Baruha's residence...? I guess you could say that the darkestaru place is always under the candlestick."
   2: 0x0550 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0551 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0A)
   4: 0x0558 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0B)
-  5: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+  5: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "You can leave the rest to me. Give me the key to the "House of the Hero." I'm talking about Karaha-Baruha's ring. I know you've gotaru it!"
   6: 0x0562 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0563 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0C)
@@ -2363,7 +2363,7 @@
 #### Opcodes
 
 ```
-  0: 0x056B [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+  0: 0x056B [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "You have the gall to think I enjoy playing cat and mouse, running around after you, do you? Really, now...?"
   1: 0x056E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x056F [0x00] END_REQSTACK()
@@ -2390,7 +2390,7 @@
 
 ```
   0: 0x0570 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x01)
-  1: 0x0577 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+  1: 0x0577 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
     → "As for you, adventurer, get out of here while you still can. Otherwise, you'll have a cat in hell's chance of escaping with your belongings intact."
   2: 0x057A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x057B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x17)
@@ -2419,7 +2419,7 @@
 
 ```
   0: 0x0583 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0D)
-  1: 0x058A [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
+  1: 0x058A [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "Next stop, ol' Karaha-Baruha's residence! I had better hurry back to Windurst Walls before it's too late..."
   2: 0x058D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x058E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0E)
@@ -2578,7 +2578,7 @@
 #### Opcodes
 
 ```
-  0: 0x05F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
+  0: 0x05F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "Hey... Are you okay?"
   1: 0x05FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05FC [0x00] END_REQSTACK()
@@ -2604,7 +2604,7 @@
 #### Opcodes
 
 ```
-  0: 0x05FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+  0: 0x05FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
     → "You seem to be all rightaru..."
   1: 0x0600 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0601 [0x00] END_REQSTACK()
@@ -2631,11 +2631,11 @@
 #### Opcodes
 
 ```
-  0: 0x0602 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
+  0: 0x0602 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
     → "The Cardians here are very different from the Cardians in town."
   1: 0x0605 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0606 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x05)
-  3: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
+  3: 0x060D [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
     → "You'll be sorry if you carelessly go anywhere near these guys."
   4: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0611 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x06)
@@ -2663,7 +2663,7 @@
 #### Opcodes
 
 ```
-  0: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
+  0: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
     → "You see, these are my old man's most powerful creations. The ones he practically worked himself to death over."
   1: 0x062A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x062B [0x00] END_REQSTACK()
@@ -2693,7 +2693,7 @@
 ```
   0: 0x062C [0x7C] EventEntity->Render.Flags2 |= 0x00
   1: 0x0632 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x09)
-  2: 0x0639 [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
+  2: 0x0639 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
     → "(But, seeing as these Cardians are still up and running about, it must mean that my old man is still alive somewhere...)"
   3: 0x063C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x063D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0A)
@@ -2722,7 +2722,7 @@
 #### Opcodes
 
 ```
-  0: 0x0659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
+  0: 0x0659 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
     → "Anyway, what the devil-wevil are you doing in this room?"
   1: 0x065C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x065D [0x00] END_REQSTACK()
@@ -2748,7 +2748,7 @@
 #### Opcodes
 
 ```
-  0: 0x065E [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
+  0: 0x065E [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
     → "These guys are protectaruing a part of the talisman that seals away the Shadow Lord...and that's no ordinary seal! Only the ministers of the five ministries are allowed to enter this room!"
   1: 0x0661 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0662 [0x00] END_REQSTACK()
@@ -2775,7 +2775,7 @@
 
 ```
   0: 0x0663 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x15)
-  1: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
+  1: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
     → "What's that you say...? The great Star Sibyl has collapsed? What terrifying portent did she see in the stars, then...?"
   2: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x066E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x16)
@@ -2804,7 +2804,7 @@
 
 ```
   0: 0x0676 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0D)
-  1: 0x067D [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
+  1: 0x067D [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
     → "What in the stars is going on? I had better go check with my own eyes. Better head down to Full Moon Fountain..."
   2: 0x0680 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0681 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x0E)
@@ -2902,7 +2902,7 @@
 #### Opcodes
 
 ```
-  0: 0x06AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+  0: 0x06AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "Uh...? ...You... Is this a dream?"
   1: 0x06AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06B0 [0x00] END_REQSTACK()
@@ -2927,7 +2927,7 @@
 #### Opcodes
 
 ```
-  0: 0x06B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
+  0: 0x06B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
     → "Not a dream, huh...? It feels like I've been trapped in a never-ending nightmare..."
   1: 0x06B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06B5 [0x00] END_REQSTACK()
@@ -2952,7 +2952,7 @@
 #### Opcodes
 
 ```
-  0: 0x06B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
+  0: 0x06B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
     → "The bearer of darkness was here... He said he was searching for something... He seemed to be...in pain..."
   1: 0x06B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06BA [0x00] END_REQSTACK()
@@ -2977,7 +2977,7 @@
 #### Opcodes
 
 ```
-  0: 0x06BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
+  0: 0x06BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
     → "What is that? I sense a mysterious force nearby... What is that you're carrying?"
   1: 0x06BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06BF [0x00] END_REQSTACK()
@@ -3002,7 +3002,7 @@
 #### Opcodes
 
 ```
-  0: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
+  0: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
     → "Are you kidding me? One of the ancients returned the magic to this tome?"
   1: 0x06C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06C4 [0x00] END_REQSTACK()
@@ -3027,7 +3027,7 @@
 #### Opcodes
 
 ```
-  0: 0x06C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
+  0: 0x06C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
     → "That's just ludicrous...! But still, this level of power... It's most definitely..."
   1: 0x06C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06C9 [0x00] END_REQSTACK()

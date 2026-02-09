@@ -26,8 +26,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x31D8      |       12760 |
-|       2 | 0x31D7      |       12759 |
+|       1 | 0x31D9      |       12761 |
+|       2 | 0x31D8      |       12760 |
 
 ## Events
 
@@ -97,7 +97,7 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x1C] WAIT(30* ticks)
-  2: 0x000A [0x2B] EventEntity [12760*]:
+  2: 0x000A [0x2B] EventEntity [12761*]:
     → "I have been stationed here to watch over the Allied Forces' supply of armaments. Move along, and keep your hands where they belong."
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0012 [0x21] END_EVENT
@@ -126,7 +126,7 @@
 ```
   0: 0x0014 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0019 [0x1C] WAIT(30* ticks)
-  2: 0x001C [0x2B] EventEntity [12759*]:
+  2: 0x001C [0x2B] EventEntity [12760*]:
     → "We've relocated the supplies to [/East Ronfaure/Jugner Forest/La Vaule]. Should you deem them necessary to your cause, you are welcome to them."
   3: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0024 [0x21] END_EVENT

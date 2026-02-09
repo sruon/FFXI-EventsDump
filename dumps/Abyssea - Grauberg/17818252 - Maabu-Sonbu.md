@@ -22,15 +22,15 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x2049      |        8265 |
-|       3 | 0x204A      |        8266 |
-|       4 | 0x204B      |        8267 |
+|       2 | 0x204A      |        8266 |
+|       3 | 0x204B      |        8267 |
+|       4 | 0x204C      |        8268 |
 
 ## String References
 
-- **8265**: It feels like another lifetime that I was training at the Orastery. It was all fun and games back then, to be honestaru.
-- **8266**: I never imagined I'd one day need to ply my skills for the very survival-wival of mankind.
-- **8267**: <Sigh> If only I had known that monsters would overrun the world, I would've applied myself bettaru in class.
+- **8266**: It feels like another lifetime that I was training at the Orastery. It was all fun and games back then, to be honestaru.
+- **8267**: I never imagined I'd one day need to ply my skills for the very survival-wival of mankind.
+- **8268**: <Sigh> If only I had known that monsters would overrun the world, I would've applied myself bettaru in class.
 
 ## Events
 
@@ -80,13 +80,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "It feels like another lifetime that I was training at the Orastery. It was all fun and games back then, to be honestaru."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
     → "I never imagined I'd one day need to ply my skills for the very survival-wival of mankind."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
     → "<Sigh> If only I had known that monsters would overrun the world, I would've applied myself bettaru in class."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0024 [0x21] END_EVENT

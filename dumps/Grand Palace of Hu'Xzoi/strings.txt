@@ -1,5 +1,5 @@
 # Strings for Grand Palace of Hu'Xzoi
-# Total: 7492 strings
+# Total: 7493 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,7 +7069,7 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Proceed onward? [Yes./No.]
+ 7068: It won't open.
  7069: Proceed onward? [Yes./No.]
  7070: Proceed onward? [Yes./No.]
  7071: Proceed onward? [Yes./No.]
@@ -7078,102 +7078,102 @@
  7074: Proceed onward? [Yes./No.]
  7075: Proceed onward? [Yes./No.]
  7076: Proceed onward? [Yes./No.]
- 7077: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
- 7078: Return to the following area? [Riverne - Site #A01./Do not return.]
- 7079: Return to the following area? [Riverne - Site #B01./Do not return.]
- 7080: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
- 7081: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
- 7082: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
- 7083: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
- 7084: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
- 7085: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
- 7086: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
- 7087: Really warp to the Propagator? [Yes./No.]
- 7088: Really warp to the Solicitor? [Yes./No.]
- 7089: Really warp to the Ponderer? [Yes./No.]
- 7090: Tallying conquest results...
- 7091: Conquest results tallied.
- 7092: This region is currently under San d'Orian control.
- 7093: This region is currently under Bastokan control.
- 7094: This region is currently under Windurstian control.
- 7095: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7096: This region is currently neutral.
- 7097: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7098: All three nations are tied for first place.
- 7099: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7100: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7102: All three nations are tied for first place.
- 7103: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7104: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7105: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7106: All three nations are tied for first place.
- 7107: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7108: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7109: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7110: All three nations are tied for first place.
- 7111: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7112: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7113: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7114: Global balance of power: All three nations are tied for first place.
- 7115: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7116: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7117: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7118: All three nations are tied for first place.
- 7119: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7120: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7121: Conquest update: This region is currently neutral.
- 7122: Conquest update: This region is currently under San d'Orian control.
- 7123: Conquest update: This region is currently under Bastokan control.
- 7124: Conquest update: This region is currently under Windurstian control.
- 7125: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7126: All three nations are at a deadlock.
- 7127: The beastmen are on the rise.
- 7128: Regional influence: San d'Oria - Dominant
- 7129: Regional influence: San d'Oria - Major
- 7130: Regional influence: San d'Oria - Minor
- 7131: Regional influence: San d'Oria - Minimal
- 7132: Bastok - Dominant
- 7133: Bastok - Major
- 7134: Bastok - Minor
- 7135: Bastok - Minimal
- 7136: Windurst - Dominant
- 7137: Windurst - Major
- 7138: Windurst - Minor
- 7139: Windurst - Minimal
- 7140: Bastok and Windurst have formed an alliance.
- 7141: San d'Oria and Windurst have formed an alliance.
- 7142: San d'Oria and Bastok have formed an alliance.
- 7143: Bastok and Windurst are currently allies.
- 7144: San d'Oria and Windurst are currently allies.
- 7145: San d'Oria and Bastok are currently allies.
- 7146: $10$P11.$17F$0 $P14;$P12hF$1
- 7147: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7148: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7149: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7150: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7151: The beastmen are gaining power.
- 7152: San d'Oria's regional control is now 10% closer to the first place country's!
- 7153: Bastok's regional control is now 10% closer to the first place country's!
- 7154: Windurst's regional control are now 10% closer to the first place country's!
- 7155: San d'Oria's region points have increased!
- 7156: Bastok's region points have increased!
- 7157: Windurst's region points have increased!
- 7158: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7159: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7160: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7161: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7162: A Bastokan Expeditionary Force has been dispatched to this area.
- 7163: A Windurstian Expeditionary Force has been dispatched to this area.
- 7164: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7165: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7166: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7167: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7168: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7169: There was a curse on the beastmen's banner!
- 7170: The curse of the beastmen's banner has been lifted!
- 7171: There is a beastmen's banner.
- 7172: @
+ 7077: Proceed onward? [Yes./No.]
+ 7078: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
+ 7079: Return to the following area? [Riverne - Site #A01./Do not return.]
+ 7080: Return to the following area? [Riverne - Site #B01./Do not return.]
+ 7081: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
+ 7082: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
+ 7083: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
+ 7084: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
+ 7085: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
+ 7086: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+ 7087: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+ 7088: Really warp to the Propagator? [Yes./No.]
+ 7089: Really warp to the Solicitor? [Yes./No.]
+ 7090: Really warp to the Ponderer? [Yes./No.]
+ 7091: Tallying conquest results...
+ 7092: Conquest results tallied.
+ 7093: This region is currently under San d'Orian control.
+ 7094: This region is currently under Bastokan control.
+ 7095: This region is currently under Windurstian control.
+ 7096: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7097: This region is currently neutral.
+ 7098: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7099: All three nations are tied for first place.
+ 7100: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7102: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7103: All three nations are tied for first place.
+ 7104: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7105: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7106: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7107: All three nations are tied for first place.
+ 7108: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7109: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7110: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7111: All three nations are tied for first place.
+ 7112: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7113: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7114: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7115: Global balance of power: All three nations are tied for first place.
+ 7116: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7117: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7118: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7119: All three nations are tied for first place.
+ 7120: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7121: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7122: Conquest update: This region is currently neutral.
+ 7123: Conquest update: This region is currently under San d'Orian control.
+ 7124: Conquest update: This region is currently under Bastokan control.
+ 7125: Conquest update: This region is currently under Windurstian control.
+ 7126: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7127: All three nations are at a deadlock.
+ 7128: The beastmen are on the rise.
+ 7129: Regional influence: San d'Oria - Dominant
+ 7130: Regional influence: San d'Oria - Major
+ 7131: Regional influence: San d'Oria - Minor
+ 7132: Regional influence: San d'Oria - Minimal
+ 7133: Bastok - Dominant
+ 7134: Bastok - Major
+ 7135: Bastok - Minor
+ 7136: Bastok - Minimal
+ 7137: Windurst - Dominant
+ 7138: Windurst - Major
+ 7139: Windurst - Minor
+ 7140: Windurst - Minimal
+ 7141: Bastok and Windurst have formed an alliance.
+ 7142: San d'Oria and Windurst have formed an alliance.
+ 7143: San d'Oria and Bastok have formed an alliance.
+ 7144: Bastok and Windurst are currently allies.
+ 7145: San d'Oria and Windurst are currently allies.
+ 7146: San d'Oria and Bastok are currently allies.
+ 7147: $10$P11.$17F$0 $P14;$P12hF$1
+ 7148: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7149: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7150: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7151: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7152: The beastmen are gaining power.
+ 7153: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7154: Bastok's regional control is now 10% closer to the first place country's!
+ 7155: Windurst's regional control are now 10% closer to the first place country's!
+ 7156: San d'Oria's region points have increased!
+ 7157: Bastok's region points have increased!
+ 7158: Windurst's region points have increased!
+ 7159: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7160: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7161: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7162: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7163: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7164: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7165: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7166: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7167: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7168: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7169: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7170: There was a curse on the beastmen's banner!
+ 7171: The curse of the beastmen's banner has been lifted!
+ 7172: There is a beastmen's banner.
  7173: @
  7174: @
  7175: @
@@ -7248,248 +7248,249 @@
  7244: @
  7245: @
  7246: @
- 7247: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7248: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7249: The portal does not respond...
- 7250: You must move closer to investigate.
- 7251: This portal only allows passage in one direction.
- 7252: Open the portal and return to the lobby? [Yes./No.]
- 7253: The portal won't open from this side.
- 7254: The gate does not respond...
- 7255: Use the device? [Yes./No.]
- 7256: This device appears to be connected to the level below.
- 7257: This device appears to be connected to the level above.
- 7258: Open the portal? [Yes./No.]
- 7259: There is a spatial displacement here...
- 7260: Enter the spatial displacement? [Yes./No.]
- 7261: You cannot investigate anything from this side.
- 7262: It appears to be some sort of device...
- 7263: You feel a mysterious energy emanating from the glowing stone in the center of the portal.
- 7264: Investigate the portal? [Yes./No.]
- 7265: Open the gates! The elder prince has returned!
- 7266: Lower the drawbridge! The younger prince is home!
- 7267: Prepare the banquet table! The princess is starved!
- 7268: Another obstacle in our path?
- 7269: What mischief are you three up to this time?
- 7270: I can hear it clearly now. The source must be beyond this gate.
- 7271: Can you hear it? [Loud and clear./Hear what?]
- 7272: Our contact with the mothercrystal must have altered our senses in some way. That would explain this ethereal voice...
- 7273: You can't hear it? A voice is calling to us, suffocating in its insistence.
- 7274: It is...telling us...to pass through...this gate...
- 7275: A portal of this magnificence can only lead to the audience chamber of the Zilartian king.
- 7276: Could this soul-stirring voice belong to the king himself?
- 7277: If so, then why does the gate remain closed? Are the children of Vana'diel not welcome here...?
- 7278: Oh, <Player>. Whatever are we to do?
- 7279: Cardinal Mildaurion gifted us with a ring that has the power to transport a person directly to Tavnazia...
- 7280: But I have no intention of returning until we discover the way to open this gate. Perhaps it may be of some small use to you, <Player>.
- 7281: There is nothing out of the ordinary here.
- 7282: You can hear a strange voice... "Items, items, la la la la la`t"
- 7283: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7284: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7285: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7286: Now, listen close...
- 7287: Oh... Well, if that's the case, I'm outta here.
- 7288: The Goblin slipped away when you were not looking...
- 7289: You can hear a strange, raspy voice...
- 7290: I travel......hear lots... Hear...stories... Can tell...if...
- 7291: .........listen......
- 7292: Oh...... ...outta here.........
- 7293: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7294: What story would you like to be told? [On second thought, maybe later./Garden of Antiquity./A Fate Decided(pt.1)./A Fate Decided(pt.2)./Apocalypse Nigh.]
- 7295: 
+ 7247: @
+ 7248: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7249: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7250: The portal does not respond...
+ 7251: You must move closer to investigate.
+ 7252: This portal only allows passage in one direction.
+ 7253: Open the portal and return to the lobby? [Yes./No.]
+ 7254: The portal won't open from this side.
+ 7255: The gate does not respond...
+ 7256: Use the device? [Yes./No.]
+ 7257: This device appears to be connected to the level below.
+ 7258: This device appears to be connected to the level above.
+ 7259: Open the portal? [Yes./No.]
+ 7260: There is a spatial displacement here...
+ 7261: Enter the spatial displacement? [Yes./No.]
+ 7262: You cannot investigate anything from this side.
+ 7263: It appears to be some sort of device...
+ 7264: You feel a mysterious energy emanating from the glowing stone in the center of the portal.
+ 7265: Investigate the portal? [Yes./No.]
+ 7266: Open the gates! The elder prince has returned!
+ 7267: Lower the drawbridge! The younger prince is home!
+ 7268: Prepare the banquet table! The princess is starved!
+ 7269: Another obstacle in our path?
+ 7270: What mischief are you three up to this time?
+ 7271: I can hear it clearly now. The source must be beyond this gate.
+ 7272: Can you hear it? [Loud and clear./Hear what?]
+ 7273: Our contact with the mothercrystal must have altered our senses in some way. That would explain this ethereal voice...
+ 7274: You can't hear it? A voice is calling to us, suffocating in its insistence.
+ 7275: It is...telling us...to pass through...this gate...
+ 7276: A portal of this magnificence can only lead to the audience chamber of the Zilartian king.
+ 7277: Could this soul-stirring voice belong to the king himself?
+ 7278: If so, then why does the gate remain closed? Are the children of Vana'diel not welcome here...?
+ 7279: Oh, <Player>. Whatever are we to do?
+ 7280: Cardinal Mildaurion gifted us with a ring that has the power to transport a person directly to Tavnazia...
+ 7281: But I have no intention of returning until we discover the way to open this gate. Perhaps it may be of some small use to you, <Player>.
+ 7282: There is nothing out of the ordinary here.
+ 7283: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7284: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7285: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7286: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7287: Now, listen close...
+ 7288: Oh... Well, if that's the case, I'm outta here.
+ 7289: The Goblin slipped away when you were not looking...
+ 7290: You can hear a strange, raspy voice...
+ 7291: I travel......hear lots... Hear...stories... Can tell...if...
+ 7292: .........listen......
+ 7293: Oh...... ...outta here.........
+ 7294: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7295: What story would you like to be told? [On second thought, maybe later./Garden of Antiquity./A Fate Decided(pt.1)./A Fate Decided(pt.2)./Apocalypse Nigh.]
  7296: 
  7297: 
- 7298: Hey, it's <Player>!
- 7299: Prishe!?
- 7300: Glad to see you guys are okay. You gotta help me! I was trying to chase down that two-faced Orc-kisser, Nag'molada...
- 7301: But there's a gate blocking the way! I can't put a dent in it, even with my best drop-kick. Dammit, if I only had my amulet, I could pop it open faster than you could say "Bahamut's backside!"
- 7302: If we don't get a move on, old Naggy's gonna get to the Chamber of Eventide before us!
- 7303: What...is this...Chamber of...Eventide...?
- 7304: I don't know for sure, but it's a device that's supposed to suck the Emptiness right out of a person.
- 7305: Extract the Emptiness...?
- 7306: Do you remember, <Player>? The Emptiness within caused the ancients to lose the whisper of the soul.
- 7307: Their inner darkness grew so intense that it completely overshadowed the light.
- 7308: And that's why Nag'molada means to use the Chamber of Eventide--to become wholly Zilart once more.
- 7309: But both Miss Mildaurion and Selh'teus warned us that the device is too unstable.
- 7310: We gotta stop him from making a huge mistake! C'mon, get those legs moving!
- 7311: Why...?
- 7312: Why would she be in the chamber...?
- 7313: Nag'molada!
- 7314: Has even the Dawn Maiden come to know the icy grasp of Emptiness?
- 7315: Has the great goddess Altana finally abandoned us to our hopeless destiny?
- 7316: No, Nag'molada. Lady Yve'noile has become the instrument of Altana's will.
- 7317: Selh'teus!?
- 7318: If the plans of the terrestrial avatars and the Kuluu were to fail, this was the last line of defense.
- 7319: She has attempted to absorb the Emptiness pervading the Chamber of Eventide and destroy it along with her own existence.
- 7320: Why would she do such a thing!?
- 7321: To prevent the coming of the Keeper of the Apocalypse. Promathia has been reborn.
- 7322: What the hell!? Promathia was only supposed to come back if Al'Taieu fell to Vana'diel! Bahamut himself said so!
- 7323: Then allow me to correct the statement. The incarnation of the Twilight God has been resurrected.
- 7324: The incarnation?
- 7325: The Keeper of the Apocalypse is the instrument of Promathia's will.
- 7326: And Promathia's will is the Emptiness. The vessel that was destined to hold that darkness is among us once more.
- 7327: The incarnation sought to fill itself with Emptiness.
- 7328: And that Emptiness was found here--a source of darkness drained from many Kuluu during the perfection of the Chamber of Eventide.
- 7329: A darkness greater than that of the intended keeper was unwittingly focused in this place.
- 7330: This source of Emptiness, if left unchecked, would lead to the resurrection of Promathia. Thus the attempt of Lady Yve'noile to send it into oblivion--along with her own life.
- 7331: And you let her commit this act!?
- 7332: Lady Yve'noile is not to blame! She built the Chamber of Eventide in the name of love! She tried to rescue us from our fate!
- 7333: You speak the truth. We Kuluu are at the beginning of all of this.
- 7334: That is why I absorbed the Emptiness from the chamber...
- 7335: I sealed it within me, and departed this life.
- 7336: You...died? But...you're still...?
- 7337: Phoenix... Phoenix was with you, right? She brought you back to life.
- 7338: Miss Mildaurion came to the same conclusion. When the Emptiness dies with you, it will be born again in another form.
- 7339: That's why you sealed it within you. Like I did with my magicite.
- 7340: ...Yes. However, that act was a dangerous gamble.
- 7341: With the creation of this new world, Bahamut lost his power and I could do nothing but flee the incarnation of the Twilight God.
- 7342: I was trapped here, unable to return to Vana'diel.
- 7343: It was then that Lady Yve'noile released the blinding light of her lifeforce to bind the incarnation within the audience chamber...
- 7344: Exhausted by her efforts, she fell into eternal dream...
- 7345: How could this have happened!? Is not Paradise meant to be the realm of the gods, overflowing with the blessed light of the crystals!?
- 7346: Are we not supposed to gain a higher dimension of existence--to attain perfection!?
- 7347: Although it is sustained by an amplified shard of the mothercrystal, this world is not the perfect Paradise of legend.
- 7348: And neither are you ready to be the perfect Warriors of the Crystal. Both you and this world lack the full blessings of the crystal's light.
- 7349: So, what the hell are we supposed to do?
- 7350: You must pass through the Gate of the Gods and visit the five towers of the Garden of Ru'Hmet.
- 7351: Those towers are bathed in the light of the mothercrystals. They were built to cleanse the five forms of darkness from a person's soul.
- 7352: If that light illuminates the darkness that lurks in the deepest corners of your being, only then may you stand a chance against the incarnation of Promathia.
- 7353: Selh'teus! Have you finally worked up some enthusiasm for this battle!?
- 7354: I do not know. I no longer experience any emotion...
- 7355: I realize this may be an unwelcome fact, but you must be prepared. The five forms of darkness are but wispy shadows in comparison to the abyssal void of the Emptiness.
- 7356: It is a complete and implacable foe.
- 7357: Your victory in this battle is not assured.
- 7358: What I can do, though, is show you the truth. Everything will be revealed on the highest level of the palace.
- 7359: If you are still ready to fight when the time comes, I will join you in the struggle to save the world.
- 7360: Come, the path beyond the Gate of the Gods awaits.
- 7361: Let's go, <Player>.
- 7362: But first...!
- 7363: Hey! Nag'molada!
- 7364: !?
- 7365: Take it. Leave me be.
- 7366: I must inter Lady Yve'noile within the Ou'Hpat Obelisk. She cannot return to the crystal from here...
- 7367: ...
- 7368: Ah, hell! Don't think this means I've forgotten anything! All your betrayals, the Moblin massacre--I'll be waiting to make you pay!
- 7369: See you at the top!
- 7370: Your presence has drawn unwanted attention!
- 7371: Now is not the time for that!
- 7372: The area is calm and quiet...
- 7373: You have nothing left to do here.
- 7374: Press a button to continue.
- 7375: Security portal access request confirmed. Commencing patrol routine. Stay on alert for intruder interference.
- 7376: Patrol routine completed. Request transfer of final security portal access duty. Awaiting confirmation.
- 7377: Transfer of final security portal access duty complete.
- 7378: Transfer of access duty complete.
- 7379: Returning to regular duties.
- 7380: You hear a portal open to the east...
- 7381: You hear a portal open to the west...
- 7382: You hear a portal open to the north...
- 7383: Patrol routine time restriction exceeded. Patrol aborted.
- 7384: Patrol suspended. Awaiting orders.
- 7385: Recommencing patrol.
- 7386: The alcove has recently been activated...
- 7387: Time restriction: $0 [minute/minutes] (Earth time)
- 7388: Warning. Chamber of Eventide accessed by unauthorized personnel, 4789209-980 increments previous.
- 7389: Grand Palace of Hu'Xzoi and Garden of Ru'Hmet portals under celestial defense mechanism control. Access restricted to security personnel.
- 7390: Employ matter transfer devices within each tower to descend to lower levels.
- 7391: Due to authority figure absence, support personnel remain active in Al'Taieu city sector.
- 7392: Anti-intruder personnel deactivated. Request immediate response.
- 7393: Celestial defense mechanism deactivated in city sector. Royal family directive required to deactivate Grand Palace of Hu'Xzoi and Garden of Ru'Hmet defenses.
- 7394: Fei'Yin, Ro'Maeve, and Pso'Xja destroyed during spatial transfer of Al'Taieu. Heavy casualties recorded among Kuluu personnel.
- 7395: Crystal power supply to palace restricted to minimum level. Matter transfer devices and towers operational.
- 7396: Possible rupture in Chamber of Eventide. Access to research facilities prohibited.
- 7397: Utilizing the crystal's versatile energy, the towers were reconfigured into weapons during the battle with the wyrms.
- 7398: Examination complete. Examinee unregistered. Kuluu syndrome detected. Displays tendency towards [apathy/apathy/apathy/arrogance/arrogance/cowardice/cowardice/envy/rage]. Report to infirmary for treatment.
- 7399: You hear something vaguely resembling a voice emanating from the depths of your soul. "Bring me...aer...reccceptac..."
- 7400: Nothing happens.
- 7401: <Player>. Let us discuss what needs to be done.
- 7402: I have returned from an audience with the Wyrmking.
- 7403: If the Keeper of the Apocalypse is indeed attempting to cross over into this world, there is but one option left to us.
- 7404: We force the keeper to appear on our terms. Then we crush him.
- 7405: This was Prishe's original plan.
- 7406: Ulmia will sing the Lay of the Immortals in the presence of the fifth mothercrystal.
- 7407: The time has finally come to use the completed song--the verses you discovered on your journey. I have faith that Ulmia can perform the piece with little trouble.
- 7408: Make your way to the Sealion's Den in Tavnazia. Al'Taieu beckons once again.
- 7409: <Player>, I have awaited your arrival.
- 7410: It is my fault that this terrible thing is occurring--I have no excuses.
- 7411: I always feared that my act of relinquishing the Star of Tavnazia...
- 7412: ...would one day bring the world back to the brink of destruction.
- 7413: But to be completely honest, I am overjoyed that this darkness has given us another chance to meet. Truly, I am...
- 7414: Prishe! You stop this nonsense at once!
- 7415: Why must you insist on playing the clown at a time like this!? You truly are incorrigible!
- 7416: Aw, c'mon, Ulmia! It's been so long since I've seen <Player>.
- 7417: A normal reunion would be kinda boring, and I just wanted to spice things up a little...
- 7418: You were just trying to cover up your own awkwardness!
- 7419: That's...not...true...
- 7420: Oh! Hey, there's the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit]!
- 7421: <Player>. Cardinal Mildaurion will be joining us later. Let us begin our journey to the fifth mothercrystal.
- 7422: Our mission will be a success. I know it in my heart.
- 7423: Prishe, Ulmia, <Player>!
- 7424: You seem surprised. Well, our last parting of ways did seem somewhat final.
- 7425: But you couldn't expect us to stay at home shivering in our fur when word of this rrreached us!
- 7426: As the...Moblins say... "Don't leave...a hole...half...dug..."
- 7427: Are we digging holes?
- 7428: For the graves?
- 7429: Not very optimistic, are we!
- 7430: I never thought I would don this armor again. Cardinal Mildaurion is not one to be ignored.
- 7431: Wow, the whole gang's here. All because of my selfish mistake...
- 7432: My apologies... And my thanks!
- 7433: The time has come. On to the mothercrystal!
- 7434: Hehehe. I always wanted to come back to this place. Y'know, for a picnic or something.
- 7435: Still making unrealistic wishes, Prishe?
- 7436: Miss Mildaurion! Aldo!?
- 7437: I'm sure you all know Zeid. We have a debt to the ancients that needs to be repaid.
- 7438: I will also fight alongside you. I must see this matter put to rest.
- 7439: Here they come!
- 7440: Bound together...
- 7441: By the crystals...
- 7442: We will soon...
- 7443: Become one...
- 7444: There's something else...!
- 7445: A fifth person!?
- 7446: Lion!?
- 7447: Hahaha!
- 7448: The stone she would not relinquish...!
- 7449: It has been shattered by your song...!
- 7450: Our divine transformation is at hand!
- 7451: This ends now!
- 7452: Leave Nag'molada to me!
- 7453: You shall be the first...!
- 7454: The first to taste the vengeance of the dead!
- 7455: I think we're done here.
- 7456: Yes, the battle is over. There is only...
- 7457: She appears to be unharmed. There is some trace of Emptiness, but it will cause nothing more than a few bad dreams.
- 7458: Thank Altana... It was Lion who leaped into the crystal to save us all.
- 7459: Her struggle with Eald'narche continued within the stone...
- 7460: Let's get her home to Norg...
- 7461: Your red hair... Now I know you.
- 7462: The nightmare I had... You were the one who carried it on for me.
- 7463: <Player>. Make sure you fulfill your promise when she gets better, okay?
- 7464: The world only grows larger the longer we live. New lives are born, and new lands are discovered. There're always new adventures to be had.
- 7465: But you don't gotta rush in, you know? This big world of ours will always be waiting.
- 7466: Waiting for you.
- 7467: $3h$3A$3I[$3v$3$P13
- 7468: $3h$3A$3N$3$1[$3Y
- 7469: $3X$3e$3b$3vNo.$0
- 7470: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7471: Set this as current home point? [Yes./No.]
- 7472: Home point set!
- 7473: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7474: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7475: You have registered a new home point! You are now able to teleport here from any other home point.
- 7476: You may teleport from here to any other home point you have registered.
- 7477: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7478: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7479: You have not yet registered any other home points, and thus are unable to teleport.
- 7480: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7481: There is no fee for teleporting to Home Point #$2 in $8.
- 7482: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7483: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7484: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7485: You may change the method of selecting the area of your desired home point to teleport to.
- 7486: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7487: You are now selecting by [region/expansion].
- 7488: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7489: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7490: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7491: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7298: 
+ 7299: Hey, it's <Player>!
+ 7300: Prishe!?
+ 7301: Glad to see you guys are okay. You gotta help me! I was trying to chase down that two-faced Orc-kisser, Nag'molada...
+ 7302: But there's a gate blocking the way! I can't put a dent in it, even with my best drop-kick. Dammit, if I only had my amulet, I could pop it open faster than you could say "Bahamut's backside!"
+ 7303: If we don't get a move on, old Naggy's gonna get to the Chamber of Eventide before us!
+ 7304: What...is this...Chamber of...Eventide...?
+ 7305: I don't know for sure, but it's a device that's supposed to suck the Emptiness right out of a person.
+ 7306: Extract the Emptiness...?
+ 7307: Do you remember, <Player>? The Emptiness within caused the ancients to lose the whisper of the soul.
+ 7308: Their inner darkness grew so intense that it completely overshadowed the light.
+ 7309: And that's why Nag'molada means to use the Chamber of Eventide--to become wholly Zilart once more.
+ 7310: But both Miss Mildaurion and Selh'teus warned us that the device is too unstable.
+ 7311: We gotta stop him from making a huge mistake! C'mon, get those legs moving!
+ 7312: Why...?
+ 7313: Why would she be in the chamber...?
+ 7314: Nag'molada!
+ 7315: Has even the Dawn Maiden come to know the icy grasp of Emptiness?
+ 7316: Has the great goddess Altana finally abandoned us to our hopeless destiny?
+ 7317: No, Nag'molada. Lady Yve'noile has become the instrument of Altana's will.
+ 7318: Selh'teus!?
+ 7319: If the plans of the terrestrial avatars and the Kuluu were to fail, this was the last line of defense.
+ 7320: She has attempted to absorb the Emptiness pervading the Chamber of Eventide and destroy it along with her own existence.
+ 7321: Why would she do such a thing!?
+ 7322: To prevent the coming of the Keeper of the Apocalypse. Promathia has been reborn.
+ 7323: What the hell!? Promathia was only supposed to come back if Al'Taieu fell to Vana'diel! Bahamut himself said so!
+ 7324: Then allow me to correct the statement. The incarnation of the Twilight God has been resurrected.
+ 7325: The incarnation?
+ 7326: The Keeper of the Apocalypse is the instrument of Promathia's will.
+ 7327: And Promathia's will is the Emptiness. The vessel that was destined to hold that darkness is among us once more.
+ 7328: The incarnation sought to fill itself with Emptiness.
+ 7329: And that Emptiness was found here--a source of darkness drained from many Kuluu during the perfection of the Chamber of Eventide.
+ 7330: A darkness greater than that of the intended keeper was unwittingly focused in this place.
+ 7331: This source of Emptiness, if left unchecked, would lead to the resurrection of Promathia. Thus the attempt of Lady Yve'noile to send it into oblivion--along with her own life.
+ 7332: And you let her commit this act!?
+ 7333: Lady Yve'noile is not to blame! She built the Chamber of Eventide in the name of love! She tried to rescue us from our fate!
+ 7334: You speak the truth. We Kuluu are at the beginning of all of this.
+ 7335: That is why I absorbed the Emptiness from the chamber...
+ 7336: I sealed it within me, and departed this life.
+ 7337: You...died? But...you're still...?
+ 7338: Phoenix... Phoenix was with you, right? She brought you back to life.
+ 7339: Miss Mildaurion came to the same conclusion. When the Emptiness dies with you, it will be born again in another form.
+ 7340: That's why you sealed it within you. Like I did with my magicite.
+ 7341: ...Yes. However, that act was a dangerous gamble.
+ 7342: With the creation of this new world, Bahamut lost his power and I could do nothing but flee the incarnation of the Twilight God.
+ 7343: I was trapped here, unable to return to Vana'diel.
+ 7344: It was then that Lady Yve'noile released the blinding light of her lifeforce to bind the incarnation within the audience chamber...
+ 7345: Exhausted by her efforts, she fell into eternal dream...
+ 7346: How could this have happened!? Is not Paradise meant to be the realm of the gods, overflowing with the blessed light of the crystals!?
+ 7347: Are we not supposed to gain a higher dimension of existence--to attain perfection!?
+ 7348: Although it is sustained by an amplified shard of the mothercrystal, this world is not the perfect Paradise of legend.
+ 7349: And neither are you ready to be the perfect Warriors of the Crystal. Both you and this world lack the full blessings of the crystal's light.
+ 7350: So, what the hell are we supposed to do?
+ 7351: You must pass through the Gate of the Gods and visit the five towers of the Garden of Ru'Hmet.
+ 7352: Those towers are bathed in the light of the mothercrystals. They were built to cleanse the five forms of darkness from a person's soul.
+ 7353: If that light illuminates the darkness that lurks in the deepest corners of your being, only then may you stand a chance against the incarnation of Promathia.
+ 7354: Selh'teus! Have you finally worked up some enthusiasm for this battle!?
+ 7355: I do not know. I no longer experience any emotion...
+ 7356: I realize this may be an unwelcome fact, but you must be prepared. The five forms of darkness are but wispy shadows in comparison to the abyssal void of the Emptiness.
+ 7357: It is a complete and implacable foe.
+ 7358: Your victory in this battle is not assured.
+ 7359: What I can do, though, is show you the truth. Everything will be revealed on the highest level of the palace.
+ 7360: If you are still ready to fight when the time comes, I will join you in the struggle to save the world.
+ 7361: Come, the path beyond the Gate of the Gods awaits.
+ 7362: Let's go, <Player>.
+ 7363: But first...!
+ 7364: Hey! Nag'molada!
+ 7365: !?
+ 7366: Take it. Leave me be.
+ 7367: I must inter Lady Yve'noile within the Ou'Hpat Obelisk. She cannot return to the crystal from here...
+ 7368: ...
+ 7369: Ah, hell! Don't think this means I've forgotten anything! All your betrayals, the Moblin massacre--I'll be waiting to make you pay!
+ 7370: See you at the top!
+ 7371: Your presence has drawn unwanted attention!
+ 7372: Now is not the time for that!
+ 7373: The area is calm and quiet...
+ 7374: You have nothing left to do here.
+ 7375: Press a button to continue.
+ 7376: Security portal access request confirmed. Commencing patrol routine. Stay on alert for intruder interference.
+ 7377: Patrol routine completed. Request transfer of final security portal access duty. Awaiting confirmation.
+ 7378: Transfer of final security portal access duty complete.
+ 7379: Transfer of access duty complete.
+ 7380: Returning to regular duties.
+ 7381: You hear a portal open to the east...
+ 7382: You hear a portal open to the west...
+ 7383: You hear a portal open to the north...
+ 7384: Patrol routine time restriction exceeded. Patrol aborted.
+ 7385: Patrol suspended. Awaiting orders.
+ 7386: Recommencing patrol.
+ 7387: The alcove has recently been activated...
+ 7388: Time restriction: $0 [minute/minutes] (Earth time)
+ 7389: Warning. Chamber of Eventide accessed by unauthorized personnel, 4789209-980 increments previous.
+ 7390: Grand Palace of Hu'Xzoi and Garden of Ru'Hmet portals under celestial defense mechanism control. Access restricted to security personnel.
+ 7391: Employ matter transfer devices within each tower to descend to lower levels.
+ 7392: Due to authority figure absence, support personnel remain active in Al'Taieu city sector.
+ 7393: Anti-intruder personnel deactivated. Request immediate response.
+ 7394: Celestial defense mechanism deactivated in city sector. Royal family directive required to deactivate Grand Palace of Hu'Xzoi and Garden of Ru'Hmet defenses.
+ 7395: Fei'Yin, Ro'Maeve, and Pso'Xja destroyed during spatial transfer of Al'Taieu. Heavy casualties recorded among Kuluu personnel.
+ 7396: Crystal power supply to palace restricted to minimum level. Matter transfer devices and towers operational.
+ 7397: Possible rupture in Chamber of Eventide. Access to research facilities prohibited.
+ 7398: Utilizing the crystal's versatile energy, the towers were reconfigured into weapons during the battle with the wyrms.
+ 7399: Examination complete. Examinee unregistered. Kuluu syndrome detected. Displays tendency towards [apathy/apathy/apathy/arrogance/arrogance/cowardice/cowardice/envy/rage]. Report to infirmary for treatment.
+ 7400: You hear something vaguely resembling a voice emanating from the depths of your soul. "Bring me...aer...reccceptac..."
+ 7401: Nothing happens.
+ 7402: <Player>. Let us discuss what needs to be done.
+ 7403: I have returned from an audience with the Wyrmking.
+ 7404: If the Keeper of the Apocalypse is indeed attempting to cross over into this world, there is but one option left to us.
+ 7405: We force the keeper to appear on our terms. Then we crush him.
+ 7406: This was Prishe's original plan.
+ 7407: Ulmia will sing the Lay of the Immortals in the presence of the fifth mothercrystal.
+ 7408: The time has finally come to use the completed song--the verses you discovered on your journey. I have faith that Ulmia can perform the piece with little trouble.
+ 7409: Make your way to the Sealion's Den in Tavnazia. Al'Taieu beckons once again.
+ 7410: <Player>, I have awaited your arrival.
+ 7411: It is my fault that this terrible thing is occurring--I have no excuses.
+ 7412: I always feared that my act of relinquishing the Star of Tavnazia...
+ 7413: ...would one day bring the world back to the brink of destruction.
+ 7414: But to be completely honest, I am overjoyed that this darkness has given us another chance to meet. Truly, I am...
+ 7415: Prishe! You stop this nonsense at once!
+ 7416: Why must you insist on playing the clown at a time like this!? You truly are incorrigible!
+ 7417: Aw, c'mon, Ulmia! It's been so long since I've seen <Player>.
+ 7418: A normal reunion would be kinda boring, and I just wanted to spice things up a little...
+ 7419: You were just trying to cover up your own awkwardness!
+ 7420: That's...not...true...
+ 7421: Oh! Hey, there's the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit]!
+ 7422: <Player>. Cardinal Mildaurion will be joining us later. Let us begin our journey to the fifth mothercrystal.
+ 7423: Our mission will be a success. I know it in my heart.
+ 7424: Prishe, Ulmia, <Player>!
+ 7425: You seem surprised. Well, our last parting of ways did seem somewhat final.
+ 7426: But you couldn't expect us to stay at home shivering in our fur when word of this rrreached us!
+ 7427: As the...Moblins say... "Don't leave...a hole...half...dug..."
+ 7428: Are we digging holes?
+ 7429: For the graves?
+ 7430: Not very optimistic, are we!
+ 7431: I never thought I would don this armor again. Cardinal Mildaurion is not one to be ignored.
+ 7432: Wow, the whole gang's here. All because of my selfish mistake...
+ 7433: My apologies... And my thanks!
+ 7434: The time has come. On to the mothercrystal!
+ 7435: Hehehe. I always wanted to come back to this place. Y'know, for a picnic or something.
+ 7436: Still making unrealistic wishes, Prishe?
+ 7437: Miss Mildaurion! Aldo!?
+ 7438: I'm sure you all know Zeid. We have a debt to the ancients that needs to be repaid.
+ 7439: I will also fight alongside you. I must see this matter put to rest.
+ 7440: Here they come!
+ 7441: Bound together...
+ 7442: By the crystals...
+ 7443: We will soon...
+ 7444: Become one...
+ 7445: There's something else...!
+ 7446: A fifth person!?
+ 7447: Lion!?
+ 7448: Hahaha!
+ 7449: The stone she would not relinquish...!
+ 7450: It has been shattered by your song...!
+ 7451: Our divine transformation is at hand!
+ 7452: This ends now!
+ 7453: Leave Nag'molada to me!
+ 7454: You shall be the first...!
+ 7455: The first to taste the vengeance of the dead!
+ 7456: I think we're done here.
+ 7457: Yes, the battle is over. There is only...
+ 7458: She appears to be unharmed. There is some trace of Emptiness, but it will cause nothing more than a few bad dreams.
+ 7459: Thank Altana... It was Lion who leaped into the crystal to save us all.
+ 7460: Her struggle with Eald'narche continued within the stone...
+ 7461: Let's get her home to Norg...
+ 7462: Your red hair... Now I know you.
+ 7463: The nightmare I had... You were the one who carried it on for me.
+ 7464: <Player>. Make sure you fulfill your promise when she gets better, okay?
+ 7465: The world only grows larger the longer we live. New lives are born, and new lands are discovered. There're always new adventures to be had.
+ 7466: But you don't gotta rush in, you know? This big world of ours will always be waiting.
+ 7467: Waiting for you.
+ 7468: $3h$3A$3I[$3v$3$P13
+ 7469: $3h$3A$3N$3$1[$3Y
+ 7470: $3X$3e$3b$3vNo.$0
+ 7471: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7472: Set this as current home point? [Yes./No.]
+ 7473: Home point set!
+ 7474: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7475: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7476: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7477: You may teleport from here to any other home point you have registered.
+ 7478: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7479: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7480: You have not yet registered any other home points, and thus are unable to teleport.
+ 7481: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7482: There is no fee for teleporting to Home Point #$2 in $8.
+ 7483: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7484: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7485: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7486: You may change the method of selecting the area of your desired home point to teleport to.
+ 7487: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7488: You are now selecting by [region/expansion].
+ 7489: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7490: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7491: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7492: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]

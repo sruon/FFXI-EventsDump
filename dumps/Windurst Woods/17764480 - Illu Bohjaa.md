@@ -39,45 +39,45 @@
 |---------|-------------|-------------|
 |       0 | 0x0166      |         358 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x202B      |        8235 |
-|       3 | 0x202C      |        8236 |
-|       4 | 0x2031      |        8241 |
+|       2 | 0x202C      |        8236 |
+|       3 | 0x202D      |        8237 |
+|       4 | 0x2032      |        8242 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x202D      |        8237 |
-|       9 | 0x202E      |        8238 |
-|      10 | 0x202F      |        8239 |
-|      11 | 0x2030      |        8240 |
-|      12 | 0x2032      |        8242 |
-|      13 | 0x2033      |        8243 |
-|      14 | 0x2034      |        8244 |
-|      15 | 0x2035      |        8245 |
-|      16 | 0x2036      |        8246 |
-|      17 | 0x2037      |        8247 |
+|       8 | 0x202E      |        8238 |
+|       9 | 0x202F      |        8239 |
+|      10 | 0x2030      |        8240 |
+|      11 | 0x2031      |        8241 |
+|      12 | 0x2033      |        8243 |
+|      13 | 0x2034      |        8244 |
+|      14 | 0x2035      |        8245 |
+|      15 | 0x2036      |        8246 |
+|      16 | 0x2037      |        8247 |
+|      17 | 0x2038      |        8248 |
 |      18 | 0x00C9      |         201 |
 |      19 | 0x1998      |        6552 |
-|      20 | 0x2038      |        8248 |
-|      21 | 0x2039      |        8249 |
+|      20 | 0x2039      |        8249 |
+|      21 | 0x203A      |        8250 |
 
 ## String References
 
 - **6552**: Obtained $0 gil.
-- **8235**: Haw!? Yeah, that be rrright! I look afterrr these here dhalmel all by m'self, y'know! Why, you ain't got an issue with that, do ya?
-- **8236**: Oh, and while y'all are herrre... Don't ya go taumentin' the poorrr things, now! Not if y'know what's good for ya!
-- **8237**: Lately them crrrawler crrritters out thar in Sarutabaruta have been eatin' up all the $2 that these dhalmel love so much.
-- **8238**: It's put me in a rrreeeal fiddle, 'coz now I have to work rrreeeal hard to git me some of them thar $2.
-- **8239**: I do declare... You seem to be the adventurrrer type now, huh!? Would you mind doin' me a favor the next time yer out thar a-huntin' in Sarutabaruta, and concentrate on depleting the numberrrs of crawlers in them parrrts?
-- **8240**: If ya cull enough of them crawlers to git your hands on three $1 or $3, then I'll give you a little somethin' as a rrreward! Whaddaya say?
-- **8241**: Help cull them thar crawlers? [Yup!/Naw!]
-- **8242**: I see... So, y'don't give a damn 'bout what happens to my dhalmel, then do ya? You yellow-strrreaked crrrawler-kisser, you!
-- **8243**: Crawlers can be found in both East and West Sarutabaruta. So exterrrminate as many of them thar pesty crrritters as you can in both'a them parts.
-- **8244**: Them crawlers are out of control, and I'm at my wit's end! Cull enuff of them critters to git your hands on three $1 or $3, and I'll pay you a rrreward!
-- **8245**: Crawlers can be found in both East and West Sarutabaruta. So exterrrminate as many of them thar pesty crrritters as you can in both'a them parts.
-- **8246**: Why, thankee you, pardnerrr! Seems like y'did indeed kill off a mighty big numberrr of them thar crawlers. Here's ya rrreward! Much obliged to ya.
-- **8247**: If everrr ya have the time, would ya be so good as to cull some morrre of them thar crawlers for little ol' me? Cull enuff of them critters to git your hands on three $1 or $3, and I'll pay you a handsome rrreward!
-- **8248**: You saw them towerrrs out thar in Sarutabaruta, huh? Why, they be called the Horutoto Ruins. Once they broke down, the animals of Sarutabaruta starrrted runnin' amuck, y'know?
-- **8249**: I ain't got much of a clue what them towers was forrr, but they sure was magical. I wonderrr if they'll e'er be able to fix them up again?
+- **8236**: Haw!? Yeah, that be rrright! I look afterrr these here dhalmel all by m'self, y'know! Why, you ain't got an issue with that, do ya?
+- **8237**: Oh, and while y'all are herrre... Don't ya go taumentin' the poorrr things, now! Not if y'know what's good for ya!
+- **8238**: Lately them crrrawler crrritters out thar in Sarutabaruta have been eatin' up all the $2 that these dhalmel love so much.
+- **8239**: It's put me in a rrreeeal fiddle, 'coz now I have to work rrreeeal hard to git me some of them thar $2.
+- **8240**: I do declare... You seem to be the adventurrrer type now, huh!? Would you mind doin' me a favor the next time yer out thar a-huntin' in Sarutabaruta, and concentrate on depleting the numberrrs of crawlers in them parrrts?
+- **8241**: If ya cull enough of them crawlers to git your hands on three $1 or $3, then I'll give you a little somethin' as a rrreward! Whaddaya say?
+- **8242**: Help cull them thar crawlers? [Yup!/Naw!]
+- **8243**: I see... So, y'don't give a damn 'bout what happens to my dhalmel, then do ya? You yellow-strrreaked crrrawler-kisser, you!
+- **8244**: Crawlers can be found in both East and West Sarutabaruta. So exterrrminate as many of them thar pesty crrritters as you can in both'a them parts.
+- **8245**: Them crawlers are out of control, and I'm at my wit's end! Cull enuff of them critters to git your hands on three $1 or $3, and I'll pay you a rrreward!
+- **8246**: Crawlers can be found in both East and West Sarutabaruta. So exterrrminate as many of them thar pesty crrritters as you can in both'a them parts.
+- **8247**: Why, thankee you, pardnerrr! Seems like y'did indeed kill off a mighty big numberrr of them thar crawlers. Here's ya rrreward! Much obliged to ya.
+- **8248**: If everrr ya have the time, would ya be so good as to cull some morrre of them thar crawlers for little ol' me? Cull enuff of them critters to git your hands on three $1 or $3, and I'll pay you a handsome rrreward!
+- **8249**: You saw them towerrrs out thar in Sarutabaruta, huh? Why, they be called the Horutoto Ruins. Once they broke down, the animals of Sarutabaruta starrrted runnin' amuck, y'know?
+- **8250**: I ain't got much of a clue what them towers was forrr, but they sure was magical. I wonderrr if they'll e'er be able to fix them up again?
 
 ## Events
 
@@ -306,10 +306,10 @@
   1: 0x0095 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0096 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0097 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  4: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
+  4: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8236*)
     → "Haw!? Yeah, that be rrright! I look afterrr these here dhalmel all by m'self, y'know! Why, you ain't got an issue with that, do ya?"
   5: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8236*)
+  6: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
     → "Oh, and while y'all are herrre... Don't ya go taumentin' the poorrr things, now! Not if y'know what's good for ya!"
   7: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -348,7 +348,7 @@
   3: 0x00B8 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x0A)
   4: 0x00BF [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x0B)
   5: 0x00C6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x0C)
-  6: 0x00CD [0x24] CREATE_DIALOG(message_id=8241*, default_option=0*, option_flags=0*)
+  6: 0x00CD [0x24] CREATE_DIALOG(message_id=8242*, default_option=0*, option_flags=0*)
     → "Help cull them thar crawlers? [Yup!/Naw!]"
   7: 0x00D4 [0x25] WAIT_DIALOG_SELECT()
   8: 0x00D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EC
@@ -387,10 +387,10 @@ SUBROUTINE_0103:
 
 ```
   0: 0x0107 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  1: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+  1: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "Lately them crrrawler crrritters out thar in Sarutabaruta have been eatin' up all the $2 that these dhalmel love so much."
   2: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+  3: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's put me in a rrreeeal fiddle, 'coz now I have to work rrreeeal hard to git me some of them thar $2."
   4: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0116 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -419,7 +419,7 @@ SUBROUTINE_0103:
 
 ```
   0: 0x011E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  1: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
+  1: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
     → "I do declare... You seem to be the adventurrrer type now, huh!? Would you mind doin' me a favor the next time yer out thar a-huntin' in Sarutabaruta, and concentrate on depleting the numberrrs of crawlers in them parrrts?"
   2: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0129 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -447,7 +447,7 @@ SUBROUTINE_0103:
 
 ```
   0: 0x0131 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  1: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
+  1: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=8241*)
     → "If ya cull enough of them crawlers to git your hands on three $1 or $3, then I'll give you a little somethin' as a rrreward! Whaddaya say?"
   2: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x013C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -475,7 +475,7 @@ SUBROUTINE_0103:
 
 ```
   0: 0x0144 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x03)
-  1: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+  1: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "I see... So, y'don't give a damn 'bout what happens to my dhalmel, then do ya? You yellow-strrreaked crrrawler-kisser, you!"
   2: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x04)
@@ -503,7 +503,7 @@ SUBROUTINE_0103:
 
 ```
   0: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  1: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+  1: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "Crawlers can be found in both East and West Sarutabaruta. So exterrrminate as many of them thar pesty crrritters as you can in both'a them parts."
   2: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0162 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -535,10 +535,10 @@ SUBROUTINE_0103:
   1: 0x016F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0170 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0171 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  4: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+  4: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Them crawlers are out of control, and I'm at my wit's end! Cull enuff of them critters to git your hands on three $1 or $3, and I'll pay you a rrreward!"
   5: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+  6: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "Crawlers can be found in both East and West Sarutabaruta. So exterrrminate as many of them thar pesty crrritters as you can in both'a them parts."
   7: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0180 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -576,10 +576,10 @@ SUBROUTINE_0103:
   3: 0x0193 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0194 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0195 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  6: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
+  6: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=8247*)
     → "Why, thankee you, pardnerrr! Seems like y'did indeed kill off a mighty big numberrr of them thar crawlers. Here's ya rrreward! Much obliged to ya."
   7: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8247*)
+  8: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8248*)
     → "If everrr ya have the time, would ya be so good as to cull some morrre of them thar crawlers for little ol' me? Cull enuff of them critters to git your hands on three $1 or $3, and I'll pay you a handsome rrreward!"
   9: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -616,10 +616,10 @@ SUBROUTINE_0103:
   1: 0x01C8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  4: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8248*)
+  4: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8249*)
     → "You saw them towerrrs out thar in Sarutabaruta, huh? Why, they be called the Horutoto Ruins. Once they broke down, the animals of Sarutabaruta starrrted runnin' amuck, y'know?"
   5: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8249*)
+  6: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8250*)
     → "I ain't got much of a clue what them towers was forrr, but they sure was magical. I wonderrr if they'll e'er be able to fix them up again?"
   7: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
@@ -654,18 +654,18 @@ SUBROUTINE_0103:
   1: 0x01E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
-  4: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+  4: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "Lately them crrrawler crrritters out thar in Sarutabaruta have been eatin' up all the $2 that these dhalmel love so much."
   5: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+  6: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's put me in a rrreeeal fiddle, 'coz now I have to work rrreeeal hard to git me some of them thar $2."
   7: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
+  8: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
     → "I do declare... You seem to be the adventurrrer type now, huh!? Would you mind doin' me a favor the next time yer out thar a-huntin' in Sarutabaruta, and concentrate on depleting the numberrrs of crawlers in them parrrts?"
   9: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)
  11: 0x0205 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x01)
- 12: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
+ 12: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=8241*)
     → "If ya cull enough of them crawlers to git your hands on three $1 or $3, then I'll give you a little somethin' as a rrreward! Whaddaya say?"
  13: 0x020F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0210 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Illu Bohjaa (ID: 17764480/0x010F1080), tag_num=0x07)

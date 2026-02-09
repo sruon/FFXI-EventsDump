@@ -128,39 +128,39 @@
 |       9 | 0xFFFEF520  |  4294898976 |
 |      10 | 0xFFFF7A86  |  4294933126 |
 |      11 | 0x0014      |          20 |
-|      12 | 0x1C3E      |        7230 |
+|      12 | 0x1C3F      |        7231 |
 |      13 | 0x001E      |          30 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0000      |           0 |
 |      16 | 0x003C      |          60 |
 |      17 | 0x0003      |           3 |
 |      18 | 0x005A      |          90 |
-|      19 | 0x1C3D      |        7229 |
-|      20 | 0x1C44      |        7236 |
+|      19 | 0x1C3E      |        7230 |
+|      20 | 0x1C45      |        7237 |
 |      21 | 0x0082      |         130 |
-|      22 | 0x1C45      |        7237 |
-|      23 | 0x1C46      |        7238 |
-|      24 | 0x1C47      |        7239 |
-|      25 | 0x1C48      |        7240 |
-|      26 | 0x1C49      |        7241 |
+|      22 | 0x1C46      |        7238 |
+|      23 | 0x1C47      |        7239 |
+|      24 | 0x1C48      |        7240 |
+|      25 | 0x1C49      |        7241 |
+|      26 | 0x1C4A      |        7242 |
 |      27 | 0x4110      |       16656 |
-|      28 | 0x1C4A      |        7242 |
+|      28 | 0x1C4B      |        7243 |
 |      29 | 0x0005      |           5 |
 |      30 | 0x0006      |           6 |
-|      31 | 0x1C4B      |        7243 |
-|      32 | 0x1C4C      |        7244 |
-|      33 | 0x1C4D      |        7245 |
+|      31 | 0x1C4C      |        7244 |
+|      32 | 0x1C4D      |        7245 |
+|      33 | 0x1C4E      |        7246 |
 |      34 | 0x0001      |           1 |
 |      35 | 0x0002      |           2 |
 |      36 | 0x40000000  |  1073741824 |
-|      37 | 0x23FD      |        9213 |
-|      38 | 0x1C4E      |        7246 |
-|      39 | 0x1C4F      |        7247 |
+|      37 | 0x23FE      |        9214 |
+|      38 | 0x1C4F      |        7247 |
+|      39 | 0x1C50      |        7248 |
 |      40 | 0x00C9      |         201 |
-|      41 | 0x1C50      |        7248 |
-|      42 | 0x1C51      |        7249 |
-|      43 | 0x1C52      |        7250 |
-|      44 | 0x1C40      |        7232 |
+|      41 | 0x1C51      |        7249 |
+|      42 | 0x1C52      |        7250 |
+|      43 | 0x1C53      |        7251 |
+|      44 | 0x1C41      |        7233 |
 |      45 | 0x001F      |          31 |
 |      46 | 0x0008      |           8 |
 |      47 | 0x0004      |           4 |
@@ -183,413 +183,413 @@
 |      64 | 0x001B      |          27 |
 |      65 | 0x001C      |          28 |
 |      66 | 0x001D      |          29 |
-|      67 | 0x1C41      |        7233 |
-|      68 | 0x1C3F      |        7231 |
-|      69 | 0x23FC      |        9212 |
-|      70 | 0x1C54      |        7252 |
-|      71 | 0x1C55      |        7253 |
+|      67 | 0x1C42      |        7234 |
+|      68 | 0x1C40      |        7232 |
+|      69 | 0x23FD      |        9213 |
+|      70 | 0x1C55      |        7253 |
+|      71 | 0x1C56      |        7254 |
 |      72 | 0x037B      |         891 |
-|      73 | 0x1C56      |        7254 |
-|      74 | 0x1C57      |        7255 |
-|      75 | 0x1C58      |        7256 |
-|      76 | 0x1C59      |        7257 |
-|      77 | 0x1C5A      |        7258 |
-|      78 | 0x1C5B      |        7259 |
-|      79 | 0x1C5C      |        7260 |
-|      80 | 0x1C5D      |        7261 |
-|      81 | 0x1C5E      |        7262 |
-|      82 | 0x1C5F      |        7263 |
-|      83 | 0x1C60      |        7264 |
-|      84 | 0x1C61      |        7265 |
-|      85 | 0x1C62      |        7266 |
-|      86 | 0x1C63      |        7267 |
-|      87 | 0x1C64      |        7268 |
-|      88 | 0x1C65      |        7269 |
-|      89 | 0x1C66      |        7270 |
-|      90 | 0x1C67      |        7271 |
-|      91 | 0x1C68      |        7272 |
+|      73 | 0x1C57      |        7255 |
+|      74 | 0x1C58      |        7256 |
+|      75 | 0x1C59      |        7257 |
+|      76 | 0x1C5A      |        7258 |
+|      77 | 0x1C5B      |        7259 |
+|      78 | 0x1C5C      |        7260 |
+|      79 | 0x1C5D      |        7261 |
+|      80 | 0x1C5E      |        7262 |
+|      81 | 0x1C5F      |        7263 |
+|      82 | 0x1C60      |        7264 |
+|      83 | 0x1C61      |        7265 |
+|      84 | 0x1C62      |        7266 |
+|      85 | 0x1C63      |        7267 |
+|      86 | 0x1C64      |        7268 |
+|      87 | 0x1C65      |        7269 |
+|      88 | 0x1C66      |        7270 |
+|      89 | 0x1C67      |        7271 |
+|      90 | 0x1C68      |        7272 |
+|      91 | 0x1C69      |        7273 |
 |      92 | 0x0020      |          32 |
-|      93 | 0x1C69      |        7273 |
+|      93 | 0x1C6A      |        7274 |
 |      94 | 0x0023      |          35 |
-|      95 | 0x1C6A      |        7274 |
-|      96 | 0x1C6B      |        7275 |
-|      97 | 0x1C6C      |        7276 |
-|      98 | 0x20FA      |        8442 |
-|      99 | 0x20FB      |        8443 |
-|     100 | 0x20FC      |        8444 |
-|     101 | 0x20FD      |        8445 |
-|     102 | 0x241D      |        9245 |
-|     103 | 0x1C6E      |        7278 |
-|     104 | 0x1C6F      |        7279 |
-|     105 | 0x1C70      |        7280 |
-|     106 | 0x1C71      |        7281 |
-|     107 | 0x1C72      |        7282 |
-|     108 | 0x1C73      |        7283 |
-|     109 | 0x1C75      |        7285 |
-|     110 | 0x1C76      |        7286 |
-|     111 | 0x1C77      |        7287 |
-|     112 | 0x241F      |        9247 |
-|     113 | 0x2420      |        9248 |
-|     114 | 0x1C79      |        7289 |
-|     115 | 0x1C7A      |        7290 |
+|      95 | 0x1C6B      |        7275 |
+|      96 | 0x1C6C      |        7276 |
+|      97 | 0x1C6D      |        7277 |
+|      98 | 0x20FB      |        8443 |
+|      99 | 0x20FC      |        8444 |
+|     100 | 0x20FD      |        8445 |
+|     101 | 0x20FE      |        8446 |
+|     102 | 0x241E      |        9246 |
+|     103 | 0x1C6F      |        7279 |
+|     104 | 0x1C70      |        7280 |
+|     105 | 0x1C71      |        7281 |
+|     106 | 0x1C72      |        7282 |
+|     107 | 0x1C73      |        7283 |
+|     108 | 0x1C74      |        7284 |
+|     109 | 0x1C76      |        7286 |
+|     110 | 0x1C77      |        7287 |
+|     111 | 0x1C78      |        7288 |
+|     112 | 0x2420      |        9248 |
+|     113 | 0x2421      |        9249 |
+|     114 | 0x1C7A      |        7290 |
+|     115 | 0x1C7B      |        7291 |
 |     116 | 0x0068      |         104 |
-|     117 | 0x1C7B      |        7291 |
-|     118 | 0x1C7C      |        7292 |
-|     119 | 0x1C7D      |        7293 |
-|     120 | 0x1C7E      |        7294 |
-|     121 | 0x2105      |        8453 |
-|     122 | 0x1C7F      |        7295 |
-|     123 | 0x1C81      |        7297 |
-|     124 | 0x1C82      |        7298 |
-|     125 | 0x1C83      |        7299 |
-|     126 | 0x1C86      |        7302 |
-|     127 | 0x1C87      |        7303 |
-|     128 | 0x1C88      |        7304 |
-|     129 | 0x1C89      |        7305 |
-|     130 | 0x1C8A      |        7306 |
-|     131 | 0x1C8B      |        7307 |
-|     132 | 0x1C8D      |        7309 |
-|     133 | 0x1C8E      |        7310 |
+|     117 | 0x1C7C      |        7292 |
+|     118 | 0x1C7D      |        7293 |
+|     119 | 0x1C7E      |        7294 |
+|     120 | 0x1C7F      |        7295 |
+|     121 | 0x2106      |        8454 |
+|     122 | 0x1C80      |        7296 |
+|     123 | 0x1C82      |        7298 |
+|     124 | 0x1C83      |        7299 |
+|     125 | 0x1C84      |        7300 |
+|     126 | 0x1C87      |        7303 |
+|     127 | 0x1C88      |        7304 |
+|     128 | 0x1C89      |        7305 |
+|     129 | 0x1C8A      |        7306 |
+|     130 | 0x1C8B      |        7307 |
+|     131 | 0x1C8C      |        7308 |
+|     132 | 0x1C8E      |        7310 |
+|     133 | 0x1C8F      |        7311 |
 |     134 | 0x11B0      |        4528 |
-|     135 | 0x1C8F      |        7311 |
-|     136 | 0x1C90      |        7312 |
-|     137 | 0x1C91      |        7313 |
+|     135 | 0x1C90      |        7312 |
+|     136 | 0x1C91      |        7313 |
+|     137 | 0x1C92      |        7314 |
 |     138 | 0x006F      |         111 |
-|     139 | 0x1C92      |        7314 |
-|     140 | 0x1C93      |        7315 |
-|     141 | 0x1C94      |        7316 |
-|     142 | 0x1C95      |        7317 |
-|     143 | 0x1C96      |        7318 |
-|     144 | 0x1C97      |        7319 |
-|     145 | 0x1CA0      |        7328 |
-|     146 | 0x1CA1      |        7329 |
-|     147 | 0x1CA2      |        7330 |
-|     148 | 0x1CA3      |        7331 |
-|     149 | 0x1CA4      |        7332 |
-|     150 | 0x1CA5      |        7333 |
-|     151 | 0x1CA6      |        7334 |
-|     152 | 0x1CA7      |        7335 |
-|     153 | 0x1CA8      |        7336 |
+|     139 | 0x1C93      |        7315 |
+|     140 | 0x1C94      |        7316 |
+|     141 | 0x1C95      |        7317 |
+|     142 | 0x1C96      |        7318 |
+|     143 | 0x1C97      |        7319 |
+|     144 | 0x1C98      |        7320 |
+|     145 | 0x1CA1      |        7329 |
+|     146 | 0x1CA2      |        7330 |
+|     147 | 0x1CA3      |        7331 |
+|     148 | 0x1CA4      |        7332 |
+|     149 | 0x1CA5      |        7333 |
+|     150 | 0x1CA6      |        7334 |
+|     151 | 0x1CA7      |        7335 |
+|     152 | 0x1CA8      |        7336 |
+|     153 | 0x1CA9      |        7337 |
 |     154 | 0x0024      |          36 |
-|     155 | 0x1CA9      |        7337 |
-|     156 | 0x1CAA      |        7338 |
-|     157 | 0x1CAB      |        7339 |
-|     158 | 0x1CAC      |        7340 |
-|     159 | 0x1CAD      |        7341 |
-|     160 | 0x1CAE      |        7342 |
-|     161 | 0x1CAF      |        7343 |
-|     162 | 0x1CB0      |        7344 |
-|     163 | 0x1CB1      |        7345 |
+|     155 | 0x1CAA      |        7338 |
+|     156 | 0x1CAB      |        7339 |
+|     157 | 0x1CAC      |        7340 |
+|     158 | 0x1CAD      |        7341 |
+|     159 | 0x1CAE      |        7342 |
+|     160 | 0x1CAF      |        7343 |
+|     161 | 0x1CB0      |        7344 |
+|     162 | 0x1CB1      |        7345 |
+|     163 | 0x1CB2      |        7346 |
 |     164 | 0x010D      |         269 |
-|     165 | 0x1CB2      |        7346 |
-|     166 | 0x1CB4      |        7348 |
-|     167 | 0x1CB5      |        7349 |
-|     168 | 0x1CB6      |        7350 |
+|     165 | 0x1CB3      |        7347 |
+|     166 | 0x1CB5      |        7349 |
+|     167 | 0x1CB6      |        7350 |
+|     168 | 0x1CB7      |        7351 |
 |     169 | 0x0025      |          37 |
-|     170 | 0x1CB7      |        7351 |
-|     171 | 0x1CB8      |        7352 |
-|     172 | 0x1CB9      |        7353 |
-|     173 | 0x1CBA      |        7354 |
-|     174 | 0x1CBB      |        7355 |
-|     175 | 0x1CBC      |        7356 |
-|     176 | 0x1CBD      |        7357 |
-|     177 | 0x1CBE      |        7358 |
-|     178 | 0x1CBF      |        7359 |
-|     179 | 0x1CC0      |        7360 |
-|     180 | 0x1CC1      |        7361 |
-|     181 | 0x1CC2      |        7362 |
-|     182 | 0x1CC3      |        7363 |
+|     170 | 0x1CB8      |        7352 |
+|     171 | 0x1CB9      |        7353 |
+|     172 | 0x1CBA      |        7354 |
+|     173 | 0x1CBB      |        7355 |
+|     174 | 0x1CBC      |        7356 |
+|     175 | 0x1CBD      |        7357 |
+|     176 | 0x1CBE      |        7358 |
+|     177 | 0x1CBF      |        7359 |
+|     178 | 0x1CC0      |        7360 |
+|     179 | 0x1CC1      |        7361 |
+|     180 | 0x1CC2      |        7362 |
+|     181 | 0x1CC3      |        7363 |
+|     182 | 0x1CC4      |        7364 |
 |     183 | 0x011C      |         284 |
-|     184 | 0x1CC4      |        7364 |
-|     185 | 0x1CC5      |        7365 |
-|     186 | 0x1CC6      |        7366 |
+|     184 | 0x1CC5      |        7365 |
+|     185 | 0x1CC6      |        7366 |
+|     186 | 0x1CC7      |        7367 |
 |     187 | 0x0026      |          38 |
-|     188 | 0x1CC7      |        7367 |
-|     189 | 0x1CC8      |        7368 |
-|     190 | 0x1CC9      |        7369 |
-|     191 | 0x1CCA      |        7370 |
-|     192 | 0x1CCC      |        7372 |
-|     193 | 0x1CCD      |        7373 |
-|     194 | 0x1CCE      |        7374 |
-|     195 | 0x1CCF      |        7375 |
-|     196 | 0x1CD0      |        7376 |
-|     197 | 0x1CD2      |        7378 |
-|     198 | 0x1CD3      |        7379 |
-|     199 | 0x1CD4      |        7380 |
-|     200 | 0x1CD5      |        7381 |
-|     201 | 0x1CD6      |        7382 |
-|     202 | 0x1CD7      |        7383 |
-|     203 | 0x1CD8      |        7384 |
-|     204 | 0x1CD9      |        7385 |
-|     205 | 0x1CDA      |        7386 |
-|     206 | 0x1CDB      |        7387 |
-|     207 | 0x1CDC      |        7388 |
-|     208 | 0x1CDD      |        7389 |
-|     209 | 0x23EA      |        9194 |
-|     210 | 0x23EB      |        9195 |
+|     188 | 0x1CC8      |        7368 |
+|     189 | 0x1CC9      |        7369 |
+|     190 | 0x1CCA      |        7370 |
+|     191 | 0x1CCB      |        7371 |
+|     192 | 0x1CCD      |        7373 |
+|     193 | 0x1CCE      |        7374 |
+|     194 | 0x1CCF      |        7375 |
+|     195 | 0x1CD0      |        7376 |
+|     196 | 0x1CD1      |        7377 |
+|     197 | 0x1CD3      |        7379 |
+|     198 | 0x1CD4      |        7380 |
+|     199 | 0x1CD5      |        7381 |
+|     200 | 0x1CD6      |        7382 |
+|     201 | 0x1CD7      |        7383 |
+|     202 | 0x1CD8      |        7384 |
+|     203 | 0x1CD9      |        7385 |
+|     204 | 0x1CDA      |        7386 |
+|     205 | 0x1CDB      |        7387 |
+|     206 | 0x1CDC      |        7388 |
+|     207 | 0x1CDD      |        7389 |
+|     208 | 0x1CDE      |        7390 |
+|     209 | 0x23EB      |        9195 |
+|     210 | 0x23EC      |        9196 |
 |     211 | 0x007A      |         122 |
 |     212 | 0x007F      |         127 |
-|     213 | 0x23EC      |        9196 |
-|     214 | 0x23F1      |        9201 |
+|     213 | 0x23ED      |        9197 |
+|     214 | 0x23F2      |        9202 |
 |     215 | 0x0919      |        2329 |
-|     216 | 0x23F2      |        9202 |
-|     217 | 0x23F5      |        9205 |
+|     216 | 0x23F3      |        9203 |
+|     217 | 0x23F6      |        9206 |
 |     218 | 0x006B      |         107 |
 |     219 | 0x0078      |         120 |
 |     220 | 0x0064      |         100 |
-|     221 | 0x23EE      |        9198 |
-|     222 | 0x23F0      |        9200 |
-|     223 | 0x23F3      |        9203 |
-|     224 | 0x23F6      |        9206 |
-|     225 | 0x23F8      |        9208 |
-|     226 | 0x23F9      |        9209 |
-|     227 | 0x23FA      |        9210 |
-|     228 | 0x23FB      |        9211 |
-|     229 | 0x2404      |        9220 |
+|     221 | 0x23EF      |        9199 |
+|     222 | 0x23F1      |        9201 |
+|     223 | 0x23F4      |        9204 |
+|     224 | 0x23F7      |        9207 |
+|     225 | 0x23F9      |        9209 |
+|     226 | 0x23FA      |        9210 |
+|     227 | 0x23FB      |        9211 |
+|     228 | 0x23FC      |        9212 |
+|     229 | 0x2405      |        9221 |
 |     230 | 0x0065      |         101 |
-|     231 | 0x23FE      |        9214 |
-|     232 | 0x23FF      |        9215 |
-|     233 | 0x2400      |        9216 |
-|     234 | 0x2401      |        9217 |
-|     235 | 0x2402      |        9218 |
-|     236 | 0x2403      |        9219 |
-|     237 | 0x2405      |        9221 |
-|     238 | 0x2406      |        9222 |
-|     239 | 0x2407      |        9223 |
-|     240 | 0x2408      |        9224 |
-|     241 | 0x2409      |        9225 |
-|     242 | 0x240A      |        9226 |
-|     243 | 0x240B      |        9227 |
-|     244 | 0x240C      |        9228 |
+|     231 | 0x23FF      |        9215 |
+|     232 | 0x2400      |        9216 |
+|     233 | 0x2401      |        9217 |
+|     234 | 0x2402      |        9218 |
+|     235 | 0x2403      |        9219 |
+|     236 | 0x2404      |        9220 |
+|     237 | 0x2406      |        9222 |
+|     238 | 0x2407      |        9223 |
+|     239 | 0x2408      |        9224 |
+|     240 | 0x2409      |        9225 |
+|     241 | 0x240A      |        9226 |
+|     242 | 0x240B      |        9227 |
+|     243 | 0x240C      |        9228 |
+|     244 | 0x240D      |        9229 |
 |     245 | 0x0066      |         102 |
-|     246 | 0x240D      |        9229 |
-|     247 | 0x240F      |        9231 |
-|     248 | 0x2410      |        9232 |
-|     249 | 0x2411      |        9233 |
-|     250 | 0x2412      |        9234 |
-|     251 | 0x2413      |        9235 |
-|     252 | 0x2414      |        9236 |
-|     253 | 0x2415      |        9237 |
-|     254 | 0x2416      |        9238 |
-|     255 | 0x2417      |        9239 |
-|     256 | 0x2418      |        9240 |
-|     257 | 0x2419      |        9241 |
-|     258 | 0x241A      |        9242 |
-|     259 | 0x241B      |        9243 |
-|     260 | 0x241E      |        9246 |
-|     261 | 0x2421      |        9249 |
-|     262 | 0x2422      |        9250 |
+|     246 | 0x240E      |        9230 |
+|     247 | 0x2410      |        9232 |
+|     248 | 0x2411      |        9233 |
+|     249 | 0x2412      |        9234 |
+|     250 | 0x2413      |        9235 |
+|     251 | 0x2414      |        9236 |
+|     252 | 0x2415      |        9237 |
+|     253 | 0x2416      |        9238 |
+|     254 | 0x2417      |        9239 |
+|     255 | 0x2418      |        9240 |
+|     256 | 0x2419      |        9241 |
+|     257 | 0x241A      |        9242 |
+|     258 | 0x241B      |        9243 |
+|     259 | 0x241C      |        9244 |
+|     260 | 0x241F      |        9247 |
+|     261 | 0x2422      |        9250 |
+|     262 | 0x2423      |        9251 |
 |     263 | 0x006E      |         110 |
-|     264 | 0x2423      |        9251 |
-|     265 | 0x2424      |        9252 |
-|     266 | 0x2425      |        9253 |
-|     267 | 0x2426      |        9254 |
-|     268 | 0x2427      |        9255 |
-|     269 | 0x2428      |        9256 |
-|     270 | 0x2429      |        9257 |
+|     264 | 0x2424      |        9252 |
+|     265 | 0x2425      |        9253 |
+|     266 | 0x2426      |        9254 |
+|     267 | 0x2427      |        9255 |
+|     268 | 0x2428      |        9256 |
+|     269 | 0x2429      |        9257 |
+|     270 | 0x242A      |        9258 |
 
 ## String References
 
-- **7229**: A recruit? What do you want with this gatehouse?
-- **7230**: Only citizens of San d'Oria may apply for missions here. Go see your country's consulate in Northern San d'Oria.
-- **7231**: Finish your current mission first, then come back for another.
-- **7232**: Which mission will you undertake? [Smash the Orcish Scouts./Bat Hunt./Save the Children./The Rescue Drill./The Davoi Report./Journey Abroad./Journey to Bastok./Journey to Windurst./Journey to Bastok./Journey to Windurst./Infiltrate Davoi./The Crystal Spring./Appointment to Jeuno./Magicite./The Ruins of Fei'Yin./The Shadow Lord./Leaute's Last Wishes./Ranperre's Final Rest./Prestige of the Papsque./The Secret Weapon./Coming of Age./Lightbringer./Breaking Barriers./The Heir to the Light./10-1./10-2./$3_$3~[26./$3_$3~[27./$3_$3~[28./$3_$3~[29./$3_$3~[30./None.]
-- **7233**: Accept this mission? [Yes./No.]
-- **7236**: Your business? [A mission, please./Nothing.]
-- **7237**: Hmm...not much work for those wet behind the ears, but...
-- **7238**: How about slaying Orcish scouts? Only the yellowest of yearlings would run from that, and we've no work for cowards here.
-- **7239**: If you're to take the mission, I'll be happy to explain.
-- **7240**: Interested? [Tell me more./Never mind.]
-- **7241**: Here's your mission. Orcish scouts roam outside; kill one and bring me his axe as proof.
-- **7242**: You'll have to bring me $0. No other kind will do. Understand?
-- **7243**: That is all. You'll take the mission then?
-- **7244**: Do you accept the mission? [I accept./Could you explain again?/No, thank you.]
-- **7245**: Bring me one of those axes, and your mission will be a success. No running away now; we've a proud country to defend!
-- **7246**: Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!
-- **7247**: That's another $0 for the armory, then. Mission complete! Not bad for a new recruit.
-- **7248**: What? I don't want this!
-- **7249**: Are you really a new recruit!?
-- **7250**: Listen, before you bring me something, you must first accept the mission! That is how things work around here!
-- **7252**: Bat patrol! How about it? Shouldn't be a problem for an adventurer such as yourself, no?
-- **7253**: Here's your mission, then. Clear out bats lurking in King Ranperre's Tomb and bring me a fang as proof.
-- **7254**: Bring me $0 and your mission will be a success.
-- **7255**: Deep in the tomb you'll find Goblins. Take care; I don't want to lose you yet.
-- **7256**: Ah, you've returned! I was afraid that Goblins got you.
-- **7257**: That's one $3 for the gatehouse, then. Mission complete. Not bad for a new recruit.
-- **7258**: Ah, the recruit's back again? I'm sorry, but I've no time for you today.
-- **7259**: Well, perhaps you can be of some help. Many of our children have disappeared mysteriously, and I've no doubt the Ghelsba Orcs are behind it.
-- **7260**: The Royal Knights should be on the job by now, but the two princes are at each other's throats.
-- **7261**: Prince Trion, the eldest, says we should launch a full attack, with all haste.
-- **7262**: While his younger brother, Prince Pieuje says the safety of the children comes first, and he won't authorize an attack.
-- **7263**: They've been arguing this back and forth for days. The knights' hands are tied, and frankly, nobody knows what to do.
-- **7264**: If you really want to make a name for yourself, go to Ghelsba, and rescue those kidnapped children!
-- **7265**: What say you? Will you go?
-- **7266**: Here's your mission, then. Rescue the two children kidnapped by the Orcs of Ghelsba Outpost.
-- **7267**: Ghelsba Outpost is northwest of West Ronfaure. Take the path before the Westgate, then turn right when the path splits in the forest. You'll find the entrance up in the hills.
-- **7268**: If you have trouble finding the way, just follow one of the soldiers on patrol.
-- **7269**: Orcs tend to keep their hostages in tents or small huts. Once you're inside the compound, check them first.
-- **7270**: Ah, you've returned! You were gone so long, I feared a warmachine had got you!
-- **7271**: At any rate, mission complete! And to reward your accomplishment...
-- **7272**: I hereby recognize you, <Player>, as a certified adventurer of San d'Oria! You're now mission rank two, as well.
-- **7273**: But don't get too excited. Your title is valid only here in San d'Oria, understand?
-- **7274**: In order to become a true adventurer, and bear $6, you must be recognized by Bastok and Windurst as well.
-- **7275**: 'Tis a treaty between the three lands, and its word is law. I know it's hard, but those are the rules.
-- **7276**: For now, cut your adventuring teeth in the areas near here. Sooner or later you'll find your way into other lands.
-- **7278**: There's not much work in right now. I suppose you could go participate in the Temple Knights' rescue drills out on the La Theine Plateau.
-- **7279**: Enter the forest beyond the Westgate and head southwest. You'll come out onto the La Theine Plateau before long.
-- **7280**: Once you're out on the plateau, keep going until you see the knights. The training grounds aren't far from there.
-- **7281**: It's all just a drill, so this should be easy compared to your usual fare. Just follow orders and you'll be fine.
-- **7282**: You've returned! I hear the drill turned into something far more perilous. But real battle is the best drill for recruits, in my opinion.
-- **7283**: Regardless, you've done well. I'll turn to you when there's work to be done, now.
-- **7285**: This time it's messenger duty. One of our knights is out scouting in a place called Davoi, on the southern edge of Jugner Forest.
-- **7286**: The Orcs' stronghold is in Davoi, so it's vital that we stop them from massing, or they may launch an assault.
-- **7287**: Of course, the Orcs are keeping an eye on us, too. Why, just a few days past, a squad of our Royal Knights fell to their axes.
-- **7289**: The scout's name is Zantaviat. He's somewhere in Davoi, but where I cannot say.
-- **7290**: Come back after you've gotten the report. Those lands are no place to wander.
-- **7291**: You have returned! And you've brought the scouting report. Good work, <Player>.
-- **7292**: Troubling news, this is. It says that Orcs are gathering deep inside the encampment. The time to act is coming!
-- **7293**: But that is not your concern. You've done well today. Mission complete!
-- **7294**: Oh, it's you, <Player>. And at just the right time, too. Monarlais Halver is looking for an adventurer such as yourself.
-- **7295**: Enter Chateau d'Oraguille. Monarlais Halver is there; he'll explain in person.
-- **7297**: Ah, welcome back. I see you've been certified in Bastok and Windurst. Good work. You'll make a fine adventurer.
-- **7298**: What's that, a report for our kingdom? I see. Take that to the monarlais when you go.
-- **7299**: You should receive $6 from Monarlais Halver. Now, go to Chateau d'Oraguille and let them know you're back!
-- **7302**: Ah! You've come at just the right time. Zantaviat, one of our scouts in Davoi, needs an adventurer.
-- **7303**: He wants someone to infiltrate Davoi and scout behind enemy lines. Know anyone fitting that description?
-- **7304**: Now that you've got your $3, this is an opportunity to prove you're worth it!
-- **7305**: The situation in Davoi worsens by the day. This won't be easy, but I can't think of a better adventurer for the job!
-- **7306**: You've returned! Zantaviat told me everything. Congratulations on a job well done!
-- **7307**: But we can't let down our guard yet. Those Orcs will not just sit there. We must keep constant vigil, and move before they do!
-- **7309**: Welcome back! I have an important mission for you this time. Recently, land is eroding due to crystal formation...and it's getting worse.
-- **7310**: There's a small spring on the eastern edge of Jugner Forest, called Crystwater Spring. We must know what effect crystal formation has on the wildlife there.
-- **7311**: I want you to get me a fish from the spring. And not just any fish! You need to get $0.
-- **7312**: Ah, that reminds me--have you any fishing gear? You'll need some for this mission.
-- **7313**: There are people about that know a thing or two about fishing, should you need help finding and choosing your gear.
-- **7314**: Ah, the great angler returns! I was worried, to be honest. All you hear these days is the massing of beasts, the erosion of the Crystal Lines, and now...
-- **7315**: ...rumors that the Shadow Lord himself has returned!
-- **7316**: We will examine the fish you brought. Depending on the results, we may need to act! I'll let you know if we need your help.
-- **7317**: Ah, it's you, <Player>. You've come at a good time. I've news for you.
-- **7318**: By order of the Kingdom of San d'Oria, you're to head to Jeuno as an ambassadorial attach<Player>i.
-- **7319**: Go to Chateau d'Oraguille. Monarlais Halver will tell you all you need to know.
-- **7328**: There you are! I've been looking for you. Monarlais Halver requests your presence at the chateau immediately.
-- **7329**: It sounds as if this is a fairly important mission. I need not remind you that you should take care to properly equip yourself before embarking on this journey.
-- **7330**: I'm not sure what it's about, but you'd best make haste. The monarlais is not to be kept waiting!
-- **7331**: Why, if it isn't <Player>! This is no time for loafing around, friend! Prince Trion is looking for you.
-- **7332**: For this next mission, he's requested you personally. You should be honored!
-- **7333**: As for the details of the mission, I've no idea what he wants, but he was in a hurry. You'd best be off to Chateau d'Oraguille!
-- **7334**: It is a great thing you've done, <Player>! I knew deep in my heart that you were the one for the task.
-- **7335**: You'd better get to the chateau quick. They're all waiting to welcome you back, I'd wager.
-- **7336**: You've saved our proud Kingdom of San d'Oria. No, you're the savior of all Vana'diel! There's not a soul that doesn't owe you a great debt, <Player>.
-- **7337**: Ah, if it isn't <Player>! You had best hurry off to Chateau d'Oraguille. It seems as if something terrible is in the works there.
-- **7338**: Well, if it isn't <Player>! Your timing is perfect. The chateau just sent a request for an adventurer.
-- **7339**: It looks as if this next mission has something to do with the late queen. You should feel honored. It's not every day that an adventurer gets to work directly with the royal family.
-- **7340**: Spoken like a true San d'Orian! Now hurry off to Chateau d'Oraguille and get the details on the mission from Monarlais Halver.
-- **7341**: What's wrong? Dealing with royalty is not your cup of tea? Well, think about it and come back when you've come to your senses.
-- **7342**: Prince Trion is requesting the aid of an adventurer. How about it?
-- **7343**: It looks fairly urgent, so you should hurry to the chateau. The prince is waiting in his chambers.
-- **7344**: I expected more from you, <Player>. If you change your mind, return here. I'll be waiting.
-- **7345**: I have received the details of your mission from Prince Trion. I will deliver this book to the scholars for deciphering.
-- **7346**: The deciphering of the $3 will take a considerable amount of time. Return later for a report.
-- **7348**: Ah, <Player>. We've been waiting. Prince Trion is calling for you. I wonder if this means the $3 has been completely deciphered.
-- **7349**: Well done, <Player>! I knew you would not let the Kingdom down.
-- **7350**: I'm proud to increase your rank to 7!
-- **7351**: The papsque has work for you, <Player>. Are you willing to take on the task?
-- **7352**: Excellent. Proceed to the papsque's chambers on the third floor of the cathedral.
-- **7353**: The papsque often comes across as a difficult man, but he is actually very kindhearted and compassionate. If you change your mind, I'll be waiting here.
-- **7354**: The fair Claidie I d'Oraguille has invited you to the chateau. She wishes for you to see the flowers that have bloomed from the seeds you brought back from Altepa.
-- **7355**: It is an honor to be invited to the chateau garden. One day you may even have the opportunity to attend one of their royal garden parties.
-- **7356**: We cannot keep the princess waiting. Now, off to the chateau!
-- **7357**: A party of Royal Knights stationed in Ghelsba Outpost have reported strange activity by Orcs deep within Yughott Grotto.
-- **7358**: From your reports, we already know that the beastmen have built a giant portal, but their motives remain unclear.
-- **7359**: It makes me shudder to think of what those Orcs are planning with that portal...
-- **7360**: <Player>, your next mission is to travel to Ghelsba and continue your investigation into the Orcs' activities.
-- **7361**: Be on your guard when traveling deep into Yughott Grotto. Losing an adventurer such as yourself would deal a great blow to all of San d'Oria.
-- **7362**: I see you need more time for preparations. When you are ready, I'll be waiting.
-- **7363**: It's hard to believe Orcs have their hands on such dangerous equipment. More patrols will have to be sent out to prevent any new developments in their evil plans.
-- **7364**: And this $3... We will have to analyze it and begin reproduction for our forces. We cannot let Orcs get the Treasure of the Dragon King before San d'Oria does.
-- **7365**: Well, congratulations on the completion of your mission. Hmmm? Do I know of an adventurer named Eideialc? Never heard of him.
-- **7366**: But you need not worry about some petty traveler. You are in a different league. You are now rank 8!
-- **7367**: Princess Claidie's coming-of-age ceremony is drawing near. This ceremony is an important facet of d'Oraguille tradition.
-- **7368**: Monarlais Halver has put out a call to high-ranking adventurers for their assistance in Chateau d'Oraguille.
-- **7369**: Ah, the young princess has finally become a lady... Oh, I'm sorry. You can get the details of your next mission from Sir Halver.
-- **7370**: What? You do not wish to repay the kindness the princess has shown to you in the past months? As you wish...but if you change your mind, you know where to find me.
-- **7372**: Princess Claidie's coming-of-age ceremony is about to begin at the cathedral. I must remain at my post, but why don't you attend?
-- **7373**: The king has requested your audience. He has selected you from the mountain of adventurers in San d'Oria. You should feel honored!
-- **7374**: You have matured from a fledgling adventurer into a great asset to our kingdom. Do not let us down.
-- **7375**: There is no need for modesty at a time like this. The fate of San d'Oria is at stake!
-- **7376**: The authorities are saying that a dark cloud of despair is looming over the Kingdom. They are asking for the assistance of only the best adventurers.
-- **7378**: Then proceed to the Audience Chamber in the Chateau d'Oraguille. Word has it that His Highness is not feeling that well. He may not be present for your briefing.
-- **7379**: [Sir/Lady] <Player>! The Kingdom is counting on you. Who else, I ask you, is worthy for this task?
-- **7380**: Ah, a time of great change is upon us. In a matter of days, the Rites of Succession will be held at the cathedral in Northern San d'Oria. It is then that the new heir to the throne will be decided.
-- **7381**: Due to the unpredictable circumstances that took place at the princess's coming-of-age ceremony, this time, only authorized personnel will be allowed near the proceedings. However, the royal family has requested your services as a guard.
-- **7382**: Even we Royal Knights have not been granted permission to attend... You must be held in high regard by His Highness. I envy you, [Sir/Ma'am].
-- **7383**: When you have finished your preparations, proceed directly to the cathedral to report.
-- **7384**: Off the record, which of the two princes do you think should be the next heir to the throne?
-- **7385**: It is a difficult decision, but... [Trion is better suited./Pieuje is better suited.]
-- **7386**: Hm... Being the oldest, he is the true heir, and many people believe he is the most suited to rule the Kingdom. However, Prince Pieuje's prudent ways may be what this country is lacking.
-- **7387**: Many think as you do, [Sir/Lady] <Player>. However, what this country may need is someone who will not back down in the face of a threat--someone who will stand up for the pride of the Kingdom.
-- **7388**: But our opinion is of no matter. Lightbringer will decide who is the most suited to stand over our fine nation. And do not speak a word of today's exchange, for the monarlais will have our heads if he finds out.
-- **7389**: I realize that you must have many preparations before taking on such an important mission. Take your time and return here when you are ready.
-- **8442**: You're one of my favorite recruits, and always have given you new missions. But I must look after many more adventurers than just yourself.
-- **8443**: Henceforth, I must judge your worthiness for your next mission based on your rank points.
-- **8444**: In order to earn rank points, participate in our conquests, and thereby get crystals to give to the Temple Knight.
-- **8445**: If you want to know more about conquests, ask the Temple Knight who stands before any gate.
-- **8453**: Accept mission? [Accept./No, thanks.]
-- **9194**: Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!
-- **9195**: For one so new, I'd be... Hmm?
-- **9198**: Who are you, and why do you pry with such inquiries?
-- **9200**: You've what!?
-- **9201**: Very well. Listen closely. Fifteen years ago, Queen Leaute fell to a rare sickness. She left this world before we could save her.
-- **9203**: Well, it's none of your concern at any rate. Even if she lived, an adventurer like you could never see her, much less the inside of Chateau d'Oraguille.
-- **9206**: We are not told such things. Only the royal family would know.
-- **9208**: Hey, wait!
-- **9209**: What was the matter with that adventurer? He was awfully stubborn, wasn't he?
-- **9210**: He seemed to know the late queen personally, but how could he not be aware of her death?
-- **9211**: At any rate, your work is done. Excellent form, my friend!
-- **9212**: What, you want the mission from rank one again?
-- **9213**: I knew you'd return safely, and with the $3. Mission completed!
-- **9214**: Have you ever set foot into King Ranperre's Tomb?
-- **9215**: Two hundred years ago, the curtain fell on the golden age of San d'Oria. Civil war erupted over the Kingdom's hegemony.
-- **9216**: King Ranperre was there to extinguish the conflict. When he died he was interred in a great tomb south of East Ronfaure.
-- **9217**: But unknown hands have defiled his grave of late.
-- **9218**: Visitors report missing gravestones and shadows twisting in the caverns. Ravaging a royal tomb is an unforgivable crime!
-- **9219**: Your orders are to investigate the tomb and determine if there is any truth to what they say. Do you understand?
-- **9220**: Accept the mission? [I accept./I do not accept.]
-- **9221**: I implore you to make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.
-- **9222**: But wander too deeply within, and Goblins might find you. Tread boldly, my friend, but do not go in over your head!
-- **9223**: Visitors report missing gravestones and shadows twisting in the caverns. Scour the tomb and determine if they speak the truth.
-- **9224**: Make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.
-- **9225**: Have you really searched the tomb?
-- **9226**: So, you got this from bats in King Ranperre's Tomb?
-- **9227**: You see, this actually belonged to an Orc. What could Orcs want with the tomb?
-- **9228**: At any rate, your mission is over. Speak not a word of this to another.
-- **9229**: Ah, the recruit's back again? I'm sorry, but I've no time for you today.
-- **9231**: Oh, who am I fooling? Of course I could use your help!
-- **9232**: Have you not heard? Orcs came and kidnapped some children! We think they're keeping them at their lair in Ghelsba.
-- **9233**: Why, not long ago came ill news from the cathedral. A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.
-- **9234**: The Royal Knights would march to his rescue, but Prince Trion is away in the north, and cannot give the order.
-- **9235**: Prince Pieuje is in earnest deliberations over whether to send Temple Knights instead. It seems his efforts are focused upon saving the children, but...
-- **9236**: But no matter. We need knowledge of the enemy. You must visit the cathedral and ask what this boy looks like.
-- **9237**: A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.
-- **9238**: The Temple Knights may be mobilized soon. You must visit the cathedral and ask what this boy looks like.
-- **9239**: Prince Trion just informed me of your handiwork. You've done beautifully.
-- **9240**: Due to your exemplary contribution, <Player>, San d'Oria hereby recognizes you as an adventurer of rank two.
-- **9241**: But do not let it go to your head. This certificate is valid only in San d'Oria.
-- **9242**: Work hard and better things will come, my friend. Someday your name will be known to our allies as well.
-- **9243**: Oh, and one more thing. The vicasque of the cathedral said he wants to thank you on behalf of the boy.
-- **9245**: At any rate, you completed the mission well enough. Time for a reward!
-- **9246**: I award you with rank points commensurate with your achievement.
-- **9247**: Prince Trion ordered scouts from the Royal Knights to Davoi, while Prince Pieuje ordered scouts from the Temple Knights. It's like the right hand knows not what the left is doing!
-- **9248**: Monarlais Halver is furious, but first he needs knowledge. You must find the scout from the Temple Knights, receive his scouting report, and return that report to the monarlais.
-- **9249**: What? You were told to hand the $3 to Prince Pieuje personally?
-- **9250**: Well, you should find His Highness in the cathedral.
-- **9251**: You've come just at the right time! Prince Trion wants a word with you. It seems he heard of you when you received your $3.
-- **9252**: Head to the chambers of Prince Trion inside Chateau d'Oraguille as soon as you're presentable!
-- **9253**: Prince Trion has called for you. Head to his chamber inside Chateau d'Oraguille as soon as you're presentable!
-- **9254**: I know not what Prince Trion wanted you to do, but see it through to the end! Understand?
-- **9255**: Hello there. Now's not the time for missions; Chateau d'Oraguille has been visited by bandits!
-- **9256**: You must make haste to Chateau d'Oraguille! Find Lady Curilla, general of the Temple Knights!
-- **9257**: Bandits infiltrating Chateau d'Oraguille is unprecedented in history! Make haste and see Lady Curilla, general of the Temple Knights!
+- **7230**: A recruit? What do you want with this gatehouse?
+- **7231**: Only citizens of San d'Oria may apply for missions here. Go see your country's consulate in Northern San d'Oria.
+- **7232**: Finish your current mission first, then come back for another.
+- **7233**: Which mission will you undertake? [Smash the Orcish Scouts./Bat Hunt./Save the Children./The Rescue Drill./The Davoi Report./Journey Abroad./Journey to Bastok./Journey to Windurst./Journey to Bastok./Journey to Windurst./Infiltrate Davoi./The Crystal Spring./Appointment to Jeuno./Magicite./The Ruins of Fei'Yin./The Shadow Lord./Leaute's Last Wishes./Ranperre's Final Rest./Prestige of the Papsque./The Secret Weapon./Coming of Age./Lightbringer./Breaking Barriers./The Heir to the Light./10-1./10-2./$3_$3~[26./$3_$3~[27./$3_$3~[28./$3_$3~[29./$3_$3~[30./None.]
+- **7234**: Accept this mission? [Yes./No.]
+- **7237**: Your business? [A mission, please./Nothing.]
+- **7238**: Hmm...not much work for those wet behind the ears, but...
+- **7239**: How about slaying Orcish scouts? Only the yellowest of yearlings would run from that, and we've no work for cowards here.
+- **7240**: If you're to take the mission, I'll be happy to explain.
+- **7241**: Interested? [Tell me more./Never mind.]
+- **7242**: Here's your mission. Orcish scouts roam outside; kill one and bring me his axe as proof.
+- **7243**: You'll have to bring me $0. No other kind will do. Understand?
+- **7244**: That is all. You'll take the mission then?
+- **7245**: Do you accept the mission? [I accept./Could you explain again?/No, thank you.]
+- **7246**: Bring me one of those axes, and your mission will be a success. No running away now; we've a proud country to defend!
+- **7247**: Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!
+- **7248**: That's another $0 for the armory, then. Mission complete! Not bad for a new recruit.
+- **7249**: What? I don't want this!
+- **7250**: Are you really a new recruit!?
+- **7251**: Listen, before you bring me something, you must first accept the mission! That is how things work around here!
+- **7253**: Bat patrol! How about it? Shouldn't be a problem for an adventurer such as yourself, no?
+- **7254**: Here's your mission, then. Clear out bats lurking in King Ranperre's Tomb and bring me a fang as proof.
+- **7255**: Bring me $0 and your mission will be a success.
+- **7256**: Deep in the tomb you'll find Goblins. Take care; I don't want to lose you yet.
+- **7257**: Ah, you've returned! I was afraid that Goblins got you.
+- **7258**: That's one $3 for the gatehouse, then. Mission complete. Not bad for a new recruit.
+- **7259**: Ah, the recruit's back again? I'm sorry, but I've no time for you today.
+- **7260**: Well, perhaps you can be of some help. Many of our children have disappeared mysteriously, and I've no doubt the Ghelsba Orcs are behind it.
+- **7261**: The Royal Knights should be on the job by now, but the two princes are at each other's throats.
+- **7262**: Prince Trion, the eldest, says we should launch a full attack, with all haste.
+- **7263**: While his younger brother, Prince Pieuje says the safety of the children comes first, and he won't authorize an attack.
+- **7264**: They've been arguing this back and forth for days. The knights' hands are tied, and frankly, nobody knows what to do.
+- **7265**: If you really want to make a name for yourself, go to Ghelsba, and rescue those kidnapped children!
+- **7266**: What say you? Will you go?
+- **7267**: Here's your mission, then. Rescue the two children kidnapped by the Orcs of Ghelsba Outpost.
+- **7268**: Ghelsba Outpost is northwest of West Ronfaure. Take the path before the Westgate, then turn right when the path splits in the forest. You'll find the entrance up in the hills.
+- **7269**: If you have trouble finding the way, just follow one of the soldiers on patrol.
+- **7270**: Orcs tend to keep their hostages in tents or small huts. Once you're inside the compound, check them first.
+- **7271**: Ah, you've returned! You were gone so long, I feared a warmachine had got you!
+- **7272**: At any rate, mission complete! And to reward your accomplishment...
+- **7273**: I hereby recognize you, <Player>, as a certified adventurer of San d'Oria! You're now mission rank two, as well.
+- **7274**: But don't get too excited. Your title is valid only here in San d'Oria, understand?
+- **7275**: In order to become a true adventurer, and bear $6, you must be recognized by Bastok and Windurst as well.
+- **7276**: 'Tis a treaty between the three lands, and its word is law. I know it's hard, but those are the rules.
+- **7277**: For now, cut your adventuring teeth in the areas near here. Sooner or later you'll find your way into other lands.
+- **7279**: There's not much work in right now. I suppose you could go participate in the Temple Knights' rescue drills out on the La Theine Plateau.
+- **7280**: Enter the forest beyond the Westgate and head southwest. You'll come out onto the La Theine Plateau before long.
+- **7281**: Once you're out on the plateau, keep going until you see the knights. The training grounds aren't far from there.
+- **7282**: It's all just a drill, so this should be easy compared to your usual fare. Just follow orders and you'll be fine.
+- **7283**: You've returned! I hear the drill turned into something far more perilous. But real battle is the best drill for recruits, in my opinion.
+- **7284**: Regardless, you've done well. I'll turn to you when there's work to be done, now.
+- **7286**: This time it's messenger duty. One of our knights is out scouting in a place called Davoi, on the southern edge of Jugner Forest.
+- **7287**: The Orcs' stronghold is in Davoi, so it's vital that we stop them from massing, or they may launch an assault.
+- **7288**: Of course, the Orcs are keeping an eye on us, too. Why, just a few days past, a squad of our Royal Knights fell to their axes.
+- **7290**: The scout's name is Zantaviat. He's somewhere in Davoi, but where I cannot say.
+- **7291**: Come back after you've gotten the report. Those lands are no place to wander.
+- **7292**: You have returned! And you've brought the scouting report. Good work, <Player>.
+- **7293**: Troubling news, this is. It says that Orcs are gathering deep inside the encampment. The time to act is coming!
+- **7294**: But that is not your concern. You've done well today. Mission complete!
+- **7295**: Oh, it's you, <Player>. And at just the right time, too. Monarlais Halver is looking for an adventurer such as yourself.
+- **7296**: Enter Chateau d'Oraguille. Monarlais Halver is there; he'll explain in person.
+- **7298**: Ah, welcome back. I see you've been certified in Bastok and Windurst. Good work. You'll make a fine adventurer.
+- **7299**: What's that, a report for our kingdom? I see. Take that to the monarlais when you go.
+- **7300**: You should receive $6 from Monarlais Halver. Now, go to Chateau d'Oraguille and let them know you're back!
+- **7303**: Ah! You've come at just the right time. Zantaviat, one of our scouts in Davoi, needs an adventurer.
+- **7304**: He wants someone to infiltrate Davoi and scout behind enemy lines. Know anyone fitting that description?
+- **7305**: Now that you've got your $3, this is an opportunity to prove you're worth it!
+- **7306**: The situation in Davoi worsens by the day. This won't be easy, but I can't think of a better adventurer for the job!
+- **7307**: You've returned! Zantaviat told me everything. Congratulations on a job well done!
+- **7308**: But we can't let down our guard yet. Those Orcs will not just sit there. We must keep constant vigil, and move before they do!
+- **7310**: Welcome back! I have an important mission for you this time. Recently, land is eroding due to crystal formation...and it's getting worse.
+- **7311**: There's a small spring on the eastern edge of Jugner Forest, called Crystwater Spring. We must know what effect crystal formation has on the wildlife there.
+- **7312**: I want you to get me a fish from the spring. And not just any fish! You need to get $0.
+- **7313**: Ah, that reminds me--have you any fishing gear? You'll need some for this mission.
+- **7314**: There are people about that know a thing or two about fishing, should you need help finding and choosing your gear.
+- **7315**: Ah, the great angler returns! I was worried, to be honest. All you hear these days is the massing of beasts, the erosion of the Crystal Lines, and now...
+- **7316**: ...rumors that the Shadow Lord himself has returned!
+- **7317**: We will examine the fish you brought. Depending on the results, we may need to act! I'll let you know if we need your help.
+- **7318**: Ah, it's you, <Player>. You've come at a good time. I've news for you.
+- **7319**: By order of the Kingdom of San d'Oria, you're to head to Jeuno as an ambassadorial attach<Player>i.
+- **7320**: Go to Chateau d'Oraguille. Monarlais Halver will tell you all you need to know.
+- **7329**: There you are! I've been looking for you. Monarlais Halver requests your presence at the chateau immediately.
+- **7330**: It sounds as if this is a fairly important mission. I need not remind you that you should take care to properly equip yourself before embarking on this journey.
+- **7331**: I'm not sure what it's about, but you'd best make haste. The monarlais is not to be kept waiting!
+- **7332**: Why, if it isn't <Player>! This is no time for loafing around, friend! Prince Trion is looking for you.
+- **7333**: For this next mission, he's requested you personally. You should be honored!
+- **7334**: As for the details of the mission, I've no idea what he wants, but he was in a hurry. You'd best be off to Chateau d'Oraguille!
+- **7335**: It is a great thing you've done, <Player>! I knew deep in my heart that you were the one for the task.
+- **7336**: You'd better get to the chateau quick. They're all waiting to welcome you back, I'd wager.
+- **7337**: You've saved our proud Kingdom of San d'Oria. No, you're the savior of all Vana'diel! There's not a soul that doesn't owe you a great debt, <Player>.
+- **7338**: Ah, if it isn't <Player>! You had best hurry off to Chateau d'Oraguille. It seems as if something terrible is in the works there.
+- **7339**: Well, if it isn't <Player>! Your timing is perfect. The chateau just sent a request for an adventurer.
+- **7340**: It looks as if this next mission has something to do with the late queen. You should feel honored. It's not every day that an adventurer gets to work directly with the royal family.
+- **7341**: Spoken like a true San d'Orian! Now hurry off to Chateau d'Oraguille and get the details on the mission from Monarlais Halver.
+- **7342**: What's wrong? Dealing with royalty is not your cup of tea? Well, think about it and come back when you've come to your senses.
+- **7343**: Prince Trion is requesting the aid of an adventurer. How about it?
+- **7344**: It looks fairly urgent, so you should hurry to the chateau. The prince is waiting in his chambers.
+- **7345**: I expected more from you, <Player>. If you change your mind, return here. I'll be waiting.
+- **7346**: I have received the details of your mission from Prince Trion. I will deliver this book to the scholars for deciphering.
+- **7347**: The deciphering of the $3 will take a considerable amount of time. Return later for a report.
+- **7349**: Ah, <Player>. We've been waiting. Prince Trion is calling for you. I wonder if this means the $3 has been completely deciphered.
+- **7350**: Well done, <Player>! I knew you would not let the Kingdom down.
+- **7351**: I'm proud to increase your rank to 7!
+- **7352**: The papsque has work for you, <Player>. Are you willing to take on the task?
+- **7353**: Excellent. Proceed to the papsque's chambers on the third floor of the cathedral.
+- **7354**: The papsque often comes across as a difficult man, but he is actually very kindhearted and compassionate. If you change your mind, I'll be waiting here.
+- **7355**: The fair Claidie I d'Oraguille has invited you to the chateau. She wishes for you to see the flowers that have bloomed from the seeds you brought back from Altepa.
+- **7356**: It is an honor to be invited to the chateau garden. One day you may even have the opportunity to attend one of their royal garden parties.
+- **7357**: We cannot keep the princess waiting. Now, off to the chateau!
+- **7358**: A party of Royal Knights stationed in Ghelsba Outpost have reported strange activity by Orcs deep within Yughott Grotto.
+- **7359**: From your reports, we already know that the beastmen have built a giant portal, but their motives remain unclear.
+- **7360**: It makes me shudder to think of what those Orcs are planning with that portal...
+- **7361**: <Player>, your next mission is to travel to Ghelsba and continue your investigation into the Orcs' activities.
+- **7362**: Be on your guard when traveling deep into Yughott Grotto. Losing an adventurer such as yourself would deal a great blow to all of San d'Oria.
+- **7363**: I see you need more time for preparations. When you are ready, I'll be waiting.
+- **7364**: It's hard to believe Orcs have their hands on such dangerous equipment. More patrols will have to be sent out to prevent any new developments in their evil plans.
+- **7365**: And this $3... We will have to analyze it and begin reproduction for our forces. We cannot let Orcs get the Treasure of the Dragon King before San d'Oria does.
+- **7366**: Well, congratulations on the completion of your mission. Hmmm? Do I know of an adventurer named Eideialc? Never heard of him.
+- **7367**: But you need not worry about some petty traveler. You are in a different league. You are now rank 8!
+- **7368**: Princess Claidie's coming-of-age ceremony is drawing near. This ceremony is an important facet of d'Oraguille tradition.
+- **7369**: Monarlais Halver has put out a call to high-ranking adventurers for their assistance in Chateau d'Oraguille.
+- **7370**: Ah, the young princess has finally become a lady... Oh, I'm sorry. You can get the details of your next mission from Sir Halver.
+- **7371**: What? You do not wish to repay the kindness the princess has shown to you in the past months? As you wish...but if you change your mind, you know where to find me.
+- **7373**: Princess Claidie's coming-of-age ceremony is about to begin at the cathedral. I must remain at my post, but why don't you attend?
+- **7374**: The king has requested your audience. He has selected you from the mountain of adventurers in San d'Oria. You should feel honored!
+- **7375**: You have matured from a fledgling adventurer into a great asset to our kingdom. Do not let us down.
+- **7376**: There is no need for modesty at a time like this. The fate of San d'Oria is at stake!
+- **7377**: The authorities are saying that a dark cloud of despair is looming over the Kingdom. They are asking for the assistance of only the best adventurers.
+- **7379**: Then proceed to the Audience Chamber in the Chateau d'Oraguille. Word has it that His Highness is not feeling that well. He may not be present for your briefing.
+- **7380**: [Sir/Lady] <Player>! The Kingdom is counting on you. Who else, I ask you, is worthy for this task?
+- **7381**: Ah, a time of great change is upon us. In a matter of days, the Rites of Succession will be held at the cathedral in Northern San d'Oria. It is then that the new heir to the throne will be decided.
+- **7382**: Due to the unpredictable circumstances that took place at the princess's coming-of-age ceremony, this time, only authorized personnel will be allowed near the proceedings. However, the royal family has requested your services as a guard.
+- **7383**: Even we Royal Knights have not been granted permission to attend... You must be held in high regard by His Highness. I envy you, [Sir/Ma'am].
+- **7384**: When you have finished your preparations, proceed directly to the cathedral to report.
+- **7385**: Off the record, which of the two princes do you think should be the next heir to the throne?
+- **7386**: It is a difficult decision, but... [Trion is better suited./Pieuje is better suited.]
+- **7387**: Hm... Being the oldest, he is the true heir, and many people believe he is the most suited to rule the Kingdom. However, Prince Pieuje's prudent ways may be what this country is lacking.
+- **7388**: Many think as you do, [Sir/Lady] <Player>. However, what this country may need is someone who will not back down in the face of a threat--someone who will stand up for the pride of the Kingdom.
+- **7389**: But our opinion is of no matter. Lightbringer will decide who is the most suited to stand over our fine nation. And do not speak a word of today's exchange, for the monarlais will have our heads if he finds out.
+- **7390**: I realize that you must have many preparations before taking on such an important mission. Take your time and return here when you are ready.
+- **8443**: You're one of my favorite recruits, and always have given you new missions. But I must look after many more adventurers than just yourself.
+- **8444**: Henceforth, I must judge your worthiness for your next mission based on your rank points.
+- **8445**: In order to earn rank points, participate in our conquests, and thereby get crystals to give to the Temple Knight.
+- **8446**: If you want to know more about conquests, ask the Temple Knight who stands before any gate.
+- **8454**: Accept mission? [Accept./No, thanks.]
+- **9195**: Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!
+- **9196**: For one so new, I'd be... Hmm?
+- **9199**: Who are you, and why do you pry with such inquiries?
+- **9201**: You've what!?
+- **9202**: Very well. Listen closely. Fifteen years ago, Queen Leaute fell to a rare sickness. She left this world before we could save her.
+- **9204**: Well, it's none of your concern at any rate. Even if she lived, an adventurer like you could never see her, much less the inside of Chateau d'Oraguille.
+- **9207**: We are not told such things. Only the royal family would know.
+- **9209**: Hey, wait!
+- **9210**: What was the matter with that adventurer? He was awfully stubborn, wasn't he?
+- **9211**: He seemed to know the late queen personally, but how could he not be aware of her death?
+- **9212**: At any rate, your work is done. Excellent form, my friend!
+- **9213**: What, you want the mission from rank one again?
+- **9214**: I knew you'd return safely, and with the $3. Mission completed!
+- **9215**: Have you ever set foot into King Ranperre's Tomb?
+- **9216**: Two hundred years ago, the curtain fell on the golden age of San d'Oria. Civil war erupted over the Kingdom's hegemony.
+- **9217**: King Ranperre was there to extinguish the conflict. When he died he was interred in a great tomb south of East Ronfaure.
+- **9218**: But unknown hands have defiled his grave of late.
+- **9219**: Visitors report missing gravestones and shadows twisting in the caverns. Ravaging a royal tomb is an unforgivable crime!
+- **9220**: Your orders are to investigate the tomb and determine if there is any truth to what they say. Do you understand?
+- **9221**: Accept the mission? [I accept./I do not accept.]
+- **9222**: I implore you to make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.
+- **9223**: But wander too deeply within, and Goblins might find you. Tread boldly, my friend, but do not go in over your head!
+- **9224**: Visitors report missing gravestones and shadows twisting in the caverns. Scour the tomb and determine if they speak the truth.
+- **9225**: Make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.
+- **9226**: Have you really searched the tomb?
+- **9227**: So, you got this from bats in King Ranperre's Tomb?
+- **9228**: You see, this actually belonged to an Orc. What could Orcs want with the tomb?
+- **9229**: At any rate, your mission is over. Speak not a word of this to another.
+- **9230**: Ah, the recruit's back again? I'm sorry, but I've no time for you today.
+- **9232**: Oh, who am I fooling? Of course I could use your help!
+- **9233**: Have you not heard? Orcs came and kidnapped some children! We think they're keeping them at their lair in Ghelsba.
+- **9234**: Why, not long ago came ill news from the cathedral. A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.
+- **9235**: The Royal Knights would march to his rescue, but Prince Trion is away in the north, and cannot give the order.
+- **9236**: Prince Pieuje is in earnest deliberations over whether to send Temple Knights instead. It seems his efforts are focused upon saving the children, but...
+- **9237**: But no matter. We need knowledge of the enemy. You must visit the cathedral and ask what this boy looks like.
+- **9238**: A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.
+- **9239**: The Temple Knights may be mobilized soon. You must visit the cathedral and ask what this boy looks like.
+- **9240**: Prince Trion just informed me of your handiwork. You've done beautifully.
+- **9241**: Due to your exemplary contribution, <Player>, San d'Oria hereby recognizes you as an adventurer of rank two.
+- **9242**: But do not let it go to your head. This certificate is valid only in San d'Oria.
+- **9243**: Work hard and better things will come, my friend. Someday your name will be known to our allies as well.
+- **9244**: Oh, and one more thing. The vicasque of the cathedral said he wants to thank you on behalf of the boy.
+- **9246**: At any rate, you completed the mission well enough. Time for a reward!
+- **9247**: I award you with rank points commensurate with your achievement.
+- **9248**: Prince Trion ordered scouts from the Royal Knights to Davoi, while Prince Pieuje ordered scouts from the Temple Knights. It's like the right hand knows not what the left is doing!
+- **9249**: Monarlais Halver is furious, but first he needs knowledge. You must find the scout from the Temple Knights, receive his scouting report, and return that report to the monarlais.
+- **9250**: What? You were told to hand the $3 to Prince Pieuje personally?
+- **9251**: Well, you should find His Highness in the cathedral.
+- **9252**: You've come just at the right time! Prince Trion wants a word with you. It seems he heard of you when you received your $3.
+- **9253**: Head to the chambers of Prince Trion inside Chateau d'Oraguille as soon as you're presentable!
+- **9254**: Prince Trion has called for you. Head to his chamber inside Chateau d'Oraguille as soon as you're presentable!
+- **9255**: I know not what Prince Trion wanted you to do, but see it through to the end! Understand?
+- **9256**: Hello there. Now's not the time for missions; Chateau d'Oraguille has been visited by bandits!
+- **9257**: You must make haste to Chateau d'Oraguille! Find Lady Curilla, general of the Temple Knights!
+- **9258**: Bandits infiltrating Chateau d'Oraguille is unprecedented in history! Make haste and see Lady Curilla, general of the Temple Knights!
 
 ## Events
 
@@ -702,7 +702,7 @@
   1: 0x004F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0050 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0051 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
+  4: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
     → "Only citizens of San d'Oria may apply for missions here. Go see your country's consulate in Northern San d'Oria."
   5: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0064 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -776,17 +776,17 @@
   7: 0x0096 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x00A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x00B8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s042" with entities [EventEntity, EventEntity], work=90*
- 10: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
+ 10: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
     → "A recruit? What do you want with this gatehouse?"
  11: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00CB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 13: 0x00D0 [0x24] CREATE_DIALOG(message_id=7236*, default_option=0*, option_flags=0*)
+ 13: 0x00D0 [0x24] CREATE_DIALOG(message_id=7237*, default_option=0*, option_flags=0*)
     → "Your business? [A mission, please./Nothing.]"
  14: 0x00D7 [0x25] WAIT_DIALOG_SELECT()
  15: 0x00D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0272
  16: 0x00E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
  17: 0x00F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 18: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
+ 18: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
     → "Hmm...not much work for those wet behind the ears, but..."
  19: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0104 [0x1C] WAIT(60* ticks)
@@ -795,26 +795,26 @@
  23: 0x0123 [0x1C] WAIT(30* ticks)
  24: 0x0126 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  25: 0x0135 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
- 26: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
+ 26: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
     → "How about slaying Orcish scouts? Only the yellowest of yearlings would run from that, and we've no work for cowards here."
  27: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x014A [0x1C] WAIT(30* ticks)
- 29: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+ 29: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "If you're to take the mission, I'll be happy to explain."
  30: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0151 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 32: 0x0156 [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+ 32: 0x0156 [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
  33: 0x015D [0x25] WAIT_DIALOG_SELECT()
  34: 0x015E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x025F
  35: 0x0166 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  36: 0x0175 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
- 37: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
+ 37: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "Here's your mission. Orcish scouts roam outside; kill one and bring me his axe as proof."
  38: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x018A [0x1C] WAIT(30* ticks)
  40: 0x018D [0x03] Work_Zone[2] = 16656*
- 41: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
+ 41: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
     → "You'll have to bring me $0. No other kind will do. Understand?"
  42: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0196 [0x1C] WAIT(30* ticks)
@@ -828,17 +828,17 @@
  51: 0x01E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
 
 SUBROUTINE_01F1:
- 52: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+ 52: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
  53: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x01F5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 55: 0x01FA [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+ 55: 0x01FA [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
  56: 0x0201 [0x25] WAIT_DIALOG_SELECT()
  57: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023E
  58: 0x020A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  59: 0x0219 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
- 60: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
+ 60: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
     → "Bring me one of those axes, and your mission will be a success. No running away now; we've a proud country to defend!"
  61: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x022E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -920,20 +920,20 @@ SUBROUTINE_0282:
   8: 0x02EE [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0316
   9: 0x02F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  10: 0x0305 [0x03] Work_Zone[2] = 16656*
- 11: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
+ 11: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
     → "I knew you'd return safely, and with the $3. Mission completed!"
  12: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x030E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  14: 0x0313 [0x01] GOTO 0x034B
  15: 0x0316 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 16: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+ 16: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!"
  17: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0329 [0x1C] WAIT(30* ticks)
  19: 0x032C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
  20: 0x033D [0x03] Work_Zone[2] = 16656*
  21: 0x0342 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 22: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+ 22: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "That's another $0 for the armory, then. Mission complete! Not bad for a new recruit."
  23: 0x034A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -990,7 +990,7 @@ SUBROUTINE_034B:
   8: 0x03B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
   9: 0x03C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  10: 0x03D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+ 11: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "What? I don't want this!"
  12: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x03E6 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1050,7 +1050,7 @@ SUBROUTINE_034B:
   8: 0x0470 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
   9: 0x0481 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  10: 0x0492 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 11: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 11: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Are you really a new recruit!?"
  12: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x04A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -1058,7 +1058,7 @@ SUBROUTINE_034B:
  15: 0x04C1 [0x1C] WAIT(30* ticks)
  16: 0x04C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
  17: 0x04D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 18: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 18: 0x04E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "Listen, before you bring me something, you must first accept the mission! That is how things work around here!"
  19: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x04E8 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1140,7 +1140,7 @@ SUBROUTINE_034B:
   6: 0x0539 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x39)
   7: 0x0540 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
   8: 0x0551 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-  9: 0x0562 [0x24] CREATE_DIALOG(message_id=7232*, default_option=31*, option_flags=Work_Zone[2])
+  9: 0x0562 [0x24] CREATE_DIALOG(message_id=7233*, default_option=31*, option_flags=Work_Zone[2])
     → "Which mission will you undertake? [Smash the Orcish Scouts./Bat Hunt./Save the Children./The Rescue Drill./The Davoi Report./Journey Abroad./Journey to Bastok./Journey to Windurst./Journey to Bastok./Journey to Windurst./Infiltrate Davoi./The Crystal Spring./Appointment to Jeuno./Magicite./The Ruins of Fei'Yin./The Shadow Lord./Leaute's Last Wishes./Ranperre's Final Rest./Prestige of the Papsque./The Secret Weapon./Coming of Age./Lightbringer./Breaking Barriers./The Heir to the Light./10-1./10-2./$3_$3~[26./$3_$3~[27./$3_$3~[28./$3_$3~[29./$3_$3~[30./None.]"
  10: 0x0569 [0x25] WAIT_DIALOG_SELECT()
  11: 0x056A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0578
@@ -1149,7 +1149,7 @@ SUBROUTINE_034B:
 SUBROUTINE_075B:
  13: 0x075B [0x03] Work_Zone[1] = Work_Zone[0]
  14: 0x0760 [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x0780
- 15: 0x0768 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+ 15: 0x0768 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
  16: 0x076F [0x25] WAIT_DIALOG_SELECT()
  17: 0x0770 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0780
@@ -1245,7 +1245,7 @@ SUBROUTINE_0780:
   1: 0x07AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x07AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x07B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x07BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
+  4: 0x07BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
     → "Finish your current mission first, then come back for another."
   5: 0x07C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x07C3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1260,7 +1260,7 @@ SUBROUTINE_0780:
 # Dead code (unreachable instructions):
      0x07CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x07DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
-     0x07EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
+     0x07EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
     → "What, you want the mission from rank one again?"
      0x07F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07F3 [0x01] GOTO 0x0166
@@ -1269,21 +1269,21 @@ SUBROUTINE_0780:
      0x0808 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x0819 [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x18)
      0x0820 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x082F [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+     0x082F [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "Bat patrol! How about it? Shouldn't be a problem for an adventurer such as yourself, no?"
      0x0832 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0833 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x0838 [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+     0x0838 [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
      0x083F [0x25] WAIT_DIALOG_SELECT()
      0x0840 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x093B
      0x0848 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x0859 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x0868 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+     0x0868 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Here's your mission, then. Clear out bats lurking in King Ranperre's Tomb and bring me a fang as proof."
      0x086B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x086C [0x03] Work_Zone[2] = 891*
-     0x0871 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+     0x0871 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Bring me $0 and your mission will be a success."
      0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0875 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=90*
@@ -1294,17 +1294,17 @@ SUBROUTINE_0780:
      0x08A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x08B9 [0x01] GOTO 0x08CD
      0x08BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
-     0x08CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x08CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x08D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08D1 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x08D6 [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+     0x08D6 [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
      0x08DD [0x25] WAIT_DIALOG_SELECT()
      0x08DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x091A
      0x08E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x08F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x0906 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+     0x0906 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "Deep in the tomb you'll find Goblins. Take care; I don't want to lose you yet."
      0x0909 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x090A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1418,17 +1418,17 @@ SUBROUTINE_0780:
   9: 0x09C6 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x09E9
  10: 0x09CE [0x03] Work_Zone[5] = 891*
  11: 0x09D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 12: 0x09E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
+ 12: 0x09E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
     → "I knew you'd return safely, and with the $3. Mission completed!"
  13: 0x09E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x09E6 [0x01] GOTO 0x0A16
  15: 0x09E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 16: 0x09F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+ 16: 0x09F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "Ah, you've returned! I was afraid that Goblins got you."
  17: 0x09FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x09FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
  19: 0x0A0D [0x03] Work_Zone[5] = 891*
- 20: 0x0A12 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+ 20: 0x0A12 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "That's one $3 for the gatehouse, then. Mission complete. Not bad for a new recruit."
  21: 0x0A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1451,28 +1451,28 @@ SUBROUTINE_0A16:
      0x0A57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x0A68 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x0A79 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x0A88 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+     0x0A88 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → "Ah, the recruit's back again? I'm sorry, but I've no time for you today."
      0x0A8B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A8C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x0A91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
+     0x0A91 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
     → "Well, perhaps you can be of some help. Many of our children have disappeared mysteriously, and I've no doubt the Ghelsba Orcs are behind it."
      0x0A94 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A95 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
      0x0AA4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x0AB5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-     0x0AC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7260*)
+     0x0AC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
     → "The Royal Knights should be on the job by now, but the two princes are at each other's throats."
      0x0AC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0AC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7261*)
+     0x0AC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
     → "Prince Trion, the eldest, says we should launch a full attack, with all haste."
      0x0ACB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0ACC [0x1D] PRINT_EVENT_MESSAGE(message_id=7262*)
+     0x0ACC [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
     → "While his younger brother, Prince Pieuje says the safety of the children comes first, and he won't authorize an attack."
      0x0ACF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AD0 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=90*
      0x0ADF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
-     0x0AF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7263*)
+     0x0AF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
     → "They've been arguing this back and forth for days. The knights' hands are tied, and frankly, nobody knows what to do."
      0x0AF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AF4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -1482,27 +1482,27 @@ SUBROUTINE_0A16:
      0x0B22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x0B33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x0B44 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=20*
-     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "If you really want to make a name for yourself, go to Ghelsba, and rescue those kidnapped children!"
      0x0B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B57 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi2" with entities [EventEntity, EventEntity], work=20*
      0x0B66 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi2" with entities [EventEntity, EventEntity]
      0x0B73 [0x1C] WAIT(30* ticks)
      0x0B76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x0B85 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+     0x0B85 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "What say you? Will you go?"
      0x0B88 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B89 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x0B8E [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+     0x0B8E [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
      0x0B95 [0x25] WAIT_DIALOG_SELECT()
      0x0B96 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CA1
      0x0B9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x0BAF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x0BBE [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
+     0x0BBE [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "Here's your mission, then. Rescue the two children kidnapped by the Orcs of Ghelsba Outpost."
      0x0BC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0BC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
+     0x0BC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
     → "Ghelsba Outpost is northwest of West Ronfaure. Take the path before the Westgate, then turn right when the path splits in the forest. You'll find the entrance up in the hills."
      0x0BC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BC6 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=90*
@@ -1514,20 +1514,20 @@ SUBROUTINE_0A16:
      0x0C0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x0C1B [0x01] GOTO 0x0C2F
      0x0C1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
-     0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
+     0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
     → "If you have trouble finding the way, just follow one of the soldiers on patrol."
      0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x0C33 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x0C36 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C37 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x0C3C [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+     0x0C3C [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
      0x0C43 [0x25] WAIT_DIALOG_SELECT()
      0x0C44 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C80
      0x0C4C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x0C5D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x0C6C [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
+     0x0C6C [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
     → "Orcs tend to keep their hostages in tents or small huts. Once you're inside the compound, check them first."
      0x0C6F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C70 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1615,11 +1615,11 @@ SUBROUTINE_0A16:
   7: 0x0D19 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x0D2A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x0D3B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x0D4A [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+ 10: 0x0D4A [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Ah, you've returned! You were gone so long, I feared a warmachine had got you!"
  11: 0x0D4D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0D4E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 13: 0x0D53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
+ 13: 0x0D53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
     → "At any rate, mission complete! And to reward your accomplishment..."
  14: 0x0D56 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0D57 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=90*
@@ -1633,7 +1633,7 @@ SUBROUTINE_0A16:
  23: 0x0DAF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
 
 SUBROUTINE_0DC0:
- 24: 0x0DC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
+ 24: 0x0DC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
     → "I hereby recognize you, <Player>, as a certified adventurer of San d'Oria! You're now mission rank two, as well."
  25: 0x0DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0DC4 [0x7D] LOAD_START_SCHEDULER_PLAYER: Load scheduler with animation_id 32860
@@ -1641,19 +1641,19 @@ SUBROUTINE_0DC0:
  28: 0x0DD8 [0x1C] WAIT(200* ticks)
  29: 0x0DDB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[90*, 0*]
  30: 0x0DEC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 31: 0x0DFB [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
+ 31: 0x0DFB [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
     → "But don't get too excited. Your title is valid only here in San d'Oria, understand?"
  32: 0x0DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0DFF [0x03] Work_Zone[2] = 35*
- 34: 0x0E04 [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+ 34: 0x0E04 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
     → "In order to become a true adventurer, and bear $6, you must be recognized by Bastok and Windurst as well."
  35: 0x0E07 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0E08 [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [EventEntity, EventEntity], work=90*
  37: 0x0E17 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
- 38: 0x0E28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+ 38: 0x0E28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
     → "'Tis a treaty between the three lands, and its word is law. I know it's hard, but those are the rules."
  39: 0x0E2B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0E2C [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
+ 40: 0x0E2C [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "For now, cut your adventuring teeth in the areas near here. Sooner or later you'll find your way into other lands."
  41: 0x0E2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0E30 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
@@ -1661,19 +1661,19 @@ SUBROUTINE_0DC0:
  44: 0x0E44 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [EventEntity, EventEntity], work=[90*, 0*]
  45: 0x0E55 [0x1C] WAIT(30* ticks)
  46: 0x0E58 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 47: 0x0E67 [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
+ 47: 0x0E67 [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
     → "You're one of my favorite recruits, and always have given you new missions. But I must look after many more adventurers than just yourself."
  48: 0x0E6A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x0E6B [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
+ 49: 0x0E6B [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
     → "Henceforth, I must judge your worthiness for your next mission based on your rank points."
  50: 0x0E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0E6F [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=90*
  52: 0x0E7E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  53: 0x0E8F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
- 54: 0x0EA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
+ 54: 0x0EA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8445*)
     → "In order to earn rank points, participate in our conquests, and thereby get crystals to give to the Temple Knight."
  55: 0x0EA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8445*)
+ 56: 0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8446*)
     → "If you want to know more about conquests, ask the Temple Knight who stands before any gate."
  57: 0x0EA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0EA8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1753,14 +1753,14 @@ SUBROUTINE_0DC0:
   7: 0x0F0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x0F1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x0F2F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
+ 10: 0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
     → "Ah, you've returned! You were gone so long, I feared a warmachine had got you!"
  11: 0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0F42 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  13: 0x0F47 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=90*
  14: 0x0F56 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x0F67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
- 16: 0x0F78 [0x1D] PRINT_EVENT_MESSAGE(message_id=9245*)
+ 16: 0x0F78 [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
     → "At any rate, you completed the mission well enough. Time for a reward!"
  17: 0x0F7B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0F7C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1783,20 +1783,20 @@ SUBROUTINE_0DC0:
      0x0FDD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x0FEE [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x18)
      0x0FF5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1004 [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+     0x1004 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
     → "There's not much work in right now. I suppose you could go participate in the Temple Knights' rescue drills out on the La Theine Plateau."
      0x1007 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1008 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x100D [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+     0x100D [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
      0x1014 [0x25] WAIT_DIALOG_SELECT()
      0x1015 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x110B
      0x101D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x102E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x103D [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+     0x103D [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → "Enter the forest beyond the Westgate and head southwest. You'll come out onto the La Theine Plateau before long."
      0x1040 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
+     0x1041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
     → "Once you're out on the plateau, keep going until you see the knights. The training grounds aren't far from there."
      0x1044 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1045 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=90*
@@ -1807,17 +1807,17 @@ SUBROUTINE_0DC0:
      0x1078 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1089 [0x01] GOTO 0x109D
      0x108C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
-     0x109D [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x109D [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x10A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10A1 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x10A6 [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+     0x10A6 [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
      0x10AD [0x25] WAIT_DIALOG_SELECT()
      0x10AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10EA
      0x10B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x10C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x10D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
+     0x10D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
     → "It's all just a drill, so this should be easy compared to your usual fare. Just follow orders and you'll be fine."
      0x10D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10DA [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1908,10 +1908,10 @@ SUBROUTINE_0DC0:
   7: 0x116C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x117D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x118E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x119D [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+ 10: 0x119D [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "You've returned! I hear the drill turned into something far more perilous. But real battle is the best drill for recruits, in my opinion."
  11: 0x11A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x11A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
+ 12: 0x11A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → "Regardless, you've done well. I'll turn to you when there's work to be done, now."
  13: 0x11A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x11A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1933,24 +1933,24 @@ SUBROUTINE_0DC0:
      0x11F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1207 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1218 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1227 [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
+     0x1227 [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
     → "This time it's messenger duty. One of our knights is out scouting in a place called Davoi, on the southern edge of Jugner Forest."
      0x122A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x122B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x1230 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
-     0x123F [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+     0x123F [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
      0x1246 [0x25] WAIT_DIALOG_SELECT()
      0x1247 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1358
      0x124F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1260 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x126F [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
+     0x126F [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
     → "The Orcs' stronghold is in Davoi, so it's vital that we stop them from massing, or they may launch an assault."
      0x1272 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
+     0x1273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
     → "Of course, the Orcs are keeping an eye on us, too. Why, just a few days past, a squad of our Royal Knights fell to their axes."
      0x1276 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1277 [0x1D] PRINT_EVENT_MESSAGE(message_id=9247*)
+     0x1277 [0x1D] PRINT_EVENT_MESSAGE(message_id=9248*)
     → "Prince Trion ordered scouts from the Royal Knights to Davoi, while Prince Pieuje ordered scouts from the Temple Knights. It's like the right hand knows not what the left is doing!"
      0x127A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x127B [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=90*
@@ -1961,23 +1961,23 @@ SUBROUTINE_0DC0:
      0x12AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x12BF [0x01] GOTO 0x12D3
      0x12C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
-     0x12D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9248*)
+     0x12D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9249*)
     → "Monarlais Halver is furious, but first he needs knowledge. You must find the scout from the Temple Knights, receive his scouting report, and return that report to the monarlais."
      0x12D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x12DA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12DB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x12E0 [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+     0x12E0 [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
      0x12E7 [0x25] WAIT_DIALOG_SELECT()
      0x12E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1337
      0x12F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x1301 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1310 [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
+     0x1310 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "The scout's name is Zantaviat. He's somewhere in Davoi, but where I cannot say."
      0x1313 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1314 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
+     0x1314 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
     → "Come back after you've gotten the report. Those lands are no place to wander."
      0x1317 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1318 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2063,15 +2063,15 @@ SUBROUTINE_0DC0:
   7: 0x13B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x13CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x13DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x13EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
+ 10: 0x13EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
     → "You have returned! And you've brought the scouting report. Good work, <Player>."
  11: 0x13ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x13EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
+ 12: 0x13EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
     → "Troubling news, this is. It says that Orcs are gathering deep inside the encampment. The time to act is coming!"
  13: 0x13F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x13F2 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=90*
  15: 0x1401 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
- 16: 0x1412 [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
+ 16: 0x1412 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
     → "But that is not your concern. You've done well today. Mission complete!"
  17: 0x1415 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1416 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2092,15 +2092,15 @@ SUBROUTINE_0DC0:
      0x1464 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1475 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1486 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1495 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
+     0x1495 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
     → "Oh, it's you, <Player>. And at just the right time, too. Monarlais Halver is looking for an adventurer such as yourself."
      0x1498 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1499 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x1499 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x149C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x149D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x14A2 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
-     0x14B1 [0x24] CREATE_DIALOG(message_id=8453*, default_option=0*, option_flags=0*)
+     0x14B1 [0x24] CREATE_DIALOG(message_id=8454*, default_option=0*, option_flags=0*)
     → "Accept mission? [Accept./No, thanks.]"
      0x14B8 [0x25] WAIT_DIALOG_SELECT()
      0x14B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x152D
@@ -2112,7 +2112,7 @@ SUBROUTINE_0DC0:
      0x14F6 [0x01] GOTO 0x150A
      0x14F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x150A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1519 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
+     0x1519 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "Enter Chateau d'Oraguille. Monarlais Halver is there; he'll explain in person."
      0x151C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x151D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2202,7 +2202,7 @@ SUBROUTINE_0DC0:
   7: 0x158E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x159F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x15B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x15BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
+ 10: 0x15BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "Ah, welcome back. I see you've been certified in Bastok and Windurst. Good work. You'll make a fine adventurer."
  11: 0x15C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x15C3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2211,14 +2211,14 @@ SUBROUTINE_0DC0:
  15: 0x15DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x15EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
  17: 0x15FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 18: 0x160B [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
+ 18: 0x160B [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
     → "What's that, a report for our kingdom? I see. Take that to the monarlais when you go."
  19: 0x160E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x160F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  21: 0x161E [0x1C] WAIT(30* ticks)
  22: 0x1621 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  23: 0x1630 [0x03] Work_Zone[2] = 35*
- 24: 0x1635 [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+ 24: 0x1635 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
     → "You should receive $6 from Monarlais Halver. Now, go to Chateau d'Oraguille and let them know you're back!"
  25: 0x1638 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x1639 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2239,22 +2239,22 @@ SUBROUTINE_0DC0:
      0x1679 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x168A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x169B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x16AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
+     0x16AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
     → "Ah! You've come at just the right time. Zantaviat, one of our scouts in Davoi, needs an adventurer."
      0x16AD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16AE [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x16B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
-     0x16C2 [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+     0x16C2 [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
      0x16C9 [0x25] WAIT_DIALOG_SELECT()
      0x16CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17D6
      0x16D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x16E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x16F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
+     0x16F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
     → "He wants someone to infiltrate Davoi and scout behind enemy lines. Know anyone fitting that description?"
      0x16F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16F6 [0x03] Work_Zone[2] = 35*
-     0x16FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
+     0x16FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
     → "Now that you've got your $3, this is an opportunity to prove you're worth it!"
      0x16FE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16FF [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=90*
@@ -2266,17 +2266,17 @@ SUBROUTINE_0DC0:
      0x1743 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1754 [0x01] GOTO 0x1768
      0x1757 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
-     0x1768 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x1768 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x176B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x176C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x1771 [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+     0x1771 [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
      0x1778 [0x25] WAIT_DIALOG_SELECT()
      0x1779 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17B5
      0x1781 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x1792 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x17A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
+     0x17A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
     → "The situation in Davoi worsens by the day. This won't be easy, but I can't think of a better adventurer for the job!"
      0x17A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17A5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2367,10 +2367,10 @@ SUBROUTINE_0DC0:
   7: 0x183F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x1850 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x1861 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x1870 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+ 10: 0x1870 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
     → "You've returned! Zantaviat told me everything. Congratulations on a job well done!"
  11: 0x1873 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x1874 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+ 12: 0x1874 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "But we can't let down our guard yet. Those Orcs will not just sit there. We must keep constant vigil, and move before they do!"
  13: 0x1877 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2391,30 +2391,30 @@ SUBROUTINE_0DC0:
      0x18C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x18D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x18E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x18F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+     0x18F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → "Welcome back! I have an important mission for you this time. Recently, land is eroding due to crystal formation...and it's getting worse."
      0x18FA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18FB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x1900 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
-     0x190F [0x24] CREATE_DIALOG(message_id=7240*, default_option=0*, option_flags=0*)
+     0x190F [0x24] CREATE_DIALOG(message_id=7241*, default_option=0*, option_flags=0*)
     → "Interested? [Tell me more./Never mind.]"
      0x1916 [0x25] WAIT_DIALOG_SELECT()
      0x1917 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A14
      0x191F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1930 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x193F [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+     0x193F [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "There's a small spring on the eastern edge of Jugner Forest, called Crystwater Spring. We must know what effect crystal formation has on the wildlife there."
      0x1942 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1943 [0x03] Work_Zone[2] = 4528*
-     0x1948 [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+     0x1948 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "I want you to get me a fish from the spring. And not just any fish! You need to get $0."
      0x194B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x194C [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x194C [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x194F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1950 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x1955 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=90*
-     0x1964 [0x24] CREATE_DIALOG(message_id=7244*, default_option=0*, option_flags=0*)
+     0x1964 [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
     → "Do you accept the mission? [I accept./Could you explain again?/No, thank you.]"
      0x196B [0x25] WAIT_DIALOG_SELECT()
      0x196C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19F3
@@ -2426,10 +2426,10 @@ SUBROUTINE_0DC0:
      0x19A9 [0x01] GOTO 0x19BD
      0x19AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x19BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x19CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+     0x19CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "Ah, that reminds me--have you any fishing gear? You'll need some for this mission."
      0x19CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+     0x19D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "There are people about that know a thing or two about fishing, should you need help finding and choosing your gear."
      0x19D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19D4 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2538,10 +2538,10 @@ SUBROUTINE_0DC0:
   8: 0x1A77 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
   9: 0x1A88 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  10: 0x1A99 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x1AA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+ 11: 0x1AA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "Ah, the great angler returns! I was worried, to be honest. All you hear these days is the massing of beasts, the erosion of the Crystal Lines, and now..."
  12: 0x1AAB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x1AAC [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+ 13: 0x1AAC [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
     → "...rumors that the Shadow Lord himself has returned!"
  14: 0x1AAF [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1AB0 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=90*
@@ -2555,7 +2555,7 @@ SUBROUTINE_0DC0:
  23: 0x1B08 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
 
 SUBROUTINE_1B19:
- 24: 0x1B19 [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+ 24: 0x1B19 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "We will examine the fish you brought. Depending on the results, we may need to act! I'll let you know if we need your help."
  25: 0x1B1C [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x1B1D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2576,24 +2576,24 @@ SUBROUTINE_1B19:
      0x1B5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1B6F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1B80 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+     0x1B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "Ah, it's you, <Player>. You've come at a good time. I've news for you."
      0x1B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1B93 [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
+     0x1B93 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
     → "By order of the Kingdom of San d'Oria, you're to head to Jeuno as an ambassadorial attach<Player>i."
      0x1B96 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+     0x1B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "That is all. You'll take the mission then?"
      0x1B9A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B9B [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
      0x1BAA [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-     0x1BAF [0x24] CREATE_DIALOG(message_id=8453*, default_option=0*, option_flags=0*)
+     0x1BAF [0x24] CREATE_DIALOG(message_id=8454*, default_option=0*, option_flags=0*)
     → "Accept mission? [Accept./No, thanks.]"
      0x1BB6 [0x25] WAIT_DIALOG_SELECT()
      0x1BB7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C02
      0x1BBF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1BD0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+     0x1BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "Go to Chateau d'Oraguille. Monarlais Halver will tell you all you need to know."
      0x1BE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BE3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2613,17 +2613,17 @@ SUBROUTINE_1B19:
      0x1C3B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1C4C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
      0x1C5D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1C6C [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
+     0x1C6C [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "There you are! I've been looking for you. Monarlais Halver requests your presence at the chateau immediately."
      0x1C6F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C70 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+     0x1C70 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
     → "It sounds as if this is a fairly important mission. I need not remind you that you should take care to properly equip yourself before embarking on this journey."
      0x1C73 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C74 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x1C74 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x1C7B [0x25] WAIT_DIALOG_SELECT()
      0x1C7C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C90
-     0x1C84 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
+     0x1C84 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
     → "I'm not sure what it's about, but you'd best make haste. The monarlais is not to be kept waiting!"
      0x1C87 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C88 [0x03] Work_Zone[1] = 14*
@@ -2643,17 +2643,17 @@ SUBROUTINE_1B19:
      0x1CEE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[130*, 0*]
      0x1CFF [0x27] REQ_SET(priority=0x64, entity_id=LocalPlayer, tag_num=0x18)
      0x1D06 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-     0x1D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
+     0x1D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
     → "Why, if it isn't <Player>! This is no time for loafing around, friend! Prince Trion is looking for you."
      0x1D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1D19 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
+     0x1D19 [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
     → "For this next mission, he's requested you personally. You should be honored!"
      0x1D1C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1D1D [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x1D1D [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x1D24 [0x25] WAIT_DIALOG_SELECT()
      0x1D25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D39
-     0x1D2D [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
+     0x1D2D [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
     → "As for the details of the mission, I've no idea what he wants, but he was in a hurry. You'd best be off to Chateau d'Oraguille!"
      0x1D30 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D31 [0x03] Work_Zone[1] = 15*
@@ -2710,13 +2710,13 @@ SUBROUTINE_1B19:
   7: 0x1D9F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[90*, 0*]
   8: 0x1DB0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x1DC1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x1DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
+ 10: 0x1DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
     → "It is a great thing you've done, <Player>! I knew deep in my heart that you were the one for the task."
  11: 0x1DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x1DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
+ 12: 0x1DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
     → "You'd better get to the chateau quick. They're all waiting to welcome you back, I'd wager."
  13: 0x1DD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x1DD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
+ 14: 0x1DD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
     → "You've saved our proud Kingdom of San d'Oria. No, you're the savior of all Vana'diel! There's not a soul that doesn't owe you a great debt, <Player>."
  15: 0x1DDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x1DDC [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2757,7 +2757,7 @@ SUBROUTINE_1B19:
   1: 0x1E35 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1E36 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1E37 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x1E46 [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
+  4: 0x1E46 [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
     → "Ah, if it isn't <Player>! You had best hurry off to Chateau d'Oraguille. It seems as if something terrible is in the works there."
   5: 0x1E49 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1E4A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -3037,7 +3037,7 @@ SUBROUTINE_2113:
   3: 0x2118 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x2119 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x211A [0x1A] CALL_SUBROUTINE(address=0x223D)
-  6: 0x211D [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+  6: 0x211D [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "Princess Claidie's coming-of-age ceremony is about to begin at the cathedral. I must remain at my post, but why don't you attend?"
   7: 0x2120 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x2121 [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3063,26 +3063,26 @@ SUBROUTINE_224D:
      0x1E92 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1EA3 [0x1B] RETURN
      0x1EA4 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1EA7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
+     0x1EA7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
     → "Well, if it isn't <Player>! Your timing is perfect. The chateau just sent a request for an adventurer."
      0x1EAA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1EAB [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
+     0x1EAB [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
     → "It looks as if this next mission has something to do with the late queen. You should feel honored. It's not every day that an adventurer gets to work directly with the royal family."
      0x1EAE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EAF [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x1EB2 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x1EB2 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x1EB9 [0x25] WAIT_DIALOG_SELECT()
      0x1EBA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1ED1
      0x1EC2 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1EC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
+     0x1EC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
     → "Spoken like a true San d'Orian! Now hurry off to Chateau d'Oraguille and get the details on the mission from Monarlais Halver."
      0x1EC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EC9 [0x03] Work_Zone[1] = 16*
      0x1ECE [0x01] GOTO 0x1EE8
      0x1ED1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1EE8
      0x1ED9 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1EDC [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+     0x1EDC [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
     → "What's wrong? Dealing with royalty is not your cup of tea? Well, think about it and come back when you've come to your senses."
      0x1EDF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EE0 [0x03] Work_Zone[1] = 1073741824*
@@ -3095,23 +3095,23 @@ SUBROUTINE_224D:
      0x1F1E [0x21] END_EVENT
      0x1F1F [0x00] END_REQSTACK()
      0x1F20 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1F23 [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
+     0x1F23 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
     → "Prince Trion is requesting the aid of an adventurer. How about it?"
      0x1F26 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F27 [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x1F2A [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x1F2A [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x1F31 [0x25] WAIT_DIALOG_SELECT()
      0x1F32 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F49
      0x1F3A [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1F3D [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+     0x1F3D [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "It looks fairly urgent, so you should hurry to the chateau. The prince is waiting in his chambers."
      0x1F40 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F41 [0x03] Work_Zone[1] = 17*
      0x1F46 [0x01] GOTO 0x1F60
      0x1F49 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1F60
      0x1F51 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1F54 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+     0x1F54 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "I expected more from you, <Player>. If you change your mind, return here. I'll be waiting."
      0x1F57 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F58 [0x03] Work_Zone[1] = 1073741824*
@@ -3122,7 +3122,7 @@ SUBROUTINE_224D:
      0x1F67 [0x00] END_REQSTACK()
      0x1F68 [0x1A] CALL_SUBROUTINE(address=0x2273)
      0x1F6B [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1F6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+     0x1F6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "I have received the details of your mission from Prince Trion. I will deliver this book to the scholars for deciphering."
      0x1F71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F72 [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3134,7 +3134,7 @@ SUBROUTINE_224D:
      0x1F80 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x1F81 [0x1A] CALL_SUBROUTINE(address=0x223D)
      0x1F84 [0x03] Work_Zone[2] = 269*
-     0x1F89 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+     0x1F89 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "The deciphering of the $3 will take a considerable amount of time. Return later for a report."
      0x1F8C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F8D [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3145,7 +3145,7 @@ SUBROUTINE_224D:
      0x1F98 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x1F99 [0x1A] CALL_SUBROUTINE(address=0x223D)
      0x1F9C [0x03] Work_Zone[2] = 269*
-     0x1FA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+     0x1FA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "Ah, <Player>. We've been waiting. Prince Trion is calling for you. I wonder if this means the $3 has been completely deciphered."
      0x1FA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FA5 [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3153,10 +3153,10 @@ SUBROUTINE_224D:
      0x1FA9 [0x00] END_REQSTACK()
      0x1FAA [0x1A] CALL_SUBROUTINE(address=0x2273)
      0x1FAD [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1FB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+     0x1FB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "Well done, <Player>! I knew you would not let the Kingdom down."
      0x1FB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1FB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+     0x1FB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "I'm proud to increase your rank to 7!"
      0x1FB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FB8 [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3167,23 +3167,23 @@ SUBROUTINE_224D:
      0x1FD5 [0x21] END_EVENT
      0x1FD6 [0x00] END_REQSTACK()
      0x1FD7 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1FDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+     0x1FDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "The papsque has work for you, <Player>. Are you willing to take on the task?"
      0x1FDD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FDE [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x1FE1 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x1FE1 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x1FE8 [0x25] WAIT_DIALOG_SELECT()
      0x1FE9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2000
      0x1FF1 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x1FF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+     0x1FF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "Excellent. Proceed to the papsque's chambers on the third floor of the cathedral."
      0x1FF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FF8 [0x03] Work_Zone[1] = 18*
      0x1FFD [0x01] GOTO 0x2017
      0x2000 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2017
      0x2008 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x200B [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+     0x200B [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "The papsque often comes across as a difficult man, but he is actually very kindhearted and compassionate. If you change your mind, I'll be waiting here."
      0x200E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x200F [0x03] Work_Zone[1] = 1073741824*
@@ -3194,13 +3194,13 @@ SUBROUTINE_224D:
      0x201E [0x00] END_REQSTACK()
      0x201F [0x1A] CALL_SUBROUTINE(address=0x2273)
      0x2022 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+     0x2025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "The fair Claidie I d'Oraguille has invited you to the chateau. She wishes for you to see the flowers that have bloomed from the seeds you brought back from Altepa."
      0x2028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+     0x2029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "It is an honor to be invited to the chateau garden. One day you may even have the opportunity to attend one of their royal garden parties."
      0x202C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x202D [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+     0x202D [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "We cannot keep the princess waiting. Now, off to the chateau!"
      0x2030 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2031 [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3208,32 +3208,32 @@ SUBROUTINE_224D:
      0x2037 [0x21] END_EVENT
      0x2038 [0x00] END_REQSTACK()
      0x2039 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x203C [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+     0x203C [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "A party of Royal Knights stationed in Ghelsba Outpost have reported strange activity by Orcs deep within Yughott Grotto."
      0x203F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+     0x2040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
     → "From your reports, we already know that the beastmen have built a giant portal, but their motives remain unclear."
      0x2043 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+     0x2044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "It makes me shudder to think of what those Orcs are planning with that portal..."
      0x2047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
+     0x2048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "<Player>, your next mission is to travel to Ghelsba and continue your investigation into the Orcs' activities."
      0x204B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x204C [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x204F [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x204F [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x2056 [0x25] WAIT_DIALOG_SELECT()
      0x2057 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x206E
      0x205F [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+     0x2062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
     → "Be on your guard when traveling deep into Yughott Grotto. Losing an adventurer such as yourself would deal a great blow to all of San d'Oria."
      0x2065 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2066 [0x03] Work_Zone[1] = 19*
      0x206B [0x01] GOTO 0x2085
      0x206E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2085
      0x2076 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
+     0x2079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "I see you need more time for preparations. When you are ready, I'll be waiting."
      0x207C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x207D [0x03] Work_Zone[1] = 1073741824*
@@ -3244,17 +3244,17 @@ SUBROUTINE_224D:
      0x208C [0x00] END_REQSTACK()
      0x208D [0x1A] CALL_SUBROUTINE(address=0x2273)
      0x2090 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+     0x2093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "It's hard to believe Orcs have their hands on such dangerous equipment. More patrols will have to be sent out to prevent any new developments in their evil plans."
      0x2096 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2097 [0x03] Work_Zone[2] = 284*
-     0x209C [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
+     0x209C [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
     → "And this $3... We will have to analyze it and begin reproduction for our forces. We cannot let Orcs get the Treasure of the Dragon King before San d'Oria does."
      0x209F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x20A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+     0x20A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "Well, congratulations on the completion of your mission. Hmmm? Do I know of an adventurer named Eideialc? Never heard of him."
      0x20A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x20A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
+     0x20A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
     → "But you need not worry about some petty traveler. You are in a different league. You are now rank 8!"
      0x20A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20A8 [0x1A] CALL_SUBROUTINE(address=0x224D)
@@ -3265,26 +3265,26 @@ SUBROUTINE_224D:
      0x20C5 [0x21] END_EVENT
      0x20C6 [0x00] END_REQSTACK()
      0x20C7 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x20CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+     0x20CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
     → "Princess Claidie's coming-of-age ceremony is drawing near. This ceremony is an important facet of d'Oraguille tradition."
      0x20CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x20CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
+     0x20CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "Monarlais Halver has put out a call to high-ranking adventurers for their assistance in Chateau d'Oraguille."
      0x20D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20D2 [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x20D5 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x20D5 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x20DC [0x25] WAIT_DIALOG_SELECT()
      0x20DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20F4
      0x20E5 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x20E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
+     0x20E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
     → "Ah, the young princess has finally become a lady... Oh, I'm sorry. You can get the details of your next mission from Sir Halver."
      0x20EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20EC [0x03] Work_Zone[1] = 20*
      0x20F1 [0x01] GOTO 0x210B
      0x20F4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x210B
      0x20FC [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x20FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+     0x20FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "What? You do not wish to repay the kindness the princess has shown to you in the past months? As you wish...but if you change your mind, you know where to find me."
      0x2102 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2103 [0x03] Work_Zone[1] = 1073741824*
@@ -3295,23 +3295,23 @@ SUBROUTINE_224D:
      0x2112 [0x00] END_REQSTACK()
 # Dead code (unreachable instructions):
      0x2126 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
+     0x2129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
     → "The king has requested your audience. He has selected you from the mountain of adventurers in San d'Oria. You should feel honored!"
      0x212C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x212D [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x2130 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x2130 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x2137 [0x25] WAIT_DIALOG_SELECT()
      0x2138 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x214F
      0x2140 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
+     0x2143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
     → "You have matured from a fledgling adventurer into a great asset to our kingdom. Do not let us down."
      0x2146 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2147 [0x03] Work_Zone[1] = 21*
      0x214C [0x01] GOTO 0x2166
      0x214F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2166
      0x2157 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x215A [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
+     0x215A [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
     → "There is no need for modesty at a time like this. The fate of San d'Oria is at stake!"
      0x215D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x215E [0x03] Work_Zone[1] = 1073741824*
@@ -3321,23 +3321,23 @@ SUBROUTINE_224D:
      0x216C [0x21] END_EVENT
      0x216D [0x00] END_REQSTACK()
      0x216E [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
+     0x2171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
     → "The authorities are saying that a dark cloud of despair is looming over the Kingdom. They are asking for the assistance of only the best adventurers."
      0x2174 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2175 [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x2178 [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x2178 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x217F [0x25] WAIT_DIALOG_SELECT()
      0x2180 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2197
      0x2188 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x218B [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+     0x218B [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "Then proceed to the Audience Chamber in the Chateau d'Oraguille. Word has it that His Highness is not feeling that well. He may not be present for your briefing."
      0x218E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x218F [0x03] Work_Zone[1] = 22*
      0x2194 [0x01] GOTO 0x21AE
      0x2197 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x21AE
      0x219F [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x21A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+     0x21A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
     → "[Sir/Lady] <Player>! The Kingdom is counting on you. Who else, I ask you, is worthy for this task?"
      0x21A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21A6 [0x03] Work_Zone[1] = 1073741824*
@@ -3347,51 +3347,51 @@ SUBROUTINE_224D:
      0x21B4 [0x21] END_EVENT
      0x21B5 [0x00] END_REQSTACK()
      0x21B6 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x21B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+     0x21B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "Ah, a time of great change is upon us. In a matter of days, the Rites of Succession will be held at the cathedral in Northern San d'Oria. It is then that the new heir to the throne will be decided."
      0x21BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x21BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+     0x21BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "Due to the unpredictable circumstances that took place at the princess's coming-of-age ceremony, this time, only authorized personnel will be allowed near the proceedings. However, the royal family has requested your services as a guard."
      0x21C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x21C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+     0x21C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "Even we Royal Knights have not been granted permission to attend... You must be held in high regard by His Highness. I envy you, [Sir/Ma'am]."
      0x21C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x21C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+     0x21C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
     → "When you have finished your preparations, proceed directly to the cathedral to report."
      0x21C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21C9 [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x21CC [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=0*)
+     0x21CC [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
      0x21D3 [0x25] WAIT_DIALOG_SELECT()
      0x21D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x221E
      0x21DC [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x21DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+     0x21DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
     → "Off the record, which of the two princes do you think should be the next heir to the throne?"
      0x21E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21E3 [0x1A] CALL_SUBROUTINE(address=0x224D)
-     0x21E6 [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+     0x21E6 [0x24] CREATE_DIALOG(message_id=7386*, default_option=0*, option_flags=0*)
     → "It is a difficult decision, but... [Trion is better suited./Pieuje is better suited.]"
      0x21ED [0x25] WAIT_DIALOG_SELECT()
      0x21EE [0x1A] CALL_SUBROUTINE(address=0x2253)
      0x21F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2200
-     0x21F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+     0x21F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "Hm... Being the oldest, he is the true heir, and many people believe he is the most suited to rule the Kingdom. However, Prince Pieuje's prudent ways may be what this country is lacking."
      0x21FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21FD [0x01] GOTO 0x220F
      0x2200 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x220F
-     0x2208 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
+     0x2208 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
     → "Many think as you do, [Sir/Lady] <Player>. However, what this country may need is someone who will not back down in the face of a threat--someone who will stand up for the pride of the Kingdom."
      0x220B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x220C [0x01] GOTO 0x220F
      0x220F [0x1A] CALL_SUBROUTINE(address=0x2263)
-     0x2212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+     0x2212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "But our opinion is of no matter. Lightbringer will decide who is the most suited to stand over our fine nation. And do not speak a word of today's exchange, for the monarlais will have our heads if he finds out."
      0x2215 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2216 [0x03] Work_Zone[1] = 23*
      0x221B [0x01] GOTO 0x2235
      0x221E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2235
      0x2226 [0x1A] CALL_SUBROUTINE(address=0x223D)
-     0x2229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
+     0x2229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
     → "I realize that you must have many preparations before taking on such an important mission. Take your time and return here when you are ready."
      0x222C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x222D [0x03] Work_Zone[1] = 1073741824*
@@ -4037,11 +4037,11 @@ SUBROUTINE_224D:
  11: 0x243F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
  12: 0x2450 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x2461 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
- 14: 0x2466 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
+ 14: 0x2466 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
     → "Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!"
  15: 0x2469 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x246A [0x79] Endracion (ID: 17719393/0x010E6061) looks at Rochefogne (ID: 17719520/0x010E60E0) (Basic look)
- 17: 0x2474 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
+ 17: 0x2474 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
     → "For one so new, I'd be... Hmm?"
  18: 0x2477 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x2478 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
@@ -4052,7 +4052,7 @@ SUBROUTINE_224D:
  24: 0x24A5 [0x4A] LocalPlayer looks at Rochefogne (ID: 17719520/0x010E60E0)
  25: 0x24AE [0x4A] Endracion (ID: 17719393/0x010E6061) looks at Rochefogne (ID: 17719520/0x010E60E0)
  26: 0x24B7 [0x27] REQ_SET(priority=0x0B, entity_id=Rochefogne (ID: 17719520/0x010E60E0), tag_num=0x1B)
- 27: 0x24BE [0x2B] Rochefogne (ID: 17719520/0x010E60E0) [9196*]:
+ 27: 0x24BE [0x2B] Rochefogne (ID: 17719520/0x010E60E0) [9197*]:
     → "Lord knight, forgive this interruption, but there is something I must ask of you."
  28: 0x24C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x24C6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Rochefogne (ID: 17719520/0x010E60E0))
@@ -4094,7 +4094,7 @@ SUBROUTINE_2580:
 SUBROUTINE_2600:
  62: 0x2600 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[90*, 0*]
  63: 0x2611 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1B)
- 64: 0x2618 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+ 64: 0x2618 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "Very well. Listen closely. Fifteen years ago, Queen Leaute fell to a rare sickness. She left this world before we could save her."
  65: 0x261B [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x261C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1C)
@@ -4106,7 +4106,7 @@ SUBROUTINE_2600:
  72: 0x2659 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  73: 0x265A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rochefogne (ID: 17719520/0x010E60E0) Render.Flags0 and Render.Flags3 conditions are met
  74: 0x265F [0x1C] WAIT(60* ticks)
- 75: 0x2662 [0x2B] Rochefogne (ID: 17719520/0x010E60E0) [9202*]:
+ 75: 0x2662 [0x2B] Rochefogne (ID: 17719520/0x010E60E0) [9203*]:
     → "Ah, so an illness claimed her life."
  76: 0x2669 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x266A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s047" with entities [EventEntity, EventEntity], work=90*
@@ -4125,7 +4125,7 @@ SUBROUTINE_2600:
  90: 0x26F5 [0x4A] Rochefogne (ID: 17719520/0x010E60E0) looks at Endracion (ID: 17719393/0x010E6061)
  91: 0x26FE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  92: 0x26FF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rochefogne (ID: 17719520/0x010E60E0) Render.Flags0 and Render.Flags3 conditions are met
- 93: 0x2704 [0x2B] Rochefogne (ID: 17719520/0x010E60E0) [9205*]:
+ 93: 0x2704 [0x2B] Rochefogne (ID: 17719520/0x010E60E0) [9206*]:
     → "What was the name of her illness?"
  94: 0x270B [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x270C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1B)
@@ -4217,7 +4217,7 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x291A [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
+  0: 0x291A [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
     → "Who are you, and why do you pry with such inquiries?"
   1: 0x291D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x291E [0x00] END_REQSTACK()
@@ -4243,7 +4243,7 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x291F [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+  0: 0x291F [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "You've what!?"
   1: 0x2922 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2923 [0x00] END_REQSTACK()
@@ -4268,7 +4268,7 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x2924 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+  0: 0x2924 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "Well, it's none of your concern at any rate. Even if she lived, an adventurer like you could never see her, much less the inside of Chateau d'Oraguille."
   1: 0x2927 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2928 [0x00] END_REQSTACK()
@@ -4293,7 +4293,7 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x2929 [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
+  0: 0x2929 [0x1D] PRINT_EVENT_MESSAGE(message_id=9207*)
     → "We are not told such things. Only the royal family would know."
   1: 0x292C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x292D [0x00] END_REQSTACK()
@@ -4319,7 +4319,7 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x292E [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
+  0: 0x292E [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
     → "Hey, wait!"
   1: 0x2931 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2932 [0x00] END_REQSTACK()
@@ -4345,11 +4345,11 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x2933 [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
+  0: 0x2933 [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
     → "What was the matter with that adventurer? He was awfully stubborn, wasn't he?"
   1: 0x2936 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2937 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1D)
-  3: 0x293E [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
+  3: 0x293E [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
     → "He seemed to know the late queen personally, but how could he not be aware of her death?"
   4: 0x2941 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x2942 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1E)
@@ -4375,7 +4375,7 @@ SUBROUTINE_28EC:
 #### Opcodes
 
 ```
-  0: 0x294A [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
+  0: 0x294A [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
     → "At any rate, your work is done. Excellent form, my friend!"
   1: 0x294D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x294E [0x00] END_REQSTACK()
@@ -4497,7 +4497,7 @@ SUBROUTINE_2AFF:
  50: 0x2B21 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x3E)
  51: 0x2B28 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x20)
  52: 0x2B2F [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=90*
- 53: 0x2B3E [0x24] CREATE_DIALOG(message_id=9220*, default_option=0*, option_flags=0*)
+ 53: 0x2B3E [0x24] CREATE_DIALOG(message_id=9221*, default_option=0*, option_flags=0*)
     → "Accept the mission? [I accept./I do not accept.]"
  54: 0x2B45 [0x25] WAIT_DIALOG_SELECT()
  55: 0x2B46 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2B83
@@ -4544,7 +4544,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BCF [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
+  0: 0x2BCF [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
     → "Have you ever set foot into King Ranperre's Tomb?"
   1: 0x2BD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BD3 [0x00] END_REQSTACK()
@@ -4569,7 +4569,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
+  0: 0x2BD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
     → "Two hundred years ago, the curtain fell on the golden age of San d'Oria. Civil war erupted over the Kingdom's hegemony."
   1: 0x2BD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BD8 [0x00] END_REQSTACK()
@@ -4594,7 +4594,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
+  0: 0x2BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
     → "King Ranperre was there to extinguish the conflict. When he died he was interred in a great tomb south of East Ronfaure."
   1: 0x2BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BDD [0x00] END_REQSTACK()
@@ -4620,7 +4620,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BDE [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
+  0: 0x2BDE [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
     → "But unknown hands have defiled his grave of late."
   1: 0x2BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BE2 [0x00] END_REQSTACK()
@@ -4645,7 +4645,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
+  0: 0x2BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
     → "Visitors report missing gravestones and shadows twisting in the caverns. Ravaging a royal tomb is an unforgivable crime!"
   1: 0x2BE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BE7 [0x00] END_REQSTACK()
@@ -4670,7 +4670,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
+  0: 0x2BE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9220*)
     → "Your orders are to investigate the tomb and determine if there is any truth to what they say. Do you understand?"
   1: 0x2BEB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BEC [0x00] END_REQSTACK()
@@ -4696,7 +4696,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BED [0x1D] PRINT_EVENT_MESSAGE(message_id=9221*)
+  0: 0x2BED [0x1D] PRINT_EVENT_MESSAGE(message_id=9222*)
     → "I implore you to make haste to King Ranperre's Tomb. You may find proof of grave-robbers there."
   1: 0x2BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BF1 [0x00] END_REQSTACK()
@@ -4721,7 +4721,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2BF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9222*)
+  0: 0x2BF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
     → "But wander too deeply within, and Goblins might find you. Tread boldly, my friend, but do not go in over your head!"
   1: 0x2BF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2BF6 [0x00] END_REQSTACK()
@@ -4752,10 +4752,10 @@ SUBROUTINE_2B93:
   1: 0x2BFC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x2BFD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2BFE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1B)
-  4: 0x2C05 [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
+  4: 0x2C05 [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
     → "Visitors report missing gravestones and shadows twisting in the caverns. Scour the tomb and determine if they speak the truth."
   5: 0x2C08 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x2C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
+  6: 0x2C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
     → "Make haste to King Ranperre's Tomb. You may find proof of grave-robbers there."
   7: 0x2C0C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x2C0D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1C)
@@ -4789,7 +4789,7 @@ SUBROUTINE_2B93:
   1: 0x2C1D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x2C1E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2C1F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1B)
-  4: 0x2C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
+  4: 0x2C26 [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
     → "Have you really searched the tomb?"
   5: 0x2C29 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x2C2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1C)
@@ -4879,10 +4879,10 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
+  0: 0x2D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
     → "So, you got this from bats in King Ranperre's Tomb?"
   1: 0x2D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x2D1A [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
+  2: 0x2D1A [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
     → "You see, this actually belonged to an Orc. What could Orcs want with the tomb?"
   3: 0x2D1D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x2D1E [0x00] END_REQSTACK()
@@ -4908,7 +4908,7 @@ SUBROUTINE_2B93:
 #### Opcodes
 
 ```
-  0: 0x2D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+  0: 0x2D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
     → "At any rate, your mission is over. Speak not a word of this to another."
   1: 0x2D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2D23 [0x00] END_REQSTACK()
@@ -5061,7 +5061,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F6D [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
+  0: 0x2F6D [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "Ah, the recruit's back again? I'm sorry, but I've no time for you today."
   1: 0x2F70 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F71 [0x00] END_REQSTACK()
@@ -5086,7 +5086,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F72 [0x1D] PRINT_EVENT_MESSAGE(message_id=9231*)
+  0: 0x2F72 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
     → "Oh, who am I fooling? Of course I could use your help!"
   1: 0x2F75 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F76 [0x00] END_REQSTACK()
@@ -5111,7 +5111,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9232*)
+  0: 0x2F77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
     → "Have you not heard? Orcs came and kidnapped some children! We think they're keeping them at their lair in Ghelsba."
   1: 0x2F7A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F7B [0x00] END_REQSTACK()
@@ -5137,7 +5137,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F7C [0x1D] PRINT_EVENT_MESSAGE(message_id=9233*)
+  0: 0x2F7C [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
     → "Why, not long ago came ill news from the cathedral. A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout."
   1: 0x2F7F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F80 [0x00] END_REQSTACK()
@@ -5162,7 +5162,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9234*)
+  0: 0x2F81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
     → "The Royal Knights would march to his rescue, but Prince Trion is away in the north, and cannot give the order."
   1: 0x2F84 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F85 [0x00] END_REQSTACK()
@@ -5187,7 +5187,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9235*)
+  0: 0x2F86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
     → "Prince Pieuje is in earnest deliberations over whether to send Temple Knights instead. It seems his efforts are focused upon saving the children, but..."
   1: 0x2F89 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F8A [0x00] END_REQSTACK()
@@ -5212,7 +5212,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x2F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=9236*)
+  0: 0x2F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=9237*)
     → "But no matter. We need knowledge of the enemy. You must visit the cathedral and ask what this boy looks like."
   1: 0x2F8E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2F8F [0x00] END_REQSTACK()
@@ -5243,10 +5243,10 @@ SUBROUTINE_2F08:
   1: 0x2F95 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x2F96 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2F97 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1B)
-  4: 0x2F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=9237*)
+  4: 0x2F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
     → "A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout."
   5: 0x2FA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x2FA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9238*)
+  6: 0x2FA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
     → "The Temple Knights may be mobilized soon. You must visit the cathedral and ask what this boy looks like."
   7: 0x2FA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x2FA6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1C)
@@ -5353,7 +5353,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x30F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9239*)
+  0: 0x30F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
     → "Prince Trion just informed me of your handiwork. You've done beautifully."
   1: 0x30FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x30FB [0x00] END_REQSTACK()
@@ -5379,7 +5379,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x30FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9240*)
+  0: 0x30FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
     → "Due to your exemplary contribution, <Player>, San d'Oria hereby recognizes you as an adventurer of rank two."
   1: 0x30FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x3100 [0x00] END_REQSTACK()
@@ -5404,7 +5404,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x3101 [0x1D] PRINT_EVENT_MESSAGE(message_id=9241*)
+  0: 0x3101 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
     → "But do not let it go to your head. This certificate is valid only in San d'Oria."
   1: 0x3104 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x3105 [0x00] END_REQSTACK()
@@ -5429,7 +5429,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x3106 [0x1D] PRINT_EVENT_MESSAGE(message_id=9242*)
+  0: 0x3106 [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
     → "Work hard and better things will come, my friend. Someday your name will be known to our allies as well."
   1: 0x3109 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x310A [0x00] END_REQSTACK()
@@ -5454,7 +5454,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x310B [0x1D] PRINT_EVENT_MESSAGE(message_id=9243*)
+  0: 0x310B [0x1D] PRINT_EVENT_MESSAGE(message_id=9244*)
     → "Oh, and one more thing. The vicasque of the cathedral said he wants to thank you on behalf of the boy."
   1: 0x310E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x310F [0x00] END_REQSTACK()
@@ -5511,7 +5511,7 @@ SUBROUTINE_2F08:
  12: 0x316F [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=90*
  13: 0x317E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  14: 0x318F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[90*, 0*]
- 15: 0x31A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9246*)
+ 15: 0x31A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9247*)
     → "I award you with rank points commensurate with your achievement."
  16: 0x31A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x31A4 [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=90*
@@ -5556,10 +5556,10 @@ SUBROUTINE_2F08:
   1: 0x322B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x322C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x322D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1B)
-  4: 0x3234 [0x1D] PRINT_EVENT_MESSAGE(message_id=9249*)
+  4: 0x3234 [0x1D] PRINT_EVENT_MESSAGE(message_id=9250*)
     → "What? You were told to hand the $3 to Prince Pieuje personally?"
   5: 0x3237 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x3238 [0x1D] PRINT_EVENT_MESSAGE(message_id=9250*)
+  6: 0x3238 [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
     → "Well, you should find His Highness in the cathedral."
   7: 0x323B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x323C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Endracion (ID: 17719393/0x010E6061), tag_num=0x1C)
@@ -5646,7 +5646,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x3311 [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
+  0: 0x3311 [0x1D] PRINT_EVENT_MESSAGE(message_id=9252*)
     → "You've come just at the right time! Prince Trion wants a word with you. It seems he heard of you when you received your $3."
   1: 0x3314 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x3315 [0x00] END_REQSTACK()
@@ -5671,7 +5671,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x3316 [0x1D] PRINT_EVENT_MESSAGE(message_id=9252*)
+  0: 0x3316 [0x1D] PRINT_EVENT_MESSAGE(message_id=9253*)
     → "Head to the chambers of Prince Trion inside Chateau d'Oraguille as soon as you're presentable!"
   1: 0x3319 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x331A [0x00] END_REQSTACK()
@@ -5700,7 +5700,7 @@ SUBROUTINE_2F08:
   0: 0x331B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x3320 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x3321 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x3322 [0x1D] PRINT_EVENT_MESSAGE(message_id=9253*)
+  3: 0x3322 [0x1D] PRINT_EVENT_MESSAGE(message_id=9254*)
     → "Prince Trion has called for you. Head to his chamber inside Chateau d'Oraguille as soon as you're presentable!"
   4: 0x3325 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x3326 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -5731,7 +5731,7 @@ SUBROUTINE_2F08:
   0: 0x332A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x332F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x3330 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x3331 [0x1D] PRINT_EVENT_MESSAGE(message_id=9254*)
+  3: 0x3331 [0x1D] PRINT_EVENT_MESSAGE(message_id=9255*)
     → "I know not what Prince Trion wanted you to do, but see it through to the end! Understand?"
   4: 0x3334 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x3335 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -5814,7 +5814,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x33F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9255*)
+  0: 0x33F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9256*)
     → "Hello there. Now's not the time for missions; Chateau d'Oraguille has been visited by bandits!"
   1: 0x33FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x33FD [0x00] END_REQSTACK()
@@ -5840,7 +5840,7 @@ SUBROUTINE_2F08:
 #### Opcodes
 
 ```
-  0: 0x33FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9256*)
+  0: 0x33FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9257*)
     → "You must make haste to Chateau d'Oraguille! Find Lady Curilla, general of the Temple Knights!"
   1: 0x3401 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x3402 [0x00] END_REQSTACK()
@@ -5869,7 +5869,7 @@ SUBROUTINE_2F08:
   0: 0x3403 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x3408 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x3409 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x340A [0x1D] PRINT_EVENT_MESSAGE(message_id=9257*)
+  3: 0x340A [0x1D] PRINT_EVENT_MESSAGE(message_id=9258*)
     → "Bandits infiltrating Chateau d'Oraguille is unprecedented in history! Make haste and see Lady Curilla, general of the Temple Knights!"
   4: 0x340D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x340E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

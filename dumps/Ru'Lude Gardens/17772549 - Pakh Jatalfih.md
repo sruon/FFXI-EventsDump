@@ -43,30 +43,30 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x270D      |        9997 |
-|       2 | 0x2712      |       10002 |
-|       3 | 0x2713      |       10003 |
+|       1 | 0x270E      |        9998 |
+|       2 | 0x2713      |       10003 |
+|       3 | 0x2714      |       10004 |
 |       4 | 0x0032      |          50 |
-|       5 | 0x2744      |       10052 |
-|       6 | 0x2745      |       10053 |
-|       7 | 0x2748      |       10056 |
-|       8 | 0x275D      |       10077 |
-|       9 | 0x2760      |       10080 |
-|      10 | 0x2763      |       10083 |
-|      11 | 0x2785      |       10117 |
-|      12 | 0x27A0      |       10144 |
-|      13 | 0x27A1      |       10145 |
-|      14 | 0x27C9      |       10185 |
+|       5 | 0x2745      |       10053 |
+|       6 | 0x2746      |       10054 |
+|       7 | 0x2749      |       10057 |
+|       8 | 0x275E      |       10078 |
+|       9 | 0x2761      |       10081 |
+|      10 | 0x2764      |       10084 |
+|      11 | 0x2786      |       10118 |
+|      12 | 0x27A1      |       10145 |
+|      13 | 0x27A2      |       10146 |
+|      14 | 0x27CA      |       10186 |
 |      15 | 0x0035      |          53 |
 |      16 | 0x005A      |          90 |
 |      17 | 0x0014      |          20 |
 |      18 | 0x00C9      |         201 |
 |      19 | 0x0000      |           0 |
 |      20 | 0x00D2      |         210 |
-|      21 | 0x27CA      |       10186 |
-|      22 | 0x27CB      |       10187 |
-|      23 | 0x27CC      |       10188 |
-|      24 | 0x27CD      |       10189 |
+|      21 | 0x27CB      |       10187 |
+|      22 | 0x27CC      |       10188 |
+|      23 | 0x27CD      |       10189 |
+|      24 | 0x27CE      |       10190 |
 |      25 | 0x012C      |         300 |
 |      26 | 0x7D53      |       32083 |
 |      27 | 0xFFFFB2ED  |  4294947565 |
@@ -78,23 +78,23 @@
 
 ## String References
 
-- **9997**: Welcome to the Embassy of Windurst. If you ever need help during your stay, be sure to stop by.
-- **10002**: Welcome to the Embassy of Windurst. Oh, but you're San d'Orian, I see. The Embassy of San d'Oria is out on the other side.
-- **10003**: Welcome to the Embassy of Windurst. But, ah, you're from Bastok... The Embassy of Bastok is outside to the left.
-- **10052**: Delkfutt's Tower is on the island of Qufim. Don't forget to shop for upgrades. And get some help to tag along... You'll need it!
-- **10053**: You'll surely run into some nasty company there, so be extra, extra careful.
-- **10056**: Welcome back! The ambassador has returned, and wants to see you. He's in his office.
-- **10077**: For now, we need your help in the conquest. We want to bring all of Jeuno's outlying regions under Windurst's umbrella.
-- **10080**: Good day, <Player>. His Excellency needs your help. Do us a favor and come back once you've completed your current mission, okay?
-- **10083**: His Excellency seeks your help in something important. Best head into the rear chamber.
-- **10117**: Go, and the winds of fortune will follow you. You mustn't keep the archduke waiting!
-- **10144**: So, you saw the archduke... Well, how did it go?
-- **10145**: He wants you to gather magicite? I can't offer any advice on those. Maybe you can try learning about Davoi, Beadeaux, and Castle Oztroja...
-- **10185**: There you are! Great work, <Player>!
-- **10186**: I'm sorry, but you've got no time to rest! Our beloved Windurst is in grave danger!
-- **10187**: With the ambassador away, I want you to take this back to the motherland. Take the airship; it's faster. I'll find out what I can here.
-- **10188**: Hurry-scurry! Take the airship back to Windurst! I'll find out what I can here.
-- **10189**: As long as the Star Sibyl is safe, then all is well. We don't have any tasks for you here, so continue your service to your country.
+- **9998**: Welcome to the Embassy of Windurst. If you ever need help during your stay, be sure to stop by.
+- **10003**: Welcome to the Embassy of Windurst. Oh, but you're San d'Orian, I see. The Embassy of San d'Oria is out on the other side.
+- **10004**: Welcome to the Embassy of Windurst. But, ah, you're from Bastok... The Embassy of Bastok is outside to the left.
+- **10053**: Delkfutt's Tower is on the island of Qufim. Don't forget to shop for upgrades. And get some help to tag along... You'll need it!
+- **10054**: You'll surely run into some nasty company there, so be extra, extra careful.
+- **10057**: Welcome back! The ambassador has returned, and wants to see you. He's in his office.
+- **10078**: For now, we need your help in the conquest. We want to bring all of Jeuno's outlying regions under Windurst's umbrella.
+- **10081**: Good day, <Player>. His Excellency needs your help. Do us a favor and come back once you've completed your current mission, okay?
+- **10084**: His Excellency seeks your help in something important. Best head into the rear chamber.
+- **10118**: Go, and the winds of fortune will follow you. You mustn't keep the archduke waiting!
+- **10145**: So, you saw the archduke... Well, how did it go?
+- **10146**: He wants you to gather magicite? I can't offer any advice on those. Maybe you can try learning about Davoi, Beadeaux, and Castle Oztroja...
+- **10186**: There you are! Great work, <Player>!
+- **10187**: I'm sorry, but you've got no time to rest! Our beloved Windurst is in grave danger!
+- **10188**: With the ambassador away, I want you to take this back to the motherland. Take the airship; it's faster. I'll find out what I can here.
+- **10189**: Hurry-scurry! Take the airship back to Windurst! I'll find out what I can here.
+- **10190**: As long as the Star Sibyl is safe, then all is well. We don't have any tasks for you here, so continue your service to your country.
 
 ## Events
 
@@ -141,7 +141,7 @@
 
 ```
   0: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
+  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
     → "Welcome to the Embassy of Windurst. If you ever need help during your stay, be sure to stop by."
   2: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000D [0x21] END_EVENT
@@ -169,7 +169,7 @@
 
 ```
   0: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10002*)
+  1: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10003*)
     → "Welcome to the Embassy of Windurst. Oh, but you're San d'Orian, I see. The Embassy of San d'Oria is out on the other side."
   2: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0018 [0x21] END_EVENT
@@ -197,7 +197,7 @@
 
 ```
   0: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10003*)
+  1: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10004*)
     → "Welcome to the Embassy of Windurst. But, ah, you're from Bastok... The Embassy of Bastok is outside to the left."
   2: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0023 [0x21] END_EVENT
@@ -252,10 +252,10 @@
   2: 0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0036 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=10052*)
+  5: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=10053*)
     → "Delkfutt's Tower is on the island of Qufim. Don't forget to shop for upgrades. And get some help to tag along... You'll need it!"
   6: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10053*)
+  7: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10054*)
     → "You'll surely run into some nasty company there, so be extra, extra careful."
   8: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004D [0x21] END_EVENT
@@ -289,7 +289,7 @@
   2: 0x005D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x005E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x005F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10056*)
+  5: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
     → "Welcome back! The ambassador has returned, and wants to see you. He's in his office."
   6: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0072 [0x21] END_EVENT
@@ -322,7 +322,7 @@
   2: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
+  5: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
     → "For now, we need your help in the conquest. We want to bring all of Jeuno's outlying regions under Windurst's umbrella."
   6: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0097 [0x21] END_EVENT
@@ -355,7 +355,7 @@
   2: 0x00A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10080*)
+  5: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10081*)
     → "Good day, <Player>. His Excellency needs your help. Do us a favor and come back once you've completed your current mission, okay?"
   6: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00BC [0x21] END_EVENT
@@ -389,7 +389,7 @@
   2: 0x00CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00CD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10083*)
+  5: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
     → "His Excellency seeks your help in something important. Best head into the rear chamber."
   6: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00E1 [0x21] END_EVENT
@@ -444,7 +444,7 @@
   2: 0x00F2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00F4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10117*)
+  5: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10118*)
     → "Go, and the winds of fortune will follow you. You mustn't keep the archduke waiting!"
   6: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0107 [0x21] END_EVENT
@@ -478,10 +478,10 @@
   2: 0x0117 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0118 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0119 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=10144*)
+  5: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=10145*)
     → "So, you saw the archduke... Well, how did it go?"
   6: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=10145*)
+  7: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=10146*)
     → "He wants you to gather magicite? I can't offer any advice on those. Maybe you can try learning about Davoi, Beadeaux, and Castle Oztroja..."
   8: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0130 [0x21] END_EVENT
@@ -519,7 +519,7 @@
   2: 0x0135 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x013A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x013B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  5: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=10185*)
+  5: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=10186*)
     → "There you are! Great work, <Player>!"
   6: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0144 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kwi1" with entities [EventEntity, EventEntity], work=53*
@@ -529,12 +529,12 @@
  11: 0x016A [0x1C] WAIT(210* ticks)
  12: 0x016D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kwi2" with entities [EventEntity, EventEntity], work=53*
  13: 0x017C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kwi2" with entities [EventEntity, EventEntity]
- 14: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=10186*)
+ 14: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=10187*)
     → "I'm sorry, but you've got no time to rest! Our beloved Windurst is in grave danger!"
  15: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x018D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
  17: 0x019C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 18: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10187*)
+ 18: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10188*)
     → "With the ambassador away, I want you to take this back to the motherland. Take the airship; it's faster. I'll find out what I can here."
  19: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01AD [0x21] END_EVENT
@@ -568,7 +568,7 @@
   2: 0x01BD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01BE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10188*)
+  5: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10189*)
     → "Hurry-scurry! Take the airship back to Windurst! I'll find out what I can here."
   6: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01D2 [0x21] END_EVENT
@@ -601,7 +601,7 @@
   2: 0x01E2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01E3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10189*)
+  5: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10190*)
     → "As long as the Star Sibyl is safe, then all is well. We don't have any tasks for you here, so continue your service to your country."
   6: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01F7 [0x21] END_EVENT

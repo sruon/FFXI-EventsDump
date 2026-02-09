@@ -1,5 +1,5 @@
 # Strings for Sealion's Den
-# Total: 8020 strings
+# Total: 8021 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,13 +7069,13 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Enter the battlefield? [Enter./Decline.]
- 7069: Leave the battlefield? [Run away./Stay.]
- 7070: You cannot enter the battlefield at present. Please wait a little longer.
+ 7068: It won't open.
+ 7069: Enter the battlefield? [Enter./Decline.]
+ 7070: Leave the battlefield? [Run away./Stay.]
  7071: You cannot enter the battlefield at present. Please wait a little longer.
- 7072: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7073: Your time in the battlefield is up! Now exiting...
- 7074: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7072: You cannot enter the battlefield at present. Please wait a little longer.
+ 7073: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7074: Your time in the battlefield is up! Now exiting...
  7075: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7076: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7077: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7085,59 +7085,59 @@
  7081: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7082: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7083: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7084: You have been enchanted so that you may enter!
- 7085: Your entry enchantment has expired!
- 7086: You are not cleared to enter the battlefield. Now exiting...
- 7087: A cursed seal has been placed upon this platform.
- 7088: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7089: There is no response. You cannot escape!
- 7090: The door is sealed shut with an evil curse.
- 7091: A mysterious force is sealing the platform.
- 7092: The old wooden door is locked tight.
- 7093: The door is sealed with a mysterious energy.
- 7094: It is a giant crystal.
- 7095: A strong magical force is whirling up from the platform.
- 7096: A fierce column of wind blocks your path. You cannot proceed any further...
- 7097: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7098: An unfathomable light is rising from this strangely marked platform...
- 7099: A heavy wooden gate. It is tightly locked...
- 7100: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7084: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7085: You have been enchanted so that you may enter!
+ 7086: Your entry enchantment has expired!
+ 7087: You are not cleared to enter the battlefield. Now exiting...
+ 7088: A cursed seal has been placed upon this platform.
+ 7089: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7090: There is no response. You cannot escape!
+ 7091: The door is sealed shut with an evil curse.
+ 7092: A mysterious force is sealing the platform.
+ 7093: The old wooden door is locked tight.
+ 7094: The door is sealed with a mysterious energy.
+ 7095: It is a giant crystal.
+ 7096: A strong magical force is whirling up from the platform.
+ 7097: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7098: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7099: An unfathomable light is rising from this strangely marked platform...
+ 7100: A heavy wooden gate. It is tightly locked...
  7101: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7102: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7103: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7104: A glowing mist of ever-changing proportions floats before you...
- 7105: A solid iron gate. It is tightly locked...
- 7106: You see a gigantic crystal, glowing with amber light...
+ 7104: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7105: A glowing mist of ever-changing proportions floats before you...
+ 7106: A solid iron gate. It is tightly locked...
  7107: You see a gigantic crystal, glowing with amber light...
- 7108: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7109: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7110: If you listen closely, you can faintly hear female voices singing in rounds...
- 7111: It appears as if something had been thrust into the rockface here...
- 7112: A decorative door. It appears to be locked...
- 7113: The door is locked.
- 7114: The gate is locked.
- 7115: The door is locked.
+ 7108: You see a gigantic crystal, glowing with amber light...
+ 7109: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7110: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7111: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7112: It appears as if something had been thrust into the rockface here...
+ 7113: A decorative door. It appears to be locked...
+ 7114: The door is locked.
+ 7115: The gate is locked.
  7116: The door is locked.
- 7117: There seems to be a space beneath the floor, but you are unable to access it.
- 7118: You do not meet the requirements to enter the battlefield. Access is denied.
- 7119: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7120: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7121: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7122: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7123: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7124: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7125: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7126: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7127: You were unable to protect the special character. Now leaving the battlefield.
- 7128: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7129: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7130: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7131: Your $0 is torn...
- 7132: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7133: Your $0 is torn...
- 7134: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7135: You see innumerable stars shimmering in the distance...
- 7136: @
+ 7117: The door is locked.
+ 7118: There seems to be a space beneath the floor, but you are unable to access it.
+ 7119: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7120: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7121: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7122: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7123: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7124: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7125: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7126: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7127: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7128: You were unable to protect the special character. Now leaving the battlefield.
+ 7129: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7130: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7131: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7132: Your $0 is torn...
+ 7133: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7134: Your $0 is torn...
+ 7135: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7136: You see innumerable stars shimmering in the distance...
  7137: @
  7138: @
  7139: @
@@ -7145,386 +7145,386 @@
  7141: @
  7142: @
  7143: @
- 7144: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7144: @
  7145: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7146: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7147: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7148: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7149: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7149: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7150: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7151: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7152: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7153: i$20%.%p$P15zj
- 7154: $7278448;39\5=Bj
+ 7152: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7153: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7154: i$20%.%p$P15zj
  7155: $7278448;39\5=Bj
  7156: $7278448;39\5=Bj
- 7157: remove@1
- 7158: remove@2
- 7159: remove@3
- 7160: i$3{$3X_A$P13|5=j
- 7161: i$3{$3X_B$P13|5=j
- 7162: i$3{$3X_C$P13|5=j
- 7163: $6750818j=j
- 7164: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7165: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7166: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7157: $7278448;39\5=Bj
+ 7158: remove@1
+ 7159: remove@2
+ 7160: remove@3
+ 7161: i$3{$3X_A$P13|5=j
+ 7162: i$3{$3X_B$P13|5=j
+ 7163: i$3{$3X_C$P13|5=j
+ 7164: $6750818j=j
+ 7165: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7166: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7167: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7168: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7169: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7170: GL$20%.L$P16<$P11Op)i$132960a b
- 7171: GL$20%.LIDp)i$132960a b
- 7172: $20%._AL$3p$3243853
- 7173: $20%._BL$3p$3243853
- 7174: $20%._CL$3p$3243853
- 7175: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7176: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7177: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7169: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7170: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7171: GL$20%.L$P16<$P11Op)i$132960a b
+ 7172: GL$20%.LIDp)i$132960a b
+ 7173: $20%._AL$3p$3243853
+ 7174: $20%._BL$3p$3243853
+ 7175: $20%._CL$3p$3243853
+ 7176: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7177: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7178: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7179: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7180: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7180: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7181: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7182: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7183: $6819916%L$P10l$20*()5"
+ 7183: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7184: $6819916%L$P10l$20*()5"
  7185: $6819916%L$P10l$20*()5"
- 7186: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7186: $6819916%L$P10l$20*()5"
  7187: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7188: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7189: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7190: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7191: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7192: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7193: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7194: i$20%._A$P13&$22$3C$3x$3$3g
- 7195: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7196: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7197: i$20%._B$P13&$22$3C$3x$3$3g
- 7198: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7199: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7200: i$20%._C$P13&$22$3C$3x$3$3g
- 7201: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7202: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7203: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7204: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7205: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7206: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7207: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7208: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7209: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7210: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7211: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7212: $6647884nding$8%p$@$s5\5=B
- 7213: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7189: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7190: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7191: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7192: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7193: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7194: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7195: i$20%._A$P13&$22$3C$3x$3$3g
+ 7196: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7197: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7198: i$20%._B$P13&$22$3C$3x$3$3g
+ 7199: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7200: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7201: i$20%._C$P13&$22$3C$3x$3$3g
+ 7202: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7203: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7204: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7205: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7206: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7207: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7208: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7209: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7210: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7211: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7212: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7213: $6647884nding$8%p$@$s5\5=B
  7214: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7215: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7216: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7217: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7218: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7219: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7220: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7221: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7222: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7223: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7224: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7225: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7226: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7227: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7228: ($20%._AM$0$P14u$6E7)
- 7229: ($20%._BM$0$P14u$6E7)
- 7230: ($20%._CM$0$P14u$6E7)
- 7231: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7232: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7233: i$20%._A$P13|$:I$3g$3$3C5\7
- 7234: i$20%._B$P13|$:I$3g$3$3C5\7
- 7235: i$20%._C$P13|$:I$3g$3$3C5\7
- 7236: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7237: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7238: (AIMID* h\9qE5=)
- 7239: (BIMID* h\9qE5=)
- 7240: (CIMID* h\9qE5=)
- 7241: (AIID* h\5=)
- 7242: (BIID* h\5=)
- 7243: (CIID* h\5=)
- 7244: (AM7EI$P10f$P16q* h\5=)
- 7245: (BM7EI$P10f$P16q* h\5=)
- 7246: (CM7EI$P10f$P16q* h\5=)
- 7247: $2097706ADH"=_$P13|$:E+\9q
- 7248: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7249: i$20%.%p$P15zj
- 7250: $7278448;39\5=Bj
+ 7216: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7217: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7218: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7219: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7220: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7221: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7222: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7223: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7224: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7225: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7226: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7227: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7228: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7229: ($20%._AM$0$P14u$6E7)
+ 7230: ($20%._BM$0$P14u$6E7)
+ 7231: ($20%._CM$0$P14u$6E7)
+ 7232: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7233: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7234: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7235: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7236: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7237: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7238: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7239: (AIMID* h\9qE5=)
+ 7240: (BIMID* h\9qE5=)
+ 7241: (CIMID* h\9qE5=)
+ 7242: (AIID* h\5=)
+ 7243: (BIID* h\5=)
+ 7244: (CIID* h\5=)
+ 7245: (AM7EI$P10f$P16q* h\5=)
+ 7246: (BM7EI$P10f$P16q* h\5=)
+ 7247: (CM7EI$P10f$P16q* h\5=)
+ 7248: $2097706ADH"=_$P13|$:E+\9q
+ 7249: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7250: i$20%.%p$P15zj
  7251: $7278448;39\5=Bj
  7252: $7278448;39\5=Bj
- 7253: i$3{$3X_A$A&=j
- 7254: i$3{$3X_B$A&=j
- 7255: i$3{$3X_C$A&=j
- 7256: i$3{$3X_A$P13|5=j
- 7257: i$3{$3X_B$P13|5=j
- 7258: i$3{$3X_C$P13|5=j
- 7259: H=M$20%.`I$P13|j;$E7
- 7260: H=M$20%.aI$P13|j;$E7
- 7261: H=M$20%.bI$P13|j;$E7
- 7262: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7263: $4457025i
- 7264: $4456998"i
- 7265: $24952730=j
- 7266: $656169$3$3N$3f$3b$3hj
- 7267: $P12N`"H"
- 7268: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7253: $7278448;39\5=Bj
+ 7254: i$3{$3X_A$A&=j
+ 7255: i$3{$3X_B$A&=j
+ 7256: i$3{$3X_C$A&=j
+ 7257: i$3{$3X_A$P13|5=j
+ 7258: i$3{$3X_B$P13|5=j
+ 7259: i$3{$3X_C$P13|5=j
+ 7260: H=M$20%.`I$P13|j;$E7
+ 7261: H=M$20%.aI$P13|j;$E7
+ 7262: H=M$20%.bI$P13|j;$E7
+ 7263: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7264: $4457025i
+ 7265: $4456998"i
+ 7266: $24952730=j
+ 7267: $656169$3$3N$3f$3b$3hj
+ 7268: $P12N`"H"
  7269: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7270: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7271: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7271: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7272: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7273: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7274: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7275: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7275: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7276: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7277: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7278: pending$3`$3F$3b$3N$3I[$3P[
- 7279: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7278: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7279: pending$3`$3F$3b$3N$3I[$3P[
  7280: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7281: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7282: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7283: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7284: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7285: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7286: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7282: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7283: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7284: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7285: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7286: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7287: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7288: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7289: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7290: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7291: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7292: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7293: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7294: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7295: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7296: $6750818j=j
- 7297: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7298: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7299: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7300: GL$20%.L$P16<$P11Op)i$132960a b
- 7301: GL$20%.LIDp)i$132960a b
- 7302: $20%._AL$3p$3243853
- 7303: $20%._BL$3p$3243853
- 7304: $20%._CL$3p$3243853
- 7305: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7306: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7307: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7289: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7290: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7291: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7292: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7293: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7294: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7295: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7296: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7297: $6750818j=j
+ 7298: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7299: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7300: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7301: GL$20%.L$P16<$P11Op)i$132960a b
+ 7302: GL$20%.LIDp)i$132960a b
+ 7303: $20%._AL$3p$3243853
+ 7304: $20%._BL$3p$3243853
+ 7305: $20%._CL$3p$3243853
+ 7306: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7307: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7308: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7309: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7310: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7310: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7311: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7312: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7313: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7314: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7315: $6819916%L$P10l$20*()5"
+ 7315: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7316: $6819916%L$P10l$20*()5"
- 7317: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7317: $6819916%L$P10l$20*()5"
  7318: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7319: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7320: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7321: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7322: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7323: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7324: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7325: i$20%._A$P13&$22$3C$3x$3$3g
- 7326: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7327: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7328: i$20%._B$P13&$22$3C$3x$3$3g
- 7329: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7330: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7331: i$20%._C$P13&$22$3C$3x$3$3g
- 7332: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7333: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7334: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7335: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7336: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7337: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7338: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7339: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7340: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7341: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7342: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7343: $6647884nding$8%p$@$s5\5=B
- 7344: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7320: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7321: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7322: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7323: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7324: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7325: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7326: i$20%._A$P13&$22$3C$3x$3$3g
+ 7327: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7328: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7329: i$20%._B$P13&$22$3C$3x$3$3g
+ 7330: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7331: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7332: i$20%._C$P13&$22$3C$3x$3$3g
+ 7333: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7334: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7335: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7336: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7337: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7338: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7339: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7340: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7341: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7342: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7343: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7344: $6647884nding$8%p$@$s5\5=B
  7345: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7346: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7347: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7348: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7349: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7350: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7351: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7352: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7353: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7354: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7355: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7356: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7357: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7358: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7359: ($20%._AM$0$P14u$6E7)
- 7360: ($20%._BM$0$P14u$6E7)
- 7361: ($20%._CM$0$P14u$6E7)
- 7362: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7363: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7364: i$20%._A$P13|$:I$3g$3$3C5\7
- 7365: i$20%._B$P13|$:I$3g$3$3C5\7
- 7366: i$20%._C$P13|$:I$3g$3$3C5\7
- 7367: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7368: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7369: (AIMID* h\9qE5=)
- 7370: (BIMID* h\9qE5=)
- 7371: (CIMID* h\9qE5=)
- 7372: (AIID* h\5=)
- 7373: (BIID* h\5=)
- 7374: (CIID* h\5=)
- 7375: (AM7EI$P10f$P16q* h\5=)
- 7376: (BM7EI$P10f$P16q* h\5=)
- 7377: (CM7EI$P10f$P16q* h\5=)
- 7378: $2097706ADH"=_$P13|$:E+\9q
- 7379: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7380: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7381: Only <Player> can enter the battlefield.
- 7382: The time limit for this battle is $3 minutes.
- 7383: There is a crack in the $3. It no longer contains a monster.
- 7384: A crack has formed on the $3, and the beast inside has been unleashed!
- 7385: Boss mode : $6!!
- 7386: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7387: $7
- 7388: DEBUG1
- 7389: $T&$:I$P16_i)$4719207" $P16_i
- 7390: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7391: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7392: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7393: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7394: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7395: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7396: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7397: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7398: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7399: CLI_NUM0 = $0
- 7400: CLI_NUM1 = $1
- 7401: CLI_NUM2 = $2
- 7402: CLI_NUM3 = $3
- 7403: CLI_NUM4 = $4
- 7404: CLI_NUM5 = $5
- 7405: CLI_NUM6 = $6
- 7406: CLI_NUM7 = $6
- 7407: Skip the event? [Yes./No.]
- 7408: Battlefield clear time: $3 second[/s]!
- 7409: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7410: The current battlefield clear time record is $3 second[/s].
- 7411: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7412: Called the NPC! PC ID = $0! RESULT = $1!
- 7413: Got rid of the NPC! PC ID = $0!
- 7414: The NPC has fallen, and he can't get up! Leaving room A!
- 7415: The NPC has fallen, and he can't get up! Leaving room B!
- 7416: The NPC has fallen, and he can't get up! Leaving room C!
- 7417: The NPC has fallen, and he can't get up! Leaving room D!
- 7418: All party members have fallen in battle. Now leaving the battlefield.
- 7419: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7420: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7421: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7422: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7423: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7424: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7425: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7426: What the hell is that number!? It's not possible!!!
- 7427: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7428: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7429: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7430: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7431: That record is held by $5 adventurers, including %0!
- 7432: That record is held by %0!
- 7433: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7434: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7435: A malignant force escapes from your $3.
- 7436: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7437: Your $3 is calling out to something...
- 7438: The $0 has a large crack running straight down the side.
- 7439: Something awakens owing to the presence of the $3...
- 7440: The oath has been fulfilled owing to the power of your $3.
- 7441: Tallying conquest results...
- 7442: Conquest results tallied.
- 7443: This region is currently under San d'Orian control.
- 7444: This region is currently under Bastokan control.
- 7445: This region is currently under Windurstian control.
- 7446: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7447: This region is currently neutral.
- 7448: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7449: All three nations are tied for first place.
- 7450: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7451: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7452: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7453: All three nations are tied for first place.
- 7454: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7455: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7456: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7457: All three nations are tied for first place.
- 7458: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7459: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7460: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7461: All three nations are tied for first place.
- 7462: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7463: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7464: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7465: Global balance of power: All three nations are tied for first place.
- 7466: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7467: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7468: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7469: All three nations are tied for first place.
- 7470: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7471: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7472: Conquest update: This region is currently neutral.
- 7473: Conquest update: This region is currently under San d'Orian control.
- 7474: Conquest update: This region is currently under Bastokan control.
- 7475: Conquest update: This region is currently under Windurstian control.
- 7476: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7477: All three nations are at a deadlock.
- 7478: The beastmen are on the rise.
- 7479: Regional influence: San d'Oria - Dominant
- 7480: Regional influence: San d'Oria - Major
- 7481: Regional influence: San d'Oria - Minor
- 7482: Regional influence: San d'Oria - Minimal
- 7483: Bastok - Dominant
- 7484: Bastok - Major
- 7485: Bastok - Minor
- 7486: Bastok - Minimal
- 7487: Windurst - Dominant
- 7488: Windurst - Major
- 7489: Windurst - Minor
- 7490: Windurst - Minimal
- 7491: Bastok and Windurst have formed an alliance.
- 7492: San d'Oria and Windurst have formed an alliance.
- 7493: San d'Oria and Bastok have formed an alliance.
- 7494: Bastok and Windurst are currently allies.
- 7495: San d'Oria and Windurst are currently allies.
- 7496: San d'Oria and Bastok are currently allies.
- 7497: $10$P11.$17F$0 $P14;$P12hF$1
- 7498: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7499: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7500: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7501: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7502: The beastmen are gaining power.
- 7503: San d'Oria's regional control is now 10% closer to the first place country's!
- 7504: Bastok's regional control is now 10% closer to the first place country's!
- 7505: Windurst's regional control are now 10% closer to the first place country's!
- 7506: San d'Oria's region points have increased!
- 7507: Bastok's region points have increased!
- 7508: Windurst's region points have increased!
- 7509: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7510: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7511: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7512: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7513: A Bastokan Expeditionary Force has been dispatched to this area.
- 7514: A Windurstian Expeditionary Force has been dispatched to this area.
- 7515: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7516: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7517: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7518: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7519: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7520: There was a curse on the beastmen's banner!
- 7521: The curse of the beastmen's banner has been lifted!
- 7522: There is a beastmen's banner.
- 7523: @
+ 7347: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7348: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7349: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7350: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7351: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7352: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7353: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7354: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7355: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7356: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7357: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7358: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7359: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7360: ($20%._AM$0$P14u$6E7)
+ 7361: ($20%._BM$0$P14u$6E7)
+ 7362: ($20%._CM$0$P14u$6E7)
+ 7363: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7364: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7365: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7366: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7367: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7368: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7369: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7370: (AIMID* h\9qE5=)
+ 7371: (BIMID* h\9qE5=)
+ 7372: (CIMID* h\9qE5=)
+ 7373: (AIID* h\5=)
+ 7374: (BIID* h\5=)
+ 7375: (CIID* h\5=)
+ 7376: (AM7EI$P10f$P16q* h\5=)
+ 7377: (BM7EI$P10f$P16q* h\5=)
+ 7378: (CM7EI$P10f$P16q* h\5=)
+ 7379: $2097706ADH"=_$P13|$:E+\9q
+ 7380: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7381: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7382: Only <Player> can enter the battlefield.
+ 7383: The time limit for this battle is $3 minutes.
+ 7384: There is a crack in the $3. It no longer contains a monster.
+ 7385: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7386: Boss mode : $6!!
+ 7387: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7388: $7
+ 7389: DEBUG1
+ 7390: $T&$:I$P16_i)$4719207" $P16_i
+ 7391: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7392: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7393: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7394: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7395: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7396: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7397: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7398: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7399: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7400: CLI_NUM0 = $0
+ 7401: CLI_NUM1 = $1
+ 7402: CLI_NUM2 = $2
+ 7403: CLI_NUM3 = $3
+ 7404: CLI_NUM4 = $4
+ 7405: CLI_NUM5 = $5
+ 7406: CLI_NUM6 = $6
+ 7407: CLI_NUM7 = $6
+ 7408: Skip the event? [Yes./No.]
+ 7409: Battlefield clear time: $3 second[/s]!
+ 7410: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7411: The current battlefield clear time record is $3 second[/s].
+ 7412: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7413: Called the NPC! PC ID = $0! RESULT = $1!
+ 7414: Got rid of the NPC! PC ID = $0!
+ 7415: The NPC has fallen, and he can't get up! Leaving room A!
+ 7416: The NPC has fallen, and he can't get up! Leaving room B!
+ 7417: The NPC has fallen, and he can't get up! Leaving room C!
+ 7418: The NPC has fallen, and he can't get up! Leaving room D!
+ 7419: All party members have fallen in battle. Now leaving the battlefield.
+ 7420: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7421: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7422: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7423: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7424: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7425: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7426: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7427: What the hell is that number!? It's not possible!!!
+ 7428: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7429: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7430: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7431: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7432: That record is held by $5 adventurers, including %0!
+ 7433: That record is held by %0!
+ 7434: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7435: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7436: A malignant force escapes from your $3.
+ 7437: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7438: Your $3 is calling out to something...
+ 7439: The $0 has a large crack running straight down the side.
+ 7440: Something awakens owing to the presence of the $3...
+ 7441: The oath has been fulfilled owing to the power of your $3.
+ 7442: Tallying conquest results...
+ 7443: Conquest results tallied.
+ 7444: This region is currently under San d'Orian control.
+ 7445: This region is currently under Bastokan control.
+ 7446: This region is currently under Windurstian control.
+ 7447: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7448: This region is currently neutral.
+ 7449: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7450: All three nations are tied for first place.
+ 7451: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7452: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7453: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7454: All three nations are tied for first place.
+ 7455: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7456: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7457: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7458: All three nations are tied for first place.
+ 7459: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7460: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7461: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7462: All three nations are tied for first place.
+ 7463: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7464: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7465: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7466: Global balance of power: All three nations are tied for first place.
+ 7467: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7468: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7469: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7470: All three nations are tied for first place.
+ 7471: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7472: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7473: Conquest update: This region is currently neutral.
+ 7474: Conquest update: This region is currently under San d'Orian control.
+ 7475: Conquest update: This region is currently under Bastokan control.
+ 7476: Conquest update: This region is currently under Windurstian control.
+ 7477: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7478: All three nations are at a deadlock.
+ 7479: The beastmen are on the rise.
+ 7480: Regional influence: San d'Oria - Dominant
+ 7481: Regional influence: San d'Oria - Major
+ 7482: Regional influence: San d'Oria - Minor
+ 7483: Regional influence: San d'Oria - Minimal
+ 7484: Bastok - Dominant
+ 7485: Bastok - Major
+ 7486: Bastok - Minor
+ 7487: Bastok - Minimal
+ 7488: Windurst - Dominant
+ 7489: Windurst - Major
+ 7490: Windurst - Minor
+ 7491: Windurst - Minimal
+ 7492: Bastok and Windurst have formed an alliance.
+ 7493: San d'Oria and Windurst have formed an alliance.
+ 7494: San d'Oria and Bastok have formed an alliance.
+ 7495: Bastok and Windurst are currently allies.
+ 7496: San d'Oria and Windurst are currently allies.
+ 7497: San d'Oria and Bastok are currently allies.
+ 7498: $10$P11.$17F$0 $P14;$P12hF$1
+ 7499: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7500: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7501: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7502: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7503: The beastmen are gaining power.
+ 7504: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7505: Bastok's regional control is now 10% closer to the first place country's!
+ 7506: Windurst's regional control are now 10% closer to the first place country's!
+ 7507: San d'Oria's region points have increased!
+ 7508: Bastok's region points have increased!
+ 7509: Windurst's region points have increased!
+ 7510: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7511: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7512: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7513: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7514: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7515: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7516: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7517: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7518: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7519: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7520: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7521: There was a curse on the beastmen's banner!
+ 7522: The curse of the beastmen's banner has been lifted!
+ 7523: There is a beastmen's banner.
  7524: @
  7525: @
  7526: @
@@ -7599,425 +7599,426 @@
  7595: @
  7596: @
  7597: @
- 7598: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7599: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7600: There is no response. You cannot escape!
- 7601: You have broken the clear time record for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]"!
- 7602: The current battlefield clear time record for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]" is $3 second[/s].
- 7603: The current battlefield clear time record for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]" is $3 minute[/s] $2 second[/s].
- 7604: Entering the battlefield for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]"!
- 7605: Which battlefield will you enter? [None./One to Be Feared./The Warrior's Path./$26The Warrior's Path./$26One to Be Feared./././././././././././././././././././././././././././.]
- 7606: Do you really wish to leave? [Yes./No.]
- 7607: Are you sure you are ready? [Yes./No.]
- 7608: mes1
- 7609: mes2
- 7610: mes3
- 7611: mes4
- 7612: mes5
- 7613: We will be departing shortly for the San d'Orian Cathedral aboard Sir Louverance's airship.
- 7614: I asked if you might accompany us, but they answered me with a hearty "no."
- 7615: However, you need not worry, <Player>. I will not take an eye off of Lady Prishe.
- 7616: And if, by chance, San d'Oria breaks its promise and refuses to release her, I will do everything in my power to rescue the fair lady.
- 7617: However, if there is one thing we must worry about, it is the amount of time we are losing with all this sidetracking. We can only hope the boy is not too far ahead of us...
- 7618: The ship is about to leave. Let us all board.
- 7619: Hm? Where is Lady Ulmia? Is she not accompanying us?
- 7620: I spoke with Ulmia earlier and do not feel that she possesses any information of use to the Kingdom. She is to remain here on the island.
- 7621: The elder Despachiaire would not even allow her to come see us off. He is quite worried about his granddaughter, isn't he?
- 7622: Yes, I sense we are to encounter much danger in our journey ahead. It is better that she stays here...for her own safety.
- 7623: So she's not coming... I guess this means I'll never see her again.
- 7624: Lady Prishe. We all walk different paths in life. However, if those paths point in the same direction, there is a good chance that they will cross once again.
- 7625: Yeah, but to tell you the truth, I'd rather spend the next few weeks with Ulmia than I would with you.
- 7626: Lady Prishe! There are some opinions better left unspoken!
- 7627: Well, I guess this is goodbye. Don't go fallin' off a cliff or gettin' eaten by a buffalo or anything, 'cause I won't be around to save your butts.
- 7628: Don't you go doing anything crazy either, Prishe.
- 7629: Wait!
- 7630: Huh? What?
- 7631: Take me with you. I still may be of some use. I haven't yet told you of the song I learned from Cardinal Mildaurion.
- 7632: I feel that the song may be an important clue into solving the mysteries that lie before us.
- 7633: Interesting... Very well. You may accompany us to San d'Oria.
- 7634: Did you hear that? Ulmia and Prishe, back together again on the trail of adventure!
- 7635: Prishe, I'm... I'm so sorry...
- 7636: I know you already know this, but let me say it anyway.
- 7637: I do not have any of the special powers that you do. There is so much that I do not understand...
- 7638: However, there is one thing I do know, and that is that I wish to travel with you and sing--sing your song.
- 7639: It is you who introduced me to a world filled with song, and this is the only way I can repay you.
- 7640: Heh heh heh. Thanks, Ulmia. Now let's get moving!
- 7641: <Player>. We will await you at the San d'Orian Cathedral!
- 7642: The airship carrying Prishe and Ulmia just left for San d'Oria.
- 7643: Someday maybe I'll be lucky enough to ride an airship off the island... Someday...
- 7644: The Sealion's Den once served as a private port for the Tavnazian Cathedral.
- 7645: However, not a single ship has visited this place in over twenty years. I'm only stationed here to make sure no beastmen try to sneak their way into the safehold.
- 7646: I never believed the day would come when I saw a ship docked in the Sealion's Den.
- 7647: I have a feeling my job is about to become real interesting!
- 7648: The Chebukki brothers arrived a while back on an airship that was unlike any that had visited our port before.
- 7649: There were enough weapons on the contraption to blow up an island...
- 7650: If you're looking for the Chebukki brothers, they headed back to Jeuno a few days ago. Now that you mention it, they looked like they were in quite a hurry.
- 7651: I guess once you've had a taste of city life, it's hard to come back to the country...
- 7652: Cid? No one going by that name has passed through here.
- 7653: Master Cid! We have been waiting for your arrival!
- 7654: I've brought Ulmia and Louverance with me.
- 7655: But I'm sorry to say Prishe couldn't make it. There's been a bit of a problem.
- 7656: A problem? What do you mean?
- 7657: Ulmia, would you be so kind as to fill Tenzen in on the details?
- 7658: I have some business with Gilgamesh's little helpers.
- 7659: We... We couldn't find Prishe...
- 7660: I fear that she is hiding somewhere on one of the armada's warships.
- 7661: That cannot be possible!
- 7662: Why did Lady Prishe not wait for you to return?
- 7663: She is not planning to attack the Wyrmking, is she!?
- 7664: I think Prishe knows...that we would follow her.
- 7665: Prishe can read the hearts of others. She knows what we feel and what we think--she knows what I feel...
- 7666: But why does she continue on if she knows that her decisions will only hurt me...?
- 7667: Why does believing hurt so...?
- 7668: Even when...two hearts...are connected...there are times...when pain...can't be avoided...
- 7669: When the world...is overwhelmed with...sadness... The only way...to escape the pain...is to...change the world...
- 7670: ...
- 7671: ... Perhaps you are right, Jabbos. Perhaps the only option left to mankind is to change Vana'diel...
- 7672: For the past ten thousand years, Vana'diel has grown and evolved to become what it is today--a world bound by the chains of an evil deity.
- 7673: Prishe set out on her own in an attempt to change that world--our world...
- 7674: Hey, are you guys ready? I've finished loading my baby up with the secret weapons, and it's time we moved out. There's no time to lose!
- 7675: I'm going to hitch a ride back to Bastok on Gilgamesh's boat and let the president in on what's going on.
- 7676: Even if you are successful in stopping Bahamut, there's no knowing what his wyrm army might do. The Republic has to be prepared for the worst.
- 7677: Cid... Thank you so very much for all that you have done.
- 7678: Heh heh. You know if I were only a few years younger, I'd be up there with you guys. But my place is back in Bastok. Gilgamesh made sure I didn't forget that.
- 7679: And don't you forget that you're going up there to save your nations--no, to save all of Vana'diel!
- 7680: Your lives will be on the line, but I know you'll be all right!
- 7681: As long as you're riding my [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit], nothing can go wrong!
- 7682: Wah ha ha ha!
- 7683: Master Cid, I ask that you allow me to fly her.
- 7684: She's all yours! Now get out of here...Warriors of the Crystal!
- 7685: Yes, let us be off! Bahamut...and Prishe are awaiting your arrival!
- 7686: Ulmia told me that we may never see Prishe again...
- 7687: ...That Prishe is ready to sacrifice herself to the Wyrmking to save the world...
- 7688: But you won't let that happen, will you, <Player>? You'll find a way to save Prishe, Ulmia, and everybody, right?
- 7689: Do you think there is any chance to catch up with Lady Prishe?
- 7690: According to Aldo, the Jeuno Armada departed the Duchy after splitting into two units.
- 7691: The main unit will enter Cape Riverne directly by air and attempt to draw the wyrms from the floating islands.
- 7692: At the same time, the remaining unit will attempt to approach Bahamut from the opposite direction.
- 7693: I assume that Prishe would be with the latter.
- 7694: However, that unit cannot begin its operation until the main unit has successfully drawn the attention of the other wyrms.
- 7695: Engineer Cid said the same thing. This means we still have time!
- 7696: Look what I found hiding below decks.
- 7697: Get your hands off me, you pointy-eared brute!
- 7698: Let us go, or you'll all be doomed!
- 7699: Yeah! We're your secret weapon!
- 7700: Secret weapon? You wouldn't happen to be the same "secret weapon" that Cid received from Gilgamesh...would you?
- 7701: We've given up the fame and glory of being high-class Jeunoan officers!
- 7702: And decided to become high-class pirates!
- 7703: The highest of the high, and classiest of the class, yes sir-ee!
- 7704: ...
- 7705: Hmmm, we will be making contact with the armada shortly.
- 7706: It may be to our advantage to have someone on board who can communicate with them.
- 7707: What the...!
- 7708: I can see them... The...
- 7709: The Jeuno Armada!
- 7710: Warning shots?
- 7711: That scary Elvaan went to the communications room!
- 7712: Shouldn't we be going to the communications room?
- 7713: I say we go to the communications room!
- 7714: We should go as well, <Player>. We must try to convince them that we are here to help!
- 7715: Huh!? Your tummy hurts!? You wanna go home!?
- 7716: That's why we can't take you anywhere, you know!
- 7717: Hey! Don't forget to come back, okay!? If you don't, Ulmia's gonna have your head!
- 7718: <Player>! The attack seems to have subsided...
- 7719: Something is going on over there... Something is wrong...
- 7720: What if they discovered where Prishe was hiding!?
- 7721: Louverance is moving the ship into position so we can board their vessel. Let us hurry below decks.
- 7722: Prishe! If you can hear me, give me a sign! We've come to help!
- 7723: We mean you no harm! We are simply trying to find our companion!
- 7724: You're wasting your breath, samurai man.
- 7725: Yeah, they can't hear you--they're just puppets made by those crazy scientists in Jeuno!
- 7726: P-puppets...?
- 7727: Prishe! Are you okay!? If you can hear us, rrrespond!
- 7728: And if you can't hear us, respond!
- 7729: C-could she b-be...inside that thing...?
- 7730: ...Its dinner? Well, that would explain why she couldn't hear us...
- 7731: What's going on!?
- 7732: If we continue like this, both sides will end up exhausted without having made any progress!
- 7733: Look!
- 7734: I will attempt to pull our ship up alongside theirs. Hold on!
- 7735: You dirty rat! Why don't you come down here and fight like a man!?
- 7736: Hah ha ha! The wonderful exhibition about to unfold will buy me more than enough time.
- 7737: My "pet" is still far from completion. However, when she is finished, she will be the most powerful creation Vana'diel has ever seen!
- 7738: Though those created ten thousand years ago may still be residing somewhere within the celestial capital of Al'Taieu...
- 7739: Lady Prishe!
- 7740: Prishe!
- 7741: Huh!? Hey, guys! Ulmia! What's everybody doing here?
- 7742: <Sigh> Not another distraction... Well, at least now I can test my pet in "extreme battle mode."
- 7743: Ultima Weapon, show our friends what you can do.
- 7744: <Sigh> I guess I cannot expect too much from a prototype...
- 7745: What do you think you are trying to do, Nag'molada? You were relieved from your position within the Armathrwn Society and banished from Jeuno.
- 7746: How dare you step over the boundaries of the amnesty you were granted and bring that creation aboard an armada vessel!
- 7747: Did you think that by performing this "service" we would take you back?
- 7748: Or was this cause of turmoil simply a desperate attempt to interfere with our plan--an attempt born from hate and despisal?
- 7749: ...
- 7750: Or perhaps, you came to ask Bahamut the way to Al'Taieu...
- 7751: Nag'molada. I understand why you seek the path to the celestial capital.
- 7752: We who have lost the "whisper of the soul" are forced to live alone, trapped within our own wretched solitude.
- 7753: However, that is our path to freedom.
- 7754: We are children born from one. Now our children and our children's children step out into the ever expanding world.
- 7755: This is much like when the mothercrystal split into five pieces long, long ago.
- 7756: We were simply ready to leave the nest before the Zilart.
- 7757: ... Then why did you choose to abandon your people and hide away in the Chamber of Eventide?
- 7758: Why do you join the Zilart in blocking the path to Al'Taieu?
- 7759: That is...
- 7760: By entering the chamber, you succeeded in washing away the darkness of your soul.
- 7761: That is why I seek the capital--so I can remove the darkness from my soul. So I can be free!
- 7762: Hah! If you want to go to Al'Taieu so bad, then why don't you just go to Movalpolos?
- 7763: Prishe!
- 7764: The boy Selh'teus has already asked the Moblins to open the gate to the capital.
- 7765: If you follow him, he'll lead you right to the fifth crystal.
- 7766: I see... Whether it has been buried or submerged, there is no place the Moblins cannot find...
- 7767: And I was beginning to wonder when I was going to be able to see the boy once again. I have unfinished business with him...
- 7768: I've told you what you want to know, now get out of here!
- 7769: !?
- 7770: As much as I'd like to, it would be improper for me not to return the favor...
- 7771: ...the favor bestowed upon the Kuluu over ten thousand years ago!
- 7772: Return the favor...? A surprise attack!?
- 7773: Ha ha ha! I see my song has reached the conqueror of the skies!
- 7774: I am Kuluu! My strength comes from the protection of the terrestrial avatars. Without you, I am powerless!
- 7775: The Zilart--those who have sworn revenge against Vana'diel--to you I offer these traitors as a sacrifice!
- 7776: You are nothing but a raving maniac, Nag'molada! You are far from being one of us! Your pitiful soul drowns in darkness.
- 7777: And that is why I must cleanse it!
- 7778: I will find Al'Taieu and use the Chamber of Eventide!
- 7779: It's a`ll over...
- 7780: It's over easy...
- 7781: What are you talking about!? This is where it gets interesting!
- 7782: Bahamut! Conqueror of the skies! King of the wyrms!
- 7783: I am Prishe! I am the Keeper of the Apocalypse!
- 7784: Your pact with Selh'teus left me trapped for thousands of years.
- 7785: This magicite... It is nothing but another form of the Emptiness. It was born from the same place I was. We are one and the same!
- 7786: My friends and I have come to call forth and destroy the Emptiness and its maker, Promathia!
- 7787: And we will do it right here, right now! We will fulfill the pact!
- 7788: Watch as we show you the children of the dawn's true power!
- 7789: So this is what you meant, Esha'ntarl...
- 7790: There is no need for you to prove anything, young Elvaan, for you are not the keeper.
- 7791: !?
- 7792: Not the keeper!? But...
- 7793: Esha'ntarl... Children of Altana... And, Phoenix...
- 7794: I commend you on what you are attempting to do for the people of Vana'diel. And that is why I will tell you this...
- 7795: The true Keeper of the Apocalypse lies in the celestial capital of Al'Taieu.
- 7796: Within that soul lies an immeasurable amount of darkness...
- 7797: For ten thousand years it has slept... But now it has awoken...
- 7798: The true keeper?
- 7799: ...In Al'Taieu!?
- 7800: Who was it that restarted the Crystal Line? Remnants of the Zilart? The children of Altana?
- 7801: It does not matter, for now the power within the final crystal--the crystal that holds Al'Taieu in balance--has begun to fade.
- 7802: It will not be long before the celestial capital has fallen to Vana'diel.
- 7803: When this occurs, the Keeper of the Apocalypse will arise and envelop all life.
- 7804: And finally the Twilight God, Promathia, will use his almighty power to begin his eternal reign.
- 7805: That is why I have come... To stop the seeds of man from being wiped from Vana'diel.
- 7806: If there is nothing for the keeper to envelop, then Promathia will not have the strength to enter our realm.
- 7807: Nothing to envelop...?
- 7808: And so that is why you planned to attack...!
- 7809: Damn! And you call yourself a guardian of Vana'diel!? Why didn't you tell us what you were going to do a long time ago!?
- 7810: If you would've been honest with us, we could have been in Al'Taieu whipping that keeper's butt last week!
- 7811: She is right, Lord Bahamut.
- 7812: Such intolerant behavior does not befit the conqueror of the skies!
- 7813: Why do you not believe in the power of the children of the dawn?
- 7814: Why must I believe in something that does not exist?
- 7815: You cannot defeat the Twilight God. You will not even be allowed to approach him.
- 7816: Selh'teus proved that to us ten thousand years ago. Destruction is your destiny. You cannot escape what has already been decided.
- 7817: There... There is still a way!
- 7818: Bahamut! We need not fight Promathia...if we can stop the Keeper of the Apocalypse!
- 7819: Selh'teus told us this! That is why he has returned!
- 7820: He is here to stop Al'Taieu from falling back to this dimension!
- 7821: Impossible! Selh'teus does not have the power to...
- 7822: I'm sick of all this talk! Doesn't anybody here think we can handle the situation!?
- 7823: <Player>! You tell him! You know we can kick his bloody butt all the way into next Watersday!
- 7824: Do you have what it takes? [You bet!/I don't know...]
- 7825: Huh!? What do you mean, you don't know!? I'm telling you that you do!
- 7826: Y-you...?
- 7827: Damn you, Selh'teus...!
- 7828: I will not let you harm Vana'diel and her children like you did once before!
- 7829: Whoa, I have a bad feeling about this...
- 7830: <Player>! Get out of the way!
- 7831: <Player>!
- 7832: Everyone, abandon ship!!!
- 7833: (Phoenix...)
- 7834: (Will you return to the mothercrystal along with so many other lives?)
- 7835: (I understand. Your sacrifice has bought us a sliver of time.)
- 7836: (Let me release you for your journey to the mothercrystal...)
- 7837: (Open the path in preparation for [her/him]...)
- 7838: <Player>! It is just as Prishe said. You didn't fall from the airship after all.
- 7839: Are you wounded...? Tell us...where...you are...hurt...
- 7840: Think carefully... Wounds...of the spirit...can escape...your notice...
- 7841: And they are...much more...dangerous...than physical...cuts and bruises...
- 7842: If you are...wounded...this Moblin...medicine...can help...
- 7843: Tenzen...said he...was fine...as well. But he...needs medicine...as much...as you.
- 7844: Do you rrrealize what happened back there?
- 7845: It was your actions that enraged the Wyrmking Bahamut.
- 7846: The rift between dragons and people is deep. There was no rrreasoning with him.
- 7847: If we could only harness the strength of the sleeping gods, we could approach Bahamut on equal footing...
- 7848: ...
- 7849: <Player>, tell Tenzen to rrreturn to town before Cid's airship arrives. I want to leave as soon as possible.
- 7850: After taking a look at the condition that bird was in, I'm surprised you made it back at all. I knew that no one was ever going to be able to defeat Prishe, but I never imagined that even destiny couldn't bring her down. She's one tough kid.
- 7851: Hm? Where did she go? Some rough-looking guys on a boat carried her off. They said that they were going to repair her.
- 7852: You just missed them! Not more than a couple of minutes ago, an airship from Jeuno came and took Prishe and her friends away.
- 7853: Ulmia said that they should wait for you, but Prishe said you'd find your own way back to the mainland...so they left.
- 7854: I wonder if that means they'll be sending another ship...
- 7855: If that's the case, those three Tarutaru should have waited instead of hiding away in those barrels.
- 7856: Over the past few months, hundreds of ships have brought thousands of people to our town.
- 7857: It's like a clock that hasn't run for twenty years has suddenly started ticking again.
- 7858: You were asked to deliver all these letters from Ulmia and Prishe?
- 7859: And I'm supposed to hand them out if those two fail to return...?
- 7860: Where on Vana'diel are they thinking of going? You're not seriously thinking of taking on the wyrms...!?
- 7861: Sueleen, look sharp! An airship is entering the port!
- 7862: There's a whole lot more of them circling above. What the hell's going on?
- 7863: That ship...
- 7864: Hey, <Player>! Check it out! That old Cid's a genius!
- 7865: The airship's been rebuilt shinier than Despachiaire's bald spot. Hell, with the autopilot Cid installed, it's even better than before!
- 7866: We even got an escort from the Jeuno Armada! C'mon, let's get this baby back in the air!
- 7867: Where are you off to this time, Prishe?
- 7868: Heh heh! We're bound for the fifth mothercrystal and beyond! Next stop: the legendary city of Al'Taieu!
- 7869: The place where ten thousand years of history began.
- 7870: To where...!? You better make it back here alive, Prishe!
- 7871: No sweat! I'll be back making trouble before you know it. Let's go, <Player>!
- 7872: The new and improved [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit] is ready for take off!
- 7873: Please, adventurer. Keep Prishe and Ulmia safe from harm.
- 7874: I want to laugh as I hand back the letters they wrote in case they didn't make it...
- 7875: It's too...quiet... Could it be...the wyrms...haven't...noticed us...?
- 7876: The armada led by Lady Mildaurion must have begun its attack.
- 7877: I wonder how the battle fares.
- 7878: Great Goddess of the Dawn. May your divine blessings protect the fifth mothercrystal--and the future of your children.
- 7879: May your gentle gaze also watch over the safe return of Cardinal Mildaurion...
- 7880: Don't forget to pray for our safety while you're at it, Ulmia.
- 7881: Look, there it is!
- 7882: Full speed ahead!
- 7883: Oh my!
- 7884: Lady Prishe! We have a transmission from the warship:
- 7885: "Attention! Your most prized possession is now the property of the Chebukki Samurai Sky Pirates!"
- 7886: What the hell!?
- 7887: Welcome to the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ]Kukki Battle Cruiser!
- 7888: Welcome to the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ]Cherukiki Flagship!
- 7889: A beautiful day for a sad announcement.
- 7890: We've decided to give up our occupation as high-class pirates.
- 7891: As a final high-class pirate duty, we were entrusted with this ship for the purpose of escorting Prishe safely to her destination.
- 7892: But since that would lead to certain death...
- 7893: We've decided to find more suitable (and survivable) employment...
- 7894: We're now the Chebukki Samurai Sky Pirates! Meet our new employer!
- 7895: The mothercrystals...
- 7896: The origin of all life, and the destination for spent souls...
- 7897: All return to the light of the closest crystal...
- 7898: I have long awaited this moment. The moment you were bathed in the glow...
- 7899: The light of the fifth mothercrystal beckons you!
- 7900: You are overwhelmed by Tenzen's Cosmic Elucidation!
- 7901: I expected nothing less from the light of hope... Never before has my blade failed me in battle.
- 7902: So... Only the youth that seethes with Emptiness can extinguish that light...
- 7903: Here comes the cavalry!
- 7904: The cannon!?
+ 7598: @
+ 7599: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7600: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7601: There is no response. You cannot escape!
+ 7602: You have broken the clear time record for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]"!
+ 7603: The current battlefield clear time record for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]" is $3 second[/s].
+ 7604: The current battlefield clear time record for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]" is $3 minute[/s] $2 second[/s].
+ 7605: Entering the battlefield for "[One to Be Feared/The Warrior's Path/$26The Warrior's Path/$26One to Be Feared]"!
+ 7606: Which battlefield will you enter? [None./One to Be Feared./The Warrior's Path./$26The Warrior's Path./$26One to Be Feared./././././././././././././././././././././././././././.]
+ 7607: Do you really wish to leave? [Yes./No.]
+ 7608: Are you sure you are ready? [Yes./No.]
+ 7609: mes1
+ 7610: mes2
+ 7611: mes3
+ 7612: mes4
+ 7613: mes5
+ 7614: We will be departing shortly for the San d'Orian Cathedral aboard Sir Louverance's airship.
+ 7615: I asked if you might accompany us, but they answered me with a hearty "no."
+ 7616: However, you need not worry, <Player>. I will not take an eye off of Lady Prishe.
+ 7617: And if, by chance, San d'Oria breaks its promise and refuses to release her, I will do everything in my power to rescue the fair lady.
+ 7618: However, if there is one thing we must worry about, it is the amount of time we are losing with all this sidetracking. We can only hope the boy is not too far ahead of us...
+ 7619: The ship is about to leave. Let us all board.
+ 7620: Hm? Where is Lady Ulmia? Is she not accompanying us?
+ 7621: I spoke with Ulmia earlier and do not feel that she possesses any information of use to the Kingdom. She is to remain here on the island.
+ 7622: The elder Despachiaire would not even allow her to come see us off. He is quite worried about his granddaughter, isn't he?
+ 7623: Yes, I sense we are to encounter much danger in our journey ahead. It is better that she stays here...for her own safety.
+ 7624: So she's not coming... I guess this means I'll never see her again.
+ 7625: Lady Prishe. We all walk different paths in life. However, if those paths point in the same direction, there is a good chance that they will cross once again.
+ 7626: Yeah, but to tell you the truth, I'd rather spend the next few weeks with Ulmia than I would with you.
+ 7627: Lady Prishe! There are some opinions better left unspoken!
+ 7628: Well, I guess this is goodbye. Don't go fallin' off a cliff or gettin' eaten by a buffalo or anything, 'cause I won't be around to save your butts.
+ 7629: Don't you go doing anything crazy either, Prishe.
+ 7630: Wait!
+ 7631: Huh? What?
+ 7632: Take me with you. I still may be of some use. I haven't yet told you of the song I learned from Cardinal Mildaurion.
+ 7633: I feel that the song may be an important clue into solving the mysteries that lie before us.
+ 7634: Interesting... Very well. You may accompany us to San d'Oria.
+ 7635: Did you hear that? Ulmia and Prishe, back together again on the trail of adventure!
+ 7636: Prishe, I'm... I'm so sorry...
+ 7637: I know you already know this, but let me say it anyway.
+ 7638: I do not have any of the special powers that you do. There is so much that I do not understand...
+ 7639: However, there is one thing I do know, and that is that I wish to travel with you and sing--sing your song.
+ 7640: It is you who introduced me to a world filled with song, and this is the only way I can repay you.
+ 7641: Heh heh heh. Thanks, Ulmia. Now let's get moving!
+ 7642: <Player>. We will await you at the San d'Orian Cathedral!
+ 7643: The airship carrying Prishe and Ulmia just left for San d'Oria.
+ 7644: Someday maybe I'll be lucky enough to ride an airship off the island... Someday...
+ 7645: The Sealion's Den once served as a private port for the Tavnazian Cathedral.
+ 7646: However, not a single ship has visited this place in over twenty years. I'm only stationed here to make sure no beastmen try to sneak their way into the safehold.
+ 7647: I never believed the day would come when I saw a ship docked in the Sealion's Den.
+ 7648: I have a feeling my job is about to become real interesting!
+ 7649: The Chebukki brothers arrived a while back on an airship that was unlike any that had visited our port before.
+ 7650: There were enough weapons on the contraption to blow up an island...
+ 7651: If you're looking for the Chebukki brothers, they headed back to Jeuno a few days ago. Now that you mention it, they looked like they were in quite a hurry.
+ 7652: I guess once you've had a taste of city life, it's hard to come back to the country...
+ 7653: Cid? No one going by that name has passed through here.
+ 7654: Master Cid! We have been waiting for your arrival!
+ 7655: I've brought Ulmia and Louverance with me.
+ 7656: But I'm sorry to say Prishe couldn't make it. There's been a bit of a problem.
+ 7657: A problem? What do you mean?
+ 7658: Ulmia, would you be so kind as to fill Tenzen in on the details?
+ 7659: I have some business with Gilgamesh's little helpers.
+ 7660: We... We couldn't find Prishe...
+ 7661: I fear that she is hiding somewhere on one of the armada's warships.
+ 7662: That cannot be possible!
+ 7663: Why did Lady Prishe not wait for you to return?
+ 7664: She is not planning to attack the Wyrmking, is she!?
+ 7665: I think Prishe knows...that we would follow her.
+ 7666: Prishe can read the hearts of others. She knows what we feel and what we think--she knows what I feel...
+ 7667: But why does she continue on if she knows that her decisions will only hurt me...?
+ 7668: Why does believing hurt so...?
+ 7669: Even when...two hearts...are connected...there are times...when pain...can't be avoided...
+ 7670: When the world...is overwhelmed with...sadness... The only way...to escape the pain...is to...change the world...
+ 7671: ...
+ 7672: ... Perhaps you are right, Jabbos. Perhaps the only option left to mankind is to change Vana'diel...
+ 7673: For the past ten thousand years, Vana'diel has grown and evolved to become what it is today--a world bound by the chains of an evil deity.
+ 7674: Prishe set out on her own in an attempt to change that world--our world...
+ 7675: Hey, are you guys ready? I've finished loading my baby up with the secret weapons, and it's time we moved out. There's no time to lose!
+ 7676: I'm going to hitch a ride back to Bastok on Gilgamesh's boat and let the president in on what's going on.
+ 7677: Even if you are successful in stopping Bahamut, there's no knowing what his wyrm army might do. The Republic has to be prepared for the worst.
+ 7678: Cid... Thank you so very much for all that you have done.
+ 7679: Heh heh. You know if I were only a few years younger, I'd be up there with you guys. But my place is back in Bastok. Gilgamesh made sure I didn't forget that.
+ 7680: And don't you forget that you're going up there to save your nations--no, to save all of Vana'diel!
+ 7681: Your lives will be on the line, but I know you'll be all right!
+ 7682: As long as you're riding my [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit], nothing can go wrong!
+ 7683: Wah ha ha ha!
+ 7684: Master Cid, I ask that you allow me to fly her.
+ 7685: She's all yours! Now get out of here...Warriors of the Crystal!
+ 7686: Yes, let us be off! Bahamut...and Prishe are awaiting your arrival!
+ 7687: Ulmia told me that we may never see Prishe again...
+ 7688: ...That Prishe is ready to sacrifice herself to the Wyrmking to save the world...
+ 7689: But you won't let that happen, will you, <Player>? You'll find a way to save Prishe, Ulmia, and everybody, right?
+ 7690: Do you think there is any chance to catch up with Lady Prishe?
+ 7691: According to Aldo, the Jeuno Armada departed the Duchy after splitting into two units.
+ 7692: The main unit will enter Cape Riverne directly by air and attempt to draw the wyrms from the floating islands.
+ 7693: At the same time, the remaining unit will attempt to approach Bahamut from the opposite direction.
+ 7694: I assume that Prishe would be with the latter.
+ 7695: However, that unit cannot begin its operation until the main unit has successfully drawn the attention of the other wyrms.
+ 7696: Engineer Cid said the same thing. This means we still have time!
+ 7697: Look what I found hiding below decks.
+ 7698: Get your hands off me, you pointy-eared brute!
+ 7699: Let us go, or you'll all be doomed!
+ 7700: Yeah! We're your secret weapon!
+ 7701: Secret weapon? You wouldn't happen to be the same "secret weapon" that Cid received from Gilgamesh...would you?
+ 7702: We've given up the fame and glory of being high-class Jeunoan officers!
+ 7703: And decided to become high-class pirates!
+ 7704: The highest of the high, and classiest of the class, yes sir-ee!
+ 7705: ...
+ 7706: Hmmm, we will be making contact with the armada shortly.
+ 7707: It may be to our advantage to have someone on board who can communicate with them.
+ 7708: What the...!
+ 7709: I can see them... The...
+ 7710: The Jeuno Armada!
+ 7711: Warning shots?
+ 7712: That scary Elvaan went to the communications room!
+ 7713: Shouldn't we be going to the communications room?
+ 7714: I say we go to the communications room!
+ 7715: We should go as well, <Player>. We must try to convince them that we are here to help!
+ 7716: Huh!? Your tummy hurts!? You wanna go home!?
+ 7717: That's why we can't take you anywhere, you know!
+ 7718: Hey! Don't forget to come back, okay!? If you don't, Ulmia's gonna have your head!
+ 7719: <Player>! The attack seems to have subsided...
+ 7720: Something is going on over there... Something is wrong...
+ 7721: What if they discovered where Prishe was hiding!?
+ 7722: Louverance is moving the ship into position so we can board their vessel. Let us hurry below decks.
+ 7723: Prishe! If you can hear me, give me a sign! We've come to help!
+ 7724: We mean you no harm! We are simply trying to find our companion!
+ 7725: You're wasting your breath, samurai man.
+ 7726: Yeah, they can't hear you--they're just puppets made by those crazy scientists in Jeuno!
+ 7727: P-puppets...?
+ 7728: Prishe! Are you okay!? If you can hear us, rrrespond!
+ 7729: And if you can't hear us, respond!
+ 7730: C-could she b-be...inside that thing...?
+ 7731: ...Its dinner? Well, that would explain why she couldn't hear us...
+ 7732: What's going on!?
+ 7733: If we continue like this, both sides will end up exhausted without having made any progress!
+ 7734: Look!
+ 7735: I will attempt to pull our ship up alongside theirs. Hold on!
+ 7736: You dirty rat! Why don't you come down here and fight like a man!?
+ 7737: Hah ha ha! The wonderful exhibition about to unfold will buy me more than enough time.
+ 7738: My "pet" is still far from completion. However, when she is finished, she will be the most powerful creation Vana'diel has ever seen!
+ 7739: Though those created ten thousand years ago may still be residing somewhere within the celestial capital of Al'Taieu...
+ 7740: Lady Prishe!
+ 7741: Prishe!
+ 7742: Huh!? Hey, guys! Ulmia! What's everybody doing here?
+ 7743: <Sigh> Not another distraction... Well, at least now I can test my pet in "extreme battle mode."
+ 7744: Ultima Weapon, show our friends what you can do.
+ 7745: <Sigh> I guess I cannot expect too much from a prototype...
+ 7746: What do you think you are trying to do, Nag'molada? You were relieved from your position within the Armathrwn Society and banished from Jeuno.
+ 7747: How dare you step over the boundaries of the amnesty you were granted and bring that creation aboard an armada vessel!
+ 7748: Did you think that by performing this "service" we would take you back?
+ 7749: Or was this cause of turmoil simply a desperate attempt to interfere with our plan--an attempt born from hate and despisal?
+ 7750: ...
+ 7751: Or perhaps, you came to ask Bahamut the way to Al'Taieu...
+ 7752: Nag'molada. I understand why you seek the path to the celestial capital.
+ 7753: We who have lost the "whisper of the soul" are forced to live alone, trapped within our own wretched solitude.
+ 7754: However, that is our path to freedom.
+ 7755: We are children born from one. Now our children and our children's children step out into the ever expanding world.
+ 7756: This is much like when the mothercrystal split into five pieces long, long ago.
+ 7757: We were simply ready to leave the nest before the Zilart.
+ 7758: ... Then why did you choose to abandon your people and hide away in the Chamber of Eventide?
+ 7759: Why do you join the Zilart in blocking the path to Al'Taieu?
+ 7760: That is...
+ 7761: By entering the chamber, you succeeded in washing away the darkness of your soul.
+ 7762: That is why I seek the capital--so I can remove the darkness from my soul. So I can be free!
+ 7763: Hah! If you want to go to Al'Taieu so bad, then why don't you just go to Movalpolos?
+ 7764: Prishe!
+ 7765: The boy Selh'teus has already asked the Moblins to open the gate to the capital.
+ 7766: If you follow him, he'll lead you right to the fifth crystal.
+ 7767: I see... Whether it has been buried or submerged, there is no place the Moblins cannot find...
+ 7768: And I was beginning to wonder when I was going to be able to see the boy once again. I have unfinished business with him...
+ 7769: I've told you what you want to know, now get out of here!
+ 7770: !?
+ 7771: As much as I'd like to, it would be improper for me not to return the favor...
+ 7772: ...the favor bestowed upon the Kuluu over ten thousand years ago!
+ 7773: Return the favor...? A surprise attack!?
+ 7774: Ha ha ha! I see my song has reached the conqueror of the skies!
+ 7775: I am Kuluu! My strength comes from the protection of the terrestrial avatars. Without you, I am powerless!
+ 7776: The Zilart--those who have sworn revenge against Vana'diel--to you I offer these traitors as a sacrifice!
+ 7777: You are nothing but a raving maniac, Nag'molada! You are far from being one of us! Your pitiful soul drowns in darkness.
+ 7778: And that is why I must cleanse it!
+ 7779: I will find Al'Taieu and use the Chamber of Eventide!
+ 7780: It's a`ll over...
+ 7781: It's over easy...
+ 7782: What are you talking about!? This is where it gets interesting!
+ 7783: Bahamut! Conqueror of the skies! King of the wyrms!
+ 7784: I am Prishe! I am the Keeper of the Apocalypse!
+ 7785: Your pact with Selh'teus left me trapped for thousands of years.
+ 7786: This magicite... It is nothing but another form of the Emptiness. It was born from the same place I was. We are one and the same!
+ 7787: My friends and I have come to call forth and destroy the Emptiness and its maker, Promathia!
+ 7788: And we will do it right here, right now! We will fulfill the pact!
+ 7789: Watch as we show you the children of the dawn's true power!
+ 7790: So this is what you meant, Esha'ntarl...
+ 7791: There is no need for you to prove anything, young Elvaan, for you are not the keeper.
+ 7792: !?
+ 7793: Not the keeper!? But...
+ 7794: Esha'ntarl... Children of Altana... And, Phoenix...
+ 7795: I commend you on what you are attempting to do for the people of Vana'diel. And that is why I will tell you this...
+ 7796: The true Keeper of the Apocalypse lies in the celestial capital of Al'Taieu.
+ 7797: Within that soul lies an immeasurable amount of darkness...
+ 7798: For ten thousand years it has slept... But now it has awoken...
+ 7799: The true keeper?
+ 7800: ...In Al'Taieu!?
+ 7801: Who was it that restarted the Crystal Line? Remnants of the Zilart? The children of Altana?
+ 7802: It does not matter, for now the power within the final crystal--the crystal that holds Al'Taieu in balance--has begun to fade.
+ 7803: It will not be long before the celestial capital has fallen to Vana'diel.
+ 7804: When this occurs, the Keeper of the Apocalypse will arise and envelop all life.
+ 7805: And finally the Twilight God, Promathia, will use his almighty power to begin his eternal reign.
+ 7806: That is why I have come... To stop the seeds of man from being wiped from Vana'diel.
+ 7807: If there is nothing for the keeper to envelop, then Promathia will not have the strength to enter our realm.
+ 7808: Nothing to envelop...?
+ 7809: And so that is why you planned to attack...!
+ 7810: Damn! And you call yourself a guardian of Vana'diel!? Why didn't you tell us what you were going to do a long time ago!?
+ 7811: If you would've been honest with us, we could have been in Al'Taieu whipping that keeper's butt last week!
+ 7812: She is right, Lord Bahamut.
+ 7813: Such intolerant behavior does not befit the conqueror of the skies!
+ 7814: Why do you not believe in the power of the children of the dawn?
+ 7815: Why must I believe in something that does not exist?
+ 7816: You cannot defeat the Twilight God. You will not even be allowed to approach him.
+ 7817: Selh'teus proved that to us ten thousand years ago. Destruction is your destiny. You cannot escape what has already been decided.
+ 7818: There... There is still a way!
+ 7819: Bahamut! We need not fight Promathia...if we can stop the Keeper of the Apocalypse!
+ 7820: Selh'teus told us this! That is why he has returned!
+ 7821: He is here to stop Al'Taieu from falling back to this dimension!
+ 7822: Impossible! Selh'teus does not have the power to...
+ 7823: I'm sick of all this talk! Doesn't anybody here think we can handle the situation!?
+ 7824: <Player>! You tell him! You know we can kick his bloody butt all the way into next Watersday!
+ 7825: Do you have what it takes? [You bet!/I don't know...]
+ 7826: Huh!? What do you mean, you don't know!? I'm telling you that you do!
+ 7827: Y-you...?
+ 7828: Damn you, Selh'teus...!
+ 7829: I will not let you harm Vana'diel and her children like you did once before!
+ 7830: Whoa, I have a bad feeling about this...
+ 7831: <Player>! Get out of the way!
+ 7832: <Player>!
+ 7833: Everyone, abandon ship!!!
+ 7834: (Phoenix...)
+ 7835: (Will you return to the mothercrystal along with so many other lives?)
+ 7836: (I understand. Your sacrifice has bought us a sliver of time.)
+ 7837: (Let me release you for your journey to the mothercrystal...)
+ 7838: (Open the path in preparation for [her/him]...)
+ 7839: <Player>! It is just as Prishe said. You didn't fall from the airship after all.
+ 7840: Are you wounded...? Tell us...where...you are...hurt...
+ 7841: Think carefully... Wounds...of the spirit...can escape...your notice...
+ 7842: And they are...much more...dangerous...than physical...cuts and bruises...
+ 7843: If you are...wounded...this Moblin...medicine...can help...
+ 7844: Tenzen...said he...was fine...as well. But he...needs medicine...as much...as you.
+ 7845: Do you rrrealize what happened back there?
+ 7846: It was your actions that enraged the Wyrmking Bahamut.
+ 7847: The rift between dragons and people is deep. There was no rrreasoning with him.
+ 7848: If we could only harness the strength of the sleeping gods, we could approach Bahamut on equal footing...
+ 7849: ...
+ 7850: <Player>, tell Tenzen to rrreturn to town before Cid's airship arrives. I want to leave as soon as possible.
+ 7851: After taking a look at the condition that bird was in, I'm surprised you made it back at all. I knew that no one was ever going to be able to defeat Prishe, but I never imagined that even destiny couldn't bring her down. She's one tough kid.
+ 7852: Hm? Where did she go? Some rough-looking guys on a boat carried her off. They said that they were going to repair her.
+ 7853: You just missed them! Not more than a couple of minutes ago, an airship from Jeuno came and took Prishe and her friends away.
+ 7854: Ulmia said that they should wait for you, but Prishe said you'd find your own way back to the mainland...so they left.
+ 7855: I wonder if that means they'll be sending another ship...
+ 7856: If that's the case, those three Tarutaru should have waited instead of hiding away in those barrels.
+ 7857: Over the past few months, hundreds of ships have brought thousands of people to our town.
+ 7858: It's like a clock that hasn't run for twenty years has suddenly started ticking again.
+ 7859: You were asked to deliver all these letters from Ulmia and Prishe?
+ 7860: And I'm supposed to hand them out if those two fail to return...?
+ 7861: Where on Vana'diel are they thinking of going? You're not seriously thinking of taking on the wyrms...!?
+ 7862: Sueleen, look sharp! An airship is entering the port!
+ 7863: There's a whole lot more of them circling above. What the hell's going on?
+ 7864: That ship...
+ 7865: Hey, <Player>! Check it out! That old Cid's a genius!
+ 7866: The airship's been rebuilt shinier than Despachiaire's bald spot. Hell, with the autopilot Cid installed, it's even better than before!
+ 7867: We even got an escort from the Jeuno Armada! C'mon, let's get this baby back in the air!
+ 7868: Where are you off to this time, Prishe?
+ 7869: Heh heh! We're bound for the fifth mothercrystal and beyond! Next stop: the legendary city of Al'Taieu!
+ 7870: The place where ten thousand years of history began.
+ 7871: To where...!? You better make it back here alive, Prishe!
+ 7872: No sweat! I'll be back making trouble before you know it. Let's go, <Player>!
+ 7873: The new and improved [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit] is ready for take off!
+ 7874: Please, adventurer. Keep Prishe and Ulmia safe from harm.
+ 7875: I want to laugh as I hand back the letters they wrote in case they didn't make it...
+ 7876: It's too...quiet... Could it be...the wyrms...haven't...noticed us...?
+ 7877: The armada led by Lady Mildaurion must have begun its attack.
+ 7878: I wonder how the battle fares.
+ 7879: Great Goddess of the Dawn. May your divine blessings protect the fifth mothercrystal--and the future of your children.
+ 7880: May your gentle gaze also watch over the safe return of Cardinal Mildaurion...
+ 7881: Don't forget to pray for our safety while you're at it, Ulmia.
+ 7882: Look, there it is!
+ 7883: Full speed ahead!
+ 7884: Oh my!
+ 7885: Lady Prishe! We have a transmission from the warship:
+ 7886: "Attention! Your most prized possession is now the property of the Chebukki Samurai Sky Pirates!"
+ 7887: What the hell!?
+ 7888: Welcome to the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ]Kukki Battle Cruiser!
+ 7889: Welcome to the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ]Cherukiki Flagship!
+ 7890: A beautiful day for a sad announcement.
+ 7891: We've decided to give up our occupation as high-class pirates.
+ 7892: As a final high-class pirate duty, we were entrusted with this ship for the purpose of escorting Prishe safely to her destination.
+ 7893: But since that would lead to certain death...
+ 7894: We've decided to find more suitable (and survivable) employment...
+ 7895: We're now the Chebukki Samurai Sky Pirates! Meet our new employer!
+ 7896: The mothercrystals...
+ 7897: The origin of all life, and the destination for spent souls...
+ 7898: All return to the light of the closest crystal...
+ 7899: I have long awaited this moment. The moment you were bathed in the glow...
+ 7900: The light of the fifth mothercrystal beckons you!
+ 7901: You are overwhelmed by Tenzen's Cosmic Elucidation!
+ 7902: I expected nothing less from the light of hope... Never before has my blade failed me in battle.
+ 7903: So... Only the youth that seethes with Emptiness can extinguish that light...
+ 7904: Here comes the cavalry!
  7905: The cannon!?
- 7906: We totally forgot!
- 7907: How could we forget!?
- 7908: This stops right now!
- 7909: I know what you're thinking, samurai guy! But this is a battle without honor!
- 7910: ...
- 7911: I know what Phoenix told you before she died.
- 7912: That flaming bird knew everything from the start, but failed to let you in on the facts. Why should you follow her orders now?
- 7913: You possessed the same knowledge, Lady Prishe! That is why you brought [Sir/Lady] <Player> to this place!
- 7914: That's right! But I didn't lie to anyone!
- 7915: I didn't bring <Player> here to die!
- 7916: <Player> is here to join our struggle for survival!
- 7917: What to do... [Move to the[ armada/ next] warship./Return to Tavnazia./Nothing.]
- 7918: Time remaining: $3 second[/s].
- 7919: Time remaining: $3 minute[/s] $2 second[/s].
- 7920: That ship of yours made its way back here of its own accord. Must be that "autopilot" thing that Prishe was talking about.
- 7921: I've resupplied the airship, so you can take off at any time. Let me know when you're ready to board.
- 7922: I've resupplied the airship, so you can take off at any time. Are you ready to go?
- 7923: Take the airship to Al'Taieu? [Let's go!/Not just yet.]
- 7924: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
- 7925: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
- 7926: Now close your eyes...
- 7927: Which memory will you have recalled? [Nothing./Promathia Missions./Other Quests.]
- 7928: Which memory will you have recalled? [Nothing./Slanderous Utterings./One to Be Feared(pt.1)./One to Be Feared(pt.2)./One to Be Feared(pt.3)./One to Be Feared(pt.4)./One to Be Feared(pt.5)./One to Be Feared(pt.6)./Chains and Bonds./Flames in the Darkness./Calm Before the Storm./The Warrior's Path(pt.1)./The Warrior's Path(pt.2)./On to Al'Taieu(pt.1).]
- 7929: Which memory will you have recalled? [Nothing./Apocalypse Nigh.]
- 7930: 
+ 7906: The cannon!?
+ 7907: We totally forgot!
+ 7908: How could we forget!?
+ 7909: This stops right now!
+ 7910: I know what you're thinking, samurai guy! But this is a battle without honor!
+ 7911: ...
+ 7912: I know what Phoenix told you before she died.
+ 7913: That flaming bird knew everything from the start, but failed to let you in on the facts. Why should you follow her orders now?
+ 7914: You possessed the same knowledge, Lady Prishe! That is why you brought [Sir/Lady] <Player> to this place!
+ 7915: That's right! But I didn't lie to anyone!
+ 7916: I didn't bring <Player> here to die!
+ 7917: <Player> is here to join our struggle for survival!
+ 7918: What to do... [Move to the[ armada/ next] warship./Return to Tavnazia./Nothing.]
+ 7919: Time remaining: $3 second[/s].
+ 7920: Time remaining: $3 minute[/s] $2 second[/s].
+ 7921: That ship of yours made its way back here of its own accord. Must be that "autopilot" thing that Prishe was talking about.
+ 7922: I've resupplied the airship, so you can take off at any time. Let me know when you're ready to board.
+ 7923: I've resupplied the airship, so you can take off at any time. Are you ready to go?
+ 7924: Take the airship to Al'Taieu? [Let's go!/Not just yet.]
+ 7925: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+ 7926: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+ 7927: Now close your eyes...
+ 7928: Which memory will you have recalled? [Nothing./Promathia Missions./Other Quests.]
+ 7929: Which memory will you have recalled? [Nothing./Slanderous Utterings./One to Be Feared(pt.1)./One to Be Feared(pt.2)./One to Be Feared(pt.3)./One to Be Feared(pt.4)./One to Be Feared(pt.5)./One to Be Feared(pt.6)./Chains and Bonds./Flames in the Darkness./Calm Before the Storm./The Warrior's Path(pt.1)./The Warrior's Path(pt.2)./On to Al'Taieu(pt.1).]
+ 7930: Which memory will you have recalled? [Nothing./Apocalypse Nigh.]
  7931: 
- 7932: You will fall to my blade!
- 7933: Your life is but a fading dream...
- 7934: I am defeated... My honor is as dust before the wind...
- 7935: Tenzen uses a shogun rice ball.
- 7936: Samurai Sky Pirate Power!
- 7937: Lord Tenzen is invincible!
- 7938: Top-notch topknot warrior!
- 7939: You're so mean!
- 7940: Samurai Makki mayhem!
- 7941: What? Nooo!
- 7942: Chebukki Sumo Siblings!
- 7943: Eye of the tiger!
- 7944: Focus! Tree falling in the woods!
- 7945: You're so terrible!
- 7946: Samurai Kukki chaos!
- 7947: We're doomed!
- 7948: Feel the fear! The Chebukkis are here!
- 7949: Go for the eyes! The eyes!
- 7950: Bring the pain!
- 7951: You're so ugly!
- 7952: Samurai Cherukiki terror!
- 7953: Our samurai life is over!
- 7954: <Player>. Let us discuss what needs to be done.
- 7955: I have returned from an audience with the Wyrmking.
- 7956: If the Keeper of the Apocalypse is indeed attempting to cross over into this world, there is but one option left to us.
- 7957: We force the keeper to appear on our terms. Then we crush him.
- 7958: This was Prishe's original plan.
- 7959: Ulmia will sing the Lay of the Immortals in the presence of the fifth mothercrystal.
- 7960: The time has finally come to use the completed song--the verses you discovered on your journey. I have faith that Ulmia can perform the piece with little trouble.
- 7961: Make your way to the Sealion's Den in Tavnazia. Al'Taieu beckons once again.
- 7962: <Player>, I have awaited your arrival.
- 7963: It is my fault that this terrible thing is occurring--I have no excuses.
- 7964: I always feared that my act of relinquishing the Star of Tavnazia...
- 7965: ...would one day bring the world back to the brink of destruction.
- 7966: But to be completely honest, I am overjoyed that this darkness has given us another chance to meet. Truly, I am...
- 7967: Prishe! You stop this nonsense at once!
- 7968: Why must you insist on playing the clown at a time like this!? You truly are incorrigible!
- 7969: Aw, c'mon, Ulmia! It's been so long since I've seen <Player>.
- 7970: A normal reunion would be kinda boring, and I just wanted to spice things up a little...
- 7971: You were just trying to cover up your own awkwardness!
- 7972: That's...not...true...
- 7973: Oh! Hey, there's the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit]!
- 7974: <Player>. Cardinal Mildaurion will be joining us later. Let us begin our journey to the fifth mothercrystal.
- 7975: Our mission will be a success. I know it in my heart.
- 7976: Prishe, Ulmia, <Player>!
- 7977: You seem surprised. Well, our last parting of ways did seem somewhat final.
- 7978: But you couldn't expect us to stay at home shivering in our fur when word of this rrreached us!
- 7979: As the...Moblins say... "Don't leave...a hole...half...dug..."
- 7980: Are we digging holes?
- 7981: For the graves?
- 7982: Not very optimistic, are we!
- 7983: I never thought I would don this armor again. Cardinal Mildaurion is not one to be ignored.
- 7984: Wow, the whole gang's here. All because of my selfish mistake...
- 7985: My apologies... And my thanks!
- 7986: The time has come. On to the mothercrystal!
- 7987: Hehehe. I always wanted to come back to this place. Y'know, for a picnic or something.
- 7988: Still making unrealistic wishes, Prishe?
- 7989: Miss Mildaurion! Aldo!?
- 7990: I'm sure you all know Zeid. We have a debt to the ancients that needs to be repaid.
- 7991: I will also fight alongside you. I must see this matter put to rest.
- 7992: Here they come!
- 7993: Bound together...
- 7994: By the crystals...
- 7995: We will soon...
- 7996: Become one...
- 7997: There's something else...!
- 7998: A fifth person!?
- 7999: Lion!?
- 8000: Hahaha!
- 8001: The stone she would not relinquish...!
- 8002: It has been shattered by your song...!
- 8003: Our divine transformation is at hand!
- 8004: This ends now!
- 8005: Leave Nag'molada to me!
- 8006: You shall be the first...!
- 8007: The first to taste the vengeance of the dead!
- 8008: I think we're done here.
- 8009: Yes, the battle is over. There is only...
- 8010: She appears to be unharmed. There is some trace of Emptiness, but it will cause nothing more than a few bad dreams.
- 8011: Thank Altana... It was Lion who leaped into the crystal to save us all.
- 8012: Her struggle with Eald'narche continued within the stone...
- 8013: Let's get her home to Norg...
- 8014: Your red hair... Now I know you.
- 8015: The nightmare I had... You were the one who carried it on for me.
- 8016: <Player>. Make sure you fulfill your promise when she gets better, okay?
- 8017: The world only grows larger the longer we live. New lives are born, and new lands are discovered. There're always new adventures to be had.
- 8018: But you don't gotta rush in, you know? This big world of ours will always be waiting.
- 8019: Waiting for you.
+ 7932: 
+ 7933: You will fall to my blade!
+ 7934: Your life is but a fading dream...
+ 7935: I am defeated... My honor is as dust before the wind...
+ 7936: Tenzen uses a shogun rice ball.
+ 7937: Samurai Sky Pirate Power!
+ 7938: Lord Tenzen is invincible!
+ 7939: Top-notch topknot warrior!
+ 7940: You're so mean!
+ 7941: Samurai Makki mayhem!
+ 7942: What? Nooo!
+ 7943: Chebukki Sumo Siblings!
+ 7944: Eye of the tiger!
+ 7945: Focus! Tree falling in the woods!
+ 7946: You're so terrible!
+ 7947: Samurai Kukki chaos!
+ 7948: We're doomed!
+ 7949: Feel the fear! The Chebukkis are here!
+ 7950: Go for the eyes! The eyes!
+ 7951: Bring the pain!
+ 7952: You're so ugly!
+ 7953: Samurai Cherukiki terror!
+ 7954: Our samurai life is over!
+ 7955: <Player>. Let us discuss what needs to be done.
+ 7956: I have returned from an audience with the Wyrmking.
+ 7957: If the Keeper of the Apocalypse is indeed attempting to cross over into this world, there is but one option left to us.
+ 7958: We force the keeper to appear on our terms. Then we crush him.
+ 7959: This was Prishe's original plan.
+ 7960: Ulmia will sing the Lay of the Immortals in the presence of the fifth mothercrystal.
+ 7961: The time has finally come to use the completed song--the verses you discovered on your journey. I have faith that Ulmia can perform the piece with little trouble.
+ 7962: Make your way to the Sealion's Den in Tavnazia. Al'Taieu beckons once again.
+ 7963: <Player>, I have awaited your arrival.
+ 7964: It is my fault that this terrible thing is occurring--I have no excuses.
+ 7965: I always feared that my act of relinquishing the Star of Tavnazia...
+ 7966: ...would one day bring the world back to the brink of destruction.
+ 7967: But to be completely honest, I am overjoyed that this darkness has given us another chance to meet. Truly, I am...
+ 7968: Prishe! You stop this nonsense at once!
+ 7969: Why must you insist on playing the clown at a time like this!? You truly are incorrigible!
+ 7970: Aw, c'mon, Ulmia! It's been so long since I've seen <Player>.
+ 7971: A normal reunion would be kinda boring, and I just wanted to spice things up a little...
+ 7972: You were just trying to cover up your own awkwardness!
+ 7973: That's...not...true...
+ 7974: Oh! Hey, there's the [/Ultra /Hyper /Psycho /Eternal /Neo /Lovely /Pretty /Final /Extra /Deadly /Savage /Aero /Pseudo /Universal /Exciting /Celestial /Super /Mighty /Mega /Omni /Poly ][/Terror /Perfect /Royale /Gorgeous /Pretty /Hell /Fantasy /Stealth /Powerful /Invincible /Explosive /Storm /Fantastic /Duper /Go-Go /Morphing /Retro /Sonic /Cloud /Sky /Stellar ][/Hyper /Neo /Lovely /Happy /Caller /Hound /XI /Armored /Brutal /Buster /Alpha /Chief /Provoker /Mincer /Streak /King /Prince /Power /Robo /Delver /Mystic ][C.I.D./Enterprise/Nautilus/Gilgamemnon/Redwing/Blackjack/Falcon/Highwind/Ragnarok/Hilda Garde/Prima Vista/Red Rose/Fahrenheit]!
+ 7975: <Player>. Cardinal Mildaurion will be joining us later. Let us begin our journey to the fifth mothercrystal.
+ 7976: Our mission will be a success. I know it in my heart.
+ 7977: Prishe, Ulmia, <Player>!
+ 7978: You seem surprised. Well, our last parting of ways did seem somewhat final.
+ 7979: But you couldn't expect us to stay at home shivering in our fur when word of this rrreached us!
+ 7980: As the...Moblins say... "Don't leave...a hole...half...dug..."
+ 7981: Are we digging holes?
+ 7982: For the graves?
+ 7983: Not very optimistic, are we!
+ 7984: I never thought I would don this armor again. Cardinal Mildaurion is not one to be ignored.
+ 7985: Wow, the whole gang's here. All because of my selfish mistake...
+ 7986: My apologies... And my thanks!
+ 7987: The time has come. On to the mothercrystal!
+ 7988: Hehehe. I always wanted to come back to this place. Y'know, for a picnic or something.
+ 7989: Still making unrealistic wishes, Prishe?
+ 7990: Miss Mildaurion! Aldo!?
+ 7991: I'm sure you all know Zeid. We have a debt to the ancients that needs to be repaid.
+ 7992: I will also fight alongside you. I must see this matter put to rest.
+ 7993: Here they come!
+ 7994: Bound together...
+ 7995: By the crystals...
+ 7996: We will soon...
+ 7997: Become one...
+ 7998: There's something else...!
+ 7999: A fifth person!?
+ 8000: Lion!?
+ 8001: Hahaha!
+ 8002: The stone she would not relinquish...!
+ 8003: It has been shattered by your song...!
+ 8004: Our divine transformation is at hand!
+ 8005: This ends now!
+ 8006: Leave Nag'molada to me!
+ 8007: You shall be the first...!
+ 8008: The first to taste the vengeance of the dead!
+ 8009: I think we're done here.
+ 8010: Yes, the battle is over. There is only...
+ 8011: She appears to be unharmed. There is some trace of Emptiness, but it will cause nothing more than a few bad dreams.
+ 8012: Thank Altana... It was Lion who leaped into the crystal to save us all.
+ 8013: Her struggle with Eald'narche continued within the stone...
+ 8014: Let's get her home to Norg...
+ 8015: Your red hair... Now I know you.
+ 8016: The nightmare I had... You were the one who carried it on for me.
+ 8017: <Player>. Make sure you fulfill your promise when she gets better, okay?
+ 8018: The world only grows larger the longer we live. New lives are born, and new lands are discovered. There're always new adventures to be had.
+ 8019: But you don't gotta rush in, you know? This big world of ours will always be waiting.
+ 8020: Waiting for you.

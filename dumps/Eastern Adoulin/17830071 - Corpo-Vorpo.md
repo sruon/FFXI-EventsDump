@@ -24,8 +24,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x270D      |        9997 |
-|       3 | 0x270E      |        9998 |
+|       2 | 0x270E      |        9998 |
+|       3 | 0x270F      |        9999 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0013      |          19 |
@@ -36,23 +36,23 @@
 |      11 | 0x0AB7      |        2743 |
 |      12 | 0x026D      |         621 |
 |      13 | 0x000F      |          15 |
-|      14 | 0x2707      |        9991 |
-|      15 | 0x2708      |        9992 |
-|      16 | 0x2709      |        9993 |
-|      17 | 0x270A      |        9994 |
-|      18 | 0x270B      |        9995 |
-|      19 | 0x270C      |        9996 |
+|      14 | 0x2708      |        9992 |
+|      15 | 0x2709      |        9993 |
+|      16 | 0x270A      |        9994 |
+|      17 | 0x270B      |        9995 |
+|      18 | 0x270C      |        9996 |
+|      19 | 0x270D      |        9997 |
 
 ## String References
 
-- **9991**: Can I help you? ...I see. Information on the leafkin-weafkin, is it?
-- **9992**: You know, I saw something resembling a leafkin when I stopped at a frontier station in the Morimar Basaltaru Fields.
-- **9993**: Let me take out my mappy-wap. See if that jogs my memory... ...There we go. Right here, around K-10.
-- **9994**: 'Course, it was nightaru out, so I can't be sure...but I'd lay money that it was one of them creatures you're looking for.
-- **9995**: Forgotaru already? That's OK. I'm not the sharpest tool in the shed, either. I saw a leafkin-like creature in the Morimar Basalt Fields, somewhere in the K-10 vicinity.
-- **9996**: It was a moonless night, so my eyes could have been playing tricky-wicks on me. Best go see for yourself.
-- **9997**: All you adventarus from the Middle Lands are keeping the coalition busy. I'm earning my paycheck, I tell you.
-- **9998**: We'd better beef up our patrols if we hope to keep everyone safe from the trouble you lotaru are stirring up.
+- **9992**: Can I help you? ...I see. Information on the leafkin-weafkin, is it?
+- **9993**: You know, I saw something resembling a leafkin when I stopped at a frontier station in the Morimar Basaltaru Fields.
+- **9994**: Let me take out my mappy-wap. See if that jogs my memory... ...There we go. Right here, around K-10.
+- **9995**: 'Course, it was nightaru out, so I can't be sure...but I'd lay money that it was one of them creatures you're looking for.
+- **9996**: Forgotaru already? That's OK. I'm not the sharpest tool in the shed, either. I saw a leafkin-like creature in the Morimar Basalt Fields, somewhere in the K-10 vicinity.
+- **9997**: It was a moonless night, so my eyes could have been playing tricky-wicks on me. Best go see for yourself.
+- **9998**: All you adventarus from the Middle Lands are keeping the coalition busy. I'm earning my paycheck, I tell you.
+- **9999**: We'd better beef up our patrols if we hope to keep everyone safe from the trouble you lotaru are stirring up.
 
 ## Events
 
@@ -102,10 +102,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
     → "All you adventarus from the Middle Lands are keeping the coalition busy. I'm earning my paycheck, I tell you."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=9999*)
     → "We'd better beef up our patrols if we hope to keep everyone safe from the trouble you lotaru are stirring up."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT
@@ -167,22 +167,22 @@
  14: 0x008A [0x1C] WAIT(15* ticks)
  15: 0x008D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x009E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=49*
- 17: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9991*)
+ 17: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9992*)
     → "Can I help you? ...I see. Information on the leafkin-weafkin, is it?"
  18: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00B1 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=621*
  20: 0x00C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[621*, 0*]
  21: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=49*
- 22: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9992*)
+ 22: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9993*)
     → "You know, I saw something resembling a leafkin when I stopped at a frontier station in the Morimar Basaltaru Fields."
  23: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 25: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9993*)
+ 25: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9994*)
     → "Let me take out my mappy-wap. See if that jogs my memory... ...There we go. Right here, around K-10."
  26: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=621*
  28: 0x0106 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[621*, 0*]
- 29: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=9994*)
+ 29: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=9995*)
     → "'Course, it was nightaru out, so I can't be sure...but I'd lay money that it was one of them creatures you're looking for."
  30: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x011B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -218,10 +218,10 @@
   0: 0x015F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0164 [0x1C] WAIT(30* ticks)
   2: 0x0167 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=9995*)
+  3: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=9996*)
     → "Forgotaru already? That's OK. I'm not the sharpest tool in the shed, either. I saw a leafkin-like creature in the Morimar Basalt Fields, somewhere in the K-10 vicinity."
   4: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=9996*)
+  5: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=9997*)
     → "It was a moonless night, so my eyes could have been playing tricky-wicks on me. Best go see for yourself."
   6: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x017E [0x21] END_EVENT

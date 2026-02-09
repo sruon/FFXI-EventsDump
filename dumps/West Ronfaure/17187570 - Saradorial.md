@@ -23,58 +23,58 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0010      |          16 |
-|       2 | 0x1F29      |        7977 |
-|       3 | 0x1F2A      |        7978 |
+|       2 | 0x1F2A      |        7978 |
+|       3 | 0x1F2B      |        7979 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x4275      |       17013 |
-|       8 | 0x1F3E      |        7998 |
+|       8 | 0x1F3F      |        7999 |
 |       9 | 0x0004      |           4 |
-|      10 | 0x1F3F      |        7999 |
-|      11 | 0x1F40      |        8000 |
-|      12 | 0x1F41      |        8001 |
-|      13 | 0x1F42      |        8002 |
-|      14 | 0x1F43      |        8003 |
-|      15 | 0x1F44      |        8004 |
-|      16 | 0x1F45      |        8005 |
-|      17 | 0x1F2D      |        7981 |
+|      10 | 0x1F40      |        8000 |
+|      11 | 0x1F41      |        8001 |
+|      12 | 0x1F42      |        8002 |
+|      13 | 0x1F43      |        8003 |
+|      14 | 0x1F44      |        8004 |
+|      15 | 0x1F45      |        8005 |
+|      16 | 0x1F46      |        8006 |
+|      17 | 0x1F2E      |        7982 |
 |      18 | 0x426B      |       17003 |
-|      19 | 0x1F2E      |        7982 |
-|      20 | 0x1F2F      |        7983 |
+|      19 | 0x1F2F      |        7983 |
+|      20 | 0x1F30      |        7984 |
 |      21 | 0x10D6      |        4310 |
 |      22 | 0x10D7      |        4311 |
 |      23 | 0x10D8      |        4312 |
-|      24 | 0x1F30      |        7984 |
-|      25 | 0x1F31      |        7985 |
-|      26 | 0x1F32      |        7986 |
-|      27 | 0x1F33      |        7987 |
-|      28 | 0x1F35      |        7989 |
-|      29 | 0x1F34      |        7988 |
-|      30 | 0x1F36      |        7990 |
+|      24 | 0x1F31      |        7985 |
+|      25 | 0x1F32      |        7986 |
+|      26 | 0x1F33      |        7987 |
+|      27 | 0x1F34      |        7988 |
+|      28 | 0x1F36      |        7990 |
+|      29 | 0x1F35      |        7989 |
+|      30 | 0x1F37      |        7991 |
 |      31 | 0x0005      |           5 |
-|      32 | 0x1F37      |        7991 |
+|      32 | 0x1F38      |        7992 |
 |      33 | 0x000F      |          15 |
-|      34 | 0x1F38      |        7992 |
+|      34 | 0x1F39      |        7993 |
 |      35 | 0x0019      |          25 |
-|      36 | 0x1F39      |        7993 |
+|      36 | 0x1F3A      |        7994 |
 |      37 | 0x001E      |          30 |
-|      38 | 0x1F3A      |        7994 |
+|      38 | 0x1F3B      |        7995 |
 |      39 | 0x0032      |          50 |
-|      40 | 0x1F3B      |        7995 |
+|      40 | 0x1F3C      |        7996 |
 |      41 | 0x0041      |          65 |
 |      42 | 0x0046      |          70 |
-|      43 | 0x1F58      |        8024 |
+|      43 | 0x1F59      |        8025 |
 |      44 | 0x003C      |          60 |
-|      45 | 0x1F5A      |        8026 |
+|      45 | 0x1F5B      |        8027 |
 |      46 | 0x0050      |          80 |
-|      47 | 0x1F5B      |        8027 |
+|      47 | 0x1F5C      |        8028 |
 |      48 | 0x0028      |          40 |
 |      49 | 0x09D5      |        2517 |
-|      50 | 0x1F5C      |        8028 |
-|      51 | 0x1F3C      |        7996 |
-|      52 | 0x1F54      |        8020 |
-|      53 | 0x1F46      |        8006 |
+|      50 | 0x1F5D      |        8029 |
+|      51 | 0x1F3D      |        7997 |
+|      52 | 0x1F55      |        8021 |
+|      53 | 0x1F47      |        8007 |
 |      54 | 0x000A      |          10 |
 |      55 | 0x000B      |          11 |
 |      56 | 0x000E      |          14 |
@@ -88,67 +88,67 @@
 |      64 | 0x0009      |           9 |
 |      65 | 0x0012      |          18 |
 |      66 | 0xFFFFFFFF  |  4294967295 |
-|      67 | 0x1F4B      |        8011 |
+|      67 | 0x1F4C      |        8012 |
 |      68 | 0x0064      |         100 |
-|      69 | 0x1F48      |        8008 |
-|      70 | 0x1F49      |        8009 |
-|      71 | 0x1F4A      |        8010 |
-|      72 | 0x1F47      |        8007 |
-|      73 | 0x1F4C      |        8012 |
-|      74 | 0x1F4D      |        8013 |
-|      75 | 0x1F50      |        8016 |
+|      69 | 0x1F49      |        8009 |
+|      70 | 0x1F4A      |        8010 |
+|      71 | 0x1F4B      |        8011 |
+|      72 | 0x1F48      |        8008 |
+|      73 | 0x1F4D      |        8013 |
+|      74 | 0x1F4E      |        8014 |
+|      75 | 0x1F51      |        8017 |
 |      76 | 0x0018      |          24 |
-|      77 | 0x1F4E      |        8014 |
-|      78 | 0x1F51      |        8017 |
-|      79 | 0x1F4F      |        8015 |
-|      80 | 0x1F52      |        8018 |
+|      77 | 0x1F4F      |        8015 |
+|      78 | 0x1F52      |        8018 |
+|      79 | 0x1F50      |        8016 |
+|      80 | 0x1F53      |        8019 |
 
 ## String References
 
-- **7977**: Welcome... [I'd like to buy a scoop./I'd like to know more./I'd like to collect my prize./I'd like a bowl.]
-- **7978**: To bond with the goldfish, one must have the right tools. I can supply you with everything you will need for your spiritual journey...
-- **7981**: Let me enlighten you on... [How to become one with goldfish./The types of goldfish./What one can earn./When the mothership arrives...]
-- **7982**: Bonding with the goldfish is quite simple. Equip your Range slot with $0 and your Ammo slot with $1. Then, search out a body of water and let your spirit flow with it... Fish with it...
-- **7983**: When you have reunited with the children of Pisces, bring them to me, and the universe shall reward you. Where swim our waterbound brothers, you ask? The mystical flowers of fire in the sky will lead you...
-- **7984**: There are three known species of goldfish in Vana'diel: $0, $1, and $2...
-- **7985**: % are the most abundant in our world's waters. They will bring you small fortune.
-- **7986**: $1 are slightly larger than most goldfish. While more difficult to bond with, their aquatic aura is sure to bring you double the fortune of their smaller brothers and sisters.
-- **7987**: Finally, you will know the universe has smiled down upon you if you happen to come across $2. Only the chosen can become one with these creatures and reap the reward of mystical fortune tenfold...
-- **7988**: But I tell you now, that innumerable mysteries abound in this vast world of ours. Great rewards await those who dare traverse yet untrodden paths.
-- **7989**: Once you have taken your goldfish [brothers/sisters] up in your arms, bring them to me, and I will be the gateway to this fortune.
-- **7990**: The universe shall reward those who have been blessed with fortune.
-- **7991**: $0 years of fortune shall bring you a new $1. Use this to grasp even more blessings...
-- **7992**: $0 years of fortune shall bring you the mystical flowers of fire. Simply witnessing one of these spectacles of man and nature brings harmony to the soul...
-- **7993**: $0 years of fortune shall soothe your weary spirit with the cool breeze of an ornamental fan.
-- **7994**: A colored drop is carried on the sweet winds of $0 years of fortune, and only the universe knows the fragrance...
-- **7995**: Those who are graced with $0 years of fortune will have the opportunity to experience...nirvana...
-- **7996**: Clear your mind, open your heart, and let the goldfish guide you to a life of prosperity and happiness...
-- **7998**: Ah, so you have decided to join us in our quest to join with the goldfish. I applaud you on your bravery, and present you with this $0. Take care not to lose it, as your fortune in life is tied directly to it.
-- **7999**: What is this, my child? Have you lost your way on the path to enlightenment? What has become of your $0?
-- **8000**: As I informed you before, the $0 is directly connected to one's fortune. I can provide you with another, but all the blessings you have received up until now will be lost.
-- **8001**: Start over from the beginning? [I am content with what I have./I wish to regain fortunes lost.]
-- **8002**: I see. I am not one to judge a [man/woman] on the path [he/she] has chosen in life...
-- **8003**: To regain what one has lost, one must restart with a pure soul. The fortune you have accumulated has been returned to the universe. Take this new $0 and begin once more what you had strived for in the past.
-- **8004**: What is this? Are you asking me to erase your fortune so that you may start again with a clear mind and soul?
-- **8005**: Your heart is strong for one so young. I have cleansed your soul of its fortune, and wish you luck on the path you have chosen.
-- **8006**: $0 year[ of fortune blesses/s of fortune bless] you. [$1: $2./A bag of fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]
-- **8007**: The universe cannot provide for those who have not been graced with the fortune of the goldfish...
-- **8008**: Are you sure this is what you wish of the universe?
-- **8009**: Are you sure? [My judgment remains clouded./I have made up my mind.]
-- **8010**: Excellent, my child. May you always be blessed with the fortune of the goldfish...
-- **8011**: I understand... There is no need to rush the river of life's mystical flow.
-- **8012**: Ah, I sense great fortune approaching...
-- **8013**: You shall be blessed for $0 year[/s]!
+- **7978**: Welcome... [I'd like to buy a scoop./I'd like to know more./I'd like to collect my prize./I'd like a bowl.]
+- **7979**: To bond with the goldfish, one must have the right tools. I can supply you with everything you will need for your spiritual journey...
+- **7982**: Let me enlighten you on... [How to become one with goldfish./The types of goldfish./What one can earn./When the mothership arrives...]
+- **7983**: Bonding with the goldfish is quite simple. Equip your Range slot with $0 and your Ammo slot with $1. Then, search out a body of water and let your spirit flow with it... Fish with it...
+- **7984**: When you have reunited with the children of Pisces, bring them to me, and the universe shall reward you. Where swim our waterbound brothers, you ask? The mystical flowers of fire in the sky will lead you...
+- **7985**: There are three known species of goldfish in Vana'diel: $0, $1, and $2...
+- **7986**: % are the most abundant in our world's waters. They will bring you small fortune.
+- **7987**: $1 are slightly larger than most goldfish. While more difficult to bond with, their aquatic aura is sure to bring you double the fortune of their smaller brothers and sisters.
+- **7988**: Finally, you will know the universe has smiled down upon you if you happen to come across $2. Only the chosen can become one with these creatures and reap the reward of mystical fortune tenfold...
+- **7989**: But I tell you now, that innumerable mysteries abound in this vast world of ours. Great rewards await those who dare traverse yet untrodden paths.
+- **7990**: Once you have taken your goldfish [brothers/sisters] up in your arms, bring them to me, and I will be the gateway to this fortune.
+- **7991**: The universe shall reward those who have been blessed with fortune.
+- **7992**: $0 years of fortune shall bring you a new $1. Use this to grasp even more blessings...
+- **7993**: $0 years of fortune shall bring you the mystical flowers of fire. Simply witnessing one of these spectacles of man and nature brings harmony to the soul...
+- **7994**: $0 years of fortune shall soothe your weary spirit with the cool breeze of an ornamental fan.
+- **7995**: A colored drop is carried on the sweet winds of $0 years of fortune, and only the universe knows the fragrance...
+- **7996**: Those who are graced with $0 years of fortune will have the opportunity to experience...nirvana...
+- **7997**: Clear your mind, open your heart, and let the goldfish guide you to a life of prosperity and happiness...
+- **7999**: Ah, so you have decided to join us in our quest to join with the goldfish. I applaud you on your bravery, and present you with this $0. Take care not to lose it, as your fortune in life is tied directly to it.
+- **8000**: What is this, my child? Have you lost your way on the path to enlightenment? What has become of your $0?
+- **8001**: As I informed you before, the $0 is directly connected to one's fortune. I can provide you with another, but all the blessings you have received up until now will be lost.
+- **8002**: Start over from the beginning? [I am content with what I have./I wish to regain fortunes lost.]
+- **8003**: I see. I am not one to judge a [man/woman] on the path [he/she] has chosen in life...
+- **8004**: To regain what one has lost, one must restart with a pure soul. The fortune you have accumulated has been returned to the universe. Take this new $0 and begin once more what you had strived for in the past.
+- **8005**: What is this? Are you asking me to erase your fortune so that you may start again with a clear mind and soul?
+- **8006**: Your heart is strong for one so young. I have cleansed your soul of its fortune, and wish you luck on the path you have chosen.
+- **8007**: $0 year[ of fortune blesses/s of fortune bless] you. [$1: $2./A bag of fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]
+- **8008**: The universe cannot provide for those who have not been graced with the fortune of the goldfish...
+- **8009**: Are you sure this is what you wish of the universe?
+- **8010**: Are you sure? [My judgment remains clouded./I have made up my mind.]
+- **8011**: Excellent, my child. May you always be blessed with the fortune of the goldfish...
+- **8012**: I understand... There is no need to rush the river of life's mystical flow.
+- **8013**: Ah, I sense great fortune approaching...
 - **8014**: You shall be blessed for $0 year[/s]!
 - **8015**: You shall be blessed for $0 year[/s]!
-- **8016**: However, I sense much more potential, my child. Perhaps you are trying too hard. Relax... Let your mind melt into the surrounding waters and meld with the goldfish...
-- **8017**: Your patience and perseverance have begun to pay off, my child. However, the road to true happiness is long and winding. Clear your mind and return to the water. The goldfish are waiting...
-- **8018**: Your spirit is nearly one with the universe... Nirvana is within reach, my child...
-- **8020**: %'s soul begins to merge with the universe...
-- **8024**: Those that have accumulated $0 years of fortune will become one with the flow of time and meld with nature and all its creatures. $1 years, you say? Why, such an enlightened being would find [himself/herself] able to unravel the most arcane mysteries of the universe with the ease with which lesser mortals draw breath...
-- **8026**: Or do you seek to bid farewell to this earthly demesne and send your soul soaring amongst the myriad shimmering stars in the heavens above? You need only accumulate $0 years of fortune, and eternal celestial bliss will be yours!
-- **8027**: And what is this!? For $0 you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-- **8028**: ;j)g1j>H$397930>A=g$8128880_iq6aB
+- **8016**: You shall be blessed for $0 year[/s]!
+- **8017**: However, I sense much more potential, my child. Perhaps you are trying too hard. Relax... Let your mind melt into the surrounding waters and meld with the goldfish...
+- **8018**: Your patience and perseverance have begun to pay off, my child. However, the road to true happiness is long and winding. Clear your mind and return to the water. The goldfish are waiting...
+- **8019**: Your spirit is nearly one with the universe... Nirvana is within reach, my child...
+- **8021**: %'s soul begins to merge with the universe...
+- **8025**: Those that have accumulated $0 years of fortune will become one with the flow of time and meld with nature and all its creatures. $1 years, you say? Why, such an enlightened being would find [himself/herself] able to unravel the most arcane mysteries of the universe with the ease with which lesser mortals draw breath...
+- **8027**: Or do you seek to bid farewell to this earthly demesne and send your soul soaring amongst the myriad shimmering stars in the heavens above? You need only accumulate $0 years of fortune, and eternal celestial bliss will be yours!
+- **8028**: And what is this!? For $0 you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
+- **8029**: ;j)g1j>H$397930>A=g$8128880_iq6aB
 
 ## Events
 
@@ -248,11 +248,11 @@
   2: 0x000B [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0018
   3: 0x0013 [0x03] ExtData[1]->WorkLocal[1] = 16*
   4: 0x0018 [0x06] Work_Zone[1] = 0
-  5: 0x001B [0x24] CREATE_DIALOG(message_id=7977*, default_option=0*, option_flags=0*)
+  5: 0x001B [0x24] CREATE_DIALOG(message_id=7978*, default_option=0*, option_flags=0*)
     → "Welcome... [I'd like to buy a scoop./I'd like to know more./I'd like to collect my prize./I'd like a bowl.]"
   6: 0x0022 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0023 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037
-  8: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+  8: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "To bond with the goldfish, one must have the right tools. I can supply you with everything you will need for your spiritual journey..."
   9: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002F [0x03] Work_Zone[1] = 1*
@@ -276,28 +276,28 @@ SUBROUTINE_0063:
  24: 0x0066 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00C2
  25: 0x006E [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0087
  26: 0x0076 [0x03] Work_Zone[2] = 17013*
- 27: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
+ 27: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
     → "Ah, so you have decided to join us in our quest to join with the goldfish. I applaud you on your bravery, and present you with this $0. Take care not to lose it, as your fortune in life is tied directly to it."
  28: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x007F [0x03] Work_Zone[1] = 4*
  30: 0x0084 [0x01] GOTO 0x00BF
  31: 0x0087 [0x03] Work_Zone[2] = 17013*
- 32: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
+ 32: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
     → "What is this, my child? Have you lost your way on the path to enlightenment? What has become of your $0?"
  33: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
+ 34: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
     → "As I informed you before, the $0 is directly connected to one's fortune. I can provide you with another, but all the blessings you have received up until now will be lost."
  35: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0094 [0x24] CREATE_DIALOG(message_id=8001*, default_option=0*, option_flags=0*)
+ 36: 0x0094 [0x24] CREATE_DIALOG(message_id=8002*, default_option=0*, option_flags=0*)
     → "Start over from the beginning? [I am content with what I have./I wish to regain fortunes lost.]"
  37: 0x009B [0x25] WAIT_DIALOG_SELECT()
  38: 0x009C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AB
- 39: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
+ 39: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
     → "I see. I am not one to judge a [man/woman] on the path [he/she] has chosen in life..."
  40: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00A8 [0x01] GOTO 0x00BF
  42: 0x00AB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BF
- 43: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
+ 43: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
     → "To regain what one has lost, one must restart with a pure soul. The fortune you have accumulated has been returned to the universe. Take this new $0 and begin once more what you had strived for in the past."
  44: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00B7 [0x03] Work_Zone[1] = 4*
@@ -306,19 +306,19 @@ SUBROUTINE_0063:
 SUBROUTINE_00BF:
  47: 0x00BF [0x01] GOTO 0x00F6
  48: 0x00C2 [0x03] Work_Zone[2] = 17013*
- 49: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+ 49: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "What is this? Are you asking me to erase your fortune so that you may start again with a clear mind and soul?"
  50: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x00CB [0x24] CREATE_DIALOG(message_id=8001*, default_option=0*, option_flags=0*)
+ 51: 0x00CB [0x24] CREATE_DIALOG(message_id=8002*, default_option=0*, option_flags=0*)
     → "Start over from the beginning? [I am content with what I have./I wish to regain fortunes lost.]"
  52: 0x00D2 [0x25] WAIT_DIALOG_SELECT()
  53: 0x00D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E2
- 54: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
+ 54: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
     → "I see. I am not one to judge a [man/woman] on the path [he/she] has chosen in life..."
  55: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x00DF [0x01] GOTO 0x00F6
  57: 0x00E2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00F6
- 58: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
+ 58: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
     → "Your heart is strong for one so young. I have cleansed your soul of its fortune, and wish you luck on the path you have chosen."
  59: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00EE [0x03] Work_Zone[1] = 2*
@@ -329,16 +329,16 @@ SUBROUTINE_00F6:
 
 SUBROUTINE_00F7:
  63: 0x00F7 [0x06] Work_Zone[1] = 0
- 64: 0x00FA [0x24] CREATE_DIALOG(message_id=7981*, default_option=0*, option_flags=0*)
+ 64: 0x00FA [0x24] CREATE_DIALOG(message_id=7982*, default_option=0*, option_flags=0*)
     → "Let me enlighten you on... [How to become one with goldfish./The types of goldfish./What one can earn./When the mothership arrives...]"
  65: 0x0101 [0x25] WAIT_DIALOG_SELECT()
  66: 0x0102 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0122
  67: 0x010A [0x03] Work_Zone[2] = 17013*
  68: 0x010F [0x03] Work_Zone[3] = 17003*
- 69: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+ 69: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "Bonding with the goldfish is quite simple. Equip your Range slot with $0 and your Ammo slot with $1. Then, search out a body of water and let your spirit flow with it... Fish with it..."
  70: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+ 71: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "When you have reunited with the children of Pisces, bring them to me, and the universe shall reward you. Where swim our waterbound brothers, you ask? The mystical flowers of fire in the sky will lead you..."
  72: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x011C [0x01] GOTO 0x00F7
@@ -362,7 +362,7 @@ SUBROUTINE_01D1:
  87: 0x0209 [0x03] Work_Zone_1700[2] = 80*
  88: 0x020E [0x03] Work_Zone_1700[3] = 2517*
  89: 0x0213 [0x03] Work_Zone_1700[4] = 40*
- 90: 0x0218 [0x24] CREATE_DIALOG(message_id=8006*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 90: 0x0218 [0x24] CREATE_DIALOG(message_id=8007*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "$0 year[ of fortune blesses/s of fortune bless] you. [$1: $2./A bag of fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]"
  91: 0x021F [0x25] WAIT_DIALOG_SELECT()
  92: 0x0220 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
@@ -399,7 +399,7 @@ SUBROUTINE_01D1:
 
 SUBROUTINE_02C5:
 123: 0x02C5 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4294967295*) GOTO 0x02D4
-124: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
+124: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
     → "I understand... There is no need to rush the river of life's mystical flow."
 125: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x02D1 [0x01] GOTO 0x0321
@@ -407,10 +407,10 @@ SUBROUTINE_02C5:
 128: 0x02D9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 129: 0x02DB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 130: 0x02DD [0x02] IF !(Work_Zone[8] == 100*) GOTO 0x031A
-131: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
+131: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
     → "Are you sure this is what you wish of the universe?"
 132: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x02E9 [0x24] CREATE_DIALOG(message_id=8009*, default_option=0*, option_flags=0*)
+133: 0x02E9 [0x24] CREATE_DIALOG(message_id=8010*, default_option=0*, option_flags=0*)
     → "Are you sure? [My judgment remains clouded./I have made up my mind.]"
 134: 0x02F0 [0x25] WAIT_DIALOG_SELECT()
 135: 0x02F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FF
@@ -418,7 +418,7 @@ SUBROUTINE_02C5:
 
 SUBROUTINE_0317:
 137: 0x0317 [0x01] GOTO 0x0321
-138: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
+138: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
     → "The universe cannot provide for those who have not been graced with the fortune of the goldfish..."
 139: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x031E [0x01] GOTO 0x01D1
@@ -463,34 +463,34 @@ SUBROUTINE_0321:
 
 ```
   0: 0x0322 [0x06] Work_Zone[1] = 0
-  1: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
+  1: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
     → "Ah, I sense great fortune approaching..."
   2: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0329 [0x02] IF !(Work_Zone[2] >= 12*) GOTO 0x033C
-  4: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
+  4: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
     → "You shall be blessed for $0 year[/s]!"
   5: 0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+  6: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "However, I sense much more potential, my child. Perhaps you are trying too hard. Relax... Let your mind melt into the surrounding waters and meld with the goldfish..."
   7: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0339 [0x01] GOTO 0x0357
   9: 0x033C [0x02] IF !(Work_Zone[2] >= 24*) GOTO 0x034F
- 10: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+ 10: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "You shall be blessed for $0 year[/s]!"
  11: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
+ 12: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
     → "Your patience and perseverance have begun to pay off, my child. However, the road to true happiness is long and winding. Clear your mind and return to the water. The goldfish are waiting..."
  13: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x034C [0x01] GOTO 0x0357
- 15: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+ 15: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "You shall be blessed for $0 year[/s]!"
  16: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+ 17: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "Your spirit is nearly one with the universe... Nirvana is within reach, my child..."
  18: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0357:
- 19: 0x0357 [0x48] [System] [8020*]:
+ 19: 0x0357 [0x48] [System] [8021*]:
     → "%'s soul begins to merge with the universe..."
  20: 0x035A [0x03] Work_Zone[1] = 3*
  21: 0x035F [0x21] END_EVENT

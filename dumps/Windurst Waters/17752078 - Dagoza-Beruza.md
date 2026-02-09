@@ -70,123 +70,123 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
-|       3 | 0x1D55      |        7509 |
-|       4 | 0x1D5A      |        7514 |
-|       5 | 0x1D5F      |        7519 |
-|       6 | 0x1D60      |        7520 |
-|       7 | 0x1D64      |        7524 |
-|       8 | 0x1D65      |        7525 |
-|       9 | 0x1E76      |        7798 |
-|      10 | 0x1E29      |        7721 |
-|      11 | 0x1E2A      |        7722 |
-|      12 | 0x1DE6      |        7654 |
-|      13 | 0x1DE7      |        7655 |
-|      14 | 0x1DAD      |        7597 |
-|      15 | 0x1DAE      |        7598 |
-|      16 | 0x1DD6      |        7638 |
-|      17 | 0x1D98      |        7576 |
-|      18 | 0x1D99      |        7577 |
-|      19 | 0x1D9A      |        7578 |
-|      20 | 0x1D70      |        7536 |
-|      21 | 0x1D82      |        7554 |
-|      22 | 0x1D8D      |        7565 |
-|      23 | 0x1E82      |        7810 |
-|      24 | 0x1E83      |        7811 |
-|      25 | 0x1E90      |        7824 |
-|      26 | 0x1E91      |        7825 |
-|      27 | 0x1E9B      |        7835 |
-|      28 | 0x1E9C      |        7836 |
-|      29 | 0x1EA3      |        7843 |
-|      30 | 0x1EA4      |        7844 |
-|      31 | 0x1EAE      |        7854 |
-|      32 | 0x1EAF      |        7855 |
-|      33 | 0x1EB8      |        7864 |
-|      34 | 0x1EB9      |        7865 |
-|      35 | 0x1EBE      |        7870 |
-|      36 | 0x1EBF      |        7871 |
-|      37 | 0x258B      |        9611 |
-|      38 | 0x258C      |        9612 |
-|      39 | 0x2597      |        9623 |
-|      40 | 0x2598      |        9624 |
-|      41 | 0x25A7      |        9639 |
-|      42 | 0x25A8      |        9640 |
-|      43 | 0x25B2      |        9650 |
-|      44 | 0x25B3      |        9651 |
-|      45 | 0x25F1      |        9713 |
-|      46 | 0x25F2      |        9714 |
-|      47 | 0x2623      |        9763 |
-|      48 | 0x2624      |        9764 |
-|      49 | 0x2654      |        9812 |
-|      50 | 0x2655      |        9813 |
-|      51 | 0x2748      |       10056 |
-|      52 | 0x2749      |       10057 |
-|      53 | 0x274F      |       10063 |
-|      54 | 0x2750      |       10064 |
-|      55 | 0x2751      |       10065 |
-|      56 | 0x275D      |       10077 |
-|      57 | 0x275E      |       10078 |
-|      58 | 0x2768      |       10088 |
-|      59 | 0x2769      |       10089 |
+|       3 | 0x1D56      |        7510 |
+|       4 | 0x1D5B      |        7515 |
+|       5 | 0x1D60      |        7520 |
+|       6 | 0x1D61      |        7521 |
+|       7 | 0x1D65      |        7525 |
+|       8 | 0x1D66      |        7526 |
+|       9 | 0x1E77      |        7799 |
+|      10 | 0x1E2A      |        7722 |
+|      11 | 0x1E2B      |        7723 |
+|      12 | 0x1DE7      |        7655 |
+|      13 | 0x1DE8      |        7656 |
+|      14 | 0x1DAE      |        7598 |
+|      15 | 0x1DAF      |        7599 |
+|      16 | 0x1DD7      |        7639 |
+|      17 | 0x1D99      |        7577 |
+|      18 | 0x1D9A      |        7578 |
+|      19 | 0x1D9B      |        7579 |
+|      20 | 0x1D71      |        7537 |
+|      21 | 0x1D83      |        7555 |
+|      22 | 0x1D8E      |        7566 |
+|      23 | 0x1E83      |        7811 |
+|      24 | 0x1E84      |        7812 |
+|      25 | 0x1E91      |        7825 |
+|      26 | 0x1E92      |        7826 |
+|      27 | 0x1E9C      |        7836 |
+|      28 | 0x1E9D      |        7837 |
+|      29 | 0x1EA4      |        7844 |
+|      30 | 0x1EA5      |        7845 |
+|      31 | 0x1EAF      |        7855 |
+|      32 | 0x1EB0      |        7856 |
+|      33 | 0x1EB9      |        7865 |
+|      34 | 0x1EBA      |        7866 |
+|      35 | 0x1EBF      |        7871 |
+|      36 | 0x1EC0      |        7872 |
+|      37 | 0x258C      |        9612 |
+|      38 | 0x258D      |        9613 |
+|      39 | 0x2598      |        9624 |
+|      40 | 0x2599      |        9625 |
+|      41 | 0x25A8      |        9640 |
+|      42 | 0x25A9      |        9641 |
+|      43 | 0x25B3      |        9651 |
+|      44 | 0x25B4      |        9652 |
+|      45 | 0x25F2      |        9714 |
+|      46 | 0x25F3      |        9715 |
+|      47 | 0x2624      |        9764 |
+|      48 | 0x2625      |        9765 |
+|      49 | 0x2655      |        9813 |
+|      50 | 0x2656      |        9814 |
+|      51 | 0x2749      |       10057 |
+|      52 | 0x274A      |       10058 |
+|      53 | 0x2750      |       10064 |
+|      54 | 0x2751      |       10065 |
+|      55 | 0x2752      |       10066 |
+|      56 | 0x275E      |       10078 |
+|      57 | 0x275F      |       10079 |
+|      58 | 0x2769      |       10089 |
+|      59 | 0x276A      |       10090 |
 
 ## String References
 
-- **7509**: You look new to these parts. I guess we should introduce ourselves to each other-wother. This is the north gatehouse, and we're the guards whose duty it is to protect Windurst.
-- **7514**: If you're a citizen of Windurst, then pleasey-weasey sign up for your first mission here! We're having a bet with the other gatehouses over who can gainy-wainy the most new recruits.
-- **7519**: Was Miss Apururu well?
-- **7520**: If Miss Apururu is well, then I'm happy-wappy.
-- **7524**: Can you stand on your own two feetsy-weetsy as an adventurer yet?
-- **7525**: If so, then you should help out other new adventurers. Kindness is the most whooper-dooper magic that anyone can use.
-- **7536**: Collect enough rank points, and your rank, or relative position in society, will rise.
-- **7554**: Hmm... My first task was to clean up the garbage in Sarutabaruta. Thinking back now...boy, those days were peaceful!
-- **7565**: Thank you for your continuing service. We hope you'll keep up the effort by helping us out with our next task.
-- **7576**: I can't hide the fact that I'm a big fan of Apururu from the Manustery!
-- **7577**: She's always so nice and kindy-windy, never failing to show her shining smiley-wiley, despite her tragic past.
-- **7578**: Listen here! You better complete Apururu's mission as fasty-wasty and as perfectly-werfectly as possible. Don't you dare mess up! You got it?
-- **7597**: Make no mistakey-wakeys! Although we're supposed to be on friendly terms with the Yagudo, Giddeus is still a dangerous dungeon.
-- **7598**: Even if you explain that you're simply a messenger from Windurst, they'll say that they have to "test" you to determine the truth. Then they all start to attack you.
-- **7638**: You were able to deliver the goods to Giddeus, huh? Congratulations! That means you're now rank two!
-- **7654**: It's very unusual for the Optistery to ask for assistance from the gatehouses.
-- **7655**: For ordinary overdue library books, the Optistery just asks any passer-by to help them out. I wonder if something serious has happened!?
-- **7721**: The School of Magic!? That place is a number-crunching hell! One step inside there and you're instantly differentiated and evaluated.
-- **7722**: Shivers! That place is, like, 2.352 times scarier than Giddeus!
-- **7798**: Heavens Tower is actually a giant star tree blessed with the protection of the skies and stars. It truly-wuly is the center of Windurst.
-- **7810**: After the war, several Mithra cubs were sent to serve at Heavens Tower.
-- **7811**: By rights they should have been mere ladies-in-waiting, but by the Star Sibyl's grace, they were allowed to serve as special protectors of Heavens Tower. That's how the Sibyl Guards were born.
-- **7824**: According to the budding young ladies-in-waiting, the worst part about Heavens Tower is the mumbling-grumbling nagging of their head lady-in-waiting, Zubaba.
-- **7825**: I wonder why the older you get, the louder you grow. I guess you can't chew on things as well as you used to, so you bite at people instead.
-- **7835**: You shouldn't be dawdling here. Hurry on over-wover to Heavens Tower!
-- **7836**: You're nowhere near high enough in position to keep the Star Sibyl waiting. Not in a million light-years...! You better head to Heavens Tower immediately!
-- **7843**: Hmm... Heavens Tower is in turmoil over something big.
-- **7844**: My little sister is a lady-in-waiting, so I want to ask her about a lot of this stuff. But that would just be putting her on the spot.
-- **7854**: Our fellow guards are currently checking whether the talismans sealed away in the other countries are safe or not.
-- **7855**: You have already received the order to head out for the ruins of Fei'Yin. Carry out your appointed task well, my friend! We're counting on you!
-- **7864**: As soon as I heard the sudden convocation of the five ministries, I had a bad feeling about it.
-- **7865**: After the last incident in the Horutoto Ruins, I knew there was something scary-wary going down.
-- **7870**: A little while ago, a letter with a shooting star emblem on it was delivered to each of the ministers of the five ministries.
-- **7871**: A shooting star emblem signifies "as fast as possible," so I delivered them as quickly-wickly as I could.
-- **9611**: At times like these, you've gotta be cool, calm, and... Um...
-- **9612**: We guards are Windurst's last line of defense. No mattaru what happens, I must keep Miss Apururu safe from harm.
-- **9623**: There's a well-known story from the time when Minister Ajido-Marujido was in magic school.
-- **9624**: The minister got stompily-womped in the monster-hunting exam on Buburimu Peninsula when he tried to beat the record held by Karaha-Baruha. He really-weally hates to lose.
-- **9639**: The Star Sibyl awaits you at Heavens Tower. It appears to be a very gravy-wave matter.
-- **9640**: If you're thinking of running off to another country, now's the time to do it. I should tell you, though, the guards will definitaruly come after you. I'm sorry you gotaru mixed up in all this.
-- **9650**: Minister Tosuka-Porika of the Optistery was never very buddy-wuddy with Minister Ajido-Marujido.
-- **9651**: So when the Minister of the Orastery was captured, Minister Tosuka-Porika was pleased as punchy-wunch. He's that sortaru of guy.
-- **9713**: Most people think that the Rhinostery justaru researches plants, but actually, their research encompasses all living things.
-- **9714**: Biology researchers wander all over Vana'diel. The mostaru capable adventurers of the Rhinostery always accompany these researchers on their treks into dangerous territory.
-- **9763**: The principal of the School of Magic is a very pleasant, although eccentric, character.
-- **9764**: When we were kids--just normal students at the school, the principal would come and join in our Tarutaru games.
-- **9812**: I can't bear to see Miss Apururu's tears. I'll personally taru and feather anyone who messes with my Apururu!
-- **9813**: I detestaru that Ajido-marujido. This is all his fault!
-- **10056**: Miss Apururu and her brother are in such a pickle-wickle... If their father, Zonpa-Zippa, was still with us, he would have saved them from this sticky situation.
-- **10057**: ...... Or maybe things justaru would've gotten worse. Zonpa-Zippa was never known for being a particularly helpful-welpful guy...
-- **10063**: You wanna know what kind of person Zonpa-Zippa was?
-- **10064**: ...Zonpa-Zippa was an extremely-wemely strict minister. He pushed our children to their limits with his unrelentaruing style of education.
-- **10065**: He was particularly harsh with Ajido-Marujido.
-- **10077**: Even with Minister Ajido-Marujido's return to consciousness and the pardoning of his crimes, Miss Apururu still looks all pasty-wasty!
-- **10078**: She mustaru be working too hard. The Cardians should be doing all the menial tasks of the Manustery!
-- **10088**: Seeing the smiley-wiley faces of the children when I do my rounds of Windurst Waters justaru blows my tiredness away.
-- **10089**: And to top it all off, even the Mithra we pass have begun greeting us in a friendly fashion. Isn't that greataru?
+- **7510**: You look new to these parts. I guess we should introduce ourselves to each other-wother. This is the north gatehouse, and we're the guards whose duty it is to protect Windurst.
+- **7515**: If you're a citizen of Windurst, then pleasey-weasey sign up for your first mission here! We're having a bet with the other gatehouses over who can gainy-wainy the most new recruits.
+- **7520**: Was Miss Apururu well?
+- **7521**: If Miss Apururu is well, then I'm happy-wappy.
+- **7525**: Can you stand on your own two feetsy-weetsy as an adventurer yet?
+- **7526**: If so, then you should help out other new adventurers. Kindness is the most whooper-dooper magic that anyone can use.
+- **7537**: Collect enough rank points, and your rank, or relative position in society, will rise.
+- **7555**: Hmm... My first task was to clean up the garbage in Sarutabaruta. Thinking back now...boy, those days were peaceful!
+- **7566**: Thank you for your continuing service. We hope you'll keep up the effort by helping us out with our next task.
+- **7577**: I can't hide the fact that I'm a big fan of Apururu from the Manustery!
+- **7578**: She's always so nice and kindy-windy, never failing to show her shining smiley-wiley, despite her tragic past.
+- **7579**: Listen here! You better complete Apururu's mission as fasty-wasty and as perfectly-werfectly as possible. Don't you dare mess up! You got it?
+- **7598**: Make no mistakey-wakeys! Although we're supposed to be on friendly terms with the Yagudo, Giddeus is still a dangerous dungeon.
+- **7599**: Even if you explain that you're simply a messenger from Windurst, they'll say that they have to "test" you to determine the truth. Then they all start to attack you.
+- **7639**: You were able to deliver the goods to Giddeus, huh? Congratulations! That means you're now rank two!
+- **7655**: It's very unusual for the Optistery to ask for assistance from the gatehouses.
+- **7656**: For ordinary overdue library books, the Optistery just asks any passer-by to help them out. I wonder if something serious has happened!?
+- **7722**: The School of Magic!? That place is a number-crunching hell! One step inside there and you're instantly differentiated and evaluated.
+- **7723**: Shivers! That place is, like, 2.352 times scarier than Giddeus!
+- **7799**: Heavens Tower is actually a giant star tree blessed with the protection of the skies and stars. It truly-wuly is the center of Windurst.
+- **7811**: After the war, several Mithra cubs were sent to serve at Heavens Tower.
+- **7812**: By rights they should have been mere ladies-in-waiting, but by the Star Sibyl's grace, they were allowed to serve as special protectors of Heavens Tower. That's how the Sibyl Guards were born.
+- **7825**: According to the budding young ladies-in-waiting, the worst part about Heavens Tower is the mumbling-grumbling nagging of their head lady-in-waiting, Zubaba.
+- **7826**: I wonder why the older you get, the louder you grow. I guess you can't chew on things as well as you used to, so you bite at people instead.
+- **7836**: You shouldn't be dawdling here. Hurry on over-wover to Heavens Tower!
+- **7837**: You're nowhere near high enough in position to keep the Star Sibyl waiting. Not in a million light-years...! You better head to Heavens Tower immediately!
+- **7844**: Hmm... Heavens Tower is in turmoil over something big.
+- **7845**: My little sister is a lady-in-waiting, so I want to ask her about a lot of this stuff. But that would just be putting her on the spot.
+- **7855**: Our fellow guards are currently checking whether the talismans sealed away in the other countries are safe or not.
+- **7856**: You have already received the order to head out for the ruins of Fei'Yin. Carry out your appointed task well, my friend! We're counting on you!
+- **7865**: As soon as I heard the sudden convocation of the five ministries, I had a bad feeling about it.
+- **7866**: After the last incident in the Horutoto Ruins, I knew there was something scary-wary going down.
+- **7871**: A little while ago, a letter with a shooting star emblem on it was delivered to each of the ministers of the five ministries.
+- **7872**: A shooting star emblem signifies "as fast as possible," so I delivered them as quickly-wickly as I could.
+- **9612**: At times like these, you've gotta be cool, calm, and... Um...
+- **9613**: We guards are Windurst's last line of defense. No mattaru what happens, I must keep Miss Apururu safe from harm.
+- **9624**: There's a well-known story from the time when Minister Ajido-Marujido was in magic school.
+- **9625**: The minister got stompily-womped in the monster-hunting exam on Buburimu Peninsula when he tried to beat the record held by Karaha-Baruha. He really-weally hates to lose.
+- **9640**: The Star Sibyl awaits you at Heavens Tower. It appears to be a very gravy-wave matter.
+- **9641**: If you're thinking of running off to another country, now's the time to do it. I should tell you, though, the guards will definitaruly come after you. I'm sorry you gotaru mixed up in all this.
+- **9651**: Minister Tosuka-Porika of the Optistery was never very buddy-wuddy with Minister Ajido-Marujido.
+- **9652**: So when the Minister of the Orastery was captured, Minister Tosuka-Porika was pleased as punchy-wunch. He's that sortaru of guy.
+- **9714**: Most people think that the Rhinostery justaru researches plants, but actually, their research encompasses all living things.
+- **9715**: Biology researchers wander all over Vana'diel. The mostaru capable adventurers of the Rhinostery always accompany these researchers on their treks into dangerous territory.
+- **9764**: The principal of the School of Magic is a very pleasant, although eccentric, character.
+- **9765**: When we were kids--just normal students at the school, the principal would come and join in our Tarutaru games.
+- **9813**: I can't bear to see Miss Apururu's tears. I'll personally taru and feather anyone who messes with my Apururu!
+- **9814**: I detestaru that Ajido-marujido. This is all his fault!
+- **10057**: Miss Apururu and her brother are in such a pickle-wickle... If their father, Zonpa-Zippa, was still with us, he would have saved them from this sticky situation.
+- **10058**: ...... Or maybe things justaru would've gotten worse. Zonpa-Zippa was never known for being a particularly helpful-welpful guy...
+- **10064**: You wanna know what kind of person Zonpa-Zippa was?
+- **10065**: ...Zonpa-Zippa was an extremely-wemely strict minister. He pushed our children to their limits with his unrelentaruing style of education.
+- **10066**: He was particularly harsh with Ajido-Marujido.
+- **10078**: Even with Minister Ajido-Marujido's return to consciousness and the pardoning of his crimes, Miss Apururu still looks all pasty-wasty!
+- **10079**: She mustaru be working too hard. The Cardians should be doing all the menial tasks of the Manustery!
+- **10089**: Seeing the smiley-wiley faces of the children when I do my rounds of Windurst Waters justaru blows my tiredness away.
+- **10090**: And to top it all off, even the Mithra we pass have begun greeting us in a friendly fashion. Isn't that greataru?
 
 ## Events
 
@@ -551,7 +551,7 @@
   1: 0x00CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
+  4: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "You look new to these parts. I guess we should introduce ourselves to each other-wother. This is the north gatehouse, and we're the guards whose duty it is to protect Windurst."
   5: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -584,7 +584,7 @@
   1: 0x00E8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  4: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "If you're a citizen of Windurst, then pleasey-weasey sign up for your first mission here! We're having a bet with the other gatehouses over who can gainy-wainy the most new recruits."
   5: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -618,10 +618,10 @@
   1: 0x0105 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0106 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0107 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  4: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Was Miss Apururu well?"
   5: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+  6: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "If Miss Apururu is well, then I'm happy-wappy."
   7: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0116 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -655,10 +655,10 @@
   1: 0x0126 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0127 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0128 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  4: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "Can you stand on your own two feetsy-weetsy as an adventurer yet?"
   5: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  6: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "If so, then you should help out other new adventurers. Kindness is the most whooper-dooper magic that anyone can use."
   7: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0137 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -691,7 +691,7 @@
   1: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0149 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+  4: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
     → "Heavens Tower is actually a giant star tree blessed with the protection of the skies and stars. It truly-wuly is the center of Windurst."
   5: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0154 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -726,12 +726,12 @@
   1: 0x0164 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0165 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0166 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x03)
-  4: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
+  4: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7722*)
     → "The School of Magic!? That place is a number-crunching hell! One step inside there and you're instantly differentiated and evaluated."
   5: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0171 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x04)
   7: 0x0178 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  8: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=7722*)
+  8: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=7723*)
     → "Shivers! That place is, like, 2.352 times scarier than Giddeus!"
   9: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0183 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -765,10 +765,10 @@
   1: 0x0193 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0194 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0195 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=7654*)
+  4: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=7655*)
     → "It's very unusual for the Optistery to ask for assistance from the gatehouses."
   5: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7655*)
+  6: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7656*)
     → "For ordinary overdue library books, the Optistery just asks any passer-by to help them out. I wonder if something serious has happened!?"
   7: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -802,10 +802,10 @@
   1: 0x01B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
+  4: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
     → "Make no mistakey-wakeys! Although we're supposed to be on friendly terms with the Yagudo, Giddeus is still a dangerous dungeon."
   5: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+  6: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
     → "Even if you explain that you're simply a messenger from Windurst, they'll say that they have to "test" you to determine the truth. Then they all start to attack you."
   7: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -838,7 +838,7 @@
   1: 0x01D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7638*)
+  4: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
     → "You were able to deliver the goods to Giddeus, huh? Congratulations! That means you're now rank two!"
   5: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -872,10 +872,10 @@
   1: 0x01F2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
+  4: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
     → "Make no mistakey-wakeys! Although we're supposed to be on friendly terms with the Yagudo, Giddeus is still a dangerous dungeon."
   5: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+  6: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
     → "Even if you explain that you're simply a messenger from Windurst, they'll say that they have to "test" you to determine the truth. Then they all start to attack you."
   7: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0203 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -910,13 +910,13 @@
   1: 0x0213 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0214 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0215 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=7576*)
+  4: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
     → "I can't hide the fact that I'm a big fan of Apururu from the Manustery!"
   5: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+  6: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "She's always so nice and kindy-windy, never failing to show her shining smiley-wiley, despite her tragic past."
   7: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+  8: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "Listen here! You better complete Apururu's mission as fasty-wasty and as perfectly-werfectly as possible. Don't you dare mess up! You got it?"
   9: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0228 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1012,7 +1012,7 @@
 
 ```
   0: 0x0236 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  1: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+  1: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "Collect enough rank points, and your rank, or relative position in society, will rise."
   2: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0241 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1044,7 +1044,7 @@
   1: 0x024E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0250 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+  4: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
     → "Hmm... My first task was to clean up the garbage in Sarutabaruta. Thinking back now...boy, those days were peaceful!"
   5: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x025B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1078,7 +1078,7 @@
   1: 0x026B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x026C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x026D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
+  4: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
     → "Thank you for your continuing service. We hope you'll keep up the effort by helping us out with our next task."
   5: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0278 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1112,10 +1112,10 @@
   1: 0x0288 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0289 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x028A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+  4: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
     → "After the war, several Mithra cubs were sent to serve at Heavens Tower."
   5: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+  6: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "By rights they should have been mere ladies-in-waiting, but by the Star Sibyl's grace, they were allowed to serve as special protectors of Heavens Tower. That's how the Sibyl Guards were born."
   7: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1149,10 +1149,10 @@
   1: 0x02A9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02AA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
+  4: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
     → "According to the budding young ladies-in-waiting, the worst part about Heavens Tower is the mumbling-grumbling nagging of their head lady-in-waiting, Zubaba."
   5: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+  6: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
     → "I wonder why the older you get, the louder you grow. I guess you can't chew on things as well as you used to, so you bite at people instead."
   7: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1186,10 +1186,10 @@
   1: 0x02CA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02CB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x05)
-  4: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+  4: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "You shouldn't be dawdling here. Hurry on over-wover to Heavens Tower!"
   5: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  6: 0x02D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "You're nowhere near high enough in position to keep the Star Sibyl waiting. Not in a million light-years...! You better head to Heavens Tower immediately!"
   7: 0x02DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x06)
@@ -1223,10 +1223,10 @@
   1: 0x02EB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02EC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
+  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
     → "Hmm... Heavens Tower is in turmoil over something big."
   5: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+  6: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "My little sister is a lady-in-waiting, so I want to ask her about a lot of this stuff. But that would just be putting her on the spot."
   7: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1260,10 +1260,10 @@
   1: 0x030C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x030D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x030E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+  4: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
     → "Our fellow guards are currently checking whether the talismans sealed away in the other countries are safe or not."
   5: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  6: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
     → "You have already received the order to head out for the ruins of Fei'Yin. Carry out your appointed task well, my friend! We're counting on you!"
   7: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x031D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1297,10 +1297,10 @@
   1: 0x032D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x032E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x032F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "As soon as I heard the sudden convocation of the five ministries, I had a bad feeling about it."
   5: 0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  6: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "After the last incident in the Horutoto Ruins, I knew there was something scary-wary going down."
   7: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x033E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1334,10 +1334,10 @@
   1: 0x034E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x034F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0350 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+  4: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "A little while ago, a letter with a shooting star emblem on it was delivered to each of the ministers of the five ministries."
   5: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x035B [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+  6: 0x035B [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "A shooting star emblem signifies "as fast as possible," so I delivered them as quickly-wickly as I could."
   7: 0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x035F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1371,10 +1371,10 @@
   1: 0x036F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0370 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0371 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0378 [0x1D] PRINT_EVENT_MESSAGE(message_id=9611*)
+  4: 0x0378 [0x1D] PRINT_EVENT_MESSAGE(message_id=9612*)
     → "At times like these, you've gotta be cool, calm, and... Um..."
   5: 0x037B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=9612*)
+  6: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=9613*)
     → "We guards are Windurst's last line of defense. No mattaru what happens, I must keep Miss Apururu safe from harm."
   7: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0380 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1408,10 +1408,10 @@
   1: 0x0390 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0391 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0392 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=9623*)
+  4: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=9624*)
     → "There's a well-known story from the time when Minister Ajido-Marujido was in magic school."
   5: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=9624*)
+  6: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=9625*)
     → "The minister got stompily-womped in the monster-hunting exam on Buburimu Peninsula when he tried to beat the record held by Karaha-Baruha. He really-weally hates to lose."
   7: 0x03A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1445,10 +1445,10 @@
   1: 0x03B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9639*)
+  4: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9640*)
     → "The Star Sibyl awaits you at Heavens Tower. It appears to be a very gravy-wave matter."
   5: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9640*)
+  6: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9641*)
     → "If you're thinking of running off to another country, now's the time to do it. I should tell you, though, the guards will definitaruly come after you. I'm sorry you gotaru mixed up in all this."
   7: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1482,10 +1482,10 @@
   1: 0x03D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9650*)
+  4: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9651*)
     → "Minister Tosuka-Porika of the Optistery was never very buddy-wuddy with Minister Ajido-Marujido."
   5: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9651*)
+  6: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9652*)
     → "So when the Minister of the Orastery was captured, Minister Tosuka-Porika was pleased as punchy-wunch. He's that sortaru of guy."
   7: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1519,10 +1519,10 @@
   1: 0x03F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x03FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9713*)
+  4: 0x03FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9714*)
     → "Most people think that the Rhinostery justaru researches plants, but actually, their research encompasses all living things."
   5: 0x03FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=9714*)
+  6: 0x0400 [0x1D] PRINT_EVENT_MESSAGE(message_id=9715*)
     → "Biology researchers wander all over Vana'diel. The mostaru capable adventurers of the Rhinostery always accompany these researchers on their treks into dangerous territory."
   7: 0x0403 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0404 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1556,10 +1556,10 @@
   1: 0x0414 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0415 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0416 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=9763*)
+  4: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=9764*)
     → "The principal of the School of Magic is a very pleasant, although eccentric, character."
   5: 0x0420 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=9764*)
+  6: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=9765*)
     → "When we were kids--just normal students at the school, the principal would come and join in our Tarutaru games."
   7: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0425 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
@@ -1593,12 +1593,12 @@
   1: 0x0435 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0436 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0437 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x05)
-  4: 0x043E [0x1D] PRINT_EVENT_MESSAGE(message_id=9812*)
+  4: 0x043E [0x1D] PRINT_EVENT_MESSAGE(message_id=9813*)
     → "I can't bear to see Miss Apururu's tears. I'll personally taru and feather anyone who messes with my Apururu!"
   5: 0x0441 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0442 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x06)
   7: 0x0449 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x05)
-  8: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=9813*)
+  8: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=9814*)
     → "I detestaru that Ajido-marujido. This is all his fault!"
   9: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0454 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x06)
@@ -1633,12 +1633,12 @@
   1: 0x0464 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0465 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0466 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x05)
-  4: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=10056*)
+  4: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
     → "Miss Apururu and her brother are in such a pickle-wickle... If their father, Zonpa-Zippa, was still with us, he would have saved them from this sticky situation."
   5: 0x0470 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0471 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x06)
   7: 0x0478 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x05)
-  8: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
+  8: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=10058*)
     → "...... Or maybe things justaru would've gotten worse. Zonpa-Zippa was never known for being a particularly helpful-welpful guy..."
   9: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0483 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x06)
@@ -1674,17 +1674,17 @@
   1: 0x0493 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0494 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0495 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x08)
-  4: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
+  4: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
     → "You wanna know what kind of person Zonpa-Zippa was?"
   5: 0x049F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x09)
   7: 0x04A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x0A)
-  8: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
+  8: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10065*)
     → "...Zonpa-Zippa was an extremely-wemely strict minister. He pushed our children to their limits with his unrelentaruing style of education."
   9: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x0B)
  11: 0x04B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x0C)
- 12: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10065*)
+ 12: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10066*)
     → "He was particularly harsh with Ajido-Marujido."
  13: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x04C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x0D)
@@ -1720,12 +1720,12 @@
   1: 0x04D4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  4: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
+  4: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
     → "Even with Minister Ajido-Marujido's return to consciousness and the pardoning of his crimes, Miss Apururu still looks all pasty-wasty!"
   5: 0x04E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)
   7: 0x04E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x08)
-  8: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
+  8: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10079*)
     → "She mustaru be working too hard. The Cardians should be doing all the menial tasks of the Manustery!"
   9: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x09)
@@ -1762,12 +1762,12 @@
   1: 0x0511 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0512 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0513 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x05)
-  4: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=10088*)
+  4: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=10089*)
     → "Seeing the smiley-wiley faces of the children when I do my rounds of Windurst Waters justaru blows my tiredness away."
   5: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x051E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x06)
   7: 0x0525 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x01)
-  8: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=10089*)
+  8: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=10090*)
     → "And to top it all off, even the Mithra we pass have begun greeting us in a friendly fashion. Isn't that greataru?"
   9: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0530 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dagoza-Beruza (ID: 17752078/0x010EE00E), tag_num=0x02)

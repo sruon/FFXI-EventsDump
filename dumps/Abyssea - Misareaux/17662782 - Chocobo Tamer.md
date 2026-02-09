@@ -23,34 +23,34 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2125      |        8485 |
-|       1 | 0x2126      |        8486 |
-|       2 | 0x2127      |        8487 |
+|       0 | 0x2126      |        8486 |
+|       1 | 0x2127      |        8487 |
+|       2 | 0x2128      |        8488 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x2128      |        8488 |
-|       5 | 0x2129      |        8489 |
-|       6 | 0x212A      |        8490 |
-|       7 | 0x2143      |        8515 |
-|       8 | 0x2144      |        8516 |
-|       9 | 0x2145      |        8517 |
-|      10 | 0x2146      |        8518 |
-|      11 | 0x2147      |        8519 |
+|       4 | 0x2129      |        8489 |
+|       5 | 0x212A      |        8490 |
+|       6 | 0x212B      |        8491 |
+|       7 | 0x2144      |        8516 |
+|       8 | 0x2145      |        8517 |
+|       9 | 0x2146      |        8518 |
+|      10 | 0x2147      |        8519 |
+|      11 | 0x2148      |        8520 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x212B      |        8491 |
+|      13 | 0x212C      |        8492 |
 |      14 | 0x0004      |           4 |
 |      15 | 0x0003      |           3 |
-|      16 | 0x2139      |        8505 |
-|      17 | 0x213A      |        8506 |
-|      18 | 0x213B      |        8507 |
-|      19 | 0x213C      |        8508 |
-|      20 | 0x213D      |        8509 |
-|      21 | 0x213E      |        8510 |
-|      22 | 0x213F      |        8511 |
-|      23 | 0x2140      |        8512 |
-|      24 | 0x2141      |        8513 |
-|      25 | 0x2142      |        8514 |
+|      16 | 0x213A      |        8506 |
+|      17 | 0x213B      |        8507 |
+|      18 | 0x213C      |        8508 |
+|      19 | 0x213D      |        8509 |
+|      20 | 0x213E      |        8510 |
+|      21 | 0x213F      |        8511 |
+|      22 | 0x2140      |        8512 |
+|      23 | 0x2141      |        8513 |
+|      24 | 0x2142      |        8514 |
+|      25 | 0x2143      |        8515 |
 |      26 | 0x0002      |           2 |
-|      27 | 0x212F      |        8495 |
+|      27 | 0x2130      |        8496 |
 |      28 | 0x40000000  |  1073741824 |
 |      29 | 0x11C1      |        4545 |
 |      30 | 0x0032      |          50 |
@@ -62,55 +62,55 @@
 |      36 | 0x0096      |         150 |
 |      37 | 0x095F      |        2399 |
 |      38 | 0x00C8      |         200 |
-|      39 | 0x2130      |        8496 |
-|      40 | 0x2131      |        8497 |
-|      41 | 0x2132      |        8498 |
-|      42 | 0x2133      |        8499 |
-|      43 | 0x2134      |        8500 |
-|      44 | 0x2135      |        8501 |
+|      39 | 0x2131      |        8497 |
+|      40 | 0x2132      |        8498 |
+|      41 | 0x2133      |        8499 |
+|      42 | 0x2134      |        8500 |
+|      43 | 0x2135      |        8501 |
+|      44 | 0x2136      |        8502 |
 |      45 | 0x0005      |           5 |
-|      46 | 0x2136      |        8502 |
+|      46 | 0x2137      |        8503 |
 |      47 | 0x000C      |          12 |
-|      48 | 0x2137      |        8503 |
-|      49 | 0x2138      |        8504 |
+|      48 | 0x2138      |        8504 |
+|      49 | 0x2139      |        8505 |
 |      50 | 0x0007      |           7 |
 |      51 | 0x0008      |           8 |
 |      52 | 0x000B      |          11 |
 
 ## String References
 
-- **8485**: Well met, friend. I am charged with assisting those who have volunteered to transport supplies to the battlefront by way of pack chocobo.
-- **8486**: If you would aid the resistance effort in this area, please speak with the resistance sapper.
-- **8487**: Well met, friend. I had received word that you would be coming.
-- **8488**: Oh, dear. I'm afraid all our pack chocobos are presently afield.
-- **8489**: One of the animals should be available again soon, though, so please check back in a short while.
-- **8490**: How might I assist you?
-- **8491**: What will you do? [Commence operation./Ask about pack chocobos./Exchange cruor for items./Nothing right now.]
-- **8495**: I can offer you a range of helpful pack chocobo goods in exchange for cruor.
-- **8496**: Select an item. (Cruor balance: $0) [$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/Never mind.]
-- **8497**: This item slightly recovers the pack chocobo's health.
-- **8498**: This item moderately recovers the pack chocobo's health.
-- **8499**: This item temporarily increases the pack chocobo's movement speed.
-- **8500**: This item temporarily improves the pack chocobo's hardiness.
-- **8501**: This item temporarily dampens the pack chocobo's sense of smell.
-- **8502**: Please choose a quantity from one to twelve.
-- **8503**: $30 $0 ... The total comes to $31 cruor. Will this be all right?
-- **8504**: Proceed with exchange? [Yes./No.]
-- **8505**: It would be my pleasure to tell you all I know of these trusty creatures.
-- **8506**: Pack chocobos are bred especially for tractability, and will faithfully follow you at a single command. To minimize the risk of both animal and baggage being lost, they are also trained to stay put should they lose sight of their caretaker.
-- **8507**: As to be expected, the chocobo's stamina gradually deteriorates over the course of labor. You would be doing it a kindness by taking no longer than necessary to complete your task.
-- **8508**: For the operation, you must first lead the chocobo to the stockpile, and thence load it up with as many supplies as manageable.
-- **8509**: The creature's stamina will continue to deteriorate even during loading.
-- **8510**: It is your responsibility to make absolutely certain that it has sufficient energy remaining to make the return trip.
-- **8511**: Lastly, these hostile environs have caused the chocobos to revert to their natural instincts for self-preservation.
-- **8512**: The creatures have become highly skittish, and will startle and bolt should they catch scent of a monster.
-- **8513**: In attempting to flee, the chocobo will tire rapidly. There is also a chance that it will drop its burden. Should this happen, waste no time in securing and calming down the poor creature.
-- **8514**: Our avian allies play a crucial role in keeping the outpost well-provisioned. We do our utmost to keep them content and in fine feather, and would appreciate your cooperation in this regard.
-- **8515**: Ah, welcome back!
-- **8516**: I shall take over from here. You have our gratitude.
-- **8517**: Oh, and do not forget to report the completion of your task to the resistance sapper.
-- **8518**: What!? You allowed the pack chocobo to run off!? Oh, gods preserve the poor creature...
-- **8519**: The loss of a pack chocobo will sorely be felt by the resistance effort. You must report this disaster to the resistance sapper at once.
+- **8486**: Well met, friend. I am charged with assisting those who have volunteered to transport supplies to the battlefront by way of pack chocobo.
+- **8487**: If you would aid the resistance effort in this area, please speak with the resistance sapper.
+- **8488**: Well met, friend. I had received word that you would be coming.
+- **8489**: Oh, dear. I'm afraid all our pack chocobos are presently afield.
+- **8490**: One of the animals should be available again soon, though, so please check back in a short while.
+- **8491**: How might I assist you?
+- **8492**: What will you do? [Commence operation./Ask about pack chocobos./Exchange cruor for items./Nothing right now.]
+- **8496**: I can offer you a range of helpful pack chocobo goods in exchange for cruor.
+- **8497**: Select an item. (Cruor balance: $0) [$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/Never mind.]
+- **8498**: This item slightly recovers the pack chocobo's health.
+- **8499**: This item moderately recovers the pack chocobo's health.
+- **8500**: This item temporarily increases the pack chocobo's movement speed.
+- **8501**: This item temporarily improves the pack chocobo's hardiness.
+- **8502**: This item temporarily dampens the pack chocobo's sense of smell.
+- **8503**: Please choose a quantity from one to twelve.
+- **8504**: $30 $0 ... The total comes to $31 cruor. Will this be all right?
+- **8505**: Proceed with exchange? [Yes./No.]
+- **8506**: It would be my pleasure to tell you all I know of these trusty creatures.
+- **8507**: Pack chocobos are bred especially for tractability, and will faithfully follow you at a single command. To minimize the risk of both animal and baggage being lost, they are also trained to stay put should they lose sight of their caretaker.
+- **8508**: As to be expected, the chocobo's stamina gradually deteriorates over the course of labor. You would be doing it a kindness by taking no longer than necessary to complete your task.
+- **8509**: For the operation, you must first lead the chocobo to the stockpile, and thence load it up with as many supplies as manageable.
+- **8510**: The creature's stamina will continue to deteriorate even during loading.
+- **8511**: It is your responsibility to make absolutely certain that it has sufficient energy remaining to make the return trip.
+- **8512**: Lastly, these hostile environs have caused the chocobos to revert to their natural instincts for self-preservation.
+- **8513**: The creatures have become highly skittish, and will startle and bolt should they catch scent of a monster.
+- **8514**: In attempting to flee, the chocobo will tire rapidly. There is also a chance that it will drop its burden. Should this happen, waste no time in securing and calming down the poor creature.
+- **8515**: Our avian allies play a crucial role in keeping the outpost well-provisioned. We do our utmost to keep them content and in fine feather, and would appreciate your cooperation in this regard.
+- **8516**: Ah, welcome back!
+- **8517**: I shall take over from here. You have our gratitude.
+- **8518**: Oh, and do not forget to report the completion of your task to the resistance sapper.
+- **8519**: What!? You allowed the pack chocobo to run off!? Oh, gods preserve the poor creature...
+- **8520**: The loss of a pack chocobo will sorely be felt by the resistance effort. You must report this disaster to the resistance sapper at once.
 
 ## Events
 
@@ -156,10 +156,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8485*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8486*)
     → "Well met, friend. I am charged with assisting those who have volunteered to transport supplies to the battlefront by way of pack chocobo."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8486*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8487*)
     → "If you would aid the resistance effort in this area, please speak with the resistance sapper."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -190,19 +190,19 @@
   0: 0x0010 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
   1: 0x0015 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[4]
   2: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8487*)
+  3: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
     → "Well met, friend. I had received word that you would be coming."
   4: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0035
-  6: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
+  6: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
     → "Oh, dear. I'm afraid all our pack chocobos are presently afield."
   7: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
+  8: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8490*)
     → "One of the animals should be available again soon, though, so please check back in a short while."
   9: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0033 [0x21] END_EVENT
  11: 0x0034 [0x00] END_REQSTACK()
- 12: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8490*)
+ 12: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8491*)
     → "How might I assist you?"
  13: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0039 [0x1A] CALL_SUBROUTINE(address=0x0073)
@@ -234,20 +234,20 @@
 ```
   0: 0x003E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0043 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x005A
-  2: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
+  2: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8516*)
     → "Ah, welcome back!"
   3: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8516*)
+  4: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8517*)
     → "I shall take over from here. You have our gratitude."
   5: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=8517*)
+  6: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=8518*)
     → "Oh, and do not forget to report the completion of your task to the resistance sapper."
   7: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0057 [0x01] GOTO 0x0062
-  9: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8518*)
+  9: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
     → "What!? You allowed the pack chocobo to run off!? Oh, gods preserve the poor creature..."
  10: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
+ 11: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
     → "The loss of a pack chocobo will sorely be felt by the resistance effort. You must report this disaster to the resistance sapper at once."
  12: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -312,10 +312,10 @@ SUBROUTINE_0062:
 
 ```
   0: 0x0064 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
+  1: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8516*)
     → "Ah, welcome back!"
   2: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8517*)
+  3: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8518*)
     → "Oh, and do not forget to report the completion of your task to the resistance sapper."
   4: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0071 [0x21] END_EVENT
@@ -329,7 +329,7 @@ SUBROUTINE_0062:
      0x0073 [0x05] ExtData[1]->WorkLocal[0] = 1
      0x0076 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00FD
      0x007E [0x03] Work_Zone[1] = 0*
-     0x0083 [0x24] CREATE_DIALOG(message_id=8491*, default_option=4*, option_flags=ExtData[1]->WorkLocal[7])
+     0x0083 [0x24] CREATE_DIALOG(message_id=8492*, default_option=4*, option_flags=ExtData[1]->WorkLocal[7])
     → "What will you do? [Commence operation./Ask about pack chocobos./Exchange cruor for items./Nothing right now.]"
      0x008A [0x25] WAIT_DIALOG_SELECT()
      0x008B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A2
@@ -337,39 +337,39 @@ SUBROUTINE_0062:
      0x009C [0x06] ExtData[1]->WorkLocal[0] = 0
      0x009F [0x01] GOTO 0x00FA
      0x00A2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D5
-     0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8505*)
+     0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
     → "It would be my pleasure to tell you all I know of these trusty creatures."
      0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
+     0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
     → "Pack chocobos are bred especially for tractability, and will faithfully follow you at a single command. To minimize the risk of both animal and baggage being lost, they are also trained to stay put should they lose sight of their caretaker."
      0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
+     0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
     → "As to be expected, the chocobo's stamina gradually deteriorates over the course of labor. You would be doing it a kindness by taking no longer than necessary to complete your task."
      0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
+     0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
     → "For the operation, you must first lead the chocobo to the stockpile, and thence load it up with as many supplies as manageable."
      0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
+     0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
     → "The creature's stamina will continue to deteriorate even during loading."
      0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
+     0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8511*)
     → "It is your responsibility to make absolutely certain that it has sufficient energy remaining to make the return trip."
      0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8511*)
+     0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
     → "Lastly, these hostile environs have caused the chocobos to revert to their natural instincts for self-preservation."
      0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
+     0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
     → "The creatures have become highly skittish, and will startle and bolt should they catch scent of a monster."
      0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
+     0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8514*)
     → "In attempting to flee, the chocobo will tire rapidly. There is also a chance that it will drop its burden. Should this happen, waste no time in securing and calming down the poor creature."
      0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8514*)
+     0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
     → "Our avian allies play a crucial role in keeping the outpost well-provisioned. We do our utmost to keep them content and in fine feather, and would appreciate your cooperation in this regard."
      0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00D2 [0x01] GOTO 0x00FA
      0x00D5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00E7
-     0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8495*)
+     0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8496*)
     → "I can offer you a range of helpful pack chocobo goods in exchange for cruor."
      0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00E1 [0x1A] CALL_SUBROUTINE(address=0x00FE)
@@ -393,35 +393,35 @@ SUBROUTINE_0062:
      0x0131 [0x03] Work_Zone_1700[0] = 150*
      0x0136 [0x03] Work_Zone_1700[1] = 2399*
      0x013B [0x03] Work_Zone_1700[2] = 200*
-     0x0140 [0x24] CREATE_DIALOG(message_id=8496*, default_option=0*, option_flags=0*)
+     0x0140 [0x24] CREATE_DIALOG(message_id=8497*, default_option=0*, option_flags=0*)
     → "Select an item. (Cruor balance: $0) [$1: $2/$3: $4/$5: $6/$7: $8/$9: $10/Never mind.]"
      0x0147 [0x25] WAIT_DIALOG_SELECT()
      0x0148 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
-     0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=8497*)
+     0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
     → "This item slightly recovers the pack chocobo's health."
      0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0154 [0x03] ExtData[1]->WorkLocal[6] = 0*
      0x0159 [0x01] GOTO 0x01BA
      0x015C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0170
-     0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
+     0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
     → "This item moderately recovers the pack chocobo's health."
      0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0168 [0x03] ExtData[1]->WorkLocal[6] = 1*
      0x016D [0x01] GOTO 0x01BA
      0x0170 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0184
-     0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
+     0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
     → "This item temporarily increases the pack chocobo's movement speed."
      0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x017C [0x03] ExtData[1]->WorkLocal[6] = 2*
      0x0181 [0x01] GOTO 0x01BA
      0x0184 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0198
-     0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
+     0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
     → "This item temporarily improves the pack chocobo's hardiness."
      0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0190 [0x03] ExtData[1]->WorkLocal[6] = 3*
      0x0195 [0x01] GOTO 0x01BA
      0x0198 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x01AC
-     0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
+     0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8502*)
     → "This item temporarily dampens the pack chocobo's sense of smell."
      0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01A4 [0x03] ExtData[1]->WorkLocal[6] = 4*
@@ -431,7 +431,7 @@ SUBROUTINE_0062:
      0x01B7 [0x01] GOTO 0x01BA
      0x01BA [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x02AB
      0x01C2 [0x03] Work_Zone[1] = 0*
-     0x01C7 [0x48] [System] [8502*]:
+     0x01C7 [0x48] [System] [8503*]:
     → "Please choose a quantity from one to twelve."
      0x01CA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
      0x01D3 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -461,10 +461,10 @@ SUBROUTINE_0062:
      0x0258 [0x01] GOTO 0x025B
      0x025B [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[3]
      0x0260 [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[4]
-     0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=8503*)
+     0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=8504*)
     → "$30 $0 ... The total comes to $31 cruor. Will this be all right?"
      0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0269 [0x24] CREATE_DIALOG(message_id=8504*, default_option=1*, option_flags=0*)
+     0x0269 [0x24] CREATE_DIALOG(message_id=8505*, default_option=1*, option_flags=0*)
     → "Proceed with exchange? [Yes./No.]"
      0x0270 [0x25] WAIT_DIALOG_SELECT()
      0x0271 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A0

@@ -26,36 +26,36 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1F12      |        7954 |
+|       1 | 0x1F13      |        7955 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1F1B      |        7963 |
+|       3 | 0x1F1C      |        7964 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1F14      |        7956 |
-|       6 | 0x1F13      |        7955 |
-|       7 | 0x1F15      |        7957 |
-|       8 | 0x1F16      |        7958 |
-|       9 | 0x1F17      |        7959 |
-|      10 | 0x1F18      |        7960 |
-|      11 | 0x1F19      |        7961 |
-|      12 | 0x1F1A      |        7962 |
-|      13 | 0x1F1C      |        7964 |
+|       5 | 0x1F15      |        7957 |
+|       6 | 0x1F14      |        7956 |
+|       7 | 0x1F16      |        7958 |
+|       8 | 0x1F17      |        7959 |
+|       9 | 0x1F18      |        7960 |
+|      10 | 0x1F19      |        7961 |
+|      11 | 0x1F1A      |        7962 |
+|      12 | 0x1F1B      |        7963 |
+|      13 | 0x1F1D      |        7965 |
 |      14 | 0x0006      |           6 |
 |      15 | 0x0007      |           7 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000A      |          10 |
-|      19 | 0x1F1D      |        7965 |
+|      19 | 0x1F1E      |        7966 |
 |      20 | 0x0016      |          22 |
 |      21 | 0x0003      |           3 |
 |      22 | 0x0012      |          18 |
-|      23 | 0x1F1E      |        7966 |
-|      24 | 0x1F1F      |        7967 |
-|      25 | 0x1F20      |        7968 |
+|      23 | 0x1F1F      |        7967 |
+|      24 | 0x1F20      |        7968 |
+|      25 | 0x1F21      |        7969 |
 |      26 | 0x2317      |        8983 |
 |      27 | 0x0004      |           4 |
-|      28 | 0x1F21      |        7969 |
+|      28 | 0x1F22      |        7970 |
 |      29 | 0x01F4      |         500 |
-|      30 | 0x1F22      |        7970 |
+|      30 | 0x1F23      |        7971 |
 |      31 | 0x231A      |        8986 |
 |      32 | 0x0005      |           5 |
 |      33 | 0x2313      |        8979 |
@@ -63,7 +63,7 @@
 |      35 | 0x2315      |        8981 |
 |      36 | 0x00C8      |         200 |
 |      37 | 0x2710      |       10000 |
-|      38 | 0x1F23      |        7971 |
+|      38 | 0x1F24      |        7972 |
 |      39 | 0x2424      |        9252 |
 |      40 | 0x2425      |        9253 |
 |      41 | 0x2428      |        9256 |
@@ -76,32 +76,32 @@
 |      48 | 0x2422      |        9250 |
 |      49 | 0x242A      |        9258 |
 |      50 | 0x2423      |        9251 |
-|      51 | 0x1F24      |        7972 |
-|      52 | 0x1F25      |        7973 |
-|      53 | 0x1F26      |        7974 |
-|      54 | 0x1F27      |        7975 |
-|      55 | 0x1F2C      |        7980 |
-|      56 | 0x1F2D      |        7981 |
-|      57 | 0x1F2E      |        7982 |
-|      58 | 0x1F2F      |        7983 |
-|      59 | 0x1F30      |        7984 |
-|      60 | 0x1F31      |        7985 |
-|      61 | 0x1F37      |        7991 |
-|      62 | 0x1F38      |        7992 |
-|      63 | 0x1F39      |        7993 |
-|      64 | 0x1F3A      |        7994 |
-|      65 | 0x1F3B      |        7995 |
-|      66 | 0x1F3C      |        7996 |
-|      67 | 0x1F3D      |        7997 |
-|      68 | 0x1F33      |        7987 |
-|      69 | 0x1F34      |        7988 |
-|      70 | 0x1F35      |        7989 |
-|      71 | 0x1F36      |        7990 |
-|      72 | 0x1F28      |        7976 |
-|      73 | 0x1F29      |        7977 |
-|      74 | 0x1F2A      |        7978 |
-|      75 | 0x1F2B      |        7979 |
-|      76 | 0x1F32      |        7986 |
+|      51 | 0x1F25      |        7973 |
+|      52 | 0x1F26      |        7974 |
+|      53 | 0x1F27      |        7975 |
+|      54 | 0x1F28      |        7976 |
+|      55 | 0x1F2D      |        7981 |
+|      56 | 0x1F2E      |        7982 |
+|      57 | 0x1F2F      |        7983 |
+|      58 | 0x1F30      |        7984 |
+|      59 | 0x1F31      |        7985 |
+|      60 | 0x1F32      |        7986 |
+|      61 | 0x1F38      |        7992 |
+|      62 | 0x1F39      |        7993 |
+|      63 | 0x1F3A      |        7994 |
+|      64 | 0x1F3B      |        7995 |
+|      65 | 0x1F3C      |        7996 |
+|      66 | 0x1F3D      |        7997 |
+|      67 | 0x1F3E      |        7998 |
+|      68 | 0x1F34      |        7988 |
+|      69 | 0x1F35      |        7989 |
+|      70 | 0x1F36      |        7990 |
+|      71 | 0x1F37      |        7991 |
+|      72 | 0x1F29      |        7977 |
+|      73 | 0x1F2A      |        7978 |
+|      74 | 0x1F2B      |        7979 |
+|      75 | 0x1F2C      |        7980 |
+|      76 | 0x1F33      |        7987 |
 |      77 | 0x6C24      |       27684 |
 |      78 | 0x6C25      |       27685 |
 |      79 | 0x6C26      |       27686 |
@@ -466,50 +466,50 @@
 
 ## String References
 
-- **7954**: What you want? I got lot of food on plate.
-- **7955**: How you get here? This no easy place to reach.
-- **7956**: Hmmm? You know Temprix? And he recommend you?
-- **7957**: If so, then I have request for you.
-- **7958**: What will you do? [Listen to his request./Refuse.]
-- **7959**: I can make many metal thing, but need more training. You help.
-- **7960**: But normal materials no good. Need special one. You bring so I get better.
-- **7961**: If I get better, you get stronger. Is good deal.
-- **7962**: Here list of what I need.
-- **7963**: Look at list, please.
-- **7964**: What will you do? [Nothing./Look at the list./Inquire about cards.]
-- **7965**: Special List: [Go back./Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverance Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire.]
-- **7966**: Special List: [Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]
-- **7967**: I make $0 with $1, but $1 alone not enough. Need more stuff.
-- **7968**: 1 $0.
-- **7969**: $1 $0.
-- **7970**: [Escha beads./And escha beads.] Can make for $1, but will take time. Can make right away with $2.
-- **7971**: Can improve $0, but need more stuffs. Need two times.
-- **7972**: I show you how good I am. Bring many good ones.
-- **7973**: Card very strong. I can use them because I smart.
-- **7974**: I make you deal. You bring $0 card[/s] of one type, I give you $1 card[/s] of another type.
-- **7975**: Bad deal? No, is good deal. That cost of doing business.
-- **7976**: You trade $1 $0. What you want?
-- **7977**: Which do you want? [None./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21.]
-- **7978**: I trade $1 $0. What you say?
-- **7979**: What will you do? [Deal./No deal.]
-- **7980**: You bring what I ask for, so I put to good use.
-- **7981**: I use escha beads for thing. May take time, but is good price.
-- **7982**: Many beads, so I finish right away.
-- **7983**: What now? ($6 bead[/s]) [I need time to think./Cheap: $0 bead[/s]./Speedy: $1 bead[/s].]
-- **7984**: You got it, chief. Come back later.
-- **7985**: You want right away? Then watch true master at work!
-- **7986**: Okay! I wait for you to bring next one.
-- **7987**: Come back later. I very busy.
-- **7988**: Hang on. I can tell you have enough escha bead to make item done right away.
-- **7989**: What will you do? ($6 bead[/s]) [Wait./Speedy: $0 bead[/s].]
-- **7990**: Is ready. Remember, I can make many more!
-- **7991**: ... ......
-- **7992**: Hm? What that?
-- **7993**: You...you mean...
-- **7994**: You want it to be as it was? Okay, but I no return materials.
-- **7995**: What will you do? [/(Last chance!)] [Wait a second./Stop reforging/]
-- **7996**: You sure?
-- **7997**: Okay. I return armor to you.
+- **7955**: What you want? I got lot of food on plate.
+- **7956**: How you get here? This no easy place to reach.
+- **7957**: Hmmm? You know Temprix? And he recommend you?
+- **7958**: If so, then I have request for you.
+- **7959**: What will you do? [Listen to his request./Refuse.]
+- **7960**: I can make many metal thing, but need more training. You help.
+- **7961**: But normal materials no good. Need special one. You bring so I get better.
+- **7962**: If I get better, you get stronger. Is good deal.
+- **7963**: Here list of what I need.
+- **7964**: Look at list, please.
+- **7965**: What will you do? [Nothing./Look at the list./Inquire about cards.]
+- **7966**: Special List: [Go back./Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverance Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire.]
+- **7967**: Special List: [Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]
+- **7968**: I make $0 with $1, but $1 alone not enough. Need more stuff.
+- **7969**: 1 $0.
+- **7970**: $1 $0.
+- **7971**: [Escha beads./And escha beads.] Can make for $1, but will take time. Can make right away with $2.
+- **7972**: Can improve $0, but need more stuffs. Need two times.
+- **7973**: I show you how good I am. Bring many good ones.
+- **7974**: Card very strong. I can use them because I smart.
+- **7975**: I make you deal. You bring $0 card[/s] of one type, I give you $1 card[/s] of another type.
+- **7976**: Bad deal? No, is good deal. That cost of doing business.
+- **7977**: You trade $1 $0. What you want?
+- **7978**: Which do you want? [None./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21.]
+- **7979**: I trade $1 $0. What you say?
+- **7980**: What will you do? [Deal./No deal.]
+- **7981**: You bring what I ask for, so I put to good use.
+- **7982**: I use escha beads for thing. May take time, but is good price.
+- **7983**: Many beads, so I finish right away.
+- **7984**: What now? ($6 bead[/s]) [I need time to think./Cheap: $0 bead[/s]./Speedy: $1 bead[/s].]
+- **7985**: You got it, chief. Come back later.
+- **7986**: You want right away? Then watch true master at work!
+- **7987**: Okay! I wait for you to bring next one.
+- **7988**: Come back later. I very busy.
+- **7989**: Hang on. I can tell you have enough escha bead to make item done right away.
+- **7990**: What will you do? ($6 bead[/s]) [Wait./Speedy: $0 bead[/s].]
+- **7991**: Is ready. Remember, I can make many more!
+- **7992**: ... ......
+- **7993**: Hm? What that?
+- **7994**: You...you mean...
+- **7995**: You want it to be as it was? Okay, but I no return materials.
+- **7996**: What will you do? [/(Last chance!)] [Wait a second./Stop reforging/]
+- **7997**: You sure?
+- **7998**: Okay. I return armor to you.
 
 ## Events
 
@@ -556,7 +556,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "What you want? I got lot of food on plate."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT
@@ -717,39 +717,39 @@
   3: 0x001E [0x1C] WAIT(1* ticks)
   4: 0x0021 [0x03] ExtData[1]->WorkLocal[3] = 0*
   5: 0x0026 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x0034
-  6: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+  6: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "Look at list, please."
   7: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0031 [0x01] GOTO 0x008D
   9: 0x0034 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=2*, condition_work_offset=1*)
  10: 0x003B [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x0049
- 11: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+ 11: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "Hmmm? You know Temprix? And he recommend you?"
  12: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0046 [0x01] GOTO 0x004D
- 14: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+ 14: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "How you get here? This no easy place to reach."
  15: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_004D:
- 16: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+ 16: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "If so, then I have request for you."
  17: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0051 [0x24] CREATE_DIALOG(message_id=7958*, default_option=0*, option_flags=0*)
+ 18: 0x0051 [0x24] CREATE_DIALOG(message_id=7959*, default_option=0*, option_flags=0*)
     → "What will you do? [Listen to his request./Refuse.]"
  19: 0x0058 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0059 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007A
  21: 0x0061 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 22: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+ 22: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
     → "I can make many metal thing, but need more training. You help."
  23: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+ 24: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "But normal materials no good. Need special one. You bring so I get better."
  25: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+ 26: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "If I get better, you get stronger. Is good deal."
  27: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+ 28: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "Here list of what I need."
  29: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0072 [0x03] Work_Zone[1] = 0*
@@ -759,7 +759,7 @@ SUBROUTINE_004D:
  34: 0x0087 [0x01] GOTO 0x0814
 
 SUBROUTINE_008D:
- 35: 0x008D [0x24] CREATE_DIALOG(message_id=7964*, default_option=1*, option_flags=ExtData[1]->WorkLocal[3])
+ 35: 0x008D [0x24] CREATE_DIALOG(message_id=7965*, default_option=1*, option_flags=ExtData[1]->WorkLocal[3])
     → "What will you do? [Nothing./Look at the list./Inquire about cards.]"
  36: 0x0094 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A3
@@ -778,7 +778,7 @@ SUBROUTINE_00B0:
  48: 0x00E5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=10*, condition_work_offset=1*)
 
 SUBROUTINE_00EC:
- 49: 0x00EC [0x24] CREATE_DIALOG(message_id=7965*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 49: 0x00EC [0x24] CREATE_DIALOG(message_id=7966*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Special List: [Go back./Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverance Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire.]"
  50: 0x00F3 [0x25] WAIT_DIALOG_SELECT()
  51: 0x00F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0102
@@ -807,7 +807,7 @@ SUBROUTINE_0111:
  72: 0x0199 [0x0B] Work_Zone[9]++
  73: 0x019C [0x0B] Work_Zone_1700[0]++
  74: 0x019F [0x0B] Work_Zone_1700[1]++
- 75: 0x01A2 [0x24] CREATE_DIALOG(message_id=7966*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[2])
+ 75: 0x01A2 [0x24] CREATE_DIALOG(message_id=7967*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[2])
     → "Special List: [Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]"
  76: 0x01A9 [0x25] WAIT_DIALOG_SELECT()
  77: 0x01AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B8
@@ -816,18 +816,18 @@ SUBROUTINE_0111:
 SUBROUTINE_07E9:
  79: 0x07E9 [0x01] GOTO 0x0814
  80: 0x07EC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0814
- 81: 0x07F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+ 81: 0x07F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "I show you how good I am. Bring many good ones."
  82: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+ 83: 0x07F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "Card very strong. I can use them because I smart."
  84: 0x07FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x07FC [0x03] Work_Zone[2] = 5*
  86: 0x0801 [0x03] Work_Zone[3] = 1*
- 87: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+ 87: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "I make you deal. You bring $0 card[/s] of one type, I give you $1 card[/s] of another type."
  88: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x080A [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+ 89: 0x080A [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "Bad deal? No, is good deal. That cost of doing business."
  90: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x080E [0x01] GOTO 0x008D
@@ -905,14 +905,14 @@ SUBROUTINE_0814:
   9: 0x0840 [0x03] ExtData[1]->WorkLocal[2] = 0*
  10: 0x0845 [0x1E] EventEntity looks at LocalPlayer and starts talking
  11: 0x084A [0x1C] WAIT(1* ticks)
- 12: 0x084D [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
+ 12: 0x084D [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "You bring what I ask for, so I put to good use."
  13: 0x0850 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0851 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+ 14: 0x0851 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
     → "I use escha beads for thing. May take time, but is good price."
  15: 0x0854 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0855 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x0863
- 17: 0x085C [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+ 17: 0x085C [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "Many beads, so I finish right away."
  18: 0x085F [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0860 [0x01] GOTO 0x086A
@@ -921,20 +921,20 @@ SUBROUTINE_0814:
 SUBROUTINE_086A:
  21: 0x086A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
  22: 0x086F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
- 23: 0x0874 [0x24] CREATE_DIALOG(message_id=7983*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 23: 0x0874 [0x24] CREATE_DIALOG(message_id=7984*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What now? ($6 bead[/s]) [I need time to think./Cheap: $0 bead[/s]./Speedy: $1 bead[/s].]"
  24: 0x087B [0x25] WAIT_DIALOG_SELECT()
  25: 0x087C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x088C
  26: 0x0884 [0x03] Work_Zone[1] = 0*
  27: 0x0889 [0x01] GOTO 0x08C7
  28: 0x088C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08A0
- 29: 0x0894 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
+ 29: 0x0894 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
     → "You got it, chief. Come back later."
  30: 0x0897 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0898 [0x03] Work_Zone[1] = 1*
  32: 0x089D [0x01] GOTO 0x08C7
  33: 0x08A0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x08C7
- 34: 0x08A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+ 34: 0x08A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "You want right away? Then watch true master at work!"
  35: 0x08AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x08AC [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x08BF
@@ -1003,39 +1003,39 @@ SUBROUTINE_08C7:
  11: 0x08FD [0x1A] CALL_SUBROUTINE(address=0x0AC5)
  12: 0x0900 [0x03] Work_Zone[1] = 2*
  13: 0x0905 [0x02] IF !(ExtData[1]->WorkLocal[12] < 1*) GOTO 0x0911
- 14: 0x090D [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+ 14: 0x090D [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "... ......"
  15: 0x0910 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0911 [0x02] IF !(ExtData[1]->WorkLocal[12] < 2*) GOTO 0x091D
- 17: 0x0919 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+ 17: 0x0919 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "Hm? What that?"
  18: 0x091C [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x091D [0x02] IF !(ExtData[1]->WorkLocal[12] < 3*) GOTO 0x0929
- 20: 0x0925 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+ 20: 0x0925 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "You...you mean..."
  21: 0x0928 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0929 [0x02] IF !(ExtData[1]->WorkLocal[12] < 4*) GOTO 0x0988
- 23: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+ 23: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "You want it to be as it was? Okay, but I no return materials."
  24: 0x0934 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0935 [0x03] Work_Zone[2] = 0*
- 26: 0x093A [0x24] CREATE_DIALOG(message_id=7995*, default_option=0*, option_flags=0*)
+ 26: 0x093A [0x24] CREATE_DIALOG(message_id=7996*, default_option=0*, option_flags=0*)
     → "What will you do? [/(Last chance!)] [Wait a second./Stop reforging/]"
  27: 0x0941 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0942 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x094D
  29: 0x094A [0x01] GOTO 0x0988
  30: 0x094D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0988
- 31: 0x0955 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+ 31: 0x0955 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "You sure?"
  32: 0x0958 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0959 [0x03] Work_Zone[2] = 1*
- 34: 0x095E [0x24] CREATE_DIALOG(message_id=7995*, default_option=0*, option_flags=0*)
+ 34: 0x095E [0x24] CREATE_DIALOG(message_id=7996*, default_option=0*, option_flags=0*)
     → "What will you do? [/(Last chance!)] [Wait a second./Stop reforging/]"
  35: 0x0965 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0966 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0971
  37: 0x096E [0x01] GOTO 0x0985
  38: 0x0971 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0985
- 39: 0x0979 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+ 39: 0x0979 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "Okay. I return armor to you."
  40: 0x097C [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x097D [0x03] Work_Zone[1] = 3*
@@ -1046,23 +1046,23 @@ SUBROUTINE_0985:
 
 SUBROUTINE_0988:
  44: 0x0988 [0x01] GOTO 0x09DF
- 45: 0x098B [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+ 45: 0x098B [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Come back later. I very busy."
  46: 0x098E [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x098F [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x09DF
- 48: 0x0996 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
+ 48: 0x0996 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "Hang on. I can tell you have enough escha bead to make item done right away."
  49: 0x0999 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x099A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
  51: 0x099F [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[1]
- 52: 0x09A4 [0x24] CREATE_DIALOG(message_id=7989*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 52: 0x09A4 [0x24] CREATE_DIALOG(message_id=7990*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What will you do? ($6 bead[/s]) [Wait./Speedy: $0 bead[/s].]"
  53: 0x09AB [0x25] WAIT_DIALOG_SELECT()
  54: 0x09AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09BC
  55: 0x09B4 [0x03] Work_Zone[1] = 0*
  56: 0x09B9 [0x01] GOTO 0x09DF
  57: 0x09BC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09DF
- 58: 0x09C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+ 58: 0x09C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "You want right away? Then watch true master at work!"
  59: 0x09C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x09C8 [0x03] Work_Zone[1] = 1*
@@ -1104,7 +1104,7 @@ SUBROUTINE_09DF:
   3: 0x09ED [0x1C] WAIT(1* ticks)
   4: 0x09F0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
   5: 0x09F5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-  6: 0x09F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+  6: 0x09F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "Is ready. Remember, I can make many more!"
   7: 0x09FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x09FC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1235,7 +1235,7 @@ SUBROUTINE_09DF:
   5: 0x0A1B [0x1C] WAIT(1* ticks)
   6: 0x0A1E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
   7: 0x0A23 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-  8: 0x0A28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+  8: 0x0A28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "You trade $1 $0. What you want?"
   9: 0x0A2B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0A2C [0x03] ExtData[1]->WorkLocal[6] = 0*
@@ -1246,7 +1246,7 @@ SUBROUTINE_09DF:
  15: 0x0A50 [0x01] GOTO 0x0A31
  16: 0x0A53 [0x0B] ExtData[1]->WorkLocal[0]++
  17: 0x0A56 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=ExtData[1]->WorkLocal[0], condition_work_offset=1*)
- 18: 0x0A5D [0x24] CREATE_DIALOG(message_id=7977*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 18: 0x0A5D [0x24] CREATE_DIALOG(message_id=7978*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Which do you want? [None./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21.]"
  19: 0x0A64 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0A65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A75
@@ -1257,10 +1257,10 @@ SUBROUTINE_09DF:
  25: 0x0A7D [0x9D] IF (0x0EB6) ExtData[1]->WorkLocal[16] = Work_Zone[2] // extra=0x8014
  26: 0x0A87 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
  27: 0x0A8A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
- 28: 0x0A8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+ 28: 0x0A8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "I trade $1 $0. What you say?"
  29: 0x0A92 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0A93 [0x24] CREATE_DIALOG(message_id=7979*, default_option=1*, option_flags=0*)
+ 30: 0x0A93 [0x24] CREATE_DIALOG(message_id=7980*, default_option=1*, option_flags=0*)
     → "What will you do? [Deal./No deal.]"
  31: 0x0A9A [0x25] WAIT_DIALOG_SELECT()
  32: 0x0A9B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AAF
@@ -1283,98 +1283,98 @@ SUBROUTINE_0ABF:
 
 ```
 # Dead code (unreachable instructions):
-     0x0AC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+     0x0AC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "Okay! I wait for you to bring next one."
      0x0AC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AC9 [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0AFE
      0x0AD1 [0x03] Work_Zone[2] = 9252*
      0x0AD6 [0x03] Work_Zone[3] = 1*
-     0x0ADB [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0ADB [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ADF [0x03] Work_Zone[2] = 9253*
      0x0AE4 [0x03] Work_Zone[3] = 1*
-     0x0AE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0AE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0AEC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AED [0x03] Work_Zone[2] = 9256*
      0x0AF2 [0x03] Work_Zone[3] = 2*
-     0x0AF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0AF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AFB [0x01] GOTO 0x0BD2
      0x0AFE [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x0B33
      0x0B06 [0x03] Work_Zone[2] = 9248*
      0x0B0B [0x03] Work_Zone[3] = 1*
-     0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B14 [0x03] Work_Zone[2] = 9246*
      0x0B19 [0x03] Work_Zone[3] = 1*
-     0x0B1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B21 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B22 [0x03] Work_Zone[2] = 9256*
      0x0B27 [0x03] Work_Zone[3] = 3*
-     0x0B2C [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B2C [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B2F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B30 [0x01] GOTO 0x0BD2
      0x0B33 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2*) GOTO 0x0B68
      0x0B3B [0x03] Work_Zone[2] = 9254*
      0x0B40 [0x03] Work_Zone[3] = 3*
-     0x0B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B49 [0x03] Work_Zone[2] = 9245*
      0x0B4E [0x03] Work_Zone[3] = 1*
-     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B57 [0x03] Work_Zone[2] = 9256*
      0x0B5C [0x03] Work_Zone[3] = 1*
-     0x0B61 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B61 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B64 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B65 [0x01] GOTO 0x0BD2
      0x0B68 [0x02] IF !(ExtData[1]->WorkLocal[11] == 3*) GOTO 0x0B9D
      0x0B70 [0x03] Work_Zone[2] = 9250*
      0x0B75 [0x03] Work_Zone[3] = 1*
-     0x0B7A [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B7A [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B7E [0x03] Work_Zone[2] = 9246*
      0x0B83 [0x03] Work_Zone[3] = 1*
-     0x0B88 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B88 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B8B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B8C [0x03] Work_Zone[2] = 9256*
      0x0B91 [0x03] Work_Zone[3] = 2*
-     0x0B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0B99 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B9A [0x01] GOTO 0x0BD2
      0x0B9D [0x02] IF !(ExtData[1]->WorkLocal[11] == 4*) GOTO 0x0BD2
      0x0BA5 [0x03] Work_Zone[2] = 9258*
      0x0BAA [0x03] Work_Zone[3] = 3*
-     0x0BAF [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0BAF [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0BB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BB3 [0x03] Work_Zone[2] = 9251*
      0x0BB8 [0x03] Work_Zone[3] = 1*
-     0x0BBD [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0BBD [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0BC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BC1 [0x03] Work_Zone[2] = 9256*
      0x0BC6 [0x03] Work_Zone[3] = 1*
-     0x0BCB [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+     0x0BCB [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "$1 $0."
      0x0BCE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BCF [0x01] GOTO 0x0BD2
      0x0BD2 [0x03] Work_Zone[2] = 0*
      0x0BD7 [0x03] Work_Zone[3] = 300*
      0x0BDC [0x03] Work_Zone[4] = 15000*
-     0x0BE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
+     0x0BE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
     → "[Escha beads./And escha beads.] Can make for $1, but will take time. Can make right away with $2."
      0x0BE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BE5 [0x1B] RETURN

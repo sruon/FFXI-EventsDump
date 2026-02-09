@@ -20,22 +20,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2118      |        8472 |
-|       1 | 0x2119      |        8473 |
+|       0 | 0x2119      |        8473 |
+|       1 | 0x211A      |        8474 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x211B      |        8475 |
-|       4 | 0x211A      |        8474 |
+|       3 | 0x211C      |        8476 |
+|       4 | 0x211B      |        8475 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0064      |         100 |
-|       7 | 0x211C      |        8476 |
+|       7 | 0x211D      |        8477 |
 
 ## String References
 
-- **8472**: An assortment of wedding attire and wedding rings are available for purchase.
-- **8473**: What will you buy? [[Wedding dress/Benedight] set: $1 gil./$2: $3 gil./Nothing.]
-- **8474**: This set includes a benedight coat and a pair of benedight hose. Price: $1 gil.
-- **8475**: This set includes a bridal corsage, a wedding dress, a pair of wedding hose, and a pair of wedding boots. Price: $1 gil.
-- **8476**: Confirm purchase? (Current gil: $4) [Yes./Cancel.]
+- **8473**: An assortment of wedding attire and wedding rings are available for purchase.
+- **8474**: What will you buy? [[Wedding dress/Benedight] set: $1 gil./$2: $3 gil./Nothing.]
+- **8475**: This set includes a benedight coat and a pair of benedight hose. Price: $1 gil.
+- **8476**: This set includes a bridal corsage, a wedding dress, a pair of wedding hose, and a pair of wedding boots. Price: $1 gil.
+- **8477**: Confirm purchase? (Current gil: $4) [Yes./Cancel.]
 
 ## Events
 
@@ -88,21 +88,21 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [8472*]:
+  1: 0x000A [0x48] [System] [8473*]:
     → "An assortment of wedding attire and wedding rings are available for purchase."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=8473*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=8474*, default_option=0*, option_flags=0*)
     → "What will you buy? [[Wedding dress/Benedight] set: $1 gil./$2: $3 gil./Nothing.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003F
   6: 0x001E [0x03] Work_Zone[1] = 0*
   7: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0035
-  8: 0x002B [0x48] [System] [8475*]:
+  8: 0x002B [0x48] [System] [8476*]:
     → "This set includes a bridal corsage, a wedding dress, a pair of wedding hose, and a pair of wedding boots. Price: $1 gil."
   9: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002F [0x1A] CALL_SUBROUTINE(address=0x0059)
  11: 0x0032 [0x01] GOTO 0x003C
- 12: 0x0035 [0x48] [System] [8474*]:
+ 12: 0x0035 [0x48] [System] [8475*]:
     → "This set includes a benedight coat and a pair of benedight hose. Price: $1 gil."
  13: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0039 [0x1A] CALL_SUBROUTINE(address=0x0059)
@@ -120,7 +120,7 @@ SUBROUTINE_0057:
  22: 0x0058 [0x00] END_REQSTACK()
 
 SUBROUTINE_0059:
- 23: 0x0059 [0x24] CREATE_DIALOG(message_id=8476*, default_option=1*, option_flags=0*)
+ 23: 0x0059 [0x24] CREATE_DIALOG(message_id=8477*, default_option=1*, option_flags=0*)
     → "Confirm purchase? (Current gil: $4) [Yes./Cancel.]"
  24: 0x0060 [0x25] WAIT_DIALOG_SELECT()
  25: 0x0061 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006F

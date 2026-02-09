@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x23ED      |        9197 |
-|       1 | 0x23EE      |        9198 |
-|       2 | 0x23EF      |        9199 |
-|       3 | 0x23F0      |        9200 |
+|       0 | 0x23EE      |        9198 |
+|       1 | 0x23EF      |        9199 |
+|       2 | 0x23F0      |        9200 |
+|       3 | 0x23F1      |        9201 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x23F1      |        9201 |
+|       6 | 0x23F2      |        9202 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0xFFFAF96F  |  4294637935 |
 |       9 | 0xFFF9B03A  |  4294553658 |
@@ -51,11 +51,11 @@
 
 ## String References
 
-- **9197**: This is the grandstand exit.
-- **9198**: Please note that once you exit, you will be required to pay an additional admission fee to reenter.
-- **9199**: Do you really want to leave now?
-- **9200**: Exit the grounds? [Yes, I'm all done here./No, not yet.]
-- **9201**: Thank you for coming.
+- **9198**: This is the grandstand exit.
+- **9199**: Please note that once you exit, you will be required to pay an additional admission fee to reenter.
+- **9200**: Do you really want to leave now?
+- **9201**: Exit the grounds? [Yes, I'm all done here./No, not yet.]
+- **9202**: Thank you for coming.
 
 ## Events
 
@@ -117,16 +117,16 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   2: 0x0007 [0x4A] EventEntity looks at LocalPlayer
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
     → "This is the grandstand exit."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
+  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
     → "Please note that once you exit, you will be required to pay an additional admission fee to reenter."
   6: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+  7: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
     → "Do you really want to leave now?"
   8: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001C [0x24] CREATE_DIALOG(message_id=9200*, default_option=1*, option_flags=0*)
+  9: 0x001C [0x24] CREATE_DIALOG(message_id=9201*, default_option=1*, option_flags=0*)
     → "Exit the grounds? [Yes, I'm all done here./No, not yet.]"
  10: 0x0023 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0024 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0032
@@ -138,7 +138,7 @@ SUBROUTINE_0032:
  15: 0x0033 [0x00] END_REQSTACK()
 
 SUBROUTINE_0034:
- 16: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+ 16: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "Thank you for coming."
  17: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0038 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

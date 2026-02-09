@@ -22,29 +22,29 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0005      |           5 |
-|       1 | 0x1ABE      |        6846 |
-|       2 | 0x1AA4      |        6820 |
+|       1 | 0x1ABF      |        6847 |
+|       2 | 0x1AA5      |        6821 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x0028      |          40 |
 |       5 | 0x000A      |          10 |
-|       6 | 0x1AA5      |        6821 |
+|       6 | 0x1AA6      |        6822 |
 |       7 | 0x40000000  |  1073741824 |
-|       8 | 0x1AAC      |        6828 |
-|       9 | 0x1AAD      |        6829 |
-|      10 | 0x1AAE      |        6830 |
-|      11 | 0x1AAF      |        6831 |
-|      12 | 0x1AB0      |        6832 |
-|      13 | 0x1AB1      |        6833 |
-|      14 | 0x1AA9      |        6825 |
+|       8 | 0x1AAD      |        6829 |
+|       9 | 0x1AAE      |        6830 |
+|      10 | 0x1AAF      |        6831 |
+|      11 | 0x1AB0      |        6832 |
+|      12 | 0x1AB1      |        6833 |
+|      13 | 0x1AB2      |        6834 |
+|      14 | 0x1AAA      |        6826 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x0000      |           0 |
-|      17 | 0x1AA6      |        6822 |
-|      18 | 0x1AA7      |        6823 |
-|      19 | 0x1AA8      |        6824 |
-|      20 | 0x1AAA      |        6826 |
-|      21 | 0x1AB5      |        6837 |
-|      22 | 0x1AB4      |        6836 |
-|      23 | 0x1AB6      |        6838 |
+|      17 | 0x1AA7      |        6823 |
+|      18 | 0x1AA8      |        6824 |
+|      19 | 0x1AA9      |        6825 |
+|      20 | 0x1AAB      |        6827 |
+|      21 | 0x1AB6      |        6838 |
+|      22 | 0x1AB5      |        6837 |
+|      23 | 0x1AB7      |        6839 |
 |      24 | 0x2710      |       10000 |
 |      25 | 0x30D40     |      200000 |
 |      26 | 0x13880     |       80000 |
@@ -138,7 +138,7 @@
 |     114 | 0x006E      |         110 |
 |     115 | 0x000C      |          12 |
 |     116 | 0x07FC      |        2044 |
-|     117 | 0x1ABB      |        6843 |
+|     117 | 0x1ABC      |        6844 |
 |     118 | 0x108E      |        4238 |
 |     119 | 0x108F      |        4239 |
 |     120 | 0x1090      |        4240 |
@@ -147,7 +147,7 @@
 |     123 | 0x1093      |        4243 |
 |     124 | 0x1094      |        4244 |
 |     125 | 0x1095      |        4245 |
-|     126 | 0x1ABC      |        6844 |
+|     126 | 0x1ABD      |        6845 |
 |     127 | 0x00C8      |         200 |
 |     128 | 0x196A      |        6506 |
 |     129 | 0x196B      |        6507 |
@@ -157,7 +157,7 @@
 |     133 | 0x196F      |        6511 |
 |     134 | 0x1970      |        6512 |
 |     135 | 0x1971      |        6513 |
-|     136 | 0x1ABD      |        6845 |
+|     136 | 0x1ABE      |        6846 |
 |     137 | 0x01C2      |         450 |
 |     138 | 0x05DC      |        1500 |
 |     139 | 0x11170     |       70000 |
@@ -212,56 +212,56 @@
 |     188 | 0x07FA      |        2042 |
 |     189 | 0x1F40      |        8000 |
 |     190 | 0x07FB      |        2043 |
-|     191 | 0x1AC6      |        6854 |
-|     192 | 0x1AC7      |        6855 |
-|     193 | 0x1AC4      |        6852 |
+|     191 | 0x1AC7      |        6855 |
+|     192 | 0x1AC8      |        6856 |
+|     193 | 0x1AC5      |        6853 |
 |     194 | 0x0018      |          24 |
 |     195 | 0x0D80      |        3456 |
 |     196 | 0x0019      |          25 |
-|     197 | 0x1AB7      |        6839 |
-|     198 | 0x1AB8      |        6840 |
+|     197 | 0x1AB8      |        6840 |
+|     198 | 0x1AB9      |        6841 |
 |     199 | 0x001F      |          31 |
-|     200 | 0x1ABA      |        6842 |
-|     201 | 0x1AB9      |        6841 |
-|     202 | 0x1AC2      |        6850 |
-|     203 | 0x1AC1      |        6849 |
-|     204 | 0x1AC3      |        6851 |
-|     205 | 0x1AFA      |        6906 |
-|     206 | 0x1AFB      |        6907 |
-|     207 | 0x1B3E      |        6974 |
+|     200 | 0x1ABB      |        6843 |
+|     201 | 0x1ABA      |        6842 |
+|     202 | 0x1AC3      |        6851 |
+|     203 | 0x1AC2      |        6850 |
+|     204 | 0x1AC4      |        6852 |
+|     205 | 0x1AFB      |        6907 |
+|     206 | 0x1AFC      |        6908 |
+|     207 | 0x1B3F      |        6975 |
 
 ## String References
 
-- **6820**: Hello, [sir/ma'am]. I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points.
-- **6821**: However, to assure product quality, I cannot carry out any business with those who rank lower than novice.
-- **6822**: I see that you currently have a trading contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. I'm sorry, but I cannot do any business with you.
-- **6823**: You do have the option to terminate your contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild and form one with us.
-- **6824**: After signing a new contract, you will have to wait until the next delivery phase to trade Guildworkers' Union requested items.
-- **6825**: Create a new contract with us? [Immediately./Not today.]
-- **6826**: Are you certain? [I said, "Immediately."/On second thought...]
-- **6828**: Our system works like this. We will ask you to provide us with a certain item depending on your craft skill rank. There is a set time limit (one day, Earth time) in which you may bring as many of the item as you can synthesize.
-- **6829**: If you happen to create a high quality version of the requested item, we will be more than delighted to accept that as well.
-- **6830**: Trading us these items will earn you "guild points" which can be later exchanged for other specialty goods--some of which are found exclusively at this guild.
-- **6831**: The amount of guild points you will receive varies with the item requested, and there is a limit to how many points you can accumulate during the designated time frame. Trading items after you have reached the limit will result in no points gained.
-- **6832**: When the time limit has expired, the item requested by the guild will change. It will also change in the event your craft skill rises.
-- **6833**: I see that you have not formed a trading contract with any of the other guilds.
-- **6836**: The current requested item is $2. You have $0 guild points accumulated.
-- **6837**: Currently, no items are being requested by the guild. You have $0 guild points accumulated.
-- **6838**: Is there something you need? [I'm just passing through./I would like to use my points./What are the current limits?/How does the trade system work?]
-- **6839**: You have $0 more days (Vana'diel time) to provide us with the requested item.
-- **6840**: Today (Vana'diel time) is the final day we will accept the requested item.
-- **6841**: You can still receive up to $3 guild points by trading us the item before the time limit is up.
-- **6842**: You are not eligible to receive guild points at this time.
-- **6846**: Yes, this is what we are asking for. Good work, <Player>!
-- **6849**: Trade $1 guild points for $0?
-- **6850**: How many do you wish to trade for?
-- **6851**: Trade $1 guild points for $2 $0 ?
-- **6852**: Proceed with the transaction? (GP: $ ) [Yes./No.]
-- **6854**: Exchange points for... [None of these./3($1)./$3($3)./$3($5)./$3($7)./$3($9)./$3($11)./$3($13).]
-- **6855**: Trade $1 guild points for $3?
-- **6906**: 3 is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of black magic and anima.
-- **6907**: 3 is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of white magic and anima.
-- **6974**: 3 is a wonderful new method of leathercraft that allows you to soak skins in a tanning vat, making it easier to process more leather with one crystal.
+- **6821**: Hello, [sir/ma'am]. I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points.
+- **6822**: However, to assure product quality, I cannot carry out any business with those who rank lower than novice.
+- **6823**: I see that you currently have a trading contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild. I'm sorry, but I cannot do any business with you.
+- **6824**: You do have the option to terminate your contract with the [Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild and form one with us.
+- **6825**: After signing a new contract, you will have to wait until the next delivery phase to trade Guildworkers' Union requested items.
+- **6826**: Create a new contract with us? [Immediately./Not today.]
+- **6827**: Are you certain? [I said, "Immediately."/On second thought...]
+- **6829**: Our system works like this. We will ask you to provide us with a certain item depending on your craft skill rank. There is a set time limit (one day, Earth time) in which you may bring as many of the item as you can synthesize.
+- **6830**: If you happen to create a high quality version of the requested item, we will be more than delighted to accept that as well.
+- **6831**: Trading us these items will earn you "guild points" which can be later exchanged for other specialty goods--some of which are found exclusively at this guild.
+- **6832**: The amount of guild points you will receive varies with the item requested, and there is a limit to how many points you can accumulate during the designated time frame. Trading items after you have reached the limit will result in no points gained.
+- **6833**: When the time limit has expired, the item requested by the guild will change. It will also change in the event your craft skill rises.
+- **6834**: I see that you have not formed a trading contract with any of the other guilds.
+- **6837**: The current requested item is $2. You have $0 guild points accumulated.
+- **6838**: Currently, no items are being requested by the guild. You have $0 guild points accumulated.
+- **6839**: Is there something you need? [I'm just passing through./I would like to use my points./What are the current limits?/How does the trade system work?]
+- **6840**: You have $0 more days (Vana'diel time) to provide us with the requested item.
+- **6841**: Today (Vana'diel time) is the final day we will accept the requested item.
+- **6842**: You can still receive up to $3 guild points by trading us the item before the time limit is up.
+- **6843**: You are not eligible to receive guild points at this time.
+- **6847**: Yes, this is what we are asking for. Good work, <Player>!
+- **6850**: Trade $1 guild points for $0?
+- **6851**: How many do you wish to trade for?
+- **6852**: Trade $1 guild points for $2 $0 ?
+- **6853**: Proceed with the transaction? (GP: $ ) [Yes./No.]
+- **6855**: Exchange points for... [None of these./3($1)./$3($3)./$3($5)./$3($7)./$3($9)./$3($11)./$3($13).]
+- **6856**: Trade $1 guild points for $3?
+- **6907**: 3 is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of black magic and anima.
+- **6908**: 3 is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of white magic and anima.
+- **6975**: 3 is a wonderful new method of leathercraft that allows you to soak skins in a tanning vat, making it easier to process more leather with one crystal.
 
 ## Events
 
@@ -310,7 +310,7 @@
 ```
   0: 0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=6846*)
+  2: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=6847*)
     → "Yes, this is what we are asking for. Good work, <Player>!"
   3: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0010 [0x03] Work_Zone[1] = Work_Zone[2]
@@ -580,7 +580,7 @@
   6: 0x0035 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[8]
   7: 0x003A [0x06] ExtData[1]->WorkLocal[16] = 0
   8: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  9: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=6820*)
+  9: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=6821*)
     → "Hello, [sir/ma'am]. I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points."
  10: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0046 [0x02] IF !(ExtData[1]->WorkLocal[12] == 4294967295*) GOTO 0x00AF
@@ -588,7 +588,7 @@
  13: 0x0056 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[4]
  14: 0x005B [0x08] Work_Zone[6] -= 10*
  15: 0x0060 [0x15] Work_Zone[6] /= 10*
- 16: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=6821*)
+ 16: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=6822*)
     → "However, to assure product quality, I cannot carry out any business with those who rank lower than novice."
  17: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0069 [0x03] Work_Zone[1] = 1073741824*
@@ -601,7 +601,7 @@ SUBROUTINE_00A5:
  23: 0x00AB [0x00] END_REQSTACK()
 
 SUBROUTINE_00FC:
- 24: 0x00FC [0x24] CREATE_DIALOG(message_id=6826*, default_option=1*, option_flags=0*)
+ 24: 0x00FC [0x24] CREATE_DIALOG(message_id=6827*, default_option=1*, option_flags=0*)
     → "Are you certain? [I said, "Immediately."/On second thought...]"
  25: 0x0103 [0x25] WAIT_DIALOG_SELECT()
  26: 0x0104 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0116
@@ -618,11 +618,11 @@ SUBROUTINE_011D:
  33: 0x011D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
  34: 0x0122 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
  35: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x0136
- 36: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=6837*)
+ 36: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=6838*)
     → "Currently, no items are being requested by the guild. You have $0 guild points accumulated."
  37: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0133 [0x01] GOTO 0x013A
- 39: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
+ 39: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=6837*)
     → "The current requested item is $2. You have $0 guild points accumulated."
  40: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -633,7 +633,7 @@ SUBROUTINE_013A:
  44: 0x0149 [0x03] ExtData[1]->WorkLocal[19] = 0*
 
 SUBROUTINE_014E:
- 45: 0x014E [0x24] CREATE_DIALOG(message_id=6838*, default_option=ExtData[1]->WorkLocal[17], option_flags=0*)
+ 45: 0x014E [0x24] CREATE_DIALOG(message_id=6839*, default_option=ExtData[1]->WorkLocal[17], option_flags=0*)
     → "Is there something you need? [I'm just passing through./I would like to use my points./What are the current limits?/How does the trade system work?]"
  46: 0x0155 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0156 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0168
@@ -780,18 +780,18 @@ SUBROUTINE_0406:
 
 SUBROUTINE_0D94:
 184: 0x0D94 [0x3E] IF !(ExtData[1]->WorkLocal[14] bit 31*) GOTO 0x0DA2
-185: 0x0D9B [0x1D] PRINT_EVENT_MESSAGE(message_id=6842*)
+185: 0x0D9B [0x1D] PRINT_EVENT_MESSAGE(message_id=6843*)
     → "You are not eligible to receive guild points at this time."
 186: 0x0D9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0D9F [0x01] GOTO 0x0DBF
 188: 0x0DA2 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[13]
 189: 0x0DA7 [0x08] Work_Zone[5] -= ExtData[1]->WorkLocal[14]
 190: 0x0DAC [0x02] IF !(Work_Zone[5] <= 0*) GOTO 0x0DBB
-191: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6841*)
+191: 0x0DB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6842*)
     → "You can still receive up to $3 guild points by trading us the item before the time limit is up."
 192: 0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0DB8 [0x01] GOTO 0x0DBF
-194: 0x0DBB [0x1D] PRINT_EVENT_MESSAGE(message_id=6842*)
+194: 0x0DBB [0x1D] PRINT_EVENT_MESSAGE(message_id=6843*)
     → "You are not eligible to receive guild points at this time."
 195: 0x0DBE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1225,7 +1225,7 @@ SUBROUTINE_0DEC:
      0x0C1F [0x03] Work_Zone_1700[1] = 20000*
      0x0C24 [0x01] GOTO 0x0C27
      0x0C27 [0x05] ExtData[1]->WorkLocal[16] = 1
-     0x0C2A [0x24] CREATE_DIALOG(message_id=6854*, default_option=ExtData[1]->WorkLocal[19], option_flags=ExtData[1]->WorkLocal[5])
+     0x0C2A [0x24] CREATE_DIALOG(message_id=6855*, default_option=ExtData[1]->WorkLocal[19], option_flags=ExtData[1]->WorkLocal[5])
     → "Exchange points for... [None of these./3($1)./$3($3)./$3($5)./$3($7)./$3($9)./$3($11)./$3($13).]"
      0x0C31 [0x25] WAIT_DIALOG_SELECT()
      0x0C32 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C45
@@ -1270,10 +1270,10 @@ SUBROUTINE_0DEC:
      0x0CFB [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0D4F
      0x0D03 [0x1A] CALL_SUBROUTINE(address=0x0E8D)
      0x0D06 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[9]
-     0x0D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=6855*)
+     0x0D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=6856*)
     → "Trade $1 guild points for $3?"
      0x0D0E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D0F [0x24] CREATE_DIALOG(message_id=6852*, default_option=1*, option_flags=0*)
+     0x0D0F [0x24] CREATE_DIALOG(message_id=6853*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? (GP: $ ) [Yes./No.]"
      0x0D16 [0x25] WAIT_DIALOG_SELECT()
      0x0D17 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D4F
@@ -1298,7 +1298,7 @@ SUBROUTINE_0DEC:
      0x0DF3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
      0x0DF8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
      0x0DFB [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x0E14
-     0x0E03 [0x1D] PRINT_EVENT_MESSAGE(message_id=6850*)
+     0x0E03 [0x1D] PRINT_EVENT_MESSAGE(message_id=6851*)
     → "How many do you wish to trade for?"
      0x0E06 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E07 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 4*])
@@ -1310,16 +1310,16 @@ SUBROUTINE_0DEC:
      0x0E26 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
      0x0E2B [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[7]
      0x0E30 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0E3F
-     0x0E38 [0x1D] PRINT_EVENT_MESSAGE(message_id=6849*)
+     0x0E38 [0x1D] PRINT_EVENT_MESSAGE(message_id=6850*)
     → "Trade $1 guild points for $0?"
      0x0E3B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E3C [0x01] GOTO 0x0E43
-     0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=6851*)
+     0x0E3F [0x1D] PRINT_EVENT_MESSAGE(message_id=6852*)
     → "Trade $1 guild points for $2 $0 ?"
      0x0E42 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E43 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0E46 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[9]
-     0x0E4B [0x24] CREATE_DIALOG(message_id=6852*, default_option=1*, option_flags=0*)
+     0x0E4B [0x24] CREATE_DIALOG(message_id=6853*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? (GP: $ ) [Yes./No.]"
      0x0E52 [0x25] WAIT_DIALOG_SELECT()
      0x0E53 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E86
@@ -1335,17 +1335,17 @@ SUBROUTINE_0DEC:
      0x0E89 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0E8C [0x1B] RETURN
      0x0E8D [0x02] IF !(Work_Zone[2] == 2017*) GOTO 0x0E9C
-     0x0E95 [0x1D] PRINT_EVENT_MESSAGE(message_id=6906*)
+     0x0E95 [0x1D] PRINT_EVENT_MESSAGE(message_id=6907*)
     → "3 is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of black magic and anima."
      0x0E98 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E99 [0x01] GOTO 0x0EBA
      0x0E9C [0x02] IF !(Work_Zone[2] == 2016*) GOTO 0x0EAB
-     0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6907*)
+     0x0EA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6908*)
     → "3 is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of white magic and anima."
      0x0EA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EA8 [0x01] GOTO 0x0EBA
      0x0EAB [0x02] IF !(Work_Zone[2] == 2018*) GOTO 0x0EBA
-     0x0EB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6974*)
+     0x0EB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6975*)
     → "3 is a wonderful new method of leathercraft that allows you to soak skins in a tanning vat, making it easier to process more leather with one crystal."
      0x0EB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EB7 [0x01] GOTO 0x0EBA

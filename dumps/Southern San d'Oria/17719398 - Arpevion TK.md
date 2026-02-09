@@ -46,110 +46,110 @@
 |      19 | 0x000A      |          10 |
 |      20 | 0x001E      |          30 |
 |      21 | 0x001F      |          31 |
-|      22 | 0x214D      |        8525 |
-|      23 | 0x214E      |        8526 |
-|      24 | 0x214F      |        8527 |
-|      25 | 0x21D8      |        8664 |
-|      26 | 0x21AF      |        8623 |
-|      27 | 0x21C6      |        8646 |
+|      22 | 0x214E      |        8526 |
+|      23 | 0x214F      |        8527 |
+|      24 | 0x2150      |        8528 |
+|      25 | 0x21D9      |        8665 |
+|      26 | 0x21B0      |        8624 |
+|      27 | 0x21C7      |        8647 |
 |      28 | 0x00C9      |         201 |
 |      29 | 0xFFFFFFFF  |  4294967295 |
-|      30 | 0x2150      |        8528 |
-|      31 | 0x21CD      |        8653 |
-|      32 | 0x21CE      |        8654 |
-|      33 | 0x21CF      |        8655 |
-|      34 | 0x21D0      |        8656 |
-|      35 | 0x2179      |        8569 |
+|      30 | 0x2151      |        8529 |
+|      31 | 0x21CE      |        8654 |
+|      32 | 0x21CF      |        8655 |
+|      33 | 0x21D0      |        8656 |
+|      34 | 0x21D1      |        8657 |
+|      35 | 0x217A      |        8570 |
 |      36 | 0x40000000  |  1073741824 |
 |      37 | 0x00A0      |         160 |
-|      38 | 0x2188      |        8584 |
-|      39 | 0x21B0      |        8624 |
+|      38 | 0x2189      |        8585 |
+|      39 | 0x21B1      |        8625 |
 |      40 | 0x3D91      |       15761 |
 |      41 | 0x3D98      |       15768 |
-|      42 | 0x2187      |        8583 |
-|      43 | 0x217D      |        8573 |
-|      44 | 0x217E      |        8574 |
+|      42 | 0x2188      |        8584 |
+|      43 | 0x217E      |        8574 |
+|      44 | 0x217F      |        8575 |
 |      45 | 0x3D92      |       15762 |
-|      46 | 0x217F      |        8575 |
+|      46 | 0x2180      |        8576 |
 |      47 | 0x3D93      |       15763 |
-|      48 | 0x2180      |        8576 |
-|      49 | 0x2181      |        8577 |
-|      50 | 0x2189      |        8585 |
-|      51 | 0x218A      |        8586 |
-|      52 | 0x218B      |        8587 |
-|      53 | 0x218D      |        8589 |
-|      54 | 0x218C      |        8588 |
-|      55 | 0x218E      |        8590 |
-|      56 | 0x218F      |        8591 |
-|      57 | 0x21B1      |        8625 |
-|      58 | 0x21B2      |        8626 |
-|      59 | 0x21B3      |        8627 |
-|      60 | 0x21B4      |        8628 |
+|      48 | 0x2181      |        8577 |
+|      49 | 0x2182      |        8578 |
+|      50 | 0x218A      |        8586 |
+|      51 | 0x218B      |        8587 |
+|      52 | 0x218C      |        8588 |
+|      53 | 0x218E      |        8590 |
+|      54 | 0x218D      |        8589 |
+|      55 | 0x218F      |        8591 |
+|      56 | 0x2190      |        8592 |
+|      57 | 0x21B2      |        8626 |
+|      58 | 0x21B3      |        8627 |
+|      59 | 0x21B4      |        8628 |
+|      60 | 0x21B5      |        8629 |
 |      61 | 0x7FFFFFFF  |  2147483647 |
 |      62 | 0x003F      |          63 |
-|      63 | 0x2171      |        8561 |
-|      64 | 0x21B5      |        8629 |
-|      65 | 0x21B6      |        8630 |
-|      66 | 0x21B7      |        8631 |
-|      67 | 0x21B8      |        8632 |
-|      68 | 0x21B9      |        8633 |
-|      69 | 0x21BA      |        8634 |
+|      63 | 0x2172      |        8562 |
+|      64 | 0x21B6      |        8630 |
+|      65 | 0x21B7      |        8631 |
+|      66 | 0x21B8      |        8632 |
+|      67 | 0x21B9      |        8633 |
+|      68 | 0x21BA      |        8634 |
+|      69 | 0x21BB      |        8635 |
 |      70 | 0x01F1      |         497 |
 |      71 | 0x0104      |         260 |
-|      72 | 0x21BB      |        8635 |
-|      73 | 0x21BC      |        8636 |
-|      74 | 0x21C8      |        8648 |
-|      75 | 0x21C9      |        8649 |
+|      72 | 0x21BC      |        8636 |
+|      73 | 0x21BD      |        8637 |
+|      74 | 0x21C9      |        8649 |
+|      75 | 0x21CA      |        8650 |
 |      76 | 0x007A      |         122 |
-|      77 | 0x21BD      |        8637 |
-|      78 | 0x21BE      |        8638 |
-|      79 | 0x21BF      |        8639 |
-|      80 | 0x21C0      |        8640 |
-|      81 | 0x21C1      |        8641 |
+|      77 | 0x21BE      |        8638 |
+|      78 | 0x21BF      |        8639 |
+|      79 | 0x21C0      |        8640 |
+|      80 | 0x21C1      |        8641 |
+|      81 | 0x21C2      |        8642 |
 |      82 | 0x80000000  |  2147483648 |
-|      83 | 0x2174      |        8564 |
-|      84 | 0x216D      |        8557 |
-|      85 | 0x216E      |        8558 |
-|      86 | 0x216F      |        8559 |
-|      87 | 0x2172      |        8562 |
-|      88 | 0x2151      |        8529 |
-|      89 | 0x2152      |        8530 |
-|      90 | 0x2153      |        8531 |
-|      91 | 0x2154      |        8532 |
-|      92 | 0x2155      |        8533 |
-|      93 | 0x2156      |        8534 |
-|      94 | 0x2157      |        8535 |
-|      95 | 0x2158      |        8536 |
-|      96 | 0x2159      |        8537 |
-|      97 | 0x215A      |        8538 |
-|      98 | 0x215B      |        8539 |
-|      99 | 0x215C      |        8540 |
-|     100 | 0x215D      |        8541 |
-|     101 | 0x215E      |        8542 |
-|     102 | 0x215F      |        8543 |
-|     103 | 0x2160      |        8544 |
-|     104 | 0x2161      |        8545 |
-|     105 | 0x2162      |        8546 |
-|     106 | 0x2163      |        8547 |
-|     107 | 0x2164      |        8548 |
-|     108 | 0x2165      |        8549 |
-|     109 | 0x2166      |        8550 |
-|     110 | 0x2167      |        8551 |
-|     111 | 0x2168      |        8552 |
-|     112 | 0x2169      |        8553 |
-|     113 | 0x216A      |        8554 |
-|     114 | 0x216B      |        8555 |
-|     115 | 0x216C      |        8556 |
-|     116 | 0x2143      |        8515 |
-|     117 | 0x2149      |        8521 |
+|      83 | 0x2175      |        8565 |
+|      84 | 0x216E      |        8558 |
+|      85 | 0x216F      |        8559 |
+|      86 | 0x2170      |        8560 |
+|      87 | 0x2173      |        8563 |
+|      88 | 0x2152      |        8530 |
+|      89 | 0x2153      |        8531 |
+|      90 | 0x2154      |        8532 |
+|      91 | 0x2155      |        8533 |
+|      92 | 0x2156      |        8534 |
+|      93 | 0x2157      |        8535 |
+|      94 | 0x2158      |        8536 |
+|      95 | 0x2159      |        8537 |
+|      96 | 0x215A      |        8538 |
+|      97 | 0x215B      |        8539 |
+|      98 | 0x215C      |        8540 |
+|      99 | 0x215D      |        8541 |
+|     100 | 0x215E      |        8542 |
+|     101 | 0x215F      |        8543 |
+|     102 | 0x2160      |        8544 |
+|     103 | 0x2161      |        8545 |
+|     104 | 0x2162      |        8546 |
+|     105 | 0x2163      |        8547 |
+|     106 | 0x2164      |        8548 |
+|     107 | 0x2165      |        8549 |
+|     108 | 0x2166      |        8550 |
+|     109 | 0x2167      |        8551 |
+|     110 | 0x2168      |        8552 |
+|     111 | 0x2169      |        8553 |
+|     112 | 0x216A      |        8554 |
+|     113 | 0x216B      |        8555 |
+|     114 | 0x216C      |        8556 |
+|     115 | 0x216D      |        8557 |
+|     116 | 0x2144      |        8516 |
+|     117 | 0x214A      |        8522 |
 |     118 | 0x00FF      |         255 |
-|     119 | 0x214A      |        8522 |
-|     120 | 0x21A7      |        8615 |
-|     121 | 0x21D5      |        8661 |
-|     122 | 0x21D1      |        8657 |
-|     123 | 0x21D2      |        8658 |
-|     124 | 0x21D3      |        8659 |
-|     125 | 0x21D4      |        8660 |
+|     119 | 0x214B      |        8523 |
+|     120 | 0x21A8      |        8616 |
+|     121 | 0x21D6      |        8662 |
+|     122 | 0x21D2      |        8658 |
+|     123 | 0x21D3      |        8659 |
+|     124 | 0x21D4      |        8660 |
+|     125 | 0x21D5      |        8661 |
 |     126 | 0x0064      |         100 |
 |     127 | 0x00C8      |         200 |
 |     128 | 0x0190      |         400 |
@@ -160,21 +160,21 @@
 |     133 | 0x0FA0      |        4000 |
 |     134 | 0x12C0      |        4800 |
 |     135 | 0x15E0      |        5600 |
-|     136 | 0x21A8      |        8616 |
-|     137 | 0x2145      |        8517 |
-|     138 | 0x2146      |        8518 |
-|     139 | 0x2147      |        8519 |
-|     140 | 0x2142      |        8514 |
+|     136 | 0x21A9      |        8617 |
+|     137 | 0x2146      |        8518 |
+|     138 | 0x2147      |        8519 |
+|     139 | 0x2148      |        8520 |
+|     140 | 0x2143      |        8515 |
 |     141 | 0x01F8      |         504 |
-|     142 | 0x21AB      |        8619 |
+|     142 | 0x21AC      |        8620 |
 |     143 | 0x0096      |         150 |
 |     144 | 0x000B      |          11 |
 |     145 | 0x000C      |          12 |
 |     146 | 0x000D      |          13 |
 |     147 | 0x000E      |          14 |
-|     148 | 0x2170      |        8560 |
-|     149 | 0x217A      |        8570 |
-|     150 | 0x217B      |        8571 |
+|     148 | 0x2171      |        8561 |
+|     149 | 0x217B      |        8571 |
+|     150 | 0x217C      |        8572 |
 |     151 | 0x0400      |        1024 |
 |     152 | 0x430F      |       17167 |
 |     153 | 0x40A0      |       16544 |
@@ -348,9 +348,9 @@
 |     321 | 0x385D      |       14429 |
 |     322 | 0x385E      |       14430 |
 |     323 | 0x0090      |         144 |
-|     324 | 0x217C      |        8572 |
-|     325 | 0x2190      |        8592 |
-|     326 | 0x2191      |        8593 |
+|     324 | 0x217D      |        8573 |
+|     325 | 0x2191      |        8593 |
+|     326 | 0x2192      |        8594 |
 |     327 | 0x44AF      |       17583 |
 |     328 | 0x44B0      |       17584 |
 |     329 | 0x44B1      |       17585 |
@@ -382,107 +382,107 @@
 
 ## String References
 
-- **8514**: Good luck, [citizen/comrade]. I will bestow upon you your nation's Signet.
-- **8515**: I cannot help you. You should go find a guard from your own country.
-- **8517**: Since we are allied with San d'Oria...
-- **8518**: Since we are allied with Bastok...
-- **8519**: Since we are allied with Windurst...
-- **8521**: Ah, you have brought us supplies. These will help us indeed. I thank you.
-- **8522**: Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly. I do commend you for your effort. May you succeed next time.
-- **8525**: I am %, a Temple Knight. I am one of the guards charged with overseeing San d'Oria's conquest campaign.
-- **8526**: I am %, an Iron Musketeer. I am one of the guards charged with overseeing Bastok's conquest campaign.
-- **8527**: I am %, a War Warlock. I am one of the guards charged with overseeing Windurst's conquest campaign.
-- **8528**: What is your business? [Would you cast Signet on me?/I want to spend my conquest points./[I want to join the Expeditionary Force./Teleport me to the E.F. area.]/I want to quit the E.F./change my E.F./I want to go on a supplies quest./I have some questions.../Nothing, sorry to bother you.]
-- **8529**: What do you wish to know about? [Nothing./Conquests./Conquest results./Donating crystals./Conquest points./The effects of controlling regions./Regions controlled by other nations./Regions under beastman control.]
-- **8530**: All three nations are striving daily to put more regions under their control. This is what we call "conquests." You can take part in it and serve your country by defeating enemies while you have Signet cast on you.
-- **8531**: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.
-- **8532**: Nations receive goods and resources from regions under their control.
-- **8533**: So, the more regions we control, the richer our nation becomes.
-- **8534**: Border guards are also placed in outposts within regions under our control. They are there to cast Signet on adventurers like yourself.
-- **8535**: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.
-- **8536**: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.
-- **8537**: So you see...conquests benefit nations and adventurers alike. We expect you to do your best to serve your country.
-- **8538**: You can see the current state of conquests by selecting "Region Info" from the main menu. Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.
-- **8539**: Shops in our city will be selling different items according to our conquest rank. The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.
-- **8540**: You can donate crystals to your nation once you achieve rank 2. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
-- **8541**: We would like you to donate crystals to your nation from now on. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
-- **8542**: You can acquire crystals by defeating enemies while you have your nation's Signet. Having Signet cast on you is also the only way of taking part in conquests.
-- **8543**: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.
-- **8544**: You also receive rank points for completing missions. Complete missions and take part in conquests to raise your rank and serve your country.
-- **8545**: You are awarded conquest points when you defeat monsters while you are taking part in conquests. Select "Region Info" from the menu to check your current number of conquest points.
-- **8546**: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.
-- **8547**: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.
-- **8548**: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.
-- **8549**: Merchants will also be placed there, and goods from that region will find their way to the local shops here.
-- **8550**: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.
-- **8551**: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.
-- **8552**: As an incentive, we will award you with more conquest points for defeating monsters in those regions.
-- **8553**: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.
-- **8554**: Our paramount concern lies in the beastmen gaining control of our regions. If too many of us are defeated in a region, the beastmen will gain control of it.
-- **8555**: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.
-- **8556**: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.
-- **8557**: We need you to bring supplies to the outpost border guards who are placed in regions under our control.
-- **8558**: There is one outpost in each region. Select "Region Info" from the menu, and look for the areas with a small flag mark on the map. That is where they are.
-- **8559**: Here are the supplies. Just give them to the guard at the outpost and your mission will be complete. Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.
-- **8560**: Where do you wish to take the supplies? [@/@/@/@/@/The Ronfaure Region.[/ (Done)]/The Zulkheim Region.[/ (Done)]/The Norvallen Region.[/ (Done)]/The Gustaberg Region.[/ (Done)]/The Derfland Region.[/ (Done)]/The Sarutabaruta Region.[/ (Done)]/The Kolshushu Region.[/ (Done)]/The Aragoneu Region.[/ (Done)]/The Fauregandi Region.[/ (Done)]/The Valdeaunia Region.[/ (Done)]/Qufim Island.[/ (Done)]/The Li'Telor Region.[/ (Done)]/The Kuzotz Region.[/ (Done)]/The Vollbow Region.[/ (Done)]/The Elshimo Lowlands Region.[/ (Done)]/The Elshimo Uplands Region.[/ (Done)]/Tu'Lia.[/ (Done)]/@/The Tavnazian Archipelago.[/ (Done)]/@/@/@/@/@/@/@/Cancel.]
-- **8561**: Which E.F. would you like to join? [././././././The Zulkheim Region (Lv.20\`)./The Norvallen Region (Lv.25\`)././The Derfland Region (Lv.25\`)././The Kolshushu Region (Lv.20\`)./The Aragoneu Region (Lv.25\`)./The Fauregandi Region (Lv.35\`)./The Valdeaunia Region (Lv.40\`)./The Qufim Region (Lv.25\`)./The Li'Telor Region (Lv.35\`)./The Kuzotz Region (Lv.40\`)./The Vollbow Region (Lv.65\`)./The Elshimo Lowlands Region (Lv.35\`)./The Elshimo Uplands Region (Lv.45\`)./././././././././././None.]
-- **8562**: So be it. You have until the next conquest results announcement to complete this mission. Good luck.
-- **8564**: You can only undertake one supply mission per day. Come back later.
-- **8569**: You currently have $0 conquest points. Would you like to use them to purchase items?
-- **8570**: Which item do you wish to purchase? [Common items (all ranks)./1000-pt. items (rank 1 required)."000-pt. items (rank 2 required)./4000-pt. items (rank 3 required)./8000-pt. items (rank 4 required)./16000-pt. items (rank 5 required)."4000-pt. items (rank 6 required)."2000-pt. items (rank 7 required)./40000-pt. items (rank 8 required)./48000-pt. items (rank 9 required)./56000-pt. items (rank 10 required)./Cancel.]
-- **8571**: Which item do you wish to purchase? [Common items (all ranks)."000-pt. items (rank 1 required)./4000-pt. items (rank 2 required)./8000-pt. items (rank 3 required)./16000-pt. items (rank 4 required)."4000-pt. items (rank 5 required)."2000-pt. items (rank 6 required)./40000-pt. items (rank 7 required)./48000-pt. items (rank 8 required)./56000-pt. items (rank 9 required)././Cancel.]
-- **8572**: Currently there are no items available for that rank.
-- **8573**: Due to its special nature, you can only purchase or recharge $2 once until the conquest results tally is performed. Also, you cannot purchase this item if a similar item is already in your possession.
-- **8574**: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 50 conquest points.
-- **8575**: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 100 conquest points.
-- **8576**: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 200 conquest points.
-- **8577**: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.
-- **8583**: You do not meet the requirements to purchase the $2.
-- **8584**: Your rank is too low to purchase the $2.
-- **8585**: You do not have enough conquest points to purchase the $2.
-- **8586**: You cannot equip the $2. Do you still wish to proceed?
-- **8587**: Your level is too low to equip the $2. Do you still wish to proceed?
-- **8588**: You seem to be able to equip the $2. Do you wish to proceed?
-- **8589**: Are you sure you want to purchase the $2?
-- **8590**: Proceed? [Yes, purchase item./Cancel purchase.]
-- **8591**: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
-- **8592**: Which item do you wish to purchase? [#./$1./$2./$3./$4./$5./$6./$7./Next page./Previous page./Back.]
-- **8593**: Which item do you wish to purchase? [#...$8 pts./$1...$9 pts./$2...$10 pts./$3...$11 pts./$4...$12 pts./$5...$13 pts./$6...$14 pts./$7...$15 pts./Next page./Previous page./Back.]
-- **8615**: What do you want? [Would you cast Signet on me?/I'd like to set my home point here./Nothing.]
-- **8616**: What do you want? [Pay $7 gil and set my home point here./Nothing.]
-- **8619**: I will set your home point here.
-- **8623**: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.
-- **8624**: You cannot currently purchase this item. Please choose another.
-- **8625**: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.
-- **8626**: Requirements for participating in an E.F. are simple. Your party must consist of $5 members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.
-- **8627**: Once your party is ready, come to me and I will teleport you to the nearest outpost.
-- **8628**: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.
-- **8629**: Join the E.F. in [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Join the E.F./Not this time.]
-- **8630**: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.
-- **8631**: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.
-- **8632**: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.
-- **8633**: One of your party members is below level $6. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.
-- **8634**: I see that you are ready. I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.
-- **8635**: Are you ready to be teleported to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.
-- **8636**: Teleport to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Ready!/Wait just a minute...]
-- **8637**: Cancel your participation in the E.F. to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
-- **8638**: Quit the E.F.? [Yes./Change locations./No.]
-- **8639**: Are you sure?
-- **8640**: Really quit the E.F.? [Yes./No.]
-- **8641**: I see. If you ever wish to participate in the future, I will be waiting here to take your application.
-- **8646**: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.
-- **8648**: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.
-- **8649**: I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties. Once Signet has been bestowed upon you, prepare to be teleported.
-- **8653**: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.
-- **8654**: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.
-- **8655**: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.
-- **8656**: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.
-- **8657**: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.
-- **8658**: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!
-- **8659**: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.
-- **8660**: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
-- **8661**: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
-- **8664**: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
+- **8515**: Good luck, [citizen/comrade]. I will bestow upon you your nation's Signet.
+- **8516**: I cannot help you. You should go find a guard from your own country.
+- **8518**: Since we are allied with San d'Oria...
+- **8519**: Since we are allied with Bastok...
+- **8520**: Since we are allied with Windurst...
+- **8522**: Ah, you have brought us supplies. These will help us indeed. I thank you.
+- **8523**: Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly. I do commend you for your effort. May you succeed next time.
+- **8526**: I am %, a Temple Knight. I am one of the guards charged with overseeing San d'Oria's conquest campaign.
+- **8527**: I am %, an Iron Musketeer. I am one of the guards charged with overseeing Bastok's conquest campaign.
+- **8528**: I am %, a War Warlock. I am one of the guards charged with overseeing Windurst's conquest campaign.
+- **8529**: What is your business? [Would you cast Signet on me?/I want to spend my conquest points./[I want to join the Expeditionary Force./Teleport me to the E.F. area.]/I want to quit the E.F./change my E.F./I want to go on a supplies quest./I have some questions.../Nothing, sorry to bother you.]
+- **8530**: What do you wish to know about? [Nothing./Conquests./Conquest results./Donating crystals./Conquest points./The effects of controlling regions./Regions controlled by other nations./Regions under beastman control.]
+- **8531**: All three nations are striving daily to put more regions under their control. This is what we call "conquests." You can take part in it and serve your country by defeating enemies while you have Signet cast on you.
+- **8532**: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.
+- **8533**: Nations receive goods and resources from regions under their control.
+- **8534**: So, the more regions we control, the richer our nation becomes.
+- **8535**: Border guards are also placed in outposts within regions under our control. They are there to cast Signet on adventurers like yourself.
+- **8536**: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.
+- **8537**: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.
+- **8538**: So you see...conquests benefit nations and adventurers alike. We expect you to do your best to serve your country.
+- **8539**: You can see the current state of conquests by selecting "Region Info" from the main menu. Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.
+- **8540**: Shops in our city will be selling different items according to our conquest rank. The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.
+- **8541**: You can donate crystals to your nation once you achieve rank 2. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
+- **8542**: We would like you to donate crystals to your nation from now on. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
+- **8543**: You can acquire crystals by defeating enemies while you have your nation's Signet. Having Signet cast on you is also the only way of taking part in conquests.
+- **8544**: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.
+- **8545**: You also receive rank points for completing missions. Complete missions and take part in conquests to raise your rank and serve your country.
+- **8546**: You are awarded conquest points when you defeat monsters while you are taking part in conquests. Select "Region Info" from the menu to check your current number of conquest points.
+- **8547**: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.
+- **8548**: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.
+- **8549**: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.
+- **8550**: Merchants will also be placed there, and goods from that region will find their way to the local shops here.
+- **8551**: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.
+- **8552**: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.
+- **8553**: As an incentive, we will award you with more conquest points for defeating monsters in those regions.
+- **8554**: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.
+- **8555**: Our paramount concern lies in the beastmen gaining control of our regions. If too many of us are defeated in a region, the beastmen will gain control of it.
+- **8556**: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.
+- **8557**: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.
+- **8558**: We need you to bring supplies to the outpost border guards who are placed in regions under our control.
+- **8559**: There is one outpost in each region. Select "Region Info" from the menu, and look for the areas with a small flag mark on the map. That is where they are.
+- **8560**: Here are the supplies. Just give them to the guard at the outpost and your mission will be complete. Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.
+- **8561**: Where do you wish to take the supplies? [@/@/@/@/@/The Ronfaure Region.[/ (Done)]/The Zulkheim Region.[/ (Done)]/The Norvallen Region.[/ (Done)]/The Gustaberg Region.[/ (Done)]/The Derfland Region.[/ (Done)]/The Sarutabaruta Region.[/ (Done)]/The Kolshushu Region.[/ (Done)]/The Aragoneu Region.[/ (Done)]/The Fauregandi Region.[/ (Done)]/The Valdeaunia Region.[/ (Done)]/Qufim Island.[/ (Done)]/The Li'Telor Region.[/ (Done)]/The Kuzotz Region.[/ (Done)]/The Vollbow Region.[/ (Done)]/The Elshimo Lowlands Region.[/ (Done)]/The Elshimo Uplands Region.[/ (Done)]/Tu'Lia.[/ (Done)]/@/The Tavnazian Archipelago.[/ (Done)]/@/@/@/@/@/@/@/Cancel.]
+- **8562**: Which E.F. would you like to join? [././././././The Zulkheim Region (Lv.20\`)./The Norvallen Region (Lv.25\`)././The Derfland Region (Lv.25\`)././The Kolshushu Region (Lv.20\`)./The Aragoneu Region (Lv.25\`)./The Fauregandi Region (Lv.35\`)./The Valdeaunia Region (Lv.40\`)./The Qufim Region (Lv.25\`)./The Li'Telor Region (Lv.35\`)./The Kuzotz Region (Lv.40\`)./The Vollbow Region (Lv.65\`)./The Elshimo Lowlands Region (Lv.35\`)./The Elshimo Uplands Region (Lv.45\`)./././././././././././None.]
+- **8563**: So be it. You have until the next conquest results announcement to complete this mission. Good luck.
+- **8565**: You can only undertake one supply mission per day. Come back later.
+- **8570**: You currently have $0 conquest points. Would you like to use them to purchase items?
+- **8571**: Which item do you wish to purchase? [Common items (all ranks)./1000-pt. items (rank 1 required)."000-pt. items (rank 2 required)./4000-pt. items (rank 3 required)./8000-pt. items (rank 4 required)./16000-pt. items (rank 5 required)."4000-pt. items (rank 6 required)."2000-pt. items (rank 7 required)./40000-pt. items (rank 8 required)./48000-pt. items (rank 9 required)./56000-pt. items (rank 10 required)./Cancel.]
+- **8572**: Which item do you wish to purchase? [Common items (all ranks)."000-pt. items (rank 1 required)./4000-pt. items (rank 2 required)./8000-pt. items (rank 3 required)./16000-pt. items (rank 4 required)."4000-pt. items (rank 5 required)."2000-pt. items (rank 6 required)./40000-pt. items (rank 7 required)./48000-pt. items (rank 8 required)./56000-pt. items (rank 9 required)././Cancel.]
+- **8573**: Currently there are no items available for that rank.
+- **8574**: Due to its special nature, you can only purchase or recharge $2 once until the conquest results tally is performed. Also, you cannot purchase this item if a similar item is already in your possession.
+- **8575**: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 50 conquest points.
+- **8576**: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 100 conquest points.
+- **8577**: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 200 conquest points.
+- **8578**: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.
+- **8584**: You do not meet the requirements to purchase the $2.
+- **8585**: Your rank is too low to purchase the $2.
+- **8586**: You do not have enough conquest points to purchase the $2.
+- **8587**: You cannot equip the $2. Do you still wish to proceed?
+- **8588**: Your level is too low to equip the $2. Do you still wish to proceed?
+- **8589**: You seem to be able to equip the $2. Do you wish to proceed?
+- **8590**: Are you sure you want to purchase the $2?
+- **8591**: Proceed? [Yes, purchase item./Cancel purchase.]
+- **8592**: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
+- **8593**: Which item do you wish to purchase? [#./$1./$2./$3./$4./$5./$6./$7./Next page./Previous page./Back.]
+- **8594**: Which item do you wish to purchase? [#...$8 pts./$1...$9 pts./$2...$10 pts./$3...$11 pts./$4...$12 pts./$5...$13 pts./$6...$14 pts./$7...$15 pts./Next page./Previous page./Back.]
+- **8616**: What do you want? [Would you cast Signet on me?/I'd like to set my home point here./Nothing.]
+- **8617**: What do you want? [Pay $7 gil and set my home point here./Nothing.]
+- **8620**: I will set your home point here.
+- **8624**: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.
+- **8625**: You cannot currently purchase this item. Please choose another.
+- **8626**: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.
+- **8627**: Requirements for participating in an E.F. are simple. Your party must consist of $5 members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.
+- **8628**: Once your party is ready, come to me and I will teleport you to the nearest outpost.
+- **8629**: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.
+- **8630**: Join the E.F. in [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Join the E.F./Not this time.]
+- **8631**: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.
+- **8632**: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.
+- **8633**: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.
+- **8634**: One of your party members is below level $6. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.
+- **8635**: I see that you are ready. I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.
+- **8636**: Are you ready to be teleported to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.
+- **8637**: Teleport to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Ready!/Wait just a minute...]
+- **8638**: Cancel your participation in the E.F. to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+- **8639**: Quit the E.F.? [Yes./Change locations./No.]
+- **8640**: Are you sure?
+- **8641**: Really quit the E.F.? [Yes./No.]
+- **8642**: I see. If you ever wish to participate in the future, I will be waiting here to take your application.
+- **8647**: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.
+- **8649**: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.
+- **8650**: I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties. Once Signet has been bestowed upon you, prepare to be teleported.
+- **8654**: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.
+- **8655**: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.
+- **8656**: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.
+- **8657**: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.
+- **8658**: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.
+- **8659**: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!
+- **8660**: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.
+- **8661**: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
+- **8662**: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
+- **8665**: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
 
 ## Events
 
@@ -1489,24 +1489,24 @@ SUBROUTINE_015E:
  55: 0x015E [0x03] ExtData[1]->WorkLocal[18] = ExtData[1]->WorkLocal[19]
  56: 0x0163 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x019B
  57: 0x016B [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x017A
- 58: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=8525*)
+ 58: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=8526*)
     → "I am %, a Temple Knight. I am one of the guards charged with overseeing San d'Oria's conquest campaign."
  59: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0177 [0x01] GOTO 0x0198
  61: 0x017A [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0189
- 62: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=8526*)
+ 62: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
     → "I am %, an Iron Musketeer. I am one of the guards charged with overseeing Bastok's conquest campaign."
  63: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0186 [0x01] GOTO 0x0198
  65: 0x0189 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0198
- 66: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
+ 66: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
     → "I am %, a War Warlock. I am one of the guards charged with overseeing Windurst's conquest campaign."
  67: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0195 [0x01] GOTO 0x0198
 
 SUBROUTINE_0198:
  69: 0x0198 [0x01] GOTO 0x019F
- 70: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=8664*)
+ 70: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=8665*)
     → "I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok."
  71: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1537,14 +1537,14 @@ SUBROUTINE_01DD:
 
 SUBROUTINE_020D:
  93: 0x020D [0x02] IF !(ExtData[1]->WorkLocal[32] >= ExtData[1]->WorkLocal[31]) GOTO 0x021F
- 94: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8623*)
+ 94: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8624*)
     → "Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate."
  95: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0219 [0x1A] CALL_SUBROUTINE(address=0x348A)
  97: 0x021C [0x01] GOTO 0x02FE
  98: 0x021F [0x02] IF !(ExtData[1]->WorkLocal[1] == ExtData[1]->WorkLocal[5]) GOTO 0x0916
  99: 0x0227 [0x02] IF !(ExtData[1]->WorkLocal[24] == 1*) GOTO 0x024C
-100: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=8646*)
+100: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=8647*)
     → "Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward."
 101: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0233 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1575,7 +1575,7 @@ SUBROUTINE_020D:
 
 SUBROUTINE_02FE:
 127: 0x02FE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
-128: 0x0303 [0x24] CREATE_DIALOG(message_id=8528*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+128: 0x0303 [0x24] CREATE_DIALOG(message_id=8529*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "What is your business? [Would you cast Signet on me?/I want to spend my conquest points./[I want to join the Expeditionary Force./Teleport me to the E.F. area.]/I want to quit the E.F./change my E.F./I want to go on a supplies quest./I have some questions.../Nothing, sorry to bother you.]"
 129: 0x030A [0x25] WAIT_DIALOG_SELECT()
 130: 0x030B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C8
@@ -1607,20 +1607,20 @@ SUBROUTINE_0361:
 
 SUBROUTINE_0391:
 154: 0x0391 [0x02] IF !(ExtData[1]->WorkLocal[32] == 1*) GOTO 0x03A0
-155: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=8653*)
+155: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=8654*)
     → "Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top."
 156: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x039D [0x01] GOTO 0x03C2
 158: 0x03A0 [0x02] IF !(ExtData[1]->WorkLocal[32] == 2*) GOTO 0x03AF
-159: 0x03A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8654*)
+159: 0x03A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8655*)
     → "We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements."
 160: 0x03AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x03AC [0x01] GOTO 0x03C2
 162: 0x03AF [0x02] IF !(ExtData[1]->WorkLocal[32] == 3*) GOTO 0x03C2
-163: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8655*)
+163: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8656*)
     → "Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation."
 164: 0x03BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x03BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8656*)
+165: 0x03BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8657*)
     → "You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control."
 166: 0x03BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x03BF [0x01] GOTO 0x03C2
@@ -1630,7 +1630,7 @@ SUBROUTINE_03C2:
 169: 0x03C5 [0x01] GOTO 0x0913
 170: 0x03C8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0558
 171: 0x03D0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-172: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
+172: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
     → "You currently have $0 conquest points. Would you like to use them to purchase items?"
 173: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1654,7 +1654,7 @@ SUBROUTINE_03D9:
 190: 0x0423 [0x14] ExtData[1]->WorkLocal[9] *= 16*
 191: 0x0428 [0x02] IF !(ExtData[1]->WorkLocal[40] >= 160*) GOTO 0x043F
 192: 0x0430 [0x02] IF !(ExtData[1]->WorkLocal[40] <= ExtData[1]->WorkLocal[9]) GOTO 0x043F
-193: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=8584*)
+193: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=8585*)
     → "Your rank is too low to purchase the $2."
 194: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x043C [0x01] GOTO 0x03D9
@@ -1662,7 +1662,7 @@ SUBROUTINE_03D9:
 197: 0x0447 [0x02] IF !(ExtData[1]->WorkLocal[40] < 160*) GOTO 0x0454
 198: 0x044F [0x03] ExtData[1]->WorkLocal[34] = 2*
 199: 0x0454 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0468
-200: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=8624*)
+200: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=8625*)
     → "You cannot currently purchase this item. Please choose another."
 201: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0460 [0x03] Work_Zone[1] = 1073741824*
@@ -1670,43 +1670,43 @@ SUBROUTINE_03D9:
 204: 0x0468 [0x02] IF !(Work_Zone[4] < 15761*) GOTO 0x04C4
 205: 0x0470 [0x02] IF !(Work_Zone[4] > 15768*) GOTO 0x04C4
 206: 0x0478 [0x02] IF !(ExtData[1]->WorkLocal[51] == 1*) GOTO 0x0484
-207: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=8583*)
+207: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=8584*)
     → "You do not meet the requirements to purchase the $2."
 208: 0x0483 [0x23] WAIT_FOR_DIALOG_INTERACTION
-209: 0x0484 [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
+209: 0x0484 [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
     → "Due to its special nature, you can only purchase or recharge $2 once until the conquest results tally is performed. Also, you cannot purchase this item if a similar item is already in your possession."
 210: 0x0487 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x0488 [0x02] IF !(Work_Zone[4] == 15761*) GOTO 0x0497
-212: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
+212: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
     → "It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 50 conquest points."
 213: 0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x0494 [0x01] GOTO 0x04B5
 215: 0x0497 [0x02] IF !(Work_Zone[4] == 15762*) GOTO 0x04A6
-216: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
+216: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=8576*)
     → "It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 100 conquest points."
 217: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x04A3 [0x01] GOTO 0x04B5
 219: 0x04A6 [0x02] IF !(Work_Zone[4] == 15763*) GOTO 0x04B5
-220: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8576*)
+220: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8577*)
     → "It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 200 conquest points."
 221: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x04B2 [0x01] GOTO 0x04B5
 
 SUBROUTINE_04B5:
-223: 0x04B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8577*)
+223: 0x04B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8578*)
     → "During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there."
 224: 0x04B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x04B9 [0x02] IF !(ExtData[1]->WorkLocal[51] == 1*) GOTO 0x04C4
 226: 0x04C1 [0x01] GOTO 0x03D9
 227: 0x04C4 [0x02] IF !(ExtData[1]->WorkLocal[35] == 1*) GOTO 0x04D6
-228: 0x04CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8585*)
+228: 0x04CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8586*)
     → "You do not have enough conquest points to purchase the $2."
 229: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x04D0 [0x01] GOTO 0x03D9
 
 SUBROUTINE_0507:
 231: 0x0507 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-232: 0x050A [0x24] CREATE_DIALOG(message_id=8590*, default_option=1*, option_flags=0*)
+232: 0x050A [0x24] CREATE_DIALOG(message_id=8591*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes, purchase item./Cancel purchase.]"
 233: 0x0511 [0x25] WAIT_DIALOG_SELECT()
 234: 0x0512 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x051D
@@ -1719,7 +1719,7 @@ SUBROUTINE_052B:
 
 SUBROUTINE_052E:
 239: 0x052E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-240: 0x0531 [0x24] CREATE_DIALOG(message_id=8591*, default_option=1*, option_flags=0*)
+240: 0x0531 [0x24] CREATE_DIALOG(message_id=8592*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes, even though I can't equip it./Cancel purchase.]"
 241: 0x0538 [0x25] WAIT_DIALOG_SELECT()
 242: 0x0539 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0544
@@ -1772,22 +1772,22 @@ SUBROUTINE_05CE:
 SUBROUTINE_0603:
 280: 0x0603 [0x0B] ExtData[1]->WorkLocal[23]++
 281: 0x0606 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[23]
-282: 0x060B [0x1D] PRINT_EVENT_MESSAGE(message_id=8625*)
+282: 0x060B [0x1D] PRINT_EVENT_MESSAGE(message_id=8626*)
     → "Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself."
 283: 0x060E [0x23] WAIT_FOR_DIALOG_INTERACTION
-284: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=8626*)
+284: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
     → "Requirements for participating in an E.F. are simple. Your party must consist of $5 members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level."
 285: 0x0612 [0x23] WAIT_FOR_DIALOG_INTERACTION
-286: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=8627*)
+286: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
     → "Once your party is ready, come to me and I will teleport you to the nearest outpost."
 287: 0x0616 [0x23] WAIT_FOR_DIALOG_INTERACTION
-288: 0x0617 [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
+288: 0x0617 [0x1D] PRINT_EVENT_MESSAGE(message_id=8629*)
     → "There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward."
 289: 0x061A [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x061B [0x0F] ExtData[1]->WorkLocal[20] ^= 2147483647*
 291: 0x0620 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x0631
 292: 0x0628 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=21*, target=ExtData[1]->WorkLocal[20], source=63*)
-293: 0x0631 [0x24] CREATE_DIALOG(message_id=8561*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+293: 0x0631 [0x24] CREATE_DIALOG(message_id=8562*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
     → "Which E.F. would you like to join? [././././././The Zulkheim Region (Lv.20`)./The Norvallen Region (Lv.25`)././The Derfland Region (Lv.25`)././The Kolshushu Region (Lv.20`)./The Aragoneu Region (Lv.25`)./The Fauregandi Region (Lv.35`)./The Valdeaunia Region (Lv.40`)./The Qufim Region (Lv.25`)./The Li'Telor Region (Lv.35`)./The Kuzotz Region (Lv.40`)./The Vollbow Region (Lv.65`)./The Elshimo Lowlands Region (Lv.35`)./The Elshimo Uplands Region (Lv.45`)./././././././././././None.]"
 294: 0x0638 [0x25] WAIT_DIALOG_SELECT()
 295: 0x0639 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0649
@@ -1796,7 +1796,7 @@ SUBROUTINE_0603:
 298: 0x0649 [0x03] ExtData[1]->WorkLocal[45] = Work_Zone[0]
 299: 0x064E [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[45]
 300: 0x0653 [0x08] Work_Zone[9] -= 5*
-301: 0x0658 [0x24] CREATE_DIALOG(message_id=8629*, default_option=1*, option_flags=0*)
+301: 0x0658 [0x24] CREATE_DIALOG(message_id=8630*, default_option=1*, option_flags=0*)
     → "Join the E.F. in [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Join the E.F./Not this time.]"
 302: 0x065F [0x25] WAIT_DIALOG_SELECT()
 303: 0x0660 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06FB
@@ -1807,28 +1807,28 @@ SUBROUTINE_0603:
 308: 0x0677 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 309: 0x0679 [0x03] Work_Zone[1] = 1073741824*
 310: 0x067E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x068D
-311: 0x0686 [0x1D] PRINT_EVENT_MESSAGE(message_id=8630*)
+311: 0x0686 [0x1D] PRINT_EVENT_MESSAGE(message_id=8631*)
     → "Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here."
 312: 0x0689 [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x068A [0x01] GOTO 0x06EB
 314: 0x068D [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x069C
-315: 0x0695 [0x1D] PRINT_EVENT_MESSAGE(message_id=8631*)
+315: 0x0695 [0x1D] PRINT_EVENT_MESSAGE(message_id=8632*)
     → "One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F."
 316: 0x0698 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0699 [0x01] GOTO 0x06E8
 318: 0x069C [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x06AB
-319: 0x06A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8632*)
+319: 0x06A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8633*)
     → "One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country."
 320: 0x06A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x06A8 [0x01] GOTO 0x06E8
 322: 0x06AB [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x06BF
 323: 0x06B3 [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[8]
-324: 0x06B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8633*)
+324: 0x06B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8634*)
     → "One of your party members is below level $6. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F."
 325: 0x06BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x06BC [0x01] GOTO 0x06E8
 327: 0x06BF [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x06E8
-328: 0x06C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8634*)
+328: 0x06C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8635*)
     → "I see that you are ready. I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more."
 329: 0x06CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x06CB [0x73] EventEntity casts magic 497* on LocalPlayer
@@ -1849,18 +1849,18 @@ SUBROUTINE_06FB:
 339: 0x06FB [0x01] GOTO 0x074B
 340: 0x06FE [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[45]
 341: 0x0703 [0x08] Work_Zone[9] -= 5*
-342: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=8635*)
+342: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=8636*)
     → "Are you ready to be teleported to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind."
 343: 0x070B [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x070C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-345: 0x070D [0x24] CREATE_DIALOG(message_id=8636*, default_option=1*, option_flags=0*)
+345: 0x070D [0x24] CREATE_DIALOG(message_id=8637*, default_option=1*, option_flags=0*)
     → "Teleport to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Ready!/Wait just a minute...]"
 346: 0x0714 [0x25] WAIT_DIALOG_SELECT()
 347: 0x0715 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x073B
-348: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=8648*)
+348: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=8649*)
     → "When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon."
 349: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
-350: 0x0721 [0x1D] PRINT_EVENT_MESSAGE(message_id=8649*)
+350: 0x0721 [0x1D] PRINT_EVENT_MESSAGE(message_id=8650*)
     → "I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties. Once Signet has been bestowed upon you, prepare to be teleported."
 351: 0x0724 [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x0725 [0x73] EventEntity casts magic 122* on LocalPlayer
@@ -1876,21 +1876,21 @@ SUBROUTINE_074B:
 360: 0x074E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x07C8
 361: 0x0756 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[45]
 362: 0x075B [0x08] Work_Zone[9] -= 5*
-363: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=8637*)
+363: 0x0760 [0x1D] PRINT_EVENT_MESSAGE(message_id=8638*)
     → "Cancel your participation in the E.F. to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?"
 364: 0x0763 [0x23] WAIT_FOR_DIALOG_INTERACTION
-365: 0x0764 [0x24] CREATE_DIALOG(message_id=8638*, default_option=2*, option_flags=0*)
+365: 0x0764 [0x24] CREATE_DIALOG(message_id=8639*, default_option=2*, option_flags=0*)
     → "Quit the E.F.? [Yes./Change locations./No.]"
 366: 0x076B [0x25] WAIT_DIALOG_SELECT()
 367: 0x076C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A7
-368: 0x0774 [0x1D] PRINT_EVENT_MESSAGE(message_id=8639*)
+368: 0x0774 [0x1D] PRINT_EVENT_MESSAGE(message_id=8640*)
     → "Are you sure?"
 369: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
-370: 0x0778 [0x24] CREATE_DIALOG(message_id=8640*, default_option=1*, option_flags=0*)
+370: 0x0778 [0x24] CREATE_DIALOG(message_id=8641*, default_option=1*, option_flags=0*)
     → "Really quit the E.F.? [Yes./No.]"
 371: 0x077F [0x25] WAIT_DIALOG_SELECT()
 372: 0x0780 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0794
-373: 0x0788 [0x1D] PRINT_EVENT_MESSAGE(message_id=8641*)
+373: 0x0788 [0x1D] PRINT_EVENT_MESSAGE(message_id=8642*)
     → "I see. If you ever wish to participate in the future, I will be waiting here to take your application."
 374: 0x078B [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x078C [0x03] Work_Zone[1] = 8*
@@ -1908,23 +1908,23 @@ SUBROUTINE_07C5:
 383: 0x07C5 [0x01] GOTO 0x0913
 384: 0x07C8 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0804
 385: 0x07D0 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2147483648*) GOTO 0x07DF
-386: 0x07D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8564*)
+386: 0x07D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8565*)
     → "You can only undertake one supply mission per day. Come back later."
 387: 0x07DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 388: 0x07DC [0x01] GOTO 0x0801
-389: 0x07DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8557*)
+389: 0x07DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8558*)
     → "We need you to bring supplies to the outpost border guards who are placed in regions under our control."
 390: 0x07E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-391: 0x07E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8558*)
+391: 0x07E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
     → "There is one outpost in each region. Select "Region Info" from the menu, and look for the areas with a small flag mark on the map. That is where they are."
 392: 0x07E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-393: 0x07E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
+393: 0x07E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
     → "Here are the supplies. Just give them to the guard at the outpost and your mission will be complete. Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully."
 394: 0x07EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 395: 0x07EB [0x1A] CALL_SUBROUTINE(address=0x0B63)
 396: 0x07EE [0x02] IF !(Work_Zone[1] == 0*) GOTO 0x0801
 397: 0x07F6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=16*, condition_work_offset=1*)
-398: 0x07FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
+398: 0x07FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
     → "So be it. You have until the next conquest results announcement to complete this mission. Good luck."
 399: 0x0800 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1933,45 +1933,45 @@ SUBROUTINE_0801:
 401: 0x0804 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0913
 
 SUBROUTINE_080C:
-402: 0x080C [0x24] CREATE_DIALOG(message_id=8529*, default_option=ExtData[1]->WorkLocal[12], option_flags=0*)
+402: 0x080C [0x24] CREATE_DIALOG(message_id=8530*, default_option=ExtData[1]->WorkLocal[12], option_flags=0*)
     → "What do you wish to know about? [Nothing./Conquests./Conquest results./Donating crystals./Conquest points./The effects of controlling regions./Regions controlled by other nations./Regions under beastman control.]"
 403: 0x0813 [0x25] WAIT_DIALOG_SELECT()
 404: 0x0814 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0847
-405: 0x081C [0x1D] PRINT_EVENT_MESSAGE(message_id=8530*)
+405: 0x081C [0x1D] PRINT_EVENT_MESSAGE(message_id=8531*)
     → "All three nations are striving daily to put more regions under their control. This is what we call "conquests." You can take part in it and serve your country by defeating enemies while you have Signet cast on you."
 406: 0x081F [0x23] WAIT_FOR_DIALOG_INTERACTION
-407: 0x0820 [0x1D] PRINT_EVENT_MESSAGE(message_id=8531*)
+407: 0x0820 [0x1D] PRINT_EVENT_MESSAGE(message_id=8532*)
     → "Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region."
 408: 0x0823 [0x23] WAIT_FOR_DIALOG_INTERACTION
-409: 0x0824 [0x1D] PRINT_EVENT_MESSAGE(message_id=8532*)
+409: 0x0824 [0x1D] PRINT_EVENT_MESSAGE(message_id=8533*)
     → "Nations receive goods and resources from regions under their control."
 410: 0x0827 [0x23] WAIT_FOR_DIALOG_INTERACTION
-411: 0x0828 [0x1D] PRINT_EVENT_MESSAGE(message_id=8533*)
+411: 0x0828 [0x1D] PRINT_EVENT_MESSAGE(message_id=8534*)
     → "So, the more regions we control, the richer our nation becomes."
 412: 0x082B [0x23] WAIT_FOR_DIALOG_INTERACTION
-413: 0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=8534*)
+413: 0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
     → "Border guards are also placed in outposts within regions under our control. They are there to cast Signet on adventurers like yourself."
 414: 0x082F [0x23] WAIT_FOR_DIALOG_INTERACTION
-415: 0x0830 [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
+415: 0x0830 [0x1D] PRINT_EVENT_MESSAGE(message_id=8536*)
     → "Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat."
 416: 0x0833 [0x23] WAIT_FOR_DIALOG_INTERACTION
-417: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=8536*)
+417: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=8537*)
     → "Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself."
 418: 0x0837 [0x23] WAIT_FOR_DIALOG_INTERACTION
-419: 0x0838 [0x1D] PRINT_EVENT_MESSAGE(message_id=8537*)
+419: 0x0838 [0x1D] PRINT_EVENT_MESSAGE(message_id=8538*)
     → "So you see...conquests benefit nations and adventurers alike. We expect you to do your best to serve your country."
 420: 0x083B [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x083C [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[0]
 422: 0x0841 [0x01] GOTO 0x080C
 
 SUBROUTINE_087D:
-423: 0x087D [0x1D] PRINT_EVENT_MESSAGE(message_id=8542*)
+423: 0x087D [0x1D] PRINT_EVENT_MESSAGE(message_id=8543*)
     → "You can acquire crystals by defeating enemies while you have your nation's Signet. Having Signet cast on you is also the only way of taking part in conquests."
 424: 0x0880 [0x23] WAIT_FOR_DIALOG_INTERACTION
-425: 0x0881 [0x1D] PRINT_EVENT_MESSAGE(message_id=8543*)
+425: 0x0881 [0x1D] PRINT_EVENT_MESSAGE(message_id=8544*)
     → "Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up."
 426: 0x0884 [0x23] WAIT_FOR_DIALOG_INTERACTION
-427: 0x0885 [0x1D] PRINT_EVENT_MESSAGE(message_id=8544*)
+427: 0x0885 [0x1D] PRINT_EVENT_MESSAGE(message_id=8545*)
     → "You also receive rank points for completing missions. Complete missions and take part in conquests to raise your rank and serve your country."
 428: 0x0888 [0x23] WAIT_FOR_DIALOG_INTERACTION
 429: 0x0889 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[0]
@@ -1983,7 +1983,7 @@ SUBROUTINE_0910:
 SUBROUTINE_0913:
 432: 0x0913 [0x01] GOTO 0x0928
 433: 0x0916 [0x02] IF !(ExtData[1]->WorkLocal[2] == 7*) GOTO 0x0925
-434: 0x091E [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
+434: 0x091E [0x1D] PRINT_EVENT_MESSAGE(message_id=8516*)
     → "I cannot help you. You should go find a guard from your own country."
 435: 0x0921 [0x23] WAIT_FOR_DIALOG_INTERACTION
 436: 0x0922 [0x01] GOTO 0x0928
@@ -1996,7 +1996,7 @@ SUBROUTINE_0928:
 441: 0x0938 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 442: 0x093A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 443: 0x093C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-444: 0x093D [0x1D] PRINT_EVENT_MESSAGE(message_id=8521*)
+444: 0x093D [0x1D] PRINT_EVENT_MESSAGE(message_id=8522*)
     → "Ah, you have brought us supplies. These will help us indeed. I thank you."
 445: 0x0940 [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x0941 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2006,41 +2006,41 @@ SUBROUTINE_0928:
 450: 0x0962 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 451: 0x0964 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 452: 0x0966 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-453: 0x0967 [0x1D] PRINT_EVENT_MESSAGE(message_id=8522*)
+453: 0x0967 [0x1D] PRINT_EVENT_MESSAGE(message_id=8523*)
     → "Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly. I do commend you for your effort. May you succeed next time."
 454: 0x096A [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x096B [0x01] GOTO 0x0AEE
 456: 0x096E [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[1]) GOTO 0x09FD
 
 SUBROUTINE_0976:
-457: 0x0976 [0x24] CREATE_DIALOG(message_id=8615*, default_option=0*, option_flags=0*)
+457: 0x0976 [0x24] CREATE_DIALOG(message_id=8616*, default_option=0*, option_flags=0*)
     → "What do you want? [Would you cast Signet on me?/I'd like to set my home point here./Nothing.]"
 458: 0x097D [0x25] WAIT_DIALOG_SELECT()
 459: 0x097E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09E7
 460: 0x0986 [0x02] IF !(ExtData[1]->WorkLocal[1] == ExtData[1]->WorkLocal[5]) GOTO 0x09E1
 461: 0x098E [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x099D
-462: 0x0996 [0x1D] PRINT_EVENT_MESSAGE(message_id=8661*)
+462: 0x0996 [0x1D] PRINT_EVENT_MESSAGE(message_id=8662*)
     → "Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region."
 463: 0x0999 [0x23] WAIT_FOR_DIALOG_INTERACTION
 464: 0x099A [0x01] GOTO 0x09E1
 465: 0x099D [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x09E1
 466: 0x09A5 [0x02] IF !(ExtData[1]->WorkLocal[28] == 3*) GOTO 0x09B4
-467: 0x09AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8657*)
+467: 0x09AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8658*)
     → "Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours."
 468: 0x09B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x09B1 [0x01] GOTO 0x09E1
 470: 0x09B4 [0x02] IF !(ExtData[1]->WorkLocal[28] == 2*) GOTO 0x09C3
-471: 0x09BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8658*)
+471: 0x09BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8659*)
     → "Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!"
 472: 0x09BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x09C0 [0x01] GOTO 0x09E1
 474: 0x09C3 [0x02] IF !(ExtData[1]->WorkLocal[28] == 1*) GOTO 0x09D2
-475: 0x09CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8659*)
+475: 0x09CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8660*)
     → "Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into."
 476: 0x09CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x09CF [0x01] GOTO 0x09E1
 478: 0x09D2 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x09E1
-479: 0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8660*)
+479: 0x09DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8661*)
     → "Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country."
 480: 0x09DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x09DE [0x01] GOTO 0x09E1
@@ -2094,7 +2094,7 @@ SUBROUTINE_09FA:
 
 SUBROUTINE_0ABD:
 525: 0x0ABD [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[14]
-526: 0x0AC2 [0x24] CREATE_DIALOG(message_id=8616*, default_option=1*, option_flags=0*)
+526: 0x0AC2 [0x24] CREATE_DIALOG(message_id=8617*, default_option=1*, option_flags=0*)
     → "What do you want? [Pay $7 gil and set my home point here./Nothing.]"
 527: 0x0AC9 [0x25] WAIT_DIALOG_SELECT()
 528: 0x0ACA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AEE
@@ -2114,17 +2114,17 @@ SUBROUTINE_0AF0:
 538: 0x0AF1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0AFC
 539: 0x0AF9 [0x01] GOTO 0x0B29
 540: 0x0AFC [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0B0B
-541: 0x0B04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8517*)
+541: 0x0B04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8518*)
     → "Since we are allied with San d'Oria..."
 542: 0x0B07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 543: 0x0B08 [0x01] GOTO 0x0B29
 544: 0x0B0B [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0B1A
-545: 0x0B13 [0x1D] PRINT_EVENT_MESSAGE(message_id=8518*)
+545: 0x0B13 [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
     → "Since we are allied with Bastok..."
 546: 0x0B16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x0B17 [0x01] GOTO 0x0B29
 548: 0x0B1A [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0B29
-549: 0x0B22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
+549: 0x0B22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
     → "Since we are allied with Windurst..."
 550: 0x0B25 [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x0B26 [0x01] GOTO 0x0B29
@@ -2133,7 +2133,7 @@ SUBROUTINE_0B29:
 552: 0x0B29 [0x06] Work_Zone[2] = 0
 553: 0x0B2C [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[1]) GOTO 0x0B37
 554: 0x0B34 [0x05] Work_Zone[2] = 1
-555: 0x0B37 [0x1D] PRINT_EVENT_MESSAGE(message_id=8514*)
+555: 0x0B37 [0x1D] PRINT_EVENT_MESSAGE(message_id=8515*)
     → "Good luck, [citizen/comrade]. I will bestow upon you your nation's Signet."
 556: 0x0B3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 557: 0x0B3B [0x73] EventEntity casts magic 497* on LocalPlayer
@@ -2144,7 +2144,7 @@ SUBROUTINE_0B29:
 SUBROUTINE_0B4F:
 561: 0x0B4F [0x42] SET_CLI_EVENT_CANCEL_DATA()
 562: 0x0B50 [0x73] EventEntity casts magic 504* on LocalPlayer
-563: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=8619*)
+563: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=8620*)
     → "I will set your home point here."
 564: 0x0B5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 565: 0x0B5F [0x1C] WAIT(150* ticks)
@@ -2260,7 +2260,7 @@ SUBROUTINE_0C7A:
 639: 0x0C87 [0x06] Work_Zone_1700[15] = 0
 
 SUBROUTINE_0C8A:
-640: 0x0C8A [0x24] CREATE_DIALOG(message_id=8560*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+640: 0x0C8A [0x24] CREATE_DIALOG(message_id=8561*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Where do you wish to take the supplies? [@/@/@/@/@/The Ronfaure Region.[/ (Done)]/The Zulkheim Region.[/ (Done)]/The Norvallen Region.[/ (Done)]/The Gustaberg Region.[/ (Done)]/The Derfland Region.[/ (Done)]/The Sarutabaruta Region.[/ (Done)]/The Kolshushu Region.[/ (Done)]/The Aragoneu Region.[/ (Done)]/The Fauregandi Region.[/ (Done)]/The Valdeaunia Region.[/ (Done)]/Qufim Island.[/ (Done)]/The Li'Telor Region.[/ (Done)]/The Kuzotz Region.[/ (Done)]/The Vollbow Region.[/ (Done)]/The Elshimo Lowlands Region.[/ (Done)]/The Elshimo Uplands Region.[/ (Done)]/Tu'Lia.[/ (Done)]/@/The Tavnazian Archipelago.[/ (Done)]/@/@/@/@/@/@/@/Cancel.]"
 641: 0x0C91 [0x25] WAIT_DIALOG_SELECT()
 642: 0x0C92 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -2343,7 +2343,7 @@ SUBROUTINE_0DA4:
 715: 0x0DE5 [0x06] ExtData[1]->WorkLocal[42] = 0
 716: 0x0DE8 [0x06] ExtData[1]->WorkLocal[50] = 0
 717: 0x0DEB [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[1]) GOTO 0x0E09
-718: 0x0DF3 [0x24] CREATE_DIALOG(message_id=8570*, default_option=ExtData[1]->WorkLocal[36], option_flags=0*)
+718: 0x0DF3 [0x24] CREATE_DIALOG(message_id=8571*, default_option=ExtData[1]->WorkLocal[36], option_flags=0*)
     → "Which item do you wish to purchase? [Common items (all ranks)./1000-pt. items (rank 1 required)."000-pt. items (rank 2 required)./4000-pt. items (rank 3 required)./8000-pt. items (rank 4 required)./16000-pt. items (rank 5 required)."4000-pt. items (rank 6 required)."2000-pt. items (rank 7 required)./40000-pt. items (rank 8 required)./48000-pt. items (rank 9 required)./56000-pt. items (rank 10 required)./Cancel.]"
 719: 0x0DFA [0x25] WAIT_DIALOG_SELECT()
 720: 0x0DFB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E06
@@ -2351,7 +2351,7 @@ SUBROUTINE_0DA4:
 
 SUBROUTINE_0E06:
 722: 0x0E06 [0x01] GOTO 0x0E1C
-723: 0x0E09 [0x24] CREATE_DIALOG(message_id=8571*, default_option=ExtData[1]->WorkLocal[36], option_flags=1024*)
+723: 0x0E09 [0x24] CREATE_DIALOG(message_id=8572*, default_option=ExtData[1]->WorkLocal[36], option_flags=1024*)
     → "Which item do you wish to purchase? [Common items (all ranks)."000-pt. items (rank 1 required)./4000-pt. items (rank 2 required)./8000-pt. items (rank 3 required)./16000-pt. items (rank 4 required)."4000-pt. items (rank 5 required)."2000-pt. items (rank 6 required)./40000-pt. items (rank 7 required)./48000-pt. items (rank 8 required)./56000-pt. items (rank 9 required)././Cancel.]"
 724: 0x0E10 [0x25] WAIT_DIALOG_SELECT()
 725: 0x0E11 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E1C
@@ -4111,7 +4111,7 @@ SUBROUTINE_2EF0:
 
 SUBROUTINE_2EFC:
 2395: 0x2EFC [0x02] IF !(Work_Zone_1700[12] == 0*) GOTO 0x2F16
-2396: 0x2F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
+2396: 0x2F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
     → "Currently there are no items available for that rank."
 2397: 0x2F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2398: 0x2F08 [0x05] ExtData[1]->WorkLocal[41] = 1
@@ -4183,7 +4183,7 @@ SUBROUTINE_2FFE:
 2458: 0x303E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[38], bit_index_work_offset=10*, condition_work_offset=1*)
 
 SUBROUTINE_3045:
-2459: 0x3045 [0x24] CREATE_DIALOG(message_id=8592*, default_option=ExtData[1]->WorkLocal[50], option_flags=ExtData[1]->WorkLocal[38])
+2459: 0x3045 [0x24] CREATE_DIALOG(message_id=8593*, default_option=ExtData[1]->WorkLocal[50], option_flags=ExtData[1]->WorkLocal[38])
     → "Which item do you wish to purchase? [#./$1./$2./$3./$4./$5./$6./$7./Next page./Previous page./Back.]"
 2460: 0x304C [0x25] WAIT_DIALOG_SELECT()
 2461: 0x304D [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x305E
@@ -4269,7 +4269,7 @@ SUBROUTINE_3142:
 2535: 0x3237 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[38], bit_index_work_offset=10*, condition_work_offset=1*)
 
 SUBROUTINE_323E:
-2536: 0x323E [0x24] CREATE_DIALOG(message_id=8593*, default_option=ExtData[1]->WorkLocal[50], option_flags=ExtData[1]->WorkLocal[38])
+2536: 0x323E [0x24] CREATE_DIALOG(message_id=8594*, default_option=ExtData[1]->WorkLocal[50], option_flags=ExtData[1]->WorkLocal[38])
     → "Which item do you wish to purchase? [#...$8 pts./$1...$9 pts./$2...$10 pts./$3...$11 pts./$4...$12 pts./$5...$13 pts./$6...$14 pts./$7...$15 pts./Next page./Previous page./Back.]"
 2537: 0x3245 [0x25] WAIT_DIALOG_SELECT()
 2538: 0x3246 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x3257

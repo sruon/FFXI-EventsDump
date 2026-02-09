@@ -31,66 +31,66 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1D5F      |        7519 |
-|       2 | 0x1D60      |        7520 |
-|       3 | 0x1D61      |        7521 |
-|       4 | 0x1D62      |        7522 |
-|       5 | 0x1D63      |        7523 |
+|       1 | 0x1D60      |        7520 |
+|       2 | 0x1D61      |        7521 |
+|       3 | 0x1D62      |        7522 |
+|       4 | 0x1D63      |        7523 |
+|       5 | 0x1D64      |        7524 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x1D66      |        7526 |
-|       8 | 0x1D67      |        7527 |
-|       9 | 0x1D6F      |        7535 |
-|      10 | 0x1D70      |        7536 |
-|      11 | 0x1D71      |        7537 |
+|       7 | 0x1D67      |        7527 |
+|       8 | 0x1D68      |        7528 |
+|       9 | 0x1D70      |        7536 |
+|      10 | 0x1D71      |        7537 |
+|      11 | 0x1D72      |        7538 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x1D64      |        7524 |
-|      14 | 0x1D7F      |        7551 |
-|      15 | 0x1D80      |        7552 |
-|      16 | 0x1D81      |        7553 |
-|      17 | 0x1D86      |        7558 |
-|      18 | 0x1D87      |        7559 |
-|      19 | 0x1D88      |        7560 |
-|      20 | 0x1D8E      |        7566 |
-|      21 | 0x1D8F      |        7567 |
+|      13 | 0x1D65      |        7525 |
+|      14 | 0x1D80      |        7552 |
+|      15 | 0x1D81      |        7553 |
+|      16 | 0x1D82      |        7554 |
+|      17 | 0x1D87      |        7559 |
+|      18 | 0x1D88      |        7560 |
+|      19 | 0x1D89      |        7561 |
+|      20 | 0x1D8F      |        7567 |
+|      21 | 0x1D90      |        7568 |
 |      22 | 0x00C9      |         201 |
-|      23 | 0x1D69      |        7529 |
-|      24 | 0x1D6A      |        7530 |
-|      25 | 0x1D6B      |        7531 |
-|      26 | 0x1D68      |        7528 |
-|      27 | 0x1D90      |        7568 |
-|      28 | 0x1D6C      |        7532 |
-|      29 | 0x1D6D      |        7533 |
-|      30 | 0x1D6E      |        7534 |
+|      23 | 0x1D6A      |        7530 |
+|      24 | 0x1D6B      |        7531 |
+|      25 | 0x1D6C      |        7532 |
+|      26 | 0x1D69      |        7529 |
+|      27 | 0x1D91      |        7569 |
+|      28 | 0x1D6D      |        7533 |
+|      29 | 0x1D6E      |        7534 |
+|      30 | 0x1D6F      |        7535 |
 
 ## String References
 
-- **7519**: Ah, what have we here, a new recruit? I am Fontoumant. Nothing comes in or out the Consortium's warehouses without me knowing about it.
-- **7520**: We get shipments from every land here. I can never hire enough workers to handle the load.
-- **7521**: Youngsters these days, they lack fortitude! They show up for work once or twice and they disappear. Like seabirds before a gale, they are. Leaving me holding the feathers!
-- **7522**: Ah, which reminds me. You wouldn't be needing work, would you? My gil is good, and there's much to be done.
-- **7523**: How about it? [I'll work./No, thanks.]
-- **7524**: Ach, just like the yearlings I get everyday, you are. Not a strong back in the lot of you!
-- **7526**: That's the spirit! There may be some hope for your generation, yet. Here, your first parcel!
-- **7527**: Mind you, if you lose it, I'll expect payment for the lost goods. That's my only rule.
-- **7528**: Hmm...seems you've a fondness for hauling things already! Clear out your inventory before you take on mine.
-- **7529**: I expect you to deliver a parcel before taking another. Everything in the proper order, please.
-- **7530**: Wait, you haven't lost the extremely important parcel I entrusted you with, have you?
-- **7531**: If you've lost it, you'll have to pay for the loss. Give me 100 gil then and we'll be even.
-- **7532**: Fine. Very well, I'll have to go apologize to Regine over at the Magicmart in person. Take more care, next time.
-- **7533**: Fine. Very well, I'll have to go apologize to Apstaule over at the auction house in person. Take more care, next time.
-- **7534**: Fine. Very well, I'll have to go apologize to Thierride over at the tavern in person. Take more care, next time.
-- **7535**: Your first parcel is for Regine's Magicmart.
-- **7536**: You'll find it at the end of a passage branching off from the east tunnel.
-- **7537**: Give the parcel to the shop owner, Miss Regine, if you would.
-- **7551**: This should be easy. Your next parcel is for the auction house.
-- **7552**: Walk out that door over there, and it will be right in front of your nose. You can't miss it.
-- **7553**: Give the parcel to Apstaule, understood?
-- **7558**: Finally! Your third parcel's for the pub.
-- **7559**: Go out the door below, turn left, and walk along the waterfront. You'll find the Rusty Anchor there.
-- **7560**: Deliver the parcel to a Mr. Thierride. And remember, you're on business!
-- **7566**: You did well, <Player>. That should do it for now.
-- **7567**: You've done well. Here, take this.
-- **7568**: You cannot carry any more gil.
+- **7520**: Ah, what have we here, a new recruit? I am Fontoumant. Nothing comes in or out the Consortium's warehouses without me knowing about it.
+- **7521**: We get shipments from every land here. I can never hire enough workers to handle the load.
+- **7522**: Youngsters these days, they lack fortitude! They show up for work once or twice and they disappear. Like seabirds before a gale, they are. Leaving me holding the feathers!
+- **7523**: Ah, which reminds me. You wouldn't be needing work, would you? My gil is good, and there's much to be done.
+- **7524**: How about it? [I'll work./No, thanks.]
+- **7525**: Ach, just like the yearlings I get everyday, you are. Not a strong back in the lot of you!
+- **7527**: That's the spirit! There may be some hope for your generation, yet. Here, your first parcel!
+- **7528**: Mind you, if you lose it, I'll expect payment for the lost goods. That's my only rule.
+- **7529**: Hmm...seems you've a fondness for hauling things already! Clear out your inventory before you take on mine.
+- **7530**: I expect you to deliver a parcel before taking another. Everything in the proper order, please.
+- **7531**: Wait, you haven't lost the extremely important parcel I entrusted you with, have you?
+- **7532**: If you've lost it, you'll have to pay for the loss. Give me 100 gil then and we'll be even.
+- **7533**: Fine. Very well, I'll have to go apologize to Regine over at the Magicmart in person. Take more care, next time.
+- **7534**: Fine. Very well, I'll have to go apologize to Apstaule over at the auction house in person. Take more care, next time.
+- **7535**: Fine. Very well, I'll have to go apologize to Thierride over at the tavern in person. Take more care, next time.
+- **7536**: Your first parcel is for Regine's Magicmart.
+- **7537**: You'll find it at the end of a passage branching off from the east tunnel.
+- **7538**: Give the parcel to the shop owner, Miss Regine, if you would.
+- **7552**: This should be easy. Your next parcel is for the auction house.
+- **7553**: Walk out that door over there, and it will be right in front of your nose. You can't miss it.
+- **7554**: Give the parcel to Apstaule, understood?
+- **7559**: Finally! Your third parcel's for the pub.
+- **7560**: Go out the door below, turn left, and walk along the waterfront. You'll find the Rusty Anchor there.
+- **7561**: Deliver the parcel to a Mr. Thierride. And remember, you're on business!
+- **7567**: You did well, <Player>. That should do it for now.
+- **7568**: You've done well. Here, take this.
+- **7569**: You cannot carry any more gil.
 
 ## Events
 
@@ -150,44 +150,44 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Ah, what have we here, a new recruit? I am Fontoumant. Nothing comes in or out the Consortium's warehouses without me knowing about it."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "We get shipments from every land here. I can never hire enough workers to handle the load."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x1C] WAIT(30* ticks)
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "Youngsters these days, they lack fortitude! They show up for work once or twice and they disappear. Like seabirds before a gale, they are. Leaving me holding the feathers!"
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0029 [0x1C] WAIT(30* ticks)
- 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+ 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "Ah, which reminds me. You wouldn't be needing work, would you? My gil is good, and there's much to be done."
  14: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0030 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 16: 0x0035 [0x24] CREATE_DIALOG(message_id=7523*, default_option=0*, option_flags=0*)
+ 16: 0x0035 [0x24] CREATE_DIALOG(message_id=7524*, default_option=0*, option_flags=0*)
     → "How about it? [I'll work./No, thanks.]"
  17: 0x003C [0x25] WAIT_DIALOG_SELECT()
  18: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0084
  19: 0x0045 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 20: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 20: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "That's the spirit! There may be some hope for your generation, yet. Here, your first parcel!"
  21: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0058 [0x1C] WAIT(30* ticks)
- 23: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 23: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "Mind you, if you lose it, I'll expect payment for the lost goods. That's my only rule."
  24: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x005F [0x1C] WAIT(30* ticks)
- 26: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+ 26: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "Your first parcel is for Regine's Magicmart."
  27: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0066 [0x1C] WAIT(30* ticks)
- 29: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+ 29: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "You'll find it at the end of a passage branching off from the east tunnel."
  30: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x006D [0x1C] WAIT(30* ticks)
- 32: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
+ 32: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
     → "Give the parcel to the shop owner, Miss Regine, if you would."
  33: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0074 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -196,7 +196,7 @@
  37: 0x0081 [0x01] GOTO 0x00AF
  38: 0x0084 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00AF
  39: 0x008C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 40: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+ 40: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "Ach, just like the yearlings I get everyday, you are. Not a strong back in the lot of you!"
  41: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x009F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -236,7 +236,7 @@ SUBROUTINE_00AF:
   1: 0x00B6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
+  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "This should be easy. Your next parcel is for the auction house."
   5: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -245,11 +245,11 @@ SUBROUTINE_00AF:
   9: 0x00D8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x00D9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x00DA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 12: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+ 12: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "Walk out that door over there, and it will be right in front of your nose. You can't miss it."
  13: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00ED [0x1C] WAIT(30* ticks)
- 15: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+ 15: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
     → "Give the parcel to Apstaule, understood?"
  16: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00F4 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -286,7 +286,7 @@ SUBROUTINE_00AF:
   1: 0x0103 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0104 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0105 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
+  4: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
     → "Finally! Your third parcel's for the pub."
   5: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0118 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -294,11 +294,11 @@ SUBROUTINE_00AF:
   8: 0x0120 [0x4A] LocalPlayer looks at Antreneau (ID: 17727501/0x010E800D)
   9: 0x0129 [0x1C] WAIT(30* ticks)
  10: 0x012C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 11: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
+ 11: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
     → "Go out the door below, turn left, and walk along the waterfront. You'll find the Rusty Anchor there."
  12: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x013F [0x1C] WAIT(30* ticks)
- 14: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
+ 14: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
     → "Deliver the parcel to a Mr. Thierride. And remember, you're on business!"
  15: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0146 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -336,13 +336,13 @@ SUBROUTINE_00AF:
   2: 0x0156 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0157 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0158 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  5: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
+  5: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
     → "You did well, <Player>. That should do it for now."
   6: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x016B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   8: 0x0170 [0x1C] WAIT(30* ticks)
   9: 0x0173 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=30*
- 10: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
+ 10: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "You've done well. Here, take this."
  11: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0186 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -377,7 +377,7 @@ SUBROUTINE_00AF:
   1: 0x01AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01B0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7566*)
+  4: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
     → "You did well, <Player>. That should do it for now."
   5: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01C3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -412,15 +412,15 @@ SUBROUTINE_00AF:
   1: 0x01D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+  4: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "I expect you to deliver a parcel before taking another. Everything in the proper order, please."
   5: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E7 [0x1C] WAIT(30* ticks)
-  7: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+  7: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "Wait, you haven't lost the extremely important parcel I entrusted you with, have you?"
   8: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01EE [0x1C] WAIT(30* ticks)
- 10: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+ 10: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "If you've lost it, you'll have to pay for the loss. Give me 100 gil then and we'll be even."
  11: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01F5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -455,7 +455,7 @@ SUBROUTINE_00AF:
   1: 0x0204 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0205 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0206 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  4: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "Hmm...seems you've a fondness for hauling things already! Clear out your inventory before you take on mine."
   5: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0219 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -483,7 +483,7 @@ SUBROUTINE_00AF:
 #### Opcodes
 
 ```
-  0: 0x0223 [0x48] [System] [7568*]:
+  0: 0x0223 [0x48] [System] [7569*]:
     → "You cannot carry any more gil."
   1: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0227 [0x21] END_EVENT
@@ -518,7 +518,7 @@ SUBROUTINE_00AF:
   3: 0x0231 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0232 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0233 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  6: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "Fine. Very well, I'll have to go apologize to Regine over at the Magicmart in person. Take more care, next time."
   7: 0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0246 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -555,7 +555,7 @@ SUBROUTINE_00AF:
   3: 0x025A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x025B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x025C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+  6: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "Fine. Very well, I'll have to go apologize to Apstaule over at the auction house in person. Take more care, next time."
   7: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x026F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -593,7 +593,7 @@ SUBROUTINE_00AF:
   3: 0x0283 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0284 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0285 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+  6: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "Fine. Very well, I'll have to go apologize to Thierride over at the tavern in person. Take more care, next time."
   7: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0298 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

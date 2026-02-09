@@ -30,7 +30,7 @@
 |       7 | 0x0006      |           6 |
 |       8 | 0x0007      |           7 |
 |       9 | 0x0008      |           8 |
-|      10 | 0x1ED0      |        7888 |
+|      10 | 0x1ED1      |        7889 |
 |      11 | 0x40000000  |  1073741824 |
 |      12 | 0x000B      |          11 |
 |      13 | 0x0280      |         640 |
@@ -38,16 +38,16 @@
 |      15 | 0x029E      |         670 |
 |      16 | 0x029F      |         671 |
 |      17 | 0x02A0      |         672 |
-|      18 | 0x1ED1      |        7889 |
-|      19 | 0x1ED2      |        7890 |
-|      20 | 0x1ED9      |        7897 |
-|      21 | 0x1ED3      |        7891 |
+|      18 | 0x1ED2      |        7890 |
+|      19 | 0x1ED3      |        7891 |
+|      20 | 0x1EDA      |        7898 |
+|      21 | 0x1ED4      |        7892 |
 |      22 | 0x005A      |          90 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x002D      |          45 |
 |      25 | 0x00C8      |         200 |
 |      26 | 0x000F      |          15 |
-|      27 | 0x1ED4      |        7892 |
+|      27 | 0x1ED5      |        7893 |
 |      28 | 0x003D      |          61 |
 |      29 | 0x003E      |          62 |
 |      30 | 0x003F      |          63 |
@@ -459,12 +459,12 @@
 
 ## String References
 
-- **7888**: Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7889**: Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7890**: Proceed? [Yes./No.]
-- **7891**: Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7892**: You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7897**: Your request for entry is being considered...
+- **7889**: Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7890**: Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7891**: Proceed? [Yes./No.]
+- **7892**: Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7893**: You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7898**: Your request for entry is being considered...
 
 ## Events
 
@@ -1445,7 +1445,7 @@
  17: 0x0073 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=7*, condition_work_offset=1*)
  18: 0x007A [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0089
  19: 0x0082 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=8*, condition_work_offset=1*)
- 20: 0x0089 [0x24] CREATE_DIALOG(message_id=7888*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 20: 0x0089 [0x24] CREATE_DIALOG(message_id=7889*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]"
  21: 0x0090 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0091 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A1
@@ -1501,14 +1501,14 @@ SUBROUTINE_016C:
 SUBROUTINE_01A7:
  69: 0x01A7 [0x1A] CALL_SUBROUTINE(address=0x1270)
  70: 0x01AA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 71: 0x01AF [0x48] [System] [7889*]:
+ 71: 0x01AF [0x48] [System] [7890*]:
     → "Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
  72: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x01B3 [0x24] CREATE_DIALOG(message_id=7890*, default_option=1*, option_flags=0*)
+ 73: 0x01B3 [0x24] CREATE_DIALOG(message_id=7891*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
  74: 0x01BA [0x25] WAIT_DIALOG_SELECT()
  75: 0x01BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x025A
- 76: 0x01C3 [0x48] [System] [7897*]:
+ 76: 0x01C3 [0x48] [System] [7898*]:
     → "Your request for entry is being considered..."
  77: 0x01C6 [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response (Dynamis/MMM/Salvage), mode=0x00
  78: 0x01C8 [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response with parameter (Dynamis/MMM/Salvage), param=ExtData[1]->WorkLocal[8]
@@ -1516,7 +1516,7 @@ SUBROUTINE_01A7:
  80: 0x01D1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[8])
  81: 0x01DA [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0257
  82: 0x01E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 83: 0x01E7 [0x48] [System] [7891*]:
+ 83: 0x01E7 [0x48] [System] [7892*]:
     → "Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
  84: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x01EB [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
@@ -1532,7 +1532,7 @@ SUBROUTINE_01A7:
  95: 0x0257 [0x01] GOTO 0x026D
  96: 0x025A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x026D
  97: 0x0262 [0x03] Work_Zone[1] = 1073741824*
- 98: 0x0267 [0x48] [System] [7892*]:
+ 98: 0x0267 [0x48] [System] [7893*]:
     → "You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
  99: 0x026A [0x01] GOTO 0x026D
 

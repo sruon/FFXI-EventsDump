@@ -42,9 +42,9 @@
 |      11 | 0x03AF      |         943 |
 |      12 | 0x000F      |          15 |
 |      13 | 0x003C      |          60 |
-|      14 | 0x1D02      |        7426 |
+|      14 | 0x1D03      |        7427 |
 |      15 | 0x0960      |        2400 |
-|      16 | 0x1D03      |        7427 |
+|      16 | 0x1D04      |        7428 |
 |      17 | 0x2180E     |      137230 |
 |      18 | 0xFFFFF532  |  4294964530 |
 |      19 | 0x0677      |        1655 |
@@ -55,8 +55,8 @@
 
 ## String References
 
-- **7426**: The North Gate and Beligen Square are down these stairs. Cross the drawbridge from the square if you want to get to the residential area.
-- **7427**: Go straight west and you'll come across a goods store and the tavern. Further west is the road leading to the Markets District.
+- **7427**: The North Gate and Beligen Square are down these stairs. Cross the drawbridge from the square if you want to get to the residential area.
+- **7428**: Go straight west and you'll come across a goods store and the tavern. Further west is the road leading to the Markets District.
 
 ## Events
 
@@ -188,14 +188,14 @@
   0: 0x0038 [0x39] SET_ENTITY_DIRECTION(direction=5.2°*)
   1: 0x003B [0x1C] WAIT(15* ticks)
   2: 0x003E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [Tiger Tooth (ID: 17743878/0x010EC006), Tiger Tooth (ID: 17743878/0x010EC006)], work=60*
-  3: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+  3: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "The North Gate and Beligen Square are down these stairs. Cross the drawbridge from the square if you want to get to the residential area."
   4: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0051 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [Tiger Tooth (ID: 17743878/0x010EC006), Tiger Tooth (ID: 17743878/0x010EC006)]
   6: 0x005E [0x39] SET_ENTITY_DIRECTION(direction=13.2°*)
   7: 0x0061 [0x1C] WAIT(15* ticks)
   8: 0x0064 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [Tiger Tooth (ID: 17743878/0x010EC006), Tiger Tooth (ID: 17743878/0x010EC006)], work=60*
-  9: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+  9: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "Go straight west and you'll come across a goods store and the tavern. Further west is the road leading to the Markets District."
  10: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0077 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [Tiger Tooth (ID: 17743878/0x010EC006), Tiger Tooth (ID: 17743878/0x010EC006)]

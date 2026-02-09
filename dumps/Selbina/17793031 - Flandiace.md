@@ -22,36 +22,36 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1A20      |        6688 |
-|       2 | 0x1A21      |        6689 |
+|       1 | 0x1A21      |        6689 |
+|       2 | 0x1A22      |        6690 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1A22      |        6690 |
+|       4 | 0x1A23      |        6691 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x003C      |          60 |
 |       7 | 0x0094      |         148 |
-|       8 | 0x1A23      |        6691 |
+|       8 | 0x1A24      |        6692 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1A24      |        6692 |
-|      11 | 0x1A25      |        6693 |
+|      10 | 0x1A25      |        6693 |
+|      11 | 0x1A26      |        6694 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x1B5A      |        7002 |
-|      15 | 0x1B5B      |        7003 |
-|      16 | 0x1B5C      |        7004 |
-|      17 | 0x1B5D      |        7005 |
+|      14 | 0x1B5B      |        7003 |
+|      15 | 0x1B5C      |        7004 |
+|      16 | 0x1B5D      |        7005 |
+|      17 | 0x1B5E      |        7006 |
 
 ## String References
 
-- **6688**: Hello there. Is this your first visit to our fine town?
-- **6689**: Well, is it? [Why, yes./No, I come here all the time.]
-- **6690**: Yes, I thought as much. You'd best head to the mayor's office.
-- **6691**: Trot down towards the shore and take the first stairway. Turn right, follow the wall, and there it will be.
-- **6692**: Is that a fact? I never forget a face. Oh well. Never mind.
-- **6693**: Have you been to see the mayor? If not, you should!
-- **7002**: Our village may be small, but so many stop here to rest on the road between Bastok and San d'Oria.
-- **7003**: Sorry, the station is for militia personnel only.
-- **7004**: If you're heading outside, remember that there's safety in numbers. Gather people of different talents to cover any weaknesses.
-- **7005**: If you're here for the ship, the docks are straight down the stairs from here.
+- **6689**: Hello there. Is this your first visit to our fine town?
+- **6690**: Well, is it? [Why, yes./No, I come here all the time.]
+- **6691**: Yes, I thought as much. You'd best head to the mayor's office.
+- **6692**: Trot down towards the shore and take the first stairway. Turn right, follow the wall, and there it will be.
+- **6693**: Is that a fact? I never forget a face. Oh well. Never mind.
+- **6694**: Have you been to see the mayor? If not, you should!
+- **7003**: Our village may be small, but so many stop here to rest on the road between Bastok and San d'Oria.
+- **7004**: Sorry, the station is for militia personnel only.
+- **7005**: If you're heading outside, remember that there's safety in numbers. Gather people of different talents to cover any weaknesses.
+- **7006**: If you're here for the ship, the docks are straight down the stairs from here.
 
 ## Events
 
@@ -117,17 +117,17 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6688*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6689*)
     → "Hello there. Is this your first visit to our fine town?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x0020 [0x24] CREATE_DIALOG(message_id=6689*, default_option=0*, option_flags=0*)
+  7: 0x0020 [0x24] CREATE_DIALOG(message_id=6690*, default_option=0*, option_flags=0*)
     → "Well, is it? [Why, yes./No, I come here all the time.]"
   8: 0x0027 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0028 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
  10: 0x0030 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x0031 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6690*)
+ 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6691*)
     → "Yes, I thought as much. You'd best head to the mayor's office."
  13: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0044 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -137,7 +137,7 @@
  18: 0x0069 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se02" with entities [LocalPlayer, LocalPlayer], work=[148*, 0*]
  19: 0x007A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  20: 0x008B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 21: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=6691*)
+ 21: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=6692*)
     → "Trot down towards the shore and take the first stairway. Turn right, follow the wall, and there it will be."
  22: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x009E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se02" with entities [LocalPlayer, LocalPlayer], work=148*
@@ -150,10 +150,10 @@
  30: 0x00F2 [0x01] GOTO 0x0117
  31: 0x00F5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0117
  32: 0x00FD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 33: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=6692*)
+ 33: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=6693*)
     → "Is that a fact? I never forget a face. Oh well. Never mind."
  34: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=6693*)
+ 35: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=6694*)
     → "Have you been to see the mayor? If not, you should!"
  36: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0114 [0x01] GOTO 0x0117
@@ -195,22 +195,22 @@ SUBROUTINE_0117:
   3: 0x0129 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x012A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   5: 0x0139 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0148
-  6: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7002*)
+  6: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7003*)
     → "Our village may be small, but so many stop here to rest on the road between Bastok and San d'Oria."
   7: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0145 [0x01] GOTO 0x0175
   9: 0x0148 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0157
- 10: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7003*)
+ 10: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7004*)
     → "Sorry, the station is for militia personnel only."
  11: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0154 [0x01] GOTO 0x0175
  13: 0x0157 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0166
- 14: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7004*)
+ 14: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7005*)
     → "If you're heading outside, remember that there's safety in numbers. Gather people of different talents to cover any weaknesses."
  15: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0163 [0x01] GOTO 0x0175
  17: 0x0166 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0175
- 18: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=7005*)
+ 18: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=7006*)
     → "If you're here for the ship, the docks are straight down the stairs from here."
  19: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0172 [0x01] GOTO 0x0175

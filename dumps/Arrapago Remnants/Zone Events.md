@@ -52,7 +52,7 @@
 |       7 | 0x00AA      |         170 |
 |       8 | 0x001E      |          30 |
 |       9 | 0x0078      |         120 |
-|      10 | 0x1D33      |        7475 |
+|      10 | 0x1D34      |        7476 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x668A0     |      420000 |
 |      13 | 0x2BF20     |      180000 |
@@ -74,7 +74,7 @@
 |      29 | 0xFFFFB1E0  |  4294947296 |
 |      30 | 0x35B60     |      220000 |
 |      31 | 0x975E0     |      620000 |
-|      32 | 0x1D35      |        7477 |
+|      32 | 0x1D36      |        7478 |
 |      33 | 0x000F      |          15 |
 |      34 | 0x0010      |          16 |
 |      35 | 0x001F      |          31 |
@@ -86,13 +86,13 @@
 |      41 | 0x0007      |           7 |
 |      42 | 0x0008      |           8 |
 |      43 | 0xFFFFFFFF  |  4294967295 |
-|      44 | 0x1C4F      |        7247 |
+|      44 | 0x1C50      |        7248 |
 
 ## String References
 
-- **7247**: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
-- **7475**: Use the device? [Yes./No.]
-- **7477**: Open the door? [Yes./No.]
+- **7248**: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
+- **7476**: Use the device? [Yes./No.]
+- **7478**: Open the door? [Yes./No.]
 
 ## Events
 
@@ -398,7 +398,7 @@ SUBROUTINE_0148:
 
 ```
   0: 0x0173 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0175 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x0175 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x017C [0x25] WAIT_DIALOG_SELECT()
   3: 0x017D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AC
@@ -445,7 +445,7 @@ SUBROUTINE_01B7:
 
 ```
   0: 0x01BB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x01BD [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x01BD [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x01C4 [0x25] WAIT_DIALOG_SELECT()
   3: 0x01C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F4
@@ -491,7 +491,7 @@ SUBROUTINE_01FF:
 
 ```
   0: 0x0203 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0205 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x0205 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x020C [0x25] WAIT_DIALOG_SELECT()
   3: 0x020D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023C
@@ -538,7 +538,7 @@ SUBROUTINE_0247:
 
 ```
   0: 0x024B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x024D [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x024D [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0254 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0255 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0284
@@ -584,7 +584,7 @@ SUBROUTINE_028F:
 
 ```
   0: 0x0293 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0295 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x0295 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x029C [0x25] WAIT_DIALOG_SELECT()
   3: 0x029D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02CC
@@ -631,7 +631,7 @@ SUBROUTINE_02D7:
 
 ```
   0: 0x02DB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02DD [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x02DD [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x02E4 [0x25] WAIT_DIALOG_SELECT()
   3: 0x02E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0314
@@ -677,7 +677,7 @@ SUBROUTINE_031F:
 
 ```
   0: 0x0323 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0325 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x0325 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x032C [0x25] WAIT_DIALOG_SELECT()
   3: 0x032D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035C
@@ -724,7 +724,7 @@ SUBROUTINE_0367:
 
 ```
   0: 0x036B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x036D [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x036D [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0374 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0375 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A4
@@ -770,7 +770,7 @@ SUBROUTINE_03AF:
 
 ```
   0: 0x03B3 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x03B5 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x03B5 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x03BC [0x25] WAIT_DIALOG_SELECT()
   3: 0x03BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03EC
@@ -817,7 +817,7 @@ SUBROUTINE_03F7:
 
 ```
   0: 0x03FB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x03FD [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x03FD [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0404 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0405 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0434
@@ -864,7 +864,7 @@ SUBROUTINE_043F:
 
 ```
   0: 0x0443 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0445 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x0445 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x044C [0x25] WAIT_DIALOG_SELECT()
   3: 0x044D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0483
@@ -909,7 +909,7 @@ SUBROUTINE_048E:
 
 ```
   0: 0x0492 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0494 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x0494 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x049B [0x25] WAIT_DIALOG_SELECT()
   3: 0x049C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B1
@@ -951,7 +951,7 @@ SUBROUTINE_04BC:
 
 ```
   0: 0x04C0 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x04C2 [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+  1: 0x04C2 [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x04C9 [0x25] WAIT_DIALOG_SELECT()
   3: 0x04CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0500
@@ -996,7 +996,7 @@ SUBROUTINE_050B:
 
 ```
   0: 0x050F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0511 [0x24] CREATE_DIALOG(message_id=7477*, default_option=1*, option_flags=0*)
+  1: 0x0511 [0x24] CREATE_DIALOG(message_id=7478*, default_option=1*, option_flags=0*)
     → "Open the door? [Yes./No.]"
   2: 0x0518 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0519 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x052A
@@ -1116,7 +1116,7 @@ SUBROUTINE_052A:
  51: 0x0690 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=8*, condition_work_offset=1*)
  52: 0x0697 [0x03] ExtData[1]->WorkLocal[1] = 4294967295*
  53: 0x069C [0x0F] ExtData[1]->WorkLocal[1] ^= ExtData[1]->WorkLocal[0]
- 54: 0x06A1 [0x24] CREATE_DIALOG(message_id=7247*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 54: 0x06A1 [0x24] CREATE_DIALOG(message_id=7248*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]"
  55: 0x06A8 [0x25] WAIT_DIALOG_SELECT()
  56: 0x06A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06B9

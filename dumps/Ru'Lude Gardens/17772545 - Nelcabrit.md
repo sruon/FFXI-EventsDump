@@ -43,30 +43,30 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x270B      |        9995 |
-|       2 | 0x270E      |        9998 |
-|       3 | 0x270F      |        9999 |
+|       1 | 0x270C      |        9996 |
+|       2 | 0x270F      |        9999 |
+|       3 | 0x2710      |       10000 |
 |       4 | 0x0014      |          20 |
-|       5 | 0x2740      |       10048 |
-|       6 | 0x2741      |       10049 |
-|       7 | 0x2746      |       10054 |
-|       8 | 0x275B      |       10075 |
-|       9 | 0x275E      |       10078 |
-|      10 | 0x2761      |       10081 |
-|      11 | 0x2783      |       10115 |
-|      12 | 0x279C      |       10140 |
-|      13 | 0x279D      |       10141 |
-|      14 | 0x27BF      |       10175 |
+|       5 | 0x2741      |       10049 |
+|       6 | 0x2742      |       10050 |
+|       7 | 0x2747      |       10055 |
+|       8 | 0x275C      |       10076 |
+|       9 | 0x275F      |       10079 |
+|      10 | 0x2762      |       10082 |
+|      11 | 0x2784      |       10116 |
+|      12 | 0x279D      |       10141 |
+|      13 | 0x279E      |       10142 |
+|      14 | 0x27C0      |       10176 |
 |      15 | 0x0015      |          21 |
 |      16 | 0x005A      |          90 |
 |      17 | 0x0023      |          35 |
 |      18 | 0x00C9      |         201 |
 |      19 | 0x0000      |           0 |
 |      20 | 0x00D2      |         210 |
-|      21 | 0x27C0      |       10176 |
-|      22 | 0x27C1      |       10177 |
-|      23 | 0x27C2      |       10178 |
-|      24 | 0x27C3      |       10179 |
+|      21 | 0x27C1      |       10177 |
+|      22 | 0x27C2      |       10178 |
+|      23 | 0x27C3      |       10179 |
+|      24 | 0x27C4      |       10180 |
 |      25 | 0x00F0      |         240 |
 |      26 | 0xFFFF81AC  |  4294934956 |
 |      27 | 0xFFFEFE46  |  4294901318 |
@@ -78,23 +78,23 @@
 
 ## String References
 
-- **9995**: Welcome to the Embassy of San d'Oria. If you ever need help during your stay, do not hesitate to contact us.
-- **9998**: Welcome to the Embassy of San d'Oria. Ah, I can see you're a Bastoker... The Embassy of Bastok is outside to the right.
-- **9999**: Welcome to the Embassy of San d'Oria. But you're a Windurstian, are you not? The Embassy of Windurst is out on the other side.
-- **10048**: Delkfutt's Tower is on the island of Qufim. Avail yourself of the merchants in town, and assemble a party of fellow adventurers.
-- **10049**: Foul beasts lurk around every corner. Be on your guard.
-- **10054**: Welcome back. Her Excellency has returned and is waiting for you. Come, proceed into her office.
-- **10075**: For the time being, apply your efforts to our righteous conquest of the regions adjacent to Jeuno.
-- **10078**: Well met, <Player>. Her Excellency requires your service. Once you have completed your current mission, return and seek an audience with her.
-- **10081**: Her Excellency requires help in an important matter. Proceed, and listen well.
-- **10115**: Our prayers are with you. Now, make haste to the archduke's palace!
-- **10140**: Excellent work. How fares the archduke?
-- **10141**: He wants you to gather the magicite? I know nothing about objects of lore, but perhaps you should try learning more about Davoi, Beadeaux, and Castle Oztroja.
-- **10175**: <Player>! At long last you return! Congratulations on your success!
-- **10176**: I regret you have no time for reprieve. Our beloved San d'Oria is in danger!
-- **10177**: Her Excellency is away, so please take this to the court in her stead. Take the airship! I will remain and do what I can.
-- **10178**: Make haste to San d'Oria! You can board the airship now, can you not? I will remain here and find out what I can.
-- **10179**: Well, I am relieved there was no danger. Our embassy is safe as well. For now, obey the court's commands.
+- **9996**: Welcome to the Embassy of San d'Oria. If you ever need help during your stay, do not hesitate to contact us.
+- **9999**: Welcome to the Embassy of San d'Oria. Ah, I can see you're a Bastoker... The Embassy of Bastok is outside to the right.
+- **10000**: Welcome to the Embassy of San d'Oria. But you're a Windurstian, are you not? The Embassy of Windurst is out on the other side.
+- **10049**: Delkfutt's Tower is on the island of Qufim. Avail yourself of the merchants in town, and assemble a party of fellow adventurers.
+- **10050**: Foul beasts lurk around every corner. Be on your guard.
+- **10055**: Welcome back. Her Excellency has returned and is waiting for you. Come, proceed into her office.
+- **10076**: For the time being, apply your efforts to our righteous conquest of the regions adjacent to Jeuno.
+- **10079**: Well met, <Player>. Her Excellency requires your service. Once you have completed your current mission, return and seek an audience with her.
+- **10082**: Her Excellency requires help in an important matter. Proceed, and listen well.
+- **10116**: Our prayers are with you. Now, make haste to the archduke's palace!
+- **10141**: Excellent work. How fares the archduke?
+- **10142**: He wants you to gather the magicite? I know nothing about objects of lore, but perhaps you should try learning more about Davoi, Beadeaux, and Castle Oztroja.
+- **10176**: <Player>! At long last you return! Congratulations on your success!
+- **10177**: I regret you have no time for reprieve. Our beloved San d'Oria is in danger!
+- **10178**: Her Excellency is away, so please take this to the court in her stead. Take the airship! I will remain and do what I can.
+- **10179**: Make haste to San d'Oria! You can board the airship now, can you not? I will remain here and find out what I can.
+- **10180**: Well, I am relieved there was no danger. Our embassy is safe as well. For now, obey the court's commands.
 
 ## Events
 
@@ -143,7 +143,7 @@
 ```
   0: 0x0004 [0x4A] LocalPlayer looks at EventEntity
   1: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9995*)
+  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9996*)
     → "Welcome to the Embassy of San d'Oria. If you ever need help during your stay, do not hesitate to contact us."
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0016 [0x21] END_EVENT
@@ -172,7 +172,7 @@
 ```
   0: 0x0018 [0x4A] LocalPlayer looks at EventEntity
   1: 0x0021 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=9998*)
+  2: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=9999*)
     → "Welcome to the Embassy of San d'Oria. Ah, I can see you're a Bastoker... The Embassy of Bastok is outside to the right."
   3: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x002A [0x21] END_EVENT
@@ -201,7 +201,7 @@
 ```
   0: 0x002C [0x4A] LocalPlayer looks at EventEntity
   1: 0x0035 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=9999*)
+  2: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=10000*)
     → "Welcome to the Embassy of San d'Oria. But you're a Windurstian, are you not? The Embassy of Windurst is out on the other side."
   3: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x003E [0x21] END_EVENT
@@ -256,10 +256,10 @@
   2: 0x004F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0050 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0051 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=10048*)
+  5: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=10049*)
     → "Delkfutt's Tower is on the island of Qufim. Avail yourself of the merchants in town, and assemble a party of fellow adventurers."
   6: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=10049*)
+  7: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=10050*)
     → "Foul beasts lurk around every corner. Be on your guard."
   8: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0068 [0x21] END_EVENT
@@ -292,7 +292,7 @@
   2: 0x0078 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0079 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x007A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10054*)
+  5: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10055*)
     → "Welcome back. Her Excellency has returned and is waiting for you. Come, proceed into her office."
   6: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x008D [0x21] END_EVENT
@@ -326,7 +326,7 @@
   2: 0x009D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x009E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x009F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10075*)
+  5: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10076*)
     → "For the time being, apply your efforts to our righteous conquest of the regions adjacent to Jeuno."
   6: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B2 [0x21] END_EVENT
@@ -359,7 +359,7 @@
   2: 0x00C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00C3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10078*)
+  5: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10079*)
     → "Well met, <Player>. Her Excellency requires your service. Once you have completed your current mission, return and seek an audience with her."
   6: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00D7 [0x21] END_EVENT
@@ -392,7 +392,7 @@
   2: 0x00E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10081*)
+  5: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10082*)
     → "Her Excellency requires help in an important matter. Proceed, and listen well."
   6: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00FC [0x21] END_EVENT
@@ -448,7 +448,7 @@
   2: 0x010D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x010E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x010F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=10115*)
+  5: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=10116*)
     → "Our prayers are with you. Now, make haste to the archduke's palace!"
   6: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0122 [0x21] END_EVENT
@@ -482,11 +482,11 @@
   2: 0x0132 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0133 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0134 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
+  5: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
     → "Excellent work. How fares the archduke?"
   6: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0147 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  8: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
+  8: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
     → "He wants you to gather the magicite? I know nothing about objects of lore, but perhaps you should try learning more about Davoi, Beadeaux, and Castle Oztroja."
   9: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x015A [0x21] END_EVENT
@@ -524,7 +524,7 @@
   2: 0x015F [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0164 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0165 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10175*)
+  5: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10176*)
     → "<Player>! At long last you return! Congratulations on your success!"
   6: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x016A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [EventEntity, EventEntity], work=21*
@@ -533,12 +533,12 @@
  10: 0x017F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  11: 0x0190 [0x1C] WAIT(210* ticks)
  12: 0x0193 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [EventEntity, EventEntity]
- 13: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10176*)
+ 13: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
     → "I regret you have no time for reprieve. Our beloved San d'Oria is in danger!"
  14: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
  16: 0x01B3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 17: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
+ 17: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10178*)
     → "Her Excellency is away, so please take this to the court in her stead. Take the airship! I will remain and do what I can."
  18: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x01C4 [0x21] END_EVENT
@@ -570,7 +570,7 @@
   1: 0x01CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10178*)
+  4: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
     → "Make haste to San d'Oria! You can board the airship now, can you not? I will remain here and find out what I can."
   5: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E0 [0x21] END_EVENT
@@ -601,7 +601,7 @@
   1: 0x01E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
+  4: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10180*)
     → "Well, I am relieved there was no danger. Our embassy is safe as well. For now, obey the court's commands."
   5: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01FC [0x21] END_EVENT

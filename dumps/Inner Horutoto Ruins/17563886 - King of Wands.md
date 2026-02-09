@@ -27,11 +27,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00B5      |         181 |
-|       1 | 0x1C9F      |        7327 |
+|       1 | 0x1CA0      |        7328 |
 
 ## String References
 
-- **7327**: Go back from where you came!
+- **7328**: Go back from where you came!
 
 ## Events
 
@@ -217,7 +217,7 @@
 #### Opcodes
 
 ```
-  0: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
+  0: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
     → "Go back from where you came!"
   1: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0048 [0x00] END_REQSTACK()

@@ -47,46 +47,46 @@
 |       5 | 0x0007      |           7 |
 |       6 | 0x000E      |          14 |
 |       7 | 0x086D      |        2157 |
-|       8 | 0x1D5E      |        7518 |
+|       8 | 0x1D5F      |        7519 |
 |       9 | 0x0350      |         848 |
 |      10 | 0x0F5F      |        3935 |
 |      11 | 0x0F5B      |        3931 |
-|      12 | 0x1D5F      |        7519 |
-|      13 | 0x1D60      |        7520 |
-|      14 | 0x1D61      |        7521 |
-|      15 | 0x1D62      |        7522 |
-|      16 | 0x1D63      |        7523 |
-|      17 | 0x1D64      |        7524 |
+|      12 | 0x1D60      |        7520 |
+|      13 | 0x1D61      |        7521 |
+|      14 | 0x1D62      |        7522 |
+|      15 | 0x1D63      |        7523 |
+|      16 | 0x1D64      |        7524 |
+|      17 | 0x1D65      |        7525 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x0000      |           0 |
 |      20 | 0x003C      |          60 |
-|      21 | 0x1D65      |        7525 |
-|      22 | 0x1D66      |        7526 |
-|      23 | 0x1D67      |        7527 |
-|      24 | 0x1D68      |        7528 |
-|      25 | 0x1D6B      |        7531 |
-|      26 | 0x1D6C      |        7532 |
-|      27 | 0x1D6D      |        7533 |
+|      21 | 0x1D66      |        7526 |
+|      22 | 0x1D67      |        7527 |
+|      23 | 0x1D68      |        7528 |
+|      24 | 0x1D69      |        7529 |
+|      25 | 0x1D6C      |        7532 |
+|      26 | 0x1D6D      |        7533 |
+|      27 | 0x1D6E      |        7534 |
 |      28 | 0x00C9      |         201 |
-|      29 | 0x1D6E      |        7534 |
+|      29 | 0x1D6F      |        7535 |
 
 ## String References
 
-- **7518**: You think I would have some work to do for one of your ilk? Bah. I only deal with those who have $6 from the Pioneers' Coalition in Western Adoulin.
-- **7519**: You are a pioneer, are you not? Surely you must have laid eyes on the noxious fumes rising up from the Zoldeff River while on duty!
-- **7520**: They pose an obstacle, though not an unsurmountable one, for pioneer expeditions in the area. In fact, the Inventors' Coalition has devised portable boats to aid in crossing the river.
-- **7521**: Yet all things come with a price. In this case, you will have to procure the materials yourself. Do that, and I will create such a device to assist you in traversing the toxic tributary.
-- **7522**: Three $0 and one $1 and $2 each should be sufficient.
-- **7523**: Do this for me, and I will construct a boat the likes of which you have never seen!
-- **7524**: Finished already? That was quicker than I had anticipated. Hold on one moment, and I shall craft your reward.
-- **7525**: It is done. Yet do not think a boat alone is sufficient for transport--you must first learn how to use it properly if you are to keep yourself safe.
-- **7526**: Of course, practice makes perfect. Take your boat, cross the river once, and come back to me.
-- **7527**: Boats are merely vessels for navigating the water. You must feel the currents, understand the eddies, and master the waves if you are to brave the river.
-- **7528**: Cast off from the bank here, make your way to the other side, and return.
-- **7531**: Boating is not merely about paddling, but also about controlling your center of gravity so as not to capsize. Have you learned this in your nautical jaunt?
-- **7532**: ...Well done! From here, it is but a simple task to find where to set sail and lay anchor.
-- **7533**: I am duly impressed with your skill and tenacity. Few are able to cross such venomous waters.
-- **7534**: It is difficult to express with words the wondrous feeling of becoming one with your watercraft. The dangerous poisons in this river should pose no more of a threat than if you were sailing on a stream of afternoon tea.
+- **7519**: You think I would have some work to do for one of your ilk? Bah. I only deal with those who have $6 from the Pioneers' Coalition in Western Adoulin.
+- **7520**: You are a pioneer, are you not? Surely you must have laid eyes on the noxious fumes rising up from the Zoldeff River while on duty!
+- **7521**: They pose an obstacle, though not an unsurmountable one, for pioneer expeditions in the area. In fact, the Inventors' Coalition has devised portable boats to aid in crossing the river.
+- **7522**: Yet all things come with a price. In this case, you will have to procure the materials yourself. Do that, and I will create such a device to assist you in traversing the toxic tributary.
+- **7523**: Three $0 and one $1 and $2 each should be sufficient.
+- **7524**: Do this for me, and I will construct a boat the likes of which you have never seen!
+- **7525**: Finished already? That was quicker than I had anticipated. Hold on one moment, and I shall craft your reward.
+- **7526**: It is done. Yet do not think a boat alone is sufficient for transport--you must first learn how to use it properly if you are to keep yourself safe.
+- **7527**: Of course, practice makes perfect. Take your boat, cross the river once, and come back to me.
+- **7528**: Boats are merely vessels for navigating the water. You must feel the currents, understand the eddies, and master the waves if you are to brave the river.
+- **7529**: Cast off from the bank here, make your way to the other side, and return.
+- **7532**: Boating is not merely about paddling, but also about controlling your center of gravity so as not to capsize. Have you learned this in your nautical jaunt?
+- **7533**: ...Well done! From here, it is but a simple task to find where to set sail and lay anchor.
+- **7534**: I am duly impressed with your skill and tenacity. Few are able to cross such venomous waters.
+- **7535**: It is difficult to express with words the wondrous feeling of becoming one with your watercraft. The dangerous poisons in this river should pose no more of a threat than if you were sailing on a stream of afternoon tea.
 
 ## Events
 
@@ -458,7 +458,7 @@
   2: 0x00F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F5 [0x27] REQ_SET(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x01)
   4: 0x00FC [0x03] Work_Zone[2] = 2157*
-  5: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  5: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "You think I would have some work to do for one of your ilk? Bah. I only deal with those who have $6 from the Pioneers' Coalition in Western Adoulin."
   6: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0105 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Choubollet (ID: 17850926/0x0110622E))
@@ -500,25 +500,25 @@
   5: 0x011A [0x03] Work_Zone[3] = 3935*
   6: 0x011F [0x03] Work_Zone[4] = 3931*
   7: 0x0124 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x02)
-  8: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  8: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "You are a pioneer, are you not? Surely you must have laid eyes on the noxious fumes rising up from the Zoldeff River while on duty!"
   9: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x012F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x03)
  11: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x04)
- 12: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+ 12: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "They pose an obstacle, though not an unsurmountable one, for pioneer expeditions in the area. In fact, the Inventors' Coalition has devised portable boats to aid in crossing the river."
  13: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0141 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x05)
  15: 0x0148 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x06)
- 16: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+ 16: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "Yet all things come with a price. In this case, you will have to procure the materials yourself. Do that, and I will create such a device to assist you in traversing the toxic tributary."
  17: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+ 18: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "Three $0 and one $1 and $2 each should be sufficient."
  19: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x07)
  21: 0x015E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x08)
- 22: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+ 22: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "Do this for me, and I will construct a boat the likes of which you have never seen!"
  23: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0169 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x09)
@@ -554,10 +554,10 @@
   4: 0x017E [0x03] Work_Zone[3] = 3935*
   5: 0x0183 [0x03] Work_Zone[4] = 3931*
   6: 0x0188 [0x27] REQ_SET(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x01)
-  7: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+  7: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "Three $0 and one $1 and $2 each should be sufficient."
   8: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  9: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "Do this for me, and I will construct a boat the likes of which you have never seen!"
  10: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0197 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Choubollet (ID: 17850926/0x0110622E))
@@ -597,7 +597,7 @@
   2: 0x01A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01A7 [0x27] REQ_SET(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x0D)
-  5: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  5: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "Finished already? That was quicker than I had anticipated. Hold on one moment, and I shall craft your reward."
   6: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -606,11 +606,11 @@
  10: 0x01D5 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Choubollet (ID: 17850926/0x0110622E))
  11: 0x01DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  12: 0x01EC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 13: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+ 13: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "It is done. Yet do not think a boat alone is sufficient for transport--you must first learn how to use it properly if you are to keep yourself safe."
  14: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01FF [0x27] REQ_SET(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x0A)
- 16: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 16: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "Of course, practice makes perfect. Take your boat, cross the river once, and come back to me."
  17: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x020A [0x2A] GET_REQ_LEVEL(level=8, entity_id=Choubollet (ID: 17850926/0x0110622E))
@@ -642,10 +642,10 @@
   1: 0x0217 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0218 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0219 [0x27] REQ_SET(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x01)
-  4: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+  4: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "Boats are merely vessels for navigating the water. You must feel the currents, understand the eddies, and master the waves if you are to brave the river."
   5: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  6: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "Cast off from the bank here, make your way to the other side, and return."
   7: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0228 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Choubollet (ID: 17850926/0x0110622E))
@@ -681,15 +681,15 @@
   2: 0x0236 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0237 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0238 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x06)
-  5: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  5: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "Boating is not merely about paddling, but also about controlling your center of gravity so as not to capsize. Have you learned this in your nautical jaunt?"
   6: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  7: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "...Well done! From here, it is but a simple task to find where to set sail and lay anchor."
   8: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0247 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x07)
  10: 0x024E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x08)
- 11: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+ 11: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "I am duly impressed with your skill and tenacity. Few are able to cross such venomous waters."
  12: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0259 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x09)
@@ -722,7 +722,7 @@
   1: 0x0278 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0279 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x027A [0x27] REQ_SET(priority=0x08, entity_id=Choubollet (ID: 17850926/0x0110622E), tag_num=0x01)
-  4: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+  4: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "It is difficult to express with words the wondrous feeling of becoming one with your watercraft. The dangerous poisons in this river should pose no more of a threat than if you were sailing on a stream of afternoon tea."
   5: 0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0285 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Choubollet (ID: 17850926/0x0110622E))

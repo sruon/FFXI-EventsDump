@@ -24,15 +24,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F4A      |       12106 |
-|       1 | 0x2F4B      |       12107 |
-|       2 | 0x2ACB      |       10955 |
+|       0 | 0x2F4B      |       12107 |
+|       1 | 0x2F4C      |       12108 |
+|       2 | 0x2ACC      |       10956 |
 
 ## String References
 
-- **10955**: A charm from the Young Griffons? Splendid! I shall wear it into battle with pride. Send my thanks to those thoughtful lads!
-- **12106**: That rich, black plumage. Those sturdy, sure legs. Not like those scrawny green and blue chocobos you see the other nations turning out, huh?
-- **12107**: San d'Orian chocobos are of the finest breeding. It goes without saying that our birds are far superior to those of Windurst and Bastok.
+- **10956**: A charm from the Young Griffons? Splendid! I shall wear it into battle with pride. Send my thanks to those thoughtful lads!
+- **12107**: That rich, black plumage. Those sturdy, sure legs. Not like those scrawny green and blue chocobos you see the other nations turning out, huh?
+- **12108**: San d'Orian chocobos are of the finest breeding. It goes without saying that our birds are far superior to those of Windurst and Bastok.
 
 ## Events
 
@@ -78,10 +78,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "That rich, black plumage. Those sturdy, sure legs. Not like those scrawny green and blue chocobos you see the other nations turning out, huh?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
     → "San d'Orian chocobos are of the finest breeding. It goes without saying that our birds are far superior to those of Windurst and Bastok."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -109,7 +109,7 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10955*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10956*)
     → "A charm from the Young Griffons? Splendid! I shall wear it into battle with pride. Send my thanks to those thoughtful lads!"
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x21] END_EVENT

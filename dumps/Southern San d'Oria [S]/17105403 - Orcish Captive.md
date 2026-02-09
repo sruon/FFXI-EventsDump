@@ -24,11 +24,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F4C      |       12108 |
+|       0 | 0x2F4D      |       12109 |
 
 ## String References
 
-- **12108**: Bakgodek vegbreg... Come soon... You die all...
+- **12109**: Bakgodek vegbreg... Come soon... You die all...
 
 ## Events
 
@@ -117,7 +117,7 @@
 #### Opcodes
 
 ```
-  0: 0x0003 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
+  0: 0x0003 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "Bakgodek vegbreg... Come soon... You die all..."
   1: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0007 [0x21] END_EVENT

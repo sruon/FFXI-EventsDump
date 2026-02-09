@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA6      |        7334 |
+|       0 | 0x1CA7      |        7335 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1CA8      |        7336 |
+|       3 | 0x1CA9      |        7337 |
 
 ## String References
 
-- **7334**: Lower the switch? [Yes./No.]
-- **7336**: Raise the switch? [Yes./No.]
+- **7335**: Lower the switch? [Yes./No.]
+- **7337**: Raise the switch? [Yes./No.]
 
 ## Events
 
@@ -76,7 +76,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7334*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7335*, default_option=0*, option_flags=0*)
     → "Lower the switch? [Yes./No.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -113,7 +113,7 @@ SUBROUTINE_0029:
 #### Opcodes
 
 ```
-  0: 0x002B [0x24] CREATE_DIALOG(message_id=7336*, default_option=0*, option_flags=0*)
+  0: 0x002B [0x24] CREATE_DIALOG(message_id=7337*, default_option=0*, option_flags=0*)
     → "Raise the switch? [Yes./No.]"
   1: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0043

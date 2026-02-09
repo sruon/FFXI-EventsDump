@@ -22,15 +22,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E0C      |        7692 |
-|       1 | 0x1E0D      |        7693 |
-|       2 | 0x1E0E      |        7694 |
+|       0 | 0x1E0D      |        7693 |
+|       1 | 0x1E0E      |        7694 |
+|       2 | 0x1E0F      |        7695 |
 
 ## String References
 
-- **7692**: This particular tome describes a certain type of vegetation labeled by scholars as the "Ulbukan Greatwood."
-- **7693**: Supposedly there existed a certain tree of stupendous height some-odd centuries ago. At least that is what leading researchers in the field propose.
-- **7694**: They cite the myriad roots of abnormal size scattered across the continent as proof, but I would personally like to see some more evidence before forming my own conclusions...
+- **7693**: This particular tome describes a certain type of vegetation labeled by scholars as the "Ulbukan Greatwood."
+- **7694**: Supposedly there existed a certain tree of stupendous height some-odd centuries ago. At least that is what leading researchers in the field propose.
+- **7695**: They cite the myriad roots of abnormal size scattered across the continent as proof, but I would personally like to see some more evidence before forming my own conclusions...
 
 ## Events
 
@@ -76,13 +76,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
     → "This particular tome describes a certain type of vegetation labeled by scholars as the "Ulbukan Greatwood.""
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
     → "Supposedly there existed a certain tree of stupendous height some-odd centuries ago. At least that is what leading researchers in the field propose."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "They cite the myriad roots of abnormal size scattered across the continent as proof, but I would personally like to see some more evidence before forming my own conclusions..."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -105,30 +105,30 @@
 |      13 | 0xFFFF9AE6  |  4294941414 |
 |      14 | 0xFFFFA723  |  4294944547 |
 |      15 | 0x0C00      |        3072 |
-|      16 | 0x28C5      |       10437 |
-|      17 | 0x28CA      |       10442 |
-|      18 | 0x28CB      |       10443 |
-|      19 | 0x2B8E      |       11150 |
-|      20 | 0x2B8F      |       11151 |
-|      21 | 0x2B90      |       11152 |
-|      22 | 0x3398      |       13208 |
-|      23 | 0x3399      |       13209 |
-|      24 | 0x339A      |       13210 |
-|      25 | 0x339B      |       13211 |
+|      16 | 0x28C6      |       10438 |
+|      17 | 0x28CB      |       10443 |
+|      18 | 0x28CC      |       10444 |
+|      19 | 0x2B8F      |       11151 |
+|      20 | 0x2B90      |       11152 |
+|      21 | 0x2B91      |       11153 |
+|      22 | 0x3399      |       13209 |
+|      23 | 0x339A      |       13210 |
+|      24 | 0x339B      |       13211 |
+|      25 | 0x339C      |       13212 |
 |      26 | 0x005B      |          91 |
-|      27 | 0x339C      |       13212 |
+|      27 | 0x339D      |       13213 |
 |      28 | 0x00C9      |         201 |
 
 ## String References
 
-- **11150**: The fiery young damsel is on a quest to find the famous Goldmane!
-- **11151**: Thus I imparted to her the location of the bounty hunter's birthplace!
-- **11152**: He was raised in a shepherd's village found in the west of the Tavnazian archipelago.
-- **13208**: I see you have foraged up $0 from the Sacrarium. Jolly good.
-- **13209**: While that is all well and good, other keys of antithetical power to the one you currently hold also exist. Could you go and find one of those as well?
-- **13210**: Why, those are $0 and $1! Commendable work, indeed, [good chap/fair lady].
-- **13211**: To think that someone of your generation would dredge up both sorts of these past relics... I am thoroughly impressed.
-- **13212**: In honor of your intrepid character, allow me to present you this skeleton key. I hope we Tavnazian knights can continue to expect big things from you!
+- **11151**: The fiery young damsel is on a quest to find the famous Goldmane!
+- **11152**: Thus I imparted to her the location of the bounty hunter's birthplace!
+- **11153**: He was raised in a shepherd's village found in the west of the Tavnazian archipelago.
+- **13209**: I see you have foraged up $0 from the Sacrarium. Jolly good.
+- **13210**: While that is all well and good, other keys of antithetical power to the one you currently hold also exist. Could you go and find one of those as well?
+- **13211**: Why, those are $0 and $1! Commendable work, indeed, [good chap/fair lady].
+- **13212**: To think that someone of your generation would dredge up both sorts of these past relics... I am thoroughly impressed.
+- **13213**: In honor of your intrepid character, allow me to present you this skeleton key. I hope we Tavnazian knights can continue to expect big things from you!
 
 ## Events
 
@@ -1702,7 +1702,7 @@
   0: 0x03F9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x03FE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03FF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0400 [0x2B] Quelveuiat (ID: 16883765/0x0101A035) [10437*]:
+  3: 0x0400 [0x2B] Quelveuiat (ID: 16883765/0x0101A035) [10438*]:
     → "Go to the lookout platform in the south of Lufaise Meadows and assess the situation out there. You have your orders, squire!"
   4: 0x0407 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0408 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1756,10 +1756,10 @@
   0: 0x040D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0412 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0413 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0414 [0x2B] Quelveuiat (ID: 16883765/0x0101A035) [10442*]:
+  3: 0x0414 [0x2B] Quelveuiat (ID: 16883765/0x0101A035) [10443*]:
     → "We must constantly temper our minds and bodies in preparation for beastmen attacks!"
   4: 0x041B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x041C [0x2B] Quelveuiat (ID: 16883765/0x0101A035) [10443*]:
+  5: 0x041C [0x2B] Quelveuiat (ID: 16883765/0x0101A035) [10444*]:
     → "A knight must think beyond mere survival. You must be willing to sacrifice your very life to achieve victory!"
   6: 0x0423 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0424 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1812,13 +1812,13 @@
   0: 0x0429 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x042E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x042F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=11150*)
+  3: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=11151*)
     → "The fiery young damsel is on a quest to find the famous Goldmane!"
   4: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=11151*)
+  5: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=11152*)
     → "Thus I imparted to her the location of the bounty hunter's birthplace!"
   6: 0x0437 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=11152*)
+  7: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=11153*)
     → "He was raised in a shepherd's village found in the west of the Tavnazian archipelago."
   8: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x043C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1852,17 +1852,17 @@
   1: 0x0445 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0446 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0447 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x045A
-  4: 0x044F [0x1D] PRINT_EVENT_MESSAGE(message_id=13208*)
+  4: 0x044F [0x1D] PRINT_EVENT_MESSAGE(message_id=13209*)
     → "I see you have foraged up $0 from the Sacrarium. Jolly good."
   5: 0x0452 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0453 [0x1D] PRINT_EVENT_MESSAGE(message_id=13209*)
+  6: 0x0453 [0x1D] PRINT_EVENT_MESSAGE(message_id=13210*)
     → "While that is all well and good, other keys of antithetical power to the one you currently hold also exist. Could you go and find one of those as well?"
   7: 0x0456 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0457 [0x01] GOTO 0x0473
   9: 0x045A [0x6E] Quelveuiat (ID: 16883765/0x0101A035) uses emote 7*
  10: 0x0461 [0x99] Wait for Quelveuiat (ID: 16883765/0x0101A035) animation to complete
  11: 0x0466 [0x1C] WAIT(30* ticks)
- 12: 0x0469 [0x1D] PRINT_EVENT_MESSAGE(message_id=13210*)
+ 12: 0x0469 [0x1D] PRINT_EVENT_MESSAGE(message_id=13211*)
     → "Why, those are $0 and $1! Commendable work, indeed, [good chap/fair lady]."
  13: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x046D [0x59] UPDATE_ENTITY_DATA: Check if Quelveuiat (ID: 16883765/0x0101A035) is performing moving action
@@ -1899,11 +1899,11 @@ SUBROUTINE_0473:
   1: 0x0476 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x047B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x047C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x047D [0x1D] PRINT_EVENT_MESSAGE(message_id=13211*)
+  4: 0x047D [0x1D] PRINT_EVENT_MESSAGE(message_id=13212*)
     → "To think that someone of your generation would dredge up both sorts of these past relics... I am thoroughly impressed."
   5: 0x0480 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0481 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=91*
-  7: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=13212*)
+  7: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=13213*)
     → "In honor of your intrepid character, allow me to present you this skeleton key. I hope we Tavnazian knights can continue to expect big things from you!"
   8: 0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0494 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

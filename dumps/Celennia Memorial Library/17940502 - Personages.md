@@ -20,230 +20,230 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAA      |        7338 |
+|       0 | 0x1CAB      |        7339 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0004      |           4 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1CAB      |        7339 |
-|       5 | 0x1CAC      |        7340 |
-|       6 | 0x1C60      |        7264 |
-|       7 | 0x1CF2      |        7410 |
-|       8 | 0x1CF3      |        7411 |
+|       4 | 0x1CAC      |        7340 |
+|       5 | 0x1CAD      |        7341 |
+|       6 | 0x1C61      |        7265 |
+|       7 | 0x1CF3      |        7411 |
+|       8 | 0x1CF4      |        7412 |
 |       9 | 0x0008      |           8 |
-|      10 | 0x1CF4      |        7412 |
-|      11 | 0x1CF5      |        7413 |
-|      12 | 0x1CF6      |        7414 |
+|      10 | 0x1CF5      |        7413 |
+|      11 | 0x1CF6      |        7414 |
+|      12 | 0x1CF7      |        7415 |
 |      13 | 0x0006      |           6 |
-|      14 | 0x1CF7      |        7415 |
+|      14 | 0x1CF8      |        7416 |
 |      15 | 0x0002      |           2 |
-|      16 | 0x1CF8      |        7416 |
-|      17 | 0x1CF9      |        7417 |
+|      16 | 0x1CF9      |        7417 |
+|      17 | 0x1CFA      |        7418 |
 |      18 | 0x0003      |           3 |
-|      19 | 0x1CFA      |        7418 |
-|      20 | 0x1CFB      |        7419 |
-|      21 | 0x1CFC      |        7420 |
-|      22 | 0x1CFD      |        7421 |
+|      19 | 0x1CFB      |        7419 |
+|      20 | 0x1CFC      |        7420 |
+|      21 | 0x1CFD      |        7421 |
+|      22 | 0x1CFE      |        7422 |
 |      23 | 0x0005      |           5 |
-|      24 | 0x1CFE      |        7422 |
-|      25 | 0x1CFF      |        7423 |
-|      26 | 0x1D00      |        7424 |
-|      27 | 0x1D01      |        7425 |
-|      28 | 0x1D02      |        7426 |
+|      24 | 0x1CFF      |        7423 |
+|      25 | 0x1D00      |        7424 |
+|      26 | 0x1D01      |        7425 |
+|      27 | 0x1D02      |        7426 |
+|      28 | 0x1D03      |        7427 |
 |      29 | 0x0007      |           7 |
-|      30 | 0x1D03      |        7427 |
-|      31 | 0x1D04      |        7428 |
-|      32 | 0x1D05      |        7429 |
-|      33 | 0x1D06      |        7430 |
+|      30 | 0x1D04      |        7428 |
+|      31 | 0x1D05      |        7429 |
+|      32 | 0x1D06      |        7430 |
+|      33 | 0x1D07      |        7431 |
 |      34 | 0x0009      |           9 |
-|      35 | 0x1D07      |        7431 |
-|      36 | 0x1D08      |        7432 |
+|      35 | 0x1D08      |        7432 |
+|      36 | 0x1D09      |        7433 |
 |      37 | 0x000A      |          10 |
-|      38 | 0x1D09      |        7433 |
-|      39 | 0x1D0A      |        7434 |
+|      38 | 0x1D0A      |        7434 |
+|      39 | 0x1D0B      |        7435 |
 |      40 | 0x000B      |          11 |
-|      41 | 0x1D0B      |        7435 |
-|      42 | 0x1D0C      |        7436 |
-|      43 | 0x1D0D      |        7437 |
+|      41 | 0x1D0C      |        7436 |
+|      42 | 0x1D0D      |        7437 |
+|      43 | 0x1D0E      |        7438 |
 |      44 | 0x000C      |          12 |
-|      45 | 0x1CAD      |        7341 |
-|      46 | 0x1DA8      |        7592 |
-|      47 | 0x1DA9      |        7593 |
-|      48 | 0x1DAA      |        7594 |
-|      49 | 0x1DAB      |        7595 |
-|      50 | 0x1DAC      |        7596 |
-|      51 | 0x1DAD      |        7597 |
-|      52 | 0x1DAE      |        7598 |
-|      53 | 0x1DAF      |        7599 |
-|      54 | 0x1DB0      |        7600 |
-|      55 | 0x1DB1      |        7601 |
-|      56 | 0x1DB2      |        7602 |
-|      57 | 0x1DB3      |        7603 |
-|      58 | 0x1DB4      |        7604 |
-|      59 | 0x1DB5      |        7605 |
-|      60 | 0x1DB6      |        7606 |
-|      61 | 0x1DB7      |        7607 |
-|      62 | 0x1DB8      |        7608 |
-|      63 | 0x1DB9      |        7609 |
-|      64 | 0x1DBA      |        7610 |
-|      65 | 0x1DBB      |        7611 |
-|      66 | 0x1DBC      |        7612 |
-|      67 | 0x1DBD      |        7613 |
-|      68 | 0x1DBE      |        7614 |
-|      69 | 0x1DBF      |        7615 |
-|      70 | 0x1DC0      |        7616 |
-|      71 | 0x1DC1      |        7617 |
-|      72 | 0x1DC2      |        7618 |
-|      73 | 0x1DC3      |        7619 |
-|      74 | 0x1DC4      |        7620 |
-|      75 | 0x1DC5      |        7621 |
-|      76 | 0x1DC6      |        7622 |
-|      77 | 0x1DC7      |        7623 |
-|      78 | 0x1DC8      |        7624 |
-|      79 | 0x1DC9      |        7625 |
-|      80 | 0x1DCA      |        7626 |
-|      81 | 0x1DCB      |        7627 |
-|      82 | 0x1CAE      |        7342 |
-|      83 | 0x1DCC      |        7628 |
-|      84 | 0x1DCD      |        7629 |
-|      85 | 0x1DCE      |        7630 |
-|      86 | 0x1D10      |        7440 |
-|      87 | 0x1D12      |        7442 |
-|      88 | 0x1D13      |        7443 |
-|      89 | 0x1D11      |        7441 |
-|      90 | 0x1D14      |        7444 |
-|      91 | 0x1D0E      |        7438 |
-|      92 | 0x1D0F      |        7439 |
-|      93 | 0x1D15      |        7445 |
-|      94 | 0x1D16      |        7446 |
-|      95 | 0x1D17      |        7447 |
-|      96 | 0x1D18      |        7448 |
-|      97 | 0x1CAF      |        7343 |
-|      98 | 0x1DCF      |        7631 |
-|      99 | 0x1DD0      |        7632 |
-|     100 | 0x1DD1      |        7633 |
-|     101 | 0x1DD2      |        7634 |
-|     102 | 0x1DD3      |        7635 |
-|     103 | 0x1DD4      |        7636 |
-|     104 | 0x1DD5      |        7637 |
-|     105 | 0x1DD6      |        7638 |
-|     106 | 0x1CB0      |        7344 |
-|     107 | 0x1DD7      |        7639 |
-|     108 | 0x1DD8      |        7640 |
-|     109 | 0x1DD9      |        7641 |
-|     110 | 0x1DDA      |        7642 |
-|     111 | 0x1DDB      |        7643 |
-|     112 | 0x1DDC      |        7644 |
-|     113 | 0x1DDD      |        7645 |
-|     114 | 0x1DDE      |        7646 |
-|     115 | 0x1DDF      |        7647 |
-|     116 | 0x1DE0      |        7648 |
+|      45 | 0x1CAE      |        7342 |
+|      46 | 0x1DA9      |        7593 |
+|      47 | 0x1DAA      |        7594 |
+|      48 | 0x1DAB      |        7595 |
+|      49 | 0x1DAC      |        7596 |
+|      50 | 0x1DAD      |        7597 |
+|      51 | 0x1DAE      |        7598 |
+|      52 | 0x1DAF      |        7599 |
+|      53 | 0x1DB0      |        7600 |
+|      54 | 0x1DB1      |        7601 |
+|      55 | 0x1DB2      |        7602 |
+|      56 | 0x1DB3      |        7603 |
+|      57 | 0x1DB4      |        7604 |
+|      58 | 0x1DB5      |        7605 |
+|      59 | 0x1DB6      |        7606 |
+|      60 | 0x1DB7      |        7607 |
+|      61 | 0x1DB8      |        7608 |
+|      62 | 0x1DB9      |        7609 |
+|      63 | 0x1DBA      |        7610 |
+|      64 | 0x1DBB      |        7611 |
+|      65 | 0x1DBC      |        7612 |
+|      66 | 0x1DBD      |        7613 |
+|      67 | 0x1DBE      |        7614 |
+|      68 | 0x1DBF      |        7615 |
+|      69 | 0x1DC0      |        7616 |
+|      70 | 0x1DC1      |        7617 |
+|      71 | 0x1DC2      |        7618 |
+|      72 | 0x1DC3      |        7619 |
+|      73 | 0x1DC4      |        7620 |
+|      74 | 0x1DC5      |        7621 |
+|      75 | 0x1DC6      |        7622 |
+|      76 | 0x1DC7      |        7623 |
+|      77 | 0x1DC8      |        7624 |
+|      78 | 0x1DC9      |        7625 |
+|      79 | 0x1DCA      |        7626 |
+|      80 | 0x1DCB      |        7627 |
+|      81 | 0x1DCC      |        7628 |
+|      82 | 0x1CAF      |        7343 |
+|      83 | 0x1DCD      |        7629 |
+|      84 | 0x1DCE      |        7630 |
+|      85 | 0x1DCF      |        7631 |
+|      86 | 0x1D11      |        7441 |
+|      87 | 0x1D13      |        7443 |
+|      88 | 0x1D14      |        7444 |
+|      89 | 0x1D12      |        7442 |
+|      90 | 0x1D15      |        7445 |
+|      91 | 0x1D0F      |        7439 |
+|      92 | 0x1D10      |        7440 |
+|      93 | 0x1D16      |        7446 |
+|      94 | 0x1D17      |        7447 |
+|      95 | 0x1D18      |        7448 |
+|      96 | 0x1D19      |        7449 |
+|      97 | 0x1CB0      |        7344 |
+|      98 | 0x1DD0      |        7632 |
+|      99 | 0x1DD1      |        7633 |
+|     100 | 0x1DD2      |        7634 |
+|     101 | 0x1DD3      |        7635 |
+|     102 | 0x1DD4      |        7636 |
+|     103 | 0x1DD5      |        7637 |
+|     104 | 0x1DD6      |        7638 |
+|     105 | 0x1DD7      |        7639 |
+|     106 | 0x1CB1      |        7345 |
+|     107 | 0x1DD8      |        7640 |
+|     108 | 0x1DD9      |        7641 |
+|     109 | 0x1DDA      |        7642 |
+|     110 | 0x1DDB      |        7643 |
+|     111 | 0x1DDC      |        7644 |
+|     112 | 0x1DDD      |        7645 |
+|     113 | 0x1DDE      |        7646 |
+|     114 | 0x1DDF      |        7647 |
+|     115 | 0x1DE0      |        7648 |
+|     116 | 0x1DE1      |        7649 |
 
 ## String References
 
-- **7264**: @@
-- **7338**: This shelf is stacked with tomes depicting the lives of various distinguished individuals throughout the Sacred City of Adoulin's history.
-- **7339**: What personage shall you research? [A contemporary order member./August and his generals./Other important personages./Forces./Someone else./No one.]
-- **7340**: What personage shall you research? [Ygnas S. Adoulin./Melvien de Malecroix./Hildebert./Svenja./Ikhi Askamot./Chero-Machero./Margret./Lhe Lhangavo./Gratzigg./Flaviria./Reginald./Amchuchu./No one.]
-- **7341**: What personage shall you research? [August P. Adoulin./Guntram Woltaris./Jorius Weatherspoon./Xanira Janniston./Rala Renaye./Ceizak Gorney./Yorcia Haverton./Yahse Karieyh./Cirdas Vocane./Hennetiel Thurandaut./Morimar Shneddick./Marjami Orvail./No one.]
-- **7342**: Which personage shall you research? [Ghalcimus D. Adoulin./Arciela V. Adoulin./Vortimere./Ingrid./No one.]
-- **7343**: Which personage shall you research? [Gramk-Droog the Vanquisher./Skov-Trok the Instigator./Soraa Ishakal./Zunmimi./Melisandra./No one.]
-- **7344**: Which personage shall you research? [Sih Renaye./Sverdhried./Terrcualn./No one.]
-- **7410**: Ygnas S. Adoulin: As he leads the Order of Adoulin, he is entrusted with maintaining order throughout the lands within the Sacred City of Adoulin's alliance. Furthermore, he concurrently holds the office of grand chancellor at the assembly of the Twelve Orders.
-- **7411**: A remarkably young chancellor, he ascended to the position at the age of twenty after his father--and former chancellor--went missing. Whether Ygnas's controversial decision to reestablish the East Ulbukan colonization movement was a product of youthful indiscretion or a precocious stratagem has yet to be determined, but despite the outcome, the fact that it will drastically change Adoulin's fate cannot be argued.
-- **7412**: Since relinquishing his title as the order's head to his younger sister, Arciela, Ygnas has chosen to take a back seat to the everyday workings of the nation, yet his dedication to ensuring that the sacred city has a brighter future remains unwavering.
-- **7413**: Melvien de Malecroix: It is easy to see how Melvien has risen to the top of the Order of Woltaris and obtained a seat in the assembly as the minister of finance, since he is as calm as the undisturbed waters of the Zoldeff and has charisma that sparkles like newly excavated bayld.
-- **7414**: A close confidant to the grand chancellor and a valued ally, Melvien staunchly supports Ygnas S. Adoulin's decision to reopen the continent for colonization, and is possibly the most vehement proponent of the plan. Why strong opposition causes even this rock of an individual to momentarily lose his composure on occasion is unknown, but is a fascinating subject indeed.
-- **7415**: An accident during a brief research expedition into Kamihr Drifts led to his untimely demise at the young age of twenty-six.
-- **7416**: Hildebert: This elderly curmudgeon holds the office of minister of judication and belongs to the Order of Weatherspoon. A conservative traditionalist in the strictest sense, what he lacks in amicability he makes up for in candor and dedication, which may or may not be ideal qualities for one in charge of upholding the nation's code of law.
-- **7417**: Hildebert often embarks on unofficial surveys of Eastern Ulbuka to study it through the eyes of the justice system. Though some balk at his odd behavior, he notes that observing a habitat with an absence of law is equally as important as studying a society replete with legal ballasts. He is also a strict constructionist regarding the founder king's last words, and is consequently one of the most vocal opponents of the colonization movement.
-- **7418**: Svenja: Excessively kind and considered one of the most caring public officials in Adoulin, she uses her position as head of the Order of Janniston and minister of public affairs to further deepen her bonds with the community. As she is second in age only to Hildebert, it is no wonder why many view her as a maternal figure.
-- **7419**: Even the grand chancellor holds her in high regard, to the point where he accepts any scolding from her with merely a downturned head and expression of shame. Svenja's solid standing within the order has begun to fracture somewhat of late, however, with the reinstatement of the pioneering effort.
-- **7420**: Ikhi Askamot: A prominent geomancer with an interest in nature as deep as the Senroh Sea, this Mithra simultaneously stands at the forefront of the Order of Renaye and works as the minister of education.
-- **7421**: While she takes more than ample time to stop and smell the Yahse wildflowers, she reserves little of her patience for dealing with the continent's fauna. Considering her penchant for whispering sweet nothings to greenery at the expense of communication with her red-blooded compatriots, it comes as no surprise that Ikhi Askamot vows to fight against the colonization movement tooth and claw.
-- **7422**: Chero-Machero: The current minister of commerce and the representative from the Order of Gorney, Chero-Machero's tongue is as smooth as silk when crooning to potential allies, but sharper than any wasp's stinger when his interlocutor is on the other side of an argument. Never one to sink quietly into the quicksand of mediocrity, his nonpareil business sense enabled him to transform a struggling city into a mercantile metropolis rivaling Jeuno.
-- **7423**: Increased trade with the other Vana'dielian continents and the construction of island workshops are just two of the many strokes of commercial genius with which he has blessed Adoulin.
-- **7424**: He was also the mastermind behind the plan to recruit adventurers from the Middle Lands as pioneers, which has only made the bad blood between him and Gratzigg curdle more quickly.
-- **7425**: Margret: Younger than even the grand chancellor, Margret also happens to be his childhood friend. The two were often chided by Ygnas's father for their relentless treks up and down the halls of Castle Adoulin in search of adventure and finding the next mystery to uncover. Such qualities may indeed be one of the reasons why she was able to become the Order of Haverton's leader and subsequently assume the position of Scouts' Coalition maester.
-- **7426**: Though a genius in her own right, she applies her unparalleled powers of inference and deduction to the fields of exploration and intelligence gathering. Her extraordinary mental capacity has garnered her numerous accolades for deeds performed during surveys of the Ulbukan wilds, which--coupled with her long-standing relationship with Ygnas--could very well be a driving force behind her decision to support the pioneering effort.
-- **7427**: Lhe Lhangavo: Hardly the most sociable of Adoulin's assembly members, she cannot even find common ground with the other Mithra representative. Lhe's legendary lack of congeniality extends beyond the political realm, however, as even her subordinates make it a habit to avoid her--lest they be buried in the mounds of work she piles upon them.
-- **7428**: Due to her role at the Order of Karieyh's forefront, she is granted the honor of leading the Pioneers' Coalition. Therefore, it is hardly a question as to which side she places herself on the issue of colonization. In fact, she frequently bushwhacks her way to the front lines and throws herself straight into the fray, eliminating terrain obstacles and destroying the lairs of savage beasts that stand in the way of colonial progress.
-- **7429**: Gratzigg: This mountain of a Galka boasts the most muscular figure of all the guardsmen in the Peacekeepers' Coalition and has an ironclad sense of justice to match. An austere disciplinarian and strict moralist, his unconditional love of his nation and ardent desire to maintain harmony amongst the populace are the exact qualities needed for a man in his position in the Order of Vocane.
-- **7430**: A perfectionist to the utmost degree, it matters not whether he is risking life and limb in the Ulbukan jungle or patrolling the streets of Adoulin before sunrise; should he see someone even carving their name upon the cobblestones, he will spring into action and detain the offending citizen. His unyielding nature does little to help the tenuous ties he shares with the minister of commerce, however, and the two are so diametrically opposed concerning the colonization movement that fisticuffs have almost been unleashed at the assembly more than once.
-- **7431**: Flaviria: The most prominent personage in the Order of Thurandaut and the maester of the Mummers' Coalition, Flaviria lacks not for wit--though it may be a tad dry for most people. She also spends many a day out and about the city, testing her latest quip on passersby. It is likely that no one else in the Sacred City possesses a greater love of and flare for comedy than her.
-- **7432**: A notable miser, Flaviria usually spends her bayld on only the most basic of necessities and never jumps into any deal headfirst. She trusts the minister of commerce's judgment, however, and the two routinely engage in business ventures together. The subject of the pioneering movement is no different, and she stands proudly alongside Chero-Machero in support of cultivating the untamed wilds for the sake of all Adoulinians.
-- **7433**: Reginald: The most taciturn of Adoulin's twelve assembly members, not much is known about Reginald. Much has been made of how he has revolutionized the transportation of cargo as the head of the Couriers' Coalition and Order of Shneddick, but none know exactly how he finds his inspiration.
-- **7434**: Fittingly, he also lets his actions speak louder than his words when it comes to supporting the colonization movement.
-- **7435**: Amchuchu: Far ahead of her time, it is a wonder that such a massive brain can be crammed into her small Tarutaru frame. As the maester of the Inventors' Coalition and the leader of the Order of Orvail, she has made innumerable contributions to the welfare of the nation through her many marvelous creations.
-- **7436**: She has already accomplished so much, however, that she must wait impatiently for the continent to catch up--a fact which causes no end to her consternation. When not tinkering away in the coalition headquarters on her next unconventional contrivance, she voices her support for the pioneering effort--of which she has much time to do, seeing as how she must often wait for her foreign materials and technology to arrive.
-- **7437**: At least she has a new pupil from the Middle Lands with whom to bide her time.
-- **7438**: Vortimere: Working tirelessly to spread the good word of Altana, Vortimere occupies the highest rank that any priory member can aspire to obtain--archexorcist. As the exorcists fall under the minister of judication's jurisdiction, he represents the Order of Weatherspoon alongside Hildebert. Though he may be the most influential missionary in all of Ulbuka, he lacks a certain verbal charisma, often stumbling over his words and pausing to collect his thoughts during assembly meetings.
-- **7439**: This reputation seems to precede him, as commoners who have only heard of Vortimere's idiosyncrasies can instantly recognize him by the bottomless canyon etched into his brow. He never leaves his abode without some sort of thick treatise on sorcery tucked snugly under his arm, and he can often be seen poring over the rumpled pages yellowed with use of whatever tome he currently possesses.
-- **7440**: Arciela V. Adoulin: The younger sister of Ygnas, Arciela is next in line to succeed the Order of Adoulin and chancellorship. While extremely well-behaved and the manifestation of propriety in front of an audience, she has a wild side that compels her to conduct impromptu surveys in the depths of the forbidden forest alone.
-- **7441**: Interestingly, it is not her elder brother, but she who has inherited the founder king's treasured weapon Ortharsyne. The blade only leaves her side when she draws it upon her foes, and her refusal to part with it has given rise to rumors that she sleeps in a special position to accommodate her belt and sheath.
-- **7442**: Never one to use her social status as an excuse to trample over the downtrodden, she treats all with respect and familiarity--including her three maidservants: Grennith, Fremilla, and Cynthia.
-- **7443**: This warm nature has earned her the admiration of the vast majority of Adoulin's populace, and many refer to her by the moniker "princess."
-- **7444**: Having recently been anointed as the leader of the Order of Adoulin, Arciela is charged with leading the Sacred City of Adoulin to even greater prosperity as its one true leader both in name and in practice.
-- **7445**: Ingrid: An exorcist from the Order of Weatherspoon, Ingrid is known through the city to have a heart of ice and a tongue of fire.
-- **7446**: She has made a name throughout the priory for her knowledge of purgation rituals wherein she uses implements symbolizing the power of Adoulin to rid people and places of ill spirits that haunt them. This expert knowledge comes from her vast wealth of experience, as she has successfully performed over fifty such rites.
-- **7447**: She refuses to tolerate those with lackadaisical personalities or who cut corners, and her relationships with others are often strained.
-- **7448**: Still, her own record is not without blemish. A ritual gone wrong once caused the order to lose faith in her talents, but over time this came to be viewed as an anomaly, and she has both regained her honor and claimed a position as one of the most storied exorcists in the city.
-- **7592**: August P. Adoulin: Known colloquially in the present day as "The Founder King," his martial prowess was matched only by his undeniable charisma and steadfast love of the people. Nary a child in Adoulin grows up without being told tales of his numerous exploits.
-- **7593**: His grace and lightning-quick reflexes led him to be known in his age as "the knight of the swallow," and his order took up that symbol to honor his memory.
-- **7594**: Guntram Woltaris: Quick of mind and sharp of wit, Guntram invented the predecessor for what later generations would term "waypoints," and stationed them through the Ulbukan hinterlands.
-- **7595**: In recognition of his ability to churn out new ideas like a tree shedding its leaves in autumn, his disciples took on the symbol of the leaf for their order.
-- **7596**: The waypoints currently enjoyed by pioneers and supporting staff are, as alluded to, the latest in a long string of improvements dating back to their original incarnations centuries ago.
-- **7597**: Unsurprisingly, the Inventors' Coalition has taken it upon itself to further the accuracy and reliability of the devices, and recent advances have seen the successful teleportation rate climb to 99.9%.
-- **7598**: Jorius Weatherspoon: With a command over the spiritual and a dedication to stamping out the profane, Jorius is viewed by leading academics as the first of the modern-day exorcists.
-- **7599**: The pillar of light he conjured was said to stretch up in the sky like a butterfly fluttering toward the sun, so it was only natural for his followers to use the same imagery in their crest.
-- **7600**: Although scholars continue to debate the exact nature of this "Light of Purification," the prevailing theory is that it bears a striking resemblance to what became known in Mindartia and Quon as "Holy."
-- **7601**: Jorius Yett takes its moniker from this storied general; much as the Light of Purification protected Adoulin in its time of need, so, too, does the yett stand to shield Adoulin from harm.
-- **7602**: Xanira Janniston: Preferring the backlines to the fray, Xanira often found herself tending to the ill, her mystical prowess mending wounds with nary a needle or suture.
-- **7603**: This is not to say she was a stranger to more traditional arts, as she had undergone years of training herself, but none could compare to her deftness at getting wounded soldiers battle-ready once more.
-- **7604**: Knowing that she was always prepared to send them back in fighting form, frontline warriors found themselves feeling invincible.
-- **7605**: Broken bones and shattered spirits were but a small obstacle for her to overcome, and countless were those who owed their lives to her talents.
-- **7606**: Her order adopted the symbol of the dewdrop in recognition of the tears of pain Xanira was able to wipe away.
-- **7607**: Rala Renaye: As a descendant of Vana'diel's first geomancer, Sih Renaye, Rala was known for her ability to assert control over the field of battle.
-- **7608**: Owing to the city's location on the easternmost coast, Adoulinians found themselves with nowhere to flee when the bulk of the Velkk forces invaded from the west.
-- **7609**: When August made landfall, however, he retaliated with such overwhelming force that the Velkk scattered like ashes in the wind.
-- **7610**: In awe of the founder king's strategic mind, she offered her services not just as a general, but as a representative of all Adoulin's geomancers.
-- **7611**: A geomancer is nothing without her keen attunement with the land, and in honor of this bond Rala took up an expanse of grass as her symbol, representing the way flora encompasses and embraces the ground on which it grows.
-- **7612**: Ceizak Gorney: The commissariat of August's armies, Ceizak was in charge of provisioning supplies and performing civil works. Without his efforts, the founder king and his entourage would have never been able to gain footholds into enemy-controlled areas.
-- **7613**: His list of personal connections was both wide and winding, and as such the symbol of the snake came to be associated with all his actions.
-- **7614**: Yorcia Haverton: A master of all things intelligence, Yorcia prided herself on being able to wring information from rock and water, the living and the unliving, the reticent and the loose of tongue. She was also a skilled assassin, striking at her foes before they could utter cries of help.
-- **7615**: Her flitting from shadow to shadow, always present but never seen, led her followers to adopt the symbol of the raven in her honor.
-- **7616**: Yahse Karieyh: Quick on her feet and skilled in botany, Yahse Karieyh was an expert wilderness survivalist who could construct makeshift shelter from even the smallest of leaves and twigs.
-- **7617**: Her keen manipulation of her surroundings in clever ways earned the naturalist the affectionate moniker "monkey"--an image that would stay with her order for years to come.
-- **7618**: Cirdas Vocane: A Hume of such height and bulk that from afar he was often mistaken for a Galka, Cirdas commanded his spear so adroitly that on the battlefield his movements were like a swirling tempest.
-- **7619**: His unflinching presence on the frontlines protecting Adoulin's citizenry from harm led many to call him "The Shield of Adoulin."
-- **7620**: Much like the roots of a grand oak tree for which his order was later known, Cirdas always dug deep into the earth and refused to yield ground under the most vicious of assaults.
-- **7621**: Hennetiel Thurandaut: A morale specialist, when Hennetiel wasn't commanding his wyvern in battle, he would perform daring feats and tricks, much to the delight of those with the wind taken out of their sails.
-- **7622**: His jovial nature made him a natural for such a herculean task, and he and "Izzy" often stayed up until the wee hours of the morning practicing their routine.
-- **7623**: It was only fitting that after his death his followers took up the symbol of the lizard.
-- **7624**: Morimar Shneddick: Known for his ability to tame the wild beasts of the harsh Ulbukan jungle, Morimar could turn the fauna against the demonic forces that besieged Ulbuka.
-- **7625**: He often used their primal prowess to guard his regiment's flank and secure lines of provision. This cat-and-mouse style led his order to elect the latter to serve as their symbol.
-- **7626**: Marjami Orvail: Though able to wield the fiercest of elemental powers, Marjami did so not through staff, scepter, or wand, but rather through the power of her blade, which left a faint trail of light as it sliced through scale and flesh.
-- **7627**: In symbolizing the eight elements that rule Vana'diel, her order took up the crest of the eight-legged spider.
-- **7628**: Ghalcimus D. Adoulin: The former grand chancellor, Ghalcimus led an expeditionary force into the hinterlands and vanished in the year 879.
-- **7629**: He brought a small entourage of eleven troops, hoping to learn more about the jungle and its perils, but none of the twelve returned.
-- **7630**: No one has yet found a trace of their bodies or supplies, and the precise location where he vanished is yet unknown.
-- **7631**: Gramk-Droog the Vanquisher: The current king of the Velkk. Scholars debate whether "king" is the appropriate term, as Velkk political structures are believed to be primitive.
-- **7632**: The title "Vanquisher" is also an Adoulinian term, given to him owing to his endless massacre of swaths of the city's soldiers.
-- **7633**: Skov-Trok the Instigator: When the Velkk were at the height of their power during the time of the founder king, Skov-Trok commanded endless hordes of troops to strike at his foe's weak points.
-- **7634**: Yet August was undeterred. He attacked swiftly and viciously, driving the Velkk far to the west, where they have remained to the present day.
-- **7635**: Records indicate that no other Velkk since has reigned as long as he.
-- **7636**: Soraa Ishakal: Leader of the Blackthorn Coven, Soraa's unflinching dedication to her group would be worthy of praise...if the coven were more benevolent.
-- **7637**: Zunmimi: The Tarutaru representative of the Blackthorn Coven, Zunmimi is known for her sarcastic, never-say-die attitude and love of all things wicked.
-- **7638**: Melisandra: The youngest member of the Blackthorn Coven, Melisandra is often concerned with what the others think of her, wondering if she measures up properly.
-- **7639**: Sih Renaye: One of Adoulin's most storied figures who was not one of August's generals, Sih Renaye marked her place in history as Adoulin's first geomancer.
-- **7640**: It was she who discovered the inexorable link between ergon loci and the lifestream, utilizing their power to cultivate the first geomantic energies.
-- **7641**: When the Velkk forces collapsed on an outlying settlement, Sih and her five disciples called forth an extraordinary display of geomantic prowess, the sizzling energies shielding the villagers from harm.
-- **7642**: Related Works: Sih Renaye and the Five Disciples The Siren Legends Bagua Poetry
-- **7643**: Sverdhried: Often referred to as the father of rune fencing, Sverdhried was a stoic warrior who lived sometime in the early 400s.
-- **7644**: In a long-forgotten mystical kingdom in the frozen wastes of Rhazowa, Sverdhried gained the ability to use enchanted script known as "runes," which he combined with his training as a blademaster to develop the art we know today as rune fencing.
-- **7645**: Having dedicated himself fully to this fusion of religious scripture and swordsmanship, Sverdhried then traveled through Vana'diel's many continents, proselytizing about this newfound way of life. Yet he was not blind in his devotion, and every land he visited sated his curiosity about various ways of life, which he then incorporated into his own training.
-- **7646**: Related Works: A Glossary of Runic Script Futhark Philosophy
-- **7647**: Terrcualn: A tiger whose mane and fur were flecked with gold, Terrcualn was said to fight alongside King August during his most dangerous forays into the Ulbukan continent.
-- **7648**: In recent years, pioneers and citizens alike have been reporting sightings of a creature remarkably similar in appearance. Could this be the legendary tiger or one of his descendants?
+- **7265**: @@
+- **7339**: This shelf is stacked with tomes depicting the lives of various distinguished individuals throughout the Sacred City of Adoulin's history.
+- **7340**: What personage shall you research? [A contemporary order member./August and his generals./Other important personages./Forces./Someone else./No one.]
+- **7341**: What personage shall you research? [Ygnas S. Adoulin./Melvien de Malecroix./Hildebert./Svenja./Ikhi Askamot./Chero-Machero./Margret./Lhe Lhangavo./Gratzigg./Flaviria./Reginald./Amchuchu./No one.]
+- **7342**: What personage shall you research? [August P. Adoulin./Guntram Woltaris./Jorius Weatherspoon./Xanira Janniston./Rala Renaye./Ceizak Gorney./Yorcia Haverton./Yahse Karieyh./Cirdas Vocane./Hennetiel Thurandaut./Morimar Shneddick./Marjami Orvail./No one.]
+- **7343**: Which personage shall you research? [Ghalcimus D. Adoulin./Arciela V. Adoulin./Vortimere./Ingrid./No one.]
+- **7344**: Which personage shall you research? [Gramk-Droog the Vanquisher./Skov-Trok the Instigator./Soraa Ishakal./Zunmimi./Melisandra./No one.]
+- **7345**: Which personage shall you research? [Sih Renaye./Sverdhried./Terrcualn./No one.]
+- **7411**: Ygnas S. Adoulin: As he leads the Order of Adoulin, he is entrusted with maintaining order throughout the lands within the Sacred City of Adoulin's alliance. Furthermore, he concurrently holds the office of grand chancellor at the assembly of the Twelve Orders.
+- **7412**: A remarkably young chancellor, he ascended to the position at the age of twenty after his father--and former chancellor--went missing. Whether Ygnas's controversial decision to reestablish the East Ulbukan colonization movement was a product of youthful indiscretion or a precocious stratagem has yet to be determined, but despite the outcome, the fact that it will drastically change Adoulin's fate cannot be argued.
+- **7413**: Since relinquishing his title as the order's head to his younger sister, Arciela, Ygnas has chosen to take a back seat to the everyday workings of the nation, yet his dedication to ensuring that the sacred city has a brighter future remains unwavering.
+- **7414**: Melvien de Malecroix: It is easy to see how Melvien has risen to the top of the Order of Woltaris and obtained a seat in the assembly as the minister of finance, since he is as calm as the undisturbed waters of the Zoldeff and has charisma that sparkles like newly excavated bayld.
+- **7415**: A close confidant to the grand chancellor and a valued ally, Melvien staunchly supports Ygnas S. Adoulin's decision to reopen the continent for colonization, and is possibly the most vehement proponent of the plan. Why strong opposition causes even this rock of an individual to momentarily lose his composure on occasion is unknown, but is a fascinating subject indeed.
+- **7416**: An accident during a brief research expedition into Kamihr Drifts led to his untimely demise at the young age of twenty-six.
+- **7417**: Hildebert: This elderly curmudgeon holds the office of minister of judication and belongs to the Order of Weatherspoon. A conservative traditionalist in the strictest sense, what he lacks in amicability he makes up for in candor and dedication, which may or may not be ideal qualities for one in charge of upholding the nation's code of law.
+- **7418**: Hildebert often embarks on unofficial surveys of Eastern Ulbuka to study it through the eyes of the justice system. Though some balk at his odd behavior, he notes that observing a habitat with an absence of law is equally as important as studying a society replete with legal ballasts. He is also a strict constructionist regarding the founder king's last words, and is consequently one of the most vocal opponents of the colonization movement.
+- **7419**: Svenja: Excessively kind and considered one of the most caring public officials in Adoulin, she uses her position as head of the Order of Janniston and minister of public affairs to further deepen her bonds with the community. As she is second in age only to Hildebert, it is no wonder why many view her as a maternal figure.
+- **7420**: Even the grand chancellor holds her in high regard, to the point where he accepts any scolding from her with merely a downturned head and expression of shame. Svenja's solid standing within the order has begun to fracture somewhat of late, however, with the reinstatement of the pioneering effort.
+- **7421**: Ikhi Askamot: A prominent geomancer with an interest in nature as deep as the Senroh Sea, this Mithra simultaneously stands at the forefront of the Order of Renaye and works as the minister of education.
+- **7422**: While she takes more than ample time to stop and smell the Yahse wildflowers, she reserves little of her patience for dealing with the continent's fauna. Considering her penchant for whispering sweet nothings to greenery at the expense of communication with her red-blooded compatriots, it comes as no surprise that Ikhi Askamot vows to fight against the colonization movement tooth and claw.
+- **7423**: Chero-Machero: The current minister of commerce and the representative from the Order of Gorney, Chero-Machero's tongue is as smooth as silk when crooning to potential allies, but sharper than any wasp's stinger when his interlocutor is on the other side of an argument. Never one to sink quietly into the quicksand of mediocrity, his nonpareil business sense enabled him to transform a struggling city into a mercantile metropolis rivaling Jeuno.
+- **7424**: Increased trade with the other Vana'dielian continents and the construction of island workshops are just two of the many strokes of commercial genius with which he has blessed Adoulin.
+- **7425**: He was also the mastermind behind the plan to recruit adventurers from the Middle Lands as pioneers, which has only made the bad blood between him and Gratzigg curdle more quickly.
+- **7426**: Margret: Younger than even the grand chancellor, Margret also happens to be his childhood friend. The two were often chided by Ygnas's father for their relentless treks up and down the halls of Castle Adoulin in search of adventure and finding the next mystery to uncover. Such qualities may indeed be one of the reasons why she was able to become the Order of Haverton's leader and subsequently assume the position of Scouts' Coalition maester.
+- **7427**: Though a genius in her own right, she applies her unparalleled powers of inference and deduction to the fields of exploration and intelligence gathering. Her extraordinary mental capacity has garnered her numerous accolades for deeds performed during surveys of the Ulbukan wilds, which--coupled with her long-standing relationship with Ygnas--could very well be a driving force behind her decision to support the pioneering effort.
+- **7428**: Lhe Lhangavo: Hardly the most sociable of Adoulin's assembly members, she cannot even find common ground with the other Mithra representative. Lhe's legendary lack of congeniality extends beyond the political realm, however, as even her subordinates make it a habit to avoid her--lest they be buried in the mounds of work she piles upon them.
+- **7429**: Due to her role at the Order of Karieyh's forefront, she is granted the honor of leading the Pioneers' Coalition. Therefore, it is hardly a question as to which side she places herself on the issue of colonization. In fact, she frequently bushwhacks her way to the front lines and throws herself straight into the fray, eliminating terrain obstacles and destroying the lairs of savage beasts that stand in the way of colonial progress.
+- **7430**: Gratzigg: This mountain of a Galka boasts the most muscular figure of all the guardsmen in the Peacekeepers' Coalition and has an ironclad sense of justice to match. An austere disciplinarian and strict moralist, his unconditional love of his nation and ardent desire to maintain harmony amongst the populace are the exact qualities needed for a man in his position in the Order of Vocane.
+- **7431**: A perfectionist to the utmost degree, it matters not whether he is risking life and limb in the Ulbukan jungle or patrolling the streets of Adoulin before sunrise; should he see someone even carving their name upon the cobblestones, he will spring into action and detain the offending citizen. His unyielding nature does little to help the tenuous ties he shares with the minister of commerce, however, and the two are so diametrically opposed concerning the colonization movement that fisticuffs have almost been unleashed at the assembly more than once.
+- **7432**: Flaviria: The most prominent personage in the Order of Thurandaut and the maester of the Mummers' Coalition, Flaviria lacks not for wit--though it may be a tad dry for most people. She also spends many a day out and about the city, testing her latest quip on passersby. It is likely that no one else in the Sacred City possesses a greater love of and flare for comedy than her.
+- **7433**: A notable miser, Flaviria usually spends her bayld on only the most basic of necessities and never jumps into any deal headfirst. She trusts the minister of commerce's judgment, however, and the two routinely engage in business ventures together. The subject of the pioneering movement is no different, and she stands proudly alongside Chero-Machero in support of cultivating the untamed wilds for the sake of all Adoulinians.
+- **7434**: Reginald: The most taciturn of Adoulin's twelve assembly members, not much is known about Reginald. Much has been made of how he has revolutionized the transportation of cargo as the head of the Couriers' Coalition and Order of Shneddick, but none know exactly how he finds his inspiration.
+- **7435**: Fittingly, he also lets his actions speak louder than his words when it comes to supporting the colonization movement.
+- **7436**: Amchuchu: Far ahead of her time, it is a wonder that such a massive brain can be crammed into her small Tarutaru frame. As the maester of the Inventors' Coalition and the leader of the Order of Orvail, she has made innumerable contributions to the welfare of the nation through her many marvelous creations.
+- **7437**: She has already accomplished so much, however, that she must wait impatiently for the continent to catch up--a fact which causes no end to her consternation. When not tinkering away in the coalition headquarters on her next unconventional contrivance, she voices her support for the pioneering effort--of which she has much time to do, seeing as how she must often wait for her foreign materials and technology to arrive.
+- **7438**: At least she has a new pupil from the Middle Lands with whom to bide her time.
+- **7439**: Vortimere: Working tirelessly to spread the good word of Altana, Vortimere occupies the highest rank that any priory member can aspire to obtain--archexorcist. As the exorcists fall under the minister of judication's jurisdiction, he represents the Order of Weatherspoon alongside Hildebert. Though he may be the most influential missionary in all of Ulbuka, he lacks a certain verbal charisma, often stumbling over his words and pausing to collect his thoughts during assembly meetings.
+- **7440**: This reputation seems to precede him, as commoners who have only heard of Vortimere's idiosyncrasies can instantly recognize him by the bottomless canyon etched into his brow. He never leaves his abode without some sort of thick treatise on sorcery tucked snugly under his arm, and he can often be seen poring over the rumpled pages yellowed with use of whatever tome he currently possesses.
+- **7441**: Arciela V. Adoulin: The younger sister of Ygnas, Arciela is next in line to succeed the Order of Adoulin and chancellorship. While extremely well-behaved and the manifestation of propriety in front of an audience, she has a wild side that compels her to conduct impromptu surveys in the depths of the forbidden forest alone.
+- **7442**: Interestingly, it is not her elder brother, but she who has inherited the founder king's treasured weapon Ortharsyne. The blade only leaves her side when she draws it upon her foes, and her refusal to part with it has given rise to rumors that she sleeps in a special position to accommodate her belt and sheath.
+- **7443**: Never one to use her social status as an excuse to trample over the downtrodden, she treats all with respect and familiarity--including her three maidservants: Grennith, Fremilla, and Cynthia.
+- **7444**: This warm nature has earned her the admiration of the vast majority of Adoulin's populace, and many refer to her by the moniker "princess."
+- **7445**: Having recently been anointed as the leader of the Order of Adoulin, Arciela is charged with leading the Sacred City of Adoulin to even greater prosperity as its one true leader both in name and in practice.
+- **7446**: Ingrid: An exorcist from the Order of Weatherspoon, Ingrid is known through the city to have a heart of ice and a tongue of fire.
+- **7447**: She has made a name throughout the priory for her knowledge of purgation rituals wherein she uses implements symbolizing the power of Adoulin to rid people and places of ill spirits that haunt them. This expert knowledge comes from her vast wealth of experience, as she has successfully performed over fifty such rites.
+- **7448**: She refuses to tolerate those with lackadaisical personalities or who cut corners, and her relationships with others are often strained.
+- **7449**: Still, her own record is not without blemish. A ritual gone wrong once caused the order to lose faith in her talents, but over time this came to be viewed as an anomaly, and she has both regained her honor and claimed a position as one of the most storied exorcists in the city.
+- **7593**: August P. Adoulin: Known colloquially in the present day as "The Founder King," his martial prowess was matched only by his undeniable charisma and steadfast love of the people. Nary a child in Adoulin grows up without being told tales of his numerous exploits.
+- **7594**: His grace and lightning-quick reflexes led him to be known in his age as "the knight of the swallow," and his order took up that symbol to honor his memory.
+- **7595**: Guntram Woltaris: Quick of mind and sharp of wit, Guntram invented the predecessor for what later generations would term "waypoints," and stationed them through the Ulbukan hinterlands.
+- **7596**: In recognition of his ability to churn out new ideas like a tree shedding its leaves in autumn, his disciples took on the symbol of the leaf for their order.
+- **7597**: The waypoints currently enjoyed by pioneers and supporting staff are, as alluded to, the latest in a long string of improvements dating back to their original incarnations centuries ago.
+- **7598**: Unsurprisingly, the Inventors' Coalition has taken it upon itself to further the accuracy and reliability of the devices, and recent advances have seen the successful teleportation rate climb to 99.9%.
+- **7599**: Jorius Weatherspoon: With a command over the spiritual and a dedication to stamping out the profane, Jorius is viewed by leading academics as the first of the modern-day exorcists.
+- **7600**: The pillar of light he conjured was said to stretch up in the sky like a butterfly fluttering toward the sun, so it was only natural for his followers to use the same imagery in their crest.
+- **7601**: Although scholars continue to debate the exact nature of this "Light of Purification," the prevailing theory is that it bears a striking resemblance to what became known in Mindartia and Quon as "Holy."
+- **7602**: Jorius Yett takes its moniker from this storied general; much as the Light of Purification protected Adoulin in its time of need, so, too, does the yett stand to shield Adoulin from harm.
+- **7603**: Xanira Janniston: Preferring the backlines to the fray, Xanira often found herself tending to the ill, her mystical prowess mending wounds with nary a needle or suture.
+- **7604**: This is not to say she was a stranger to more traditional arts, as she had undergone years of training herself, but none could compare to her deftness at getting wounded soldiers battle-ready once more.
+- **7605**: Knowing that she was always prepared to send them back in fighting form, frontline warriors found themselves feeling invincible.
+- **7606**: Broken bones and shattered spirits were but a small obstacle for her to overcome, and countless were those who owed their lives to her talents.
+- **7607**: Her order adopted the symbol of the dewdrop in recognition of the tears of pain Xanira was able to wipe away.
+- **7608**: Rala Renaye: As a descendant of Vana'diel's first geomancer, Sih Renaye, Rala was known for her ability to assert control over the field of battle.
+- **7609**: Owing to the city's location on the easternmost coast, Adoulinians found themselves with nowhere to flee when the bulk of the Velkk forces invaded from the west.
+- **7610**: When August made landfall, however, he retaliated with such overwhelming force that the Velkk scattered like ashes in the wind.
+- **7611**: In awe of the founder king's strategic mind, she offered her services not just as a general, but as a representative of all Adoulin's geomancers.
+- **7612**: A geomancer is nothing without her keen attunement with the land, and in honor of this bond Rala took up an expanse of grass as her symbol, representing the way flora encompasses and embraces the ground on which it grows.
+- **7613**: Ceizak Gorney: The commissariat of August's armies, Ceizak was in charge of provisioning supplies and performing civil works. Without his efforts, the founder king and his entourage would have never been able to gain footholds into enemy-controlled areas.
+- **7614**: His list of personal connections was both wide and winding, and as such the symbol of the snake came to be associated with all his actions.
+- **7615**: Yorcia Haverton: A master of all things intelligence, Yorcia prided herself on being able to wring information from rock and water, the living and the unliving, the reticent and the loose of tongue. She was also a skilled assassin, striking at her foes before they could utter cries of help.
+- **7616**: Her flitting from shadow to shadow, always present but never seen, led her followers to adopt the symbol of the raven in her honor.
+- **7617**: Yahse Karieyh: Quick on her feet and skilled in botany, Yahse Karieyh was an expert wilderness survivalist who could construct makeshift shelter from even the smallest of leaves and twigs.
+- **7618**: Her keen manipulation of her surroundings in clever ways earned the naturalist the affectionate moniker "monkey"--an image that would stay with her order for years to come.
+- **7619**: Cirdas Vocane: A Hume of such height and bulk that from afar he was often mistaken for a Galka, Cirdas commanded his spear so adroitly that on the battlefield his movements were like a swirling tempest.
+- **7620**: His unflinching presence on the frontlines protecting Adoulin's citizenry from harm led many to call him "The Shield of Adoulin."
+- **7621**: Much like the roots of a grand oak tree for which his order was later known, Cirdas always dug deep into the earth and refused to yield ground under the most vicious of assaults.
+- **7622**: Hennetiel Thurandaut: A morale specialist, when Hennetiel wasn't commanding his wyvern in battle, he would perform daring feats and tricks, much to the delight of those with the wind taken out of their sails.
+- **7623**: His jovial nature made him a natural for such a herculean task, and he and "Izzy" often stayed up until the wee hours of the morning practicing their routine.
+- **7624**: It was only fitting that after his death his followers took up the symbol of the lizard.
+- **7625**: Morimar Shneddick: Known for his ability to tame the wild beasts of the harsh Ulbukan jungle, Morimar could turn the fauna against the demonic forces that besieged Ulbuka.
+- **7626**: He often used their primal prowess to guard his regiment's flank and secure lines of provision. This cat-and-mouse style led his order to elect the latter to serve as their symbol.
+- **7627**: Marjami Orvail: Though able to wield the fiercest of elemental powers, Marjami did so not through staff, scepter, or wand, but rather through the power of her blade, which left a faint trail of light as it sliced through scale and flesh.
+- **7628**: In symbolizing the eight elements that rule Vana'diel, her order took up the crest of the eight-legged spider.
+- **7629**: Ghalcimus D. Adoulin: The former grand chancellor, Ghalcimus led an expeditionary force into the hinterlands and vanished in the year 879.
+- **7630**: He brought a small entourage of eleven troops, hoping to learn more about the jungle and its perils, but none of the twelve returned.
+- **7631**: No one has yet found a trace of their bodies or supplies, and the precise location where he vanished is yet unknown.
+- **7632**: Gramk-Droog the Vanquisher: The current king of the Velkk. Scholars debate whether "king" is the appropriate term, as Velkk political structures are believed to be primitive.
+- **7633**: The title "Vanquisher" is also an Adoulinian term, given to him owing to his endless massacre of swaths of the city's soldiers.
+- **7634**: Skov-Trok the Instigator: When the Velkk were at the height of their power during the time of the founder king, Skov-Trok commanded endless hordes of troops to strike at his foe's weak points.
+- **7635**: Yet August was undeterred. He attacked swiftly and viciously, driving the Velkk far to the west, where they have remained to the present day.
+- **7636**: Records indicate that no other Velkk since has reigned as long as he.
+- **7637**: Soraa Ishakal: Leader of the Blackthorn Coven, Soraa's unflinching dedication to her group would be worthy of praise...if the coven were more benevolent.
+- **7638**: Zunmimi: The Tarutaru representative of the Blackthorn Coven, Zunmimi is known for her sarcastic, never-say-die attitude and love of all things wicked.
+- **7639**: Melisandra: The youngest member of the Blackthorn Coven, Melisandra is often concerned with what the others think of her, wondering if she measures up properly.
+- **7640**: Sih Renaye: One of Adoulin's most storied figures who was not one of August's generals, Sih Renaye marked her place in history as Adoulin's first geomancer.
+- **7641**: It was she who discovered the inexorable link between ergon loci and the lifestream, utilizing their power to cultivate the first geomantic energies.
+- **7642**: When the Velkk forces collapsed on an outlying settlement, Sih and her five disciples called forth an extraordinary display of geomantic prowess, the sizzling energies shielding the villagers from harm.
+- **7643**: Related Works: Sih Renaye and the Five Disciples The Siren Legends Bagua Poetry
+- **7644**: Sverdhried: Often referred to as the father of rune fencing, Sverdhried was a stoic warrior who lived sometime in the early 400s.
+- **7645**: In a long-forgotten mystical kingdom in the frozen wastes of Rhazowa, Sverdhried gained the ability to use enchanted script known as "runes," which he combined with his training as a blademaster to develop the art we know today as rune fencing.
+- **7646**: Having dedicated himself fully to this fusion of religious scripture and swordsmanship, Sverdhried then traveled through Vana'diel's many continents, proselytizing about this newfound way of life. Yet he was not blind in his devotion, and every land he visited sated his curiosity about various ways of life, which he then incorporated into his own training.
+- **7647**: Related Works: A Glossary of Runic Script Futhark Philosophy
+- **7648**: Terrcualn: A tiger whose mane and fur were flecked with gold, Terrcualn was said to fight alongside King August during his most dangerous forays into the Ulbukan continent.
+- **7649**: In recent years, pioneers and citizens alike have been reporting sightings of a creature remarkably similar in appearance. Could this be the legendary tiger or one of his descendants?
 
 ## Events
 
@@ -397,7 +397,7 @@
   6: 0x001F [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
   7: 0x0024 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
   8: 0x0029 [0x4A] LocalPlayer looks at EventEntity
-  9: 0x0032 [0x48] [System] [7338*]:
+  9: 0x0032 [0x48] [System] [7339*]:
     → "This shelf is stacked with tomes depicting the lives of various distinguished individuals throughout the Sacred City of Adoulin's history."
  10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0036 [0x03] ExtData[1]->WorkLocal[8] = 0*
@@ -411,7 +411,7 @@
  19: 0x005F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[12], bit_index_work_offset=1*, condition_work_offset=1*)
 
 SUBROUTINE_0066:
- 20: 0x0066 [0x24] CREATE_DIALOG(message_id=7339*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[12])
+ 20: 0x0066 [0x24] CREATE_DIALOG(message_id=7340*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[12])
     → "What personage shall you research? [A contemporary order member./August and his generals./Other important personages./Forces./Someone else./No one.]"
  21: 0x006D [0x25] WAIT_DIALOG_SELECT()
  22: 0x006E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0219
@@ -420,165 +420,165 @@ SUBROUTINE_0066:
 SUBROUTINE_007B:
  24: 0x007B [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0216
  25: 0x0083 [0x06] ExtData[1]->WorkLocal[13] = 0
- 26: 0x0086 [0x24] CREATE_DIALOG(message_id=7340*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+ 26: 0x0086 [0x24] CREATE_DIALOG(message_id=7341*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "What personage shall you research? [Ygnas S. Adoulin./Melvien de Malecroix./Hildebert./Svenja./Ikhi Askamot./Chero-Machero./Margret./Lhe Lhangavo./Gratzigg./Flaviria./Reginald./Amchuchu./No one.]"
  27: 0x008D [0x25] WAIT_DIALOG_SELECT()
  28: 0x008E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B5
  29: 0x0096 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 30: 0x009B [0x48] [System] [7264*]:
+ 30: 0x009B [0x48] [System] [7265*]:
     → "@@"
  31: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x009F [0x48] [System] [7410*]:
+ 32: 0x009F [0x48] [System] [7411*]:
     → "Ygnas S. Adoulin: As he leads the Order of Adoulin, he is entrusted with maintaining order throughout the lands within the Sacred City of Adoulin's alliance. Furthermore, he concurrently holds the office of grand chancellor at the assembly of the Twelve Orders."
  33: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x00A3 [0x48] [System] [7411*]:
+ 34: 0x00A3 [0x48] [System] [7412*]:
     → "A remarkably young chancellor, he ascended to the position at the age of twenty after his father--and former chancellor--went missing. Whether Ygnas's controversial decision to reestablish the East Ulbukan colonization movement was a product of youthful indiscretion or a precocious stratagem has yet to be determined, but despite the outcome, the fact that it will drastically change Adoulin's fate cannot be argued."
  35: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00A7 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 8*) GOTO 0x00B2
- 37: 0x00AE [0x48] [System] [7412*]:
+ 37: 0x00AE [0x48] [System] [7413*]:
     → "Since relinquishing his title as the order's head to his younger sister, Arciela, Ygnas has chosen to take a back seat to the everyday workings of the nation, yet his dedication to ensuring that the sacred city has a brighter future remains unwavering."
  38: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00B2 [0x01] GOTO 0x0213
  40: 0x00B5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00DC
  41: 0x00BD [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 42: 0x00C2 [0x48] [System] [7264*]:
+ 42: 0x00C2 [0x48] [System] [7265*]:
     → "@@"
  43: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00C6 [0x48] [System] [7413*]:
+ 44: 0x00C6 [0x48] [System] [7414*]:
     → "Melvien de Malecroix: It is easy to see how Melvien has risen to the top of the Order of Woltaris and obtained a seat in the assembly as the minister of finance, since he is as calm as the undisturbed waters of the Zoldeff and has charisma that sparkles like newly excavated bayld."
  45: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00CA [0x48] [System] [7414*]:
+ 46: 0x00CA [0x48] [System] [7415*]:
     → "A close confidant to the grand chancellor and a valued ally, Melvien staunchly supports Ygnas S. Adoulin's decision to reopen the continent for colonization, and is possibly the most vehement proponent of the plan. Why strong opposition causes even this rock of an individual to momentarily lose his composure on occasion is unknown, but is a fascinating subject indeed."
  47: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00CE [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 6*) GOTO 0x00D9
- 49: 0x00D5 [0x48] [System] [7415*]:
+ 49: 0x00D5 [0x48] [System] [7416*]:
     → "An accident during a brief research expedition into Kamihr Drifts led to his untimely demise at the young age of twenty-six."
  50: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00D9 [0x01] GOTO 0x0213
  52: 0x00DC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00F8
  53: 0x00E4 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 54: 0x00E9 [0x48] [System] [7264*]:
+ 54: 0x00E9 [0x48] [System] [7265*]:
     → "@@"
  55: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x00ED [0x48] [System] [7416*]:
+ 56: 0x00ED [0x48] [System] [7417*]:
     → "Hildebert: This elderly curmudgeon holds the office of minister of judication and belongs to the Order of Weatherspoon. A conservative traditionalist in the strictest sense, what he lacks in amicability he makes up for in candor and dedication, which may or may not be ideal qualities for one in charge of upholding the nation's code of law."
  57: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x00F1 [0x48] [System] [7417*]:
+ 58: 0x00F1 [0x48] [System] [7418*]:
     → "Hildebert often embarks on unofficial surveys of Eastern Ulbuka to study it through the eyes of the justice system. Though some balk at his odd behavior, he notes that observing a habitat with an absence of law is equally as important as studying a society replete with legal ballasts. He is also a strict constructionist regarding the founder king's last words, and is consequently one of the most vocal opponents of the colonization movement."
  59: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00F5 [0x01] GOTO 0x0213
  61: 0x00F8 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0114
  62: 0x0100 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 63: 0x0105 [0x48] [System] [7264*]:
+ 63: 0x0105 [0x48] [System] [7265*]:
     → "@@"
  64: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x0109 [0x48] [System] [7418*]:
+ 65: 0x0109 [0x48] [System] [7419*]:
     → "Svenja: Excessively kind and considered one of the most caring public officials in Adoulin, she uses her position as head of the Order of Janniston and minister of public affairs to further deepen her bonds with the community. As she is second in age only to Hildebert, it is no wonder why many view her as a maternal figure."
  66: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x010D [0x48] [System] [7419*]:
+ 67: 0x010D [0x48] [System] [7420*]:
     → "Even the grand chancellor holds her in high regard, to the point where he accepts any scolding from her with merely a downturned head and expression of shame. Svenja's solid standing within the order has begun to fracture somewhat of late, however, with the reinstatement of the pioneering effort."
  68: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0111 [0x01] GOTO 0x0213
  70: 0x0114 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0130
  71: 0x011C [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 72: 0x0121 [0x48] [System] [7264*]:
+ 72: 0x0121 [0x48] [System] [7265*]:
     → "@@"
  73: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0125 [0x48] [System] [7420*]:
+ 74: 0x0125 [0x48] [System] [7421*]:
     → "Ikhi Askamot: A prominent geomancer with an interest in nature as deep as the Senroh Sea, this Mithra simultaneously stands at the forefront of the Order of Renaye and works as the minister of education."
  75: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x0129 [0x48] [System] [7421*]:
+ 76: 0x0129 [0x48] [System] [7422*]:
     → "While she takes more than ample time to stop and smell the Yahse wildflowers, she reserves little of her patience for dealing with the continent's fauna. Considering her penchant for whispering sweet nothings to greenery at the expense of communication with her red-blooded compatriots, it comes as no surprise that Ikhi Askamot vows to fight against the colonization movement tooth and claw."
  77: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x012D [0x01] GOTO 0x0213
  79: 0x0130 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0150
  80: 0x0138 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 81: 0x013D [0x48] [System] [7264*]:
+ 81: 0x013D [0x48] [System] [7265*]:
     → "@@"
  82: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x0141 [0x48] [System] [7422*]:
+ 83: 0x0141 [0x48] [System] [7423*]:
     → "Chero-Machero: The current minister of commerce and the representative from the Order of Gorney, Chero-Machero's tongue is as smooth as silk when crooning to potential allies, but sharper than any wasp's stinger when his interlocutor is on the other side of an argument. Never one to sink quietly into the quicksand of mediocrity, his nonpareil business sense enabled him to transform a struggling city into a mercantile metropolis rivaling Jeuno."
  84: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0145 [0x48] [System] [7423*]:
+ 85: 0x0145 [0x48] [System] [7424*]:
     → "Increased trade with the other Vana'dielian continents and the construction of island workshops are just two of the many strokes of commercial genius with which he has blessed Adoulin."
  86: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0149 [0x48] [System] [7424*]:
+ 87: 0x0149 [0x48] [System] [7425*]:
     → "He was also the mastermind behind the plan to recruit adventurers from the Middle Lands as pioneers, which has only made the bad blood between him and Gratzigg curdle more quickly."
  88: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x014D [0x01] GOTO 0x0213
  90: 0x0150 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x016C
  91: 0x0158 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 92: 0x015D [0x48] [System] [7264*]:
+ 92: 0x015D [0x48] [System] [7265*]:
     → "@@"
  93: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0161 [0x48] [System] [7425*]:
+ 94: 0x0161 [0x48] [System] [7426*]:
     → "Margret: Younger than even the grand chancellor, Margret also happens to be his childhood friend. The two were often chided by Ygnas's father for their relentless treks up and down the halls of Castle Adoulin in search of adventure and finding the next mystery to uncover. Such qualities may indeed be one of the reasons why she was able to become the Order of Haverton's leader and subsequently assume the position of Scouts' Coalition maester."
  95: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0165 [0x48] [System] [7426*]:
+ 96: 0x0165 [0x48] [System] [7427*]:
     → "Though a genius in her own right, she applies her unparalleled powers of inference and deduction to the fields of exploration and intelligence gathering. Her extraordinary mental capacity has garnered her numerous accolades for deeds performed during surveys of the Ulbukan wilds, which--coupled with her long-standing relationship with Ygnas--could very well be a driving force behind her decision to support the pioneering effort."
  97: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0169 [0x01] GOTO 0x0213
  99: 0x016C [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0188
 100: 0x0174 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-101: 0x0179 [0x48] [System] [7264*]:
+101: 0x0179 [0x48] [System] [7265*]:
     → "@@"
 102: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x017D [0x48] [System] [7427*]:
+103: 0x017D [0x48] [System] [7428*]:
     → "Lhe Lhangavo: Hardly the most sociable of Adoulin's assembly members, she cannot even find common ground with the other Mithra representative. Lhe's legendary lack of congeniality extends beyond the political realm, however, as even her subordinates make it a habit to avoid her--lest they be buried in the mounds of work she piles upon them."
 104: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x0181 [0x48] [System] [7428*]:
+105: 0x0181 [0x48] [System] [7429*]:
     → "Due to her role at the Order of Karieyh's forefront, she is granted the honor of leading the Pioneers' Coalition. Therefore, it is hardly a question as to which side she places herself on the issue of colonization. In fact, she frequently bushwhacks her way to the front lines and throws herself straight into the fray, eliminating terrain obstacles and destroying the lairs of savage beasts that stand in the way of colonial progress."
 106: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0185 [0x01] GOTO 0x0213
 108: 0x0188 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x01A4
 109: 0x0190 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-110: 0x0195 [0x48] [System] [7264*]:
+110: 0x0195 [0x48] [System] [7265*]:
     → "@@"
 111: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x0199 [0x48] [System] [7429*]:
+112: 0x0199 [0x48] [System] [7430*]:
     → "Gratzigg: This mountain of a Galka boasts the most muscular figure of all the guardsmen in the Peacekeepers' Coalition and has an ironclad sense of justice to match. An austere disciplinarian and strict moralist, his unconditional love of his nation and ardent desire to maintain harmony amongst the populace are the exact qualities needed for a man in his position in the Order of Vocane."
 113: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x019D [0x48] [System] [7430*]:
+114: 0x019D [0x48] [System] [7431*]:
     → "A perfectionist to the utmost degree, it matters not whether he is risking life and limb in the Ulbukan jungle or patrolling the streets of Adoulin before sunrise; should he see someone even carving their name upon the cobblestones, he will spring into action and detain the offending citizen. His unyielding nature does little to help the tenuous ties he shares with the minister of commerce, however, and the two are so diametrically opposed concerning the colonization movement that fisticuffs have almost been unleashed at the assembly more than once."
 115: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x01A1 [0x01] GOTO 0x0213
 117: 0x01A4 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x01C0
 118: 0x01AC [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-119: 0x01B1 [0x48] [System] [7264*]:
+119: 0x01B1 [0x48] [System] [7265*]:
     → "@@"
 120: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x01B5 [0x48] [System] [7431*]:
+121: 0x01B5 [0x48] [System] [7432*]:
     → "Flaviria: The most prominent personage in the Order of Thurandaut and the maester of the Mummers' Coalition, Flaviria lacks not for wit--though it may be a tad dry for most people. She also spends many a day out and about the city, testing her latest quip on passersby. It is likely that no one else in the Sacred City possesses a greater love of and flare for comedy than her."
 122: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x01B9 [0x48] [System] [7432*]:
+123: 0x01B9 [0x48] [System] [7433*]:
     → "A notable miser, Flaviria usually spends her bayld on only the most basic of necessities and never jumps into any deal headfirst. She trusts the minister of commerce's judgment, however, and the two routinely engage in business ventures together. The subject of the pioneering movement is no different, and she stands proudly alongside Chero-Machero in support of cultivating the untamed wilds for the sake of all Adoulinians."
 124: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x01BD [0x01] GOTO 0x0213
 126: 0x01C0 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x01DC
 127: 0x01C8 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-128: 0x01CD [0x48] [System] [7264*]:
+128: 0x01CD [0x48] [System] [7265*]:
     → "@@"
 129: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x01D1 [0x48] [System] [7433*]:
+130: 0x01D1 [0x48] [System] [7434*]:
     → "Reginald: The most taciturn of Adoulin's twelve assembly members, not much is known about Reginald. Much has been made of how he has revolutionized the transportation of cargo as the head of the Couriers' Coalition and Order of Shneddick, but none know exactly how he finds his inspiration."
 131: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x01D5 [0x48] [System] [7434*]:
+132: 0x01D5 [0x48] [System] [7435*]:
     → "Fittingly, he also lets his actions speak louder than his words when it comes to supporting the colonization movement."
 133: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x01D9 [0x01] GOTO 0x0213
 135: 0x01DC [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0203
 136: 0x01E4 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-137: 0x01E9 [0x48] [System] [7264*]:
+137: 0x01E9 [0x48] [System] [7265*]:
     → "@@"
 138: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x01ED [0x48] [System] [7435*]:
+139: 0x01ED [0x48] [System] [7436*]:
     → "Amchuchu: Far ahead of her time, it is a wonder that such a massive brain can be crammed into her small Tarutaru frame. As the maester of the Inventors' Coalition and the leader of the Order of Orvail, she has made innumerable contributions to the welfare of the nation through her many marvelous creations."
 140: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x01F1 [0x48] [System] [7436*]:
+141: 0x01F1 [0x48] [System] [7437*]:
     → "She has already accomplished so much, however, that she must wait impatiently for the continent to catch up--a fact which causes no end to her consternation. When not tinkering away in the coalition headquarters on her next unconventional contrivance, she voices her support for the pioneering effort--of which she has much time to do, seeing as how she must often wait for her foreign materials and technology to arrive."
 142: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x01F5 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x0200
-144: 0x01FC [0x48] [System] [7437*]:
+144: 0x01FC [0x48] [System] [7438*]:
     → "At least she has a new pupil from the Middle Lands with whom to bide her time."
 145: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0200 [0x01] GOTO 0x0213
@@ -595,186 +595,186 @@ SUBROUTINE_0213:
 SUBROUTINE_0226:
 154: 0x0226 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x03CC
 155: 0x022E [0x06] ExtData[1]->WorkLocal[13] = 0
-156: 0x0231 [0x24] CREATE_DIALOG(message_id=7341*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+156: 0x0231 [0x24] CREATE_DIALOG(message_id=7342*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "What personage shall you research? [August P. Adoulin./Guntram Woltaris./Jorius Weatherspoon./Xanira Janniston./Rala Renaye./Ceizak Gorney./Yorcia Haverton./Yahse Karieyh./Cirdas Vocane./Hennetiel Thurandaut./Morimar Shneddick./Marjami Orvail./No one.]"
 157: 0x0238 [0x25] WAIT_DIALOG_SELECT()
 158: 0x0239 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0255
 159: 0x0241 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-160: 0x0246 [0x48] [System] [7264*]:
+160: 0x0246 [0x48] [System] [7265*]:
     → "@@"
 161: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
-162: 0x024A [0x48] [System] [7592*]:
+162: 0x024A [0x48] [System] [7593*]:
     → "August P. Adoulin: Known colloquially in the present day as "The Founder King," his martial prowess was matched only by his undeniable charisma and steadfast love of the people. Nary a child in Adoulin grows up without being told tales of his numerous exploits."
 163: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x024E [0x48] [System] [7593*]:
+164: 0x024E [0x48] [System] [7594*]:
     → "His grace and lightning-quick reflexes led him to be known in his age as "the knight of the swallow," and his order took up that symbol to honor his memory."
 165: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0252 [0x01] GOTO 0x03C9
 167: 0x0255 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0279
 168: 0x025D [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-169: 0x0262 [0x48] [System] [7264*]:
+169: 0x0262 [0x48] [System] [7265*]:
     → "@@"
 170: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
-171: 0x0266 [0x48] [System] [7594*]:
+171: 0x0266 [0x48] [System] [7595*]:
     → "Guntram Woltaris: Quick of mind and sharp of wit, Guntram invented the predecessor for what later generations would term "waypoints," and stationed them through the Ulbukan hinterlands."
 172: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x026A [0x48] [System] [7595*]:
+173: 0x026A [0x48] [System] [7596*]:
     → "In recognition of his ability to churn out new ideas like a tree shedding its leaves in autumn, his disciples took on the symbol of the leaf for their order."
 174: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
-175: 0x026E [0x48] [System] [7596*]:
+175: 0x026E [0x48] [System] [7597*]:
     → "The waypoints currently enjoyed by pioneers and supporting staff are, as alluded to, the latest in a long string of improvements dating back to their original incarnations centuries ago."
 176: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
-177: 0x0272 [0x48] [System] [7597*]:
+177: 0x0272 [0x48] [System] [7598*]:
     → "Unsurprisingly, the Inventors' Coalition has taken it upon itself to further the accuracy and reliability of the devices, and recent advances have seen the successful teleportation rate climb to 99.9%."
 178: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0276 [0x01] GOTO 0x03C9
 180: 0x0279 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x029D
 181: 0x0281 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-182: 0x0286 [0x48] [System] [7264*]:
+182: 0x0286 [0x48] [System] [7265*]:
     → "@@"
 183: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
-184: 0x028A [0x48] [System] [7598*]:
+184: 0x028A [0x48] [System] [7599*]:
     → "Jorius Weatherspoon: With a command over the spiritual and a dedication to stamping out the profane, Jorius is viewed by leading academics as the first of the modern-day exorcists."
 185: 0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
-186: 0x028E [0x48] [System] [7599*]:
+186: 0x028E [0x48] [System] [7600*]:
     → "The pillar of light he conjured was said to stretch up in the sky like a butterfly fluttering toward the sun, so it was only natural for his followers to use the same imagery in their crest."
 187: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
-188: 0x0292 [0x48] [System] [7600*]:
+188: 0x0292 [0x48] [System] [7601*]:
     → "Although scholars continue to debate the exact nature of this "Light of Purification," the prevailing theory is that it bears a striking resemblance to what became known in Mindartia and Quon as "Holy.""
 189: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
-190: 0x0296 [0x48] [System] [7601*]:
+190: 0x0296 [0x48] [System] [7602*]:
     → "Jorius Yett takes its moniker from this storied general; much as the Light of Purification protected Adoulin in its time of need, so, too, does the yett stand to shield Adoulin from harm."
 191: 0x0299 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x029A [0x01] GOTO 0x03C9
 193: 0x029D [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02C5
 194: 0x02A5 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-195: 0x02AA [0x48] [System] [7264*]:
+195: 0x02AA [0x48] [System] [7265*]:
     → "@@"
 196: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-197: 0x02AE [0x48] [System] [7602*]:
+197: 0x02AE [0x48] [System] [7603*]:
     → "Xanira Janniston: Preferring the backlines to the fray, Xanira often found herself tending to the ill, her mystical prowess mending wounds with nary a needle or suture."
 198: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-199: 0x02B2 [0x48] [System] [7603*]:
+199: 0x02B2 [0x48] [System] [7604*]:
     → "This is not to say she was a stranger to more traditional arts, as she had undergone years of training herself, but none could compare to her deftness at getting wounded soldiers battle-ready once more."
 200: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-201: 0x02B6 [0x48] [System] [7604*]:
+201: 0x02B6 [0x48] [System] [7605*]:
     → "Knowing that she was always prepared to send them back in fighting form, frontline warriors found themselves feeling invincible."
 202: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-203: 0x02BA [0x48] [System] [7605*]:
+203: 0x02BA [0x48] [System] [7606*]:
     → "Broken bones and shattered spirits were but a small obstacle for her to overcome, and countless were those who owed their lives to her talents."
 204: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-205: 0x02BE [0x48] [System] [7606*]:
+205: 0x02BE [0x48] [System] [7607*]:
     → "Her order adopted the symbol of the dewdrop in recognition of the tears of pain Xanira was able to wipe away."
 206: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x02C2 [0x01] GOTO 0x03C9
 208: 0x02C5 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x02ED
 209: 0x02CD [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-210: 0x02D2 [0x48] [System] [7264*]:
+210: 0x02D2 [0x48] [System] [7265*]:
     → "@@"
 211: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x02D6 [0x48] [System] [7607*]:
+212: 0x02D6 [0x48] [System] [7608*]:
     → "Rala Renaye: As a descendant of Vana'diel's first geomancer, Sih Renaye, Rala was known for her ability to assert control over the field of battle."
 213: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x02DA [0x48] [System] [7608*]:
+214: 0x02DA [0x48] [System] [7609*]:
     → "Owing to the city's location on the easternmost coast, Adoulinians found themselves with nowhere to flee when the bulk of the Velkk forces invaded from the west."
 215: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-216: 0x02DE [0x48] [System] [7609*]:
+216: 0x02DE [0x48] [System] [7610*]:
     → "When August made landfall, however, he retaliated with such overwhelming force that the Velkk scattered like ashes in the wind."
 217: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-218: 0x02E2 [0x48] [System] [7610*]:
+218: 0x02E2 [0x48] [System] [7611*]:
     → "In awe of the founder king's strategic mind, she offered her services not just as a general, but as a representative of all Adoulin's geomancers."
 219: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-220: 0x02E6 [0x48] [System] [7611*]:
+220: 0x02E6 [0x48] [System] [7612*]:
     → "A geomancer is nothing without her keen attunement with the land, and in honor of this bond Rala took up an expanse of grass as her symbol, representing the way flora encompasses and embraces the ground on which it grows."
 221: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x02EA [0x01] GOTO 0x03C9
 223: 0x02ED [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0309
 224: 0x02F5 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-225: 0x02FA [0x48] [System] [7264*]:
+225: 0x02FA [0x48] [System] [7265*]:
     → "@@"
 226: 0x02FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x02FE [0x48] [System] [7612*]:
+227: 0x02FE [0x48] [System] [7613*]:
     → "Ceizak Gorney: The commissariat of August's armies, Ceizak was in charge of provisioning supplies and performing civil works. Without his efforts, the founder king and his entourage would have never been able to gain footholds into enemy-controlled areas."
 228: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
-229: 0x0302 [0x48] [System] [7613*]:
+229: 0x0302 [0x48] [System] [7614*]:
     → "His list of personal connections was both wide and winding, and as such the symbol of the snake came to be associated with all his actions."
 230: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x0306 [0x01] GOTO 0x03C9
 232: 0x0309 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0325
 233: 0x0311 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-234: 0x0316 [0x48] [System] [7264*]:
+234: 0x0316 [0x48] [System] [7265*]:
     → "@@"
 235: 0x0319 [0x23] WAIT_FOR_DIALOG_INTERACTION
-236: 0x031A [0x48] [System] [7614*]:
+236: 0x031A [0x48] [System] [7615*]:
     → "Yorcia Haverton: A master of all things intelligence, Yorcia prided herself on being able to wring information from rock and water, the living and the unliving, the reticent and the loose of tongue. She was also a skilled assassin, striking at her foes before they could utter cries of help."
 237: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
-238: 0x031E [0x48] [System] [7615*]:
+238: 0x031E [0x48] [System] [7616*]:
     → "Her flitting from shadow to shadow, always present but never seen, led her followers to adopt the symbol of the raven in her honor."
 239: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x0322 [0x01] GOTO 0x03C9
 241: 0x0325 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0341
 242: 0x032D [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-243: 0x0332 [0x48] [System] [7264*]:
+243: 0x0332 [0x48] [System] [7265*]:
     → "@@"
 244: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
-245: 0x0336 [0x48] [System] [7616*]:
+245: 0x0336 [0x48] [System] [7617*]:
     → "Yahse Karieyh: Quick on her feet and skilled in botany, Yahse Karieyh was an expert wilderness survivalist who could construct makeshift shelter from even the smallest of leaves and twigs."
 246: 0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
-247: 0x033A [0x48] [System] [7617*]:
+247: 0x033A [0x48] [System] [7618*]:
     → "Her keen manipulation of her surroundings in clever ways earned the naturalist the affectionate moniker "monkey"--an image that would stay with her order for years to come."
 248: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x033E [0x01] GOTO 0x03C9
 250: 0x0341 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0361
 251: 0x0349 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-252: 0x034E [0x48] [System] [7264*]:
+252: 0x034E [0x48] [System] [7265*]:
     → "@@"
 253: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
-254: 0x0352 [0x48] [System] [7618*]:
+254: 0x0352 [0x48] [System] [7619*]:
     → "Cirdas Vocane: A Hume of such height and bulk that from afar he was often mistaken for a Galka, Cirdas commanded his spear so adroitly that on the battlefield his movements were like a swirling tempest."
 255: 0x0355 [0x23] WAIT_FOR_DIALOG_INTERACTION
-256: 0x0356 [0x48] [System] [7619*]:
+256: 0x0356 [0x48] [System] [7620*]:
     → "His unflinching presence on the frontlines protecting Adoulin's citizenry from harm led many to call him "The Shield of Adoulin.""
 257: 0x0359 [0x23] WAIT_FOR_DIALOG_INTERACTION
-258: 0x035A [0x48] [System] [7620*]:
+258: 0x035A [0x48] [System] [7621*]:
     → "Much like the roots of a grand oak tree for which his order was later known, Cirdas always dug deep into the earth and refused to yield ground under the most vicious of assaults."
 259: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x035E [0x01] GOTO 0x03C9
 261: 0x0361 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0381
 262: 0x0369 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-263: 0x036E [0x48] [System] [7264*]:
+263: 0x036E [0x48] [System] [7265*]:
     → "@@"
 264: 0x0371 [0x23] WAIT_FOR_DIALOG_INTERACTION
-265: 0x0372 [0x48] [System] [7621*]:
+265: 0x0372 [0x48] [System] [7622*]:
     → "Hennetiel Thurandaut: A morale specialist, when Hennetiel wasn't commanding his wyvern in battle, he would perform daring feats and tricks, much to the delight of those with the wind taken out of their sails."
 266: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
-267: 0x0376 [0x48] [System] [7622*]:
+267: 0x0376 [0x48] [System] [7623*]:
     → "His jovial nature made him a natural for such a herculean task, and he and "Izzy" often stayed up until the wee hours of the morning practicing their routine."
 268: 0x0379 [0x23] WAIT_FOR_DIALOG_INTERACTION
-269: 0x037A [0x48] [System] [7623*]:
+269: 0x037A [0x48] [System] [7624*]:
     → "It was only fitting that after his death his followers took up the symbol of the lizard."
 270: 0x037D [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0x037E [0x01] GOTO 0x03C9
 272: 0x0381 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x039D
 273: 0x0389 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-274: 0x038E [0x48] [System] [7264*]:
+274: 0x038E [0x48] [System] [7265*]:
     → "@@"
 275: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x0392 [0x48] [System] [7624*]:
+276: 0x0392 [0x48] [System] [7625*]:
     → "Morimar Shneddick: Known for his ability to tame the wild beasts of the harsh Ulbukan jungle, Morimar could turn the fauna against the demonic forces that besieged Ulbuka."
 277: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
-278: 0x0396 [0x48] [System] [7625*]:
+278: 0x0396 [0x48] [System] [7626*]:
     → "He often used their primal prowess to guard his regiment's flank and secure lines of provision. This cat-and-mouse style led his order to elect the latter to serve as their symbol."
 279: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x039A [0x01] GOTO 0x03C9
 281: 0x039D [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x03B9
 282: 0x03A5 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-283: 0x03AA [0x48] [System] [7264*]:
+283: 0x03AA [0x48] [System] [7265*]:
     → "@@"
 284: 0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x03AE [0x48] [System] [7626*]:
+285: 0x03AE [0x48] [System] [7627*]:
     → "Marjami Orvail: Though able to wield the fiercest of elemental powers, Marjami did so not through staff, scepter, or wand, but rather through the power of her blade, which left a faint trail of light as it sliced through scale and flesh."
 286: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-287: 0x03B2 [0x48] [System] [7627*]:
+287: 0x03B2 [0x48] [System] [7628*]:
     → "In symbolizing the eight elements that rule Vana'diel, her order took up the crest of the eight-legged spider."
 288: 0x03B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x03B6 [0x01] GOTO 0x03C9
@@ -801,74 +801,74 @@ SUBROUTINE_03F8:
 304: 0x0402 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=3*, condition_work_offset=1*)
 
 SUBROUTINE_0409:
-305: 0x0409 [0x24] CREATE_DIALOG(message_id=7342*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+305: 0x0409 [0x24] CREATE_DIALOG(message_id=7343*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "Which personage shall you research? [Ghalcimus D. Adoulin./Arciela V. Adoulin./Vortimere./Ingrid./No one.]"
 306: 0x0410 [0x25] WAIT_DIALOG_SELECT()
 307: 0x0411 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0431
 308: 0x0419 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-309: 0x041E [0x48] [System] [7264*]:
+309: 0x041E [0x48] [System] [7265*]:
     → "@@"
 310: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
-311: 0x0422 [0x48] [System] [7628*]:
+311: 0x0422 [0x48] [System] [7629*]:
     → "Ghalcimus D. Adoulin: The former grand chancellor, Ghalcimus led an expeditionary force into the hinterlands and vanished in the year 879."
 312: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
-313: 0x0426 [0x48] [System] [7629*]:
+313: 0x0426 [0x48] [System] [7630*]:
     → "He brought a small entourage of eleven troops, hoping to learn more about the jungle and its perils, but none of the twelve returned."
 314: 0x0429 [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x042A [0x48] [System] [7630*]:
+315: 0x042A [0x48] [System] [7631*]:
     → "No one has yet found a trace of their bodies or supplies, and the precise location where he vanished is yet unknown."
 316: 0x042D [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x042E [0x01] GOTO 0x04B7
 318: 0x0431 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0467
 319: 0x0439 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-320: 0x043E [0x48] [System] [7264*]:
+320: 0x043E [0x48] [System] [7265*]:
     → "@@"
 321: 0x0441 [0x23] WAIT_FOR_DIALOG_INTERACTION
-322: 0x0442 [0x48] [System] [7440*]:
+322: 0x0442 [0x48] [System] [7441*]:
     → "Arciela V. Adoulin: The younger sister of Ygnas, Arciela is next in line to succeed the Order of Adoulin and chancellorship. While extremely well-behaved and the manifestation of propriety in front of an audience, she has a wild side that compels her to conduct impromptu surveys in the depths of the forbidden forest alone."
 323: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
-324: 0x0446 [0x48] [System] [7442*]:
+324: 0x0446 [0x48] [System] [7443*]:
     → "Never one to use her social status as an excuse to trample over the downtrodden, she treats all with respect and familiarity--including her three maidservants: Grennith, Fremilla, and Cynthia."
 325: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
-326: 0x044A [0x48] [System] [7443*]:
+326: 0x044A [0x48] [System] [7444*]:
     → "This warm nature has earned her the admiration of the vast majority of Adoulin's populace, and many refer to her by the moniker "princess.""
 327: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x044E [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x0459
-329: 0x0455 [0x48] [System] [7441*]:
+329: 0x0455 [0x48] [System] [7442*]:
     → "Interestingly, it is not her elder brother, but she who has inherited the founder king's treasured weapon Ortharsyne. The blade only leaves her side when she draws it upon her foes, and her refusal to part with it has given rise to rumors that she sleeps in a special position to accommodate her belt and sheath."
 330: 0x0458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x0459 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 8*) GOTO 0x0464
-332: 0x0460 [0x48] [System] [7444*]:
+332: 0x0460 [0x48] [System] [7445*]:
     → "Having recently been anointed as the leader of the Order of Adoulin, Arciela is charged with leading the Sacred City of Adoulin to even greater prosperity as its one true leader both in name and in practice."
 333: 0x0463 [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0x0464 [0x01] GOTO 0x04B7
 335: 0x0467 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0483
 336: 0x046F [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-337: 0x0474 [0x48] [System] [7264*]:
+337: 0x0474 [0x48] [System] [7265*]:
     → "@@"
 338: 0x0477 [0x23] WAIT_FOR_DIALOG_INTERACTION
-339: 0x0478 [0x48] [System] [7438*]:
+339: 0x0478 [0x48] [System] [7439*]:
     → "Vortimere: Working tirelessly to spread the good word of Altana, Vortimere occupies the highest rank that any priory member can aspire to obtain--archexorcist. As the exorcists fall under the minister of judication's jurisdiction, he represents the Order of Weatherspoon alongside Hildebert. Though he may be the most influential missionary in all of Ulbuka, he lacks a certain verbal charisma, often stumbling over his words and pausing to collect his thoughts during assembly meetings."
 340: 0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
-341: 0x047C [0x48] [System] [7439*]:
+341: 0x047C [0x48] [System] [7440*]:
     → "This reputation seems to precede him, as commoners who have only heard of Vortimere's idiosyncrasies can instantly recognize him by the bottomless canyon etched into his brow. He never leaves his abode without some sort of thick treatise on sorcery tucked snugly under his arm, and he can often be seen poring over the rumpled pages yellowed with use of whatever tome he currently possesses."
 342: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
 343: 0x0480 [0x01] GOTO 0x04B7
 344: 0x0483 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x04A7
 345: 0x048B [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-346: 0x0490 [0x48] [System] [7264*]:
+346: 0x0490 [0x48] [System] [7265*]:
     → "@@"
 347: 0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
-348: 0x0494 [0x48] [System] [7445*]:
+348: 0x0494 [0x48] [System] [7446*]:
     → "Ingrid: An exorcist from the Order of Weatherspoon, Ingrid is known through the city to have a heart of ice and a tongue of fire."
 349: 0x0497 [0x23] WAIT_FOR_DIALOG_INTERACTION
-350: 0x0498 [0x48] [System] [7446*]:
+350: 0x0498 [0x48] [System] [7447*]:
     → "She has made a name throughout the priory for her knowledge of purgation rituals wherein she uses implements symbolizing the power of Adoulin to rid people and places of ill spirits that haunt them. This expert knowledge comes from her vast wealth of experience, as she has successfully performed over fifty such rites."
 351: 0x049B [0x23] WAIT_FOR_DIALOG_INTERACTION
-352: 0x049C [0x48] [System] [7447*]:
+352: 0x049C [0x48] [System] [7448*]:
     → "She refuses to tolerate those with lackadaisical personalities or who cut corners, and her relationships with others are often strained."
 353: 0x049F [0x23] WAIT_FOR_DIALOG_INTERACTION
-354: 0x04A0 [0x48] [System] [7448*]:
+354: 0x04A0 [0x48] [System] [7449*]:
     → "Still, her own record is not without blemish. A ritual gone wrong once caused the order to lose faith in her talents, but over time this came to be viewed as an anomaly, and she has both regained her honor and claimed a position as one of the most storied exorcists in the city."
 355: 0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x04A4 [0x01] GOTO 0x04B7
@@ -890,60 +890,60 @@ SUBROUTINE_04CA:
 368: 0x04DF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=1*, condition_work_offset=1*)
 
 SUBROUTINE_04E6:
-369: 0x04E6 [0x24] CREATE_DIALOG(message_id=7343*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+369: 0x04E6 [0x24] CREATE_DIALOG(message_id=7344*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "Which personage shall you research? [Gramk-Droog the Vanquisher./Skov-Trok the Instigator./Soraa Ishakal./Zunmimi./Melisandra./No one.]"
 370: 0x04ED [0x25] WAIT_DIALOG_SELECT()
 371: 0x04EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x050A
 372: 0x04F6 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-373: 0x04FB [0x48] [System] [7264*]:
+373: 0x04FB [0x48] [System] [7265*]:
     → "@@"
 374: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-375: 0x04FF [0x48] [System] [7631*]:
+375: 0x04FF [0x48] [System] [7632*]:
     → "Gramk-Droog the Vanquisher: The current king of the Velkk. Scholars debate whether "king" is the appropriate term, as Velkk political structures are believed to be primitive."
 376: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
-377: 0x0503 [0x48] [System] [7632*]:
+377: 0x0503 [0x48] [System] [7633*]:
     → "The title "Vanquisher" is also an Adoulinian term, given to him owing to his endless massacre of swaths of the city's soldiers."
 378: 0x0506 [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x0507 [0x01] GOTO 0x0582
 380: 0x050A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x052A
 381: 0x0512 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-382: 0x0517 [0x48] [System] [7264*]:
+382: 0x0517 [0x48] [System] [7265*]:
     → "@@"
 383: 0x051A [0x23] WAIT_FOR_DIALOG_INTERACTION
-384: 0x051B [0x48] [System] [7633*]:
+384: 0x051B [0x48] [System] [7634*]:
     → "Skov-Trok the Instigator: When the Velkk were at the height of their power during the time of the founder king, Skov-Trok commanded endless hordes of troops to strike at his foe's weak points."
 385: 0x051E [0x23] WAIT_FOR_DIALOG_INTERACTION
-386: 0x051F [0x48] [System] [7634*]:
+386: 0x051F [0x48] [System] [7635*]:
     → "Yet August was undeterred. He attacked swiftly and viciously, driving the Velkk far to the west, where they have remained to the present day."
 387: 0x0522 [0x23] WAIT_FOR_DIALOG_INTERACTION
-388: 0x0523 [0x48] [System] [7635*]:
+388: 0x0523 [0x48] [System] [7636*]:
     → "Records indicate that no other Velkk since has reigned as long as he."
 389: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
 390: 0x0527 [0x01] GOTO 0x0582
 391: 0x052A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0542
 392: 0x0532 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-393: 0x0537 [0x48] [System] [7264*]:
+393: 0x0537 [0x48] [System] [7265*]:
     → "@@"
 394: 0x053A [0x23] WAIT_FOR_DIALOG_INTERACTION
-395: 0x053B [0x48] [System] [7636*]:
+395: 0x053B [0x48] [System] [7637*]:
     → "Soraa Ishakal: Leader of the Blackthorn Coven, Soraa's unflinching dedication to her group would be worthy of praise...if the coven were more benevolent."
 396: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x053F [0x01] GOTO 0x0582
 398: 0x0542 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x055A
 399: 0x054A [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-400: 0x054F [0x48] [System] [7264*]:
+400: 0x054F [0x48] [System] [7265*]:
     → "@@"
 401: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
-402: 0x0553 [0x48] [System] [7637*]:
+402: 0x0553 [0x48] [System] [7638*]:
     → "Zunmimi: The Tarutaru representative of the Blackthorn Coven, Zunmimi is known for her sarcastic, never-say-die attitude and love of all things wicked."
 403: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
 404: 0x0557 [0x01] GOTO 0x0582
 405: 0x055A [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0572
 406: 0x0562 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-407: 0x0567 [0x48] [System] [7264*]:
+407: 0x0567 [0x48] [System] [7265*]:
     → "@@"
 408: 0x056A [0x23] WAIT_FOR_DIALOG_INTERACTION
-409: 0x056B [0x48] [System] [7638*]:
+409: 0x056B [0x48] [System] [7639*]:
     → "Melisandra: The youngest member of the Blackthorn Coven, Melisandra is often concerned with what the others think of her, wondering if she measures up properly."
 410: 0x056E [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x056F [0x01] GOTO 0x0582
@@ -965,54 +965,54 @@ SUBROUTINE_0595:
 423: 0x05AA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=2*, condition_work_offset=1*)
 
 SUBROUTINE_05B1:
-424: 0x05B1 [0x24] CREATE_DIALOG(message_id=7344*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+424: 0x05B1 [0x24] CREATE_DIALOG(message_id=7345*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "Which personage shall you research? [Sih Renaye./Sverdhried./Terrcualn./No one.]"
 425: 0x05B8 [0x25] WAIT_DIALOG_SELECT()
 426: 0x05B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DD
 427: 0x05C1 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-428: 0x05C6 [0x48] [System] [7264*]:
+428: 0x05C6 [0x48] [System] [7265*]:
     → "@@"
 429: 0x05C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-430: 0x05CA [0x48] [System] [7639*]:
+430: 0x05CA [0x48] [System] [7640*]:
     → "Sih Renaye: One of Adoulin's most storied figures who was not one of August's generals, Sih Renaye marked her place in history as Adoulin's first geomancer."
 431: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-432: 0x05CE [0x48] [System] [7640*]:
+432: 0x05CE [0x48] [System] [7641*]:
     → "It was she who discovered the inexorable link between ergon loci and the lifestream, utilizing their power to cultivate the first geomantic energies."
 433: 0x05D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-434: 0x05D2 [0x48] [System] [7641*]:
+434: 0x05D2 [0x48] [System] [7642*]:
     → "When the Velkk forces collapsed on an outlying settlement, Sih and her five disciples called forth an extraordinary display of geomantic prowess, the sizzling energies shielding the villagers from harm."
 435: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-436: 0x05D6 [0x48] [System] [7642*]:
+436: 0x05D6 [0x48] [System] [7643*]:
     → "Related Works: Sih Renaye and the Five Disciples The Siren Legends Bagua Poetry"
 437: 0x05D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 438: 0x05DA [0x01] GOTO 0x062D
 439: 0x05DD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0601
 440: 0x05E5 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-441: 0x05EA [0x48] [System] [7264*]:
+441: 0x05EA [0x48] [System] [7265*]:
     → "@@"
 442: 0x05ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-443: 0x05EE [0x48] [System] [7643*]:
+443: 0x05EE [0x48] [System] [7644*]:
     → "Sverdhried: Often referred to as the father of rune fencing, Sverdhried was a stoic warrior who lived sometime in the early 400s."
 444: 0x05F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-445: 0x05F2 [0x48] [System] [7644*]:
+445: 0x05F2 [0x48] [System] [7645*]:
     → "In a long-forgotten mystical kingdom in the frozen wastes of Rhazowa, Sverdhried gained the ability to use enchanted script known as "runes," which he combined with his training as a blademaster to develop the art we know today as rune fencing."
 446: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-447: 0x05F6 [0x48] [System] [7645*]:
+447: 0x05F6 [0x48] [System] [7646*]:
     → "Having dedicated himself fully to this fusion of religious scripture and swordsmanship, Sverdhried then traveled through Vana'diel's many continents, proselytizing about this newfound way of life. Yet he was not blind in his devotion, and every land he visited sated his curiosity about various ways of life, which he then incorporated into his own training."
 448: 0x05F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-449: 0x05FA [0x48] [System] [7646*]:
+449: 0x05FA [0x48] [System] [7647*]:
     → "Related Works: A Glossary of Runic Script Futhark Philosophy"
 450: 0x05FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 451: 0x05FE [0x01] GOTO 0x062D
 452: 0x0601 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x061D
 453: 0x0609 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-454: 0x060E [0x48] [System] [7264*]:
+454: 0x060E [0x48] [System] [7265*]:
     → "@@"
 455: 0x0611 [0x23] WAIT_FOR_DIALOG_INTERACTION
-456: 0x0612 [0x48] [System] [7647*]:
+456: 0x0612 [0x48] [System] [7648*]:
     → "Terrcualn: A tiger whose mane and fur were flecked with gold, Terrcualn was said to fight alongside King August during his most dangerous forays into the Ulbukan continent."
 457: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
-458: 0x0616 [0x48] [System] [7648*]:
+458: 0x0616 [0x48] [System] [7649*]:
     → "In recent years, pioneers and citizens alike have been reporting sightings of a creature remarkably similar in appearance. Could this be the legendary tiger or one of his descendants?"
 459: 0x0619 [0x23] WAIT_FOR_DIALOG_INTERACTION
 460: 0x061A [0x01] GOTO 0x062D

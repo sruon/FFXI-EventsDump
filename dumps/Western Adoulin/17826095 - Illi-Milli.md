@@ -21,15 +21,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x2683      |        9859 |
-|       2 | 0x2684      |        9860 |
-|       3 | 0x2685      |        9861 |
+|       1 | 0x2684      |        9860 |
+|       2 | 0x2685      |        9861 |
+|       3 | 0x2686      |        9862 |
 
 ## String References
 
-- **9859**: Just a short jauntaru over Big Bridge will take you into Eastern Adoulin!
-- **9860**: Coincidentaruly, that's also where the Peacekeepers' Coalition is stationed. We watch over all the citizen-witizens of the city!
-- **9861**: We watch from within guard towers, from upon the city walls, from everywhere! Sometimes our hardened gaze even awakens certain dormantaru feelings with people, which end up coming back to bite us.
+- **9860**: Just a short jauntaru over Big Bridge will take you into Eastern Adoulin!
+- **9861**: Coincidentaruly, that's also where the Peacekeepers' Coalition is stationed. We watch over all the citizen-witizens of the city!
+- **9862**: We watch from within guard towers, from upon the city walls, from everywhere! Sometimes our hardened gaze even awakens certain dormantaru feelings with people, which end up coming back to bite us.
 
 ## Events
 
@@ -81,13 +81,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9859*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9860*)
     → "Just a short jauntaru over Big Bridge will take you into Eastern Adoulin!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9860*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9861*)
     → "Coincidentaruly, that's also where the Peacekeepers' Coalition is stationed. We watch over all the citizen-witizens of the city!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9861*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9862*)
     → "We watch from within guard towers, from upon the city walls, from everywhere! Sometimes our hardened gaze even awakens certain dormantaru feelings with people, which end up coming back to bite us."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

@@ -40,11 +40,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00B4      |         180 |
-|       1 | 0x1F7B      |        8059 |
+|       1 | 0x1F7C      |        8060 |
 
 ## String References
 
-- **8059**: ONE$26RED$26AP-PLE$26PLUS$26ONE$26BLUE$26AP-PLE$26MAKES......ONE$26PUR-PLE$26AP-PLE!?
+- **8060**: ONE$26RED$26AP-PLE$26PLUS$26ONE$26BLUE$26AP-PLE$26MAKES......ONE$26PUR-PLE$26AP-PLE!?
 
 ## Events
 
@@ -284,7 +284,7 @@
   0: 0x0079 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
+  3: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
     → "ONE$26RED$26AP-PLE$26PLUS$26ONE$26BLUE$26AP-PLE$26MAKES......ONE$26PUR-PLE$26AP-PLE!?"
   4: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0084 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

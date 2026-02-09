@@ -29,14 +29,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x23EF      |        9199 |
+|       0 | 0x23F0      |        9200 |
 |       1 | 0x003C      |          60 |
-|       2 | 0x23DD      |        9181 |
-|       3 | 0x23DE      |        9182 |
-|       4 | 0x23EA      |        9194 |
-|       5 | 0x23EB      |        9195 |
-|       6 | 0x23EC      |        9196 |
-|       7 | 0x23F0      |        9200 |
+|       2 | 0x23DE      |        9182 |
+|       3 | 0x23DF      |        9183 |
+|       4 | 0x23EB      |        9195 |
+|       5 | 0x23EC      |        9196 |
+|       6 | 0x23ED      |        9197 |
+|       7 | 0x23F1      |        9201 |
 |       8 | 0xFFFE670B  |  4294862603 |
 |       9 | 0x5706      |       22278 |
 |      10 | 0xFFFFF705  |  4294964997 |
@@ -52,21 +52,21 @@
 |      20 | 0xFFFE64C1  |  4294862017 |
 |      21 | 0x6864      |       26724 |
 |      22 | 0xFFFFFCAE  |  4294966446 |
-|      23 | 0x2706      |        9990 |
+|      23 | 0x2707      |        9991 |
 |      24 | 0x001E      |          30 |
-|      25 | 0x270B      |        9995 |
+|      25 | 0x270C      |        9996 |
 
 ## String References
 
-- **9181**: Five $1. It's a small price to pay for saving someone's life, but...
-- **9182**: Where am I gonna get my hands on goods like that?
-- **9194**: There have been rumors of some weird eddy of darkness in a cave near Selbina that can take you to the Tavnazian Archipelago...
-- **9195**: They say a guy who entered that patch of Emptiness never returned.
-- **9196**: That story is still the talk of the town in Selbina. When your friend hears how dangerous it is, she'll give up on the idea, I'd say.
-- **9199**: What's an adventurer doing back here? Look buddy, I've got all these boxes to sort through. If you're looking for work, try someplace else.
-- **9200**: $3N$3$3AcL$3$3b$3Z[$3W
-- **9990**: <Player>'s badge flashes brightly.
-- **9995**: What's an adventurer doing back here? Look, buddy, I've got all these boxes to sort through. If you're looking for work, you should go to the Near East.
+- **9182**: Five $1. It's a small price to pay for saving someone's life, but...
+- **9183**: Where am I gonna get my hands on goods like that?
+- **9195**: There have been rumors of some weird eddy of darkness in a cave near Selbina that can take you to the Tavnazian Archipelago...
+- **9196**: They say a guy who entered that patch of Emptiness never returned.
+- **9197**: That story is still the talk of the town in Selbina. When your friend hears how dangerous it is, she'll give up on the idea, I'd say.
+- **9200**: What's an adventurer doing back here? Look buddy, I've got all these boxes to sort through. If you're looking for work, try someplace else.
+- **9201**: $3N$3$3AcL$3$3b$3Z[$3W
+- **9991**: <Player>'s badge flashes brightly.
+- **9996**: What's an adventurer doing back here? Look, buddy, I've got all these boxes to sort through. If you're looking for work, you should go to the Near East.
 
 ## Events
 
@@ -158,7 +158,7 @@
   0: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
     → "What's an adventurer doing back here? Look buddy, I've got all these boxes to sort through. If you're looking for work, try someplace else."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -189,10 +189,10 @@
 ```
   0: 0x0010 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[3]
   1: 0x0015 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Patient Wheel (ID: 17744033/0x010EC0A1), Patient Wheel (ID: 17744033/0x010EC0A1)], work=60*
-  2: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=9181*)
+  2: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=9182*)
     → "Five $1. It's a small price to pay for saving someone's life, but..."
   3: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9182*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9183*)
     → "Where am I gonna get my hands on goods like that?"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Patient Wheel (ID: 17744033/0x010EC0A1), Patient Wheel (ID: 17744033/0x010EC0A1)], work=60*
@@ -228,13 +228,13 @@
   1: 0x004F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0050 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0051 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Patient Wheel (ID: 17744033/0x010EC0A1), Patient Wheel (ID: 17744033/0x010EC0A1)], work=60*
-  4: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
+  4: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
     → "There have been rumors of some weird eddy of darkness in a cave near Selbina that can take you to the Tavnazian Archipelago..."
   5: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
+  6: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
     → "They say a guy who entered that patch of Emptiness never returned."
   7: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
+  8: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
     → "That story is still the talk of the town in Selbina. When your friend hears how dangerous it is, she'll give up on the idea, I'd say."
   9: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x006C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Patient Wheel (ID: 17744033/0x010EC0A1), Patient Wheel (ID: 17744033/0x010EC0A1)], work=60*
@@ -266,7 +266,7 @@
   0: 0x008A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+  3: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "$3N$3$3AcL$3$3b$3Z[$3W"
   4: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0095 [0x21] END_EVENT
@@ -378,11 +378,11 @@
 
 ```
   0: 0x00E0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00E1 [0x48] [System] [9990*]:
+  1: 0x00E1 [0x48] [System] [9991*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00E4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00E9 [0x1C] WAIT(30* ticks)
-  4: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=9995*)
+  4: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=9996*)
     → "What's an adventurer doing back here? Look, buddy, I've got all these boxes to sort through. If you're looking for work, you should go to the Near East."
   5: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F0 [0x21] END_EVENT

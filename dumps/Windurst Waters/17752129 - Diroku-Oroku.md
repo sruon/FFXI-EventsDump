@@ -33,30 +33,30 @@
 |       4 | 0x003C      |          60 |
 |       5 | 0x0013      |          19 |
 |       6 | 0x008A      |         138 |
-|       7 | 0x2079      |        8313 |
-|       8 | 0x207A      |        8314 |
-|       9 | 0x207B      |        8315 |
+|       7 | 0x207A      |        8314 |
+|       8 | 0x207B      |        8315 |
+|       9 | 0x207C      |        8316 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x207C      |        8316 |
-|      12 | 0x207D      |        8317 |
-|      13 | 0x207E      |        8318 |
-|      14 | 0x207F      |        8319 |
-|      15 | 0x2089      |        8329 |
-|      16 | 0x208A      |        8330 |
-|      17 | 0x208B      |        8331 |
+|      11 | 0x207D      |        8317 |
+|      12 | 0x207E      |        8318 |
+|      13 | 0x207F      |        8319 |
+|      14 | 0x2080      |        8320 |
+|      15 | 0x208A      |        8330 |
+|      16 | 0x208B      |        8331 |
+|      17 | 0x208C      |        8332 |
 
 ## String References
 
-- **8313**: Oh, so you want to know a little about magic, huh?
-- **8314**: Well, you've come to the right place. We can teach you the basics...
-- **8315**: Listen to their explanation? [Decline./Accept.]
-- **8316**: Well then, let us explain... There are basically two types of magic...white and black.
-- **8317**: White magic is predominately used for healing. It is what white mages specialize in. White magic includes healing spells such as Cure, and Poisona, which removes poison status...
-- **8318**: High-level white mages can use Raise to revive fallen comrades.
-- **8319**: Then there's black magic...
-- **8329**: Calm down, guys... Cool it!
-- **8330**: So, how about it? Do you understand more about magic now? We're currently studying the basics here at the School of Magic.
-- **8331**: Actually, there is one more type of magic that is forbidden now, but I guess that doesn't concern an adventurer such as yourself. Anyway, good luck with your magic studies. Bye-bye.
+- **8314**: Oh, so you want to know a little about magic, huh?
+- **8315**: Well, you've come to the right place. We can teach you the basics...
+- **8316**: Listen to their explanation? [Decline./Accept.]
+- **8317**: Well then, let us explain... There are basically two types of magic...white and black.
+- **8318**: White magic is predominately used for healing. It is what white mages specialize in. White magic includes healing spells such as Cure, and Poisona, which removes poison status...
+- **8319**: High-level white mages can use Raise to revive fallen comrades.
+- **8320**: Then there's black magic...
+- **8330**: Calm down, guys... Cool it!
+- **8331**: So, how about it? Do you understand more about magic now? We're currently studying the basics here at the School of Magic.
+- **8332**: Actually, there is one more type of magic that is forbidden now, but I guess that doesn't concern an adventurer such as yourself. Anyway, good luck with your magic studies. Bye-bye.
 
 ## Events
 
@@ -270,7 +270,7 @@
  10: 0x00A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x00A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x00A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x01)
- 13: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+ 13: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "Oh, so you want to know a little about magic, huh?"
  14: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x02)
@@ -289,11 +289,11 @@
  28: 0x00F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  29: 0x00F8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
  30: 0x00FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x01)
- 31: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
+ 31: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
     → "Well, you've come to the right place. We can teach you the basics..."
  32: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0108 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x02)
- 34: 0x010F [0x24] CREATE_DIALOG(message_id=8315*, default_option=0*, option_flags=0*)
+ 34: 0x010F [0x24] CREATE_DIALOG(message_id=8316*, default_option=0*, option_flags=0*)
     → "Listen to their explanation? [Decline./Accept.]"
  35: 0x0116 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0117 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0127
@@ -303,19 +303,19 @@
  40: 0x012F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  41: 0x0140 [0x03] Work_Zone[1] = 1*
  42: 0x0145 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x01)
- 43: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
+ 43: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
     → "Well then, let us explain... There are basically two types of magic...white and black."
  44: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0150 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x02)
  46: 0x0157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x03)
- 47: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
+ 47: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
     → "White magic is predominately used for healing. It is what white mages specialize in. White magic includes healing spells such as Cure, and Poisona, which removes poison status..."
  48: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
+ 49: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8319*)
     → "High-level white mages can use Raise to revive fallen comrades."
  50: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0166 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x04)
- 52: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=8319*)
+ 52: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=8320*)
     → "Then there's black magic..."
  53: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0171 [0x4A] Majiji (ID: 17752131/0x010EE043) looks at Pakesse-Myukesse (ID: 17752130/0x010EE042)
@@ -380,7 +380,7 @@ SUBROUTINE_0217:
 
 ```
   0: 0x0250 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x01)
-  1: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
+  1: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
     → "Calm down, guys... Cool it!"
   2: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x025B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x02)
@@ -389,10 +389,10 @@ SUBROUTINE_0217:
   6: 0x0268 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0269 [0x4A] LocalPlayer looks at Diroku-Oroku (ID: 17752129/0x010EE041)
   8: 0x0272 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x01)
-  9: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
+  9: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
     → "So, how about it? Do you understand more about magic now? We're currently studying the basics here at the School of Magic."
  10: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
+ 11: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=8332*)
     → "Actually, there is one more type of magic that is forbidden now, but I guess that doesn't concern an adventurer such as yourself. Anyway, good luck with your magic studies. Bye-bye."
  12: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0281 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Diroku-Oroku (ID: 17752129/0x010EE041), tag_num=0x02)

@@ -26,21 +26,21 @@
 |       0 | 0x21DFD     |      138749 |
 |       1 | 0x0002      |           2 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1D1B      |        7451 |
+|       3 | 0x1D1C      |        7452 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1D1A      |        7450 |
+|       5 | 0x1D1B      |        7451 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x003C      |          60 |
 |       8 | 0x0012      |          18 |
 |       9 | 0x00D3      |         211 |
 |      10 | 0x0078      |         120 |
-|      11 | 0x1D1D      |        7453 |
+|      11 | 0x1D1E      |        7454 |
 
 ## String References
 
-- **7450**: The door is sealed shut by some magical force.
-- **7451**: A dreadful voice intones: "This door is guarded by the Four Servants."
-- **7453**: Leave the Animastery? [Yes./No.]
+- **7451**: The door is sealed shut by some magical force.
+- **7452**: A dreadful voice intones: "This door is guarded by the Four Servants."
+- **7454**: Leave the Animastery? [Yes./No.]
 
 ## Events
 
@@ -97,12 +97,12 @@
   5: 0x0026 [0x29] REQ_SET_WAIT(priority=0x0E, entity_id=Marble Door (ID: 17469799/0x010A9167), tag_num=0x02)
   6: 0x002D [0x01] GOTO 0x004B
   7: 0x0030 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x003F
-  8: 0x0038 [0x48] [System] [7451*]:
+  8: 0x0038 [0x48] [System] [7452*]:
     → "A dreadful voice intones: "This door is guarded by the Four Servants.""
   9: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x003C [0x01] GOTO 0x004B
  11: 0x003F [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x004B
- 12: 0x0047 [0x48] [System] [7450*]:
+ 12: 0x0047 [0x48] [System] [7451*]:
     → "The door is sealed shut by some magical force."
  13: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -197,7 +197,7 @@ SUBROUTINE_004B:
 ```
   0: 0x00E2 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x00E4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x00E5 [0x24] CREATE_DIALOG(message_id=7453*, default_option=1*, option_flags=0*)
+  2: 0x00E5 [0x24] CREATE_DIALOG(message_id=7454*, default_option=1*, option_flags=0*)
     → "Leave the Animastery? [Yes./No.]"
   3: 0x00EC [0x25] WAIT_DIALOG_SELECT()
   4: 0x00ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F8

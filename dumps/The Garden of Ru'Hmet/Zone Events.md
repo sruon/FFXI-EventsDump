@@ -107,24 +107,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DC8      |        7624 |
-|       7 | 0x1D09      |        7433 |
+|       6 | 0x1DC9      |        7625 |
+|       7 | 0x1D0A      |        7434 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B9C      |        7068 |
+|      12 | 0x1B9D      |        7069 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1BA7      |        7079 |
-|      20 | 0x1BA8      |        7080 |
-|      21 | 0x1BA9      |        7081 |
-|      22 | 0x1BAA      |        7082 |
-|      23 | 0x1BCE      |        7118 |
+|      19 | 0x1BA8      |        7080 |
+|      20 | 0x1BA9      |        7081 |
+|      21 | 0x1BAA      |        7082 |
+|      22 | 0x1BAB      |        7083 |
+|      23 | 0x1BCF      |        7119 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0007      |           7 |
 |      26 | 0x000A      |          10 |
@@ -144,16 +144,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1D03      |        7427 |
-|      44 | 0x1D08      |        7432 |
-|      45 | 0x1D07      |        7431 |
+|      43 | 0x1D04      |        7428 |
+|      44 | 0x1D09      |        7433 |
+|      45 | 0x1D08      |        7432 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DC6      |        7622 |
-|      48 | 0x1DC5      |        7621 |
+|      47 | 0x1DC7      |        7623 |
+|      48 | 0x1DC6      |        7622 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1CEF      |        7407 |
+|      50 | 0x1CF0      |        7408 |
 |      51 | 0x00DC      |         220 |
-|      52 | 0x1B9F      |        7071 |
+|      52 | 0x1BA0      |        7072 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x00E4      |         228 |
 |      55 | 0x0073      |         115 |
@@ -244,11 +244,11 @@
 |     140 | 0x8FE5      |       36837 |
 |     141 | 0x02A1      |         673 |
 |     142 | 0x0024      |          36 |
-|     143 | 0x1CF1      |        7409 |
-|     144 | 0x1CF0      |        7408 |
-|     145 | 0x1DC4      |        7620 |
-|     146 | 0x1CF3      |        7411 |
-|     147 | 0x1CF2      |        7410 |
+|     143 | 0x1CF2      |        7410 |
+|     144 | 0x1CF1      |        7409 |
+|     145 | 0x1DC5      |        7621 |
+|     146 | 0x1CF4      |        7412 |
+|     147 | 0x1CF3      |        7411 |
 |     148 | 0x668C0     |      420032 |
 |     149 | 0x60E3B     |      396859 |
 |     150 | 0x0BF1      |        3057 |
@@ -262,7 +262,7 @@
 |     158 | 0x004C      |          76 |
 |     159 | 0x0096      |         150 |
 |     160 | 0x0078      |         120 |
-|     161 | 0x1B9D      |        7069 |
+|     161 | 0x1B9E      |        7070 |
 |     162 | 0x668C6     |      420038 |
 |     163 | 0x621F8     |      401912 |
 |     164 | 0x03F4      |        1012 |
@@ -293,8 +293,8 @@
 |     189 | 0x58611     |      362001 |
 |     190 | 0x57670     |      358000 |
 |     191 | 0x00AA      |         170 |
-|     192 | 0x1DCE      |        7630 |
-|     193 | 0x1DCC      |        7628 |
+|     192 | 0x1DCF      |        7631 |
+|     193 | 0x1DCD      |        7629 |
 |     194 | 0xFFF84F40  |  4294463296 |
 |     195 | 0xFFFE7961  |  4294867297 |
 |     196 | 0xFFFFF6B9  |  4294964921 |
@@ -304,15 +304,15 @@
 |     200 | 0xFFF86E81  |  4294471297 |
 |     201 | 0xFFF4B561  |  4294227297 |
 |     202 | 0xFFF987C1  |  4294543297 |
-|     203 | 0x1DCA      |        7626 |
-|     204 | 0x1DCB      |        7627 |
+|     203 | 0x1DCB      |        7627 |
+|     204 | 0x1DCC      |        7628 |
 |     205 | 0x02C6      |         710 |
 |     206 | 0x02C7      |         711 |
-|     207 | 0x1DD4      |        7636 |
+|     207 | 0x1DD5      |        7637 |
 |     208 | 0x005E      |          94 |
 |     209 | 0x668A0     |      420000 |
 |     210 | 0x5CC60     |      380000 |
-|     211 | 0x1DCD      |        7629 |
+|     211 | 0x1DCE      |        7630 |
 |     212 | 0xFFF84F41  |  4294463297 |
 |     213 | 0xAAE5F     |      699999 |
 |     214 | 0x7B0BF     |      503999 |
@@ -356,8 +356,8 @@
 |     252 | 0x0028      |          40 |
 |     253 | 0x6689F     |      419999 |
 |     254 | 0x6AB36     |      437046 |
-|     255 | 0x1E50      |        7760 |
-|     256 | 0x1E51      |        7761 |
+|     255 | 0x1E51      |        7761 |
+|     256 | 0x1E52      |        7762 |
 |     257 | 0x0C0B      |        3083 |
 |     258 | 0x64BA      |       25786 |
 |     259 | 0x0C02      |        3074 |
@@ -396,35 +396,35 @@
 
 ## String References
 
-- **7068**: Enter the battlefield? [Enter./Decline.]
-- **7069**: Leave the battlefield? [Run away./Stay.]
-- **7071**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7079**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7069**: Enter the battlefield? [Enter./Decline.]
+- **7070**: Leave the battlefield? [Run away./Stay.]
+- **7072**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7080**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7081**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7082**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7118**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7407**: Skip the event? [Yes./No.]
-- **7408**: Battlefield clear time: $3 second[/s]!
-- **7409**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7410**: The current battlefield clear time record is $3 second[/s].
-- **7411**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7427**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7431**: That record is held by $5 adventurers, including %0!
-- **7432**: That record is held by %0!
-- **7433**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7620**: You have broken the clear time record for "[When Angels Fall/]"!
-- **7621**: The current battlefield clear time record for "[When Angels Fall/]" is $3 second[/s].
-- **7622**: The current battlefield clear time record for "[When Angels Fall/]" is $3 minute[/s] $2 second[/s].
-- **7624**: Which battlefield will you enter? [None./When Angels Fall././././././././././././././././././././././././././././././]
-- **7626**: Use the device? [Ascend./Descend./Do nothing.]
-- **7627**: Nothing happens...
-- **7628**: Use the device? [Yes./No.]
-- **7629**: This device appears to be connected to the level below.
-- **7630**: This device appears to be connected to the level above.
-- **7636**: 3 and $3 confirmed. Access granted.
-- **7760**: What will you do? [Return to the Luminous Convergence?/Do nothing.]
-- **7761**: Return to the Luminous Convergence? [Yes./No.]
+- **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7119**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7408**: Skip the event? [Yes./No.]
+- **7409**: Battlefield clear time: $3 second[/s]!
+- **7410**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7411**: The current battlefield clear time record is $3 second[/s].
+- **7412**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7428**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7432**: That record is held by $5 adventurers, including %0!
+- **7433**: That record is held by %0!
+- **7434**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7621**: You have broken the clear time record for "[When Angels Fall/]"!
+- **7622**: The current battlefield clear time record for "[When Angels Fall/]" is $3 second[/s].
+- **7623**: The current battlefield clear time record for "[When Angels Fall/]" is $3 minute[/s] $2 second[/s].
+- **7625**: Which battlefield will you enter? [None./When Angels Fall././././././././././././././././././././././././././././././]
+- **7627**: Use the device? [Ascend./Descend./Do nothing.]
+- **7628**: Nothing happens...
+- **7629**: Use the device? [Yes./No.]
+- **7630**: This device appears to be connected to the level below.
+- **7631**: This device appears to be connected to the level above.
+- **7637**: 3 and $3 confirmed. Access granted.
+- **7761**: What will you do? [Return to the Luminous Convergence?/Do nothing.]
+- **7762**: Return to the Luminous Convergence? [Yes./No.]
 
 ## Events
 
@@ -639,7 +639,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7624*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7625*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./When Angels Fall././././././././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -652,7 +652,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1416)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7433*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7434*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -678,7 +678,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7068*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -727,22 +727,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7079*]:
+ 89: 0x0225 [0x48] [System] [7080*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7080*]:
+ 93: 0x0234 [0x48] [System] [7081*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7081*]:
+ 97: 0x0243 [0x48] [System] [7082*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7082*]:
+101: 0x0252 [0x48] [System] [7083*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -751,7 +751,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7427*]:
+105: 0x0469 [0x48] [System] [7428*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -763,24 +763,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7622*]:
+114: 0x04EA [0x48] [System] [7623*]:
     → "The current battlefield clear time record for "[When Angels Fall/]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7621*]:
+117: 0x04F1 [0x48] [System] [7622*]:
     → "The current battlefield clear time record for "[When Angels Fall/]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7432*]:
+120: 0x04FD [0x48] [System] [7433*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7431*]:
+126: 0x0511 [0x48] [System] [7432*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -796,7 +796,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7407*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -936,7 +936,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 2*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7071*]:
+266: 0x07F4 [0x48] [System] [7072*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1302,7 +1302,7 @@ SUBROUTINE_0C35:
  84: 0x0C40 [0x01] GOTO 0x0C5E
  85: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D0E
  86: 0x0C4B [0x1C] WAIT(15* ticks)
- 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7407*, default_option=1*, option_flags=0*)
+ 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C55 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D0E
@@ -1369,18 +1369,18 @@ SUBROUTINE_0D40:
 138: 0x0D79 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0D94
 139: 0x0D81 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0D88 [0x15] Work_Zone[5] /= 60*
-141: 0x0D8D [0x48] [System] [7409*]:
+141: 0x0D8D [0x48] [System] [7410*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0D91 [0x01] GOTO 0x0D98
-144: 0x0D94 [0x48] [System] [7408*]:
+144: 0x0D94 [0x48] [System] [7409*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0D97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0D98:
 146: 0x0D98 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DAC
 147: 0x0DA0 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DA5 [0x48] [System] [7620*]:
+148: 0x0DA5 [0x48] [System] [7621*]:
     → "You have broken the clear time record for "[When Angels Fall/]"!"
 149: 0x0DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0DA9 [0x01] GOTO 0x0DD5
@@ -1388,12 +1388,12 @@ SUBROUTINE_0D98:
 152: 0x0DB4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0DB9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0DC0 [0x15] Work_Zone[5] /= 60*
-155: 0x0DC5 [0x48] [System] [7411*]:
+155: 0x0DC5 [0x48] [System] [7412*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0DC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0DC9 [0x01] GOTO 0x0DD5
 158: 0x0DCC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0DD1 [0x48] [System] [7410*]:
+159: 0x0DD1 [0x48] [System] [7411*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1697,7 +1697,7 @@ SUBROUTINE_0FAC:
 
 ```
 # Dead code (unreachable instructions):
-     0x0FF2 [0x24] CREATE_DIALOG(message_id=7068*, default_option=1*, option_flags=0*)
+     0x0FF2 [0x24] CREATE_DIALOG(message_id=7069*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0FF9 [0x25] WAIT_DIALOG_SELECT()
      0x0FFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1008
@@ -1796,7 +1796,7 @@ SUBROUTINE_0FAC:
      0x12BD [0x46] CAMERA_CONTROL: Restore default settings
      0x12BF [0x1B] RETURN
      0x12C0 [0x1B] RETURN
-     0x12C1 [0x24] CREATE_DIALOG(message_id=7069*, default_option=0*, option_flags=0*)
+     0x12C1 [0x24] CREATE_DIALOG(message_id=7070*, default_option=0*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x12C8 [0x25] WAIT_DIALOG_SELECT()
      0x12C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12D7
@@ -2365,10 +2365,10 @@ SUBROUTINE_0FAC:
 
 ```
   0: 0x1849 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x184B [0x48] [System] [7630*]:
+  1: 0x184B [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x184E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x184F [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x184F [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1856 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1857 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1886
@@ -2415,10 +2415,10 @@ SUBROUTINE_1891:
 
 ```
   0: 0x1895 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1897 [0x48] [System] [7630*]:
+  1: 0x1897 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x189A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x189B [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x189B [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x18A2 [0x25] WAIT_DIALOG_SELECT()
   5: 0x18A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18D2
@@ -2464,10 +2464,10 @@ SUBROUTINE_18DD:
 
 ```
   0: 0x18E1 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x18E3 [0x48] [System] [7630*]:
+  1: 0x18E3 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x18E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x18E7 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x18E7 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x18EE [0x25] WAIT_DIALOG_SELECT()
   5: 0x18EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x191E
@@ -2514,10 +2514,10 @@ SUBROUTINE_1929:
 
 ```
   0: 0x192D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x192F [0x48] [System] [7630*]:
+  1: 0x192F [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1932 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1933 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1933 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x193A [0x25] WAIT_DIALOG_SELECT()
   5: 0x193B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x196A
@@ -2564,10 +2564,10 @@ SUBROUTINE_1975:
 
 ```
   0: 0x1979 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x197B [0x48] [System] [7630*]:
+  1: 0x197B [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x197E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x197F [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x197F [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1986 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1987 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19B6
@@ -2614,7 +2614,7 @@ SUBROUTINE_19C1:
 
 ```
   0: 0x19C5 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x19C7 [0x24] CREATE_DIALOG(message_id=7626*, default_option=2*, option_flags=0*)
+  1: 0x19C7 [0x24] CREATE_DIALOG(message_id=7627*, default_option=2*, option_flags=0*)
     → "Use the device? [Ascend./Descend./Do nothing.]"
   2: 0x19CE [0x25] WAIT_DIALOG_SELECT()
   3: 0x19CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19F9
@@ -2630,7 +2630,7 @@ SUBROUTINE_19C1:
  13: 0x1A01 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  14: 0x1A02 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  15: 0x1A04 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 16: 0x1A06 [0x48] [System] [7627*]:
+ 16: 0x1A06 [0x48] [System] [7628*]:
     → "Nothing happens..."
  17: 0x1A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1A0A [0x01] GOTO 0x1A18
@@ -2669,7 +2669,7 @@ SUBROUTINE_1A18:
 
 ```
   0: 0x1A1C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1A1E [0x24] CREATE_DIALOG(message_id=7626*, default_option=2*, option_flags=0*)
+  1: 0x1A1E [0x24] CREATE_DIALOG(message_id=7627*, default_option=2*, option_flags=0*)
     → "Use the device? [Ascend./Descend./Do nothing.]"
   2: 0x1A25 [0x25] WAIT_DIALOG_SELECT()
   3: 0x1A26 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A55
@@ -2739,10 +2739,10 @@ SUBROUTINE_1A7C:
   0: 0x1A80 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x1A82 [0x03] Work_Zone[2] = 710*
   2: 0x1A87 [0x03] Work_Zone[3] = 711*
-  3: 0x1A8C [0x48] [System] [7636*]:
+  3: 0x1A8C [0x48] [System] [7637*]:
     → "3 and $3 confirmed. Access granted."
   4: 0x1A8F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x1A90 [0x24] CREATE_DIALOG(message_id=7626*, default_option=2*, option_flags=0*)
+  5: 0x1A90 [0x24] CREATE_DIALOG(message_id=7627*, default_option=2*, option_flags=0*)
     → "Use the device? [Ascend./Descend./Do nothing.]"
   6: 0x1A97 [0x25] WAIT_DIALOG_SELECT()
   7: 0x1A98 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B7A
@@ -2816,10 +2816,10 @@ SUBROUTINE_1BAF:
 
 ```
   0: 0x1BB3 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1BB5 [0x48] [System] [7629*]:
+  1: 0x1BB5 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1BB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1BB9 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1BB9 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1BC0 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1BC1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BEB
@@ -2865,10 +2865,10 @@ SUBROUTINE_1BF6:
 
 ```
   0: 0x1BFA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1BFC [0x48] [System] [7629*]:
+  1: 0x1BFC [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1C00 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1C00 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1C07 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1C08 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C37
@@ -2915,10 +2915,10 @@ SUBROUTINE_1C42:
 
 ```
   0: 0x1C46 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1C48 [0x48] [System] [7630*]:
+  1: 0x1C48 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1C4B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1C4C [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1C4C [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1C53 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1C54 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C83
@@ -2964,10 +2964,10 @@ SUBROUTINE_1C8E:
 
 ```
   0: 0x1C92 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1C94 [0x48] [System] [7629*]:
+  1: 0x1C94 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1C97 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1C98 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1C98 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1C9F [0x25] WAIT_DIALOG_SELECT()
   5: 0x1CA0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CCF
@@ -3014,10 +3014,10 @@ SUBROUTINE_1CDA:
 
 ```
   0: 0x1CDE [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1CE0 [0x48] [System] [7630*]:
+  1: 0x1CE0 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1CE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1CE4 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1CE4 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1CEB [0x25] WAIT_DIALOG_SELECT()
   5: 0x1CEC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D1B
@@ -3064,10 +3064,10 @@ SUBROUTINE_1D26:
 
 ```
   0: 0x1D2A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1D2C [0x48] [System] [7629*]:
+  1: 0x1D2C [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1D2F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1D30 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1D30 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1D37 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1D38 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D67
@@ -3114,10 +3114,10 @@ SUBROUTINE_1D72:
 
 ```
   0: 0x1D76 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1D78 [0x48] [System] [7630*]:
+  1: 0x1D78 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1D7B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1D7C [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1D7C [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1D83 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1D84 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DB3
@@ -3163,10 +3163,10 @@ SUBROUTINE_1DBE:
 
 ```
   0: 0x1DC2 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1DC4 [0x48] [System] [7629*]:
+  1: 0x1DC4 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1DC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1DC8 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1DC8 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1DCF [0x25] WAIT_DIALOG_SELECT()
   5: 0x1DD0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DFF
@@ -3213,10 +3213,10 @@ SUBROUTINE_1E0A:
 
 ```
   0: 0x1E0E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1E10 [0x48] [System] [7630*]:
+  1: 0x1E10 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1E13 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1E14 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1E14 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1E1B [0x25] WAIT_DIALOG_SELECT()
   5: 0x1E1C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E4B
@@ -3263,10 +3263,10 @@ SUBROUTINE_1E56:
 
 ```
   0: 0x1E5A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1E5C [0x48] [System] [7629*]:
+  1: 0x1E5C [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1E5F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1E60 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1E60 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1E67 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1E68 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E97
@@ -3313,10 +3313,10 @@ SUBROUTINE_1EA2:
 
 ```
   0: 0x1EA6 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1EA8 [0x48] [System] [7630*]:
+  1: 0x1EA8 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1EAB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1EAC [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1EAC [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1EB3 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1EB4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EE3
@@ -3362,10 +3362,10 @@ SUBROUTINE_1EEE:
 
 ```
   0: 0x1EF2 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1EF4 [0x48] [System] [7630*]:
+  1: 0x1EF4 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1EF8 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1EF8 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1EFF [0x25] WAIT_DIALOG_SELECT()
   5: 0x1F00 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F2F
@@ -3412,10 +3412,10 @@ SUBROUTINE_1F3A:
 
 ```
   0: 0x1F3E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1F40 [0x48] [System] [7629*]:
+  1: 0x1F40 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1F43 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1F44 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1F44 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1F4B [0x25] WAIT_DIALOG_SELECT()
   5: 0x1F4C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F7B
@@ -3462,10 +3462,10 @@ SUBROUTINE_1F86:
 
 ```
   0: 0x1F8A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1F8C [0x48] [System] [7630*]:
+  1: 0x1F8C [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x1F8F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1F90 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1F90 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1F97 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1F98 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1FC7
@@ -3512,10 +3512,10 @@ SUBROUTINE_1FD2:
 
 ```
   0: 0x1FD6 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1FD8 [0x48] [System] [7629*]:
+  1: 0x1FD8 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x1FDB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1FDC [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x1FDC [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x1FE3 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1FE4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2013
@@ -3561,10 +3561,10 @@ SUBROUTINE_201E:
 
 ```
   0: 0x2022 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2024 [0x48] [System] [7630*]:
+  1: 0x2024 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x2027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2028 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x2028 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x202F [0x25] WAIT_DIALOG_SELECT()
   5: 0x2030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x205F
@@ -3611,10 +3611,10 @@ SUBROUTINE_206A:
 
 ```
   0: 0x206E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2070 [0x48] [System] [7629*]:
+  1: 0x2070 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x2073 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2074 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x2074 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x207B [0x25] WAIT_DIALOG_SELECT()
   5: 0x207C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20AB
@@ -3661,10 +3661,10 @@ SUBROUTINE_20B6:
 
 ```
   0: 0x20BA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x20BC [0x48] [System] [7630*]:
+  1: 0x20BC [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x20BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x20C0 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x20C0 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x20C7 [0x25] WAIT_DIALOG_SELECT()
   5: 0x20C8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20F7
@@ -3711,10 +3711,10 @@ SUBROUTINE_2102:
 
 ```
   0: 0x2106 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2108 [0x48] [System] [7629*]:
+  1: 0x2108 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x210B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x210C [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x210C [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x2113 [0x25] WAIT_DIALOG_SELECT()
   5: 0x2114 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2143
@@ -3760,10 +3760,10 @@ SUBROUTINE_214E:
 
 ```
   0: 0x2152 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2154 [0x48] [System] [7630*]:
+  1: 0x2154 [0x48] [System] [7631*]:
     → "This device appears to be connected to the level above."
   2: 0x2157 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2158 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x2158 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x215F [0x25] WAIT_DIALOG_SELECT()
   5: 0x2160 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x218F
@@ -3810,10 +3810,10 @@ SUBROUTINE_219A:
 
 ```
   0: 0x219E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x21A0 [0x48] [System] [7629*]:
+  1: 0x21A0 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x21A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x21A4 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x21A4 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x21AB [0x25] WAIT_DIALOG_SELECT()
   5: 0x21AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21DB
@@ -3860,10 +3860,10 @@ SUBROUTINE_21E6:
 
 ```
   0: 0x21EA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x21EC [0x48] [System] [7629*]:
+  1: 0x21EC [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x21EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x21F0 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x21F0 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x21F7 [0x25] WAIT_DIALOG_SELECT()
   5: 0x21F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2227
@@ -3910,10 +3910,10 @@ SUBROUTINE_2232:
 
 ```
   0: 0x2236 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2238 [0x48] [System] [7629*]:
+  1: 0x2238 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x223B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x223C [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x223C [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x2243 [0x25] WAIT_DIALOG_SELECT()
   5: 0x2244 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2273
@@ -3959,10 +3959,10 @@ SUBROUTINE_227E:
 
 ```
   0: 0x2282 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2284 [0x48] [System] [7629*]:
+  1: 0x2284 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x2287 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2288 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x2288 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x228F [0x25] WAIT_DIALOG_SELECT()
   5: 0x2290 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22BF
@@ -4009,10 +4009,10 @@ SUBROUTINE_22CA:
 
 ```
   0: 0x22CE [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x22D0 [0x48] [System] [7629*]:
+  1: 0x22D0 [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x22D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x22D4 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x22D4 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x22DB [0x25] WAIT_DIALOG_SELECT()
   5: 0x22DC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x230B
@@ -4059,10 +4059,10 @@ SUBROUTINE_2316:
 
 ```
   0: 0x231A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x231C [0x48] [System] [7629*]:
+  1: 0x231C [0x48] [System] [7630*]:
     → "This device appears to be connected to the level below."
   2: 0x231F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2320 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
+  3: 0x2320 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x2327 [0x25] WAIT_DIALOG_SELECT()
   5: 0x2328 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2357
@@ -4109,7 +4109,7 @@ SUBROUTINE_2362:
 
 ```
   0: 0x2366 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2368 [0x24] CREATE_DIALOG(message_id=7626*, default_option=2*, option_flags=0*)
+  1: 0x2368 [0x24] CREATE_DIALOG(message_id=7627*, default_option=2*, option_flags=0*)
     → "Use the device? [Ascend./Descend./Do nothing.]"
   2: 0x236F [0x25] WAIT_DIALOG_SELECT()
   3: 0x2370 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2385
@@ -4439,11 +4439,11 @@ SUBROUTINE_23BA:
 
 ```
   0: 0x2448 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x2449 [0x24] CREATE_DIALOG(message_id=7760*, default_option=1*, option_flags=0*)
+  1: 0x2449 [0x24] CREATE_DIALOG(message_id=7761*, default_option=1*, option_flags=0*)
     → "What will you do? [Return to the Luminous Convergence?/Do nothing.]"
   2: 0x2450 [0x25] WAIT_DIALOG_SELECT()
   3: 0x2451 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2499
-  4: 0x2459 [0x24] CREATE_DIALOG(message_id=7761*, default_option=1*, option_flags=0*)
+  4: 0x2459 [0x24] CREATE_DIALOG(message_id=7762*, default_option=1*, option_flags=0*)
     → "Return to the Luminous Convergence? [Yes./No.]"
   5: 0x2460 [0x25] WAIT_DIALOG_SELECT()
   6: 0x2461 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x248B

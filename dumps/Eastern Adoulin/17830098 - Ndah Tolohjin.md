@@ -25,37 +25,37 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x28DB      |       10459 |
-|       2 | 0x28DC      |       10460 |
-|       3 | 0x28DD      |       10461 |
+|       1 | 0x28DC      |       10460 |
+|       2 | 0x28DD      |       10461 |
+|       3 | 0x28DE      |       10462 |
 |       4 | 0x08F0      |        2288 |
-|       5 | 0x1E95      |        7829 |
-|       6 | 0x1E96      |        7830 |
+|       5 | 0x1E96      |        7830 |
+|       6 | 0x1E97      |        7831 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x1E97      |        7831 |
-|      10 | 0x1E98      |        7832 |
+|       9 | 0x1E98      |        7832 |
+|      10 | 0x1E99      |        7833 |
 |      11 | 0x00C9      |         201 |
-|      12 | 0x1EE7      |        7911 |
-|      13 | 0x1EE8      |        7912 |
-|      14 | 0x1EE9      |        7913 |
-|      15 | 0x1EEA      |        7914 |
-|      16 | 0x1EEB      |        7915 |
+|      12 | 0x1EE8      |        7912 |
+|      13 | 0x1EE9      |        7913 |
+|      14 | 0x1EEA      |        7914 |
+|      15 | 0x1EEB      |        7915 |
+|      16 | 0x1EEC      |        7916 |
 
 ## String References
 
-- **7829**: Why, is that $6? Let me take a look... Oh, this is wonderrrful!
-- **7830**: Well, well, this certainly was a pleasant surprrrise! I could give you a monetary reward, but instead, I'll give you something much better.
-- **7831**: And a quick little stab herrre...t
-- **7832**: Oh, don't be a baby. It's a vaccine that'll help you handle those pesky pungent fungi you pioneers've been having trrrouble with. Enjoy!
-- **7911**: Hello, and welcome to the Scouts' Coalition, where we prrrovide you with the latest information!
-- **7912**: Oh ho? Patrrrols? Everything is in tip-top condition here!
-- **7913**: Our surveys of ergon loci and inspection of rrrare goods from Ulbuka are experiencing nothing but smooth sailing!
-- **7914**: The Celennia Wexworth Memorial Library, under the purrrvey of our coalition, is also running without a hitch.
-- **7915**: Taking some time to snuggle up with a good book is a grrreat way to spend the evening, don't you think?
-- **10459**: You're on the hunt for a fleshless sort of prrrey? Well, our ears, eyes, and noses are the best in the reconnaissance business! That's why we're the Scouts' Coalition.
-- **10460**: Hmmm... My sources tell me that the inforrrmation you seek can be obtained at the Pioneers' Coalition in Western Adoulin.
-- **10461**: What's more imporrrtant than gil or bayld? Information! Looking for some facts to sink your teeth into or grab your arrrchnemesis by the throat with? Then step inside the Scouts' Coalition!
+- **7830**: Why, is that $6? Let me take a look... Oh, this is wonderrrful!
+- **7831**: Well, well, this certainly was a pleasant surprrrise! I could give you a monetary reward, but instead, I'll give you something much better.
+- **7832**: And a quick little stab herrre...t
+- **7833**: Oh, don't be a baby. It's a vaccine that'll help you handle those pesky pungent fungi you pioneers've been having trrrouble with. Enjoy!
+- **7912**: Hello, and welcome to the Scouts' Coalition, where we prrrovide you with the latest information!
+- **7913**: Oh ho? Patrrrols? Everything is in tip-top condition here!
+- **7914**: Our surveys of ergon loci and inspection of rrrare goods from Ulbuka are experiencing nothing but smooth sailing!
+- **7915**: The Celennia Wexworth Memorial Library, under the purrrvey of our coalition, is also running without a hitch.
+- **7916**: Taking some time to snuggle up with a good book is a grrreat way to spend the evening, don't you think?
+- **10460**: You're on the hunt for a fleshless sort of prrrey? Well, our ears, eyes, and noses are the best in the reconnaissance business! That's why we're the Scouts' Coalition.
+- **10461**: Hmmm... My sources tell me that the inforrrmation you seek can be obtained at the Pioneers' Coalition in Western Adoulin.
+- **10462**: What's more imporrrtant than gil or bayld? Information! Looking for some facts to sink your teeth into or grab your arrrchnemesis by the throat with? Then step inside the Scouts' Coalition!
 
 ## Events
 
@@ -106,10 +106,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10459*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
     → "You're on the hunt for a fleshless sort of prrrey? Well, our ears, eyes, and noses are the best in the reconnaissance business! That's why we're the Scouts' Coalition."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
     → "Hmmm... My sources tell me that the inforrrmation you seek can be obtained at the Pioneers' Coalition in Western Adoulin."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -142,7 +142,7 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
+  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
     → "What's more imporrrtant than gil or bayld? Information! Looking for some facts to sink your teeth into or grab your arrrchnemesis by the throat with? Then step inside the Scouts' Coalition!"
   5: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -186,22 +186,22 @@
   3: 0x0062 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   5: 0x0072 [0x03] Work_Zone[2] = 2288*
-  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "Why, is that $6? Let me take a look... Oh, this is wonderrrful!"
   7: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+  8: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "Well, well, this certainly was a pleasant surprrrise! I could give you a monetary reward, but instead, I'll give you something much better."
   9: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x007F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
  11: 0x008E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  12: 0x009F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
- 13: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+ 13: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "And a quick little stab herrre...t"
  14: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x00C3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x00D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 18: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+ 18: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "Oh, don't be a baby. It's a vaccine that'll help you handle those pesky pungent fungi you pioneers've been having trrrouble with. Enjoy!"
  19: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -238,19 +238,19 @@
   2: 0x010D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x010E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x010F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  5: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Hello, and welcome to the Scouts' Coalition, where we prrrovide you with the latest information!"
   6: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+  7: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "Oh ho? Patrrrols? Everything is in tip-top condition here!"
   8: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  9: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Our surveys of ergon loci and inspection of rrrare goods from Ulbuka are experiencing nothing but smooth sailing!"
  10: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+ 11: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "The Celennia Wexworth Memorial Library, under the purrrvey of our coalition, is also running without a hitch."
  12: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 13: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "Taking some time to snuggle up with a good book is a grrreat way to spend the evening, don't you think?"
  14: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0132 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*

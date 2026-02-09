@@ -40,13 +40,13 @@
 |       9 | 0xFFFEF390  |  4294898576 |
 |      10 | 0x1C536     |      116022 |
 |      11 | 0xFFFFD8F0  |  4294957296 |
-|      12 | 0x1E0E      |        7694 |
-|      13 | 0x1E0F      |        7695 |
+|      12 | 0x1E0F      |        7695 |
+|      13 | 0x1E10      |        7696 |
 
 ## String References
 
-- **7694**: Cross this bridge and follow the path to reach-a-weach the entrance of Windurst's residential area.
-- **7695**: In the residential area's Mog Houses and Rent-a-Rooms, you can put-a-wut important belongings into safekeeping or just store-a-wore away items that are getting in your way. These can be very convenient facilities if you make good use-a-wuse of them.
+- **7695**: Cross this bridge and follow the path to reach-a-weach the entrance of Windurst's residential area.
+- **7696**: In the residential area's Mog Houses and Rent-a-Rooms, you can put-a-wut important belongings into safekeeping or just store-a-wore away items that are getting in your way. These can be very convenient facilities if you make good use-a-wuse of them.
 
 ## Events
 
@@ -266,10 +266,10 @@
   1: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Augu-Maugu (ID: 17756217/0x010EF039), tag_num=0x01)
-  4: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+  4: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "Cross this bridge and follow the path to reach-a-weach the entrance of Windurst's residential area."
   5: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
+  6: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
     → "In the residential area's Mog Houses and Rent-a-Rooms, you can put-a-wut important belongings into safekeeping or just store-a-wore away items that are getting in your way. These can be very convenient facilities if you make good use-a-wuse of them."
   7: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Augu-Maugu (ID: 17756217/0x010EF039), tag_num=0x02)

@@ -54,23 +54,23 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2D07      |       11527 |
-|       2 | 0x2D08      |       11528 |
-|       3 | 0x2D0A      |       11530 |
-|       4 | 0x2D3A      |       11578 |
+|       1 | 0x2D08      |       11528 |
+|       2 | 0x2D09      |       11529 |
+|       3 | 0x2D0B      |       11531 |
+|       4 | 0x2D3B      |       11579 |
 |       5 | 0x039B      |         923 |
-|       6 | 0x2D09      |       11529 |
+|       6 | 0x2D0A      |       11530 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x03B3      |         947 |
-|       9 | 0x2D1F      |       11551 |
-|      10 | 0x2D20      |       11552 |
-|      11 | 0x2D21      |       11553 |
+|       9 | 0x2D20      |       11552 |
+|      10 | 0x2D21      |       11553 |
+|      11 | 0x2D22      |       11554 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x2D26      |       11558 |
+|      13 | 0x2D27      |       11559 |
 |      14 | 0x003C      |          60 |
-|      15 | 0x2D3B      |       11579 |
-|      16 | 0x34BA      |       13498 |
-|      17 | 0x34BB      |       13499 |
+|      15 | 0x2D3C      |       11580 |
+|      16 | 0x34BB      |       13499 |
+|      17 | 0x34BC      |       13500 |
 |      18 | 0x0007      |           7 |
 |      19 | 0x0089      |         137 |
 |      20 | 0x0010      |          16 |
@@ -124,7 +124,7 @@
 
 ## String References
 
-- **11553**: Time to run home to mamma? [I'm not done just yet!/I can't take this anymore!]
+- **11554**: Time to run home to mamma? [I'm not done just yet!/I can't take this anymore!]
 
 ## Events
 
@@ -239,13 +239,13 @@
 ```
   0: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0009 [0x1C] WAIT(30* ticks)
-  2: 0x000C [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11527*]:
+  2: 0x000C [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11528*]:
     → "What do you think you'rrre lookin' at, scum? You'd best turn tail and march out of Cobra territory if you wanna live to see tomorrow."
   3: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0014 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11528*]:
+  4: 0x0014 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11529*]:
     → "Or maybe you'd like a private escort. My steel-tipped moccasins would be honored to show you the way out."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001C [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11530*]:
+  6: 0x001C [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11531*]:
     → "I don't talk to no spies. Now move! Hssssss!"
   7: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0024 [0x21] END_EVENT
@@ -274,7 +274,7 @@
 ```
   0: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002B [0x1C] WAIT(30* ticks)
-  2: 0x002E [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11578*]:
+  2: 0x002E [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11579*]:
     → "I told you once, and I don't like repeatin' myself. So if you know what's good for you, you'd best turn tail and march out of Cobra territory, double time."
   3: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0036 [0x21] END_EVENT
@@ -305,13 +305,13 @@
   0: 0x0038 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003D [0x1C] WAIT(30* ticks)
   2: 0x0040 [0x03] Work_Zone[2] = 923*
-  3: 0x0045 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11527*]:
+  3: 0x0045 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11528*]:
     → "What do you think you'rrre lookin' at, scum? You'd best turn tail and march out of Cobra territory if you wanna live to see tomorrow."
   4: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x004D [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11528*]:
+  5: 0x004D [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11529*]:
     → "Or maybe you'd like a private escort. My steel-tipped moccasins would be honored to show you the way out."
   6: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0055 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11529*]:
+  7: 0x0055 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11530*]:
     → "I don't talk to no one unless they have a $3. Now move! Hssssss!"
   8: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005D [0x21] END_EVENT
@@ -347,20 +347,20 @@
   1: 0x0064 [0x1C] WAIT(30* ticks)
   2: 0x0067 [0x03] Work_Zone[1] = 0*
   3: 0x006C [0x03] Work_Zone[2] = 947*
-  4: 0x0071 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11551*]:
+  4: 0x0071 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11552*]:
     → "I told you to patch up three towers. It looks like you still have enough putty for [three/two/one] more. Get back out there before I change my mind about lettin' you join us!"
   5: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0079 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11552*]:
+  6: 0x0079 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11553*]:
     → "Or maybe the task is a little too much for a groveling coward like you?"
   7: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0081 [0x24] CREATE_DIALOG(message_id=11553*, default_option=0*, option_flags=0*)
+  8: 0x0081 [0x24] CREATE_DIALOG(message_id=11554*, default_option=0*, option_flags=0*)
     → "Time to run home to mamma? [I'm not done just yet!/I can't take this anymore!]"
   9: 0x0088 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0089 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0094
  11: 0x0091 [0x01] GOTO 0x00AF
  12: 0x0094 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00AF
  13: 0x009C [0x03] Work_Zone[1] = 1*
- 14: 0x00A1 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11558*]:
+ 14: 0x00A1 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11559*]:
     → "Second thoughts!? You really do have somethin' missing up there, don't you? I can't force you to do anything, but if you regain your senses, give me a holler."
  15: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00A9 [0x1C] WAIT(60* ticks)
@@ -393,7 +393,7 @@ SUBROUTINE_00AF:
 ```
   0: 0x00B1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B6 [0x1C] WAIT(30* ticks)
-  2: 0x00B9 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11579*]:
+  2: 0x00B9 [0x2B] Miah Riyuh (ID: 17162750/0x0105E1FE) [11580*]:
     → "If it isn't <Player>! It's great to see you again! Now get out of my face before I decide to use your belly to test out my new knives."
   3: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00C1 [0x21] END_EVENT
@@ -422,10 +422,10 @@ SUBROUTINE_00AF:
 ```
   0: 0x00C3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C8 [0x1C] WAIT(30* ticks)
-  2: 0x00CB [0x2B] EventEntity [13498*]:
+  2: 0x00CB [0x2B] EventEntity [13499*]:
     → "What's that? You're on the prowl for a red-headed Hume girl with ears yea long?"
   3: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00D3 [0x2B] EventEntity [13499*]:
+  4: 0x00D3 [0x2B] EventEntity [13500*]:
     → "Nope, never seen her like. We got Mithran cubs aplenty, though, if they're all the same to you."
   5: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00DB [0x21] END_EVENT

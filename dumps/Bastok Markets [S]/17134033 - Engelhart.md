@@ -40,17 +40,17 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2E7C      |       11900 |
-|       3 | 0x2E7B      |       11899 |
+|       2 | 0x2E7D      |       11901 |
+|       3 | 0x2E7C      |       11900 |
 |       4 | 0x0397      |         919 |
-|       5 | 0x2E7D      |       11901 |
-|       6 | 0x2E8B      |       11915 |
-|       7 | 0x2E9F      |       11935 |
-|       8 | 0x2EAD      |       11949 |
-|       9 | 0x2EB2      |       11954 |
-|      10 | 0x2EE4      |       12004 |
-|      11 | 0x30EA      |       12522 |
-|      12 | 0x30EB      |       12523 |
+|       5 | 0x2E7E      |       11902 |
+|       6 | 0x2E8C      |       11916 |
+|       7 | 0x2EA0      |       11936 |
+|       8 | 0x2EAE      |       11950 |
+|       9 | 0x2EB3      |       11955 |
+|      10 | 0x2EE5      |       12005 |
+|      11 | 0x30EB      |       12523 |
+|      12 | 0x30EC      |       12524 |
 |      13 | 0x0028      |          40 |
 |      14 | 0xFFFF135F  |  4294906719 |
 |      15 | 0xFFFE0218  |  4294836760 |
@@ -61,23 +61,23 @@
 |      20 | 0xFFFDED94  |  4294831508 |
 |      21 | 0xFFFF0D7D  |  4294905213 |
 |      22 | 0xFFFDE7A8  |  4294829992 |
-|      23 | 0x3176      |       12662 |
-|      24 | 0x317E      |       12670 |
+|      23 | 0x3177      |       12663 |
+|      24 | 0x317F      |       12671 |
 
 ## String References
 
-- **11899**: The client is expecting you at the waterfall in North Gustaberg. Do not keep him waiting.
-- **11900**: The people of Bastok live under a cloud of uncertainty. It's times like this that music can lift the weary spirit, don't you agree?
-- **11901**: You have met with Senator Werner? Then you have your instructions: bring the $3 here to me.
-- **11915**: A chance meeting has landed you right in the thick of things, my friend. I have a feeling we'll be getting to know each other very well indeed.
-- **11935**: There are rumors that the Galkan elder Werei and his friend Gumbah are hoarding a stockpile of weapons. Go, and discover the truth behind their motives.
-- **11949**: Head to Grauberg and see if you can confirm my suspicions about the stockpile of weapons.
-- **11954**: I hope the senator was unharmed...
-- **12004**: With the senator gone, I doubt I'll have any more tasks for you. Thank you for your competent, albeit brief, service.
-- **12522**: The president has released a statement regarding Senator Werner's assassination.
-- **12523**: It contained a message to the assassin: "You will not elude the grip of the Mythril Musketeers!"
-- **12662**: Wh-what is it, <Player>? I'm a little occupied right now...
-- **12670**: The Mythril Musketeers hauled me in for questioning. You didn't have anything to do with that, did you?
+- **11900**: The client is expecting you at the waterfall in North Gustaberg. Do not keep him waiting.
+- **11901**: The people of Bastok live under a cloud of uncertainty. It's times like this that music can lift the weary spirit, don't you agree?
+- **11902**: You have met with Senator Werner? Then you have your instructions: bring the $3 here to me.
+- **11916**: A chance meeting has landed you right in the thick of things, my friend. I have a feeling we'll be getting to know each other very well indeed.
+- **11936**: There are rumors that the Galkan elder Werei and his friend Gumbah are hoarding a stockpile of weapons. Go, and discover the truth behind their motives.
+- **11950**: Head to Grauberg and see if you can confirm my suspicions about the stockpile of weapons.
+- **11955**: I hope the senator was unharmed...
+- **12005**: With the senator gone, I doubt I'll have any more tasks for you. Thank you for your competent, albeit brief, service.
+- **12523**: The president has released a statement regarding Senator Werner's assassination.
+- **12524**: It contained a message to the assassin: "You will not elude the grip of the Mythril Musketeers!"
+- **12663**: Wh-what is it, <Player>? I'm a little occupied right now...
+- **12671**: The Mythril Musketeers hauled me in for questioning. You didn't have anything to do with that, did you?
 
 ## Events
 
@@ -126,7 +126,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=11900*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=11901*)
     → "The people of Bastok live under a cloud of uncertainty. It's times like this that music can lift the weary spirit, don't you agree?"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x21] END_EVENT
@@ -179,7 +179,7 @@
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0024 [0x1C] WAIT(30* ticks)
   2: 0x0027 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=11899*)
+  3: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=11900*)
     → "The client is expecting you at the waterfall in North Gustaberg. Do not keep him waiting."
   4: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x003A [0x21] END_EVENT
@@ -211,7 +211,7 @@
   1: 0x0041 [0x1C] WAIT(30* ticks)
   2: 0x0044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
   3: 0x0053 [0x03] Work_Zone[2] = 919*
-  4: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=11901*)
+  4: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=11902*)
     → "You have met with Senator Werner? Then you have your instructions: bring the $3 here to me."
   5: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x005C [0x21] END_EVENT
@@ -264,7 +264,7 @@
   0: 0x005F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0064 [0x1C] WAIT(30* ticks)
   2: 0x0067 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=11915*)
+  3: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=11916*)
     → "A chance meeting has landed you right in the thick of things, my friend. I have a feeling we'll be getting to know each other very well indeed."
   4: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x007A [0x21] END_EVENT
@@ -317,7 +317,7 @@
   0: 0x007D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0082 [0x1C] WAIT(30* ticks)
   2: 0x0085 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=11935*)
+  3: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=11936*)
     → "There are rumors that the Galkan elder Werei and his friend Gumbah are hoarding a stockpile of weapons. Go, and discover the truth behind their motives."
   4: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0098 [0x21] END_EVENT
@@ -370,7 +370,7 @@
   0: 0x009B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00A0 [0x1C] WAIT(30* ticks)
   2: 0x00A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11949*)
+  3: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11950*)
     → "Head to Grauberg and see if you can confirm my suspicions about the stockpile of weapons."
   4: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00B6 [0x21] END_EVENT
@@ -423,7 +423,7 @@
   0: 0x00B9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00BE [0x1C] WAIT(30* ticks)
   2: 0x00C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11954*)
+  3: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11955*)
     → "I hope the senator was unharmed..."
   4: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D4 [0x21] END_EVENT
@@ -476,7 +476,7 @@
   0: 0x00D7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00DC [0x1C] WAIT(30* ticks)
   2: 0x00DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12004*)
+  3: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12005*)
     → "With the senator gone, I doubt I'll have any more tasks for you. Thank you for your competent, albeit brief, service."
   4: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00F2 [0x21] END_EVENT
@@ -507,10 +507,10 @@
   0: 0x00F4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00F9 [0x1C] WAIT(30* ticks)
   2: 0x00FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=12522*)
+  3: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=12523*)
     → "The president has released a statement regarding Senator Werner's assassination."
   4: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=12523*)
+  5: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=12524*)
     → "It contained a message to the assassin: "You will not elude the grip of the Mythril Musketeers!""
   6: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0113 [0x21] END_EVENT
@@ -599,7 +599,7 @@
   0: 0x014A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x014F [0x1C] WAIT(30* ticks)
   2: 0x0152 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=12662*)
+  3: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=12663*)
     → "Wh-what is it, <Player>? I'm a little occupied right now..."
   4: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0165 [0x21] END_EVENT
@@ -630,7 +630,7 @@
   0: 0x0167 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x016C [0x1C] WAIT(30* ticks)
   2: 0x016F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Engelhart (ID: 17134033/0x010571D1), Engelhart (ID: 17134033/0x010571D1)], work=0*
-  3: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=12670*)
+  3: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=12671*)
     → "The Mythril Musketeers hauled me in for questioning. You didn't have anything to do with that, did you?"
   4: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0182 [0x21] END_EVENT

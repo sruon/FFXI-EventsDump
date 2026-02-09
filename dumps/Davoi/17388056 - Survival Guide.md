@@ -5,9 +5,9 @@
 | Field            | Value           |
 |------------------|-----------------|
 | Zone             | Davoi (ID: 149) |
-| Block Size       | 8840 bytes      |
+| Block Size       | 8844 bytes      |
 | Total Events     | 3               |
-| References Count | 468             |
+| References Count | 469             |
 
 ## List of Events
 
@@ -15,7 +15,7 @@
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
 | [8500](#event-8500)   | 0x0001       |    213 |             45 |
-| [8501](#event-8501)   | 0x00D6       |   6726 |           1085 |
+| [8501](#event-8501)   | 0x00D6       |   6726 |           1084 |
 
 ## DAT References (imed_data)
 
@@ -29,53 +29,53 @@
 |       5 | 0x0010      |          16 |
 |       6 | 0x001F      |          31 |
 |       7 | 0x0004      |           4 |
-|       8 | 0x1F3A      |        7994 |
-|       9 | 0x1F38      |        7992 |
-|      10 | 0x1F3B      |        7995 |
+|       8 | 0x1F3B      |        7995 |
+|       9 | 0x1F39      |        7993 |
+|      10 | 0x1F3C      |        7996 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x1F48      |        8008 |
-|      15 | 0x1F49      |        8009 |
+|      14 | 0x1F49      |        8009 |
+|      15 | 0x1F4A      |        8010 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x1F4A      |        8010 |
+|      17 | 0x1F4B      |        8011 |
 |      18 | 0x0200      |         512 |
-|      19 | 0x1F44      |        8004 |
-|      20 | 0x1F45      |        8005 |
-|      21 | 0x1F46      |        8006 |
-|      22 | 0x1F47      |        8007 |
+|      19 | 0x1F45      |        8005 |
+|      20 | 0x1F46      |        8006 |
+|      21 | 0x1F47      |        8007 |
+|      22 | 0x1F48      |        8008 |
 |      23 | 0x0201      |         513 |
 |      24 | 0x18F7      |        6391 |
 |      25 | 0x18F1      |        6385 |
-|      26 | 0x1F3C      |        7996 |
+|      26 | 0x1F3D      |        7997 |
 |      27 | 0xFFFFFFFE  |  4294967294 |
-|      28 | 0x1F3D      |        7997 |
-|      29 | 0x1F4C      |        8012 |
+|      28 | 0x1F3E      |        7998 |
+|      29 | 0x1F4D      |        8013 |
 |      30 | 0x001A      |          26 |
 |      31 | 0x001B      |          27 |
-|      32 | 0x1F4B      |        8011 |
+|      32 | 0x1F4C      |        8012 |
 |      33 | 0x0008      |           8 |
 |      34 | 0x000F      |          15 |
 |      35 | 0x0017      |          23 |
 |      36 | 0x0018      |          24 |
 |      37 | 0x007F      |         127 |
 |      38 | 0xFFFFFFFF  |  4294967295 |
-|      39 | 0x1F4D      |        8013 |
-|      40 | 0x1F40      |        8000 |
-|      41 | 0x1F41      |        8001 |
+|      39 | 0x1F4E      |        8014 |
+|      40 | 0x1F41      |        8001 |
+|      41 | 0x1F42      |        8002 |
 |      42 | 0x0005      |           5 |
 |      43 | 0x0014      |          20 |
-|      44 | 0x1F42      |        8002 |
+|      44 | 0x1F43      |        8003 |
 |      45 | 0x18FC      |        6396 |
-|      46 | 0x1F43      |        8003 |
-|      47 | 0x1F4E      |        8014 |
-|      48 | 0x1F4F      |        8015 |
-|      49 | 0x1F50      |        8016 |
+|      46 | 0x1F44      |        8004 |
+|      47 | 0x1F4F      |        8015 |
+|      48 | 0x1F50      |        8016 |
+|      49 | 0x1F51      |        8017 |
 |      50 | 0x0006      |           6 |
 |      51 | 0x0080      |         128 |
 |      52 | 0x0062      |          98 |
 |      53 | 0x0020      |          32 |
-|      54 | 0x1F3E      |        7998 |
+|      54 | 0x1F3F      |        7999 |
 |      55 | 0x0015      |          21 |
 |      56 | 0x0016      |          22 |
 |      57 | 0x007A      |         122 |
@@ -462,59 +462,60 @@
 |     438 | 0x2134      |        8500 |
 |     439 | 0xFFFFF326  |  4294964006 |
 |     440 | 0xFFFFF63A  |  4294964794 |
-|     441 | 0xFFFFDFBC  |  4294959036 |
-|     442 | 0xFFFFAEB6  |  4294946486 |
-|     443 | 0xFFFF6104  |  4294926596 |
-|     444 | 0xFFFFE7C8  |  4294961096 |
-|     445 | 0xFFFF8AD0  |  4294937296 |
-|     446 | 0x5014      |       20500 |
-|     447 | 0xFFFFFE66  |  4294966886 |
-|     448 | 0xFFFFC216  |  4294951446 |
-|     449 | 0xFFFFB5C8  |  4294948296 |
-|     450 | 0xFFFFE444  |  4294960196 |
-|     451 | 0x9664      |       38500 |
-|     452 | 0x1174C     |       71500 |
-|     453 | 0xFFFF810C  |  4294934796 |
-|     454 | 0x5FB4      |       24500 |
-|     455 | 0x0262      |         610 |
-|     456 | 0xFFFFEB08  |  4294961928 |
-|     457 | 0xFFFFAD30  |  4294946096 |
-|     458 | 0xFFFF7CA2  |  4294933666 |
-|     459 | 0xFFFEC780  |  4294887296 |
-|     460 | 0x0400      |        1024 |
-|     461 | 0x0800      |        2048 |
-|     462 | 0x0E00      |        3584 |
-|     463 | 0x0600      |        1536 |
-|     464 | 0xFFFFFE00  |  4294966784 |
-|     465 | 0x0A00      |        2560 |
-|     466 | 0x0C00      |        3072 |
-|     467 | 0xFFFFFC00  |  4294966272 |
+|     441 | 0x1F40      |        8000 |
+|     442 | 0xFFFFDFBC  |  4294959036 |
+|     443 | 0xFFFFAEB6  |  4294946486 |
+|     444 | 0xFFFF6104  |  4294926596 |
+|     445 | 0xFFFFE7C8  |  4294961096 |
+|     446 | 0xFFFF8AD0  |  4294937296 |
+|     447 | 0x5014      |       20500 |
+|     448 | 0xFFFFFE66  |  4294966886 |
+|     449 | 0xFFFFC216  |  4294951446 |
+|     450 | 0xFFFFB5C8  |  4294948296 |
+|     451 | 0xFFFFE444  |  4294960196 |
+|     452 | 0x9664      |       38500 |
+|     453 | 0x1174C     |       71500 |
+|     454 | 0xFFFF810C  |  4294934796 |
+|     455 | 0x5FB4      |       24500 |
+|     456 | 0x0262      |         610 |
+|     457 | 0xFFFFEB08  |  4294961928 |
+|     458 | 0xFFFFAD30  |  4294946096 |
+|     459 | 0xFFFF7CA2  |  4294933666 |
+|     460 | 0xFFFEC780  |  4294887296 |
+|     461 | 0x0400      |        1024 |
+|     462 | 0x0800      |        2048 |
+|     463 | 0x0E00      |        3584 |
+|     464 | 0x0600      |        1536 |
+|     465 | 0xFFFFFE00  |  4294966784 |
+|     466 | 0x0A00      |        2560 |
+|     467 | 0x0C00      |        3072 |
+|     468 | 0xFFFFFC00  |  4294966272 |
 
 ## String References
 
 - **6385**: You cannot obtain the $0. Come back after sorting your inventory.
 - **6391**: Obtained: #.
 - **6396**: You do not have enough gil.
-- **7992**: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-- **7994**: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-- **7995**: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
-- **7996**: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-- **7997**: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-- **8000**: All mog tablets have currently been found, so you may teleport to $8 at no charge.
-- **8001**: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-- **8002**: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
-- **8003**: You do not have enough tabs.
-- **8004**: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
-- **8005**: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
-- **8006**: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
-- **8007**: Accept the reward? [Yes, please./No, thanks.]
-- **8008**: You may change the way you select areas listed in "Teleportation Assistance."
-- **8009**: Any changes to make? [Keep course./Select by region./Select by content.]
-- **8010**: Area selection will now be made by [region/content].
-- **8011**: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
-- **8012**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
-- **8014**: $8 has been [added to your list of favorites/removed from your list of favorites].
-- **8015**: Your list of favorites is full. You must remove an existing entry to add new ones.
+- **7993**: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+- **7995**: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+- **7996**: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+- **7997**: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+- **7998**: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+- **8001**: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+- **8002**: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+- **8003**: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+- **8004**: You do not have enough tabs.
+- **8005**: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+- **8006**: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+- **8007**: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+- **8008**: Accept the reward? [Yes, please./No, thanks.]
+- **8009**: You may change the way you select areas listed in "Teleportation Assistance."
+- **8010**: Any changes to make? [Keep course./Select by region./Select by content.]
+- **8011**: Area selection will now be made by [region/content].
+- **8012**: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+- **8013**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+- **8015**: $8 has been [added to your list of favorites/removed from your list of favorites].
+- **8016**: Your list of favorites is full. You must remove an existing entry to add new ones.
 
 ## Events
 
@@ -588,11 +589,11 @@
  13: 0x0056 [0x1A] CALL_SUBROUTINE(address=0x1197)
  14: 0x0059 [0x9D] ExtData[1]->WorkLocal[2] = 0x149C[ExtData[1]->WorkLocal[4]] // Read WORD
  15: 0x0061 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0070
- 16: 0x0069 [0x48] [System] [7994*]:
+ 16: 0x0069 [0x48] [System] [7995*]:
     → "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
  17: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006D [0x01] GOTO 0x0074
- 19: 0x0070 [0x48] [System] [7992*]:
+ 19: 0x0070 [0x48] [System] [7993*]:
     → "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
  20: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -603,7 +604,7 @@ SUBROUTINE_0074:
 
 SUBROUTINE_007D:
  24: 0x007D [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x00D4
- 25: 0x0085 [0x24] CREATE_DIALOG(message_id=7995*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
+ 25: 0x0085 [0x24] CREATE_DIALOG(message_id=7996*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
     → "What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]"
  26: 0x008C [0x25] WAIT_DIALOG_SELECT()
  27: 0x008D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009B
@@ -1031,25 +1032,25 @@ SUBROUTINE_00D1:
 18E0: A5 81 A6 81 A7 81 A8 81  A9 81 AA 81 AB 81 AC 81  ................
 18F0: AD 81 AE 81 AF 81 B0 81  58 80 B1 81 B2 81 4C 80  ........X.....L.
 1900: 07 81 B3 81 35 81 B4 81  00 80 3B 80 18 81 B5 81  ....5.....;.....
-1910: B6 81 B7 81 B8 81 28 80  B9 81 BA 81 BB 81 00 80  ......(.........
-1920: 07 81 05 81 BF 80 00 80  A9 81 3A 80 81 81 28 80  ..........:...(.
-1930: BC 81 BD 81 00 80 B3 81  35 81 07 81 BE 81 BF 81  ........5.......
-1940: 00 80 C0 81 2A 81 BF 80  C1 81 C2 81 26 81 A0 81  ....*.......&...
-1950: 00 80 C3 81 C4 81 C5 81  C6 81 C7 81 A6 81 C8 81  ................
-1960: 6E 81 C9 81 CA 81 A9 81  B1 81 CB 81 B3 81 00 80  n...............
+1910: B6 81 B7 81 B8 81 B9 81  BA 81 BB 81 BC 81 00 80  ................
+1920: 07 81 05 81 BF 80 00 80  A9 81 3A 80 81 81 B9 81  ..........:.....
+1930: BD 81 BE 81 00 80 B3 81  35 81 07 81 BF 81 C0 81  ........5.......
+1940: 00 80 C1 81 2A 81 BF 80  C2 81 C3 81 26 81 A0 81  ....*.......&...
+1950: 00 80 C4 81 C5 81 C6 81  C7 81 C8 81 A6 81 C9 81  ................
+1960: 6E 81 CA 81 CB 81 A9 81  B1 81 CC 81 B3 81 00 80  n...............
 1970: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
-1980: CC 81 CD 81 CC 81 CE 81  CD 81 CF 81 00 80 00 80  ................
-1990: D0 81 D1 81 12 80 CD 81  D2 81 D2 81 CC 81 D2 81  ................
-19A0: 00 80 CD 81 CF 81 D2 81  12 80 D1 81 12 80 CC 81  ................
-19B0: D2 81 CC 81 00 80 D3 81  D2 81 00 80 D2 81 CC 81  ................
-19C0: 00 80 D1 81 D0 81 CF 81  D2 81 CD 81 12 80 D1 81  ................
-19D0: D3 81 CC 81 CC 81 CD 81  00 80 CC 81 12 80 D1 81  ................
-19E0: CD 81 12 80 CC 81 CD 81  D2 81 00 80 CF 81 CC 81  ................
-19F0: CD 81 00 80 12 80 D1 81  CC 81 D2 81 D3 81 CD 81  ................
-1A00: D3 81 CC 81 CD 81 CC 81  CC 81 12 80 CD 81 12 80  ................
-1A10: CD 81 CD 81 CF 81 CC 81  12 80 CC 81 D2 81 CD 81  ................
-1A20: D1 81 D2 81 CC 81 D2 81  00 80 D0 81 CC 81 CD 81  ................
-1A30: D2 81 D0 81 00 80 D2 81  CD 81 D2 81 CC 81 CE 81  ................
+1980: CD 81 CE 81 CD 81 CF 81  CE 81 D0 81 00 80 00 80  ................
+1990: D1 81 D2 81 12 80 CE 81  D3 81 D3 81 CD 81 D3 81  ................
+19A0: 00 80 CE 81 D0 81 D3 81  12 80 D2 81 12 80 CD 81  ................
+19B0: D3 81 CD 81 00 80 D4 81  D3 81 00 80 D3 81 CD 81  ................
+19C0: 00 80 D2 81 D1 81 D0 81  D3 81 CE 81 12 80 D2 81  ................
+19D0: D4 81 CD 81 CD 81 CE 81  00 80 CD 81 12 80 D2 81  ................
+19E0: CE 81 12 80 CD 81 CE 81  D3 81 00 80 D0 81 CD 81  ................
+19F0: CE 81 00 80 12 80 D2 81  CD 81 D3 81 D4 81 CE 81  ................
+1A00: D4 81 CD 81 CE 81 CD 81  CD 81 12 80 CE 81 12 80  ................
+1A10: CE 81 CE 81 D0 81 CD 81  12 80 CD 81 D3 81 CE 81  ................
+1A20: D2 81 D3 81 CD 81 D3 81  00 80 D1 81 CD 81 CE 81  ................
+1A30: D3 81 D1 81 00 80 D3 81  CE 81 D3 81 CD 81 CF 81  ................
 1A40: 00 80 00 80 00 80 00 80  00 80 00 80 00 80 00 80  ................
 1A50: 0C 80 07 80 0C 80 10 80  07 80 0D 80 00 80 00 80  ................
 1A60: 10 80 2A 80 0B 80 07 80  32 80 32 80 0C 80 32 80  ..*.....2.2...2.
@@ -1085,11 +1086,11 @@ SUBROUTINE_00D1:
  13: 0x012B [0x1A] CALL_SUBROUTINE(address=0x1197)
  14: 0x012E [0x9D] ExtData[1]->WorkLocal[2] = 0x149C[ExtData[1]->WorkLocal[4]] // Read WORD
  15: 0x0136 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0145
- 16: 0x013E [0x48] [System] [7994*]:
+ 16: 0x013E [0x48] [System] [7995*]:
     → "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
  17: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0142 [0x01] GOTO 0x0149
- 19: 0x0145 [0x48] [System] [7992*]:
+ 19: 0x0145 [0x48] [System] [7993*]:
     → "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
  20: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1100,7 +1101,7 @@ SUBROUTINE_0149:
 
 SUBROUTINE_0152:
  24: 0x0152 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x01A9
- 25: 0x015A [0x24] CREATE_DIALOG(message_id=7995*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
+ 25: 0x015A [0x24] CREATE_DIALOG(message_id=7996*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
     → "What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]"
  26: 0x0161 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0162 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0170
@@ -1127,14 +1128,14 @@ SUBROUTINE_01A6:
  44: 0x01AA [0x00] END_REQSTACK()
 
 SUBROUTINE_01AB:
- 45: 0x01AB [0x48] [System] [8008*]:
+ 45: 0x01AB [0x48] [System] [8009*]:
     → "You may change the way you select areas listed in "Teleportation Assistance.""
  46: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01AF [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[1]
  48: 0x01B4 [0x0B] ExtData[1]->WorkLocal[45]++
  49: 0x01B7 [0x06] ExtData[1]->WorkLocal[44] = 0
  50: 0x01BA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[44], bit_index_work_offset=0*, condition_work_offset=1*)
- 51: 0x01C1 [0x24] CREATE_DIALOG(message_id=8009*, default_option=ExtData[1]->WorkLocal[45], option_flags=ExtData[1]->WorkLocal[44])
+ 51: 0x01C1 [0x24] CREATE_DIALOG(message_id=8010*, default_option=ExtData[1]->WorkLocal[45], option_flags=ExtData[1]->WorkLocal[44])
     → "Any changes to make? [Keep course./Select by region./Select by content.]"
  52: 0x01C8 [0x25] WAIT_DIALOG_SELECT()
  53: 0x01C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D4
@@ -1146,7 +1147,7 @@ SUBROUTINE_01AB:
  59: 0x01F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  60: 0x01F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  61: 0x01F7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 62: 0x01FC [0x48] [System] [8010*]:
+ 62: 0x01FC [0x48] [System] [8011*]:
     → "Area selection will now be made by [region/content]."
  63: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0200 [0x01] GOTO 0x0232
@@ -1157,7 +1158,7 @@ SUBROUTINE_01AB:
  69: 0x0222 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  70: 0x0224 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  71: 0x0226 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 72: 0x022B [0x48] [System] [8010*]:
+ 72: 0x022B [0x48] [System] [8011*]:
     → "Area selection will now be made by [region/content]."
  73: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x022F [0x01] GOTO 0x0232
@@ -1168,7 +1169,7 @@ SUBROUTINE_0232:
 SUBROUTINE_02F3:
  76: 0x02F3 [0x1A] CALL_SUBROUTINE(address=0x042C)
  77: 0x02F6 [0x06] ExtData[1]->WorkLocal[33] = 0
- 78: 0x02F9 [0x48] [System] [7996*]:
+ 78: 0x02F9 [0x48] [System] [7997*]:
     → "The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
  79: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x02FD [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x03C6
@@ -1179,13 +1180,13 @@ SUBROUTINE_030B:
  83: 0x030B [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x03C3
  84: 0x0313 [0x1A] CALL_SUBROUTINE(address=0x0A74)
  85: 0x0316 [0x02] IF !(ExtData[1]->WorkLocal[37] == 4294967294*) GOTO 0x0328
- 86: 0x031E [0x48] [System] [7997*]:
+ 86: 0x031E [0x48] [System] [7998*]:
     → "No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
  87: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0322 [0x05] ExtData[1]->WorkLocal[11] = 1
  89: 0x0325 [0x01] GOTO 0x03C0
  90: 0x0328 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[33]
- 91: 0x032D [0x24] CREATE_DIALOG(message_id=8012*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
+ 91: 0x032D [0x24] CREATE_DIALOG(message_id=8013*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
     → "Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]"
  92: 0x0334 [0x25] WAIT_DIALOG_SELECT()
  93: 0x0335 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0343
@@ -1233,12 +1234,12 @@ SUBROUTINE_03D4:
 127: 0x03D4 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0428
 128: 0x03DC [0x1A] CALL_SUBROUTINE(address=0x0A09)
 129: 0x03DF [0x02] IF !(ExtData[1]->WorkLocal[37] == 4294967294*) GOTO 0x03F1
-130: 0x03E7 [0x48] [System] [7997*]:
+130: 0x03E7 [0x48] [System] [7998*]:
     → "No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
 131: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x03EB [0x05] ExtData[1]->WorkLocal[11] = 1
 133: 0x03EE [0x01] GOTO 0x0425
-134: 0x03F1 [0x24] CREATE_DIALOG(message_id=8011*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[41])
+134: 0x03F1 [0x24] CREATE_DIALOG(message_id=8012*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[41])
     → "[Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]"
 135: 0x03F8 [0x25] WAIT_DIALOG_SELECT()
 136: 0x03F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0407
@@ -1339,7 +1340,7 @@ SUBROUTINE_055C:
 205: 0x056C [0x9D] ExtData[1]->WorkLocal[17] = 0x13CC[ExtData[1]->WorkLocal[59]] // Read WORD
 206: 0x0574 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 207: 0x0579 [0x06] ExtData[1]->WorkLocal[17] = 0
-208: 0x057C [0x48] [System] [8000*]:
+208: 0x057C [0x48] [System] [8001*]:
     → "All mog tablets have currently been found, so you may teleport to $8 at no charge."
 209: 0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x0580 [0x05] ExtData[1]->WorkLocal[76] = 1
@@ -1350,7 +1351,7 @@ SUBROUTINE_055C:
 215: 0x0596 [0x03] Work_Zone_1700[25] = 0*
 
 SUBROUTINE_059B:
-216: 0x059B [0x24] CREATE_DIALOG(message_id=8001*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+216: 0x059B [0x24] CREATE_DIALOG(message_id=8002*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]"
 217: 0x05A2 [0x25] WAIT_DIALOG_SELECT()
 218: 0x05A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05B4
@@ -1403,7 +1404,7 @@ SUBROUTINE_0613:
 
 SUBROUTINE_0676:
 261: 0x0676 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-262: 0x067B [0x24] CREATE_DIALOG(message_id=8002*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+262: 0x067B [0x24] CREATE_DIALOG(message_id=8003*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "$2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]"
 263: 0x0682 [0x25] WAIT_DIALOG_SELECT()
 264: 0x0683 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x068E
@@ -1441,7 +1442,7 @@ SUBROUTINE_0702:
 291: 0x0702 [0x01] GOTO 0x0771
 292: 0x0705 [0x02] IF !(ExtData[1]->WorkLocal[77] == 2*) GOTO 0x0766
 293: 0x070D [0x02] IF !(ExtData[1]->WorkLocal[34] >= ExtData[1]->WorkLocal[23]) GOTO 0x071F
-294: 0x0715 [0x48] [System] [8003*]:
+294: 0x0715 [0x48] [System] [8004*]:
     → "You do not have enough tabs."
 295: 0x0718 [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x0719 [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -1488,7 +1489,7 @@ SUBROUTINE_0786:
 327: 0x07A7 [0x9D] Work_Zone[3] = 0x12FC[ExtData[1]->WorkLocal[59]] // Read WORD
 328: 0x07AF [0x9D] Work_Zone[4] = 0x163C[ExtData[1]->WorkLocal[59]] // Read WORD
 329: 0x07B7 [0x03] Work_Zone_1700[25] = 1*
-330: 0x07BC [0x48] [System] [8014*]:
+330: 0x07BC [0x48] [System] [8015*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 331: 0x07BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x07C0 [0x06] ExtData[1]->WorkLocal[47] = 0
@@ -1503,13 +1504,13 @@ SUBROUTINE_0786:
 341: 0x07EA [0x9D] Work_Zone[3] = 0x12FC[ExtData[1]->WorkLocal[59]] // Read WORD
 342: 0x07F2 [0x9D] Work_Zone[4] = 0x163C[ExtData[1]->WorkLocal[59]] // Read WORD
 343: 0x07FA [0x03] Work_Zone_1700[25] = 0*
-344: 0x07FF [0x48] [System] [8014*]:
+344: 0x07FF [0x48] [System] [8015*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 345: 0x0802 [0x23] WAIT_FOR_DIALOG_INTERACTION
 346: 0x0803 [0x05] ExtData[1]->WorkLocal[47] = 1
 347: 0x0806 [0x01] GOTO 0x0884
 348: 0x0809 [0x03] ExtData[1]->WorkLocal[71] = ExtData[1]->WorkLocal[59]
-349: 0x080E [0x48] [System] [8015*]:
+349: 0x080E [0x48] [System] [8016*]:
     → "Your list of favorites is full. You must remove an existing entry to add new ones."
 350: 0x0811 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x0812 [0x1A] CALL_SUBROUTINE(address=0x0965)
@@ -1531,7 +1532,7 @@ SUBROUTINE_0829:
 365: 0x0860 [0x9D] Work_Zone[3] = 0x12FC[ExtData[1]->WorkLocal[71]] // Read WORD
 366: 0x0868 [0x9D] Work_Zone[4] = 0x163C[ExtData[1]->WorkLocal[71]] // Read WORD
 367: 0x0870 [0x03] Work_Zone_1700[25] = 0*
-368: 0x0875 [0x48] [System] [8014*]:
+368: 0x0875 [0x48] [System] [8015*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 369: 0x0878 [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x0879 [0x05] ExtData[1]->WorkLocal[47] = 1
@@ -1743,7 +1744,7 @@ SUBROUTINE_0BCF:
 530: 0x0BDF [0x9D] ExtData[1]->WorkLocal[17] = 0x13CC[ExtData[1]->WorkLocal[59]] // Read WORD
 531: 0x0BE7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 532: 0x0BEC [0x06] ExtData[1]->WorkLocal[17] = 0
-533: 0x0BEF [0x48] [System] [8000*]:
+533: 0x0BEF [0x48] [System] [8001*]:
     → "All mog tablets have currently been found, so you may teleport to $8 at no charge."
 534: 0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 535: 0x0BF3 [0x05] ExtData[1]->WorkLocal[76] = 1
@@ -1754,7 +1755,7 @@ SUBROUTINE_0BCF:
 540: 0x0C09 [0x03] Work_Zone_1700[25] = 0*
 
 SUBROUTINE_0C0E:
-541: 0x0C0E [0x24] CREATE_DIALOG(message_id=8001*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+541: 0x0C0E [0x24] CREATE_DIALOG(message_id=8002*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]"
 542: 0x0C15 [0x25] WAIT_DIALOG_SELECT()
 543: 0x0C16 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C27
@@ -1806,7 +1807,7 @@ SUBROUTINE_0C83:
 
 SUBROUTINE_0CE6:
 585: 0x0CE6 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-586: 0x0CEB [0x24] CREATE_DIALOG(message_id=8002*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+586: 0x0CEB [0x24] CREATE_DIALOG(message_id=8003*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "$2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]"
 587: 0x0CF2 [0x25] WAIT_DIALOG_SELECT()
 588: 0x0CF3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CFE
@@ -1843,7 +1844,7 @@ SUBROUTINE_0D6F:
 614: 0x0D6F [0x01] GOTO 0x0DDB
 615: 0x0D72 [0x02] IF !(ExtData[1]->WorkLocal[77] == 2*) GOTO 0x0DD0
 616: 0x0D7A [0x02] IF !(ExtData[1]->WorkLocal[34] >= ExtData[1]->WorkLocal[23]) GOTO 0x0D8C
-617: 0x0D82 [0x48] [System] [8003*]:
+617: 0x0D82 [0x48] [System] [8004*]:
     → "You do not have enough tabs."
 618: 0x0D85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 619: 0x0D86 [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -2219,23 +2220,23 @@ SUBROUTINE_11BD:
      0x026B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
      0x0270 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
      0x0275 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-     0x027A [0x48] [System] [8004*]:
+     0x027A [0x48] [System] [8005*]:
     → "The records indicate you have fought valiantly for Vana'diel for $1 hour[/s]."
      0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x027E [0x48] [System] [8005*]:
+     0x027E [0x48] [System] [8006*]:
     → "At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours."
      0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0282 [0x01] GOTO 0x02F2
      0x0285 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
      0x028A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
      0x028F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-     0x0294 [0x48] [System] [8004*]:
+     0x0294 [0x48] [System] [8005*]:
     → "The records indicate you have fought valiantly for Vana'diel for $1 hour[/s]."
      0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0298 [0x48] [System] [8006*]:
+     0x0298 [0x48] [System] [8007*]:
     → "As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued."
      0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x029C [0x24] CREATE_DIALOG(message_id=8007*, default_option=1*, option_flags=0*)
+     0x029C [0x24] CREATE_DIALOG(message_id=8008*, default_option=1*, option_flags=0*)
     → "Accept the reward? [Yes, please./No, thanks.]"
      0x02A3 [0x25] WAIT_DIALOG_SELECT()
      0x02A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E7
@@ -2266,7 +2267,7 @@ SUBROUTINE_11BD:
      0x1174 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1175 [0x21] END_EVENT
      0x1176 [0x1B] RETURN
-     0x1177 [0x48] [System] [8003*]:
+     0x1177 [0x48] [System] [8004*]:
     → "You do not have enough tabs."
      0x117A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x117B [0x21] END_EVENT
@@ -2357,58 +2358,57 @@ SUBROUTINE_11BD:
      0x1904 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=0xB481)
      0x1907 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 411057024/0x18803B80))
      0x190D [0x81] SET_ENTITY_BLINKING(blink_flag=0xB5, entity=Unknown NPC (ID: 3078731393/0xB781B681))
-     0x1913 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB8, entity=Unknown NPC (ID: 3112183937/0xB9802881))
-     0x1919 [0x81] SET_ENTITY_BLINKING(blink_flag=0xBA, entity=Unknown NPC (ID: 8502145/0x0081BB81))
+     0x1913 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB8, entity=Unknown NPC (ID: 3129063809/0xBA81B981))
+     0x1919 [0x81] SET_ENTITY_BLINKING(blink_flag=0xBB, entity=Unknown NPC (ID: 8502401/0x0081BC81))
      0x191F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164621575/0x81058107))
      0x1924 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x80)
      0x1926 [0x00] END_REQSTACK()
      0x1927 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151317929/0x803A81A9))
-     0x192C [0x81] SET_ENTITY_BLINKING(blink_flag=0x81, entity=Unknown NPC (ID: 2176614440/0x81BC8028))
-     0x1932 [0xBD] END_LOAD_SCHEDULER_MAIN_ALT6: End scheduler 0x0081BF81 with entities [Unknown NPC (ID: 897692544/0x3581B380), Unknown NPC (ID: 3196127105/0xBE810781)], work=0x81
-     0x1941 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2167046592/0x812A81C0))
-     0x1946 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x80)
-     0x1948 [0xC1] KILL_ENTITY_ACTION(entity_id=0x2681C281)
-     0x194D [0x81] SET_ENTITY_BLINKING(blink_flag=0xA0, entity=Unknown NPC (ID: 3279945857/0xC3800081))
-     0x1953 [0x81] SET_ENTITY_BLINKING(blink_flag=0xC4, entity=Unknown NPC (ID: 3330393473/0xC681C581))
-     0x1959 [0x81] SET_ENTITY_BLINKING(blink_flag=0xC7, entity=Unknown NPC (ID: 3363939969/0xC881A681))
-     0x195F [0x81] SET_ENTITY_BLINKING(blink_flag=0x6E, entity=Unknown NPC (ID: 3397503361/0xCA81C981))
-     0x1965 [0x81] SET_ENTITY_BLINKING(blink_flag=0xA9, entity=Unknown NPC (ID: 3414274433/0xCB81B181))
+     0x192C [0x81] SET_ENTITY_BLINKING(blink_flag=0x81, entity=Unknown NPC (ID: 2176680377/0x81BD81B9))
+     0x1932 [0xBE] STORE_REQ_WHO_SERVER_ID(work_offset=0x81)
+     0x1935 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2167767475/0x813581B3))
+     0x193A [0x07] 0xBF81 += 0xC081
+     0x193F [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 713146752/0x2A81C180))
+     0x1945 [0x81] SET_ENTITY_BLINKING(blink_flag=0xBF, entity=Unknown NPC (ID: 3280061056/0xC381C280))
+     0x194B [0x81] SET_ENTITY_BLINKING(blink_flag=0x26, entity=Unknown NPC (ID: 8495233/0x0081A081))
+     0x1951 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177204676/0x81C581C4))
+     0x1956 [0xC6] WAIT_LOAD_SCHEDULER_ALT3: Wait for scheduler 0xCB81CA81 with entities [Unknown NPC (ID: 2793523329/0xA681C881), Unknown NPC (ID: 1853999489/0x6E81C981)], work=0xC781
+     0x1965 [0x81] SET_ENTITY_BLINKING(blink_flag=0xA9, entity=Unknown NPC (ID: 3431051649/0xCC81B181))
      0x196B [0x81] SET_ENTITY_BLINKING(blink_flag=0xB3, entity=Unknown NPC (ID: 8388737/0x00800081))
      0x1971 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x1976 [0x00] END_REQSTACK()
      0x1977 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x197C [0x00] END_REQSTACK()
-     0x197D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177662976/0x81CC8000))
-     0x1982 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler 0xD0800080 with entities [Unknown NPC (ID: 3447836289/0xCD81CE81), Unknown NPC (ID: 8507265/0x0081CF81)], work=[0xCC81, 0xD181]
-     0x1993 [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3531722112/0xD281CD80))
-     0x1999 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3531721857/0xD281CC81))
-     0x199F [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 3481390464/0xCF81CD80))
-     0x19A5 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3514831489/0xD1801281))
-     0x19AB [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3531721856/0xD281CC80))
-     0x19B1 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCC, entity=Unknown NPC (ID: 3548381313/0xD3800081))
-     0x19B7 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3531604097/0xD2800081))
-     0x19BD [0x81] SET_ENTITY_BLINKING(blink_flag=0xCC, entity=Unknown NPC (ID: 3514826881/0xD1800081))
-     0x19C3 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD0, entity=Unknown NPC (ID: 3531722625/0xD281CF81))
-     0x19C9 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3514831489/0xD1801281))
-     0x19CF [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3431058561/0xCC81CC81))
-     0x19D5 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3430940801/0xCC800081))
-     0x19DB [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3447837056/0xCD81D180))
-     0x19E1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3447835776/0xCD81CC80))
-     0x19E7 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3481272449/0xCF800081))
-     0x19ED [0x81] SET_ENTITY_BLINKING(blink_flag=0xCC, entity=Unknown NPC (ID: 8506753/0x0081CD81))
-     0x19F3 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177990674/0x81D18012))
-     0x19F8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x19FC [0xD3] CLEAR_ENTITY_MOTION_QUEUE(condition_flag=0x81, entity_server_id=0x81D381CD)
-     0x1A02 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x1A06 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x1A0A [0x12] 0xCD80 = rand()
-     0x1A0D [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3447836032/0xCD81CD80))
-     0x1A13 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCF, entity=Unknown NPC (ID: 310496385/0x1281CC81))
-     0x1A19 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2178056652/0x81D281CC))
-     0x1A1E [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler 0xCC81D080 with entities [Unknown NPC (ID: 3431060097/0xCC81D281), Unknown NPC (ID: 8508033/0x0081D281)], work=[0xD181, 0xCD81]
-     0x1A2F [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 8507521/0x0081D081))
-     0x1A35 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728978/0x81CD81D2))
-     0x1A3A [0xD2] END_LOAD_SCHEDULER_MAIN_ALT7: End scheduler 0x00000080 with entities [Unknown NPC (ID: 8507009/0x0081CE81), Unknown NPC (ID: 8388736/0x00800080)], work=ExtData[1]->WorkLocal[0]
+     0x197D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728512/0x81CD8000))
+     0x1982 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler 0xD1800080 with entities [Unknown NPC (ID: 3464613761/0xCE81CF81), Unknown NPC (ID: 8507521/0x0081D081)], work=0xCD81
+     0x1991 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3464499841/0xCE801281))
+     0x1997 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3447837569/0xCD81D381))
+     0x199D [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3464495233/0xCE800081))
+     0x19A3 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD0, entity=Unknown NPC (ID: 310498177/0x1281D381))
+     0x19A9 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148696530/0x801281D2))
+     0x19AE [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler 0xD3800081 with entities [Unknown NPC (ID: 8506753/0x0081CD81), Unknown NPC (ID: 3548501120/0xD381D480)], work=[0xD381, 0xCD81]
+     0x19BF [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 3514946176/0xD181D280))
+     0x19C5 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD0, entity=Unknown NPC (ID: 3464614785/0xCE81D381))
+     0x19CB [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3565277824/0xD481D280))
+     0x19D1 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3464613249/0xCE81CD81))
+     0x19D7 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 310496640/0x1281CD80))
+     0x19DD [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177794514/0x81CE81D2))
+     0x19E2 [0x12] 0xCD80 = rand()
+     0x19E5 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCE, entity=Unknown NPC (ID: 8508289/0x0081D381))
+     0x19EB [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728976/0x81CD81D0))
+     0x19F0 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler 0xCE81D481 with entities [Unknown NPC (ID: 3531608704/0xD2801280), Unknown NPC (ID: 3548499329/0xD381CD81)], work=0x81
+     0x19FF [0x81] SET_ENTITY_BLINKING(blink_flag=0xD4, entity=Unknown NPC (ID: 3464613249/0xCE81CD81))
+     0x1A05 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 310496641/0x1281CD81))
+     0x1A0B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148696526/0x801281CE))
+     0x1A10 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler 0xCE81D381 with entities [Unknown NPC (ID: 3447836801/0xCD81D081), Unknown NPC (ID: 3447722625/0xCD801281)], work=0xCE81
+     0x1A1F [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3447837569/0xCD81D381))
+     0x1A25 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3514826881/0xD1800081))
+     0x1A2B [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3548499585/0xD381CE81))
+     0x1A31 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD1, entity=Unknown NPC (ID: 3548381313/0xD3800081))
+     0x1A37 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCE, entity=Unknown NPC (ID: 3447837569/0xCD81D381))
+     0x1A3D [0x81] SET_ENTITY_BLINKING(blink_flag=0xCF, entity=Unknown NPC (ID: 8388737/0x00800081))
+     0x1A43 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x1A48 [0x00] END_REQSTACK()
      0x1A49 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x1A4E [0x00] END_REQSTACK()
      0x1A4F [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975180/0x8007800C))

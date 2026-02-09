@@ -32,11 +32,11 @@
 |       4 | 0x000D      |          13 |
 |       5 | 0xFFFE622E  |  4294861358 |
 |       6 | 0xFFFFAFC0  |  4294946752 |
-|       7 | 0x2928      |       10536 |
+|       7 | 0x2929      |       10537 |
 |       8 | 0x003C      |          60 |
-|       9 | 0x2929      |       10537 |
-|      10 | 0x292A      |       10538 |
-|      11 | 0x292B      |       10539 |
+|       9 | 0x292A      |       10538 |
+|      10 | 0x292B      |       10539 |
+|      11 | 0x292C      |       10540 |
 |      12 | 0xFFFF601A  |  4294926362 |
 |      13 | 0x6AE0      |       27360 |
 |      14 | 0x0EFF      |        3839 |
@@ -45,10 +45,10 @@
 
 ## String References
 
-- **10536**: Ever since the new president came into office, all manner of public works are falling behind schedule.
-- **10537**: He shouldn't meddle with things that don't concern him, and let Chief Cid do his job. Doesn't he realize he's just a figurehead anyway?
-- **10538**: What? The stamp hunt? You came all this way for that, huh? Here you go.
-- **10539**: You received a stamp!
+- **10537**: Ever since the new president came into office, all manner of public works are falling behind schedule.
+- **10538**: He shouldn't meddle with things that don't concern him, and let Chief Cid do his job. Doesn't he realize he's just a figurehead anyway?
+- **10539**: What? The stamp hunt? You came all this way for that, huh? Here you go.
+- **10540**: You received a stamp!
 
 ## Events
 
@@ -145,11 +145,11 @@
 
 ```
   0: 0x0019 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10536*)
+  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
     → "Ever since the new president came into office, all manner of public works are falling behind schedule."
   2: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0022 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
     → "He shouldn't meddle with things that don't concern him, and let Chief Cid do his job. Doesn't he realize he's just a figurehead anyway?"
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0035 [0x21] END_EVENT
@@ -178,10 +178,10 @@
 ```
   0: 0x0037 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0038 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
+  2: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
     → "What? The stamp hunt? You came all this way for that, huh? Here you go."
   3: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0041 [0x48] [System] [10539*]:
+  4: 0x0041 [0x48] [System] [10540*]:
     → "You received a stamp!"
   5: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0045 [0x21] END_EVENT

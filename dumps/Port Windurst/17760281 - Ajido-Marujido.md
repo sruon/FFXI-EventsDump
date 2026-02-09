@@ -114,8 +114,8 @@
 |      47 | 0x1938C     |      103308 |
 |      48 | 0xFFFE1D88  |  4294843784 |
 |      49 | 0x1D001     |      118785 |
-|      50 | 0x2FF9      |       12281 |
-|      51 | 0x2FFA      |       12282 |
+|      50 | 0x2FFA      |       12282 |
+|      51 | 0x2FFB      |       12283 |
 
 ## String References
 
@@ -128,8 +128,8 @@
 - **3739**: You're talking about next year's budget, rightaru?
 - **3740**: Oh, I've already placed the orders with Jeuno. I bought swords, axes, armor, shields...
 - **3742**: Hahaha, I bought them for you boys in Operations, silly! Anyway, that should keep you busy working on them for a while. See you around, boys. Ta-taru.
-- **12281**: Are you listening? I wantaru you to go under the southwestern tower in West Sarutabaruta and press the switch in the laboratory.
-- **12282**: That's the lastaru one. If all goes well, the magic towers will be activated!
+- **12282**: Are you listening? I wantaru you to go under the southwestern tower in West Sarutabaruta and press the switch in the laboratory.
+- **12283**: That's the lastaru one. If all goes well, the magic towers will be activated!
 
 ## Events
 
@@ -1261,7 +1261,7 @@
 
 ```
   0: 0x028B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17760281/0x010F0019), tag_num=0x05)
-  1: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=12281*)
+  1: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=12282*)
     → "Are you listening? I wantaru you to go under the southwestern tower in West Sarutabaruta and press the switch in the laboratory."
   2: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0296 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17760281/0x010F0019), tag_num=0x06)
@@ -1290,7 +1290,7 @@
 
 ```
   0: 0x029E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17760281/0x010F0019), tag_num=0x07)
-  1: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12282*)
+  1: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12283*)
     → "That's the lastaru one. If all goes well, the magic towers will be activated!"
   2: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17760281/0x010F0019), tag_num=0x08)

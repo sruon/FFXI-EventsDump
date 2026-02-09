@@ -39,63 +39,63 @@
 |      16 | 0x0005      |           5 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000A      |          10 |
-|      19 | 0x1E66      |        7782 |
-|      20 | 0x1E67      |        7783 |
+|      19 | 0x1E67      |        7783 |
+|      20 | 0x1E68      |        7784 |
 |      21 | 0x40000000  |  1073741824 |
 |      22 | 0x0001      |           1 |
-|      23 | 0x1E68      |        7784 |
-|      24 | 0x1E69      |        7785 |
-|      25 | 0x1E6A      |        7786 |
-|      26 | 0x1E6B      |        7787 |
-|      27 | 0x1E6C      |        7788 |
-|      28 | 0x1E6D      |        7789 |
-|      29 | 0x1E6E      |        7790 |
-|      30 | 0x1E6F      |        7791 |
+|      23 | 0x1E69      |        7785 |
+|      24 | 0x1E6A      |        7786 |
+|      25 | 0x1E6B      |        7787 |
+|      26 | 0x1E6C      |        7788 |
+|      27 | 0x1E6D      |        7789 |
+|      28 | 0x1E6E      |        7790 |
+|      29 | 0x1E6F      |        7791 |
+|      30 | 0x1E70      |        7792 |
 |      31 | 0x0002      |           2 |
-|      32 | 0x1E70      |        7792 |
-|      33 | 0x1E71      |        7793 |
-|      34 | 0x1E72      |        7794 |
-|      35 | 0x1E73      |        7795 |
-|      36 | 0x1E74      |        7796 |
-|      37 | 0x1E75      |        7797 |
-|      38 | 0x1E76      |        7798 |
-|      39 | 0x1E77      |        7799 |
-|      40 | 0x1E78      |        7800 |
-|      41 | 0x1E79      |        7801 |
-|      42 | 0x1E7A      |        7802 |
-|      43 | 0x1E7B      |        7803 |
-|      44 | 0x1E7C      |        7804 |
-|      45 | 0x1E7D      |        7805 |
-|      46 | 0x1E7E      |        7806 |
-|      47 | 0x1E7F      |        7807 |
-|      48 | 0x1E80      |        7808 |
-|      49 | 0x1E81      |        7809 |
-|      50 | 0x1E82      |        7810 |
-|      51 | 0x1E83      |        7811 |
-|      52 | 0x1E84      |        7812 |
-|      53 | 0x1E85      |        7813 |
-|      54 | 0x1E88      |        7816 |
+|      32 | 0x1E71      |        7793 |
+|      33 | 0x1E72      |        7794 |
+|      34 | 0x1E73      |        7795 |
+|      35 | 0x1E74      |        7796 |
+|      36 | 0x1E75      |        7797 |
+|      37 | 0x1E76      |        7798 |
+|      38 | 0x1E77      |        7799 |
+|      39 | 0x1E78      |        7800 |
+|      40 | 0x1E79      |        7801 |
+|      41 | 0x1E7A      |        7802 |
+|      42 | 0x1E7B      |        7803 |
+|      43 | 0x1E7C      |        7804 |
+|      44 | 0x1E7D      |        7805 |
+|      45 | 0x1E7E      |        7806 |
+|      46 | 0x1E7F      |        7807 |
+|      47 | 0x1E80      |        7808 |
+|      48 | 0x1E81      |        7809 |
+|      49 | 0x1E82      |        7810 |
+|      50 | 0x1E83      |        7811 |
+|      51 | 0x1E84      |        7812 |
+|      52 | 0x1E85      |        7813 |
+|      53 | 0x1E86      |        7814 |
+|      54 | 0x1E89      |        7817 |
 |      55 | 0x0064      |         100 |
-|      56 | 0x1E89      |        7817 |
-|      57 | 0x1E8C      |        7820 |
-|      58 | 0x1E8D      |        7821 |
-|      59 | 0x1E8E      |        7822 |
-|      60 | 0x1E8F      |        7823 |
-|      61 | 0x1E90      |        7824 |
-|      62 | 0x1E91      |        7825 |
-|      63 | 0x1E92      |        7826 |
-|      64 | 0x1E93      |        7827 |
-|      65 | 0x1E94      |        7828 |
-|      66 | 0x1E95      |        7829 |
-|      67 | 0x1E96      |        7830 |
-|      68 | 0x1E97      |        7831 |
-|      69 | 0x1E98      |        7832 |
-|      70 | 0x1EA3      |        7843 |
-|      71 | 0x1E99      |        7833 |
-|      72 | 0x1EA4      |        7844 |
-|      73 | 0x1E9A      |        7834 |
-|      74 | 0x1EA5      |        7845 |
-|      75 | 0x1EAF      |        7855 |
+|      56 | 0x1E8A      |        7818 |
+|      57 | 0x1E8D      |        7821 |
+|      58 | 0x1E8E      |        7822 |
+|      59 | 0x1E8F      |        7823 |
+|      60 | 0x1E90      |        7824 |
+|      61 | 0x1E91      |        7825 |
+|      62 | 0x1E92      |        7826 |
+|      63 | 0x1E93      |        7827 |
+|      64 | 0x1E94      |        7828 |
+|      65 | 0x1E95      |        7829 |
+|      66 | 0x1E96      |        7830 |
+|      67 | 0x1E97      |        7831 |
+|      68 | 0x1E98      |        7832 |
+|      69 | 0x1E99      |        7833 |
+|      70 | 0x1EA4      |        7844 |
+|      71 | 0x1E9A      |        7834 |
+|      72 | 0x1EA5      |        7845 |
+|      73 | 0x1E9B      |        7835 |
+|      74 | 0x1EA6      |        7846 |
+|      75 | 0x1EB0      |        7856 |
 |      76 | 0x2EFC      |       12028 |
 |      77 | 0x05DC      |        1500 |
 |      78 | 0x2EFD      |       12029 |
@@ -106,11 +106,11 @@
 |      83 | 0x0CDF      |        3295 |
 |      84 | 0x012C      |         300 |
 |      85 | 0x0CE0      |        3296 |
-|      86 | 0x1EB0      |        7856 |
-|      87 | 0x1CE3      |        7395 |
-|      88 | 0x1EB1      |        7857 |
-|      89 | 0x1EB3      |        7859 |
-|      90 | 0x1EB7      |        7863 |
+|      86 | 0x1EB1      |        7857 |
+|      87 | 0x1CE4      |        7396 |
+|      88 | 0x1EB2      |        7858 |
+|      89 | 0x1EB4      |        7860 |
+|      90 | 0x1EB8      |        7864 |
 |      91 | 0x16F4      |        5876 |
 |      92 | 0x16F5      |        5877 |
 |      93 | 0x16F6      |        5878 |
@@ -120,14 +120,14 @@
 |      97 | 0x09C4      |        2500 |
 |      98 | 0x4B6E      |       19310 |
 |      99 | 0x4B43      |       19267 |
-|     100 | 0x1EB2      |        7858 |
-|     101 | 0x1EB9      |        7865 |
+|     100 | 0x1EB3      |        7859 |
+|     101 | 0x1EBA      |        7866 |
 |     102 | 0x0601      |        1537 |
 |     103 | 0x0600      |        1536 |
 |     104 | 0x05FF      |        1535 |
 |     105 | 0x05FE      |        1534 |
 |     106 | 0x05FD      |        1533 |
-|     107 | 0x1EBA      |        7866 |
+|     107 | 0x1EBB      |        7867 |
 |     108 | 0x2CAB      |       11435 |
 |     109 | 0x2CAC      |       11436 |
 |     110 | 0x2CAD      |       11437 |
@@ -137,7 +137,7 @@
 |     114 | 0x2CB1      |       11441 |
 |     115 | 0x2CB2      |       11442 |
 |     116 | 0x2CB3      |       11443 |
-|     117 | 0x1EBB      |        7867 |
+|     117 | 0x1EBC      |        7868 |
 |     118 | 0x2E6F      |       11887 |
 |     119 | 0x2E70      |       11888 |
 |     120 | 0x2E71      |       11889 |
@@ -174,99 +174,99 @@
 |     151 | 0x2E40      |       11840 |
 |     152 | 0x2E41      |       11841 |
 |     153 | 0x2E42      |       11842 |
-|     154 | 0x1EBD      |        7869 |
-|     155 | 0x1EBC      |        7868 |
-|     156 | 0x1EBE      |        7870 |
-|     157 | 0x1EBF      |        7871 |
-|     158 | 0x1EC1      |        7873 |
-|     159 | 0x1EC2      |        7874 |
-|     160 | 0x1EC3      |        7875 |
-|     161 | 0x1EC4      |        7876 |
+|     154 | 0x1EBE      |        7870 |
+|     155 | 0x1EBD      |        7869 |
+|     156 | 0x1EBF      |        7871 |
+|     157 | 0x1EC0      |        7872 |
+|     158 | 0x1EC2      |        7874 |
+|     159 | 0x1EC3      |        7875 |
+|     160 | 0x1EC4      |        7876 |
+|     161 | 0x1EC5      |        7877 |
 |     162 | 0x001E      |          30 |
-|     163 | 0x1EC8      |        7880 |
-|     164 | 0x1EC9      |        7881 |
+|     163 | 0x1EC9      |        7881 |
+|     164 | 0x1ECA      |        7882 |
 |     165 | 0x001F      |          31 |
-|     166 | 0x1EC7      |        7879 |
-|     167 | 0x1EA1      |        7841 |
-|     168 | 0x1EA2      |        7842 |
-|     169 | 0x1EAC      |        7852 |
-|     170 | 0x1EAD      |        7853 |
-|     171 | 0x1EAE      |        7854 |
+|     166 | 0x1EC8      |        7880 |
+|     167 | 0x1EA2      |        7842 |
+|     168 | 0x1EA3      |        7843 |
+|     169 | 0x1EAD      |        7853 |
+|     170 | 0x1EAE      |        7854 |
+|     171 | 0x1EAF      |        7855 |
 
 ## String References
 
-- **7395**: Trade for $0?
-- **7782**: I'm a Resistance officer charged with overseeing the Dominion effort, and we're looking for a few good [men/women]. Since I don't see any around, it looks like you'll have to do.
-- **7783**: Ask about something? [Not now./General information./State of the Resistance./State of the enemy./Exchange Dominion Notes./Exchange battle trophies.]
-- **7784**: Ask about something? [Not now./The Dominion effort...?/How do I do my part?/What's in it for me?]
-- **7785**: Wake up, soldier! I don't know if you're blind or stupid, but if you haven't noticed, there's a war going on around you.
-- **7786**: The Resistance is locked in a bitter struggle to take back our rightful land from the hordes, and secure a future for our kind. We call this the Dominion effort. Has an inspiring ring to it, doesn't it, soldier?
-- **7787**: And if you haven't noticed, we don't exactly have a surplus of personnel. Hell, I just got a field promotion from sergeant to tactician when my predecessor got his head lopped clean off by a fiend. Now they've got some sissy boy doing my old job, but do you hear me complainin'?
-- **7788**: Anyhow, if you've got half a bloody stump of a leg to stand on and an arm to carry a blade, consider yourself recruited. Now listen up, soldier, because I'm only going to say this once.
-- **7789**: I'll put this in terms even a dullard like you can understand. The enemy we face consists of two types of fiends: nasty ones, and even nastier ones.
-- **7790**: We've got legions of ugly monsters prowling the land in throngs. We cut them down, and lure their even nastier buddies out of hiding.
-- **7791**: These fiends are the beating heart of our enemy. Bring them down, and our battle is as good as won. Get it? Good. Now hop to it, soldier!
-- **7792**: Hah! Ya may be short on wits, but you've got pluck. There may be hope for you yet, soldier.
-- **7793**: If you're ready to make yourself useful, then you'll want to seek out one of our outposts. There's three in the area, so even a rookie like yourself should be able to stumble upon one of 'em by dumb luck.
-- **7794**: Talk with a sergeant there, and sign up for one of our operations--Dominion Ops, we call 'em for short. Each op will involve exterminating a prescribed quota of a particular variety of fiend.
-- **7795**: If you're halfway competent at your job, the Resistance will gradually expand its sphere of influence over the hordes. Our ultimate goal is complete domination against all manner of fiends. That's one hundred percent, soldier!
-- **7796**: "What if I just kill fiends without signing up for ops," you say? Don't give me any of that lip, soldier!
-- **7797**: Listen. Every fiend you bring down will aid the cause. But we can't be certain that we've achieved complete domination unless you sign up for ops, and report your success to the sergeant. You'll also be rewarded for your efforts. Bet that got your interest quick, didn't it?
-- **7798**: There's more, soldier. This may sound bloody obvious--well, maybe not to a lackwit like you--but success in your efforts will raise the spirits of our entire company.
-- **7799**: With the resulting boost in morale, our troops will fight with even greater fervor, affording us all manner of advantages in battle. "What kind of advantages?" Hah! That's for us to know and you to find out, soldier!
-- **7800**: Expand our sphere of influence over the peons, and we'll start to lure the big boys out of the woodwork.
-- **7801**: Take them out, and the biggest, baddest foes will start to show up. Where does it all end, you say? It doesn't! This is war, soldier, not a Lightsday afternoon walk in the park!
-- **7802**: Now, where was I? The enemy leaders pack a punch, but they rely on their flunkies as the foundation for their strength.
-- **7803**: Cut their subordinates out from underneath them, and they won't have a leg--or gnarled, twisted appendage--to stand upon. That's smart fighting. And in war, you fight smart or you die, soldier!
-- **7804**: I couldn't tell you how many of these buggers we're up against, but I do know this. Each one we kill brings us closer to our goal of utter domination.
-- **7805**: To keep morale high, we can't let up the attack on the enemy leaders. You got all that, soldier?
-- **7806**: What's in it for you? You've got some nerve, soldier!
-- **7807**: You're here to follow orders, not question them! When I say "jump," you say "how many malms high, sir!?" Are we understood, soldier!?
-- **7808**: But yeah, there's somethin' in it for you, if that's the only thing that's going to get you fighting for our cause instead of sitting around on your lazy backside.
-- **7809**: When you report back after completing an operation or successfully bring down a notorious foe, you'll be awarded remuneration in the form of something we call Dominion Notes.
-- **7810**: These notes can be exchanged for supplies to serve you on the field of battle: equipment, medicine, and more. And we're not talking your run-of-the-mill items here. This is some impressive stuff. I daresay it's worth more than your life, soldier.
-- **7811**: Bet that put a spark in your eyes, didn't it? What's more, bring back battle trophies--the severed heads and gore-stained limbs of the fiends you slay--and we will reward your accomplishments with guerdon.
-- **7812**: There are five echelons of trophies in total. Slaying more powerful fiends will yield more prestigious trophies, which in turn will earn you more valuable guerdon.
-- **7813**: Battle trophies can even be exchanged for each other. Multiple lower-echelon trophies can be upgraded to a single trophy of a higher echelon, or vice versa. If you've got half a brain inside that skull of yours, you'll take advantage of this to obtain the guerdon you desire.
-- **7816**: Intelligence reports assess the Resistance's sphere of influence in this area at $0 percent.
-- **7817**: We've received reports that Captain [Excenmille/Nanaa Mihgo/Volker]'s region is overrun with fiends. What are you waiting for? Get out there, soldier!
-- **7820**: Our most recent intel has it that we've felled $0 percent of the horde's most notorious fiends.
-- **7821**: Our troops are currently reaping these morale benefits...
-- **7822**: HP/MP bonus: Level $0.
-- **7823**: Attribute bonus: Level $0.
-- **7824**: Increased experience yield: Level $0.
-- **7825**: Increased cruor yield: Level $0.
-- **7826**: Frequent pyxide discovery: Level $0.
-- **7827**: High-grade pyxide discovery: Level $0.
-- **7828**: Increased loot yield: Level $0.
-- **7829**: ...None at all. Morale sucks, and you sure aren't helping by standing around here. Get out on the battlefield, soldier!
-- **7830**: Morale's not bad, but it can always be better. Get out on the battlefield, soldier!
-- **7831**: Review enemy intelligence? [Not now./Notorious fiends (Tier I)./Notorious fiends (Tier II)./Notorious fiends (Tier III).]
-- **7841**: That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that.
-- **7842**: So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager.
-- **7852**: Reports from the field say that one of our soldiers found an item that could lure the nasty thing out of hiding. Cut it from the body of another of its foul ilk, he said.
-- **7853**: Reports from the field say that one of our regiments was successful in luring the nasty thing of its lair. Used some items cut from the bodies of others of its foul ilk, he said.
-- **7854**: Reports have it that one's been sighted on the field. One of our regiments spotted its ugly mug when they were squaring off against a pack of its thralls.
-- **7855**: Exchange for what? (Notes: $0) [Nothing for now./Items./Key items./Temporary items./Augmented items.]
-- **7856**: Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]
-- **7857**: That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?
-- **7858**: That $0 has been augmented with powerful sorcery, but we haven't yet had occasion to test it in battle. Let the buyer beware, soldier.
-- **7859**: Proceed with the exchange? (Notes: $0) [Yes./On second thought...]
-- **7863**: You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!
-- **7865**: Make an exchange? [Not now./Claim guerdon./Exchange trophies.]
-- **7866**: Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]
-- **7867**: Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]
-- **7868**: You'll need $2 $3 to claim that $0.
-- **7869**: You'll need $2 $5 to claim that $0.
-- **7870**: That $0 seems to be augmented with some powerful sorcery, but hasn't yet been tested in battle. We can't tell you what to expect, so let the buyer beware, soldier.
-- **7871**: Proceed with the exchange? [Yes./No.]
-- **7873**: You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle.
-- **7874**: Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]
-- **7875**: 5 in your possession: $1. Enter the quantity you wish to trade.
-- **7876**: Exchange for which trophy? [Cancel./3 (You have $1)./$3 (You have $3).]
-- **7879**: You won't be able to carry all those battle trophies, soldier. We can't have our troops overencumbered on the battlefield.
-- **7880**: You'll be left with $1 of these $5 and $3 of these $5 if you make that trade. You sure about this, soldier?
-- **7881**: Proceed with exchange? [Yes./No.]
+- **7396**: Trade for $0?
+- **7783**: I'm a Resistance officer charged with overseeing the Dominion effort, and we're looking for a few good [men/women]. Since I don't see any around, it looks like you'll have to do.
+- **7784**: Ask about something? [Not now./General information./State of the Resistance./State of the enemy./Exchange Dominion Notes./Exchange battle trophies.]
+- **7785**: Ask about something? [Not now./The Dominion effort...?/How do I do my part?/What's in it for me?]
+- **7786**: Wake up, soldier! I don't know if you're blind or stupid, but if you haven't noticed, there's a war going on around you.
+- **7787**: The Resistance is locked in a bitter struggle to take back our rightful land from the hordes, and secure a future for our kind. We call this the Dominion effort. Has an inspiring ring to it, doesn't it, soldier?
+- **7788**: And if you haven't noticed, we don't exactly have a surplus of personnel. Hell, I just got a field promotion from sergeant to tactician when my predecessor got his head lopped clean off by a fiend. Now they've got some sissy boy doing my old job, but do you hear me complainin'?
+- **7789**: Anyhow, if you've got half a bloody stump of a leg to stand on and an arm to carry a blade, consider yourself recruited. Now listen up, soldier, because I'm only going to say this once.
+- **7790**: I'll put this in terms even a dullard like you can understand. The enemy we face consists of two types of fiends: nasty ones, and even nastier ones.
+- **7791**: We've got legions of ugly monsters prowling the land in throngs. We cut them down, and lure their even nastier buddies out of hiding.
+- **7792**: These fiends are the beating heart of our enemy. Bring them down, and our battle is as good as won. Get it? Good. Now hop to it, soldier!
+- **7793**: Hah! Ya may be short on wits, but you've got pluck. There may be hope for you yet, soldier.
+- **7794**: If you're ready to make yourself useful, then you'll want to seek out one of our outposts. There's three in the area, so even a rookie like yourself should be able to stumble upon one of 'em by dumb luck.
+- **7795**: Talk with a sergeant there, and sign up for one of our operations--Dominion Ops, we call 'em for short. Each op will involve exterminating a prescribed quota of a particular variety of fiend.
+- **7796**: If you're halfway competent at your job, the Resistance will gradually expand its sphere of influence over the hordes. Our ultimate goal is complete domination against all manner of fiends. That's one hundred percent, soldier!
+- **7797**: "What if I just kill fiends without signing up for ops," you say? Don't give me any of that lip, soldier!
+- **7798**: Listen. Every fiend you bring down will aid the cause. But we can't be certain that we've achieved complete domination unless you sign up for ops, and report your success to the sergeant. You'll also be rewarded for your efforts. Bet that got your interest quick, didn't it?
+- **7799**: There's more, soldier. This may sound bloody obvious--well, maybe not to a lackwit like you--but success in your efforts will raise the spirits of our entire company.
+- **7800**: With the resulting boost in morale, our troops will fight with even greater fervor, affording us all manner of advantages in battle. "What kind of advantages?" Hah! That's for us to know and you to find out, soldier!
+- **7801**: Expand our sphere of influence over the peons, and we'll start to lure the big boys out of the woodwork.
+- **7802**: Take them out, and the biggest, baddest foes will start to show up. Where does it all end, you say? It doesn't! This is war, soldier, not a Lightsday afternoon walk in the park!
+- **7803**: Now, where was I? The enemy leaders pack a punch, but they rely on their flunkies as the foundation for their strength.
+- **7804**: Cut their subordinates out from underneath them, and they won't have a leg--or gnarled, twisted appendage--to stand upon. That's smart fighting. And in war, you fight smart or you die, soldier!
+- **7805**: I couldn't tell you how many of these buggers we're up against, but I do know this. Each one we kill brings us closer to our goal of utter domination.
+- **7806**: To keep morale high, we can't let up the attack on the enemy leaders. You got all that, soldier?
+- **7807**: What's in it for you? You've got some nerve, soldier!
+- **7808**: You're here to follow orders, not question them! When I say "jump," you say "how many malms high, sir!?" Are we understood, soldier!?
+- **7809**: But yeah, there's somethin' in it for you, if that's the only thing that's going to get you fighting for our cause instead of sitting around on your lazy backside.
+- **7810**: When you report back after completing an operation or successfully bring down a notorious foe, you'll be awarded remuneration in the form of something we call Dominion Notes.
+- **7811**: These notes can be exchanged for supplies to serve you on the field of battle: equipment, medicine, and more. And we're not talking your run-of-the-mill items here. This is some impressive stuff. I daresay it's worth more than your life, soldier.
+- **7812**: Bet that put a spark in your eyes, didn't it? What's more, bring back battle trophies--the severed heads and gore-stained limbs of the fiends you slay--and we will reward your accomplishments with guerdon.
+- **7813**: There are five echelons of trophies in total. Slaying more powerful fiends will yield more prestigious trophies, which in turn will earn you more valuable guerdon.
+- **7814**: Battle trophies can even be exchanged for each other. Multiple lower-echelon trophies can be upgraded to a single trophy of a higher echelon, or vice versa. If you've got half a brain inside that skull of yours, you'll take advantage of this to obtain the guerdon you desire.
+- **7817**: Intelligence reports assess the Resistance's sphere of influence in this area at $0 percent.
+- **7818**: We've received reports that Captain [Excenmille/Nanaa Mihgo/Volker]'s region is overrun with fiends. What are you waiting for? Get out there, soldier!
+- **7821**: Our most recent intel has it that we've felled $0 percent of the horde's most notorious fiends.
+- **7822**: Our troops are currently reaping these morale benefits...
+- **7823**: HP/MP bonus: Level $0.
+- **7824**: Attribute bonus: Level $0.
+- **7825**: Increased experience yield: Level $0.
+- **7826**: Increased cruor yield: Level $0.
+- **7827**: Frequent pyxide discovery: Level $0.
+- **7828**: High-grade pyxide discovery: Level $0.
+- **7829**: Increased loot yield: Level $0.
+- **7830**: ...None at all. Morale sucks, and you sure aren't helping by standing around here. Get out on the battlefield, soldier!
+- **7831**: Morale's not bad, but it can always be better. Get out on the battlefield, soldier!
+- **7832**: Review enemy intelligence? [Not now./Notorious fiends (Tier I)./Notorious fiends (Tier II)./Notorious fiends (Tier III).]
+- **7842**: That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that.
+- **7843**: So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager.
+- **7853**: Reports from the field say that one of our soldiers found an item that could lure the nasty thing out of hiding. Cut it from the body of another of its foul ilk, he said.
+- **7854**: Reports from the field say that one of our regiments was successful in luring the nasty thing of its lair. Used some items cut from the bodies of others of its foul ilk, he said.
+- **7855**: Reports have it that one's been sighted on the field. One of our regiments spotted its ugly mug when they were squaring off against a pack of its thralls.
+- **7856**: Exchange for what? (Notes: $0) [Nothing for now./Items./Key items./Temporary items./Augmented items.]
+- **7857**: Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]
+- **7858**: That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?
+- **7859**: That $0 has been augmented with powerful sorcery, but we haven't yet had occasion to test it in battle. Let the buyer beware, soldier.
+- **7860**: Proceed with the exchange? (Notes: $0) [Yes./On second thought...]
+- **7864**: You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!
+- **7866**: Make an exchange? [Not now./Claim guerdon./Exchange trophies.]
+- **7867**: Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]
+- **7868**: Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]
+- **7869**: You'll need $2 $3 to claim that $0.
+- **7870**: You'll need $2 $5 to claim that $0.
+- **7871**: That $0 seems to be augmented with some powerful sorcery, but hasn't yet been tested in battle. We can't tell you what to expect, so let the buyer beware, soldier.
+- **7872**: Proceed with the exchange? [Yes./No.]
+- **7874**: You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle.
+- **7875**: Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]
+- **7876**: 5 in your possession: $1. Enter the quantity you wish to trade.
+- **7877**: Exchange for which trophy? [Cancel./3 (You have $1)./$3 (You have $3).]
+- **7880**: You won't be able to carry all those battle trophies, soldier. We can't have our troops overencumbered on the battlefield.
+- **7881**: You'll be left with $1 of these $5 and $3 of these $5 if you make that trade. You sure about this, soldier?
+- **7882**: Proceed with exchange? [Yes./No.]
 
 ## Events
 
@@ -917,13 +917,13 @@
  71: 0x0143 [0x41] ExtData[1]->WorkLocal[43] = Work_Zone[7] (bits 15*-19*)
  72: 0x014C [0x41] ExtData[1]->WorkLocal[44] = Work_Zone[7] (bits 20*-24*)
  73: 0x0155 [0x1A] CALL_SUBROUTINE(address=0x20EC)
- 74: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+ 74: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "I'm a Resistance officer charged with overseeing the Dominion effort, and we're looking for a few good [men/women]. Since I don't see any around, it looks like you'll have to do."
  75: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x015C [0x05] ExtData[1]->WorkLocal[53] = 1
  77: 0x015F [0x02] IF !(ExtData[1]->WorkLocal[53] <= 0*) GOTO 0x1DD2
  78: 0x0167 [0x06] ExtData[1]->WorkLocal[16] = 0
- 79: 0x016A [0x24] CREATE_DIALOG(message_id=7783*, default_option=0*, option_flags=0*)
+ 79: 0x016A [0x24] CREATE_DIALOG(message_id=7784*, default_option=0*, option_flags=0*)
     → "Ask about something? [Not now./General information./State of the Resistance./State of the enemy./Exchange Dominion Notes./Exchange battle trophies.]"
  80: 0x0171 [0x25] WAIT_DIALOG_SELECT()
  81: 0x0172 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0185
@@ -935,102 +935,102 @@
 
 SUBROUTINE_0190:
  87: 0x0190 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x0246
- 88: 0x0198 [0x24] CREATE_DIALOG(message_id=7784*, default_option=0*, option_flags=0*)
+ 88: 0x0198 [0x24] CREATE_DIALOG(message_id=7785*, default_option=0*, option_flags=0*)
     → "Ask about something? [Not now./The Dominion effort...?/How do I do my part?/What's in it for me?]"
  89: 0x019F [0x25] WAIT_DIALOG_SELECT()
  90: 0x01A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AE
  91: 0x01A8 [0x06] ExtData[1]->WorkLocal[54] = 0
  92: 0x01AB [0x01] GOTO 0x0243
  93: 0x01AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01D5
- 94: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+ 94: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "Wake up, soldier! I don't know if you're blind or stupid, but if you haven't noticed, there's a war going on around you."
  95: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+ 96: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "The Resistance is locked in a bitter struggle to take back our rightful land from the hordes, and secure a future for our kind. We call this the Dominion effort. Has an inspiring ring to it, doesn't it, soldier?"
  97: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+ 98: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "And if you haven't noticed, we don't exactly have a surplus of personnel. Hell, I just got a field promotion from sergeant to tactician when my predecessor got his head lopped clean off by a fiend. Now they've got some sissy boy doing my old job, but do you hear me complainin'?"
  99: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+100: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
     → "Anyhow, if you've got half a bloody stump of a leg to stand on and an arm to carry a blade, consider yourself recruited. Now listen up, soldier, because I'm only going to say this once."
 101: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
+102: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
     → "I'll put this in terms even a dullard like you can understand. The enemy we face consists of two types of fiends: nasty ones, and even nastier ones."
 103: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+104: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
     → "We've got legions of ugly monsters prowling the land in throngs. We cut them down, and lure their even nastier buddies out of hiding."
 105: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+106: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
     → "These fiends are the beating heart of our enemy. Bring them down, and our battle is as good as won. Get it? Good. Now hop to it, soldier!"
 107: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x01D2 [0x01] GOTO 0x0243
 109: 0x01D5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0218
-110: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+110: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "Hah! Ya may be short on wits, but you've got pluck. There may be hope for you yet, soldier."
 111: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+112: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "If you're ready to make yourself useful, then you'll want to seek out one of our outposts. There's three in the area, so even a rookie like yourself should be able to stumble upon one of 'em by dumb luck."
 113: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+114: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Talk with a sergeant there, and sign up for one of our operations--Dominion Ops, we call 'em for short. Each op will involve exterminating a prescribed quota of a particular variety of fiend."
 115: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+116: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "If you're halfway competent at your job, the Resistance will gradually expand its sphere of influence over the hordes. Our ultimate goal is complete domination against all manner of fiends. That's one hundred percent, soldier!"
 117: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+118: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → ""What if I just kill fiends without signing up for ops," you say? Don't give me any of that lip, soldier!"
 119: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+120: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "Listen. Every fiend you bring down will aid the cause. But we can't be certain that we've achieved complete domination unless you sign up for ops, and report your success to the sergeant. You'll also be rewarded for your efforts. Bet that got your interest quick, didn't it?"
 121: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
+122: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
     → "There's more, soldier. This may sound bloody obvious--well, maybe not to a lackwit like you--but success in your efforts will raise the spirits of our entire company."
 123: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-124: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+124: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
     → "With the resulting boost in morale, our troops will fight with even greater fervor, affording us all manner of advantages in battle. "What kind of advantages?" Hah! That's for us to know and you to find out, soldier!"
 125: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-126: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
+126: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
     → "Expand our sphere of influence over the peons, and we'll start to lure the big boys out of the woodwork."
 127: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+128: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
     → "Take them out, and the biggest, baddest foes will start to show up. Where does it all end, you say? It doesn't! This is war, soldier, not a Lightsday afternoon walk in the park!"
 129: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+130: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
     → "Now, where was I? The enemy leaders pack a punch, but they rely on their flunkies as the foundation for their strength."
 131: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+132: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
     → "Cut their subordinates out from underneath them, and they won't have a leg--or gnarled, twisted appendage--to stand upon. That's smart fighting. And in war, you fight smart or you die, soldier!"
 133: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+134: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "I couldn't tell you how many of these buggers we're up against, but I do know this. Each one we kill brings us closer to our goal of utter domination."
 135: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+136: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
     → "To keep morale high, we can't let up the attack on the enemy leaders. You got all that, soldier?"
 137: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0215 [0x01] GOTO 0x0243
 139: 0x0218 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0243
-140: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+140: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
     → "What's in it for you? You've got some nerve, soldier!"
 141: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
+142: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
     → "You're here to follow orders, not question them! When I say "jump," you say "how many malms high, sir!?" Are we understood, soldier!?"
 143: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=7808*)
+144: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
     → "But yeah, there's somethin' in it for you, if that's the only thing that's going to get you fighting for our cause instead of sitting around on your lazy backside."
 145: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
-146: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
+146: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
     → "When you report back after completing an operation or successfully bring down a notorious foe, you'll be awarded remuneration in the form of something we call Dominion Notes."
 147: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
-148: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+148: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
     → "These notes can be exchanged for supplies to serve you on the field of battle: equipment, medicine, and more. And we're not talking your run-of-the-mill items here. This is some impressive stuff. I daresay it's worth more than your life, soldier."
 149: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+150: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "Bet that put a spark in your eyes, didn't it? What's more, bring back battle trophies--the severed heads and gore-stained limbs of the fiends you slay--and we will reward your accomplishments with guerdon."
 151: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
+152: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
     → "There are five echelons of trophies in total. Slaying more powerful fiends will yield more prestigious trophies, which in turn will earn you more valuable guerdon."
 153: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+154: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "Battle trophies can even be exchanged for each other. Multiple lower-echelon trophies can be upgraded to a single trophy of a higher echelon, or vice versa. If you've got half a brain inside that skull of yours, you'll take advantage of this to obtain the guerdon you desire."
 155: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0240 [0x01] GOTO 0x0243
@@ -1041,7 +1041,7 @@ SUBROUTINE_0243:
 159: 0x0249 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03CE
 160: 0x0251 [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[1]
 161: 0x0256 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
-162: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
+162: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
     → "Intelligence reports assess the Resistance's sphere of influence in this area at $0 percent."
 163: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x025F [0x03] ExtData[1]->WorkLocal[20] = 0*
@@ -1071,20 +1071,20 @@ SUBROUTINE_0243:
 188: 0x02EF [0x08] ExtData[1]->WorkLocal[20] -= ExtData[1]->WorkLocal[22]
 189: 0x02F4 [0x02] IF !(ExtData[1]->WorkLocal[20] < 20*) GOTO 0x0305
 190: 0x02FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
-191: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+191: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "We've received reports that Captain [Excenmille/Nanaa Mihgo/Volker]'s region is overrun with fiends. What are you waiting for? Get out there, soldier!"
 192: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0305 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-194: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
+194: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
     → "Our most recent intel has it that we've felled $0 percent of the horde's most notorious fiends."
 195: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
-196: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
+196: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
     → "Our troops are currently reaping these morale benefits..."
 197: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0312 [0x03] ExtData[1]->WorkLocal[20] = 0*
 199: 0x0317 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 0*) GOTO 0x032B
 200: 0x031F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-201: 0x0324 [0x48] [System] [7822*]:
+201: 0x0324 [0x48] [System] [7823*]:
     → "HP/MP bonus: Level $0."
 202: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x0328 [0x01] GOTO 0x032E
@@ -1093,7 +1093,7 @@ SUBROUTINE_0243:
 SUBROUTINE_032E:
 205: 0x032E [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x0342
 206: 0x0336 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-207: 0x033B [0x48] [System] [7823*]:
+207: 0x033B [0x48] [System] [7824*]:
     → "Attribute bonus: Level $0."
 208: 0x033E [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x033F [0x01] GOTO 0x0345
@@ -1102,7 +1102,7 @@ SUBROUTINE_032E:
 SUBROUTINE_0345:
 211: 0x0345 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 0*) GOTO 0x0359
 212: 0x034D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
-213: 0x0352 [0x48] [System] [7824*]:
+213: 0x0352 [0x48] [System] [7825*]:
     → "Increased experience yield: Level $0."
 214: 0x0355 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0356 [0x01] GOTO 0x035C
@@ -1111,7 +1111,7 @@ SUBROUTINE_0345:
 SUBROUTINE_035C:
 217: 0x035C [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0370
 218: 0x0364 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-219: 0x0369 [0x48] [System] [7825*]:
+219: 0x0369 [0x48] [System] [7826*]:
     → "Increased cruor yield: Level $0."
 220: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x036D [0x01] GOTO 0x0373
@@ -1120,7 +1120,7 @@ SUBROUTINE_035C:
 SUBROUTINE_0373:
 223: 0x0373 [0x02] IF !(ExtData[1]->WorkLocal[10] <= 0*) GOTO 0x0387
 224: 0x037B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
-225: 0x0380 [0x48] [System] [7826*]:
+225: 0x0380 [0x48] [System] [7827*]:
     → "Frequent pyxide discovery: Level $0."
 226: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x0384 [0x01] GOTO 0x038A
@@ -1129,7 +1129,7 @@ SUBROUTINE_0373:
 SUBROUTINE_038A:
 229: 0x038A [0x02] IF !(ExtData[1]->WorkLocal[11] <= 0*) GOTO 0x039E
 230: 0x0392 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-231: 0x0397 [0x48] [System] [7827*]:
+231: 0x0397 [0x48] [System] [7828*]:
     → "High-grade pyxide discovery: Level $0."
 232: 0x039A [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x039B [0x01] GOTO 0x03A1
@@ -1138,7 +1138,7 @@ SUBROUTINE_038A:
 SUBROUTINE_03A1:
 235: 0x03A1 [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x03B5
 236: 0x03A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-237: 0x03AE [0x48] [System] [7828*]:
+237: 0x03AE [0x48] [System] [7829*]:
     → "Increased loot yield: Level $0."
 238: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x03B2 [0x01] GOTO 0x03B8
@@ -1146,11 +1146,11 @@ SUBROUTINE_03A1:
 
 SUBROUTINE_03B8:
 241: 0x03B8 [0x02] IF !(ExtData[1]->WorkLocal[20] < 7*) GOTO 0x03C7
-242: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+242: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "...None at all. Morale sucks, and you sure aren't helping by standing around here. Get out on the battlefield, soldier!"
 243: 0x03C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x03C4 [0x01] GOTO 0x03CB
-245: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+245: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "Morale's not bad, but it can always be better. Get out on the battlefield, soldier!"
 246: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1161,7 +1161,7 @@ SUBROUTINE_03CB:
 
 SUBROUTINE_03D9:
 250: 0x03D9 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x05CB
-251: 0x03E1 [0x24] CREATE_DIALOG(message_id=7831*, default_option=0*, option_flags=0*)
+251: 0x03E1 [0x24] CREATE_DIALOG(message_id=7832*, default_option=0*, option_flags=0*)
     → "Review enemy intelligence? [Not now./Notorious fiends (Tier I)./Notorious fiends (Tier II)./Notorious fiends (Tier III).]"
 252: 0x03E8 [0x25] WAIT_DIALOG_SELECT()
 253: 0x03E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F7
@@ -1196,8 +1196,8 @@ SUBROUTINE_0402:
 280: 0x0471 [0x03] ExtData[1]->WorkLocal[30] = 1*
 281: 0x0476 [0x03] ExtData[1]->WorkLocal[31] = 1*
 282: 0x047B [0x06] ExtData[1]->WorkLocal[16] = 0
-283: 0x047E [0x03] ExtData[1]->WorkLocal[20] = 7832*
-284: 0x0483 [0x03] ExtData[1]->WorkLocal[21] = 7843*
+283: 0x047E [0x03] ExtData[1]->WorkLocal[20] = 7833*
+284: 0x0483 [0x03] ExtData[1]->WorkLocal[21] = 7844*
 285: 0x0488 [0x1A] CALL_SUBROUTINE(address=0x1DD7)
 286: 0x048B [0x1A] CALL_SUBROUTINE(address=0x2036)
 287: 0x048E [0x01] GOTO 0x0402
@@ -1231,8 +1231,8 @@ SUBROUTINE_049F:
 313: 0x050E [0x03] ExtData[1]->WorkLocal[30] = 2*
 314: 0x0513 [0x06] ExtData[1]->WorkLocal[31] = 0
 315: 0x0516 [0x06] ExtData[1]->WorkLocal[16] = 0
-316: 0x0519 [0x03] ExtData[1]->WorkLocal[20] = 7833*
-317: 0x051E [0x03] ExtData[1]->WorkLocal[21] = 7844*
+316: 0x0519 [0x03] ExtData[1]->WorkLocal[20] = 7834*
+317: 0x051E [0x03] ExtData[1]->WorkLocal[21] = 7845*
 318: 0x0523 [0x1A] CALL_SUBROUTINE(address=0x1DD7)
 319: 0x0526 [0x1A] CALL_SUBROUTINE(address=0x2036)
 320: 0x0529 [0x01] GOTO 0x049F
@@ -1266,8 +1266,8 @@ SUBROUTINE_053A:
 346: 0x05A9 [0x06] ExtData[1]->WorkLocal[30] = 0
 347: 0x05AC [0x06] ExtData[1]->WorkLocal[31] = 0
 348: 0x05AF [0x06] ExtData[1]->WorkLocal[16] = 0
-349: 0x05B2 [0x03] ExtData[1]->WorkLocal[20] = 7834*
-350: 0x05B7 [0x03] ExtData[1]->WorkLocal[21] = 7845*
+349: 0x05B2 [0x03] ExtData[1]->WorkLocal[20] = 7835*
+350: 0x05B7 [0x03] ExtData[1]->WorkLocal[21] = 7846*
 351: 0x05BC [0x1A] CALL_SUBROUTINE(address=0x1DD7)
 352: 0x05BF [0x1A] CALL_SUBROUTINE(address=0x2036)
 353: 0x05C2 [0x01] GOTO 0x053A
@@ -1285,7 +1285,7 @@ SUBROUTINE_05D9:
 361: 0x05E4 [0x06] ExtData[1]->WorkLocal[58] = 0
 362: 0x05E7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=2*, condition_work_offset=1*)
 363: 0x05EE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-364: 0x05F3 [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=ExtData[1]->WorkLocal[57])
+364: 0x05F3 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[57])
     → "Exchange for what? (Notes: $0) [Nothing for now./Items./Key items./Temporary items./Augmented items.]"
 365: 0x05FA [0x25] WAIT_DIALOG_SELECT()
 366: 0x05FB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0609
@@ -1348,7 +1348,7 @@ SUBROUTINE_0614:
 421: 0x0740 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=11*, condition_work_offset=1*)
 422: 0x0747 [0x02] IF !(Work_Zone_1700[15] > 0*) GOTO 0x0756
 423: 0x074F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=12*, condition_work_offset=1*)
-424: 0x0756 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
+424: 0x0756 [0x24] CREATE_DIALOG(message_id=7857*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
     → "Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]"
 425: 0x075D [0x25] WAIT_DIALOG_SELECT()
 426: 0x075E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x076C
@@ -1419,17 +1419,17 @@ SUBROUTINE_08A4:
 489: 0x08A4 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0916
 490: 0x08AC [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
 491: 0x08AF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-492: 0x08B4 [0x48] [System] [7395*]:
+492: 0x08B4 [0x48] [System] [7396*]:
     → "Trade for $0?"
 493: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 494: 0x08B8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 495: 0x08BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 496: 0x08C0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-497: 0x08C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+497: 0x08C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?"
 498: 0x08C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 499: 0x08C9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-500: 0x08CE [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+500: 0x08CE [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Notes: $0) [Yes./On second thought...]"
 501: 0x08D5 [0x25] WAIT_DIALOG_SELECT()
 502: 0x08D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x090B
@@ -1440,7 +1440,7 @@ SUBROUTINE_08A4:
 507: 0x08FB [0x06] ExtData[1]->WorkLocal[54] = 0
 508: 0x08FE [0x06] ExtData[1]->WorkLocal[55] = 0
 509: 0x0901 [0x01] GOTO 0x0908
-510: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+510: 0x0904 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!"
 511: 0x0907 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1507,7 +1507,7 @@ SUBROUTINE_0932:
 567: 0x0A4A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=11*, condition_work_offset=1*)
 568: 0x0A51 [0x02] IF !(Work_Zone_1700[15] > 0*) GOTO 0x0A60
 569: 0x0A59 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=12*, condition_work_offset=1*)
-570: 0x0A60 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
+570: 0x0A60 [0x24] CREATE_DIALOG(message_id=7857*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
     → "Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]"
 571: 0x0A67 [0x25] WAIT_DIALOG_SELECT()
 572: 0x0A68 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A76
@@ -1568,17 +1568,17 @@ SUBROUTINE_0B7A:
 625: 0x0B7A [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0BEC
 626: 0x0B82 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
 627: 0x0B85 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-628: 0x0B8A [0x48] [System] [7395*]:
+628: 0x0B8A [0x48] [System] [7396*]:
     → "Trade for $0?"
 629: 0x0B8D [0x23] WAIT_FOR_DIALOG_INTERACTION
 630: 0x0B8E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 631: 0x0B91 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 632: 0x0B96 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-633: 0x0B9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+633: 0x0B9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?"
 634: 0x0B9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 635: 0x0B9F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-636: 0x0BA4 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+636: 0x0BA4 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Notes: $0) [Yes./On second thought...]"
 637: 0x0BAB [0x25] WAIT_DIALOG_SELECT()
 638: 0x0BAC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BE1
@@ -1589,7 +1589,7 @@ SUBROUTINE_0B7A:
 643: 0x0BD1 [0x06] ExtData[1]->WorkLocal[54] = 0
 644: 0x0BD4 [0x06] ExtData[1]->WorkLocal[55] = 0
 645: 0x0BD7 [0x01] GOTO 0x0BDE
-646: 0x0BDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+646: 0x0BDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!"
 647: 0x0BDD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1654,7 +1654,7 @@ SUBROUTINE_0BFD:
 701: 0x0D15 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=11*, condition_work_offset=1*)
 702: 0x0D1C [0x02] IF !(Work_Zone_1700[15] > 0*) GOTO 0x0D2B
 703: 0x0D24 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[58], bit_index_work_offset=12*, condition_work_offset=1*)
-704: 0x0D2B [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
+704: 0x0D2B [0x24] CREATE_DIALOG(message_id=7857*, default_option=0*, option_flags=ExtData[1]->WorkLocal[58])
     → "Select an item. (Notes: $0) [Never mind./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./$21: $22./$23: $24.]"
 705: 0x0D32 [0x25] WAIT_DIALOG_SELECT()
 706: 0x0D33 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D41
@@ -1715,21 +1715,21 @@ SUBROUTINE_0E45:
 759: 0x0E45 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x0EC0
 760: 0x0E4D [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
 761: 0x0E50 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-762: 0x0E55 [0x48] [System] [7395*]:
+762: 0x0E55 [0x48] [System] [7396*]:
     → "Trade for $0?"
 763: 0x0E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 764: 0x0E59 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 765: 0x0E5C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 766: 0x0E61 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-767: 0x0E66 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+767: 0x0E66 [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "That $0 can be yours for $1 Dominion Note[/s]. What do you say, soldier?"
 768: 0x0E69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 769: 0x0E6A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-770: 0x0E6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
+770: 0x0E6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
     → "That $0 has been augmented with powerful sorcery, but we haven't yet had occasion to test it in battle. Let the buyer beware, soldier."
 771: 0x0E72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 772: 0x0E73 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-773: 0x0E78 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+773: 0x0E78 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Notes: $0) [Yes./On second thought...]"
 774: 0x0E7F [0x25] WAIT_DIALOG_SELECT()
 775: 0x0E80 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EB5
@@ -1740,7 +1740,7 @@ SUBROUTINE_0E45:
 780: 0x0EA5 [0x06] ExtData[1]->WorkLocal[54] = 0
 781: 0x0EA8 [0x06] ExtData[1]->WorkLocal[55] = 0
 782: 0x0EAB [0x01] GOTO 0x0EB2
-783: 0x0EAE [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+783: 0x0EAE [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "You're short on Dominion Notes, soldier. If you want that so bad, get back out there and get fighting!"
 784: 0x0EB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1761,7 +1761,7 @@ SUBROUTINE_0EC6:
 
 SUBROUTINE_0ED7:
 794: 0x0ED7 [0x02] IF !(ExtData[1]->WorkLocal[54] <= 0*) GOTO 0x1DCC
-795: 0x0EDF [0x24] CREATE_DIALOG(message_id=7865*, default_option=0*, option_flags=0*)
+795: 0x0EDF [0x24] CREATE_DIALOG(message_id=7866*, default_option=0*, option_flags=0*)
     → "Make an exchange? [Not now./Claim guerdon./Exchange trophies.]"
 796: 0x0EE6 [0x25] WAIT_DIALOG_SELECT()
 797: 0x0EE7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EF5
@@ -1786,7 +1786,7 @@ SUBROUTINE_0F03:
 814: 0x0F37 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[43]
 815: 0x0F3C [0x03] Work_Zone_1700[0] = 1533*
 816: 0x0F41 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[44]
-817: 0x0F46 [0x24] CREATE_DIALOG(message_id=7866*, default_option=0*, option_flags=0*)
+817: 0x0F46 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
     → "Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]"
 818: 0x0F4D [0x25] WAIT_DIALOG_SELECT()
 819: 0x0F4E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F5C
@@ -1805,7 +1805,7 @@ SUBROUTINE_0F03:
 832: 0x0F8D [0x03] Work_Zone[8] = 11441*
 833: 0x0F92 [0x03] Work_Zone[9] = 11442*
 834: 0x0F97 [0x03] Work_Zone_1700[0] = 11443*
-835: 0x0F9C [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+835: 0x0F9C [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=0*)
     → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
 836: 0x0FA3 [0x25] WAIT_DIALOG_SELECT()
 837: 0x0FA4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FB2
@@ -1863,7 +1863,7 @@ SUBROUTINE_106F:
 887: 0x10A3 [0x03] Work_Zone[8] = 11893*
 888: 0x10A8 [0x03] Work_Zone[9] = 11894*
 889: 0x10AD [0x03] Work_Zone_1700[0] = 11895*
-890: 0x10B2 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+890: 0x10B2 [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=0*)
     → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
 891: 0x10B9 [0x25] WAIT_DIALOG_SELECT()
 892: 0x10BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10C8
@@ -1921,7 +1921,7 @@ SUBROUTINE_1185:
 942: 0x11B9 [0x03] Work_Zone[8] = 11944*
 943: 0x11BE [0x03] Work_Zone[9] = 11945*
 944: 0x11C3 [0x03] Work_Zone_1700[0] = 11946*
-945: 0x11C8 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+945: 0x11C8 [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=0*)
     → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
 946: 0x11CF [0x25] WAIT_DIALOG_SELECT()
 947: 0x11D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11DE
@@ -1979,7 +1979,7 @@ SUBROUTINE_129B:
 997: 0x12CF [0x03] Work_Zone[8] = 11795*
 998: 0x12D4 [0x03] Work_Zone[9] = 11796*
 999: 0x12D9 [0x03] Work_Zone_1700[0] = 11797*
-1000: 0x12DE [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+1000: 0x12DE [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=0*)
     → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
 1001: 0x12E5 [0x25] WAIT_DIALOG_SELECT()
 1002: 0x12E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12F4
@@ -2037,7 +2037,7 @@ SUBROUTINE_13B1:
 1052: 0x13E5 [0x03] Work_Zone[8] = 11840*
 1053: 0x13EA [0x03] Work_Zone[9] = 11841*
 1054: 0x13EF [0x03] Work_Zone_1700[0] = 11842*
-1055: 0x13F4 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
+1055: 0x13F4 [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=0*)
     → "Claim which guerdon? [Maybe later./$0./$1./$2./$3./$4./$5./$6./$7./$8.]"
 1056: 0x13FB [0x25] WAIT_DIALOG_SELECT()
 1057: 0x13FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x140A
@@ -2088,7 +2088,7 @@ SUBROUTINE_14CA:
 1098: 0x14D2 [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x161C
 1099: 0x14DA [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[18])
 1100: 0x14DD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-1101: 0x14E2 [0x48] [System] [7395*]:
+1101: 0x14E2 [0x48] [System] [7396*]:
     → "Trade for $0?"
 1102: 0x14E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1103: 0x14E6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2112,20 +2112,20 @@ SUBROUTINE_14CA:
 SUBROUTINE_153E:
 1120: 0x153E [0x03] Work_Zone[4] = 1*
 1121: 0x1543 [0x02] IF !(Work_Zone[4] <= 1*) GOTO 0x1552
-1122: 0x154B [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
+1122: 0x154B [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
     → "You'll need $2 $5 to claim that $0."
 1123: 0x154E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1124: 0x154F [0x01] GOTO 0x1556
-1125: 0x1552 [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+1125: 0x1552 [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
     → "You'll need $2 $3 to claim that $0."
 1126: 0x1555 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_1556:
 1127: 0x1556 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-1128: 0x155B [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+1128: 0x155B [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "That $0 seems to be augmented with some powerful sorcery, but hasn't yet been tested in battle. We can't tell you what to expect, so let the buyer beware, soldier."
 1129: 0x155E [0x23] WAIT_FOR_DIALOG_INTERACTION
-1130: 0x155F [0x24] CREATE_DIALOG(message_id=7871*, default_option=1*, option_flags=0*)
+1130: 0x155F [0x24] CREATE_DIALOG(message_id=7872*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes./No.]"
 1131: 0x1566 [0x25] WAIT_DIALOG_SELECT()
 1132: 0x1567 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1611
@@ -2160,7 +2160,7 @@ SUBROUTINE_15D8:
 1159: 0x1601 [0x06] ExtData[1]->WorkLocal[55] = 0
 1160: 0x1604 [0x06] ExtData[1]->WorkLocal[56] = 0
 1161: 0x1607 [0x01] GOTO 0x160E
-1162: 0x160A [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
+1162: 0x160A [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
     → "You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle."
 1163: 0x160D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2191,7 +2191,7 @@ SUBROUTINE_162D:
 1183: 0x1666 [0x03] Work_Zone_1700[0] = 1533*
 1184: 0x166B [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[44]
 1185: 0x1670 [0x06] ExtData[1]->WorkLocal[59] = 0
-1186: 0x1673 [0x24] CREATE_DIALOG(message_id=7874*, default_option=0*, option_flags=0*)
+1186: 0x1673 [0x24] CREATE_DIALOG(message_id=7875*, default_option=0*, option_flags=0*)
     → "Exchange which trophies? [None./5th echelon (Currently: $1)./4th echelon (Currently: $3)./3rd echelon (Currently: $5)./2nd echelon (Currently: $7)./1st echelon (Currently: $9).]"
 1187: 0x167A [0x25] WAIT_DIALOG_SELECT()
 1188: 0x167B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1689
@@ -2201,7 +2201,7 @@ SUBROUTINE_162D:
 1192: 0x1691 [0x03] ExtData[1]->WorkLocal[16] = 1*
 1193: 0x1696 [0x03] Work_Zone[2] = 1537*
 1194: 0x169B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
-1195: 0x16A0 [0x48] [System] [7875*]:
+1195: 0x16A0 [0x48] [System] [7876*]:
     → "5 in your possession: $1. Enter the quantity you wish to trade."
 1196: 0x16A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1197: 0x16A4 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -2218,7 +2218,7 @@ SUBROUTINE_162D:
 1208: 0x16DD [0x03] ExtData[1]->WorkLocal[16] = 2*
 1209: 0x16E2 [0x03] Work_Zone[2] = 1536*
 1210: 0x16E7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[41]
-1211: 0x16EC [0x48] [System] [7875*]:
+1211: 0x16EC [0x48] [System] [7876*]:
     → "5 in your possession: $1. Enter the quantity you wish to trade."
 1212: 0x16EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1213: 0x16F0 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -2235,7 +2235,7 @@ SUBROUTINE_162D:
 1224: 0x1729 [0x03] ExtData[1]->WorkLocal[16] = 3*
 1225: 0x172E [0x03] Work_Zone[2] = 1535*
 1226: 0x1733 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[42]
-1227: 0x1738 [0x48] [System] [7875*]:
+1227: 0x1738 [0x48] [System] [7876*]:
     → "5 in your possession: $1. Enter the quantity you wish to trade."
 1228: 0x173B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1229: 0x173C [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -2252,7 +2252,7 @@ SUBROUTINE_162D:
 1240: 0x1775 [0x03] ExtData[1]->WorkLocal[16] = 4*
 1241: 0x177A [0x03] Work_Zone[2] = 1534*
 1242: 0x177F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[43]
-1243: 0x1784 [0x48] [System] [7875*]:
+1243: 0x1784 [0x48] [System] [7876*]:
     → "5 in your possession: $1. Enter the quantity you wish to trade."
 1244: 0x1787 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1245: 0x1788 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -2269,7 +2269,7 @@ SUBROUTINE_162D:
 1256: 0x17C1 [0x03] ExtData[1]->WorkLocal[16] = 5*
 1257: 0x17C6 [0x03] Work_Zone[2] = 1533*
 1258: 0x17CB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[44]
-1259: 0x17D0 [0x48] [System] [7875*]:
+1259: 0x17D0 [0x48] [System] [7876*]:
     → "5 in your possession: $1. Enter the quantity you wish to trade."
 1260: 0x17D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1261: 0x17D4 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -2295,7 +2295,7 @@ SUBROUTINE_1805:
 1279: 0x1839 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=1*, condition_work_offset=1*)
 1280: 0x1840 [0x02] IF !(ExtData[1]->WorkLocal[46] > 1*) GOTO 0x184F
 1281: 0x1848 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[57], bit_index_work_offset=2*, condition_work_offset=1*)
-1282: 0x184F [0x24] CREATE_DIALOG(message_id=7876*, default_option=0*, option_flags=ExtData[1]->WorkLocal[57])
+1282: 0x184F [0x24] CREATE_DIALOG(message_id=7877*, default_option=0*, option_flags=ExtData[1]->WorkLocal[57])
     → "Exchange for which trophy? [Cancel./3 (You have $1)./$3 (You have $3).]"
 1283: 0x1856 [0x25] WAIT_DIALOG_SELECT()
 1284: 0x1857 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1862
@@ -2517,10 +2517,10 @@ SUBROUTINE_1C24:
 
 SUBROUTINE_1C27:
 1468: 0x1C27 [0x02] IF !(ExtData[1]->WorkLocal[59] == 0*) GOTO 0x1C81
-1469: 0x1C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+1469: 0x1C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "You'll be left with $1 of these $5 and $3 of these $5 if you make that trade. You sure about this, soldier?"
 1470: 0x1C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1471: 0x1C33 [0x24] CREATE_DIALOG(message_id=7881*, default_option=1*, option_flags=0*)
+1471: 0x1C33 [0x24] CREATE_DIALOG(message_id=7882*, default_option=1*, option_flags=0*)
     → "Proceed with exchange? [Yes./No.]"
 1472: 0x1C3A [0x25] WAIT_DIALOG_SELECT()
 1473: 0x1C3B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C73
@@ -2555,7 +2555,7 @@ SUBROUTINE_1C7E:
 1500: 0x1CD6 [0x01] GOTO 0x1CD9
 
 SUBROUTINE_1CD9:
-1501: 0x1CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
+1501: 0x1CD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
     → "You're short on $5, soldier. If you want a reward, you'll have to prove yourself in battle."
 1502: 0x1CDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1503: 0x1CDD [0x01] GOTO 0x1DC3
@@ -2612,7 +2612,7 @@ SUBROUTINE_1DBC:
 1544: 0x1DBC [0x01] GOTO 0x1DBF
 
 SUBROUTINE_1DBF:
-1545: 0x1DBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+1545: 0x1DBF [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "You won't be able to carry all those battle trophies, soldier. We can't have our troops overencumbered on the battlefield."
 1546: 0x1DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2701,10 +2701,10 @@ SUBROUTINE_1E9A:
 1606: 0x1ECD [0x03] ExtData[1]->WorkLocal[16] = 1*
 1607: 0x1ED2 [0x01] GOTO 0x1EE2
 1608: 0x1ED5 [0x03] Work_Zone[2] = 8*
-1609: 0x1EDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1609: 0x1EDA [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1610: 0x1EDD [0x23] WAIT_FOR_DIALOG_INTERACTION
-1611: 0x1EDE [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1611: 0x1EDE [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1612: 0x1EE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2718,10 +2718,10 @@ SUBROUTINE_1EE2:
 1619: 0x1EFD [0x03] ExtData[1]->WorkLocal[16] = 2*
 1620: 0x1F02 [0x01] GOTO 0x1F12
 1621: 0x1F05 [0x03] Work_Zone[2] = 12*
-1622: 0x1F0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1622: 0x1F0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1623: 0x1F0D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1624: 0x1F0E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1624: 0x1F0E [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1625: 0x1F11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2735,10 +2735,10 @@ SUBROUTINE_1F12:
 1632: 0x1F2D [0x03] ExtData[1]->WorkLocal[16] = 3*
 1633: 0x1F32 [0x01] GOTO 0x1F42
 1634: 0x1F35 [0x03] Work_Zone[2] = 0*
-1635: 0x1F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1635: 0x1F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1636: 0x1F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1637: 0x1F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1637: 0x1F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1638: 0x1F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2752,10 +2752,10 @@ SUBROUTINE_1F42:
 1645: 0x1F5D [0x03] ExtData[1]->WorkLocal[16] = 4*
 1646: 0x1F62 [0x01] GOTO 0x1F72
 1647: 0x1F65 [0x03] Work_Zone[2] = 0*
-1648: 0x1F6A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1648: 0x1F6A [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1649: 0x1F6D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1650: 0x1F6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1650: 0x1F6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1651: 0x1F71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2769,10 +2769,10 @@ SUBROUTINE_1F72:
 1658: 0x1F8D [0x03] ExtData[1]->WorkLocal[16] = 5*
 1659: 0x1F92 [0x01] GOTO 0x1FA2
 1660: 0x1F95 [0x03] Work_Zone[2] = 9*
-1661: 0x1F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1661: 0x1F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1662: 0x1F9D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1663: 0x1F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1663: 0x1F9E [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1664: 0x1FA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2786,10 +2786,10 @@ SUBROUTINE_1FA2:
 1671: 0x1FBD [0x03] ExtData[1]->WorkLocal[16] = 6*
 1672: 0x1FC2 [0x01] GOTO 0x1FD2
 1673: 0x1FC5 [0x03] Work_Zone[2] = 6*
-1674: 0x1FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1674: 0x1FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1675: 0x1FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
-1676: 0x1FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1676: 0x1FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1677: 0x1FD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2803,10 +2803,10 @@ SUBROUTINE_1FD2:
 1684: 0x1FED [0x03] ExtData[1]->WorkLocal[16] = 7*
 1685: 0x1FF2 [0x01] GOTO 0x2002
 1686: 0x1FF5 [0x03] Work_Zone[2] = 2*
-1687: 0x1FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1687: 0x1FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1688: 0x1FFD [0x23] WAIT_FOR_DIALOG_INTERACTION
-1689: 0x1FFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1689: 0x1FFE [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1690: 0x2001 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2820,10 +2820,10 @@ SUBROUTINE_2002:
 1697: 0x201D [0x03] ExtData[1]->WorkLocal[16] = 8*
 1698: 0x2022 [0x01] GOTO 0x2032
 1699: 0x2025 [0x03] Work_Zone[2] = 1*
-1700: 0x202A [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+1700: 0x202A [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "That one? All I can tell you is that it's [a beast/a plantoid/vermin/a lizard/an amorph/an aquan/a bird/an undead/an arcana/a dragon/a demon/an elemental/archaea/a beastman], and a particularly nasty one at that."
 1701: 0x202D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1702: 0x202E [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+1702: 0x202E [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "So far, we haven't been able to get close enough to the thing to find out any more, let alone launch an attack. Too many of its toadies still roaming about, I'd wager."
 1703: 0x2031 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2862,17 +2862,17 @@ SUBROUTINE_2036:
 
 SUBROUTINE_20BE:
 1731: 0x20BE [0x02] IF !(ExtData[1]->WorkLocal[59] == 1*) GOTO 0x20CD
-1732: 0x20C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+1732: 0x20C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Reports from the field say that one of our soldiers found an item that could lure the nasty thing out of hiding. Cut it from the body of another of its foul ilk, he said."
 1733: 0x20C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1734: 0x20CA [0x01] GOTO 0x20EB
 1735: 0x20CD [0x02] IF !(ExtData[1]->WorkLocal[59] == 2*) GOTO 0x20DC
-1736: 0x20D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+1736: 0x20D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "Reports from the field say that one of our regiments was successful in luring the nasty thing of its lair. Used some items cut from the bodies of others of its foul ilk, he said."
 1737: 0x20D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1738: 0x20D9 [0x01] GOTO 0x20EB
 1739: 0x20DC [0x02] IF !(ExtData[1]->WorkLocal[59] == 3*) GOTO 0x20EB
-1740: 0x20E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+1740: 0x20E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
     → "Reports have it that one's been sighted on the field. One of our regiments spotted its ugly mug when they were squaring off against a pack of its thralls."
 1741: 0x20E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1742: 0x20E8 [0x01] GOTO 0x20EB

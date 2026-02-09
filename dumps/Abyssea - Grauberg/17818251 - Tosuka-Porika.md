@@ -23,35 +23,35 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0151      |         337 |
-|       2 | 0x203E      |        8254 |
-|       3 | 0x203F      |        8255 |
+|       2 | 0x203F      |        8255 |
+|       3 | 0x2040      |        8256 |
 |       4 | 0x0064      |         100 |
-|       5 | 0x2048      |        8264 |
+|       5 | 0x2049      |        8265 |
 |       6 | 0x004B      |          75 |
-|       7 | 0x2046      |        8262 |
-|       8 | 0x2047      |        8263 |
+|       7 | 0x2047      |        8263 |
+|       8 | 0x2048      |        8264 |
 |       9 | 0x0032      |          50 |
-|      10 | 0x2044      |        8260 |
-|      11 | 0x2045      |        8261 |
+|      10 | 0x2045      |        8261 |
+|      11 | 0x2046      |        8262 |
 |      12 | 0x0019      |          25 |
-|      13 | 0x2042      |        8258 |
-|      14 | 0x2043      |        8259 |
-|      15 | 0x2040      |        8256 |
-|      16 | 0x2041      |        8257 |
+|      13 | 0x2043      |        8259 |
+|      14 | 0x2044      |        8260 |
+|      15 | 0x2041      |        8257 |
+|      16 | 0x2042      |        8258 |
 
 ## String References
 
-- **8254**: Hrrrm... I say, however did an academic such as me end up at the helm of a military outfit?
-- **8255**: Well, perhaps it's to the good. Knowing is half the battle, after all, and knowledge is something I do not want for. Now, I just require strapping young fighters like you to take to the front line.
-- **8256**: Hrrrm! Our forces are on the receiving end of heavy punishment!
-- **8257**: You! Don't just stand there looking like a tree! Jump into the fray and fell a fiend or three! That's an order!
-- **8258**: The Abyssean hordes harry us still, but I'm observing some wariness in their movements.
-- **8259**: This is a golden chance to shift out of our defensive posture and repay the enemy in kind!
-- **8260**: We've managed to gain a footing with the Abyssean hordes. The time is come for us to show our true steel!
-- **8261**: Go forth, my loyal minions, and show the enemy no quarter!
-- **8262**: Mwahaha! We have the Abyssean fiends cowering at the mere sound of our approach!
-- **8263**: Victory is no longer a question of if, but when. Go forth, my loyal minions, and lay waste to our foes!
-- **8264**: Mwahaha! The Abyssean fiends are completely at our mercy! Squirm though they might, there will be no escaping my iron grip of subjugation! Heaheaheaheahhh!
+- **8255**: Hrrrm... I say, however did an academic such as me end up at the helm of a military outfit?
+- **8256**: Well, perhaps it's to the good. Knowing is half the battle, after all, and knowledge is something I do not want for. Now, I just require strapping young fighters like you to take to the front line.
+- **8257**: Hrrrm! Our forces are on the receiving end of heavy punishment!
+- **8258**: You! Don't just stand there looking like a tree! Jump into the fray and fell a fiend or three! That's an order!
+- **8259**: The Abyssean hordes harry us still, but I'm observing some wariness in their movements.
+- **8260**: This is a golden chance to shift out of our defensive posture and repay the enemy in kind!
+- **8261**: We've managed to gain a footing with the Abyssean hordes. The time is come for us to show our true steel!
+- **8262**: Go forth, my loyal minions, and show the enemy no quarter!
+- **8263**: Mwahaha! We have the Abyssean fiends cowering at the mere sound of our approach!
+- **8264**: Victory is no longer a question of if, but when. Go forth, my loyal minions, and lay waste to our foes!
+- **8265**: Mwahaha! The Abyssean fiends are completely at our mercy! Squirm though they might, there will be no escaping my iron grip of subjugation! Heaheaheaheahhh!
 
 ## Events
 
@@ -101,10 +101,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=337*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8254*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8255*)
     → "Hrrrm... I say, however did an academic such as me end up at the helm of a military outfit?"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8255*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8256*)
     → "Well, perhaps it's to the good. Knowing is half the battle, after all, and knowledge is something I do not want for. Now, I just require strapping young fighters like you to take to the front line."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT
@@ -140,38 +140,38 @@
   1: 0x0027 [0x1C] WAIT(30* ticks)
   2: 0x002A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=337*
   3: 0x0039 [0x02] IF !(Work_Zone[2] == 100*) GOTO 0x0048
-  4: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
+  4: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
     → "Mwahaha! The Abyssean fiends are completely at our mercy! Squirm though they might, there will be no escaping my iron grip of subjugation! Heaheaheaheahhh!"
   5: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0045 [0x01] GOTO 0x0089
   7: 0x0048 [0x02] IF !(Work_Zone[2] < 75*) GOTO 0x005B
-  8: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
+  8: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
     → "Mwahaha! We have the Abyssean fiends cowering at the mere sound of our approach!"
   9: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
+ 10: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
     → "Victory is no longer a question of if, but when. Go forth, my loyal minions, and lay waste to our foes!"
  11: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0058 [0x01] GOTO 0x0089
  13: 0x005B [0x02] IF !(Work_Zone[2] < 50*) GOTO 0x006E
- 14: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8260*)
+ 14: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
     → "We've managed to gain a footing with the Abyssean hordes. The time is come for us to show our true steel!"
  15: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
+ 16: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
     → "Go forth, my loyal minions, and show the enemy no quarter!"
  17: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006B [0x01] GOTO 0x0089
  19: 0x006E [0x02] IF !(Work_Zone[2] < 25*) GOTO 0x0081
- 20: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=8258*)
+ 20: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
     → "The Abyssean hordes harry us still, but I'm observing some wariness in their movements."
  21: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=8259*)
+ 22: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=8260*)
     → "This is a golden chance to shift out of our defensive posture and repay the enemy in kind!"
  23: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x007E [0x01] GOTO 0x0089
- 25: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8256*)
+ 25: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8257*)
     → "Hrrrm! Our forces are on the receiving end of heavy punishment!"
  26: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=8257*)
+ 27: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=8258*)
     → "You! Don't just stand there looking like a tree! Jump into the fray and fell a fiend or three! That's an order!"
  28: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

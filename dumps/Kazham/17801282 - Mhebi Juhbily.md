@@ -63,16 +63,16 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x016C      |         364 |
 |       3 | 0x0168      |         360 |
-|       4 | 0x27C1      |       10177 |
-|       5 | 0x27C2      |       10178 |
-|       6 | 0x27C3      |       10179 |
-|       7 | 0x27C4      |       10180 |
-|       8 | 0x27C5      |       10181 |
-|       9 | 0x27C6      |       10182 |
-|      10 | 0x27C7      |       10183 |
+|       4 | 0x27C2      |       10178 |
+|       5 | 0x27C3      |       10179 |
+|       6 | 0x27C4      |       10180 |
+|       7 | 0x27C5      |       10181 |
+|       8 | 0x27C6      |       10182 |
+|       9 | 0x27C7      |       10183 |
+|      10 | 0x27C8      |       10184 |
 |      11 | 0x0000      |           0 |
-|      12 | 0x27C8      |       10184 |
-|      13 | 0x27C9      |       10185 |
+|      12 | 0x27C9      |       10185 |
+|      13 | 0x27CA      |       10186 |
 |      14 | 0x01FF      |         511 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x01FE      |         510 |
@@ -83,58 +83,58 @@
 |      21 | 0x000D      |          13 |
 |      22 | 0x9AC1      |       39617 |
 |      23 | 0xFFFD71B7  |  4294799799 |
-|      24 | 0x27CA      |       10186 |
-|      25 | 0x27CC      |       10188 |
-|      26 | 0x27CE      |       10190 |
-|      27 | 0x27CF      |       10191 |
-|      28 | 0x27D0      |       10192 |
-|      29 | 0x27D3      |       10195 |
-|      30 | 0x27DA      |       10202 |
-|      31 | 0x27DB      |       10203 |
+|      24 | 0x27CB      |       10187 |
+|      25 | 0x27CD      |       10189 |
+|      26 | 0x27CF      |       10191 |
+|      27 | 0x27D0      |       10192 |
+|      28 | 0x27D1      |       10193 |
+|      29 | 0x27D4      |       10196 |
+|      30 | 0x27DB      |       10203 |
+|      31 | 0x27DC      |       10204 |
 |      32 | 0x00C8      |         200 |
 |      33 | 0x003C      |          60 |
 |      34 | 0x0003      |           3 |
 |      35 | 0x0078      |         120 |
 |      36 | 0x0096      |         150 |
-|      37 | 0x27E5      |       10213 |
+|      37 | 0x27E6      |       10214 |
 |      38 | 0x0005      |           5 |
 |      39 | 0x0006      |           6 |
-|      40 | 0x27E7      |       10215 |
-|      41 | 0x27E8      |       10216 |
+|      40 | 0x27E8      |       10216 |
+|      41 | 0x27E9      |       10217 |
 |      42 | 0x00C9      |         201 |
-|      43 | 0x27E4      |       10212 |
-|      44 | 0x27E6      |       10214 |
-|      45 | 0x27E9      |       10217 |
-|      46 | 0x27EA      |       10218 |
-|      47 | 0x27EB      |       10219 |
+|      43 | 0x27E5      |       10213 |
+|      44 | 0x27E7      |       10215 |
+|      45 | 0x27EA      |       10218 |
+|      46 | 0x27EB      |       10219 |
+|      47 | 0x27EC      |       10220 |
 
 ## String References
 
-- **10177**: ...
-- **10178**: You still herrre? Why don't you just get out of my face and let me sulk in peace!?
-- **10179**: Quit it!
-- **10180**: You shouldn't be snooping around in other people's prrroperty!
-- **10181**: No way...
-- **10182**: $1! I love these things! Look at how the scales shine!
-- **10183**: Give her the $1? [Forthwith./Nope.]
-- **10184**: Forrr me? Oh, this is absolutely lovely!
-- **10185**: Why, this is purrrfect!
-- **10186**: Damn! You've found him!
-- **10188**: My buddy's name is Tonberri<Player>qo. Sounds sophisticated, huh? I gave it to him myself.
-- **10190**: But because his knife got wet, it rusted, and now he can't use it for hunting his food.
-- **10191**: I've been trying to help by bringing him meat and letting him sleep herrre, but...
-- **10192**: Well, now that you've seen him, you're in this with me.
-- **10195**: Thanks. What I want to do is get this guy's knife back in chip-chop shape so I can take him back to the jungle.
-- **10202**: I want to take Tonberri<Player>qo back to the jungle, but we have to do something about his knife.
-- **10203**: You don't happen to have any good ideas, do you?
-- **10212**: Whoa! Where did you get that knife?
-- **10213**: Tonberri<Player>qo begins to steam with happiness...(?)
-- **10214**: He likes it! Hey, <Player>! Tonberri<Player>qo likes it!
-- **10215**: I had my doubts about you, but you rrreally came through for me and my buddy.
-- **10216**: Now it's my turn to take Tonberri<Player>qo back to the jungle where he belongs. I'll miss the little green guy, though.
-- **10217**: I had my doubts about you, but you rrreally came through for me and my buddy. Now I just have to take Tonberri<Player>qo back to the jungle where he belongs.
-- **10218**: If you want to see Tonberri<Player>qo, he's still living in that shed.
-- **10219**: He won't move an inch! Do you think that maybe he likes it better herrre in the village?
+- **10178**: ...
+- **10179**: You still herrre? Why don't you just get out of my face and let me sulk in peace!?
+- **10180**: Quit it!
+- **10181**: You shouldn't be snooping around in other people's prrroperty!
+- **10182**: No way...
+- **10183**: $1! I love these things! Look at how the scales shine!
+- **10184**: Give her the $1? [Forthwith./Nope.]
+- **10185**: Forrr me? Oh, this is absolutely lovely!
+- **10186**: Why, this is purrrfect!
+- **10187**: Damn! You've found him!
+- **10189**: My buddy's name is Tonberri<Player>qo. Sounds sophisticated, huh? I gave it to him myself.
+- **10191**: But because his knife got wet, it rusted, and now he can't use it for hunting his food.
+- **10192**: I've been trying to help by bringing him meat and letting him sleep herrre, but...
+- **10193**: Well, now that you've seen him, you're in this with me.
+- **10196**: Thanks. What I want to do is get this guy's knife back in chip-chop shape so I can take him back to the jungle.
+- **10203**: I want to take Tonberri<Player>qo back to the jungle, but we have to do something about his knife.
+- **10204**: You don't happen to have any good ideas, do you?
+- **10213**: Whoa! Where did you get that knife?
+- **10214**: Tonberri<Player>qo begins to steam with happiness...(?)
+- **10215**: He likes it! Hey, <Player>! Tonberri<Player>qo likes it!
+- **10216**: I had my doubts about you, but you rrreally came through for me and my buddy.
+- **10217**: Now it's my turn to take Tonberri<Player>qo back to the jungle where he belongs. I'll miss the little green guy, though.
+- **10218**: I had my doubts about you, but you rrreally came through for me and my buddy. Now I just have to take Tonberri<Player>qo back to the jungle where he belongs.
+- **10219**: If you want to see Tonberri<Player>qo, he's still living in that shed.
+- **10220**: He won't move an inch! Do you think that maybe he likes it better herrre in the village?
 
 ## Events
 
@@ -700,14 +700,14 @@
 #### Opcodes
 
 ```
-  0: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
+  0: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=10178*)
     → "..."
   1: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017E [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0183 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0184 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0185 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x13)
-  6: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=10178*)
+  6: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
     → "You still herrre? Why don't you just get out of my face and let me sulk in peace!?"
   7: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0190 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x14)
@@ -742,12 +742,12 @@
   1: 0x01A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x13)
-  4: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
+  4: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10180*)
     → "Quit it!"
   5: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x14)
   7: 0x01B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x09)
-  8: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10180*)
+  8: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10181*)
     → "You shouldn't be snooping around in other people's prrroperty!"
   9: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0A)
@@ -788,26 +788,26 @@
   2: 0x01D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01D1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x01)
-  5: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10181*)
+  5: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10182*)
     → "No way..."
   6: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x02)
   8: 0x01E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0B)
-  9: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10182*)
+  9: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10183*)
     → "$1! I love these things! Look at how the scales shine!"
  10: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x01EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0C)
- 12: 0x01F6 [0x24] CREATE_DIALOG(message_id=10183*, default_option=0*, option_flags=0*)
+ 12: 0x01F6 [0x24] CREATE_DIALOG(message_id=10184*, default_option=0*, option_flags=0*)
     → "Give her the $1? [Forthwith./Nope.]"
  13: 0x01FD [0x25] WAIT_DIALOG_SELECT()
  14: 0x01FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0232
  15: 0x0206 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x13)
- 16: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10184*)
+ 16: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10185*)
     → "Forrr me? Oh, this is absolutely lovely!"
  17: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0211 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x14)
  19: 0x0218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0B)
- 20: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=10185*)
+ 20: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=10186*)
     → "Why, this is purrrfect!"
  21: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0223 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0C)
@@ -844,7 +844,7 @@ SUBROUTINE_0242:
 
 ```
   0: 0x0246 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0B)
-  1: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=10185*)
+  1: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=10186*)
     → "Why, this is purrrfect!"
   2: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0251 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0C)
@@ -948,7 +948,7 @@ SUBROUTINE_0242:
   1: 0x0278 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0279 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x027A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x13)
-  4: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=10186*)
+  4: 0x0281 [0x1D] PRINT_EVENT_MESSAGE(message_id=10187*)
     → "Damn! You've found him!"
   5: 0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0285 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x14)
@@ -976,7 +976,7 @@ SUBROUTINE_0242:
 
 ```
   0: 0x028D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x01)
-  1: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=10188*)
+  1: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=10189*)
     → "My buddy's name is Tonberri<Player>qo. Sounds sophisticated, huh? I gave it to him myself."
   2: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0298 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x02)
@@ -1004,7 +1004,7 @@ SUBROUTINE_0242:
 
 ```
   0: 0x02A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x05)
-  1: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10190*)
+  1: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10191*)
     → "But because his knife got wet, it rusted, and now he can't use it for hunting his food."
   2: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x06)
@@ -1032,7 +1032,7 @@ SUBROUTINE_0242:
 
 ```
   0: 0x02B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x07)
-  1: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10191*)
+  1: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10192*)
     → "I've been trying to help by bringing him meat and letting him sleep herrre, but..."
   2: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x08)
@@ -1060,7 +1060,7 @@ SUBROUTINE_0242:
 
 ```
   0: 0x02C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x01)
-  1: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10192*)
+  1: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10193*)
     → "Well, now that you've seen him, you're in this with me."
   2: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x02)
@@ -1086,7 +1086,7 @@ SUBROUTINE_0242:
 #### Opcodes
 
 ```
-  0: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10195*)
+  0: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10196*)
     → "Thanks. What I want to do is get this guy's knife back in chip-chop shape so I can take him back to the jungle."
   1: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DD [0x00] END_REQSTACK()
@@ -1120,12 +1120,12 @@ SUBROUTINE_0242:
   2: 0x02E4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x02EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x05)
-  5: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10202*)
+  5: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10203*)
     → "I want to take Tonberri<Player>qo back to the jungle, but we have to do something about his knife."
   6: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x06)
   8: 0x02FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x07)
-  9: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=10203*)
+  9: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=10204*)
     → "You don't happen to have any good ideas, do you?"
  10: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0309 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x08)
@@ -1210,7 +1210,7 @@ SUBROUTINE_0242:
  22: 0x0380 [0x1C] WAIT(120* ticks)
  23: 0x0383 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  24: 0x0394 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 25: 0x03A5 [0x48] [System] [10213*]:
+ 25: 0x03A5 [0x48] [System] [10214*]:
     → "Tonberri<Player>qo begins to steam with happiness...(?)"
  26: 0x03A8 [0x1C] WAIT(200* ticks)
  27: 0x03AB [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=150*
@@ -1231,7 +1231,7 @@ SUBROUTINE_042A:
  40: 0x043D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  41: 0x043E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Mhebi Juhbily (ID: 17801282/0x010FA042) Render.Flags0 and Render.Flags3 conditions are met
  42: 0x0443 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0B)
- 43: 0x044A [0x1D] PRINT_EVENT_MESSAGE(message_id=10215*)
+ 43: 0x044A [0x1D] PRINT_EVENT_MESSAGE(message_id=10216*)
     → "I had my doubts about you, but you rrreally came through for me and my buddy."
  44: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x044E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0C)
@@ -1246,7 +1246,7 @@ SUBROUTINE_042A:
 SUBROUTINE_0498:
  53: 0x0498 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  54: 0x04A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
- 55: 0x04BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10216*)
+ 55: 0x04BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10217*)
     → "Now it's my turn to take Tonberri<Player>qo back to the jungle where he belongs. I'll miss the little green guy, though."
  56: 0x04BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x04BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1281,7 +1281,7 @@ SUBROUTINE_0498:
 #### Opcodes
 
 ```
-  0: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=10212*)
+  0: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=10213*)
     → "Whoa! Where did you get that knife?"
   1: 0x0516 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0517 [0x00] END_REQSTACK()
@@ -1306,7 +1306,7 @@ SUBROUTINE_0498:
 #### Opcodes
 
 ```
-  0: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=10214*)
+  0: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=10215*)
     → "He likes it! Hey, <Player>! Tonberri<Player>qo likes it!"
   1: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x051C [0x00] END_REQSTACK()
@@ -1337,7 +1337,7 @@ SUBROUTINE_0498:
   1: 0x0522 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0523 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0524 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0B)
-  4: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=10217*)
+  4: 0x052B [0x1D] PRINT_EVENT_MESSAGE(message_id=10218*)
     → "I had my doubts about you, but you rrreally came through for me and my buddy. Now I just have to take Tonberri<Player>qo back to the jungle where he belongs."
   5: 0x052E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x052F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x0C)
@@ -1372,12 +1372,12 @@ SUBROUTINE_0498:
   1: 0x053F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0540 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0541 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x05)
-  4: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=10218*)
+  4: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=10219*)
     → "If you want to see Tonberri<Player>qo, he's still living in that shed."
   5: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x054C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x06)
   7: 0x0553 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x07)
-  8: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=10219*)
+  8: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=10220*)
     → "He won't move an inch! Do you think that maybe he likes it better herrre in the village?"
   9: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x055E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mhebi Juhbily (ID: 17801282/0x010FA042), tag_num=0x08)

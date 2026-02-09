@@ -25,12 +25,12 @@
 |       1 | 0x005A      |          90 |
 |       2 | 0x0004      |           4 |
 |       3 | 0x026A      |         618 |
-|       4 | 0x1E7C      |        7804 |
+|       4 | 0x1E7D      |        7805 |
 |       5 | 0x03E7      |         999 |
 
 ## String References
 
-- **7804**: A bittersweet breeze of melancholy and remembrance graces the air about you for one fleeting moment.
+- **7805**: A bittersweet breeze of melancholy and remembrance graces the air about you for one fleeting moment.
 
 ## Events
 
@@ -89,7 +89,7 @@
   6: 0x001F [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
   7: 0x0025 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [EventEntity, EventEntity], work=[618*, 0*]
   8: 0x0036 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s096" with entities [EventEntity, EventEntity], work=618*
-  9: 0x0045 [0x48] [System] [7804*]:
+  9: 0x0045 [0x48] [System] [7805*]:
     → "A bittersweet breeze of melancholy and remembrance graces the air about you for one fleeting moment."
  10: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0049 [0x6A] CHANGE_SOUND_VOLUME: Set (Zone)* volume to 999*, fade_time=90*

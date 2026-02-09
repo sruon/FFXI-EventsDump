@@ -25,12 +25,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DD2      |        7634 |
-|       1 | 0x1D21      |        7457 |
+|       0 | 0x1DD3      |        7635 |
+|       1 | 0x1D22      |        7458 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D22      |        7458 |
+|       3 | 0x1D23      |        7459 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1D23      |        7459 |
+|       5 | 0x1D24      |        7460 |
 |       6 | 0x668B4     |      420020 |
 |       7 | 0x5F59D     |      390557 |
 |       8 | 0x0400      |        1024 |
@@ -39,10 +39,10 @@
 
 ## String References
 
-- **7457**: Choose your path... [Leave the Garden of Ru'Hmet./Return to the room entrance./Nothing.]
-- **7458**: Return to the grand palace? [Yes./No.]
-- **7459**: Return to the chamber entrance? [Yes./No.]
-- **7634**: You feel a mysterious energy emanating from the glowing stone in the center of the portal.
+- **7458**: Choose your path... [Leave the Garden of Ru'Hmet./Return to the room entrance./Nothing.]
+- **7459**: Return to the grand palace? [Yes./No.]
+- **7460**: Return to the chamber entrance? [Yes./No.]
+- **7635**: You feel a mysterious energy emanating from the glowing stone in the center of the portal.
 
 ## Events
 
@@ -98,14 +98,14 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7634*]:
+  0: 0x0001 [0x48] [System] [7635*]:
     → "You feel a mysterious energy emanating from the glowing stone in the center of the portal."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7457*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7458*, default_option=0*, option_flags=0*)
     → "Choose your path... [Leave the Garden of Ru'Hmet./Return to the room entrance./Nothing.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004C
-  5: 0x0015 [0x24] CREATE_DIALOG(message_id=7458*, default_option=1*, option_flags=0*)
+  5: 0x0015 [0x24] CREATE_DIALOG(message_id=7459*, default_option=1*, option_flags=0*)
     → "Return to the grand palace? [Yes./No.]"
   6: 0x001C [0x25] WAIT_DIALOG_SELECT()
   7: 0x001D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0039
@@ -122,7 +122,7 @@
 SUBROUTINE_0049:
  17: 0x0049 [0x01] GOTO 0x00AE
  18: 0x004C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009E
- 19: 0x0054 [0x24] CREATE_DIALOG(message_id=7459*, default_option=1*, option_flags=0*)
+ 19: 0x0054 [0x24] CREATE_DIALOG(message_id=7460*, default_option=1*, option_flags=0*)
     → "Return to the chamber entrance? [Yes./No.]"
  20: 0x005B [0x25] WAIT_DIALOG_SELECT()
  21: 0x005C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008B

@@ -32,21 +32,21 @@
 |---------|-------------|-------------|
 |       0 | 0x0055      |          85 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x20A7      |        8359 |
-|       3 | 0x2080      |        8320 |
-|       4 | 0x2081      |        8321 |
-|       5 | 0x2082      |        8322 |
-|       6 | 0x2083      |        8323 |
-|       7 | 0x2088      |        8328 |
+|       2 | 0x20A8      |        8360 |
+|       3 | 0x2081      |        8321 |
+|       4 | 0x2082      |        8322 |
+|       5 | 0x2083      |        8323 |
+|       6 | 0x2084      |        8324 |
+|       7 | 0x2089      |        8329 |
 
 ## String References
 
-- **8320**: Hey, leave the explanation of black magic to me!
-- **8321**: Black magic is used mainly for attacking. As you can tell from their names, black mages are pros at casting black magic.
-- **8322**: Black magic has a strong connection to the elements, the magic power abundant in nature. That's why there are spells called Fire and Thunder, which correspond to the elements of fire and lightning.
-- **8323**: Black magic is the best. Whenever you say "magic-user," you immediately think of black mages, right?
-- **8328**: Oh yeah? But red mages can only use a little bit of black and white magic. I'd call them "monochrome" at best! They're so limited!
-- **8359**: It's not that we in the beginners class can't do magic properly... It's just that those guys in the advanced class are too good at casting them spells.
+- **8321**: Hey, leave the explanation of black magic to me!
+- **8322**: Black magic is used mainly for attacking. As you can tell from their names, black mages are pros at casting black magic.
+- **8323**: Black magic has a strong connection to the elements, the magic power abundant in nature. That's why there are spells called Fire and Thunder, which correspond to the elements of fire and lightning.
+- **8324**: Black magic is the best. Whenever you say "magic-user," you immediately think of black mages, right?
+- **8329**: Oh yeah? But red mages can only use a little bit of black and white magic. I'd call them "monochrome" at best! They're so limited!
+- **8360**: It's not that we in the beginners class can't do magic properly... It's just that those guys in the advanced class are too good at casting them spells.
 
 ## Events
 
@@ -272,7 +272,7 @@
   1: 0x0081 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0082 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0083 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x01)
-  4: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=8359*)
+  4: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=8360*)
     → "It's not that we in the beginners class can't do magic properly... It's just that those guys in the advanced class are too good at casting them spells."
   5: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x02)
@@ -326,18 +326,18 @@
 
 ```
   0: 0x009A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x03)
-  1: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8320*)
+  1: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8321*)
     → "Hey, leave the explanation of black magic to me!"
   2: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8321*)
+  3: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8322*)
     → "Black magic is used mainly for attacking. As you can tell from their names, black mages are pros at casting black magic."
   4: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8322*)
+  5: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
     → "Black magic has a strong connection to the elements, the magic power abundant in nature. That's why there are spells called Fire and Thunder, which correspond to the elements of fire and lightning."
   6: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x04)
   8: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x05)
-  9: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
+  9: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8324*)
     → "Black magic is the best. Whenever you say "magic-user," you immediately think of black mages, right?"
  10: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x06)
@@ -365,7 +365,7 @@
 
 ```
   0: 0x00C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x01)
-  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "Oh yeah? But red mages can only use a little bit of black and white magic. I'd call them "monochrome" at best! They're so limited!"
   2: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakesse-Myukesse (ID: 17752130/0x010EE042), tag_num=0x02)

@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x26FE      |        9982 |
-|       3 | 0x26FF      |        9983 |
-|       4 | 0x2864      |       10340 |
-|       5 | 0x2865      |       10341 |
+|       2 | 0x26FF      |        9983 |
+|       3 | 0x2700      |        9984 |
+|       4 | 0x2865      |       10341 |
+|       5 | 0x2866      |       10342 |
 
 ## String References
 
-- **9982**: A lot of the young ones these days leave Kazham for the mainland cities...
-- **9983**: That is fine...as long as they rrrealize that once they step outside the city gates, they won't be welcomed back.
-- **10340**: ... Poor mainlander... Didn't anyone warrrn you about the Rafflesia flower?
-- **10341**: You might want to try M & P's Market...if there's still any hope for you.
+- **9983**: A lot of the young ones these days leave Kazham for the mainland cities...
+- **9984**: That is fine...as long as they rrrealize that once they step outside the city gates, they won't be welcomed back.
+- **10341**: ... Poor mainlander... Didn't anyone warrrn you about the Rafflesia flower?
+- **10342**: You might want to try M & P's Market...if there's still any hope for you.
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Haih Ahmpagako (ID: 17801220/0x010FA004), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9982*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9983*)
     → "A lot of the young ones these days leave Kazham for the mainland cities..."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9983*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9984*)
     → "That is fine...as long as they rrrealize that once they step outside the city gates, they won't be welcomed back."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Haih Ahmpagako (ID: 17801220/0x010FA004), tag_num=0x02)
@@ -170,11 +170,11 @@
   0: 0x003B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10340*)
+  3: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10341*)
     → "... Poor mainlander... Didn't anyone warrrn you about the Rafflesia flower?"
   4: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Haih Ahmpagako (ID: 17801220/0x010FA004), tag_num=0x01)
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10341*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10342*)
     → "You might want to try M & P's Market...if there's still any hope for you."
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Haih Ahmpagako (ID: 17801220/0x010FA004), tag_num=0x02)

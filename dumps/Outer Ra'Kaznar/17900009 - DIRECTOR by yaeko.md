@@ -25,23 +25,23 @@
 |       2 | 0x0013      |          19 |
 |       3 | 0x02A2      |         674 |
 |       4 | 0x222F      |        8751 |
-|       5 | 0x1E86      |        7814 |
+|       5 | 0x1E87      |        7815 |
 |       6 | 0x0028      |          40 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0006      |           6 |
 |      10 | 0x0008      |           8 |
 |      11 | 0x005A      |          90 |
-|      12 | 0x1E87      |        7815 |
-|      13 | 0x1E88      |        7816 |
-|      14 | 0x1E89      |        7817 |
-|      15 | 0x1E8A      |        7818 |
-|      16 | 0x1E8B      |        7819 |
-|      17 | 0x1E8C      |        7820 |
-|      18 | 0x1E8D      |        7821 |
-|      19 | 0x1E8E      |        7822 |
+|      12 | 0x1E88      |        7816 |
+|      13 | 0x1E89      |        7817 |
+|      14 | 0x1E8A      |        7818 |
+|      15 | 0x1E8B      |        7819 |
+|      16 | 0x1E8C      |        7820 |
+|      17 | 0x1E8D      |        7821 |
+|      18 | 0x1E8E      |        7822 |
+|      19 | 0x1E8F      |        7823 |
 |      20 | 0x09CC      |        2508 |
-|      21 | 0x1E8F      |        7823 |
+|      21 | 0x1E90      |        7824 |
 |      22 | 0x001E      |          30 |
 |      23 | 0x0050      |          80 |
 |      24 | 0x003C      |          60 |
@@ -50,24 +50,24 @@
 |      27 | 0x0001      |           1 |
 |      28 | 0x008C      |         140 |
 |      29 | 0x0032      |          50 |
-|      30 | 0x1E90      |        7824 |
-|      31 | 0x1E91      |        7825 |
-|      32 | 0x1E92      |        7826 |
+|      30 | 0x1E91      |        7825 |
+|      31 | 0x1E92      |        7826 |
+|      32 | 0x1E93      |        7827 |
 |      33 | 0x0004      |           4 |
-|      34 | 0x1E93      |        7827 |
+|      34 | 0x1E94      |        7828 |
 |      35 | 0x01F4      |         500 |
 |      36 | 0x07E8      |        2024 |
-|      37 | 0x1E94      |        7828 |
-|      38 | 0x1E95      |        7829 |
-|      39 | 0x1E96      |        7830 |
+|      37 | 0x1E95      |        7829 |
+|      38 | 0x1E96      |        7830 |
+|      39 | 0x1E97      |        7831 |
 |      40 | 0x0002      |           2 |
 |      41 | 0x0014      |          20 |
 |      42 | 0x0015      |          21 |
-|      43 | 0x1E97      |        7831 |
-|      44 | 0x1E98      |        7832 |
+|      43 | 0x1E98      |        7832 |
+|      44 | 0x1E99      |        7833 |
 |      45 | 0x0049      |          73 |
-|      46 | 0x1E99      |        7833 |
-|      47 | 0x1E9A      |        7834 |
+|      46 | 0x1E9A      |        7834 |
+|      47 | 0x1E9B      |        7835 |
 |      48 | 0x0096      |         150 |
 |      49 | 0x000A      |          10 |
 |      50 | 0x00C9      |         201 |
@@ -311,7 +311,7 @@
  16: 0x006F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0080 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  18: 0x008F [0x03] Work_Zone[3] = 8751*
- 19: 0x0094 [0x2B] Lerene (ID: 17900010/0x011121EA) [7814*]:
+ 19: 0x0094 [0x2B] Lerene (ID: 17900010/0x011121EA) [7815*]:
     → "Welcome back. I trust you have found enough $1?"
  20: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x009C [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x13)
@@ -354,13 +354,13 @@ SUBROUTINE_01C1:
  54: 0x01D2 [0x7B] Lerene (ID: 17900010/0x011121EA) stops talking
  55: 0x01D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x0D)
  56: 0x01DE [0x1C] WAIT(90* ticks)
- 57: 0x01E1 [0x2B] Lerene (ID: 17900010/0x011121EA) [7815*]:
+ 57: 0x01E1 [0x2B] Lerene (ID: 17900010/0x011121EA) [7816*]:
     → "Aha... ...So this is how it functions."
  58: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x01E9 [0x2B] Lerene (ID: 17900010/0x011121EA) [7816*]:
+ 59: 0x01E9 [0x2B] Lerene (ID: 17900010/0x011121EA) [7817*]:
     → "Remember how I explained that magic coursed through the cracks like blood through our veins?"
  60: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x01F1 [0x2B] Lerene (ID: 17900010/0x011121EA) [7817*]:
+ 61: 0x01F1 [0x2B] Lerene (ID: 17900010/0x011121EA) [7818*]:
     → "Then if we found a way to reverse the flow..."
  62: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x01F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x0E)
@@ -376,12 +376,12 @@ SUBROUTINE_01C1:
 SUBROUTINE_0258:
  72: 0x0258 [0x79] Lerene (ID: 17900010/0x011121EA) looks at LocalPlayer (Basic look)
  73: 0x0262 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x0F)
- 74: 0x0269 [0x2B] Lerene (ID: 17900010/0x011121EA) [7818*]:
+ 74: 0x0269 [0x2B] Lerene (ID: 17900010/0x011121EA) [7819*]:
     → "Of course, this is all just theory. We won't know until we actually try it, hmm?"
  75: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0271 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x10)
  77: 0x0278 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x01)
- 78: 0x027F [0x2B] Lerene (ID: 17900010/0x011121EA) [7819*]:
+ 78: 0x027F [0x2B] Lerene (ID: 17900010/0x011121EA) [7820*]:
     → "My professor always told me "To know is to act!" Knowledge is nothing until you put it into practice."
  79: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0287 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x02A1
@@ -394,7 +394,7 @@ SUBROUTINE_0258:
 
 SUBROUTINE_02CA:
  87: 0x02CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[674*, 0*]
- 88: 0x02DB [0x2B] Lerene (ID: 17900010/0x011121EA) [7820*]:
+ 88: 0x02DB [0x2B] Lerene (ID: 17900010/0x011121EA) [7821*]:
     → "Let me prepare the paten using the sigils you have brought me. Just give me a moment..."
  89: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x02E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -415,7 +415,7 @@ SUBROUTINE_0370:
 103: 0x0370 [0x27] REQ_SET(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x3A)
 104: 0x0377 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 105: 0x0388 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-106: 0x0397 [0x2B] Lerene (ID: 17900010/0x011121EA) [7821*]:
+106: 0x0397 [0x2B] Lerene (ID: 17900010/0x011121EA) [7822*]:
     → "Splendid! This should assist you in getting rid of that pesky magic impeding your progress."
 107: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x039F [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lerene (ID: 17900010/0x011121EA))
@@ -438,13 +438,13 @@ SUBROUTINE_03E8:
 
 SUBROUTINE_0431:
 123: 0x0431 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x23)
-124: 0x0438 [0x2B] Lerene (ID: 17900010/0x011121EA) [7822*]:
+124: 0x0438 [0x2B] Lerene (ID: 17900010/0x011121EA) [7823*]:
     → "Come with me to the lower levels, and we will test it out together."
 125: 0x043F [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0440 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x24)
 127: 0x0447 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x25)
 128: 0x044E [0x03] Work_Zone[4] = 2508*
-129: 0x0453 [0x2B] Lerene (ID: 17900010/0x011121EA) [7823*]:
+129: 0x0453 [0x2B] Lerene (ID: 17900010/0x011121EA) [7824*]:
     → "I'll bring along $6, which will enable us to operate the transit device. Shall we?"
 130: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x045B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x26)
@@ -505,7 +505,7 @@ SUBROUTINE_04A5:
 184: 0x05E7 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=674*
 185: 0x05F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[674*, 0*]
 186: 0x0607 [0x1C] WAIT(50* ticks)
-187: 0x060A [0x2B] Lerene (ID: 17900010/0x011121EA) [7824*]:
+187: 0x060A [0x2B] Lerene (ID: 17900010/0x011121EA) [7825*]:
     → "This door is the one that has been giving me problems."
 188: 0x0611 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lerene (ID: 17900010/0x011121EA))
 189: 0x0617 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
@@ -522,7 +522,7 @@ SUBROUTINE_04A5:
 SUBROUTINE_0676:
 199: 0x0676 [0x79] LocalPlayer looks at Lerene (ID: 17900010/0x011121EA) (Basic look)
 200: 0x0680 [0x03] Work_Zone[4] = 2508*
-201: 0x0685 [0x2B] Lerene (ID: 17900010/0x011121EA) [7825*]:
+201: 0x0685 [0x2B] Lerene (ID: 17900010/0x011121EA) [7826*]:
     → "If it doesn't work, then we won't be able to figure out how the door operates...which leads us into a terrible loop of unknowns."
 202: 0x068C [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x068D [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x06A7
@@ -543,7 +543,7 @@ SUBROUTINE_06FD:
 214: 0x06FD [0x4A] Lerene (ID: 17900010/0x011121EA) looks at LocalPlayer
 215: 0x0706 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 216: 0x0707 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lerene (ID: 17900010/0x011121EA) Render.Flags0 and Render.Flags3 conditions are met
-217: 0x070C [0x2B] Lerene (ID: 17900010/0x011121EA) [7826*]:
+217: 0x070C [0x2B] Lerene (ID: 17900010/0x011121EA) [7827*]:
     → "Steel yourself for action!"
 218: 0x0713 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0714 [0x7B] Lerene (ID: 17900010/0x011121EA) stops talking
@@ -568,7 +568,7 @@ SUBROUTINE_074C:
 
 SUBROUTINE_07B1:
 236: 0x07B1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lerene (ID: 17900010/0x011121EA))
-237: 0x07B7 [0x2B] Lerene (ID: 17900010/0x011121EA) [7827*]:
+237: 0x07B7 [0x2B] Lerene (ID: 17900010/0x011121EA) [7828*]:
     → "Hmm...I suppose that accomplished something, but we're not done yet. Let me just fiddle with..."
 238: 0x07BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x07BF [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17900011/0x011121EB)
@@ -595,7 +595,7 @@ SUBROUTINE_082C:
 258: 0x0856 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 259: 0x0857 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lerene (ID: 17900010/0x011121EA) Render.Flags0 and Render.Flags3 conditions are met
 260: 0x085C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x01)
-261: 0x0863 [0x2B] Lerene (ID: 17900010/0x011121EA) [7828*]:
+261: 0x0863 [0x2B] Lerene (ID: 17900010/0x011121EA) [7829*]:
     → "Get ready! I'm going to open it!"
 262: 0x086A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x02)
 263: 0x0871 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -603,7 +603,7 @@ SUBROUTINE_082C:
 265: 0x0881 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[674*, 0*]
 266: 0x0892 [0x1C] WAIT(90* ticks)
 267: 0x0895 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x03)
-268: 0x089C [0x2B] Lerene (ID: 17900010/0x011121EA) [7829*]:
+268: 0x089C [0x2B] Lerene (ID: 17900010/0x011121EA) [7830*]:
     → "...Huh?"
 269: 0x08A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x08A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x04)
@@ -613,7 +613,7 @@ SUBROUTINE_082C:
 274: 0x08B8 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=674*
 275: 0x08C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=[674*, 0*]
 276: 0x08D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x42)
-277: 0x08DF [0x2B] Lerene (ID: 17900010/0x011121EA) [7830*]:
+277: 0x08DF [0x2B] Lerene (ID: 17900010/0x011121EA) [7831*]:
     → "Open up, you piece of--"
 278: 0x08E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x08E7 [0x1C] WAIT(2* ticks)
@@ -629,7 +629,7 @@ SUBROUTINE_082C:
 289: 0x0924 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=674*
 290: 0x0933 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[674*, 0*]
 291: 0x0944 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x1F)
-292: 0x094B [0x2B] Lerene (ID: 17900010/0x011121EA) [7831*]:
+292: 0x094B [0x2B] Lerene (ID: 17900010/0x011121EA) [7832*]:
     → "Owowowowow!"
 293: 0x0952 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x0953 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x20)
@@ -640,7 +640,7 @@ SUBROUTINE_082C:
 299: 0x0988 [0x4A] Lerene (ID: 17900010/0x011121EA) looks at LocalPlayer
 300: 0x0991 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 301: 0x0992 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lerene (ID: 17900010/0x011121EA) Render.Flags0 and Render.Flags3 conditions are met
-302: 0x0997 [0x2B] Lerene (ID: 17900010/0x011121EA) [7832*]:
+302: 0x0997 [0x2B] Lerene (ID: 17900010/0x011121EA) [7833*]:
     → "W-well, at least we reversed the magic. All you have to do is give it a couple of good bashes, and that should break it right off its hinges."
 303: 0x099E [0x23] WAIT_FOR_DIALOG_INTERACTION
 304: 0x099F [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=674*
@@ -659,12 +659,12 @@ SUBROUTINE_09F7:
 315: 0x0A00 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
 316: 0x0A05 [0x1C] WAIT(2* ticks)
 317: 0x0A08 [0x27] REQ_SET(priority=0x08, entity_id=Lerene (ID: 17900010/0x011121EA), tag_num=0x3F)
-318: 0x0A0F [0x2B] Lerene (ID: 17900010/0x011121EA) [7833*]:
+318: 0x0A0F [0x2B] Lerene (ID: 17900010/0x011121EA) [7834*]:
     → "But you're a pioneer, right? So what's a little blood?"
 319: 0x0A16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 320: 0x0A17 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Lerene (ID: 17900010/0x011121EA))
 321: 0x0A1D [0x7B] Lerene (ID: 17900010/0x011121EA) stops talking
-322: 0x0A22 [0x2B] Lerene (ID: 17900010/0x011121EA) [7834*]:
+322: 0x0A22 [0x2B] Lerene (ID: 17900010/0x011121EA) [7835*]:
     → "I, on the other hand, am much more delicate. Let me put my handiwork to the test and make you a paten of your own."
 323: 0x0A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 324: 0x0A2A [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0A44

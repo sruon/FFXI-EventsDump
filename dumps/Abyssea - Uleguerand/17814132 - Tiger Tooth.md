@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0020      |          32 |
-|       1 | 0x1FA2      |        8098 |
+|       1 | 0x1FA3      |        8099 |
 
 ## String References
 
-- **8098**: I had occasion to receive trainin' from old Maat just once. Don't remember how many years ago it was, but I've still got the bruises t' show for it. Ahahaha!
+- **8099**: I had occasion to receive trainin' from old Maat just once. Don't remember how many years ago it was, but I've still got the bruises t' show for it. Ahahaha!
 
 ## Events
 
@@ -76,7 +76,7 @@
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x6E] Tiger Tooth (ID: 17814132/0x010FD274) uses emote 32*
   4: 0x000F [0x99] Wait for Tiger Tooth (ID: 17814132/0x010FD274) animation to complete
-  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
+  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
     → "I had occasion to receive trainin' from old Maat just once. Don't remember how many years ago it was, but I've still got the bruises t' show for it. Ahahaha!"
   6: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0018 [0x21] END_EVENT

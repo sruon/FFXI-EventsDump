@@ -33,18 +33,18 @@
 |       8 | 0x0007      |           7 |
 |       9 | 0x0008      |           8 |
 |      10 | 0x0009      |           9 |
-|      11 | 0x32A4      |       12964 |
-|      12 | 0x32C0      |       12992 |
-|      13 | 0x32A5      |       12965 |
-|      14 | 0x32BA      |       12986 |
-|      15 | 0x32BC      |       12988 |
-|      16 | 0x32BE      |       12990 |
-|      17 | 0x32BB      |       12987 |
-|      18 | 0x32BD      |       12989 |
-|      19 | 0x32BF      |       12991 |
-|      20 | 0x32B9      |       12985 |
-|      21 | 0x32C1      |       12993 |
-|      22 | 0x32C2      |       12994 |
+|      11 | 0x32A5      |       12965 |
+|      12 | 0x32C1      |       12993 |
+|      13 | 0x32A6      |       12966 |
+|      14 | 0x32BB      |       12987 |
+|      15 | 0x32BD      |       12989 |
+|      16 | 0x32BF      |       12991 |
+|      17 | 0x32BC      |       12988 |
+|      18 | 0x32BE      |       12990 |
+|      19 | 0x32C0      |       12992 |
+|      20 | 0x32BA      |       12986 |
+|      21 | 0x32C2      |       12994 |
+|      22 | 0x32C3      |       12995 |
 |      23 | 0x0800      |        2048 |
 |      24 | 0x0065      |         101 |
 |      25 | 0x0066      |         102 |
@@ -60,7 +60,7 @@
 |      35 | 0x006F      |         111 |
 |      36 | 0x000B      |          11 |
 |      37 | 0x0070      |         112 |
-|      38 | 0x32C3      |       12995 |
+|      38 | 0x32C4      |       12996 |
 |      39 | 0x0071      |         113 |
 |      40 | 0x0072      |         114 |
 |      41 | 0x0073      |         115 |
@@ -73,7 +73,7 @@
 |      48 | 0x007A      |         122 |
 |      49 | 0x007B      |         123 |
 |      50 | 0x007C      |         124 |
-|      51 | 0x32C4      |       12996 |
+|      51 | 0x32C5      |       12997 |
 |      52 | 0x007D      |         125 |
 |      53 | 0x007E      |         126 |
 |      54 | 0x007F      |         127 |
@@ -86,7 +86,7 @@
 |      61 | 0x0086      |         134 |
 |      62 | 0x0087      |         135 |
 |      63 | 0x0088      |         136 |
-|      64 | 0x32C5      |       12997 |
+|      64 | 0x32C6      |       12998 |
 |      65 | 0x0089      |         137 |
 |      66 | 0x008A      |         138 |
 |      67 | 0x008B      |         139 |
@@ -99,7 +99,7 @@
 |      74 | 0x0092      |         146 |
 |      75 | 0x0093      |         147 |
 |      76 | 0x0094      |         148 |
-|      77 | 0x32C6      |       12998 |
+|      77 | 0x32C7      |       12999 |
 |      78 | 0x0095      |         149 |
 |      79 | 0x0096      |         150 |
 |      80 | 0x0097      |         151 |
@@ -112,7 +112,7 @@
 |      87 | 0x009E      |         158 |
 |      88 | 0x009F      |         159 |
 |      89 | 0x00A0      |         160 |
-|      90 | 0x32C7      |       12999 |
+|      90 | 0x32C8      |       13000 |
 |      91 | 0x00A1      |         161 |
 |      92 | 0x00A2      |         162 |
 |      93 | 0x00A3      |         163 |
@@ -125,7 +125,7 @@
 |     100 | 0x00AA      |         170 |
 |     101 | 0x00AB      |         171 |
 |     102 | 0x00AC      |         172 |
-|     103 | 0x32C8      |       13000 |
+|     103 | 0x32C9      |       13001 |
 |     104 | 0x0600      |        1536 |
 |     105 | 0x00AD      |         173 |
 |     106 | 0x00AE      |         174 |
@@ -138,88 +138,88 @@
 |     113 | 0x00B5      |         181 |
 |     114 | 0x00B6      |         182 |
 |     115 | 0x00B7      |         183 |
-|     116 | 0x32CC      |       13004 |
-|     117 | 0x32CB      |       13003 |
-|     118 | 0x32C9      |       13001 |
-|     119 | 0x32AE      |       12974 |
-|     120 | 0x32AF      |       12975 |
-|     121 | 0x32B0      |       12976 |
-|     122 | 0x32B1      |       12977 |
-|     123 | 0x32B2      |       12978 |
-|     124 | 0x32B3      |       12979 |
-|     125 | 0x32B4      |       12980 |
-|     126 | 0x32B5      |       12981 |
-|     127 | 0x32B6      |       12982 |
-|     128 | 0x32B7      |       12983 |
-|     129 | 0x32A6      |       12966 |
+|     116 | 0x32CD      |       13005 |
+|     117 | 0x32CC      |       13004 |
+|     118 | 0x32CA      |       13002 |
+|     119 | 0x32AF      |       12975 |
+|     120 | 0x32B0      |       12976 |
+|     121 | 0x32B1      |       12977 |
+|     122 | 0x32B2      |       12978 |
+|     123 | 0x32B3      |       12979 |
+|     124 | 0x32B4      |       12980 |
+|     125 | 0x32B5      |       12981 |
+|     126 | 0x32B6      |       12982 |
+|     127 | 0x32B7      |       12983 |
+|     128 | 0x32B8      |       12984 |
+|     129 | 0x32A7      |       12967 |
 |     130 | 0x00C8      |         200 |
-|     131 | 0x32AA      |       12970 |
-|     132 | 0x32AB      |       12971 |
-|     133 | 0x32AC      |       12972 |
-|     134 | 0x32AD      |       12973 |
+|     131 | 0x32AB      |       12971 |
+|     132 | 0x32AC      |       12972 |
+|     133 | 0x32AD      |       12973 |
+|     134 | 0x32AE      |       12974 |
 |     135 | 0x000C      |          12 |
 |     136 | 0x000D      |          13 |
 |     137 | 0x000E      |          14 |
 |     138 | 0x000F      |          15 |
 |     139 | 0x0010      |          16 |
 |     140 | 0x0011      |          17 |
-|     141 | 0x32A7      |       12967 |
-|     142 | 0x32A8      |       12968 |
-|     143 | 0x32A9      |       12969 |
-|     144 | 0x32CD      |       13005 |
-|     145 | 0x32CE      |       13006 |
-|     146 | 0x32CF      |       13007 |
-|     147 | 0x32D0      |       13008 |
-|     148 | 0x32D1      |       13009 |
-|     149 | 0x32B8      |       12984 |
+|     141 | 0x32A8      |       12968 |
+|     142 | 0x32A9      |       12969 |
+|     143 | 0x32AA      |       12970 |
+|     144 | 0x32CE      |       13006 |
+|     145 | 0x32CF      |       13007 |
+|     146 | 0x32D0      |       13008 |
+|     147 | 0x32D1      |       13009 |
+|     148 | 0x32D2      |       13010 |
+|     149 | 0x32B9      |       12985 |
 
 ## String References
 
-- **12964**: Hear ye! Hear ye! For all the latest news on the Allied Campaign, you need look no further than [/Voucheramme of the Knights of the Scarlet Boar/Hinrich of the Republican Intelligence Agency/Dallus-Mallus of the Aurastery]!
-- **12965**: What knowledge do you seek? [Latest Campaign intel./Details on current war climate./Details on unit movements./More specific information./Nothing in particular.]
-- **12966**: View which information? [Our nation's strategy./Royal Army conditions./Republican Army conditions./Federation Army conditions./Orcish Host conditions./Shieldwarriors conditions./Theomilitary conditions./Dark Kindred conditions./Return.]
-- **12967**: ---[/The Royal Army of San d'Oria/The Republican Army of Bastok/The Federation Army of Windurst/The Orcish Empire/The Quadav Shieldwarriors/The Yagudo Theomilitary/The Dark Kindred]--- Funding: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Supplies: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Resources: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
-- **12968**: Skill: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Production: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Freelances: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
-- **12969**: Would you like to know more?
-- **12970**: Regarding battle strategies, our nation is currently focusing on [top-secret tactics/launching preemptive strikes/diversionary tactics/battleline preservation/stronghold defenses/personnel conditioning/personnel training/reconnaissance/sabotage]...
-- **12971**: ...while also considering [other options/the launching of preemptive strikes/diversionary tactics/battleline preservation/stronghold defenses/personnel conditioning/personnel training/reconnaissance/sabotage].
-- **12972**: Regarding internal policy, our nation is currently focusing on [areas not readily known/resource procurement/military supply procurement/logistics/stronghold outfitting/weapons production/weapons development/public security/stronghold fortification]...
-- **12973**: ...while also considering [other important issues/resource procurement/military supply procurement/logistics/stronghold outfitting/weapons production/weapons development/public security/stronghold fortification].
-- **12974**: What would you like to know? [About intel gathering./About the campaign region map./About reconnaissance levels./Return.]
-- **12975**: To plan successful battle strategies, current intelligence is essential. However, in this time of limited resources, it is impossible for my organization to collect all the information our nation requires.
-- **12976**: And this is why we work closely with other sectors within the army. Reconnaissance operations performed by [men/women] such as yourself provide us with valuable data on the enemy, thus enabling our leaders to select the best courses of action.
-- **12977**: By viewing this map, you can learn important information regarding each area within the Quon and Mindartia theaters. This includes area influence, area control, area defense, and area resources, among other things.
-- **12978**: The Allied War Council in Jeuno has deemed this information, as well as information regarding the morale and prosperity of each nation, open to all members of the Allied Forces of Altana.
-- **12979**: This information can be viewed at any time by opening the Allied Campaign map and moving the cursor over various locations.
-- **12980**: However, to ensure another army does not receive an unfair advantage on the battlefield, information dealing with national funding and strategies is well protected by each respective nation, and rarely made available to even those who serve under their flag.
-- **12981**: A nation's reconnaissance level indicates its current intel-gathering capabilities.
-- **12982**: The higher the level, the more plentiful and detailed the information we can offer you. In extreme cases, we may even be allowed to give you insight into our nation's battle strategies.
-- **12983**: However, without a constant flow of new intelligence, a nation's reconnaissance level will gradually fall. That is why we must rely on volunteers like you to keep us in the light!
-- **12984**: If you seek information on your nation's campaign efforts, you're looking in the wrong place.
-- **12985**: No new information available.
-- **12986**: Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly.
-- **12987**: The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!
-- **12988**: Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly.
-- **12989**: The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!
-- **12990**: Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly.
-- **12991**: The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!
-- **12992**: Our army's current reconnaissance ranking is $0.
-- **12993**: Which force do you wish to inquire about? [None./The Royal Army of San d'Oria./The Republican Army of Bastok./The Federal Forces of Windurst./The Orcish Hosts./The Quadav Shieldwarriors./The Yagudo Theomilitary./The Dark Kindred.]
-- **12994**: Which unit would you like to know about? [The Royal Guards./The Knights of the Savage Hound./The Knights of the Scarlet Boar./The Knights of Norvallen./The Order of the Royal Knights./The Knights of Aragoneu./The Knights of the Silver Fox./The Knights of the Red Rose./The Knights of the Crimson Wolf./The Order of the Temple Knights./The Knights of the Gold Badger./The Knights of the Onyx Sable.]
-- **12995**: Which unit would you like to know about? [The Iron Musketeers First Brigade./The Republican Legion First Division./The Republican Legion Second Division./The Gold Musketeers First Brigade./The Iron Musketeers Eighth Brigade./The Third Division Infantry./The Second Division Scouts./The First Division Field Musicians./The Second Division Heavy Infantry./The First Division Cavaliers./The Fourth Division Centuria./The First Division Centuria.]
-- **12996**: Which unit would you like to know about? [The Aquarian War Warlocks./The Scorpion War Warlocks./The Libran War Warlocks./The Python Mercenaries./The Wildcat Volunteers./The Capricornian War Warlocks./The Patriarch Protectors./The Cougar Volunteers./The Crocodile Mercenaries./The Ariesan War Warlocks./The Piscean War Warlocks./The Geminian War Warlocks.]
-- **12997**: Which unit would you like to know about? [The Steelhide Horde./Gwajboj's Gutrenders./The Spinebeak Horde./Clan Reaper./The Moonfang Pack./Gnadgad's Dismemberment Brigade./Gudrud's Shieldchewers./Prozpuz' Throatrippers./Gochakzuk's Gravemakers./Clan Longtooth./Clan Bear./Clan Wolf.]
-- **12998**: Which unit would you like to know about? [The Di'Dha Elite Guard./The Waughroon Armored Division./The Beadeaux Vanguard./The Qulun Armored Division./The Go'Bhu Elite Raiders./The Dadough Vanguard./The No'Mho Elite Guard./The Gi'Ghi Elite Guard./The Vhuud Vanguard./The Go'Dha Elite Raiders./The Bo'Dho Elite Guard./The Mo'Gho Elite Raiders.]
-- **12999**: Which unit would you like to know about? [The Templars./The Divine Disseminators./The Divine Assassins./The Divine Ascetics./The Plenilune Ronin./The Divine Inspirers./The Divine Sentinels./The Divine Inciters./The Divine Paradigms./The Divine Martyrs./The Divine Pilgrims./The Divine Punishers.]
-- **13000**: Which unit would you like to know about? [The Shadowhorn Battalion./The Shadowhand Battalion./The Shadowfang Battalion./The Shadoweye Battalion./The Shadowwing Battalion./The Shadowsoul Battalion./The Shadowclaw Battalion./The Shadowbreath Battalion./The Shadowhind Battalion./...]
-- **13001**: At present, that unit is [awaiting further orders in/engaged in battle preparations for an attack on/mobilizing in the vicinity of/returning home following a successful campaign in/executing a strategic retreat following a failed campaign in/reorganizing their ranks in the vicinity of] [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room].
-- **13003**: Regrettably, the whereabouts of that unit are currently unknown. We have received word, however, that they are [awaiting further orders/engaged in battle preparations/mobilizing/returning home following a successful campaign/executing a strategic retreat following a failed campaign/reorganizing their ranks].
-- **13004**: We have received no intelligence regarding that unit's current status.
-- **13005**: $3G$3$3AL$P11,$P15q$P13\`%ep_D->3"$3473992 $P13GRL$P10N$U $P16!$P15{L$P10N$U
-- **13006**: $P10N$U7i$3$1316172$P11\`MH [$P11f1$20$P11\`/$P11f2$20$P11\`/$P11f3$20$P11\`/$P11f4$20$P11\`/$P11f5$20$P11\`/$P11f6$20$P11\`/$P11f7$20$P11\`/$P11f8$20$P11\`/$P11f9$20$P11\`/$P11f10$20$P11\`]
-- **13007**: $P11<$4718890 [1""/4/5/6/7/8/9/10]
-- **13008**: $P11Iq>$20$P11\`L;$]<Player>J$P12uM$2687597gH" $3G$3$3APF$P15j$17 $3G$3$3AQ$3998261$3G$3$3A $3G$3$3ARF$6$T$P12n$P13_A $3G$3$3ASF$6$T$P12n$P13_B $3G$3$3ATF$6$T$P12n$P13_C $3G$3$3AU$1182540$P13_ $3G$3$3AVF$3_$3$3W$3 $3$7$3G$3$3AWF$3{$3X$3f$3B$3$21X%Mi$P16"$@$21$4587864$3U$3 [$3J$3o[$3hi$P16"$@$21$5177936F$3Y$3$3@[$3 [$i$O$si$P16"$@$21$5243472F$3Y$3$3@[$3 [$i$P13\`$si$P16"$@$21$5309008$5507660i$P16"$@$21j]
-- **13009**: $P11Iq>$20$P11\`L$s [5MH/ [$P11R [@$6E i/$o$0$P14up$P10i_D"i/$l$P10m$s$P13.$6E i/$l$P10mI$P10,w5$2097733i/$l$P10mI$8$P14s5$2097733i/$20$P11\`p$D$P15R$P10,$6E i/i$P16"$@$21j/i$P16"$@$21j]
+- **12965**: Hear ye! Hear ye! For all the latest news on the Allied Campaign, you need look no further than [/Voucheramme of the Knights of the Scarlet Boar/Hinrich of the Republican Intelligence Agency/Dallus-Mallus of the Aurastery]!
+- **12966**: What knowledge do you seek? [Latest Campaign intel./Details on current war climate./Details on unit movements./More specific information./Nothing in particular.]
+- **12967**: View which information? [Our nation's strategy./Royal Army conditions./Republican Army conditions./Federation Army conditions./Orcish Host conditions./Shieldwarriors conditions./Theomilitary conditions./Dark Kindred conditions./Return.]
+- **12968**: ---[/The Royal Army of San d'Oria/The Republican Army of Bastok/The Federation Army of Windurst/The Orcish Empire/The Quadav Shieldwarriors/The Yagudo Theomilitary/The Dark Kindred]--- Funding: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Supplies: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Resources: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
+- **12969**: Skill: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Production: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Freelances: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]
+- **12970**: Would you like to know more?
+- **12971**: Regarding battle strategies, our nation is currently focusing on [top-secret tactics/launching preemptive strikes/diversionary tactics/battleline preservation/stronghold defenses/personnel conditioning/personnel training/reconnaissance/sabotage]...
+- **12972**: ...while also considering [other options/the launching of preemptive strikes/diversionary tactics/battleline preservation/stronghold defenses/personnel conditioning/personnel training/reconnaissance/sabotage].
+- **12973**: Regarding internal policy, our nation is currently focusing on [areas not readily known/resource procurement/military supply procurement/logistics/stronghold outfitting/weapons production/weapons development/public security/stronghold fortification]...
+- **12974**: ...while also considering [other important issues/resource procurement/military supply procurement/logistics/stronghold outfitting/weapons production/weapons development/public security/stronghold fortification].
+- **12975**: What would you like to know? [About intel gathering./About the campaign region map./About reconnaissance levels./Return.]
+- **12976**: To plan successful battle strategies, current intelligence is essential. However, in this time of limited resources, it is impossible for my organization to collect all the information our nation requires.
+- **12977**: And this is why we work closely with other sectors within the army. Reconnaissance operations performed by [men/women] such as yourself provide us with valuable data on the enemy, thus enabling our leaders to select the best courses of action.
+- **12978**: By viewing this map, you can learn important information regarding each area within the Quon and Mindartia theaters. This includes area influence, area control, area defense, and area resources, among other things.
+- **12979**: The Allied War Council in Jeuno has deemed this information, as well as information regarding the morale and prosperity of each nation, open to all members of the Allied Forces of Altana.
+- **12980**: This information can be viewed at any time by opening the Allied Campaign map and moving the cursor over various locations.
+- **12981**: However, to ensure another army does not receive an unfair advantage on the battlefield, information dealing with national funding and strategies is well protected by each respective nation, and rarely made available to even those who serve under their flag.
+- **12982**: A nation's reconnaissance level indicates its current intel-gathering capabilities.
+- **12983**: The higher the level, the more plentiful and detailed the information we can offer you. In extreme cases, we may even be allowed to give you insight into our nation's battle strategies.
+- **12984**: However, without a constant flow of new intelligence, a nation's reconnaissance level will gradually fall. That is why we must rely on volunteers like you to keep us in the light!
+- **12985**: If you seek information on your nation's campaign efforts, you're looking in the wrong place.
+- **12986**: No new information available.
+- **12987**: Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly.
+- **12988**: The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!
+- **12989**: Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly.
+- **12990**: The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!
+- **12991**: Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly.
+- **12992**: The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!
+- **12993**: Our army's current reconnaissance ranking is $0.
+- **12994**: Which force do you wish to inquire about? [None./The Royal Army of San d'Oria./The Republican Army of Bastok./The Federal Forces of Windurst./The Orcish Hosts./The Quadav Shieldwarriors./The Yagudo Theomilitary./The Dark Kindred.]
+- **12995**: Which unit would you like to know about? [The Royal Guards./The Knights of the Savage Hound./The Knights of the Scarlet Boar./The Knights of Norvallen./The Order of the Royal Knights./The Knights of Aragoneu./The Knights of the Silver Fox./The Knights of the Red Rose./The Knights of the Crimson Wolf./The Order of the Temple Knights./The Knights of the Gold Badger./The Knights of the Onyx Sable.]
+- **12996**: Which unit would you like to know about? [The Iron Musketeers First Brigade./The Republican Legion First Division./The Republican Legion Second Division./The Gold Musketeers First Brigade./The Iron Musketeers Eighth Brigade./The Third Division Infantry./The Second Division Scouts./The First Division Field Musicians./The Second Division Heavy Infantry./The First Division Cavaliers./The Fourth Division Centuria./The First Division Centuria.]
+- **12997**: Which unit would you like to know about? [The Aquarian War Warlocks./The Scorpion War Warlocks./The Libran War Warlocks./The Python Mercenaries./The Wildcat Volunteers./The Capricornian War Warlocks./The Patriarch Protectors./The Cougar Volunteers./The Crocodile Mercenaries./The Ariesan War Warlocks./The Piscean War Warlocks./The Geminian War Warlocks.]
+- **12998**: Which unit would you like to know about? [The Steelhide Horde./Gwajboj's Gutrenders./The Spinebeak Horde./Clan Reaper./The Moonfang Pack./Gnadgad's Dismemberment Brigade./Gudrud's Shieldchewers./Prozpuz' Throatrippers./Gochakzuk's Gravemakers./Clan Longtooth./Clan Bear./Clan Wolf.]
+- **12999**: Which unit would you like to know about? [The Di'Dha Elite Guard./The Waughroon Armored Division./The Beadeaux Vanguard./The Qulun Armored Division./The Go'Bhu Elite Raiders./The Dadough Vanguard./The No'Mho Elite Guard./The Gi'Ghi Elite Guard./The Vhuud Vanguard./The Go'Dha Elite Raiders./The Bo'Dho Elite Guard./The Mo'Gho Elite Raiders.]
+- **13000**: Which unit would you like to know about? [The Templars./The Divine Disseminators./The Divine Assassins./The Divine Ascetics./The Plenilune Ronin./The Divine Inspirers./The Divine Sentinels./The Divine Inciters./The Divine Paradigms./The Divine Martyrs./The Divine Pilgrims./The Divine Punishers.]
+- **13001**: Which unit would you like to know about? [The Shadowhorn Battalion./The Shadowhand Battalion./The Shadowfang Battalion./The Shadoweye Battalion./The Shadowwing Battalion./The Shadowsoul Battalion./The Shadowclaw Battalion./The Shadowbreath Battalion./The Shadowhind Battalion./...]
+- **13002**: At present, that unit is [awaiting further orders in/engaged in battle preparations for an attack on/mobilizing in the vicinity of/returning home following a successful campaign in/executing a strategic retreat following a failed campaign in/reorganizing their ranks in the vicinity of] [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room].
+- **13004**: Regrettably, the whereabouts of that unit are currently unknown. We have received word, however, that they are [awaiting further orders/engaged in battle preparations/mobilizing/returning home following a successful campaign/executing a strategic retreat following a failed campaign/reorganizing their ranks].
+- **13005**: We have received no intelligence regarding that unit's current status.
+- **13006**: $3G$3$3AL$P11,$P15q$P13\`%ep_D->3"$3473992 $P13GRL$P10N$U $P16!$P15{L$P10N$U
+- **13007**: $P10N$U7i$3$1316172$P11\`MH [$P11f1$20$P11\`/$P11f2$20$P11\`/$P11f3$20$P11\`/$P11f4$20$P11\`/$P11f5$20$P11\`/$P11f6$20$P11\`/$P11f7$20$P11\`/$P11f8$20$P11\`/$P11f9$20$P11\`/$P11f10$20$P11\`]
+- **13008**: $P11<$4718890 [1""/4/5/6/7/8/9/10]
+- **13009**: $P11Iq>$20$P11\`L;$]<Player>J$P12uM$2687597gH" $3G$3$3APF$P15j$17 $3G$3$3AQ$3998261$3G$3$3A $3G$3$3ARF$6$T$P12n$P13_A $3G$3$3ASF$6$T$P12n$P13_B $3G$3$3ATF$6$T$P12n$P13_C $3G$3$3AU$1182540$P13_ $3G$3$3AVF$3_$3$3W$3 $3$7$3G$3$3AWF$3{$3X$3f$3B$3$21X%Mi$P16"$@$21$4587864$3U$3 [$3J$3o[$3hi$P16"$@$21$5177936F$3Y$3$3@[$3 [$i$O$si$P16"$@$21$5243472F$3Y$3$3@[$3 [$i$P13\`$si$P16"$@$21$5309008$5507660i$P16"$@$21j]
+- **13010**: $P11Iq>$20$P11\`L$s [5MH/ [$P11R [@$6E i/$o$0$P14up$P10i_D"i/$l$P10m$s$P13.$6E i/$l$P10mI$P10,w5$2097733i/$l$P10mI$8$P14s5$2097733i/$20$P11\`p$D$P15R$P10,$6E i/i$P16"$@$21j/i$P16"$@$21j]
 
 ## Events
 
@@ -845,16 +845,16 @@ SUBROUTINE_01A4:
  86: 0x01A7 [0x02] IF !(ExtData[1]->WorkLocal[60] >= 9*) GOTO 0x01B2
  87: 0x01AF [0x01] GOTO 0x0020
  88: 0x01B2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 89: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12964*)
+ 89: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12965*)
     → "Hear ye! Hear ye! For all the latest news on the Allied Campaign, you need look no further than [/Voucheramme of the Knights of the Scarlet Boar/Hinrich of the Republican Intelligence Agency/Dallus-Mallus of the Aurastery]!"
  90: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x01BB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 92: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
+ 92: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12993*)
     → "Our army's current reconnaissance ranking is $0."
  93: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01C4:
- 94: 0x01C4 [0x24] CREATE_DIALOG(message_id=12965*, default_option=0*, option_flags=0*)
+ 94: 0x01C4 [0x24] CREATE_DIALOG(message_id=12966*, default_option=0*, option_flags=0*)
     → "What knowledge do you seek? [Latest Campaign intel./Details on current war climate./Details on unit movements./More specific information./Nothing in particular.]"
  95: 0x01CB [0x25] WAIT_DIALOG_SELECT()
  96: 0x01CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01DA
@@ -893,15 +893,15 @@ SUBROUTINE_021C:
 123: 0x025E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
 124: 0x0263 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 125: 0x0268 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0274
-126: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+126: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 127: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x0274 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0280
-129: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+129: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 130: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0280 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x028C
-132: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+132: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 133: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x028C [0x01] GOTO 0x02D2
@@ -911,15 +911,15 @@ SUBROUTINE_021C:
 138: 0x02A1 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
 139: 0x02A6 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 140: 0x02AB [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02B7
-141: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+141: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 142: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x02B7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02C3
-144: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+144: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 145: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x02C3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02CF
-147: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+147: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 148: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x02CF [0x01] GOTO 0x02D2
@@ -939,15 +939,15 @@ SUBROUTINE_02D2:
 161: 0x030F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[23]
 162: 0x0314 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 163: 0x0319 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0325
-164: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+164: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 165: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0325 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0331
-167: 0x032D [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+167: 0x032D [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 168: 0x0330 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0331 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x033D
-170: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+170: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 171: 0x033C [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x033D [0x01] GOTO 0x0383
@@ -957,15 +957,15 @@ SUBROUTINE_02D2:
 176: 0x0352 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[23]
 177: 0x0357 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 178: 0x035C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0368
-179: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+179: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 180: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0368 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0374
-182: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+182: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 183: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0374 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0380
-185: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+185: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 186: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0380 [0x01] GOTO 0x0383
@@ -985,15 +985,15 @@ SUBROUTINE_0383:
 199: 0x03C0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[26]
 200: 0x03C5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 201: 0x03CA [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x03D6
-202: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+202: 0x03D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 203: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x03D6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x03E2
-205: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+205: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 206: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x03E2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x03EE
-208: 0x03EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+208: 0x03EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 209: 0x03ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x03EE [0x01] GOTO 0x0434
@@ -1003,15 +1003,15 @@ SUBROUTINE_0383:
 214: 0x0403 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[26]
 215: 0x0408 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 216: 0x040D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0419
-217: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+217: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 218: 0x0418 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x0419 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0425
-220: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+220: 0x0421 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 221: 0x0424 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x0425 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0431
-223: 0x042D [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+223: 0x042D [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 224: 0x0430 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x0431 [0x01] GOTO 0x0434
@@ -1031,15 +1031,15 @@ SUBROUTINE_0434:
 237: 0x0471 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[29]
 238: 0x0476 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 239: 0x047B [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0487
-240: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+240: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 241: 0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x0487 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0493
-243: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+243: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 244: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0493 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x049F
-246: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+246: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 247: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x049F [0x01] GOTO 0x04E5
@@ -1049,15 +1049,15 @@ SUBROUTINE_0434:
 252: 0x04B4 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[29]
 253: 0x04B9 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 254: 0x04BE [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x04CA
-255: 0x04C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+255: 0x04C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 256: 0x04C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x04CA [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x04D6
-258: 0x04D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+258: 0x04D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 259: 0x04D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x04E2
-261: 0x04DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+261: 0x04DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 262: 0x04E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x04E2 [0x01] GOTO 0x04E5
@@ -1077,15 +1077,15 @@ SUBROUTINE_04E5:
 275: 0x0522 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[32]
 276: 0x0527 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 277: 0x052C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0538
-278: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+278: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 279: 0x0537 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x0538 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0544
-281: 0x0540 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+281: 0x0540 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 282: 0x0543 [0x23] WAIT_FOR_DIALOG_INTERACTION
 283: 0x0544 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0550
-284: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+284: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 285: 0x054F [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0550 [0x01] GOTO 0x0596
@@ -1095,15 +1095,15 @@ SUBROUTINE_04E5:
 290: 0x0565 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[32]
 291: 0x056A [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 292: 0x056F [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x057B
-293: 0x0577 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+293: 0x0577 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 294: 0x057A [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x057B [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0587
-296: 0x0583 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+296: 0x0583 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 297: 0x0586 [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x0587 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0593
-299: 0x058F [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+299: 0x058F [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 300: 0x0592 [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x0593 [0x01] GOTO 0x0596
@@ -1123,15 +1123,15 @@ SUBROUTINE_0596:
 313: 0x05D3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[35]
 314: 0x05D8 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 315: 0x05DD [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x05E9
-316: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+316: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 317: 0x05E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x05E9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x05F5
-319: 0x05F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+319: 0x05F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 320: 0x05F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x05F5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0601
-322: 0x05FD [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+322: 0x05FD [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 323: 0x0600 [0x23] WAIT_FOR_DIALOG_INTERACTION
 324: 0x0601 [0x01] GOTO 0x0647
@@ -1141,15 +1141,15 @@ SUBROUTINE_0596:
 328: 0x0616 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[35]
 329: 0x061B [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 330: 0x0620 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x062C
-331: 0x0628 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+331: 0x0628 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 332: 0x062B [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x062C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0638
-334: 0x0634 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+334: 0x0634 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 335: 0x0637 [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x0638 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0644
-337: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+337: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 338: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x0644 [0x01] GOTO 0x0647
@@ -1169,15 +1169,15 @@ SUBROUTINE_0647:
 351: 0x0684 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[38]
 352: 0x0689 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 353: 0x068E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x069A
-354: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
+354: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Steelhide Horde/Gwajboj's Gutrenders/the Spinebeak Horde/Clan Reaper/the Moonfang Pack/Gnadgad's Dismemberment Brigade/Gudrud's Shieldchewers/Prozpuz' Throatrippers/Gochakzuk's Gravemakers/Clan Longtooth] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Orcish Hosts. Friendly troops have begun to reinforce allied defenses accordingly."
 355: 0x0699 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x069A [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x06A6
-357: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
+357: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Di'Dha Elite Guard/the Waughroon Armored Division/the Beadeaux Vanguard/the Qulun Armored Division/the Go'Bhu Elite Raiders/the Dadough Vanguard/the No'Mho Elite Guard/the Gi'Ghi Elite Guard/the Vhuud Vanguard/the Go'Dha Elite Raiders] [/and one additional unit/and two additional units/and three additional units/and four additional units/and five additional units/and six additional units/and seven additional units/and eight additional units/and nine additional units/and ten additional units/and eleven additional units] of the Quadav Shieldwarriors. Friendly troops have begun to reinforce allied defenses accordingly."
 358: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x06A6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x06B2
-360: 0x06AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
+360: 0x06AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
     → "Enemy intelligence indicates that an attack on [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room] is currently being staged by [UNKNOWN/the Templars/the Divine Disseminators/the Divine Assassins/the Divine Ascetics/the Plenilune Ronin/the Divine Inspirers/the Divine Sentinels/the Divine Inciters/the Divine Paradigms/the Divine Martyrs][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Yagudo Theomilitary. Friendly troops have begun to reinforce allied defenses accordingly."
 361: 0x06B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x06B2 [0x01] GOTO 0x06F8
@@ -1187,28 +1187,28 @@ SUBROUTINE_0647:
 366: 0x06C7 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[38]
 367: 0x06CC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[61]
 368: 0x06D1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x06DD
-369: 0x06D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12987*)
+369: 0x06D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12988*)
     → "The [UNKNOWN/Royal Guards/Knights of the Savage Hound/Knights of the Scarlet Boar/Knights of Norvallen/Order of the Royal Knights/Knights of Aragoneu/Knights of the Silver Fox/Knights of the Red Rose/Knights of the Crimson Wolf/Order of the Temple Knights][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Royal Army of San d'Oria have begun operations to seize the Beastman occupied territory of [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 370: 0x06DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x06DD [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x06E9
-372: 0x06E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12989*)
+372: 0x06E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12990*)
     → "The [UNKNOWN/Iron Musketeers First Brigade/Republican Legion First Division/Republican Legion Second Division/Gold Musketeers First Brigade/Iron Musketeers Eighth Brigade/Third Division Infantry/Second Division Scouts/First Division Field Musicians/Second Division Heavy Infantry/First Division Cavaliers][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Republican Army of Bastok have begun operations to seize the Beastman occupied territory of [UNKNOWN/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 373: 0x06E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x06E9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x06F5
-375: 0x06F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12991*)
+375: 0x06F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12992*)
     → "The [UNKNOWN/Aquarian War Warlocks/Scorpion War Warlocks/Libran War Warlocks/Python Mercenaries/Wildcat Volunteers/Capricornian War Warlocks/Patriarch Protectors/Cougar Volunteers/Crocodile Mercenaries/Ariesan War Warlocks][/ and one additional unit/ and two additional units/ and three additional units/ and four additional units/ and five additional units/ and six additional units/ and seven additional units/ and eight additional units/ and nine additional units/ and ten additional units/ and eleven additional units] of the Federal Forces of Windurst have begun operations to seize the Beastman occupied territory of [UNKNOWN/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]. Battle is on the verge of breaking out!"
 376: 0x06F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x06F5 [0x01] GOTO 0x06F8
 
 SUBROUTINE_06F8:
 378: 0x06F8 [0x02] IF !(ExtData[1]->WorkLocal[62] == 0*) GOTO 0x0704
-379: 0x0700 [0x1D] PRINT_EVENT_MESSAGE(message_id=12985*)
+379: 0x0700 [0x1D] PRINT_EVENT_MESSAGE(message_id=12986*)
     → "No new information available."
 380: 0x0703 [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x0704 [0x1B] RETURN
 
 SUBROUTINE_0705:
-382: 0x0705 [0x24] CREATE_DIALOG(message_id=12993*, default_option=0*, option_flags=0*)
+382: 0x0705 [0x24] CREATE_DIALOG(message_id=12994*, default_option=0*, option_flags=0*)
     → "Which force do you wish to inquire about? [None./The Royal Army of San d'Oria./The Republican Army of Bastok./The Federal Forces of Windurst./The Orcish Hosts./The Quadav Shieldwarriors./The Yagudo Theomilitary./The Dark Kindred.]"
 383: 0x070C [0x25] WAIT_DIALOG_SELECT()
 384: 0x070D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x071B
@@ -1217,7 +1217,7 @@ SUBROUTINE_0705:
 SUBROUTINE_07EE:
 386: 0x07EE [0x01] GOTO 0x0CE8
 387: 0x07F1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x08C7
-388: 0x07F9 [0x24] CREATE_DIALOG(message_id=12995*, default_option=0*, option_flags=2048*)
+388: 0x07F9 [0x24] CREATE_DIALOG(message_id=12996*, default_option=0*, option_flags=2048*)
     → "Which unit would you like to know about? [The Iron Musketeers First Brigade./The Republican Legion First Division./The Republican Legion Second Division./The Gold Musketeers First Brigade./The Iron Musketeers Eighth Brigade./The Third Division Infantry./The Second Division Scouts./The First Division Field Musicians./The Second Division Heavy Infantry./The First Division Cavaliers./The Fourth Division Centuria./The First Division Centuria.]"
 389: 0x0800 [0x25] WAIT_DIALOG_SELECT()
 390: 0x0801 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0811
@@ -1261,7 +1261,7 @@ SUBROUTINE_07EE:
 SUBROUTINE_08C4:
 427: 0x08C4 [0x01] GOTO 0x0CE8
 428: 0x08C7 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x099D
-429: 0x08CF [0x24] CREATE_DIALOG(message_id=12996*, default_option=0*, option_flags=2048*)
+429: 0x08CF [0x24] CREATE_DIALOG(message_id=12997*, default_option=0*, option_flags=2048*)
     → "Which unit would you like to know about? [The Aquarian War Warlocks./The Scorpion War Warlocks./The Libran War Warlocks./The Python Mercenaries./The Wildcat Volunteers./The Capricornian War Warlocks./The Patriarch Protectors./The Cougar Volunteers./The Crocodile Mercenaries./The Ariesan War Warlocks./The Piscean War Warlocks./The Geminian War Warlocks.]"
 430: 0x08D6 [0x25] WAIT_DIALOG_SELECT()
 431: 0x08D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08E7
@@ -1305,7 +1305,7 @@ SUBROUTINE_08C4:
 SUBROUTINE_099A:
 468: 0x099A [0x01] GOTO 0x0CE8
 469: 0x099D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0A73
-470: 0x09A5 [0x24] CREATE_DIALOG(message_id=12997*, default_option=0*, option_flags=2048*)
+470: 0x09A5 [0x24] CREATE_DIALOG(message_id=12998*, default_option=0*, option_flags=2048*)
     → "Which unit would you like to know about? [The Steelhide Horde./Gwajboj's Gutrenders./The Spinebeak Horde./Clan Reaper./The Moonfang Pack./Gnadgad's Dismemberment Brigade./Gudrud's Shieldchewers./Prozpuz' Throatrippers./Gochakzuk's Gravemakers./Clan Longtooth./Clan Bear./Clan Wolf.]"
 471: 0x09AC [0x25] WAIT_DIALOG_SELECT()
 472: 0x09AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09BD
@@ -1349,7 +1349,7 @@ SUBROUTINE_099A:
 SUBROUTINE_0A70:
 509: 0x0A70 [0x01] GOTO 0x0CE8
 510: 0x0A73 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0B49
-511: 0x0A7B [0x24] CREATE_DIALOG(message_id=12998*, default_option=0*, option_flags=2048*)
+511: 0x0A7B [0x24] CREATE_DIALOG(message_id=12999*, default_option=0*, option_flags=2048*)
     → "Which unit would you like to know about? [The Di'Dha Elite Guard./The Waughroon Armored Division./The Beadeaux Vanguard./The Qulun Armored Division./The Go'Bhu Elite Raiders./The Dadough Vanguard./The No'Mho Elite Guard./The Gi'Ghi Elite Guard./The Vhuud Vanguard./The Go'Dha Elite Raiders./The Bo'Dho Elite Guard./The Mo'Gho Elite Raiders.]"
 512: 0x0A82 [0x25] WAIT_DIALOG_SELECT()
 513: 0x0A83 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A93
@@ -1393,7 +1393,7 @@ SUBROUTINE_0A70:
 SUBROUTINE_0B46:
 550: 0x0B46 [0x01] GOTO 0x0CE8
 551: 0x0B49 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0C1F
-552: 0x0B51 [0x24] CREATE_DIALOG(message_id=12999*, default_option=0*, option_flags=2048*)
+552: 0x0B51 [0x24] CREATE_DIALOG(message_id=13000*, default_option=0*, option_flags=2048*)
     → "Which unit would you like to know about? [The Templars./The Divine Disseminators./The Divine Assassins./The Divine Ascetics./The Plenilune Ronin./The Divine Inspirers./The Divine Sentinels./The Divine Inciters./The Divine Paradigms./The Divine Martyrs./The Divine Pilgrims./The Divine Punishers.]"
 553: 0x0B58 [0x25] WAIT_DIALOG_SELECT()
 554: 0x0B59 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B69
@@ -1437,7 +1437,7 @@ SUBROUTINE_0B46:
 SUBROUTINE_0C1C:
 591: 0x0C1C [0x01] GOTO 0x0CE8
 592: 0x0C1F [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0CE5
-593: 0x0C27 [0x24] CREATE_DIALOG(message_id=13000*, default_option=0*, option_flags=1536*)
+593: 0x0C27 [0x24] CREATE_DIALOG(message_id=13001*, default_option=0*, option_flags=1536*)
     → "Which unit would you like to know about? [The Shadowhorn Battalion./The Shadowhand Battalion./The Shadowfang Battalion./The Shadoweye Battalion./The Shadowwing Battalion./The Shadowsoul Battalion./The Shadowclaw Battalion./The Shadowbreath Battalion./The Shadowhind Battalion./...]"
 594: 0x0C2E [0x25] WAIT_DIALOG_SELECT()
 595: 0x0C2F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C3F
@@ -1486,17 +1486,17 @@ SUBROUTINE_0CE8:
 634: 0x0CF4 [0x1A] CALL_SUBROUTINE(address=0x1D45)
 635: 0x0CF7 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0D15
 636: 0x0CFF [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0D0E
-637: 0x0D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=13004*)
+637: 0x0D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=13005*)
     → "We have received no intelligence regarding that unit's current status."
 638: 0x0D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 639: 0x0D0B [0x01] GOTO 0x0D12
-640: 0x0D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=13003*)
+640: 0x0D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=13004*)
     → "Regrettably, the whereabouts of that unit are currently unknown. We have received word, however, that they are [awaiting further orders/engaged in battle preparations/mobilizing/returning home following a successful campaign/executing a strategic retreat following a failed campaign/reorganizing their ranks]."
 641: 0x0D11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0D12:
 642: 0x0D12 [0x01] GOTO 0x0D19
-643: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=13001*)
+643: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=13002*)
     → "At present, that unit is [awaiting further orders in/engaged in battle preparations for an attack on/mobilizing in the vicinity of/returning home following a successful campaign in/executing a strategic retreat following a failed campaign in/reorganizing their ranks in the vicinity of] [UNKNOWN/San d'Oria/East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs/La Vaule/The Eldieme Necropolis/Bastok/North Gustaberg/Grauberg/the Pashhow Marshlands/the Rolanberry Fields/Beadeaux/Crawlers' Nest/Windurst/West Sarutabaruta/Fort Karugo-Narugo/the Meriphataud Mountains/Sauromugue Champaign/Castle Oztroja/Garlaige Citadel/Beaucedine Glacier/Xarcabard/Castle Zvahl Baileys/Castle Zvahl Keep/the Throne Room]."
 644: 0x0D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1507,39 +1507,39 @@ SUBROUTINE_0D1C:
 646: 0x0D1C [0x1B] RETURN
 
 SUBROUTINE_0D1D:
-647: 0x0D1D [0x24] CREATE_DIALOG(message_id=12974*, default_option=0*, option_flags=0*)
+647: 0x0D1D [0x24] CREATE_DIALOG(message_id=12975*, default_option=0*, option_flags=0*)
     → "What would you like to know? [About intel gathering./About the campaign region map./About reconnaissance levels./Return.]"
 648: 0x0D24 [0x25] WAIT_DIALOG_SELECT()
 649: 0x0D25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D38
-650: 0x0D2D [0x1D] PRINT_EVENT_MESSAGE(message_id=12975*)
+650: 0x0D2D [0x1D] PRINT_EVENT_MESSAGE(message_id=12976*)
     → "To plan successful battle strategies, current intelligence is essential. However, in this time of limited resources, it is impossible for my organization to collect all the information our nation requires."
 651: 0x0D30 [0x23] WAIT_FOR_DIALOG_INTERACTION
-652: 0x0D31 [0x1D] PRINT_EVENT_MESSAGE(message_id=12976*)
+652: 0x0D31 [0x1D] PRINT_EVENT_MESSAGE(message_id=12977*)
     → "And this is why we work closely with other sectors within the army. Reconnaissance operations performed by [men/women] such as yourself provide us with valuable data on the enemy, thus enabling our leaders to select the best courses of action."
 653: 0x0D34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 654: 0x0D35 [0x01] GOTO 0x0D7A
 655: 0x0D38 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D55
-656: 0x0D40 [0x1D] PRINT_EVENT_MESSAGE(message_id=12977*)
+656: 0x0D40 [0x1D] PRINT_EVENT_MESSAGE(message_id=12978*)
     → "By viewing this map, you can learn important information regarding each area within the Quon and Mindartia theaters. This includes area influence, area control, area defense, and area resources, among other things."
 657: 0x0D43 [0x23] WAIT_FOR_DIALOG_INTERACTION
-658: 0x0D44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12978*)
+658: 0x0D44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12979*)
     → "The Allied War Council in Jeuno has deemed this information, as well as information regarding the morale and prosperity of each nation, open to all members of the Allied Forces of Altana."
 659: 0x0D47 [0x23] WAIT_FOR_DIALOG_INTERACTION
-660: 0x0D48 [0x48] [System] [12979*]:
+660: 0x0D48 [0x48] [System] [12980*]:
     → "This information can be viewed at any time by opening the Allied Campaign map and moving the cursor over various locations."
 661: 0x0D4B [0x1C] WAIT(120* ticks)
-662: 0x0D4E [0x1D] PRINT_EVENT_MESSAGE(message_id=12980*)
+662: 0x0D4E [0x1D] PRINT_EVENT_MESSAGE(message_id=12981*)
     → "However, to ensure another army does not receive an unfair advantage on the battlefield, information dealing with national funding and strategies is well protected by each respective nation, and rarely made available to even those who serve under their flag."
 663: 0x0D51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 664: 0x0D52 [0x01] GOTO 0x0D7A
 665: 0x0D55 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0D6C
-666: 0x0D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=12981*)
+666: 0x0D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=12982*)
     → "A nation's reconnaissance level indicates its current intel-gathering capabilities."
 667: 0x0D60 [0x23] WAIT_FOR_DIALOG_INTERACTION
-668: 0x0D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=12982*)
+668: 0x0D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=12983*)
     → "The higher the level, the more plentiful and detailed the information we can offer you. In extreme cases, we may even be allowed to give you insight into our nation's battle strategies."
 669: 0x0D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
-670: 0x0D65 [0x1D] PRINT_EVENT_MESSAGE(message_id=12983*)
+670: 0x0D65 [0x1D] PRINT_EVENT_MESSAGE(message_id=12984*)
     → "However, without a constant flow of new intelligence, a nation's reconnaissance level will gradually fall. That is why we must rely on volunteers like you to keep us in the light!"
 671: 0x0D68 [0x23] WAIT_FOR_DIALOG_INTERACTION
 672: 0x0D69 [0x01] GOTO 0x0D7A
@@ -1550,23 +1550,23 @@ SUBROUTINE_0D7A:
 675: 0x0D7A [0x01] GOTO 0x0D1D
 
 SUBROUTINE_0D7D:
-676: 0x0D7D [0x24] CREATE_DIALOG(message_id=12966*, default_option=0*, option_flags=0*)
+676: 0x0D7D [0x24] CREATE_DIALOG(message_id=12967*, default_option=0*, option_flags=0*)
     → "View which information? [Our nation's strategy./Royal Army conditions./Republican Army conditions./Federation Army conditions./Orcish Host conditions./Shieldwarriors conditions./Theomilitary conditions./Dark Kindred conditions./Return.]"
 677: 0x0D84 [0x25] WAIT_DIALOG_SELECT()
 678: 0x0D85 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DAC
 679: 0x0D8D [0x03] Work_Zone[1] = 200*
 680: 0x0D92 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 681: 0x0D94 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-682: 0x0D96 [0x1D] PRINT_EVENT_MESSAGE(message_id=12970*)
+682: 0x0D96 [0x1D] PRINT_EVENT_MESSAGE(message_id=12971*)
     → "Regarding battle strategies, our nation is currently focusing on [top-secret tactics/launching preemptive strikes/diversionary tactics/battleline preservation/stronghold defenses/personnel conditioning/personnel training/reconnaissance/sabotage]..."
 683: 0x0D99 [0x23] WAIT_FOR_DIALOG_INTERACTION
-684: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=12971*)
+684: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=12972*)
     → "...while also considering [other options/the launching of preemptive strikes/diversionary tactics/battleline preservation/stronghold defenses/personnel conditioning/personnel training/reconnaissance/sabotage]."
 685: 0x0D9D [0x23] WAIT_FOR_DIALOG_INTERACTION
-686: 0x0D9E [0x1D] PRINT_EVENT_MESSAGE(message_id=12972*)
+686: 0x0D9E [0x1D] PRINT_EVENT_MESSAGE(message_id=12973*)
     → "Regarding internal policy, our nation is currently focusing on [areas not readily known/resource procurement/military supply procurement/logistics/stronghold outfitting/weapons production/weapons development/public security/stronghold fortification]..."
 687: 0x0DA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-688: 0x0DA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12973*)
+688: 0x0DA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12974*)
     → "...while also considering [other important issues/resource procurement/military supply procurement/logistics/stronghold outfitting/weapons production/weapons development/public security/stronghold fortification]."
 689: 0x0DA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 690: 0x0DA6 [0x01] GOTO 0x0E62
@@ -1575,13 +1575,13 @@ SUBROUTINE_0E4D:
 691: 0x0E4D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 692: 0x0E4F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 693: 0x0E51 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[64]
-694: 0x0E56 [0x48] [System] [12967*]:
+694: 0x0E56 [0x48] [System] [12968*]:
     → "---[/The Royal Army of San d'Oria/The Republican Army of Bastok/The Federation Army of Windurst/The Orcish Empire/The Quadav Shieldwarriors/The Yagudo Theomilitary/The Dark Kindred]--- Funding: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Supplies: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Resources: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]"
 695: 0x0E59 [0x23] WAIT_FOR_DIALOG_INTERACTION
-696: 0x0E5A [0x48] [System] [12968*]:
+696: 0x0E5A [0x48] [System] [12969*]:
     → "Skill: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Production: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25] Freelances: [Unknown/$25/$25$25/$25$25$25/$25$25$25$25/$25$25$25$25$25/$25$25$25$25$25$25/$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25/$25$25$25$25$25$25$25$25$25$25]"
 697: 0x0E5D [0x23] WAIT_FOR_DIALOG_INTERACTION
-698: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=12969*)
+698: 0x0E5E [0x1D] PRINT_EVENT_MESSAGE(message_id=12970*)
     → "Would you like to know more?"
 699: 0x0E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1590,7 +1590,7 @@ SUBROUTINE_0E62:
 
 SUBROUTINE_0E63:
 701: 0x0E63 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[61]
-702: 0x0E68 [0x24] CREATE_DIALOG(message_id=13005*, default_option=0*, option_flags=0*)
+702: 0x0E68 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
     → "$3G$3$3AL$P11,$P15q$P13`%ep_D->3"$3473992 $P13GRL$P10N$U $P16!$P15{L$P10N$U"
 703: 0x0E6F [0x25] WAIT_DIALOG_SELECT()
 704: 0x0E70 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EBA
@@ -1610,7 +1610,7 @@ SUBROUTINE_0E63:
 
 SUBROUTINE_0F48:
 718: 0x0F48 [0x02] IF !(ExtData[1]->WorkLocal[61] == 1*) GOTO 0x0FFB
-719: 0x0F50 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+719: 0x0F50 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 720: 0x0F57 [0x25] WAIT_DIALOG_SELECT()
 721: 0x0F58 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F68
@@ -1647,7 +1647,7 @@ SUBROUTINE_0F48:
 SUBROUTINE_0FF8:
 751: 0x0FF8 [0x01] GOTO 0x1646
 752: 0x0FFB [0x02] IF !(ExtData[1]->WorkLocal[61] == 2*) GOTO 0x10AE
-753: 0x1003 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+753: 0x1003 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 754: 0x100A [0x25] WAIT_DIALOG_SELECT()
 755: 0x100B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x101B
@@ -1684,7 +1684,7 @@ SUBROUTINE_0FF8:
 SUBROUTINE_10AB:
 785: 0x10AB [0x01] GOTO 0x1646
 786: 0x10AE [0x02] IF !(ExtData[1]->WorkLocal[61] == 3*) GOTO 0x1161
-787: 0x10B6 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+787: 0x10B6 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 788: 0x10BD [0x25] WAIT_DIALOG_SELECT()
 789: 0x10BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10CE
@@ -1721,7 +1721,7 @@ SUBROUTINE_10AB:
 SUBROUTINE_115E:
 819: 0x115E [0x01] GOTO 0x1646
 820: 0x1161 [0x02] IF !(ExtData[1]->WorkLocal[61] == 4*) GOTO 0x1214
-821: 0x1169 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+821: 0x1169 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 822: 0x1170 [0x25] WAIT_DIALOG_SELECT()
 823: 0x1171 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1181
@@ -1758,7 +1758,7 @@ SUBROUTINE_115E:
 SUBROUTINE_1211:
 853: 0x1211 [0x01] GOTO 0x1646
 854: 0x1214 [0x02] IF !(ExtData[1]->WorkLocal[61] == 5*) GOTO 0x12C7
-855: 0x121C [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+855: 0x121C [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 856: 0x1223 [0x25] WAIT_DIALOG_SELECT()
 857: 0x1224 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1234
@@ -1795,7 +1795,7 @@ SUBROUTINE_1211:
 SUBROUTINE_12C4:
 887: 0x12C4 [0x01] GOTO 0x1646
 888: 0x12C7 [0x02] IF !(ExtData[1]->WorkLocal[61] == 6*) GOTO 0x137A
-889: 0x12CF [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+889: 0x12CF [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 890: 0x12D6 [0x25] WAIT_DIALOG_SELECT()
 891: 0x12D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12E7
@@ -1832,7 +1832,7 @@ SUBROUTINE_12C4:
 SUBROUTINE_1377:
 921: 0x1377 [0x01] GOTO 0x1646
 922: 0x137A [0x02] IF !(ExtData[1]->WorkLocal[61] == 7*) GOTO 0x142D
-923: 0x1382 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+923: 0x1382 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 924: 0x1389 [0x25] WAIT_DIALOG_SELECT()
 925: 0x138A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x139A
@@ -1869,7 +1869,7 @@ SUBROUTINE_1377:
 SUBROUTINE_142A:
 955: 0x142A [0x01] GOTO 0x1646
 956: 0x142D [0x02] IF !(ExtData[1]->WorkLocal[61] == 8*) GOTO 0x14E0
-957: 0x1435 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+957: 0x1435 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 958: 0x143C [0x25] WAIT_DIALOG_SELECT()
 959: 0x143D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x144D
@@ -1906,7 +1906,7 @@ SUBROUTINE_142A:
 SUBROUTINE_14DD:
 989: 0x14DD [0x01] GOTO 0x1646
 990: 0x14E0 [0x02] IF !(ExtData[1]->WorkLocal[61] == 9*) GOTO 0x1593
-991: 0x14E8 [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+991: 0x14E8 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 992: 0x14EF [0x25] WAIT_DIALOG_SELECT()
 993: 0x14F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1500
@@ -1943,7 +1943,7 @@ SUBROUTINE_14DD:
 SUBROUTINE_1590:
 1023: 0x1590 [0x01] GOTO 0x1646
 1024: 0x1593 [0x02] IF !(ExtData[1]->WorkLocal[61] == 10*) GOTO 0x1646
-1025: 0x159B [0x24] CREATE_DIALOG(message_id=13006*, default_option=0*, option_flags=0*)
+1025: 0x159B [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
     → "$P10N$U7i$3$1316172$P11`MH [$P11f1$20$P11`/$P11f2$20$P11`/$P11f3$20$P11`/$P11f4$20$P11`/$P11f5$20$P11`/$P11f6$20$P11`/$P11f7$20$P11`/$P11f8$20$P11`/$P11f9$20$P11`/$P11f10$20$P11`]"
 1026: 0x15A2 [0x25] WAIT_DIALOG_SELECT()
 1027: 0x15A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15B3
@@ -1982,7 +1982,7 @@ SUBROUTINE_1643:
 
 SUBROUTINE_1646:
 1058: 0x1646 [0x02] IF !(ExtData[1]->WorkLocal[61] == 1*) GOTO 0x16F9
-1059: 0x164E [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1059: 0x164E [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1060: 0x1655 [0x25] WAIT_DIALOG_SELECT()
 1061: 0x1656 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1666
@@ -2019,7 +2019,7 @@ SUBROUTINE_1646:
 SUBROUTINE_16F6:
 1091: 0x16F6 [0x01] GOTO 0x1D44
 1092: 0x16F9 [0x02] IF !(ExtData[1]->WorkLocal[61] == 2*) GOTO 0x17AC
-1093: 0x1701 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1093: 0x1701 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1094: 0x1708 [0x25] WAIT_DIALOG_SELECT()
 1095: 0x1709 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1719
@@ -2056,7 +2056,7 @@ SUBROUTINE_16F6:
 SUBROUTINE_17A9:
 1125: 0x17A9 [0x01] GOTO 0x1D44
 1126: 0x17AC [0x02] IF !(ExtData[1]->WorkLocal[61] == 3*) GOTO 0x185F
-1127: 0x17B4 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1127: 0x17B4 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1128: 0x17BB [0x25] WAIT_DIALOG_SELECT()
 1129: 0x17BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17CC
@@ -2093,7 +2093,7 @@ SUBROUTINE_17A9:
 SUBROUTINE_185C:
 1159: 0x185C [0x01] GOTO 0x1D44
 1160: 0x185F [0x02] IF !(ExtData[1]->WorkLocal[61] == 4*) GOTO 0x1912
-1161: 0x1867 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1161: 0x1867 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1162: 0x186E [0x25] WAIT_DIALOG_SELECT()
 1163: 0x186F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x187F
@@ -2130,7 +2130,7 @@ SUBROUTINE_185C:
 SUBROUTINE_190F:
 1193: 0x190F [0x01] GOTO 0x1D44
 1194: 0x1912 [0x02] IF !(ExtData[1]->WorkLocal[61] == 5*) GOTO 0x19C5
-1195: 0x191A [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1195: 0x191A [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1196: 0x1921 [0x25] WAIT_DIALOG_SELECT()
 1197: 0x1922 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1932
@@ -2167,7 +2167,7 @@ SUBROUTINE_190F:
 SUBROUTINE_19C2:
 1227: 0x19C2 [0x01] GOTO 0x1D44
 1228: 0x19C5 [0x02] IF !(ExtData[1]->WorkLocal[61] == 6*) GOTO 0x1A78
-1229: 0x19CD [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1229: 0x19CD [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1230: 0x19D4 [0x25] WAIT_DIALOG_SELECT()
 1231: 0x19D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19E5
@@ -2204,7 +2204,7 @@ SUBROUTINE_19C2:
 SUBROUTINE_1A75:
 1261: 0x1A75 [0x01] GOTO 0x1D44
 1262: 0x1A78 [0x02] IF !(ExtData[1]->WorkLocal[61] == 7*) GOTO 0x1B2B
-1263: 0x1A80 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1263: 0x1A80 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1264: 0x1A87 [0x25] WAIT_DIALOG_SELECT()
 1265: 0x1A88 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A98
@@ -2241,7 +2241,7 @@ SUBROUTINE_1A75:
 SUBROUTINE_1B28:
 1295: 0x1B28 [0x01] GOTO 0x1D44
 1296: 0x1B2B [0x02] IF !(ExtData[1]->WorkLocal[61] == 8*) GOTO 0x1BDE
-1297: 0x1B33 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1297: 0x1B33 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1298: 0x1B3A [0x25] WAIT_DIALOG_SELECT()
 1299: 0x1B3B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B4B
@@ -2278,7 +2278,7 @@ SUBROUTINE_1B28:
 SUBROUTINE_1BDB:
 1329: 0x1BDB [0x01] GOTO 0x1D44
 1330: 0x1BDE [0x02] IF !(ExtData[1]->WorkLocal[61] == 9*) GOTO 0x1C91
-1331: 0x1BE6 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1331: 0x1BE6 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1332: 0x1BED [0x25] WAIT_DIALOG_SELECT()
 1333: 0x1BEE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BFE
@@ -2315,7 +2315,7 @@ SUBROUTINE_1BDB:
 SUBROUTINE_1C8E:
 1363: 0x1C8E [0x01] GOTO 0x1D44
 1364: 0x1C91 [0x02] IF !(ExtData[1]->WorkLocal[61] == 10*) GOTO 0x1D44
-1365: 0x1C99 [0x24] CREATE_DIALOG(message_id=13007*, default_option=0*, option_flags=0*)
+1365: 0x1C99 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
     → "$P11<$4718890 [1""/4/5/6/7/8/9/10]"
 1366: 0x1CA0 [0x25] WAIT_DIALOG_SELECT()
 1367: 0x1CA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CB1
@@ -2356,7 +2356,7 @@ SUBROUTINE_1D44:
 1398: 0x1D44 [0x1B] RETURN
 
 SUBROUTINE_1D45:
-1399: 0x1D45 [0x24] CREATE_DIALOG(message_id=13008*, default_option=0*, option_flags=0*)
+1399: 0x1D45 [0x24] CREATE_DIALOG(message_id=13009*, default_option=0*, option_flags=0*)
     → "$P11Iq>$20$P11`L;$]<Player>J$P12uM$2687597gH" $3G$3$3APF$P15j$17 $3G$3$3AQ$3998261$3G$3$3A $3G$3$3ARF$6$T$P12n$P13_A $3G$3$3ASF$6$T$P12n$P13_B $3G$3$3ATF$6$T$P12n$P13_C $3G$3$3AU$1182540$P13_ $3G$3$3AVF$3_$3$3W$3 $3$7$3G$3$3AWF$3{$3X$3f$3B$3$21X%Mi$P16"$@$21$4587864$3U$3 [$3J$3o[$3hi$P16"$@$21$5177936F$3Y$3$3@[$3 [$i$O$si$P16"$@$21$5243472F$3Y$3$3@[$3 [$i$P13`$si$P16"$@$21$5309008$5507660i$P16"$@$21j]"
 1400: 0x1D4C [0x25] WAIT_DIALOG_SELECT()
 1401: 0x1D4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D5D
@@ -2400,7 +2400,7 @@ SUBROUTINE_1D45:
 1439: 0x1E1A [0x01] GOTO 0x1E1D
 
 SUBROUTINE_1E1D:
-1440: 0x1E1D [0x24] CREATE_DIALOG(message_id=13009*, default_option=0*, option_flags=0*)
+1440: 0x1E1D [0x24] CREATE_DIALOG(message_id=13010*, default_option=0*, option_flags=0*)
     → "$P11Iq>$20$P11`L$s [5MH/ [$P11R [@$6E i/$o$0$P14up$P10i_D"i/$l$P10m$s$P13.$6E i/$l$P10mI$P10,w5$2097733i/$l$P10mI$8$P14s5$2097733i/$20$P11`p$D$P15R$P10,$6E i/i$P16"$@$21j/i$P16"$@$21j]"
 1441: 0x1E24 [0x25] WAIT_DIALOG_SELECT()
 1442: 0x1E25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E35
@@ -2471,7 +2471,7 @@ SUBROUTINE_1EA5:
 ```
   0: 0x1EA6 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x1EA8 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x1EAD [0x1D] PRINT_EVENT_MESSAGE(message_id=12984*)
+  2: 0x1EAD [0x1D] PRINT_EVENT_MESSAGE(message_id=12985*)
     → "If you seek information on your nation's campaign efforts, you're looking in the wrong place."
   3: 0x1EB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1EB1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

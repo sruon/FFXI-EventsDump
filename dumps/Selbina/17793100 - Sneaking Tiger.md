@@ -51,25 +51,25 @@
 |       3 | 0xFFFFFDB0  |  4294966704 |
 |       4 | 0xFFFFC722  |  4294952738 |
 |       5 | 0x0034      |          52 |
-|       6 | 0x1C73      |        7283 |
-|       7 | 0x1C75      |        7285 |
-|       8 | 0x1C76      |        7286 |
-|       9 | 0x1C77      |        7287 |
-|      10 | 0x1C78      |        7288 |
-|      11 | 0x1C79      |        7289 |
-|      12 | 0x1C7F      |        7295 |
-|      13 | 0x1C80      |        7296 |
+|       6 | 0x1C74      |        7284 |
+|       7 | 0x1C76      |        7286 |
+|       8 | 0x1C77      |        7287 |
+|       9 | 0x1C78      |        7288 |
+|      10 | 0x1C79      |        7289 |
+|      11 | 0x1C7A      |        7290 |
+|      12 | 0x1C80      |        7296 |
+|      13 | 0x1C81      |        7297 |
 
 ## String References
 
-- **7283**: ...Whaddayawant!? I'm busy! Who on Vana'diel are you? Never seen ya before!
-- **7285**: Out here is better. Whatcha got there? Show me that $3.
-- **7286**: Well, ain't this amusing. I'm on the straight and narrow these days, so I could just sign it for ya. But that wouldn't be any fun now, would it?
-- **7287**: Let me see. You're still a young thief, but how good are ya? You can't get by in this world on thieving alone, ya know!
-- **7288**: Could ya steal $2 from those turtle guys in Beadeaux? Those turtle guys gang up on ya and ya can't just pull a snatch and grab job!
-- **7289**: Show me how good you young thieves are these days! Steal me $2 from the turtle guys in Beadeaux, an' I'll sign ya paper.
-- **7295**: Good for you, stripling! Those turtles pack quite a punch, huh?
-- **7296**: Here, take this back. I signed the $3 for ya. Enjoy your thievin' days, <Player>!
+- **7284**: ...Whaddayawant!? I'm busy! Who on Vana'diel are you? Never seen ya before!
+- **7286**: Out here is better. Whatcha got there? Show me that $3.
+- **7287**: Well, ain't this amusing. I'm on the straight and narrow these days, so I could just sign it for ya. But that wouldn't be any fun now, would it?
+- **7288**: Let me see. You're still a young thief, but how good are ya? You can't get by in this world on thieving alone, ya know!
+- **7289**: Could ya steal $2 from those turtle guys in Beadeaux? Those turtle guys gang up on ya and ya can't just pull a snatch and grab job!
+- **7290**: Show me how good you young thieves are these days! Steal me $2 from the turtle guys in Beadeaux, an' I'll sign ya paper.
+- **7296**: Good for you, stripling! Those turtles pack quite a punch, huh?
+- **7297**: Here, take this back. I signed the $3 for ya. Enjoy your thievin' days, <Player>!
 
 ## Events
 
@@ -524,7 +524,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
+  0: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → "...Whaddayawant!? I'm busy! Who on Vana'diel are you? Never seen ya before!"
   1: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00FB [0x00] END_REQSTACK()
@@ -550,7 +550,7 @@
 #### Opcodes
 
 ```
-  0: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
+  0: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
     → "Out here is better. Whatcha got there? Show me that $3."
   1: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0100 [0x00] END_REQSTACK()
@@ -577,7 +577,7 @@
 
 ```
   0: 0x0101 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sneaking Tiger (ID: 17793100/0x010F804C), tag_num=0x01)
-  1: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
+  1: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
     → "Well, ain't this amusing. I'm on the straight and narrow these days, so I could just sign it for ya. But that wouldn't be any fun now, would it?"
   2: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x010C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sneaking Tiger (ID: 17793100/0x010F804C), tag_num=0x02)
@@ -603,7 +603,7 @@
 #### Opcodes
 
 ```
-  0: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
+  0: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
     → "Let me see. You're still a young thief, but how good are ya? You can't get by in this world on thieving alone, ya know!"
   1: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0118 [0x00] END_REQSTACK()
@@ -628,7 +628,7 @@
 #### Opcodes
 
 ```
-  0: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
+  0: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
     → "Could ya steal $2 from those turtle guys in Beadeaux? Those turtle guys gang up on ya and ya can't just pull a snatch and grab job!"
   1: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011D [0x00] END_REQSTACK()
@@ -654,7 +654,7 @@
 #### Opcodes
 
 ```
-  0: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
+  0: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "Show me how good you young thieves are these days! Steal me $2 from the turtle guys in Beadeaux, an' I'll sign ya paper."
   1: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0122 [0x00] END_REQSTACK()
@@ -701,7 +701,7 @@
 #### Opcodes
 
 ```
-  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
+  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "Good for you, stripling! Those turtles pack quite a punch, huh?"
   1: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0128 [0x00] END_REQSTACK()
@@ -726,7 +726,7 @@
 #### Opcodes
 
 ```
-  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
+  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
     → "Here, take this back. I signed the $3 for ya. Enjoy your thievin' days, <Player>!"
   1: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012D [0x00] END_REQSTACK()

@@ -73,13 +73,13 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1F86      |        8070 |
-|       7 | 0x1F79      |        8057 |
+|       6 | 0x1F87      |        8071 |
+|       7 | 0x1F7A      |        8058 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1E0A      |        7690 |
+|      12 | 0x1E0B      |        7691 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
@@ -96,11 +96,11 @@
 |      26 | 0x493F2     |      300018 |
 |      27 | 0x6028F     |      393871 |
 |      28 | 0xFFFB7CBB  |  4294671547 |
-|      29 | 0x1E15      |        7701 |
-|      30 | 0x1E16      |        7702 |
-|      31 | 0x1E17      |        7703 |
-|      32 | 0x1E18      |        7704 |
-|      33 | 0x1E3C      |        7740 |
+|      29 | 0x1E16      |        7702 |
+|      30 | 0x1E17      |        7703 |
+|      31 | 0x1E18      |        7704 |
+|      32 | 0x1E19      |        7705 |
+|      33 | 0x1E3D      |        7741 |
 |      34 | 0x0006      |           6 |
 |      35 | 0x0012      |          18 |
 |      36 | 0x0007      |           7 |
@@ -120,12 +120,12 @@
 |      50 | 0x001C      |          28 |
 |      51 | 0x001D      |          29 |
 |      52 | 0x001E      |          30 |
-|      53 | 0x1F71      |        8049 |
+|      53 | 0x1F72      |        8050 |
 |      54 | 0x003C      |          60 |
 |      55 | 0x0064      |         100 |
-|      56 | 0x1F5D      |        8029 |
+|      56 | 0x1F5E      |        8030 |
 |      57 | 0x00D9      |         217 |
-|      58 | 0x1E0D      |        7693 |
+|      58 | 0x1E0E      |        7694 |
 |      59 | 0x00C9      |         201 |
 |      60 | 0x00B4      |         180 |
 |      61 | 0xFFF6C42B  |  4294362155 |
@@ -198,9 +198,9 @@
 |     128 | 0xFFFFAA3A  |  4294945338 |
 |     129 | 0xFFFFFF06  |  4294967046 |
 |     130 | 0x0411      |        1041 |
-|     131 | 0x1F5F      |        8031 |
-|     132 | 0x1F5E      |        8030 |
-|     133 | 0x1F82      |        8066 |
+|     131 | 0x1F60      |        8032 |
+|     132 | 0x1F5F      |        8031 |
+|     133 | 0x1F83      |        8067 |
 |     134 | 0x0401      |        1025 |
 |     135 | 0xFFFE798D  |  4294867341 |
 |     136 | 0xFFFFB17D  |  4294947197 |
@@ -209,7 +209,7 @@
 |     139 | 0x0145      |         325 |
 |     140 | 0x005A      |          90 |
 |     141 | 0x0078      |         120 |
-|     142 | 0x1E0B      |        7691 |
+|     142 | 0x1E0C      |        7692 |
 |     143 | 0xFFFC082E  |  4294707246 |
 |     144 | 0x5D226     |      381478 |
 |     145 | 0xFFFDEDBB  |  4294831547 |
@@ -309,21 +309,21 @@
 
 ## String References
 
-- **7690**: Enter the battlefield? [Enter./Decline.]
-- **7691**: Leave the battlefield? [Run away./Stay.]
-- **7693**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7701**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7691**: Enter the battlefield? [Enter./Decline.]
+- **7692**: Leave the battlefield? [Run away./Stay.]
+- **7694**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7702**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7703**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7704**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7740**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **8029**: Skip the event? [Yes./No.]
-- **8030**: Battlefield clear time: $3 second[/s]!
-- **8031**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **8049**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **8057**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **8066**: You have broken the clear time record for "[Plucking Wings (W)/A Malicious Manifest/Manifest Destiny/At Journey's End]"!
-- **8070**: Which battlefield will you enter? [None./Plucking Wings (W)./A Malicious Manifest./Manifest Destiny./At Journey's End./././././././././././././././././././././././././././]
+- **7705**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7741**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **8030**: Skip the event? [Yes./No.]
+- **8031**: Battlefield clear time: $3 second[/s]!
+- **8032**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **8050**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **8058**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **8067**: You have broken the clear time record for "[Plucking Wings (W)/A Malicious Manifest/Manifest Destiny/At Journey's End]"!
+- **8071**: Which battlefield will you enter? [None./Plucking Wings (W)./A Malicious Manifest./Manifest Destiny./At Journey's End./././././././././././././././././././././././././././]
 
 ## Events
 
@@ -541,7 +541,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=8070*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=8071*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Plucking Wings (W)./A Malicious Manifest./Manifest Destiny./At Journey's End./././././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -554,7 +554,7 @@ SUBROUTINE_009C:
 
 SUBROUTINE_00AD:
  23: 0x00AD [0x1A] CALL_SUBROUTINE(address=0x1293)
- 24: 0x00B0 [0x24] CREATE_DIALOG(message_id=8057*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B0 [0x24] CREATE_DIALOG(message_id=8058*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
  26: 0x00B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C8
@@ -580,7 +580,7 @@ SUBROUTINE_011B:
  44: 0x011E [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0121 [0x1A] CALL_SUBROUTINE(address=0x0873)
  46: 0x0124 [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x0142
- 47: 0x012C [0x24] CREATE_DIALOG(message_id=7690*, default_option=1*, option_flags=0*)
+ 47: 0x012C [0x24] CREATE_DIALOG(message_id=7691*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0133 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0134 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0142
@@ -654,22 +654,22 @@ SUBROUTINE_0256:
 109: 0x0288 [0x01] GOTO 0x080F
 110: 0x028B [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x02D5
 111: 0x0293 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02A2
-112: 0x029B [0x48] [System] [7701*]:
+112: 0x029B [0x48] [System] [7702*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 113: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x029F [0x01] GOTO 0x02CF
 115: 0x02A2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02B1
-116: 0x02AA [0x48] [System] [7702*]:
+116: 0x02AA [0x48] [System] [7703*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 117: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x02AE [0x01] GOTO 0x02CF
 119: 0x02B1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02C0
-120: 0x02B9 [0x48] [System] [7703*]:
+120: 0x02B9 [0x48] [System] [7704*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 121: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x02BD [0x01] GOTO 0x02CF
 123: 0x02C0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x02CF
-124: 0x02C8 [0x48] [System] [7704*]:
+124: 0x02C8 [0x48] [System] [7705*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 125: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x02CC [0x01] GOTO 0x02CF
@@ -678,7 +678,7 @@ SUBROUTINE_02CF:
 127: 0x02CF [0x01] GOTO 0x0826
 
 SUBROUTINE_04DF:
-128: 0x04DF [0x48] [System] [8049*]:
+128: 0x04DF [0x48] [System] [8050*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 129: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x04E3 [0x01] GOTO 0x0826
@@ -702,7 +702,7 @@ SUBROUTINE_0543:
 SUBROUTINE_0567:
 143: 0x0567 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x058D
 144: 0x056F [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x058D
-145: 0x0577 [0x24] CREATE_DIALOG(message_id=8029*, default_option=1*, option_flags=0*)
+145: 0x0577 [0x24] CREATE_DIALOG(message_id=8030*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 146: 0x057E [0x25] WAIT_DIALOG_SELECT()
 147: 0x057F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x058D
@@ -842,7 +842,7 @@ SUBROUTINE_080F:
 271: 0x0812 [0x02] IF !(0* == 1*) GOTO 0x081F
 272: 0x081A [0x03] ExtData[1]->WorkLocal[0] = 4*
 273: 0x081F [0x01] GOTO 0x01A1
-274: 0x0822 [0x48] [System] [7693*]:
+274: 0x0822 [0x48] [System] [7694*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 275: 0x0825 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1163,7 +1163,7 @@ SUBROUTINE_0BCC:
  58: 0x0BD7 [0x01] GOTO 0x0BF5
  59: 0x0BDA [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0CA5
  60: 0x0BE2 [0x1C] WAIT(15* ticks)
- 61: 0x0BE5 [0x24] CREATE_DIALOG(message_id=8029*, default_option=1*, option_flags=0*)
+ 61: 0x0BE5 [0x24] CREATE_DIALOG(message_id=8030*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  62: 0x0BEC [0x25] WAIT_DIALOG_SELECT()
  63: 0x0BED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CA5
@@ -1218,18 +1218,18 @@ SUBROUTINE_0CCC:
 102: 0x0CD9 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0CF4
 103: 0x0CE1 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 104: 0x0CE8 [0x15] Work_Zone[5] /= 60*
-105: 0x0CED [0x48] [System] [8031*]:
+105: 0x0CED [0x48] [System] [8032*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 106: 0x0CF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0CF1 [0x01] GOTO 0x0CF8
-108: 0x0CF4 [0x48] [System] [8030*]:
+108: 0x0CF4 [0x48] [System] [8031*]:
     → "Battlefield clear time: $3 second[/s]!"
 109: 0x0CF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0CF8:
 110: 0x0CF8 [0x02] IF !(ExtData[1]->WorkLocal[26] > ExtData[1]->WorkLocal[25]) GOTO 0x0D0C
 111: 0x0D00 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[24]
-112: 0x0D05 [0x48] [System] [8066*]:
+112: 0x0D05 [0x48] [System] [8067*]:
     → "You have broken the clear time record for "[Plucking Wings (W)/A Malicious Manifest/Manifest Destiny/At Journey's End]"!"
 113: 0x0D08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0D09 [0x01] GOTO 0x0D2D
@@ -1528,7 +1528,7 @@ SUBROUTINE_0F04:
 
 ```
 # Dead code (unreachable instructions):
-     0x0F4A [0x24] CREATE_DIALOG(message_id=7690*, default_option=1*, option_flags=0*)
+     0x0F4A [0x24] CREATE_DIALOG(message_id=7691*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0F51 [0x25] WAIT_DIALOG_SELECT()
      0x0F52 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F60
@@ -1547,7 +1547,7 @@ SUBROUTINE_0F04:
      0x0F89 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0F8B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0F8D [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0FF4
-     0x0F95 [0x24] CREATE_DIALOG(message_id=8029*, default_option=1*, option_flags=0*)
+     0x0F95 [0x24] CREATE_DIALOG(message_id=8030*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
      0x0F9C [0x25] WAIT_DIALOG_SELECT()
      0x0F9D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FDF
@@ -1641,7 +1641,7 @@ SUBROUTINE_0F04:
      0x11C5 [0x1C] WAIT(120* ticks)
      0x11C8 [0x46] CAMERA_CONTROL: Restore default settings
      0x11CA [0x1B] RETURN
-     0x11CB [0x24] CREATE_DIALOG(message_id=7691*, default_option=1*, option_flags=0*)
+     0x11CB [0x24] CREATE_DIALOG(message_id=7692*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x11D2 [0x25] WAIT_DIALOG_SELECT()
      0x11D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11E1

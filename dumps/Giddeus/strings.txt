@@ -1,5 +1,5 @@
 # Strings for Giddeus
-# Total: 7545 strings
+# Total: 7546 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,323 +7226,324 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: You can't fish here.
- 7228: You can't fish without a rod in your hands.
- 7229: You can't fish without bait on the hook.
- 7230: You can't fish at the moment.
- 7231: You didn't catch anything.
- 7232: %0 caught a monster!
- 7233: Your line breaks.
- 7234: Your rod breaks.
- 7235: Something caught the hook!
- 7236: You lost your catch.
- 7237: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7238: You feel there's something here.
- 7239: You feel there's something nearby.
- 7240: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7241: %0 caught $1 $0 !
- 7242: You dig and you dig, but find nothing.
- 7243: $0/$0p$3Z$3b$3g
- 7244: Your rod breaks. Whatever caught the hook was pretty big.
- 7245: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7246: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7247: You lost your catch due to your lack of skill.
- 7248: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7249: You didn't catch anything.
- 7250: The paper on your $0 ripped.
- 7251: A tiny goldfish approaches!
- 7252: A plump, black goldfish approaches!
- 7253: A fat, juicy goldfish approaches!
- 7254: There are no goldfish to be found...
- 7255: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7256: The goldfish slipped off your scoop...
- 7257: ch$0 skill up check.
- 7258: a:$0.
- 7259: Time $0 / Status $1 / $2
- 7260: d:$0. e:$1. f:$2. g:$3.
- 7261: h: $1. i: $0. sr: $2.
- 7262: j:$0. k:$1.
- 7263: You give up and reel in your line.
- 7264: You give up.
- 7265: %0 obtains $1 gil.
- 7266: %0 caught $0!
- 7267: You don't know how much longer you can keep this one on the line...
- 7268: You have a good feeling about this one!
- 7269: You have a bad feeling about this one.
- 7270: You have a terrible feeling about this one...
- 7271: You don't know if you have enough skill to reel this one in.
- 7272: You're fairly sure you don't have enough skill to reel this one in.
- 7273: You're positive you don't have enough skill to reel this one in!
- 7274: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7275: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7276: l: $0. m: $1. n: $2. CH: $3.
- 7277: Something caught the hook!!!
- 7278: You feel something pulling at your line.
- 7279: Something clamps onto your line ferociously!
- 7280: Your keen angler's senses tell you that this is the pull of $0!
- 7281: This strength... You get the sense that you are on the verge of an epic catch!
- 7282: The timer has started. $0 seconds remaining.
- 7283: $0sec.$1/$2sec.
- 7284: 0:$0 1:$1 2:$2 3:$3
- 7285: 4:$0 5:$1 6:$2 7:$3
- 7286: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7287: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7288: $0/$1($2j
- 7289: Version invalid error!
- 7290: Hurry before the goldfish sees you!
- 7291: %0 fishes up a large box!
- 7292: $23$o$P122$8$0
- 7293: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7294: PointF$0 >>> $1
- 7295: [$1($0)/skillF$1]
- 7296: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7297: Im Rnd : $0 Pz Rnd : $1
- 7298: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7299: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7300: skill : $0 size : $1 kind : $2 sch : $3
- 7301: time : $0 mes : $1 flag : $2 bonus : $3
- 7302: item : $0 hp : $1 pow : $2 swing : $3
- 7303: suc : $0 cons : $1 weight : $2 +- : $3
- 7304: speed : $0 +- : $1 exc : $2 client : $3
- 7305: general : $0
- 7306: ro:$0 rs:$1 ps:$2 dt:$3
- 7307: ra:$0 ti:$1
- 7308: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7309: You get the distinct sense that your moogle friend frequents this spot...
- 7310: You have a feeling that your moogle friend has been through this way...
- 7311: You suspect that the scenery around here would be to a moogle's liking...
- 7312: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7313: You have a hunch that this area would be favored by moogles...
- 7314: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7315: %0 catches $1 $0 !
- 7316: %0 obtained $6!
- 7317: It appears your chocobo found this item with ease.
- 7318: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7319: FPT $0 DPT $1 DoT$2
- 7320: FPT $0 TDPT $1 h$2
- 7321: You cannot fish at this time.
- 7322: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7323: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7324: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7325: You receive $0 bayld!
- 7326: Your chocobo refuses to partake of the $0.
- 7327: There is nothing out of the ordinary here.
- 7328: You can sense something deep in the hole...
- 7329: You cannot sense anything...
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: You can't fish here.
+ 7229: You can't fish without a rod in your hands.
+ 7230: You can't fish without bait on the hook.
+ 7231: You can't fish at the moment.
+ 7232: You didn't catch anything.
+ 7233: %0 caught a monster!
+ 7234: Your line breaks.
+ 7235: Your rod breaks.
+ 7236: Something caught the hook!
+ 7237: You lost your catch.
+ 7238: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7239: You feel there's something here.
+ 7240: You feel there's something nearby.
+ 7241: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7242: %0 caught $1 $0 !
+ 7243: You dig and you dig, but find nothing.
+ 7244: $0/$0p$3Z$3b$3g
+ 7245: Your rod breaks. Whatever caught the hook was pretty big.
+ 7246: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7247: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7248: You lost your catch due to your lack of skill.
+ 7249: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7250: You didn't catch anything.
+ 7251: The paper on your $0 ripped.
+ 7252: A tiny goldfish approaches!
+ 7253: A plump, black goldfish approaches!
+ 7254: A fat, juicy goldfish approaches!
+ 7255: There are no goldfish to be found...
+ 7256: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7257: The goldfish slipped off your scoop...
+ 7258: ch$0 skill up check.
+ 7259: a:$0.
+ 7260: Time $0 / Status $1 / $2
+ 7261: d:$0. e:$1. f:$2. g:$3.
+ 7262: h: $1. i: $0. sr: $2.
+ 7263: j:$0. k:$1.
+ 7264: You give up and reel in your line.
+ 7265: You give up.
+ 7266: %0 obtains $1 gil.
+ 7267: %0 caught $0!
+ 7268: You don't know how much longer you can keep this one on the line...
+ 7269: You have a good feeling about this one!
+ 7270: You have a bad feeling about this one.
+ 7271: You have a terrible feeling about this one...
+ 7272: You don't know if you have enough skill to reel this one in.
+ 7273: You're fairly sure you don't have enough skill to reel this one in.
+ 7274: You're positive you don't have enough skill to reel this one in!
+ 7275: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7276: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7277: l: $0. m: $1. n: $2. CH: $3.
+ 7278: Something caught the hook!!!
+ 7279: You feel something pulling at your line.
+ 7280: Something clamps onto your line ferociously!
+ 7281: Your keen angler's senses tell you that this is the pull of $0!
+ 7282: This strength... You get the sense that you are on the verge of an epic catch!
+ 7283: The timer has started. $0 seconds remaining.
+ 7284: $0sec.$1/$2sec.
+ 7285: 0:$0 1:$1 2:$2 3:$3
+ 7286: 4:$0 5:$1 6:$2 7:$3
+ 7287: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7288: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7289: $0/$1($2j
+ 7290: Version invalid error!
+ 7291: Hurry before the goldfish sees you!
+ 7292: %0 fishes up a large box!
+ 7293: $23$o$P122$8$0
+ 7294: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7295: PointF$0 >>> $1
+ 7296: [$1($0)/skillF$1]
+ 7297: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7298: Im Rnd : $0 Pz Rnd : $1
+ 7299: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7300: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7301: skill : $0 size : $1 kind : $2 sch : $3
+ 7302: time : $0 mes : $1 flag : $2 bonus : $3
+ 7303: item : $0 hp : $1 pow : $2 swing : $3
+ 7304: suc : $0 cons : $1 weight : $2 +- : $3
+ 7305: speed : $0 +- : $1 exc : $2 client : $3
+ 7306: general : $0
+ 7307: ro:$0 rs:$1 ps:$2 dt:$3
+ 7308: ra:$0 ti:$1
+ 7309: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7310: You get the distinct sense that your moogle friend frequents this spot...
+ 7311: You have a feeling that your moogle friend has been through this way...
+ 7312: You suspect that the scenery around here would be to a moogle's liking...
+ 7313: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7314: You have a hunch that this area would be favored by moogles...
+ 7315: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7316: %0 catches $1 $0 !
+ 7317: %0 obtained $6!
+ 7318: It appears your chocobo found this item with ease.
+ 7319: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7320: FPT $0 DPT $1 DoT$2
+ 7321: FPT $0 TDPT $1 h$2
+ 7322: You cannot fish at this time.
+ 7323: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7324: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7326: You receive $0 bayld!
+ 7327: Your chocobo refuses to partake of the $0.
+ 7328: There is nothing out of the ordinary here.
+ 7329: You can sense something deep in the hole...
  7330: You cannot sense anything...
- 7331: Nothing happened...
- 7332: You recover the book from the hole.
- 7333: You throw $0 into the hole.
- 7334: DEBUG:READYING YAGUDO POP!
- 7335: DEBUG:NM INTERVAL!
- 7336: DEBUG:NM STANDBY OK!
- 7337: DEBUG:<Player> defeated the boss!
- 7338: DEBUG:The boss was defeated by another party!
- 7339: An offering from Windurst sits here. [Retrieve the offering./Leave it alone.]
- 7340: Retrieved Key Item: $3!
- 7341: There is an offering bag with the seal of Windurst on it.
- 7342: These "books" you smoothskins read, I am finding them very interesting. Book-book-book!
- 7343: Squawk? You are wanting this book? You are giving me $0, and I give book.
- 7344: Ack-ack-ack! %! Here, you are taking book.
- 7345: Books good, but $0 are better! Ack-ack-ack!
- 7346: Ack-ack-ack! Why smoothskin here? Squawk? You are searching for $3?
- 7347: I am having that book. You are giving me $1, and I give book.
- 7348: Ack-ack-ack! $1! Here, you are taking book.
- 7349: Strange smoothskin wanting old book. Ack-ack-ack!
- 7350: Quawk! Smoothskin not bringing food offering? Quawk! Smoothskin leave now!
- 7351: Good! We are taking smoothskin's food offering. Quawk! But now you must be leaving! Quawk!
- 7352: Offered up key item: 3!
- 7353: Quaawk!? Smoothskin wants to take back offering?
- 7354: Quawk! You be pulling my talon, no? Crawl away now, cheating smoothskin, before I be making feathers fly!
- 7355: Pesky! Pesky! Quawk! You wanting it back so much, then you be going to treasure chamber directly yourself! All offerings taken from altars be gathered there!
- 7356: That is, if smoothskin survives long enough to make it there. Quawk-quawk-quawk!
- 7357: Kyah! No time for smoothskins who carry no food offering! You be crawling away now, before my brethren sacrifice you instead! Kyah!
- 7358: You be coming long way to deliver this, kyah? You be telling other smoothskins to keep offerings coming! Kyah-kyah-kyah!
- 7359: Kyah!? Smoothskin wants to take offering back? Smoothskin wanting to destroy friendship, kyah?
- 7360: Altars be directly connecting to treasure chamber.
- 7361: Kyah! Smoothskin wanting it back so much, then smoothskin be crawling to treasure chamber on own hands and feets!
- 7362: We be not caring for your reasons. My brethren will not be taking this intrusion quietly! Kyah-kyah-kyah!
- 7363: Me be keeper of treasure chamber. Hoot! Me be differing from brethren in not liking to fight. Smoothskin have no business here! Should leave now!
- 7364: What be this? Hoot! This blunt blade is useless!
- 7365: Never do! Hoot! No, never do! You be bringing weapon more fitting for Uu Zhoumo!
- 7366: What kind of weapon be more fitting? Hoot! A weapon like Eyy Mon the Ironbreaker be using! Hoot! That be more fitting for likes of me!
- 7367: You think so too? Hoot! Then you be go bringing me one now!
- 7368: No weapon yet? No weapon yet? Me be wanting weapon like Eyy Mon the Ironbreaker be using! Hoot!
- 7369: Hoot! That be it! Look at it shine! Hoot! This truly be a weapon fitting for me!
- 7370: Deal done. Deal done. Hoot! Now you be leaving!
- 7371: Good. Good. Hoot! It is as we be asking for! Now you be going!
- 7372: Offered up key item: 3!
- 7373: You fill your flask with water.
- 7374: Sparkling clear water bubbles up from the ground. If you have a container, you can fill it here.
- 7375: You want to be seeing Vaa Huja the Erudite? Funny smoothskin you are. Ack-ack-ack!
- 7376: What you say, "it takes one to know one?" The one you are seeking, strange he is. Hates the $1. Just the smell is ruffling his feathers.
- 7377: The $1? Me, I am more than happy to be taking!
- 7378: Squawk!? The $1, my favorite it be! For smoothskin, you are pretty smart.
- 7379: Ack-ack-ack! For you I am telling. Vaa Huja the Erudite is reading book in hole, far south.
- 7380: But way he is, by sneaking or creeping, you not getting close to him, I know.
- 7381: GIDDEUS DEBUG MENU: [HI`5H"/$3$1[$3v/lP|R<Player>K%$14s/=$5309036|Q$3o$3X<Player>K%$14s/=$5309036|Q$3T$3$8K%$14s/=$485889$3N$3G$3X$3g$k/H#$c$P15i/$3N$3G$3X$3g$P12Dmj=$17$P15(/$3t$3$3O`k`k$9$z%;/$0p$P13|$h/$1p$P13|$h/$2p$P13|$h/$3p$P13|$h/<Player>C$21`e$3q$3$3g%p/$21$P13S$P12b$P16hL$P14i$P16@$P13|$h]
- 7382: WARP TO... [$P15s$P15(IV/$U$P12d$12V/$U$P12d$P10<V/$P16<$5$12V/$P16<$5$P10<V]
- 7383: Item Needed = $0.
- 7384: Obtained: #.
- 7385: Obtained: $1.
- 7386: Obtained: $2.
- 7387: Obtained: $3.
- 7388: There is nothing out of the ordinary here.
- 7389: You can hear a strange voice... "Items, items, la la la la la`t"
- 7390: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7391: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7392: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7393: Now, listen close...
- 7394: Oh... Well, if that's the case, I'm outta here.
- 7395: The Goblin slipped away when you were not looking...
- 7396: You can hear a strange, raspy voice...
- 7397: I travel......hear lots... Hear...stories... Can tell...if...
- 7398: .........listen......
- 7399: Oh...... ...outta here.........
- 7400: What story would you like to be told? [No, thank you./All events.]
- 7401: What story would you like to be told? [No, thank you./Zhuu Buxu's Gambit.]
- 7402: 
+ 7331: You cannot sense anything...
+ 7332: Nothing happened...
+ 7333: You recover the book from the hole.
+ 7334: You throw $0 into the hole.
+ 7335: DEBUG:READYING YAGUDO POP!
+ 7336: DEBUG:NM INTERVAL!
+ 7337: DEBUG:NM STANDBY OK!
+ 7338: DEBUG:<Player> defeated the boss!
+ 7339: DEBUG:The boss was defeated by another party!
+ 7340: An offering from Windurst sits here. [Retrieve the offering./Leave it alone.]
+ 7341: Retrieved Key Item: $3!
+ 7342: There is an offering bag with the seal of Windurst on it.
+ 7343: These "books" you smoothskins read, I am finding them very interesting. Book-book-book!
+ 7344: Squawk? You are wanting this book? You are giving me $0, and I give book.
+ 7345: Ack-ack-ack! %! Here, you are taking book.
+ 7346: Books good, but $0 are better! Ack-ack-ack!
+ 7347: Ack-ack-ack! Why smoothskin here? Squawk? You are searching for $3?
+ 7348: I am having that book. You are giving me $1, and I give book.
+ 7349: Ack-ack-ack! $1! Here, you are taking book.
+ 7350: Strange smoothskin wanting old book. Ack-ack-ack!
+ 7351: Quawk! Smoothskin not bringing food offering? Quawk! Smoothskin leave now!
+ 7352: Good! We are taking smoothskin's food offering. Quawk! But now you must be leaving! Quawk!
+ 7353: Offered up key item: 3!
+ 7354: Quaawk!? Smoothskin wants to take back offering?
+ 7355: Quawk! You be pulling my talon, no? Crawl away now, cheating smoothskin, before I be making feathers fly!
+ 7356: Pesky! Pesky! Quawk! You wanting it back so much, then you be going to treasure chamber directly yourself! All offerings taken from altars be gathered there!
+ 7357: That is, if smoothskin survives long enough to make it there. Quawk-quawk-quawk!
+ 7358: Kyah! No time for smoothskins who carry no food offering! You be crawling away now, before my brethren sacrifice you instead! Kyah!
+ 7359: You be coming long way to deliver this, kyah? You be telling other smoothskins to keep offerings coming! Kyah-kyah-kyah!
+ 7360: Kyah!? Smoothskin wants to take offering back? Smoothskin wanting to destroy friendship, kyah?
+ 7361: Altars be directly connecting to treasure chamber.
+ 7362: Kyah! Smoothskin wanting it back so much, then smoothskin be crawling to treasure chamber on own hands and feets!
+ 7363: We be not caring for your reasons. My brethren will not be taking this intrusion quietly! Kyah-kyah-kyah!
+ 7364: Me be keeper of treasure chamber. Hoot! Me be differing from brethren in not liking to fight. Smoothskin have no business here! Should leave now!
+ 7365: What be this? Hoot! This blunt blade is useless!
+ 7366: Never do! Hoot! No, never do! You be bringing weapon more fitting for Uu Zhoumo!
+ 7367: What kind of weapon be more fitting? Hoot! A weapon like Eyy Mon the Ironbreaker be using! Hoot! That be more fitting for likes of me!
+ 7368: You think so too? Hoot! Then you be go bringing me one now!
+ 7369: No weapon yet? No weapon yet? Me be wanting weapon like Eyy Mon the Ironbreaker be using! Hoot!
+ 7370: Hoot! That be it! Look at it shine! Hoot! This truly be a weapon fitting for me!
+ 7371: Deal done. Deal done. Hoot! Now you be leaving!
+ 7372: Good. Good. Hoot! It is as we be asking for! Now you be going!
+ 7373: Offered up key item: 3!
+ 7374: You fill your flask with water.
+ 7375: Sparkling clear water bubbles up from the ground. If you have a container, you can fill it here.
+ 7376: You want to be seeing Vaa Huja the Erudite? Funny smoothskin you are. Ack-ack-ack!
+ 7377: What you say, "it takes one to know one?" The one you are seeking, strange he is. Hates the $1. Just the smell is ruffling his feathers.
+ 7378: The $1? Me, I am more than happy to be taking!
+ 7379: Squawk!? The $1, my favorite it be! For smoothskin, you are pretty smart.
+ 7380: Ack-ack-ack! For you I am telling. Vaa Huja the Erudite is reading book in hole, far south.
+ 7381: But way he is, by sneaking or creeping, you not getting close to him, I know.
+ 7382: GIDDEUS DEBUG MENU: [HI`5H"/$3$1[$3v/lP|R<Player>K%$14s/=$5309036|Q$3o$3X<Player>K%$14s/=$5309036|Q$3T$3$8K%$14s/=$485889$3N$3G$3X$3g$k/H#$c$P15i/$3N$3G$3X$3g$P12Dmj=$17$P15(/$3t$3$3O`k`k$9$z%;/$0p$P13|$h/$1p$P13|$h/$2p$P13|$h/$3p$P13|$h/<Player>C$21`e$3q$3$3g%p/$21$P13S$P12b$P16hL$P14i$P16@$P13|$h]
+ 7383: WARP TO... [$P15s$P15(IV/$U$P12d$12V/$U$P12d$P10<V/$P16<$5$12V/$P16<$5$P10<V]
+ 7384: Item Needed = $0.
+ 7385: Obtained: #.
+ 7386: Obtained: $1.
+ 7387: Obtained: $2.
+ 7388: Obtained: $3.
+ 7389: There is nothing out of the ordinary here.
+ 7390: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7391: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7392: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7393: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7394: Now, listen close...
+ 7395: Oh... Well, if that's the case, I'm outta here.
+ 7396: The Goblin slipped away when you were not looking...
+ 7397: You can hear a strange, raspy voice...
+ 7398: I travel......hear lots... Hear...stories... Can tell...if...
+ 7399: .........listen......
+ 7400: Oh...... ...outta here.........
+ 7401: What story would you like to be told? [No, thank you./All events.]
+ 7402: What story would you like to be told? [No, thank you./Zhuu Buxu's Gambit.]
  7403: 
  7404: 
- 7405: You receive nothing from the moon rabbit...
- 7406: The moon rabbit has brought along a monster!
- 7407: You have to do something about those crazy trees, kupo!
- 7408: You're done fighting trees, kupo?
- 7409: 
+ 7405: 
+ 7406: You receive nothing from the moon rabbit...
+ 7407: The moon rabbit has brought along a monster!
+ 7408: You have to do something about those crazy trees, kupo!
+ 7409: You're done fighting trees, kupo?
  7410: 
  7411: 
  7412: 
  7413: 
  7414: 
  7415: 
- 7416: This chest is locked. It can be opened with $0.
- 7417: This chest is empty.
- 7418: Your inventory is full. You cannot carry any more items.
- 7419: You must be closer to the chest to open it.
- 7420: %0 opens the chest and finds $0.
- 7421: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7422: %0 obtains a key item, $6, from the chest.
- 7423: You obtain a key item, $6, from the chest.
- 7424: You unlock the chest!
- 7425: %0 fails to open the chest.
- 7426: The chest was trapped!
- 7427: You cannot open the chest when you are in a weakened state.
- 7428: The chest was a mimic!
- 7429: You cannot open the chest while participating in the moogle event.
- 7430: The chest was but an illusion...
- 7431: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7432: Harvesting is possible here if you have $0.
- 7433: Probability of loss = $3/10000.
- 7434: Your $7 breaks!
- 7435: You successfully harvest $0!
- 7436: You harvest $0, but your $7 breaks.
- 7437: You are unable to harvest anything.
- 7438: You cannot carry any more items. Your inventory is full.
- 7439: Obtained key item: 3!
- 7440: It looks like you might need two people to harvest here...
- 7441: The cyclopean crystal is emitting a radiant glow.
- 7442: You successfully hew $0 [shard/shards] from the crystal!
- 7443: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
- 7444: The crystal is glowing brighter than before...
- 7445: Bugs everywhere, kupo! Big ones, bitty ones! Inside my mouth--<ptooey!>--in the folds of my wings!
- 7446: I'm afraid there's no helpy-welp for it. This place is a ripe breeding ground for insectarus.
- 7447: Every ilm of my body itches, kupo! Arrrgh, make it stop!
- 7448: Ah! If it isn't an adventurer--<scratch, scratch>--all accoutered for the anniversary! You look smashingly splendid, kupo!
- 7449: <Player> apprises the moogle of the material shortage.
- 7450: Ahem! Thank you, kupo, for reminding us of our tardiness. Truth be told, I've been itching so irritably, gathering hasn't been on the forefront of my mind. On this outing I've obtained just one $3...but perhaps it will suffice until we can scare up some more.
- 7451: I don't think we have any other options. We're terribly-werribly sorry to impose, friend, but could you go to the Weavers' Guild in our stead? My moogle companion and I will step up the harvesting effortaru in the meantime.
- 7452: Deliver the $3? [Happy to help!/Too busy, sorry.]
- 7453: We owe you one, kupo! Thank you ever so much!
- 7454: Now then, we need the item taken to the Weavers' Guild in Windurst Woods. The moogle crafter there will be positively pleased to possess it, kupo.
- 7455: Ummm...I don't want to alarm you, but it seems you've scratched your bottom-wottom free of fur.
- 7456: Kupopo!? Egads, you're right! But the itching--<scratch, scratch>--just won't--<scratch, scratch>--stop, kupo! Arrrgh!
- 7457: That's too bad, kupo. But promise to come back if you're not otherwise occupied, all right? <Scratch, scratch>
- 7458: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7459: Set this as current home point? [Yes./No.]
- 7460: Home point set!
- 7461: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7462: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7463: You have registered a new home point! You are now able to teleport here from any other home point.
- 7464: You may teleport from here to any other home point you have registered.
- 7465: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7466: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7467: You have not yet registered any other home points, and thus are unable to teleport.
- 7468: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7469: There is no fee for teleporting to Home Point #$2 in $8.
- 7470: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7471: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7472: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7473: You may change the method of selecting the area of your desired home point to teleport to.
- 7474: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7475: You are now selecting by [region/expansion].
- 7476: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7477: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7478: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7479: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
- 7480: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7481: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7482: You have returned to the field of battle.
- 7483: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7484: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7485: You have only $0 [second/seconds] (Earth time) remaining.
- 7486: Your time for this Confrontation is up...
- 7487: The monster fades before your eyes, a look of disappointment on its face.
- 7488: (Test message.)
- 7489: Enter the garrison? [Yes./No.]
- 7490: The $3 is ripped violently to pieces!
- 7491: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7492: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7493: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7494: Our foe advances...may thine aim be true!
- 7495: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7496: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7497: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7498: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7499: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7500: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7501: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7502: Greetings, traveler! How dost thou fare in thine adventures?
- 7503: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7504: Dost thou find this enchantment to thy liking?
- 7505: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7506: Splendid! May it serve thee well.
- 7507: %0 obtained $0!
- 7508: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7509: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7510: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7511: Though it may fall short of thy expectations, pray accept it.
- 7512: Otherwise, we shall have no choice but to dispose of it.
- 7513: Many thanks for thine assistance!
- 7514: Pray accept this $0 as but a humble token of our gratitude.
- 7515: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7516: $3f$3o$3b$3O$590643$3$3NM
- 7517: $3f$3o$3b$3O$201475X$3^$3243853
- 7518: One or more of your party members do not meet the prerequisites for this battle.
- 7519: One or more of your party members are not in the appropriate staging zone.
- 7520: One or more of your party members are currently viewing a cutscene.
- 7521: You think you spy a small doll in the corner. Could it be the homunculus?
- 7522: Something attacks you from behind!
- 7523: You scour the vault and receive $6.
- 7524: Your name. Spit it out!
- 7525: What's your name? [<Player>./You first!]
- 7526: I applaud your skill in getting this far...all for a little doll.
- 7527: I am Zhuu Buxu the Silent.
- 7528: I am Zhuu Buxu the Silent. Now, out with it.
- 7529: I applaud your skill in getting this far...all for a little doll.
- 7530: I hope you realize how futile your actions are.
- 7531: That's no magicked homunculus. It's a mere child's toy.
- 7532: But I'll share with you a little something, seeing as you went through so much trouble to get here.
- 7533: If you want your precious treasure back, then you must bring me the egg of legends.
- 7534: We know that the egg has appeared somewhere in the Middle Lands, but no one has discerned its exact location.
- 7535: The egg of legends... [What does it look like?/Where is it?/Why do you want it?]
- 7536: We aren't exactly sure. All we know is that it has an air of disease about it.
- 7537: If I knew, we wouldn't be having this discussion.
- 7538: I think that's wholly irrelevant, don't you? You want the doll, we want the egg.
- 7539: But we must get it before the other beastmen...especially the Orcs.
- 7540: But I ask you this--don't any of your kind have any stories about this egg?
- 7541: I suggest you make haste if you ever want to see your precious figure again.
- 7542: You see, there's a Tarutaru in Windurst who has also shown an interest in obtaining it.
- 7543: If you want to know where we'll be making the handoff, you'll have to ask that Tarutaru himself...once you have the egg.
- 7544: I tire of this conversation. You will find the egg...or this will be the last time we meet.
+ 7416: 
+ 7417: This chest is locked. It can be opened with $0.
+ 7418: This chest is empty.
+ 7419: Your inventory is full. You cannot carry any more items.
+ 7420: You must be closer to the chest to open it.
+ 7421: %0 opens the chest and finds $0.
+ 7422: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7423: %0 obtains a key item, $6, from the chest.
+ 7424: You obtain a key item, $6, from the chest.
+ 7425: You unlock the chest!
+ 7426: %0 fails to open the chest.
+ 7427: The chest was trapped!
+ 7428: You cannot open the chest when you are in a weakened state.
+ 7429: The chest was a mimic!
+ 7430: You cannot open the chest while participating in the moogle event.
+ 7431: The chest was but an illusion...
+ 7432: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7433: Harvesting is possible here if you have $0.
+ 7434: Probability of loss = $3/10000.
+ 7435: Your $7 breaks!
+ 7436: You successfully harvest $0!
+ 7437: You harvest $0, but your $7 breaks.
+ 7438: You are unable to harvest anything.
+ 7439: You cannot carry any more items. Your inventory is full.
+ 7440: Obtained key item: 3!
+ 7441: It looks like you might need two people to harvest here...
+ 7442: The cyclopean crystal is emitting a radiant glow.
+ 7443: You successfully hew $0 [shard/shards] from the crystal!
+ 7444: The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
+ 7445: The crystal is glowing brighter than before...
+ 7446: Bugs everywhere, kupo! Big ones, bitty ones! Inside my mouth--<ptooey!>--in the folds of my wings!
+ 7447: I'm afraid there's no helpy-welp for it. This place is a ripe breeding ground for insectarus.
+ 7448: Every ilm of my body itches, kupo! Arrrgh, make it stop!
+ 7449: Ah! If it isn't an adventurer--<scratch, scratch>--all accoutered for the anniversary! You look smashingly splendid, kupo!
+ 7450: <Player> apprises the moogle of the material shortage.
+ 7451: Ahem! Thank you, kupo, for reminding us of our tardiness. Truth be told, I've been itching so irritably, gathering hasn't been on the forefront of my mind. On this outing I've obtained just one $3...but perhaps it will suffice until we can scare up some more.
+ 7452: I don't think we have any other options. We're terribly-werribly sorry to impose, friend, but could you go to the Weavers' Guild in our stead? My moogle companion and I will step up the harvesting effortaru in the meantime.
+ 7453: Deliver the $3? [Happy to help!/Too busy, sorry.]
+ 7454: We owe you one, kupo! Thank you ever so much!
+ 7455: Now then, we need the item taken to the Weavers' Guild in Windurst Woods. The moogle crafter there will be positively pleased to possess it, kupo.
+ 7456: Ummm...I don't want to alarm you, but it seems you've scratched your bottom-wottom free of fur.
+ 7457: Kupopo!? Egads, you're right! But the itching--<scratch, scratch>--just won't--<scratch, scratch>--stop, kupo! Arrrgh!
+ 7458: That's too bad, kupo. But promise to come back if you're not otherwise occupied, all right? <Scratch, scratch>
+ 7459: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7460: Set this as current home point? [Yes./No.]
+ 7461: Home point set!
+ 7462: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7463: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7464: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7465: You may teleport from here to any other home point you have registered.
+ 7466: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7467: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7468: You have not yet registered any other home points, and thus are unable to teleport.
+ 7469: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7470: There is no fee for teleporting to Home Point #$2 in $8.
+ 7471: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7472: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7473: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7474: You may change the method of selecting the area of your desired home point to teleport to.
+ 7475: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7476: You are now selecting by [region/expansion].
+ 7477: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7478: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7479: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7480: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7481: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7482: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7483: You have returned to the field of battle.
+ 7484: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7485: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7486: You have only $0 [second/seconds] (Earth time) remaining.
+ 7487: Your time for this Confrontation is up...
+ 7488: The monster fades before your eyes, a look of disappointment on its face.
+ 7489: (Test message.)
+ 7490: Enter the garrison? [Yes./No.]
+ 7491: The $3 is ripped violently to pieces!
+ 7492: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7493: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7494: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7495: Our foe advances...may thine aim be true!
+ 7496: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7497: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7498: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7499: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7500: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7501: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7502: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7503: Greetings, traveler! How dost thou fare in thine adventures?
+ 7504: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7505: Dost thou find this enchantment to thy liking?
+ 7506: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7507: Splendid! May it serve thee well.
+ 7508: %0 obtained $0!
+ 7509: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7510: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7511: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7512: Though it may fall short of thy expectations, pray accept it.
+ 7513: Otherwise, we shall have no choice but to dispose of it.
+ 7514: Many thanks for thine assistance!
+ 7515: Pray accept this $0 as but a humble token of our gratitude.
+ 7516: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7517: $3f$3o$3b$3O$590643$3$3NM
+ 7518: $3f$3o$3b$3O$201475X$3^$3243853
+ 7519: One or more of your party members do not meet the prerequisites for this battle.
+ 7520: One or more of your party members are not in the appropriate staging zone.
+ 7521: One or more of your party members are currently viewing a cutscene.
+ 7522: You think you spy a small doll in the corner. Could it be the homunculus?
+ 7523: Something attacks you from behind!
+ 7524: You scour the vault and receive $6.
+ 7525: Your name. Spit it out!
+ 7526: What's your name? [<Player>./You first!]
+ 7527: I applaud your skill in getting this far...all for a little doll.
+ 7528: I am Zhuu Buxu the Silent.
+ 7529: I am Zhuu Buxu the Silent. Now, out with it.
+ 7530: I applaud your skill in getting this far...all for a little doll.
+ 7531: I hope you realize how futile your actions are.
+ 7532: That's no magicked homunculus. It's a mere child's toy.
+ 7533: But I'll share with you a little something, seeing as you went through so much trouble to get here.
+ 7534: If you want your precious treasure back, then you must bring me the egg of legends.
+ 7535: We know that the egg has appeared somewhere in the Middle Lands, but no one has discerned its exact location.
+ 7536: The egg of legends... [What does it look like?/Where is it?/Why do you want it?]
+ 7537: We aren't exactly sure. All we know is that it has an air of disease about it.
+ 7538: If I knew, we wouldn't be having this discussion.
+ 7539: I think that's wholly irrelevant, don't you? You want the doll, we want the egg.
+ 7540: But we must get it before the other beastmen...especially the Orcs.
+ 7541: But I ask you this--don't any of your kind have any stories about this egg?
+ 7542: I suggest you make haste if you ever want to see your precious figure again.
+ 7543: You see, there's a Tarutaru in Windurst who has also shown an interest in obtaining it.
+ 7544: If you want to know where we'll be making the handoff, you'll have to ask that Tarutaru himself...once you have the egg.
+ 7545: I tire of this conversation. You will find the egg...or this will be the last time we meet.

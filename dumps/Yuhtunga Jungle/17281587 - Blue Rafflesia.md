@@ -21,16 +21,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DFC      |        7676 |
-|       1 | 0x1DFD      |        7677 |
+|       0 | 0x1DFD      |        7677 |
+|       1 | 0x1DFE      |        7678 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 
 ## String References
 
-- **7676**: A large flower is blooming. You can see something inside it...
-- **7677**: Look inside the flower? [Yes./No.]
+- **7677**: A large flower is blooming. You can see something inside it...
+- **7678**: Look inside the flower? [Yes./No.]
 
 ## Events
 
@@ -78,10 +78,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7676*]:
+  0: 0x0001 [0x48] [System] [7677*]:
     → "A large flower is blooming. You can see something inside it..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7677*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7678*, default_option=0*, option_flags=0*)
     → "Look inside the flower? [Yes./No.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002B
@@ -122,10 +122,10 @@ SUBROUTINE_003B:
 #### Opcodes
 
 ```
-  0: 0x003F [0x48] [System] [7676*]:
+  0: 0x003F [0x48] [System] [7677*]:
     → "A large flower is blooming. You can see something inside it..."
   1: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0043 [0x24] CREATE_DIALOG(message_id=7677*, default_option=0*, option_flags=0*)
+  2: 0x0043 [0x24] CREATE_DIALOG(message_id=7678*, default_option=0*, option_flags=0*)
     → "Look inside the flower? [Yes./No.]"
   3: 0x004A [0x25] WAIT_DIALOG_SELECT()
   4: 0x004B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0069

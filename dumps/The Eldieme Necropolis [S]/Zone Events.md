@@ -105,14 +105,14 @@
 |      53 | 0x0C56      |        3158 |
 |      54 | 0x014E      |         334 |
 |      55 | 0x000F      |          15 |
-|      56 | 0x1EF2      |        7922 |
-|      57 | 0x1EF3      |        7923 |
+|      56 | 0x1EF3      |        7923 |
+|      57 | 0x1EF4      |        7924 |
 |      58 | 0x0013      |          19 |
-|      59 | 0x1EF4      |        7924 |
-|      60 | 0x1EF5      |        7925 |
+|      59 | 0x1EF5      |        7925 |
+|      60 | 0x1EF6      |        7926 |
 |      61 | 0x007F      |         127 |
 |      62 | 0x005A      |          90 |
-|      63 | 0x1EF6      |        7926 |
+|      63 | 0x1EF7      |        7927 |
 |      64 | 0x00A4      |         164 |
 |      65 | 0x00C9      |         201 |
 |      66 | 0x014F      |         335 |
@@ -129,7 +129,7 @@
 |      77 | 0x05A9      |        1449 |
 |      78 | 0x05C3      |        1475 |
 |      79 | 0x00A5      |         165 |
-|      80 | 0x1EF7      |        7927 |
+|      80 | 0x1EF8      |        7928 |
 |      81 | 0x054D      |        1357 |
 |      82 | 0x0548      |        1352 |
 |      83 | 0x0549      |        1353 |
@@ -150,11 +150,11 @@
 |      98 | 0x00BC      |         188 |
 |      99 | 0x07E9      |        2025 |
 |     100 | 0x054E      |        1358 |
-|     101 | 0x1EF8      |        7928 |
+|     101 | 0x1EF9      |        7929 |
 |     102 | 0x53C66     |      343142 |
 |     103 | 0xFFFE22FA  |  4294845178 |
 |     104 | 0x01FB      |         507 |
-|     105 | 0x1EF9      |        7929 |
+|     105 | 0x1EFA      |        7930 |
 |     106 | 0x54107     |      344327 |
 |     107 | 0xFFFE059F  |  4294837663 |
 |     108 | 0x0FD9      |        4057 |
@@ -164,27 +164,27 @@
 |     112 | 0x53042     |      340034 |
 |     113 | 0xFFFE1324  |  4294841124 |
 |     114 | 0x0C1F      |        3103 |
-|     115 | 0x1EFA      |        7930 |
-|     116 | 0x1EFB      |        7931 |
+|     115 | 0x1EFB      |        7931 |
+|     116 | 0x1EFC      |        7932 |
 |     117 | 0x00F4      |         244 |
-|     118 | 0x1EFC      |        7932 |
+|     118 | 0x1EFD      |        7933 |
 |     119 | 0x549E6     |      346598 |
 |     120 | 0xFFFE1D74  |  4294843764 |
 |     121 | 0x01E0      |         480 |
-|     122 | 0x1EFD      |        7933 |
-|     123 | 0x1EFE      |        7934 |
-|     124 | 0x1EFF      |        7935 |
-|     125 | 0x1F00      |        7936 |
-|     126 | 0x1F01      |        7937 |
-|     127 | 0x1F02      |        7938 |
+|     122 | 0x1EFE      |        7934 |
+|     123 | 0x1EFF      |        7935 |
+|     124 | 0x1F00      |        7936 |
+|     125 | 0x1F01      |        7937 |
+|     126 | 0x1F02      |        7938 |
+|     127 | 0x1F03      |        7939 |
 |     128 | 0x5404A     |      344138 |
 |     129 | 0xFFFE1DF0  |  4294843888 |
 |     130 | 0x01A7      |         423 |
 |     131 | 0x0397      |         919 |
-|     132 | 0x1F03      |        7939 |
-|     133 | 0x1F04      |        7940 |
+|     132 | 0x1F04      |        7940 |
+|     133 | 0x1F05      |        7941 |
 |     134 | 0x0594      |        1428 |
-|     135 | 0x1F05      |        7941 |
+|     135 | 0x1F06      |        7942 |
 |     136 | 0x00BE      |         190 |
 |     137 | 0x52789     |      337801 |
 |     138 | 0xFFFD96ED  |  4294809325 |
@@ -196,36 +196,36 @@
 |     144 | 0x058E      |        1422 |
 |     145 | 0x0591      |        1425 |
 |     146 | 0x0575      |        1397 |
-|     147 | 0x1F06      |        7942 |
-|     148 | 0x1F07      |        7943 |
-|     149 | 0x1F08      |        7944 |
+|     147 | 0x1F07      |        7943 |
+|     148 | 0x1F08      |        7944 |
+|     149 | 0x1F09      |        7945 |
 |     150 | 0x0096      |         150 |
-|     151 | 0x1F09      |        7945 |
+|     151 | 0x1F0A      |        7946 |
 |     152 | 0x0592      |        1426 |
-|     153 | 0x1F0A      |        7946 |
-|     154 | 0x1F0B      |        7947 |
+|     153 | 0x1F0B      |        7947 |
+|     154 | 0x1F0C      |        7948 |
 |     155 | 0x007B      |         123 |
 |     156 | 0x53AEE     |      342766 |
 |     157 | 0xFFFE1FB9  |  4294844345 |
 |     158 | 0x0FA1      |        4001 |
 |     159 | 0xFFFE1D78  |  4294843768 |
-|     160 | 0x1F0C      |        7948 |
-|     161 | 0x1F0D      |        7949 |
-|     162 | 0x1F0E      |        7950 |
-|     163 | 0x1F0F      |        7951 |
-|     164 | 0x1F10      |        7952 |
+|     160 | 0x1F0D      |        7949 |
+|     161 | 0x1F0E      |        7950 |
+|     162 | 0x1F0F      |        7951 |
+|     163 | 0x1F10      |        7952 |
+|     164 | 0x1F11      |        7953 |
 |     165 | 0x5422E     |      344622 |
 |     166 | 0xFFFE12A3  |  4294840995 |
 |     167 | 0x0FA2      |        4002 |
 |     168 | 0x52C76     |      339062 |
 |     169 | 0xFFFE1F55  |  4294844245 |
-|     170 | 0x1F11      |        7953 |
-|     171 | 0x1F12      |        7954 |
-|     172 | 0x1F13      |        7955 |
-|     173 | 0x1F14      |        7956 |
-|     174 | 0x1F15      |        7957 |
-|     175 | 0x1F16      |        7958 |
-|     176 | 0x1F17      |        7959 |
+|     170 | 0x1F12      |        7954 |
+|     171 | 0x1F13      |        7955 |
+|     172 | 0x1F14      |        7956 |
+|     173 | 0x1F15      |        7957 |
+|     174 | 0x1F16      |        7958 |
+|     175 | 0x1F17      |        7959 |
+|     176 | 0x1F18      |        7960 |
 |     177 | 0x0095      |         149 |
 |     178 | 0x009F      |         159 |
 |     179 | 0x0003      |           3 |
@@ -258,7 +258,7 @@
 
 ## String References
 
-- **7922**: You hear an odd skittering sound coming from beneath the sarcophagus...
+- **7923**: You hear an odd skittering sound coming from beneath the sarcophagus...
 
 ## Events
 
@@ -1144,7 +1144,7 @@ SUBROUTINE_0145:
  35: 0x02EE [0x1C] WAIT(15* ticks)
  36: 0x02F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  37: 0x0302 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 38: 0x0311 [0x48] [System] [7922*]:
+ 38: 0x0311 [0x48] [System] [7923*]:
     → "You hear an odd skittering sound coming from beneath the sarcophagus..."
  39: 0x0314 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0315 [0x27] REQ_SET(priority=0x05, entity_id=Ernestine (ID: 17494765/0x010AF2ED), tag_num=0x02)
@@ -1156,7 +1156,7 @@ SUBROUTINE_0145:
  46: 0x0333 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=334*
  47: 0x0342 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[334*, 0*]
  48: 0x0353 [0x4A] LocalPlayer looks at Ernestine (ID: 17494765/0x010AF2ED)
- 49: 0x035C [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7923*]:
+ 49: 0x035C [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7924*]:
     → "Hey, what do you think you're doing down here?"
  50: 0x0363 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0364 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Ernestine (ID: 17494765/0x010AF2ED))
@@ -1165,10 +1165,10 @@ SUBROUTINE_0145:
  54: 0x0376 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=334*
  55: 0x0385 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[334*, 0*]
  56: 0x0396 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=19*
- 57: 0x03A5 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7924*]:
+ 57: 0x03A5 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7925*]:
     → "An odd sound, you say?"
  58: 0x03AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x03AD [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7925*]:
+ 59: 0x03AD [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7926*]:
     → "I don't hear anything except your impending doom. This place is dangerous. I suggest you make tracks."
  60: 0x03B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x03B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=19*
@@ -1181,7 +1181,7 @@ SUBROUTINE_0145:
  68: 0x0418 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s184" with entities [EventEntity, EventEntity], work=[334*, 0*]
  69: 0x0429 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "kill" with entities [EventEntity, EventEntity], work=[127*, 0*]
  70: 0x043A [0x7C] Ernestine (ID: 17494765/0x010AF2ED)->Render.Flags2 |= 0x00
- 71: 0x0440 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7926*]:
+ 71: 0x0440 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7927*]:
     → "!?"
  72: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0448 [0x7C] Ernestine (ID: 17494765/0x010AF2ED)->Render.Flags2 |= 0x01
@@ -1239,7 +1239,7 @@ SUBROUTINE_0145:
 125: 0x0685 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[334*, 0*]
 126: 0x0696 [0x6E] LocalPlayer uses emote 21*
 127: 0x069D [0x99] Wait for LocalPlayer animation to complete
-128: 0x06A2 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7927*]:
+128: 0x06A2 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7928*]:
     → "What in the...!"
 129: 0x06A9 [0x1C] WAIT(30* ticks)
 130: 0x06AC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "anb0" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=1357*
@@ -1359,7 +1359,7 @@ SUBROUTINE_0A06:
 242: 0x0BE1 [0xBA] SET_ENTITY_POSITION(entity_id=Ernestine (ID: 17494765/0x010AF2ED), pos_x=349.193*, pos_z=-128.917*, pos_y=-32.000*, direction=178.0°*)
 243: 0x0BEE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dwn0" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=1358*
 244: 0x0BFD [0x2A] GET_REQ_LEVEL(level=5, entity_id=Volker (ID: 17494763/0x010AF2EB))
-245: 0x0C03 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7928*]:
+245: 0x0C03 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7929*]:
     → "An Antica!? How did that get in here...?"
 246: 0x0C0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x0C0B [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=334*
@@ -1369,7 +1369,7 @@ SUBROUTINE_0A06:
 251: 0x0C41 [0x80] LOAD_WAIT(entity=Zeid (ID: 17494762/0x010AF2EA))
 252: 0x0C46 [0x27] REQ_SET(priority=0x05, entity_id=Zeid (ID: 17494762/0x010AF2EA), tag_num=0x02)
 253: 0x0C4D [0x1C] WAIT(60* ticks)
-254: 0x0C50 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7929*]:
+254: 0x0C50 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7930*]:
     → "You're one of Senator Werner's hired swords, aren't you? Let's hear what you have to say about this."
 255: 0x0C57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0C58 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Zeid (ID: 17494762/0x010AF2EA))
@@ -1390,7 +1390,7 @@ SUBROUTINE_0A06:
 271: 0x0CDD [0x4A] Unnamed NPC (ID: 17494768/0x010AF2F0) looks at Ernestine (ID: 17494765/0x010AF2ED)
 272: 0x0CE6 [0x4A] Unnamed NPC (ID: 17494769/0x010AF2F1) looks at Ernestine (ID: 17494765/0x010AF2ED)
 273: 0x0CEF [0x1C] WAIT(30* ticks)
-274: 0x0CF2 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7930*]:
+274: 0x0CF2 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7931*]:
     → "Hmph. So, the Mythril Musketeers finally tracked us down... I knew Engelhart was getting sloppy."
 275: 0x0CF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x0CFA [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
@@ -1400,11 +1400,11 @@ SUBROUTINE_0A06:
 280: 0x0D0A [0x9A] WAIT_MUSIC_SERVER()
 281: 0x0D0B [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=334*
 282: 0x0D1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[334*, 0*]
-283: 0x0D2B [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7931*]:
+283: 0x0D2B [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7932*]:
     → "That Antica was being held here by order of the senator."
 284: 0x0D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x0D33 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsb0" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)], work=244*
-286: 0x0D42 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7932*]:
+286: 0x0D42 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7933*]:
     → "By order of the senator!?"
 287: 0x0D49 [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x0D4A [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=334*
@@ -1413,37 +1413,37 @@ SUBROUTINE_0A06:
 291: 0x0D79 [0x6B] STOP_AND_IDLE: Zeid (ID: 17494762/0x010AF2EA) stops current action and resets to idle (animation="idl0")
 292: 0x0D82 [0xBA] SET_ENTITY_POSITION(entity_id=Zeid (ID: 17494762/0x010AF2EA), pos_x=346.598*, pos_z=-123.532*, pos_y=-32.000*, direction=42.2°*)
 293: 0x0D8F [0x80] LOAD_WAIT(entity=Zeid (ID: 17494762/0x010AF2EA))
-294: 0x0D94 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7933*]:
+294: 0x0D94 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7934*]:
     → "He believed that the awesome military might of the Antican Empire could be harnessed for the war effort..."
 295: 0x0D9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x0D9C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dwn1" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)]
 297: 0x0DA9 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=334*
 298: 0x0DB8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[334*, 0*]
 299: 0x0DC9 [0x7C] Zeid (ID: 17494762/0x010AF2EA)->Render.Flags2 |= 0x00
-300: 0x0DCF [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7934*]:
+300: 0x0DCF [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7935*]:
     → "..."
 301: 0x0DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x0DD7 [0x7C] Zeid (ID: 17494762/0x010AF2EA)->Render.Flags2 |= 0x01
 303: 0x0DDD [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=334*
 304: 0x0DEC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[334*, 0*]
 305: 0x0DFD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsb0" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)], work=244*
-306: 0x0E0C [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7935*]:
+306: 0x0E0C [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7936*]:
     → "An alliance with those butchers? Even the ambitious senator would not suggest such madness."
 307: 0x0E13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x0E14 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tkb1" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)], work=244*
 309: 0x0E23 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsa0" with entities [Volker (ID: 17494763/0x010AF2EB), Volker (ID: 17494763/0x010AF2EB)], work=200*
 310: 0x0E32 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=334*
 311: 0x0E41 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[334*, 0*]
-312: 0x0E52 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7936*]:
+312: 0x0E52 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7937*]:
     → "It is true that the slumbering legions of the Antica are so incredibly vast that their numbers would easily tip the balance of this conflict."
 313: 0x0E59 [0x23] WAIT_FOR_DIALOG_INTERACTION
-314: 0x0E5A [0x2B] Volker (ID: 17494763/0x010AF2EB) [7937*]:
+314: 0x0E5A [0x2B] Volker (ID: 17494763/0x010AF2EB) [7938*]:
     → "But to have dealings with the ancestral enemies of the Galka..."
 315: 0x0E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x0E62 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsa1" with entities [Volker (ID: 17494763/0x010AF2EB), Volker (ID: 17494763/0x010AF2EB)], work=200*
 317: 0x0E71 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=334*
 318: 0x0E80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[334*, 0*]
-319: 0x0E91 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7938*]:
+319: 0x0E91 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7939*]:
     → "There was no idealistic plan to negotiate the Antica's integration into the Allied Forces of Altana."
 320: 0x0E98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x0E99 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=334*
@@ -1453,20 +1453,20 @@ SUBROUTINE_0A06:
 325: 0x0ECB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dwt0" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=1358*
 326: 0x0EDA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dwt0" with entities [EventEntity, EventEntity], work=[334*, 0*]
 327: 0x0EEB [0x03] Work_Zone[2] = 919*
-328: 0x0EF0 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7939*]:
+328: 0x0EF0 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7940*]:
     → "Senator Werner meant to control the antmen using an improved version of the $3. This prisoner was nothing more than a test subject!"
 329: 0x0EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x0EF8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dwt0" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)]
 331: 0x0F05 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=334*
 332: 0x0F14 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[334*, 0*]
 333: 0x0F25 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dwt1" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=1358*
-334: 0x0F34 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7940*]:
+334: 0x0F34 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7941*]:
     → "Good Goddess..."
 335: 0x0F3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x0F3C [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=334*
 337: 0x0F4B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[334*, 0*]
 338: 0x0F5C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aza0" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)], work=1428*
-339: 0x0F6B [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7941*]:
+339: 0x0F6B [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7942*]:
     → "No such abomination will take place while I have the strength to wield a blade!"
 340: 0x0F72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x0F73 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "aza0" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)]
@@ -1502,16 +1502,16 @@ SUBROUTINE_0A06:
 371: 0x10CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[334*, 0*]
 372: 0x10DB [0x1C] WAIT(15* ticks)
 373: 0x10DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [EventEntity, EventEntity], work=[201*, 0*]
-374: 0x10EF [0x2B] Volker (ID: 17494763/0x010AF2EB) [7942*]:
+374: 0x10EF [0x2B] Volker (ID: 17494763/0x010AF2EB) [7943*]:
     → "War Cloud, no!"
 375: 0x10F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 376: 0x10F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [EventEntity, EventEntity], work=334*
 377: 0x1106 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[334*, 0*]
 378: 0x1117 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "zf01" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)], work=1425*
-379: 0x1126 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7943*]:
+379: 0x1126 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7944*]:
     → "Never speak that name again, Volker..."
 380: 0x112D [0x23] WAIT_FOR_DIALOG_INTERACTION
-381: 0x112E [0x2B] Volker (ID: 17494763/0x010AF2EB) [7944*]:
+381: 0x112E [0x2B] Volker (ID: 17494763/0x010AF2EB) [7945*]:
     → "We must treat this beastman as we would any prisoner of war. Besides, it barely has the strength to--"
 382: 0x1135 [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x1136 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "zf02" with entities [Unnamed NPC (ID: 17494772/0x010AF2F4), Unnamed NPC (ID: 17494772/0x010AF2F4)], work=1422*
@@ -1527,7 +1527,7 @@ SUBROUTINE_0A06:
 393: 0x11C6 [0x1C] WAIT(210* ticks)
 394: 0x11C9 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=334*
 395: 0x11D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[334*, 0*]
-396: 0x11E9 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7945*]:
+396: 0x11E9 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7946*]:
     → "!!!"
 397: 0x11F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x11F1 [0x1C] WAIT(60* ticks)
@@ -1547,10 +1547,10 @@ SUBROUTINE_0A06:
 412: 0x12AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[334*, 0*]
 413: 0x12C0 [0x4A] LocalPlayer looks at Ernestine (ID: 17494765/0x010AF2ED)
 414: 0x12C9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "zf04" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)], work=1426*
-415: 0x12D8 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7946*]:
+415: 0x12D8 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7947*]:
     → "Do not underestimate the Antica. They are bred to be killing machines..."
 416: 0x12DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-417: 0x12E0 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7947*]:
+417: 0x12E0 [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7948*]:
     → "Your precious ethics and morals do not exist for Antican soldiers. One tiny slip, and they would turn on us without the slightest hesitation."
 418: 0x12E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x12E8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zf04" with entities [Zeid (ID: 17494762/0x010AF2EA), Zeid (ID: 17494762/0x010AF2EA)]
@@ -1572,27 +1572,27 @@ SUBROUTINE_0A06:
 435: 0x136B [0x1C] WAIT(30* ticks)
 436: 0x136E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dwt0" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=1358*
 437: 0x137D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dwt0" with entities [EventEntity, EventEntity], work=[334*, 0*]
-438: 0x138E [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7948*]:
+438: 0x138E [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7949*]:
     → "You understand their nature well, Galka. There is little point in taking defeated Antica as prisoners--even should they manage to return to their homeland, a fate crueler than death awaits them."
 439: 0x1395 [0x23] WAIT_FOR_DIALOG_INTERACTION
 440: 0x1396 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=334*
 441: 0x13A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[334*, 0*]
-442: 0x13B6 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7949*]:
+442: 0x13B6 [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7950*]:
     → "And the senator wished to control such unfeeling monsters."
 443: 0x13BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 444: 0x13BE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dwt1" with entities [Ernestine (ID: 17494765/0x010AF2ED), Ernestine (ID: 17494765/0x010AF2ED)], work=1358*
 445: 0x13CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dwt1" with entities [EventEntity, EventEntity], work=[334*, 0*]
-446: 0x13DE [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7950*]:
+446: 0x13DE [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7951*]:
     → "It's hardly surprising that President Prien and Chairman Pale Eagle chose to oppose this reckless plan."
 447: 0x13E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 448: 0x13E6 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=334*
 449: 0x13F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[334*, 0*]
-450: 0x1406 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7951*]:
+450: 0x1406 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7952*]:
     → "The president knew of this...?"
 451: 0x140D [0x23] WAIT_FOR_DIALOG_INTERACTION
 452: 0x140E [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [EventEntity, EventEntity], work=334*
 453: 0x141D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[334*, 0*]
-454: 0x142E [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7952*]:
+454: 0x142E [0x2B] Ernestine (ID: 17494765/0x010AF2ED) [7953*]:
     → "It seems quite a few things escaped your notice, Musketeer. Perhaps you should discuss it with him upon your return."
 455: 0x1435 [0x23] WAIT_FOR_DIALOG_INTERACTION
 456: 0x1436 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=180*)
@@ -1621,39 +1621,39 @@ SUBROUTINE_0A06:
 479: 0x1506 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=334*
 480: 0x1515 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[334*, 0*]
 481: 0x1526 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsa0" with entities [Volker (ID: 17494763/0x010AF2EB), Volker (ID: 17494763/0x010AF2EB)], work=200*
-482: 0x1535 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7953*]:
+482: 0x1535 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7954*]:
     → "My apologies for tailing you, <Player>. Your ties to this mercenary organization were our best lead."
 483: 0x153C [0x23] WAIT_FOR_DIALOG_INTERACTION
 484: 0x153D [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=334*
 485: 0x154C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[334*, 0*]
-486: 0x155D [0x2B] Volker (ID: 17494763/0x010AF2EB) [7954*]:
+486: 0x155D [0x2B] Volker (ID: 17494763/0x010AF2EB) [7955*]:
     → "The Musketeers were actually well aware of Englehart's position as an intermediary. It was in our best interest to allow him to operate unhindered--at least until we had what we needed."
 487: 0x1564 [0x23] WAIT_FOR_DIALOG_INTERACTION
-488: 0x1565 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7955*]:
+488: 0x1565 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7956*]:
     → "To be honest, we began to doubt your integrity when you spoke with him again. However, that female agent seemed to have no idea who you were."
 489: 0x156C [0x23] WAIT_FOR_DIALOG_INTERACTION
 490: 0x156D [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=334*
 491: 0x157C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[334*, 0*]
 492: 0x158D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsa1" with entities [Volker (ID: 17494763/0x010AF2EB), Volker (ID: 17494763/0x010AF2EB)], work=200*
-493: 0x159C [0x2B] Volker (ID: 17494763/0x010AF2EB) [7956*]:
+493: 0x159C [0x2B] Volker (ID: 17494763/0x010AF2EB) [7957*]:
     → "You obviously have no deeper connection with this whole affair than the one you described. Once again, I apologize for our suspicions."
 494: 0x15A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 495: 0x15A4 [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=334*
 496: 0x15B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[334*, 0*]
 497: 0x15C4 [0x7C] Zeid (ID: 17494762/0x010AF2EA)->Render.Flags2 |= 0x00
-498: 0x15CA [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7957*]:
+498: 0x15CA [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7958*]:
     → "..."
 499: 0x15D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 500: 0x15D2 [0x7C] Zeid (ID: 17494762/0x010AF2EA)->Render.Flags2 |= 0x01
 501: 0x15D8 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=334*
 502: 0x15E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[334*, 0*]
 503: 0x15F8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tsk1" with entities [Volker (ID: 17494763/0x010AF2EB), Volker (ID: 17494763/0x010AF2EB)], work=1397*
-504: 0x1607 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7958*]:
+504: 0x1607 [0x2B] Volker (ID: 17494763/0x010AF2EB) [7959*]:
     → "I never would have believed the senator capable of something like this..."
 505: 0x160E [0x23] WAIT_FOR_DIALOG_INTERACTION
 506: 0x160F [0x4A] Zeid (ID: 17494762/0x010AF2EA) looks at Volker (ID: 17494763/0x010AF2EB)
 507: 0x1618 [0x1C] WAIT(30* ticks)
-508: 0x161B [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7959*]:
+508: 0x161B [0x2B] Zeid (ID: 17494762/0x010AF2EA) [7960*]:
     → "We must report to the captain at once."
 509: 0x1622 [0x23] WAIT_FOR_DIALOG_INTERACTION
 510: 0x1623 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Volker (ID: 17494763/0x010AF2EB), Volker (ID: 17494763/0x010AF2EB)], work=1397*

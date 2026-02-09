@@ -61,22 +61,22 @@
 |       5 | 0x3E7F      |       15999 |
 |       6 | 0x07A5      |        1957 |
 |       7 | 0x0092      |         146 |
-|       8 | 0x1CDD      |        7389 |
-|       9 | 0x1CDE      |        7390 |
+|       8 | 0x1CDE      |        7390 |
+|       9 | 0x1CDF      |        7391 |
 |      10 | 0x003C      |          60 |
-|      11 | 0x1CDF      |        7391 |
+|      11 | 0x1CE0      |        7392 |
 |      12 | 0x007C      |         124 |
-|      13 | 0x1CE0      |        7392 |
-|      14 | 0x1CE1      |        7393 |
-|      15 | 0x1CE2      |        7394 |
-|      16 | 0x1CE3      |        7395 |
-|      17 | 0x1CE4      |        7396 |
-|      18 | 0x1CE5      |        7397 |
-|      19 | 0x1CE6      |        7398 |
-|      20 | 0x1CE7      |        7399 |
+|      13 | 0x1CE1      |        7393 |
+|      14 | 0x1CE2      |        7394 |
+|      15 | 0x1CE3      |        7395 |
+|      16 | 0x1CE4      |        7396 |
+|      17 | 0x1CE5      |        7397 |
+|      18 | 0x1CE6      |        7398 |
+|      19 | 0x1CE7      |        7399 |
+|      20 | 0x1CE8      |        7400 |
 |      21 | 0x000F      |          15 |
-|      22 | 0x1CE8      |        7400 |
-|      23 | 0x1CE9      |        7401 |
+|      22 | 0x1CE9      |        7401 |
+|      23 | 0x1CEA      |        7402 |
 |      24 | 0x005A      |          90 |
 |      25 | 0x21D4A     |      138570 |
 |      26 | 0x1DC79     |      121977 |
@@ -175,17 +175,17 @@
 |     119 | 0x0094      |         148 |
 |     120 | 0x00F0      |         240 |
 |     121 | 0x00C9      |         201 |
-|     122 | 0x1FA5      |        8101 |
+|     122 | 0x1FA6      |        8102 |
 |     123 | 0x0090      |         144 |
-|     124 | 0x1FB1      |        8113 |
+|     124 | 0x1FB2      |        8114 |
 |     125 | 0x0063      |          99 |
-|     126 | 0x1FB2      |        8114 |
+|     126 | 0x1FB3      |        8115 |
 
 ## String References
 
-- **8101**: There is treasure somewhere in the vicinity of this marker...
-- **8113**: Your chocobo seems especially sharp today!
-- **8114**: Your chocobo seems especially energetic today!
+- **8102**: There is treasure somewhere in the vicinity of this marker...
+- **8114**: Your chocobo seems especially sharp today!
+- **8115**: Your chocobo seems especially energetic today!
 
 ## Events
 
@@ -299,7 +299,7 @@
   9: 0x0053 [0x4E] SET_ENTITY_HIDE_FLAG: Show Lewenhart (ID: 17261138/0x01076252)
  10: 0x0059 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x006A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 12: 0x0079 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7389*]:
+ 12: 0x0079 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7390*]:
     → "Oh, it's a rare day I see anybody around here."
  13: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0081 [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
@@ -307,7 +307,7 @@
  16: 0x008B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  17: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm11" with entities [EventEntity, EventEntity], work=[146*, 0*]
  18: 0x00A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm11" with entities [EventEntity, EventEntity], work=146*
- 19: 0x00B0 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7390*]:
+ 19: 0x00B0 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7391*]:
     → "Oh, forgive me... I am a simple minstrel. I travel from one tavern to another, caring little whence my daily bread may come."
  20: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00B8 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x02)
@@ -317,7 +317,7 @@
  25: 0x00CE [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
  26: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x08)
  27: 0x00DE [0x4A] LocalPlayer looks at Lewenhart (ID: 17261138/0x01076252)
- 28: 0x00E7 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7391*]:
+ 28: 0x00E7 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7392*]:
     → "Every time I walk this road, I make a point of visiting this place. And it's good to see a kindred spirit here."
  29: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00EF [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 124*
@@ -325,23 +325,23 @@
  32: 0x00F7 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x04)
  33: 0x00FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm12" with entities [EventEntity, EventEntity], work=[146*, 0*]
  34: 0x010F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm12" with entities [EventEntity, EventEntity], work=146*
- 35: 0x011E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7392*]:
+ 35: 0x011E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7393*]:
     → "The lyrics here have an endless charm, don't they? The story of two lovers torn apart, each hearing the crashing of waves from opposite shores..."
  36: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0126 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7393*]:
+ 37: 0x0126 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7394*]:
     → "This is how emotions live on, my friend. Even those of broken dreams and failed romances..."
  38: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x012E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7394*]:
+ 39: 0x012E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7395*]:
     → "Our duty as minstrels is to take these shattered desires, give them shape, and pass them to others."
  40: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0136 [0x27] REQ_SET(priority=0x03, entity_id=Song Runes (ID: 17261137/0x01076251), tag_num=0x03)
- 42: 0x013D [0x2B] Lewenhart (ID: 17261138/0x01076252) [7395*]:
+ 42: 0x013D [0x2B] Lewenhart (ID: 17261138/0x01076252) [7396*]:
     → "I know that dreams and emotions are often difficult to grasp."
  43: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0145 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7396*]:
+ 44: 0x0145 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7397*]:
     → "But sometimes, in a moment of brilliance, our songs can stir even the loneliest heart."
  45: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x014D [0x2B] Lewenhart (ID: 17261138/0x01076252) [7397*]:
+ 46: 0x014D [0x2B] Lewenhart (ID: 17261138/0x01076252) [7398*]:
     → "My friend, moments like that are what keep us minstrels singing."
  47: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0155 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Song Runes (ID: 17261137/0x01076251), tag_num=0x04)
@@ -349,10 +349,10 @@
  50: 0x0163 [0x4A] Lewenhart (ID: 17261138/0x01076252) looks at LocalPlayer
  51: 0x016C [0x1C] WAIT(60* ticks)
  52: 0x016F [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x06)
- 53: 0x0176 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7398*]:
+ 53: 0x0176 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7399*]:
     → "Can you not feel the powerful emotions of the narrator here, who could not help but put these feelings to verse?"
  54: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x017E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7399*]:
+ 55: 0x017E [0x2B] Lewenhart (ID: 17261138/0x01076252) [7400*]:
     → "Even those who forgot how to sing through the toils of life should be moved, made to sing by the lyrics herein."
  56: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0186 [0x27] REQ_SET(priority=0x04, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x07)
@@ -360,10 +360,10 @@
  59: 0x0190 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm14" with entities [EventEntity, EventEntity], work=[146*, 0*]
  60: 0x01A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm14" with entities [EventEntity, EventEntity], work=146*
  61: 0x01B0 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Lewenhart (ID: 17261138/0x01076252), tag_num=0x08)
- 62: 0x01B7 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7400*]:
+ 62: 0x01B7 [0x2B] Lewenhart (ID: 17261138/0x01076252) [7401*]:
     → "Oh, it seems I've rambled quite a bit. My words fall to riddles whenever I'm here, I'm afraid."
  63: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x01BF [0x2B] Lewenhart (ID: 17261138/0x01076252) [7401*]:
+ 64: 0x01BF [0x2B] Lewenhart (ID: 17261138/0x01076252) [7402*]:
     → "Well, I shan't keep you any longer. I hope we may meet again in the bustle of a warm tavern. Farewell!"
  65: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x01C7 [0x7B] Lewenhart (ID: 17261138/0x01076252) stops talking
@@ -1254,17 +1254,17 @@ SUBROUTINE_0376:
      0x04FE [0x00] END_REQSTACK()
      0x04FF [0x00] END_REQSTACK()
      0x0500 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x0511 [0x48] [System] [8101*]:
+     0x0511 [0x48] [System] [8102*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0515 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0532
      0x051D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x052E [0x48] [System] [8113*]:
+     0x052E [0x48] [System] [8114*]:
     → "Your chocobo seems especially sharp today!"
      0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0532 [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x054F
      0x053A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x054B [0x48] [System] [8114*]:
+     0x054B [0x48] [System] [8115*]:
     → "Your chocobo seems especially energetic today!"
      0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x054F [0x1C] WAIT(1* ticks)

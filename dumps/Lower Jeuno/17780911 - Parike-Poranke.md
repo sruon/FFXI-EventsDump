@@ -24,7 +24,7 @@
 |       1 | 0x2711      |       10001 |
 |       2 | 0x2712      |       10002 |
 |       3 | 0x2713      |       10003 |
-|       4 | 0x230F      |        8975 |
+|       4 | 0x2310      |        8976 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x001E      |          30 |
@@ -32,56 +32,56 @@
 |       9 | 0x000F      |          15 |
 |      10 | 0x11C1      |        4545 |
 |      11 | 0x0020      |          32 |
-|      12 | 0x2310      |        8976 |
-|      13 | 0x2311      |        8977 |
-|      14 | 0x2312      |        8978 |
-|      15 | 0x2313      |        8979 |
-|      16 | 0x2314      |        8980 |
-|      17 | 0x2315      |        8981 |
-|      18 | 0x2316      |        8982 |
+|      12 | 0x2311      |        8977 |
+|      13 | 0x2312      |        8978 |
+|      14 | 0x2313      |        8979 |
+|      15 | 0x2314      |        8980 |
+|      16 | 0x2315      |        8981 |
+|      17 | 0x2316      |        8982 |
+|      18 | 0x2317      |        8983 |
 |      19 | 0x002B      |          43 |
 |      20 | 0x003C      |          60 |
-|      21 | 0x2317      |        8983 |
-|      22 | 0x2318      |        8984 |
+|      21 | 0x2318      |        8984 |
+|      22 | 0x2319      |        8985 |
 |      23 | 0x0100      |         256 |
-|      24 | 0x2319      |        8985 |
+|      24 | 0x231A      |        8986 |
 |      25 | 0x00B4      |         180 |
 |      26 | 0x2717      |       10007 |
-|      27 | 0x2332      |        9010 |
-|      28 | 0x231A      |        8986 |
+|      27 | 0x2333      |        9011 |
+|      28 | 0x231B      |        8987 |
 |      29 | 0x0028      |          40 |
-|      30 | 0x231B      |        8987 |
-|      31 | 0x231C      |        8988 |
-|      32 | 0x231D      |        8989 |
+|      30 | 0x231C      |        8988 |
+|      31 | 0x231D      |        8989 |
+|      32 | 0x231E      |        8990 |
 |      33 | 0x03E8      |        1000 |
-|      34 | 0x231E      |        8990 |
-|      35 | 0x231F      |        8991 |
-|      36 | 0x2320      |        8992 |
-|      37 | 0x2321      |        8993 |
+|      34 | 0x231F      |        8991 |
+|      35 | 0x2320      |        8992 |
+|      36 | 0x2321      |        8993 |
+|      37 | 0x2322      |        8994 |
 |      38 | 0x2718      |       10008 |
 |      39 | 0x01EE      |         494 |
-|      40 | 0x2322      |        8994 |
+|      40 | 0x2323      |        8995 |
 |      41 | 0x2714      |       10004 |
-|      42 | 0x2323      |        8995 |
+|      42 | 0x2324      |        8996 |
 |      43 | 0x0015      |          21 |
-|      44 | 0x2324      |        8996 |
-|      45 | 0x2325      |        8997 |
-|      46 | 0x2326      |        8998 |
+|      44 | 0x2325      |        8997 |
+|      45 | 0x2326      |        8998 |
+|      46 | 0x2327      |        8999 |
 |      47 | 0x0019      |          25 |
-|      48 | 0x2327      |        8999 |
-|      49 | 0x2328      |        9000 |
-|      50 | 0x2329      |        9001 |
-|      51 | 0x232A      |        9002 |
-|      52 | 0x232B      |        9003 |
-|      53 | 0x232C      |        9004 |
-|      54 | 0x232D      |        9005 |
+|      48 | 0x2328      |        9000 |
+|      49 | 0x2329      |        9001 |
+|      50 | 0x232A      |        9002 |
+|      51 | 0x232B      |        9003 |
+|      52 | 0x232C      |        9004 |
+|      53 | 0x232D      |        9005 |
+|      54 | 0x232E      |        9006 |
 |      55 | 0x2719      |       10009 |
 |      56 | 0x0039      |          57 |
-|      57 | 0x232E      |        9006 |
-|      58 | 0x232F      |        9007 |
-|      59 | 0x2330      |        9008 |
-|      60 | 0x2331      |        9009 |
-|      61 | 0x2333      |        9011 |
+|      57 | 0x232F      |        9007 |
+|      58 | 0x2330      |        9008 |
+|      59 | 0x2331      |        9009 |
+|      60 | 0x2332      |        9010 |
+|      61 | 0x2334      |        9012 |
 |      62 | 0x03E7      |         999 |
 |      63 | 0x0001      |           1 |
 |      64 | 0x270F      |        9999 |
@@ -92,43 +92,43 @@
 
 ## String References
 
-- **8975**: All these people running back and forth... There have to be a few that have munched down more mithkabobs than they can manage. (And if I don't hand in this report to the Orastery soon... Ulp!)
-- **8976**: Hey you! Belly bursting? Intestines inflating? Bladder bulging? I can tell by the notch on your belt that you've been overindulging yourself in culinary delights.
-- **8977**: Well, you're in luck! I happen to be an expert magician versed well in the digestive arts. It's kind of in-between white and black magic...brown magic, you could call it. Anyway, you bring me $0, and I'll fix your indigestion on the spot!
-- **8978**: Oh, I'm sorry. I guess I can't force you into doing anything you don't want to...
-- **8979**: I mean, this is a new era. If somebody wants to go around with their flabby-flubber hanging out of their cloaks, they should have every right to do so. If someone wants to walk around town with breath reeking of Kazham pines and roasted sleepshrooms, who am I to stop them?
-- **8980**: What? You want me to tend to your tummy trouble? No problem! And don't worry, this won't hurt at all! I'm only going to be flushing your bowels with thousands of tiny lightning bolts. It's all perfectly safe!
-- **8981**: Now stand still! You wouldn't want your pelvis to implode, would you? (Let's see... What were those magic words again...?)
-- **8982**: Ready? No? Well, too bad!
-- **8983**: Bulging...! (Was this it?)
-- **8984**: Belly...! (No, that's not right...)
-- **8985**: BURST!!! (Oh, who cares? Let the excremental exodus begin!)
-- **8986**: <Player>'s stomach growls.
-- **8987**: I did it! I did it! Ahem! I mean... Of course I did it.
-- **8988**: Another case of cantankerous constipation cured! You're free to fill your face once again! But remember, if you ever binge a bit beyond your belly's boundaries, you know who to call!
-- **8989**: (Heh heh heh. Success number $1! With this kind of data, I'm sure to win the Orastery's Scientist of the Year award!)
-- **8990**: %'s digestive magic skill rises 0.1 points.
-- **8991**: %'s digestive magic skill rises one level.
-- **8992**: Heh heh! I think I'm starting to get the hang of this spellcasting.
-- **8993**: Consider this a petite present from your pal Parike-Poranke!
-- **8994**: See you around, pudgy-pants!
-- **8995**: <Player>'s face goes pale...
-- **8996**: Uh-oh... I didn't do it! I didn't do it!
-- **8997**: Wait a minute... Don't tell me you came to Parike-Poranke on an empty stomach! This is terrible! The minister will have my head!
-- **8998**: % quickly begins casting another spell!
-- **8999**: Phew! That was close... What were you thinking, crazy adventurer!?
-- **9000**: What would people say if you were to kick the bucket? They'd be pointing fingers, and those fingers would be pointing at me! Why should I be incongruously incarcerated for such an insane incident!?
-- **9001**: (That makes $1 [failure/failures] to date. Oh well... All in the name of science, I guess.)
-- **9002**: %'s "all in the name of science" skill rises 0.1 points.
-- **9003**: %'s "all in the name of science" skill rises one level.
-- **9004**: You know, I've learned a lot from my mist--er, I mean, less-than-successful attempts at weight-loss consulting.
-- **9005**: To show you my gratitude, let me try out this new spell I thought up yesterday while I was taking a nap!
-- **9006**: Ta-da... Whoa! I've done it! I've finally invented a magic spell that has the same effect as Flee! Now I'm guaranteed to receive Scientist of the Year honors!
-- **9007**: I have to write this down! Hm...? Wait a minute... Where's my quill? I know I have it on me here somewhere... Hey, you wouldn't happen to have a spare quill on you, would you?
-- **9008**: Here it is! Now what was that first incantation...? Aaahhh... I can't remember!!!
-- **9009**: Oh well, I'm sure if I fail a few more spells I'll remember.
-- **9010**: Wait a minute... My linkshell's ringing. Let me get back to you after I take this call.
-- **9011**: &gTLIaB [$P10,w999%q/$P10,w9999%q/$8$P14s999%q/$8$P14s9999%q]
+- **8976**: All these people running back and forth... There have to be a few that have munched down more mithkabobs than they can manage. (And if I don't hand in this report to the Orastery soon... Ulp!)
+- **8977**: Hey you! Belly bursting? Intestines inflating? Bladder bulging? I can tell by the notch on your belt that you've been overindulging yourself in culinary delights.
+- **8978**: Well, you're in luck! I happen to be an expert magician versed well in the digestive arts. It's kind of in-between white and black magic...brown magic, you could call it. Anyway, you bring me $0, and I'll fix your indigestion on the spot!
+- **8979**: Oh, I'm sorry. I guess I can't force you into doing anything you don't want to...
+- **8980**: I mean, this is a new era. If somebody wants to go around with their flabby-flubber hanging out of their cloaks, they should have every right to do so. If someone wants to walk around town with breath reeking of Kazham pines and roasted sleepshrooms, who am I to stop them?
+- **8981**: What? You want me to tend to your tummy trouble? No problem! And don't worry, this won't hurt at all! I'm only going to be flushing your bowels with thousands of tiny lightning bolts. It's all perfectly safe!
+- **8982**: Now stand still! You wouldn't want your pelvis to implode, would you? (Let's see... What were those magic words again...?)
+- **8983**: Ready? No? Well, too bad!
+- **8984**: Bulging...! (Was this it?)
+- **8985**: Belly...! (No, that's not right...)
+- **8986**: BURST!!! (Oh, who cares? Let the excremental exodus begin!)
+- **8987**: <Player>'s stomach growls.
+- **8988**: I did it! I did it! Ahem! I mean... Of course I did it.
+- **8989**: Another case of cantankerous constipation cured! You're free to fill your face once again! But remember, if you ever binge a bit beyond your belly's boundaries, you know who to call!
+- **8990**: (Heh heh heh. Success number $1! With this kind of data, I'm sure to win the Orastery's Scientist of the Year award!)
+- **8991**: %'s digestive magic skill rises 0.1 points.
+- **8992**: %'s digestive magic skill rises one level.
+- **8993**: Heh heh! I think I'm starting to get the hang of this spellcasting.
+- **8994**: Consider this a petite present from your pal Parike-Poranke!
+- **8995**: See you around, pudgy-pants!
+- **8996**: <Player>'s face goes pale...
+- **8997**: Uh-oh... I didn't do it! I didn't do it!
+- **8998**: Wait a minute... Don't tell me you came to Parike-Poranke on an empty stomach! This is terrible! The minister will have my head!
+- **8999**: % quickly begins casting another spell!
+- **9000**: Phew! That was close... What were you thinking, crazy adventurer!?
+- **9001**: What would people say if you were to kick the bucket? They'd be pointing fingers, and those fingers would be pointing at me! Why should I be incongruously incarcerated for such an insane incident!?
+- **9002**: (That makes $1 [failure/failures] to date. Oh well... All in the name of science, I guess.)
+- **9003**: %'s "all in the name of science" skill rises 0.1 points.
+- **9004**: %'s "all in the name of science" skill rises one level.
+- **9005**: You know, I've learned a lot from my mist--er, I mean, less-than-successful attempts at weight-loss consulting.
+- **9006**: To show you my gratitude, let me try out this new spell I thought up yesterday while I was taking a nap!
+- **9007**: Ta-da... Whoa! I've done it! I've finally invented a magic spell that has the same effect as Flee! Now I'm guaranteed to receive Scientist of the Year honors!
+- **9008**: I have to write this down! Hm...? Wait a minute... Where's my quill? I know I have it on me here somewhere... Hey, you wouldn't happen to have a spare quill on you, would you?
+- **9009**: Here it is! Now what was that first incantation...? Aaahhh... I can't remember!!!
+- **9010**: Oh well, I'm sure if I fail a few more spells I'll remember.
+- **9011**: Wait a minute... My linkshell's ringing. Let me get back to you after I take this call.
+- **9012**: &gTLIaB [$P10,w999%q/$P10,w9999%q/$8$P14s999%q/$8$P14s9999%q]
 
 ## Events
 
@@ -275,7 +275,7 @@ SUBROUTINE_003D:
  15: 0x003E [0x00] END_REQSTACK()
 
 SUBROUTINE_003F:
- 16: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8975*)
+ 16: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8976*)
     → "All these people running back and forth... There have to be a few that have munched down more mithkabobs than they can manage. (And if I don't hand in this report to the Orastery soon... Ulp!)"
  17: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0043 [0x1B] RETURN
@@ -294,16 +294,16 @@ SUBROUTINE_0044:
  29: 0x0085 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[32*, 0*]
  30: 0x0096 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x00A7 [0x1C] WAIT(30* ticks)
- 32: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8976*)
+ 32: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8977*)
     → "Hey you! Belly bursting? Intestines inflating? Bladder bulging? I can tell by the notch on your belt that you've been overindulging yourself in culinary delights."
  33: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8977*)
+ 34: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8978*)
     → "Well, you're in luck! I happen to be an expert magician versed well in the digestive arts. It's kind of in-between white and black magic...brown magic, you could call it. Anyway, you bring me $0, and I'll fix your indigestion on the spot!"
  35: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8978*)
+ 36: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8979*)
     → "Oh, I'm sorry. I guess I can't force you into doing anything you don't want to..."
  37: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8979*)
+ 38: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8980*)
     → "I mean, this is a new era. If somebody wants to go around with their flabby-flubber hanging out of their cloaks, they should have every right to do so. If someone wants to walk around town with breath reeking of Kazham pines and roasted sleepshrooms, who am I to stop them?"
  39: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x00BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -326,13 +326,13 @@ SUBROUTINE_00F5:
  55: 0x0135 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  56: 0x0146 [0x1C] WAIT(30* ticks)
  57: 0x0149 [0x4A] EventEntity looks at LocalPlayer
- 58: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=8980*)
+ 58: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=8981*)
     → "What? You want me to tend to your tummy trouble? No problem! And don't worry, this won't hurt at all! I'm only going to be flushing your bowels with thousands of tiny lightning bolts. It's all perfectly safe!"
  59: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=8981*)
+ 60: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=8982*)
     → "Now stand still! You wouldn't want your pelvis to implode, would you? (Let's see... What were those magic words again...?)"
  61: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8982*)
+ 62: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8983*)
     → "Ready? No? Well, too bad!"
  63: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x015E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -340,11 +340,11 @@ SUBROUTINE_00F5:
  66: 0x017E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[32*, 0*]
  67: 0x018F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cabk" with entities [EventEntity, EventEntity], work=43*
  68: 0x019E [0x1C] WAIT(60* ticks)
- 69: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8983*)
+ 69: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8984*)
     → "Bulging...! (Was this it?)"
  70: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01A5 [0x1C] WAIT(60* ticks)
- 72: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8984*)
+ 72: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8985*)
     → "Belly...! (No, that's not right...)"
  73: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01AC [0x1C] WAIT(60* ticks)
@@ -353,7 +353,7 @@ SUBROUTINE_00F5:
  77: 0x01C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[32*, 0*]
  78: 0x01D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "spef" with entities [EventEntity, EventEntity], work=43*
  79: 0x01E4 [0x73] EventEntity casts magic 256* on LocalPlayer
- 80: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8985*)
+ 80: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8986*)
     → "BURST!!! (Oh, who cares? Let the excremental exodus begin!)"
  81: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x01F3 [0x1C] WAIT(180* ticks)
@@ -364,7 +364,7 @@ SUBROUTINE_00F5:
  87: 0x020E [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  88: 0x0214 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[32*, 0*]
  89: 0x0225 [0x02] IF !(Work_Zone[2] == 10007*) GOTO 0x0272
- 90: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
+ 90: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
     → "Wait a minute... My linkshell's ringing. Let me get back to you after I take this call."
  91: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0231 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -380,28 +380,28 @@ SUBROUTINE_037C:
 100: 0x037C [0x4A] LocalPlayer looks at EventEntity
 101: 0x0385 [0x1C] WAIT(30* ticks)
 102: 0x0388 [0x4A] EventEntity looks at LocalPlayer
-103: 0x0391 [0x1D] PRINT_EVENT_MESSAGE(message_id=8980*)
+103: 0x0391 [0x1D] PRINT_EVENT_MESSAGE(message_id=8981*)
     → "What? You want me to tend to your tummy trouble? No problem! And don't worry, this won't hurt at all! I'm only going to be flushing your bowels with thousands of tiny lightning bolts. It's all perfectly safe!"
 104: 0x0394 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=8981*)
+105: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=8982*)
     → "Now stand still! You wouldn't want your pelvis to implode, would you? (Let's see... What were those magic words again...?)"
 106: 0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=8982*)
+107: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=8983*)
     → "Ready? No? Well, too bad!"
 108: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x039D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cabk" with entities [EventEntity, EventEntity], work=43*
 110: 0x03AC [0x1C] WAIT(15* ticks)
-111: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8983*)
+111: 0x03AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8984*)
     → "Bulging...! (Was this it?)"
 112: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x03B3 [0x1C] WAIT(60* ticks)
-114: 0x03B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8984*)
+114: 0x03B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8985*)
     → "Belly...! (No, that's not right...)"
 115: 0x03B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x03BA [0x1C] WAIT(60* ticks)
 117: 0x03BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "spef" with entities [EventEntity, EventEntity], work=43*
 118: 0x03CC [0x73] EventEntity casts magic 256* on LocalPlayer
-119: 0x03D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8985*)
+119: 0x03D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8986*)
     → "BURST!!! (Oh, who cares? Let the excremental exodus begin!)"
 120: 0x03DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x03DB [0x1C] WAIT(180* ticks)
@@ -409,22 +409,22 @@ SUBROUTINE_037C:
 123: 0x03E3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 124: 0x03E5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 125: 0x03E7 [0x02] IF !(Work_Zone[2] == 10007*) GOTO 0x03F4
-126: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
+126: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
     → "Wait a minute... My linkshell's ringing. Let me get back to you after I take this call."
 127: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x03F3 [0x1B] RETURN
-129: 0x03F4 [0x48] [System] [8995*]:
+129: 0x03F4 [0x48] [System] [8996*]:
     → "<Player>'s face goes pale..."
 130: 0x03F7 [0x6E] EventEntity uses emote 21*
 131: 0x03FE [0x99] Wait for EventEntity animation to complete
-132: 0x0403 [0x1D] PRINT_EVENT_MESSAGE(message_id=8996*)
+132: 0x0403 [0x1D] PRINT_EVENT_MESSAGE(message_id=8997*)
     → "Uh-oh... I didn't do it! I didn't do it!"
 133: 0x0406 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0407 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
-135: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=8997*)
+135: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=8998*)
     → "Wait a minute... Don't tell me you came to Parike-Poranke on an empty stomach! This is terrible! The minister will have my head!"
 136: 0x0419 [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x041A [0x48] [System] [8998*]:
+137: 0x041A [0x48] [System] [8999*]:
     → "% quickly begins casting another spell!"
 138: 0x041D [0x73] EventEntity casts magic 19* on LocalPlayer
 139: 0x0428 [0x1C] WAIT(180* ticks)
@@ -435,31 +435,31 @@ SUBROUTINE_037C:
 144: 0x0437 [0x03] Work_Zone[4] = Work_Zone[3]
 145: 0x043C [0x6E] EventEntity uses emote 25*
 146: 0x0443 [0x99] Wait for EventEntity animation to complete
-147: 0x0448 [0x1D] PRINT_EVENT_MESSAGE(message_id=8999*)
+147: 0x0448 [0x1D] PRINT_EVENT_MESSAGE(message_id=9000*)
     → "Phew! That was close... What were you thinking, crazy adventurer!?"
 148: 0x044B [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x044C [0x6E] EventEntity uses emote 25*
 150: 0x0453 [0x99] Wait for EventEntity animation to complete
-151: 0x0458 [0x1D] PRINT_EVENT_MESSAGE(message_id=9000*)
+151: 0x0458 [0x1D] PRINT_EVENT_MESSAGE(message_id=9001*)
     → "What would people say if you were to kick the bucket? They'd be pointing fingers, and those fingers would be pointing at me! Why should I be incongruously incarcerated for such an insane incident!?"
 152: 0x045B [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=9001*)
+153: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=9002*)
     → "(That makes $1 [failure/failures] to date. Oh well... All in the name of science, I guess.)"
 154: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0460 [0x3F] Work_Zone[4] = Work_Zone[3] % 1000*
 156: 0x0467 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x04DB
-157: 0x046F [0x48] [System] [9002*]:
+157: 0x046F [0x48] [System] [9003*]:
     → "%'s "all in the name of science" skill rises 0.1 points."
 158: 0x0472 [0x3F] Work_Zone[4] = Work_Zone[3] % 10000*
 159: 0x0479 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x04DB
 160: 0x0481 [0x03] Work_Zone[4] = Work_Zone[3]
 161: 0x0486 [0x15] Work_Zone[4] /= 10000*
-162: 0x048B [0x48] [System] [9003*]:
+162: 0x048B [0x48] [System] [9004*]:
     → "%'s "all in the name of science" skill rises one level."
-163: 0x048E [0x1D] PRINT_EVENT_MESSAGE(message_id=9004*)
+163: 0x048E [0x1D] PRINT_EVENT_MESSAGE(message_id=9005*)
     → "You know, I've learned a lot from my mist--er, I mean, less-than-successful attempts at weight-loss consulting."
 164: 0x0491 [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x0492 [0x1D] PRINT_EVENT_MESSAGE(message_id=9005*)
+165: 0x0492 [0x1D] PRINT_EVENT_MESSAGE(message_id=9006*)
     → "To show you my gratitude, let me try out this new spell I thought up yesterday while I was taking a nap!"
 166: 0x0495 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0496 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cawh" with entities [EventEntity, EventEntity], work=43*
@@ -469,22 +469,22 @@ SUBROUTINE_037C:
 171: 0x04AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ofwh" with entities [EventEntity, EventEntity], work=43*
 172: 0x04BD [0x73] EventEntity casts magic 57* on LocalPlayer
 173: 0x04C8 [0x1C] WAIT(180* ticks)
-174: 0x04CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9006*)
+174: 0x04CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9007*)
     → "Ta-da... Whoa! I've done it! I've finally invented a magic spell that has the same effect as Flee! Now I'm guaranteed to receive Scientist of the Year honors!"
 175: 0x04CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x04CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9007*)
+176: 0x04CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9008*)
     → "I have to write this down! Hm...? Wait a minute... Where's my quill? I know I have it on me here somewhere... Hey, you wouldn't happen to have a spare quill on you, would you?"
 177: 0x04D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-178: 0x04D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9008*)
+178: 0x04D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9009*)
     → "Here it is! Now what was that first incantation...? Aaahhh... I can't remember!!!"
 179: 0x04D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-180: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9009*)
+180: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
     → "Oh well, I'm sure if I fail a few more spells I'll remember."
 181: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x04DB [0x1B] RETURN
 
 SUBROUTINE_04DD:
-183: 0x04DD [0x24] CREATE_DIALOG(message_id=9011*, default_option=0*, option_flags=0*)
+183: 0x04DD [0x24] CREATE_DIALOG(message_id=9012*, default_option=0*, option_flags=0*)
     → "&gTLIaB [$P10,w999%q/$P10,w9999%q/$8$P14s999%q/$8$P14s9999%q]"
 184: 0x04E4 [0x25] WAIT_DIALOG_SELECT()
 185: 0x04E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04F5

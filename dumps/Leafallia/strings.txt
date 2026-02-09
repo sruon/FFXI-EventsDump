@@ -1,5 +1,5 @@
 # Strings for Leafallia
-# Total: 8384 strings
+# Total: 8385 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,225 +7069,225 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: You can't fish here.
- 7069: You can't fish without a rod in your hands.
- 7070: You can't fish without bait on the hook.
- 7071: You can't fish at the moment.
- 7072: You didn't catch anything.
- 7073: %0 caught a monster!
- 7074: Your line breaks.
- 7075: Your rod breaks.
- 7076: Something caught the hook!
- 7077: You lost your catch.
- 7078: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7079: You feel there's something here.
- 7080: You feel there's something nearby.
- 7081: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7082: %0 caught $1 $0 !
- 7083: You dig and you dig, but find nothing.
- 7084: $0/$0p$3Z$3b$3g
- 7085: Your rod breaks. Whatever caught the hook was pretty big.
- 7086: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7087: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7088: You lost your catch due to your lack of skill.
- 7089: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7090: You didn't catch anything.
- 7091: The paper on your $0 ripped.
- 7092: A tiny goldfish approaches!
- 7093: A plump, black goldfish approaches!
- 7094: A fat, juicy goldfish approaches!
- 7095: There are no goldfish to be found...
- 7096: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7097: The goldfish slipped off your scoop...
- 7098: ch$0 skill up check.
- 7099: a:$0.
- 7100: Time $0 / Status $1 / $2
- 7101: d:$0. e:$1. f:$2. g:$3.
- 7102: h: $1. i: $0. sr: $2.
- 7103: j:$0. k:$1.
- 7104: You give up and reel in your line.
- 7105: You give up.
- 7106: %0 obtains $1 gil.
- 7107: %0 caught $0!
- 7108: You don't know how much longer you can keep this one on the line...
- 7109: You have a good feeling about this one!
- 7110: You have a bad feeling about this one.
- 7111: You have a terrible feeling about this one...
- 7112: You don't know if you have enough skill to reel this one in.
- 7113: You're fairly sure you don't have enough skill to reel this one in.
- 7114: You're positive you don't have enough skill to reel this one in!
- 7115: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7116: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7117: l: $0. m: $1. n: $2. CH: $3.
- 7118: Something caught the hook!!!
- 7119: You feel something pulling at your line.
- 7120: Something clamps onto your line ferociously!
- 7121: Your keen angler's senses tell you that this is the pull of $0!
- 7122: This strength... You get the sense that you are on the verge of an epic catch!
- 7123: The timer has started. $0 seconds remaining.
- 7124: $0sec.$1/$2sec.
- 7125: 0:$0 1:$1 2:$2 3:$3
- 7126: 4:$0 5:$1 6:$2 7:$3
- 7127: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7128: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7129: $0/$1($2j
- 7130: Version invalid error!
- 7131: Hurry before the goldfish sees you!
- 7132: %0 fishes up a large box!
- 7133: $23$o$P122$8$0
- 7134: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7135: PointF$0 >>> $1
- 7136: [$1($0)/skillF$1]
- 7137: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7138: Im Rnd : $0 Pz Rnd : $1
- 7139: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7140: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7141: skill : $0 size : $1 kind : $2 sch : $3
- 7142: time : $0 mes : $1 flag : $2 bonus : $3
- 7143: item : $0 hp : $1 pow : $2 swing : $3
- 7144: suc : $0 cons : $1 weight : $2 +- : $3
- 7145: speed : $0 +- : $1 exc : $2 client : $3
- 7146: general : $0
- 7147: ro:$0 rs:$1 ps:$2 dt:$3
- 7148: ra:$0 ti:$1
- 7149: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7150: You get the distinct sense that your moogle friend frequents this spot...
- 7151: You have a feeling that your moogle friend has been through this way...
- 7152: You suspect that the scenery around here would be to a moogle's liking...
- 7153: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7154: You have a hunch that this area would be favored by moogles...
- 7155: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7156: %0 catches $1 $0 !
- 7157: %0 obtained $6!
- 7158: It appears your chocobo found this item with ease.
- 7159: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7160: FPT $0 DPT $1 DoT$2
- 7161: FPT $0 TDPT $1 h$2
- 7162: You cannot fish at this time.
- 7163: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7164: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7165: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7166: You receive $0 bayld!
- 7167: Your chocobo refuses to partake of the $0.
- 7168: A waypoint lies before you in all its mystery.
- 7169: You were unable to warp to your desired destination.
- 7170: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation!/Go to Western Adoulin./Go to Eastern Adoulin./Go to Ceizak Battlegrounds./Go to Yahse Hunting Grounds./Go to Foret de Hennetiel./Go to Morimar Basalt Fields./Go to Yorcia Weald./Go to Marjami Ravine./Go to Kamihr Drifts./Go to Jeuno. ($4 unit[/s])/Go to an enigmatic device./Use runes./Decline destination confirmation./Accept destination confirmation.]
- 7171: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation./Go to Western Adoulin. ($4 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
- 7172: Choose a destination. (Kinetic Units: $3) [Back./Northern San d'Oria. ($4 unit[/s])/Bastok Markets. ($4 unit[/s])/Windurst Woods. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Kazham. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/Tavnazian Safehold. ($4 unit[/s])/Aht Urhgan Whitegate. ($4 unit[/s])/Nashmau. ($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])]
- 7173: Your $3 has been attuned to a geomagnetic fount[/ in front of the Peacekeepers' Coalition/ in front of the Scouts' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!
- 7174: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Peacekeepers' Coalition. ($4 unit[/s])/Scouts' Coalition. ($4 unit[/s])/Statue of the Goddess. ($4 unit[/s])/The wharf to Yahse. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/The auction house. ($4 unit[/s])/Sverdhried Hillock. ($4 unit[/s])/The Coronal Esplanade. ($4 unit[/s])/Castle Adoulin gates. ($4 unit[/s])]
- 7175: Your $3 has been attuned to a geomagnetic fount[/ in Platea Triumphus (Couriers' Coalition)/ in front of the Pioneers' Coalition/ in front of the Mummers' Coalition/ in front of the Inventors' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!
- 7176: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Platea Triumphus (COU Co.). ($4 unit[/s])/Pioneers' Coalition. ($4 unit[/s])/Mummers' Coalition. ($4 unit[/s])/Inventors' Coalition. ($4 unit[/s])/Auction house. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/Big Bridge. ($4 unit[/s])/Airship docks. ($4 unit[/s])/Adoulin Waterfront. ($4 unit[/s])]
- 7177: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
- 7178: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
- 7179: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
- 7180: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
- 7181: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!
- 7182: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])]
- 7183: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!
- 7184: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])/Frontier Bivouac #5. ($4 unit[/s])]
- 7185: Your $3 has been attuned to the enigmatic device in $8!
- 7186: Choose a destination. (Kinetic Units: $3) [Nowhere./Rala Waterways. ($4 unit[/s])/Cirdas Caverns. ($4 unit[/s])/Yorcia Weald. ($4 unit[/s])/Outer Ra'Kaznar. ($4 unit[/s])/Somewhere. ($4 unit[/s])]
- 7187: You adjusted the waypoint with your $3.
- 7188: You were unable to satisfactorily adjust the waypoint.
- 7189: An enigmatic contrivance hovers in silence...
- 7190: Leaning in closely to the device, one can make out miniscule etchings that read, "Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale."
- 7191: "Travelers may not possess more than $1 at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether."
- 7192: You have expended $0 kinetic unit[/s] and will be transported to another locale.
- 7193: Your stock of kinetic units is insufficient.
- 7194: You have reached your limit of kinetic units and cannot charge your artifact any further.
- 7195: There is no response. You apparently cannot receive kinetic units from this item.
- 7196: Your artifact has been charged with $0 kinetic unit[/s]. Your current stock of kinetic units totals $1.
- 7197: Your artifact has been charged to its terminal volume of kinetic units.
- 7198: A surplus of $0 kinetic unit[/s] has been lost to the aether.
- 7199: Unable to proceed. "Rise of the Zilart" has not been installed.
- 7200: Unable to proceed. "Chains of Promathia" has not been installed.
- 7201: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.
- 7202: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.
- 7203: Warp to your destination? [Yes./No.]
- 7204: Tallying conquest results...
- 7205: Conquest results tallied.
- 7206: This region is currently under San d'Orian control.
- 7207: This region is currently under Bastokan control.
- 7208: This region is currently under Windurstian control.
- 7209: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7210: This region is currently neutral.
- 7211: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7212: All three nations are tied for first place.
- 7213: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7214: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7215: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7216: All three nations are tied for first place.
- 7217: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7218: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7219: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7220: All three nations are tied for first place.
- 7221: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7222: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7223: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7224: All three nations are tied for first place.
- 7225: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7226: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7227: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7228: Global balance of power: All three nations are tied for first place.
- 7229: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7230: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7231: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7232: All three nations are tied for first place.
- 7233: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7234: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7235: Conquest update: This region is currently neutral.
- 7236: Conquest update: This region is currently under San d'Orian control.
- 7237: Conquest update: This region is currently under Bastokan control.
- 7238: Conquest update: This region is currently under Windurstian control.
- 7239: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7240: All three nations are at a deadlock.
- 7241: The beastmen are on the rise.
- 7242: Regional influence: San d'Oria - Dominant
- 7243: Regional influence: San d'Oria - Major
- 7244: Regional influence: San d'Oria - Minor
- 7245: Regional influence: San d'Oria - Minimal
- 7246: Bastok - Dominant
- 7247: Bastok - Major
- 7248: Bastok - Minor
- 7249: Bastok - Minimal
- 7250: Windurst - Dominant
- 7251: Windurst - Major
- 7252: Windurst - Minor
- 7253: Windurst - Minimal
- 7254: Bastok and Windurst have formed an alliance.
- 7255: San d'Oria and Windurst have formed an alliance.
- 7256: San d'Oria and Bastok have formed an alliance.
- 7257: Bastok and Windurst are currently allies.
- 7258: San d'Oria and Windurst are currently allies.
- 7259: San d'Oria and Bastok are currently allies.
- 7260: $10$P11.$17F$0 $P14;$P12hF$1
- 7261: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7262: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7263: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7264: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7265: The beastmen are gaining power.
- 7266: San d'Oria's regional control is now 10% closer to the first place country's!
- 7267: Bastok's regional control is now 10% closer to the first place country's!
- 7268: Windurst's regional control are now 10% closer to the first place country's!
- 7269: San d'Oria's region points have increased!
- 7270: Bastok's region points have increased!
- 7271: Windurst's region points have increased!
- 7272: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7273: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7274: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7275: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7276: A Bastokan Expeditionary Force has been dispatched to this area.
- 7277: A Windurstian Expeditionary Force has been dispatched to this area.
- 7278: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7279: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7280: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7281: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7282: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7283: There was a curse on the beastmen's banner!
- 7284: The curse of the beastmen's banner has been lifted!
- 7285: There is a beastmen's banner.
- 7286: @
+ 7068: It won't open.
+ 7069: You can't fish here.
+ 7070: You can't fish without a rod in your hands.
+ 7071: You can't fish without bait on the hook.
+ 7072: You can't fish at the moment.
+ 7073: You didn't catch anything.
+ 7074: %0 caught a monster!
+ 7075: Your line breaks.
+ 7076: Your rod breaks.
+ 7077: Something caught the hook!
+ 7078: You lost your catch.
+ 7079: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7080: You feel there's something here.
+ 7081: You feel there's something nearby.
+ 7082: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7083: %0 caught $1 $0 !
+ 7084: You dig and you dig, but find nothing.
+ 7085: $0/$0p$3Z$3b$3g
+ 7086: Your rod breaks. Whatever caught the hook was pretty big.
+ 7087: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7088: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7089: You lost your catch due to your lack of skill.
+ 7090: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7091: You didn't catch anything.
+ 7092: The paper on your $0 ripped.
+ 7093: A tiny goldfish approaches!
+ 7094: A plump, black goldfish approaches!
+ 7095: A fat, juicy goldfish approaches!
+ 7096: There are no goldfish to be found...
+ 7097: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7098: The goldfish slipped off your scoop...
+ 7099: ch$0 skill up check.
+ 7100: a:$0.
+ 7101: Time $0 / Status $1 / $2
+ 7102: d:$0. e:$1. f:$2. g:$3.
+ 7103: h: $1. i: $0. sr: $2.
+ 7104: j:$0. k:$1.
+ 7105: You give up and reel in your line.
+ 7106: You give up.
+ 7107: %0 obtains $1 gil.
+ 7108: %0 caught $0!
+ 7109: You don't know how much longer you can keep this one on the line...
+ 7110: You have a good feeling about this one!
+ 7111: You have a bad feeling about this one.
+ 7112: You have a terrible feeling about this one...
+ 7113: You don't know if you have enough skill to reel this one in.
+ 7114: You're fairly sure you don't have enough skill to reel this one in.
+ 7115: You're positive you don't have enough skill to reel this one in!
+ 7116: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7117: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7118: l: $0. m: $1. n: $2. CH: $3.
+ 7119: Something caught the hook!!!
+ 7120: You feel something pulling at your line.
+ 7121: Something clamps onto your line ferociously!
+ 7122: Your keen angler's senses tell you that this is the pull of $0!
+ 7123: This strength... You get the sense that you are on the verge of an epic catch!
+ 7124: The timer has started. $0 seconds remaining.
+ 7125: $0sec.$1/$2sec.
+ 7126: 0:$0 1:$1 2:$2 3:$3
+ 7127: 4:$0 5:$1 6:$2 7:$3
+ 7128: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7129: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7130: $0/$1($2j
+ 7131: Version invalid error!
+ 7132: Hurry before the goldfish sees you!
+ 7133: %0 fishes up a large box!
+ 7134: $23$o$P122$8$0
+ 7135: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7136: PointF$0 >>> $1
+ 7137: [$1($0)/skillF$1]
+ 7138: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7139: Im Rnd : $0 Pz Rnd : $1
+ 7140: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7141: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7142: skill : $0 size : $1 kind : $2 sch : $3
+ 7143: time : $0 mes : $1 flag : $2 bonus : $3
+ 7144: item : $0 hp : $1 pow : $2 swing : $3
+ 7145: suc : $0 cons : $1 weight : $2 +- : $3
+ 7146: speed : $0 +- : $1 exc : $2 client : $3
+ 7147: general : $0
+ 7148: ro:$0 rs:$1 ps:$2 dt:$3
+ 7149: ra:$0 ti:$1
+ 7150: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7151: You get the distinct sense that your moogle friend frequents this spot...
+ 7152: You have a feeling that your moogle friend has been through this way...
+ 7153: You suspect that the scenery around here would be to a moogle's liking...
+ 7154: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7155: You have a hunch that this area would be favored by moogles...
+ 7156: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7157: %0 catches $1 $0 !
+ 7158: %0 obtained $6!
+ 7159: It appears your chocobo found this item with ease.
+ 7160: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7161: FPT $0 DPT $1 DoT$2
+ 7162: FPT $0 TDPT $1 h$2
+ 7163: You cannot fish at this time.
+ 7164: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7165: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7166: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7167: You receive $0 bayld!
+ 7168: Your chocobo refuses to partake of the $0.
+ 7169: A waypoint lies before you in all its mystery.
+ 7170: You were unable to warp to your desired destination.
+ 7171: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation!/Go to Western Adoulin./Go to Eastern Adoulin./Go to Ceizak Battlegrounds./Go to Yahse Hunting Grounds./Go to Foret de Hennetiel./Go to Morimar Basalt Fields./Go to Yorcia Weald./Go to Marjami Ravine./Go to Kamihr Drifts./Go to Jeuno. ($4 unit[/s])/Go to an enigmatic device./Use runes./Decline destination confirmation./Accept destination confirmation.]
+ 7172: What will you do? (Kinetic Units: $3) [Nothing./Read an explanation./Go to Western Adoulin. ($4 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
+ 7173: Choose a destination. (Kinetic Units: $3) [Back./Northern San d'Oria. ($4 unit[/s])/Bastok Markets. ($4 unit[/s])/Windurst Woods. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Kazham. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/Tavnazian Safehold. ($4 unit[/s])/Aht Urhgan Whitegate. ($4 unit[/s])/Nashmau. ($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])/($4 unit[/s])]
+ 7174: Your $3 has been attuned to a geomagnetic fount[/ in front of the Peacekeepers' Coalition/ in front of the Scouts' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!
+ 7175: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Peacekeepers' Coalition. ($4 unit[/s])/Scouts' Coalition. ($4 unit[/s])/Statue of the Goddess. ($4 unit[/s])/The wharf to Yahse. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/The auction house. ($4 unit[/s])/Sverdhried Hillock. ($4 unit[/s])/The Coronal Esplanade. ($4 unit[/s])/Castle Adoulin gates. ($4 unit[/s])]
+ 7176: Your $3 has been attuned to a geomagnetic fount[/ in Platea Triumphus (Couriers' Coalition)/ in front of the Pioneers' Coalition/ in front of the Mummers' Coalition/ in front of the Inventors' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!
+ 7177: Choose a destination. (Kinetic Units: $3) [Nowhere, thanks./Platea Triumphus (COU Co.). ($4 unit[/s])/Pioneers' Coalition. ($4 unit[/s])/Mummers' Coalition. ($4 unit[/s])/Inventors' Coalition. ($4 unit[/s])/Auction house. ($4 unit[/s])/Your Rent-a-Room. ($4 unit[/s])/Big Bridge. ($4 unit[/s])/Airship docks. ($4 unit[/s])/Adoulin Waterfront. ($4 unit[/s])]
+ 7178: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
+ 7179: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
+ 7180: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
+ 7181: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])]
+ 7182: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!
+ 7183: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])]
+ 7184: Your $3 has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!
+ 7185: Choose a destination. (Kinetic Units: $3) [Nowhere./Frontier Station. ($4 unit[/s])/Frontier Bivouac #1. ($4 unit[/s])/Frontier Bivouac #2. ($4 unit[/s])/Frontier Bivouac #3. ($4 unit[/s])/Frontier Bivouac #4. ($4 unit[/s])/Frontier Bivouac #5. ($4 unit[/s])]
+ 7186: Your $3 has been attuned to the enigmatic device in $8!
+ 7187: Choose a destination. (Kinetic Units: $3) [Nowhere./Rala Waterways. ($4 unit[/s])/Cirdas Caverns. ($4 unit[/s])/Yorcia Weald. ($4 unit[/s])/Outer Ra'Kaznar. ($4 unit[/s])/Somewhere. ($4 unit[/s])]
+ 7188: You adjusted the waypoint with your $3.
+ 7189: You were unable to satisfactorily adjust the waypoint.
+ 7190: An enigmatic contrivance hovers in silence...
+ 7191: Leaning in closely to the device, one can make out miniscule etchings that read, "Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale."
+ 7192: "Travelers may not possess more than $1 at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether."
+ 7193: You have expended $0 kinetic unit[/s] and will be transported to another locale.
+ 7194: Your stock of kinetic units is insufficient.
+ 7195: You have reached your limit of kinetic units and cannot charge your artifact any further.
+ 7196: There is no response. You apparently cannot receive kinetic units from this item.
+ 7197: Your artifact has been charged with $0 kinetic unit[/s]. Your current stock of kinetic units totals $1.
+ 7198: Your artifact has been charged to its terminal volume of kinetic units.
+ 7199: A surplus of $0 kinetic unit[/s] has been lost to the aether.
+ 7200: Unable to proceed. "Rise of the Zilart" has not been installed.
+ 7201: Unable to proceed. "Chains of Promathia" has not been installed.
+ 7202: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.
+ 7203: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.
+ 7204: Warp to your destination? [Yes./No.]
+ 7205: Tallying conquest results...
+ 7206: Conquest results tallied.
+ 7207: This region is currently under San d'Orian control.
+ 7208: This region is currently under Bastokan control.
+ 7209: This region is currently under Windurstian control.
+ 7210: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7211: This region is currently neutral.
+ 7212: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7213: All three nations are tied for first place.
+ 7214: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7215: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7216: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7217: All three nations are tied for first place.
+ 7218: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7219: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7220: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7221: All three nations are tied for first place.
+ 7222: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7223: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7224: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7225: All three nations are tied for first place.
+ 7226: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7227: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7228: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7229: Global balance of power: All three nations are tied for first place.
+ 7230: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7231: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7232: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7233: All three nations are tied for first place.
+ 7234: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7235: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7236: Conquest update: This region is currently neutral.
+ 7237: Conquest update: This region is currently under San d'Orian control.
+ 7238: Conquest update: This region is currently under Bastokan control.
+ 7239: Conquest update: This region is currently under Windurstian control.
+ 7240: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7241: All three nations are at a deadlock.
+ 7242: The beastmen are on the rise.
+ 7243: Regional influence: San d'Oria - Dominant
+ 7244: Regional influence: San d'Oria - Major
+ 7245: Regional influence: San d'Oria - Minor
+ 7246: Regional influence: San d'Oria - Minimal
+ 7247: Bastok - Dominant
+ 7248: Bastok - Major
+ 7249: Bastok - Minor
+ 7250: Bastok - Minimal
+ 7251: Windurst - Dominant
+ 7252: Windurst - Major
+ 7253: Windurst - Minor
+ 7254: Windurst - Minimal
+ 7255: Bastok and Windurst have formed an alliance.
+ 7256: San d'Oria and Windurst have formed an alliance.
+ 7257: San d'Oria and Bastok have formed an alliance.
+ 7258: Bastok and Windurst are currently allies.
+ 7259: San d'Oria and Windurst are currently allies.
+ 7260: San d'Oria and Bastok are currently allies.
+ 7261: $10$P11.$17F$0 $P14;$P12hF$1
+ 7262: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7263: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7264: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7265: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7266: The beastmen are gaining power.
+ 7267: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7268: Bastok's regional control is now 10% closer to the first place country's!
+ 7269: Windurst's regional control are now 10% closer to the first place country's!
+ 7270: San d'Oria's region points have increased!
+ 7271: Bastok's region points have increased!
+ 7272: Windurst's region points have increased!
+ 7273: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7274: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7275: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7276: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7277: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7278: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7279: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7280: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7281: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7282: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7283: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7284: There was a curse on the beastmen's banner!
+ 7285: The curse of the beastmen's banner has been lifted!
+ 7286: There is a beastmen's banner.
  7287: @
  7288: @
  7289: @
@@ -7362,1026 +7362,1027 @@
  7358: @
  7359: @
  7360: @
- 7361: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7362: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7363: $3{$3^$3$97F$31V$P10i]\7
- 7364: @@
- 7365: Nothing happens...
- 7366: This Augural Conveyor does not react to your $3.
- 7367: Your party leader is currently inspecting the entrance.
- 7368: Only your party leader may inspect the entrance.
- 7369: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
- 7370: Proceed? [Yes./No.]
- 7371: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
- 7372: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
- 7373: Balamor's will has impeded your progress into the next area.
- 7374: You cannot enter at this time. Please wait a moment and try again.
- 7375: This area is fully occupied. You are unable to enter.
- 7376: Balamor's will has prevented you from proceeding.
- 7377: Your request for entry is being considered...
- 7378: The order has been given by your party leader to enter [/this skirmish in ////this alluvion skirmish in /]$8.
- 7379: Your party does not meet the minimum required number of $0 members. Unable to enter area.
- 7380: Not all of your party members meet the requirements for this objective. Unable to enter area.
- 7381: Your $3 has dissolved into the aether!
- 7382: What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
- 7383: What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
- 7384: What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
- 7385: Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]
- 7386: Now permeating the mists surrounding the [fracture/obscured domain].
- 7387: You have chosen not to brave the mysteries of the [fracture/obscured domain].
- 7388: Your party leader has lifted the veil surrounding the [fracture/obscured domain].
- 7389: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
- 7390: Brave the[ Endeavoring to Awaken/ Endeavoring to Awaken/] battlefield alone?
- 7391: Nothing happens.
- 7392: Perhaps the wisest approach would be to search for $6 with which to open the decrepit sluice gate.
- 7393: A small crevice penetrates the surface of the rock.
- 7394: A small crevice penetrates the surface of the rock. Derrcuiln and his allies have headed inside.
- 7395: Hushed voices are carried upon the slight winds that waft over this pool of water.
- 7396: Simulacrum segment configuration ( Visage: $1; Torso: $2; Legs: $3.
- 7397: Simulacrum segment combination ( [/Eudaemon Sword/Eudaemon Cape/Eudaemon Ring/Eudaemon Sash/Eudaemon Shield].
- 7398: Join the fray with your [party/alliance] members in $8?
- 7399: Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?
- 7400: Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]
- 7401: This battlefield can only be attempted solo. Please disband your party and try again.
- 7402: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
- 7403: You are currently in a party and are unable to enter.
- 7404: So ya made it, after all.
- 7405: Sometimes the truth is right under yer nose, and ya just don't know it. We thought this place was destroyed and buried centuries ago.
- 7406: This is Leafallia, the sacred home of the leafkin...and the site where the World Tree was first planted.
- 7407: To think that we're actually here!
- 7408: I know you're itchin' to get started, but we've got to wait for Darrcuiln to bring your princess.
- 7409: How's 'bout takin' a look around while ya wait?
- 7410: <I have seen all, childreeen. Both what you have done, and what has befallen the world.>
- 7411: <And I have choseeen to put my faith in you.>
- 7412: <Pure water is our sustenance, and shiniiing light our shelter. Without those, we would never survive.>
- 7413: <Our Mother cries out for aid. Come, let us begin the preparatiooons.>
- 7414: The rings on this stump are too numerous to count.
- 7415: Glad you could make it.
- 7416: I can't believe you, <Player>! The fate of Adoulin lies in the balance, and you didn't even come find me!
- 7417: Don't be so harsh on ['im/'er], princess.
- 7418: After all, I'm sure <Player> thought about the consequences should [he/she] fail.
- 7419: That's why [he/she] didn't tell ya.
- 7420: Is that true? [Yes. It was out of concern./No. I didn't feel like it.]
- 7421: I suppose I should thank you...
- 7422: ...but I really wish you had told me anyway.
- 7423: <Player>, why are you being so mean!?
- 7424: That's not like you. I know it.
- 7425: (Get out! Begone from our land!)
- 7426: (Yggdrasil is not a place for people!)
- 7427: (I know! Let's lay a curse on them!)
- 7428: Graaah, ya lunkheads need to clam up before I get angry!
- 7429: We're tryin' to make the World Tree whole again, and the lot of ya are just gettin' in the way!
- 7430: (Make it whole?)
- 7431: (You can't pull the wool over our eyes!)
- 7432: Please! Calm down and listen to what we have to say!
- 7433: We're going to restore the World Tree, and we want you to witness it.
- 7434: (Is she serious?)
- 7435: (I think she is.)
- 7436: (You can't fool me!)
- 7437: Oh, come on! What would she possibly have to gain from lyin'?
- 7438: Arciela, don't worry about them. They listen about as well as a berserk Goblin.
- 7439: (You're one to talk!)
- 7440: Just stay there, and don't move, alright? Goddess above...
- 7441: <Sigh> See what I mean? For a bunch of bodiless spirits, they sure act up like little kids.
- 7442: They're definitely animated. But don't blame them too much. Mortal children are much the same.
- 7443: Yes, this is my brother. He heard Darrcuiln calling, and he grabbed onto my leg and wouldn't let go.
- 7444: So I told him he could come along.
- 7445: So this is the stubborn Ygnas? Bwahaha! Look at the sheen on those verdant leaves. How many gardeners does it take to keep you so perfectly pruned?
- 7446: (This is no laughing matter.)
- 7447: Oh ho, I meant no offense. He just looks so...regal.
- 7448: (No. You were making fun of him.)
- 7449: When will you ever... <Sigh> There's so little mirth in the world. Can't you allow me just one joke?
- 7450: Well, this is quite the spectacle.
- 7451: Who goes there?
- 7452: ...Minister Melvien?
- 7453: Then my eyes do not deceive me! That is, indeed, Princess Arciela!
- 7454: When I saw a dainty figure riding atop a golden beast, I could have sworn my eyes were playing a trick on me--but here you are, in the flesh.
- 7455: I can only thank my good sense in choosing to follow your tracks.
- 7456: What would bring you to Kamihr...?
- 7457: My dear, I have always been a student of history. Call it an intellectual curiosity.
- 7458: I chanced upon quite an intriguing volume, and spent many a night poring over it...too many, perhaps. And I realized that I had stumbled onto a treasure.
- 7459: Before I realized it, here I stood! I never thought the phrase "lost in one's research" could be taken so literally.
- 7460: And yet I find myself more invigorated than I ever was in my manse. Lady of Adoulin, I believe I now understand your penchant for the wilds.
- 7461: Of course, I remain but a humble student.
- 7462: Melvien, about that book...
- 7463: Princess, ya seem to recognize this guy. Just who is he?
- 7464: Well...he serves in Adoulin as the minister of finance...
- 7465: Melvien de Malecroix. Charmed, I'm sure.
- 7466: A man of your standin' made it here without bodyguards? I'm impressed. In my day that was unthinkable! Bwahaha!
- 7467: And the dangers of the forest didn't worry ya?
- 7468: A measure of caution is always prudent when venturing into lands unknown. But my pursuit of the truth overcame any fears I may have had.
- 7469: I like this one! Reminds me of ya, princess, with how yer always trekking about without a care in the world.
- 7470: Your approval is much appreciated. But if I may ask, just where are we? It is preposterous to think such a place would exist within the recesses of such an inhospitable locale.
- 7471: This is a sacred land, called Leafallia. If yer lookin' for history, then ya've found it!
- 7472: Leafallia...
- 7473: Oh ho, preparations must be almost complete.
- 7474: Preparations, you say? For what? Might I witness what is about to occur?
- 7475: Of course! It's only right for a minister from the city itself to see what's 'bout to happen.
- 7476: <Young ones, I caaannot thank you enough for what you have done.>
- 7477: <The time is right for Mother to be made whole. I shall commence the ceremonyyy.>
- 7478: We're ready.
- 7479: <What we do here today is to restore the rightfuuul order of things. Nothing should change, and all will be as intended.>
- 7480: <Sons and daughters, bear witneeess to Mother's revival.>
- 7481: ...
- 7482: That's the World Tree...look at what's happened to it.
- 7483: Look, <Player>...it's really true.
- 7484: Urk...!
- 7485: You...monster! What have you...done...
- 7486: All these years, Morimar, and you haven't changed one bit.
- 7487: M-Melvien! Why!?
- 7488: House Adoulin ends here.
- 7489: Filthy beast! I'll end you like I did him!
- 7490: Damn you, Melvien!
- 7491: You thought you won, but I'm no ordinary man...!
- 7492: Damn it all to the abyss!
- 7493: What on Vana'diel was he thinking!?
- 7494: (Dead men tell no tales, Morimar.)
- 7495: Urk...
- 7496: What was I supposed to do!?
- 7497: Graaaaaaaaaaaah!
- 7498: <Player>, did he get ya, too?
- 7499: Are you all right? [Fine. I'm more worried about you./None of his bullets hit me./I've been dealt worse hands.]
- 7500: Bwahaha, those are some reflexes ya've got there!
- 7501: Bwahaha, I bet ya have, Middle Land adventurer!
- 7502: Me? I'll be fine. Merely a flesh wound, and it takes more than that to bring me down!
- 7503: And the important thing now isn't me, but that we can't ask that bastard why he wanted to ruin everything!
- 7504: (He is gone. Dwelling on it does not serve any purpose.)
- 7505: (N-no...)
- 7506: (Waaaaaah!)
- 7507: (Why did he have to protect you mortals!?)
- 7508: (I hate you all!)
- 7509: What do you tell Arciela? [You couldn't have known./There was nothing you could have done.]
- 7510: At least Rosulatia's safe.
- 7511: Thank goodness...
- 7512: At least there's something to...be thankful...for...
- 7513: I heard what happened--ya tried to protect her from harm.
- 7514: That bluster about hatin' people was just a front, wasn't it?
- 7515: ...!
- 7516: The fabric of life is a strange thing, princess. When one thread ends, another begins. I'm sure ya'll be able to thank him someday...
- 7517: But if ya need to cry now, then let it all out.
- 7518: We gotta press on, or their sacrifices will've been for nothin'.
- 7519: Rosulatia...
- 7520: Success has never tasted so...bittersweet.
- 7521: This should prevent Hades from rising up again.
- 7522: I'm sure of it.
- 7523: As long as it grows strong and healthy...
- 7524: I'd not worry about that.
- 7525: This land is protected not just by Sajj'aka from the peaks, but also by Kumhau in the snowfields. Neither of them will let any harm come to it.
- 7526: That's true.
- 7527: This's probably not something ya want to hear, but... Yer gonna have to report his death to the castle.
- 7528: But...
- 7529: He's not some homeless beggar no one would miss. His disappearance'll cause questions.
- 7530: First the king falls ill and is bedridden, next a minister disappears...people will be up in arms. "It's the curse! It's the curse!"
- 7531: But if people know he's dead, there'll just be normal internal strife. It won't be pleasant, but certainly better'n the alternative.
- 7532: There's no need to tell everyone the nitty-gritty. I'll find some way to dispose of the body myself.
- 7533: All you need to say is that you saw him in Kamihr Drifts.
- 7534: ...Okay.
- 7535: That dull attitude won't move the hearts of Adoulin! With Ygnas as he is, the people will turn to you for leadership.
- 7536: Adoulin wouldn't be the first nation ruled by a woman, nor would it be the last.
- 7537: (<Player>, she is counting on you for words of encouragement.)
- 7538: What will you say? [I know you can do it!/(She doesn't have it in her.)]
- 7539: (You cannot encourage her in her time of need?)
- 7540: ...You're right! I can, and I must!
- 7541: A response worthy of a princess! While yer doin' that, I'll remain here to take care of things.
- 7542: Morimar...thank you.
- 7543: And thank you, <Player>. I would never have been able to make it here without your help.
- 7544: Mere words are not enough.
- 7545: To Adoulin! There is much to be done.
- 7546: I'll handle the cleanup. Ya gotta go back to Adoulin with Arciela.
- 7547: What're ya doin' back here? I don't recall puttin' out a signal.
- 7548: Ya've already spread the news, right? Then it's only a matter of time before they find the body.
- 7549: The princess'll need yer help now more than ever. Make sure she stays on the right path--for Adoulin's sake.
- 7550: Replay from where? [From the start./From the grafting./From the skirmish./From the famm./From the gathering./From the revival.]
- 7551: Hmm...Morimar's not here. I wonder where he could...
- 7552: ...
- 7553: Wha--
- 7554: Is you nicewoman of Morimar?
- 7555: Nicewoman? I...suppose?
- 7556: I have wordtell from him. "Meet me at mountaintop."
- 7557: That's all. No more tongueflaps.
- 7558: At the peak of the mountain?
- 7559: Aha, with Sajj'aka!
- 7560: Thank you for letting us know.
- 7561: C'mon, <Player>!
- 7562: <Come...Wooorld Tree...>
- 7563: Do you hear it too, <Player>?
- 7564: <Your preseeence here is most welcome.>
- 7565: Rosulatia...is everything...?
- 7566: <I no longer have a cooorporeal form, Princess. I hope you do not find me overly ghastly.>
- 7567: <The bonds that we share...when they are close, I reeetain some semblance of my former self.>
- 7568: ...
- 7569: <The World Tree's roots have kept me keenly aware of the incideeents occurring throughout the land.>
- 7570: <And so, too, do I see the reason for your aaarrival.>
- 7571: <Forceees of the deep that your storied hero sealed away are breathing anew.>
- 7572: <Their slumber was to be eternal, but the calamiiity has come full circle.>
- 7573: <Our mother tree kept the darkneeess at bay, purging evil as it emerged and preserving the sanctity of the forest.>
- 7574: Then it really was the World Tree that protected us these long years.
- 7575: As we always suspected.
- 7576: <But her strength is not without its limiiits. You may think it a grand flood, but in due time it will wane to a mere trickle.>
- 7577: <And I...soon I will join with Motheeer. Her life will be mine, and mine, hers.>
- 7578: <I have but precious momeeents to communicate with you.>
- 7579: So we'll never see you again?
- 7580: <You will. Our bonds will keep us close, always. The same way I am alwaaays with your founder king.>
- 7581: <Keep my pome safe, <Player>, and let it proteeect you during your hour of need.>
- 7582: <We are all able to stand here this day because of the sapliiing you helped bring to revive Mother.>
- 7583: <Remembeeer August. Remember the sacrifices he made to seal away the maladies afflicting this realm. It is now your turn to do the same.>
- 7584: <Fuuulfill your charge, <Player>. Ulbuka needs you.>
- 7585: <This will guide you to the source. Find it, <Player>, and should you go aaastray, we will be here to light your path.>
- 7586: Now we know what we gotta do and how to get there, so let's crack some skulls!
- 7587: Ha! Sounds convincing when I say it. But the Xol Triumvirate are more'n those umbrils we flattened back in Woh Gates.
- 7588: If ya approach it like any old foray, maggots'll be peelin' your skin off the walls.
- 7589: The predecessors of what you call the twelve orders...over half of 'em gave their lives just to contain the threat.
- 7590: But...they are our city's most fabled legends!
- 7591: Legends're a pretty thing, Princess, but reality is always much more grim.
- 7592: Dhokmak might be the worst. The Zoldeff River over in Foret de Hennetiel wasn't always so noxious. Where his hand touched, the water stagnated and festered.
- 7593: How can we hope to fight against such an abomination?
- 7594: Nature has a way of fightin' back, and so do we. Even now, it struggles against the poison, and utilizes its potency to fight.
- 7595: How would it...?
- 7596: Think.
- 7597: $5. In its own twisted way, the jungle has wrought life from the grip of death.
- 7598: I had completely forgotten--!
- 7599: Those plants've held on for centuries, never once succumbing.
- 7600: The secret ta resisting Dhokmak's corruption lies there.
- 7601: So we use the flowers to--
- 7602: Ya got it.
- 7603: That'll be yer task. Gather as many as ya can so we can figure out how best ta use 'em.
- 7604: <Player> and I have other stuff ta be doin'.
- 7605: And as we don't have the manpower ta do it ourselves...
- 7606: I'll do it!
- 7607: Thanks, Princess. We're countin' on ya.
- 7608: I'll go on back, <Player>. I know you and Morimar can handle it.
- 7609: Stay strong!
- 7610: (Princess, be mindful of the toxins in the ground. The last thing we need is to lose you.)
- 7611: <Sigh> I've got this pinching feeling in my stomach.
- 7612: How do you respond? [What do you mean?/Did your lunch not agree with you?]
- 7613: You got bricks fer brains?
- 7614: That whole hennebloom deal was just a farce. I can't have her go off fighting the Xol Triumvirate.
- 7615: We gotta put them down 'fore she figures it out, or she'll be furious with us.
- 7616: Things're different than they were durin' my time. I can't tell how things'll play out, but putting her in the same situation August was in is unthinkable.
- 7617: I know your little leafkin Ygnas is chompin' at the bit, too...
- 7618: ...but we can't let the city's most vital figures perish now, like they did then.
- 7619: August's bloodline has survived to this very day. Would be dark times for us all if it got stamped out now.
- 7620: And, well...what can I say?
- 7621: I've got a soft spot fer that young'un.
- 7622: One time, when she was a bit younger, she got lost in the woods and I sat by her side as she slept, keepin' her safe.
- 7623: How do you respond? [When she was young?/You kept her safe?]
- 7624: I thought you'd've heard. When she barely came up to her father's waist, she'd escape from the castle when her maidservants weren't looking, causing who knows how much commotion back in town.
- 7625: That's how Darrcuiln and I met her.
- 7626: Heh. It wasn't for terribly long, but I'd never dealt with children before. We were in over our heads, weren't we, Darrcuiln?
- 7627: (The memories taste of both sweetness and sorrow.)
- 7628: When we said our goodbyes, I asked a few someones I knew ta make her forget about our meetin'--and forget she did.
- 7629: Haha, they complained the whole time, but sure did their job well.
- 7630: Just don't let it get back ta the princess, y'hear?
- 7631: Well, then, we'd better get started.
- 7632: Let's split up and tackle 'em head-on.
- 7633: I'll head ta Yorcia Weald, where Ashrakk'll be lyin' in wait.
- 7634: Darrcuiln, you take care of Dhokmak over in Cirdas Caverns.
- 7635: (Consider it done.)
- 7636: With you by our side, <Player>, those fiends'll rue the day they awoke ta terrorize us once more!
- 7637: Fer the World Tree!
- 7638: Fer Ulbuka!
- 7639: ...
- 7640: H-hey there, Arciela!
- 7641: Morimar. Darrcuiln.
- 7642: And <Player>. Tell me, just where were you off to?
- 7643: I gathered as many $5 as I could find, but when I came back, no one was here...and you showed no signs of coming back.
- 7644: You tricked me and went to battle the Xol Triumvirate, didn't you!?
- 7645: How could you!?
- 7646: I-it wasn't all that, Princess. We just didn't want to see ya get hurt.
- 7647: Yeah, we had no other choice.
- 7648: I-isn't that right, <Player>?
- 7649: What do you do? [Blame Morimar./Ask for forgiveness.]
- 7650: H-hey! We're supposed ta be in this together!
- 7651: (You should own up to your mistake.)
- 7652: You're just as guilty as the rest of them, Darrcuiln!
- 7653: (<Gulp>)
- 7654: I won't let you off so easy!
- 7655: You have to promise never to leave me behind again!
- 7656: How do you respond? [Well, you see.../I promise.]
- 7657: Ahem! I can't hear you!
- 7658: I'm going to hold you to that! If you try again, I'll follow right on your tail anyway!
- 7659: Ah, my dear Princess and friends. Has your fit finally reached a crescendo?
- 7660: Not that it makes a whit of difference.
- 7661: I've got to commend your aptitude at bringing the curtain down on those two.
- 7662: I might even bring you in for callbacks!
- 7663: Balamor!?
- 7664: <Player>, was it? Am I right?
- 7665: I do hate mismatching pioneers' faces. You all look so much alike. But what's this you have? Oh ho, a key to the depths of the turris, I see.
- 7666: Splendidly done! Hades is only a soliloquy away!
- 7667: No one's looking forward to your dance more than me!
- 7668: Rest assured, I'll be in the rafters until the final scene!t
- 7669: Bring down the house!
- 7670: Show your audience that you're no two-bit player in this most epic of sagas!
- 7671: Yes, a saga...that I have orchestrated for you!
- 7672: Bwehehehe!
- 7673: (So that's the Balamor you have been on about. Surely a hard nut to crack.)
- 7674: (And what could he have meant by an "audience"? He seems unlikely to intervene, but do not let your guard down for a second.)
- 7675: If we're willin' to believe 'im, this thing here'll lead us deep within the turris.
- 7676: Suppose I shouldn't have expected Hades ta be bursting forth from the front gate.
- 7677: You know what we gotta do, <Player>!
- 7678: And Princess...I'm really sorry. I thought I was keepin' ya safe, but I didn't realize what it meant ta ya.
- 7679: Forgive me.
- 7680: Darrcuiln, <Player>, and I won't keep ya away any longer, if that's what ya really want.
- 7681: Together we stand, together we fall!
- 7682: We can do it as long as we're together. To the turris...to stop Hades!
- 7683: (<Player>...)
- 7684: (Though my heart prickles to say this, we must not begrudge Morimar his actions.)
- 7685: (It was the only way for even some of us to escape, for had we all tried to run at once we would have been struck down in an instant.)
- 7686: (His sacrifice was an investment in our future.)
- 7687: (And I, for one, know he will not bow down easily.)
- 7688: (I have watched over the jungle with him for centuries. I can picture that smirk on his face, snarling, "My death is not for you to decide!")
- 7689: (But the trees...they are beginning to shiver.)
- 7690: (Unlike man or beast, they cannot flee to safer ground when darkness chokes the land.)
- 7691: (Hades and his Cimmerian Adherents will come, threatening to trample all life underfoot as they advance.)
- 7692: (And should eternal shadow descend, their wooden spirits will cry out, echoing across soil and sea.)
- 7693: (They will ring with the pain and sorrow of a land once loved but now lost.)
- 7694: (And you, <Player>, are the only one who can stop it.)
- 7695: (Let us stop Hades...together!)
- 7696: There is nothing out of the ordinary here.
- 7697: You can hear a strange voice... "Items, items, la la la la la`t"
- 7698: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7699: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7700: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7701: Now, listen close...
- 7702: Oh... Well, if that's the case, I'm outta here.
- 7703: The Goblin slipped away when you were not looking...
- 7704: You can hear a strange, raspy voice...
- 7705: I travel......hear lots... Hear...stories... Can tell...if...
- 7706: .........listen......
- 7707: Oh...... ...outta here.........
- 7708: Would you like to hear a story? [No, thank you./Let's hear one./Let's hear one(2).]
- 7709: Which story would you like to be told? [On second thought, maybe later./Leafallia(pt.1)./Leafallia(pt.2)./Rosulatia's Promise./The Lightsland(pt.1)./The Lightsland(pt.2)./The Light of Dawn Comes.../Cries from the Deep./Heroes, Unite!/Yggdrasil Beckons./The Key to the Turris./Blood for Blood./The Light Within./Vagary(pt.1)./Vagary(pt.2)./Vagary(pt.3)./Vagary(pt.4)./Vagary(pt.5)./Vagary(pt.6)./Vagary(pt.7)./Vagary(pt.8)./Vagary(pt.9)./Vagary(pt.10)./Vagary(pt.11)./The Silent Forest(pt.1)./The Silent Forest(pt.2)./The Silent Forest(pt.3)./Winds of Eternity(pt.1)./Winds of Eternity(pt.2)./Phantasmic Heroes(pt.1)./Phantasmic Heroes(pt.2)./Phantasmic Heroes(pt.3).]
- 7710: Which story would you like to be told? [On second thought, maybe later./The Prime Weapons(pt.1)./The Prime Weapons(pt.2)./The Prime Weapons(pt.3).]
- 7711: 
+ 7361: @
+ 7362: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7363: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7364: $3{$3^$3$97F$31V$P10i]\7
+ 7365: @@
+ 7366: Nothing happens...
+ 7367: This Augural Conveyor does not react to your $3.
+ 7368: Your party leader is currently inspecting the entrance.
+ 7369: Only your party leader may inspect the entrance.
+ 7370: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
+ 7371: Proceed? [Yes./No.]
+ 7372: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
+ 7373: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+ 7374: Balamor's will has impeded your progress into the next area.
+ 7375: You cannot enter at this time. Please wait a moment and try again.
+ 7376: This area is fully occupied. You are unable to enter.
+ 7377: Balamor's will has prevented you from proceeding.
+ 7378: Your request for entry is being considered...
+ 7379: The order has been given by your party leader to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+ 7380: Your party does not meet the minimum required number of $0 members. Unable to enter area.
+ 7381: Not all of your party members meet the requirements for this objective. Unable to enter area.
+ 7382: Your $3 has dissolved into the aether!
+ 7383: What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+ 7384: What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+ 7385: What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+ 7386: Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]
+ 7387: Now permeating the mists surrounding the [fracture/obscured domain].
+ 7388: You have chosen not to brave the mysteries of the [fracture/obscured domain].
+ 7389: Your party leader has lifted the veil surrounding the [fracture/obscured domain].
+ 7390: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
+ 7391: Brave the[ Endeavoring to Awaken/ Endeavoring to Awaken/] battlefield alone?
+ 7392: Nothing happens.
+ 7393: Perhaps the wisest approach would be to search for $6 with which to open the decrepit sluice gate.
+ 7394: A small crevice penetrates the surface of the rock.
+ 7395: A small crevice penetrates the surface of the rock. Derrcuiln and his allies have headed inside.
+ 7396: Hushed voices are carried upon the slight winds that waft over this pool of water.
+ 7397: Simulacrum segment configuration ( Visage: $1; Torso: $2; Legs: $3.
+ 7398: Simulacrum segment combination ( [/Eudaemon Sword/Eudaemon Cape/Eudaemon Ring/Eudaemon Sash/Eudaemon Shield].
+ 7399: Join the fray with your [party/alliance] members in $8?
+ 7400: Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?
+ 7401: Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]
+ 7402: This battlefield can only be attempted solo. Please disband your party and try again.
+ 7403: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
+ 7404: You are currently in a party and are unable to enter.
+ 7405: So ya made it, after all.
+ 7406: Sometimes the truth is right under yer nose, and ya just don't know it. We thought this place was destroyed and buried centuries ago.
+ 7407: This is Leafallia, the sacred home of the leafkin...and the site where the World Tree was first planted.
+ 7408: To think that we're actually here!
+ 7409: I know you're itchin' to get started, but we've got to wait for Darrcuiln to bring your princess.
+ 7410: How's 'bout takin' a look around while ya wait?
+ 7411: <I have seen all, childreeen. Both what you have done, and what has befallen the world.>
+ 7412: <And I have choseeen to put my faith in you.>
+ 7413: <Pure water is our sustenance, and shiniiing light our shelter. Without those, we would never survive.>
+ 7414: <Our Mother cries out for aid. Come, let us begin the preparatiooons.>
+ 7415: The rings on this stump are too numerous to count.
+ 7416: Glad you could make it.
+ 7417: I can't believe you, <Player>! The fate of Adoulin lies in the balance, and you didn't even come find me!
+ 7418: Don't be so harsh on ['im/'er], princess.
+ 7419: After all, I'm sure <Player> thought about the consequences should [he/she] fail.
+ 7420: That's why [he/she] didn't tell ya.
+ 7421: Is that true? [Yes. It was out of concern./No. I didn't feel like it.]
+ 7422: I suppose I should thank you...
+ 7423: ...but I really wish you had told me anyway.
+ 7424: <Player>, why are you being so mean!?
+ 7425: That's not like you. I know it.
+ 7426: (Get out! Begone from our land!)
+ 7427: (Yggdrasil is not a place for people!)
+ 7428: (I know! Let's lay a curse on them!)
+ 7429: Graaah, ya lunkheads need to clam up before I get angry!
+ 7430: We're tryin' to make the World Tree whole again, and the lot of ya are just gettin' in the way!
+ 7431: (Make it whole?)
+ 7432: (You can't pull the wool over our eyes!)
+ 7433: Please! Calm down and listen to what we have to say!
+ 7434: We're going to restore the World Tree, and we want you to witness it.
+ 7435: (Is she serious?)
+ 7436: (I think she is.)
+ 7437: (You can't fool me!)
+ 7438: Oh, come on! What would she possibly have to gain from lyin'?
+ 7439: Arciela, don't worry about them. They listen about as well as a berserk Goblin.
+ 7440: (You're one to talk!)
+ 7441: Just stay there, and don't move, alright? Goddess above...
+ 7442: <Sigh> See what I mean? For a bunch of bodiless spirits, they sure act up like little kids.
+ 7443: They're definitely animated. But don't blame them too much. Mortal children are much the same.
+ 7444: Yes, this is my brother. He heard Darrcuiln calling, and he grabbed onto my leg and wouldn't let go.
+ 7445: So I told him he could come along.
+ 7446: So this is the stubborn Ygnas? Bwahaha! Look at the sheen on those verdant leaves. How many gardeners does it take to keep you so perfectly pruned?
+ 7447: (This is no laughing matter.)
+ 7448: Oh ho, I meant no offense. He just looks so...regal.
+ 7449: (No. You were making fun of him.)
+ 7450: When will you ever... <Sigh> There's so little mirth in the world. Can't you allow me just one joke?
+ 7451: Well, this is quite the spectacle.
+ 7452: Who goes there?
+ 7453: ...Minister Melvien?
+ 7454: Then my eyes do not deceive me! That is, indeed, Princess Arciela!
+ 7455: When I saw a dainty figure riding atop a golden beast, I could have sworn my eyes were playing a trick on me--but here you are, in the flesh.
+ 7456: I can only thank my good sense in choosing to follow your tracks.
+ 7457: What would bring you to Kamihr...?
+ 7458: My dear, I have always been a student of history. Call it an intellectual curiosity.
+ 7459: I chanced upon quite an intriguing volume, and spent many a night poring over it...too many, perhaps. And I realized that I had stumbled onto a treasure.
+ 7460: Before I realized it, here I stood! I never thought the phrase "lost in one's research" could be taken so literally.
+ 7461: And yet I find myself more invigorated than I ever was in my manse. Lady of Adoulin, I believe I now understand your penchant for the wilds.
+ 7462: Of course, I remain but a humble student.
+ 7463: Melvien, about that book...
+ 7464: Princess, ya seem to recognize this guy. Just who is he?
+ 7465: Well...he serves in Adoulin as the minister of finance...
+ 7466: Melvien de Malecroix. Charmed, I'm sure.
+ 7467: A man of your standin' made it here without bodyguards? I'm impressed. In my day that was unthinkable! Bwahaha!
+ 7468: And the dangers of the forest didn't worry ya?
+ 7469: A measure of caution is always prudent when venturing into lands unknown. But my pursuit of the truth overcame any fears I may have had.
+ 7470: I like this one! Reminds me of ya, princess, with how yer always trekking about without a care in the world.
+ 7471: Your approval is much appreciated. But if I may ask, just where are we? It is preposterous to think such a place would exist within the recesses of such an inhospitable locale.
+ 7472: This is a sacred land, called Leafallia. If yer lookin' for history, then ya've found it!
+ 7473: Leafallia...
+ 7474: Oh ho, preparations must be almost complete.
+ 7475: Preparations, you say? For what? Might I witness what is about to occur?
+ 7476: Of course! It's only right for a minister from the city itself to see what's 'bout to happen.
+ 7477: <Young ones, I caaannot thank you enough for what you have done.>
+ 7478: <The time is right for Mother to be made whole. I shall commence the ceremonyyy.>
+ 7479: We're ready.
+ 7480: <What we do here today is to restore the rightfuuul order of things. Nothing should change, and all will be as intended.>
+ 7481: <Sons and daughters, bear witneeess to Mother's revival.>
+ 7482: ...
+ 7483: That's the World Tree...look at what's happened to it.
+ 7484: Look, <Player>...it's really true.
+ 7485: Urk...!
+ 7486: You...monster! What have you...done...
+ 7487: All these years, Morimar, and you haven't changed one bit.
+ 7488: M-Melvien! Why!?
+ 7489: House Adoulin ends here.
+ 7490: Filthy beast! I'll end you like I did him!
+ 7491: Damn you, Melvien!
+ 7492: You thought you won, but I'm no ordinary man...!
+ 7493: Damn it all to the abyss!
+ 7494: What on Vana'diel was he thinking!?
+ 7495: (Dead men tell no tales, Morimar.)
+ 7496: Urk...
+ 7497: What was I supposed to do!?
+ 7498: Graaaaaaaaaaaah!
+ 7499: <Player>, did he get ya, too?
+ 7500: Are you all right? [Fine. I'm more worried about you./None of his bullets hit me./I've been dealt worse hands.]
+ 7501: Bwahaha, those are some reflexes ya've got there!
+ 7502: Bwahaha, I bet ya have, Middle Land adventurer!
+ 7503: Me? I'll be fine. Merely a flesh wound, and it takes more than that to bring me down!
+ 7504: And the important thing now isn't me, but that we can't ask that bastard why he wanted to ruin everything!
+ 7505: (He is gone. Dwelling on it does not serve any purpose.)
+ 7506: (N-no...)
+ 7507: (Waaaaaah!)
+ 7508: (Why did he have to protect you mortals!?)
+ 7509: (I hate you all!)
+ 7510: What do you tell Arciela? [You couldn't have known./There was nothing you could have done.]
+ 7511: At least Rosulatia's safe.
+ 7512: Thank goodness...
+ 7513: At least there's something to...be thankful...for...
+ 7514: I heard what happened--ya tried to protect her from harm.
+ 7515: That bluster about hatin' people was just a front, wasn't it?
+ 7516: ...!
+ 7517: The fabric of life is a strange thing, princess. When one thread ends, another begins. I'm sure ya'll be able to thank him someday...
+ 7518: But if ya need to cry now, then let it all out.
+ 7519: We gotta press on, or their sacrifices will've been for nothin'.
+ 7520: Rosulatia...
+ 7521: Success has never tasted so...bittersweet.
+ 7522: This should prevent Hades from rising up again.
+ 7523: I'm sure of it.
+ 7524: As long as it grows strong and healthy...
+ 7525: I'd not worry about that.
+ 7526: This land is protected not just by Sajj'aka from the peaks, but also by Kumhau in the snowfields. Neither of them will let any harm come to it.
+ 7527: That's true.
+ 7528: This's probably not something ya want to hear, but... Yer gonna have to report his death to the castle.
+ 7529: But...
+ 7530: He's not some homeless beggar no one would miss. His disappearance'll cause questions.
+ 7531: First the king falls ill and is bedridden, next a minister disappears...people will be up in arms. "It's the curse! It's the curse!"
+ 7532: But if people know he's dead, there'll just be normal internal strife. It won't be pleasant, but certainly better'n the alternative.
+ 7533: There's no need to tell everyone the nitty-gritty. I'll find some way to dispose of the body myself.
+ 7534: All you need to say is that you saw him in Kamihr Drifts.
+ 7535: ...Okay.
+ 7536: That dull attitude won't move the hearts of Adoulin! With Ygnas as he is, the people will turn to you for leadership.
+ 7537: Adoulin wouldn't be the first nation ruled by a woman, nor would it be the last.
+ 7538: (<Player>, she is counting on you for words of encouragement.)
+ 7539: What will you say? [I know you can do it!/(She doesn't have it in her.)]
+ 7540: (You cannot encourage her in her time of need?)
+ 7541: ...You're right! I can, and I must!
+ 7542: A response worthy of a princess! While yer doin' that, I'll remain here to take care of things.
+ 7543: Morimar...thank you.
+ 7544: And thank you, <Player>. I would never have been able to make it here without your help.
+ 7545: Mere words are not enough.
+ 7546: To Adoulin! There is much to be done.
+ 7547: I'll handle the cleanup. Ya gotta go back to Adoulin with Arciela.
+ 7548: What're ya doin' back here? I don't recall puttin' out a signal.
+ 7549: Ya've already spread the news, right? Then it's only a matter of time before they find the body.
+ 7550: The princess'll need yer help now more than ever. Make sure she stays on the right path--for Adoulin's sake.
+ 7551: Replay from where? [From the start./From the grafting./From the skirmish./From the famm./From the gathering./From the revival.]
+ 7552: Hmm...Morimar's not here. I wonder where he could...
+ 7553: ...
+ 7554: Wha--
+ 7555: Is you nicewoman of Morimar?
+ 7556: Nicewoman? I...suppose?
+ 7557: I have wordtell from him. "Meet me at mountaintop."
+ 7558: That's all. No more tongueflaps.
+ 7559: At the peak of the mountain?
+ 7560: Aha, with Sajj'aka!
+ 7561: Thank you for letting us know.
+ 7562: C'mon, <Player>!
+ 7563: <Come...Wooorld Tree...>
+ 7564: Do you hear it too, <Player>?
+ 7565: <Your preseeence here is most welcome.>
+ 7566: Rosulatia...is everything...?
+ 7567: <I no longer have a cooorporeal form, Princess. I hope you do not find me overly ghastly.>
+ 7568: <The bonds that we share...when they are close, I reeetain some semblance of my former self.>
+ 7569: ...
+ 7570: <The World Tree's roots have kept me keenly aware of the incideeents occurring throughout the land.>
+ 7571: <And so, too, do I see the reason for your aaarrival.>
+ 7572: <Forceees of the deep that your storied hero sealed away are breathing anew.>
+ 7573: <Their slumber was to be eternal, but the calamiiity has come full circle.>
+ 7574: <Our mother tree kept the darkneeess at bay, purging evil as it emerged and preserving the sanctity of the forest.>
+ 7575: Then it really was the World Tree that protected us these long years.
+ 7576: As we always suspected.
+ 7577: <But her strength is not without its limiiits. You may think it a grand flood, but in due time it will wane to a mere trickle.>
+ 7578: <And I...soon I will join with Motheeer. Her life will be mine, and mine, hers.>
+ 7579: <I have but precious momeeents to communicate with you.>
+ 7580: So we'll never see you again?
+ 7581: <You will. Our bonds will keep us close, always. The same way I am alwaaays with your founder king.>
+ 7582: <Keep my pome safe, <Player>, and let it proteeect you during your hour of need.>
+ 7583: <We are all able to stand here this day because of the sapliiing you helped bring to revive Mother.>
+ 7584: <Remembeeer August. Remember the sacrifices he made to seal away the maladies afflicting this realm. It is now your turn to do the same.>
+ 7585: <Fuuulfill your charge, <Player>. Ulbuka needs you.>
+ 7586: <This will guide you to the source. Find it, <Player>, and should you go aaastray, we will be here to light your path.>
+ 7587: Now we know what we gotta do and how to get there, so let's crack some skulls!
+ 7588: Ha! Sounds convincing when I say it. But the Xol Triumvirate are more'n those umbrils we flattened back in Woh Gates.
+ 7589: If ya approach it like any old foray, maggots'll be peelin' your skin off the walls.
+ 7590: The predecessors of what you call the twelve orders...over half of 'em gave their lives just to contain the threat.
+ 7591: But...they are our city's most fabled legends!
+ 7592: Legends're a pretty thing, Princess, but reality is always much more grim.
+ 7593: Dhokmak might be the worst. The Zoldeff River over in Foret de Hennetiel wasn't always so noxious. Where his hand touched, the water stagnated and festered.
+ 7594: How can we hope to fight against such an abomination?
+ 7595: Nature has a way of fightin' back, and so do we. Even now, it struggles against the poison, and utilizes its potency to fight.
+ 7596: How would it...?
+ 7597: Think.
+ 7598: $5. In its own twisted way, the jungle has wrought life from the grip of death.
+ 7599: I had completely forgotten--!
+ 7600: Those plants've held on for centuries, never once succumbing.
+ 7601: The secret ta resisting Dhokmak's corruption lies there.
+ 7602: So we use the flowers to--
+ 7603: Ya got it.
+ 7604: That'll be yer task. Gather as many as ya can so we can figure out how best ta use 'em.
+ 7605: <Player> and I have other stuff ta be doin'.
+ 7606: And as we don't have the manpower ta do it ourselves...
+ 7607: I'll do it!
+ 7608: Thanks, Princess. We're countin' on ya.
+ 7609: I'll go on back, <Player>. I know you and Morimar can handle it.
+ 7610: Stay strong!
+ 7611: (Princess, be mindful of the toxins in the ground. The last thing we need is to lose you.)
+ 7612: <Sigh> I've got this pinching feeling in my stomach.
+ 7613: How do you respond? [What do you mean?/Did your lunch not agree with you?]
+ 7614: You got bricks fer brains?
+ 7615: That whole hennebloom deal was just a farce. I can't have her go off fighting the Xol Triumvirate.
+ 7616: We gotta put them down 'fore she figures it out, or she'll be furious with us.
+ 7617: Things're different than they were durin' my time. I can't tell how things'll play out, but putting her in the same situation August was in is unthinkable.
+ 7618: I know your little leafkin Ygnas is chompin' at the bit, too...
+ 7619: ...but we can't let the city's most vital figures perish now, like they did then.
+ 7620: August's bloodline has survived to this very day. Would be dark times for us all if it got stamped out now.
+ 7621: And, well...what can I say?
+ 7622: I've got a soft spot fer that young'un.
+ 7623: One time, when she was a bit younger, she got lost in the woods and I sat by her side as she slept, keepin' her safe.
+ 7624: How do you respond? [When she was young?/You kept her safe?]
+ 7625: I thought you'd've heard. When she barely came up to her father's waist, she'd escape from the castle when her maidservants weren't looking, causing who knows how much commotion back in town.
+ 7626: That's how Darrcuiln and I met her.
+ 7627: Heh. It wasn't for terribly long, but I'd never dealt with children before. We were in over our heads, weren't we, Darrcuiln?
+ 7628: (The memories taste of both sweetness and sorrow.)
+ 7629: When we said our goodbyes, I asked a few someones I knew ta make her forget about our meetin'--and forget she did.
+ 7630: Haha, they complained the whole time, but sure did their job well.
+ 7631: Just don't let it get back ta the princess, y'hear?
+ 7632: Well, then, we'd better get started.
+ 7633: Let's split up and tackle 'em head-on.
+ 7634: I'll head ta Yorcia Weald, where Ashrakk'll be lyin' in wait.
+ 7635: Darrcuiln, you take care of Dhokmak over in Cirdas Caverns.
+ 7636: (Consider it done.)
+ 7637: With you by our side, <Player>, those fiends'll rue the day they awoke ta terrorize us once more!
+ 7638: Fer the World Tree!
+ 7639: Fer Ulbuka!
+ 7640: ...
+ 7641: H-hey there, Arciela!
+ 7642: Morimar. Darrcuiln.
+ 7643: And <Player>. Tell me, just where were you off to?
+ 7644: I gathered as many $5 as I could find, but when I came back, no one was here...and you showed no signs of coming back.
+ 7645: You tricked me and went to battle the Xol Triumvirate, didn't you!?
+ 7646: How could you!?
+ 7647: I-it wasn't all that, Princess. We just didn't want to see ya get hurt.
+ 7648: Yeah, we had no other choice.
+ 7649: I-isn't that right, <Player>?
+ 7650: What do you do? [Blame Morimar./Ask for forgiveness.]
+ 7651: H-hey! We're supposed ta be in this together!
+ 7652: (You should own up to your mistake.)
+ 7653: You're just as guilty as the rest of them, Darrcuiln!
+ 7654: (<Gulp>)
+ 7655: I won't let you off so easy!
+ 7656: You have to promise never to leave me behind again!
+ 7657: How do you respond? [Well, you see.../I promise.]
+ 7658: Ahem! I can't hear you!
+ 7659: I'm going to hold you to that! If you try again, I'll follow right on your tail anyway!
+ 7660: Ah, my dear Princess and friends. Has your fit finally reached a crescendo?
+ 7661: Not that it makes a whit of difference.
+ 7662: I've got to commend your aptitude at bringing the curtain down on those two.
+ 7663: I might even bring you in for callbacks!
+ 7664: Balamor!?
+ 7665: <Player>, was it? Am I right?
+ 7666: I do hate mismatching pioneers' faces. You all look so much alike. But what's this you have? Oh ho, a key to the depths of the turris, I see.
+ 7667: Splendidly done! Hades is only a soliloquy away!
+ 7668: No one's looking forward to your dance more than me!
+ 7669: Rest assured, I'll be in the rafters until the final scene!t
+ 7670: Bring down the house!
+ 7671: Show your audience that you're no two-bit player in this most epic of sagas!
+ 7672: Yes, a saga...that I have orchestrated for you!
+ 7673: Bwehehehe!
+ 7674: (So that's the Balamor you have been on about. Surely a hard nut to crack.)
+ 7675: (And what could he have meant by an "audience"? He seems unlikely to intervene, but do not let your guard down for a second.)
+ 7676: If we're willin' to believe 'im, this thing here'll lead us deep within the turris.
+ 7677: Suppose I shouldn't have expected Hades ta be bursting forth from the front gate.
+ 7678: You know what we gotta do, <Player>!
+ 7679: And Princess...I'm really sorry. I thought I was keepin' ya safe, but I didn't realize what it meant ta ya.
+ 7680: Forgive me.
+ 7681: Darrcuiln, <Player>, and I won't keep ya away any longer, if that's what ya really want.
+ 7682: Together we stand, together we fall!
+ 7683: We can do it as long as we're together. To the turris...to stop Hades!
+ 7684: (<Player>...)
+ 7685: (Though my heart prickles to say this, we must not begrudge Morimar his actions.)
+ 7686: (It was the only way for even some of us to escape, for had we all tried to run at once we would have been struck down in an instant.)
+ 7687: (His sacrifice was an investment in our future.)
+ 7688: (And I, for one, know he will not bow down easily.)
+ 7689: (I have watched over the jungle with him for centuries. I can picture that smirk on his face, snarling, "My death is not for you to decide!")
+ 7690: (But the trees...they are beginning to shiver.)
+ 7691: (Unlike man or beast, they cannot flee to safer ground when darkness chokes the land.)
+ 7692: (Hades and his Cimmerian Adherents will come, threatening to trample all life underfoot as they advance.)
+ 7693: (And should eternal shadow descend, their wooden spirits will cry out, echoing across soil and sea.)
+ 7694: (They will ring with the pain and sorrow of a land once loved but now lost.)
+ 7695: (And you, <Player>, are the only one who can stop it.)
+ 7696: (Let us stop Hades...together!)
+ 7697: There is nothing out of the ordinary here.
+ 7698: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7699: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7700: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7701: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7702: Now, listen close...
+ 7703: Oh... Well, if that's the case, I'm outta here.
+ 7704: The Goblin slipped away when you were not looking...
+ 7705: You can hear a strange, raspy voice...
+ 7706: I travel......hear lots... Hear...stories... Can tell...if...
+ 7707: .........listen......
+ 7708: Oh...... ...outta here.........
+ 7709: Would you like to hear a story? [No, thank you./Let's hear one./Let's hear one(2).]
+ 7710: Which story would you like to be told? [On second thought, maybe later./Leafallia(pt.1)./Leafallia(pt.2)./Rosulatia's Promise./The Lightsland(pt.1)./The Lightsland(pt.2)./The Light of Dawn Comes.../Cries from the Deep./Heroes, Unite!/Yggdrasil Beckons./The Key to the Turris./Blood for Blood./The Light Within./Vagary(pt.1)./Vagary(pt.2)./Vagary(pt.3)./Vagary(pt.4)./Vagary(pt.5)./Vagary(pt.6)./Vagary(pt.7)./Vagary(pt.8)./Vagary(pt.9)./Vagary(pt.10)./Vagary(pt.11)./The Silent Forest(pt.1)./The Silent Forest(pt.2)./The Silent Forest(pt.3)./Winds of Eternity(pt.1)./Winds of Eternity(pt.2)./Phantasmic Heroes(pt.1)./Phantasmic Heroes(pt.2)./Phantasmic Heroes(pt.3).]
+ 7711: Which story would you like to be told? [On second thought, maybe later./The Prime Weapons(pt.1)./The Prime Weapons(pt.2)./The Prime Weapons(pt.3).]
  7712: 
- 7713: You make gilgive for one of my shinies, yes?
- 7714: @@We strolled through the colors,
- 7715: @@The sun shining on our steps
- 7716: @@Reaching for the light to set us free
- 7717: @@Memories
- 7718: @@Our shadows fluttering as we chased on$0
- 7719: @@Don't leave me here alone$0
- 7720: @@I need you by my side
- 7721: @@Take my hand
- 7722: @@Close your eyes
- 7723: @@I'm just hitting my stride
- 7724: @@When all around was dark
- 7725: @@You gave me wings of light
- 7726: @@Telling me it would remain forever today$3
- 7727: @@Memories
- 7728: @@Shining off the streams below
- 7729: @@Stay here next to me$0
- 7730: @@As I spread my wings and fly$0
- 7731: @@Take my hand
- 7732: @@Close your eyes
- 7733: @@I'm just hitting my stride
- 7734: @@Memories
- 7735: @@Our shadows fluttering as we chased on
- 7736: @@Don't leave me here alone$0
- 7737: @@I need you by my side
- 7738: @@Take my hand
- 7739: @@Lift your voice
- 7740: @@And say it will remain forever today$4
- 7741: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7742: Set this as current home point? [Yes./No.]
- 7743: Home point set!
- 7744: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7745: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7746: You have registered a new home point! You are now able to teleport here from any other home point.
- 7747: You may teleport from here to any other home point you have registered.
- 7748: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7749: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7750: You have not yet registered any other home points, and thus are unable to teleport.
- 7751: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7752: There is no fee for teleporting to Home Point #$2 in $8.
- 7753: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7754: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7755: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7756: You may change the method of selecting the area of your desired home point to teleport to.
- 7757: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7758: You are now selecting by [region/expansion].
- 7759: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7760: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7761: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7762: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
- 7763: Ahhhhhhhhh... How strange, having a visitor to our humble abode. Surprising, strange, and difficult to believe.
- 7764: Surprising! Surprising indeed! Our master isn't present right now, so leave!
- 7765: ...No. How could it come to pass that one could find this secluded place? It's utterly sealed off, separated, and removed from the world.
- 7766: Yes, yes! Separated! But if [he/she] is here, that only means our master willed it!
- 7767: Hmmmmmmmmm... If our research, studies, and investigations have taken a backseat for now, then perhaps we can discuss that special thing...
- 7768: Oho, quite special! An adventurer is the perfect guinea pig!
- 7769: Then we have but one simple, easy, and altogether elementary task to do.
- 7770: A straightforward task, yes! Carry out the master's will!
- 7771: And if we're wrong, we just seal off, shelter, and bar the doors to the place forever.
- 7772: Close off! Understood!
- 7773: Listen well, most esteemed guest. Our master has unlocked new possibilities for spirits, souls, and consciousnesses.
- 7774: Open the door, he did! Memories of battles etched upon completely new existences!
- 7775: Yet a spirit is a complex, difficult-to-understand, and nigh-incomprehensible thing made of many interwoven threads.
- 7776: A most difficult nut to crack!
- 7777: But your spirit is marked with memories of battles, fights, and struggles, each a shining star amongst the sky. We wish to view those stars close-up.
- 7778: Yes, a most pleasing brightness! Bring us $0 and we will open the gates for you!
- 7779: You seem confused, befuddled, and out of sorts. Don't worry--you'll know where to look when you return to your world.
- 7780: And return you will! Both to there, and to here!
- 7781: Pale eddies of light swirl in front of your eyes. Perhaps you need $0.
- 7782: Pale eddies of light swirl in front of your eyes. The leafkin seem to be wholly oblivious to it.
- 7783: Well done! Absolutely perfect and without flaw.
- 7784: Splendid! Our master is still out, but we deem you worthy in his place!
- 7785: You should feel honored, blessed, and proud.
- 7786: Honored to receive your just reward!
- 7787: We have prepared, set up, and established three different...dimensions for you to explore.
- 7788: That one opens to a land of [toxic miasma/biting winds/unending filth].
- 7789: Many lands, all for you with just a quick shake of this $3!
- 7790: Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar.
- 7791: Outer Ra'Kaznar! Our master's experiments await!
- 7792: Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!
- 7793: Be healthy and hale!
- 7794: Oho, $0!
- 7795: You do! You do have $6!
- 7796: Its energies will be consumed, dissipated, and fully extinguished when you use it to enter our master's "testing chamber," but you can enter again by procuring another.
- 7797: Let me return it, give it back to you, and hand it over.
- 7798: Should you, for whatever reason, find the experiment...wanting...it would behoove you to visit Ra'Kaznar Turris.
- 7799: For there, you will find another testing chamber...one which may prove more to your liking.
- 7800: Yes...in that chamber, visions of the most formidable of foes await you. And though they may be but passing fantasies, the battles will be no less demanding.
- 7801: And yet, since there is no substance to the terrors you will face, there will be nothing to be gained from your triumphs...if you triumph at all.
- 7802: You seek no material gain, but only the honor and glory of the fight...?
- 7803: Very well...then honor and glory shall be yours.
- 7804: A raspy voice reverberates within your mind.
- 7805: Silence descends once more.
- 7806: Spirits are only one part of the experiments, tests, and trials. The other part...is throwing yourself against your foes over and over.
- 7807: Hehehe, and you certainly are enjoying yourself.
- 7808: Much enjoyment to be had! Your soul beams at the very mention of combat!
- 7809: No, no, no! The spirit tells no lies!
- 7810: Some may call it a blood craze, a lust for battle, an inclination for combat, but our master is pleased at your successes, no matter the reason behind them.
- 7811: I have been waiting for you, [son/daughter] of man.
- 7812: And what did you call yourself again?
- 7813: Ah, yes. <Player>.
- 7814: Hahaha! Normally I'm not one to remember the moniker of one with so short a lifespan, but yours stuck with me.
- 7815: My name? Skokkr Undrborn.
- 7816: I realize that "Undrborn" doesn't roll off the tongue, so you may address me as simply "Skokkr."
- 7817: Oooh hooo hoo! Yes, I see what those two were saying about your vibrant spirit. Humanity remains as curious as ever.
- 7818: It can not only draw out the energies of my $3, but also contain it and even twist it into different forms.
- 7819: Outstanding. Your will and determination are utterly without parallel.
- 7820: There were once many curious folk like my underlings meandering throughout my lands.
- 7821: But none ever emerged victorious. Setting aside the question of good versus evil, let me merely point out that the scales of balance failed to tip so much as one ilm in one side's favor.
- 7822: And then you came and flipped the entire contraption over.
- 7823: Oooh, hooo! None can blame you, <Player>, least of all me. Take pride in your works.
- 7824: But I didn't invite you here to give you a treatise on the powers that be...or were.
- 7825: I am here to give you a prototype sigil of sorts in exchange for the three you already hold.
- 7826: What use are they to you now that their purpose has been fulfilled? A fairer deal you will find nowhere else.
- 7827: I have the highest of hopes for you. Here, two things to get you started.
- 7828: But next time, I'll need $0.
- 7829: Bring me one, and I'll give you another $3.
- 7830: And the other thing--the $3--if you need a new one, then you'll have to gather three more sigils for me.
- 7831: You scratch my back, and I'll scratch yours, hmm? Isn't that how your world operates?
- 7832: And I cannot make these precious tools out of thin air. That is in the realm of godhood, and I am but a humble experimenter.
- 7833: Not that I believe in gods--or I that I don't believe in gods. I couldn't care less.
- 7834: I only believe in what is observable.
- 7835: Experiments and hypotheses are my bread and butter.
- 7836: Oooh hoo hoo hoo.
- 7837: Hypothesize and experiment. Then back to the drawing board and draw up more hypotheses to fuel further experiments. How else will we get to the crux of how the world works?
- 7838: Not that I expect you to express much interest.
- 7839: But let's turn for a moment to my underlings... Special spirits indeed, them.
- 7840: They burn brightly, only to turn to ash and return to nothingness, waiting for the cycle to begin anew.
- 7841: You must be looking forward to facing them on the fields of valor.
- 7842: Oooh hooo hoo, and how I, too, look forward to that moment!
- 7843: I hope to learn much from your exploits in the realm of spirits.
- 7844: Let's see if you can put the screws to them, like you have so many before.
- 7845: I await your most pleasing of results.
- 7846: I trust that your results will be exemplary, and would like to give you a little something...special.
- 7847: Ah, but you already have $6. Then I cannot give you another, for any information you glean would be rendered wholly indecipherable.
- 7848: Many years! Yes, many years since we've seen our master directly!
- 7849: Forgive us, pardon our brashness, and fault us not our hubris. We misjudged you.
- 7850: We have high hopes, strong expectations, and great confidence in your ability to assist our master in his research.
- 7851: Take this $3 as a symbol of our respect, admiration, and optimism.
- 7852: <Player>, I've given you all you need. Make it quick, and let me get back to my research.
- 7853: Why are you here today? [It scares me. Take it back./I want to hear more./No real reason.]
- 7854: It scares you?
- 7855: Well, this is an unexpected turn of events. When I pierced into your past, I would never have expected one with memories such as yours to be frightened by a mere bauble.
- 7856: Exactly how many battles have you experienced? Far too many to count.
- 7857: Victory is filled with blood and tears, and you have bathed in more than your share of both.
- 7858: Look into my eyes and tell me that's not the case.
- 7859: I'll honor your request, but the sigils used to construct this marvel will vanish into thin air.
- 7860: You will have to bring me three more sigils should you change your mind--and change it you will.
- 7861: Return $3? [Yep, who needs it?/No, it might prove useful.]
- 7862: Fine. But keep in mind that I require three more sigils to make another.
- 7863: Do not disappoint me, <Player>.
- 7864: Then you shall return empty-handed, for I have nothing more to say to you.
- 7865: ...But perhaps I do. Research always bears fruit, and how can I turn down a request so politely worded?
- 7866: Yes, perhaps...
- 7867: Dvergr are known for our manual dexterity, and since ancient times have heeded the call of crafting weapons and armor of the finest quality.
- 7868: But not all of us are cut from the same cloth. Surely you can appreciate this, [son/daughter] of man.
- 7869: I never had a penchant for hands-on affairs, and dedicated all my time to academic pursuits, finally settling upon one very precise topic of inquiry.
- 7870: Spirits.
- 7871: All things, living and non-living, have a spirit. The more I study, the more I thirst for knowledge. I have lost track of the countless years I have spent in research, yet I am no closer to drawing a conclusion than I was when I started.
- 7872: A Devrgr's lifespan is measured in centuries, yet every second that goes by without answers agitates me further.
- 7873: This is my sole reason for living, and I will not rest until I am satisfied.
- 7874: ...<Player>, I am too involved in my research to humor your pointless comings and goings.
- 7875: Ah, this is quite wonderful! The sky contains not a single cloud of doubt owing to your herculean efforts.
- 7876: But we must act again before the rain threatens us.
- 7877: I yearn to see how you stand in the face of the most dreadful of memories.
- 7878: Yet I remain perplexed... If this sigil was but a fabrication, then why would I feel such an unfamiliar energy emanating from it? Is there some connection that escapes my gaze?
- 7879: Ah, but that only means I have yet one more subject to research. I shall take my time and dissect this curious specimen.
- 7880: Go forth, <Player>, and let the seeds I have sown bloom and flourish!
- 7881: You don't wish to return your $3, do you?
- 7882: How do you respond? [Actually, I do want to return it./I want to know more./Heavens forbid!]
- 7883: Humanity is fickle, indeed. But don't flatter yourself to think I care one onz about your inner workings. Know only that if you return it, the sigils will fully dissipate.
- 7884: Be warned that you will have to bring $6 should you desire another.
- 7885: Choose wisely, [son/daughter] of man.
- 7886: Avarice is not a word in your vocabulary. That much I can commend. Perhaps that is one difference between humanity and Dvergr kind--not that I pretend to understand it.
- 7887: Nor do I wish to.
- 7888: 6 is all you need bring me to receive another.
- 7889: I'm far too busy to engage in small talk with you. ...But as you have done me a service thus far, I'll condescend to your request.
- 7890: Let's see... Aha. Perhaps this will be of interest.
- 7891: My research has produced several interesting byproducts, the likes of which I have scattered about the world.
- 7892: Those were lifeless dolls into which I breathed energy, simply to see how they react to their surroundings.
- 7893: True, I could have found more handy vessels, but I wanted something more close-to-home to infuse with something based on my own spirit.
- 7894: So what exactly have they been up to of late? Ah, perhaps I shouldn't have been so derelict in overseeing them.
- 7895: Bah. They're just dolls. No use getting sentimental over them.
- 7896: The entire enterprise is grounded in recent breakthroughs to codex techniques--the ability to transfer spirits from one place into another.
- 7897: When a spirit is refined, it begins to glitter like a diamond bathed in ever-increasing quantities of light. But a spirit can only inhabit one vessel at a time, so there is a limit to how much it can grow during its host's life.
- 7898: Moving it to another host, however, enables it to grow into something it ordinarily cannot, containing information and memories from a variety of its previous vessels.
- 7899: The $3 you hold now is exactly that which I have explained to you. Consider yourself lucky to be in possession of such a rare piece.
- 7900: Continue, then, to help it absorb knowledge.
- 7901: I have sent some of my most trusted assistants to the vitalized place you call the Middle Lands to manage these techniques, sharing them with the worthy.
- 7902: Visit them should you wish to learn more. You can see the world from a completely new...perspective. Oooh hooo hoo!
- 7903: I wonder about you, <Player>...
- 7904: I do hate futile repetition, so take my words to heart this time--I have no interest in playing these little games with you.
- 7905: If you wish to contribute to my research, then I implore you to only return when you have the appropriate results.
- 7906: I advise you to make haste. Humanity's time in this world is quite fleeting, indeed.
- 7907: Make the most of it. Take full advantage of your mind and body.
- 7908: Oooh hooo hooo! Now this--this is something else! If you will...
- 7909: ...
- 7910: ......
- 7911: Aha. So that's why...
- 7912: Now that I understand, I must admit the whole ordeal was rather anticlimactic.
- 7913: To think I was the one who started it in the first place...
- 7914: Oooh hooo hooo...but that is a success in and of itself.
- 7915: What's wrong, <Player>?
- 7916: Ah, but I needn't even ask. You feel a bit left out, don't you? I can read it not from your spirit, but from your face.
- 7917: The bearer of this sigil used to be a pupil of mine, also engaged in the studying of spirits.
- 7918: That would explain the strange forces I felt upon first taking hold of the $3.
- 7919: And it only makes sense that I couldn't tell at first--his spirit was incomplete.
- 7920: A partially broken spirit is lacking in information. It's of little surprise I was unable to ascertain its true nature.
- 7921: I am able to reach an appropriate conclusion now that I have studied it in full.
- 7922: "Full" may not be the appropriate term, as it is only a fabrication of the real thing, but it looks like I will have to dismantle it.
- 7923: To think that he was the first to fully succeed in implementing the techniques I was studying! The student had overtaken the master--bittersweet, to be sure.
- 7924: Ah, now I remember what a bright, diligent pupil he was.
- 7925: Humanity is flawed--but perhaps he was able to overcome precisely because of those same flaws.
- 7926: His perspective differed from mine. Whereas I sought to experiment on others, he turned his gaze on himself. He must have learned something about transmigrating Galka in the process.
- 7927: It would certainly be the right answer for mankind, pitiful beings whose lifespans are limited.
- 7928: But still...
- 7929: Was his conclusion really the one he should have been after?
- 7930: Did he catch a glimpse into the true nature of the spirit?
- 7931: Unfortunately, that much I cannot glean from this sigil. Oooh hooo hooo! My research continues after all.
- 7932: But you didn't come here to listen to me wax poetic about the past.
- 7933: Let me instead implore you to continue assisting me. He may have learned the truth, but I have not.
- 7934: How invigorating this research has been! Every time I reach a dead end, the world breaks down yet another wall.
- 7935: <Player>. Our master is not present, out running experiments, and has left for the time being.
- 7936: What do you require? [I want $6./I want $6./Return $6./Return $6./Hand over $6./Nothing for now.]
- 7937: 6? Then go, take it, and be on your way. I'll keep your three sigils safe.
- 7938: $6? Then go, take it, and be on your way. I'll keep your $3 safe.
- 7939: Our master says that there's no need, requirement, or reason for you to return it. But if you desire to...
- 7940: No need! None! The sigils will vanish and you will need to get them again for another!
- 7941: Make a choice, pick your poison, and decide quickly.
- 7942: The power is yours!
- 7943: Do you have any other needs, desires, or wants?
- 7944: Let me warn you, provide guidance, and be frank. That alone will not open the gates.
- 7945: It won't! You'll also need $6, which we can give you in exchange for $1!
- 7946: We'll be waiting patiently, calmly, and with bated breath.
- 7947: Our master awaits your results, outcomes, and conclusions.
- 7948: He does! Don't let him down!
- 7949: $6. Well done, good show, and expertly handled.
- 7950: Perfect! Perfect indeed! Here--a treasure for you!
- 7951: You seem to be enjoying, having fun, and finding pleasure in our little escapade. Those little charms of yours are proof of that fact.
- 7952: They are special trinkets that our master has prepared above and beyond the sigils with which you are familiar.
- 7953: Familiar indeed! And they are critical in our research.
- 7954: Yes, quite critical! And we are prepared to offer you proper recompense!
- 7955: What would you like? [Nothing./Equipment./Materials./Whatever the master deems worthy.]
- 7956: Which will it be? [I need time to think./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30.]
- 7957: $0, hmm?
- 7958: Is that correct? [Of course./Hold on.]
- 7959: A brand-new $0 just for you! Enjoy!
- 7960: Worthy! Yes, there is much the master deems worthy!
- 7961: We respect, laud, and venerate your decision. Go now, and see what the master has deemed fit to give you.
- 7962: Okay, it looks like we're all here.
- 7963: The moment of truth awaits. However, before that...
- 7964: Darrcuiln, please wait here until we return.
- 7965: We do not know what dangers lie in store.
- 7966: Therefore, if anything were to happen to us, I want you to report back to Morimar.
- 7967: I know that he will be capable of maintaining peace between the various orders and Ingrid.
- 7968: (Hmph... Even if I said that I was going with you, I doubt you would listen.)
- 7969: (By your word.)
- 7970: (However, you must promise me that you will return safely!)
- 7971: Thank you, Darrcuiln.
- 7972: Okay, Ygnas, <Player>... Let's get going!
- 7973: (I must pledge my thoughts as well as my resolve...)
- 7974: My name is Arciela V. Adoulin.
- 7975: Oh, Siren, prime avatar who controls all of nature, I beseech you!
- 7976: I need your strength so that the people of Adoulin may live in harmony with the forests of Ulbuka!
- 7977: Hmm...
- 7978: Hah...
- 7979: The wind...
- 7980: Huh!?
- 7981: Become one with the wind so that you may usher in a new age.
- 7982: Arciela!
- 7983: Our aim is to respect the cyclical nature of the land, live in harmony with the powers guiding it, and lead the forest to the same prosperity we desire to achieve.
- 7984: Just as people have our own hopes and fears, so too does the forest.
- 7985: We must respect and revere each other in order to create a new future together.
- 7986: I shall become a new wind of change that leads the way forward!
- 7987: Siren, I ask that you accompany me on my journey!
- 7988: You who have awakened me from my slumber...
- 7989: I shall offer my support to your Communion.
- 7990: You are most impressive.
- 7991: Indeed, this age belongs to you.
- 7992: Hmm... You met on his land...
- 7993: I should have expired after using all of my power.
- 7994: You imbued me with power, while this woman's Communion gave my existence meaning.
- 7995: Therefore, I suppose it is reasonable to agree to your request.
- 7996: Very well. I promise to give my blessing to every living thing in this land of Ulbuka.
- 7997: However, there is something I must confirm first.
- 7998: I am curious how much of my power has returned.
- 7999: Let us see, shall we?
- 8000: Together along with the winds of this new era that has been ushered in!
- 8001: You can use $6 to help restore Siren's power.
- 8002: Impressive.
- 8003: The winds of change within you--I have seen them for myself.
- 8004: In addition, I have confirmed just how much of my power has returned.
- 8005: It is all thanks to you. I must convey to you my eternal gratitude.
- 8006: Tell me, what is it that you desire?
- 8007: What would you like? [#.$1.$2.@/$3 bayld./Form a pact with Siren.]
- 8008: Is that what you truly desire?
- 8009: Are you sure you want the $4? [Yes./On second thought...]
- 8010: Are you sure you want $3 bayld? [Yes./On second thought...]
- 8011: Are you sure about this? [Yes./On second thought...]
- 8012: I have heard your request and it shall be so.
- 8013: And now, an irrevocable bond has been formed between us.
- 8014: One day, I will ask to reconfirm the bond between us. Simply bring me $6 in order to do so.
- 8015: Ungh...
- 8016: <Player>?
- 8017: What happened...
- 8018: Unnh...
- 8019: Y-Ygnas!
- 8020: Yes, I remember engaging in the Communion with Siren...
- 8021: And then...
- 8022: That's a relief. I'm happy to hear that everything went well.
- 8023: Although, that person that assisted me...
- 8024: No, never mind.
- 8025: I understand. There is no need for me to search.
- 8026: I'll be just fine. I can proceed forward without hesitation.
- 8027: I know...
- 8028: I know that I have the people of Adoulin behind me.
- 8029: As well as the wisdom of the forest of Ulbuka.
- 8030: Not to mention Siren herself.
- 8031: Thank you for all of your help, <Player>. Once again, your assistance proved invaluable.
- 8032: I was fortunate that you were here for me.
- 8033: I know that a new wind will blow through the forests of Ulbuka now...
- 8034: A wind ushered in by the people that lasts eternal.
- 8035: You can now summon Siren!
- 8036: Your inventory is full and you cannot carry any more $0. Come back when you have created more room in your bag and then examine the Drifting Feather.
- 8037: It doesn't appear that anything is going to happen. You will need to try again later.
- 8038: I see you have come to reconfirm the bond between us.
- 8039: In that case, bring me $6.
- 8040: I shall be awaiting your return.
- 8041: With $6, you should be able to confirm your bond with Siren.
- 8042: I have once again confirmed the bond between us. You have my gratitude.
- 8043: Hm? Oh, hello. And...goodbye.
- 8044: Hm?
- 8045: How do you respond? [Hm?/Hello!]
- 8046: Hmmm??? Ugh. Why do you not understand how to give a simple greeting?
- 8047: How do you respond? [Hmmm???/Hello!]
- 8048: You really are denser than Selbina butter. And with that...goodbye.
- 8049: Oh. Hello there.
- 8050: I always did appreciate someone who knows how to properly greet others.
- 8051: You're one of the good ones--that much I can tell. Now, if you would, please listen to my request.
- 8052: I'm looking for a special powder--a hodgepodge of different minerals and assorted residue that I've taken to calling "gallimaufry." But it's quite difficult to come by on my own.
- 8053: So my request is simple--I'd like you to gather gallimaufry for me.
- 8054: I assume that your answer would be "yes" either way...
- 8055: But let me sweeten the pot.
- 8056: Will you help? [Fish for more info./Not interested.]
- 8057: Ah, yes. My eyes are discerning as ever.
- 8058: First, let me provide you with $6. Now, here's what I need you to do.
- 8059: I need you to take the $3 and head to the diaphanous transposer in northwestern Kamihr Drifts (F-6). From there, you can teleport to Outer Ra'Kaznar.
- 8060: That's where you can find all the gallimaufry I need.
- 8061: This Outer Ra'Kaznar is a little different from the one you may be used to, so take care.
- 8062: As soon as you enter Outer Ra'Kaznar, your $3 will lose its potency and transform into $6.
- 8063: Fear not. The $3 will turn back into $6 if you approach the diaphanous transposer after 20 hours (Earth time) have elapsed.
- 8064: Be aware that only a total of six people can teleport into Outer Ra'Kaznar at any given time.
- 8065: Any more, and you will likely get stuck in the walls or something.
- 8066: That's all you need to know. Good luck!
- 8067: Need a refresher? The diaphanous transposer is in Kamihr Drifts (F-6).
- 8068: I knew I could count on you. Oh, happy day!
- 8069: I've taken the liberty of preparing a list of items I'll give you in exchange for gallimaufry.
- 8070: You wouldn't happen to have any Empyrean armor, would you?
- 8071: I've pulled some strings with a blacksmith friend of mine, and if you bring me the proper materials I'm sure she'll lend a hand. Take a look at my list for the details.
- 8072: Oh, I know, I know. You're sick of waiting for your $3 to regenerate. And I'm sick of waiting for more gallimaufry.
- 8073: So I figured "Hey, if I make another $3, then we can both be happy!"
- 8074: But nothing is ever so easy, is it? No matter how much blood, sweat, and tears I poured into the process, I couldn't get it to come together properly.
- 8075: But the next day, once my tears were dry, I went back and collected the residual energies from the $3...
- 8076: And who woulda thunk it--the process was a success after all! The $3 turned back into $6! This time, the tears I shed were of joy.
- 8077: So here you are! A brand new $3!
- 8078: Care to browse my special list?
- 8079: What do you do? [View the list./Ask about Outer Ra'Kaznar./Ask about $5./Ask about $5./Ask about temporary items/Ask about $5./Leave for now.]
- 8080: View which?($0 gall.) [$1: $16 g./$2: $17 g./$3: $18 g./$4: $19 g./$5: $20 g./$6: $21 g./$7: $22 g./$8: $23 g./$9: $24 g./$10: $25 g./$11: $26 g./$12: $27 g./$13: $28 g./$14: $29 g./$15: $30 g./Empyrean Armor (119+2)./Empyrean Armor (119+3)./Back.]
- 8081: To reforge empyrean armor to 119[+2/+3], I'll need the 119[+1/+2] version of the empyrean armor piece, $1, and $2 gallimaufry. Would you like to see what the end result will look like?
- 8082: View which? [Boii Armor./Bhikku Attire./Ebers Attire./Wicce Attire./Lethargy Armor./Skulker's Attire./Chevalier's Armor./Heathen's Armor./Nukumi Armor./Fili Attire./Amini Attire./Kasuga Armor./Hattori Garb./Peltast's Armor./Beckoner's Attire./Hashishin Attire./Chasseur's Attire./Karagoz Attire./Maculele Attire./Arbatel Attire./Azimuth Attire./Erilaz Attire./Back.]
- 8083: View which? [#./$1./$2./$3./$4./Back.]
- 8084: It'll take a little while to reforge your $0. Jeuno wasn't built in a day...but this armor will be, so come back tomorrow.
- 8085: My contact is hard at work. You'll need to come back a little bit later.
- 8086: The equipment you ordered is ready! Here you are!
- 8087: $0? It'll run you $1 gallimaufry.
- 8088: Are you sure? ($0 gall.) [Yes./Hang on...]
- 8089: Your $3 will regenerate in $0 [hour/minute][/s].
- 8090: Do you want to use the $3?
- 8091: Use it? [Yes, please./No, thank you.]
- 8092: You don't need to use the $3. Just head to the diaphanous transposer.
- 8093: You can't use the $3 for another $1 second[/s] (Earth time).
- 8094: At least 20 hours (Earth time) have elapsed.
- 8095: Your $3's power returns, and it transforms into $6.
- 8096: You don't have enough gallimaufry.
- 8097: You have been awarded $0 gallimaufry as compensation.
- 8098: You are unable to accept the $0 compensatory gallimaufry. Make sure you are able to accept the compensation and try again.
- 8099: Here are the temporary items you currently possess.
- 8100: View which? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./Next page./Previous page./Back.]
- 8101: I see you knew exactly where to come.
- 8102: This is where Oshasha disappeared. Perhaps there is some kind of trap around here?
- 8103: !?
- 8104: Ah, I wasn't expecting any additional visitors here...
- 8105: Our master is away. You should leave here at once.
- 8106: Your master? What is this place?
- 8107: This territory was created by our master, Skhoh Undhreh.
- 8108: Skhoh Undhreh!? That was one of the names written in the $3!
- 8109: We read that only those who are deemed worthy can gain an audience with him, so Oshasha and I were searching throughout Leafallia.
- 8110: So perhaps this means that Oshasha is here as well...
- 8111: That is correct. The path is openly revealed to those who are pure of soul.
- 8112: Those who request an audience with our master must first prove that they are worthy of such an honor.
- 8113: New possibilities await those souls that our master holds in high esteem.
- 8114: New possibilities...
- 8115: And what must we do to prove our worthiness?
- 8116: Wait. You too wish an audience with our master?
- 8117: Do you wish to meet their master? [Yes./Maybe later.]
- 8118: If we are to find Oshasha, we have no other choice.
- 8119: I do! I request an audience with Skhoh Undhreh!
- 8120: Very well. In that case, there is only one thing you must do.
- 8121: You must work together with this Oshasha to defeat the opponent presented before you.
- 8122: The opponent's soul is stitched together from the recollections of the countless battles etched in Oshasha's soul.
- 8123: That same memory is also within your soul as well. A most powerful and unforgettable memory...
- 8124: An unforgettable memory?
- 8125: Once you are ready, head to the entrance of the trial that we have prepared for you.
- 8126: The gem shall guide you to the trial's location.
- 8127: We are back where we started...
- 8128: Could it be that the reason we were unable to find Oshasha is because she was already here fighting against this memory of hers?
- 8129: If I am right, we cannot afford to wait for Lerene.
- 8130: Just between us, Oshasha faced a traumatic experience in her past that prevents her from being able to use magic.
- 8131: However, she has been able to serve as conservator of the library due to her vast knowledge and experience, and as long as she is still able to use items that are imbued with magic.
- 8132: As such, I do not think she is capable of facing this trial prepared by the demons on her own.
- 8133: We must find Oshasha as quickly as possible and help her!
- 8134: Lerene has nothing but good things to say about you, pioneer. I am counting on your assistance. Let's go!
- 8135: You must search for the entrance to the trials prepared by Skhoh Undhreh's servants.
- 8136: Oshasha!
- 8137: Hm? Are these the harbingers of death-weath itself?
- 8138: !?
- 8139: I am glad to see you are safe.
- 8140: Does the fact that these phantoms disappeared mean that it's really-weally you, Valaineral!?
- 8141: Yes, it is me. I have been looking for you, Oshasha. Wait, perhaps I should call you Lutete here.
- 8142: This is the final battle from twenty years ago--a battle that I will never forgetaru...
- 8143: Huh!? Is that a phantom too?
- 8144: No, for you were not here twenty years ago.
- 8145: After Lutete disappeared, I met [her/him] when I returned to town.
- 8146: According to Lerene, [she/he] is a strong fighter, so I asked for help searching Leafallia.
- 8147: Eventually, we came across this mysterious place with neither land nor sky, and met some beings who refer to Skhoh Undhreh as their "master."
- 8148: So you have also met with the pair of Skhoh Undhreh's servants-wervants.
- 8149: That saves me the trouble of explaining them. Once we overcome this trial, we can meetaru with Skhoh Undhreh himself.
- 8150: It seems you have been in quite the struggle...
- 8151: Indeed. I was helped-welped by the people in my memories.
- 8152: However, I am unable to use magic in my current-wurrent state, so I am unfortunately quite useless.
- 8153: What are you talking about? It is only because of your sacrifice that we were able to win that battle!
- 8154: Therefore, allow me the honor of fighting this battle on your behalf.
- 8155: We shall give our all to confront the Shadow Lord.
- 8156: Valaineral...
- 8157: Come, <Player>! Let us go forth!
- 8158: Your victory was most impressive.
- 8159: One must always measure how much the soul quivers when faced with adversity...
- 8160: We have gained new knowledge. Our master shall be pleased.
- 8161: In that case-wase, I take it that we sufficiently pleased you?
- 8162: Now, take us to Skhoh Undhreh at once!
- 8163: Our master is currently too busy to give you an audience at the present time.
- 8164: However, he shall invite you to an auction in Eastern Adoulin before long. There, your request shall be granted.
- 8165: Eastern Adoulin?
- 8166: Look for an invitation in the near future.
- 8167: Huh!?
- 8168: They didn't even let us ask any questions before they justaru vanished!
- 8169: Yes, but I have a feeling they will at least keep their promise.
- 8170: I sure hope so. However, I won't relax-welax until the invitation actually arrives.
- 8171: Oshasha!
- 8172: I'm so glad you're safe!
- 8173: From the looks of it, you seem-weem to have been quite worried. Forgive me, Lerene.
- 8174: Of course I was worried! I heard that you haven't even been sleepy lately!
- 8175: Am I really that sleepy all the time-wime?
- 8176: You mean you haven't noticed!?
- 8177: So I take it Valli and <Player> were able to find you?
- 8178: Yes, they saved me from a grisly fate-wate.
- 8179: I am sorry for the delay. I mustaru offer you my thanks.
- 8180: I feel I need to explain things from the beginning since you got caught-waught up in all this.
- 8181: Why did I, who was once known as Lutete, take the name Oshasha and become the conservator of the Celennia Memorial Library, you ask?
- 8182: It was because of a deadly battle-wattle waged twenty years ago against the Shadow Lord, that you also experienced back there.
- 8183: You see, my magic was exhausted rightaru at the very end.
- 8184: That is why I had no choice but to use the "forbidden magic" that has been passed-wassed down in my family for generations...
- 8185: It is white magic that increases one's magical power to its very limit, until it will eventually eruptaru in a massive explosion.
- 8186: It helped turn the tide of battle-wattle. However, after that, I lost the ability to cast magic.
- 8187: You see, this forbidden magic-wagic essentially burned up all of my senses...
- 8188: I am not exaggerating when I say that Lutete's sacrifice saved the world.
- 8189: You are too kind. As a resultaru of my actions, I was praised by the Star Sibyl at the time, as well as the people of Windurst.
- 8190: Naturally, there are many Tarutaru who are not good with magic, so even though I was not able to use magic, I could still teach-weach it.
- 8191: However, it was quite difficultaru for me...
- 8192: Furthermore, when my grandmother taughtaru me the "forbidden magic," I was told that there was only one person that it should ever be used against.
- 8193: And that opponentaru was not the Shadow Lord.
- 8194: No, it was meant for the most dangerous individual in the history-wistory of Windurst.
- 8195: The one my ancestors used the forbidden magic againstaru 400 years ago: Garazu-Horeizu, also known as the Maelstrom Mage.
- 8196: It was because of a rumor within the Federation of Windurst known as the "Legend of the Magic Doll."
- 8197: The followers of Garazu-Horeizu believed that the day would eventually come when they could resurrectaru him.
- 8198: Again, I cannot stress this enough. Lutete really did save the world twenty years ago.
- 8199: The world would have been destroyed at the time if she had not defeated the Shadow Lord.
- 8200: Yes, I suppose so... In my heartaru, I know it to be true.
- 8201: Despite that, I feel as if something has been gnawing at me, and that I set things in motion-wotion that cannot be undone...
- 8202: I abandoned my home and fled all the way here to Adoulin. I even changed my name out of guiltaru.
- 8203: ...
- 8204: However, I recently realized that the thing that was gnawing at me was in factaru a kind of premonition.
- 8205: Eh? What do you mean?
- 8206: I never told you aboutaru the letter that I received from Windurst.
- 8207: According to it, the soul of the Maelstrom Mage, Garazu-Horeizu, who met with defeataru 400 years ago...
- 8208: ...remains to this day in another world known as Valhalla.
- 8209: It seems he is trying to build up his strength in that world and recruitaru new allies, so that he can return to Vana'diel.
- 8210: What!? A-are you serious!?
- 8211: <Player>, your name was also included in the letter-wetter from Professor Shantotto.
- 8212: I understand you are quite familiar with Garazu-Horeizu's plan?
- 8213: What is this all about? I insist that you explain it to me from the beginning!
- 8214: Of course I will. However, it is a long story, so I think we should return to the Celennia Memorial Library firstaru.
- 8215: Indeed. We must also explain about the $3. Has it been returned to the closed stacks in the library?
- 8216: I would like to give you a giftaru for your assistance. Please come by when you are able.
- 8217: You must return to the Celennia Memorial Library in Eastern Adoulin in order to meet with Oshasha.
- 8218: <Player>.
- 8219: You are going to tell me that you will not hand over the $3, correct?
- 8220: Hand it over? [Yes./No.]
- 8221: Ah, yes. But its...devious nature might be even more profane than you might realize.
- 8222: Oho...but surely you must have surmied that the tome contains ancient evils.
- 8223: Let me spin you a tale from the past... Consider it a fable of sorts.
- 8224: A young man, tall in stature, decided to explore the treacherous jungle.
- 8225: Yet it was clear that a great tragedy would befall the people were he to do so.
- 8226: In a bid to forestall that tragedy, he sought the powers contained within this volume.
- 8227: Or perhaps it would be more precise to say the powers contained within this volume sought him.
- 8228: He performed the ancient rites contained within in order to call forth a demonic entity.
- 8229: As the eddies of magic twisted and swirled around him in Ra'Kaznar, he believed that his endeavor was successful.
- 8230: But such energies are not to be trifled with, and he found himself trapped in a space between dimensions.
- 8231: That is the type of danger concealed within this tome. It should never fall into the hands of mortals.
- 8232: You wish to know what fate befell the man?
- 8233: Who can say?
- 8234: Wait. Was he possibly...?
- 8235: I do not know. And I would warn you that ignorance is bliss.
- 8236: After all, what good would knowing the truth do?
- 8237: All who seek this book are doomed to meet a similar end.
- 8238: And if that man's relatives were to find out, and pursue him, well...
- 8239: !
- 8240: The future of Adoulin would be very dark indeed. Do you not agree?
- 8241: Perhaps-waps you are right...
- 8242: All I wished to do was impress upon you how dangerous this tome is.
- 8243: And its original home was not the Celennia Memorial Library--it was stolen from elsewhere.
- 8244: You know that much aboutaru it, do you?
- 8245: You say we have no right to claim the $3 for ourselves?
- 8246: Then surely the same applies to you.
- 8247: Of course. The "right" to this book lies with neither of us.
- 8248: I implied that perhaps it was the book who chose the man--I would argue that the book chooses where it is housed, and no one else.
- 8249: Huh!?
- 8250: Hmmm. It appears to have made its choice.
- 8251: Give it up, child. No. Be relieved, child.
- 8252: This is the key to saving Valhalla--nay, all of Vana'diel.
- 8253: This may be the key to reviving the Prime Weapons more than 5,000 years after they first saved the world!
- 8254: Prime Weapons? You mean the armaments described in the $3?
- 8255: According to the beastmen, they are the only things that can destroy the World Eater Egg...
- 8256: And they are the sole key to vanquishing Garazu-Horeizu and Chaos.
- 8257: Correct. Yet the one who fashioned the Prime Weapons was not me, but another.
- 8258: It was my apprentice, Troels Asulf. The most skilled craftsman demonkind has ever known.
- 8259: Yet he was fully devoured by Chaos, so it goes without saying that he will not be able to assist us in this endeavor.
- 8260: Long have I searched for one who could replicate his techniques.
- 8261: And my efforts have almost concluded--I am but a few short steps away from finding what we require.
- 8262: And that's why you needed-weeded the $3?
- 8263: It would be more accurate to say that I need the bounty of souls that the $3 has collected.
- 8264: But I require a way to amplify their powers.
- 8265: Amplify?
- 8266: A way to increase the number and potential of the souls within.
- 8267: ...Lutete, perhaps your time of service is not yet at an end.
- 8268: Wh-what!?
- 8269: And your friends can assist, as well. I require metal, oil, glass, and ash...
- 8270: Perhaps you should split up and each gather one of the items that I need.
- 8271: Bring me what I need. I shall wait here for your return.
- 8272: Oh, great. He kicked us out.
- 8273: So now he's got the $3 and is using us as simple couriers. Splendid.
- 8274: It does not surprise me that a demon would endeavor to use it. What matters now is whether or not we can trust him.
- 8275: I don't like the idea of trustaruing someone who hid his true form from us, but I fail to see a better plan at present.
- 8276: And if he wants to use us...then we should use him in turn!
- 8277: Hmmm...I know just the person for the task.
- 8278: Lutete, tell us what we need to collect.
- 8279: Well...it's a bit complicated-wated.
- 8280: ...And you should fetch some $1.
- 8281: I believe that pixies were once thoughtaru to be in possession of some, but it has been awfully difficult to procure of late...
- 8282: Each of these items is vexing, to say the least...although perhaps that is why Skokkr trusted us to find them.
- 8283: Perhaps you are right.
- 8284: Let us return to the Celennia Memorial Library and see if the archives can give us any leads-weads.
- 8285: And then we go our separate ways and meet here once we have found the materials.
- 8286: You recall that you are to procure some $1.
- 8287: There you are, <Player>. I have been waiting for you.
- 8288: I must thank you all for bringing the items I requested so quickly.
- 8289: I shall use them to create the lamp that can be used to harvest souls.
- 8290: You mentioned-wentioned that this lamp can restore the weapons referred to as the "Prime Weapons," yes?
- 8291: Hahaha! That is correct. It is the presence of souls that distinguishes the Prime Weapons from all other weapons.
- 8292: Souls...
- 8293: Lutete, much like you consider Garazu-Horeizu to be your nemesis, Chaos is ours.
- 8294: For no matter how many times we defeat Chaos, it always rises again.
- 8295: That is because it has the power to affect the astral plane.
- 8296: The astral plane, you say-way!?
- 8297: I have read about that... I believe it is a place of restaru for the gods themselves?
- 8298: Hahaha. That is correct. The astral plane is populated with primordial gods such as Ifrit, Shiva, and Titan.
- 8299: It is a realm containing the power of those slumbering gods as well as that of pure crystals...
- 8300: In other words, the astral plane is filled with the power of the "life force" that is found in all things.
- 8301: Now what if you could penetrate the wall that separates that world from Vana'diel in order to wield limitless power?
- 8302: That is the ability that Chaos possesses, and is also the reason why it is immortal.
- 8303: You mean it can use the power from the astral plane to heal its wounds or even resurrectaru itself?
- 8304: A most frightening opponent, wouldn't you agree? Now that Chaos has reappeared in Valhalla, it once again possesses the power it did five thousand years ago.
- 8305: What chance do we have against such an opponent?
- 8306: What if we could temporarily preventaru Chaos from accessing the astral plane?
- 8307: Hehehe... It seems that we are all thinking the same thing.
- 8308: I have conducted many experiments over the years with my senior disciple, Troels Asulf, in hopes of finding such a solution.
- 8309: However, the subject of those experiments can be a rather sensitive topic with most people, so I shall spare you the details.
- 8310: At any rate, the answer we came across was this...
- 8311: "We can turn Chaos and its offspring against each other."
- 8312: The offspring of Chaos? You mean a fledgling beastaru born from the World Eater Egg like Nesnas was?
- 8313: That is correct. The fledgling beasts do not have the ability to affect the astral plane...
- 8314: However, they are capable of devouring the life force of others to absorb as their own. They can then use that power to resurrect themselves as needed.
- 8315: That is why I started researching ways to harvest the "souls" of such beasts and imbue a weapon with them.
- 8316: Currently, my research has led to many rather unfortunate incidents, so let's simply forget about those for now.
- 8317: What aboutaru the rest then?
- 8318: After about one hundred years of experimentation, my research is finally complete. I am able to create Prime Weapons that can overcome Chaos!
- 8319: I see... So you will use the soul of a fledgling beast to restore the Prime Weapons once again?
- 8320: No. There has not been a fledgling beast since Nesnas was born several hundred years ago.
- 8321: We attempted the experiment with the one known as Maat who obtained the power of the "World Eater Egg," but it failed because his soul was too weak.
- 8322: So my next step is to repeat the experiment with the "World Eater Egg" that I won at the Silver Knife.
- 8323: I feel that if I feed a large number of souls collected by the lamp to the egg, it will create a soul powerful enough for my needs.
- 8324: I would like to see the results of your experimentaru for myself. Is it okay if we participate too?
- 8325: Huh!?
- 8326: W-wait! I am also quite interested, but surely this must be dangerous!?
- 8327: What happens if your experiment fails?
- 8328: I doubt such a thing can be summed up in a single word...
- 8329: In the worst-case scenario, I imagine the power of the World Eater Egg will consume me, and I will be forced to feast upon all of you.
- 8330: Somehow, I don't imagine that's the worst-case scenario for us...
- 8331: Hehehe... I shall leave it up to you whether you want to participate or not.
- 8332: I am heading to my laboratory to the northeast of Outer Ra'Kaznar. If you are interested, you can use this key to meet me there.
- 8333: I shall leave you to it then. Please remember to inform our guests as well.
- 8334: I understand.
- 8335: Well, it looks like we've been kicked out again!
- 8336: Lutete... Are you sure you want to participate in this experiment?
- 8337: Yes, I am. Lerene, Valaineral, and <Player>...
- 8338: I hope you will join me as well. Your help would be mostaru appreciated.
- 8339: There is strength in numbers, so we may be able to avoid the worstaru if something unexpected were to happen.
- 8340: Okay then! If this experiment is successful, then maybe we can finally sleep at night!
- 8341: Very well. I originally came here due to my interest regarding the "World Eater Egg."
- 8342: Thank you both.
- 8343: Well? How aboutaru you, <Player>?
- 8344: What will you do? [Sure, I'll participate./Sorry, maybe next time.]
- 8345: What do you mean? Haven't you ever heard the saying, "in traveling, a companion; in life, sympathy"!?
- 8346: Lerene, it is not our place to assertaru our will on others...
- 8347: I appreciate the assistaru, <Player>. Thank you very much.
- 8348: Now then, let's head to Outer Ra'Kaznar and the location for Skokkr's experimentaru.
- 8349: You must head to the laboratory northeast of Outer Ra'Kaznar.
- 8350: Okay, everyone is here.
- 8351: I underestimated our opponent, and that led to a painful defeat.
- 8352: The two-handed sword that was a one-of-a-kind Prime Weapon was destroyed.
- 8353: And the Goblin that wielded it now lies on the brink of death.
- 8354: That's terrible...
- 8355: At the time, you said the item that exploded was only enchanted to look like the "World Eater Egg." Is that correctaru?
- 8356: It was an illusion--a kind of hypnosis magic-wagic. And the Maelstrom Mage, Garazu-Horeizu, is a master of hypnosis magic.
- 8357: Yes, I came to the same conclusion. Garazu-Horeizu set a trap for us.
- 8358: The fake egg was discovered near Castle Zvahl in the Middle Lands. In other words, it means it was found near the gate to the underworld.
- 8359: He must have used his undead servants to temporarily pry open the gate and plant the decoy egg there.
- 8360: He probably even went so far as to deliberately make it look old so as to complete the ruse.
- 8361: And also made plans to carry-warry it all the way here to Adoulin?
- 8362: Perhaps he learned that I was working under orders from Lord Odin to create a new Prime Weapon.
- 8363: I suppose Garazu-Horeizu's goal was to stop the Goblins as well as the creation of the two-handed sword.
- 8364: It is clear that his strategy was well-planned to be able to bring everything down in one fell swoop.
- 8365: He is quite the formidable foe--misleading people and manipulating the battle from Valhalla...
- 8366: Is there any way to fix a Prime Weapon once it has been broken?
- 8367: Unfortunately not. The presence of Chaos that was contained within the sword seems to have dispersed.
- 8368: As I said before, we require the soul of a fledgling beast. What we need is a new "World Eater Egg."
- 8369: I suppose we have no choice but to search the world for another one then...
- 8370: Traditionally, that job has fallen to the Goblins, but you can see what state they are currently in.
- 8371: Besides, even if we were lucky enough to find another "World Eater Egg" somewhere, we would have to make sure it's not just another one of Garazu-Horeizu's tricks.
- 8372: Yes, I suppose you're rightaru. I'll try to find a way to break Garazu-Horeizu's hypnosis magic.
- 8373: I'll help you too. First, we should check out the explosion near Outer Ra'Kaznar. We need more information about his plans before we proceed.
- 8374: I shall approach the problem from another angle then. I'll send a messenger to my homeland and see if there is any news coming from the north.
- 8375: Hehehe! I should have known you humanoids would refuse to give up hope!
- 8376: Naturally. Besides, are you satisfied with constant defeataru at the hands of Garazu-Horeizu?
- 8377: Lutete... Unlike you, I do not have any ties to Garazu-Horeizu.
- 8378: However, I cannot turn my back on Lord Odin's orders.
- 8379: Now then, go and help me find the soul of a fledgling beast.
- 8380: Furthermore, I would like to introduce you to someone who will be serving as my liaison in regards to this matter.
- 8381: You may have already met him at the Silver Knife in Eastern Adoulin. He goes by the name Gama-Shama.
- 8382: I shall give you this so that you can enter the Silver Knife. Your assistance is most appreciated.
- 8383: Thank you. If I learn anything, I will journey-wourney to the Silver Knife.
+ 7713: 
+ 7714: You make gilgive for one of my shinies, yes?
+ 7715: @@We strolled through the colors,
+ 7716: @@The sun shining on our steps
+ 7717: @@Reaching for the light to set us free
+ 7718: @@Memories
+ 7719: @@Our shadows fluttering as we chased on$0
+ 7720: @@Don't leave me here alone$0
+ 7721: @@I need you by my side
+ 7722: @@Take my hand
+ 7723: @@Close your eyes
+ 7724: @@I'm just hitting my stride
+ 7725: @@When all around was dark
+ 7726: @@You gave me wings of light
+ 7727: @@Telling me it would remain forever today$3
+ 7728: @@Memories
+ 7729: @@Shining off the streams below
+ 7730: @@Stay here next to me$0
+ 7731: @@As I spread my wings and fly$0
+ 7732: @@Take my hand
+ 7733: @@Close your eyes
+ 7734: @@I'm just hitting my stride
+ 7735: @@Memories
+ 7736: @@Our shadows fluttering as we chased on
+ 7737: @@Don't leave me here alone$0
+ 7738: @@I need you by my side
+ 7739: @@Take my hand
+ 7740: @@Lift your voice
+ 7741: @@And say it will remain forever today$4
+ 7742: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7743: Set this as current home point? [Yes./No.]
+ 7744: Home point set!
+ 7745: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7746: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7747: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7748: You may teleport from here to any other home point you have registered.
+ 7749: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7750: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7751: You have not yet registered any other home points, and thus are unable to teleport.
+ 7752: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7753: There is no fee for teleporting to Home Point #$2 in $8.
+ 7754: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7755: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7756: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7757: You may change the method of selecting the area of your desired home point to teleport to.
+ 7758: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7759: You are now selecting by [region/expansion].
+ 7760: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7761: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7762: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7763: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7764: Ahhhhhhhhh... How strange, having a visitor to our humble abode. Surprising, strange, and difficult to believe.
+ 7765: Surprising! Surprising indeed! Our master isn't present right now, so leave!
+ 7766: ...No. How could it come to pass that one could find this secluded place? It's utterly sealed off, separated, and removed from the world.
+ 7767: Yes, yes! Separated! But if [he/she] is here, that only means our master willed it!
+ 7768: Hmmmmmmmmm... If our research, studies, and investigations have taken a backseat for now, then perhaps we can discuss that special thing...
+ 7769: Oho, quite special! An adventurer is the perfect guinea pig!
+ 7770: Then we have but one simple, easy, and altogether elementary task to do.
+ 7771: A straightforward task, yes! Carry out the master's will!
+ 7772: And if we're wrong, we just seal off, shelter, and bar the doors to the place forever.
+ 7773: Close off! Understood!
+ 7774: Listen well, most esteemed guest. Our master has unlocked new possibilities for spirits, souls, and consciousnesses.
+ 7775: Open the door, he did! Memories of battles etched upon completely new existences!
+ 7776: Yet a spirit is a complex, difficult-to-understand, and nigh-incomprehensible thing made of many interwoven threads.
+ 7777: A most difficult nut to crack!
+ 7778: But your spirit is marked with memories of battles, fights, and struggles, each a shining star amongst the sky. We wish to view those stars close-up.
+ 7779: Yes, a most pleasing brightness! Bring us $0 and we will open the gates for you!
+ 7780: You seem confused, befuddled, and out of sorts. Don't worry--you'll know where to look when you return to your world.
+ 7781: And return you will! Both to there, and to here!
+ 7782: Pale eddies of light swirl in front of your eyes. Perhaps you need $0.
+ 7783: Pale eddies of light swirl in front of your eyes. The leafkin seem to be wholly oblivious to it.
+ 7784: Well done! Absolutely perfect and without flaw.
+ 7785: Splendid! Our master is still out, but we deem you worthy in his place!
+ 7786: You should feel honored, blessed, and proud.
+ 7787: Honored to receive your just reward!
+ 7788: We have prepared, set up, and established three different...dimensions for you to explore.
+ 7789: That one opens to a land of [toxic miasma/biting winds/unending filth].
+ 7790: Many lands, all for you with just a quick shake of this $3!
+ 7791: Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar.
+ 7792: Outer Ra'Kaznar! Our master's experiments await!
+ 7793: Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!
+ 7794: Be healthy and hale!
+ 7795: Oho, $0!
+ 7796: You do! You do have $6!
+ 7797: Its energies will be consumed, dissipated, and fully extinguished when you use it to enter our master's "testing chamber," but you can enter again by procuring another.
+ 7798: Let me return it, give it back to you, and hand it over.
+ 7799: Should you, for whatever reason, find the experiment...wanting...it would behoove you to visit Ra'Kaznar Turris.
+ 7800: For there, you will find another testing chamber...one which may prove more to your liking.
+ 7801: Yes...in that chamber, visions of the most formidable of foes await you. And though they may be but passing fantasies, the battles will be no less demanding.
+ 7802: And yet, since there is no substance to the terrors you will face, there will be nothing to be gained from your triumphs...if you triumph at all.
+ 7803: You seek no material gain, but only the honor and glory of the fight...?
+ 7804: Very well...then honor and glory shall be yours.
+ 7805: A raspy voice reverberates within your mind.
+ 7806: Silence descends once more.
+ 7807: Spirits are only one part of the experiments, tests, and trials. The other part...is throwing yourself against your foes over and over.
+ 7808: Hehehe, and you certainly are enjoying yourself.
+ 7809: Much enjoyment to be had! Your soul beams at the very mention of combat!
+ 7810: No, no, no! The spirit tells no lies!
+ 7811: Some may call it a blood craze, a lust for battle, an inclination for combat, but our master is pleased at your successes, no matter the reason behind them.
+ 7812: I have been waiting for you, [son/daughter] of man.
+ 7813: And what did you call yourself again?
+ 7814: Ah, yes. <Player>.
+ 7815: Hahaha! Normally I'm not one to remember the moniker of one with so short a lifespan, but yours stuck with me.
+ 7816: My name? Skokkr Undrborn.
+ 7817: I realize that "Undrborn" doesn't roll off the tongue, so you may address me as simply "Skokkr."
+ 7818: Oooh hooo hoo! Yes, I see what those two were saying about your vibrant spirit. Humanity remains as curious as ever.
+ 7819: It can not only draw out the energies of my $3, but also contain it and even twist it into different forms.
+ 7820: Outstanding. Your will and determination are utterly without parallel.
+ 7821: There were once many curious folk like my underlings meandering throughout my lands.
+ 7822: But none ever emerged victorious. Setting aside the question of good versus evil, let me merely point out that the scales of balance failed to tip so much as one ilm in one side's favor.
+ 7823: And then you came and flipped the entire contraption over.
+ 7824: Oooh, hooo! None can blame you, <Player>, least of all me. Take pride in your works.
+ 7825: But I didn't invite you here to give you a treatise on the powers that be...or were.
+ 7826: I am here to give you a prototype sigil of sorts in exchange for the three you already hold.
+ 7827: What use are they to you now that their purpose has been fulfilled? A fairer deal you will find nowhere else.
+ 7828: I have the highest of hopes for you. Here, two things to get you started.
+ 7829: But next time, I'll need $0.
+ 7830: Bring me one, and I'll give you another $3.
+ 7831: And the other thing--the $3--if you need a new one, then you'll have to gather three more sigils for me.
+ 7832: You scratch my back, and I'll scratch yours, hmm? Isn't that how your world operates?
+ 7833: And I cannot make these precious tools out of thin air. That is in the realm of godhood, and I am but a humble experimenter.
+ 7834: Not that I believe in gods--or I that I don't believe in gods. I couldn't care less.
+ 7835: I only believe in what is observable.
+ 7836: Experiments and hypotheses are my bread and butter.
+ 7837: Oooh hoo hoo hoo.
+ 7838: Hypothesize and experiment. Then back to the drawing board and draw up more hypotheses to fuel further experiments. How else will we get to the crux of how the world works?
+ 7839: Not that I expect you to express much interest.
+ 7840: But let's turn for a moment to my underlings... Special spirits indeed, them.
+ 7841: They burn brightly, only to turn to ash and return to nothingness, waiting for the cycle to begin anew.
+ 7842: You must be looking forward to facing them on the fields of valor.
+ 7843: Oooh hooo hoo, and how I, too, look forward to that moment!
+ 7844: I hope to learn much from your exploits in the realm of spirits.
+ 7845: Let's see if you can put the screws to them, like you have so many before.
+ 7846: I await your most pleasing of results.
+ 7847: I trust that your results will be exemplary, and would like to give you a little something...special.
+ 7848: Ah, but you already have $6. Then I cannot give you another, for any information you glean would be rendered wholly indecipherable.
+ 7849: Many years! Yes, many years since we've seen our master directly!
+ 7850: Forgive us, pardon our brashness, and fault us not our hubris. We misjudged you.
+ 7851: We have high hopes, strong expectations, and great confidence in your ability to assist our master in his research.
+ 7852: Take this $3 as a symbol of our respect, admiration, and optimism.
+ 7853: <Player>, I've given you all you need. Make it quick, and let me get back to my research.
+ 7854: Why are you here today? [It scares me. Take it back./I want to hear more./No real reason.]
+ 7855: It scares you?
+ 7856: Well, this is an unexpected turn of events. When I pierced into your past, I would never have expected one with memories such as yours to be frightened by a mere bauble.
+ 7857: Exactly how many battles have you experienced? Far too many to count.
+ 7858: Victory is filled with blood and tears, and you have bathed in more than your share of both.
+ 7859: Look into my eyes and tell me that's not the case.
+ 7860: I'll honor your request, but the sigils used to construct this marvel will vanish into thin air.
+ 7861: You will have to bring me three more sigils should you change your mind--and change it you will.
+ 7862: Return $3? [Yep, who needs it?/No, it might prove useful.]
+ 7863: Fine. But keep in mind that I require three more sigils to make another.
+ 7864: Do not disappoint me, <Player>.
+ 7865: Then you shall return empty-handed, for I have nothing more to say to you.
+ 7866: ...But perhaps I do. Research always bears fruit, and how can I turn down a request so politely worded?
+ 7867: Yes, perhaps...
+ 7868: Dvergr are known for our manual dexterity, and since ancient times have heeded the call of crafting weapons and armor of the finest quality.
+ 7869: But not all of us are cut from the same cloth. Surely you can appreciate this, [son/daughter] of man.
+ 7870: I never had a penchant for hands-on affairs, and dedicated all my time to academic pursuits, finally settling upon one very precise topic of inquiry.
+ 7871: Spirits.
+ 7872: All things, living and non-living, have a spirit. The more I study, the more I thirst for knowledge. I have lost track of the countless years I have spent in research, yet I am no closer to drawing a conclusion than I was when I started.
+ 7873: A Devrgr's lifespan is measured in centuries, yet every second that goes by without answers agitates me further.
+ 7874: This is my sole reason for living, and I will not rest until I am satisfied.
+ 7875: ...<Player>, I am too involved in my research to humor your pointless comings and goings.
+ 7876: Ah, this is quite wonderful! The sky contains not a single cloud of doubt owing to your herculean efforts.
+ 7877: But we must act again before the rain threatens us.
+ 7878: I yearn to see how you stand in the face of the most dreadful of memories.
+ 7879: Yet I remain perplexed... If this sigil was but a fabrication, then why would I feel such an unfamiliar energy emanating from it? Is there some connection that escapes my gaze?
+ 7880: Ah, but that only means I have yet one more subject to research. I shall take my time and dissect this curious specimen.
+ 7881: Go forth, <Player>, and let the seeds I have sown bloom and flourish!
+ 7882: You don't wish to return your $3, do you?
+ 7883: How do you respond? [Actually, I do want to return it./I want to know more./Heavens forbid!]
+ 7884: Humanity is fickle, indeed. But don't flatter yourself to think I care one onz about your inner workings. Know only that if you return it, the sigils will fully dissipate.
+ 7885: Be warned that you will have to bring $6 should you desire another.
+ 7886: Choose wisely, [son/daughter] of man.
+ 7887: Avarice is not a word in your vocabulary. That much I can commend. Perhaps that is one difference between humanity and Dvergr kind--not that I pretend to understand it.
+ 7888: Nor do I wish to.
+ 7889: 6 is all you need bring me to receive another.
+ 7890: I'm far too busy to engage in small talk with you. ...But as you have done me a service thus far, I'll condescend to your request.
+ 7891: Let's see... Aha. Perhaps this will be of interest.
+ 7892: My research has produced several interesting byproducts, the likes of which I have scattered about the world.
+ 7893: Those were lifeless dolls into which I breathed energy, simply to see how they react to their surroundings.
+ 7894: True, I could have found more handy vessels, but I wanted something more close-to-home to infuse with something based on my own spirit.
+ 7895: So what exactly have they been up to of late? Ah, perhaps I shouldn't have been so derelict in overseeing them.
+ 7896: Bah. They're just dolls. No use getting sentimental over them.
+ 7897: The entire enterprise is grounded in recent breakthroughs to codex techniques--the ability to transfer spirits from one place into another.
+ 7898: When a spirit is refined, it begins to glitter like a diamond bathed in ever-increasing quantities of light. But a spirit can only inhabit one vessel at a time, so there is a limit to how much it can grow during its host's life.
+ 7899: Moving it to another host, however, enables it to grow into something it ordinarily cannot, containing information and memories from a variety of its previous vessels.
+ 7900: The $3 you hold now is exactly that which I have explained to you. Consider yourself lucky to be in possession of such a rare piece.
+ 7901: Continue, then, to help it absorb knowledge.
+ 7902: I have sent some of my most trusted assistants to the vitalized place you call the Middle Lands to manage these techniques, sharing them with the worthy.
+ 7903: Visit them should you wish to learn more. You can see the world from a completely new...perspective. Oooh hooo hoo!
+ 7904: I wonder about you, <Player>...
+ 7905: I do hate futile repetition, so take my words to heart this time--I have no interest in playing these little games with you.
+ 7906: If you wish to contribute to my research, then I implore you to only return when you have the appropriate results.
+ 7907: I advise you to make haste. Humanity's time in this world is quite fleeting, indeed.
+ 7908: Make the most of it. Take full advantage of your mind and body.
+ 7909: Oooh hooo hooo! Now this--this is something else! If you will...
+ 7910: ...
+ 7911: ......
+ 7912: Aha. So that's why...
+ 7913: Now that I understand, I must admit the whole ordeal was rather anticlimactic.
+ 7914: To think I was the one who started it in the first place...
+ 7915: Oooh hooo hooo...but that is a success in and of itself.
+ 7916: What's wrong, <Player>?
+ 7917: Ah, but I needn't even ask. You feel a bit left out, don't you? I can read it not from your spirit, but from your face.
+ 7918: The bearer of this sigil used to be a pupil of mine, also engaged in the studying of spirits.
+ 7919: That would explain the strange forces I felt upon first taking hold of the $3.
+ 7920: And it only makes sense that I couldn't tell at first--his spirit was incomplete.
+ 7921: A partially broken spirit is lacking in information. It's of little surprise I was unable to ascertain its true nature.
+ 7922: I am able to reach an appropriate conclusion now that I have studied it in full.
+ 7923: "Full" may not be the appropriate term, as it is only a fabrication of the real thing, but it looks like I will have to dismantle it.
+ 7924: To think that he was the first to fully succeed in implementing the techniques I was studying! The student had overtaken the master--bittersweet, to be sure.
+ 7925: Ah, now I remember what a bright, diligent pupil he was.
+ 7926: Humanity is flawed--but perhaps he was able to overcome precisely because of those same flaws.
+ 7927: His perspective differed from mine. Whereas I sought to experiment on others, he turned his gaze on himself. He must have learned something about transmigrating Galka in the process.
+ 7928: It would certainly be the right answer for mankind, pitiful beings whose lifespans are limited.
+ 7929: But still...
+ 7930: Was his conclusion really the one he should have been after?
+ 7931: Did he catch a glimpse into the true nature of the spirit?
+ 7932: Unfortunately, that much I cannot glean from this sigil. Oooh hooo hooo! My research continues after all.
+ 7933: But you didn't come here to listen to me wax poetic about the past.
+ 7934: Let me instead implore you to continue assisting me. He may have learned the truth, but I have not.
+ 7935: How invigorating this research has been! Every time I reach a dead end, the world breaks down yet another wall.
+ 7936: <Player>. Our master is not present, out running experiments, and has left for the time being.
+ 7937: What do you require? [I want $6./I want $6./Return $6./Return $6./Hand over $6./Nothing for now.]
+ 7938: 6? Then go, take it, and be on your way. I'll keep your three sigils safe.
+ 7939: $6? Then go, take it, and be on your way. I'll keep your $3 safe.
+ 7940: Our master says that there's no need, requirement, or reason for you to return it. But if you desire to...
+ 7941: No need! None! The sigils will vanish and you will need to get them again for another!
+ 7942: Make a choice, pick your poison, and decide quickly.
+ 7943: The power is yours!
+ 7944: Do you have any other needs, desires, or wants?
+ 7945: Let me warn you, provide guidance, and be frank. That alone will not open the gates.
+ 7946: It won't! You'll also need $6, which we can give you in exchange for $1!
+ 7947: We'll be waiting patiently, calmly, and with bated breath.
+ 7948: Our master awaits your results, outcomes, and conclusions.
+ 7949: He does! Don't let him down!
+ 7950: $6. Well done, good show, and expertly handled.
+ 7951: Perfect! Perfect indeed! Here--a treasure for you!
+ 7952: You seem to be enjoying, having fun, and finding pleasure in our little escapade. Those little charms of yours are proof of that fact.
+ 7953: They are special trinkets that our master has prepared above and beyond the sigils with which you are familiar.
+ 7954: Familiar indeed! And they are critical in our research.
+ 7955: Yes, quite critical! And we are prepared to offer you proper recompense!
+ 7956: What would you like? [Nothing./Equipment./Materials./Whatever the master deems worthy.]
+ 7957: Which will it be? [I need time to think./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30.]
+ 7958: $0, hmm?
+ 7959: Is that correct? [Of course./Hold on.]
+ 7960: A brand-new $0 just for you! Enjoy!
+ 7961: Worthy! Yes, there is much the master deems worthy!
+ 7962: We respect, laud, and venerate your decision. Go now, and see what the master has deemed fit to give you.
+ 7963: Okay, it looks like we're all here.
+ 7964: The moment of truth awaits. However, before that...
+ 7965: Darrcuiln, please wait here until we return.
+ 7966: We do not know what dangers lie in store.
+ 7967: Therefore, if anything were to happen to us, I want you to report back to Morimar.
+ 7968: I know that he will be capable of maintaining peace between the various orders and Ingrid.
+ 7969: (Hmph... Even if I said that I was going with you, I doubt you would listen.)
+ 7970: (By your word.)
+ 7971: (However, you must promise me that you will return safely!)
+ 7972: Thank you, Darrcuiln.
+ 7973: Okay, Ygnas, <Player>... Let's get going!
+ 7974: (I must pledge my thoughts as well as my resolve...)
+ 7975: My name is Arciela V. Adoulin.
+ 7976: Oh, Siren, prime avatar who controls all of nature, I beseech you!
+ 7977: I need your strength so that the people of Adoulin may live in harmony with the forests of Ulbuka!
+ 7978: Hmm...
+ 7979: Hah...
+ 7980: The wind...
+ 7981: Huh!?
+ 7982: Become one with the wind so that you may usher in a new age.
+ 7983: Arciela!
+ 7984: Our aim is to respect the cyclical nature of the land, live in harmony with the powers guiding it, and lead the forest to the same prosperity we desire to achieve.
+ 7985: Just as people have our own hopes and fears, so too does the forest.
+ 7986: We must respect and revere each other in order to create a new future together.
+ 7987: I shall become a new wind of change that leads the way forward!
+ 7988: Siren, I ask that you accompany me on my journey!
+ 7989: You who have awakened me from my slumber...
+ 7990: I shall offer my support to your Communion.
+ 7991: You are most impressive.
+ 7992: Indeed, this age belongs to you.
+ 7993: Hmm... You met on his land...
+ 7994: I should have expired after using all of my power.
+ 7995: You imbued me with power, while this woman's Communion gave my existence meaning.
+ 7996: Therefore, I suppose it is reasonable to agree to your request.
+ 7997: Very well. I promise to give my blessing to every living thing in this land of Ulbuka.
+ 7998: However, there is something I must confirm first.
+ 7999: I am curious how much of my power has returned.
+ 8000: Let us see, shall we?
+ 8001: Together along with the winds of this new era that has been ushered in!
+ 8002: You can use $6 to help restore Siren's power.
+ 8003: Impressive.
+ 8004: The winds of change within you--I have seen them for myself.
+ 8005: In addition, I have confirmed just how much of my power has returned.
+ 8006: It is all thanks to you. I must convey to you my eternal gratitude.
+ 8007: Tell me, what is it that you desire?
+ 8008: What would you like? [#.$1.$2.@/$3 bayld./Form a pact with Siren.]
+ 8009: Is that what you truly desire?
+ 8010: Are you sure you want the $4? [Yes./On second thought...]
+ 8011: Are you sure you want $3 bayld? [Yes./On second thought...]
+ 8012: Are you sure about this? [Yes./On second thought...]
+ 8013: I have heard your request and it shall be so.
+ 8014: And now, an irrevocable bond has been formed between us.
+ 8015: One day, I will ask to reconfirm the bond between us. Simply bring me $6 in order to do so.
+ 8016: Ungh...
+ 8017: <Player>?
+ 8018: What happened...
+ 8019: Unnh...
+ 8020: Y-Ygnas!
+ 8021: Yes, I remember engaging in the Communion with Siren...
+ 8022: And then...
+ 8023: That's a relief. I'm happy to hear that everything went well.
+ 8024: Although, that person that assisted me...
+ 8025: No, never mind.
+ 8026: I understand. There is no need for me to search.
+ 8027: I'll be just fine. I can proceed forward without hesitation.
+ 8028: I know...
+ 8029: I know that I have the people of Adoulin behind me.
+ 8030: As well as the wisdom of the forest of Ulbuka.
+ 8031: Not to mention Siren herself.
+ 8032: Thank you for all of your help, <Player>. Once again, your assistance proved invaluable.
+ 8033: I was fortunate that you were here for me.
+ 8034: I know that a new wind will blow through the forests of Ulbuka now...
+ 8035: A wind ushered in by the people that lasts eternal.
+ 8036: You can now summon Siren!
+ 8037: Your inventory is full and you cannot carry any more $0. Come back when you have created more room in your bag and then examine the Drifting Feather.
+ 8038: It doesn't appear that anything is going to happen. You will need to try again later.
+ 8039: I see you have come to reconfirm the bond between us.
+ 8040: In that case, bring me $6.
+ 8041: I shall be awaiting your return.
+ 8042: With $6, you should be able to confirm your bond with Siren.
+ 8043: I have once again confirmed the bond between us. You have my gratitude.
+ 8044: Hm? Oh, hello. And...goodbye.
+ 8045: Hm?
+ 8046: How do you respond? [Hm?/Hello!]
+ 8047: Hmmm??? Ugh. Why do you not understand how to give a simple greeting?
+ 8048: How do you respond? [Hmmm???/Hello!]
+ 8049: You really are denser than Selbina butter. And with that...goodbye.
+ 8050: Oh. Hello there.
+ 8051: I always did appreciate someone who knows how to properly greet others.
+ 8052: You're one of the good ones--that much I can tell. Now, if you would, please listen to my request.
+ 8053: I'm looking for a special powder--a hodgepodge of different minerals and assorted residue that I've taken to calling "gallimaufry." But it's quite difficult to come by on my own.
+ 8054: So my request is simple--I'd like you to gather gallimaufry for me.
+ 8055: I assume that your answer would be "yes" either way...
+ 8056: But let me sweeten the pot.
+ 8057: Will you help? [Fish for more info./Not interested.]
+ 8058: Ah, yes. My eyes are discerning as ever.
+ 8059: First, let me provide you with $6. Now, here's what I need you to do.
+ 8060: I need you to take the $3 and head to the diaphanous transposer in northwestern Kamihr Drifts (F-6). From there, you can teleport to Outer Ra'Kaznar.
+ 8061: That's where you can find all the gallimaufry I need.
+ 8062: This Outer Ra'Kaznar is a little different from the one you may be used to, so take care.
+ 8063: As soon as you enter Outer Ra'Kaznar, your $3 will lose its potency and transform into $6.
+ 8064: Fear not. The $3 will turn back into $6 if you approach the diaphanous transposer after 20 hours (Earth time) have elapsed.
+ 8065: Be aware that only a total of six people can teleport into Outer Ra'Kaznar at any given time.
+ 8066: Any more, and you will likely get stuck in the walls or something.
+ 8067: That's all you need to know. Good luck!
+ 8068: Need a refresher? The diaphanous transposer is in Kamihr Drifts (F-6).
+ 8069: I knew I could count on you. Oh, happy day!
+ 8070: I've taken the liberty of preparing a list of items I'll give you in exchange for gallimaufry.
+ 8071: You wouldn't happen to have any Empyrean armor, would you?
+ 8072: I've pulled some strings with a blacksmith friend of mine, and if you bring me the proper materials I'm sure she'll lend a hand. Take a look at my list for the details.
+ 8073: Oh, I know, I know. You're sick of waiting for your $3 to regenerate. And I'm sick of waiting for more gallimaufry.
+ 8074: So I figured "Hey, if I make another $3, then we can both be happy!"
+ 8075: But nothing is ever so easy, is it? No matter how much blood, sweat, and tears I poured into the process, I couldn't get it to come together properly.
+ 8076: But the next day, once my tears were dry, I went back and collected the residual energies from the $3...
+ 8077: And who woulda thunk it--the process was a success after all! The $3 turned back into $6! This time, the tears I shed were of joy.
+ 8078: So here you are! A brand new $3!
+ 8079: Care to browse my special list?
+ 8080: What do you do? [View the list./Ask about Outer Ra'Kaznar./Ask about $5./Ask about $5./Ask about temporary items/Ask about $5./Leave for now.]
+ 8081: View which?($0 gall.) [$1: $16 g./$2: $17 g./$3: $18 g./$4: $19 g./$5: $20 g./$6: $21 g./$7: $22 g./$8: $23 g./$9: $24 g./$10: $25 g./$11: $26 g./$12: $27 g./$13: $28 g./$14: $29 g./$15: $30 g./Empyrean Armor (119+2)./Empyrean Armor (119+3)./Back.]
+ 8082: To reforge empyrean armor to 119[+2/+3], I'll need the 119[+1/+2] version of the empyrean armor piece, $1, and $2 gallimaufry. Would you like to see what the end result will look like?
+ 8083: View which? [Boii Armor./Bhikku Attire./Ebers Attire./Wicce Attire./Lethargy Armor./Skulker's Attire./Chevalier's Armor./Heathen's Armor./Nukumi Armor./Fili Attire./Amini Attire./Kasuga Armor./Hattori Garb./Peltast's Armor./Beckoner's Attire./Hashishin Attire./Chasseur's Attire./Karagoz Attire./Maculele Attire./Arbatel Attire./Azimuth Attire./Erilaz Attire./Back.]
+ 8084: View which? [#./$1./$2./$3./$4./Back.]
+ 8085: It'll take a little while to reforge your $0. Jeuno wasn't built in a day...but this armor will be, so come back tomorrow.
+ 8086: My contact is hard at work. You'll need to come back a little bit later.
+ 8087: The equipment you ordered is ready! Here you are!
+ 8088: $0? It'll run you $1 gallimaufry.
+ 8089: Are you sure? ($0 gall.) [Yes./Hang on...]
+ 8090: Your $3 will regenerate in $0 [hour/minute][/s].
+ 8091: Do you want to use the $3?
+ 8092: Use it? [Yes, please./No, thank you.]
+ 8093: You don't need to use the $3. Just head to the diaphanous transposer.
+ 8094: You can't use the $3 for another $1 second[/s] (Earth time).
+ 8095: At least 20 hours (Earth time) have elapsed.
+ 8096: Your $3's power returns, and it transforms into $6.
+ 8097: You don't have enough gallimaufry.
+ 8098: You have been awarded $0 gallimaufry as compensation.
+ 8099: You are unable to accept the $0 compensatory gallimaufry. Make sure you are able to accept the compensation and try again.
+ 8100: Here are the temporary items you currently possess.
+ 8101: View which? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./Next page./Previous page./Back.]
+ 8102: I see you knew exactly where to come.
+ 8103: This is where Oshasha disappeared. Perhaps there is some kind of trap around here?
+ 8104: !?
+ 8105: Ah, I wasn't expecting any additional visitors here...
+ 8106: Our master is away. You should leave here at once.
+ 8107: Your master? What is this place?
+ 8108: This territory was created by our master, Skhoh Undhreh.
+ 8109: Skhoh Undhreh!? That was one of the names written in the $3!
+ 8110: We read that only those who are deemed worthy can gain an audience with him, so Oshasha and I were searching throughout Leafallia.
+ 8111: So perhaps this means that Oshasha is here as well...
+ 8112: That is correct. The path is openly revealed to those who are pure of soul.
+ 8113: Those who request an audience with our master must first prove that they are worthy of such an honor.
+ 8114: New possibilities await those souls that our master holds in high esteem.
+ 8115: New possibilities...
+ 8116: And what must we do to prove our worthiness?
+ 8117: Wait. You too wish an audience with our master?
+ 8118: Do you wish to meet their master? [Yes./Maybe later.]
+ 8119: If we are to find Oshasha, we have no other choice.
+ 8120: I do! I request an audience with Skhoh Undhreh!
+ 8121: Very well. In that case, there is only one thing you must do.
+ 8122: You must work together with this Oshasha to defeat the opponent presented before you.
+ 8123: The opponent's soul is stitched together from the recollections of the countless battles etched in Oshasha's soul.
+ 8124: That same memory is also within your soul as well. A most powerful and unforgettable memory...
+ 8125: An unforgettable memory?
+ 8126: Once you are ready, head to the entrance of the trial that we have prepared for you.
+ 8127: The gem shall guide you to the trial's location.
+ 8128: We are back where we started...
+ 8129: Could it be that the reason we were unable to find Oshasha is because she was already here fighting against this memory of hers?
+ 8130: If I am right, we cannot afford to wait for Lerene.
+ 8131: Just between us, Oshasha faced a traumatic experience in her past that prevents her from being able to use magic.
+ 8132: However, she has been able to serve as conservator of the library due to her vast knowledge and experience, and as long as she is still able to use items that are imbued with magic.
+ 8133: As such, I do not think she is capable of facing this trial prepared by the demons on her own.
+ 8134: We must find Oshasha as quickly as possible and help her!
+ 8135: Lerene has nothing but good things to say about you, pioneer. I am counting on your assistance. Let's go!
+ 8136: You must search for the entrance to the trials prepared by Skhoh Undhreh's servants.
+ 8137: Oshasha!
+ 8138: Hm? Are these the harbingers of death-weath itself?
+ 8139: !?
+ 8140: I am glad to see you are safe.
+ 8141: Does the fact that these phantoms disappeared mean that it's really-weally you, Valaineral!?
+ 8142: Yes, it is me. I have been looking for you, Oshasha. Wait, perhaps I should call you Lutete here.
+ 8143: This is the final battle from twenty years ago--a battle that I will never forgetaru...
+ 8144: Huh!? Is that a phantom too?
+ 8145: No, for you were not here twenty years ago.
+ 8146: After Lutete disappeared, I met [her/him] when I returned to town.
+ 8147: According to Lerene, [she/he] is a strong fighter, so I asked for help searching Leafallia.
+ 8148: Eventually, we came across this mysterious place with neither land nor sky, and met some beings who refer to Skhoh Undhreh as their "master."
+ 8149: So you have also met with the pair of Skhoh Undhreh's servants-wervants.
+ 8150: That saves me the trouble of explaining them. Once we overcome this trial, we can meetaru with Skhoh Undhreh himself.
+ 8151: It seems you have been in quite the struggle...
+ 8152: Indeed. I was helped-welped by the people in my memories.
+ 8153: However, I am unable to use magic in my current-wurrent state, so I am unfortunately quite useless.
+ 8154: What are you talking about? It is only because of your sacrifice that we were able to win that battle!
+ 8155: Therefore, allow me the honor of fighting this battle on your behalf.
+ 8156: We shall give our all to confront the Shadow Lord.
+ 8157: Valaineral...
+ 8158: Come, <Player>! Let us go forth!
+ 8159: Your victory was most impressive.
+ 8160: One must always measure how much the soul quivers when faced with adversity...
+ 8161: We have gained new knowledge. Our master shall be pleased.
+ 8162: In that case-wase, I take it that we sufficiently pleased you?
+ 8163: Now, take us to Skhoh Undhreh at once!
+ 8164: Our master is currently too busy to give you an audience at the present time.
+ 8165: However, he shall invite you to an auction in Eastern Adoulin before long. There, your request shall be granted.
+ 8166: Eastern Adoulin?
+ 8167: Look for an invitation in the near future.
+ 8168: Huh!?
+ 8169: They didn't even let us ask any questions before they justaru vanished!
+ 8170: Yes, but I have a feeling they will at least keep their promise.
+ 8171: I sure hope so. However, I won't relax-welax until the invitation actually arrives.
+ 8172: Oshasha!
+ 8173: I'm so glad you're safe!
+ 8174: From the looks of it, you seem-weem to have been quite worried. Forgive me, Lerene.
+ 8175: Of course I was worried! I heard that you haven't even been sleepy lately!
+ 8176: Am I really that sleepy all the time-wime?
+ 8177: You mean you haven't noticed!?
+ 8178: So I take it Valli and <Player> were able to find you?
+ 8179: Yes, they saved me from a grisly fate-wate.
+ 8180: I am sorry for the delay. I mustaru offer you my thanks.
+ 8181: I feel I need to explain things from the beginning since you got caught-waught up in all this.
+ 8182: Why did I, who was once known as Lutete, take the name Oshasha and become the conservator of the Celennia Memorial Library, you ask?
+ 8183: It was because of a deadly battle-wattle waged twenty years ago against the Shadow Lord, that you also experienced back there.
+ 8184: You see, my magic was exhausted rightaru at the very end.
+ 8185: That is why I had no choice but to use the "forbidden magic" that has been passed-wassed down in my family for generations...
+ 8186: It is white magic that increases one's magical power to its very limit, until it will eventually eruptaru in a massive explosion.
+ 8187: It helped turn the tide of battle-wattle. However, after that, I lost the ability to cast magic.
+ 8188: You see, this forbidden magic-wagic essentially burned up all of my senses...
+ 8189: I am not exaggerating when I say that Lutete's sacrifice saved the world.
+ 8190: You are too kind. As a resultaru of my actions, I was praised by the Star Sibyl at the time, as well as the people of Windurst.
+ 8191: Naturally, there are many Tarutaru who are not good with magic, so even though I was not able to use magic, I could still teach-weach it.
+ 8192: However, it was quite difficultaru for me...
+ 8193: Furthermore, when my grandmother taughtaru me the "forbidden magic," I was told that there was only one person that it should ever be used against.
+ 8194: And that opponentaru was not the Shadow Lord.
+ 8195: No, it was meant for the most dangerous individual in the history-wistory of Windurst.
+ 8196: The one my ancestors used the forbidden magic againstaru 400 years ago: Garazu-Horeizu, also known as the Maelstrom Mage.
+ 8197: It was because of a rumor within the Federation of Windurst known as the "Legend of the Magic Doll."
+ 8198: The followers of Garazu-Horeizu believed that the day would eventually come when they could resurrectaru him.
+ 8199: Again, I cannot stress this enough. Lutete really did save the world twenty years ago.
+ 8200: The world would have been destroyed at the time if she had not defeated the Shadow Lord.
+ 8201: Yes, I suppose so... In my heartaru, I know it to be true.
+ 8202: Despite that, I feel as if something has been gnawing at me, and that I set things in motion-wotion that cannot be undone...
+ 8203: I abandoned my home and fled all the way here to Adoulin. I even changed my name out of guiltaru.
+ 8204: ...
+ 8205: However, I recently realized that the thing that was gnawing at me was in factaru a kind of premonition.
+ 8206: Eh? What do you mean?
+ 8207: I never told you aboutaru the letter that I received from Windurst.
+ 8208: According to it, the soul of the Maelstrom Mage, Garazu-Horeizu, who met with defeataru 400 years ago...
+ 8209: ...remains to this day in another world known as Valhalla.
+ 8210: It seems he is trying to build up his strength in that world and recruitaru new allies, so that he can return to Vana'diel.
+ 8211: What!? A-are you serious!?
+ 8212: <Player>, your name was also included in the letter-wetter from Professor Shantotto.
+ 8213: I understand you are quite familiar with Garazu-Horeizu's plan?
+ 8214: What is this all about? I insist that you explain it to me from the beginning!
+ 8215: Of course I will. However, it is a long story, so I think we should return to the Celennia Memorial Library firstaru.
+ 8216: Indeed. We must also explain about the $3. Has it been returned to the closed stacks in the library?
+ 8217: I would like to give you a giftaru for your assistance. Please come by when you are able.
+ 8218: You must return to the Celennia Memorial Library in Eastern Adoulin in order to meet with Oshasha.
+ 8219: <Player>.
+ 8220: You are going to tell me that you will not hand over the $3, correct?
+ 8221: Hand it over? [Yes./No.]
+ 8222: Ah, yes. But its...devious nature might be even more profane than you might realize.
+ 8223: Oho...but surely you must have surmied that the tome contains ancient evils.
+ 8224: Let me spin you a tale from the past... Consider it a fable of sorts.
+ 8225: A young man, tall in stature, decided to explore the treacherous jungle.
+ 8226: Yet it was clear that a great tragedy would befall the people were he to do so.
+ 8227: In a bid to forestall that tragedy, he sought the powers contained within this volume.
+ 8228: Or perhaps it would be more precise to say the powers contained within this volume sought him.
+ 8229: He performed the ancient rites contained within in order to call forth a demonic entity.
+ 8230: As the eddies of magic twisted and swirled around him in Ra'Kaznar, he believed that his endeavor was successful.
+ 8231: But such energies are not to be trifled with, and he found himself trapped in a space between dimensions.
+ 8232: That is the type of danger concealed within this tome. It should never fall into the hands of mortals.
+ 8233: You wish to know what fate befell the man?
+ 8234: Who can say?
+ 8235: Wait. Was he possibly...?
+ 8236: I do not know. And I would warn you that ignorance is bliss.
+ 8237: After all, what good would knowing the truth do?
+ 8238: All who seek this book are doomed to meet a similar end.
+ 8239: And if that man's relatives were to find out, and pursue him, well...
+ 8240: !
+ 8241: The future of Adoulin would be very dark indeed. Do you not agree?
+ 8242: Perhaps-waps you are right...
+ 8243: All I wished to do was impress upon you how dangerous this tome is.
+ 8244: And its original home was not the Celennia Memorial Library--it was stolen from elsewhere.
+ 8245: You know that much aboutaru it, do you?
+ 8246: You say we have no right to claim the $3 for ourselves?
+ 8247: Then surely the same applies to you.
+ 8248: Of course. The "right" to this book lies with neither of us.
+ 8249: I implied that perhaps it was the book who chose the man--I would argue that the book chooses where it is housed, and no one else.
+ 8250: Huh!?
+ 8251: Hmmm. It appears to have made its choice.
+ 8252: Give it up, child. No. Be relieved, child.
+ 8253: This is the key to saving Valhalla--nay, all of Vana'diel.
+ 8254: This may be the key to reviving the Prime Weapons more than 5,000 years after they first saved the world!
+ 8255: Prime Weapons? You mean the armaments described in the $3?
+ 8256: According to the beastmen, they are the only things that can destroy the World Eater Egg...
+ 8257: And they are the sole key to vanquishing Garazu-Horeizu and Chaos.
+ 8258: Correct. Yet the one who fashioned the Prime Weapons was not me, but another.
+ 8259: It was my apprentice, Troels Asulf. The most skilled craftsman demonkind has ever known.
+ 8260: Yet he was fully devoured by Chaos, so it goes without saying that he will not be able to assist us in this endeavor.
+ 8261: Long have I searched for one who could replicate his techniques.
+ 8262: And my efforts have almost concluded--I am but a few short steps away from finding what we require.
+ 8263: And that's why you needed-weeded the $3?
+ 8264: It would be more accurate to say that I need the bounty of souls that the $3 has collected.
+ 8265: But I require a way to amplify their powers.
+ 8266: Amplify?
+ 8267: A way to increase the number and potential of the souls within.
+ 8268: ...Lutete, perhaps your time of service is not yet at an end.
+ 8269: Wh-what!?
+ 8270: And your friends can assist, as well. I require metal, oil, glass, and ash...
+ 8271: Perhaps you should split up and each gather one of the items that I need.
+ 8272: Bring me what I need. I shall wait here for your return.
+ 8273: Oh, great. He kicked us out.
+ 8274: So now he's got the $3 and is using us as simple couriers. Splendid.
+ 8275: It does not surprise me that a demon would endeavor to use it. What matters now is whether or not we can trust him.
+ 8276: I don't like the idea of trustaruing someone who hid his true form from us, but I fail to see a better plan at present.
+ 8277: And if he wants to use us...then we should use him in turn!
+ 8278: Hmmm...I know just the person for the task.
+ 8279: Lutete, tell us what we need to collect.
+ 8280: Well...it's a bit complicated-wated.
+ 8281: ...And you should fetch some $1.
+ 8282: I believe that pixies were once thoughtaru to be in possession of some, but it has been awfully difficult to procure of late...
+ 8283: Each of these items is vexing, to say the least...although perhaps that is why Skokkr trusted us to find them.
+ 8284: Perhaps you are right.
+ 8285: Let us return to the Celennia Memorial Library and see if the archives can give us any leads-weads.
+ 8286: And then we go our separate ways and meet here once we have found the materials.
+ 8287: You recall that you are to procure some $1.
+ 8288: There you are, <Player>. I have been waiting for you.
+ 8289: I must thank you all for bringing the items I requested so quickly.
+ 8290: I shall use them to create the lamp that can be used to harvest souls.
+ 8291: You mentioned-wentioned that this lamp can restore the weapons referred to as the "Prime Weapons," yes?
+ 8292: Hahaha! That is correct. It is the presence of souls that distinguishes the Prime Weapons from all other weapons.
+ 8293: Souls...
+ 8294: Lutete, much like you consider Garazu-Horeizu to be your nemesis, Chaos is ours.
+ 8295: For no matter how many times we defeat Chaos, it always rises again.
+ 8296: That is because it has the power to affect the astral plane.
+ 8297: The astral plane, you say-way!?
+ 8298: I have read about that... I believe it is a place of restaru for the gods themselves?
+ 8299: Hahaha. That is correct. The astral plane is populated with primordial gods such as Ifrit, Shiva, and Titan.
+ 8300: It is a realm containing the power of those slumbering gods as well as that of pure crystals...
+ 8301: In other words, the astral plane is filled with the power of the "life force" that is found in all things.
+ 8302: Now what if you could penetrate the wall that separates that world from Vana'diel in order to wield limitless power?
+ 8303: That is the ability that Chaos possesses, and is also the reason why it is immortal.
+ 8304: You mean it can use the power from the astral plane to heal its wounds or even resurrectaru itself?
+ 8305: A most frightening opponent, wouldn't you agree? Now that Chaos has reappeared in Valhalla, it once again possesses the power it did five thousand years ago.
+ 8306: What chance do we have against such an opponent?
+ 8307: What if we could temporarily preventaru Chaos from accessing the astral plane?
+ 8308: Hehehe... It seems that we are all thinking the same thing.
+ 8309: I have conducted many experiments over the years with my senior disciple, Troels Asulf, in hopes of finding such a solution.
+ 8310: However, the subject of those experiments can be a rather sensitive topic with most people, so I shall spare you the details.
+ 8311: At any rate, the answer we came across was this...
+ 8312: "We can turn Chaos and its offspring against each other."
+ 8313: The offspring of Chaos? You mean a fledgling beastaru born from the World Eater Egg like Nesnas was?
+ 8314: That is correct. The fledgling beasts do not have the ability to affect the astral plane...
+ 8315: However, they are capable of devouring the life force of others to absorb as their own. They can then use that power to resurrect themselves as needed.
+ 8316: That is why I started researching ways to harvest the "souls" of such beasts and imbue a weapon with them.
+ 8317: Currently, my research has led to many rather unfortunate incidents, so let's simply forget about those for now.
+ 8318: What aboutaru the rest then?
+ 8319: After about one hundred years of experimentation, my research is finally complete. I am able to create Prime Weapons that can overcome Chaos!
+ 8320: I see... So you will use the soul of a fledgling beast to restore the Prime Weapons once again?
+ 8321: No. There has not been a fledgling beast since Nesnas was born several hundred years ago.
+ 8322: We attempted the experiment with the one known as Maat who obtained the power of the "World Eater Egg," but it failed because his soul was too weak.
+ 8323: So my next step is to repeat the experiment with the "World Eater Egg" that I won at the Silver Knife.
+ 8324: I feel that if I feed a large number of souls collected by the lamp to the egg, it will create a soul powerful enough for my needs.
+ 8325: I would like to see the results of your experimentaru for myself. Is it okay if we participate too?
+ 8326: Huh!?
+ 8327: W-wait! I am also quite interested, but surely this must be dangerous!?
+ 8328: What happens if your experiment fails?
+ 8329: I doubt such a thing can be summed up in a single word...
+ 8330: In the worst-case scenario, I imagine the power of the World Eater Egg will consume me, and I will be forced to feast upon all of you.
+ 8331: Somehow, I don't imagine that's the worst-case scenario for us...
+ 8332: Hehehe... I shall leave it up to you whether you want to participate or not.
+ 8333: I am heading to my laboratory to the northeast of Outer Ra'Kaznar. If you are interested, you can use this key to meet me there.
+ 8334: I shall leave you to it then. Please remember to inform our guests as well.
+ 8335: I understand.
+ 8336: Well, it looks like we've been kicked out again!
+ 8337: Lutete... Are you sure you want to participate in this experiment?
+ 8338: Yes, I am. Lerene, Valaineral, and <Player>...
+ 8339: I hope you will join me as well. Your help would be mostaru appreciated.
+ 8340: There is strength in numbers, so we may be able to avoid the worstaru if something unexpected were to happen.
+ 8341: Okay then! If this experiment is successful, then maybe we can finally sleep at night!
+ 8342: Very well. I originally came here due to my interest regarding the "World Eater Egg."
+ 8343: Thank you both.
+ 8344: Well? How aboutaru you, <Player>?
+ 8345: What will you do? [Sure, I'll participate./Sorry, maybe next time.]
+ 8346: What do you mean? Haven't you ever heard the saying, "in traveling, a companion; in life, sympathy"!?
+ 8347: Lerene, it is not our place to assertaru our will on others...
+ 8348: I appreciate the assistaru, <Player>. Thank you very much.
+ 8349: Now then, let's head to Outer Ra'Kaznar and the location for Skokkr's experimentaru.
+ 8350: You must head to the laboratory northeast of Outer Ra'Kaznar.
+ 8351: Okay, everyone is here.
+ 8352: I underestimated our opponent, and that led to a painful defeat.
+ 8353: The two-handed sword that was a one-of-a-kind Prime Weapon was destroyed.
+ 8354: And the Goblin that wielded it now lies on the brink of death.
+ 8355: That's terrible...
+ 8356: At the time, you said the item that exploded was only enchanted to look like the "World Eater Egg." Is that correctaru?
+ 8357: It was an illusion--a kind of hypnosis magic-wagic. And the Maelstrom Mage, Garazu-Horeizu, is a master of hypnosis magic.
+ 8358: Yes, I came to the same conclusion. Garazu-Horeizu set a trap for us.
+ 8359: The fake egg was discovered near Castle Zvahl in the Middle Lands. In other words, it means it was found near the gate to the underworld.
+ 8360: He must have used his undead servants to temporarily pry open the gate and plant the decoy egg there.
+ 8361: He probably even went so far as to deliberately make it look old so as to complete the ruse.
+ 8362: And also made plans to carry-warry it all the way here to Adoulin?
+ 8363: Perhaps he learned that I was working under orders from Lord Odin to create a new Prime Weapon.
+ 8364: I suppose Garazu-Horeizu's goal was to stop the Goblins as well as the creation of the two-handed sword.
+ 8365: It is clear that his strategy was well-planned to be able to bring everything down in one fell swoop.
+ 8366: He is quite the formidable foe--misleading people and manipulating the battle from Valhalla...
+ 8367: Is there any way to fix a Prime Weapon once it has been broken?
+ 8368: Unfortunately not. The presence of Chaos that was contained within the sword seems to have dispersed.
+ 8369: As I said before, we require the soul of a fledgling beast. What we need is a new "World Eater Egg."
+ 8370: I suppose we have no choice but to search the world for another one then...
+ 8371: Traditionally, that job has fallen to the Goblins, but you can see what state they are currently in.
+ 8372: Besides, even if we were lucky enough to find another "World Eater Egg" somewhere, we would have to make sure it's not just another one of Garazu-Horeizu's tricks.
+ 8373: Yes, I suppose you're rightaru. I'll try to find a way to break Garazu-Horeizu's hypnosis magic.
+ 8374: I'll help you too. First, we should check out the explosion near Outer Ra'Kaznar. We need more information about his plans before we proceed.
+ 8375: I shall approach the problem from another angle then. I'll send a messenger to my homeland and see if there is any news coming from the north.
+ 8376: Hehehe! I should have known you humanoids would refuse to give up hope!
+ 8377: Naturally. Besides, are you satisfied with constant defeataru at the hands of Garazu-Horeizu?
+ 8378: Lutete... Unlike you, I do not have any ties to Garazu-Horeizu.
+ 8379: However, I cannot turn my back on Lord Odin's orders.
+ 8380: Now then, go and help me find the soul of a fledgling beast.
+ 8381: Furthermore, I would like to introduce you to someone who will be serving as my liaison in regards to this matter.
+ 8382: You may have already met him at the Silver Knife in Eastern Adoulin. He goes by the name Gama-Shama.
+ 8383: I shall give you this so that you can enter the Silver Knife. Your assistance is most appreciated.
+ 8384: Thank you. If I learn anything, I will journey-wourney to the Silver Knife.

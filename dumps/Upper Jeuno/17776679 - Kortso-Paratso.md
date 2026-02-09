@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1DAB      |        7595 |
-|       2 | 0x1DAC      |        7596 |
+|       1 | 0x1DAC      |        7596 |
+|       2 | 0x1DAD      |        7597 |
 
 ## String References
 
-- **7595**: You know, Wolfgang has changed so much ever since he became captain of the guard. It's like he's always wearing a mask. He never smiles anymore.
-- **7596**: He even gives his old pal Monberaux the cold shoulder. Just who does he think he is!
+- **7596**: You know, Wolfgang has changed so much ever since he became captain of the guard. It's like he's always wearing a mask. He never smiles anymore.
+- **7597**: He even gives his old pal Monberaux the cold shoulder. Just who does he think he is!
 
 ## Events
 
@@ -80,10 +80,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
+  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "You know, Wolfgang has changed so much ever since he became captain of the guard. It's like he's always wearing a mask. He never smiles anymore."
   5: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
+  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
     → "He even gives his old pal Monberaux the cold shoulder. Just who does he think he is!"
   7: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*

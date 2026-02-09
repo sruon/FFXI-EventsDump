@@ -20,20 +20,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBF      |        7359 |
-|       1 | 0x1CC0      |        7360 |
+|       0 | 0x1CC0      |        7360 |
+|       1 | 0x1CC1      |        7361 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
 |       6 | 0x0004      |           4 |
-|       7 | 0x1CC1      |        7361 |
+|       7 | 0x1CC2      |        7362 |
 
 ## String References
 
-- **7359**: Welcome to the Palborough Mines. You may teleport to different mining points of the mines from here.
-- **7360**: Teleport to which mining point? [1F, near river (1,2)/1F, far end (0)"F, east (3)"F, west (4)"F (5,6)]
-- **7361**: Canceled.
+- **7360**: Welcome to the Palborough Mines. You may teleport to different mining points of the mines from here.
+- **7361**: Teleport to which mining point? [1F, near river (1,2)/1F, far end (0)"F, east (3)"F, west (4)"F (5,6)]
+- **7362**: Canceled.
 
 ## Events
 
@@ -84,10 +84,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Welcome to the Palborough Mines. You may teleport to different mining points of the mines from here."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7360*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7361*, default_option=0*, option_flags=0*)
     → "Teleport to which mining point? [1F, near river (1,2)/1F, far end (0)"F, east (3)"F, west (4)"F (5,6)]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001F
@@ -105,7 +105,7 @@
  16: 0x0055 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0067
  17: 0x005D [0x27] REQ_SET(priority=0x20, entity_id=LocalPlayer, tag_num=0x30)
  18: 0x0064 [0x01] GOTO 0x006C
- 19: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+ 19: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
     → "Canceled."
  20: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x006B [0x21] END_EVENT

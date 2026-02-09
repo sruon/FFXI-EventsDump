@@ -65,8 +65,8 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x003D      |          61 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x1D56      |        7510 |
-|       5 | 0x1D57      |        7511 |
+|       4 | 0x1D57      |        7511 |
+|       5 | 0x1D58      |        7512 |
 |       6 | 0x00E5      |         229 |
 |       7 | 0x0065      |         101 |
 |       8 | 0x00DB      |         219 |
@@ -83,9 +83,9 @@
 |      19 | 0x0C0D      |        3085 |
 |      20 | 0x001E      |          30 |
 |      21 | 0x0269      |         617 |
-|      22 | 0x1D4C      |        7500 |
+|      22 | 0x1D4D      |        7501 |
 |      23 | 0x00B4      |         180 |
-|      24 | 0x1D4B      |        7499 |
+|      24 | 0x1D4C      |        7500 |
 |      25 | 0xFFFAB1F2  |  4294619634 |
 |      26 | 0xFFF12A85  |  4293995141 |
 |      27 | 0xFFFFF326  |  4294964006 |
@@ -184,12 +184,12 @@
 |     120 | 0xFFFFF8E4  |  4294965476 |
 |     121 | 0x07DE      |        2014 |
 |     122 | 0x0005      |           5 |
-|     123 | 0x1E27      |        7719 |
-|     124 | 0x1E28      |        7720 |
-|     125 | 0x1E29      |        7721 |
-|     126 | 0x1E2D      |        7725 |
+|     123 | 0x1E28      |        7720 |
+|     124 | 0x1E29      |        7721 |
+|     125 | 0x1E2A      |        7722 |
+|     126 | 0x1E2E      |        7726 |
 |     127 | 0x00C9      |         201 |
-|     128 | 0x1E2A      |        7722 |
+|     128 | 0x1E2B      |        7723 |
 |     129 | 0x0001      |           1 |
 |     130 | 0x0002      |           2 |
 |     131 | 0x000A      |          10 |
@@ -199,9 +199,9 @@
 
 ## String References
 
-- **7500**: You were refused passage for failing to present $6!
-- **7510**: You use your $3. ($2 trip[/s] remaining)
-- **7511**: You use up your $3.
+- **7501**: You were refused passage for failing to present $6!
+- **7511**: You use your $3. ($2 trip[/s] remaining)
+- **7512**: You use up your $3.
 
 ## Events
 
@@ -489,10 +489,10 @@
   6: 0x0142 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x015E
   7: 0x014A [0x0C] Work_Zone[4]--
   8: 0x014D [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x015B
-  9: 0x0155 [0x48] [System] [7510*]:
+  9: 0x0155 [0x48] [System] [7511*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x0158 [0x01] GOTO 0x015E
- 11: 0x015B [0x48] [System] [7511*]:
+ 11: 0x015B [0x48] [System] [7512*]:
     → "You use up your $3."
 
 SUBROUTINE_015E:
@@ -730,11 +730,11 @@ SUBROUTINE_015E:
  12: 0x0374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0385 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x0394 [0x03] Work_Zone[2] = 617*
- 15: 0x0399 [0x48] [System] [7500*]:
+ 15: 0x0399 [0x48] [System] [7501*]:
     → "You were refused passage for failing to present $6!"
  16: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x039D [0x1C] WAIT(180* ticks)
- 18: 0x03A0 [0x2B] Fheli Lapatzuo (ID: 16793982/0x0100417E) [7499*]:
+ 18: 0x03A0 [0x2B] Fheli Lapatzuo (ID: 16793982/0x0100417E) [7500*]:
     → "If you wish to board the manaclipper, please purrrchase a ticket from the vendor by the docks."
  19: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x03A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1506,10 +1506,10 @@ SUBROUTINE_051A:
  17: 0x061C [0x79] LocalPlayer looks at Kiteh Nanjyea (ID: 16794036/0x010041B4) (Basic look)
  18: 0x0626 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [EventEntity, EventEntity], work=[5*, 0*]
  19: 0x0637 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 20: 0x0648 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7719*]:
+ 20: 0x0648 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7720*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  21: 0x064F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0650 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7720*]:
+ 22: 0x0650 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7721*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x0657 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0658 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x069B
@@ -1520,11 +1520,11 @@ SUBROUTINE_051A:
  29: 0x0674 [0x15] Work_Zone[6] /= 60*
  30: 0x0679 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  31: 0x0680 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0693
- 32: 0x0688 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7721*]:
+ 32: 0x0688 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7722*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  33: 0x068F [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0690 [0x01] GOTO 0x069B
- 35: 0x0693 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7725*]:
+ 35: 0x0693 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7726*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  36: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1545,11 +1545,11 @@ SUBROUTINE_069B:
 # Dead code (unreachable instructions):
      0x06F0 [0x4A] Kiteh Nanjyea (ID: 16794036/0x010041B4) looks at LocalPlayer
      0x06F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-     0x070A [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7719*]:
+     0x070A [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7720*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
      0x0711 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0712 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kiteh Nanjyea (ID: 16794036/0x010041B4), Kiteh Nanjyea (ID: 16794036/0x010041B4)], work=30*
-     0x0721 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7720*]:
+     0x0721 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7721*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
      0x0728 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0729 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x077B
@@ -1561,15 +1561,15 @@ SUBROUTINE_069B:
      0x0754 [0x15] Work_Zone[6] /= 60*
      0x0759 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
      0x0760 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0773
-     0x0768 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7721*]:
+     0x0768 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7722*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
      0x076F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0770 [0x01] GOTO 0x077B
-     0x0773 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7725*]:
+     0x0773 [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7726*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
      0x077A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x077B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Kiteh Nanjyea (ID: 16794036/0x010041B4), Kiteh Nanjyea (ID: 16794036/0x010041B4)], work=30*
-     0x078A [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7722*]:
+     0x078A [0x2B] Kiteh Nanjyea (ID: 16794036/0x010041B4) [7723*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
      0x0791 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0792 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

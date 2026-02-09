@@ -22,17 +22,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2603      |        9731 |
-|       1 | 0x2604      |        9732 |
-|       2 | 0x2607      |        9735 |
-|       3 | 0x2608      |        9736 |
+|       0 | 0x2604      |        9732 |
+|       1 | 0x2605      |        9733 |
+|       2 | 0x2608      |        9736 |
+|       3 | 0x2609      |        9737 |
 
 ## String References
 
-- **9731**: What? You wanna know which chocobo's fastest? My MegaFlare, of course!
-- **9732**: I've been puttin' my own chocobo raisin' theory to the test in the real world, and so far I'm undefeated in all official races!
-- **9735**: Mwahahaha!!! MegaFlare has once again proven my genius!
-- **9736**: <Sigh> The higher you climb, the steeper it gets, huh? Looks like its back to the drawin' board for me...
+- **9732**: What? You wanna know which chocobo's fastest? My MegaFlare, of course!
+- **9733**: I've been puttin' my own chocobo raisin' theory to the test in the real world, and so far I'm undefeated in all official races!
+- **9736**: Mwahahaha!!! MegaFlare has once again proven my genius!
+- **9737**: <Sigh> The higher you climb, the steeper it gets, huh? Looks like its back to the drawin' board for me...
 
 ## Events
 
@@ -79,10 +79,10 @@
 
 ```
   0: 0x0001 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9731*)
+  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9732*)
     → "What? You wanna know which chocobo's fastest? My MegaFlare, of course!"
   2: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=9732*)
+  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=9733*)
     → "I've been puttin' my own chocobo raisin' theory to the test in the real world, and so far I'm undefeated in all official races!"
   4: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0013 [0x21] END_EVENT
@@ -110,7 +110,7 @@
 
 ```
   0: 0x0015 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9735*)
+  1: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9736*)
     → "Mwahahaha!!! MegaFlare has once again proven my genius!"
   2: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0023 [0x21] END_EVENT
@@ -138,7 +138,7 @@
 
 ```
   0: 0x0025 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=9736*)
+  1: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=9737*)
     → "<Sigh> The higher you climb, the steeper it gets, huh? Looks like its back to the drawin' board for me..."
   2: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0033 [0x21] END_EVENT

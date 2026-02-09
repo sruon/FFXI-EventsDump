@@ -1,5 +1,5 @@
 # Strings for Qulun Dome
-# Total: 7582 strings
+# Total: 7583 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,253 +7226,253 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: A door... It seems to be locked by powerful magic.
- 7228: The $3, $3, and $3 glow faintly.
- 7229: The $3, $3, and $3 shine brightly!
- 7230: A door... It is imbued with powerful magic that prevents you from opening it.
- 7231: The $3 and $3 shine brightly!
- 7232: It cannot be opened from this side!
- 7233: 0:$0,1:$1,2:$2,":$3,4:$4,5:$5, 6:$6,7:$7
- 7234: Investigate the door? [Yes./No.]
- 7235: Those "explosives"--pretty amazing, aren't they?
- 7236: Indeed. Without them, we would not have been able to dig that mine. Now, finally, we can compete with San d'Oria for power.
- 7237: Heh, Quadav aren't good enough to live in there! One blast should take care of them...
- 7238: ...
- 7239: What is the matter, Babenn?
- 7240: Lord Raogrimm... We've found the Quadav temple in the mines, as you suspected. I-I could not stop them.
- 7241: That is unfortunate... As always, they don't even try to understand.
- 7242: Huh. Nothing. With all the Quadav guarding the place, you think we'd find a treasure or two!
- 7243: C'mon, let's move! Let's just finish this job and go.
- 7244: Ulrich, wait!
- 7245: As I thought...they were trying to protect their eggs...
- 7246: But they don't even try to understand...
- 7247: Is that all you've got, Raogrimm!?
- 7248: Ulrich, why!?
- 7249: Why? Because I never liked you, that's why!
- 7250: You will never get away with this, Ulrich!
- 7251: Watch me!
- 7252: ...Cornelia!?
- 7253: Wh-what have I done!?
- 7254: Why...!?
- 7255: I...couldn't let you die here, Raogrimm... There are people who need you...
- 7256: Cornelia!!!
- 7257: No... NOOOOO!
- 7258: Wait for load.
- 7259: So, that's what magicite looks like.
- 7260: What are they trying to do with it, though?
- 7261: !!!
- 7262: You are too late... I have already awakened.
- 7263: Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.
- 7264: Who are you!?
- 7265: Your kind awakened me...and this time, you will be destroyed!
- 7266: You cannot stop me. Vana'diel will be the grave for you and all your kind!
- 7267: The Shadow Lord!? It can't be! His powers couldn't have returned!?
- 7268: Then it is true. The beastmen are trying to bring back the Shadow Lord.
- 7269: ...Be careful.
- 7270: The magicite glows ominously.
- 7271: You find nothing.
- 7272: Gwa-ha-ha, puny peoples! Ou-ur king never forge-ets a gru-udge. He'll gri-ind you into pa-aste!
- 7273: Glo-ory to the Adamantking!
- 7274: Childre-en of Altana? I will ba-athe in your blood as I did at the Ba-attle of Jeuno!
- 7275: I a-am fini-ished. Hear me, wa-arriors of the Quadav! The throne of the Adamantking and the line of Za'Dha pa-asses to my bro-other...
- 7276: You can't fish here.
- 7277: You can't fish without a rod in your hands.
- 7278: You can't fish without bait on the hook.
- 7279: You can't fish at the moment.
- 7280: You didn't catch anything.
- 7281: %0 caught a monster!
- 7282: Your line breaks.
- 7283: Your rod breaks.
- 7284: Something caught the hook!
- 7285: You lost your catch.
- 7286: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7287: You feel there's something here.
- 7288: You feel there's something nearby.
- 7289: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7290: %0 caught $1 $0 !
- 7291: You dig and you dig, but find nothing.
- 7292: $0/$0p$3Z$3b$3g
- 7293: Your rod breaks. Whatever caught the hook was pretty big.
- 7294: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7295: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7296: You lost your catch due to your lack of skill.
- 7297: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7298: You didn't catch anything.
- 7299: The paper on your $0 ripped.
- 7300: A tiny goldfish approaches!
- 7301: A plump, black goldfish approaches!
- 7302: A fat, juicy goldfish approaches!
- 7303: There are no goldfish to be found...
- 7304: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7305: The goldfish slipped off your scoop...
- 7306: ch$0 skill up check.
- 7307: a:$0.
- 7308: Time $0 / Status $1 / $2
- 7309: d:$0. e:$1. f:$2. g:$3.
- 7310: h: $1. i: $0. sr: $2.
- 7311: j:$0. k:$1.
- 7312: You give up and reel in your line.
- 7313: You give up.
- 7314: %0 obtains $1 gil.
- 7315: %0 caught $0!
- 7316: You don't know how much longer you can keep this one on the line...
- 7317: You have a good feeling about this one!
- 7318: You have a bad feeling about this one.
- 7319: You have a terrible feeling about this one...
- 7320: You don't know if you have enough skill to reel this one in.
- 7321: You're fairly sure you don't have enough skill to reel this one in.
- 7322: You're positive you don't have enough skill to reel this one in!
- 7323: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7324: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7325: l: $0. m: $1. n: $2. CH: $3.
- 7326: Something caught the hook!!!
- 7327: You feel something pulling at your line.
- 7328: Something clamps onto your line ferociously!
- 7329: Your keen angler's senses tell you that this is the pull of $0!
- 7330: This strength... You get the sense that you are on the verge of an epic catch!
- 7331: The timer has started. $0 seconds remaining.
- 7332: $0sec.$1/$2sec.
- 7333: 0:$0 1:$1 2:$2 3:$3
- 7334: 4:$0 5:$1 6:$2 7:$3
- 7335: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7336: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7337: $0/$1($2j
- 7338: Version invalid error!
- 7339: Hurry before the goldfish sees you!
- 7340: %0 fishes up a large box!
- 7341: $23$o$P122$8$0
- 7342: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7343: PointF$0 >>> $1
- 7344: [$1($0)/skillF$1]
- 7345: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7346: Im Rnd : $0 Pz Rnd : $1
- 7347: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7348: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7349: skill : $0 size : $1 kind : $2 sch : $3
- 7350: time : $0 mes : $1 flag : $2 bonus : $3
- 7351: item : $0 hp : $1 pow : $2 swing : $3
- 7352: suc : $0 cons : $1 weight : $2 +- : $3
- 7353: speed : $0 +- : $1 exc : $2 client : $3
- 7354: general : $0
- 7355: ro:$0 rs:$1 ps:$2 dt:$3
- 7356: ra:$0 ti:$1
- 7357: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7358: You get the distinct sense that your moogle friend frequents this spot...
- 7359: You have a feeling that your moogle friend has been through this way...
- 7360: You suspect that the scenery around here would be to a moogle's liking...
- 7361: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7362: You have a hunch that this area would be favored by moogles...
- 7363: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7364: %0 catches $1 $0 !
- 7365: %0 obtained $6!
- 7366: It appears your chocobo found this item with ease.
- 7367: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7368: FPT $0 DPT $1 DoT$2
- 7369: FPT $0 TDPT $1 h$2
- 7370: You cannot fish at this time.
- 7371: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7372: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7373: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7374: You receive $0 bayld!
- 7375: Your chocobo refuses to partake of the $0.
- 7376: Huh? Adventurer?
- 7377: You there! Help Orc friend!
- 7378: ......
- 7379: Gah hah ha! Turtle cowards! Gedwad's plan work! Turtles think you Gedwad's army! Now Gedwad rest...
- 7380: ...Eh? Oh! Gedwad no say thank you to adventurer!
- 7381: Thank you to adventurer! Gedwad saved by <Player>!
- 7382: How Gedwad know adventurer name? Trooper first class Raptorlegs Gedwad of Gochakzuk's Gravemakers know everything. Collecting information Gedwad's job!
- 7383: Adventurer never hear of Gravemakers? Of course no hear of Gravemakers! Gravemakers secret team! Gravemakers... Ah! Forget what Gedwad say!
- 7384: Gedwad use speed and cunning. Gedwad sneak into turtle lair and get information for mighty Empire.
- 7385: But Gedwad have trouble. Turtles find Gedwad. Turtles send more guards. Now Gedwad no enter lair. Now Gedwad no use spybats...
- 7386: Adventurer! You know why Gedwad blabber top-secret information to you?
- 7387: You understand? [You need some help./You need a friend.]
- 7388: Gedwad no need friend! Gedwad need Orcish axe to slice adventurer head! Adventurer more stupid than Orc!
- 7389: Oh! Adventurer smart as Orc! Let Gedwad explain mission! Adventurer sneak into cave. Check turtle forces.
- 7390: If forces weak, Orc Empire attack and take cave! If Orc Empire take cave, less turtles for adventurers to fight! Orcs win, adventurers win!
- 7391: Mission easy. Take spybats and hide near king.
- 7392: Spybats do rest. When spybats get info, spybats fly back to Gedwad. When spybats fly back to Gedwad, adventurer gets gold. Easy mission! Easy mission!
- 7393: What say? [Easy mission!/Good day!]
- 7394: Adventurer kill beastmen for gil, but adventurer no take beastman offer for gil. Adventurer more ruthless than Orc...
- 7395: Noble Gedwad like noble adventurer spirit!
- 7396: But adventurer ugly face no good for mission. Turtles no stupid. Turtles see adventurer, turtles kill adventurer. Turtles kill adventurer, Gedwad mission fail, Gochakzuk eat Gedwad liver for breakfast!
- 7397: Adventurer need disguise...
- 7398: Oh! Gedwad remember see lady make bone helmet in country of tasty Taru. Maybe she make you good disguise!
- 7399: Gedwad stay here. When adventurer ready, come fast. Gedwad no like wait. Gedwad get hungry...eat spybats...
- 7400: Adventurer slow. Gedwad give adventurer new name--Stubbylegs <Player>. Gah ha hah!
- 7401: Eh? What thing on Stubbylegs's head?
- 7402: Quadav disguise? Turtle horde stupid, but not that stupid...
- 7403: Wait... Maybe adventurer have plan! Yes! Adventurer have plan. Use funny helmet to fool stupid Quadav! Right?
- 7404: Here. Take spybats. Put spybats somewhere inside cave.
- 7405: When done, come back here. We wait for spybats together.
- 7406: Three large pieces of wood support a worn leather beastmen's banner. The rear side would be a perfect place to hide something, if you could reach it...
- 7407: You release the $3 from your gobbiebag. They fly up and hang themselves behind the leather banner.
- 7408: Wa-ait there! I do not recogni-ize you! Are you one of the new re-ecruits? Show me your fa-ace!
- 7409: Insole-ence! Whe-ere is your shell? How dare you enter the Qulun Dome looki-ing like that! Pre-epare to be punished!
- 7410: Ghuwhahhwah! Quite a fine di-isplay!
- 7411: Not many with skin so soft can wi-ithstand such an onslaught.
- 7412: I am impressed with your ski-ill, young recruit. Why not join the ranks of the Shieldwarriors as one of my pe-ersonal guards?
- 7413: Join the Elite Guard? [I am at your command./Never!]
- 7414: I see the fire of adve-enture burns bright in your eyes. Your talent would be wa-asted as a mere bodyguard...
- 7415: Then why not be-ecome one of the Elite Raiders. Together we can launch an atta-ack on the empires of the East and fill our vaults with their hidden tre-easures!
- 7416: Join the Elite Raiders? [I am at your command./Never!]
- 7417: That is unfo-ortunate. However, I admire your adama-antium will.
- 7418: The least I can do is offer you a gift. Place that fine he-elmet at the base of the banner yonder.
- 7419: Excellent! You will make a fine addi-ition to my forces. Now nothing will pene-etrate our adamantium defe-enses! Ah yes, let me offer you a gift to show you my grati-itude. Place that fine he-elmet at the base of the banner yonder.
- 7420: An adve-enturer! Not only are you strong, but cunni-ing as well. My insti-incts tell me I should rip out your heart and throw your body to the land pugils. However, that does not change my admira-ation towards your fine display of fighting prowe-ess.
- 7421: Deadeye! Come fo-orth!
- 7422: Da'Vhu at your service, Your Highness.
- 7423: Wh-what is this!? Your Highness! Have you sustained any injuries? Do you wish I do away with the intruder?
- 7424: Stand down, Deadeye. If I wa-anted the adventurer dead, I would have spli-it [him/her] in half myself.
- 7425: Of course, Your Highness. But what of the bats? I have reason to believe they were placed here by this intruder to spy on us!
- 7426: What of the bats? I have known of this adve-enturer's meeting with the Orcish trooper and their plans for days.
- 7427: O-of course, Your Highness! And now that we have captured the intruder, give the order, and I will dispose of [him/her] immediately.
- 7428: Si-ilence, fool! There will be no more bloodshed here toda-ay. I shall release the adve-enturer and allow the Orc to return with his precious bats.
- 7429: B-but, Your Highness! They are the enemy!
- 7430: Do you question my judge-ement, Da'Vhu!? The Quadav have nothing to hide! Let anyone and anythi-ing step into our lair! Then, they too can witness the true might of the Shieldwarriors!
- 7431: As for you. You are to se-erve this adventurer for as long as I wish it so. If [he/she] is to call you with this he-elmet, hurry to [his/her] aid, and fight as you would when fi-ighting an enemy of the Quadav.
- 7432: B-but Your Highness. I have already sworn an oath of loyalty to you!
- 7433: And as your king, I am ordering you to swear an oath of loyalty to thi-is adventurer! I will send for you when I require your se-ervices once more.
- 7434: Think of this as a cha-ance for you to show the rest of Vana'diel the true stre-ength of the Quadav! Do well, and I personally guarantee you a pla-ace by my side. Fail, and...
- 7435: Your Highness! I shall not fail!
- 7436: Farewell, adventurer. I pledge my life and allegiance to you, but only because my king so commands...
- 7437: Here is the he-elmet I promised you.
- 7438: Consider yourself admoni-ished for your sins here today. You are free to go.
- 7439: And tell that Orcish swine that if he wi-ishes to gather any more information, to come directly to my qua-arters. I shall tell him everything he wi-ishes to know...and more! Ahahahahah!
- 7440: Today has been an eventful day for bo-oth of us, adventurer. However, I cannot guarantee that our next meeting will be as ple-easant.
- 7441: I do wish a day would come when our peoples can join hands in ba-attle. However, I fear much more time is needed for the wounds dealt to us by the chi-ildren of Altana to heal...
- 7442: Adventurer back! Adventurer in one piece!
- 7443: ......... Eh? Adventurer and spybats captured by turtle king? I told you disguise useless!
- 7444: Eh? But if adventurer captured, why adventurer here?
- 7445: ......... Gedwad see. Turtle king smarter than thought. Maybe Orc attack too early.
- 7446: Here, adventurer. Take reward.
- 7447: Adventurer get caught, but learn much about strong Quadav defenses.
- 7448: Orc Overlord love fight, but Overlord no love lose fight. Adventurer info saves lives of many, many Orcs.
- 7449: Adventurer be Orc enemy, but today, friend.
- 7450: Gedwad tell Overlord of adventurer help, but he no listen...
- 7451: Maybe when adventurer die, reborn as Orc! Then I teach adventurer to be real warrior! Gwahwahaw!
- 7452: You cannot obtain the $0. Come back again after sorting your inventory.
- 7453: Ungh...! You fight well for your si-ize! But can your soft flesh withsta-and the fury of my mighty axe!?
- 7454: There is nothing out of the ordinary here.
- 7455: You can hear a strange voice... "Items, items, la la la la la`t"
- 7456: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7457: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7458: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7459: Now, listen close...
- 7460: Oh... Well, if that's the case, I'm outta here.
- 7461: The Goblin slipped away when you were not looking...
- 7462: You can hear a strange, raspy voice...
- 7463: I travel......hear lots... Hear...stories... Can tell...if...
- 7464: .........listen......
- 7465: Oh...... ...outta here.........
- 7466: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7467: What story would you like to be told? [On second thought, maybe later./An Affable Adamantking?(pt.1)./An Affable Adamantking?(pt.2)./An Affable Adamantking?(pt.3)./An Affable Adamantking?(pt.4)./An Affable Adamantking?(pt.5)./An Affable Adamantking?(pt.6)./Mixed Signals./Magicite(pt.1)./Magicite(pt.2).]
- 7468: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: A door... It seems to be locked by powerful magic.
+ 7229: The $3, $3, and $3 glow faintly.
+ 7230: The $3, $3, and $3 shine brightly!
+ 7231: A door... It is imbued with powerful magic that prevents you from opening it.
+ 7232: The $3 and $3 shine brightly!
+ 7233: It cannot be opened from this side!
+ 7234: 0:$0,1:$1,2:$2,":$3,4:$4,5:$5, 6:$6,7:$7
+ 7235: Investigate the door? [Yes./No.]
+ 7236: Those "explosives"--pretty amazing, aren't they?
+ 7237: Indeed. Without them, we would not have been able to dig that mine. Now, finally, we can compete with San d'Oria for power.
+ 7238: Heh, Quadav aren't good enough to live in there! One blast should take care of them...
+ 7239: ...
+ 7240: What is the matter, Babenn?
+ 7241: Lord Raogrimm... We've found the Quadav temple in the mines, as you suspected. I-I could not stop them.
+ 7242: That is unfortunate... As always, they don't even try to understand.
+ 7243: Huh. Nothing. With all the Quadav guarding the place, you think we'd find a treasure or two!
+ 7244: C'mon, let's move! Let's just finish this job and go.
+ 7245: Ulrich, wait!
+ 7246: As I thought...they were trying to protect their eggs...
+ 7247: But they don't even try to understand...
+ 7248: Is that all you've got, Raogrimm!?
+ 7249: Ulrich, why!?
+ 7250: Why? Because I never liked you, that's why!
+ 7251: You will never get away with this, Ulrich!
+ 7252: Watch me!
+ 7253: ...Cornelia!?
+ 7254: Wh-what have I done!?
+ 7255: Why...!?
+ 7256: I...couldn't let you die here, Raogrimm... There are people who need you...
+ 7257: Cornelia!!!
+ 7258: No... NOOOOO!
+ 7259: Wait for load.
+ 7260: So, that's what magicite looks like.
+ 7261: What are they trying to do with it, though?
+ 7262: !!!
+ 7263: You are too late... I have already awakened.
+ 7264: Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.
+ 7265: Who are you!?
+ 7266: Your kind awakened me...and this time, you will be destroyed!
+ 7267: You cannot stop me. Vana'diel will be the grave for you and all your kind!
+ 7268: The Shadow Lord!? It can't be! His powers couldn't have returned!?
+ 7269: Then it is true. The beastmen are trying to bring back the Shadow Lord.
+ 7270: ...Be careful.
+ 7271: The magicite glows ominously.
+ 7272: You find nothing.
+ 7273: Gwa-ha-ha, puny peoples! Ou-ur king never forge-ets a gru-udge. He'll gri-ind you into pa-aste!
+ 7274: Glo-ory to the Adamantking!
+ 7275: Childre-en of Altana? I will ba-athe in your blood as I did at the Ba-attle of Jeuno!
+ 7276: I a-am fini-ished. Hear me, wa-arriors of the Quadav! The throne of the Adamantking and the line of Za'Dha pa-asses to my bro-other...
+ 7277: You can't fish here.
+ 7278: You can't fish without a rod in your hands.
+ 7279: You can't fish without bait on the hook.
+ 7280: You can't fish at the moment.
+ 7281: You didn't catch anything.
+ 7282: %0 caught a monster!
+ 7283: Your line breaks.
+ 7284: Your rod breaks.
+ 7285: Something caught the hook!
+ 7286: You lost your catch.
+ 7287: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7288: You feel there's something here.
+ 7289: You feel there's something nearby.
+ 7290: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7291: %0 caught $1 $0 !
+ 7292: You dig and you dig, but find nothing.
+ 7293: $0/$0p$3Z$3b$3g
+ 7294: Your rod breaks. Whatever caught the hook was pretty big.
+ 7295: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7296: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7297: You lost your catch due to your lack of skill.
+ 7298: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7299: You didn't catch anything.
+ 7300: The paper on your $0 ripped.
+ 7301: A tiny goldfish approaches!
+ 7302: A plump, black goldfish approaches!
+ 7303: A fat, juicy goldfish approaches!
+ 7304: There are no goldfish to be found...
+ 7305: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7306: The goldfish slipped off your scoop...
+ 7307: ch$0 skill up check.
+ 7308: a:$0.
+ 7309: Time $0 / Status $1 / $2
+ 7310: d:$0. e:$1. f:$2. g:$3.
+ 7311: h: $1. i: $0. sr: $2.
+ 7312: j:$0. k:$1.
+ 7313: You give up and reel in your line.
+ 7314: You give up.
+ 7315: %0 obtains $1 gil.
+ 7316: %0 caught $0!
+ 7317: You don't know how much longer you can keep this one on the line...
+ 7318: You have a good feeling about this one!
+ 7319: You have a bad feeling about this one.
+ 7320: You have a terrible feeling about this one...
+ 7321: You don't know if you have enough skill to reel this one in.
+ 7322: You're fairly sure you don't have enough skill to reel this one in.
+ 7323: You're positive you don't have enough skill to reel this one in!
+ 7324: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7325: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7326: l: $0. m: $1. n: $2. CH: $3.
+ 7327: Something caught the hook!!!
+ 7328: You feel something pulling at your line.
+ 7329: Something clamps onto your line ferociously!
+ 7330: Your keen angler's senses tell you that this is the pull of $0!
+ 7331: This strength... You get the sense that you are on the verge of an epic catch!
+ 7332: The timer has started. $0 seconds remaining.
+ 7333: $0sec.$1/$2sec.
+ 7334: 0:$0 1:$1 2:$2 3:$3
+ 7335: 4:$0 5:$1 6:$2 7:$3
+ 7336: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7337: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7338: $0/$1($2j
+ 7339: Version invalid error!
+ 7340: Hurry before the goldfish sees you!
+ 7341: %0 fishes up a large box!
+ 7342: $23$o$P122$8$0
+ 7343: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7344: PointF$0 >>> $1
+ 7345: [$1($0)/skillF$1]
+ 7346: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7347: Im Rnd : $0 Pz Rnd : $1
+ 7348: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7349: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7350: skill : $0 size : $1 kind : $2 sch : $3
+ 7351: time : $0 mes : $1 flag : $2 bonus : $3
+ 7352: item : $0 hp : $1 pow : $2 swing : $3
+ 7353: suc : $0 cons : $1 weight : $2 +- : $3
+ 7354: speed : $0 +- : $1 exc : $2 client : $3
+ 7355: general : $0
+ 7356: ro:$0 rs:$1 ps:$2 dt:$3
+ 7357: ra:$0 ti:$1
+ 7358: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7359: You get the distinct sense that your moogle friend frequents this spot...
+ 7360: You have a feeling that your moogle friend has been through this way...
+ 7361: You suspect that the scenery around here would be to a moogle's liking...
+ 7362: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7363: You have a hunch that this area would be favored by moogles...
+ 7364: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7365: %0 catches $1 $0 !
+ 7366: %0 obtained $6!
+ 7367: It appears your chocobo found this item with ease.
+ 7368: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7369: FPT $0 DPT $1 DoT$2
+ 7370: FPT $0 TDPT $1 h$2
+ 7371: You cannot fish at this time.
+ 7372: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7373: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7374: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7375: You receive $0 bayld!
+ 7376: Your chocobo refuses to partake of the $0.
+ 7377: Huh? Adventurer?
+ 7378: You there! Help Orc friend!
+ 7379: ......
+ 7380: Gah hah ha! Turtle cowards! Gedwad's plan work! Turtles think you Gedwad's army! Now Gedwad rest...
+ 7381: ...Eh? Oh! Gedwad no say thank you to adventurer!
+ 7382: Thank you to adventurer! Gedwad saved by <Player>!
+ 7383: How Gedwad know adventurer name? Trooper first class Raptorlegs Gedwad of Gochakzuk's Gravemakers know everything. Collecting information Gedwad's job!
+ 7384: Adventurer never hear of Gravemakers? Of course no hear of Gravemakers! Gravemakers secret team! Gravemakers... Ah! Forget what Gedwad say!
+ 7385: Gedwad use speed and cunning. Gedwad sneak into turtle lair and get information for mighty Empire.
+ 7386: But Gedwad have trouble. Turtles find Gedwad. Turtles send more guards. Now Gedwad no enter lair. Now Gedwad no use spybats...
+ 7387: Adventurer! You know why Gedwad blabber top-secret information to you?
+ 7388: You understand? [You need some help./You need a friend.]
+ 7389: Gedwad no need friend! Gedwad need Orcish axe to slice adventurer head! Adventurer more stupid than Orc!
+ 7390: Oh! Adventurer smart as Orc! Let Gedwad explain mission! Adventurer sneak into cave. Check turtle forces.
+ 7391: If forces weak, Orc Empire attack and take cave! If Orc Empire take cave, less turtles for adventurers to fight! Orcs win, adventurers win!
+ 7392: Mission easy. Take spybats and hide near king.
+ 7393: Spybats do rest. When spybats get info, spybats fly back to Gedwad. When spybats fly back to Gedwad, adventurer gets gold. Easy mission! Easy mission!
+ 7394: What say? [Easy mission!/Good day!]
+ 7395: Adventurer kill beastmen for gil, but adventurer no take beastman offer for gil. Adventurer more ruthless than Orc...
+ 7396: Noble Gedwad like noble adventurer spirit!
+ 7397: But adventurer ugly face no good for mission. Turtles no stupid. Turtles see adventurer, turtles kill adventurer. Turtles kill adventurer, Gedwad mission fail, Gochakzuk eat Gedwad liver for breakfast!
+ 7398: Adventurer need disguise...
+ 7399: Oh! Gedwad remember see lady make bone helmet in country of tasty Taru. Maybe she make you good disguise!
+ 7400: Gedwad stay here. When adventurer ready, come fast. Gedwad no like wait. Gedwad get hungry...eat spybats...
+ 7401: Adventurer slow. Gedwad give adventurer new name--Stubbylegs <Player>. Gah ha hah!
+ 7402: Eh? What thing on Stubbylegs's head?
+ 7403: Quadav disguise? Turtle horde stupid, but not that stupid...
+ 7404: Wait... Maybe adventurer have plan! Yes! Adventurer have plan. Use funny helmet to fool stupid Quadav! Right?
+ 7405: Here. Take spybats. Put spybats somewhere inside cave.
+ 7406: When done, come back here. We wait for spybats together.
+ 7407: Three large pieces of wood support a worn leather beastmen's banner. The rear side would be a perfect place to hide something, if you could reach it...
+ 7408: You release the $3 from your gobbiebag. They fly up and hang themselves behind the leather banner.
+ 7409: Wa-ait there! I do not recogni-ize you! Are you one of the new re-ecruits? Show me your fa-ace!
+ 7410: Insole-ence! Whe-ere is your shell? How dare you enter the Qulun Dome looki-ing like that! Pre-epare to be punished!
+ 7411: Ghuwhahhwah! Quite a fine di-isplay!
+ 7412: Not many with skin so soft can wi-ithstand such an onslaught.
+ 7413: I am impressed with your ski-ill, young recruit. Why not join the ranks of the Shieldwarriors as one of my pe-ersonal guards?
+ 7414: Join the Elite Guard? [I am at your command./Never!]
+ 7415: I see the fire of adve-enture burns bright in your eyes. Your talent would be wa-asted as a mere bodyguard...
+ 7416: Then why not be-ecome one of the Elite Raiders. Together we can launch an atta-ack on the empires of the East and fill our vaults with their hidden tre-easures!
+ 7417: Join the Elite Raiders? [I am at your command./Never!]
+ 7418: That is unfo-ortunate. However, I admire your adama-antium will.
+ 7419: The least I can do is offer you a gift. Place that fine he-elmet at the base of the banner yonder.
+ 7420: Excellent! You will make a fine addi-ition to my forces. Now nothing will pene-etrate our adamantium defe-enses! Ah yes, let me offer you a gift to show you my grati-itude. Place that fine he-elmet at the base of the banner yonder.
+ 7421: An adve-enturer! Not only are you strong, but cunni-ing as well. My insti-incts tell me I should rip out your heart and throw your body to the land pugils. However, that does not change my admira-ation towards your fine display of fighting prowe-ess.
+ 7422: Deadeye! Come fo-orth!
+ 7423: Da'Vhu at your service, Your Highness.
+ 7424: Wh-what is this!? Your Highness! Have you sustained any injuries? Do you wish I do away with the intruder?
+ 7425: Stand down, Deadeye. If I wa-anted the adventurer dead, I would have spli-it [him/her] in half myself.
+ 7426: Of course, Your Highness. But what of the bats? I have reason to believe they were placed here by this intruder to spy on us!
+ 7427: What of the bats? I have known of this adve-enturer's meeting with the Orcish trooper and their plans for days.
+ 7428: O-of course, Your Highness! And now that we have captured the intruder, give the order, and I will dispose of [him/her] immediately.
+ 7429: Si-ilence, fool! There will be no more bloodshed here toda-ay. I shall release the adve-enturer and allow the Orc to return with his precious bats.
+ 7430: B-but, Your Highness! They are the enemy!
+ 7431: Do you question my judge-ement, Da'Vhu!? The Quadav have nothing to hide! Let anyone and anythi-ing step into our lair! Then, they too can witness the true might of the Shieldwarriors!
+ 7432: As for you. You are to se-erve this adventurer for as long as I wish it so. If [he/she] is to call you with this he-elmet, hurry to [his/her] aid, and fight as you would when fi-ighting an enemy of the Quadav.
+ 7433: B-but Your Highness. I have already sworn an oath of loyalty to you!
+ 7434: And as your king, I am ordering you to swear an oath of loyalty to thi-is adventurer! I will send for you when I require your se-ervices once more.
+ 7435: Think of this as a cha-ance for you to show the rest of Vana'diel the true stre-ength of the Quadav! Do well, and I personally guarantee you a pla-ace by my side. Fail, and...
+ 7436: Your Highness! I shall not fail!
+ 7437: Farewell, adventurer. I pledge my life and allegiance to you, but only because my king so commands...
+ 7438: Here is the he-elmet I promised you.
+ 7439: Consider yourself admoni-ished for your sins here today. You are free to go.
+ 7440: And tell that Orcish swine that if he wi-ishes to gather any more information, to come directly to my qua-arters. I shall tell him everything he wi-ishes to know...and more! Ahahahahah!
+ 7441: Today has been an eventful day for bo-oth of us, adventurer. However, I cannot guarantee that our next meeting will be as ple-easant.
+ 7442: I do wish a day would come when our peoples can join hands in ba-attle. However, I fear much more time is needed for the wounds dealt to us by the chi-ildren of Altana to heal...
+ 7443: Adventurer back! Adventurer in one piece!
+ 7444: ......... Eh? Adventurer and spybats captured by turtle king? I told you disguise useless!
+ 7445: Eh? But if adventurer captured, why adventurer here?
+ 7446: ......... Gedwad see. Turtle king smarter than thought. Maybe Orc attack too early.
+ 7447: Here, adventurer. Take reward.
+ 7448: Adventurer get caught, but learn much about strong Quadav defenses.
+ 7449: Orc Overlord love fight, but Overlord no love lose fight. Adventurer info saves lives of many, many Orcs.
+ 7450: Adventurer be Orc enemy, but today, friend.
+ 7451: Gedwad tell Overlord of adventurer help, but he no listen...
+ 7452: Maybe when adventurer die, reborn as Orc! Then I teach adventurer to be real warrior! Gwahwahaw!
+ 7453: You cannot obtain the $0. Come back again after sorting your inventory.
+ 7454: Ungh...! You fight well for your si-ize! But can your soft flesh withsta-and the fury of my mighty axe!?
+ 7455: There is nothing out of the ordinary here.
+ 7456: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7457: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7458: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7459: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7460: Now, listen close...
+ 7461: Oh... Well, if that's the case, I'm outta here.
+ 7462: The Goblin slipped away when you were not looking...
+ 7463: You can hear a strange, raspy voice...
+ 7464: I travel......hear lots... Hear...stories... Can tell...if...
+ 7465: .........listen......
+ 7466: Oh...... ...outta here.........
+ 7467: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7468: What story would you like to be told? [On second thought, maybe later./An Affable Adamantking?(pt.1)./An Affable Adamantking?(pt.2)./An Affable Adamantking?(pt.3)./An Affable Adamantking?(pt.4)./An Affable Adamantking?(pt.5)./An Affable Adamantking?(pt.6)./Mixed Signals./Magicite(pt.1)./Magicite(pt.2).]
  7469: 
  7470: 
- 7471: I can't believe you came this far in...
+ 7471: 
  7472: I can't believe you came this far in...
  7473: I can't believe you came this far in...
  7474: I can't believe you came this far in...
@@ -7484,19 +7484,19 @@
  7480: I can't believe you came this far in...
  7481: I can't believe you came this far in...
  7482: I can't believe you came this far in...
- 7483: Now! Run for it!
+ 7483: I can't believe you came this far in...
  7484: Now! Run for it!
  7485: Now! Run for it!
- 7486: Now's your chance! Run!
- 7487: Now! Run for it!
+ 7486: Now! Run for it!
+ 7487: Now's your chance! Run!
  7488: Now! Run for it!
  7489: Now! Run for it!
  7490: Now! Run for it!
  7491: Now! Run for it!
  7492: Now! Run for it!
- 7493: Now's your chance! Run!
+ 7493: Now! Run for it!
  7494: Now's your chance! Run!
- 7495: Phew. Are you okay, <Player>?
+ 7495: Now's your chance! Run!
  7496: Phew. Are you okay, <Player>?
  7497: Phew. Are you okay, <Player>?
  7498: Phew. Are you okay, <Player>?
@@ -7508,19 +7508,19 @@
  7504: Phew. Are you okay, <Player>?
  7505: Phew. Are you okay, <Player>?
  7506: Phew. Are you okay, <Player>?
- 7507: When I heard where you were headed for, I came straight away.
+ 7507: Phew. Are you okay, <Player>?
  7508: When I heard where you were headed for, I came straight away.
  7509: When I heard where you were headed for, I came straight away.
- 7510: When I heard where you were headed for, I came as soon as I could.
- 7511: When I heard where you were headed for, I came straight away.
+ 7510: When I heard where you were headed for, I came straight away.
+ 7511: When I heard where you were headed for, I came as soon as I could.
  7512: When I heard where you were headed for, I came straight away.
  7513: When I heard where you were headed for, I came straight away.
  7514: When I heard where you were headed for, I came straight away.
  7515: When I heard where you were headed for, I came straight away.
  7516: When I heard where you were headed for, I came straight away.
- 7517: When I heard where you were headed for, I came as soon as I could.
- 7518: When I heard where you were headed for, I came straight away.
- 7519: So, where did <Player> go, anyway?
+ 7517: When I heard where you were headed for, I came straight away.
+ 7518: When I heard where you were headed for, I came as soon as I could.
+ 7519: When I heard where you were headed for, I came straight away.
  7520: So, where did <Player> go, anyway?
  7521: So, where did <Player> go, anyway?
  7522: So, where did <Player> go, anyway?
@@ -7532,8 +7532,8 @@
  7528: So, where did <Player> go, anyway?
  7529: So, where did <Player> go, anyway?
  7530: So, where did <Player> go, anyway?
- 7531: [He/She] should be on [his/her] way to Beadeaux. When I said you were waiting for [him/her] there, [he/she] left immediately.
- 7532: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
+ 7531: So, where did <Player> go, anyway?
+ 7532: [He/She] should be on [his/her] way to Beadeaux. When I said you were waiting for [him/her] there, [he/she] left immediately.
  7533: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
  7534: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
  7535: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
@@ -7545,21 +7545,21 @@
  7541: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
  7542: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
  7543: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
- 7544: When you're dealing with an adventurer of <Player>'s stature, you gotta make things difficult if you want to slow [him/her] down.
- 7545: And <Player> knows better than to try anything too rrrisky.
- 7546: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
+ 7544: What!? That's a beastman stronghold! Why would you send [him/her] to such a dangerous place!?
+ 7545: When you're dealing with an adventurer of <Player>'s stature, you gotta make things difficult if you want to slow [him/her] down.
+ 7546: And <Player> knows better than to try anything too rrrisky.
  7547: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
  7548: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
- 7549: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have ventured...
- 7550: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
+ 7549: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
+ 7550: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have ventured...
  7551: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
  7552: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
  7553: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
  7554: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
  7555: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
- 7556: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have ventured...
- 7557: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
- 7558: Luto lied when she said I was waiting for you here.
+ 7556: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
+ 7557: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have ventured...
+ 7558: I don't know--this is <Player> we're talking about here. Who knows how far in [he/she] might have gone...
  7559: Luto lied when she said I was waiting for you here.
  7560: Luto lied when she said I was waiting for you here.
  7561: Luto lied when she said I was waiting for you here.
@@ -7571,15 +7571,16 @@
  7567: Luto lied when she said I was waiting for you here.
  7568: Luto lied when she said I was waiting for you here.
  7569: Luto lied when she said I was waiting for you here.
- 7570: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
+ 7570: Luto lied when she said I was waiting for you here.
  7571: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
  7572: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
- 7573: Of course, there's a reason for her deception. We can discuss that once we're safe back in Jeuno.
- 7574: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
+ 7573: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
+ 7574: Of course, there's a reason for her deception. We can discuss that once we're safe back in Jeuno.
  7575: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
  7576: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
  7577: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
  7578: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
  7579: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
- 7580: Of course, there's a reason for her deception. We can discuss that once we're safe back in Jeuno.
- 7581: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
+ 7580: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.
+ 7581: Of course, there's a reason for her deception. We can discuss that once we're safe back in Jeuno.
+ 7582: Of course, there's a reason why she deceived you. Let's talk about it once we're safe back in Jeuno.

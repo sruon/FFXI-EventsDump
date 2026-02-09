@@ -27,11 +27,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00B5      |         181 |
-|       1 | 0x1C9E      |        7326 |
+|       1 | 0x1C9F      |        7327 |
 
 ## String References
 
-- **7326**: Do not come any closer!
+- **7327**: Do not come any closer!
 
 ## Events
 
@@ -217,7 +217,7 @@
 #### Opcodes
 
 ```
-  0: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
+  0: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
     → "Do not come any closer!"
   1: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0048 [0x00] END_REQSTACK()

@@ -32,93 +32,93 @@
 |       9 | 0x0014      |          20 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x2C9A      |       11418 |
+|      12 | 0x2C9B      |       11419 |
 |      13 | 0x0001      |           1 |
 |      14 | 0x0002      |           2 |
 |      15 | 0x0603      |        1539 |
-|      16 | 0x2C9B      |       11419 |
-|      17 | 0x2C9C      |       11420 |
-|      18 | 0x2C9D      |       11421 |
-|      19 | 0x2C9E      |       11422 |
+|      16 | 0x2C9C      |       11420 |
+|      17 | 0x2C9D      |       11421 |
+|      18 | 0x2C9E      |       11422 |
+|      19 | 0x2C9F      |       11423 |
 |      20 | 0x40000000  |  1073741824 |
-|      21 | 0x2C9F      |       11423 |
+|      21 | 0x2CA0      |       11424 |
 |      22 | 0x070D      |        1805 |
-|      23 | 0x2D1A      |       11546 |
-|      24 | 0x2D1B      |       11547 |
+|      23 | 0x2D1B      |       11547 |
+|      24 | 0x2D1C      |       11548 |
 |      25 | 0x000F      |          15 |
-|      26 | 0x2CA2      |       11426 |
+|      26 | 0x2CA3      |       11427 |
 |      27 | 0x0010      |          16 |
 |      28 | 0x0017      |          23 |
 |      29 | 0x0018      |          24 |
 |      30 | 0x001F      |          31 |
-|      31 | 0x2CA3      |       11427 |
-|      32 | 0x2CA4      |       11428 |
-|      33 | 0x2CA5      |       11429 |
+|      31 | 0x2CA4      |       11428 |
+|      32 | 0x2CA5      |       11429 |
+|      33 | 0x2CA6      |       11430 |
 |      34 | 0x070E      |        1806 |
-|      35 | 0x2CA6      |       11430 |
-|      36 | 0x2D1E      |       11550 |
-|      37 | 0x2CA8      |       11432 |
-|      38 | 0x2CAB      |       11435 |
-|      39 | 0x2CAD      |       11437 |
-|      40 | 0x2CB0      |       11440 |
+|      35 | 0x2CA7      |       11431 |
+|      36 | 0x2D1F      |       11551 |
+|      37 | 0x2CA9      |       11433 |
+|      38 | 0x2CAC      |       11436 |
+|      39 | 0x2CAE      |       11438 |
+|      40 | 0x2CB1      |       11441 |
 |      41 | 0x000C      |          12 |
 |      42 | 0x0024      |          36 |
 |      43 | 0x0009      |           9 |
-|      44 | 0x2CA7      |       11431 |
+|      44 | 0x2CA8      |       11432 |
 |      45 | 0x0064      |         100 |
-|      46 | 0x2CA9      |       11433 |
-|      47 | 0x2CAA      |       11434 |
-|      48 | 0x2CB2      |       11442 |
-|      49 | 0x2CAE      |       11438 |
-|      50 | 0x2CB5      |       11445 |
-|      51 | 0x2CB6      |       11446 |
-|      52 | 0x2CB7      |       11447 |
-|      53 | 0x2CB8      |       11448 |
-|      54 | 0x2CB9      |       11449 |
-|      55 | 0x2CBD      |       11453 |
-|      56 | 0x2CBE      |       11454 |
-|      57 | 0x2CBF      |       11455 |
-|      58 | 0x2CC0      |       11456 |
-|      59 | 0x2CC1      |       11457 |
-|      60 | 0x2CC2      |       11458 |
-|      61 | 0x2CC3      |       11459 |
+|      46 | 0x2CAA      |       11434 |
+|      47 | 0x2CAB      |       11435 |
+|      48 | 0x2CB3      |       11443 |
+|      49 | 0x2CAF      |       11439 |
+|      50 | 0x2CB6      |       11446 |
+|      51 | 0x2CB7      |       11447 |
+|      52 | 0x2CB8      |       11448 |
+|      53 | 0x2CB9      |       11449 |
+|      54 | 0x2CBA      |       11450 |
+|      55 | 0x2CBE      |       11454 |
+|      56 | 0x2CBF      |       11455 |
+|      57 | 0x2CC0      |       11456 |
+|      58 | 0x2CC1      |       11457 |
+|      59 | 0x2CC2      |       11458 |
+|      60 | 0x2CC3      |       11459 |
+|      61 | 0x2CC4      |       11460 |
 |      62 | 0x016E      |         366 |
-|      63 | 0x2CC4      |       11460 |
-|      64 | 0x2CC5      |       11461 |
-|      65 | 0x2CC6      |       11462 |
-|      66 | 0x2CC7      |       11463 |
-|      67 | 0x2CC8      |       11464 |
-|      68 | 0x2CC9      |       11465 |
-|      69 | 0x2CCA      |       11466 |
-|      70 | 0x2CCB      |       11467 |
-|      71 | 0x2CCC      |       11468 |
-|      72 | 0x2CCD      |       11469 |
-|      73 | 0x2CCE      |       11470 |
-|      74 | 0x2CCF      |       11471 |
+|      63 | 0x2CC5      |       11461 |
+|      64 | 0x2CC6      |       11462 |
+|      65 | 0x2CC7      |       11463 |
+|      66 | 0x2CC8      |       11464 |
+|      67 | 0x2CC9      |       11465 |
+|      68 | 0x2CCA      |       11466 |
+|      69 | 0x2CCB      |       11467 |
+|      70 | 0x2CCC      |       11468 |
+|      71 | 0x2CCD      |       11469 |
+|      72 | 0x2CCE      |       11470 |
+|      73 | 0x2CCF      |       11471 |
+|      74 | 0x2CD0      |       11472 |
 |      75 | 0x0D6A      |        3434 |
-|      76 | 0x2CD0      |       11472 |
-|      77 | 0x2CD1      |       11473 |
-|      78 | 0x2CD2      |       11474 |
-|      79 | 0x2CD3      |       11475 |
-|      80 | 0x2CD4      |       11476 |
-|      81 | 0x2CD5      |       11477 |
-|      82 | 0x2CD6      |       11478 |
-|      83 | 0x2CD7      |       11479 |
-|      84 | 0x2CD8      |       11480 |
-|      85 | 0x2CD9      |       11481 |
-|      86 | 0x2CDA      |       11482 |
+|      76 | 0x2CD1      |       11473 |
+|      77 | 0x2CD2      |       11474 |
+|      78 | 0x2CD3      |       11475 |
+|      79 | 0x2CD4      |       11476 |
+|      80 | 0x2CD5      |       11477 |
+|      81 | 0x2CD6      |       11478 |
+|      82 | 0x2CD7      |       11479 |
+|      83 | 0x2CD8      |       11480 |
+|      84 | 0x2CD9      |       11481 |
+|      85 | 0x2CDA      |       11482 |
+|      86 | 0x2CDB      |       11483 |
 |      87 | 0x06EE      |        1774 |
-|      88 | 0x2CDB      |       11483 |
-|      89 | 0x2CDC      |       11484 |
-|      90 | 0x2CDD      |       11485 |
-|      91 | 0x2CDE      |       11486 |
-|      92 | 0x2CDF      |       11487 |
-|      93 | 0x2CE0      |       11488 |
-|      94 | 0x2CE1      |       11489 |
-|      95 | 0x2CE2      |       11490 |
-|      96 | 0x2CE3      |       11491 |
-|      97 | 0x2CE4      |       11492 |
-|      98 | 0x2CE5      |       11493 |
+|      88 | 0x2CDC      |       11484 |
+|      89 | 0x2CDD      |       11485 |
+|      90 | 0x2CDE      |       11486 |
+|      91 | 0x2CDF      |       11487 |
+|      92 | 0x2CE0      |       11488 |
+|      93 | 0x2CE1      |       11489 |
+|      94 | 0x2CE2      |       11490 |
+|      95 | 0x2CE3      |       11491 |
+|      96 | 0x2CE4      |       11492 |
+|      97 | 0x2CE5      |       11493 |
+|      98 | 0x2CE6      |       11494 |
 |      99 | 0x0011      |          17 |
 |     100 | 0x0012      |          18 |
 |     101 | 0x0013      |          19 |
@@ -247,74 +247,74 @@
 
 ## String References
 
-- **11418**: You feel a mysterious energy seeping forth from an unknown source...
-- **11419**: The $3 resonates with the $3. You may commence the Voidwatch operation at will.
-- **11420**: A Voidwatch operation could be initiated if only you had $6 and $6...
-- **11421**: However, your presence does not seem to elicit a reaction.
-- **11422**: What will you do? [Nothing./Initiate Voidwatch operation./View alignment values./Examine atmacite./Read up on the Voidwatch.]
-- **11423**: Use $6? [Yes./No.]
-- **11426**: Current Spectral Alignment Blue: +$0% (reward quantity) Red: +$1% (reward quality)
-- **11427**: Yellow: +$0% (experience yield) Green: +$1% (cruor yield)
-- **11428**: Alignment bonuses granted by ascent items will be added to the final value.
-- **11429**: You can infuse up to $0 atmacite at this time.
-- **11430**: What will you do? [Nothing for now./Infused: $3 (Lv.$1)/Infused: $3 (Lv.$3)/Infused: $3 (Lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
-- **11431**: Infuse which atmacite? (Cruor: $24) [None for now./3 (Lv.$1)/$3 (Lv.$3)/$3 (Lv.$5)/$3 (Lv.$7)/$3 (Lv.$9)/$3 (Lv.$11)/$3 (Lv.$13)/$3 (Lv.$15)/$3 (Lv.$17)/$3 (Lv.$19)/$3 (Lv.$21)/$3 (Lv.$23)/Previous page./Next page.]
-- **11432**: The $3 (Lv.$1) bestows the following bonuses:
-- **11433**: Infusing the $3 (Lv.$1) requires $2 cruor.
-- **11434**: Infuse $3 (Lv.$1)? [Yes./No.]
-- **11435**: Replace $3 (Lv.$1)? [Yes./No.]
-- **11437**: [Infuse/Purge] which atmacite? [None for now./$3 (Lv.$2)/$3 (Lv.$4)/$3 (Lv.$6)]
-- **11438**: Purge $3 (Lv.$1)? [Yes./No.]
-- **11440**: Purge $3 (Lv.$1)? [Yes./No.]
-- **11442**: You do not have enough cruor.
-- **11445**: You do not possess any atmacite capable of enrichment.
-- **11446**: Enrich which atmacite? (Cruor: $$) [None for now./3 (Lv.$1): $2/$3 (Lv.$4): $5/$3 (Lv.$7): $8/$3 (Lv.$10): $11/$3 (Lv.$13): $14/$3 (Lv.$16): $17/$3 (Lv.$19): $20/$3 (Lv.$22): $23/$3 (Lv.$25): $26/$3 (Lv.$28): $29/$3 (Lv.$31): $ /$3 (Lv.$"): $#/Previous page./Next page.]
-- **11447**: Enriching the $3 will produce the following:
-- **11448**: Enriching the $3 from level $1 to level $2 requires $3 cruor.
-- **11449**: Enrich $3? [Yes./No.]
-- **11453**: Read up on what? [Nothing for now./Voidwatch Ops./How to participate./5./Stratum abyssite./Alignment./Atmacite./Periapt.]
-- **11454**: The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called "Voidwalkers." Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos.
-- **11455**: Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized. This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched.
-- **11456**: Such efforts to stem the rise of Voidwalkers, collectively dubbed "Voidwatch Operations," or "Ops" for short, take place in the vicinity of planar rifts--weak points in the fabric of space.
-- **11457**: A single person may initiate a Voidwatch operation, at which time "Voidwatcher" status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker.
-- **11458**: Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status.
-- **11459**: Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world. Such is the arduous nature of transdimensional encounters.
-- **11460**: Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift.
-- **11461**: Only one person needs to be in possession of these objects for all party and alliance members to participate.
-- **11462**: However, there exists a number of participation conditions that must be observed.
-- **11463**: When an operation commences, a single voidstone will be expended for all who possess it. These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle.
-- **11464**: Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain.
-- **11465**: The "voidstone" is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible.
-- **11466**: Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation. Those without one, however, will find their spoils limited in both quantity and quality.
-- **11467**: As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory.
-- **11468**: Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals.
-- **11469**: Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts.
-- **11470**: After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined.
-- **11471**: Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development.
-- **11472**: Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum.
-- **11473**: While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers.
-- **11474**: Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as "ascent items."
-- **11475**: Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation.
-- **11476**: Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items.
-- **11477**: Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage.
-- **11478**: Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected.
-- **11479**: The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield.
-- **11480**: The precise workings of each light can be reviewed when examining your current alignment values.
-- **11481**: Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils.
-- **11482**: Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle.
-- **11483**: Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts. By infusing atmacite to one's body using $6, it is possible to enhance one's battle prowess.
-- **11484**: Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation.
-- **11485**: Atmacite is resilient and will not be expended in the infusion process.
-- **11486**: Furthermore, infused atmacite will remain in place until voluntarily purged.
-- **11487**: As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time.
-- **11488**: Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite.
-- **11489**: Atmacite can be enriched in stages to a maximum of level $0.
-- **11490**: All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death.
-- **11491**: Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune.
-- **11492**: Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy.
-- **11493**: Although their acquisition can only be described as arduous, the benefits make them well worth the effort.
-- **11546**: Use $6? [Yes, use with $5./Yes./No.]
-- **11547**: How many $5 will you use? [None./One./Two./Three./Four./Five.]
+- **11419**: You feel a mysterious energy seeping forth from an unknown source...
+- **11420**: The $3 resonates with the $3. You may commence the Voidwatch operation at will.
+- **11421**: A Voidwatch operation could be initiated if only you had $6 and $6...
+- **11422**: However, your presence does not seem to elicit a reaction.
+- **11423**: What will you do? [Nothing./Initiate Voidwatch operation./View alignment values./Examine atmacite./Read up on the Voidwatch.]
+- **11424**: Use $6? [Yes./No.]
+- **11427**: Current Spectral Alignment Blue: +$0% (reward quantity) Red: +$1% (reward quality)
+- **11428**: Yellow: +$0% (experience yield) Green: +$1% (cruor yield)
+- **11429**: Alignment bonuses granted by ascent items will be added to the final value.
+- **11430**: You can infuse up to $0 atmacite at this time.
+- **11431**: What will you do? [Nothing for now./Infused: $3 (Lv.$1)/Infused: $3 (Lv.$3)/Infused: $3 (Lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
+- **11432**: Infuse which atmacite? (Cruor: $24) [None for now./3 (Lv.$1)/$3 (Lv.$3)/$3 (Lv.$5)/$3 (Lv.$7)/$3 (Lv.$9)/$3 (Lv.$11)/$3 (Lv.$13)/$3 (Lv.$15)/$3 (Lv.$17)/$3 (Lv.$19)/$3 (Lv.$21)/$3 (Lv.$23)/Previous page./Next page.]
+- **11433**: The $3 (Lv.$1) bestows the following bonuses:
+- **11434**: Infusing the $3 (Lv.$1) requires $2 cruor.
+- **11435**: Infuse $3 (Lv.$1)? [Yes./No.]
+- **11436**: Replace $3 (Lv.$1)? [Yes./No.]
+- **11438**: [Infuse/Purge] which atmacite? [None for now./$3 (Lv.$2)/$3 (Lv.$4)/$3 (Lv.$6)]
+- **11439**: Purge $3 (Lv.$1)? [Yes./No.]
+- **11441**: Purge $3 (Lv.$1)? [Yes./No.]
+- **11443**: You do not have enough cruor.
+- **11446**: You do not possess any atmacite capable of enrichment.
+- **11447**: Enrich which atmacite? (Cruor: $$) [None for now./3 (Lv.$1): $2/$3 (Lv.$4): $5/$3 (Lv.$7): $8/$3 (Lv.$10): $11/$3 (Lv.$13): $14/$3 (Lv.$16): $17/$3 (Lv.$19): $20/$3 (Lv.$22): $23/$3 (Lv.$25): $26/$3 (Lv.$28): $29/$3 (Lv.$31): $ /$3 (Lv.$"): $#/Previous page./Next page.]
+- **11448**: Enriching the $3 will produce the following:
+- **11449**: Enriching the $3 from level $1 to level $2 requires $3 cruor.
+- **11450**: Enrich $3? [Yes./No.]
+- **11454**: Read up on what? [Nothing for now./Voidwatch Ops./How to participate./5./Stratum abyssite./Alignment./Atmacite./Periapt.]
+- **11455**: The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called "Voidwalkers." Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos.
+- **11456**: Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized. This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched.
+- **11457**: Such efforts to stem the rise of Voidwalkers, collectively dubbed "Voidwatch Operations," or "Ops" for short, take place in the vicinity of planar rifts--weak points in the fabric of space.
+- **11458**: A single person may initiate a Voidwatch operation, at which time "Voidwatcher" status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker.
+- **11459**: Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status.
+- **11460**: Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world. Such is the arduous nature of transdimensional encounters.
+- **11461**: Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift.
+- **11462**: Only one person needs to be in possession of these objects for all party and alliance members to participate.
+- **11463**: However, there exists a number of participation conditions that must be observed.
+- **11464**: When an operation commences, a single voidstone will be expended for all who possess it. These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle.
+- **11465**: Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain.
+- **11466**: The "voidstone" is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible.
+- **11467**: Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation. Those without one, however, will find their spoils limited in both quantity and quality.
+- **11468**: As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory.
+- **11469**: Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals.
+- **11470**: Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts.
+- **11471**: After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined.
+- **11472**: Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development.
+- **11473**: Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum.
+- **11474**: While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers.
+- **11475**: Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as "ascent items."
+- **11476**: Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation.
+- **11477**: Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items.
+- **11478**: Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage.
+- **11479**: Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected.
+- **11480**: The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield.
+- **11481**: The precise workings of each light can be reviewed when examining your current alignment values.
+- **11482**: Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils.
+- **11483**: Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle.
+- **11484**: Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts. By infusing atmacite to one's body using $6, it is possible to enhance one's battle prowess.
+- **11485**: Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation.
+- **11486**: Atmacite is resilient and will not be expended in the infusion process.
+- **11487**: Furthermore, infused atmacite will remain in place until voluntarily purged.
+- **11488**: As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time.
+- **11489**: Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite.
+- **11490**: Atmacite can be enriched in stages to a maximum of level $0.
+- **11491**: All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death.
+- **11492**: Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune.
+- **11493**: Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy.
+- **11494**: Although their acquisition can only be described as arduous, the benefits make them well worth the effort.
+- **11547**: Use $6? [Yes, use with $5./Yes./No.]
+- **11548**: How many $5 will you use? [None./One./Two./Three./Four./Five.]
 
 ## Events
 
@@ -1565,7 +1565,7 @@
  84: 0x01C2 [0x41] ExtData[1]->WorkLocal[26] = Work_Zone[6] (bits 8*-11*)
  85: 0x01CB [0x03] ExtData[1]->WorkLocal[27] = Work_Zone[7]
  86: 0x01D0 [0x03] ExtData[1]->WorkLocal[28] = Work_Zone[8]
- 87: 0x01D5 [0x48] [System] [11418*]:
+ 87: 0x01D5 [0x48] [System] [11419*]:
     → "You feel a mysterious energy seeping forth from an unknown source..."
  88: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x01D9 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[17] (bits 1*-1*)
@@ -1581,14 +1581,14 @@
  99: 0x021C [0x03] Work_Zone[3] = Work_Zone[9]
 
 SUBROUTINE_0221:
-100: 0x0221 [0x48] [System] [11419*]:
+100: 0x0221 [0x48] [System] [11420*]:
     → "The $3 resonates with the $3. You may commence the Voidwatch operation at will."
 101: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0225 [0x01] GOTO 0x0239
 103: 0x0228 [0x03] Work_Zone[2] = 1539*
 104: 0x022D [0x1A] CALL_SUBROUTINE(address=0x2C83)
 105: 0x0230 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-106: 0x0235 [0x48] [System] [11420*]:
+106: 0x0235 [0x48] [System] [11421*]:
     → "A Voidwatch operation could be initiated if only you had $6 and $6..."
 107: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1599,12 +1599,12 @@ SUBROUTINE_0239:
 111: 0x024D [0x03] Work_Zone[2] = 1539*
 112: 0x0252 [0x1A] CALL_SUBROUTINE(address=0x2C83)
 113: 0x0255 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-114: 0x025A [0x48] [System] [11420*]:
+114: 0x025A [0x48] [System] [11421*]:
     → "A Voidwatch operation could be initiated if only you had $6 and $6..."
 115: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x025E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=1*, condition_work_offset=1*)
 117: 0x0265 [0x01] GOTO 0x0271
-118: 0x0268 [0x48] [System] [11421*]:
+118: 0x0268 [0x48] [System] [11422*]:
     → "However, your presence does not seem to elicit a reaction."
 119: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x026C [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -1625,7 +1625,7 @@ SUBROUTINE_0271:
 
 SUBROUTINE_02B3:
 133: 0x02B3 [0x02] IF !(ExtData[1]->WorkLocal[2] <= 0*) GOTO 0x1C39
-134: 0x02BB [0x24] CREATE_DIALOG(message_id=11422*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+134: 0x02BB [0x24] CREATE_DIALOG(message_id=11423*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "What will you do? [Nothing./Initiate Voidwatch operation./View alignment values./Examine atmacite./Read up on the Voidwatch.]"
 135: 0x02C2 [0x25] WAIT_DIALOG_SELECT()
 136: 0x02C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D6
@@ -1640,7 +1640,7 @@ SUBROUTINE_02E3:
 143: 0x02EB [0x02] IF !(Work_Zone_1700[29] == 0*) GOTO 0x032B
 144: 0x02F3 [0x06] ExtData[1]->WorkLocal[16] = 0
 145: 0x02F6 [0x03] Work_Zone[2] = 1539*
-146: 0x02FB [0x24] CREATE_DIALOG(message_id=11423*, default_option=1*, option_flags=0*)
+146: 0x02FB [0x24] CREATE_DIALOG(message_id=11424*, default_option=1*, option_flags=0*)
     → "Use $6? [Yes./No.]"
 147: 0x0302 [0x25] WAIT_DIALOG_SELECT()
 148: 0x0303 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x031A
@@ -1656,7 +1656,7 @@ SUBROUTINE_0328:
 156: 0x032B [0x03] Work_Zone[2] = 1539*
 157: 0x0330 [0x03] Work_Zone[3] = 1805*
 158: 0x0335 [0x03] ExtData[1]->WorkLocal[1] = 0*
-159: 0x033A [0x24] CREATE_DIALOG(message_id=11546*, default_option=2*, option_flags=0*)
+159: 0x033A [0x24] CREATE_DIALOG(message_id=11547*, default_option=2*, option_flags=0*)
     → "Use $6? [Yes, use with $5./Yes./No.]"
 160: 0x0341 [0x25] WAIT_DIALOG_SELECT()
 161: 0x0342 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04A1
@@ -1686,7 +1686,7 @@ SUBROUTINE_0328:
 
 SUBROUTINE_03D7:
 185: 0x03D7 [0x03] Work_Zone[2] = 1805*
-186: 0x03DC [0x24] CREATE_DIALOG(message_id=11547*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+186: 0x03DC [0x24] CREATE_DIALOG(message_id=11548*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "How many $5 will you use? [None./One./Two./Three./Four./Five.]"
 187: 0x03E3 [0x25] WAIT_DIALOG_SELECT()
 188: 0x03E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03EF
@@ -1741,7 +1741,7 @@ SUBROUTINE_04C9:
 233: 0x04E0 [0x14] Work_Zone[2] *= 5*
 234: 0x04E5 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[27] (bits 8*-15*)
 235: 0x04EE [0x14] Work_Zone[3] *= 5*
-236: 0x04F3 [0x48] [System] [11426*]:
+236: 0x04F3 [0x48] [System] [11427*]:
     → "Current Spectral Alignment Blue: +$0% (reward quantity) Red: +$1% (reward quality)"
 237: 0x04F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x04F7 [0x03] Work_Zone[2] = 0*
@@ -1749,16 +1749,16 @@ SUBROUTINE_04C9:
 240: 0x0505 [0x14] Work_Zone[2] *= 5*
 241: 0x050A [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[27] (bits 24*-31*)
 242: 0x0513 [0x14] Work_Zone[3] *= 5*
-243: 0x0518 [0x48] [System] [11427*]:
+243: 0x0518 [0x48] [System] [11428*]:
     → "Yellow: +$0% (experience yield) Green: +$1% (cruor yield)"
 244: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
-245: 0x051C [0x48] [System] [11428*]:
+245: 0x051C [0x48] [System] [11429*]:
     → "Alignment bonuses granted by ascent items will be added to the final value."
 246: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x0520 [0x01] GOTO 0x1C36
 248: 0x0523 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1AE3
 249: 0x052B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-250: 0x0530 [0x48] [System] [11429*]:
+250: 0x0530 [0x48] [System] [11430*]:
     → "You can infuse up to $0 atmacite at this time."
 251: 0x0533 [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0534 [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -1822,7 +1822,7 @@ SUBROUTINE_0650:
 302: 0x0650 [0x01] GOTO 0x0653
 
 SUBROUTINE_0653:
-303: 0x0653 [0x24] CREATE_DIALOG(message_id=11430*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+303: 0x0653 [0x24] CREATE_DIALOG(message_id=11431*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "What will you do? [Nothing for now./Infused: $3 (Lv.$1)/Infused: $3 (Lv.$3)/Infused: $3 (Lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]"
 304: 0x065A [0x25] WAIT_DIALOG_SELECT()
 305: 0x065B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x067B
@@ -1835,18 +1835,18 @@ SUBROUTINE_0653:
 312: 0x0688 [0x0C] ExtData[1]->WorkLocal[29]--
 313: 0x068B [0x14] ExtData[1]->WorkLocal[29] *= 15*
 314: 0x0690 [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[24]
-315: 0x0695 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+315: 0x0695 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 316: 0x069A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
 317: 0x069F [0x07] Work_Zone[2] += 1806*
 318: 0x06A4 [0x0C] Work_Zone[2]--
 319: 0x06A7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[24]
-320: 0x06AC [0x48] [System] [11432*]:
+320: 0x06AC [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 321: 0x06AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x06B0 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 323: 0x06B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-324: 0x06B4 [0x24] CREATE_DIALOG(message_id=11435*, default_option=0*, option_flags=0*)
+324: 0x06B4 [0x24] CREATE_DIALOG(message_id=11436*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 325: 0x06BB [0x25] WAIT_DIALOG_SELECT()
 326: 0x06BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06CF
@@ -1863,18 +1863,18 @@ SUBROUTINE_06DA:
 335: 0x06EA [0x0C] ExtData[1]->WorkLocal[29]--
 336: 0x06ED [0x14] ExtData[1]->WorkLocal[29] *= 15*
 337: 0x06F2 [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[25]
-338: 0x06F7 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+338: 0x06F7 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 339: 0x06FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
 340: 0x0701 [0x07] Work_Zone[2] += 1806*
 341: 0x0706 [0x0C] Work_Zone[2]--
 342: 0x0709 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
-343: 0x070E [0x48] [System] [11432*]:
+343: 0x070E [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 344: 0x0711 [0x23] WAIT_FOR_DIALOG_INTERACTION
 345: 0x0712 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 346: 0x0715 [0x23] WAIT_FOR_DIALOG_INTERACTION
-347: 0x0716 [0x24] CREATE_DIALOG(message_id=11435*, default_option=0*, option_flags=0*)
+347: 0x0716 [0x24] CREATE_DIALOG(message_id=11436*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 348: 0x071D [0x25] WAIT_DIALOG_SELECT()
 349: 0x071E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0731
@@ -1891,18 +1891,18 @@ SUBROUTINE_073C:
 358: 0x074C [0x0C] ExtData[1]->WorkLocal[29]--
 359: 0x074F [0x14] ExtData[1]->WorkLocal[29] *= 15*
 360: 0x0754 [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[26]
-361: 0x0759 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+361: 0x0759 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 362: 0x075E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
 363: 0x0763 [0x07] Work_Zone[2] += 1806*
 364: 0x0768 [0x0C] Work_Zone[2]--
 365: 0x076B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-366: 0x0770 [0x48] [System] [11432*]:
+366: 0x0770 [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 367: 0x0773 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0774 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 369: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
-370: 0x0778 [0x24] CREATE_DIALOG(message_id=11435*, default_option=0*, option_flags=0*)
+370: 0x0778 [0x24] CREATE_DIALOG(message_id=11436*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 371: 0x077F [0x25] WAIT_DIALOG_SELECT()
 372: 0x0780 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0793
@@ -1938,7 +1938,7 @@ SUBROUTINE_07AC:
 398: 0x0806 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=2*, condition_work_offset=1*)
 399: 0x080D [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x081C
 400: 0x0815 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=3*, condition_work_offset=1*)
-401: 0x081C [0x24] CREATE_DIALOG(message_id=11437*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+401: 0x081C [0x24] CREATE_DIALOG(message_id=11438*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "[Infuse/Purge] which atmacite? [None for now./$3 (Lv.$2)/$3 (Lv.$4)/$3 (Lv.$6)]"
 402: 0x0823 [0x25] WAIT_DIALOG_SELECT()
 403: 0x0824 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0832
@@ -1950,12 +1950,12 @@ SUBROUTINE_07AC:
 409: 0x0844 [0x0C] ExtData[1]->WorkLocal[29]--
 410: 0x0847 [0x14] ExtData[1]->WorkLocal[29] *= 15*
 411: 0x084C [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[24]
-412: 0x0851 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+412: 0x0851 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 413: 0x0856 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[21]
 414: 0x085B [0x07] Work_Zone[2] += 1806*
 415: 0x0860 [0x0C] Work_Zone[2]--
 416: 0x0863 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[24]
-417: 0x0868 [0x48] [System] [11432*]:
+417: 0x0868 [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 418: 0x086B [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x086C [0x48] [System] [ExtData[1]->WorkLocal[29]]:
@@ -1970,12 +1970,12 @@ SUBROUTINE_07AC:
 427: 0x088F [0x0C] ExtData[1]->WorkLocal[29]--
 428: 0x0892 [0x14] ExtData[1]->WorkLocal[29] *= 15*
 429: 0x0897 [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[25]
-430: 0x089C [0x07] ExtData[1]->WorkLocal[29] += 11550*
+430: 0x089C [0x07] ExtData[1]->WorkLocal[29] += 11551*
 431: 0x08A1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[22]
 432: 0x08A6 [0x07] Work_Zone[2] += 1806*
 433: 0x08AB [0x0C] Work_Zone[2]--
 434: 0x08AE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
-435: 0x08B3 [0x48] [System] [11432*]:
+435: 0x08B3 [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 436: 0x08B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x08B7 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
@@ -1990,12 +1990,12 @@ SUBROUTINE_07AC:
 445: 0x08DA [0x0C] ExtData[1]->WorkLocal[29]--
 446: 0x08DD [0x14] ExtData[1]->WorkLocal[29] *= 15*
 447: 0x08E2 [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[26]
-448: 0x08E7 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+448: 0x08E7 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 449: 0x08EC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
 450: 0x08F1 [0x07] Work_Zone[2] += 1806*
 451: 0x08F6 [0x0C] Work_Zone[2]--
 452: 0x08F9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-453: 0x08FE [0x48] [System] [11432*]:
+453: 0x08FE [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 454: 0x0901 [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x0902 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
@@ -2012,7 +2012,7 @@ SUBROUTINE_0913:
 463: 0x0928 [0x07] Work_Zone[2] += 1806*
 464: 0x092D [0x0C] Work_Zone[2]--
 465: 0x0930 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-466: 0x0935 [0x24] CREATE_DIALOG(message_id=11440*, default_option=1*, option_flags=0*)
+466: 0x0935 [0x24] CREATE_DIALOG(message_id=11441*, default_option=1*, option_flags=0*)
     → "Purge $3 (Lv.$1)? [Yes./No.]"
 467: 0x093C [0x25] WAIT_DIALOG_SELECT()
 468: 0x093D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0963
@@ -2146,7 +2146,7 @@ SUBROUTINE_0A38:
 590: 0x0C3C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=5*, condition_work_offset=1*)
 591: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[64] == ExtData[1]->WorkLocal[23]) GOTO 0x0C52
 592: 0x0C4B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=5*, condition_work_offset=1*)
-593: 0x0C52 [0x24] CREATE_DIALOG(message_id=11431*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+593: 0x0C52 [0x24] CREATE_DIALOG(message_id=11432*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Infuse which atmacite? (Cruor: $24) [None for now./3 (Lv.$1)/$3 (Lv.$3)/$3 (Lv.$5)/$3 (Lv.$7)/$3 (Lv.$9)/$3 (Lv.$11)/$3 (Lv.$13)/$3 (Lv.$15)/$3 (Lv.$17)/$3 (Lv.$19)/$3 (Lv.$21)/$3 (Lv.$23)/Previous page./Next page.]"
 594: 0x0C59 [0x25] WAIT_DIALOG_SELECT()
 595: 0x0C5A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C7A
@@ -2273,22 +2273,22 @@ SUBROUTINE_0EB1:
 714: 0x0EB9 [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x1197
 715: 0x0EC1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 716: 0x0EC6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-717: 0x0ECB [0x48] [System] [11432*]:
+717: 0x0ECB [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 718: 0x0ECE [0x23] WAIT_FOR_DIALOG_INTERACTION
-719: 0x0ECF [0x07] ExtData[1]->WorkLocal[29] += 11550*
+719: 0x0ECF [0x07] ExtData[1]->WorkLocal[29] += 11551*
 720: 0x0ED4 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 721: 0x0ED7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 722: 0x0ED8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 723: 0x0EDD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
 724: 0x0EE2 [0x03] Work_Zone[4] = 100*
-725: 0x0EE7 [0x48] [System] [11433*]:
+725: 0x0EE7 [0x48] [System] [11434*]:
     → "Infusing the $3 (Lv.$1) requires $2 cruor."
 726: 0x0EEA [0x23] WAIT_FOR_DIALOG_INTERACTION
 727: 0x0EEB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 728: 0x0EF0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-729: 0x0EF5 [0x24] CREATE_DIALOG(message_id=11434*, default_option=1*, option_flags=0*)
+729: 0x0EF5 [0x24] CREATE_DIALOG(message_id=11435*, default_option=1*, option_flags=0*)
     → "Infuse $3 (Lv.$1)? [Yes./No.]"
 730: 0x0EFC [0x25] WAIT_DIALOG_SELECT()
 731: 0x0EFD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x117A
@@ -2316,7 +2316,7 @@ SUBROUTINE_0F40:
 751: 0x0F72 [0x06] ExtData[1]->WorkLocal[4] = 0
 752: 0x0F75 [0x06] ExtData[1]->WorkLocal[2] = 0
 753: 0x0F78 [0x01] GOTO 0x0F91
-754: 0x0F7B [0x48] [System] [11442*]:
+754: 0x0F7B [0x48] [System] [11443*]:
     → "You do not have enough cruor."
 755: 0x0F7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 756: 0x0F7F [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[18] (bits 11*-16*)
@@ -2354,7 +2354,7 @@ SUBROUTINE_0F97:
 784: 0x101B [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=3*, condition_work_offset=1*)
 
 SUBROUTINE_1022:
-785: 0x1022 [0x24] CREATE_DIALOG(message_id=11437*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+785: 0x1022 [0x24] CREATE_DIALOG(message_id=11438*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "[Infuse/Purge] which atmacite? [None for now./$3 (Lv.$2)/$3 (Lv.$4)/$3 (Lv.$6)]"
 786: 0x1029 [0x25] WAIT_DIALOG_SELECT()
 787: 0x102A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1038
@@ -2365,7 +2365,7 @@ SUBROUTINE_1022:
 792: 0x1045 [0x0C] ExtData[1]->WorkLocal[29]--
 793: 0x1048 [0x14] ExtData[1]->WorkLocal[29] *= 15*
 794: 0x104D [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[24]
-795: 0x1052 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+795: 0x1052 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 796: 0x1057 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 797: 0x105A [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2377,7 +2377,7 @@ SUBROUTINE_1022:
 803: 0x1075 [0x0C] ExtData[1]->WorkLocal[29]--
 804: 0x1078 [0x14] ExtData[1]->WorkLocal[29] *= 15*
 805: 0x107D [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[25]
-806: 0x1082 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+806: 0x1082 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 807: 0x1087 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 808: 0x108A [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2389,7 +2389,7 @@ SUBROUTINE_1022:
 814: 0x10A5 [0x0C] ExtData[1]->WorkLocal[29]--
 815: 0x10A8 [0x14] ExtData[1]->WorkLocal[29] *= 15*
 816: 0x10AD [0x07] ExtData[1]->WorkLocal[29] += ExtData[1]->WorkLocal[26]
-817: 0x10B2 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+817: 0x10B2 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 818: 0x10B7 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 819: 0x10BA [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2405,7 +2405,7 @@ SUBROUTINE_10C8:
 827: 0x10E2 [0x0C] Work_Zone[2]--
 828: 0x10E5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
 829: 0x10EA [0x03] Work_Zone[4] = 1*
-830: 0x10EF [0x24] CREATE_DIALOG(message_id=11438*, default_option=1*, option_flags=0*)
+830: 0x10EF [0x24] CREATE_DIALOG(message_id=11439*, default_option=1*, option_flags=0*)
     → "Purge $3 (Lv.$1)? [Yes./No.]"
 831: 0x10F6 [0x25] WAIT_DIALOG_SELECT()
 832: 0x10F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1157
@@ -2421,7 +2421,7 @@ SUBROUTINE_10C8:
 842: 0x1135 [0x06] ExtData[1]->WorkLocal[4] = 0
 843: 0x1138 [0x06] ExtData[1]->WorkLocal[2] = 0
 844: 0x113B [0x01] GOTO 0x1154
-845: 0x113E [0x48] [System] [11442*]:
+845: 0x113E [0x48] [System] [11443*]:
     → "You do not have enough cruor."
 846: 0x1141 [0x23] WAIT_FOR_DIALOG_INTERACTION
 847: 0x1142 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[18] (bits 11*-16*)
@@ -2692,14 +2692,14 @@ SUBROUTINE_128D:
 1096: 0x16ED [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 11*) GOTO 0x1719
 1097: 0x16F4 [0x3E] IF !(ExtData[1]->WorkLocal[7] bit 12*) GOTO 0x1719
 1098: 0x16FB [0x03] ExtData[1]->WorkLocal[1] = 1*
-1099: 0x1700 [0x48] [System] [11445*]:
+1099: 0x1700 [0x48] [System] [11446*]:
     → "You do not possess any atmacite capable of enrichment."
 1100: 0x1703 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1101: 0x1704 [0x06] ExtData[1]->WorkLocal[6] = 0
 1102: 0x1707 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=10*, target=ExtData[1]->WorkLocal[18], source=0*)
 1103: 0x1710 [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=16*, target=ExtData[1]->WorkLocal[18], source=0*)
 1104: 0x1719 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x1AD7
-1105: 0x1721 [0x24] CREATE_DIALOG(message_id=11446*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+1105: 0x1721 [0x24] CREATE_DIALOG(message_id=11447*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Enrich which atmacite? (Cruor: $$) [None for now./3 (Lv.$1): $2/$3 (Lv.$4): $5/$3 (Lv.$7): $8/$3 (Lv.$10): $11/$3 (Lv.$13): $14/$3 (Lv.$16): $17/$3 (Lv.$19): $20/$3 (Lv.$22): $23/$3 (Lv.$25): $26/$3 (Lv.$28): $29/$3 (Lv.$31): $ /$3 (Lv.$"): $#/Previous page./Next page.]"
 1106: 0x1728 [0x25] WAIT_DIALOG_SELECT()
 1107: 0x1729 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x174E
@@ -2841,15 +2841,15 @@ SUBROUTINE_19CB:
 1241: 0x19D3 [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x1AD7
 1242: 0x19DB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 1243: 0x19E0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-1244: 0x19E5 [0x48] [System] [11432*]:
+1244: 0x19E5 [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 1245: 0x19E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1246: 0x19E9 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+1246: 0x19E9 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 1247: 0x19EE [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 1248: 0x19F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1249: 0x19F2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-1250: 0x19F7 [0x48] [System] [11447*]:
+1250: 0x19F7 [0x48] [System] [11448*]:
     → "Enriching the $3 will produce the following:"
 1251: 0x19FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1252: 0x19FB [0x0B] ExtData[1]->WorkLocal[29]++
@@ -2864,11 +2864,11 @@ SUBROUTINE_19CB:
 1260: 0x1A19 [0x03] ExtData[1]->WorkLocal[79] = ExtData[1]->WorkLocal[12]
 1261: 0x1A1E [0x1A] CALL_SUBROUTINE(address=0x2891)
 1262: 0x1A21 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
-1263: 0x1A26 [0x48] [System] [11448*]:
+1263: 0x1A26 [0x48] [System] [11449*]:
     → "Enriching the $3 from level $1 to level $2 requires $3 cruor."
 1264: 0x1A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1265: 0x1A2A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-1266: 0x1A2F [0x24] CREATE_DIALOG(message_id=11449*, default_option=1*, option_flags=0*)
+1266: 0x1A2F [0x24] CREATE_DIALOG(message_id=11450*, default_option=1*, option_flags=0*)
     → "Enrich $3? [Yes./No.]"
 1267: 0x1A36 [0x25] WAIT_DIALOG_SELECT()
 1268: 0x1A37 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1ABA
@@ -2909,7 +2909,7 @@ SUBROUTINE_1ADD:
 SUBROUTINE_1AEE:
 1296: 0x1AEE [0x02] IF !(ExtData[1]->WorkLocal[16] <= 0*) GOTO 0x1C33
 1297: 0x1AF6 [0x03] Work_Zone[2] = 1539*
-1298: 0x1AFB [0x24] CREATE_DIALOG(message_id=11453*, default_option=0*, option_flags=0*)
+1298: 0x1AFB [0x24] CREATE_DIALOG(message_id=11454*, default_option=0*, option_flags=0*)
     → "Read up on what? [Nothing for now./Voidwatch Ops./How to participate./5./Stratum abyssite./Alignment./Atmacite./Periapt.]"
 1299: 0x1B02 [0x25] WAIT_DIALOG_SELECT()
 1300: 0x1B03 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B11
@@ -2917,145 +2917,145 @@ SUBROUTINE_1AEE:
 1302: 0x1B0E [0x01] GOTO 0x1C30
 1303: 0x1B11 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1B39
 1304: 0x1B19 [0x03] Work_Zone[2] = 1539*
-1305: 0x1B1E [0x48] [System] [11454*]:
+1305: 0x1B1E [0x48] [System] [11455*]:
     → "The Voidwatch is a fellowship of men and women come together to defend the world from extradimensional invaders called "Voidwalkers." Driven only by an insatiable appetite for destruction, these fell horrors roam the space between dimensions, ever seeking to enter and plunge Vana'diel into chaos."
 1306: 0x1B21 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1307: 0x1B22 [0x48] [System] [11455*]:
+1307: 0x1B22 [0x48] [System] [11456*]:
     → "Faced with the risk of mass invasion, Voidwatch leaders devised a strategy wherein potential threats are preemptively neutralized. This act was made possible through the discovery of voidstones, magicked objects capable of rendering Voidwalkers visible to be summarily dispatched."
 1308: 0x1B25 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1309: 0x1B26 [0x48] [System] [11456*]:
+1309: 0x1B26 [0x48] [System] [11457*]:
     → "Such efforts to stem the rise of Voidwalkers, collectively dubbed "Voidwatch Operations," or "Ops" for short, take place in the vicinity of planar rifts--weak points in the fabric of space."
 1310: 0x1B29 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1311: 0x1B2A [0x48] [System] [11457*]:
+1311: 0x1B2A [0x48] [System] [11458*]:
     → "A single person may initiate a Voidwatch operation, at which time "Voidwatcher" status will be bestowed upon all qualifying party and alliance members, allowing them to commence battle with the target Voidwalker."
 1312: 0x1B2D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1313: 0x1B2E [0x48] [System] [11458*]:
+1313: 0x1B2E [0x48] [System] [11459*]:
     → "Voidwatch Ops are subject to a time limit. Exceed this limit and Voidwatcher status will be revoked for all involved, bringing the confrontation to an end. Individuals straying too far from the site of battle, too, will find themselves relieved of the status."
 1314: 0x1B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1315: 0x1B32 [0x48] [System] [11459*]:
+1315: 0x1B32 [0x48] [System] [11460*]:
     → "Know also that those who take on the burden of the Voidwatcher become temporarily isolated and unable to receive aid from the outside world. Such is the arduous nature of transdimensional encounters."
 1316: 0x1B35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1317: 0x1B36 [0x01] GOTO 0x1C30
 1318: 0x1B39 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1B67
 1319: 0x1B41 [0x03] Work_Zone[2] = 366*
 1320: 0x1B46 [0x03] Work_Zone[3] = 1539*
-1321: 0x1B4B [0x48] [System] [11460*]:
+1321: 0x1B4B [0x48] [System] [11461*]:
     → "Initiating a Voidwatch operation requires a voidstone, as well as a stratum abyssite attuned to a particular planar rift."
 1322: 0x1B4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1323: 0x1B4F [0x03] Work_Zone[2] = 1539*
-1324: 0x1B54 [0x48] [System] [11461*]:
+1324: 0x1B54 [0x48] [System] [11462*]:
     → "Only one person needs to be in possession of these objects for all party and alliance members to participate."
 1325: 0x1B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1326: 0x1B58 [0x48] [System] [11462*]:
+1326: 0x1B58 [0x48] [System] [11463*]:
     → "However, there exists a number of participation conditions that must be observed."
 1327: 0x1B5B [0x23] WAIT_FOR_DIALOG_INTERACTION
-1328: 0x1B5C [0x48] [System] [11463*]:
+1328: 0x1B5C [0x48] [System] [11464*]:
     → "When an operation commences, a single voidstone will be expended for all who possess it. These combatants will have the opportunity to improve their spoils by manipulating spectral alignment values during battle."
 1329: 0x1B5F [0x23] WAIT_FOR_DIALOG_INTERACTION
-1330: 0x1B60 [0x48] [System] [11464*]:
+1330: 0x1B60 [0x48] [System] [11465*]:
     → "Conversely, those not possessing their own voidstone will be limited in the spoils they can obtain."
 1331: 0x1B63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1332: 0x1B64 [0x01] GOTO 0x1C30
 1333: 0x1B67 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1B87
 1334: 0x1B6F [0x03] Work_Zone[2] = 1539*
-1335: 0x1B74 [0x48] [System] [11465*]:
+1335: 0x1B74 [0x48] [System] [11466*]:
     → "The "voidstone" is a magicked object which, when coupled with stratum abyssite, is capable of rendering Voidwalkers visible."
 1336: 0x1B77 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1337: 0x1B78 [0x48] [System] [11466*]:
+1337: 0x1B78 [0x48] [System] [11467*]:
     → "Only a single combatant need possess a voidstone to allow all party and alliance members to participate in a Voidwatch operation. Those without one, however, will find their spoils limited in both quantity and quality."
 1338: 0x1B7B [0x23] WAIT_FOR_DIALOG_INTERACTION
-1339: 0x1B7C [0x48] [System] [11467*]:
+1339: 0x1B7C [0x48] [System] [11468*]:
     → "As a single voidstone is automatically expended when the battle commences, it is recommended that you keep stock of your inventory."
 1340: 0x1B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
-1341: 0x1B80 [0x48] [System] [11468*]:
+1341: 0x1B80 [0x48] [System] [11469*]:
     → "Those wishing to obtain the stones should speak to a Voidwatch officer, who is charged with issuing a set quantity at fixed intervals."
 1342: 0x1B83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1343: 0x1B84 [0x01] GOTO 0x1C30
 1344: 0x1B87 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1BA3
-1345: 0x1B8F [0x48] [System] [11469*]:
+1345: 0x1B8F [0x48] [System] [11470*]:
     → "Stratum abyssite are dynamic stones capable of evolution. By absorbing the energies emitted by felled Voidwalkers, they become attuned with other planar rifts."
 1346: 0x1B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1347: 0x1B93 [0x03] Work_Zone[2] = 1539*
-1348: 0x1B98 [0x48] [System] [11470*]:
+1348: 0x1B98 [0x48] [System] [11471*]:
     → "After defeating your quarry, present your stone to an atmacite refiner--specialists in the study of otherworld geology--to have its properties determined."
 1349: 0x1B9B [0x23] WAIT_FOR_DIALOG_INTERACTION
-1350: 0x1B9C [0x48] [System] [11471*]:
+1350: 0x1B9C [0x48] [System] [11472*]:
     → "Stratum abyssite growth occurs independently of voidstones, and the latter is not required to trigger development."
 1351: 0x1B9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1352: 0x1BA0 [0x01] GOTO 0x1C30
 1353: 0x1BA3 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1BE4
 1354: 0x1BAB [0x03] Work_Zone[2] = 3434*
-1355: 0x1BB0 [0x48] [System] [11472*]:
+1355: 0x1BB0 [0x48] [System] [11473*]:
     → "Each dimension is composed of its own existential spectrum to which objects of that world are aligned. The act of rendering a Voidwalker visible is essentially an act of aligning oneself to its existential spectrum."
 1356: 0x1BB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1357: 0x1BB4 [0x48] [System] [11473*]:
+1357: 0x1BB4 [0x48] [System] [11474*]:
     → "While Voidwatchers are able to, for all practical purposes, interact with such creatures, they in fact fall short of full alignment. Symptoms of this imperfect state can be observed in the limited quantity and quality of spoils normally yielded by Voidwalkers."
 1358: 0x1BB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1359: 0x1BB8 [0x03] Work_Zone[2] = 3434*
-1360: 0x1BBD [0x48] [System] [11474*]:
+1360: 0x1BBD [0x48] [System] [11475*]:
     → "Compensating measures, however, exist which allow combatants to more closely attune themselves with their extradimensional foe. One such method involves the use of alignment-enhancing artifacts known as "ascent items.""
 1361: 0x1BC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1362: 0x1BC1 [0x48] [System] [11475*]:
+1362: 0x1BC1 [0x48] [System] [11476*]:
     → "Alignment values raised through ascent items will remain in place until such time as a riftworn pyxis is opened at the end of a successful operation."
 1363: 0x1BC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1364: 0x1BC5 [0x48] [System] [11476*]:
+1364: 0x1BC5 [0x48] [System] [11477*]:
     → "Those participating in Voidwatch Ops are recommended to plan ahead in order to make effective use of ascent items."
 1365: 0x1BC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1366: 0x1BC9 [0x48] [System] [11477*]:
+1366: 0x1BC9 [0x48] [System] [11478*]:
     → "Alignment values can also be raised in the midst of battle by striking at enemy weaknesses, causing their existential attunement to shift to your advantage."
 1367: 0x1BCC [0x23] WAIT_FOR_DIALOG_INTERACTION
-1368: 0x1BCD [0x48] [System] [11478*]:
+1368: 0x1BCD [0x48] [System] [11479*]:
     → "Blows can be dealt with abilities such as weapon skills and magic spells, and your choice of weakness and the manner in which you strike it will determine which hue of the alignment spectrum is affected."
 1369: 0x1BD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1370: 0x1BD1 [0x48] [System] [11479*]:
+1370: 0x1BD1 [0x48] [System] [11480*]:
     → "The existential spectrum is comprised of five lights (blue, red, yellow, green, and white), each of which influences reward yield."
 1371: 0x1BD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1372: 0x1BD5 [0x48] [System] [11480*]:
+1372: 0x1BD5 [0x48] [System] [11481*]:
     → "The precise workings of each light can be reviewed when examining your current alignment values."
 1373: 0x1BD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1374: 0x1BD9 [0x48] [System] [11481*]:
+1374: 0x1BD9 [0x48] [System] [11482*]:
     → "Upon the successful conclusion of battle, the alignment bonus as granted by ascent items and the exploitation of enemy weaknesses are combined to determine the spoils."
 1375: 0x1BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
-1376: 0x1BDD [0x48] [System] [11482*]:
+1376: 0x1BDD [0x48] [System] [11483*]:
     → "Be forewarned: Voidwalkers are highly guileful beings and will not suffer the same weakness being struck twice. Combatants must be on constant watch for any changes that may occur during the course of battle."
 1377: 0x1BE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1378: 0x1BE1 [0x01] GOTO 0x1C30
 1379: 0x1BE4 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1C19
 1380: 0x1BEC [0x03] Work_Zone[2] = 1774*
-1381: 0x1BF1 [0x48] [System] [11483*]:
+1381: 0x1BF1 [0x48] [System] [11484*]:
     → "Atmacite is the physical agglomeration of a monster's soul, and a vessel for its feral instincts. By infusing atmacite to one's body using $6, it is possible to enhance one's battle prowess."
 1382: 0x1BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1383: 0x1BF5 [0x48] [System] [11484*]:
+1383: 0x1BF5 [0x48] [System] [11485*]:
     → "Be aware, however, that powers granted by atmacite can be tapped only when engaged in a Voidwatch operation."
 1384: 0x1BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1385: 0x1BF9 [0x48] [System] [11485*]:
+1385: 0x1BF9 [0x48] [System] [11486*]:
     → "Atmacite is resilient and will not be expended in the infusion process."
 1386: 0x1BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
-1387: 0x1BFD [0x48] [System] [11486*]:
+1387: 0x1BFD [0x48] [System] [11487*]:
     → "Furthermore, infused atmacite will remain in place until voluntarily purged."
 1388: 0x1C00 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1389: 0x1C01 [0x48] [System] [11487*]:
+1389: 0x1C01 [0x48] [System] [11488*]:
     → "As the configuration of atmacite is not possible during an operation, be sure to see to your battle preparations ahead of time."
 1390: 0x1C04 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1391: 0x1C05 [0x48] [System] [11488*]:
+1391: 0x1C05 [0x48] [System] [11489*]:
     → "Cruor can be used to enrich atmacite, enhancing its potency. The amount of cruor required for enrichment and the resultant properties vary with atmacite."
 1392: 0x1C08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1393: 0x1C09 [0x03] Work_Zone[2] = 15*
-1394: 0x1C0E [0x48] [System] [11489*]:
+1394: 0x1C0E [0x48] [System] [11490*]:
     → "Atmacite can be enriched in stages to a maximum of level $0."
 1395: 0x1C11 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1396: 0x1C12 [0x48] [System] [11490*]:
+1396: 0x1C12 [0x48] [System] [11491*]:
     → "All Voidwatchers are urged to make atmacite enrichment a priority, for they might just mean the difference between life and death."
 1397: 0x1C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1398: 0x1C16 [0x01] GOTO 0x1C30
 1399: 0x1C19 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1C30
-1400: 0x1C21 [0x48] [System] [11491*]:
+1400: 0x1C21 [0x48] [System] [11492*]:
     → "Periapt are lucky charms that grant myriad beneficial effects ranging from improved vitality to general upturns in fortune."
 1401: 0x1C24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1402: 0x1C25 [0x48] [System] [11492*]:
+1402: 0x1C25 [0x48] [System] [11493*]:
     → "Especially sought after are those bestowing temporary items at the commencement of an operation, granting combatants a distinct advantage against the enemy."
 1403: 0x1C28 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1404: 0x1C29 [0x48] [System] [11493*]:
+1404: 0x1C29 [0x48] [System] [11494*]:
     → "Although their acquisition can only be described as arduous, the benefits make them well worth the effort."
 1405: 0x1C2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1406: 0x1C2D [0x01] GOTO 0x1C30
@@ -4271,7 +4271,7 @@ SUBROUTINE_33DD:
 2558: 0x35E1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=5*, condition_work_offset=1*)
 2559: 0x35E8 [0x02] IF !(ExtData[1]->WorkLocal[64] == ExtData[1]->WorkLocal[23]) GOTO 0x35F7
 2560: 0x35F0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=5*, condition_work_offset=1*)
-2561: 0x35F7 [0x24] CREATE_DIALOG(message_id=11431*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+2561: 0x35F7 [0x24] CREATE_DIALOG(message_id=11432*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Infuse which atmacite? (Cruor: $24) [None for now./3 (Lv.$1)/$3 (Lv.$3)/$3 (Lv.$5)/$3 (Lv.$7)/$3 (Lv.$9)/$3 (Lv.$11)/$3 (Lv.$13)/$3 (Lv.$15)/$3 (Lv.$17)/$3 (Lv.$19)/$3 (Lv.$21)/$3 (Lv.$23)/Previous page./Next page.]"
 2562: 0x35FE [0x25] WAIT_DIALOG_SELECT()
 2563: 0x35FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x361F
@@ -4398,22 +4398,22 @@ SUBROUTINE_3856:
 2682: 0x385E [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x391C
 2683: 0x3866 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 2684: 0x386B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-2685: 0x3870 [0x48] [System] [11432*]:
+2685: 0x3870 [0x48] [System] [11433*]:
     → "The $3 (Lv.$1) bestows the following bonuses:"
 2686: 0x3873 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2687: 0x3874 [0x07] ExtData[1]->WorkLocal[29] += 11550*
+2687: 0x3874 [0x07] ExtData[1]->WorkLocal[29] += 11551*
 2688: 0x3879 [0x48] [System] [ExtData[1]->WorkLocal[29]]:
     → "Possession of $6 is required to use a synergy furnace."
 2689: 0x387C [0x23] WAIT_FOR_DIALOG_INTERACTION
 2690: 0x387D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 2691: 0x3882 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
 2692: 0x3887 [0x03] Work_Zone[4] = 100*
-2693: 0x388C [0x48] [System] [11433*]:
+2693: 0x388C [0x48] [System] [11434*]:
     → "Infusing the $3 (Lv.$1) requires $2 cruor."
 2694: 0x388F [0x23] WAIT_FOR_DIALOG_INTERACTION
 2695: 0x3890 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 2696: 0x3895 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
-2697: 0x389A [0x24] CREATE_DIALOG(message_id=11434*, default_option=1*, option_flags=0*)
+2697: 0x389A [0x24] CREATE_DIALOG(message_id=11435*, default_option=1*, option_flags=0*)
     → "Infuse $3 (Lv.$1)? [Yes./No.]"
 2698: 0x38A1 [0x25] WAIT_DIALOG_SELECT()
 2699: 0x38A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x38FF
@@ -4428,7 +4428,7 @@ SUBROUTINE_3856:
 2708: 0x38DD [0x06] ExtData[1]->WorkLocal[4] = 0
 2709: 0x38E0 [0x06] ExtData[1]->WorkLocal[2] = 0
 2710: 0x38E3 [0x01] GOTO 0x38FC
-2711: 0x38E6 [0x48] [System] [11442*]:
+2711: 0x38E6 [0x48] [System] [11443*]:
     → "You do not have enough cruor."
 2712: 0x38E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2713: 0x38EA [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[18] (bits 11*-16*)

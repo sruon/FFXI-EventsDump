@@ -24,74 +24,74 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x15180     |       86400 |
-|       1 | 0x2F49      |       12105 |
+|       1 | 0x2F4A      |       12106 |
 |       2 | 0x0E10      |        3600 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x2F4B      |       12107 |
-|       5 | 0x2F4A      |       12106 |
-|       6 | 0x2F4C      |       12108 |
+|       4 | 0x2F4C      |       12108 |
+|       5 | 0x2F4B      |       12107 |
+|       6 | 0x2F4D      |       12109 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x2F30      |       12080 |
+|       8 | 0x2F31      |       12081 |
 |       9 | 0x0000      |           0 |
 |      10 | 0x40000000  |  1073741824 |
-|      11 | 0x2F64      |       12132 |
-|      12 | 0x2F63      |       12131 |
-|      13 | 0x2F62      |       12130 |
+|      11 | 0x2F65      |       12133 |
+|      12 | 0x2F64      |       12132 |
+|      13 | 0x2F63      |       12131 |
 |      14 | 0x0003      |           3 |
-|      15 | 0x2F31      |       12081 |
-|      16 | 0x2F32      |       12082 |
-|      17 | 0x2F33      |       12083 |
-|      18 | 0x2F34      |       12084 |
-|      19 | 0x2F35      |       12085 |
-|      20 | 0x2F36      |       12086 |
+|      15 | 0x2F32      |       12082 |
+|      16 | 0x2F33      |       12083 |
+|      17 | 0x2F34      |       12084 |
+|      18 | 0x2F35      |       12085 |
+|      19 | 0x2F36      |       12086 |
+|      20 | 0x2F37      |       12087 |
 |      21 | 0x0004      |           4 |
-|      22 | 0x2F3F      |       12095 |
-|      23 | 0x2F40      |       12096 |
-|      24 | 0x2F41      |       12097 |
-|      25 | 0x2F42      |       12098 |
+|      22 | 0x2F40      |       12096 |
+|      23 | 0x2F41      |       12097 |
+|      24 | 0x2F42      |       12098 |
+|      25 | 0x2F43      |       12099 |
 |      26 | 0x0005      |           5 |
-|      27 | 0x2F43      |       12099 |
-|      28 | 0x2F44      |       12100 |
-|      29 | 0x2F45      |       12101 |
-|      30 | 0x2F46      |       12102 |
-|      31 | 0x2F47      |       12103 |
-|      32 | 0x2F48      |       12104 |
+|      27 | 0x2F44      |       12100 |
+|      28 | 0x2F45      |       12101 |
+|      29 | 0x2F46      |       12102 |
+|      30 | 0x2F47      |       12103 |
+|      31 | 0x2F48      |       12104 |
+|      32 | 0x2F49      |       12105 |
 |      33 | 0x0006      |           6 |
-|      34 | 0x2F38      |       12088 |
-|      35 | 0x2F39      |       12089 |
-|      36 | 0x2F3A      |       12090 |
-|      37 | 0x2F3B      |       12091 |
-|      38 | 0x2F3C      |       12092 |
-|      39 | 0x2F3D      |       12093 |
-|      40 | 0x2F37      |       12087 |
-|      41 | 0x2F3E      |       12094 |
-|      42 | 0x2F2D      |       12077 |
-|      43 | 0x2F2E      |       12078 |
-|      44 | 0x2F2F      |       12079 |
-|      45 | 0x2F4E      |       12110 |
-|      46 | 0x2F4F      |       12111 |
-|      47 | 0x2F86      |       12166 |
-|      48 | 0x2F87      |       12167 |
-|      49 | 0x2F88      |       12168 |
+|      34 | 0x2F39      |       12089 |
+|      35 | 0x2F3A      |       12090 |
+|      36 | 0x2F3B      |       12091 |
+|      37 | 0x2F3C      |       12092 |
+|      38 | 0x2F3D      |       12093 |
+|      39 | 0x2F3E      |       12094 |
+|      40 | 0x2F38      |       12088 |
+|      41 | 0x2F3F      |       12095 |
+|      42 | 0x2F2E      |       12078 |
+|      43 | 0x2F2F      |       12079 |
+|      44 | 0x2F30      |       12080 |
+|      45 | 0x2F4F      |       12111 |
+|      46 | 0x2F50      |       12112 |
+|      47 | 0x2F87      |       12167 |
+|      48 | 0x2F88      |       12168 |
+|      49 | 0x2F89      |       12169 |
 |      50 | 0x0010      |          16 |
-|      51 | 0x2F65      |       12133 |
-|      52 | 0x2F66      |       12134 |
-|      53 | 0x2F67      |       12135 |
-|      54 | 0x2F68      |       12136 |
-|      55 | 0x2F69      |       12137 |
-|      56 | 0x2F6A      |       12138 |
-|      57 | 0x2F6B      |       12139 |
-|      58 | 0x2F6C      |       12140 |
-|      59 | 0x2F6D      |       12141 |
+|      51 | 0x2F66      |       12134 |
+|      52 | 0x2F67      |       12135 |
+|      53 | 0x2F68      |       12136 |
+|      54 | 0x2F69      |       12137 |
+|      55 | 0x2F6A      |       12138 |
+|      56 | 0x2F6B      |       12139 |
+|      57 | 0x2F6C      |       12140 |
+|      58 | 0x2F6D      |       12141 |
+|      59 | 0x2F6E      |       12142 |
 |      60 | 0x0007      |           7 |
 |      61 | 0x000E      |          14 |
-|      62 | 0x2F50      |       12112 |
-|      63 | 0x2F51      |       12113 |
-|      64 | 0x2F5E      |       12126 |
-|      65 | 0x2F5F      |       12127 |
-|      66 | 0x2F60      |       12128 |
-|      67 | 0x2F52      |       12114 |
-|      68 | 0x2F53      |       12115 |
+|      62 | 0x2F51      |       12113 |
+|      63 | 0x2F52      |       12114 |
+|      64 | 0x2F5F      |       12127 |
+|      65 | 0x2F60      |       12128 |
+|      66 | 0x2F61      |       12129 |
+|      67 | 0x2F53      |       12115 |
+|      68 | 0x2F54      |       12116 |
 |      69 | 0x0078      |         120 |
 |      70 | 0x001E      |          30 |
 |      71 | 0x0013      |          19 |
@@ -132,11 +132,11 @@
 |     106 | 0x03E7      |         999 |
 |     107 | 0x00F6      |         246 |
 |     108 | 0x017B      |         379 |
-|     109 | 0x2F54      |       12116 |
+|     109 | 0x2F55      |       12117 |
 |     110 | 0x002D      |          45 |
-|     111 | 0x2F55      |       12117 |
+|     111 | 0x2F56      |       12118 |
 |     112 | 0x0019      |          25 |
-|     113 | 0x2F56      |       12118 |
+|     113 | 0x2F57      |       12119 |
 |     114 | 0xFFFB7A80  |  4294670976 |
 |     115 | 0xFFFEE67B  |  4294895227 |
 |     116 | 0xFFFFD121  |  4294955297 |
@@ -144,10 +144,10 @@
 |     118 | 0xFFFB855C  |  4294673756 |
 |     119 | 0xFFFF00C2  |  4294901954 |
 |     120 | 0x04B6      |        1206 |
-|     121 | 0x2F57      |       12119 |
-|     122 | 0x2F58      |       12120 |
+|     121 | 0x2F58      |       12120 |
+|     122 | 0x2F59      |       12121 |
 |     123 | 0x0478      |        1144 |
-|     124 | 0x2F59      |       12121 |
+|     124 | 0x2F5A      |       12122 |
 |     125 | 0xFFFFEC5F  |  4294962271 |
 |     126 | 0xA6DD      |       42717 |
 |     127 | 0xFFFFFC18  |  4294966296 |
@@ -155,150 +155,150 @@
 |     129 | 0xFFFFE891  |  4294961297 |
 |     130 | 0x8D8F      |       36239 |
 |     131 | 0x080A      |        2058 |
-|     132 | 0x2F5A      |       12122 |
+|     132 | 0x2F5B      |       12123 |
 |     133 | 0x003B      |          59 |
-|     134 | 0x2F5B      |       12123 |
-|     135 | 0x2F5C      |       12124 |
-|     136 | 0x2F5D      |       12125 |
+|     134 | 0x2F5C      |       12124 |
+|     135 | 0x2F5D      |       12125 |
+|     136 | 0x2F5E      |       12126 |
 |     137 | 0x00FE      |         254 |
 |     138 | 0x00B4      |         180 |
 |     139 | 0x00B6      |         182 |
 |     140 | 0x00C9      |         201 |
 |     141 | 0x00C8      |         200 |
-|     142 | 0x2F61      |       12129 |
-|     143 | 0x2F6E      |       12142 |
-|     144 | 0x2F6F      |       12143 |
-|     145 | 0x2F70      |       12144 |
-|     146 | 0x2F73      |       12147 |
-|     147 | 0x2F72      |       12146 |
-|     148 | 0x2F71      |       12145 |
-|     149 | 0x2F74      |       12148 |
-|     150 | 0x2F75      |       12149 |
-|     151 | 0x2F77      |       12151 |
-|     152 | 0x2F76      |       12150 |
-|     153 | 0x2F78      |       12152 |
-|     154 | 0x2F79      |       12153 |
-|     155 | 0x2F7A      |       12154 |
-|     156 | 0x2F7B      |       12155 |
-|     157 | 0x2F7E      |       12158 |
-|     158 | 0x2F7D      |       12157 |
-|     159 | 0x2F7C      |       12156 |
-|     160 | 0x2F7F      |       12159 |
-|     161 | 0x2F80      |       12160 |
-|     162 | 0x2F81      |       12161 |
-|     163 | 0x2F82      |       12162 |
-|     164 | 0x2F83      |       12163 |
-|     165 | 0x2F84      |       12164 |
-|     166 | 0x2F85      |       12165 |
-|     167 | 0x2F89      |       12169 |
-|     168 | 0x2F4D      |       12109 |
+|     142 | 0x2F62      |       12130 |
+|     143 | 0x2F6F      |       12143 |
+|     144 | 0x2F70      |       12144 |
+|     145 | 0x2F71      |       12145 |
+|     146 | 0x2F74      |       12148 |
+|     147 | 0x2F73      |       12147 |
+|     148 | 0x2F72      |       12146 |
+|     149 | 0x2F75      |       12149 |
+|     150 | 0x2F76      |       12150 |
+|     151 | 0x2F78      |       12152 |
+|     152 | 0x2F77      |       12151 |
+|     153 | 0x2F79      |       12153 |
+|     154 | 0x2F7A      |       12154 |
+|     155 | 0x2F7B      |       12155 |
+|     156 | 0x2F7C      |       12156 |
+|     157 | 0x2F7F      |       12159 |
+|     158 | 0x2F7E      |       12158 |
+|     159 | 0x2F7D      |       12157 |
+|     160 | 0x2F80      |       12160 |
+|     161 | 0x2F81      |       12161 |
+|     162 | 0x2F82      |       12162 |
+|     163 | 0x2F83      |       12163 |
+|     164 | 0x2F84      |       12164 |
+|     165 | 0x2F85      |       12165 |
+|     166 | 0x2F86      |       12166 |
+|     167 | 0x2F8A      |       12170 |
+|     168 | 0x2F4E      |       12110 |
 |     169 | 0x00D7      |         215 |
-|     170 | 0x2F8A      |       12170 |
-|     171 | 0x2F8B      |       12171 |
+|     170 | 0x2F8B      |       12171 |
+|     171 | 0x2F8C      |       12172 |
 |     172 | 0x001F      |          31 |
-|     173 | 0x2F8C      |       12172 |
-|     174 | 0x2F8D      |       12173 |
-|     175 | 0x2F8E      |       12174 |
-|     176 | 0x2F8F      |       12175 |
-|     177 | 0x2F90      |       12176 |
-|     178 | 0x2F91      |       12177 |
-|     179 | 0x2F92      |       12178 |
+|     173 | 0x2F8D      |       12173 |
+|     174 | 0x2F8E      |       12174 |
+|     175 | 0x2F8F      |       12175 |
+|     176 | 0x2F90      |       12176 |
+|     177 | 0x2F91      |       12177 |
+|     178 | 0x2F92      |       12178 |
+|     179 | 0x2F93      |       12179 |
 
 ## String References
 
-- **12077**: Salutations, I am Campaign Evaluation Official Alfred. How might I be of assistance?
-- **12078**: Greetings, I am Campaign Evaluation Official Annabelle. How can I help you today?
-- **12079**: Hello, I'm Campaign Evaluation Official Llewellyn. How can I help you today?
-- **12080**: What do you require? [Nothing./An evaluation./Info on the duration of my medal./An overview of evaluations./Info on medals./Info on the benefits of medals./Info on evaluation process.]
-- **12081**: Evaluations are conducted on all participants of the Allied Campaign. Individual data is collected by the Allied War Council from various sources, such as Campaign Arbiters and the leaders of the armies in which the soldiers serve. This data is then used to determine whether or not a decoration is to be conferred.
-- **12082**: Some of the areas that are considered in this evaluation are performance in campaign operations, as well as valor shown during campaign battles.
-- **12083**: The more an individual is decorated, the more responsibility he or she will be given within the Allied Forces. And with more responsibility comes the promise of larger compensation in exchange for services.
-- **12084**: However, the prestige that accompanies the medals also carries with it a great weight. To maintain one's status, he or she must continue to exceed previous expectations. If a soldier fails to fulfill the duties that are required of all those who possess a certain medal, then the Allied War Council will be forced to confiscate that decoration.
-- **12085**: To put it simply, only those who fight with fervor and precision...only those who put the glory of the Allied Campaign above all else...will be allowed to reap the benefits that come with victory.
-- **12086**: If you wish to learn more of the Allied Campaign, please speak with [/Lady Fiaudie/Centurion Aurelius/Kolin-Olin].
-- **12087**: There are two more things of note.
-- **12088**: Once an evaluation has been requested, the Allied War Council will require [five days/one hour] (Earth time) to come to a conclusion.
-- **12089**: During that time, individuals may join as many operations or battles as they wish, but will only be considered for a single medal.
-- **12090**: However, the same rules apply for an inadequate performance. No matter how low one scores, the maximum number of decorations that can be confiscated is one.
-- **12091**: Also, individuals must not forget that all medals come with expiration dates. While an extremely unorthodox practice, this measure was deemed necessary to prevent the forgery of allied decorations by those persons with dubious intentions.
-- **12092**: Upon conferral, all medals are marked with a magical seal that dissipates after a period of thirty days (Earth time). Once the seal has vanished, the medal will become void and its owner will no longer be able to participate in campaign operations or battles, among other things.
-- **12093**: It is highly recommended that you keep track of the time remaining on your medal and apply for evaluations regularly.
-- **12094**: Is there anything else you wish to ask?
-- **12095**: Campaign medals are official rewards given to those individuals who perform exemplary deeds for the Allied Forces.
-- **12096**: These decorations are internationally recognized as symbols of strength, loyalty, and honor. They not only garner respect, but provide their bearers with privileges not offered civilians.
-- **12097**: Those who have been decorated with the more prestigious medals will also be highly regarded among their army's ranks, and thus entrusted with increasingly difficult and important missions.
-- **12098**: On the other hand, disloyalty to one's nation is highly frowned upon. If, for any reason, an individual wishes to leave their current army of employment and pledge allegiance to another, they will be required to return their two most distinguished medals.
-- **12099**: To the point, are we? Very well, I shall list the merits those in the possession of medals may receive.
-- **12100**: Firstly, the more prestigious an individual's medal, the more weight [his/her] army's [/curate/supply commander/Morale Manager] will grant [his/her] opinion.
-- **12101**: Secondly, the types of Campaign Ops available to an individual will increase based on the medals that [he/she] has in [his/her] possession. More advanced operations will earn participants increased amounts of EXP and Allied Notes, as well as have a heavier influence on performance evaluations.
-- **12102**: Thirdly, benefits received during campaign battles will vary depending on the variety of medals an individual carries. The better the medals, the larger the opportunity to earn EXP, Allied Notes, and reputation. The selection of temporary items available for purchase will also improve.
-- **12103**: However, the more prestigious the medal, the more that will be expected of its bearer. The Campaign Arbiters will not go easy on those who have already proven themselves.
-- **12104**: Understood?
-- **12105**: Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is in $0 day[/s].
-- **12106**: Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is in $0 hour[/s].
-- **12107**: Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is...any moment now.
-- **12108**: Is there something I can help you with in the meantime?
-- **12109**: Greetings, soldier. Unfortunately, I cannot authorize the evaluations of those individuals who have not pledged their allegiance to this nation's forces.
-- **12110**: Understood. I shall prepare the proper documents and deliver them to the Allied War Council Evaluation Board in Jeuno.
-- **12111**: ......
-- **12112**: Congratulations, <Player>! Your recent performance has been evaluated, and the Allied War Council has deemed you worthy of a new medal!
-- **12113**: Accept the honors? [Yes./No.]
-- **12114**: Are you sure? [Yes./No.]
-- **12115**: One moment, please, while I prepare your award.
-- **12125**: That is all. Please note that you will not be eligible for another evaluation for [five days/one hour] (Earth time). Good luck, <Player>.
-- **12126**: Are you certain, <Player>? You know there is no need to be humble.
-- **12127**: Or perhaps you have forgotten that it doesn't matter how much you contribute to the Allied Campaign, you can only receive one medal per evaluation.
-- **12128**: I cannot force you to accept the medal, but...
-- **12129**: While the Allied War Council was pleased with your work, it was determined that your performance did not warrant the conferral of further decoration.
-- **12130**: You still have $2 day[/s] (Earth time) until your current campaign medal expires.
-- **12131**: Your current campaign medal will expire in less than a day (Earth time).
-- **12132**: Your current campaign medal has already expired.
-- **12133**: Would you like to continue this month's evaluation in a further attempt to receive the next medal, or would you rather end the evaluation and maintain your current honors?
-- **12134**: End the evaluation? [Yes./No.]
-- **12135**: Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>.
-- **12136**: By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal.
-- **12137**: However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void.
-- **12138**: Please consider carefully your options before making this important decision.
-- **12139**: Are you absolutely sure? [Yes./No.]
-- **12140**: Done. Your medal has been given a new magic seal.
-- **12141**: Please note that you will be eligible for your next evaluation in [five days/one hour] (Earth time).
-- **12142**: ...... I am sorry, <Player>, but the war council was not at all pleased with your performance, and has deemed you unworthy of your highest-ranking medal.
-- **12143**: It shall be confiscated the moment its magic seal expires.
-- **12144**: You have two choices left, <Player>. You may either accept the council's decision, or, if your medal's seal still holds, you may continue your efforts to improve your evaluation.
-- **12145**: It retains $2 day[/s] (Earth time) of power.
-- **12146**: However, it retains less than a day's power (Earth time).
-- **12147**: Unfortunately, it no longer retains any power...
-- **12148**: What is your decision?
-- **12149**: You can... [Return the medal at once./Continue your efforts.]
-- **12150**: Are you certain? [Yes./No.]
-- **12151**: Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>.
-- **12152**: Understood. Perhaps the weight of this medal was a bit too much for you, <Player>.
-- **12153**: If you wish to submit another application for evaluation, please visit me again in [five days'/one hour's] time.
-- **12154**: ...... I regret to inform you, <Player>, that your performance this term fell a measure short of the council's expectations. Admittedly high expectations, but nevertheless...
-- **12155**: Still, you have proven your worth to our nation on many an occasion. In light of your past services, the council has seen fit to exempt you from demotion at this time.
-- **12156**: Incidentally, your seal will remain effective for $2 more day[/s] (Earth time).
-- **12157**: Incidentally, your seal retains less than a day's power (Earth time).
-- **12158**: Incidentally, your seal is no longer effective.
-- **12159**: You may end your evaluation here, or press on. What say you?
-- **12160**: Very well. We will be following your continued efforts with interest.
-- **12161**: By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal.
-- **12162**: However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void.
-- **12163**: Please consider carefully your options before making this important decision.
-- **12164**: Done. Your medal has been given a new magic seal.
-- **12165**: Oh yes, and please note that you will not be eligible for another evaluation for [five days/one hour] (Earth time).
-- **12166**: You are currently in possession of the most prestigious Campaign medal we have to offer. The Kingdom of San d'Oria has the utmost faith in you, and shall support you in any endeavor you choose to undertake.
-- **12167**: You are currently in possession of the most prestigious Campaign medal we have to offer. The Republic of Bastok has the utmost faith in you, and shall support you in any endeavor you choose to undertake.
-- **12168**: You are currently in possession of the most prestigious Campaign medal we have to offer. The Federation of Windurst has the utmost faith in you, and shall support you in any endeavor you choose to undertake.
-- **12169**: You are a true hero to our nation. Though you may be exempt from demotion, we ask that you do not let up in the fight. Our hopes rest with you, <Player>!
-- **12170**: Choose wisely. [Set days./Rank Points $0./Rank $1/Reset to default./Quit.]
-- **12171**: Push forward how many hours?
-- **12172**: Time has been pushed forward $0 hour(s).
-- **12173**: Set the amount of points.
-- **12174**: Points have been set at $0.
-- **12175**: Set rank, please.
-- **12176**: Rank has been set at $0.
-- **12177**: Reset to default settings? [Yes./No.]
-- **12178**: Reset complete.
+- **12078**: Salutations, I am Campaign Evaluation Official Alfred. How might I be of assistance?
+- **12079**: Greetings, I am Campaign Evaluation Official Annabelle. How can I help you today?
+- **12080**: Hello, I'm Campaign Evaluation Official Llewellyn. How can I help you today?
+- **12081**: What do you require? [Nothing./An evaluation./Info on the duration of my medal./An overview of evaluations./Info on medals./Info on the benefits of medals./Info on evaluation process.]
+- **12082**: Evaluations are conducted on all participants of the Allied Campaign. Individual data is collected by the Allied War Council from various sources, such as Campaign Arbiters and the leaders of the armies in which the soldiers serve. This data is then used to determine whether or not a decoration is to be conferred.
+- **12083**: Some of the areas that are considered in this evaluation are performance in campaign operations, as well as valor shown during campaign battles.
+- **12084**: The more an individual is decorated, the more responsibility he or she will be given within the Allied Forces. And with more responsibility comes the promise of larger compensation in exchange for services.
+- **12085**: However, the prestige that accompanies the medals also carries with it a great weight. To maintain one's status, he or she must continue to exceed previous expectations. If a soldier fails to fulfill the duties that are required of all those who possess a certain medal, then the Allied War Council will be forced to confiscate that decoration.
+- **12086**: To put it simply, only those who fight with fervor and precision...only those who put the glory of the Allied Campaign above all else...will be allowed to reap the benefits that come with victory.
+- **12087**: If you wish to learn more of the Allied Campaign, please speak with [/Lady Fiaudie/Centurion Aurelius/Kolin-Olin].
+- **12088**: There are two more things of note.
+- **12089**: Once an evaluation has been requested, the Allied War Council will require [five days/one hour] (Earth time) to come to a conclusion.
+- **12090**: During that time, individuals may join as many operations or battles as they wish, but will only be considered for a single medal.
+- **12091**: However, the same rules apply for an inadequate performance. No matter how low one scores, the maximum number of decorations that can be confiscated is one.
+- **12092**: Also, individuals must not forget that all medals come with expiration dates. While an extremely unorthodox practice, this measure was deemed necessary to prevent the forgery of allied decorations by those persons with dubious intentions.
+- **12093**: Upon conferral, all medals are marked with a magical seal that dissipates after a period of thirty days (Earth time). Once the seal has vanished, the medal will become void and its owner will no longer be able to participate in campaign operations or battles, among other things.
+- **12094**: It is highly recommended that you keep track of the time remaining on your medal and apply for evaluations regularly.
+- **12095**: Is there anything else you wish to ask?
+- **12096**: Campaign medals are official rewards given to those individuals who perform exemplary deeds for the Allied Forces.
+- **12097**: These decorations are internationally recognized as symbols of strength, loyalty, and honor. They not only garner respect, but provide their bearers with privileges not offered civilians.
+- **12098**: Those who have been decorated with the more prestigious medals will also be highly regarded among their army's ranks, and thus entrusted with increasingly difficult and important missions.
+- **12099**: On the other hand, disloyalty to one's nation is highly frowned upon. If, for any reason, an individual wishes to leave their current army of employment and pledge allegiance to another, they will be required to return their two most distinguished medals.
+- **12100**: To the point, are we? Very well, I shall list the merits those in the possession of medals may receive.
+- **12101**: Firstly, the more prestigious an individual's medal, the more weight [his/her] army's [/curate/supply commander/Morale Manager] will grant [his/her] opinion.
+- **12102**: Secondly, the types of Campaign Ops available to an individual will increase based on the medals that [he/she] has in [his/her] possession. More advanced operations will earn participants increased amounts of EXP and Allied Notes, as well as have a heavier influence on performance evaluations.
+- **12103**: Thirdly, benefits received during campaign battles will vary depending on the variety of medals an individual carries. The better the medals, the larger the opportunity to earn EXP, Allied Notes, and reputation. The selection of temporary items available for purchase will also improve.
+- **12104**: However, the more prestigious the medal, the more that will be expected of its bearer. The Campaign Arbiters will not go easy on those who have already proven themselves.
+- **12105**: Understood?
+- **12106**: Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is in $0 day[/s].
+- **12107**: Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is in $0 hour[/s].
+- **12108**: Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is...any moment now.
+- **12109**: Is there something I can help you with in the meantime?
+- **12110**: Greetings, soldier. Unfortunately, I cannot authorize the evaluations of those individuals who have not pledged their allegiance to this nation's forces.
+- **12111**: Understood. I shall prepare the proper documents and deliver them to the Allied War Council Evaluation Board in Jeuno.
+- **12112**: ......
+- **12113**: Congratulations, <Player>! Your recent performance has been evaluated, and the Allied War Council has deemed you worthy of a new medal!
+- **12114**: Accept the honors? [Yes./No.]
+- **12115**: Are you sure? [Yes./No.]
+- **12116**: One moment, please, while I prepare your award.
+- **12126**: That is all. Please note that you will not be eligible for another evaluation for [five days/one hour] (Earth time). Good luck, <Player>.
+- **12127**: Are you certain, <Player>? You know there is no need to be humble.
+- **12128**: Or perhaps you have forgotten that it doesn't matter how much you contribute to the Allied Campaign, you can only receive one medal per evaluation.
+- **12129**: I cannot force you to accept the medal, but...
+- **12130**: While the Allied War Council was pleased with your work, it was determined that your performance did not warrant the conferral of further decoration.
+- **12131**: You still have $2 day[/s] (Earth time) until your current campaign medal expires.
+- **12132**: Your current campaign medal will expire in less than a day (Earth time).
+- **12133**: Your current campaign medal has already expired.
+- **12134**: Would you like to continue this month's evaluation in a further attempt to receive the next medal, or would you rather end the evaluation and maintain your current honors?
+- **12135**: End the evaluation? [Yes./No.]
+- **12136**: Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>.
+- **12137**: By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal.
+- **12138**: However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void.
+- **12139**: Please consider carefully your options before making this important decision.
+- **12140**: Are you absolutely sure? [Yes./No.]
+- **12141**: Done. Your medal has been given a new magic seal.
+- **12142**: Please note that you will be eligible for your next evaluation in [five days/one hour] (Earth time).
+- **12143**: ...... I am sorry, <Player>, but the war council was not at all pleased with your performance, and has deemed you unworthy of your highest-ranking medal.
+- **12144**: It shall be confiscated the moment its magic seal expires.
+- **12145**: You have two choices left, <Player>. You may either accept the council's decision, or, if your medal's seal still holds, you may continue your efforts to improve your evaluation.
+- **12146**: It retains $2 day[/s] (Earth time) of power.
+- **12147**: However, it retains less than a day's power (Earth time).
+- **12148**: Unfortunately, it no longer retains any power...
+- **12149**: What is your decision?
+- **12150**: You can... [Return the medal at once./Continue your efforts.]
+- **12151**: Are you certain? [Yes./No.]
+- **12152**: Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>.
+- **12153**: Understood. Perhaps the weight of this medal was a bit too much for you, <Player>.
+- **12154**: If you wish to submit another application for evaluation, please visit me again in [five days'/one hour's] time.
+- **12155**: ...... I regret to inform you, <Player>, that your performance this term fell a measure short of the council's expectations. Admittedly high expectations, but nevertheless...
+- **12156**: Still, you have proven your worth to our nation on many an occasion. In light of your past services, the council has seen fit to exempt you from demotion at this time.
+- **12157**: Incidentally, your seal will remain effective for $2 more day[/s] (Earth time).
+- **12158**: Incidentally, your seal retains less than a day's power (Earth time).
+- **12159**: Incidentally, your seal is no longer effective.
+- **12160**: You may end your evaluation here, or press on. What say you?
+- **12161**: Very well. We will be following your continued efforts with interest.
+- **12162**: By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal.
+- **12163**: However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void.
+- **12164**: Please consider carefully your options before making this important decision.
+- **12165**: Done. Your medal has been given a new magic seal.
+- **12166**: Oh yes, and please note that you will not be eligible for another evaluation for [five days/one hour] (Earth time).
+- **12167**: You are currently in possession of the most prestigious Campaign medal we have to offer. The Kingdom of San d'Oria has the utmost faith in you, and shall support you in any endeavor you choose to undertake.
+- **12168**: You are currently in possession of the most prestigious Campaign medal we have to offer. The Republic of Bastok has the utmost faith in you, and shall support you in any endeavor you choose to undertake.
+- **12169**: You are currently in possession of the most prestigious Campaign medal we have to offer. The Federation of Windurst has the utmost faith in you, and shall support you in any endeavor you choose to undertake.
+- **12170**: You are a true hero to our nation. Though you may be exempt from demotion, we ask that you do not let up in the fight. Our hopes rest with you, <Player>!
+- **12171**: Choose wisely. [Set days./Rank Points $0./Rank $1/Reset to default./Quit.]
+- **12172**: Push forward how many hours?
+- **12173**: Time has been pushed forward $0 hour(s).
+- **12174**: Set the amount of points.
+- **12175**: Points have been set at $0.
+- **12176**: Set rank, please.
+- **12177**: Rank has been set at $0.
+- **12178**: Reset to default settings? [Yes./No.]
+- **12179**: Reset complete.
 
 ## Events
 
@@ -370,29 +370,29 @@
   5: 0x0016 [0x02] IF !(ExtData[1]->WorkLocal[2] <= 86400*) GOTO 0x002F
   6: 0x001E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   7: 0x0023 [0x15] Work_Zone[2] /= 86400*
-  8: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
+  8: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
     → "Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is in $0 day[/s]."
   9: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002C [0x01] GOTO 0x004C
  11: 0x002F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  12: 0x0034 [0x15] Work_Zone[2] /= 3600*
  13: 0x0039 [0x02] IF !(Work_Zone[2] >= 1*) GOTO 0x0048
- 14: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+ 14: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
     → "Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is...any moment now."
  15: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0045 [0x01] GOTO 0x004C
- 17: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+ 17: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "Greetings, <Player>. My ledger states that the earliest you can apply for an evaluation is in $0 hour[/s]."
  18: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_004C:
- 19: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
+ 19: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "Is there something I can help you with in the meantime?"
  20: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0050 [0x03] ExtData[1]->WorkLocal[1] = 2*
 
 SUBROUTINE_0055:
- 22: 0x0055 [0x24] CREATE_DIALOG(message_id=12080*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 22: 0x0055 [0x24] CREATE_DIALOG(message_id=12081*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What do you require? [Nothing./An evaluation./Info on the duration of my medal./An overview of evaluations./Info on medals./Info on the benefits of medals./Info on evaluation process.]"
  23: 0x005C [0x25] WAIT_DIALOG_SELECT()
  24: 0x005D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0070
@@ -402,77 +402,77 @@ SUBROUTINE_0055:
 SUBROUTINE_00A3:
  27: 0x00A3 [0x01] GOTO 0x012F
  28: 0x00A6 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00C9
- 29: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
+ 29: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
     → "Evaluations are conducted on all participants of the Allied Campaign. Individual data is collected by the Allied War Council from various sources, such as Campaign Arbiters and the leaders of the armies in which the soldiers serve. This data is then used to determine whether or not a decoration is to be conferred."
  30: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
+ 31: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
     → "Some of the areas that are considered in this evaluation are performance in campaign operations, as well as valor shown during campaign battles."
  32: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
+ 33: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
     → "The more an individual is decorated, the more responsibility he or she will be given within the Allied Forces. And with more responsibility comes the promise of larger compensation in exchange for services."
  34: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
+ 35: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
     → "However, the prestige that accompanies the medals also carries with it a great weight. To maintain one's status, he or she must continue to exceed previous expectations. If a soldier fails to fulfill the duties that are required of all those who possess a certain medal, then the Allied War Council will be forced to confiscate that decoration."
  36: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
+ 37: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
     → "To put it simply, only those who fight with fervor and precision...only those who put the glory of the Allied Campaign above all else...will be allowed to reap the benefits that come with victory."
  38: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
+ 39: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
     → "If you wish to learn more of the Allied Campaign, please speak with [/Lady Fiaudie/Centurion Aurelius/Kolin-Olin]."
  40: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00C6 [0x01] GOTO 0x012F
  42: 0x00C9 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00E4
- 43: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
+ 43: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
     → "Campaign medals are official rewards given to those individuals who perform exemplary deeds for the Allied Forces."
  44: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
+ 45: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
     → "These decorations are internationally recognized as symbols of strength, loyalty, and honor. They not only garner respect, but provide their bearers with privileges not offered civilians."
  46: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
+ 47: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12098*)
     → "Those who have been decorated with the more prestigious medals will also be highly regarded among their army's ranks, and thus entrusted with increasingly difficult and important missions."
  48: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12098*)
+ 49: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
     → "On the other hand, disloyalty to one's nation is highly frowned upon. If, for any reason, an individual wishes to leave their current army of employment and pledge allegiance to another, they will be required to return their two most distinguished medals."
  50: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00E1 [0x01] GOTO 0x012F
  52: 0x00E4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0107
- 53: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
+ 53: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
     → "To the point, are we? Very well, I shall list the merits those in the possession of medals may receive."
  54: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
+ 55: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
     → "Firstly, the more prestigious an individual's medal, the more weight [his/her] army's [/curate/supply commander/Morale Manager] will grant [his/her] opinion."
  56: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
+ 57: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
     → "Secondly, the types of Campaign Ops available to an individual will increase based on the medals that [he/she] has in [his/her] possession. More advanced operations will earn participants increased amounts of EXP and Allied Notes, as well as have a heavier influence on performance evaluations."
  58: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+ 59: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12103*)
     → "Thirdly, benefits received during campaign battles will vary depending on the variety of medals an individual carries. The better the medals, the larger the opportunity to earn EXP, Allied Notes, and reputation. The selection of temporary items available for purchase will also improve."
  60: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=12103*)
+ 61: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
     → "However, the more prestigious the medal, the more that will be expected of its bearer. The Campaign Arbiters will not go easy on those who have already proven themselves."
  62: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+ 63: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Understood?"
  64: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0104 [0x01] GOTO 0x012F
  66: 0x0107 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x012F
  67: 0x010F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 68: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
+ 68: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
     → "Once an evaluation has been requested, the Allied War Council will require [five days/one hour] (Earth time) to come to a conclusion."
  69: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
+ 70: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
     → "During that time, individuals may join as many operations or battles as they wish, but will only be considered for a single medal."
  71: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
+ 72: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
     → "However, the same rules apply for an inadequate performance. No matter how low one scores, the maximum number of decorations that can be confiscated is one."
  73: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
+ 74: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
     → "Also, individuals must not forget that all medals come with expiration dates. While an extremely unorthodox practice, this measure was deemed necessary to prevent the forgery of allied decorations by those persons with dubious intentions."
  75: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
+ 76: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
     → "Upon conferral, all medals are marked with a magical seal that dissipates after a period of thirty days (Earth time). Once the seal has vanished, the medal will become void and its owner will no longer be able to participate in campaign operations or battles, among other things."
  77: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
+ 78: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
     → "It is highly recommended that you keep track of the time remaining on your medal and apply for evaluations regularly."
  79: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x012C [0x01] GOTO 0x012F
@@ -728,62 +728,62 @@ SUBROUTINE_0132:
   3: 0x013B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   4: 0x0140 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   5: 0x0145 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x018D
-  6: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
+  6: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
     → "Evaluations are conducted on all participants of the Allied Campaign. Individual data is collected by the Allied War Council from various sources, such as Campaign Arbiters and the leaders of the armies in which the soldiers serve. This data is then used to determine whether or not a decoration is to be conferred."
   7: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
+  8: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
     → "Some of the areas that are considered in this evaluation are performance in campaign operations, as well as valor shown during campaign battles."
   9: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
+ 10: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
     → "The more an individual is decorated, the more responsibility he or she will be given within the Allied Forces. And with more responsibility comes the promise of larger compensation in exchange for services."
  11: 0x0158 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
+ 12: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
     → "However, the prestige that accompanies the medals also carries with it a great weight. To maintain one's status, he or she must continue to exceed previous expectations. If a soldier fails to fulfill the duties that are required of all those who possess a certain medal, then the Allied War Council will be forced to confiscate that decoration."
  13: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
+ 14: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
     → "To put it simply, only those who fight with fervor and precision...only those who put the glory of the Allied Campaign above all else...will be allowed to reap the benefits that come with victory."
  15: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
+ 16: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
     → "If you wish to learn more of the Allied Campaign, please speak with [/Lady Fiaudie/Centurion Aurelius/Kolin-Olin]."
  17: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
+ 18: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
     → "There are two more things of note."
  19: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
+ 20: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
     → "Once an evaluation has been requested, the Allied War Council will require [five days/one hour] (Earth time) to come to a conclusion."
  21: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
+ 22: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
     → "During that time, individuals may join as many operations or battles as they wish, but will only be considered for a single medal."
  23: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
+ 24: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
     → "However, the same rules apply for an inadequate performance. No matter how low one scores, the maximum number of decorations that can be confiscated is one."
  25: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
+ 26: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
     → "Also, individuals must not forget that all medals come with expiration dates. While an extremely unorthodox practice, this measure was deemed necessary to prevent the forgery of allied decorations by those persons with dubious intentions."
  27: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
+ 28: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
     → "Upon conferral, all medals are marked with a magical seal that dissipates after a period of thirty days (Earth time). Once the seal has vanished, the medal will become void and its owner will no longer be able to participate in campaign operations or battles, among other things."
  29: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
+ 30: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
     → "It is highly recommended that you keep track of the time remaining on your medal and apply for evaluations regularly."
  31: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
+ 32: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
     → "Is there anything else you wish to ask?"
  33: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0185 [0x03] ExtData[1]->WorkLocal[1] = 2*
  35: 0x018A [0x01] GOTO 0x01BD
  36: 0x018D [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x019C
- 37: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=12077*)
+ 37: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
     → "Salutations, I am Campaign Evaluation Official Alfred. How might I be of assistance?"
  38: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0199 [0x01] GOTO 0x01BA
  40: 0x019C [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x01AB
- 41: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12078*)
+ 41: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12079*)
     → "Greetings, I am Campaign Evaluation Official Annabelle. How can I help you today?"
  42: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x01A8 [0x01] GOTO 0x01BA
  44: 0x01AB [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x01BA
- 45: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12079*)
+ 45: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12080*)
     → "Hello, I'm Campaign Evaluation Official Llewellyn. How can I help you today?"
  46: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01B7 [0x01] GOTO 0x01BA
@@ -792,7 +792,7 @@ SUBROUTINE_01BA:
  48: 0x01BA [0x06] ExtData[1]->WorkLocal[1] = 0
 
 SUBROUTINE_01BD:
- 49: 0x01BD [0x24] CREATE_DIALOG(message_id=12080*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 49: 0x01BD [0x24] CREATE_DIALOG(message_id=12081*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What do you require? [Nothing./An evaluation./Info on the duration of my medal./An overview of evaluations./Info on medals./Info on the benefits of medals./Info on evaluation process.]"
  50: 0x01C4 [0x25] WAIT_DIALOG_SELECT()
  51: 0x01C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D8
@@ -802,76 +802,76 @@ SUBROUTINE_01BD:
 SUBROUTINE_0219:
  54: 0x0219 [0x01] GOTO 0x02A0
  55: 0x021C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x023F
- 56: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=12081*)
+ 56: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
     → "Evaluations are conducted on all participants of the Allied Campaign. Individual data is collected by the Allied War Council from various sources, such as Campaign Arbiters and the leaders of the armies in which the soldiers serve. This data is then used to determine whether or not a decoration is to be conferred."
  57: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=12082*)
+ 58: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
     → "Some of the areas that are considered in this evaluation are performance in campaign operations, as well as valor shown during campaign battles."
  59: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=12083*)
+ 60: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
     → "The more an individual is decorated, the more responsibility he or she will be given within the Allied Forces. And with more responsibility comes the promise of larger compensation in exchange for services."
  61: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=12084*)
+ 62: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
     → "However, the prestige that accompanies the medals also carries with it a great weight. To maintain one's status, he or she must continue to exceed previous expectations. If a soldier fails to fulfill the duties that are required of all those who possess a certain medal, then the Allied War Council will be forced to confiscate that decoration."
  63: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=12085*)
+ 64: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
     → "To put it simply, only those who fight with fervor and precision...only those who put the glory of the Allied Campaign above all else...will be allowed to reap the benefits that come with victory."
  65: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=12086*)
+ 66: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=12087*)
     → "If you wish to learn more of the Allied Campaign, please speak with [/Lady Fiaudie/Centurion Aurelius/Kolin-Olin]."
  67: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x023C [0x01] GOTO 0x02A0
  69: 0x023F [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x025A
- 70: 0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
+ 70: 0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
     → "Campaign medals are official rewards given to those individuals who perform exemplary deeds for the Allied Forces."
  71: 0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
+ 72: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
     → "These decorations are internationally recognized as symbols of strength, loyalty, and honor. They not only garner respect, but provide their bearers with privileges not offered civilians."
  73: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=12097*)
+ 74: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=12098*)
     → "Those who have been decorated with the more prestigious medals will also be highly regarded among their army's ranks, and thus entrusted with increasingly difficult and important missions."
  75: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=12098*)
+ 76: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
     → "On the other hand, disloyalty to one's nation is highly frowned upon. If, for any reason, an individual wishes to leave their current army of employment and pledge allegiance to another, they will be required to return their two most distinguished medals."
  77: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0257 [0x01] GOTO 0x02A0
  79: 0x025A [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x027D
- 80: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=12099*)
+ 80: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
     → "To the point, are we? Very well, I shall list the merits those in the possession of medals may receive."
  81: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
+ 82: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
     → "Firstly, the more prestigious an individual's medal, the more weight [his/her] army's [/curate/supply commander/Morale Manager] will grant [his/her] opinion."
  83: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
+ 84: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
     → "Secondly, the types of Campaign Ops available to an individual will increase based on the medals that [he/she] has in [his/her] possession. More advanced operations will earn participants increased amounts of EXP and Allied Notes, as well as have a heavier influence on performance evaluations."
  85: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+ 86: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=12103*)
     → "Thirdly, benefits received during campaign battles will vary depending on the variety of medals an individual carries. The better the medals, the larger the opportunity to earn EXP, Allied Notes, and reputation. The selection of temporary items available for purchase will also improve."
  87: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=12103*)
+ 88: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
     → "However, the more prestigious the medal, the more that will be expected of its bearer. The Campaign Arbiters will not go easy on those who have already proven themselves."
  89: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+ 90: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "Understood?"
  91: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x027A [0x01] GOTO 0x02A0
  93: 0x027D [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x02A0
- 94: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=12088*)
+ 94: 0x0285 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
     → "Once an evaluation has been requested, the Allied War Council will require [five days/one hour] (Earth time) to come to a conclusion."
  95: 0x0288 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=12089*)
+ 96: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
     → "During that time, individuals may join as many operations or battles as they wish, but will only be considered for a single medal."
  97: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=12090*)
+ 98: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
     → "However, the same rules apply for an inadequate performance. No matter how low one scores, the maximum number of decorations that can be confiscated is one."
  99: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
+100: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
     → "Also, individuals must not forget that all medals come with expiration dates. While an extremely unorthodox practice, this measure was deemed necessary to prevent the forgery of allied decorations by those persons with dubious intentions."
 101: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
+102: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
     → "Upon conferral, all medals are marked with a magical seal that dissipates after a period of thirty days (Earth time). Once the seal has vanished, the medal will become void and its owner will no longer be able to participate in campaign operations or battles, among other things."
 103: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
+104: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
     → "It is highly recommended that you keep track of the time remaining on your medal and apply for evaluations regularly."
 105: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x029D [0x01] GOTO 0x02A0
@@ -880,10 +880,10 @@ SUBROUTINE_02A0:
 107: 0x02A0 [0x01] GOTO 0x01BD
 
 SUBROUTINE_02A3:
-108: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
+108: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12111*)
     → "Understood. I shall prepare the proper documents and deliver them to the Allied War Council Evaluation Board in Jeuno."
 109: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12111*)
+110: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12112*)
     → "......"
 111: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x02AB [0x03] Work_Zone[1] = 1*
@@ -892,17 +892,17 @@ SUBROUTINE_02A3:
 115: 0x02B4 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0E62
 116: 0x02BC [0x02] IF !(Work_Zone[3] == 4*) GOTO 0x0386
 117: 0x02C4 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x02D3
-118: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=12166*)
+118: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
     → "You are currently in possession of the most prestigious Campaign medal we have to offer. The Kingdom of San d'Oria has the utmost faith in you, and shall support you in any endeavor you choose to undertake."
 119: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x02D0 [0x01] GOTO 0x02F1
 121: 0x02D3 [0x02] IF !(Work_Zone[5] == 2*) GOTO 0x02E2
-122: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12167*)
+122: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12168*)
     → "You are currently in possession of the most prestigious Campaign medal we have to offer. The Republic of Bastok has the utmost faith in you, and shall support you in any endeavor you choose to undertake."
 123: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x02DF [0x01] GOTO 0x02F1
 125: 0x02E2 [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x02F1
-126: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12168*)
+126: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12169*)
     → "You are currently in possession of the most prestigious Campaign medal we have to offer. The Federation of Windurst has the utmost faith in you, and shall support you in any endeavor you choose to undertake."
 127: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x02EE [0x01] GOTO 0x02F1
@@ -910,59 +910,59 @@ SUBROUTINE_02A3:
 SUBROUTINE_02F1:
 129: 0x02F1 [0x06] ExtData[1]->WorkLocal[1] = 0
 130: 0x02F4 [0x02] IF !(Work_Zone[4] >= 1*) GOTO 0x0308
-131: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
+131: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
     → "Your current campaign medal has already expired."
 132: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0300 [0x03] ExtData[1]->WorkLocal[1] = 16*
 134: 0x0305 [0x01] GOTO 0x031B
 135: 0x0308 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0317
-136: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
+136: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
     → "Your current campaign medal will expire in less than a day (Earth time)."
 137: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0314 [0x01] GOTO 0x031B
-139: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+139: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "You still have $2 day[/s] (Earth time) until your current campaign medal expires."
 140: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_031B:
-141: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
+141: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
     → "Would you like to continue this month's evaluation in a further attempt to receive the next medal, or would you rather end the evaluation and maintain your current honors?"
 142: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x031F [0x24] CREATE_DIALOG(message_id=12134*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+143: 0x031F [0x24] CREATE_DIALOG(message_id=12135*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "End the evaluation? [Yes./No.]"
 144: 0x0326 [0x25] WAIT_DIALOG_SELECT()
 145: 0x0327 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x033E
-146: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+146: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 147: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0333 [0x03] Work_Zone[1] = 1073741824*
 149: 0x0338 [0x01] GOTO 0x0E62
 
 SUBROUTINE_033E:
-150: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
+150: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
     → "By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal."
 151: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
+152: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
     → "However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void."
 153: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x0346 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+154: 0x0346 [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
     → "Please consider carefully your options before making this important decision."
 155: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x034A [0x24] CREATE_DIALOG(message_id=12139*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+156: 0x034A [0x24] CREATE_DIALOG(message_id=12140*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "Are you absolutely sure? [Yes./No.]"
 157: 0x0351 [0x25] WAIT_DIALOG_SELECT()
 158: 0x0352 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0369
-159: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+159: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 160: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x035E [0x03] Work_Zone[1] = 1073741824*
 162: 0x0363 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0369:
-163: 0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+163: 0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "Done. Your medal has been given a new magic seal."
 164: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
+165: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
     → "Please note that you will be eligible for your next evaluation in [five days/one hour] (Earth time)."
 166: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0371 [0x03] Work_Zone[1] = 2*
@@ -973,37 +973,37 @@ SUBROUTINE_0369:
 172: 0x0386 [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0B6D
 173: 0x038E [0x6E] EventEntity uses emote 14*
 174: 0x0395 [0x99] Wait for EventEntity animation to complete
-175: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=12112*)
+175: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
     → "Congratulations, <Player>! Your recent performance has been evaluated, and the Allied War Council has deemed you worthy of a new medal!"
 176: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
-177: 0x039E [0x24] CREATE_DIALOG(message_id=12113*, default_option=1*, option_flags=0*)
+177: 0x039E [0x24] CREATE_DIALOG(message_id=12114*, default_option=1*, option_flags=0*)
     → "Accept the honors? [Yes./No.]"
 178: 0x03A5 [0x25] WAIT_DIALOG_SELECT()
 179: 0x03A6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03C5
-180: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12126*)
+180: 0x03AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12127*)
     → "Are you certain, <Player>? You know there is no need to be humble."
 181: 0x03B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-182: 0x03B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12127*)
+182: 0x03B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12128*)
     → "Or perhaps you have forgotten that it doesn't matter how much you contribute to the Allied Campaign, you can only receive one medal per evaluation."
 183: 0x03B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-184: 0x03B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12128*)
+184: 0x03B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12129*)
     → "I cannot force you to accept the medal, but..."
 185: 0x03B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x03BA [0x03] Work_Zone[1] = 1073741824*
 187: 0x03BF [0x01] GOTO 0x0E62
 
 SUBROUTINE_03C5:
-188: 0x03C5 [0x24] CREATE_DIALOG(message_id=12114*, default_option=1*, option_flags=0*)
+188: 0x03C5 [0x24] CREATE_DIALOG(message_id=12115*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./No.]"
 189: 0x03CC [0x25] WAIT_DIALOG_SELECT()
 190: 0x03CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03EC
-191: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12126*)
+191: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12127*)
     → "Are you certain, <Player>? You know there is no need to be humble."
 192: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-193: 0x03D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12127*)
+193: 0x03D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12128*)
     → "Or perhaps you have forgotten that it doesn't matter how much you contribute to the Allied Campaign, you can only receive one medal per evaluation."
 194: 0x03DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-195: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12128*)
+195: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12129*)
     → "I cannot force you to accept the medal, but..."
 196: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x03E1 [0x03] Work_Zone[1] = 1073741824*
@@ -1012,7 +1012,7 @@ SUBROUTINE_03C5:
 SUBROUTINE_03EC:
 199: 0x03EC [0x6E] EventEntity uses emote 7*
 200: 0x03F3 [0x99] Wait for EventEntity animation to complete
-201: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12115*)
+201: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
     → "One moment, please, while I prepare your award."
 202: 0x03FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x03FC [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1102,7 +1102,7 @@ SUBROUTINE_053C:
 285: 0x05C9 [0x1A] CALL_SUBROUTINE(address=0x0EB7)
 286: 0x05CC [0x2A] GET_REQ_LEVEL(level=16, entity_id=Rongelouts (ID: 17134113/0x01057221))
 287: 0x05D2 [0x79] EventEntity looks at Rongelouts (ID: 17134113/0x01057221) (Basic look)
-288: 0x05DC [0x2B] Rongelouts (ID: 17134113/0x01057221) [12116*]:
+288: 0x05DC [0x2B] Rongelouts (ID: 17134113/0x01057221) [12117*]:
     → "That will be enough, officer. I shall complete the ceremony."
 289: 0x05E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x05E4 [0x4A] LocalPlayer looks at Rongelouts (ID: 17134113/0x01057221)
@@ -1118,14 +1118,14 @@ SUBROUTINE_053C:
 300: 0x0649 [0x1C] WAIT(45* ticks)
 301: 0x064C [0x52] END_LOAD_SCHEDULER: End scheduler "ks02" with entities [LocalPlayer, LocalPlayer], work=379*
 302: 0x065B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ks03" with entities [LocalPlayer, LocalPlayer], work=[379*, 0*]
-303: 0x066C [0x2B] Rongelouts (ID: 17134113/0x01057221) [12117*]:
+303: 0x066C [0x2B] Rongelouts (ID: 17134113/0x01057221) [12118*]:
     → "[Sir/Lady] <Player>, I commend you on your service to the Kingdom!"
 304: 0x0673 [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x0674 [0x52] END_LOAD_SCHEDULER: End scheduler "ks03" with entities [LocalPlayer, LocalPlayer], work=379*
 306: 0x0683 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ks04" with entities [LocalPlayer, LocalPlayer], work=[379*, 0*]
 307: 0x0694 [0x6E] Rongelouts (ID: 17134113/0x01057221) uses emote 25*
 308: 0x069B [0x99] Wait for Rongelouts (ID: 17134113/0x01057221) animation to complete
-309: 0x06A0 [0x2B] Rongelouts (ID: 17134113/0x01057221) [12118*]:
+309: 0x06A0 [0x2B] Rongelouts (ID: 17134113/0x01057221) [12119*]:
     → "But remember, as you accept this $3, the path before you grows ever more perilous. Succumb not to the evils of lethargy, lest you find yourself stripped bare of your past honors."
 310: 0x06A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x06A8 [0x99] Wait for Rongelouts (ID: 17134113/0x01057221) animation to complete
@@ -1159,7 +1159,7 @@ SUBROUTINE_053C:
 339: 0x0787 [0x1A] CALL_SUBROUTINE(address=0x0EB7)
 340: 0x078A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Zazarg (ID: 17134114/0x01057222))
 341: 0x0790 [0x79] EventEntity looks at Zazarg (ID: 17134114/0x01057222) (Basic look)
-342: 0x079A [0x2B] Zazarg (ID: 17134114/0x01057222) [12119*]:
+342: 0x079A [0x2B] Zazarg (ID: 17134114/0x01057222) [12120*]:
     → "That will be enough. I'll take it from here, soldier."
 343: 0x07A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x07A2 [0x4A] LocalPlayer looks at Zazarg (ID: 17134114/0x01057222)
@@ -1175,13 +1175,13 @@ SUBROUTINE_053C:
 354: 0x0807 [0x1C] WAIT(45* ticks)
 355: 0x080A [0x52] END_LOAD_SCHEDULER: End scheduler "kb02" with entities [LocalPlayer, LocalPlayer], work=379*
 356: 0x0819 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kb03" with entities [LocalPlayer, LocalPlayer], work=[379*, 0*]
-357: 0x082A [0x2B] Zazarg (ID: 17134114/0x01057222) [12120*]:
+357: 0x082A [0x2B] Zazarg (ID: 17134114/0x01057222) [12121*]:
     → "Ahem! <Player>, for exemplary service to the Republic of Bastok, I present you with the $3! Dismissed!"
 358: 0x0831 [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x0832 [0x52] END_LOAD_SCHEDULER: End scheduler "kb03" with entities [LocalPlayer, LocalPlayer], work=379*
 360: 0x0841 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kb04" with entities [LocalPlayer, LocalPlayer], work=[379*, 0*]
 361: 0x0852 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gah0" with entities [Zazarg (ID: 17134114/0x01057222), Zazarg (ID: 17134114/0x01057222)], work=1144*
-362: 0x0861 [0x2B] Zazarg (ID: 17134114/0x01057222) [12121*]:
+362: 0x0861 [0x2B] Zazarg (ID: 17134114/0x01057222) [12122*]:
     → "... Why are you still here, soldier!? There are beastmen to be pummeled! Now, march!"
 363: 0x0868 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0869 [0x52] END_LOAD_SCHEDULER: End scheduler "kb04" with entities [LocalPlayer, LocalPlayer], work=379*
@@ -1214,7 +1214,7 @@ SUBROUTINE_053C:
 391: 0x0943 [0x1A] CALL_SUBROUTINE(address=0x0EB7)
 392: 0x0946 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Romaa Mihgo (ID: 17134115/0x01057223))
 393: 0x094C [0x79] EventEntity looks at Romaa Mihgo (ID: 17134115/0x01057223) (Basic look)
-394: 0x0956 [0x2B] Romaa Mihgo (ID: 17134115/0x01057223) [12122*]:
+394: 0x0956 [0x2B] Romaa Mihgo (ID: 17134115/0x01057223) [12123*]:
     → "Hold on a minute. I'll take it from herrre."
 395: 0x095D [0x23] WAIT_FOR_DIALOG_INTERACTION
 396: 0x095E [0x4A] LocalPlayer looks at Romaa Mihgo (ID: 17134115/0x01057223)
@@ -1231,13 +1231,13 @@ SUBROUTINE_053C:
 407: 0x09C6 [0x52] END_LOAD_SCHEDULER: End scheduler "kw02" with entities [LocalPlayer, LocalPlayer], work=379*
 408: 0x09D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kw03" with entities [LocalPlayer, LocalPlayer], work=[379*, 0*]
 409: 0x09E6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Romaa Mihgo (ID: 17134115/0x01057223), Romaa Mihgo (ID: 17134115/0x01057223)], work=59*
-410: 0x09F5 [0x2B] Romaa Mihgo (ID: 17134115/0x01057223) [12123*]:
+410: 0x09F5 [0x2B] Romaa Mihgo (ID: 17134115/0x01057223) [12124*]:
     → "<Player>! ... ... Good work. Here's your $3."
 411: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 412: 0x09FD [0x52] END_LOAD_SCHEDULER: End scheduler "kw03" with entities [LocalPlayer, LocalPlayer], work=379*
 413: 0x0A0C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "kw04" with entities [LocalPlayer, LocalPlayer], work=[379*, 0*]
 414: 0x0A1D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Romaa Mihgo (ID: 17134115/0x01057223), Romaa Mihgo (ID: 17134115/0x01057223)], work=59*
-415: 0x0A2C [0x2B] Romaa Mihgo (ID: 17134115/0x01057223) [12124*]:
+415: 0x0A2C [0x2B] Romaa Mihgo (ID: 17134115/0x01057223) [12125*]:
     → "Oh, and don't go getting the wrrrong idea. The reason you're wearing that medal isn't because "you" are a fine soldier, it's because you're backed by the best damn unit in the Federation. Dismissed!"
 416: 0x0A33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x0A34 [0x52] END_LOAD_SCHEDULER: End scheduler "kw04" with entities [LocalPlayer, LocalPlayer], work=379*
@@ -1251,7 +1251,7 @@ SUBROUTINE_053C:
 SUBROUTINE_0A81:
 424: 0x0A81 [0x7B] EventEntity stops talking
 425: 0x0A86 [0x1C] WAIT(30* ticks)
-426: 0x0A89 [0x1D] PRINT_EVENT_MESSAGE(message_id=12125*)
+426: 0x0A89 [0x1D] PRINT_EVENT_MESSAGE(message_id=12126*)
     → "That is all. Please note that you will not be eligible for another evaluation for [five days/one hour] (Earth time). Good luck, <Player>."
 427: 0x0A8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 428: 0x0A8D [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1291,61 +1291,61 @@ SUBROUTINE_0B33:
 460: 0x0B59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 461: 0x0B6A [0x01] GOTO 0x0E5F
 462: 0x0B6D [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0C0A
-463: 0x0B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=12129*)
+463: 0x0B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
     → "While the Allied War Council was pleased with your work, it was determined that your performance did not warrant the conferral of further decoration."
 464: 0x0B78 [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x0B79 [0x06] ExtData[1]->WorkLocal[1] = 0
 466: 0x0B7C [0x02] IF !(Work_Zone[4] >= 1*) GOTO 0x0B90
-467: 0x0B84 [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
+467: 0x0B84 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
     → "Your current campaign medal has already expired."
 468: 0x0B87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x0B88 [0x03] ExtData[1]->WorkLocal[1] = 2*
 470: 0x0B8D [0x01] GOTO 0x0BA3
 471: 0x0B90 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0B9F
-472: 0x0B98 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
+472: 0x0B98 [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
     → "Your current campaign medal will expire in less than a day (Earth time)."
 473: 0x0B9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x0B9C [0x01] GOTO 0x0BA3
-475: 0x0B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+475: 0x0B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "You still have $2 day[/s] (Earth time) until your current campaign medal expires."
 476: 0x0BA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0BA3:
-477: 0x0BA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
+477: 0x0BA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
     → "Would you like to continue this month's evaluation in a further attempt to receive the next medal, or would you rather end the evaluation and maintain your current honors?"
 478: 0x0BA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-479: 0x0BA7 [0x24] CREATE_DIALOG(message_id=12134*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+479: 0x0BA7 [0x24] CREATE_DIALOG(message_id=12135*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "End the evaluation? [Yes./No.]"
 480: 0x0BAE [0x25] WAIT_DIALOG_SELECT()
 481: 0x0BAF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0BC6
-482: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+482: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 483: 0x0BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
 484: 0x0BBB [0x03] Work_Zone[1] = 1073741824*
 485: 0x0BC0 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0BC6:
-486: 0x0BC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
+486: 0x0BC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
     → "By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal."
 487: 0x0BC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-488: 0x0BCA [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
+488: 0x0BCA [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
     → "However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void."
 489: 0x0BCD [0x23] WAIT_FOR_DIALOG_INTERACTION
-490: 0x0BCE [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+490: 0x0BCE [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
     → "Please consider carefully your options before making this important decision."
 491: 0x0BD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-492: 0x0BD2 [0x24] CREATE_DIALOG(message_id=12139*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+492: 0x0BD2 [0x24] CREATE_DIALOG(message_id=12140*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "Are you absolutely sure? [Yes./No.]"
 493: 0x0BD9 [0x25] WAIT_DIALOG_SELECT()
 494: 0x0BDA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0BF1
-495: 0x0BE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+495: 0x0BE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 496: 0x0BE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x0BE6 [0x03] Work_Zone[1] = 1073741824*
 498: 0x0BEB [0x01] GOTO 0x0E62
 
 SUBROUTINE_0BF1:
-499: 0x0BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+499: 0x0BF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "Done. Your medal has been given a new magic seal."
 500: 0x0BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 501: 0x0BF5 [0x03] Work_Zone[1] = 2*
@@ -1354,61 +1354,61 @@ SUBROUTINE_0BF1:
 504: 0x0C05 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 505: 0x0C07 [0x01] GOTO 0x0E5F
 506: 0x0C0A [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0CA7
-507: 0x0C12 [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
+507: 0x0C12 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
     → "...... I am sorry, <Player>, but the war council was not at all pleased with your performance, and has deemed you unworthy of your highest-ranking medal."
 508: 0x0C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
-509: 0x0C16 [0x1D] PRINT_EVENT_MESSAGE(message_id=12143*)
+509: 0x0C16 [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
     → "It shall be confiscated the moment its magic seal expires."
 510: 0x0C19 [0x23] WAIT_FOR_DIALOG_INTERACTION
-511: 0x0C1A [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
+511: 0x0C1A [0x1D] PRINT_EVENT_MESSAGE(message_id=12145*)
     → "You have two choices left, <Player>. You may either accept the council's decision, or, if your medal's seal still holds, you may continue your efforts to improve your evaluation."
 512: 0x0C1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x0C1E [0x06] ExtData[1]->WorkLocal[1] = 0
 514: 0x0C21 [0x02] IF !(Work_Zone[4] >= 1*) GOTO 0x0C35
-515: 0x0C29 [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
+515: 0x0C29 [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
     → "Unfortunately, it no longer retains any power..."
 516: 0x0C2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 517: 0x0C2D [0x03] ExtData[1]->WorkLocal[1] = 2*
 518: 0x0C32 [0x01] GOTO 0x0C48
 519: 0x0C35 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0C44
-520: 0x0C3D [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
+520: 0x0C3D [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
     → "However, it retains less than a day's power (Earth time)."
 521: 0x0C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x0C41 [0x01] GOTO 0x0C48
-523: 0x0C44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12145*)
+523: 0x0C44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12146*)
     → "It retains $2 day[/s] (Earth time) of power."
 524: 0x0C47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C48:
-525: 0x0C48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
+525: 0x0C48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12149*)
     → "What is your decision?"
 526: 0x0C4B [0x23] WAIT_FOR_DIALOG_INTERACTION
-527: 0x0C4C [0x24] CREATE_DIALOG(message_id=12149*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+527: 0x0C4C [0x24] CREATE_DIALOG(message_id=12150*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "You can... [Return the medal at once./Continue your efforts.]"
 528: 0x0C53 [0x25] WAIT_DIALOG_SELECT()
 529: 0x0C54 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C6B
-530: 0x0C5C [0x1D] PRINT_EVENT_MESSAGE(message_id=12151*)
+530: 0x0C5C [0x1D] PRINT_EVENT_MESSAGE(message_id=12152*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 531: 0x0C5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x0C60 [0x03] Work_Zone[1] = 1073741824*
 533: 0x0C65 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0C6B:
-534: 0x0C6B [0x24] CREATE_DIALOG(message_id=12150*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+534: 0x0C6B [0x24] CREATE_DIALOG(message_id=12151*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "Are you certain? [Yes./No.]"
 535: 0x0C72 [0x25] WAIT_DIALOG_SELECT()
 536: 0x0C73 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C8A
-537: 0x0C7B [0x1D] PRINT_EVENT_MESSAGE(message_id=12151*)
+537: 0x0C7B [0x1D] PRINT_EVENT_MESSAGE(message_id=12152*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 538: 0x0C7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 539: 0x0C7F [0x03] Work_Zone[1] = 1073741824*
 540: 0x0C84 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0C8A:
-541: 0x0C8A [0x1D] PRINT_EVENT_MESSAGE(message_id=12152*)
+541: 0x0C8A [0x1D] PRINT_EVENT_MESSAGE(message_id=12153*)
     → "Understood. Perhaps the weight of this medal was a bit too much for you, <Player>."
 542: 0x0C8D [0x23] WAIT_FOR_DIALOG_INTERACTION
-543: 0x0C8E [0x1D] PRINT_EVENT_MESSAGE(message_id=12153*)
+543: 0x0C8E [0x1D] PRINT_EVENT_MESSAGE(message_id=12154*)
     → "If you wish to submit another application for evaluation, please visit me again in [five days'/one hour's] time."
 544: 0x0C91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 545: 0x0C92 [0x03] Work_Zone[1] = 2*
@@ -1417,67 +1417,67 @@ SUBROUTINE_0C8A:
 548: 0x0CA2 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 549: 0x0CA4 [0x01] GOTO 0x0E5F
 550: 0x0CA7 [0x02] IF !(Work_Zone[3] == 5*) GOTO 0x0D4C
-551: 0x0CAF [0x1D] PRINT_EVENT_MESSAGE(message_id=12154*)
+551: 0x0CAF [0x1D] PRINT_EVENT_MESSAGE(message_id=12155*)
     → "...... I regret to inform you, <Player>, that your performance this term fell a measure short of the council's expectations. Admittedly high expectations, but nevertheless..."
 552: 0x0CB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-553: 0x0CB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12155*)
+553: 0x0CB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12156*)
     → "Still, you have proven your worth to our nation on many an occasion. In light of your past services, the council has seen fit to exempt you from demotion at this time."
 554: 0x0CB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x0CB7 [0x06] ExtData[1]->WorkLocal[1] = 0
 556: 0x0CBA [0x02] IF !(Work_Zone[4] >= 1*) GOTO 0x0CCE
-557: 0x0CC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
+557: 0x0CC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
     → "Incidentally, your seal is no longer effective."
 558: 0x0CC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x0CC6 [0x03] ExtData[1]->WorkLocal[1] = 2*
 560: 0x0CCB [0x01] GOTO 0x0CE1
 561: 0x0CCE [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0CDD
-562: 0x0CD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12157*)
+562: 0x0CD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
     → "Incidentally, your seal retains less than a day's power (Earth time)."
 563: 0x0CD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 564: 0x0CDA [0x01] GOTO 0x0CE1
-565: 0x0CDD [0x1D] PRINT_EVENT_MESSAGE(message_id=12156*)
+565: 0x0CDD [0x1D] PRINT_EVENT_MESSAGE(message_id=12157*)
     → "Incidentally, your seal will remain effective for $2 more day[/s] (Earth time)."
 566: 0x0CE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0CE1:
-567: 0x0CE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
+567: 0x0CE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12160*)
     → "You may end your evaluation here, or press on. What say you?"
 568: 0x0CE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-569: 0x0CE5 [0x24] CREATE_DIALOG(message_id=12134*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+569: 0x0CE5 [0x24] CREATE_DIALOG(message_id=12135*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "End the evaluation? [Yes./No.]"
 570: 0x0CEC [0x25] WAIT_DIALOG_SELECT()
 571: 0x0CED [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D04
-572: 0x0CF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12160*)
+572: 0x0CF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
     → "Very well. We will be following your continued efforts with interest."
 573: 0x0CF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 574: 0x0CF9 [0x03] Work_Zone[1] = 1073741824*
 575: 0x0CFE [0x01] GOTO 0x0E62
 
 SUBROUTINE_0D04:
-576: 0x0D04 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
+576: 0x0D04 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
     → "By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal."
 577: 0x0D07 [0x23] WAIT_FOR_DIALOG_INTERACTION
-578: 0x0D08 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
+578: 0x0D08 [0x1D] PRINT_EVENT_MESSAGE(message_id=12163*)
     → "However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void."
 579: 0x0D0B [0x23] WAIT_FOR_DIALOG_INTERACTION
-580: 0x0D0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12163*)
+580: 0x0D0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
     → "Please consider carefully your options before making this important decision."
 581: 0x0D0F [0x23] WAIT_FOR_DIALOG_INTERACTION
-582: 0x0D10 [0x24] CREATE_DIALOG(message_id=12139*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+582: 0x0D10 [0x24] CREATE_DIALOG(message_id=12140*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "Are you absolutely sure? [Yes./No.]"
 583: 0x0D17 [0x25] WAIT_DIALOG_SELECT()
 584: 0x0D18 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D2F
-585: 0x0D20 [0x1D] PRINT_EVENT_MESSAGE(message_id=12160*)
+585: 0x0D20 [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
     → "Very well. We will be following your continued efforts with interest."
 586: 0x0D23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 587: 0x0D24 [0x03] Work_Zone[1] = 1073741824*
 588: 0x0D29 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0D2F:
-589: 0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
+589: 0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=12165*)
     → "Done. Your medal has been given a new magic seal."
 590: 0x0D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-591: 0x0D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=12165*)
+591: 0x0D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=12166*)
     → "Oh yes, and please note that you will not be eligible for another evaluation for [five days/one hour] (Earth time)."
 592: 0x0D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x0D37 [0x03] Work_Zone[1] = 2*
@@ -1486,44 +1486,44 @@ SUBROUTINE_0D2F:
 596: 0x0D47 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 597: 0x0D49 [0x01] GOTO 0x0E5F
 598: 0x0D4C [0x02] IF !(Work_Zone[3] == 6*) GOTO 0x0DC2
-599: 0x0D54 [0x1D] PRINT_EVENT_MESSAGE(message_id=12154*)
+599: 0x0D54 [0x1D] PRINT_EVENT_MESSAGE(message_id=12155*)
     → "...... I regret to inform you, <Player>, that your performance this term fell a measure short of the council's expectations. Admittedly high expectations, but nevertheless..."
 600: 0x0D57 [0x23] WAIT_FOR_DIALOG_INTERACTION
-601: 0x0D58 [0x1D] PRINT_EVENT_MESSAGE(message_id=12155*)
+601: 0x0D58 [0x1D] PRINT_EVENT_MESSAGE(message_id=12156*)
     → "Still, you have proven your worth to our nation on many an occasion. In light of your past services, the council has seen fit to exempt you from demotion at this time."
 602: 0x0D5B [0x23] WAIT_FOR_DIALOG_INTERACTION
 603: 0x0D5C [0x06] ExtData[1]->WorkLocal[1] = 0
 604: 0x0D5F [0x02] IF !(Work_Zone[4] >= 1*) GOTO 0x0D73
-605: 0x0D67 [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
+605: 0x0D67 [0x1D] PRINT_EVENT_MESSAGE(message_id=12159*)
     → "Incidentally, your seal is no longer effective."
 606: 0x0D6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 607: 0x0D6B [0x03] ExtData[1]->WorkLocal[1] = 2*
 608: 0x0D70 [0x01] GOTO 0x0D86
 609: 0x0D73 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0D82
-610: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=12157*)
+610: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=12158*)
     → "Incidentally, your seal retains less than a day's power (Earth time)."
 611: 0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 612: 0x0D7F [0x01] GOTO 0x0D86
-613: 0x0D82 [0x1D] PRINT_EVENT_MESSAGE(message_id=12156*)
+613: 0x0D82 [0x1D] PRINT_EVENT_MESSAGE(message_id=12157*)
     → "Incidentally, your seal will remain effective for $2 more day[/s] (Earth time)."
 614: 0x0D85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0D86:
-615: 0x0D86 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
+615: 0x0D86 [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
     → "Would you like to continue this month's evaluation in a further attempt to receive the next medal, or would you rather end the evaluation and maintain your current honors?"
 616: 0x0D89 [0x23] WAIT_FOR_DIALOG_INTERACTION
-617: 0x0D8A [0x24] CREATE_DIALOG(message_id=12134*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+617: 0x0D8A [0x24] CREATE_DIALOG(message_id=12135*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "End the evaluation? [Yes./No.]"
 618: 0x0D91 [0x25] WAIT_DIALOG_SELECT()
 619: 0x0D92 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0DA9
-620: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=12160*)
+620: 0x0D9A [0x1D] PRINT_EVENT_MESSAGE(message_id=12161*)
     → "Very well. We will be following your continued efforts with interest."
 621: 0x0D9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 622: 0x0D9E [0x03] Work_Zone[1] = 1073741824*
 623: 0x0DA3 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0DA9:
-624: 0x0DA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12169*)
+624: 0x0DA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12170*)
     → "You are a true hero to our nation. Though you may be exempt from demotion, we ask that you do not let up in the fight. Our hopes rest with you, <Player>!"
 625: 0x0DAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 626: 0x0DAD [0x03] Work_Zone[1] = 2*
@@ -1532,61 +1532,61 @@ SUBROUTINE_0DA9:
 629: 0x0DBD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 630: 0x0DBF [0x01] GOTO 0x0E5F
 631: 0x0DC2 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0E5F
-632: 0x0DCA [0x1D] PRINT_EVENT_MESSAGE(message_id=12129*)
+632: 0x0DCA [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
     → "While the Allied War Council was pleased with your work, it was determined that your performance did not warrant the conferral of further decoration."
 633: 0x0DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 634: 0x0DCE [0x06] ExtData[1]->WorkLocal[1] = 0
 635: 0x0DD1 [0x02] IF !(Work_Zone[4] >= 1*) GOTO 0x0DE5
-636: 0x0DD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
+636: 0x0DD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
     → "Your current campaign medal has already expired."
 637: 0x0DDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 638: 0x0DDD [0x03] ExtData[1]->WorkLocal[1] = 2*
 639: 0x0DE2 [0x01] GOTO 0x0DF8
 640: 0x0DE5 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0DF4
-641: 0x0DED [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
+641: 0x0DED [0x1D] PRINT_EVENT_MESSAGE(message_id=12132*)
     → "Your current campaign medal will expire in less than a day (Earth time)."
 642: 0x0DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 643: 0x0DF1 [0x01] GOTO 0x0DF8
-644: 0x0DF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12130*)
+644: 0x0DF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12131*)
     → "You still have $2 day[/s] (Earth time) until your current campaign medal expires."
 645: 0x0DF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DF8:
-646: 0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12133*)
+646: 0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12134*)
     → "Would you like to continue this month's evaluation in a further attempt to receive the next medal, or would you rather end the evaluation and maintain your current honors?"
 647: 0x0DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
-648: 0x0DFC [0x24] CREATE_DIALOG(message_id=12134*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+648: 0x0DFC [0x24] CREATE_DIALOG(message_id=12135*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "End the evaluation? [Yes./No.]"
 649: 0x0E03 [0x25] WAIT_DIALOG_SELECT()
 650: 0x0E04 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0E1B
-651: 0x0E0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+651: 0x0E0C [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 652: 0x0E0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 653: 0x0E10 [0x03] Work_Zone[1] = 1073741824*
 654: 0x0E15 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0E1B:
-655: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
+655: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
     → "By ending the evaluation, you will have accepted the war council's decision to maintain your current rank, and be granted another thirty-day seal on your current medal."
 656: 0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
-657: 0x0E1F [0x1D] PRINT_EVENT_MESSAGE(message_id=12137*)
+657: 0x0E1F [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
     → "However, any work you have done during the past evaluation period towards the procurement of the next medal will become null and void."
 658: 0x0E22 [0x23] WAIT_FOR_DIALOG_INTERACTION
-659: 0x0E23 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+659: 0x0E23 [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
     → "Please consider carefully your options before making this important decision."
 660: 0x0E26 [0x23] WAIT_FOR_DIALOG_INTERACTION
-661: 0x0E27 [0x24] CREATE_DIALOG(message_id=12139*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+661: 0x0E27 [0x24] CREATE_DIALOG(message_id=12140*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "Are you absolutely sure? [Yes./No.]"
 662: 0x0E2E [0x25] WAIT_DIALOG_SELECT()
 663: 0x0E2F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0E46
-664: 0x0E37 [0x1D] PRINT_EVENT_MESSAGE(message_id=12135*)
+664: 0x0E37 [0x1D] PRINT_EVENT_MESSAGE(message_id=12136*)
     → "Excellent. Speak with me again when you are ready to submit your next application. Good luck, <Player>."
 665: 0x0E3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x0E3B [0x03] Work_Zone[1] = 1073741824*
 667: 0x0E40 [0x01] GOTO 0x0E62
 
 SUBROUTINE_0E46:
-668: 0x0E46 [0x1D] PRINT_EVENT_MESSAGE(message_id=12140*)
+668: 0x0E46 [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
     → "Done. Your medal has been given a new magic seal."
 669: 0x0E49 [0x23] WAIT_FOR_DIALOG_INTERACTION
 670: 0x0E4A [0x03] Work_Zone[1] = 2*
@@ -1701,7 +1701,7 @@ SUBROUTINE_0E62:
   0: 0x0E64 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0E69 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E6A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0E6F [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+  3: 0x0E6F [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "Greetings, soldier. Unfortunately, I cannot authorize the evaluations of those individuals who have not pledged their allegiance to this nation's forces."
   4: 0x0E72 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0E73 [0x21] END_EVENT
@@ -1812,7 +1812,7 @@ SUBROUTINE_0E62:
   1: 0x110E [0x03] Work_Zone[1] = 7*
   2: 0x1113 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x1115 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  4: 0x1117 [0x24] CREATE_DIALOG(message_id=12170*, default_option=0*, option_flags=0*)
+  4: 0x1117 [0x24] CREATE_DIALOG(message_id=12171*, default_option=0*, option_flags=0*)
     → "Choose wisely. [Set days./Rank Points $0./Rank $1/Reset to default./Quit.]"
   5: 0x111E [0x25] WAIT_DIALOG_SELECT()
   6: 0x111F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x112D
@@ -1836,7 +1836,7 @@ SUBROUTINE_1159:
  22: 0x115D [0x00] END_REQSTACK()
 
 SUBROUTINE_115E:
- 23: 0x115E [0x1D] PRINT_EVENT_MESSAGE(message_id=12171*)
+ 23: 0x115E [0x1D] PRINT_EVENT_MESSAGE(message_id=12172*)
     → "Push forward how many hours?"
  24: 0x1161 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1162 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -1845,13 +1845,13 @@ SUBROUTINE_115E:
  28: 0x116F [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
  29: 0x1178 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  30: 0x117A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 31: 0x117C [0x1D] PRINT_EVENT_MESSAGE(message_id=12172*)
+ 31: 0x117C [0x1D] PRINT_EVENT_MESSAGE(message_id=12173*)
     → "Time has been pushed forward $0 hour(s)."
  32: 0x117F [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x1180 [0x1B] RETURN
 
 SUBROUTINE_1181:
- 34: 0x1181 [0x1D] PRINT_EVENT_MESSAGE(message_id=12173*)
+ 34: 0x1181 [0x1D] PRINT_EVENT_MESSAGE(message_id=12174*)
     → "Set the amount of points."
  35: 0x1184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x1185 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -1860,13 +1860,13 @@ SUBROUTINE_1181:
  39: 0x1192 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
  40: 0x119B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  41: 0x119D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 42: 0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=12174*)
+ 42: 0x119F [0x1D] PRINT_EVENT_MESSAGE(message_id=12175*)
     → "Points have been set at $0."
  43: 0x11A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x11A3 [0x1B] RETURN
 
 SUBROUTINE_11A4:
- 45: 0x11A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12175*)
+ 45: 0x11A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12176*)
     → "Set rank, please."
  46: 0x11A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x11A8 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -1875,20 +1875,20 @@ SUBROUTINE_11A4:
  50: 0x11B5 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=31*, target=Work_Zone[1], source=Work_Zone[2])
  51: 0x11BE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  52: 0x11C0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 53: 0x11C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12176*)
+ 53: 0x11C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12177*)
     → "Rank has been set at $0."
  54: 0x11C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x11C6 [0x1B] RETURN
 
 SUBROUTINE_11C7:
- 56: 0x11C7 [0x24] CREATE_DIALOG(message_id=12177*, default_option=1*, option_flags=0*)
+ 56: 0x11C7 [0x24] CREATE_DIALOG(message_id=12178*, default_option=1*, option_flags=0*)
     → "Reset to default settings? [Yes./No.]"
  57: 0x11CE [0x25] WAIT_DIALOG_SELECT()
  58: 0x11CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11E7
  59: 0x11D7 [0x03] Work_Zone[1] = 6*
  60: 0x11DC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  61: 0x11DE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 62: 0x11E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12178*)
+ 62: 0x11E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12179*)
     → "Reset complete."
  63: 0x11E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x11E4 [0x01] GOTO 0x11E7

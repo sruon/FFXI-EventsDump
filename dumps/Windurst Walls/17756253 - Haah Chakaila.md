@@ -35,13 +35,13 @@
 |       7 | 0xFFFEDD57  |  4294892887 |
 |       8 | 0x1B9D3     |      113107 |
 |       9 | 0xFFFFD8F0  |  4294957296 |
-|      10 | 0x1F12      |        7954 |
-|      11 | 0x1F13      |        7955 |
+|      10 | 0x1F13      |        7955 |
+|      11 | 0x1F14      |        7956 |
 
 ## String References
 
-- **7954**: Twenty yearrrs ago, the allied forrrces succeeded in defeating the lord of the beastmen. Howeverrr, they were not able to take the beastman forces out completely.
-- **7955**: If Windurst had only a little more powerrr then, we could have taken care of our birrrd problem, and there would be no need to fake a happy coexistence with the Yagudo.
+- **7955**: Twenty yearrrs ago, the allied forrrces succeeded in defeating the lord of the beastmen. Howeverrr, they were not able to take the beastman forces out completely.
+- **7956**: If Windurst had only a little more powerrr then, we could have taken care of our birrrd problem, and there would be no need to fake a happy coexistence with the Yagudo.
 
 ## Events
 
@@ -214,10 +214,10 @@
   2: 0x0044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0045 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0046 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Haah Chakaila (ID: 17756253/0x010EF05D), tag_num=0x01)
-  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "Twenty yearrrs ago, the allied forrrces succeeded in defeating the lord of the beastmen. Howeverrr, they were not able to take the beastman forces out completely."
   6: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  7: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "If Windurst had only a little more powerrr then, we could have taken care of our birrrd problem, and there would be no need to fake a happy coexistence with the Yagudo."
   8: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0055 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Haah Chakaila (ID: 17756253/0x010EF05D), tag_num=0x02)

@@ -26,16 +26,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA2      |        7330 |
+|       0 | 0x1CA3      |        7331 |
 |       1 | 0x010A      |         266 |
-|       2 | 0x1CDA      |        7386 |
-|       3 | 0x1CE5      |        7397 |
+|       2 | 0x1CDB      |        7387 |
+|       3 | 0x1CE6      |        7398 |
 
 ## String References
 
-- **7330**: Shipments of mythril used to be ferried to this dock from the Palborough Mines, but it's been closed off since the Quadav took Palborough.
-- **7386**: If you happen to find $6, take it to Tall Mountain, a guard in the off-limits area in the Mines District.
-- **7397**: When you find proof of Werei's journey, bring it here. I'll be waiting for you.
+- **7331**: Shipments of mythril used to be ferried to this dock from the Palborough Mines, but it's been closed off since the Quadav took Palborough.
+- **7387**: If you happen to find $6, take it to Tall Mountain, a guard in the off-limits area in the Mines District.
+- **7398**: When you find proof of Werei's journey, bring it here. I'll be waiting for you.
 
 ## Events
 
@@ -81,7 +81,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
     → "Shipments of mythril used to be ferried to this dock from the Palborough Mines, but it's been closed off since the Quadav took Palborough."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -132,7 +132,7 @@
 ```
   0: 0x000D [0x03] Work_Zone[9] = 266*
   1: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+  2: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "If you happen to find $6, take it to Tall Mountain, a guard in the off-limits area in the Mines District."
   3: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001B [0x21] END_EVENT
@@ -182,7 +182,7 @@
 
 ```
   0: 0x001E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7397*)
+  1: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
     → "When you find proof of Werei's journey, bring it here. I'll be waiting for you."
   2: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0027 [0x21] END_EVENT

@@ -175,23 +175,23 @@
 |      14 | 0x0708      |        1800 |
 |      15 | 0x052E      |        1326 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x2A70      |       10864 |
-|      18 | 0x2C10      |       11280 |
-|      19 | 0x2C11      |       11281 |
+|      17 | 0x2A71      |       10865 |
+|      18 | 0x2C11      |       11281 |
+|      19 | 0x2C12      |       11282 |
 |      20 | 0x164C      |        5708 |
-|      21 | 0x2BAD      |       11181 |
-|      22 | 0x2BAE      |       11182 |
-|      23 | 0x2C12      |       11282 |
-|      24 | 0x2C13      |       11283 |
-|      25 | 0x2C14      |       11284 |
-|      26 | 0x2C15      |       11285 |
+|      21 | 0x2BAE      |       11182 |
+|      22 | 0x2BAF      |       11183 |
+|      23 | 0x2C13      |       11283 |
+|      24 | 0x2C14      |       11284 |
+|      25 | 0x2C15      |       11285 |
+|      26 | 0x2C16      |       11286 |
 |      27 | 0xFFFEDFE9  |  4294893545 |
 |      28 | 0x150B7     |       86199 |
 |      29 | 0xFFFFEC79  |  4294962297 |
-|      30 | 0x3353      |       13139 |
-|      31 | 0x3354      |       13140 |
-|      32 | 0x33A6      |       13222 |
-|      33 | 0x33A7      |       13223 |
+|      30 | 0x3354      |       13140 |
+|      31 | 0x3355      |       13141 |
+|      32 | 0x33A7      |       13223 |
+|      33 | 0x33A8      |       13224 |
 |      34 | 0x0935      |        2357 |
 |      35 | 0x37EF      |       14319 |
 |      36 | 0x0078      |         120 |
@@ -206,13 +206,13 @@
 |      45 | 0x36C81     |      224385 |
 |      46 | 0xFFFFED10  |  4294962448 |
 |      47 | 0x49B7      |       18871 |
-|      48 | 0x3576      |       13686 |
+|      48 | 0x3577      |       13687 |
 |      49 | 0x48B6      |       18614 |
-|      50 | 0x3577      |       13687 |
-|      51 | 0x3651      |       13905 |
-|      52 | 0x3641      |       13889 |
-|      53 | 0x34D5      |       13525 |
-|      54 | 0x34D6      |       13526 |
+|      50 | 0x3578      |       13688 |
+|      51 | 0x3652      |       13906 |
+|      52 | 0x3642      |       13890 |
+|      53 | 0x34D6      |       13526 |
+|      54 | 0x34D7      |       13527 |
 |      55 | 0x0001      |           1 |
 |      56 | 0x0080      |         128 |
 |      57 | 0x000C      |          12 |
@@ -303,7 +303,7 @@
 |     142 | 0xFFFFE636  |  4294960694 |
 |     143 | 0x1582      |        5506 |
 |     144 | 0xFFFFE544  |  4294960452 |
-|     145 | 0x35E5      |       13797 |
+|     145 | 0x35E6      |       13798 |
 |     146 | 0x0193      |         403 |
 |     147 | 0xB9A3      |       47523 |
 |     148 | 0x049A      |        1178 |
@@ -329,16 +329,16 @@
 |     168 | 0x05F9      |        1529 |
 |     169 | 0x096E      |        2414 |
 |     170 | 0x09CE      |        2510 |
-|     171 | 0x3AB4      |       15028 |
-|     172 | 0x3AB5      |       15029 |
+|     171 | 0x3AB5      |       15029 |
+|     172 | 0x3AB6      |       15030 |
 |     173 | 0xFFFFFAED  |  4294965997 |
 |     174 | 0xFFFF9E61  |  4294942305 |
 |     175 | 0xFFFFF830  |  4294965296 |
 
 ## String References
 
-- **15028**: What's this scroll? I can't tell arcane writings from a child's scrrribblings!
-- **15029**: If it isn't <Player>, looking healthy as everrr. Things here've gotten so busy that I'm having to call on the cubs for a bit of help!
+- **15029**: What's this scroll? I can't tell arcane writings from a child's scrrribblings!
+- **15030**: If it isn't <Player>, looking healthy as everrr. Things here've gotten so busy that I'm having to call on the cubs for a bit of help!
 
 ## Events
 
@@ -634,7 +634,7 @@
 ```
   0: 0x0065 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x006A [0x1C] WAIT(30* ticks)
-  2: 0x006D [0x2B] EventEntity [10864*]:
+  2: 0x006D [0x2B] EventEntity [10865*]:
     → "It's a bit rrroughed up rrright now, but this place ain't so bad. I could think about livin' here once we send the birdmen packin'..."
   3: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0075 [0x21] END_EVENT
@@ -664,10 +664,10 @@
 ```
   0: 0x0077 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007C [0x1C] WAIT(30* ticks)
-  2: 0x007F [0x2B] EventEntity [11280*]:
+  2: 0x007F [0x2B] EventEntity [11281*]:
     → "This seems like a job for you, <Player>."
   3: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0087 [0x2B] EventEntity [11281*]:
+  4: 0x0087 [0x2B] EventEntity [11282*]:
     → "Could you chase them down and make sure they rrreach Jeuno safely? I knew I could count on you!"
   5: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008F [0x21] END_EVENT
@@ -697,10 +697,10 @@
   0: 0x0091 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0096 [0x1C] WAIT(30* ticks)
   2: 0x0099 [0x03] Work_Zone[2] = 5708*
-  3: 0x009E [0x2B] EventEntity [11181*]:
+  3: 0x009E [0x2B] EventEntity [11182*]:
     → "<Player>, you slipped off in such a hurry last time."
   4: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00A6 [0x2B] EventEntity [11182*]:
+  5: 0x00A6 [0x2B] EventEntity [11183*]:
     → "Here's that "pat on the back" I mentioned. Keep up the good work!"
   6: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00AE [0x21] END_EVENT
@@ -729,7 +729,7 @@
 ```
   0: 0x00B0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B5 [0x1C] WAIT(30* ticks)
-  2: 0x00B8 [0x2B] EventEntity [11282*]:
+  2: 0x00B8 [0x2B] EventEntity [11283*]:
     → "<Player>! Stop picking fleas out of your fur and get your tail over to Castle Oztroja! Get the Tigresses outta there!"
   3: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00C0 [0x21] END_EVENT
@@ -758,7 +758,7 @@
 ```
   0: 0x00C2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C7 [0x1C] WAIT(30* ticks)
-  2: 0x00CA [0x2B] EventEntity [11283*]:
+  2: 0x00CA [0x2B] EventEntity [11284*]:
     → "Head on back to the fort. I'll join you there with Major Vashai as soon as we get mobilized."
   3: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00D2 [0x21] END_EVENT
@@ -787,10 +787,10 @@
 ```
   0: 0x00D4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00D9 [0x1C] WAIT(30* ticks)
-  2: 0x00DC [0x2B] EventEntity [11284*]:
+  2: 0x00DC [0x2B] EventEntity [11285*]:
     → "Have you forgotten what the Warlock Warlord said?"
   3: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00E4 [0x2B] EventEntity [11285*]:
+  4: 0x00E4 [0x2B] EventEntity [11286*]:
     → "Maybe you should try talking to Rotih Moalghett at the fort."
   5: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EC [0x21] END_EVENT
@@ -959,10 +959,10 @@
 ```
   0: 0x0107 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x010C [0x1C] WAIT(30* ticks)
-  2: 0x010F [0x2B] EventEntity [13139*]:
+  2: 0x010F [0x2B] EventEntity [13140*]:
     → "Do you rrremember where you're supposed to be?"
   3: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0117 [0x2B] EventEntity [13140*]:
+  4: 0x0117 [0x2B] EventEntity [13141*]:
     → "Not here, that's for surrre! Get your sorry little backside up to Sauromugue Champaign on the double, soldierrr!"
   5: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x011F [0x21] END_EVENT
@@ -991,7 +991,7 @@
 ```
   0: 0x0121 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0126 [0x1C] WAIT(30* ticks)
-  2: 0x0129 [0x2B] EventEntity [13222*]:
+  2: 0x0129 [0x2B] EventEntity [13223*]:
     → "<Player>? Why are you still putterrring about here? Didn't you hear the Warlock Warlord's orders? All Cobras are to make for San d'Oria at once!"
   3: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0131 [0x21] END_EVENT
@@ -1020,7 +1020,7 @@
 ```
   0: 0x0133 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0138 [0x1C] WAIT(30* ticks)
-  2: 0x013B [0x2B] EventEntity [13223*]:
+  2: 0x013B [0x2B] EventEntity [13224*]:
     → "<Player>! Fort Karugo-Narugo is on high alert, and you're still rrrunning around here with your tail between your legs!? All Cobras are to move out at once! That's an order!"
   3: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0143 [0x21] END_EVENT
@@ -1209,7 +1209,7 @@
   0: 0x01B6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01BB [0x1C] WAIT(30* ticks)
   2: 0x01BE [0x03] Work_Zone[2] = 18871*
-  3: 0x01C3 [0x2B] EventEntity [13686*]:
+  3: 0x01C3 [0x2B] EventEntity [13687*]:
     → "<Player>! Drrrop some of that stuff you're carrying and take this $0 off my hands already, will ya? What in the world could this be used for, anyway...?"
   4: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01CB [0x21] END_EVENT
@@ -1240,7 +1240,7 @@
   0: 0x01CD [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01D2 [0x1C] WAIT(30* ticks)
   2: 0x01D5 [0x03] Work_Zone[2] = 18614*
-  3: 0x01DA [0x2B] EventEntity [13687*]:
+  3: 0x01DA [0x2B] EventEntity [13688*]:
     → "Oh, <Player>. Lehko wanted me to give you this $0 as a reward for your brrravery. Lighten your burden and take it, will ya? And rest up while you can. Our fierrrcest battle still awaits."
   4: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01E2 [0x21] END_EVENT
@@ -1269,7 +1269,7 @@
 ```
   0: 0x01E4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01E9 [0x1C] WAIT(30* ticks)
-  2: 0x01EC [0x2B] EventEntity [13905*]:
+  2: 0x01EC [0x2B] EventEntity [13906*]:
     → "..."
   3: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01F4 [0x21] END_EVENT
@@ -1298,7 +1298,7 @@
 ```
   0: 0x01F6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01FB [0x1C] WAIT(30* ticks)
-  2: 0x01FE [0x2B] EventEntity [13889*]:
+  2: 0x01FE [0x2B] EventEntity [13890*]:
     → "Somethin' the matterrr, <Player>? Get your things together and head for Meriphataud on the double. We can't afford to miss our chance to pounce!"
   3: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0206 [0x21] END_EVENT
@@ -1328,10 +1328,10 @@
 ```
   0: 0x0208 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x020D [0x1C] WAIT(30* ticks)
-  2: 0x0210 [0x2B] EventEntity [13525*]:
+  2: 0x0210 [0x2B] EventEntity [13526*]:
     → "A half-Elvaan, half-Hume child called Lilisette? With fiery red hair, to boot..."
   3: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0218 [0x2B] EventEntity [13526*]:
+  4: 0x0218 [0x2B] EventEntity [13527*]:
     → "Sorry, but I can't say I know her. Wouldn't that frrriend of yours in San d'Oria know more about such a lass?"
   5: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0220 [0x21] END_EVENT
@@ -2545,7 +2545,7 @@
   0: 0x04D2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x04D7 [0x1C] WAIT(30* ticks)
   2: 0x04DA [0x03] Work_Zone[2] = 5708*
-  3: 0x04DF [0x2B] EventEntity [13797*]:
+  3: 0x04DF [0x2B] EventEntity [13798*]:
     → "Cobras are to rrreport to West Sarutabaruta, just outside Odin's Gate. That means you too, <Player>! On the double!"
   4: 0x04E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04E7 [0x21] END_EVENT
@@ -3867,7 +3867,7 @@
   0: 0x089B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x08A0 [0x1C] WAIT(30* ticks)
   2: 0x08A3 [0x03] Work_Zone[3] = 2510*
-  3: 0x08A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15028*)
+  3: 0x08A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=15029*)
     → "What's this scroll? I can't tell arcane writings from a child's scrrribblings!"
   4: 0x08AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08AC [0x21] END_EVENT
@@ -3896,7 +3896,7 @@
 ```
   0: 0x08AE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x08B3 [0x1C] WAIT(30* ticks)
-  2: 0x08B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15029*)
+  2: 0x08B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=15030*)
     → "If it isn't <Player>, looking healthy as everrr. Things here've gotten so busy that I'm having to call on the cubs for a bit of help!"
   3: 0x08B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x08BA [0x21] END_EVENT

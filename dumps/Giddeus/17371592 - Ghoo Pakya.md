@@ -23,21 +23,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBE      |        7358 |
-|       1 | 0x1CBF      |        7359 |
-|       2 | 0x1CC0      |        7360 |
-|       3 | 0x1CC1      |        7361 |
-|       4 | 0x1CC2      |        7362 |
-|       5 | 0x1CBD      |        7357 |
+|       0 | 0x1CBF      |        7359 |
+|       1 | 0x1CC0      |        7360 |
+|       2 | 0x1CC1      |        7361 |
+|       3 | 0x1CC2      |        7362 |
+|       4 | 0x1CC3      |        7363 |
+|       5 | 0x1CBE      |        7358 |
 
 ## String References
 
-- **7357**: Kyah! No time for smoothskins who carry no food offering! You be crawling away now, before my brethren sacrifice you instead! Kyah!
-- **7358**: You be coming long way to deliver this, kyah? You be telling other smoothskins to keep offerings coming! Kyah-kyah-kyah!
-- **7359**: Kyah!? Smoothskin wants to take offering back? Smoothskin wanting to destroy friendship, kyah?
-- **7360**: Altars be directly connecting to treasure chamber.
-- **7361**: Kyah! Smoothskin wanting it back so much, then smoothskin be crawling to treasure chamber on own hands and feets!
-- **7362**: We be not caring for your reasons. My brethren will not be taking this intrusion quietly! Kyah-kyah-kyah!
+- **7358**: Kyah! No time for smoothskins who carry no food offering! You be crawling away now, before my brethren sacrifice you instead! Kyah!
+- **7359**: You be coming long way to deliver this, kyah? You be telling other smoothskins to keep offerings coming! Kyah-kyah-kyah!
+- **7360**: Kyah!? Smoothskin wants to take offering back? Smoothskin wanting to destroy friendship, kyah?
+- **7361**: Altars be directly connecting to treasure chamber.
+- **7362**: Kyah! Smoothskin wanting it back so much, then smoothskin be crawling to treasure chamber on own hands and feets!
+- **7363**: We be not caring for your reasons. My brethren will not be taking this intrusion quietly! Kyah-kyah-kyah!
 
 ## Events
 
@@ -84,7 +84,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
     → "You be coming long way to deliver this, kyah? You be telling other smoothskins to keep offerings coming! Kyah-kyah-kyah!"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT
@@ -112,7 +112,7 @@
 
 ```
   0: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+  1: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Kyah!? Smoothskin wants to take offering back? Smoothskin wanting to destroy friendship, kyah?"
   2: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0016 [0x21] END_EVENT
@@ -140,13 +140,13 @@
 
 ```
   0: 0x0018 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
+  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "Altars be directly connecting to treasure chamber."
   2: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
     → "Kyah! Smoothskin wanting it back so much, then smoothskin be crawling to treasure chamber on own hands and feets!"
   4: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
+  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "We be not caring for your reasons. My brethren will not be taking this intrusion quietly! Kyah-kyah-kyah!"
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0029 [0x21] END_EVENT
@@ -174,7 +174,7 @@
 
 ```
   0: 0x002B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+  1: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "Kyah! No time for smoothskins who carry no food offering! You be crawling away now, before my brethren sacrifice you instead! Kyah!"
   2: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0034 [0x21] END_EVENT

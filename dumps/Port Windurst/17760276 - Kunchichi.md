@@ -43,16 +43,16 @@
 |       4 | 0x0E7C      |        3708 |
 |       5 | 0x0EA9      |        3753 |
 |       6 | 0x0EAA      |        3754 |
-|       7 | 0x300D      |       12301 |
-|       8 | 0x300E      |       12302 |
-|       9 | 0x3143      |       12611 |
-|      10 | 0x3144      |       12612 |
-|      11 | 0x3321      |       13089 |
+|       7 | 0x300E      |       12302 |
+|       8 | 0x300F      |       12303 |
+|       9 | 0x3144      |       12612 |
+|      10 | 0x3145      |       12613 |
+|      11 | 0x3322      |       13090 |
 |      12 | 0x001E      |          30 |
-|      13 | 0x3327      |       13095 |
-|      14 | 0x3328      |       13096 |
-|      15 | 0x3329      |       13097 |
-|      16 | 0x332A      |       13098 |
+|      13 | 0x3328      |       13096 |
+|      14 | 0x3329      |       13097 |
+|      15 | 0x332A      |       13098 |
+|      16 | 0x332B      |       13099 |
 
 ## String References
 
@@ -62,13 +62,13 @@
 - **3708**: If the red mage regiment gets more wands, then maybe, just maybe-a-waybe, I'll get a better hand-me-down wand!
 - **3753**: Doc Shantotto's one scary-a-wary granny!
 - **3754**: Quite a number of my predecessors have whamming-a-bamming fallen victim to her screwball acts.
-- **12301**: We've practiced-a-wacticed our fingers to the bone on this high-level magic... It seems the day has finally come where we can put it to the testaru!
-- **12302**: Naturally, we Orastery mages are going to break the minister outaru of the Dark Dungeon. The Orastery is invince-a-bubble!
-- **12611**: Have you seen Minister Ajido-Marujido around? As usual, he's nowhere to be found in the Orastery.
-- **12612**: I was hoping to try out the next level of destructo-dealing dweomers sometime soon, but I'm not sure if I'm ready. I need to ask the minister's opinion.
-- **13089**: <Player>'s badge flashes brightly.
-- **13095**: Hey, isn't that a mercenary badge? It has magical powers, right? Must be nice!
-- **13096**: Mojo-Pojo's badge flashes brightly.
+- **12302**: We've practiced-a-wacticed our fingers to the bone on this high-level magic... It seems the day has finally come where we can put it to the testaru!
+- **12303**: Naturally, we Orastery mages are going to break the minister outaru of the Dark Dungeon. The Orastery is invince-a-bubble!
+- **12612**: Have you seen Minister Ajido-Marujido around? As usual, he's nowhere to be found in the Orastery.
+- **12613**: I was hoping to try out the next level of destructo-dealing dweomers sometime soon, but I'm not sure if I'm ready. I need to ask the minister's opinion.
+- **13090**: <Player>'s badge flashes brightly.
+- **13096**: Hey, isn't that a mercenary badge? It has magical powers, right? Must be nice!
+- **13097**: Mojo-Pojo's badge flashes brightly.
 
 ## Events
 
@@ -393,10 +393,10 @@
   1: 0x009E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12301*)
+  4: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12302*)
     → "We've practiced-a-wacticed our fingers to the bone on this high-level magic... It seems the day has finally come where we can put it to the testaru!"
   5: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12302*)
+  6: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12303*)
     → "Naturally, we Orastery mages are going to break the minister outaru of the Dark Dungeon. The Orastery is invince-a-bubble!"
   7: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kunchichi (ID: 17760276/0x010F0014), tag_num=0x02)
@@ -452,10 +452,10 @@
   1: 0x00C0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12611*)
+  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12612*)
     → "Have you seen Minister Ajido-Marujido around? As usual, he's nowhere to be found in the Orastery."
   5: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12612*)
+  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12613*)
     → "I was hoping to try out the next level of destructo-dealing dweomers sometime soon, but I'm not sure if I'm ready. I need to ask the minister's opinion."
   7: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kunchichi (ID: 17760276/0x010F0014), tag_num=0x02)
@@ -556,22 +556,22 @@
 ```
   0: 0x00DD [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kunchichi (ID: 17760276/0x010F0014), tag_num=0x01)
-  2: 0x00E5 [0x48] [System] [13089*]:
+  2: 0x00E5 [0x48] [System] [13090*]:
     → "<Player>'s badge flashes brightly."
   3: 0x00E8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00ED [0x1C] WAIT(30* ticks)
-  5: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13095*)
+  5: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13096*)
     → "Hey, isn't that a mercenary badge? It has magical powers, right? Must be nice!"
   6: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00F4 [0x48] [System] [13096*]:
+  7: 0x00F4 [0x48] [System] [13097*]:
     → "Mojo-Pojo's badge flashes brightly."
   8: 0x00F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mojo-Pojo (ID: 17760277/0x010F0015), tag_num=0x01)
   9: 0x00FE [0x4A] Mojo-Pojo (ID: 17760277/0x010F0015) looks at LocalPlayer
  10: 0x0107 [0x1C] WAIT(30* ticks)
- 11: 0x010A [0x2B] Mojo-Pojo (ID: 17760277/0x010F0015) [13097*]:
+ 11: 0x010A [0x2B] Mojo-Pojo (ID: 17760277/0x010F0015) [13098*]:
     → "I, I, I wish I could go to the Near East as a m-m-mercenary..."
  12: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0112 [0x2B] Mojo-Pojo (ID: 17760277/0x010F0015) [13098*]:
+ 13: 0x0112 [0x2B] Mojo-Pojo (ID: 17760277/0x010F0015) [13099*]:
     → "Maybe I could hit it b-b-big there, just like Karaha-Baruha..."
  14: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x011A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kunchichi (ID: 17760276/0x010F0014), tag_num=0x02)

@@ -61,13 +61,13 @@
 |      17 | 0x000D      |          13 |
 |      18 | 0x3F795     |      259989 |
 |      19 | 0xFFF93CB8  |  4294524088 |
-|      20 | 0x1D13      |        7443 |
-|      21 | 0x1D1D      |        7453 |
+|      20 | 0x1D14      |        7444 |
+|      21 | 0x1D1E      |        7454 |
 
 ## String References
 
-- **7443**: You are to give us Cardians back our Mana Orbs! You have no need for them!
-- **7453**: Then let us be off!
+- **7444**: You are to give us Cardians back our Mana Orbs! You have no need for them!
+- **7454**: Then let us be off!
 
 ## Events
 
@@ -792,7 +792,7 @@ SUBROUTINE_04F1:
 #### Opcodes
 
 ```
-  0: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+  0: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
     → "You are to give us Cardians back our Mana Orbs! You have no need for them!"
   1: 0x0546 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0547 [0x00] END_REQSTACK()
@@ -817,7 +817,7 @@ SUBROUTINE_04F1:
 #### Opcodes
 
 ```
-  0: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+  0: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Then let us be off!"
   1: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x054C [0x00] END_REQSTACK()

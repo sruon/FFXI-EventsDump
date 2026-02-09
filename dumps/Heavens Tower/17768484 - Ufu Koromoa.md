@@ -91,25 +91,25 @@
 |      21 | 0x01C0      |         448 |
 |      22 | 0x01C1      |         449 |
 |      23 | 0x01EA      |         490 |
-|      24 | 0x1FBC      |        8124 |
-|      25 | 0x1FBD      |        8125 |
-|      26 | 0x1FC4      |        8132 |
-|      27 | 0x1FC5      |        8133 |
-|      28 | 0x1FD7      |        8151 |
-|      29 | 0x1FDF      |        8159 |
-|      30 | 0x1FE0      |        8160 |
-|      31 | 0x2079      |        8313 |
-|      32 | 0x207A      |        8314 |
-|      33 | 0x207B      |        8315 |
-|      34 | 0x207C      |        8316 |
-|      35 | 0x207D      |        8317 |
-|      36 | 0x2087      |        8327 |
-|      37 | 0x2088      |        8328 |
-|      38 | 0x2104      |        8452 |
-|      39 | 0x2107      |        8455 |
-|      40 | 0x2108      |        8456 |
-|      41 | 0x2161      |        8545 |
-|      42 | 0x2162      |        8546 |
+|      24 | 0x1FBD      |        8125 |
+|      25 | 0x1FBE      |        8126 |
+|      26 | 0x1FC5      |        8133 |
+|      27 | 0x1FC6      |        8134 |
+|      28 | 0x1FD8      |        8152 |
+|      29 | 0x1FE0      |        8160 |
+|      30 | 0x1FE1      |        8161 |
+|      31 | 0x207A      |        8314 |
+|      32 | 0x207B      |        8315 |
+|      33 | 0x207C      |        8316 |
+|      34 | 0x207D      |        8317 |
+|      35 | 0x207E      |        8318 |
+|      36 | 0x2088      |        8328 |
+|      37 | 0x2089      |        8329 |
+|      38 | 0x2105      |        8453 |
+|      39 | 0x2108      |        8456 |
+|      40 | 0x2109      |        8457 |
+|      41 | 0x2162      |        8546 |
+|      42 | 0x2163      |        8547 |
 
 ## String References
 
@@ -129,25 +129,25 @@
 - **448**: My Mithra blood is boiling. I still have dreams about my motherrr being slaughtered by the beastmen.
 - **449**: And as orphans of the Great Warrr, I can tell you that all of my Sibyl Guard companions feel the same.
 - **490**: I am relieved to see you back in Windurst. When things settle down, please tell us of your adventures in the Northlands.
-- **8124**: If you ever grow tirrred of the adventuring life, we could use someone with your untapped potential.
-- **8125**: Windurst must be prepared for the days of strrrife ahead.
-- **8132**: The strongest of the Sibyl Guards is, without a doubt, Semih Lafihna. She has the ability to read the flow of things.
-- **8133**: The flow of water, the flow of wind, the flow of light. When the flow comes into focus, time stands still for a moment.
-- **8151**: Watch yourself in therrre, or you will have Lady Semih Lafihna to answerrr to!
-- **8159**: The Yagudo of Castle Oztroja are known to stage death matches for the pleasurrre of their king. They are nothing but bloodthirsty fiends.
-- **8160**: The Star Sibyl believes we should have amicable relations with these animals... What do you think?
-- **8313**: If you're looking for Semih Lafihna and the Orastery minister, they're in the Star Sibyl's chamberrrs.
-- **8314**: As you have been summoned here, I will grant you permission to pass through the door to the Vestal Chambers. An adventurer like yourself who travels the width and breadth of Vana'diel may find some way to triumph against the bearer of darkness.
-- **8315**: ... Those soulless eyes. A chill runs down my spine just thinking about it.
-- **8316**: We Sibyl Guard were terror-stricken--but those delicate little Tarutaru must've been scared out of their wits!
-- **8317**: With the stress she's been through, the Star Sibyl will be taking a break from her duties for a while.
-- **8327**: When the Star Sibyl announced she wanted to head down to the Full Moon Fountain, Semih Lafihna objected, saying it was too dangerous.
-- **8328**: However, the Star Sibyl insisted therrre was something she needed to make sure of. This is my personal opinion, but I think the Star Sibyl may have had some idea of the dark intruderrr's true nature.
-- **8452**: Semih Lafihna awaits you in the Star Sibyl's chamberrrs.
-- **8455**: You look nervous. I understand. A heavy fate rides upon your shoulderrrs.
-- **8456**: You must believe in yourself. There is nothing in this world that cannot be changed. Even a situation seemingly without hope can be rescued from the depths of despairrr.
-- **8545**: By killing the Great Beast, Karaha-Baruha saved Windurst from its fate of destruction.
-- **8546**: Even among the Tarutaru, there are those whose blood sings with passion and courage. Even we Mithra hold his name in high esteem.
+- **8125**: If you ever grow tirrred of the adventuring life, we could use someone with your untapped potential.
+- **8126**: Windurst must be prepared for the days of strrrife ahead.
+- **8133**: The strongest of the Sibyl Guards is, without a doubt, Semih Lafihna. She has the ability to read the flow of things.
+- **8134**: The flow of water, the flow of wind, the flow of light. When the flow comes into focus, time stands still for a moment.
+- **8152**: Watch yourself in therrre, or you will have Lady Semih Lafihna to answerrr to!
+- **8160**: The Yagudo of Castle Oztroja are known to stage death matches for the pleasurrre of their king. They are nothing but bloodthirsty fiends.
+- **8161**: The Star Sibyl believes we should have amicable relations with these animals... What do you think?
+- **8314**: If you're looking for Semih Lafihna and the Orastery minister, they're in the Star Sibyl's chamberrrs.
+- **8315**: As you have been summoned here, I will grant you permission to pass through the door to the Vestal Chambers. An adventurer like yourself who travels the width and breadth of Vana'diel may find some way to triumph against the bearer of darkness.
+- **8316**: ... Those soulless eyes. A chill runs down my spine just thinking about it.
+- **8317**: We Sibyl Guard were terror-stricken--but those delicate little Tarutaru must've been scared out of their wits!
+- **8318**: With the stress she's been through, the Star Sibyl will be taking a break from her duties for a while.
+- **8328**: When the Star Sibyl announced she wanted to head down to the Full Moon Fountain, Semih Lafihna objected, saying it was too dangerous.
+- **8329**: However, the Star Sibyl insisted therrre was something she needed to make sure of. This is my personal opinion, but I think the Star Sibyl may have had some idea of the dark intruderrr's true nature.
+- **8453**: Semih Lafihna awaits you in the Star Sibyl's chamberrrs.
+- **8456**: You look nervous. I understand. A heavy fate rides upon your shoulderrrs.
+- **8457**: You must believe in yourself. There is nothing in this world that cannot be changed. Even a situation seemingly without hope can be rescued from the depths of despairrr.
+- **8546**: By killing the Great Beast, Karaha-Baruha saved Windurst from its fate of destruction.
+- **8547**: Even among the Tarutaru, there are those whose blood sings with passion and courage. Even we Mithra hold his name in high esteem.
 
 ## Events
 
@@ -1229,12 +1229,12 @@
   1: 0x0361 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0362 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0363 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+  4: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "If you ever grow tirrred of the adventuring life, we could use someone with your untapped potential."
   5: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x036E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Foo Beibo (ID: 17768480/0x010F2020), tag_num=0x10)
   7: 0x0375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Foo Beibo (ID: 17768480/0x010F2020), tag_num=0x11)
-  8: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+  8: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "Windurst must be prepared for the days of strrrife ahead."
   9: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0380 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Foo Beibo (ID: 17768480/0x010F2020), tag_num=0x12)
@@ -1269,12 +1269,12 @@
   1: 0x0390 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0391 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0392 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  4: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "The strongest of the Sibyl Guards is, without a doubt, Semih Lafihna. She has the ability to read the flow of things."
   5: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x039D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Foo Beibo (ID: 17768480/0x010F2020), tag_num=0x10)
   7: 0x03A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Foo Beibo (ID: 17768480/0x010F2020), tag_num=0x11)
-  8: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  8: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "The flow of water, the flow of wind, the flow of light. When the flow comes into focus, time stands still for a moment."
   9: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x03AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Foo Beibo (ID: 17768480/0x010F2020), tag_num=0x12)
@@ -1308,7 +1308,7 @@
   1: 0x03BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03C0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x13)
-  4: 0x03C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8151*)
+  4: 0x03C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8152*)
     → "Watch yourself in therrre, or you will have Lady Semih Lafihna to answerrr to!"
   5: 0x03CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x14)
@@ -1342,10 +1342,10 @@
   1: 0x03DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03DD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x01)
-  4: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
+  4: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
     → "The Yagudo of Castle Oztroja are known to stage death matches for the pleasurrre of their king. They are nothing but bloodthirsty fiends."
   5: 0x03E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
+  6: 0x03E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
     → "The Star Sibyl believes we should have amicable relations with these animals... What do you think?"
   7: 0x03EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x03)
@@ -1381,12 +1381,12 @@
   1: 0x0404 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0405 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0406 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+  4: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "If you're looking for Semih Lafihna and the Orastery minister, they're in the Star Sibyl's chamberrrs."
   5: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0411 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x10)
   7: 0x0418 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x11)
-  8: 0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
+  8: 0x041F [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
     → "As you have been summoned here, I will grant you permission to pass through the door to the Vestal Chambers. An adventurer like yourself who travels the width and breadth of Vana'diel may find some way to triumph against the bearer of darkness."
   9: 0x0422 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0423 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x12)
@@ -1422,15 +1422,15 @@
   1: 0x0433 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0434 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0435 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x043C [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
+  4: 0x043C [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
     → "... Those soulless eyes. A chill runs down my spine just thinking about it."
   5: 0x043F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0440 [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
+  6: 0x0440 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
     → "We Sibyl Guard were terror-stricken--but those delicate little Tarutaru must've been scared out of their wits!"
   7: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0444 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x10)
   9: 0x044B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x11)
- 10: 0x0452 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
+ 10: 0x0452 [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
     → "With the stress she's been through, the Star Sibyl will be taking a break from her duties for a while."
  11: 0x0455 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0456 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x12)
@@ -1464,12 +1464,12 @@
   1: 0x0466 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0467 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0468 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
+  4: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
     → "When the Star Sibyl announced she wanted to head down to the Full Moon Fountain, Semih Lafihna objected, saying it was too dangerous."
   5: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0473 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x10)
   7: 0x047A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x11)
-  8: 0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+  8: 0x0481 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "However, the Star Sibyl insisted therrre was something she needed to make sure of. This is my personal opinion, but I think the Star Sibyl may have had some idea of the dark intruderrr's true nature."
   9: 0x0484 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0485 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x12)
@@ -1502,7 +1502,7 @@
   1: 0x0495 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0496 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0497 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x13)
-  4: 0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=8452*)
+  4: 0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=8453*)
     → "Semih Lafihna awaits you in the Star Sibyl's chamberrrs."
   5: 0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x14)
@@ -1537,12 +1537,12 @@
   1: 0x04B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8455*)
+  4: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8456*)
     → "You look nervous. I understand. A heavy fate rides upon your shoulderrrs."
   5: 0x04BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x10)
   7: 0x04C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x11)
-  8: 0x04CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8456*)
+  8: 0x04CD [0x1D] PRINT_EVENT_MESSAGE(message_id=8457*)
     → "You must believe in yourself. There is nothing in this world that cannot be changed. Even a situation seemingly without hope can be rescued from the depths of despairrr."
   9: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x12)
@@ -1577,12 +1577,12 @@
   1: 0x04E1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04E2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x0F)
-  4: 0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8545*)
+  4: 0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8546*)
     → "By killing the Great Beast, Karaha-Baruha saved Windurst from its fate of destruction."
   5: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x10)
   7: 0x04F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x11)
-  8: 0x04FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8546*)
+  8: 0x04FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8547*)
     → "Even among the Tarutaru, there are those whose blood sings with passion and courage. Even we Mithra hold his name in high esteem."
   9: 0x04FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0500 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ufu Koromoa (ID: 17768484/0x010F2024), tag_num=0x12)

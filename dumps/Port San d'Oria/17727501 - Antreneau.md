@@ -68,31 +68,31 @@
 |       3 | 0x00C8      |         200 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0014      |          20 |
-|       6 | 0x1D08      |        7432 |
+|       6 | 0x1D09      |        7433 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1D09      |        7433 |
-|       9 | 0x1D0A      |        7434 |
-|      10 | 0x1D0B      |        7435 |
+|       8 | 0x1D0A      |        7434 |
+|       9 | 0x1D0B      |        7435 |
+|      10 | 0x1D0C      |        7436 |
 |      11 | 0x0078      |         120 |
 |      12 | 0x003C      |          60 |
-|      13 | 0x1D0C      |        7436 |
+|      13 | 0x1D0D      |        7437 |
 |      14 | 0x0015      |          21 |
-|      15 | 0x1D0D      |        7437 |
-|      16 | 0x1D0E      |        7438 |
-|      17 | 0x1D0F      |        7439 |
-|      18 | 0x1D10      |        7440 |
+|      15 | 0x1D0E      |        7438 |
+|      16 | 0x1D0F      |        7439 |
+|      17 | 0x1D10      |        7440 |
+|      18 | 0x1D11      |        7441 |
 |      19 | 0x1106      |        4358 |
-|      20 | 0x1D11      |        7441 |
+|      20 | 0x1D12      |        7442 |
 |      21 | 0x0001      |           1 |
-|      22 | 0x1D12      |        7442 |
-|      23 | 0x1D18      |        7448 |
-|      24 | 0x1D19      |        7449 |
-|      25 | 0x1D1A      |        7450 |
-|      26 | 0x1D1B      |        7451 |
-|      27 | 0x1D1C      |        7452 |
-|      28 | 0x1D14      |        7444 |
-|      29 | 0x1D15      |        7445 |
-|      30 | 0x1D1D      |        7453 |
+|      22 | 0x1D13      |        7443 |
+|      23 | 0x1D19      |        7449 |
+|      24 | 0x1D1A      |        7450 |
+|      25 | 0x1D1B      |        7451 |
+|      26 | 0x1D1C      |        7452 |
+|      27 | 0x1D1D      |        7453 |
+|      28 | 0x1D15      |        7445 |
+|      29 | 0x1D16      |        7446 |
+|      30 | 0x1D1E      |        7454 |
 |      31 | 0x001A      |          26 |
 |      32 | 0x001B      |          27 |
 |      33 | 0x001D      |          29 |
@@ -100,49 +100,49 @@
 |      35 | 0x0005      |           5 |
 |      36 | 0x0019      |          25 |
 |      37 | 0x0006      |           6 |
-|      38 | 0x2102      |        8450 |
-|      39 | 0x2103      |        8451 |
-|      40 | 0x2104      |        8452 |
-|      41 | 0x2105      |        8453 |
-|      42 | 0x2106      |        8454 |
-|      43 | 0x2107      |        8455 |
-|      44 | 0x2108      |        8456 |
-|      45 | 0x2109      |        8457 |
-|      46 | 0x210A      |        8458 |
-|      47 | 0x210B      |        8459 |
-|      48 | 0x210C      |        8460 |
-|      49 | 0x210D      |        8461 |
+|      38 | 0x2103      |        8451 |
+|      39 | 0x2104      |        8452 |
+|      40 | 0x2105      |        8453 |
+|      41 | 0x2106      |        8454 |
+|      42 | 0x2107      |        8455 |
+|      43 | 0x2108      |        8456 |
+|      44 | 0x2109      |        8457 |
+|      45 | 0x210A      |        8458 |
+|      46 | 0x210B      |        8459 |
+|      47 | 0x210C      |        8460 |
+|      48 | 0x210D      |        8461 |
+|      49 | 0x210E      |        8462 |
 |      50 | 0x006B      |         107 |
-|      51 | 0x210E      |        8462 |
-|      52 | 0x210F      |        8463 |
-|      53 | 0x2110      |        8464 |
-|      54 | 0x2111      |        8465 |
-|      55 | 0x2112      |        8466 |
-|      56 | 0x2113      |        8467 |
+|      51 | 0x210F      |        8463 |
+|      52 | 0x2110      |        8464 |
+|      53 | 0x2111      |        8465 |
+|      54 | 0x2112      |        8466 |
+|      55 | 0x2113      |        8467 |
+|      56 | 0x2114      |        8468 |
 
 ## String References
 
-- **7432**: Egads, I'm hungry! I feel faint...
-- **7433**: Bring meat! Any meat, I say! I'm just back from a long march, and I hunger!
-- **7435**: Out of meat! Well I...I guess there's no helping that now, is there? What else have you got?
-- **7437**: By Altana! Not beans again...
-- **7439**: Please! I've had naught but beans for weeks!
-- **7440**: And a belly full of beans doesn't satisfy.
-- **7442**: By the Goddess, not beans again. Oh, anything...anything but beans.
-- **7444**: Why, these are fine $0! Hand them to the chef, friend, right away!
-- **7445**: What's this? I don't need this!
-- **7448**: Adventurer! You brought the meat, eh? I thank you from the bottom of my stomach!
-- **7449**: Let me share a tidbit of knowledge with you. It might come in handy.
-- **7450**: You know what they say about a good meal? Well, it's true that food can give you a real boost. Try a few dishes till you find what works for you.
-- **7451**: Tell you what, I'll give you a bit of this here. No, no, it's on me, really. I'd be eating beans if it weren't for you!
-- **7452**: Ah, but it seems you're carrying too much already. You come back when you've lightened your load.
-- **7453**: Go on, take it.
-- **8462**: If you wish to meet with my uncle, you must cross the Uleguerand Range.
-- **8463**: I am not permitted to give you a map of the area, however I will tell you the directions the guide gave my uncle.
-- **8464**: According to the guide, a cave found on the slopes of Thousandfall Ridge leads to the other side of the Uleguerand Range.
-- **8465**: You actually managed to find my uncle!?
-- **8466**: So, he is well? He travels a hard path, if what you say is true. I feel ashamed to be complaining of nothing more than a steady diet of beans.
-- **8467**: But I cannot quell this desire for meat! Bring me meat! Any dish with meat in it will do!
+- **7433**: Egads, I'm hungry! I feel faint...
+- **7434**: Bring meat! Any meat, I say! I'm just back from a long march, and I hunger!
+- **7436**: Out of meat! Well I...I guess there's no helping that now, is there? What else have you got?
+- **7438**: By Altana! Not beans again...
+- **7440**: Please! I've had naught but beans for weeks!
+- **7441**: And a belly full of beans doesn't satisfy.
+- **7443**: By the Goddess, not beans again. Oh, anything...anything but beans.
+- **7445**: Why, these are fine $0! Hand them to the chef, friend, right away!
+- **7446**: What's this? I don't need this!
+- **7449**: Adventurer! You brought the meat, eh? I thank you from the bottom of my stomach!
+- **7450**: Let me share a tidbit of knowledge with you. It might come in handy.
+- **7451**: You know what they say about a good meal? Well, it's true that food can give you a real boost. Try a few dishes till you find what works for you.
+- **7452**: Tell you what, I'll give you a bit of this here. No, no, it's on me, really. I'd be eating beans if it weren't for you!
+- **7453**: Ah, but it seems you're carrying too much already. You come back when you've lightened your load.
+- **7454**: Go on, take it.
+- **8463**: If you wish to meet with my uncle, you must cross the Uleguerand Range.
+- **8464**: I am not permitted to give you a map of the area, however I will tell you the directions the guide gave my uncle.
+- **8465**: According to the guide, a cave found on the slopes of Thousandfall Ridge leads to the other side of the Uleguerand Range.
+- **8466**: You actually managed to find my uncle!?
+- **8467**: So, he is well? He travels a hard path, if what you say is true. I feel ashamed to be complaining of nothing more than a steady diet of beans.
+- **8468**: But I cannot quell this desire for meat! Bring me meat! Any dish with meat in it will do!
 
 ## Events
 
@@ -262,7 +262,7 @@
   8: 0x003A [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
   9: 0x003D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=132*
  10: 0x004C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 11: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+ 11: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "Egads, I'm hungry! I feel faint..."
  12: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x005F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -273,14 +273,14 @@
  18: 0x008C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  19: 0x008D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  20: 0x008E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 21: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+ 21: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "Bring meat! Any meat, I say! I'm just back from a long march, and I hunger!"
  22: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00A1 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  24: 0x00A6 [0x1C] WAIT(30* ticks)
  25: 0x00A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
  26: 0x00BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nogelle (ID: 17727502/0x010E800E), Nogelle (ID: 17727502/0x010E800E)], work=30*
- 27: 0x00C9 [0x2B] Nogelle (ID: 17727502/0x010E800E) [7434*]:
+ 27: 0x00C9 [0x2B] Nogelle (ID: 17727502/0x010E800E) [7435*]:
     → "I am terribly sorry, sir. We've run out of meat, you see--"
  28: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00D1 [0x27] REQ_SET(priority=0x65, entity_id=Nogelle (ID: 17727502/0x010E800E), tag_num=0x02)
@@ -291,7 +291,7 @@
  34: 0x00F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  35: 0x00F8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  36: 0x00F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 37: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+ 37: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "Out of meat! Well I...I guess there's no helping that now, is there? What else have you got?"
  38: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x010C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -308,7 +308,7 @@
  50: 0x014E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  51: 0x014F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Nogelle (ID: 17727502/0x010E800E) Render.Flags0 and Render.Flags3 conditions are met
  52: 0x0154 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nogelle (ID: 17727502/0x010E800E), Nogelle (ID: 17727502/0x010E800E)], work=30*
- 53: 0x0163 [0x2B] Nogelle (ID: 17727502/0x010E800E) [7436*]:
+ 53: 0x0163 [0x2B] Nogelle (ID: 17727502/0x010E800E) [7437*]:
     → "We...have the usual. I'll bring it right out."
  54: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x016B [0x27] REQ_SET(priority=0x65, entity_id=Nogelle (ID: 17727502/0x010E800E), tag_num=0x02)
@@ -319,14 +319,14 @@
  60: 0x0191 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  61: 0x0192 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  62: 0x0193 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=21*
- 63: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+ 63: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "By Altana! Not beans again..."
  64: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x01A6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
  66: 0x01B3 [0x1C] WAIT(30* ticks)
  67: 0x01B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
  68: 0x01C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nogelle (ID: 17727502/0x010E800E), Nogelle (ID: 17727502/0x010E800E)], work=30*
- 69: 0x01D6 [0x2B] Nogelle (ID: 17727502/0x010E800E) [7438*]:
+ 69: 0x01D6 [0x2B] Nogelle (ID: 17727502/0x010E800E) [7439*]:
     → "I'm afraid so..."
  70: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01DE [0x27] REQ_SET(priority=0x65, entity_id=Nogelle (ID: 17727502/0x010E800E), tag_num=0x02)
@@ -334,11 +334,11 @@
  73: 0x01EB [0x1C] WAIT(30* ticks)
  74: 0x01EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=[132*, 0*]
  75: 0x01FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 76: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+ 76: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "Please! I've had naught but beans for weeks!"
  77: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0212 [0x1C] WAIT(30* ticks)
- 79: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+ 79: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "And a belly full of beans doesn't satisfy."
  80: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0219 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -350,7 +350,7 @@
  87: 0x0253 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Thierride (ID: 17727498/0x010E800A) Render.Flags0 and Render.Flags3 conditions are met
  88: 0x0258 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Thierride (ID: 17727498/0x010E800A), Thierride (ID: 17727498/0x010E800A)], work=30*
  89: 0x0267 [0x03] Work_Zone[2] = 4358*
- 90: 0x026C [0x2B] Thierride (ID: 17727498/0x010E800A) [7441*]:
+ 90: 0x026C [0x2B] Thierride (ID: 17727498/0x010E800A) [7442*]:
     → "Hmm... If only I had five $0, I could make something for him."
  91: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0274 [0x27] REQ_SET(priority=0x66, entity_id=Thierride (ID: 17727498/0x010E800A), tag_num=0x06)
@@ -387,7 +387,7 @@
 
 ```
   0: 0x02A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  1: 0x02B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+  1: 0x02B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "By the Goddess, not beans again. Oh, anything...anything but beans."
   2: 0x02B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02B4 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -424,20 +424,20 @@
   1: 0x02C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02C4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+  4: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "Adventurer! You brought the meat, eh? I thank you from the bottom of my stomach!"
   5: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02D8 [0x1C] WAIT(30* ticks)
-  7: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+  7: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "Let me share a tidbit of knowledge with you. It might come in handy."
   8: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02DF [0x1C] WAIT(30* ticks)
- 10: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
+ 10: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
     → "You know what they say about a good meal? Well, it's true that food can give you a real boost. Try a few dishes till you find what works for you."
  11: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02E6 [0x1C] WAIT(30* ticks)
  13: 0x02E9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
+ 14: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
     → "Tell you what, I'll give you a bit of this here. No, no, it's on me, really. I'd be eating beans if it weren't for you!"
  15: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x02FC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -472,7 +472,7 @@
   1: 0x0313 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0314 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0315 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+  4: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Ah, but it seems you're carrying too much already. You come back when you've lightened your load."
   5: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0328 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -508,7 +508,7 @@
   3: 0x033A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x033B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   5: 0x034A [0x03] Work_Zone[2] = 4358*
-  6: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+  6: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "Why, these are fine $0! Hand them to the chef, friend, right away!"
   7: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0353 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -545,7 +545,7 @@
   2: 0x0366 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0367 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0368 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+  5: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "What's this? I don't need this!"
   6: 0x037A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x037B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -581,7 +581,7 @@
   2: 0x038E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x038F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0390 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+  5: 0x039F [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Go on, take it."
   6: 0x03A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03A3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1407,12 +1407,12 @@
 SUBROUTINE_0617:
  26: 0x0617 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  27: 0x0628 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x17)
- 28: 0x062F [0x2B] Antreneau (ID: 17727501/0x010E800D) [8450*]:
+ 28: 0x062F [0x2B] Antreneau (ID: 17727501/0x010E800D) [8451*]:
     → "Beans, beans, and more beans. If the world were not in this sorry state, my connections with the count would have me seated at a banquet table."
  29: 0x0636 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0637 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x18)
  31: 0x063E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0D)
- 32: 0x0645 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8451*]:
+ 32: 0x0645 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8452*]:
     → "Will not Uncle Louverance restore the Knights Mistalle to our former glory in the foreseeable future? An age has passed since he left on his journey to the north..."
  33: 0x064C [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x064D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0E)
@@ -1431,11 +1431,11 @@ SUBROUTINE_0697:
  45: 0x06B6 [0x4A] Antreneau (ID: 17727501/0x010E800D) looks at LocalPlayer
  46: 0x06BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  47: 0x06C0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Antreneau (ID: 17727501/0x010E800D) Render.Flags0 and Render.Flags3 conditions are met
- 48: 0x06C5 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8452*]:
+ 48: 0x06C5 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8453*]:
     → "What's this? You wish to hear more of my uncle? You have strange interests for an adventurer, friend."
  49: 0x06CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x06CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x09)
- 51: 0x06D4 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8453*]:
+ 51: 0x06D4 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8454*]:
     → "If you wish to learn more about my uncle, why not meet with him in person? He can be found somewhere beyond the Uleguerand Range, north of Xarcabard."
  52: 0x06DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x06DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0A)
@@ -1450,42 +1450,42 @@ SUBROUTINE_0697:
 
 SUBROUTINE_073B:
  62: 0x073B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0B)
- 63: 0x0742 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8454*]:
+ 63: 0x0742 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8455*]:
     → "The Orcish forces passed over the Uleguerand Range to stage their invasion into Quon. Several hundred years ago, during their efforts to halt the Orcs' advance through the mountains, the Royal Knights drew a map of the area."
  64: 0x0749 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x074A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0C)
  66: 0x0751 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0D)
- 67: 0x0758 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8455*]:
+ 67: 0x0758 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8456*]:
     → "Access to this map is strictly controlled, and it cannot be freely borrowed."
  68: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0760 [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=25*
  70: 0x076F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[25*, 0*]
- 71: 0x0780 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8456*]:
+ 71: 0x0780 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8457*]:
     → "The cartography was based on intelligence gathered in the conflict with the Orcish Empire..."
  72: 0x0787 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0788 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0E)
  74: 0x078F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0F)
- 75: 0x0796 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8457*]:
+ 75: 0x0796 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8458*]:
     → "...and perusal of the map will reveal the Royal Knights' battle tactics."
  76: 0x079D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x079E [0x2B] Antreneau (ID: 17727501/0x010E800D) [8458*]:
+ 77: 0x079E [0x2B] Antreneau (ID: 17727501/0x010E800D) [8459*]:
     → "Due to the return of Lord Excenmille--and his report that the Orcish Empire's strength far exceeds our estimates--the map has been placed under even tighter security."
  78: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x07A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x10)
  80: 0x07AD [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [EventEntity, EventEntity], work=25*
  81: 0x07BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [EventEntity, EventEntity], work=[25*, 0*]
  82: 0x07CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x09)
- 83: 0x07D4 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8459*]:
+ 83: 0x07D4 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8460*]:
     → "In the case of my uncle, his problem was solved by the appearance of a man who offered to guide him across the mountains."
  84: 0x07DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x07DC [0x2B] Antreneau (ID: 17727501/0x010E800D) [8460*]:
+ 85: 0x07DC [0x2B] Antreneau (ID: 17727501/0x010E800D) [8461*]:
     → "According to that guide, the northern side of the Uleguerand Range can be reached through the tunnels that wind beneath Thousandfall Ridge."
  86: 0x07E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x07E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0A)
  88: 0x07EB [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=25*
  89: 0x07FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[25*, 0*]
  90: 0x080B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0B)
- 91: 0x0812 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8461*]:
+ 91: 0x0812 [0x2B] Antreneau (ID: 17727501/0x010E800D) [8462*]:
     → "If you truly intend to meet with my uncle, tell him his nephew, Antreneau, worries for him and wishes for his swift return."
  92: 0x0819 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x081A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0C)
@@ -1529,13 +1529,13 @@ SUBROUTINE_073B:
   1: 0x0878 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0879 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x087A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x09)
-  4: 0x0881 [0x1D] PRINT_EVENT_MESSAGE(message_id=8462*)
+  4: 0x0881 [0x1D] PRINT_EVENT_MESSAGE(message_id=8463*)
     → "If you wish to meet with my uncle, you must cross the Uleguerand Range."
   5: 0x0884 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0885 [0x1D] PRINT_EVENT_MESSAGE(message_id=8463*)
+  6: 0x0885 [0x1D] PRINT_EVENT_MESSAGE(message_id=8464*)
     → "I am not permitted to give you a map of the area, however I will tell you the directions the guide gave my uncle."
   7: 0x0888 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0889 [0x1D] PRINT_EVENT_MESSAGE(message_id=8464*)
+  8: 0x0889 [0x1D] PRINT_EVENT_MESSAGE(message_id=8465*)
     → "According to the guide, a cave found on the slopes of Thousandfall Ridge leads to the other side of the Uleguerand Range."
   9: 0x088C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x088D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0A)
@@ -1572,21 +1572,21 @@ SUBROUTINE_073B:
   1: 0x089D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x089E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x089F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x1D)
-  4: 0x08A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8465*)
+  4: 0x08A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
     → "You actually managed to find my uncle!?"
   5: 0x08A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x08AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x1E)
   7: 0x08B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x1F)
   8: 0x08B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x20)
   9: 0x08BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0D)
- 10: 0x08C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
+ 10: 0x08C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
     → "So, he is well? He travels a hard path, if what you say is true. I feel ashamed to be complaining of nothing more than a steady diet of beans."
  11: 0x08C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x08CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0E)
  13: 0x08D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x0F)
  14: 0x08D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Antreneau (ID: 17727501/0x010E800D), tag_num=0x10)
  15: 0x08DF [0x1E] EventEntity looks at Nogelle (ID: 17727502/0x010E800E) and starts talking
- 16: 0x08E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
+ 16: 0x08E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
     → "But I cannot quell this desire for meat! Bring me meat! Any dish with meat in it will do!"
  17: 0x08E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x08E8 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

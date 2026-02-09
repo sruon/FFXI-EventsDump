@@ -24,29 +24,29 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x2CEA      |       11498 |
+|       1 | 0x2CEB      |       11499 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2CEB      |       11499 |
+|       3 | 0x2CEC      |       11500 |
 |       4 | 0x26DD      |        9949 |
-|       5 | 0x2CEC      |       11500 |
-|       6 | 0x2CED      |       11501 |
-|       7 | 0x2CEE      |       11502 |
-|       8 | 0x2CEF      |       11503 |
-|       9 | 0x2CF0      |       11504 |
-|      10 | 0x2CF1      |       11505 |
-|      11 | 0x2CF2      |       11506 |
-|      12 | 0x2CF3      |       11507 |
-|      13 | 0x2CF4      |       11508 |
-|      14 | 0x2CF5      |       11509 |
-|      15 | 0x2CF6      |       11510 |
-|      16 | 0x2CF7      |       11511 |
-|      17 | 0x2CF8      |       11512 |
-|      18 | 0x2CF9      |       11513 |
-|      19 | 0x2CFA      |       11514 |
-|      20 | 0x2CFB      |       11515 |
-|      21 | 0x2CFC      |       11516 |
-|      22 | 0x2CFD      |       11517 |
-|      23 | 0x2CFE      |       11518 |
+|       5 | 0x2CED      |       11501 |
+|       6 | 0x2CEE      |       11502 |
+|       7 | 0x2CEF      |       11503 |
+|       8 | 0x2CF0      |       11504 |
+|       9 | 0x2CF1      |       11505 |
+|      10 | 0x2CF2      |       11506 |
+|      11 | 0x2CF3      |       11507 |
+|      12 | 0x2CF4      |       11508 |
+|      13 | 0x2CF5      |       11509 |
+|      14 | 0x2CF6      |       11510 |
+|      15 | 0x2CF7      |       11511 |
+|      16 | 0x2CF8      |       11512 |
+|      17 | 0x2CF9      |       11513 |
+|      18 | 0x2CFA      |       11514 |
+|      19 | 0x2CFB      |       11515 |
+|      20 | 0x2CFC      |       11516 |
+|      21 | 0x2CFD      |       11517 |
+|      22 | 0x2CFE      |       11518 |
+|      23 | 0x2CFF      |       11519 |
 |      24 | 0x50B7      |       20663 |
 |      25 | 0x50B8      |       20664 |
 |      26 | 0x5424      |       21540 |
@@ -87,10 +87,10 @@
 |      61 | 0x0013      |          19 |
 |      62 | 0x0014      |          20 |
 |      63 | 0x0015      |          21 |
-|      64 | 0x2CFF      |       11519 |
+|      64 | 0x2D00      |       11520 |
 |      65 | 0x0016      |          22 |
-|      66 | 0x2D00      |       11520 |
-|      67 | 0x2D01      |       11521 |
+|      66 | 0x2D01      |       11521 |
+|      67 | 0x2D02      |       11522 |
 |      68 | 0x001E      |          30 |
 |      69 | 0x01E0      |         480 |
 |      70 | 0x0078      |         120 |
@@ -100,29 +100,29 @@
 
 ## String References
 
-- **11498**: The blacksmiths' guild here is huge, kupo! There's so much to learn!
-- **11499**: Hmmm...wait, you aren't a moogle!
-- **11500**: @You show the moogle your $0.
-- **11501**: Let me take a look at that, kupo.
-- **11502**: ...
-- **11503**: Hmm...
-- **11504**: An...empyrean weapon?
-- **11505**: No...a Mog Bonanza weapon...
-- **11506**: And the crystallization is impressive, kupo!
-- **11507**: Kupofried truly is a master of his art...but how can we use this, kupo?
-- **11508**: Forgive my musing.
-- **11509**: That $0 utilizes special magics found in Bonanza weapons, kupo.
-- **11510**: In fact, it can probably even be used to reforge them.
-- **11511**: But don't expect it to have any effect on other weapons, kupo.
-- **11512**: I admit to being intrigued... What is the exact process that makes it so?
-- **11513**: It doesn't seem incredibly complicated, yet I admit to being particularly stumped, kupo.
-- **11514**: The Mog Bonanza weapons utilize special moogle magic. Perhaps we might be able to take advantage of this magic in other ways.
-- **11515**: But either way, this one cannot be used for more generic purposes.
-- **11516**: But that's just me thinking out loud, kupo.
-- **11517**: Be that as it may, I can use $0 to reforge Mog Bonanza weapons.
-- **11518**: Your reforged weapon will look something like this, kupo.
-- **11520**: Reforge the $0?
-- **11521**: Proceed with the reforging? [Yes./No.]
+- **11499**: The blacksmiths' guild here is huge, kupo! There's so much to learn!
+- **11500**: Hmmm...wait, you aren't a moogle!
+- **11501**: @You show the moogle your $0.
+- **11502**: Let me take a look at that, kupo.
+- **11503**: ...
+- **11504**: Hmm...
+- **11505**: An...empyrean weapon?
+- **11506**: No...a Mog Bonanza weapon...
+- **11507**: And the crystallization is impressive, kupo!
+- **11508**: Kupofried truly is a master of his art...but how can we use this, kupo?
+- **11509**: Forgive my musing.
+- **11510**: That $0 utilizes special magics found in Bonanza weapons, kupo.
+- **11511**: In fact, it can probably even be used to reforge them.
+- **11512**: But don't expect it to have any effect on other weapons, kupo.
+- **11513**: I admit to being intrigued... What is the exact process that makes it so?
+- **11514**: It doesn't seem incredibly complicated, yet I admit to being particularly stumped, kupo.
+- **11515**: The Mog Bonanza weapons utilize special moogle magic. Perhaps we might be able to take advantage of this magic in other ways.
+- **11516**: But either way, this one cannot be used for more generic purposes.
+- **11517**: But that's just me thinking out loud, kupo.
+- **11518**: Be that as it may, I can use $0 to reforge Mog Bonanza weapons.
+- **11519**: Your reforged weapon will look something like this, kupo.
+- **11521**: Reforge the $0?
+- **11522**: Proceed with the reforging? [Yes./No.]
 
 ## Events
 
@@ -172,7 +172,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
   2: 0x0009 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
-  3: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=11498*)
+  3: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=11499*)
     → "The blacksmiths' guild here is huge, kupo! There's so much to learn!"
   4: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001A [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
@@ -246,106 +246,106 @@
   2: 0x0035 [0x1C] WAIT(1* ticks)
   3: 0x0038 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0198
   4: 0x0040 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
-  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=11499*)
+  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=11500*)
     → "Hmmm...wait, you aren't a moogle!"
   6: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0051 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
   8: 0x005E [0x6E] LocalPlayer uses emote 0*
   9: 0x0065 [0x99] Wait for LocalPlayer animation to complete
  10: 0x006A [0x03] Work_Zone[2] = 9949*
- 11: 0x006F [0x48] [System] [11500*]:
+ 11: 0x006F [0x48] [System] [11501*]:
     → "@You show the moogle your $0."
  12: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0073 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
- 14: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=11501*)
+ 14: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
     → "Let me take a look at that, kupo."
  15: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0084 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
- 17: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+ 17: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "..."
  18: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+ 19: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "Hmm..."
  20: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0099 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
- 22: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
+ 22: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11505*)
     → "An...empyrean weapon?"
  23: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11505*)
+ 24: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11506*)
     → "No...a Mog Bonanza weapon..."
  25: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11506*)
+ 26: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
     → "And the crystallization is impressive, kupo!"
  27: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
+ 28: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
     → "Kupofried truly is a master of his art...but how can we use this, kupo?"
  29: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00B6 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
- 31: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+ 31: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "Hmm..."
  32: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+ 33: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "..."
  34: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00CB [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
- 36: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
+ 36: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
     → "Forgive my musing."
  37: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x00DC [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
  39: 0x00E9 [0x03] Work_Zone[2] = 9949*
  40: 0x00EE [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
- 41: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
+ 41: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11510*)
     → "That $0 utilizes special magics found in Bonanza weapons, kupo."
  42: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11510*)
+ 43: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
     → "In fact, it can probably even be used to reforge them."
  44: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0103 [0x03] Work_Zone[2] = 9949*
- 46: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
+ 46: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
     → "But don't expect it to have any effect on other weapons, kupo."
  47: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x010C [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
- 49: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+ 49: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "..."
  50: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+ 51: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "Hmm..."
  52: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0121 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
- 54: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
+ 54: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
     → "I admit to being intrigued... What is the exact process that makes it so?"
  55: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
+ 56: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
     → "It doesn't seem incredibly complicated, yet I admit to being particularly stumped, kupo."
  57: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
+ 58: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
     → "The Mog Bonanza weapons utilize special moogle magic. Perhaps we might be able to take advantage of this magic in other ways."
  59: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
+ 60: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
     → "But either way, this one cannot be used for more generic purposes."
  61: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x013E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
- 63: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+ 63: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "Hmm..."
  64: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+ 65: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "..."
  66: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0153 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
- 68: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
+ 68: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
     → "But that's just me thinking out loud, kupo."
  69: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0164 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
  71: 0x0171 [0x03] Work_Zone[2] = 9949*
  72: 0x0176 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
- 73: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
+ 73: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
     → "Be that as it may, I can use $0 to reforge Mog Bonanza weapons."
  74: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0187 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
  76: 0x0194 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  77: 0x0196 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  78: 0x0198 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
- 79: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
+ 79: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11519*)
     → "Your reforged weapon will look something like this, kupo."
  80: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x01A9 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
@@ -423,12 +423,12 @@ SUBROUTINE_02B9:
   1: 0x02C2 [0x1C] WAIT(1* ticks)
   2: 0x02C5 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
   3: 0x02D2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-  4: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11520*)
+  4: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11521*)
     → "Reforge the $0?"
   5: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02D9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
   7: 0x02DC [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp1" with entities [EventEntity, EventEntity]
-  8: 0x02E9 [0x24] CREATE_DIALOG(message_id=11521*, default_option=1*, option_flags=0*)
+  8: 0x02E9 [0x24] CREATE_DIALOG(message_id=11522*, default_option=1*, option_flags=0*)
     → "Proceed with the reforging? [Yes./No.]"
   9: 0x02F0 [0x25] WAIT_DIALOG_SELECT()
  10: 0x02F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0383

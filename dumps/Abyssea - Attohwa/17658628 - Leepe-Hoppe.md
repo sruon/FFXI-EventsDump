@@ -23,42 +23,42 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0006      |           6 |
-|       1 | 0x206F      |        8303 |
-|       2 | 0x2070      |        8304 |
-|       3 | 0x2071      |        8305 |
-|       4 | 0x2072      |        8306 |
-|       5 | 0x2073      |        8307 |
+|       1 | 0x2070      |        8304 |
+|       2 | 0x2071      |        8305 |
+|       3 | 0x2072      |        8306 |
+|       4 | 0x2073      |        8307 |
+|       5 | 0x2074      |        8308 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x2078      |        8312 |
+|       7 | 0x2079      |        8313 |
 |       8 | 0x0028      |          40 |
-|       9 | 0x2079      |        8313 |
-|      10 | 0x2076      |        8310 |
-|      11 | 0x2077      |        8311 |
+|       9 | 0x207A      |        8314 |
+|      10 | 0x2077      |        8311 |
+|      11 | 0x2078      |        8312 |
 |      12 | 0x0007      |           7 |
-|      13 | 0x2074      |        8308 |
-|      14 | 0x2075      |        8309 |
-|      15 | 0x207B      |        8315 |
-|      16 | 0x207C      |        8316 |
-|      17 | 0x207D      |        8317 |
-|      18 | 0x207E      |        8318 |
+|      13 | 0x2075      |        8309 |
+|      14 | 0x2076      |        8310 |
+|      15 | 0x207C      |        8316 |
+|      16 | 0x207D      |        8317 |
+|      17 | 0x207E      |        8318 |
+|      18 | 0x207F      |        8319 |
 
 ## String References
 
-- **8303**: Ahhhhhh-choo! <Hack>...<cough>...<wheeze>...
-- **8304**: Ahem... Pardon my mucus, if you please.
-- **8305**: Since arriving in this chasm, my piteous nose will simply not stop running-wunning, despite numerous blows.
-- **8306**: What's that, you say? You're curious as to the quality of the air today?
-- **8307**: Well, judging from my sniffle-wiffling frequency...
-- **8308**: ...It's quite clear today, oh joy and glee!
-- **8309**: That said, if experience is any guide we cannot count on this state to abide.
-- **8310**: ...It's still far from ideal, as I'm sure you'll agree.
-- **8311**: Still, I can say that it's been much worse. At this rate, we might even see our patients' symptoms reverse.
-- **8312**: Ah-choo! Ah-choo! <Cough>, <sniffle>, <hack>, <wheeze>!
-- **8313**: Thif if af bad af it'f been...<honk>...bake be fpeak bo more, pfease!
-- **8315**: That robed fellow by the conflux, he wears an expression most stern.
-- **8316**: He speaks of miasmas contaminating the air...
-- **8317**: ...While the Professor speaks of flowers. Could there also be truth there?
-- **8318**: Whatever should we do? If we don't solve our air...<wheeze>...problem...ah-ah...ah-chooooo!
+- **8304**: Ahhhhhh-choo! <Hack>...<cough>...<wheeze>...
+- **8305**: Ahem... Pardon my mucus, if you please.
+- **8306**: Since arriving in this chasm, my piteous nose will simply not stop running-wunning, despite numerous blows.
+- **8307**: What's that, you say? You're curious as to the quality of the air today?
+- **8308**: Well, judging from my sniffle-wiffling frequency...
+- **8309**: ...It's quite clear today, oh joy and glee!
+- **8310**: That said, if experience is any guide we cannot count on this state to abide.
+- **8311**: ...It's still far from ideal, as I'm sure you'll agree.
+- **8312**: Still, I can say that it's been much worse. At this rate, we might even see our patients' symptoms reverse.
+- **8313**: Ah-choo! Ah-choo! <Cough>, <sniffle>, <hack>, <wheeze>!
+- **8314**: Thif if af bad af it'f been...<honk>...bake be fpeak bo more, pfease!
+- **8316**: That robed fellow by the conflux, he wears an expression most stern.
+- **8317**: He speaks of miasmas contaminating the air...
+- **8318**: ...While the Professor speaks of flowers. Could there also be truth there?
+- **8319**: Whatever should we do? If we don't solve our air...<wheeze>...problem...ah-ah...ah-chooooo!
 
 ## Events
 
@@ -106,15 +106,15 @@
 
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[2] >= 6*) GOTO 0x0016
-  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
+  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
     → "Ahhhhhh-choo! <Hack>...<cough>...<wheeze>..."
   2: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
+  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "Ahem... Pardon my mucus, if you please."
   5: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0016 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
     → "Since arriving in this chasm, my piteous nose will simply not stop running-wunning, despite numerous blows."
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001F [0x21] END_EVENT
@@ -147,38 +147,38 @@
 
 ```
   0: 0x0021 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
+  1: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
     → "What's that, you say? You're curious as to the quality of the air today?"
   2: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
+  3: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
     → "Well, judging from my sniffle-wiffling frequency..."
   4: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x002E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x002F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0030 [0x02] IF !(Work_Zone[2] >= 3*) GOTO 0x0052
-  8: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
+  8: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
     → "Ah-choo! Ah-choo! <Cough>, <sniffle>, <hack>, <wheeze>!"
   9: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x003C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "iro0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+ 11: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "Thif if af bad af it'f been...<honk>...bake be fpeak bo more, pfease!"
  12: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x004F [0x01] GOTO 0x0088
  14: 0x0052 [0x02] IF !(Work_Zone[2] >= 6*) GOTO 0x0074
- 15: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
+ 15: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
     → "...It's still far from ideal, as I'm sure you'll agree."
  16: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x005E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 18: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
+ 18: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
     → "Still, I can say that it's been much worse. At this rate, we might even see our patients' symptoms reverse."
  19: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0071 [0x01] GOTO 0x0088
  21: 0x0074 [0x6E] EventEntity uses emote 7*
  22: 0x007B [0x99] Wait for EventEntity animation to complete
- 23: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
+ 23: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
     → "...It's quite clear today, oh joy and glee!"
  24: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
+ 25: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
     → "That said, if experience is any guide we cannot count on this state to abide."
  26: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -210,17 +210,17 @@ SUBROUTINE_0088:
 
 ```
   0: 0x008A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
+  1: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
     → "That robed fellow by the conflux, he wears an expression most stern."
   2: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
+  3: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
     → "He speaks of miasmas contaminating the air..."
   4: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
+  5: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
     → "...While the Professor speaks of flowers. Could there also be truth there?"
   6: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  8: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
+  8: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8319*)
     → "Whatever should we do? If we don't solve our air...<wheeze>...problem...ah-ah...ah-chooooo!"
   9: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*

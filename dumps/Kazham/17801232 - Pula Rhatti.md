@@ -26,19 +26,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x272E      |       10030 |
-|       3 | 0x272F      |       10031 |
-|       4 | 0x287E      |       10366 |
-|       5 | 0x27BF      |       10175 |
-|       6 | 0x27C0      |       10176 |
+|       2 | 0x272F      |       10031 |
+|       3 | 0x2730      |       10032 |
+|       4 | 0x287F      |       10367 |
+|       5 | 0x27C0      |       10176 |
+|       6 | 0x27C1      |       10177 |
 
 ## String References
 
-- **10030**: Hey, you! Did you brrring anything interesting from the mainland?
-- **10031**: Nothing? What kind of an adventurerrr are you? The other day, this Hume from Bastok showed us the coolest thing! Afterrr that, he was the most popular guy in town!
-- **10175**: Hey, did you brrring anything interesting, like $1, from the mainland?
-- **10176**: If you did, why don't you show it to Mhebi Juhbily? I know she'd love to see one.
-- **10366**: Eew! You're not carrying any rrrotten lizard eggs in that pack of yours, are you? It rrreally stinks!
+- **10031**: Hey, you! Did you brrring anything interesting from the mainland?
+- **10032**: Nothing? What kind of an adventurerrr are you? The other day, this Hume from Bastok showed us the coolest thing! Afterrr that, he was the most popular guy in town!
+- **10176**: Hey, did you brrring anything interesting, like $1, from the mainland?
+- **10177**: If you did, why don't you show it to Mhebi Juhbily? I know she'd love to see one.
+- **10367**: Eew! You're not carrying any rrrotten lizard eggs in that pack of yours, are you? It rrreally stinks!
 
 ## Events
 
@@ -139,10 +139,10 @@
   1: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pula Rhatti (ID: 17801232/0x010FA010), tag_num=0x01)
-  4: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=10030*)
+  4: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=10031*)
     → "Hey, you! Did you brrring anything interesting from the mainland?"
   5: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10031*)
+  6: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10032*)
     → "Nothing? What kind of an adventurerrr are you? The other day, this Hume from Bastok showed us the coolest thing! Afterrr that, he was the most popular guy in town!"
   7: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pula Rhatti (ID: 17801232/0x010FA010), tag_num=0x02)
@@ -176,7 +176,7 @@
   1: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pula Rhatti (ID: 17801232/0x010FA010), tag_num=0x01)
-  4: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=10366*)
+  4: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=10367*)
     → "Eew! You're not carrying any rrrotten lizard eggs in that pack of yours, are you? It rrreally stinks!"
   5: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x005A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pula Rhatti (ID: 17801232/0x010FA010), tag_num=0x02)
@@ -210,10 +210,10 @@
   1: 0x006A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x006B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x006C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pula Rhatti (ID: 17801232/0x010FA010), tag_num=0x01)
-  4: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=10175*)
+  4: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=10176*)
     → "Hey, did you brrring anything interesting, like $1, from the mainland?"
   5: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=10176*)
+  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=10177*)
     → "If you did, why don't you show it to Mhebi Juhbily? I know she'd love to see one."
   7: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x007B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pula Rhatti (ID: 17801232/0x010FA010), tag_num=0x02)

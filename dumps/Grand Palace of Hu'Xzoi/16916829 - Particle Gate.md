@@ -24,7 +24,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C5A      |        7258 |
+|       0 | 0x1C5B      |        7259 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -38,7 +38,7 @@
 
 ## String References
 
-- **7258**: Open the portal? [Yes./No.]
+- **7259**: Open the portal? [Yes./No.]
 
 ## Events
 
@@ -124,7 +124,7 @@
 ```
   0: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0004 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0006 [0x24] CREATE_DIALOG(message_id=7258*, default_option=1*, option_flags=0*)
+  2: 0x0006 [0x24] CREATE_DIALOG(message_id=7259*, default_option=1*, option_flags=0*)
     → "Open the portal? [Yes./No.]"
   3: 0x000D [0x25] WAIT_DIALOG_SELECT()
   4: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0108

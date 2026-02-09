@@ -1,5 +1,5 @@
 # Strings for Yughott Grotto
-# Total: 7481 strings
+# Total: 7482 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -7228,257 +7228,258 @@
  7224: Vana'Bout No. $0 has concluded.
  7225: Obtained temporary item: $0.
  7226: Lost temporary item: $0.
- 7227: You can't fish here.
- 7228: You can't fish without a rod in your hands.
- 7229: You can't fish without bait on the hook.
- 7230: You can't fish at the moment.
- 7231: You didn't catch anything.
- 7232: %0 caught a monster!
- 7233: Your line breaks.
- 7234: Your rod breaks.
- 7235: Something caught the hook!
- 7236: You lost your catch.
- 7237: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7238: You feel there's something here.
- 7239: You feel there's something nearby.
- 7240: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7241: %0 caught $1 $0 !
- 7242: You dig and you dig, but find nothing.
- 7243: $0/$0p$3Z$3b$3g
- 7244: Your rod breaks. Whatever caught the hook was pretty big.
- 7245: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7246: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7247: You lost your catch due to your lack of skill.
- 7248: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7249: You didn't catch anything.
- 7250: The paper on your $0 ripped.
- 7251: A tiny goldfish approaches!
- 7252: A plump, black goldfish approaches!
- 7253: A fat, juicy goldfish approaches!
- 7254: There are no goldfish to be found...
- 7255: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7256: The goldfish slipped off your scoop...
- 7257: ch$0 skill up check.
- 7258: a:$0.
- 7259: Time $0 / Status $1 / $2
- 7260: d:$0. e:$1. f:$2. g:$3.
- 7261: h: $1. i: $0. sr: $2.
- 7262: j:$0. k:$1.
- 7263: You give up and reel in your line.
- 7264: You give up.
- 7265: %0 obtains $1 gil.
- 7266: %0 caught $0!
- 7267: You don't know how much longer you can keep this one on the line...
- 7268: You have a good feeling about this one!
- 7269: You have a bad feeling about this one.
- 7270: You have a terrible feeling about this one...
- 7271: You don't know if you have enough skill to reel this one in.
- 7272: You're fairly sure you don't have enough skill to reel this one in.
- 7273: You're positive you don't have enough skill to reel this one in!
- 7274: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7275: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7276: l: $0. m: $1. n: $2. CH: $3.
- 7277: Something caught the hook!!!
- 7278: You feel something pulling at your line.
- 7279: Something clamps onto your line ferociously!
- 7280: Your keen angler's senses tell you that this is the pull of $0!
- 7281: This strength... You get the sense that you are on the verge of an epic catch!
- 7282: The timer has started. $0 seconds remaining.
- 7283: $0sec.$1/$2sec.
- 7284: 0:$0 1:$1 2:$2 3:$3
- 7285: 4:$0 5:$1 6:$2 7:$3
- 7286: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7287: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7288: $0/$1($2j
- 7289: Version invalid error!
- 7290: Hurry before the goldfish sees you!
- 7291: %0 fishes up a large box!
- 7292: $23$o$P122$8$0
- 7293: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7294: PointF$0 >>> $1
- 7295: [$1($0)/skillF$1]
- 7296: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7297: Im Rnd : $0 Pz Rnd : $1
- 7298: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7299: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7300: skill : $0 size : $1 kind : $2 sch : $3
- 7301: time : $0 mes : $1 flag : $2 bonus : $3
- 7302: item : $0 hp : $1 pow : $2 swing : $3
- 7303: suc : $0 cons : $1 weight : $2 +- : $3
- 7304: speed : $0 +- : $1 exc : $2 client : $3
- 7305: general : $0
- 7306: ro:$0 rs:$1 ps:$2 dt:$3
- 7307: ra:$0 ti:$1
- 7308: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7309: You get the distinct sense that your moogle friend frequents this spot...
- 7310: You have a feeling that your moogle friend has been through this way...
- 7311: You suspect that the scenery around here would be to a moogle's liking...
- 7312: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7313: You have a hunch that this area would be favored by moogles...
- 7314: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7315: %0 catches $1 $0 !
- 7316: %0 obtained $6!
- 7317: It appears your chocobo found this item with ease.
- 7318: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7319: FPT $0 DPT $1 DoT$2
- 7320: FPT $0 TDPT $1 h$2
- 7321: You cannot fish at this time.
- 7322: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7323: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7324: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7325: You receive $0 bayld!
- 7326: Your chocobo refuses to partake of the $0.
- 7327: There is no response...
- 7328: Your party leader is currently inspecting the entrance.
- 7329: Only your party leader may inspect the entrance.
- 7330: Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7331: Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7332: Proceed? [Yes./No.]
- 7333: Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7334: You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7335: The hands of darkness have impeded your progress into the next area.
- 7336: You cannot enter at this time. Please wait a moment and try again.
- 7337: This area is fully occupied. You are unable to enter.
- 7338: The hands of darkness have prevented you from proceeding.
- 7339: Your request for entry is being considered...
- 7340: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7341: Your party does not meet the minimum required number of $0 members. Unable to enter area.
- 7342: Not all of your party members meet the requirements for this objective. Unable to enter area.
- 7343: Returning to BIND. Press the button!
- 7344: $3{$3^$3$2p$317F$P10i^
- 7345: This chest is locked. It can be opened with $0.
- 7346: This chest is empty.
- 7347: Your inventory is full. You cannot carry any more items.
- 7348: You must be closer to the chest to open it.
- 7349: %0 opens the chest and finds $0.
- 7350: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7351: %0 obtains a key item, $6, from the chest.
- 7352: You obtain a key item, $6, from the chest.
- 7353: You unlock the chest!
- 7354: %0 fails to open the chest.
- 7355: The chest was trapped!
- 7356: You cannot open the chest when you are in a weakened state.
- 7357: The chest was a mimic!
- 7358: You cannot open the chest while participating in the moogle event.
- 7359: The chest was but an illusion...
- 7360: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7361: Mining is possible here if you have $0.
- 7362: Probability of loss = $3/10000.
- 7363: Your $7 breaks!
- 7364: You successfully dig up $0!
- 7365: You dig up $0, but your $7 breaks in the process.
- 7366: You are unable to mine anything.
- 7367: You cannot carry any more items. Your inventory is full.
- 7368: There is nothing out of the ordinary here.
- 7369: You can hear a strange voice... "Items, items, la la la la la`t"
- 7370: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7371: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7372: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7373: Now, listen close...
- 7374: Oh... Well, if that's the case, I'm outta here.
- 7375: The Goblin slipped away when you were not looking...
- 7376: You can hear a strange, raspy voice...
- 7377: I travel......hear lots... Hear...stories... Can tell...if...
- 7378: .........listen......
- 7379: Oh...... ...outta here.........
- 7380: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7381: What story would you like to be told? [On second thought, maybe later./Face of the Future(pt.1)./Face of the Future(pt.2).]
- 7382: 
+ 7227: It won't open.
+ 7228: You can't fish here.
+ 7229: You can't fish without a rod in your hands.
+ 7230: You can't fish without bait on the hook.
+ 7231: You can't fish at the moment.
+ 7232: You didn't catch anything.
+ 7233: %0 caught a monster!
+ 7234: Your line breaks.
+ 7235: Your rod breaks.
+ 7236: Something caught the hook!
+ 7237: You lost your catch.
+ 7238: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7239: You feel there's something here.
+ 7240: You feel there's something nearby.
+ 7241: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7242: %0 caught $1 $0 !
+ 7243: You dig and you dig, but find nothing.
+ 7244: $0/$0p$3Z$3b$3g
+ 7245: Your rod breaks. Whatever caught the hook was pretty big.
+ 7246: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7247: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7248: You lost your catch due to your lack of skill.
+ 7249: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7250: You didn't catch anything.
+ 7251: The paper on your $0 ripped.
+ 7252: A tiny goldfish approaches!
+ 7253: A plump, black goldfish approaches!
+ 7254: A fat, juicy goldfish approaches!
+ 7255: There are no goldfish to be found...
+ 7256: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7257: The goldfish slipped off your scoop...
+ 7258: ch$0 skill up check.
+ 7259: a:$0.
+ 7260: Time $0 / Status $1 / $2
+ 7261: d:$0. e:$1. f:$2. g:$3.
+ 7262: h: $1. i: $0. sr: $2.
+ 7263: j:$0. k:$1.
+ 7264: You give up and reel in your line.
+ 7265: You give up.
+ 7266: %0 obtains $1 gil.
+ 7267: %0 caught $0!
+ 7268: You don't know how much longer you can keep this one on the line...
+ 7269: You have a good feeling about this one!
+ 7270: You have a bad feeling about this one.
+ 7271: You have a terrible feeling about this one...
+ 7272: You don't know if you have enough skill to reel this one in.
+ 7273: You're fairly sure you don't have enough skill to reel this one in.
+ 7274: You're positive you don't have enough skill to reel this one in!
+ 7275: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7276: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7277: l: $0. m: $1. n: $2. CH: $3.
+ 7278: Something caught the hook!!!
+ 7279: You feel something pulling at your line.
+ 7280: Something clamps onto your line ferociously!
+ 7281: Your keen angler's senses tell you that this is the pull of $0!
+ 7282: This strength... You get the sense that you are on the verge of an epic catch!
+ 7283: The timer has started. $0 seconds remaining.
+ 7284: $0sec.$1/$2sec.
+ 7285: 0:$0 1:$1 2:$2 3:$3
+ 7286: 4:$0 5:$1 6:$2 7:$3
+ 7287: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7288: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7289: $0/$1($2j
+ 7290: Version invalid error!
+ 7291: Hurry before the goldfish sees you!
+ 7292: %0 fishes up a large box!
+ 7293: $23$o$P122$8$0
+ 7294: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7295: PointF$0 >>> $1
+ 7296: [$1($0)/skillF$1]
+ 7297: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7298: Im Rnd : $0 Pz Rnd : $1
+ 7299: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7300: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7301: skill : $0 size : $1 kind : $2 sch : $3
+ 7302: time : $0 mes : $1 flag : $2 bonus : $3
+ 7303: item : $0 hp : $1 pow : $2 swing : $3
+ 7304: suc : $0 cons : $1 weight : $2 +- : $3
+ 7305: speed : $0 +- : $1 exc : $2 client : $3
+ 7306: general : $0
+ 7307: ro:$0 rs:$1 ps:$2 dt:$3
+ 7308: ra:$0 ti:$1
+ 7309: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7310: You get the distinct sense that your moogle friend frequents this spot...
+ 7311: You have a feeling that your moogle friend has been through this way...
+ 7312: You suspect that the scenery around here would be to a moogle's liking...
+ 7313: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7314: You have a hunch that this area would be favored by moogles...
+ 7315: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7316: %0 catches $1 $0 !
+ 7317: %0 obtained $6!
+ 7318: It appears your chocobo found this item with ease.
+ 7319: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7320: FPT $0 DPT $1 DoT$2
+ 7321: FPT $0 TDPT $1 h$2
+ 7322: You cannot fish at this time.
+ 7323: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7324: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7326: You receive $0 bayld!
+ 7327: Your chocobo refuses to partake of the $0.
+ 7328: There is no response...
+ 7329: Your party leader is currently inspecting the entrance.
+ 7330: Only your party leader may inspect the entrance.
+ 7331: Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7332: Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7333: Proceed? [Yes./No.]
+ 7334: Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7335: You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7336: The hands of darkness have impeded your progress into the next area.
+ 7337: You cannot enter at this time. Please wait a moment and try again.
+ 7338: This area is fully occupied. You are unable to enter.
+ 7339: The hands of darkness have prevented you from proceeding.
+ 7340: Your request for entry is being considered...
+ 7341: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7342: Your party does not meet the minimum required number of $0 members. Unable to enter area.
+ 7343: Not all of your party members meet the requirements for this objective. Unable to enter area.
+ 7344: Returning to BIND. Press the button!
+ 7345: $3{$3^$3$2p$317F$P10i^
+ 7346: This chest is locked. It can be opened with $0.
+ 7347: This chest is empty.
+ 7348: Your inventory is full. You cannot carry any more items.
+ 7349: You must be closer to the chest to open it.
+ 7350: %0 opens the chest and finds $0.
+ 7351: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7352: %0 obtains a key item, $6, from the chest.
+ 7353: You obtain a key item, $6, from the chest.
+ 7354: You unlock the chest!
+ 7355: %0 fails to open the chest.
+ 7356: The chest was trapped!
+ 7357: You cannot open the chest when you are in a weakened state.
+ 7358: The chest was a mimic!
+ 7359: You cannot open the chest while participating in the moogle event.
+ 7360: The chest was but an illusion...
+ 7361: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7362: Mining is possible here if you have $0.
+ 7363: Probability of loss = $3/10000.
+ 7364: Your $7 breaks!
+ 7365: You successfully dig up $0!
+ 7366: You dig up $0, but your $7 breaks in the process.
+ 7367: You are unable to mine anything.
+ 7368: You cannot carry any more items. Your inventory is full.
+ 7369: There is nothing out of the ordinary here.
+ 7370: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7371: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7372: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7373: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7374: Now, listen close...
+ 7375: Oh... Well, if that's the case, I'm outta here.
+ 7376: The Goblin slipped away when you were not looking...
+ 7377: You can hear a strange, raspy voice...
+ 7378: I travel......hear lots... Hear...stories... Can tell...if...
+ 7379: .........listen......
+ 7380: Oh...... ...outta here.........
+ 7381: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7382: What story would you like to be told? [On second thought, maybe later./Face of the Future(pt.1)./Face of the Future(pt.2).]
  7383: 
  7384: 
- 7385: Show yourself, Zogbog! I've come to retrieve Rahal! You will return him to me this instant!
- 7386: Fi-fie-fo-fum, I smell the blood of a young Elvaan...
- 7387: No skulking about the shadows today, Zogbog? Highly unusual for a habitual coward such as you.
- 7388: Hah! Spare me the mockery! The predator has no need to cower from prey!
- 7389: Feast your eyes upon the unequalled majesty of my minions!
- 7390: Wh-what are these monstrosities!?
- 7391: They are the "Fangmonger Stone Legion," the juggernaut that shall run rampant over all of Vana'diel!
- 7392: Into the past I shall send them, to wrest power from the weakened grips of men and beastmen both as they wage war and bleed each other dry.
- 7393: In time, the name of the Fangmonger clan shall come to be feared the world over...and then my ascension to the Orcish throne shall be complete!
- 7394: For old times' sake, my young nemesis, I shall make you an offer most generous. You shan't find it wanting.
- 7395: Lay to rest your hostility towards me and join my cause. Bend your knee to me--accept me as your liege lord--and I shall make you a general among my armies.
- 7396: Your presumption that I might betray my own is the greatest affront, Zogbog! Steel yourself for grave disappointment, for your vile ambition shall soon be reduced to piles of rubble!
- 7397: Hmph. I find your lack of foresight disturbing, little rabbit. You shall come to regret spurning a place in the new Orcish Empire.
- 7398: Boy!
- 7399: Hah. More guests, and right on cue.
- 7400: The time for talk is ended! Come face your doom, Excenmille! <Player>!
- 7401: Awaken, my loyal minions!
- 7402: Commander!
- 7403: A veritable den of adders... It shall be all we can do to keep them at bay until Bostillette arrives with reinforcements.
- 7404: And boy. Think not for a moment that being here excuses you from lessons.
- 7405: S-surely there're environs more conducive to learning!
- 7406: Go forth, Fangmonger Stone Legion! Go forth and annihilate those who would oppose my will!
- 7407: Lesson number sixty-seven...
- 7408: Naught ventured, naught gained! Hold fast to your objective...and chaaarge!!!
- 7409: Yaaaaaarghhh!!!
- 7410: (Nooo! H-how could this be!? Two decades of painstaking labor undone in a single confrontation...)
- 7411: (Mekglok! Do something, or my entire legion is finished!)
- 7412: (Uh...easy say, difficult do, Master Zogbog.)
- 7413: Right in the nick of time!
- 7414: Bostillette! We shall have words regarding your definition of "nick of time" before the day is through!
- 7415: (D-damn it! Move, I say! Move, you worthless piece of junk!)
- 7416: (Aaargh!!! Vex me to the very end, will you!?)
- 7417: (Ah! It's resumed functioning!)
- 7418: (Huh? S-something's amiss...)
- 7419: (Uh-oh. This not good. Statue go out of control.)
- 7420: Wh-what strange spell is this that the colossus incants?
- 7421: (Mekglok! Explain to me what's happening!)
- 7422: (Huh? Whither did that machine-loving misfit vanish!? Damn him thrice over!)
- 7423: (Master Zogbog, me so sorry. Self-destruct device me fit is activate. Explosion happen soon.)
- 7424: (Wh-what!? By Bakgodek's backside, who placed an order for such a hazardous feature!?)
- 7425: (Uh...m-me forget meat over cookfire. Me go now, Master Zogbog.)
- 7426: (D-don't you dare abandon me, you disloyal, self-preserving wretch!)
- 7427: Commander! If that Orc speaks true, we haven't a moment to lose!
- 7428: Why do you linger!? Hurry and escape lest the explosion claim us all!
- 7429: Are you certain, boy? That your friend is being held hereabouts?
- 7430: Past certain. I must neutralize the explosion and save him!
- 7431: Let me remind you, no guarantee exists that we will succeed and escape with our own lives.
- 7432: Even should I knowingly face impossible odds, I cannot leave a friend at the mercy of death.
- 7433: A man must be prepared to bear all of life's burdens if he wishes to move forward. These are your own words.
- 7434: Aptly said, boy. Very well, I shall stand beside you in this. Consider this your chance to put to practice all you've learned.
- 7435: Let the final examination commence!
- 7436: (Confound it! The means to fulfilling my ambition...all spent...)
- 7437: With me, boy!
- 7438: Yaaaaaargh!!!
- 7439: Stop, damn you!!!
- 7440: Did he...do it?
- 7441: Hah. He's passed out from the exertion.
- 7442: Rest easy, boy. You've passed the exam with flying colors.
- 7443: Will these two be all right?
- 7444: They've fallen into a slumber of exhaustion, but have taken no permanent harm as far as I can see.
- 7445: Ah, Commander. I discovered this ring by the cavern entrance. The fine craftsmanship bespeaks great worth, and I thought you should see it.
- 7446: By the Goddess! I had thought it forever lost!
- 7447: This ring disappeared from my possession sometime during the expedition to Rhazowa. Such a journey it must have made to find its way back here...
- 7448: I must say, gazing at the children puts me in mind of our own childhood.
- 7449: Decked out in their swords and armor, with the Orcish warmachine standing guard over them--all of this seems to add to the vividness of my recollections.
- 7450: Hehehe. In that sentiment, you are not alone.
- 7451: I for one could bask for eternity in the warmth of this moment, but duty calls.
- 7452: I shall see the children returned safely to Batallia Downs.
- 7453: Please join me at your earliest convenience, <Player>. You shall find me by the statue where first we met.
- 7454: Shall I accompany you?
- 7455: I alone should suffice for this simple task, Commander. Might I suggest you take word of our success back to the Kingdom? And pay visit to Lady Altennia, too, if you've a mind?
- 7456: <Blush> A-ahem! You may take your leave of us, soldier!
- 7457: Yes, sir! At once, sir!
- 7458: Father...
- 7459: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7460: Set this as current home point? [Yes./No.]
- 7461: Home point set!
- 7462: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7463: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7464: You have registered a new home point! You are now able to teleport here from any other home point.
- 7465: You may teleport from here to any other home point you have registered.
- 7466: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7467: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7468: You have not yet registered any other home points, and thus are unable to teleport.
- 7469: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7470: There is no fee for teleporting to Home Point #$2 in $8.
- 7471: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7472: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7473: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7474: You may change the method of selecting the area of your desired home point to teleport to.
- 7475: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7476: You are now selecting by [region/expansion].
- 7477: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7478: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7479: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7480: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7385: 
+ 7386: Show yourself, Zogbog! I've come to retrieve Rahal! You will return him to me this instant!
+ 7387: Fi-fie-fo-fum, I smell the blood of a young Elvaan...
+ 7388: No skulking about the shadows today, Zogbog? Highly unusual for a habitual coward such as you.
+ 7389: Hah! Spare me the mockery! The predator has no need to cower from prey!
+ 7390: Feast your eyes upon the unequalled majesty of my minions!
+ 7391: Wh-what are these monstrosities!?
+ 7392: They are the "Fangmonger Stone Legion," the juggernaut that shall run rampant over all of Vana'diel!
+ 7393: Into the past I shall send them, to wrest power from the weakened grips of men and beastmen both as they wage war and bleed each other dry.
+ 7394: In time, the name of the Fangmonger clan shall come to be feared the world over...and then my ascension to the Orcish throne shall be complete!
+ 7395: For old times' sake, my young nemesis, I shall make you an offer most generous. You shan't find it wanting.
+ 7396: Lay to rest your hostility towards me and join my cause. Bend your knee to me--accept me as your liege lord--and I shall make you a general among my armies.
+ 7397: Your presumption that I might betray my own is the greatest affront, Zogbog! Steel yourself for grave disappointment, for your vile ambition shall soon be reduced to piles of rubble!
+ 7398: Hmph. I find your lack of foresight disturbing, little rabbit. You shall come to regret spurning a place in the new Orcish Empire.
+ 7399: Boy!
+ 7400: Hah. More guests, and right on cue.
+ 7401: The time for talk is ended! Come face your doom, Excenmille! <Player>!
+ 7402: Awaken, my loyal minions!
+ 7403: Commander!
+ 7404: A veritable den of adders... It shall be all we can do to keep them at bay until Bostillette arrives with reinforcements.
+ 7405: And boy. Think not for a moment that being here excuses you from lessons.
+ 7406: S-surely there're environs more conducive to learning!
+ 7407: Go forth, Fangmonger Stone Legion! Go forth and annihilate those who would oppose my will!
+ 7408: Lesson number sixty-seven...
+ 7409: Naught ventured, naught gained! Hold fast to your objective...and chaaarge!!!
+ 7410: Yaaaaaarghhh!!!
+ 7411: (Nooo! H-how could this be!? Two decades of painstaking labor undone in a single confrontation...)
+ 7412: (Mekglok! Do something, or my entire legion is finished!)
+ 7413: (Uh...easy say, difficult do, Master Zogbog.)
+ 7414: Right in the nick of time!
+ 7415: Bostillette! We shall have words regarding your definition of "nick of time" before the day is through!
+ 7416: (D-damn it! Move, I say! Move, you worthless piece of junk!)
+ 7417: (Aaargh!!! Vex me to the very end, will you!?)
+ 7418: (Ah! It's resumed functioning!)
+ 7419: (Huh? S-something's amiss...)
+ 7420: (Uh-oh. This not good. Statue go out of control.)
+ 7421: Wh-what strange spell is this that the colossus incants?
+ 7422: (Mekglok! Explain to me what's happening!)
+ 7423: (Huh? Whither did that machine-loving misfit vanish!? Damn him thrice over!)
+ 7424: (Master Zogbog, me so sorry. Self-destruct device me fit is activate. Explosion happen soon.)
+ 7425: (Wh-what!? By Bakgodek's backside, who placed an order for such a hazardous feature!?)
+ 7426: (Uh...m-me forget meat over cookfire. Me go now, Master Zogbog.)
+ 7427: (D-don't you dare abandon me, you disloyal, self-preserving wretch!)
+ 7428: Commander! If that Orc speaks true, we haven't a moment to lose!
+ 7429: Why do you linger!? Hurry and escape lest the explosion claim us all!
+ 7430: Are you certain, boy? That your friend is being held hereabouts?
+ 7431: Past certain. I must neutralize the explosion and save him!
+ 7432: Let me remind you, no guarantee exists that we will succeed and escape with our own lives.
+ 7433: Even should I knowingly face impossible odds, I cannot leave a friend at the mercy of death.
+ 7434: A man must be prepared to bear all of life's burdens if he wishes to move forward. These are your own words.
+ 7435: Aptly said, boy. Very well, I shall stand beside you in this. Consider this your chance to put to practice all you've learned.
+ 7436: Let the final examination commence!
+ 7437: (Confound it! The means to fulfilling my ambition...all spent...)
+ 7438: With me, boy!
+ 7439: Yaaaaaargh!!!
+ 7440: Stop, damn you!!!
+ 7441: Did he...do it?
+ 7442: Hah. He's passed out from the exertion.
+ 7443: Rest easy, boy. You've passed the exam with flying colors.
+ 7444: Will these two be all right?
+ 7445: They've fallen into a slumber of exhaustion, but have taken no permanent harm as far as I can see.
+ 7446: Ah, Commander. I discovered this ring by the cavern entrance. The fine craftsmanship bespeaks great worth, and I thought you should see it.
+ 7447: By the Goddess! I had thought it forever lost!
+ 7448: This ring disappeared from my possession sometime during the expedition to Rhazowa. Such a journey it must have made to find its way back here...
+ 7449: I must say, gazing at the children puts me in mind of our own childhood.
+ 7450: Decked out in their swords and armor, with the Orcish warmachine standing guard over them--all of this seems to add to the vividness of my recollections.
+ 7451: Hehehe. In that sentiment, you are not alone.
+ 7452: I for one could bask for eternity in the warmth of this moment, but duty calls.
+ 7453: I shall see the children returned safely to Batallia Downs.
+ 7454: Please join me at your earliest convenience, <Player>. You shall find me by the statue where first we met.
+ 7455: Shall I accompany you?
+ 7456: I alone should suffice for this simple task, Commander. Might I suggest you take word of our success back to the Kingdom? And pay visit to Lady Altennia, too, if you've a mind?
+ 7457: <Blush> A-ahem! You may take your leave of us, soldier!
+ 7458: Yes, sir! At once, sir!
+ 7459: Father...
+ 7460: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7461: Set this as current home point? [Yes./No.]
+ 7462: Home point set!
+ 7463: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7464: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7465: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7466: You may teleport from here to any other home point you have registered.
+ 7467: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7468: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7469: You have not yet registered any other home points, and thus are unable to teleport.
+ 7470: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7471: There is no fee for teleporting to Home Point #$2 in $8.
+ 7472: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7473: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7474: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7475: You may change the method of selecting the area of your desired home point to teleport to.
+ 7476: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7477: You are now selecting by [region/expansion].
+ 7478: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7479: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7480: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7481: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]

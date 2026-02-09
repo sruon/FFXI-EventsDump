@@ -136,19 +136,19 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x1C72      |        7282 |
-|       2 | 0x1C84      |        7300 |
-|       3 | 0x1C85      |        7301 |
-|       4 | 0x1C86      |        7302 |
-|       5 | 0x1CA8      |        7336 |
-|       6 | 0x1CA9      |        7337 |
-|       7 | 0x1CAA      |        7338 |
-|       8 | 0x1CB2      |        7346 |
-|       9 | 0x1CDA      |        7386 |
-|      10 | 0x1CDC      |        7388 |
+|       1 | 0x1C73      |        7283 |
+|       2 | 0x1C85      |        7301 |
+|       3 | 0x1C86      |        7302 |
+|       4 | 0x1C87      |        7303 |
+|       5 | 0x1CA9      |        7337 |
+|       6 | 0x1CAA      |        7338 |
+|       7 | 0x1CAB      |        7339 |
+|       8 | 0x1CB3      |        7347 |
+|       9 | 0x1CDB      |        7387 |
+|      10 | 0x1CDD      |        7389 |
 |      11 | 0x0000      |           0 |
-|      12 | 0x1BFC      |        7164 |
-|      13 | 0x1BFD      |        7165 |
+|      12 | 0x1BFD      |        7165 |
+|      13 | 0x1BFE      |        7166 |
 |      14 | 0xFFFF21D6  |  4294910422 |
 |      15 | 0xFFFDD47F  |  4294825087 |
 |      16 | 0xFFFFFF93  |  4294967187 |
@@ -264,11 +264,11 @@
 
 ## String References
 
-- **7164**: The petition is complete!
-- **7165**: You have $0 more [signature/signatures] to go.
-- **7346**: I can't believe that could happen to our Two! <Player>, please help us!
-- **7386**: We're so grateful for all you've done. I'm sure you've taught Panta a valuable lesson, too.
-- **7388**: What? You want me to sign your petition for the clock tower? Well, why not?
+- **7165**: The petition is complete!
+- **7166**: You have $0 more [signature/signatures] to go.
+- **7347**: I can't believe that could happen to our Two! <Player>, please help us!
+- **7387**: We're so grateful for all you've done. I'm sure you've taught Panta a valuable lesson, too.
+- **7389**: What? You want me to sign your petition for the clock tower? Well, why not?
 
 ## Events
 
@@ -319,7 +319,7 @@
   1: 0x0006 [0x4A] Teigero-Bangero (ID: 17780756/0x010F5014) looks at LocalPlayer
   2: 0x000F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0010 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Teigero-Bangero (ID: 17780756/0x010F5014) Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x0015 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7282*]:
+  4: 0x0015 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7283*]:
     → "Hm? Oh, I thought you were Two. He should be back any minutaru..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT
@@ -371,13 +371,13 @@
 ```
   0: 0x0020 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0022 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0027 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7300*]:
+  2: 0x0027 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7301*]:
     → "I salvaged that Cardian when Panta was just a cub. We didn't think he'd make it, but somehow he started up."
   3: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x002F [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7301*]:
+  4: 0x002F [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7302*]:
     → "Both me and my wife used to work back then, doing all we could to make ends meet. But how could we take care of little Panta with both of us slavey-waving away?"
   5: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0037 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7302*]:
+  6: 0x0037 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7303*]:
     → "That's where Two came in. We were so grateful for his help. He's such an earnest Cardian. We don't know what we'd do without him."
   7: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x003F [0x21] END_EVENT
@@ -409,16 +409,16 @@
   0: 0x0041 [0x4A] Teigero-Bangero (ID: 17780756/0x010F5014) looks at Naruru (ID: 17780757/0x010F5015)
   1: 0x004A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Teigero-Bangero (ID: 17780756/0x010F5014) Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0050 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7336*]:
+  3: 0x0050 [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7337*]:
     → "Hey, I haven't seen Two lately. Did you send him off someplace?"
   4: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0058 [0x4A] Naruru (ID: 17780757/0x010F5015) looks at Teigero-Bangero (ID: 17780756/0x010F5014)
   6: 0x0061 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0062 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Naruru (ID: 17780757/0x010F5015) Render.Flags0 and Render.Flags3 conditions are met
-  8: 0x0067 [0x2B] Naruru (ID: 17780757/0x010F5015) [7337*]:
+  8: 0x0067 [0x2B] Naruru (ID: 17780757/0x010F5015) [7338*]:
     → "No, dear... He must have just wandered off. I wonder what's the matter with him."
   9: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x006F [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7338*]:
+ 10: 0x006F [0x2B] Teigero-Bangero (ID: 17780756/0x010F5014) [7339*]:
     → "Yeah, it's not like him. We'd better ask the neighbors if they've seen him."
  11: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0077 [0x21] END_EVENT
@@ -446,7 +446,7 @@
 
 ```
   0: 0x0079 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+  1: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "I can't believe that could happen to our Two! <Player>, please help us!"
   2: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0082 [0x21] END_EVENT
@@ -473,7 +473,7 @@
 
 ```
   0: 0x0084 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+  1: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "We're so grateful for all you've done. I'm sure you've taught Panta a valuable lesson, too."
   2: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x008D [0x21] END_EVENT
@@ -526,15 +526,15 @@
   0: 0x0090 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0092 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0093 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+  3: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "What? You want me to sign your petition for the clock tower? Well, why not?"
   4: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00AB
-  6: 0x00A4 [0x48] [System] [7164*]:
+  6: 0x00A4 [0x48] [System] [7165*]:
     → "The petition is complete!"
   7: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A8 [0x01] GOTO 0x00AF
-  9: 0x00AB [0x48] [System] [7165*]:
+  9: 0x00AB [0x48] [System] [7166*]:
     → "You have $0 more [signature/signatures] to go."
  10: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 

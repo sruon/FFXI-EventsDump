@@ -183,19 +183,19 @@
 |     118 | 0x0785      |        1925 |
 |     119 | 0x00A5      |         165 |
 |     120 | 0x003C      |          60 |
-|     121 | 0x1DC0      |        7616 |
-|     122 | 0x1DC1      |        7617 |
+|     121 | 0x1DC1      |        7617 |
+|     122 | 0x1DC2      |        7618 |
 |     123 | 0x005A      |          90 |
-|     124 | 0x1DC2      |        7618 |
+|     124 | 0x1DC3      |        7619 |
 |     125 | 0x0032      |          50 |
-|     126 | 0x1DC3      |        7619 |
-|     127 | 0x1DC4      |        7620 |
+|     126 | 0x1DC4      |        7620 |
+|     127 | 0x1DC5      |        7621 |
 |     128 | 0x0034      |          52 |
-|     129 | 0x1DC5      |        7621 |
+|     129 | 0x1DC6      |        7622 |
 |     130 | 0x0022      |          34 |
-|     131 | 0x1DC6      |        7622 |
-|     132 | 0x1DC7      |        7623 |
-|     133 | 0x1DC8      |        7624 |
+|     131 | 0x1DC7      |        7623 |
+|     132 | 0x1DC8      |        7624 |
+|     133 | 0x1DC9      |        7625 |
 |     134 | 0x0035      |          53 |
 |     135 | 0xFFFF9D80  |  4294942080 |
 |     136 | 0x4273      |       17011 |
@@ -204,12 +204,12 @@
 |     139 | 0xFFFFFFD2  |  4294967250 |
 |     140 | 0x1B06E     |      110702 |
 |     141 | 0xFFFFF060  |  4294963296 |
-|     142 | 0x1F9E      |        8094 |
+|     142 | 0x1F9F      |        8095 |
 |     143 | 0x00C9      |         201 |
 
 ## String References
 
-- **8094**: Entering the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
+- **8095**: Entering the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
 
 ## Events
 
@@ -1495,7 +1495,7 @@ SUBROUTINE_05C0:
  11: 0x0664 [0x1C] WAIT(60* ticks)
  12: 0x0667 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0678 [0x1C] WAIT(60* ticks)
- 14: 0x067B [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7616*]:
+ 14: 0x067B [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7617*]:
     → "Hey! I rrremember you. You're that [guy/lady] who...no, wait... Hm?"
  15: 0x0682 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0683 [0x1C] WAIT(60* ticks)
@@ -1504,30 +1504,30 @@ SUBROUTINE_05C0:
  19: 0x06A6 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
  20: 0x06A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  21: 0x06B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=8*
- 22: 0x06C8 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7617*]:
+ 22: 0x06C8 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7618*]:
     → "What? You met a rrreal, live mannequin crrraftsman!? Unbelievable! What did he say?"
  23: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x06D0 [0x1C] WAIT(90* ticks)
- 25: 0x06D3 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7618*]:
+ 25: 0x06D3 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7619*]:
     → "He needs $6...?"
  26: 0x06DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x06DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  28: 0x06EC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo2" with entities [EventEntity, EventEntity], work=200*
  29: 0x06FB [0x52] END_LOAD_SCHEDULER: End scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=165*
  30: 0x070A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=50*
- 31: 0x0719 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7619*]:
+ 31: 0x0719 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7620*]:
     → "3... 3...... I'm sorry. I'm afraid I don't have any."
  32: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0721 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s102" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  34: 0x0732 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  35: 0x0743 [0x1C] WAIT(120* ticks)
- 36: 0x0746 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7620*]:
+ 36: 0x0746 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7621*]:
     → "The plans that you brrrought me talked about it, but I was never able to find the stuff. I've been using slime oil as a substitute."
  37: 0x074D [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x074E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=50*
  39: 0x075D [0x1C] WAIT(60* ticks)
  40: 0x0760 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=52*
- 41: 0x076F [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7621*]:
+ 41: 0x076F [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7622*]:
     → "I wouldn't even know where to start looking..."
  42: 0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0777 [0x1C] WAIT(90* ticks)
@@ -1536,12 +1536,12 @@ SUBROUTINE_05C0:
  46: 0x079A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
  47: 0x07AB [0x1C] WAIT(60* ticks)
  48: 0x07AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=50*
- 49: 0x07BD [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7622*]:
+ 49: 0x07BD [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7623*]:
     → "Wait a minute... Do you rrremember the stories about how the Orcs would steal mannequin parts? Maybe some of the beasts also stole bottles of the oil..."
  50: 0x07C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x07C5 [0x1C] WAIT(30* ticks)
  52: 0x07C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=50*
- 53: 0x07D7 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7623*]:
+ 53: 0x07D7 [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7624*]:
     → "But that's just a hunch. I'm sorry I couldn't be of any rrreal help."
  54: 0x07DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x07DF [0x4A] Fyi Chalmwoh (ID: 17797231/0x010F906F) looks at LocalPlayer
@@ -1550,7 +1550,7 @@ SUBROUTINE_05C0:
  58: 0x07F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
  59: 0x080A [0x1C] WAIT(30* ticks)
  60: 0x080D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=50*
- 61: 0x081C [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7624*]:
+ 61: 0x081C [0x2B] Fyi Chalmwoh (ID: 17797231/0x010F906F) [7625*]:
     → "Hey, if I ever get any time off, would you take me to where the mannequin crrraftsman lives? I'd love to learn all his techniques!"
  62: 0x0823 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0824 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Fyi Chalmwoh (ID: 17797231/0x010F906F), Fyi Chalmwoh (ID: 17797231/0x010F906F)], work=50*
@@ -1664,7 +1664,7 @@ SUBROUTINE_05C0:
 
 ```
   0: 0x08AF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x08B0 [0x48] [System] [8094*]:
+  1: 0x08B0 [0x48] [System] [8095*]:
     → "Entering the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade]."
   2: 0x08B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x08C4 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

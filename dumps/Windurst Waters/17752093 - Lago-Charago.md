@@ -32,35 +32,35 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F4B      |        8011 |
+|       2 | 0x1F4C      |        8012 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0xFFFFFFFC  |  4294967292 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x1F49      |        8009 |
-|       8 | 0x1F4A      |        8010 |
-|       9 | 0x1F4C      |        8012 |
-|      10 | 0x1F4D      |        8013 |
-|      11 | 0x1F4E      |        8014 |
-|      12 | 0x1F4F      |        8015 |
-|      13 | 0x1F50      |        8016 |
-|      14 | 0x2FFE      |       12286 |
-|      15 | 0x3009      |       12297 |
-|      16 | 0x300A      |       12298 |
+|       7 | 0x1F4A      |        8010 |
+|       8 | 0x1F4B      |        8011 |
+|       9 | 0x1F4D      |        8013 |
+|      10 | 0x1F4E      |        8014 |
+|      11 | 0x1F4F      |        8015 |
+|      12 | 0x1F50      |        8016 |
+|      13 | 0x1F51      |        8017 |
+|      14 | 0x2FFF      |       12287 |
+|      15 | 0x300A      |       12298 |
+|      16 | 0x300B      |       12299 |
 
 ## String References
 
-- **8009**: Whaddaya want-want? Can'tya see I'm busy-busy preparing for my astronomic observations?
-- **8010**: Hm. I infer somebody wants to see my stellar stellar map, perhaps?
-- **8011**: See the stellar map? [Stellar!/Map-schmap!]
-- **8012**: Then don't bug-bug me again! People's lives are but a fleeting moment when compared to the lives of the stars. There are so many stars to map, I don't wanna waste a second second!
-- **8013**: Humph-humph. Good to see someone has an interest in the stars.
-- **8014**: Climbing the northern sky is the famous Odin. The black point there is Odin's beloved steer, Sleipnir.
-- **8015**: And above that--although in the actual night sky it appears below Sleipnir--is the North Star, the prominently bright star that sailors guide their ships by.
-- **8016**: If you want to further further your interest in the stars, then you're always welcome to visit here and see my stellar stellar map.
-- **12286**: <Player>'s badge flashes brightly.
-- **12297**: Hm. I infer somebody wants to know-know about Aht Urhgan, perhaps? Then you should look up at this night's night sky.
-- **12298**: Compared to the night sky, this world is small. Perhaps it holds that that you seek.
+- **8010**: Whaddaya want-want? Can'tya see I'm busy-busy preparing for my astronomic observations?
+- **8011**: Hm. I infer somebody wants to see my stellar stellar map, perhaps?
+- **8012**: See the stellar map? [Stellar!/Map-schmap!]
+- **8013**: Then don't bug-bug me again! People's lives are but a fleeting moment when compared to the lives of the stars. There are so many stars to map, I don't wanna waste a second second!
+- **8014**: Humph-humph. Good to see someone has an interest in the stars.
+- **8015**: Climbing the northern sky is the famous Odin. The black point there is Odin's beloved steer, Sleipnir.
+- **8016**: And above that--although in the actual night sky it appears below Sleipnir--is the North Star, the prominently bright star that sailors guide their ships by.
+- **8017**: If you want to further further your interest in the stars, then you're always welcome to visit here and see my stellar stellar map.
+- **12287**: <Player>'s badge flashes brightly.
+- **12298**: Hm. I infer somebody wants to know-know about Aht Urhgan, perhaps? Then you should look up at this night's night sky.
+- **12299**: Compared to the night sky, this world is small. Perhaps it holds that that you seek.
 
 ## Events
 
@@ -189,7 +189,7 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x05)
-  4: 0x003E [0x24] CREATE_DIALOG(message_id=8011*, default_option=1*, option_flags=0*)
+  4: 0x003E [0x24] CREATE_DIALOG(message_id=8012*, default_option=1*, option_flags=0*)
     → "See the stellar map? [Stellar!/Map-schmap!]"
   5: 0x0045 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0046 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0078
@@ -233,10 +233,10 @@ SUBROUTINE_008F:
 
 ```
   0: 0x0093 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x01)
-  1: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
+  1: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
     → "Whaddaya want-want? Can'tya see I'm busy-busy preparing for my astronomic observations?"
   2: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+  3: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "Hm. I infer somebody wants to see my stellar stellar map, perhaps?"
   4: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x02)
@@ -264,7 +264,7 @@ SUBROUTINE_008F:
 
 ```
   0: 0x00AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x01)
-  1: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
+  1: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
     → "Then don't bug-bug me again! People's lives are but a fleeting moment when compared to the lives of the stars. There are so many stars to map, I don't wanna waste a second second!"
   2: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x02)
@@ -291,7 +291,7 @@ SUBROUTINE_008F:
 #### Opcodes
 
 ```
-  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
+  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
     → "Humph-humph. Good to see someone has an interest in the stars."
   1: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C1 [0x00] END_REQSTACK()
@@ -316,7 +316,7 @@ SUBROUTINE_008F:
 #### Opcodes
 
 ```
-  0: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+  0: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "Climbing the northern sky is the famous Odin. The black point there is Odin's beloved steer, Sleipnir."
   1: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C6 [0x00] END_REQSTACK()
@@ -341,7 +341,7 @@ SUBROUTINE_008F:
 #### Opcodes
 
 ```
-  0: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+  0: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "And above that--although in the actual night sky it appears below Sleipnir--is the North Star, the prominently bright star that sailors guide their ships by."
   1: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00CB [0x00] END_REQSTACK()
@@ -368,7 +368,7 @@ SUBROUTINE_008F:
 
 ```
   0: 0x00CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x01)
-  1: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+  1: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "If you want to further further your interest in the stars, then you're always welcome to visit here and see my stellar stellar map."
   2: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Lago-Charago (ID: 17752093/0x010EE01D), tag_num=0x02)
@@ -399,15 +399,15 @@ SUBROUTINE_008F:
 
 ```
   0: 0x00DF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00E0 [0x48] [System] [12286*]:
+  1: 0x00E0 [0x48] [System] [12287*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00E3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00E8 [0x1C] WAIT(30* ticks)
-  4: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
+  4: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
     → "Hm. I infer somebody wants to know-know about Aht Urhgan, perhaps? Then you should look up at this night's night sky."
   5: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  7: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
+  7: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
     → "Compared to the night sky, this world is small. Perhaps it holds that that you seek."
   8: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0102 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

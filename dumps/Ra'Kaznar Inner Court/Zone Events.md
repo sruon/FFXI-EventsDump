@@ -166,7 +166,7 @@
 |      91 | 0x0003      |           3 |
 |      92 | 0x001F      |          31 |
 |      93 | 0xFFFFFFFF  |  4294967295 |
-|      94 | 0x1E41      |        7745 |
+|      94 | 0x1E42      |        7746 |
 |      95 | 0x40000000  |  1073741824 |
 |      96 | 0x000B      |          11 |
 |      97 | 0x000C      |          12 |
@@ -174,24 +174,24 @@
 |      99 | 0x0010      |          16 |
 |     100 | 0x001D      |          29 |
 |     101 | 0x0015      |          21 |
-|     102 | 0x1E4E      |        7758 |
-|     103 | 0x1E2D      |        7725 |
-|     104 | 0x1E2E      |        7726 |
-|     105 | 0x1E35      |        7733 |
-|     106 | 0x1E30      |        7728 |
+|     102 | 0x1E4F      |        7759 |
+|     103 | 0x1E2E      |        7726 |
+|     104 | 0x1E2F      |        7727 |
+|     105 | 0x1E36      |        7734 |
+|     106 | 0x1E31      |        7729 |
 |     107 | 0x0B90      |        2960 |
-|     108 | 0x1ED4      |        7892 |
+|     108 | 0x1ED5      |        7893 |
 |     109 | 0x0004      |           4 |
 |     110 | 0x0006      |           6 |
-|     111 | 0x1E4C      |        7756 |
-|     112 | 0x1ED5      |        7893 |
-|     113 | 0x1E4B      |        7755 |
-|     114 | 0x1EE0      |        7904 |
-|     115 | 0x1E32      |        7730 |
+|     111 | 0x1E4D      |        7757 |
+|     112 | 0x1ED6      |        7894 |
+|     113 | 0x1E4C      |        7756 |
+|     114 | 0x1EE1      |        7905 |
+|     115 | 0x1E33      |        7731 |
 |     116 | 0x0078      |         120 |
 |     117 | 0x0356      |         854 |
 |     118 | 0x0103      |         259 |
-|     119 | 0x1E3E      |        7742 |
+|     119 | 0x1E3F      |        7743 |
 |     120 | 0x035F      |         863 |
 |     121 | 0x0360      |         864 |
 |     122 | 0x0361      |         865 |
@@ -201,7 +201,7 @@
 |     126 | 0x0365      |         869 |
 |     127 | 0x0366      |         870 |
 |     128 | 0x0367      |         871 |
-|     129 | 0x1E2F      |        7727 |
+|     129 | 0x1E30      |        7728 |
 |     130 | 0x005A      |          90 |
 |     131 | 0x0348      |         840 |
 |     132 | 0x0349      |         841 |
@@ -226,20 +226,20 @@
 
 ## String References
 
-- **7725**: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
-- **7726**: Proceed? [Yes./No.]
-- **7727**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
-- **7728**: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
-- **7730**: You cannot enter at this time. Please wait a moment and try again.
-- **7733**: Your request for entry is being considered...
-- **7742**: Now permeating the mists surrounding the [fracture/obscured domain].
-- **7745**: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
-- **7755**: Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?
-- **7756**: Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]
-- **7758**: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
-- **7892**: Your $3 emits a strange pulse!
-- **7893**: Now what? [Use the $3./Do nothing.]
-- **7904**: Proceed? [Yes./No.]
+- **7726**: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
+- **7727**: Proceed? [Yes./No.]
+- **7728**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
+- **7729**: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+- **7731**: You cannot enter at this time. Please wait a moment and try again.
+- **7734**: Your request for entry is being considered...
+- **7743**: Now permeating the mists surrounding the [fracture/obscured domain].
+- **7746**: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
+- **7756**: Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?
+- **7757**: Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]
+- **7759**: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
+- **7893**: Your $3 emits a strange pulse!
+- **7894**: Now what? [Use the $3./Do nothing.]
+- **7905**: Proceed? [Yes./No.]
 
 ## Events
 
@@ -1768,7 +1768,7 @@ SUBROUTINE_025D:
   8: 0x05E2 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=31*, target=ExtData[1]->WorkLocal[20], source=4294967295*)
   9: 0x05EB [0x0F] ExtData[1]->WorkLocal[20] ^= ExtData[1]->WorkLocal[22]
  10: 0x05F0 [0x10] ExtData[1]->WorkLocal[20] <<= 1*
- 11: 0x05F5 [0x24] CREATE_DIALOG(message_id=7745*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+ 11: 0x05F5 [0x24] CREATE_DIALOG(message_id=7746*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
     → "Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]"
  12: 0x05FC [0x25] WAIT_DIALOG_SELECT()
  13: 0x05FD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x060F
@@ -1792,21 +1792,21 @@ SUBROUTINE_0645:
  27: 0x064D [0x9D] Work_Zone[2] = 0x0BD1[ExtData[1]->WorkLocal[21]] // Read WORD
  28: 0x0655 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
  29: 0x065A [0x02] IF !(ExtData[1]->WorkLocal[21] == 21*) GOTO 0x0669
- 30: 0x0662 [0x48] [System] [7758*]:
+ 30: 0x0662 [0x48] [System] [7759*]:
     → "Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?"
  31: 0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0666 [0x01] GOTO 0x066D
- 33: 0x0669 [0x48] [System] [7725*]:
+ 33: 0x0669 [0x48] [System] [7726*]:
     → "Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8."
  34: 0x066C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_066D:
- 35: 0x066D [0x24] CREATE_DIALOG(message_id=7726*, default_option=ExtData[1]->WorkLocal[12], option_flags=0*)
+ 35: 0x066D [0x24] CREATE_DIALOG(message_id=7727*, default_option=ExtData[1]->WorkLocal[12], option_flags=0*)
     → "Proceed? [Yes./No.]"
  36: 0x0674 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0675 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0689
  38: 0x067D [0x06] ExtData[1]->WorkLocal[12] = 0
- 39: 0x0680 [0x48] [System] [7733*]:
+ 39: 0x0680 [0x48] [System] [7734*]:
     → "Your request for entry is being considered..."
  40: 0x0683 [0x1A] CALL_SUBROUTINE(address=0x0835)
  41: 0x0686 [0x01] GOTO 0x06AC
@@ -1814,7 +1814,7 @@ SUBROUTINE_066D:
  43: 0x0691 [0x03] Work_Zone[1] = 1073741824*
  44: 0x0696 [0x9D] Work_Zone[2] = 0x0BD1[ExtData[1]->WorkLocal[21]] // Read WORD
  45: 0x069E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
- 46: 0x06A3 [0x48] [System] [7728*]:
+ 46: 0x06A3 [0x48] [System] [7729*]:
     → "You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8."
  47: 0x06A6 [0x05] ExtData[1]->WorkLocal[8] = 1
  48: 0x06A9 [0x01] GOTO 0x06AC
@@ -1948,7 +1948,7 @@ SUBROUTINE_06AC:
   7: 0x06C6 [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[3]
   8: 0x06CB [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[4]
   9: 0x06D0 [0x03] Work_Zone[2] = 2960*
- 10: 0x06D5 [0x48] [System] [7892*]:
+ 10: 0x06D5 [0x48] [System] [7893*]:
     → "Your $3 emits a strange pulse!"
  11: 0x06D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x06D9 [0x03] Work_Zone[2] = 0*
@@ -1977,7 +1977,7 @@ SUBROUTINE_06AC:
  35: 0x075C [0x03] Work_Zone[9] = 1*
  36: 0x0761 [0x3E] IF !(ExtData[1]->WorkLocal[21] bit 8*) GOTO 0x076D
  37: 0x0768 [0x03] Work_Zone_1700[0] = 1*
- 38: 0x076D [0x24] CREATE_DIALOG(message_id=7756*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+ 38: 0x076D [0x24] CREATE_DIALOG(message_id=7757*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Which battlefield will you enter? [None./Sinister Reign./Arciela.[/y$26z]/Darrcuiln.[/y$26z]/Ingrid.[/y$26z]/Morimar.[/y$26z]/Rosulatia.[/y$26z]/Teodor.[/y$26z]/Arciela II.[/y$26z]/Sajj'aka.[/y$26z]/August.[/y$26z]]"
  39: 0x0774 [0x25] WAIT_DIALOG_SELECT()
  40: 0x0775 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0787
@@ -1990,7 +1990,7 @@ SUBROUTINE_0787:
  45: 0x078F [0x03] ExtData[1]->WorkLocal[22] = Work_Zone[0]
  46: 0x0794 [0x0C] ExtData[1]->WorkLocal[22]--
  47: 0x0797 [0x03] Work_Zone[2] = 2960*
- 48: 0x079C [0x24] CREATE_DIALOG(message_id=7893*, default_option=0*, option_flags=0*)
+ 48: 0x079C [0x24] CREATE_DIALOG(message_id=7894*, default_option=0*, option_flags=0*)
     → "Now what? [Use the $3./Do nothing.]"
  49: 0x07A3 [0x25] WAIT_DIALOG_SELECT()
  50: 0x07A4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07B6
@@ -2012,15 +2012,15 @@ SUBROUTINE_07E6:
  62: 0x07EE [0x03] Work_Zone[2] = 2960*
  63: 0x07F3 [0x03] Work_Zone[3] = 0*
  64: 0x07F8 [0x03] Work_Zone[4] = 1*
- 65: 0x07FD [0x48] [System] [7755*]:
+ 65: 0x07FD [0x48] [System] [7756*]:
     → "Consume your $3 and send all [party/alliance] members to [Fractures/the obscured domain]?"
  66: 0x0800 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0801 [0x24] CREATE_DIALOG(message_id=7904*, default_option=1*, option_flags=0*)
+ 67: 0x0801 [0x24] CREATE_DIALOG(message_id=7905*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
  68: 0x0808 [0x25] WAIT_DIALOG_SELECT()
  69: 0x0809 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x081D
  70: 0x0811 [0x06] ExtData[1]->WorkLocal[12] = 0
- 71: 0x0814 [0x48] [System] [7733*]:
+ 71: 0x0814 [0x48] [System] [7734*]:
     → "Your request for entry is being considered..."
  72: 0x0817 [0x1A] CALL_SUBROUTINE(address=0x0835)
  73: 0x081A [0x01] GOTO 0x0830
@@ -2066,7 +2066,7 @@ SUBROUTINE_0866:
 103: 0x089A [0x0B] ExtData[1]->WorkLocal[14]++
 104: 0x089D [0x02] IF !(ExtData[1]->WorkLocal[14] <= 5*) GOTO 0x08B2
 105: 0x08A5 [0x05] ExtData[1]->WorkLocal[13] = 1
-106: 0x08A8 [0x48] [System] [7730*]:
+106: 0x08A8 [0x48] [System] [7731*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 107: 0x08AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x08AC [0x1C] WAIT(60* ticks)
@@ -2140,75 +2140,75 @@ SUBROUTINE_0927:
 170: 0x09BE [0x02] IF !(ExtData[1]->WorkLocal[10] == 854*) GOTO 0x09D7
 171: 0x09C6 [0x03] Work_Zone[2] = 259*
 172: 0x09CB [0x03] Work_Zone[3] = 1*
-173: 0x09D0 [0x48] [System] [7742*]:
+173: 0x09D0 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 174: 0x09D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x09D4 [0x01] GOTO 0x0AC1
 176: 0x09D7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 863*) GOTO 0x09F0
 177: 0x09DF [0x03] Work_Zone[2] = 259*
 178: 0x09E4 [0x03] Work_Zone[3] = 1*
-179: 0x09E9 [0x48] [System] [7742*]:
+179: 0x09E9 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 180: 0x09EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x09ED [0x01] GOTO 0x0AC1
 182: 0x09F0 [0x02] IF !(ExtData[1]->WorkLocal[10] == 864*) GOTO 0x0A09
 183: 0x09F8 [0x03] Work_Zone[2] = 259*
 184: 0x09FD [0x03] Work_Zone[3] = 1*
-185: 0x0A02 [0x48] [System] [7742*]:
+185: 0x0A02 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 186: 0x0A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0A06 [0x01] GOTO 0x0AC1
 188: 0x0A09 [0x02] IF !(ExtData[1]->WorkLocal[10] == 865*) GOTO 0x0A22
 189: 0x0A11 [0x03] Work_Zone[2] = 259*
 190: 0x0A16 [0x03] Work_Zone[3] = 1*
-191: 0x0A1B [0x48] [System] [7742*]:
+191: 0x0A1B [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 192: 0x0A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0A1F [0x01] GOTO 0x0AC1
 194: 0x0A22 [0x02] IF !(ExtData[1]->WorkLocal[10] == 866*) GOTO 0x0A3B
 195: 0x0A2A [0x03] Work_Zone[2] = 259*
 196: 0x0A2F [0x03] Work_Zone[3] = 1*
-197: 0x0A34 [0x48] [System] [7742*]:
+197: 0x0A34 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 198: 0x0A37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x0A38 [0x01] GOTO 0x0AC1
 200: 0x0A3B [0x02] IF !(ExtData[1]->WorkLocal[10] == 867*) GOTO 0x0A54
 201: 0x0A43 [0x03] Work_Zone[2] = 259*
 202: 0x0A48 [0x03] Work_Zone[3] = 1*
-203: 0x0A4D [0x48] [System] [7742*]:
+203: 0x0A4D [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 204: 0x0A50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x0A51 [0x01] GOTO 0x0AC1
 206: 0x0A54 [0x02] IF !(ExtData[1]->WorkLocal[10] == 868*) GOTO 0x0A6D
 207: 0x0A5C [0x03] Work_Zone[2] = 259*
 208: 0x0A61 [0x03] Work_Zone[3] = 1*
-209: 0x0A66 [0x48] [System] [7742*]:
+209: 0x0A66 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 210: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x0A6A [0x01] GOTO 0x0AC1
 212: 0x0A6D [0x02] IF !(ExtData[1]->WorkLocal[10] == 869*) GOTO 0x0A86
 213: 0x0A75 [0x03] Work_Zone[2] = 259*
 214: 0x0A7A [0x03] Work_Zone[3] = 1*
-215: 0x0A7F [0x48] [System] [7742*]:
+215: 0x0A7F [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 216: 0x0A82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x0A83 [0x01] GOTO 0x0AC1
 218: 0x0A86 [0x02] IF !(ExtData[1]->WorkLocal[10] == 870*) GOTO 0x0A9F
 219: 0x0A8E [0x03] Work_Zone[2] = 259*
 220: 0x0A93 [0x03] Work_Zone[3] = 1*
-221: 0x0A98 [0x48] [System] [7742*]:
+221: 0x0A98 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 222: 0x0A9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x0A9C [0x01] GOTO 0x0AC1
 224: 0x0A9F [0x02] IF !(ExtData[1]->WorkLocal[10] == 871*) GOTO 0x0AB8
 225: 0x0AA7 [0x03] Work_Zone[2] = 259*
 226: 0x0AAC [0x03] Work_Zone[3] = 1*
-227: 0x0AB1 [0x48] [System] [7742*]:
+227: 0x0AB1 [0x48] [System] [7743*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 228: 0x0AB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x0AB5 [0x01] GOTO 0x0AC1
 230: 0x0AB8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
-231: 0x0ABD [0x48] [System] [7727*]:
+231: 0x0ABD [0x48] [System] [7728*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
 232: 0x0AC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2244,7 +2244,7 @@ SUBROUTINE_0AC1:
 261: 0x0B89 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 262: 0x0B8B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 263: 0x0B8D [0x05] ExtData[1]->WorkLocal[13] = 1
-264: 0x0B90 [0x48] [System] [7730*]:
+264: 0x0B90 [0x48] [System] [7731*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 265: 0x0B93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x0B94 [0x1C] WAIT(60* ticks)

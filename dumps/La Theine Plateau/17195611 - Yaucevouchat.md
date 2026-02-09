@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1CF2      |        7410 |
+|       1 | 0x1CF3      |        7411 |
 
 ## String References
 
-- **7410**: Well? Find anything?
+- **7411**: Well? Find anything?
 
 ## Events
 
@@ -73,7 +73,7 @@
 
 ```
   0: 0x0001 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
     → "Well? Find anything?"
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

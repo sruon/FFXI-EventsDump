@@ -24,39 +24,39 @@
 |       0 | 0x40000000  |  1073741824 |
 |       1 | 0x0005      |           5 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D34      |        7476 |
+|       3 | 0x1D35      |        7477 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x1D35      |        7477 |
+|       7 | 0x1D36      |        7478 |
 |       8 | 0x0004      |           4 |
 |       9 | 0x0006      |           6 |
 |      10 | 0x0007      |           7 |
 |      11 | 0x0008      |           8 |
 |      12 | 0x0009      |           9 |
-|      13 | 0x1D36      |        7478 |
+|      13 | 0x1D37      |        7479 |
 |      14 | 0x000A      |          10 |
-|      15 | 0x1D37      |        7479 |
-|      16 | 0x1D38      |        7480 |
+|      15 | 0x1D38      |        7480 |
+|      16 | 0x1D39      |        7481 |
 |      17 | 0x0012      |          18 |
 |      18 | 0x0015      |          21 |
 |      19 | 0x000B      |          11 |
-|      20 | 0x1D18      |        7448 |
-|      21 | 0x1D19      |        7449 |
+|      20 | 0x1D19      |        7449 |
+|      21 | 0x1D1A      |        7450 |
 |      22 | 0x031D      |         797 |
-|      23 | 0x1D2B      |        7467 |
-|      24 | 0x1D1A      |        7450 |
-|      25 | 0x1D1C      |        7452 |
-|      26 | 0x1D1D      |        7453 |
-|      27 | 0x1D1E      |        7454 |
-|      28 | 0x1D1F      |        7455 |
-|      29 | 0x1D20      |        7456 |
-|      30 | 0x1D27      |        7463 |
+|      23 | 0x1D2C      |        7468 |
+|      24 | 0x1D1B      |        7451 |
+|      25 | 0x1D1D      |        7453 |
+|      26 | 0x1D1E      |        7454 |
+|      27 | 0x1D1F      |        7455 |
+|      28 | 0x1D20      |        7456 |
+|      29 | 0x1D21      |        7457 |
+|      30 | 0x1D28      |        7464 |
 |      31 | 0x0016      |          22 |
 |      32 | 0x0019      |          25 |
-|      33 | 0x1D24      |        7460 |
+|      33 | 0x1D25      |        7461 |
 |      34 | 0x0078      |         120 |
-|      35 | 0x1D21      |        7457 |
+|      35 | 0x1D22      |        7458 |
 |      36 | 0x00C8      |         200 |
 |      37 | 0xFFF72660  |  4294387296 |
 |      38 | 0xFFF9D5E0  |  4294563296 |
@@ -78,23 +78,23 @@
 |      54 | 0x000D      |          13 |
 |      55 | 0x000E      |          14 |
 |      56 | 0x000F      |          15 |
-|      57 | 0x1D22      |        7458 |
+|      57 | 0x1D23      |        7459 |
 
 ## String References
 
-- **7448**: The suggested level for $0 is $3. Place a level restriction on the party?
-- **7449**: Place a level restriction? [No./Level 70./Level 60./Level 50.]
-- **7450**: Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0."
-- **7452**: Accept this setting? [Yes./No.]
-- **7453**: Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
-- **7454**: Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
-- **7455**: All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?
-- **7456**: Are you ready? [Yes./No.]
-- **7457**: Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
-- **7458**: Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended.
-- **7460**: You cannot enter at this time. Please wait a while before trying again.
-- **7463**: Connecting to server. Please wait.
-- **7467**: You are not in possession of $6. Unable to enter area.
+- **7449**: The suggested level for $0 is $3. Place a level restriction on the party?
+- **7450**: Place a level restriction? [No./Level 70./Level 60./Level 50.]
+- **7451**: Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0."
+- **7453**: Accept this setting? [Yes./No.]
+- **7454**: Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
+- **7455**: Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants].
+- **7456**: All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?
+- **7457**: Are you ready? [Yes./No.]
+- **7458**: Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!
+- **7459**: Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended.
+- **7461**: You cannot enter at this time. Please wait a while before trying again.
+- **7464**: Connecting to server. Please wait.
+- **7468**: You are not in possession of $6. Unable to enter area.
 
 ## Events
 
@@ -267,38 +267,38 @@
   4: 0x0011 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[9]
   5: 0x0016 [0x03] Work_Zone[1] = 1073741824*
   6: 0x001B [0x02] IF !(5* == 0*) GOTO 0x002B
-  7: 0x0023 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+  7: 0x0023 [0x03] ExtData[1]->WorkLocal[2] = 7477*
   8: 0x0028 [0x01] GOTO 0x00D0
   9: 0x002B [0x02] IF !(5* == 1*) GOTO 0x003B
- 10: 0x0033 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 10: 0x0033 [0x03] ExtData[1]->WorkLocal[2] = 7477*
  11: 0x0038 [0x01] GOTO 0x00D0
  12: 0x003B [0x02] IF !(5* == 2*) GOTO 0x004B
- 13: 0x0043 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 13: 0x0043 [0x03] ExtData[1]->WorkLocal[2] = 7477*
  14: 0x0048 [0x01] GOTO 0x00D0
  15: 0x004B [0x02] IF !(5* == 3*) GOTO 0x005B
- 16: 0x0053 [0x03] ExtData[1]->WorkLocal[2] = 7477*
+ 16: 0x0053 [0x03] ExtData[1]->WorkLocal[2] = 7478*
  17: 0x0058 [0x01] GOTO 0x00D0
  18: 0x005B [0x02] IF !(5* == 4*) GOTO 0x006B
- 19: 0x0063 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 19: 0x0063 [0x03] ExtData[1]->WorkLocal[2] = 7477*
  20: 0x0068 [0x01] GOTO 0x00D0
  21: 0x006B [0x02] IF !(5* == 6*) GOTO 0x007B
- 22: 0x0073 [0x03] ExtData[1]->WorkLocal[2] = 7477*
+ 22: 0x0073 [0x03] ExtData[1]->WorkLocal[2] = 7478*
  23: 0x0078 [0x01] GOTO 0x00D0
  24: 0x007B [0x02] IF !(5* == 7*) GOTO 0x008B
- 25: 0x0083 [0x03] ExtData[1]->WorkLocal[2] = 7476*
+ 25: 0x0083 [0x03] ExtData[1]->WorkLocal[2] = 7477*
  26: 0x0088 [0x01] GOTO 0x00D0
  27: 0x008B [0x02] IF !(5* == 8*) GOTO 0x009B
- 28: 0x0093 [0x03] ExtData[1]->WorkLocal[2] = 7477*
+ 28: 0x0093 [0x03] ExtData[1]->WorkLocal[2] = 7478*
  29: 0x0098 [0x01] GOTO 0x00D0
  30: 0x009B [0x02] IF !(5* == 9*) GOTO 0x00AB
- 31: 0x00A3 [0x03] ExtData[1]->WorkLocal[2] = 7478*
+ 31: 0x00A3 [0x03] ExtData[1]->WorkLocal[2] = 7479*
  32: 0x00A8 [0x01] GOTO 0x00D0
  33: 0x00AB [0x02] IF !(5* == 10*) GOTO 0x00BB
- 34: 0x00B3 [0x03] ExtData[1]->WorkLocal[2] = 7479*
+ 34: 0x00B3 [0x03] ExtData[1]->WorkLocal[2] = 7480*
  35: 0x00B8 [0x01] GOTO 0x00D0
  36: 0x00BB [0x02] IF !(5* == 5*) GOTO 0x00D0
  37: 0x00C3 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[4]
- 38: 0x00C8 [0x03] ExtData[1]->WorkLocal[2] = 7480*
+ 38: 0x00C8 [0x03] ExtData[1]->WorkLocal[2] = 7481*
  39: 0x00CD [0x01] GOTO 0x00D0
 
 SUBROUTINE_00D0:
@@ -320,21 +320,21 @@ SUBROUTINE_00E8:
  53: 0x0124 [0x01] GOTO 0x0199
 
 SUBROUTINE_0199:
- 54: 0x0199 [0x48] [System] [7453*]:
+ 54: 0x0199 [0x48] [System] [7454*]:
     → "Only nearby party members with the same objective will accompany you to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]."
  55: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x019D [0x48] [System] [7454*]:
+ 56: 0x019D [0x48] [System] [7455*]:
     → "Please confirm that all party members are cleared to enter [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]."
  57: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x01A1 [0x48] [System] [7455*]:
+ 58: 0x01A1 [0x48] [System] [7456*]:
     → "All party members with the appropriate clearance will now be transported to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]. Are you ready?"
  59: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x01A5 [0x24] CREATE_DIALOG(message_id=7456*, default_option=1*, option_flags=0*)
+ 60: 0x01A5 [0x24] CREATE_DIALOG(message_id=7457*, default_option=1*, option_flags=0*)
     → "Are you ready? [Yes./No.]"
  61: 0x01AC [0x25] WAIT_DIALOG_SELECT()
  62: 0x01AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x076C
  63: 0x01B5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 64: 0x01B6 [0x48] [System] [7463*]:
+ 64: 0x01B6 [0x48] [System] [7464*]:
     → "Connecting to server. Please wait."
  65: 0x01B9 [0x06] ExtData[1]->WorkLocal[6] = 0
  66: 0x01BC [0x06] ExtData[1]->WorkLocal[9] = 0
@@ -357,7 +357,7 @@ SUBROUTINE_01C7:
  81: 0x020B [0x0B] ExtData[1]->WorkLocal[8]++
  82: 0x020E [0x02] IF !(ExtData[1]->WorkLocal[8] <= 5*) GOTO 0x0221
  83: 0x0216 [0x05] ExtData[1]->WorkLocal[6] = 1
- 84: 0x0219 [0x48] [System] [7460*]:
+ 84: 0x0219 [0x48] [System] [7461*]:
     → "You cannot enter at this time. Please wait a while before trying again."
  85: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x021D [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
@@ -443,7 +443,7 @@ SUBROUTINE_02BF:
 162: 0x037E [0x02] IF !(ExtData[1]->WorkLocal[7] == 11*) GOTO 0x0707
 163: 0x0386 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
 164: 0x038F [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[1]
-165: 0x0394 [0x48] [System] [7457*]:
+165: 0x0394 [0x48] [System] [7458*]:
     → "Commencing transport to [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!"
 166: 0x0397 [0x02] IF !(5* == 0*) GOTO 0x03A2
 167: 0x039F [0x01] GOTO 0x0700
@@ -570,7 +570,7 @@ SUBROUTINE_0700:
 286: 0x074E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 287: 0x0750 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 288: 0x0752 [0x05] ExtData[1]->WorkLocal[6] = 1
-289: 0x0755 [0x48] [System] [7460*]:
+289: 0x0755 [0x48] [System] [7461*]:
     → "You cannot enter at this time. Please wait a while before trying again."
 290: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x0759 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
@@ -587,7 +587,7 @@ SUBROUTINE_0766:
 296: 0x0766 [0x01] GOTO 0x01C7
 297: 0x0769 [0x01] GOTO 0x0780
 298: 0x076C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0780
-299: 0x0774 [0x48] [System] [7458*]:
+299: 0x0774 [0x48] [System] [7459*]:
     → "Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended."
 300: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x0778 [0x03] Work_Zone[1] = 1073741824*
@@ -605,10 +605,10 @@ SUBROUTINE_0797:
 
 ```
 # Dead code (unreachable instructions):
-     0x0127 [0x48] [System] [7448*]:
+     0x0127 [0x48] [System] [7449*]:
     → "The suggested level for $0 is $3. Place a level restriction on the party?"
      0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x012B [0x24] CREATE_DIALOG(message_id=7449*, default_option=0*, option_flags=0*)
+     0x012B [0x24] CREATE_DIALOG(message_id=7450*, default_option=0*, option_flags=0*)
     → "Place a level restriction? [No./Level 70./Level 60./Level 50.]"
      0x0132 [0x25] WAIT_DIALOG_SELECT()
      0x0133 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013E
@@ -623,16 +623,16 @@ SUBROUTINE_0797:
      0x0168 [0x03] Work_Zone_1700[0] = Work_Zone[0]
      0x016D [0x01] GOTO 0x017F
      0x017F [0x01] GOTO 0x0185
-     0x0185 [0x48] [System] [7450*]:
+     0x0185 [0x48] [System] [7451*]:
     → "Your party's level will be [unrestricted/restricted to 70/restricted to 60/restricted to 50] for "$0.""
      0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0189 [0x24] CREATE_DIALOG(message_id=7452*, default_option=1*, option_flags=0*)
+     0x0189 [0x24] CREATE_DIALOG(message_id=7453*, default_option=1*, option_flags=0*)
     → "Accept this setting? [Yes./No.]"
      0x0190 [0x25] WAIT_DIALOG_SELECT()
      0x0191 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0783
 # Dead code (unreachable instructions):
      0x0783 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0797
-     0x078B [0x48] [System] [7458*]:
+     0x078B [0x48] [System] [7459*]:
     → "Entry into [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll/Nyzul Isle/The Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants] has been suspended."
      0x078E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x078F [0x03] Work_Zone[1] = 1073741824*

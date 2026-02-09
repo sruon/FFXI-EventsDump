@@ -83,38 +83,38 @@
 |      31 | 0xFFFFDE86  |  4294958726 |
 |      32 | 0x03D2      |         978 |
 |      33 | 0x0004      |           4 |
-|      34 | 0x1D92      |        7570 |
+|      34 | 0x1D93      |        7571 |
 |      35 | 0x00A1      |         161 |
-|      36 | 0x1D93      |        7571 |
+|      36 | 0x1D94      |        7572 |
 |      37 | 0x0045      |          69 |
-|      38 | 0x1D94      |        7572 |
-|      39 | 0x1D95      |        7573 |
-|      40 | 0x1D96      |        7574 |
+|      38 | 0x1D95      |        7573 |
+|      39 | 0x1D96      |        7574 |
+|      40 | 0x1D97      |        7575 |
 |      41 | 0x005A      |          90 |
-|      42 | 0x1D97      |        7575 |
-|      43 | 0x1D98      |        7576 |
-|      44 | 0x1D99      |        7577 |
-|      45 | 0x1D9A      |        7578 |
-|      46 | 0x1D9B      |        7579 |
+|      42 | 0x1D98      |        7576 |
+|      43 | 0x1D99      |        7577 |
+|      44 | 0x1D9A      |        7578 |
+|      45 | 0x1D9B      |        7579 |
+|      46 | 0x1D9C      |        7580 |
 |      47 | 0x00B4      |         180 |
-|      48 | 0x1D9C      |        7580 |
-|      49 | 0x1D9D      |        7581 |
+|      48 | 0x1D9D      |        7581 |
+|      49 | 0x1D9E      |        7582 |
 |      50 | 0x00C9      |         201 |
 |      51 | 0x0003      |           3 |
-|      52 | 0x1D9E      |        7582 |
-|      53 | 0x1D9F      |        7583 |
+|      52 | 0x1D9F      |        7583 |
+|      53 | 0x1DA0      |        7584 |
 |      54 | 0x07BA      |        1978 |
 |      55 | 0x003E      |          62 |
-|      56 | 0x1DA0      |        7584 |
-|      57 | 0x1DA1      |        7585 |
+|      56 | 0x1DA1      |        7585 |
+|      57 | 0x1DA2      |        7586 |
 |      58 | 0x0096      |         150 |
-|      59 | 0x1DA2      |        7586 |
-|      60 | 0x1DA3      |        7587 |
-|      61 | 0x1DA4      |        7588 |
-|      62 | 0x1DA5      |        7589 |
-|      63 | 0x1DA6      |        7590 |
-|      64 | 0x1DA7      |        7591 |
-|      65 | 0x1DA8      |        7592 |
+|      59 | 0x1DA3      |        7587 |
+|      60 | 0x1DA4      |        7588 |
+|      61 | 0x1DA5      |        7589 |
+|      62 | 0x1DA6      |        7590 |
+|      63 | 0x1DA7      |        7591 |
+|      64 | 0x1DA8      |        7592 |
+|      65 | 0x1DA9      |        7593 |
 |      66 | 0x0258      |         600 |
 |      67 | 0x012C      |         300 |
 |      68 | 0x22412     |      140306 |
@@ -710,7 +710,7 @@ SUBROUTINE_009F:
  22: 0x022E [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=4*
  23: 0x023D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  24: 0x024E [0x79] Gubokka (ID: 17498650/0x010B021A) looks at Vigsterkr (ID: 17498651/0x010B021B) (Basic look)
- 25: 0x0258 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7570*]:
+ 25: 0x0258 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7571*]:
     → "Th-that's...!"
  26: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0260 [0x4A] LocalPlayer looks at Vigsterkr (ID: 17498651/0x010B021B)
@@ -727,7 +727,7 @@ SUBROUTINE_009F:
  38: 0x02D0 [0x27] REQ_SET(priority=0x0F, entity_id=Gubokka (ID: 17498650/0x010B021A), tag_num=0x03)
  39: 0x02D7 [0x2A] GET_REQ_LEVEL(level=15, entity_id=Gubokka (ID: 17498650/0x010B021A))
  40: 0x02DD [0x4A] Gubokka (ID: 17498650/0x010B021A) looks at Vigsterkr (ID: 17498651/0x010B021B)
- 41: 0x02E6 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7571*]:
+ 41: 0x02E6 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7572*]:
     → "Hey... Hey! Are you all right!?"
  42: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x02EE [0x79] Vigsterkr (ID: 17498651/0x010B021B) looks at Gubokka (ID: 17498650/0x010B021A) (Basic look)
@@ -736,47 +736,47 @@ SUBROUTINE_009F:
  46: 0x030A [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=4*
  47: 0x0319 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  48: 0x032A [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x0F)
- 49: 0x0331 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7572*]:
+ 49: 0x0331 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7573*]:
     → "Hey! C'mon, hang in there!"
  50: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0339 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7573*]:
+ 51: 0x0339 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7574*]:
     → "Ugh... Huh? Y-you are...? Oh... ...So you're safe..."
  52: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0341 [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
  54: 0x0347 [0x4A] LocalPlayer looks at Vigsterkr (ID: 17498651/0x010B021B)
  55: 0x0350 [0x79] LocalPlayer looks at Vigsterkr (ID: 17498651/0x010B021B) (Basic look)
  56: 0x035A [0x1C] WAIT(60* ticks)
- 57: 0x035D [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7574*]:
+ 57: 0x035D [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7575*]:
     → "...Ow! P-pathetic..."
  58: 0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0365 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=4*
  60: 0x0374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  61: 0x0385 [0x1C] WAIT(90* ticks)
- 62: 0x0388 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7575*]:
+ 62: 0x0388 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7576*]:
     → "I'm sorry... I'm really sorry! I left you alone to save my own skin..."
  63: 0x038F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0390 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7576*]:
+ 64: 0x0390 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7577*]:
     → "...Heh... Don't...let it bother you... You'd have to be a crazy bastard...to be unafraid of a beast like that."
  65: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x0398 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7577*]:
+ 66: 0x0398 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7578*]:
     → "M-more importantly... You're...safe..."
  67: 0x039F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x03A0 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7578*]:
+ 68: 0x03A0 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7579*]:
     → "Imagine if you would've stayed and been done in yourself... What a joke that would be..."
  69: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x03A8 [0x1C] WAIT(120* ticks)
  71: 0x03AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sir0" with entities [Gubokka (ID: 17498650/0x010B021A), Gubokka (ID: 17498650/0x010B021A)], work=69*
- 72: 0x03BA [0x2B] Gubokka (ID: 17498650/0x010B021A) [7579*]:
+ 72: 0x03BA [0x2B] Gubokka (ID: 17498650/0x010B021A) [7580*]:
     → "What have I done...? How could I have let this happen...!?"
  73: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x03C2 [0x1C] WAIT(120* ticks)
  75: 0x03C5 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=4*
  76: 0x03D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  77: 0x03E5 [0x1C] WAIT(180* ticks)
- 78: 0x03E8 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7580*]:
+ 78: 0x03E8 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7581*]:
     → "...Heh... Don't worry about it..."
  79: 0x03EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x03F0 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7581*]:
+ 80: 0x03F0 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7582*]:
     → "Actually... Long ago, someone saved me, too."
  81: 0x03F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x03F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -789,11 +789,11 @@ SUBROUTINE_009F:
  89: 0x0447 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sgm0" with entities [Vigsterkr (ID: 17498653/0x010B021D), Vigsterkr (ID: 17498653/0x010B021D)], work=3*
  90: 0x0456 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  91: 0x0467 [0x1C] WAIT(120* ticks)
- 92: 0x046A [0x2B] Vigsterkr (ID: 17498653/0x010B021D) [7582*]:
+ 92: 0x046A [0x2B] Vigsterkr (ID: 17498653/0x010B021D) [7583*]:
     → "Dammit! It's too strong!"
  93: 0x0471 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0472 [0x1C] WAIT(120* ticks)
- 95: 0x0475 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7583*]:
+ 95: 0x0475 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7584*]:
     → "Just when I thought I was done for, a man appeared out of the blue and rescued me..."
  96: 0x047C [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x047D [0x1C] WAIT(60* ticks)
@@ -816,14 +816,14 @@ SUBROUTINE_009F:
 114: 0x052E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "huk0" with entities [Gomoya (ID: 17498652/0x010B021C), Gomoya (ID: 17498652/0x010B021C)], work=62*
 115: 0x053D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 116: 0x054E [0x1C] WAIT(60* ticks)
-117: 0x0551 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7584*]:
+117: 0x0551 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7585*]:
     → "But as soon as I was free from the monster, I grew afraid. I also ran away, leaving my rescuer behind."
 118: 0x0558 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0559 [0x1C] WAIT(60* ticks)
 120: 0x055C [0x27] REQ_SET(priority=0x0F, entity_id=Vigsterkr (ID: 17498653/0x010B021D), tag_num=0x02)
 121: 0x0563 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 122: 0x0574 [0x1C] WAIT(60* ticks)
-123: 0x0577 [0x2B] Vigsterkr (ID: 17498653/0x010B021D) [7585*]:
+123: 0x0577 [0x2B] Vigsterkr (ID: 17498653/0x010B021D) [7586*]:
     → "Ahh...!!! H-help me!!!"
 124: 0x057E [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x057F [0x1C] WAIT(150* ticks)
@@ -831,20 +831,20 @@ SUBROUTINE_009F:
 127: 0x0593 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
 128: 0x05A2 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=4*
 129: 0x05B1 [0x1C] WAIT(90* ticks)
-130: 0x05B4 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7586*]:
+130: 0x05B4 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7587*]:
     → "When I began to wonder about the man and turned around, he was already lying in a bloody heap. He had given his life to save mine..."
 131: 0x05BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x05BC [0x1C] WAIT(180* ticks)
 133: 0x05BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 134: 0x05D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 135: 0x05E1 [0x1C] WAIT(120* ticks)
-136: 0x05E4 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7587*]:
+136: 0x05E4 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7588*]:
     → "He made me want to use my power to help others... No, he showed me that using the strength we have for the sake of others is our duty..."
 137: 0x05EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x05EC [0x79] Vigsterkr (ID: 17498651/0x010B021B) looks at Gomoya (ID: 17498652/0x010B021C) (Basic look)
 139: 0x05F6 [0x1C] WAIT(60* ticks)
 140: 0x05F9 [0x27] REQ_SET(priority=0x0F, entity_id=Vigsterkr (ID: 17498653/0x010B021D), tag_num=0x03)
-141: 0x0600 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7588*]:
+141: 0x0600 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7589*]:
     → "I have a favor to ask of you..."
 142: 0x0607 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0608 [0x2A] GET_REQ_LEVEL(level=15, entity_id=Vigsterkr (ID: 17498653/0x010B021D))
@@ -852,7 +852,7 @@ SUBROUTINE_009F:
 145: 0x0611 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=4*
 146: 0x0620 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 147: 0x0631 [0x1C] WAIT(90* ticks)
-148: 0x0634 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7589*]:
+148: 0x0634 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7590*]:
     → "Take...this sword..."
 149: 0x063B [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x063C [0x1C] WAIT(120* ticks)
@@ -860,7 +860,7 @@ SUBROUTINE_009F:
 152: 0x0650 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=4*
 153: 0x065F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 154: 0x0670 [0x1C] WAIT(60* ticks)
-155: 0x0673 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7590*]:
+155: 0x0673 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7591*]:
     → "I...I want you to bury this sword with me. It's my treasure...the sword of the man who rescued me."
 156: 0x067A [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x067B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -868,7 +868,7 @@ SUBROUTINE_009F:
 159: 0x069B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 160: 0x06AC [0x4E] SET_ENTITY_HIDE_FLAG: Show eventtrigger (ID: 17498655/0x010B021F)
 161: 0x06B2 [0x2F] eventtrigger (ID: 17498655/0x010B021F)->Render.Flags0 &= ~0x80000 // Bit 19
-162: 0x06B8 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7591*]:
+162: 0x06B8 [0x2B] Vigsterkr (ID: 17498651/0x010B021B) [7592*]:
     → "With this...I can...I can finally...atone...for my sin... Please...let me...sleep now..."
 163: 0x06BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x06C0 [0x1C] WAIT(90* ticks)
@@ -881,7 +881,7 @@ SUBROUTINE_009F:
 171: 0x06F9 [0x4E] SET_ENTITY_HIDE_FLAG: Hide eventtrigger (ID: 17498655/0x010B021F)
 172: 0x06FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 173: 0x0710 [0x1C] WAIT(30* ticks)
-174: 0x0713 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7592*]:
+174: 0x0713 [0x2B] Gubokka (ID: 17498650/0x010B021A) [7593*]:
     → "No! Wake up! Don't go! No...!!!"
 175: 0x071A [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x071B [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=4*

@@ -114,359 +114,359 @@
 |       0 | 0x00AF      |         175 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x00B0      |         176 |
-|       3 | 0x203A      |        8250 |
-|       4 | 0x203B      |        8251 |
-|       5 | 0x2048      |        8264 |
-|       6 | 0x2049      |        8265 |
-|       7 | 0x204E      |        8270 |
-|       8 | 0x204F      |        8271 |
+|       3 | 0x203B      |        8251 |
+|       4 | 0x203C      |        8252 |
+|       5 | 0x2049      |        8265 |
+|       6 | 0x204A      |        8266 |
+|       7 | 0x204F      |        8271 |
+|       8 | 0x2050      |        8272 |
 |       9 | 0x00C8      |         200 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x003C      |          60 |
 |      12 | 0x0003      |           3 |
 |      13 | 0x008D      |         141 |
-|      14 | 0x2054      |        8276 |
-|      15 | 0x2055      |        8277 |
-|      16 | 0x2056      |        8278 |
-|      17 | 0x2057      |        8279 |
-|      18 | 0x2058      |        8280 |
-|      19 | 0x2059      |        8281 |
-|      20 | 0x205A      |        8282 |
-|      21 | 0x205B      |        8283 |
-|      22 | 0x2063      |        8291 |
+|      14 | 0x2055      |        8277 |
+|      15 | 0x2056      |        8278 |
+|      16 | 0x2057      |        8279 |
+|      17 | 0x2058      |        8280 |
+|      18 | 0x2059      |        8281 |
+|      19 | 0x205A      |        8282 |
+|      20 | 0x205B      |        8283 |
+|      21 | 0x205C      |        8284 |
+|      22 | 0x2064      |        8292 |
 |      23 | 0x00C9      |         201 |
-|      24 | 0x2064      |        8292 |
-|      25 | 0x2065      |        8293 |
-|      26 | 0x2066      |        8294 |
-|      27 | 0x2068      |        8296 |
-|      28 | 0x2069      |        8297 |
+|      24 | 0x2065      |        8293 |
+|      25 | 0x2066      |        8294 |
+|      26 | 0x2067      |        8295 |
+|      27 | 0x2069      |        8297 |
+|      28 | 0x206A      |        8298 |
 |      29 | 0x009F      |         159 |
 |      30 | 0x007F      |         127 |
 |      31 | 0x0001      |           1 |
 |      32 | 0x0097      |         151 |
-|      33 | 0x22D3      |        8915 |
-|      34 | 0x22D4      |        8916 |
-|      35 | 0x22D5      |        8917 |
-|      36 | 0x22D6      |        8918 |
-|      37 | 0x22D7      |        8919 |
-|      38 | 0x22D8      |        8920 |
-|      39 | 0x22D9      |        8921 |
+|      33 | 0x22D4      |        8916 |
+|      34 | 0x22D5      |        8917 |
+|      35 | 0x22D6      |        8918 |
+|      36 | 0x22D7      |        8919 |
+|      37 | 0x22D8      |        8920 |
+|      38 | 0x22D9      |        8921 |
+|      39 | 0x22DA      |        8922 |
 |      40 | 0x0050      |          80 |
-|      41 | 0x22DF      |        8927 |
+|      41 | 0x22E0      |        8928 |
 |      42 | 0x00A1      |         161 |
 |      43 | 0x000A      |          10 |
 |      44 | 0x0831      |        2097 |
 |      45 | 0x0078      |         120 |
 |      46 | 0x0096      |         150 |
-|      47 | 0x22E0      |        8928 |
-|      48 | 0x22E2      |        8930 |
-|      49 | 0x22E3      |        8931 |
+|      47 | 0x22E1      |        8929 |
+|      48 | 0x22E3      |        8931 |
+|      49 | 0x22E4      |        8932 |
 |      50 | 0x0005      |           5 |
 |      51 | 0x0006      |           6 |
-|      52 | 0x22E9      |        8937 |
+|      52 | 0x22EA      |        8938 |
 |      53 | 0x0014      |          20 |
-|      54 | 0x22EA      |        8938 |
+|      54 | 0x22EB      |        8939 |
 |      55 | 0x0064      |         100 |
-|      56 | 0x22DE      |        8926 |
-|      57 | 0x22E1      |        8929 |
-|      58 | 0x22E4      |        8932 |
-|      59 | 0x22E8      |        8936 |
-|      60 | 0x22EC      |        8940 |
-|      61 | 0x22EE      |        8942 |
-|      62 | 0x22F1      |        8945 |
-|      63 | 0x22F4      |        8948 |
-|      64 | 0x22F5      |        8949 |
-|      65 | 0x22F6      |        8950 |
-|      66 | 0x22F7      |        8951 |
-|      67 | 0x22F8      |        8952 |
-|      68 | 0x2453      |        9299 |
-|      69 | 0x2454      |        9300 |
-|      70 | 0x2455      |        9301 |
-|      71 | 0x2456      |        9302 |
-|      72 | 0x2457      |        9303 |
-|      73 | 0x2458      |        9304 |
+|      56 | 0x22DF      |        8927 |
+|      57 | 0x22E2      |        8930 |
+|      58 | 0x22E5      |        8933 |
+|      59 | 0x22E9      |        8937 |
+|      60 | 0x22ED      |        8941 |
+|      61 | 0x22EF      |        8943 |
+|      62 | 0x22F2      |        8946 |
+|      63 | 0x22F5      |        8949 |
+|      64 | 0x22F6      |        8950 |
+|      65 | 0x22F7      |        8951 |
+|      66 | 0x22F8      |        8952 |
+|      67 | 0x22F9      |        8953 |
+|      68 | 0x2454      |        9300 |
+|      69 | 0x2455      |        9301 |
+|      70 | 0x2456      |        9302 |
+|      71 | 0x2457      |        9303 |
+|      72 | 0x2458      |        9304 |
+|      73 | 0x2459      |        9305 |
 |      74 | 0x0008      |           8 |
-|      75 | 0x245D      |        9309 |
-|      76 | 0x2461      |        9313 |
-|      77 | 0x2462      |        9314 |
-|      78 | 0x2463      |        9315 |
-|      79 | 0x2464      |        9316 |
-|      80 | 0x2466      |        9318 |
-|      81 | 0x2467      |        9319 |
-|      82 | 0x2468      |        9320 |
-|      83 | 0x2469      |        9321 |
-|      84 | 0x246A      |        9322 |
+|      75 | 0x245E      |        9310 |
+|      76 | 0x2462      |        9314 |
+|      77 | 0x2463      |        9315 |
+|      78 | 0x2464      |        9316 |
+|      79 | 0x2465      |        9317 |
+|      80 | 0x2467      |        9319 |
+|      81 | 0x2468      |        9320 |
+|      82 | 0x2469      |        9321 |
+|      83 | 0x246A      |        9322 |
+|      84 | 0x246B      |        9323 |
 |      85 | 0x012C      |         300 |
-|      86 | 0x2473      |        9331 |
-|      87 | 0x2475      |        9333 |
-|      88 | 0x246C      |        9324 |
-|      89 | 0x2472      |        9330 |
-|      90 | 0x2476      |        9334 |
-|      91 | 0x2477      |        9335 |
-|      92 | 0x247D      |        9341 |
-|      93 | 0x247C      |        9340 |
-|      94 | 0x247E      |        9342 |
-|      95 | 0x2484      |        9348 |
-|      96 | 0x2488      |        9352 |
-|      97 | 0x2489      |        9353 |
-|      98 | 0x248A      |        9354 |
-|      99 | 0x248B      |        9355 |
-|     100 | 0x248C      |        9356 |
-|     101 | 0x2491      |        9361 |
-|     102 | 0x2492      |        9362 |
+|      86 | 0x2474      |        9332 |
+|      87 | 0x2476      |        9334 |
+|      88 | 0x246D      |        9325 |
+|      89 | 0x2473      |        9331 |
+|      90 | 0x2477      |        9335 |
+|      91 | 0x2478      |        9336 |
+|      92 | 0x247E      |        9342 |
+|      93 | 0x247D      |        9341 |
+|      94 | 0x247F      |        9343 |
+|      95 | 0x2485      |        9349 |
+|      96 | 0x2489      |        9353 |
+|      97 | 0x248A      |        9354 |
+|      98 | 0x248B      |        9355 |
+|      99 | 0x248C      |        9356 |
+|     100 | 0x248D      |        9357 |
+|     101 | 0x2492      |        9362 |
+|     102 | 0x2493      |        9363 |
 |     103 | 0x00D6      |         214 |
-|     104 | 0x2497      |        9367 |
-|     105 | 0x249C      |        9372 |
+|     104 | 0x2498      |        9368 |
+|     105 | 0x249D      |        9373 |
 |     106 | 0x0BDC      |        3036 |
-|     107 | 0x24AA      |        9386 |
-|     108 | 0x24AB      |        9387 |
-|     109 | 0x249B      |        9371 |
-|     110 | 0x249D      |        9373 |
-|     111 | 0x249F      |        9375 |
-|     112 | 0x24A0      |        9376 |
-|     113 | 0x24A1      |        9377 |
-|     114 | 0x24A2      |        9378 |
-|     115 | 0x24A3      |        9379 |
-|     116 | 0x24A5      |        9381 |
-|     117 | 0x24A6      |        9382 |
-|     118 | 0x24A8      |        9384 |
-|     119 | 0x24AC      |        9388 |
-|     120 | 0x24AD      |        9389 |
-|     121 | 0x25CD      |        9677 |
-|     122 | 0x25CE      |        9678 |
-|     123 | 0x25CF      |        9679 |
-|     124 | 0x25D0      |        9680 |
-|     125 | 0x25F2      |        9714 |
-|     126 | 0x25F3      |        9715 |
-|     127 | 0x25F4      |        9716 |
-|     128 | 0x25F5      |        9717 |
-|     129 | 0x25F6      |        9718 |
+|     107 | 0x24AB      |        9387 |
+|     108 | 0x24AC      |        9388 |
+|     109 | 0x249C      |        9372 |
+|     110 | 0x249E      |        9374 |
+|     111 | 0x24A0      |        9376 |
+|     112 | 0x24A1      |        9377 |
+|     113 | 0x24A2      |        9378 |
+|     114 | 0x24A3      |        9379 |
+|     115 | 0x24A4      |        9380 |
+|     116 | 0x24A6      |        9382 |
+|     117 | 0x24A7      |        9383 |
+|     118 | 0x24A9      |        9385 |
+|     119 | 0x24AD      |        9389 |
+|     120 | 0x24AE      |        9390 |
+|     121 | 0x25CE      |        9678 |
+|     122 | 0x25CF      |        9679 |
+|     123 | 0x25D0      |        9680 |
+|     124 | 0x25D1      |        9681 |
+|     125 | 0x25F3      |        9715 |
+|     126 | 0x25F4      |        9716 |
+|     127 | 0x25F5      |        9717 |
+|     128 | 0x25F6      |        9718 |
+|     129 | 0x25F7      |        9719 |
 |     130 | 0x0015      |          21 |
-|     131 | 0x260D      |        9741 |
-|     132 | 0x260E      |        9742 |
-|     133 | 0x260F      |        9743 |
-|     134 | 0x2610      |        9744 |
-|     135 | 0x2611      |        9745 |
-|     136 | 0x2612      |        9746 |
-|     137 | 0x2613      |        9747 |
-|     138 | 0x2618      |        9752 |
-|     139 | 0x2614      |        9748 |
+|     131 | 0x260E      |        9742 |
+|     132 | 0x260F      |        9743 |
+|     133 | 0x2610      |        9744 |
+|     134 | 0x2611      |        9745 |
+|     135 | 0x2612      |        9746 |
+|     136 | 0x2613      |        9747 |
+|     137 | 0x2614      |        9748 |
+|     138 | 0x2619      |        9753 |
+|     139 | 0x2615      |        9749 |
 |     140 | 0x0002      |           2 |
-|     141 | 0x2615      |        9749 |
-|     142 | 0x2616      |        9750 |
-|     143 | 0x2617      |        9751 |
+|     141 | 0x2616      |        9750 |
+|     142 | 0x2617      |        9751 |
+|     143 | 0x2618      |        9752 |
 |     144 | 0x0004      |           4 |
-|     145 | 0x2619      |        9753 |
-|     146 | 0x261A      |        9754 |
-|     147 | 0x261B      |        9755 |
-|     148 | 0x261C      |        9756 |
-|     149 | 0x261D      |        9757 |
-|     150 | 0x261E      |        9758 |
-|     151 | 0x2620      |        9760 |
-|     152 | 0x2621      |        9761 |
-|     153 | 0x2622      |        9762 |
-|     154 | 0x2726      |       10022 |
-|     155 | 0x2727      |       10023 |
+|     145 | 0x261A      |        9754 |
+|     146 | 0x261B      |        9755 |
+|     147 | 0x261C      |        9756 |
+|     148 | 0x261D      |        9757 |
+|     149 | 0x261E      |        9758 |
+|     150 | 0x261F      |        9759 |
+|     151 | 0x2621      |        9761 |
+|     152 | 0x2622      |        9762 |
+|     153 | 0x2623      |        9763 |
+|     154 | 0x2727      |       10023 |
+|     155 | 0x2728      |       10024 |
 |     156 | 0x0190      |         400 |
 |     157 | 0x0013      |          19 |
 |     158 | 0x02A4      |         676 |
-|     159 | 0x3726      |       14118 |
-|     160 | 0x3727      |       14119 |
-|     161 | 0x372A      |       14122 |
-|     162 | 0x372B      |       14123 |
-|     163 | 0x372C      |       14124 |
+|     159 | 0x3727      |       14119 |
+|     160 | 0x3728      |       14120 |
+|     161 | 0x372B      |       14123 |
+|     162 | 0x372C      |       14124 |
+|     163 | 0x372D      |       14125 |
 |     164 | 0x00A0      |         160 |
 |     165 | 0x005A      |          90 |
 |     166 | 0x007C      |         124 |
-|     167 | 0x372E      |       14126 |
-|     168 | 0x372F      |       14127 |
-|     169 | 0x3730      |       14128 |
-|     170 | 0x3731      |       14129 |
-|     171 | 0x3732      |       14130 |
-|     172 | 0x3733      |       14131 |
-|     173 | 0x3734      |       14132 |
+|     167 | 0x372F      |       14127 |
+|     168 | 0x3730      |       14128 |
+|     169 | 0x3731      |       14129 |
+|     170 | 0x3732      |       14130 |
+|     171 | 0x3733      |       14131 |
+|     172 | 0x3734      |       14132 |
+|     173 | 0x3735      |       14133 |
 |     174 | 0x0007      |           7 |
-|     175 | 0x372D      |       14125 |
+|     175 | 0x372E      |       14126 |
 |     176 | 0x09C1      |        2497 |
-|     177 | 0x3735      |       14133 |
-|     178 | 0x3736      |       14134 |
-|     179 | 0x3737      |       14135 |
-|     180 | 0x3738      |       14136 |
-|     181 | 0x3739      |       14137 |
-|     182 | 0x373A      |       14138 |
-|     183 | 0x373B      |       14139 |
-|     184 | 0x373C      |       14140 |
-|     185 | 0x373D      |       14141 |
+|     177 | 0x3736      |       14134 |
+|     178 | 0x3737      |       14135 |
+|     179 | 0x3738      |       14136 |
+|     180 | 0x3739      |       14137 |
+|     181 | 0x373A      |       14138 |
+|     182 | 0x373B      |       14139 |
+|     183 | 0x373C      |       14140 |
+|     184 | 0x373D      |       14141 |
+|     185 | 0x373E      |       14142 |
 |     186 | 0x0752      |        1874 |
-|     187 | 0x373E      |       14142 |
-|     188 | 0x373F      |       14143 |
-|     189 | 0x3741      |       14145 |
-|     190 | 0x3742      |       14146 |
-|     191 | 0x3740      |       14144 |
-|     192 | 0x3743      |       14147 |
-|     193 | 0x3744      |       14148 |
-|     194 | 0x3745      |       14149 |
+|     187 | 0x373F      |       14143 |
+|     188 | 0x3740      |       14144 |
+|     189 | 0x3742      |       14146 |
+|     190 | 0x3743      |       14147 |
+|     191 | 0x3741      |       14145 |
+|     192 | 0x3744      |       14148 |
+|     193 | 0x3745      |       14149 |
+|     194 | 0x3746      |       14150 |
 |     195 | 0x0028      |          40 |
 |     196 | 0x0032      |          50 |
-|     197 | 0x3746      |       14150 |
-|     198 | 0x3747      |       14151 |
-|     199 | 0x3748      |       14152 |
+|     197 | 0x3747      |       14151 |
+|     198 | 0x3748      |       14152 |
+|     199 | 0x3749      |       14153 |
 |     200 | 0x0E13      |        3603 |
-|     201 | 0x3749      |       14153 |
-|     202 | 0x374A      |       14154 |
-|     203 | 0x374B      |       14155 |
+|     201 | 0x374A      |       14154 |
+|     202 | 0x374B      |       14155 |
+|     203 | 0x374C      |       14156 |
 |     204 | 0x00EA      |         234 |
-|     205 | 0x374C      |       14156 |
-|     206 | 0x374D      |       14157 |
-|     207 | 0x374E      |       14158 |
-|     208 | 0x374F      |       14159 |
-|     209 | 0x3750      |       14160 |
+|     205 | 0x374D      |       14157 |
+|     206 | 0x374E      |       14158 |
+|     207 | 0x374F      |       14159 |
+|     208 | 0x3750      |       14160 |
+|     209 | 0x3751      |       14161 |
 |     210 | 0x0080      |         128 |
-|     211 | 0x3751      |       14161 |
-|     212 | 0x3752      |       14162 |
-|     213 | 0x3753      |       14163 |
-|     214 | 0x3754      |       14164 |
-|     215 | 0x3755      |       14165 |
-|     216 | 0x3756      |       14166 |
-|     217 | 0x3757      |       14167 |
-|     218 | 0x3758      |       14168 |
-|     219 | 0x3759      |       14169 |
-|     220 | 0x375A      |       14170 |
-|     221 | 0x375B      |       14171 |
-|     222 | 0x375C      |       14172 |
-|     223 | 0x375D      |       14173 |
-|     224 | 0x375E      |       14174 |
-|     225 | 0x375F      |       14175 |
+|     211 | 0x3752      |       14162 |
+|     212 | 0x3753      |       14163 |
+|     213 | 0x3754      |       14164 |
+|     214 | 0x3755      |       14165 |
+|     215 | 0x3756      |       14166 |
+|     216 | 0x3757      |       14167 |
+|     217 | 0x3758      |       14168 |
+|     218 | 0x3759      |       14169 |
+|     219 | 0x375A      |       14170 |
+|     220 | 0x375B      |       14171 |
+|     221 | 0x375C      |       14172 |
+|     222 | 0x375D      |       14173 |
+|     223 | 0x375E      |       14174 |
+|     224 | 0x375F      |       14175 |
+|     225 | 0x3760      |       14176 |
 |     226 | 0xFFFFF830  |  4294965296 |
-|     227 | 0x3760      |       14176 |
-|     228 | 0x3761      |       14177 |
+|     227 | 0x3761      |       14177 |
+|     228 | 0x3762      |       14178 |
 |     229 | 0x1492      |        5266 |
-|     230 | 0x3762      |       14178 |
-|     231 | 0x3763      |       14179 |
+|     230 | 0x3763      |       14179 |
+|     231 | 0x3764      |       14180 |
 |     232 | 0x00AE      |         174 |
 |     233 | 0x0BB8      |        3000 |
 |     234 | 0x00B1      |         177 |
-|     235 | 0x3764      |       14180 |
-|     236 | 0x3765      |       14181 |
-|     237 | 0x3766      |       14182 |
-|     238 | 0x3729      |       14121 |
-|     239 | 0x3728      |       14120 |
+|     235 | 0x3765      |       14181 |
+|     236 | 0x3766      |       14182 |
+|     237 | 0x3767      |       14183 |
+|     238 | 0x372A      |       14122 |
+|     239 | 0x3729      |       14121 |
 
 ## String References
 
-- **8250**: In Mother Nature, there is nothing that is without purrrpose...nothing is wasted. Both you and I are here for some rrreason.
-- **8251**: One should never waste naturrre's gifts, and never take a life, no matter how small, without properrr cause. That is the hunting code we rangers are sworn to uphold.
-- **8264**: Have you hearrrd, adventurer? Our world is once again in an uproarrr.
-- **8265**: We are on the path to great wars and the spilling of much blood. If those times do indeed come, I shall be forrrced to hand the bow of the chieftainness on to a Mithra who has found a new road to walk, one who has new drrreams for her people.
-- **8270**: Have you hearrrd, adventurer? There appears to have been a grrreat battle far off in the Northlands.
-- **8271**: I assume the worrrld will quiet down for a while now. However, the hearts of the Mithra will continue to clamorrr, for we Mithra know that nothing has rrreally ended at all.
-- **8276**: In Mother Nature, there is nothing that is without purrrpose...nothing is wasted. Both you and I are here for some rrreason.
-- **8277**: One should never waste naturrre's gifts, and never take a life, no matter how small, without properrr cause. That is the hunting code we rangers are sworn to uphold.
-- **8278**: Have you, my child, trod on many a land, drunk from many a rrrainfall, fought many a fine battle, and lived to see many a dawn?
-- **8279**: Then truly I say unto you, unless you are apprrroved by the earth and the sky, how is it that you can say you are accepted by Mother Nature?
-- **8280**: If you so desire to submit yourself to the laws of naturrre, my child, then go, meet with the fanged king of the beasts, and bring back one of his grrreat teeth.
-- **8281**: Listen to the voice of nature and wait for nature to run herrr course. If nature accepts us, then even we who lack fangs will be perrrmitted to hunt as her rangers.
-- **8282**: My child, if you desire to submit yourself to the laws of naturrre, then go, meet with the fanged king of the beasts, and bring back one of his grrreat teeth.
-- **8283**: Listen to the voice of nature and wait for nature to run herrr course. If nature accepts us, then even we who lack fangs will be perrrmitted to hunt as her rangers.
-- **8291**: Why, my child, did you cause yet anotherrr of nature's wonderrrs to die meaninglessly? It is useless to even try and explain this fang's meaning to one such as you.
-- **8292**: For the hunterrr, the fangs are not just a tool vital for existence, but also a witness to its death. If the fanged one loses its fangs, it can no longerrr live. Yet when the fanged one dies, only its fangs rrremain.
-- **8293**: To hunt like the fanged one, you must live by the fang and die leaving only the fang behind.
-- **8294**: Onto you, our new ranger, I bestow the witness of the life and death of the grrreat fanged one...
-- **8296**: The one unto whom Mother Nature has bestowed her fangs must neverrr fight without reason.
-- **8297**: Glorrry to the fangs of the fanged one. Listen to the voice of nature and follow her courrrse. The sky and earrrth shall tell you the time to fight and the time to die.
-- **8915**: So you have come, my fellow ranger. I thank the winds for your safe return.
-- **8916**: I have a task for you. It is said that adventurers follow the winds, traveling far and wide across Vana'diel.
-- **8917**: I wish for you to meet with Sibyl Guard Semih Lafihna with all haste. Give her this. She should rrreturn here with you.
-- **8918**: Currently, Semih Lafihna is conducting an investigation in a place called Ranguemont Pass, located on the western continent.
-- **8919**: There is little time. ...The blessing of the winds go with you.
-- **8920**: Find Semih Lafihna and give her the earring. She should rrreturn here with you.
-- **8921**: Currently, Semih Lafihna is conducting an investigation in a place called Ranguemont Pass, located on the western continent. May the winds protect and guide you, adventurer.
-- **8926**: I see you were able to find Semih Lafihna...
-- **8929**: ...You are the Mithran Tracker, I prrresume?
-- **8932**: I will tell you once morrre. I have no rrreason to hide the past. The bearer of the bow does not oppose the trrruth.
-- **8936**: ......
-- **8940**: Yes, but do not seek to hinder her. She is here to see justice done, and serves nature as we do.
-- **8942**: Do you doubt it...? I see, you were questioned by the Tracker.
-- **8945**: ......
-- **8948**: <Player>. You see us in troubled times. On occasion, even the Mithra fight amongst themselves.
-- **8949**: I feel that your talents will become necessary before this struggle comes to an end. Will you promise to lend us your strrrength in our time of need?
-- **8950**: Take this as a symbol of your pledge. May the path cleared by the wind always lie before you.
-- **8951**: <Player>. You see us in troubled times. On occasion, even the Mithra fight amongst themselves.
-- **8952**: I feel that your talents will become necessary before this struggle comes to an end. Will you promise to lend us your strrrength in our time of need?
-- **9299**: Have the winds sent you to me once more...?
-- **9300**: I have just had word that one who knows of the fate of the sinner's daughter can be found in the Blacksmiths' Guild of Mhaura.
-- **9301**: Upon hearing this, the Mithran Tracker immediately set off on her way. I wish for you to also travel to Mhaura and meet with this perrrson.
-- **9302**: You have your task. The blessing of the winds upon you.
-- **9303**: I have learned that one who knows of the fate of the sinner's daughter can be found in the Blacksmiths' Guild of Mhaura.
-- **9304**: Upon hearing this, the Mithran Tracker immediately set off on her way. I wish for you to also travel to Mhaura and meet with this perrrson.
-- **9309**: You have rrreturned. ...And the Mithran Tracker with you.
-- **9313**: We were unable to discover the mother's body.
-- **9314**: Since she was held captive in the prison of Castle Oztroja, her rrremains should lie there still.
-- **9315**: It is said that the King of Oztroja forces prrrisoners to fight his Yagudo in a hall on the highest level of the castle. The bodies of the fallen are then supposedly thrrrown into a large pond.
-- **9316**: If you search the pond thorrroughly, you may find what you are looking for...
-- **9318**: I must apologize, adventurer. I would like to send a parrrty of warriors to aid you, but we do not have permission from Heavens Tower to enter Castle Oztroja.
-- **9319**: The blessing of the earth upon you.
-- **9320**: In the time of the Great War, the warriors held in Oztroja were forced to fight with Yagudo in a hall on the castle's highest floor.
-- **9321**: The fallen warriors were then thrrrown into a large pond on the upper levels.
-- **9322**: I believe the $2 that fits with the $1 of Syu Befrathi can be found there... However, the talents of a ranger will be needed to discover it.
-- **9324**: I'm impressed. Tales of mighty adventurers are often little more than exaggerated rumor.
-- **9330**: ......
-- **9334**: ...The Bow of Light. Thirty years have passed since its creation. And all it has brought us is death and misfortune.
-- **9335**: This all started when we came to this continent. The elders called this place the Forbidden Land, and were opposed to the crossing. It all started here...
-- **9340**: ...? The one who follows you here...
-- **9342**: ...And what might that be, Semih Lafihna? You wish to ask me about the lost Bow of Light?
-- **9348**: Semih Lafihna, I swear on the Azure Bow. You are not the sinner's daughter.
-- **9352**: I meant to tell you after all this was over, but I see I have no choice.
-- **9353**: Go to Mhaura and meet with Koh Lenbalalako.
-- **9354**: If you take the $1 I entrrrusted to this adventurer, she will talk with you.
-- **9355**: Once Semih Lafihna meets with Koh Lenbalalako of Mhaura, she will understand.
-- **9356**: I would like you to follow her to Mhaura. She will need your strrrength to help bring an end to this tale.
-- **9361**: So, you will follow Semih and trrravel to the Northland?
-- **9362**: The Northlands are a place of death that we Mithra avoid above all others. It is a land that rrrobs us of the blessing and grace of nature. May the winds watch over you.
-- **9371**: ...Hmmm, the Tracker's real task here was most likely the destruction of the Bow of Light.
-- **9373**: I don't know for certain, but the homeland was definitely more concerned with the Bow of Light than the sinner's daughter.
-- **9375**: ...... Magicite rrresembles crystals. Or rather, the power contained in magicite is similar to, or perhaps greater than, that contained in crystals.
-- **9376**: But both are unnatural creations. The powerrr of magicite is an ominous, cursed energy. It is a manifestation of evil that we cannot tolerrrate.
-- **9377**: The Chieftainness of the Fire Tribe, Nhev Befrathi, knew this. And after seeing the bow for ourselves, the Mithran Tracker and I knew it too.
-- **9378**: That crystal calls to those of Mithran blood. It awakens feelings of envy, of jealousy. It darkens the nature of the heart.
-- **9379**: Nhev Befrathi and her daughter, however, had the strength to rrresist its influence. Even though they used the bow, the light in their hearts rrremained.
-- **9381**: Yes. I saw the power of that bow and closed my eyes to it.
-- **9382**: You desire nothing in a world where you see nothing. There is nothing to be afraid of.
-- **9384**: But for that, I twisted the path you were to walk. To save Syu Befrathi, I erased the existence of my own daughter...
-- **9388**: Occasionally, you too should try seeing the world through closed eyes.
-- **9389**: What is there, in your inner world? ...Who do you see?
-- **9677**: ...I have heard from Semih Lafihna that a time of rrreckoning has come to this land.
-- **9678**: We Mithra have always known that the world is but a sharrrd of a greater power.
-- **9679**: The abundant life and light born from that sharrrd, that single destiny...
-- **9680**: ...Leave the Yagudo to us. We will not fall against the tides of evil. You, too, must make your stand.
-- **9714**: It has rrreturned. The great power that belongs to this land...
-- **9715**: I have come to realize that the world exists to help us find a way to bridge the gaps between the races.
-- **9716**: And we people are here to fill the emptiness that is borrrn in that world.
-- **9717**: Let us move forward to a new future. When you lose sight of tomorrow, just lie upon the earrrth, hear the voice of the wind, and gaze into the endless sky.
-- **9718**: ...Adventurer. I prrray that the Windurst that lives in my heart will bloom in your heart as well.
-- **9741**: Hmmm. Has it all become clear, my fledgling arrrcher?
-- **9742**: Do you know where your place is? The time for the hunt? The prey your arrows should seek?
-- **9743**: Do you everrr experience moments of hesitation? It is that confusion that sends your arrows wide of the mark.
-- **9744**: Take this untrrried bow. It is kindrrred to the slender sapling. As a young tree is bent by the fury of a storrrm, so will this bow's path be warped by your indecision.
-- **9745**: Now, my fledgling arrrcher. Go forth and overcome the winds of doubt that taunt your arrow's flight. Trrrain until the sapling bow has become a steady oak in your hands.
-- **9746**: What trrroubles you, my fledgling arrrcher? Do you seek counsel in some matter?
-- **9747**: What trrroubles youH [I have no questions./I lost the $1.../I give in to the winds.]
-- **9748**: To lose your bow is to lose yourself. If you forget who you are and what you strrrive for, your future holds only stagnation.
-- **9749**: My fledgling arrrcher, were you unable to master the doubt within you...?
-- **9750**: Give in to your doubt? [Yes, I cannot go on./No, I will try harrrder.]
-- **9751**: That is a pity indeed. You must set the bow free by your own hand. The withered branch rrreturns to the earth. This is the way of nature.
-- **9752**: When you feel the bow no longer rrresponds to your inner conflict, rrreturn it here to me.
-- **9753**: The bow still appears to rrretain the greenness of youth, and your doubt has yet to be rrresolved.
-- **9754**: There is no need for haste. The sapling grrrows slowly into the forest giant.
-- **9755**: This bow is no longer the sapling I gave you. It has become a mighty tree, grown straight and strong and true.
-- **9756**: You have grown as well, my fledgling arrrcher. It is time to test the new maturity of your archery.
-- **9757**: I have prrrepared a battlefield for you at Cape Teriggan. Use this map to find your foe and bring back the $3 to prove your victorrry.
-- **9758**: Cape Teriggan is the battlefield where you will test your newfound maturrrity. Was there anotherrr matter you wished to discuss?
-- **9760**: It appears your arrows flew fast and true. I will imparrrt to you a technique worthy of your rrresolve.
-- **9761**: With strrrength comes potential for new abilities.
-- **9762**: Do you see, my arrrcher? Strength is the grrreat trunk of the tree, and the rrresultant skills its many branches.
-- **10022**: Adventurer, I would advise against traveling with that Elvaan. He has a dark, dark past.
-- **10023**: If one does not cleanse oneself of that darkness, it will rrreturn to haunt them. That is Mother Nature's way...
+- **8251**: In Mother Nature, there is nothing that is without purrrpose...nothing is wasted. Both you and I are here for some rrreason.
+- **8252**: One should never waste naturrre's gifts, and never take a life, no matter how small, without properrr cause. That is the hunting code we rangers are sworn to uphold.
+- **8265**: Have you hearrrd, adventurer? Our world is once again in an uproarrr.
+- **8266**: We are on the path to great wars and the spilling of much blood. If those times do indeed come, I shall be forrrced to hand the bow of the chieftainness on to a Mithra who has found a new road to walk, one who has new drrreams for her people.
+- **8271**: Have you hearrrd, adventurer? There appears to have been a grrreat battle far off in the Northlands.
+- **8272**: I assume the worrrld will quiet down for a while now. However, the hearts of the Mithra will continue to clamorrr, for we Mithra know that nothing has rrreally ended at all.
+- **8277**: In Mother Nature, there is nothing that is without purrrpose...nothing is wasted. Both you and I are here for some rrreason.
+- **8278**: One should never waste naturrre's gifts, and never take a life, no matter how small, without properrr cause. That is the hunting code we rangers are sworn to uphold.
+- **8279**: Have you, my child, trod on many a land, drunk from many a rrrainfall, fought many a fine battle, and lived to see many a dawn?
+- **8280**: Then truly I say unto you, unless you are apprrroved by the earth and the sky, how is it that you can say you are accepted by Mother Nature?
+- **8281**: If you so desire to submit yourself to the laws of naturrre, my child, then go, meet with the fanged king of the beasts, and bring back one of his grrreat teeth.
+- **8282**: Listen to the voice of nature and wait for nature to run herrr course. If nature accepts us, then even we who lack fangs will be perrrmitted to hunt as her rangers.
+- **8283**: My child, if you desire to submit yourself to the laws of naturrre, then go, meet with the fanged king of the beasts, and bring back one of his grrreat teeth.
+- **8284**: Listen to the voice of nature and wait for nature to run herrr course. If nature accepts us, then even we who lack fangs will be perrrmitted to hunt as her rangers.
+- **8292**: Why, my child, did you cause yet anotherrr of nature's wonderrrs to die meaninglessly? It is useless to even try and explain this fang's meaning to one such as you.
+- **8293**: For the hunterrr, the fangs are not just a tool vital for existence, but also a witness to its death. If the fanged one loses its fangs, it can no longerrr live. Yet when the fanged one dies, only its fangs rrremain.
+- **8294**: To hunt like the fanged one, you must live by the fang and die leaving only the fang behind.
+- **8295**: Onto you, our new ranger, I bestow the witness of the life and death of the grrreat fanged one...
+- **8297**: The one unto whom Mother Nature has bestowed her fangs must neverrr fight without reason.
+- **8298**: Glorrry to the fangs of the fanged one. Listen to the voice of nature and follow her courrrse. The sky and earrrth shall tell you the time to fight and the time to die.
+- **8916**: So you have come, my fellow ranger. I thank the winds for your safe return.
+- **8917**: I have a task for you. It is said that adventurers follow the winds, traveling far and wide across Vana'diel.
+- **8918**: I wish for you to meet with Sibyl Guard Semih Lafihna with all haste. Give her this. She should rrreturn here with you.
+- **8919**: Currently, Semih Lafihna is conducting an investigation in a place called Ranguemont Pass, located on the western continent.
+- **8920**: There is little time. ...The blessing of the winds go with you.
+- **8921**: Find Semih Lafihna and give her the earring. She should rrreturn here with you.
+- **8922**: Currently, Semih Lafihna is conducting an investigation in a place called Ranguemont Pass, located on the western continent. May the winds protect and guide you, adventurer.
+- **8927**: I see you were able to find Semih Lafihna...
+- **8930**: ...You are the Mithran Tracker, I prrresume?
+- **8933**: I will tell you once morrre. I have no rrreason to hide the past. The bearer of the bow does not oppose the trrruth.
+- **8937**: ......
+- **8941**: Yes, but do not seek to hinder her. She is here to see justice done, and serves nature as we do.
+- **8943**: Do you doubt it...? I see, you were questioned by the Tracker.
+- **8946**: ......
+- **8949**: <Player>. You see us in troubled times. On occasion, even the Mithra fight amongst themselves.
+- **8950**: I feel that your talents will become necessary before this struggle comes to an end. Will you promise to lend us your strrrength in our time of need?
+- **8951**: Take this as a symbol of your pledge. May the path cleared by the wind always lie before you.
+- **8952**: <Player>. You see us in troubled times. On occasion, even the Mithra fight amongst themselves.
+- **8953**: I feel that your talents will become necessary before this struggle comes to an end. Will you promise to lend us your strrrength in our time of need?
+- **9300**: Have the winds sent you to me once more...?
+- **9301**: I have just had word that one who knows of the fate of the sinner's daughter can be found in the Blacksmiths' Guild of Mhaura.
+- **9302**: Upon hearing this, the Mithran Tracker immediately set off on her way. I wish for you to also travel to Mhaura and meet with this perrrson.
+- **9303**: You have your task. The blessing of the winds upon you.
+- **9304**: I have learned that one who knows of the fate of the sinner's daughter can be found in the Blacksmiths' Guild of Mhaura.
+- **9305**: Upon hearing this, the Mithran Tracker immediately set off on her way. I wish for you to also travel to Mhaura and meet with this perrrson.
+- **9310**: You have rrreturned. ...And the Mithran Tracker with you.
+- **9314**: We were unable to discover the mother's body.
+- **9315**: Since she was held captive in the prison of Castle Oztroja, her rrremains should lie there still.
+- **9316**: It is said that the King of Oztroja forces prrrisoners to fight his Yagudo in a hall on the highest level of the castle. The bodies of the fallen are then supposedly thrrrown into a large pond.
+- **9317**: If you search the pond thorrroughly, you may find what you are looking for...
+- **9319**: I must apologize, adventurer. I would like to send a parrrty of warriors to aid you, but we do not have permission from Heavens Tower to enter Castle Oztroja.
+- **9320**: The blessing of the earth upon you.
+- **9321**: In the time of the Great War, the warriors held in Oztroja were forced to fight with Yagudo in a hall on the castle's highest floor.
+- **9322**: The fallen warriors were then thrrrown into a large pond on the upper levels.
+- **9323**: I believe the $2 that fits with the $1 of Syu Befrathi can be found there... However, the talents of a ranger will be needed to discover it.
+- **9325**: I'm impressed. Tales of mighty adventurers are often little more than exaggerated rumor.
+- **9331**: ......
+- **9335**: ...The Bow of Light. Thirty years have passed since its creation. And all it has brought us is death and misfortune.
+- **9336**: This all started when we came to this continent. The elders called this place the Forbidden Land, and were opposed to the crossing. It all started here...
+- **9341**: ...? The one who follows you here...
+- **9343**: ...And what might that be, Semih Lafihna? You wish to ask me about the lost Bow of Light?
+- **9349**: Semih Lafihna, I swear on the Azure Bow. You are not the sinner's daughter.
+- **9353**: I meant to tell you after all this was over, but I see I have no choice.
+- **9354**: Go to Mhaura and meet with Koh Lenbalalako.
+- **9355**: If you take the $1 I entrrrusted to this adventurer, she will talk with you.
+- **9356**: Once Semih Lafihna meets with Koh Lenbalalako of Mhaura, she will understand.
+- **9357**: I would like you to follow her to Mhaura. She will need your strrrength to help bring an end to this tale.
+- **9362**: So, you will follow Semih and trrravel to the Northland?
+- **9363**: The Northlands are a place of death that we Mithra avoid above all others. It is a land that rrrobs us of the blessing and grace of nature. May the winds watch over you.
+- **9372**: ...Hmmm, the Tracker's real task here was most likely the destruction of the Bow of Light.
+- **9374**: I don't know for certain, but the homeland was definitely more concerned with the Bow of Light than the sinner's daughter.
+- **9376**: ...... Magicite rrresembles crystals. Or rather, the power contained in magicite is similar to, or perhaps greater than, that contained in crystals.
+- **9377**: But both are unnatural creations. The powerrr of magicite is an ominous, cursed energy. It is a manifestation of evil that we cannot tolerrrate.
+- **9378**: The Chieftainness of the Fire Tribe, Nhev Befrathi, knew this. And after seeing the bow for ourselves, the Mithran Tracker and I knew it too.
+- **9379**: That crystal calls to those of Mithran blood. It awakens feelings of envy, of jealousy. It darkens the nature of the heart.
+- **9380**: Nhev Befrathi and her daughter, however, had the strength to rrresist its influence. Even though they used the bow, the light in their hearts rrremained.
+- **9382**: Yes. I saw the power of that bow and closed my eyes to it.
+- **9383**: You desire nothing in a world where you see nothing. There is nothing to be afraid of.
+- **9385**: But for that, I twisted the path you were to walk. To save Syu Befrathi, I erased the existence of my own daughter...
+- **9389**: Occasionally, you too should try seeing the world through closed eyes.
+- **9390**: What is there, in your inner world? ...Who do you see?
+- **9678**: ...I have heard from Semih Lafihna that a time of rrreckoning has come to this land.
+- **9679**: We Mithra have always known that the world is but a sharrrd of a greater power.
+- **9680**: The abundant life and light born from that sharrrd, that single destiny...
+- **9681**: ...Leave the Yagudo to us. We will not fall against the tides of evil. You, too, must make your stand.
+- **9715**: It has rrreturned. The great power that belongs to this land...
+- **9716**: I have come to realize that the world exists to help us find a way to bridge the gaps between the races.
+- **9717**: And we people are here to fill the emptiness that is borrrn in that world.
+- **9718**: Let us move forward to a new future. When you lose sight of tomorrow, just lie upon the earrrth, hear the voice of the wind, and gaze into the endless sky.
+- **9719**: ...Adventurer. I prrray that the Windurst that lives in my heart will bloom in your heart as well.
+- **9742**: Hmmm. Has it all become clear, my fledgling arrrcher?
+- **9743**: Do you know where your place is? The time for the hunt? The prey your arrows should seek?
+- **9744**: Do you everrr experience moments of hesitation? It is that confusion that sends your arrows wide of the mark.
+- **9745**: Take this untrrried bow. It is kindrrred to the slender sapling. As a young tree is bent by the fury of a storrrm, so will this bow's path be warped by your indecision.
+- **9746**: Now, my fledgling arrrcher. Go forth and overcome the winds of doubt that taunt your arrow's flight. Trrrain until the sapling bow has become a steady oak in your hands.
+- **9747**: What trrroubles you, my fledgling arrrcher? Do you seek counsel in some matter?
+- **9748**: What trrroubles youH [I have no questions./I lost the $1.../I give in to the winds.]
+- **9749**: To lose your bow is to lose yourself. If you forget who you are and what you strrrive for, your future holds only stagnation.
+- **9750**: My fledgling arrrcher, were you unable to master the doubt within you...?
+- **9751**: Give in to your doubt? [Yes, I cannot go on./No, I will try harrrder.]
+- **9752**: That is a pity indeed. You must set the bow free by your own hand. The withered branch rrreturns to the earth. This is the way of nature.
+- **9753**: When you feel the bow no longer rrresponds to your inner conflict, rrreturn it here to me.
+- **9754**: The bow still appears to rrretain the greenness of youth, and your doubt has yet to be rrresolved.
+- **9755**: There is no need for haste. The sapling grrrows slowly into the forest giant.
+- **9756**: This bow is no longer the sapling I gave you. It has become a mighty tree, grown straight and strong and true.
+- **9757**: You have grown as well, my fledgling arrrcher. It is time to test the new maturity of your archery.
+- **9758**: I have prrrepared a battlefield for you at Cape Teriggan. Use this map to find your foe and bring back the $3 to prove your victorrry.
+- **9759**: Cape Teriggan is the battlefield where you will test your newfound maturrrity. Was there anotherrr matter you wished to discuss?
+- **9761**: It appears your arrows flew fast and true. I will imparrrt to you a technique worthy of your rrresolve.
+- **9762**: With strrrength comes potential for new abilities.
+- **9763**: Do you see, my arrrcher? Strength is the grrreat trunk of the tree, and the rrresultant skills its many branches.
+- **10023**: Adventurer, I would advise against traveling with that Elvaan. He has a dark, dark past.
+- **10024**: If one does not cleanse oneself of that darkness, it will rrreturn to haunt them. That is Mother Nature's way...
 
 ## Events
 
@@ -877,10 +877,10 @@
 
 ```
   0: 0x00E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8250*)
+  1: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8251*)
     → "In Mother Nature, there is nothing that is without purrrpose...nothing is wasted. Both you and I are here for some rrreason."
   2: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8251*)
+  3: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8252*)
     → "One should never waste naturrre's gifts, and never take a life, no matter how small, without properrr cause. That is the hunting code we rangers are sworn to uphold."
   4: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -914,10 +914,10 @@
 
 ```
   0: 0x0111 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
+  1: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
     → "Have you hearrrd, adventurer? Our world is once again in an uproarrr."
   2: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+  3: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "We are on the path to great wars and the spilling of much blood. If those times do indeed come, I shall be forrrced to hand the bow of the chieftainness on to a Mithra who has found a new road to walk, one who has new drrreams for her people."
   4: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0120 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -952,10 +952,10 @@
 
 ```
   0: 0x013E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8270*)
+  1: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
     → "Have you hearrrd, adventurer? There appears to have been a grrreat battle far off in the Northlands."
   2: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
+  3: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
     → "I assume the worrrld will quiet down for a while now. However, the hearts of the Mithra will continue to clamorrr, for we Mithra know that nothing has rrreally ended at all."
   4: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x014D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1044,10 +1044,10 @@
 
 ```
   0: 0x021D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=8276*)
+  1: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
     → "In Mother Nature, there is nothing that is without purrrpose...nothing is wasted. Both you and I are here for some rrreason."
   2: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
+  3: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
     → "One should never waste naturrre's gifts, and never take a life, no matter how small, without properrr cause. That is the hunting code we rangers are sworn to uphold."
   4: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x022C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1078,10 +1078,10 @@
 
 ```
   0: 0x0242 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x05)
-  1: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
+  1: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "Have you, my child, trod on many a land, drunk from many a rrrainfall, fought many a fine battle, and lived to see many a dawn?"
   2: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
+  3: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
     → "Then truly I say unto you, unless you are apprrroved by the earth and the sky, how is it that you can say you are accepted by Mother Nature?"
   4: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0251 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x06)
@@ -1112,10 +1112,10 @@
 
 ```
   0: 0x0267 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
+  1: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
     → "If you so desire to submit yourself to the laws of naturrre, my child, then go, meet with the fanged king of the beasts, and bring back one of his grrreat teeth."
   2: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
+  3: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
     → "Listen to the voice of nature and wait for nature to run herrr course. If nature accepts us, then even we who lack fangs will be perrrmitted to hunt as her rangers."
   4: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1147,10 +1147,10 @@
 
 ```
   0: 0x028C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
+  1: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
     → "My child, if you desire to submit yourself to the laws of naturrre, then go, meet with the fanged king of the beasts, and bring back one of his grrreat teeth."
   2: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0297 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
+  3: 0x0297 [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
     → "Listen to the voice of nature and wait for nature to run herrr course. If nature accepts us, then even we who lack fangs will be perrrmitted to hunt as her rangers."
   4: 0x029A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x029B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1187,7 +1187,7 @@
   0: 0x02B9 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x02BB [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x02BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x05)
-  3: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
+  3: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
     → "Why, my child, did you cause yet anotherrr of nature's wonderrrs to die meaninglessly? It is useless to even try and explain this fang's meaning to one such as you."
   4: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x06)
@@ -1275,10 +1275,10 @@
 
 ```
   0: 0x0399 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x05)
-  1: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+  1: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "For the hunterrr, the fangs are not just a tool vital for existence, but also a witness to its death. If the fanged one loses its fangs, it can no longerrr live. Yet when the fanged one dies, only its fangs rrremain."
   2: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
+  3: 0x03A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
     → "To hunt like the fanged one, you must live by the fang and die leaving only the fang behind."
   4: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x03A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x06)
@@ -1309,7 +1309,7 @@
 
 ```
   0: 0x03BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x09)
-  1: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
+  1: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
     → "Onto you, our new ranger, I bestow the witness of the life and death of the grrreat fanged one..."
   2: 0x03C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x0A)
@@ -1338,10 +1338,10 @@
 
 ```
   0: 0x03D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+  1: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "The one unto whom Mother Nature has bestowed her fangs must neverrr fight without reason."
   2: 0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+  3: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "Glorrry to the fangs of the fanged one. Listen to the voice of nature and follow her courrrse. The sky and earrrth shall tell you the time to fight and the time to die."
   4: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x03E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1438,11 +1438,11 @@
 #### Opcodes
 
 ```
-  0: 0x04D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
+  0: 0x04D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
     → "So you have come, my fellow ranger. I thank the winds for your safe return."
   1: 0x04D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  3: 0x04E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
+  3: 0x04E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
     → "I have a task for you. It is said that adventurers follow the winds, traveling far and wide across Vana'diel."
   4: 0x04E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1470,7 +1470,7 @@
 
 ```
   0: 0x04ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x09)
-  1: 0x04F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
+  1: 0x04F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
     → "I wish for you to meet with Sibyl Guard Semih Lafihna with all haste. Give her this. She should rrreturn here with you."
   2: 0x04F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x0A)
@@ -1498,10 +1498,10 @@
 
 ```
   0: 0x0500 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
+  1: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=8919*)
     → "Currently, Semih Lafihna is conducting an investigation in a place called Ranguemont Pass, located on the western continent."
   2: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=8919*)
+  3: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=8920*)
     → "There is little time. ...The blessing of the winds go with you."
   4: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x050F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1529,10 +1529,10 @@
 
 ```
   0: 0x0517 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
-  1: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=8920*)
+  1: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=8921*)
     → "Find Semih Lafihna and give her the earring. She should rrreturn here with you."
   2: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=8921*)
+  3: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
     → "Currently, Semih Lafihna is conducting an investigation in a place called Ranguemont Pass, located on the western continent. May the winds protect and guide you, adventurer."
   4: 0x0523 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0524 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1671,7 +1671,7 @@
  12: 0x057D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x23)
  13: 0x0584 [0x1C] WAIT(80* ticks)
  14: 0x0587 [0x79] Perih Vashai (ID: 17764470/0x010F1076) looks at Shikaree M (ID: 17764574/0x010F10DE) (Basic look)
- 15: 0x0591 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [8927*]:
+ 15: 0x0591 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [8928*]:
     → "...Just a moment... That prrresence..."
  16: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0599 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 161*
@@ -1692,19 +1692,19 @@
  32: 0x061F [0x52] END_LOAD_SCHEDULER: End scheduler "s105" with entities [LocalPlayer, LocalPlayer], work=141*
  33: 0x062E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  34: 0x063F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=[141*, 0*]
- 35: 0x0650 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [8928*]:
+ 35: 0x0650 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [8929*]:
     → "Chieftainness Perih Vashai, I apologize for this interruption."
  36: 0x0657 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0658 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x24)
  38: 0x065F [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [LocalPlayer, LocalPlayer], work=141*
  39: 0x066E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s119" with entities [LocalPlayer, LocalPlayer], work=[141*, 0*]
- 40: 0x067F [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [8930*]:
+ 40: 0x067F [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [8931*]:
     → "If your visit concerns the sinner's daughter, we are prrresently focusing all our efforts on finding the one who can confirm her passing."
  41: 0x0686 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0687 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17764574/0x010F10DE))
  43: 0x068D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s107" with entities [LocalPlayer, LocalPlayer], work=[141*, 0*]
  44: 0x069E [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17764574/0x010F10DE), tag_num=0x08)
- 45: 0x06A5 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [8931*]:
+ 45: 0x06A5 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [8932*]:
     → "Attempt to rrreturn the past to dust if you will, but it will avail you naught. Dust is swept up by the wind, its scent carried on. The scent of my quarry."
  46: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x06AD [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17764574/0x010F10DE))
@@ -1742,7 +1742,7 @@ SUBROUTINE_07C3:
  75: 0x07D4 [0x79] LocalPlayer looks at Shikaree M (ID: 17764574/0x010F10DE) (Basic look)
  76: 0x07DE [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17764574/0x010F10DE), tag_num=0x09)
  77: 0x07E5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Semih Lafihna (ID: 17764573/0x010F10DD)
- 78: 0x07EB [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [8937*]:
+ 78: 0x07EB [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [8938*]:
     → "As I'm sure you are well aware, I won't be leaving this land until I have hunted down the sinner. I will enlighten the people of the Outlands on the evils of hiding sin."
  79: 0x07F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x07F3 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17764574/0x010F10DE))
@@ -1769,7 +1769,7 @@ SUBROUTINE_07C3:
 101: 0x0895 [0x1C] WAIT(20* ticks)
 102: 0x0898 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s117" with entities [LocalPlayer, LocalPlayer], work=[141*, 0*]
 103: 0x08A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-104: 0x08BA [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [8938*]:
+104: 0x08BA [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [8939*]:
     → "Chieftainness Perih Vashai!"
 105: 0x08C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x08C2 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD))
@@ -1861,7 +1861,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+  0: 0x0B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "I see you were able to find Semih Lafihna..."
   1: 0x0B3D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B3E [0x00] END_REQSTACK()
@@ -1889,7 +1889,7 @@ SUBROUTINE_0ABF:
 
 ```
   0: 0x0B3F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+  1: 0x0B46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
     → "...You are the Mithran Tracker, I prrresume?"
   2: 0x0B49 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0B4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1915,7 +1915,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0B52 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+  0: 0x0B52 [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
     → "I will tell you once morrre. I have no rrreason to hide the past. The bearer of the bow does not oppose the trrruth."
   1: 0x0B55 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B56 [0x00] END_REQSTACK()
@@ -1942,7 +1942,7 @@ SUBROUTINE_0ABF:
 
 ```
   0: 0x0B57 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0B5D [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
+  1: 0x0B5D [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
     → "......"
   2: 0x0B60 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0B61 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1970,7 +1970,7 @@ SUBROUTINE_0ABF:
 
 ```
   0: 0x0B68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x01)
-  1: 0x0B6F [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
+  1: 0x0B6F [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
     → "Yes, but do not seek to hinder her. She is here to see justice done, and serves nature as we do."
   2: 0x0B72 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0B73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -1996,7 +1996,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0B7B [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+  0: 0x0B7B [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
     → "Do you doubt it...? I see, you were questioned by the Tracker."
   1: 0x0B7E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B7F [0x00] END_REQSTACK()
@@ -2023,7 +2023,7 @@ SUBROUTINE_0ABF:
 
 ```
   0: 0x0B80 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
+  1: 0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
     → "......"
   2: 0x0B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0B8A [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -2049,10 +2049,10 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+  0: 0x0B91 [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
     → "<Player>. You see us in troubled times. On occasion, even the Mithra fight amongst themselves."
   1: 0x0B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0B95 [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
+  2: 0x0B95 [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
     → "I feel that your talents will become necessary before this struggle comes to an end. Will you promise to lend us your strrrength in our time of need?"
   3: 0x0B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0B99 [0x00] END_REQSTACK()
@@ -2079,7 +2079,7 @@ SUBROUTINE_0ABF:
 
 ```
   0: 0x0B9A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x09)
-  1: 0x0BA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
+  1: 0x0BA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
     → "Take this as a symbol of your pledge. May the path cleared by the wind always lie before you."
   2: 0x0BA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0BA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x0A)
@@ -2107,10 +2107,10 @@ SUBROUTINE_0ABF:
 
 ```
   0: 0x0BAD [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
-  1: 0x0BB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
+  1: 0x0BB2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
     → "<Player>. You see us in troubled times. On occasion, even the Mithra fight amongst themselves."
   2: 0x0BB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0BB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
+  3: 0x0BB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
     → "I feel that your talents will become necessary before this struggle comes to an end. Will you promise to lend us your strrrength in our time of need?"
   4: 0x0BB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0BBA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2211,7 +2211,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0CD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9299*)
+  0: 0x0CD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9300*)
     → "Have the winds sent you to me once more...?"
   1: 0x0CD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0CD4 [0x00] END_REQSTACK()
@@ -2236,7 +2236,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0CD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9300*)
+  0: 0x0CD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9301*)
     → "I have just had word that one who knows of the fate of the sinner's daughter can be found in the Blacksmiths' Guild of Mhaura."
   1: 0x0CD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0CD9 [0x00] END_REQSTACK()
@@ -2261,7 +2261,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0CDA [0x1D] PRINT_EVENT_MESSAGE(message_id=9301*)
+  0: 0x0CDA [0x1D] PRINT_EVENT_MESSAGE(message_id=9302*)
     → "Upon hearing this, the Mithran Tracker immediately set off on her way. I wish for you to also travel to Mhaura and meet with this perrrson."
   1: 0x0CDD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0CDE [0x00] END_REQSTACK()
@@ -2287,7 +2287,7 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=9302*)
+  0: 0x0CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=9303*)
     → "You have your task. The blessing of the winds upon you."
   1: 0x0CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0CE3 [0x00] END_REQSTACK()
@@ -2313,10 +2313,10 @@ SUBROUTINE_0ABF:
 #### Opcodes
 
 ```
-  0: 0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9303*)
+  0: 0x0CE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9304*)
     → "I have learned that one who knows of the fate of the sinner's daughter can be found in the Blacksmiths' Guild of Mhaura."
   1: 0x0CE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0CE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9304*)
+  2: 0x0CE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9305*)
     → "Upon hearing this, the Mithran Tracker immediately set off on her way. I wish for you to also travel to Mhaura and meet with this perrrson."
   3: 0x0CEB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0CEC [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
@@ -2523,7 +2523,7 @@ SUBROUTINE_0FCD:
 #### Opcodes
 
 ```
-  0: 0x1069 [0x1D] PRINT_EVENT_MESSAGE(message_id=9309*)
+  0: 0x1069 [0x1D] PRINT_EVENT_MESSAGE(message_id=9310*)
     → "You have rrreturned. ...And the Mithran Tracker with you."
   1: 0x106C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x106D [0x00] END_REQSTACK()
@@ -2549,10 +2549,10 @@ SUBROUTINE_0FCD:
 #### Opcodes
 
 ```
-  0: 0x106E [0x1D] PRINT_EVENT_MESSAGE(message_id=9313*)
+  0: 0x106E [0x1D] PRINT_EVENT_MESSAGE(message_id=9314*)
     → "We were unable to discover the mother's body."
   1: 0x1071 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x1072 [0x1D] PRINT_EVENT_MESSAGE(message_id=9314*)
+  2: 0x1072 [0x1D] PRINT_EVENT_MESSAGE(message_id=9315*)
     → "Since she was held captive in the prison of Castle Oztroja, her rrremains should lie there still."
   3: 0x1075 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1076 [0x00] END_REQSTACK()
@@ -2577,10 +2577,10 @@ SUBROUTINE_0FCD:
 #### Opcodes
 
 ```
-  0: 0x1077 [0x1D] PRINT_EVENT_MESSAGE(message_id=9315*)
+  0: 0x1077 [0x1D] PRINT_EVENT_MESSAGE(message_id=9316*)
     → "It is said that the King of Oztroja forces prrrisoners to fight his Yagudo in a hall on the highest level of the castle. The bodies of the fallen are then supposedly thrrrown into a large pond."
   1: 0x107A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x107B [0x1D] PRINT_EVENT_MESSAGE(message_id=9316*)
+  2: 0x107B [0x1D] PRINT_EVENT_MESSAGE(message_id=9317*)
     → "If you search the pond thorrroughly, you may find what you are looking for..."
   3: 0x107E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x107F [0x00] END_REQSTACK()
@@ -2605,10 +2605,10 @@ SUBROUTINE_0FCD:
 #### Opcodes
 
 ```
-  0: 0x1080 [0x1D] PRINT_EVENT_MESSAGE(message_id=9318*)
+  0: 0x1080 [0x1D] PRINT_EVENT_MESSAGE(message_id=9319*)
     → "I must apologize, adventurer. I would like to send a parrrty of warriors to aid you, but we do not have permission from Heavens Tower to enter Castle Oztroja."
   1: 0x1083 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x1084 [0x1D] PRINT_EVENT_MESSAGE(message_id=9319*)
+  2: 0x1084 [0x1D] PRINT_EVENT_MESSAGE(message_id=9320*)
     → "The blessing of the earth upon you."
   3: 0x1087 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1088 [0x00] END_REQSTACK()
@@ -2634,13 +2634,13 @@ SUBROUTINE_0FCD:
 #### Opcodes
 
 ```
-  0: 0x1089 [0x1D] PRINT_EVENT_MESSAGE(message_id=9320*)
+  0: 0x1089 [0x1D] PRINT_EVENT_MESSAGE(message_id=9321*)
     → "In the time of the Great War, the warriors held in Oztroja were forced to fight with Yagudo in a hall on the castle's highest floor."
   1: 0x108C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x108D [0x1D] PRINT_EVENT_MESSAGE(message_id=9321*)
+  2: 0x108D [0x1D] PRINT_EVENT_MESSAGE(message_id=9322*)
     → "The fallen warriors were then thrrrown into a large pond on the upper levels."
   3: 0x1090 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x1091 [0x1D] PRINT_EVENT_MESSAGE(message_id=9322*)
+  4: 0x1091 [0x1D] PRINT_EVENT_MESSAGE(message_id=9323*)
     → "I believe the $2 that fits with the $1 of Syu Befrathi can be found there... However, the talents of a ranger will be needed to discover it."
   5: 0x1094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1095 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
@@ -2808,7 +2808,7 @@ SUBROUTINE_11EE:
  66: 0x12EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [LocalPlayer, LocalPlayer], work=[141*, 0*]
  67: 0x12FC [0x79] LocalPlayer looks at Shikaree M (ID: 17764574/0x010F10DE) (Basic look)
  68: 0x1306 [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17764574/0x010F10DE), tag_num=0x13)
- 69: 0x130D [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [9331*]:
+ 69: 0x130D [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [9332*]:
     → "Very well. It is said that you are not one to run and hide."
  70: 0x1314 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x1315 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17764574/0x010F10DE))
@@ -2838,7 +2838,7 @@ SUBROUTINE_13C1:
  93: 0x13D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  94: 0x13DA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree M (ID: 17764574/0x010F10DE) Render.Flags0 and Render.Flags3 conditions are met
  95: 0x13DF [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17764574/0x010F10DE), tag_num=0x12)
- 96: 0x13E6 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [9333*]:
+ 96: 0x13E6 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [9334*]:
     → "And this, adventurer, I give to you. May you always be on the side of justice."
  97: 0x13ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x13EE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17764574/0x010F10DE))
@@ -2893,7 +2893,7 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x14C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9324*)
+  0: 0x14C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9325*)
     → "I'm impressed. Tales of mighty adventurers are often little more than exaggerated rumor."
   1: 0x14CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x14CC [0x00] END_REQSTACK()
@@ -2920,7 +2920,7 @@ SUBROUTINE_148E:
 
 ```
   0: 0x14CD [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x14D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9330*)
+  1: 0x14D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9331*)
     → "......"
   2: 0x14D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x14D7 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -2947,10 +2947,10 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x14DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9334*)
+  0: 0x14DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9335*)
     → "...The Bow of Light. Thirty years have passed since its creation. And all it has brought us is death and misfortune."
   1: 0x14E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x14E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9335*)
+  2: 0x14E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9336*)
     → "This all started when we came to this continent. The elders called this place the Forbidden Land, and were opposed to the crossing. It all started here..."
   3: 0x14E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x14E6 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
@@ -3045,7 +3045,7 @@ SUBROUTINE_148E:
  20: 0x157F [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x24)
  21: 0x1586 [0x1C] WAIT(20* ticks)
  22: 0x1589 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s117" with entities [LocalPlayer, LocalPlayer], work=[141*, 0*]
- 23: 0x159A [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9341*]:
+ 23: 0x159A [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9342*]:
     → "Perih Vashai. There is something I wish to ask you. Please give me an answer."
  24: 0x15A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x15A2 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD))
@@ -3123,7 +3123,7 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9340*)
+  0: 0x17AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9341*)
     → "...? The one who follows you here..."
   1: 0x17AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x17AE [0x00] END_REQSTACK()
@@ -3149,7 +3149,7 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9342*)
+  0: 0x17AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9343*)
     → "...And what might that be, Semih Lafihna? You wish to ask me about the lost Bow of Light?"
   1: 0x17B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x17B3 [0x00] END_REQSTACK()
@@ -3174,7 +3174,7 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9348*)
+  0: 0x17B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9349*)
     → "Semih Lafihna, I swear on the Azure Bow. You are not the sinner's daughter."
   1: 0x17B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x17B8 [0x00] END_REQSTACK()
@@ -3200,10 +3200,10 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9352*)
+  0: 0x17B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9353*)
     → "I meant to tell you after all this was over, but I see I have no choice."
   1: 0x17BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x17BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9353*)
+  2: 0x17BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9354*)
     → "Go to Mhaura and meet with Koh Lenbalalako."
   3: 0x17C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x17C1 [0x00] END_REQSTACK()
@@ -3228,7 +3228,7 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9354*)
+  0: 0x17C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9355*)
     → "If you take the $1 I entrrrusted to this adventurer, she will talk with you."
   1: 0x17C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x17C6 [0x00] END_REQSTACK()
@@ -3254,10 +3254,10 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9355*)
+  0: 0x17C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9356*)
     → "Once Semih Lafihna meets with Koh Lenbalalako of Mhaura, she will understand."
   1: 0x17CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x17CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9356*)
+  2: 0x17CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9357*)
     → "I would like you to follow her to Mhaura. She will need your strrrength to help bring an end to this tale."
   3: 0x17CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x17CF [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
@@ -3286,10 +3286,10 @@ SUBROUTINE_148E:
 #### Opcodes
 
 ```
-  0: 0x17D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9361*)
+  0: 0x17D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
     → "So, you will follow Semih and trrravel to the Northland?"
   1: 0x17DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x17DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
+  2: 0x17DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
     → "The Northlands are a place of death that we Mithra avoid above all others. It is a land that rrrobs us of the blessing and grace of nature. May the winds watch over you."
   3: 0x17DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x17E0 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
@@ -3496,7 +3496,7 @@ SUBROUTINE_19DC:
  62: 0x19DC [0x79] Semih Lafihna (ID: 17764573/0x010F10DD) looks at LocalPlayer (Basic look)
  63: 0x19E6 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x39)
  64: 0x19ED [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17764574/0x010F10DE), tag_num=0x26)
- 65: 0x19F4 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [9367*]:
+ 65: 0x19F4 [0x2B] Shikaree M (ID: 17764574/0x010F10DE) [9368*]:
     → "Ah, but words of thanks have little value to an adventurer, do they? Instead, I will give you these."
  66: 0x19FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x19FC [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17764574/0x010F10DE))
@@ -3545,7 +3545,7 @@ SUBROUTINE_1A7F:
 108: 0x1B94 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
 109: 0x1BA5 [0x79] Semih Lafihna (ID: 17764573/0x010F10DD) looks at Perih Vashai (ID: 17764470/0x010F1076) (Basic look)
 110: 0x1BAF [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x37)
-111: 0x1BB6 [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9372*]:
+111: 0x1BB6 [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9373*]:
     → "And not catching the sinner?"
 112: 0x1BBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x1BBE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD))
@@ -3607,14 +3607,14 @@ SUBROUTINE_1A7F:
 169: 0x1E27 [0x4B] UPDATE_ENTITY_YAW(entity=Semih Lafihna (ID: 17764573/0x010F10DD), yaw=16.7°*)
 170: 0x1E2E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 171: 0x1E2F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17764573/0x010F10DD) Render.Flags0 and Render.Flags3 conditions are met
-172: 0x1E34 [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9386*]:
+172: 0x1E34 [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9387*]:
     → "...Perih Vashai. I have no feelings of hate towards you. It is my duty to listen to the voice of naturrre."
 173: 0x1E3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x1E3C [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=214*
 175: 0x1E4B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
 176: 0x1E5C [0x79] LocalPlayer looks at Semih Lafihna (ID: 17764573/0x010F10DD) (Basic look)
 177: 0x1E66 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x38)
-178: 0x1E6D [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9387*]:
+178: 0x1E6D [0x2B] Semih Lafihna (ID: 17764573/0x010F10DD) [9388*]:
     → "I will come to see you again. Until then, may the wind guide your footsteps."
 179: 0x1E74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x1E75 [0x1C] WAIT(200* ticks)
@@ -3655,7 +3655,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1EE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9371*)
+  0: 0x1EE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9372*)
     → "...Hmmm, the Tracker's real task here was most likely the destruction of the Bow of Light."
   1: 0x1EE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1EEA [0x00] END_REQSTACK()
@@ -3680,7 +3680,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=9373*)
+  0: 0x1EEB [0x1D] PRINT_EVENT_MESSAGE(message_id=9374*)
     → "I don't know for certain, but the homeland was definitely more concerned with the Bow of Light than the sinner's daughter."
   1: 0x1EEE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1EEF [0x00] END_REQSTACK()
@@ -3705,7 +3705,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9375*)
+  0: 0x1EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9376*)
     → "...... Magicite rrresembles crystals. Or rather, the power contained in magicite is similar to, or perhaps greater than, that contained in crystals."
   1: 0x1EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1EF4 [0x00] END_REQSTACK()
@@ -3730,7 +3730,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9376*)
+  0: 0x1EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9377*)
     → "But both are unnatural creations. The powerrr of magicite is an ominous, cursed energy. It is a manifestation of evil that we cannot tolerrrate."
   1: 0x1EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1EF9 [0x00] END_REQSTACK()
@@ -3755,7 +3755,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1EFA [0x1D] PRINT_EVENT_MESSAGE(message_id=9377*)
+  0: 0x1EFA [0x1D] PRINT_EVENT_MESSAGE(message_id=9378*)
     → "The Chieftainness of the Fire Tribe, Nhev Befrathi, knew this. And after seeing the bow for ourselves, the Mithran Tracker and I knew it too."
   1: 0x1EFD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1EFE [0x00] END_REQSTACK()
@@ -3781,7 +3781,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1EFF [0x1D] PRINT_EVENT_MESSAGE(message_id=9378*)
+  0: 0x1EFF [0x1D] PRINT_EVENT_MESSAGE(message_id=9379*)
     → "That crystal calls to those of Mithran blood. It awakens feelings of envy, of jealousy. It darkens the nature of the heart."
   1: 0x1F02 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1F03 [0x00] END_REQSTACK()
@@ -3806,7 +3806,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=9379*)
+  0: 0x1F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=9380*)
     → "Nhev Befrathi and her daughter, however, had the strength to rrresist its influence. Even though they used the bow, the light in their hearts rrremained."
   1: 0x1F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1F08 [0x00] END_REQSTACK()
@@ -3831,7 +3831,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1F09 [0x1D] PRINT_EVENT_MESSAGE(message_id=9381*)
+  0: 0x1F09 [0x1D] PRINT_EVENT_MESSAGE(message_id=9382*)
     → "Yes. I saw the power of that bow and closed my eyes to it."
   1: 0x1F0C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1F0D [0x00] END_REQSTACK()
@@ -3857,7 +3857,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1F0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9382*)
+  0: 0x1F0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9383*)
     → "You desire nothing in a world where you see nothing. There is nothing to be afraid of."
   1: 0x1F11 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1F12 [0x00] END_REQSTACK()
@@ -3882,7 +3882,7 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1F13 [0x1D] PRINT_EVENT_MESSAGE(message_id=9384*)
+  0: 0x1F13 [0x1D] PRINT_EVENT_MESSAGE(message_id=9385*)
     → "But for that, I twisted the path you were to walk. To save Syu Befrathi, I erased the existence of my own daughter..."
   1: 0x1F16 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1F17 [0x00] END_REQSTACK()
@@ -3909,10 +3909,10 @@ SUBROUTINE_1A7F:
 
 ```
   0: 0x1F18 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
-  1: 0x1F1D [0x1D] PRINT_EVENT_MESSAGE(message_id=9388*)
+  1: 0x1F1D [0x1D] PRINT_EVENT_MESSAGE(message_id=9389*)
     → "Occasionally, you too should try seeing the world through closed eyes."
   2: 0x1F20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1F21 [0x1D] PRINT_EVENT_MESSAGE(message_id=9389*)
+  3: 0x1F21 [0x1D] PRINT_EVENT_MESSAGE(message_id=9390*)
     → "What is there, in your inner world? ...Who do you see?"
   4: 0x1F24 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1F25 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3941,17 +3941,17 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
+  0: 0x1F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
     → "...I have heard from Semih Lafihna that a time of rrreckoning has come to this land."
   1: 0x1F2C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x1F2D [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
+  2: 0x1F2D [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
     → "We Mithra have always known that the world is but a sharrrd of a greater power."
   3: 0x1F30 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x1F31 [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
+  4: 0x1F31 [0x1D] PRINT_EVENT_MESSAGE(message_id=9680*)
     → "The abundant life and light born from that sharrrd, that single destiny..."
   5: 0x1F34 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1F35 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
-  7: 0x1F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=9680*)
+  7: 0x1F3A [0x1D] PRINT_EVENT_MESSAGE(message_id=9681*)
     → "...Leave the Yagudo to us. We will not fall against the tides of evil. You, too, must make your stand."
   8: 0x1F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1F3E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3980,21 +3980,21 @@ SUBROUTINE_1A7F:
 #### Opcodes
 
 ```
-  0: 0x1F42 [0x1D] PRINT_EVENT_MESSAGE(message_id=9714*)
+  0: 0x1F42 [0x1D] PRINT_EVENT_MESSAGE(message_id=9715*)
     → "It has rrreturned. The great power that belongs to this land..."
   1: 0x1F45 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1F46 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
-  3: 0x1F4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9715*)
+  3: 0x1F4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
     → "I have come to realize that the world exists to help us find a way to bridge the gaps between the races."
   4: 0x1F4E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x1F4F [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
+  5: 0x1F4F [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
     → "And we people are here to fill the emptiness that is borrrn in that world."
   6: 0x1F52 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1F53 [0x79] Perih Vashai (ID: 17764470/0x010F1076) looks at LocalPlayer (Basic look)
-  8: 0x1F5D [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
+  8: 0x1F5D [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
     → "Let us move forward to a new future. When you lose sight of tomorrow, just lie upon the earrrth, hear the voice of the wind, and gaze into the endless sky."
   9: 0x1F60 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x1F61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
+ 10: 0x1F61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9719*)
     → "...Adventurer. I prrray that the Windurst that lives in my heart will bloom in your heart as well."
  11: 0x1F64 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1F65 [0x7B] Perih Vashai (ID: 17764470/0x010F1076) stops talking
@@ -4064,10 +4064,10 @@ SUBROUTINE_1A7F:
  12: 0x1FAA [0x1C] WAIT(200* ticks)
  13: 0x1FAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  14: 0x1FBE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 15: 0x1FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=9741*)
+ 15: 0x1FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
     → "Hmmm. Has it all become clear, my fledgling arrrcher?"
  16: 0x1FD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x1FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
+ 17: 0x1FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
     → "Do you know where your place is? The time for the hunt? The prey your arrows should seek?"
  18: 0x1FD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x1FD7 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=21*
@@ -4080,7 +4080,7 @@ SUBROUTINE_1A7F:
  26: 0x201E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 
 SUBROUTINE_202F:
- 27: 0x202F [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
+ 27: 0x202F [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
     → "Do you everrr experience moments of hesitation? It is that confusion that sends your arrows wide of the mark."
  28: 0x2032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x2033 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4099,11 +4099,11 @@ SUBROUTINE_208A:
  40: 0x2094 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  41: 0x20A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  42: 0x20B6 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Perih Vashai (ID: 17764470/0x010F1076))
- 43: 0x20BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
+ 43: 0x20BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
     → "Take this untrrried bow. It is kindrrred to the slender sapling. As a young tree is bent by the fury of a storrrm, so will this bow's path be warped by your indecision."
  44: 0x20BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x20C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x0A)
- 46: 0x20C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
+ 46: 0x20C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9746*)
     → "Now, my fledgling arrrcher. Go forth and overcome the winds of doubt that taunt your arrow's flight. Trrrain until the sapling bow has become a steady oak in your hands."
  47: 0x20CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x20CB [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -4147,38 +4147,38 @@ SUBROUTINE_208A:
 #### Opcodes
 
 ```
-  0: 0x2115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9746*)
+  0: 0x2115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9747*)
     → "What trrroubles you, my fledgling arrrcher? Do you seek counsel in some matter?"
   1: 0x2118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x2119 [0x03] Work_Zone[1] = 0*
-  3: 0x211E [0x24] CREATE_DIALOG(message_id=9747*, default_option=0*, option_flags=Work_Zone[6])
+  3: 0x211E [0x24] CREATE_DIALOG(message_id=9748*, default_option=0*, option_flags=Work_Zone[6])
     → "What trrroubles youH [I have no questions./I lost the $1.../I give in to the winds.]"
   4: 0x2125 [0x25] WAIT_DIALOG_SELECT()
   5: 0x2126 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x213A
   6: 0x212E [0x03] Work_Zone[1] = 0*
-  7: 0x2133 [0x1D] PRINT_EVENT_MESSAGE(message_id=9752*)
+  7: 0x2133 [0x1D] PRINT_EVENT_MESSAGE(message_id=9753*)
     → "When you feel the bow no longer rrresponds to your inner conflict, rrreturn it here to me."
   8: 0x2136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x2137 [0x01] GOTO 0x2190
  10: 0x213A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x214F
  11: 0x2142 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x2143 [0x03] Work_Zone[1] = 1*
- 13: 0x2148 [0x1D] PRINT_EVENT_MESSAGE(message_id=9748*)
+ 13: 0x2148 [0x1D] PRINT_EVENT_MESSAGE(message_id=9749*)
     → "To lose your bow is to lose yourself. If you forget who you are and what you strrrive for, your future holds only stagnation."
  14: 0x214B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x214C [0x01] GOTO 0x2190
  16: 0x214F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x2190
  17: 0x2157 [0x03] Work_Zone[1] = 2*
- 18: 0x215C [0x1D] PRINT_EVENT_MESSAGE(message_id=9749*)
+ 18: 0x215C [0x1D] PRINT_EVENT_MESSAGE(message_id=9750*)
     → "My fledgling arrrcher, were you unable to master the doubt within you...?"
  19: 0x215F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x2160 [0x24] CREATE_DIALOG(message_id=9750*, default_option=1*, option_flags=0*)
+ 20: 0x2160 [0x24] CREATE_DIALOG(message_id=9751*, default_option=1*, option_flags=0*)
     → "Give in to your doubt? [Yes, I cannot go on./No, I will try harrrder.]"
  21: 0x2167 [0x25] WAIT_DIALOG_SELECT()
  22: 0x2168 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x217D
  23: 0x2170 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  24: 0x2171 [0x03] Work_Zone[1] = 3*
- 25: 0x2176 [0x1D] PRINT_EVENT_MESSAGE(message_id=9751*)
+ 25: 0x2176 [0x1D] PRINT_EVENT_MESSAGE(message_id=9752*)
     → "That is a pity indeed. You must set the bow free by your own hand. The withered branch rrreturns to the earth. This is the way of nature."
  26: 0x2179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x217A [0x01] GOTO 0x218D
@@ -4214,10 +4214,10 @@ SUBROUTINE_2190:
 #### Opcodes
 
 ```
-  0: 0x2194 [0x1D] PRINT_EVENT_MESSAGE(message_id=9753*)
+  0: 0x2194 [0x1D] PRINT_EVENT_MESSAGE(message_id=9754*)
     → "The bow still appears to rrretain the greenness of youth, and your doubt has yet to be rrresolved."
   1: 0x2197 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x2198 [0x1D] PRINT_EVENT_MESSAGE(message_id=9754*)
+  2: 0x2198 [0x1D] PRINT_EVENT_MESSAGE(message_id=9755*)
     → "There is no need for haste. The sapling grrrows slowly into the forest giant."
   3: 0x219B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x219C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4279,7 +4279,7 @@ SUBROUTINE_2190:
  12: 0x21DC [0x1C] WAIT(200* ticks)
  13: 0x21DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  14: 0x21F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 15: 0x2201 [0x1D] PRINT_EVENT_MESSAGE(message_id=9755*)
+ 15: 0x2201 [0x1D] PRINT_EVENT_MESSAGE(message_id=9756*)
     → "This bow is no longer the sapling I gave you. It has become a mighty tree, grown straight and strong and true."
  16: 0x2204 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x2205 [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=21*
@@ -4292,10 +4292,10 @@ SUBROUTINE_2190:
  24: 0x224C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 
 SUBROUTINE_225D:
- 25: 0x225D [0x1D] PRINT_EVENT_MESSAGE(message_id=9756*)
+ 25: 0x225D [0x1D] PRINT_EVENT_MESSAGE(message_id=9757*)
     → "You have grown as well, my fledgling arrrcher. It is time to test the new maturity of your archery."
  26: 0x2260 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x2261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9757*)
+ 27: 0x2261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9758*)
     → "I have prrrepared a battlefield for you at Cape Teriggan. Use this map to find your foe and bring back the $3 to prove your victorrry."
  28: 0x2264 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x2265 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -4339,7 +4339,7 @@ SUBROUTINE_22C1:
 #### Opcodes
 
 ```
-  0: 0x22E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9758*)
+  0: 0x22E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9759*)
     → "Cape Teriggan is the battlefield where you will test your newfound maturrrity. Was there anotherrr matter you wished to discuss?"
   1: 0x22E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x22E7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4399,7 +4399,7 @@ SUBROUTINE_22C1:
  12: 0x2327 [0x1C] WAIT(200* ticks)
  13: 0x232A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  14: 0x233B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 15: 0x234C [0x1D] PRINT_EVENT_MESSAGE(message_id=9760*)
+ 15: 0x234C [0x1D] PRINT_EVENT_MESSAGE(message_id=9761*)
     → "It appears your arrows flew fast and true. I will imparrrt to you a technique worthy of your rrresolve."
  16: 0x234F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x2350 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4408,11 +4408,11 @@ SUBROUTINE_22C1:
  20: 0x2373 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  21: 0x2384 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  22: 0x2395 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x05)
- 23: 0x239C [0x1D] PRINT_EVENT_MESSAGE(message_id=9761*)
+ 23: 0x239C [0x1D] PRINT_EVENT_MESSAGE(message_id=9762*)
     → "With strrrength comes potential for new abilities."
  24: 0x239F [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x23A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x06)
- 26: 0x23A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9762*)
+ 26: 0x23A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9763*)
     → "Do you see, my arrrcher? Strength is the grrreat trunk of the tree, and the rrresultant skills its many branches."
  27: 0x23AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x23AB [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -4473,10 +4473,10 @@ SUBROUTINE_22C1:
 #### Opcodes
 
 ```
-  0: 0x2410 [0x1D] PRINT_EVENT_MESSAGE(message_id=10022*)
+  0: 0x2410 [0x1D] PRINT_EVENT_MESSAGE(message_id=10023*)
     → "Adventurer, I would advise against traveling with that Elvaan. He has a dark, dark past."
   1: 0x2413 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x2414 [0x1D] PRINT_EVENT_MESSAGE(message_id=10023*)
+  2: 0x2414 [0x1D] PRINT_EVENT_MESSAGE(message_id=10024*)
     → "If one does not cleanse oneself of that darkness, it will rrreturn to haunt them. That is Mother Nature's way..."
   3: 0x2417 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x2418 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4952,7 +4952,7 @@ SUBROUTINE_24C7:
 SUBROUTINE_251C:
  41: 0x251C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  42: 0x252D [0x1C] WAIT(60* ticks)
- 43: 0x2530 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14118*]:
+ 43: 0x2530 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
     → "I see, my child. You have hearrrd of this new "Trust Initiative.""
  44: 0x2537 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x2538 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x2552
@@ -4966,13 +4966,13 @@ SUBROUTINE_251C:
 SUBROUTINE_257B:
  52: 0x257B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[676*, 0*]
  53: 0x258C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
- 54: 0x2591 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
+ 54: 0x2591 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14120*]:
     → "If it's a scrrroll you seek, then I bid you talk to [Shikaree Z/Mhag]."
  55: 0x2598 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x2599 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x06)
  57: 0x25A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x07)
  58: 0x25A7 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x25B6
- 59: 0x25AE [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14122*]:
+ 59: 0x25AE [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14123*]:
     → "Regardless of her true name, I still refer to her as "Shikaree Z" out of respect and a sense of grrratitude."
  60: 0x25B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x25B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x08)
@@ -4993,10 +4993,10 @@ SUBROUTINE_2615:
  74: 0x262B [0x03] Work_Zone[4] = 1*
 
 SUBROUTINE_2630:
- 75: 0x2630 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14123*]:
+ 75: 0x2630 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14124*]:
     → "She [was/is] a sin hunter through and through. As a bearer of the fang, she [submits/submitted] herrrself wholly to the laws of nature."
  76: 0x2637 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x2638 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14124*]:
+ 77: 0x2638 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14125*]:
     → "Those same laws now guide you, giving you the answerrr to one of the many questions burning in your mind."
  78: 0x263F [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x2640 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perih Vashai (ID: 17764470/0x010F1076), tag_num=0x02)
@@ -5049,10 +5049,10 @@ SUBROUTINE_26AF:
 124: 0x279C [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x2A08
 125: 0x27A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[676*, 0*]
 126: 0x27B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-127: 0x27BB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14126*]:
+127: 0x27BB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14127*]:
     → "Well, would you look who it is! Tell me, how've you been treating yourself?"
 128: 0x27C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x27C3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14127*]:
+129: 0x27C3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14128*]:
     → "I told you where I was going before I left, didn't I?"
 130: 0x27CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
 131: 0x27D1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
@@ -5077,13 +5077,13 @@ SUBROUTINE_26AF:
 
 SUBROUTINE_2877:
 150: 0x2877 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-151: 0x287E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14128*]:
+151: 0x287E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14129*]:
     → "Upon returning to the motherland, I confessed everything to the queen."
 152: 0x2885 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x2886 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 154: 0x288D [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 155: 0x2892 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-156: 0x2899 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14129*]:
+156: 0x2899 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14130*]:
     → "I've never been good with words, so I spoke from the heart, telling her exactly what transpired."
 157: 0x28A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x28A1 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x28BB
@@ -5102,7 +5102,7 @@ SUBROUTINE_2877:
 
 SUBROUTINE_2918:
 171: 0x2918 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[676*, 0*]
-172: 0x2929 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14130*]:
+172: 0x2929 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14131*]:
     → "When faced with the Emptiness, I fought, proving what true justice is."
 173: 0x2930 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x2931 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
@@ -5116,10 +5116,10 @@ SUBROUTINE_2918:
 182: 0x297F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[676*, 0*]
 
 SUBROUTINE_2990:
-183: 0x2990 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14131*]:
+183: 0x2990 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14132*]:
     → "I stopped being a sin hunter, but continued mentoring my younger sisters...and have traveled throughout Vana'diel."
 184: 0x2997 [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x2998 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14132*]:
+185: 0x2998 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14133*]:
     → "But there is one thing that piqued my interest..."
 186: 0x299F [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x29A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
@@ -5143,7 +5143,7 @@ SUBROUTINE_2A05:
 203: 0x2A18 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 204: 0x2A1D [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 7*
 205: 0x2A24 [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-206: 0x2A29 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14125*]:
+206: 0x2A29 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14126*]:
     → "Have you come to confess your sins?"
 207: 0x2A30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x2A31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x7C)
@@ -5161,10 +5161,10 @@ SUBROUTINE_2A3B:
 SUBROUTINE_2A84:
 217: 0x2A84 [0x03] Work_Zone[3] = 2497*
 218: 0x2A89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-219: 0x2A90 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14133*]:
+219: 0x2A90 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14134*]:
     → "I see you have $6."
 220: 0x2A97 [0x23] WAIT_FOR_DIALOG_INTERACTION
-221: 0x2A98 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14134*]:
+221: 0x2A98 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14135*]:
     → "I[/, too,] have come to speak with Perih Vashai about that very matter."
 222: 0x2A9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x2AA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5193,7 +5193,7 @@ SUBROUTINE_2AFE:
 
 SUBROUTINE_2B21:
 242: 0x2B21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[676*, 0*]
-243: 0x2B32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14135*]:
+243: 0x2B32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14136*]:
     → "[Mildaurion/Our friends in Jeuno] said to me, "[I/We] need your help to [fight the Keeper of the Apocalypse/deal with Bahamut, lord of the dragons/deal with the Emptiness].""
 244: 0x2B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x2B3A [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x2B49
@@ -5203,38 +5203,38 @@ SUBROUTINE_2B21:
 
 SUBROUTINE_2B4E:
 249: 0x2B4E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-250: 0x2B55 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14136*]:
+250: 0x2B55 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14137*]:
     → "I am not blind. [My skills as a sin hunter are/My prowess is] needed by many."
 251: 0x2B5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x2B5D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 253: 0x2B64 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=676*
 254: 0x2B73 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[676*, 0*]
-255: 0x2B84 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14137*]:
+255: 0x2B84 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14138*]:
     → "But who can ensure that my alter ego will not be a sin in and of itself?"
 256: 0x2B8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x2B8C [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=676*
 258: 0x2B9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[676*, 0*]
 259: 0x2BAC [0x27] REQ_SET(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x33)
 260: 0x2BB3 [0x1C] WAIT(30* ticks)
-261: 0x2BB6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14138*]:
+261: 0x2BB6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14139*]:
     → "The motherland's leaders are in constant debate about what this new magic can mean for our people."
 262: 0x2BBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x2BBE [0x2A] GET_REQ_LEVEL(level=8, entity_id=Shikaree Z (ID: 17764477/0x010F107D))
 264: 0x2BC4 [0x4A] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D)
 265: 0x2BCD [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=676*
 266: 0x2BDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[676*, 0*]
-267: 0x2BED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14139*]:
+267: 0x2BED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14140*]:
     → "Does it abide by the natural order of things?"
 268: 0x2BF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x2BF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-270: 0x2BFC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14140*]:
+270: 0x2BFC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14141*]:
     → "If the alter ego causes a sin, then who is the hunter supposed to track down?"
 271: 0x2C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x2C04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
 273: 0x2C0B [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=676*
 274: 0x2C1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[676*, 0*]
 275: 0x2C2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-276: 0x2C32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14141*]:
+276: 0x2C32 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14142*]:
     → "Of course, the queen's stance on these issues is as fickle as a newborn babe."
 277: 0x2C39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x2C3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5246,7 +5246,7 @@ SUBROUTINE_2B4E:
 284: 0x2C6E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 285: 0x2C6F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree Z (ID: 17764477/0x010F107D) Render.Flags0 and Render.Flags3 conditions are met
 286: 0x2C74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-287: 0x2C7B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14142*]:
+287: 0x2C7B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14143*]:
     → "But the prevailing opinion is that Trust magic is permissible so long as it does not violate the natural order and is undertaken by one who is not apt to cause sin."
 288: 0x2C82 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x2C83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5257,26 +5257,26 @@ SUBROUTINE_2B4E:
 
 SUBROUTINE_2C9E:
 294: 0x2C9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-295: 0x2CA5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14143*]:
+295: 0x2CA5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14144*]:
     → "As such, I received a scroll, and am tasked with finding someone from among [us/the] sin hunters to engage in the ritual."
 296: 0x2CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x2CAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 298: 0x2CB4 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at Perih Vashai (ID: 17764470/0x010F1076) (Basic look)
 299: 0x2CBE [0x1C] WAIT(30* ticks)
 300: 0x2CC1 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 5*) GOTO 0x2D0D
-301: 0x2CC8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14145*]:
+301: 0x2CC8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14146*]:
     → "The reason the scroll found its way to me is because I managed to convince Shikaree Y that Perih Vashai would be more worthy than anyone else."
 302: 0x2CCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x2CD0 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=676*
 304: 0x2CDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[676*, 0*]
-305: 0x2CF0 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14146*]:
+305: 0x2CF0 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14147*]:
     → "She knows how to respect the laws of nature, and is as unlikely a person to sin as anyone I know."
 306: 0x2CF7 [0x1C] WAIT(120* ticks)
 307: 0x2CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x2CFB [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=676*
 309: 0x2D0A [0x01] GOTO 0x2D38
 310: 0x2D0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[676*, 0*]
-311: 0x2D1E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14144*]:
+311: 0x2D1E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14145*]:
     → "Who could possibly be more trustworthy than Perih Vashai? I am here today to give the scroll to her."
 312: 0x2D25 [0x1C] WAIT(120* ticks)
 313: 0x2D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -5288,20 +5288,20 @@ SUBROUTINE_2D38:
 317: 0x2D4C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[676*, 0*]
 318: 0x2D5D [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 319: 0x2D62 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-320: 0x2D69 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14147*]:
+320: 0x2D69 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14148*]:
     → "Yet for some reason, she refused."
 321: 0x2D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x2D71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
 323: 0x2D78 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=676*
 324: 0x2D87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[676*, 0*]
 325: 0x2D98 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-326: 0x2D9F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14148*]:
+326: 0x2D9F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14149*]:
     → ""The natural way of things is not for us to decide. The sky and land have that responsibility.""
 327: 0x2DA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x2DA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
 329: 0x2DAE [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17764478/0x010F107E)
 330: 0x2DB4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-331: 0x2DBB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14149*]:
+331: 0x2DBB [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14150*]:
     → "So she elected to wait until she received a sign from above."
 332: 0x2DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x2DC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5326,7 +5326,7 @@ SUBROUTINE_2D38:
 352: 0x2E68 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17764478/0x010F107E))
 353: 0x2E6E [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17764478/0x010F107E)
 354: 0x2E77 [0x1C] WAIT(90* ticks)
-355: 0x2E7A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14150*]:
+355: 0x2E7A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14151*]:
     → "Hmm?"
 356: 0x2E81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x2E82 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -5341,11 +5341,11 @@ SUBROUTINE_2D38:
 366: 0x2ED1 [0x4A] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D)
 367: 0x2EDA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 368: 0x2EE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-369: 0x2EE8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14151*]:
+369: 0x2EE8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14152*]:
     → "What is this smell...?"
 370: 0x2EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x2EF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-372: 0x2EF7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14152*]:
+372: 0x2EF7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14153*]:
     → "It smells of change, carried by the western wind. Is something about to...?"
 373: 0x2EFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x2EFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5361,7 +5361,7 @@ SUBROUTINE_2D38:
 384: 0x2F4D [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 6*
 385: 0x2F54 [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
 386: 0x2F59 [0x1C] WAIT(90* ticks)
-387: 0x2F5C [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14153*]:
+387: 0x2F5C [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14154*]:
     → "Could it be...? No, not this time."
 388: 0x2F63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x2F64 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=676*
@@ -5390,7 +5390,7 @@ SUBROUTINE_2FBC:
 
 SUBROUTINE_301D:
 410: 0x301D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[676*, 0*]
-411: 0x302E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14154*]:
+411: 0x302E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14155*]:
     → "Something magical is in the air."
 412: 0x3035 [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x3036 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
@@ -5402,7 +5402,7 @@ SUBROUTINE_301D:
 419: 0x306E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree Z (ID: 17764477/0x010F107D) Render.Flags0 and Render.Flags3 conditions are met
 420: 0x3073 [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 0*
 421: 0x307A [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-422: 0x307F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14155*]:
+422: 0x307F [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14156*]:
     → "Memories of my past have come wafting on the breeze."
 423: 0x3086 [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x3087 [0x27] REQ_SET(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x34)
@@ -5420,11 +5420,11 @@ SUBROUTINE_301D:
 436: 0x30D5 [0x03] Work_Zone[6] = 1*
 
 SUBROUTINE_30DA:
-437: 0x30DA [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14156*]:
+437: 0x30DA [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14157*]:
     → "It smells of wyverns. It smells of Boneyard Gully."
 438: 0x30E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 439: 0x30E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-440: 0x30E9 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14157*]:
+440: 0x30E9 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14158*]:
     → "No, I do not--cannot--forget where we first fought, and where I first fell."
 441: 0x30F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 442: 0x30F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5442,7 +5442,7 @@ SUBROUTINE_30DA:
 SUBROUTINE_315E:
 453: 0x315E [0x6E] EventEntity uses emote 6*
 454: 0x3165 [0x99] Wait for EventEntity animation to complete
-455: 0x316A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14158*]:
+455: 0x316A [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14159*]:
     → "You went from being a passerby on my life's road to something much greater."
 456: 0x3171 [0x1C] WAIT(90* ticks)
 457: 0x3174 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -5480,11 +5480,11 @@ SUBROUTINE_325C:
 485: 0x326F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17764478/0x010F107E) Render.Flags0 and Render.Flags3 conditions are met
 486: 0x3274 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 487: 0x327B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-488: 0x3282 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14159*]:
+488: 0x3282 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14160*]:
     → "My sisters set the wheel in motion, but it was I who issued the challenge--and you accepted."
 489: 0x3289 [0x23] WAIT_FOR_DIALOG_INTERACTION
 490: 0x328A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-491: 0x3291 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14160*]:
+491: 0x3291 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14161*]:
     → "You spurred them on to learn the intricacies of the delta attack."
 492: 0x3298 [0x23] WAIT_FOR_DIALOG_INTERACTION
 493: 0x3299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5512,17 +5512,17 @@ SUBROUTINE_3331:
 513: 0x3352 [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 514: 0x3357 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 515: 0x335E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-516: 0x3365 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14161*]:
+516: 0x3365 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14162*]:
     → "And there are other scents, too--I picture an open expanse of saltwater with each breath I take. It reminds me of Bibiki Bay."
 517: 0x336C [0x23] WAIT_FOR_DIALOG_INTERACTION
 518: 0x336D [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [EventEntity, EventEntity], work=676*
 519: 0x337C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[676*, 0*]
-520: 0x338D [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14162*]:
+520: 0x338D [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14163*]:
     → "Our fights and struggles were noble. We aimed to protect all we held dear: trust, justice, courage, and hope."
 521: 0x3394 [0x23] WAIT_FOR_DIALOG_INTERACTION
 522: 0x3395 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
 523: 0x339F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-524: 0x33A6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14163*]:
+524: 0x33A6 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14164*]:
     → "Are these not the qualities required by the Trust ritual? If they are, then we shall surely be successful."
 525: 0x33AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 526: 0x33AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5533,7 +5533,7 @@ SUBROUTINE_3331:
 531: 0x33E5 [0x7B] Shikaree Z (ID: 17764477/0x010F107D) stops talking
 532: 0x33EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 533: 0x33F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
-534: 0x33F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14164*]:
+534: 0x33F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14165*]:
     → "[There is yet another./And there are other scents, too.] The fragrance peculiar to Mhaura's port."
 535: 0x33FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x3400 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=676*
@@ -5555,12 +5555,12 @@ SUBROUTINE_3331:
 552: 0x349B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[676*, 0*]
 
 SUBROUTINE_34AC:
-553: 0x34AC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14165*]:
+553: 0x34AC [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14166*]:
     → "My journeys with you taught me about the unspoken rules of the land, and I learned of the place my mother's words were meant to guide me to."
 554: 0x34B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x34B4 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
 556: 0x34BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-557: 0x34C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14166*]:
+557: 0x34C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14167*]:
     → "If my alter ego can help you, then it is not for me to question whether or not the process itself is a sin."
 558: 0x34CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x34CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
@@ -5588,28 +5588,28 @@ SUBROUTINE_3565:
 579: 0x3584 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
 580: 0x358B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
 581: 0x3592 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
-582: 0x3599 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14167*]:
+582: 0x3599 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14168*]:
     → "And yet there's more."
 583: 0x35A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 584: 0x35A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
 585: 0x35A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-586: 0x35AF [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14168*]:
+586: 0x35AF [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14169*]:
     → "I can taste the fear that I felt when I confessed my true desires to my sisters."
 587: 0x35B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x35B7 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=676*
 589: 0x35C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[676*, 0*]
-590: 0x35D7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14169*]:
+590: 0x35D7 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14170*]:
     → "I was afraid when I opened up to them because they might not accept what I had to say."
 591: 0x35DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 592: 0x35DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
 593: 0x35E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-594: 0x35ED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14170*]:
+594: 0x35ED [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14171*]:
     → "...But I know they have changed since they first met you."
 595: 0x35F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x35F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
 597: 0x35FC [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=676*
 598: 0x360B [0x01] GOTO 0x3616
-599: 0x360E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14171*]:
+599: 0x360E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14172*]:
     → "There is also the trace of my sisters carried upon the wind. I have never thanked you for aiding them in their endeavors."
 600: 0x3615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -5619,11 +5619,11 @@ SUBROUTINE_3616:
 603: 0x362E [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17764478/0x010F107E), end_alpha=0*, fade_time=1*)
 604: 0x3637 [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 7*
 605: 0x363E [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-606: 0x3643 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14172*]:
+606: 0x3643 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14173*]:
     → "Thank you for helping Shikaree X with her first survey in Tavnazia."
 607: 0x364A [0x1C] WAIT(90* ticks)
 608: 0x364D [0x23] WAIT_FOR_DIALOG_INTERACTION
-609: 0x364E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14173*]:
+609: 0x364E [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14174*]:
     → "Shikaree X told me the reason she was able to speak like a true sin hunter was that you stood by her side."
 610: 0x3655 [0x23] WAIT_FOR_DIALOG_INTERACTION
 611: 0x3656 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=676*
@@ -5639,10 +5639,10 @@ SUBROUTINE_3616:
 SUBROUTINE_36B5:
 620: 0x36B5 [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17764478/0x010F107E), end_alpha=0*, fade_time=1*)
 621: 0x36BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
-622: 0x36C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14174*]:
+622: 0x36C5 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14175*]:
     → "Shikaree Y mentioned that you hurried after her when she took a tuning fork in hand and made for Uleguerand Range."
 623: 0x36CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-624: 0x36CD [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14175*]:
+624: 0x36CD [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14176*]:
     → "You know how lightly she always dresses. I would have been worried, too."
 625: 0x36D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 626: 0x36D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x02)
@@ -5668,10 +5668,10 @@ SUBROUTINE_372D:
 644: 0x3768 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=676*
 645: 0x3777 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[676*, 0*]
 646: 0x3788 [0x1C] WAIT(90* ticks)
-647: 0x378B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14176*]:
+647: 0x378B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14177*]:
     → "The pristine scents from the sky now tell me of another, beautiful time."
 648: 0x3792 [0x23] WAIT_FOR_DIALOG_INTERACTION
-649: 0x3793 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14177*]:
+649: 0x3793 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14178*]:
     → "The sweet sensation of victory when we vanquished the Keeper of the Apocalypse."
 650: 0x379A [0x23] WAIT_FOR_DIALOG_INTERACTION
 651: 0x379B [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
@@ -5679,7 +5679,7 @@ SUBROUTINE_372D:
 653: 0x37B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[676*, 0*]
 654: 0x37C5 [0x6C] FADE_ENTITY_COLOR(entity_id=Unnamed NPC (ID: 17764478/0x010F107E), end_alpha=0*, fade_time=1*)
 655: 0x37CE [0x03] Work_Zone[3] = 5266*
-656: 0x37D3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14178*]:
+656: 0x37D3 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14179*]:
     → "Ahhh, what I wouldn't give for us to gather again, exchanging tales over some $1."
 657: 0x37DA [0x1C] WAIT(60* ticks)
 658: 0x37DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x01)
@@ -5715,7 +5715,7 @@ SUBROUTINE_38D9:
 686: 0x38E2 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=400*)
 687: 0x38E7 [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
 688: 0x38F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x03)
-689: 0x38F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14179*]:
+689: 0x38F8 [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14180*]:
     → "<Player>, can you not hear the voice of nature?"
 690: 0x38FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 691: 0x3900 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x04)
@@ -5775,7 +5775,7 @@ SUBROUTINE_39D2:
 743: 0x3ADC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[676*, 0*]
 744: 0x3AED [0x79] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D) (Basic look)
 745: 0x3AF7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x05)
-746: 0x3AFE [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14180*]:
+746: 0x3AFE [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14181*]:
     → "...I can hear it speaking to me. It bids me accompany you once more."
 747: 0x3B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
 748: 0x3B06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x06)
@@ -5804,7 +5804,7 @@ SUBROUTINE_3BB9:
 769: 0x3BC8 [0x79] LocalPlayer looks at Shikaree Z (ID: 17764479/0x010F107F) (Basic look)
 770: 0x3BD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x07)
 771: 0x3BD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764479/0x010F107F), tag_num=0x21)
-772: 0x3BE0 [0x2B] Shikaree Z (ID: 17764479/0x010F107F) [14181*]:
+772: 0x3BE0 [0x2B] Shikaree Z (ID: 17764479/0x010F107F) [14182*]:
     → "I pledge to follow you to the last, and to guard you with all my strength."
 773: 0x3BE7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree Z (ID: 17764477/0x010F107D), tag_num=0x08)
 774: 0x3BEE [0x79] Shikaree Z (ID: 17764477/0x010F107D) looks at LocalPlayer (Basic look)
@@ -5815,7 +5815,7 @@ SUBROUTINE_3BB9:
 779: 0x3C0C [0x1C] WAIT(90* ticks)
 780: 0x3C0F [0x6E] Shikaree Z (ID: 17764477/0x010F107D) uses emote 4*
 781: 0x3C16 [0x99] Wait for Shikaree Z (ID: 17764477/0x010F107D) animation to complete
-782: 0x3C1B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14182*]:
+782: 0x3C1B [0x2B] Shikaree Z (ID: 17764477/0x010F107D) [14183*]:
     → "May your journeys always be filled with excitement."
 783: 0x3C22 [0x1C] WAIT(30* ticks)
 784: 0x3C25 [0x79] LocalPlayer looks at Shikaree Z (ID: 17764477/0x010F107D) (Basic look)
@@ -5877,19 +5877,19 @@ SUBROUTINE_3CE6:
 
 ```
   0: 0x3D16 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
-  1: 0x3D1B [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14118*]:
+  1: 0x3D1B [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
     → "I see, my child. You have hearrrd of this new "Trust Initiative.""
   2: 0x3D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x3D23 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
-  4: 0x3D28 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14119*]:
+  4: 0x3D28 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14120*]:
     → "If it's a scrrroll you seek, then I bid you talk to [Shikaree Z/Mhag]."
   5: 0x3D2F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x3D30 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x3D43
-  7: 0x3D38 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14121*]:
+  7: 0x3D38 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14122*]:
     → "Her prrresent location? That is not something I am privy to."
   8: 0x3D3F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x3D40 [0x01] GOTO 0x3D4B
- 10: 0x3D43 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14120*]:
+ 10: 0x3D43 [0x2B] Perih Vashai (ID: 17764470/0x010F1076) [14121*]:
     → "Yet I warn you--should the ritual trrruly require strong bonds, then you would be wasting your time--and hers."
  11: 0x3D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

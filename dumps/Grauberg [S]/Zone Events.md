@@ -94,7 +94,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E17      |        7703 |
+|       0 | 0x1E18      |        7704 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
@@ -111,11 +111,11 @@
 |      14 | 0x007B      |         123 |
 |      15 | 0x014B      |         331 |
 |      16 | 0x000F      |          15 |
-|      17 | 0x1E38      |        7736 |
+|      17 | 0x1E39      |        7737 |
 |      18 | 0x0009      |           9 |
-|      19 | 0x1E39      |        7737 |
-|      20 | 0x1E3A      |        7738 |
-|      21 | 0x1E3B      |        7739 |
+|      19 | 0x1E3A      |        7738 |
+|      20 | 0x1E3B      |        7739 |
+|      21 | 0x1E3C      |        7740 |
 |      22 | 0xFFFB292D  |  4294650157 |
 |      23 | 0xFFF85C29  |  4294466601 |
 |      24 | 0x407D      |       16509 |
@@ -124,10 +124,10 @@
 |      27 | 0xFFF84FF7  |  4294463479 |
 |      28 | 0x3EEC      |       16108 |
 |      29 | 0x0B48      |        2888 |
-|      30 | 0x1E3C      |        7740 |
+|      30 | 0x1E3D      |        7741 |
 |      31 | 0x0045      |          69 |
-|      32 | 0x1E3D      |        7741 |
-|      33 | 0x1E3E      |        7742 |
+|      32 | 0x1E3E      |        7742 |
+|      33 | 0x1E3F      |        7743 |
 |      34 | 0x000D      |          13 |
 |      35 | 0xFFFB36DE  |  4294653662 |
 |      36 | 0xFFF83300  |  4294456064 |
@@ -146,45 +146,45 @@
 |      49 | 0x13BB2     |       80818 |
 |      50 | 0xFFFF62A5  |  4294927013 |
 |      51 | 0x0FC7      |        4039 |
-|      52 | 0x1E43      |        7747 |
-|      53 | 0x1E44      |        7748 |
-|      54 | 0x1E45      |        7749 |
-|      55 | 0x1E46      |        7750 |
-|      56 | 0x1E47      |        7751 |
-|      57 | 0x1E48      |        7752 |
+|      52 | 0x1E44      |        7748 |
+|      53 | 0x1E45      |        7749 |
+|      54 | 0x1E46      |        7750 |
+|      55 | 0x1E47      |        7751 |
+|      56 | 0x1E48      |        7752 |
+|      57 | 0x1E49      |        7753 |
 |      58 | 0x68656     |      427606 |
 |      59 | 0x11202     |       70146 |
 |      60 | 0xFFFF5525  |  4294923557 |
 |      61 | 0x0F34      |        3892 |
 |      62 | 0x007F      |         127 |
-|      63 | 0x1E49      |        7753 |
-|      64 | 0x1E4A      |        7754 |
-|      65 | 0x1E4B      |        7755 |
-|      66 | 0x1E4C      |        7756 |
-|      67 | 0x1E4D      |        7757 |
-|      68 | 0x1E4F      |        7759 |
+|      63 | 0x1E4A      |        7754 |
+|      64 | 0x1E4B      |        7755 |
+|      65 | 0x1E4C      |        7756 |
+|      66 | 0x1E4D      |        7757 |
+|      67 | 0x1E4E      |        7758 |
+|      68 | 0x1E50      |        7760 |
 |      69 | 0x0016      |          22 |
-|      70 | 0x1E50      |        7760 |
-|      71 | 0x1E51      |        7761 |
+|      70 | 0x1E51      |        7761 |
+|      71 | 0x1E52      |        7762 |
 |      72 | 0x001D      |          29 |
-|      73 | 0x1E52      |        7762 |
+|      73 | 0x1E53      |        7763 |
 |      74 | 0x00FA      |         250 |
-|      75 | 0x1E53      |        7763 |
-|      76 | 0x1E54      |        7764 |
-|      77 | 0x1E55      |        7765 |
-|      78 | 0x1E56      |        7766 |
-|      79 | 0x1E57      |        7767 |
+|      75 | 0x1E54      |        7764 |
+|      76 | 0x1E55      |        7765 |
+|      77 | 0x1E56      |        7766 |
+|      78 | 0x1E57      |        7767 |
+|      79 | 0x1E58      |        7768 |
 |      80 | 0x001A      |          26 |
-|      81 | 0x1E58      |        7768 |
+|      81 | 0x1E59      |        7769 |
 |      82 | 0x0004      |           4 |
-|      83 | 0x1E59      |        7769 |
+|      83 | 0x1E5A      |        7770 |
 |      84 | 0x0015      |          21 |
-|      85 | 0x1E5A      |        7770 |
-|      86 | 0x1E5B      |        7771 |
-|      87 | 0x1E5C      |        7772 |
-|      88 | 0x1E5D      |        7773 |
-|      89 | 0x1E5E      |        7774 |
-|      90 | 0x1E5F      |        7775 |
+|      85 | 0x1E5B      |        7771 |
+|      86 | 0x1E5C      |        7772 |
+|      87 | 0x1E5D      |        7773 |
+|      88 | 0x1E5E      |        7774 |
+|      89 | 0x1E5F      |        7775 |
+|      90 | 0x1E60      |        7776 |
 |      91 | 0xFFFB1FF5  |  4294647797 |
 |      92 | 0xFFF8133E  |  4294447934 |
 |      93 | 0x3E7F      |       15999 |
@@ -194,31 +194,31 @@
 |      97 | 0xFFFB1BF6  |  4294646774 |
 |      98 | 0xFFF81588  |  4294448520 |
 |      99 | 0x00A3      |         163 |
-|     100 | 0x1E60      |        7776 |
-|     101 | 0x1E61      |        7777 |
+|     100 | 0x1E61      |        7777 |
+|     101 | 0x1E62      |        7778 |
 |     102 | 0xFFFB37D7  |  4294653911 |
 |     103 | 0xFFF827FB  |  4294453243 |
 |     104 | 0x3F91      |       16273 |
-|     105 | 0x1E62      |        7778 |
-|     106 | 0x1E63      |        7779 |
-|     107 | 0x1E64      |        7780 |
-|     108 | 0x1E65      |        7781 |
-|     109 | 0x1E66      |        7782 |
-|     110 | 0x1E67      |        7783 |
-|     111 | 0x1E68      |        7784 |
-|     112 | 0x1E6C      |        7788 |
-|     113 | 0x1E6D      |        7789 |
+|     105 | 0x1E63      |        7779 |
+|     106 | 0x1E64      |        7780 |
+|     107 | 0x1E65      |        7781 |
+|     108 | 0x1E66      |        7782 |
+|     109 | 0x1E67      |        7783 |
+|     110 | 0x1E68      |        7784 |
+|     111 | 0x1E69      |        7785 |
+|     112 | 0x1E6D      |        7789 |
+|     113 | 0x1E6E      |        7790 |
 |     114 | 0x0002      |           2 |
 |     115 | 0x0003      |           3 |
-|     116 | 0x1E6F      |        7791 |
-|     117 | 0x1E6E      |        7790 |
+|     116 | 0x1E70      |        7792 |
+|     117 | 0x1E6F      |        7791 |
 |     118 | 0x43F5      |       17397 |
-|     119 | 0x1E70      |        7792 |
-|     120 | 0x1E71      |        7793 |
-|     121 | 0x1E72      |        7794 |
+|     119 | 0x1E71      |        7793 |
+|     120 | 0x1E72      |        7794 |
+|     121 | 0x1E73      |        7795 |
 |     122 | 0x4269      |       17001 |
-|     123 | 0x1E73      |        7795 |
-|     124 | 0x1E74      |        7796 |
+|     123 | 0x1E74      |        7796 |
+|     124 | 0x1E75      |        7797 |
 |     125 | 0x3E733     |      255795 |
 |     126 | 0x7F040     |      520256 |
 |     127 | 0x8347      |       33607 |
@@ -230,11 +230,11 @@
 |     133 | 0x7DE6B     |      515691 |
 |     134 | 0x821C      |       33308 |
 |     135 | 0x014D      |         333 |
-|     136 | 0x1E79      |        7801 |
-|     137 | 0x1E7A      |        7802 |
-|     138 | 0x1E7B      |        7803 |
-|     139 | 0x1E7C      |        7804 |
-|     140 | 0x1E7D      |        7805 |
+|     136 | 0x1E7A      |        7802 |
+|     137 | 0x1E7B      |        7803 |
+|     138 | 0x1E7C      |        7804 |
+|     139 | 0x1E7D      |        7805 |
+|     140 | 0x1E7E      |        7806 |
 |     141 | 0x3F256     |      258646 |
 |     142 | 0x80126     |      524582 |
 |     143 | 0x8515      |       34069 |
@@ -250,19 +250,19 @@
 |     153 | 0x7DBB0     |      514992 |
 |     154 | 0x8213      |       33299 |
 |     155 | 0x0ACF      |        2767 |
-|     156 | 0x1E7E      |        7806 |
-|     157 | 0x1E7F      |        7807 |
+|     156 | 0x1E7F      |        7807 |
+|     157 | 0x1E80      |        7808 |
 |     158 | 0x035E      |         862 |
-|     159 | 0x1E80      |        7808 |
+|     159 | 0x1E81      |        7809 |
 |     160 | 0x3F218     |      258584 |
 |     161 | 0x7F902     |      522498 |
 |     162 | 0x8496      |       33942 |
-|     163 | 0x1E81      |        7809 |
-|     164 | 0x1E82      |        7810 |
-|     165 | 0x1E83      |        7811 |
-|     166 | 0x1E84      |        7812 |
-|     167 | 0x1E85      |        7813 |
-|     168 | 0x1E86      |        7814 |
+|     163 | 0x1E82      |        7810 |
+|     164 | 0x1E83      |        7811 |
+|     165 | 0x1E84      |        7812 |
+|     166 | 0x1E85      |        7813 |
+|     167 | 0x1E86      |        7814 |
+|     168 | 0x1E87      |        7815 |
 |     169 | 0xFFFE414C  |  4294852940 |
 |     170 | 0x8CD08     |      576776 |
 |     171 | 0xFFFFE1C0  |  4294959552 |
@@ -289,32 +289,32 @@
 |     192 | 0x0B5F      |        2911 |
 |     193 | 0x014F      |         335 |
 |     194 | 0x0096      |         150 |
-|     195 | 0x1ED0      |        7888 |
-|     196 | 0x1ED1      |        7889 |
-|     197 | 0x1ED2      |        7890 |
+|     195 | 0x1ED1      |        7889 |
+|     196 | 0x1ED2      |        7890 |
+|     197 | 0x1ED3      |        7891 |
 |     198 | 0x04FD      |        1277 |
 |     199 | 0x010E      |         270 |
-|     200 | 0x1ED3      |        7891 |
-|     201 | 0x1ED4      |        7892 |
-|     202 | 0x1ED5      |        7893 |
-|     203 | 0x1ED6      |        7894 |
+|     200 | 0x1ED4      |        7892 |
+|     201 | 0x1ED5      |        7893 |
+|     202 | 0x1ED6      |        7894 |
+|     203 | 0x1ED7      |        7895 |
 |     204 | 0x052C      |        1324 |
-|     205 | 0x1ED7      |        7895 |
-|     206 | 0x1ED8      |        7896 |
-|     207 | 0x1ED9      |        7897 |
+|     205 | 0x1ED8      |        7896 |
+|     206 | 0x1ED9      |        7897 |
+|     207 | 0x1EDA      |        7898 |
 |     208 | 0xFFFE471A  |  4294854426 |
 |     209 | 0x8AF36     |      569142 |
 |     210 | 0xFFFFE1C5  |  4294959557 |
 |     211 | 0x0C42      |        3138 |
 |     212 | 0x0050      |          80 |
-|     213 | 0x1EDA      |        7898 |
+|     213 | 0x1EDB      |        7899 |
 |     214 | 0xFFFE3B47  |  4294851399 |
 |     215 | 0x8D638     |      579128 |
 |     216 | 0xFFFFE276  |  4294959734 |
 |     217 | 0x012D      |         301 |
 |     218 | 0x0463      |        1123 |
-|     219 | 0x1EDB      |        7899 |
-|     220 | 0x1EDC      |        7900 |
+|     219 | 0x1EDC      |        7900 |
+|     220 | 0x1EDD      |        7901 |
 |     221 | 0x0028      |          40 |
 |     222 | 0xFFFE499F  |  4294855071 |
 |     223 | 0x8D575     |      578933 |
@@ -331,27 +331,27 @@
 |     234 | 0xFFFFE3BC  |  4294960060 |
 |     235 | 0x0DB0      |        3504 |
 |     236 | 0x007A      |         122 |
-|     237 | 0x1EDD      |        7901 |
-|     238 | 0x1EDE      |        7902 |
-|     239 | 0x1EDF      |        7903 |
-|     240 | 0x1EE0      |        7904 |
-|     241 | 0x1EE1      |        7905 |
-|     242 | 0x1EE2      |        7906 |
-|     243 | 0x1EE3      |        7907 |
-|     244 | 0x1EE4      |        7908 |
-|     245 | 0x1EE5      |        7909 |
+|     237 | 0x1EDE      |        7902 |
+|     238 | 0x1EDF      |        7903 |
+|     239 | 0x1EE0      |        7904 |
+|     240 | 0x1EE1      |        7905 |
+|     241 | 0x1EE2      |        7906 |
+|     242 | 0x1EE3      |        7907 |
+|     243 | 0x1EE4      |        7908 |
+|     244 | 0x1EE5      |        7909 |
+|     245 | 0x1EE6      |        7910 |
 |     246 | 0x03C2      |         962 |
-|     247 | 0x1EE6      |        7910 |
-|     248 | 0x1EE7      |        7911 |
-|     249 | 0x1EE8      |        7912 |
-|     250 | 0x1EE9      |        7913 |
-|     251 | 0x1EEA      |        7914 |
-|     252 | 0x1EEB      |        7915 |
-|     253 | 0x1EEC      |        7916 |
+|     247 | 0x1EE7      |        7911 |
+|     248 | 0x1EE8      |        7912 |
+|     249 | 0x1EE9      |        7913 |
+|     250 | 0x1EEA      |        7914 |
+|     251 | 0x1EEB      |        7915 |
+|     252 | 0x1EEC      |        7916 |
+|     253 | 0x1EED      |        7917 |
 |     254 | 0x038F      |         911 |
-|     255 | 0x1EED      |        7917 |
-|     256 | 0x1EEE      |        7918 |
-|     257 | 0x1EEF      |        7919 |
+|     255 | 0x1EEE      |        7918 |
+|     256 | 0x1EEF      |        7919 |
+|     257 | 0x1EF0      |        7920 |
 |     258 | 0x0064      |         100 |
 |     259 | 0x0005      |           5 |
 |     260 | 0x000A      |          10 |
@@ -466,23 +466,23 @@
 |     369 | 0x1068      |        4200 |
 |     370 | 0x0090      |         144 |
 |     371 | 0x00B4      |         180 |
-|     372 | 0x1D05      |        7429 |
-|     373 | 0x1D06      |        7430 |
-|     374 | 0x1D08      |        7432 |
-|     375 | 0x1D09      |        7433 |
-|     376 | 0x1D0A      |        7434 |
-|     377 | 0x1D0B      |        7435 |
+|     372 | 0x1D06      |        7430 |
+|     373 | 0x1D07      |        7431 |
+|     374 | 0x1D09      |        7433 |
+|     375 | 0x1D0A      |        7434 |
+|     376 | 0x1D0B      |        7435 |
+|     377 | 0x1D0C      |        7436 |
 |     378 | 0x0102      |         258 |
 |     379 | 0x0202      |         514 |
 |     380 | 0x0156      |         342 |
 
 ## String References
 
-- **7703**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7747**: You hear the sound of faint voices mingled with the rushing of the wind...
-- **7767**: What was the title? [The Wind's Words./Sprite in the Breeze./Message on the Wind.]
-- **7801**: There is a strange mound of dirt here...
-- **7802**: You find weapons buried in the ground!
+- **7704**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7748**: You hear the sound of faint voices mingled with the rushing of the wind...
+- **7768**: What was the title? [The Wind's Words./Sprite in the Breeze./Message on the Wind.]
+- **7802**: There is a strange mound of dirt here...
+- **7803**: You find weapons buried in the ground!
 
 ## Events
 
@@ -556,7 +556,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7703*]:
+  1: 0x0003 [0x48] [System] [7704*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0017 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0033
@@ -716,22 +716,22 @@
  20: 0x013B [0x1C] WAIT(15* ticks)
  21: 0x013E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x014F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 23: 0x015E [0x2B] Childerich (ID: 17142516/0x010592F4) [7736*]:
+ 23: 0x015E [0x2B] Childerich (ID: 17142516/0x010592F4) [7737*]:
     → "Huh? Have I heard any voices? The father of some soldier called Romualdo?"
  24: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0166 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=331*
  26: 0x0175 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[331*, 0*]
  27: 0x0186 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 28: 0x0195 [0x2B] Childerich (ID: 17142516/0x010592F4) [7737*]:
+ 28: 0x0195 [0x2B] Childerich (ID: 17142516/0x010592F4) [7738*]:
     → "Ugh, not that lad again. His pappy's been dead for years now. And the deceased don't make a habit of chatting to the living."
  29: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x019D [0x2B] Childerich (ID: 17142516/0x010592F4) [7738*]:
+ 30: 0x019D [0x2B] Childerich (ID: 17142516/0x010592F4) [7739*]:
     → "You think this is the first time I've had someone babble to me about long-lost relatives? It's these mountains--I swear they send people a little strange."
  31: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x01A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
  33: 0x01B4 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [EventEntity, EventEntity], work=331*
  34: 0x01C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 35: 0x01D4 [0x2B] Childerich (ID: 17142516/0x010592F4) [7739*]:
+ 35: 0x01D4 [0x2B] Childerich (ID: 17142516/0x010592F4) [7740*]:
     → "Now let me return to my duties already. Keep your tales for the tavern, civilian."
  36: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x01DC [0x4E] SET_ENTITY_HIDE_FLAG: Show Bhoratz (ID: 17142517/0x010592F5)
@@ -749,14 +749,14 @@
  49: 0x0259 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Bhoratz (ID: 17142517/0x010592F5), tag_num=0x04)
  50: 0x0260 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=331*
  51: 0x026F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 52: 0x0280 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7740*]:
+ 52: 0x0280 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7741*]:
     → "Romualdo's father came through this very spot on his way to lead a team up the mountain. A crumbling handhold on a sheer precipice spelled his doom..."
  53: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0288 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s081" with entities [EventEntity, EventEntity], work=331*
  55: 0x0297 [0x1C] WAIT(30* ticks)
  56: 0x029A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[331*, 0*]
  57: 0x02AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
- 58: 0x02BA [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7741*]:
+ 58: 0x02BA [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7742*]:
     → "You thinking of heading up there yourself? Might want to reconsider that idea--this mountain has taken its fair share of victims."
  59: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x02C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
@@ -766,7 +766,7 @@
  64: 0x02F8 [0x1C] WAIT(120* ticks)
  65: 0x02FB [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [EventEntity, EventEntity], work=331*
  66: 0x030A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 67: 0x031B [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7742*]:
+ 67: 0x031B [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7743*]:
     → "Well, don't say I didn't warn you..."
  68: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0323 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -929,33 +929,33 @@
  14: 0x0415 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0426 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  16: 0x0435 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nage" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 17: 0x0446 [0x48] [System] [7747*]:
+ 17: 0x0446 [0x48] [System] [7748*]:
     → "You hear the sound of faint voices mingled with the rushing of the wind..."
  18: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x044A [0x27] REQ_SET(priority=0x05, entity_id=Bhoratz (ID: 17142517/0x010592F5), tag_num=0x05)
  20: 0x0451 [0x1C] WAIT(30* ticks)
  21: 0x0454 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=331*
  22: 0x0463 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 23: 0x0474 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7748*]:
+ 23: 0x0474 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7749*]:
     → "Many have lost their lives on this cliff."
  24: 0x047B [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x047C [0x2A] GET_REQ_LEVEL(level=5, entity_id=Bhoratz (ID: 17142517/0x010592F5))
  26: 0x0482 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=331*
  27: 0x0491 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 28: 0x04A2 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7749*]:
+ 28: 0x04A2 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7750*]:
     → "I warn all that pass by, but they never listen..."
  29: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x04AA [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=331*
  31: 0x04B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 32: 0x04CA [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7750*]:
+ 32: 0x04CA [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7751*]:
     → "These voices you hear are the wails of the dead. Can you make out the one to which you came to listen?"
  33: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x04D2 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [EventEntity, EventEntity], work=331*
  35: 0x04E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 36: 0x04F2 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7751*]:
+ 36: 0x04F2 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7752*]:
     → "He's saying, "I'm sorry I left you alone.""
  37: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x04FA [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7752*]:
+ 38: 0x04FA [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7753*]:
     → "I think Romualdo would like to know..."
  39: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0502 [0xBA] SET_ENTITY_POSITION(entity_id=Bhoratz (ID: 17142517/0x010592F5), pos_x=427.606*, pos_z=70.146*, pos_y=-43.739*, direction=342.1°*)
@@ -1047,31 +1047,31 @@
  19: 0x061E [0x1C] WAIT(15* ticks)
  20: 0x0621 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  21: 0x0632 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 22: 0x0641 [0x2B] Childerich (ID: 17142516/0x010592F4) [7753*]:
+ 22: 0x0641 [0x2B] Childerich (ID: 17142516/0x010592F4) [7754*]:
     → "Huh? Where's the Galkan soldier?"
  23: 0x0648 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0649 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=331*
  25: 0x0658 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[331*, 0*]
  26: 0x0669 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 27: 0x0678 [0x2B] Childerich (ID: 17142516/0x010592F4) [7754*]:
+ 27: 0x0678 [0x2B] Childerich (ID: 17142516/0x010592F4) [7755*]:
     → "I've got no idea what you're talking about. You were having a conversation with yourself last time you were here. I just figured you'd been "touched" by the mountain."
  28: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0680 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=331*
  30: 0x068F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[331*, 0*]
  31: 0x06A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 32: 0x06AF [0x2B] Childerich (ID: 17142516/0x010592F4) [7755*]:
+ 32: 0x06AF [0x2B] Childerich (ID: 17142516/0x010592F4) [7756*]:
     → "Although...I have heard that a Galka served at this outpost years and years ago."
  33: 0x06B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x06B7 [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=331*
  35: 0x06C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[331*, 0*]
  36: 0x06D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 37: 0x06E6 [0x2B] Childerich (ID: 17142516/0x010592F4) [7756*]:
+ 37: 0x06E6 [0x2B] Childerich (ID: 17142516/0x010592F4) [7757*]:
     → "He was famous for trying to stop people from climbing the mountain. Not that anyone ever listened to him..."
  38: 0x06ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x06EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
  40: 0x06FD [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=331*
  41: 0x070C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 42: 0x071D [0x2B] Childerich (ID: 17142516/0x010592F4) [7757*]:
+ 42: 0x071D [0x2B] Childerich (ID: 17142516/0x010592F4) [7758*]:
     → "Huh. Maybe spirits really do haunt this place and you've met his ghost."
  43: 0x0724 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0725 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1250,7 +1250,7 @@
  23: 0x0812 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  24: 0x0823 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  25: 0x0832 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 26: 0x0841 [0x2B] Childerich (ID: 17142516/0x010592F4) [7759*]:
+ 26: 0x0841 [0x2B] Childerich (ID: 17142516/0x010592F4) [7760*]:
     → "Are you back again? I'm telling you, there's no Galka here anymore."
  27: 0x0848 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0849 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
@@ -1259,12 +1259,12 @@
  31: 0x0878 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "twb1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)]
  32: 0x0885 [0x6E] Childerich (ID: 17142516/0x010592F4) uses emote 22*
  33: 0x088C [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
- 34: 0x0891 [0x2B] Childerich (ID: 17142516/0x010592F4) [7760*]:
+ 34: 0x0891 [0x2B] Childerich (ID: 17142516/0x010592F4) [7761*]:
     → "What? You say the whole thing was an act? You really are one boulder short of an avalanche..."
  35: 0x0898 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0899 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [EventEntity, EventEntity], work=331*
  37: 0x08A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 38: 0x08B9 [0x2B] ??? (ID: 17142518/0x010592F6) [7761*]:
+ 38: 0x08B9 [0x2B] ??? (ID: 17142518/0x010592F6) [7762*]:
     → "Childerich!"
  39: 0x08C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x08C1 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [EventEntity, EventEntity], work=331*
@@ -1272,7 +1272,7 @@
  42: 0x08E1 [0x6E] Childerich (ID: 17142516/0x010592F4) uses emote 29*
  43: 0x08E8 [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
  44: 0x08ED [0x7C] Childerich (ID: 17142516/0x010592F4)->Render.Flags2 |= 0x00
- 45: 0x08F3 [0x2B] Childerich (ID: 17142516/0x010592F4) [7762*]:
+ 45: 0x08F3 [0x2B] Childerich (ID: 17142516/0x010592F4) [7763*]:
     → "!!!"
  46: 0x08FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x08FB [0x7C] Childerich (ID: 17142516/0x010592F4)->Render.Flags2 |= 0x01
@@ -1280,7 +1280,7 @@
  49: 0x0910 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[331*, 0*]
  50: 0x0921 [0x4B] UPDATE_ENTITY_YAW(entity=Childerich (ID: 17142516/0x010592F4), yaw=1.4°*)
  51: 0x0928 [0x1C] WAIT(60* ticks)
- 52: 0x092B [0x2B] Childerich (ID: 17142516/0x010592F4) [7763*]:
+ 52: 0x092B [0x2B] Childerich (ID: 17142516/0x010592F4) [7764*]:
     → "I...I'll be right there!"
  53: 0x0932 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0933 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [EventEntity, EventEntity], work=331*
@@ -1288,7 +1288,7 @@
  56: 0x0953 [0x4A] Childerich (ID: 17142516/0x010592F4) looks at LocalPlayer
  57: 0x095C [0x1C] WAIT(30* ticks)
  58: 0x095F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 59: 0x096E [0x2B] Childerich (ID: 17142516/0x010592F4) [7764*]:
+ 59: 0x096E [0x2B] Childerich (ID: 17142516/0x010592F4) [7765*]:
     → "Listen, I've got work to do. Why don't you go chase after moonbeams or something?"
  60: 0x0975 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0976 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
@@ -1298,7 +1298,7 @@
  65: 0x09A8 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [EventEntity, EventEntity], work=331*
  66: 0x09B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [EventEntity, EventEntity], work=[331*, 0*]
  67: 0x09C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
- 68: 0x09D7 [0x2B] Childerich (ID: 17142516/0x010592F4) [7765*]:
+ 68: 0x09D7 [0x2B] Childerich (ID: 17142516/0x010592F4) [7766*]:
     → "Not going to budge, are you? Then where's your proof that we made all this up?"
  69: 0x09DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x09DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
@@ -1307,10 +1307,10 @@
  73: 0x0A0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[331*, 0*]
  74: 0x0A1B [0x6E] Childerich (ID: 17142516/0x010592F4) uses emote 22*
  75: 0x0A22 [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
- 76: 0x0A27 [0x2B] Childerich (ID: 17142516/0x010592F4) [7766*]:
+ 76: 0x0A27 [0x2B] Childerich (ID: 17142516/0x010592F4) [7767*]:
     → "You say there was a script for our little act? And it even had a title? Pfft, and what was the title of this phantom play of yours?"
  77: 0x0A2E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x0A2F [0x24] CREATE_DIALOG(message_id=7767*, default_option=0*, option_flags=0*)
+ 78: 0x0A2F [0x24] CREATE_DIALOG(message_id=7768*, default_option=0*, option_flags=0*)
     → "What was the title? [The Wind's Words./Sprite in the Breeze./Message on the Wind.]"
  79: 0x0A36 [0x25] WAIT_DIALOG_SELECT()
  80: 0x0A37 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A99
@@ -1318,7 +1318,7 @@
  82: 0x0A4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [EventEntity, EventEntity], work=[331*, 0*]
  83: 0x0A5F [0x6E] Childerich (ID: 17142516/0x010592F4) uses emote 26*
  84: 0x0A66 [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
- 85: 0x0A6B [0x2B] Childerich (ID: 17142516/0x010592F4) [7768*]:
+ 85: 0x0A6B [0x2B] Childerich (ID: 17142516/0x010592F4) [7769*]:
     → ""The Wind's Words"? That's awful. Give me some credit, will you?"
  86: 0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0A73 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=331*
@@ -1330,18 +1330,18 @@ SUBROUTINE_0AFB:
  91: 0x0B02 [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
  92: 0x0B07 [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [EventEntity, EventEntity], work=331*
  93: 0x0B16 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[331*, 0*]
- 94: 0x0B27 [0x2B] Childerich (ID: 17142516/0x010592F4) [7770*]:
+ 94: 0x0B27 [0x2B] Childerich (ID: 17142516/0x010592F4) [7771*]:
     → "H-how did you...!?"
  95: 0x0B2E [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0B2F [0x6E] Childerich (ID: 17142516/0x010592F4) uses emote 19*
  97: 0x0B36 [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
- 98: 0x0B3B [0x2B] Childerich (ID: 17142516/0x010592F4) [7771*]:
+ 98: 0x0B3B [0x2B] Childerich (ID: 17142516/0x010592F4) [7772*]:
     → "Fine. You got me."
  99: 0x0B42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0B43 [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [EventEntity, EventEntity], work=331*
 101: 0x0B52 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[331*, 0*]
 102: 0x0B63 [0x27] REQ_SET(priority=0x05, entity_id=Childerich (ID: 17142516/0x010592F4), tag_num=0x07)
-103: 0x0B6A [0x2B] Childerich (ID: 17142516/0x010592F4) [7772*]:
+103: 0x0B6A [0x2B] Childerich (ID: 17142516/0x010592F4) [7773*]:
     → "The Galka you met was no kind of ghost. He's a soldier stationed here, just like the rest of us."
 104: 0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0B72 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Childerich (ID: 17142516/0x010592F4))
@@ -1350,15 +1350,15 @@ SUBROUTINE_0AFB:
 108: 0x0B98 [0x4A] Childerich (ID: 17142516/0x010592F4) looks at LocalPlayer
 109: 0x0BA1 [0x1C] WAIT(30* ticks)
 110: 0x0BA4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
-111: 0x0BB3 [0x2B] Childerich (ID: 17142516/0x010592F4) [7773*]:
+111: 0x0BB3 [0x2B] Childerich (ID: 17142516/0x010592F4) [7774*]:
     → "You heard the winds that sound like the wails of the dead, right? You wouldn't believe how many soldiers we get up here thinking it's the voice of this deceased friend or that departed uncle..."
 112: 0x0BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x0BBB [0x2B] Childerich (ID: 17142516/0x010592F4) [7774*]:
+113: 0x0BBB [0x2B] Childerich (ID: 17142516/0x010592F4) [7775*]:
     → "But these people have to learn to let go. We're in the middle of a war here, and a soldier that can't focus is a dead soldier."
 114: 0x0BC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0BC3 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=331*
 116: 0x0BD2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[331*, 0*]
-117: 0x0BE3 [0x2B] Childerich (ID: 17142516/0x010592F4) [7775*]:
+117: 0x0BE3 [0x2B] Childerich (ID: 17142516/0x010592F4) [7776*]:
     → "That's why we decided to make up this little play. I hope you understand why you need to keep it to yourself."
 118: 0x0BEA [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0BEB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
@@ -1381,7 +1381,7 @@ SUBROUTINE_0AFB:
 136: 0x0C65 [0x1C] WAIT(30* ticks)
 137: 0x0C68 [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [EventEntity, EventEntity], work=331*
 138: 0x0C77 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[331*, 0*]
-139: 0x0C88 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7776*]:
+139: 0x0C88 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7777*]:
     → "Aw, you gave the game away?"
 140: 0x0C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0C90 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Bhoratz (ID: 17142517/0x010592F5))
@@ -1389,7 +1389,7 @@ SUBROUTINE_0AFB:
 143: 0x0C9F [0x1C] WAIT(30* ticks)
 144: 0x0CA2 [0x52] END_LOAD_SCHEDULER: End scheduler "s078" with entities [EventEntity, EventEntity], work=331*
 145: 0x0CB1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [EventEntity, EventEntity], work=[331*, 0*]
-146: 0x0CC2 [0x2B] Childerich (ID: 17142516/0x010592F4) [7777*]:
+146: 0x0CC2 [0x2B] Childerich (ID: 17142516/0x010592F4) [7778*]:
     → "Wha-!? How did you get over there?"
 147: 0x0CC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0CCA [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-313.385*, pos_z=-514.053*, pos_y=16.273*, direction=15.5°*)
@@ -1399,31 +1399,31 @@ SUBROUTINE_0AFB:
 152: 0x0CF4 [0x1C] WAIT(30* ticks)
 153: 0x0CF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[331*, 0*]
 154: 0x0D08 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
-155: 0x0D17 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7778*]:
+155: 0x0D17 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7779*]:
     → "What do you mean? I just got back from my patrol. What's wrong? You look like you've seen a ghost."
 156: 0x0D1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0D1F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
 158: 0x0D2E [0x27] REQ_SET(priority=0x05, entity_id=Childerich (ID: 17142516/0x010592F4), tag_num=0x08)
 159: 0x0D35 [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=331*
 160: 0x0D44 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [EventEntity, EventEntity], work=[331*, 0*]
-161: 0x0D55 [0x2B] Childerich (ID: 17142516/0x010592F4) [7779*]:
+161: 0x0D55 [0x2B] Childerich (ID: 17142516/0x010592F4) [7780*]:
     → "But...you were just in the cabin! I was talking to you!"
 162: 0x0D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0D5D [0x2A] GET_REQ_LEVEL(level=5, entity_id=Childerich (ID: 17142516/0x010592F4))
 164: 0x0D63 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
-165: 0x0D72 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7780*]:
+165: 0x0D72 [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7781*]:
     → "I told you, I've been on patrol up the mountain."
 166: 0x0D79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0D7A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
 168: 0x0D89 [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [EventEntity, EventEntity], work=331*
 169: 0x0D98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[331*, 0*]
-170: 0x0DA9 [0x2B] Childerich (ID: 17142516/0x010592F4) [7781*]:
+170: 0x0DA9 [0x2B] Childerich (ID: 17142516/0x010592F4) [7782*]:
     → "Then who in Altana's name was I just talking to?"
 171: 0x0DB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x0DB1 [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=331*
 173: 0x0DC0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[331*, 0*]
 174: 0x0DD1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
-175: 0x0DE0 [0x2B] Childerich (ID: 17142516/0x010592F4) [7782*]:
+175: 0x0DE0 [0x2B] Childerich (ID: 17142516/0x010592F4) [7783*]:
     → "I see what's going on here. You're trying out some new act on me, right? Right?"
 176: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0DE8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [Childerich (ID: 17142516/0x010592F4), Childerich (ID: 17142516/0x010592F4)], work=9*
@@ -1431,7 +1431,7 @@ SUBROUTINE_0AFB:
 179: 0x0E06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [EventEntity, EventEntity], work=[331*, 0*]
 180: 0x0E17 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17142520/0x010592F8)
 181: 0x0E1D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
-182: 0x0E2C [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7783*]:
+182: 0x0E2C [0x2B] Bhoratz (ID: 17142517/0x010592F5) [7784*]:
     → "Act? The only one acting is you. And strangely, at that."
 183: 0x0E33 [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0E34 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Bhoratz (ID: 17142517/0x010592F5), Bhoratz (ID: 17142517/0x010592F5)], work=69*
@@ -1439,7 +1439,7 @@ SUBROUTINE_0AFB:
 186: 0x0E52 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [EventEntity, EventEntity], work=[331*, 0*]
 187: 0x0E63 [0x6E] Childerich (ID: 17142516/0x010592F4) uses emote 29*
 188: 0x0E6A [0x99] Wait for Childerich (ID: 17142516/0x010592F4) animation to complete
-189: 0x0E6F [0x2B] Childerich (ID: 17142516/0x010592F4) [7784*]:
+189: 0x0E6F [0x2B] Childerich (ID: 17142516/0x010592F4) [7785*]:
     → "No! I swear I'm not acting! Come on, tell me this is some trick!"
 190: 0x0E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x0E77 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1523,30 +1523,30 @@ SUBROUTINE_0AFB:
   5: 0x0EDE [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[5]
   6: 0x0EE3 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[6]
   7: 0x0EE8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0EFB
-  8: 0x0EF0 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+  8: 0x0EF0 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
   9: 0x0EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0EF8 [0x01] GOTO 0x10BF
  11: 0x0EFB [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x1057
  12: 0x0F03 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0F16
- 13: 0x0F0B [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+ 13: 0x0F0B [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
  14: 0x0F12 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0F13 [0x01] GOTO 0x1054
  16: 0x0F16 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0FB5
  17: 0x0F1E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0F31
- 18: 0x0F26 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+ 18: 0x0F26 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
  19: 0x0F2D [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0F2E [0x01] GOTO 0x0FB2
  21: 0x0F31 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0F5C
  22: 0x0F39 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0F51
  23: 0x0F41 [0x03] Work_Zone[2] = 0*
- 24: 0x0F46 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
+ 24: 0x0F46 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7790*]:
     → "They are truly worthy of great praise, the people I have come to see in my time here. With their industriousness and dedication they will slay countless beastmen. Even more than myself."
  25: 0x0F4D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0F4E [0x01] GOTO 0x0F59
- 27: 0x0F51 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+ 27: 0x0F51 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
  28: 0x0F58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1555,11 +1555,11 @@ SUBROUTINE_0F59:
  30: 0x0F5C [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0F87
  31: 0x0F64 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0F7C
  32: 0x0F6C [0x03] Work_Zone[2] = 1*
- 33: 0x0F71 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
+ 33: 0x0F71 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7790*]:
     → "They are truly worthy of great praise, the people I have come to see in my time here. With their industriousness and dedication they will slay countless beastmen. Even more than myself."
  34: 0x0F78 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0F79 [0x01] GOTO 0x0F84
- 36: 0x0F7C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+ 36: 0x0F7C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
  37: 0x0F83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1568,11 +1568,11 @@ SUBROUTINE_0F84:
  39: 0x0F87 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0FB2
  40: 0x0F8F [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0FA7
  41: 0x0F97 [0x03] Work_Zone[2] = 2*
- 42: 0x0F9C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
+ 42: 0x0F9C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7790*]:
     → "They are truly worthy of great praise, the people I have come to see in my time here. With their industriousness and dedication they will slay countless beastmen. Even more than myself."
  43: 0x0FA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0FA4 [0x01] GOTO 0x0FAF
- 45: 0x0FA7 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+ 45: 0x0FA7 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
  46: 0x0FAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1583,18 +1583,18 @@ SUBROUTINE_0FB2:
  48: 0x0FB2 [0x01] GOTO 0x1054
  49: 0x0FB5 [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x1054
  50: 0x0FBD [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0FD0
- 51: 0x0FC5 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7788*]:
+ 51: 0x0FC5 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7789*]:
     → "I'm just a little tired, is all. I do not require your concern."
  52: 0x0FCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0FCD [0x01] GOTO 0x1051
  54: 0x0FD0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0FFB
  55: 0x0FD8 [0x03] Work_Zone[2] = 0*
  56: 0x0FDD [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0FF0
- 57: 0x0FE5 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7791*]:
+ 57: 0x0FE5 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7792*]:
     → "It has been ages since the races of Vana'diel began to worship the line of the wyrms. But you, adventurer, seem to be...different, somehow. Know this. That those who pay proper homage to the wyrms will not go unrewarded."
  58: 0x0FEC [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0FED [0x01] GOTO 0x0FF8
- 60: 0x0FF0 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7790*]:
+ 60: 0x0FF0 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7791*]:
     → "And what is this? "medicine," you say? Hmph, most novel. The inventiveness of your kind will never cease to amaze me."
  61: 0x0FF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1603,11 +1603,11 @@ SUBROUTINE_0FF8:
  63: 0x0FFB [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x1026
  64: 0x1003 [0x03] Work_Zone[2] = 1*
  65: 0x1008 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x101B
- 66: 0x1010 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7791*]:
+ 66: 0x1010 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7792*]:
     → "It has been ages since the races of Vana'diel began to worship the line of the wyrms. But you, adventurer, seem to be...different, somehow. Know this. That those who pay proper homage to the wyrms will not go unrewarded."
  67: 0x1017 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x1018 [0x01] GOTO 0x1023
- 69: 0x101B [0x2B] Areuhat (ID: 17142459/0x010592BB) [7790*]:
+ 69: 0x101B [0x2B] Areuhat (ID: 17142459/0x010592BB) [7791*]:
     → "And what is this? "medicine," you say? Hmph, most novel. The inventiveness of your kind will never cease to amaze me."
  70: 0x1022 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1616,11 +1616,11 @@ SUBROUTINE_1023:
  72: 0x1026 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x1051
  73: 0x102E [0x03] Work_Zone[2] = 2*
  74: 0x1033 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x1046
- 75: 0x103B [0x2B] Areuhat (ID: 17142459/0x010592BB) [7791*]:
+ 75: 0x103B [0x2B] Areuhat (ID: 17142459/0x010592BB) [7792*]:
     → "It has been ages since the races of Vana'diel began to worship the line of the wyrms. But you, adventurer, seem to be...different, somehow. Know this. That those who pay proper homage to the wyrms will not go unrewarded."
  76: 0x1042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x1043 [0x01] GOTO 0x104E
- 78: 0x1046 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7790*]:
+ 78: 0x1046 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7791*]:
     → "And what is this? "medicine," you say? Hmph, most novel. The inventiveness of your kind will never cease to amaze me."
  79: 0x104D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1634,31 +1634,31 @@ SUBROUTINE_1054:
  82: 0x1054 [0x01] GOTO 0x10BF
  83: 0x1057 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x107F
  84: 0x105F [0x03] Work_Zone[2] = 17397*
- 85: 0x1064 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7792*]:
+ 85: 0x1064 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7793*]:
     → "Is this... Could it be... $0!? For me!?"
  86: 0x106B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x106C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7793*]:
+ 87: 0x106C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7794*]:
     → "It would seem these lands may still hold some allure yet. Very well, I accept your offering."
  88: 0x1073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x1074 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7794*]:
+ 89: 0x1074 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7795*]:
     → "You are a truly righteous soul, <Player>. That you are willing to continue to show such devoutness even now, when not called for... It moves me, deeply. You have earned my respect, and my hand. And you shall have them both!"
  90: 0x107B [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x107C [0x01] GOTO 0x10BF
  92: 0x107F [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x109F
  93: 0x1087 [0x03] Work_Zone[2] = 17397*
- 94: 0x108C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7792*]:
+ 94: 0x108C [0x2B] Areuhat (ID: 17142459/0x010592BB) [7793*]:
     → "Is this... Could it be... $0!? For me!?"
  95: 0x1093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x1094 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7793*]:
+ 96: 0x1094 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7794*]:
     → "It would seem these lands may still hold some allure yet. Very well, I accept your offering."
  97: 0x109B [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x109C [0x01] GOTO 0x10BF
  99: 0x109F [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x10BF
 100: 0x10A7 [0x03] Work_Zone[2] = 17001*
-101: 0x10AC [0x2B] Areuhat (ID: 17142459/0x010592BB) [7795*]:
+101: 0x10AC [0x2B] Areuhat (ID: 17142459/0x010592BB) [7796*]:
     → "Hm, what is this? You come bearing $0? Hmph, I should have expected as much."
 102: 0x10B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x10B4 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7796*]:
+103: 0x10B4 [0x2B] Areuhat (ID: 17142459/0x010592BB) [7797*]:
     → "Hear me well, mortal, for so easily are your kind distracted by such superficialities. Know this, that larger does not always equate with better. And that sometimes, the best of things come in the smallest of sizes."
 104: 0x10BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x10BC [0x01] GOTO 0x10BF
@@ -1789,14 +1789,14 @@ SUBROUTINE_10BF:
  20: 0x115F [0x1C] WAIT(15* ticks)
  21: 0x1162 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x1173 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 23: 0x1182 [0x48] [System] [7801*]:
+ 23: 0x1182 [0x48] [System] [7802*]:
     → "There is a strange mound of dirt here..."
  24: 0x1185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1186 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x11)
  26: 0x118D [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [EventEntity, EventEntity], work=333*
  27: 0x119C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[333*, 0*]
  28: 0x11AD [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)
- 29: 0x11B3 [0x48] [System] [7802*]:
+ 29: 0x11B3 [0x48] [System] [7803*]:
     → "You find weapons buried in the ground!"
  30: 0x11B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x11B7 [0x27] REQ_SET(priority=0x05, entity_id=Werei (ID: 17142525/0x010592FD), tag_num=0x02)
@@ -1804,7 +1804,7 @@ SUBROUTINE_10BF:
  33: 0x11C1 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=333*
  34: 0x11D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[333*, 0*]
  35: 0x11E1 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x12)
- 36: 0x11E8 [0x2B] Werei (ID: 17142525/0x010592FD) [7803*]:
+ 36: 0x11E8 [0x2B] Werei (ID: 17142525/0x010592FD) [7804*]:
     → "What are you doing here?"
  37: 0x11EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x11F0 [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)
@@ -1814,14 +1814,14 @@ SUBROUTINE_10BF:
  42: 0x1206 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=333*
  43: 0x1215 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [EventEntity, EventEntity], work=[333*, 0*]
  44: 0x1226 [0x27] REQ_SET(priority=0x05, entity_id=Werei (ID: 17142525/0x010592FD), tag_num=0x03)
- 45: 0x122D [0x2B] Werei (ID: 17142525/0x010592FD) [7804*]:
+ 45: 0x122D [0x2B] Werei (ID: 17142525/0x010592FD) [7805*]:
     → "Keep your hands off those weapons!"
  46: 0x1234 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1235 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Werei (ID: 17142525/0x010592FD))
  48: 0x123B [0x2A] GET_REQ_LEVEL(level=5, entity_id=Gumbah (ID: 17142526/0x010592FE))
  49: 0x1241 [0x52] END_LOAD_SCHEDULER: End scheduler "s097" with entities [EventEntity, EventEntity], work=333*
  50: 0x1250 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[333*, 0*]
- 51: 0x1261 [0x2B] Gumbah (ID: 17142526/0x010592FE) [7805*]:
+ 51: 0x1261 [0x2B] Gumbah (ID: 17142526/0x010592FE) [7806*]:
     → "You again. How did you find out about this place...?"
  52: 0x1268 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x1269 [0x4E] SET_ENTITY_HIDE_FLAG: Show Dieter (ID: 17142527/0x010592FF)
@@ -1845,7 +1845,7 @@ SUBROUTINE_10BF:
  71: 0x12F2 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=257.998*, pos_z=514.992*, pos_y=33.299*, direction=243.2°*)
  72: 0x12FF [0x80] LOAD_WAIT(entity=LocalPlayer)
  73: 0x1304 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Dieter (ID: 17142527/0x010592FF))
- 74: 0x130A [0x2B] Dieter (ID: 17142527/0x010592FF) [7806*]:
+ 74: 0x130A [0x2B] Dieter (ID: 17142527/0x010592FF) [7807*]:
     → "So, the intelligence reports were true..."
  75: 0x1311 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x1312 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [EventEntity, EventEntity], work=333*
@@ -1855,14 +1855,14 @@ SUBROUTINE_10BF:
  80: 0x1344 [0x4A] Gumbah (ID: 17142526/0x010592FE) looks at Dieter (ID: 17142527/0x010592FF)
  81: 0x134D [0x4A] LocalPlayer looks at Dieter (ID: 17142527/0x010592FF)
  82: 0x1356 [0x1C] WAIT(30* ticks)
- 83: 0x1359 [0x2B] Werei (ID: 17142525/0x010592FD) [7807*]:
+ 83: 0x1359 [0x2B] Werei (ID: 17142525/0x010592FD) [7808*]:
     → "Now what?"
  84: 0x1360 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x1361 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "crs0" with entities [Dieter (ID: 17142527/0x010592FF), Dieter (ID: 17142527/0x010592FF)], work=862*
  86: 0x1370 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [EventEntity, EventEntity], work=333*
  87: 0x137F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[333*, 0*]
  88: 0x1390 [0x1C] WAIT(60* ticks)
- 89: 0x1393 [0x2B] Dieter (ID: 17142527/0x010592FF) [7808*]:
+ 89: 0x1393 [0x2B] Dieter (ID: 17142527/0x010592FF) [7809*]:
     → "Under the authority of the military police, you are under arrest on suspicion of inciting civil unrest. I suggest you come quietly."
  90: 0x139A [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x139B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "crs0" with entities [Dieter (ID: 17142527/0x010592FF), Dieter (ID: 17142527/0x010592FF)]
@@ -1874,30 +1874,30 @@ SUBROUTINE_10BF:
  97: 0x13E3 [0x4A] Unnamed NPC (ID: 17142529/0x01059301) looks at Werei (ID: 17142525/0x010592FD)
  98: 0x13EC [0x79] Gumbah (ID: 17142526/0x010592FE) looks at Werei (ID: 17142525/0x010592FD) (Basic look)
  99: 0x13F6 [0x1C] WAIT(60* ticks)
-100: 0x13F9 [0x2B] Gumbah (ID: 17142526/0x010592FE) [7809*]:
+100: 0x13F9 [0x2B] Gumbah (ID: 17142526/0x010592FE) [7810*]:
     → "Looks like they've had us followed, Werei."
 101: 0x1400 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x1401 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=333*
 103: 0x1410 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[333*, 0*]
 104: 0x1421 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Werei (ID: 17142525/0x010592FD), Werei (ID: 17142525/0x010592FD)], work=69*
 105: 0x1430 [0x79] Gumbah (ID: 17142526/0x010592FE) looks at Dieter (ID: 17142527/0x010592FF) (Basic look)
-106: 0x143A [0x2B] Werei (ID: 17142525/0x010592FD) [7810*]:
+106: 0x143A [0x2B] Werei (ID: 17142525/0x010592FD) [7811*]:
     → "On what grounds? We've done nothing wrong."
 107: 0x1441 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x1442 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Werei (ID: 17142525/0x010592FD), Werei (ID: 17142525/0x010592FD)], work=69*
 109: 0x1451 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=333*
 110: 0x1460 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[333*, 0*]
 111: 0x1471 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Dieter (ID: 17142527/0x010592FF), Dieter (ID: 17142527/0x010592FF)], work=9*
-112: 0x1480 [0x2B] Dieter (ID: 17142527/0x010592FF) [7811*]:
+112: 0x1480 [0x2B] Dieter (ID: 17142527/0x010592FF) [7812*]:
     → "I didn't want to believe the rumors... But I can't dispute the evidence before my own eyes. You'll have a chance to argue your innocence back in Bastok."
 113: 0x1487 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x1488 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Dieter (ID: 17142527/0x010592FF), Dieter (ID: 17142527/0x010592FF)], work=9*
 115: 0x1497 [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [EventEntity, EventEntity], work=333*
 116: 0x14A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[333*, 0*]
-117: 0x14B7 [0x2B] Werei (ID: 17142525/0x010592FD) [7812*]:
+117: 0x14B7 [0x2B] Werei (ID: 17142525/0x010592FD) [7813*]:
     → "It might be best to hold our tongues for now."
 118: 0x14BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x14BF [0x2B] Gumbah (ID: 17142526/0x010592FE) [7813*]:
+119: 0x14BF [0x2B] Gumbah (ID: 17142526/0x010592FE) [7814*]:
     → "I agree, Werei."
 120: 0x14C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x14C7 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1914,7 +1914,7 @@ SUBROUTINE_10BF:
 132: 0x152E [0x4A] Dieter (ID: 17142527/0x010592FF) looks at LocalPlayer
 133: 0x1537 [0x1C] WAIT(30* ticks)
 134: 0x153A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Dieter (ID: 17142527/0x010592FF), Dieter (ID: 17142527/0x010592FF)], work=9*
-135: 0x1549 [0x2B] Dieter (ID: 17142527/0x010592FF) [7814*]:
+135: 0x1549 [0x2B] Dieter (ID: 17142527/0x010592FF) [7815*]:
     → "You're the informant? Excellent work, soldier."
 136: 0x1550 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x1551 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2096,7 +2096,7 @@ SUBROUTINE_10BF:
  35: 0x16C3 [0x1C] WAIT(150* ticks)
  36: 0x16C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=335*
  37: 0x16D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[335*, 0*]
- 38: 0x16E6 [0x2B] Annika (ID: 17142564/0x01059324) [7888*]:
+ 38: 0x16E6 [0x2B] Annika (ID: 17142564/0x01059324) [7889*]:
     → "This place never changes, does it?"
  39: 0x16ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x16EE [0x2A] GET_REQ_LEVEL(level=5, entity_id=Laila (ID: 17142563/0x01059323))
@@ -2104,7 +2104,7 @@ SUBROUTINE_10BF:
  42: 0x16FA [0x52] END_LOAD_SCHEDULER: End scheduler "s093" with entities [EventEntity, EventEntity], work=335*
  43: 0x1709 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s094" with entities [EventEntity, EventEntity], work=[335*, 0*]
  44: 0x171A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 45: 0x1729 [0x2B] Annika (ID: 17142564/0x01059324) [7889*]:
+ 45: 0x1729 [0x2B] Annika (ID: 17142564/0x01059324) [7890*]:
     → "I've been fond of this little sanctuary since I was a child. Dancing here makes me happy and feel at peace with myself. And what's more..."
  46: 0x1730 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1731 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
@@ -2128,7 +2128,7 @@ SUBROUTINE_10BF:
  65: 0x17BF [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [EventEntity, EventEntity], work=335*
  66: 0x17CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [EventEntity, EventEntity], work=[335*, 0*]
  67: 0x17DF [0x4A] Unnamed NPC (ID: 17142565/0x01059325) looks at Laila (ID: 17142563/0x01059323)
- 68: 0x17E8 [0x2B] Annika (ID: 17142564/0x01059324) [7890*]:
+ 68: 0x17E8 [0x2B] Annika (ID: 17142564/0x01059324) [7891*]:
     → "There are pixies here to welcome you. Laila, will you dance for me?"
  69: 0x17EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x17F0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "dan1" with entities [Laila (ID: 17142563/0x01059323), Laila (ID: 17142563/0x01059323)], work=1277*
@@ -2149,17 +2149,17 @@ SUBROUTINE_10BF:
  85: 0x1897 [0x6E] Annika (ID: 17142564/0x01059324) uses emote 13*
  86: 0x189E [0x99] Wait for Annika (ID: 17142564/0x01059324) animation to complete
  87: 0x18A3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 88: 0x18B2 [0x2B] Annika (ID: 17142564/0x01059324) [7891*]:
+ 88: 0x18B2 [0x2B] Annika (ID: 17142564/0x01059324) [7892*]:
     → "That was beautiful. I'm very proud of you, Laila."
  89: 0x18B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x18BA [0x1C] WAIT(30* ticks)
  91: 0x18BD [0x52] END_LOAD_SCHEDULER: End scheduler "s098" with entities [EventEntity, EventEntity], work=335*
  92: 0x18CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[335*, 0*]
  93: 0x18DD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 94: 0x18EC [0x2B] Annika (ID: 17142564/0x01059324) [7892*]:
+ 94: 0x18EC [0x2B] Annika (ID: 17142564/0x01059324) [7893*]:
     → "You've mastered dancing technique, as well as our own style--the Brilioth style which has its roots in battle."
  95: 0x18F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x18F4 [0x2B] Annika (ID: 17142564/0x01059324) [7893*]:
+ 96: 0x18F4 [0x2B] Annika (ID: 17142564/0x01059324) [7894*]:
     → "I've taught you since you were but a tiny babe. There's nothing more I can teach you of technique or style."
  97: 0x18FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x18FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
@@ -2168,7 +2168,7 @@ SUBROUTINE_10BF:
 101: 0x192B [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17142565/0x01059325), tag_num=0x04)
 102: 0x1932 [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17142566/0x01059326), tag_num=0x04)
 103: 0x1939 [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17142567/0x01059327), tag_num=0x04)
-104: 0x1940 [0x2B] Annika (ID: 17142564/0x01059324) [7894*]:
+104: 0x1940 [0x2B] Annika (ID: 17142564/0x01059324) [7895*]:
     → "The next thing you must learn is the joy of dancing. For some time, you were troubled and unsure, and even considered parting with dance. But on the day you ran away from home, you came back a new person, filled with life and enthusiasm."
 105: 0x1947 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x1948 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Unnamed NPC (ID: 17142565/0x01059325))
@@ -2180,7 +2180,7 @@ SUBROUTINE_10BF:
 112: 0x1989 [0x1C] WAIT(15* ticks)
 113: 0x198C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "uto0" with entities [Unnamed NPC (ID: 17142567/0x01059327), Unnamed NPC (ID: 17142567/0x01059327)], work=1324*
 114: 0x199B [0x79] Annika (ID: 17142564/0x01059324) looks at Unnamed NPC (ID: 17142565/0x01059325) (Basic look)
-115: 0x19A5 [0x2B] Annika (ID: 17142564/0x01059324) [7895*]:
+115: 0x19A5 [0x2B] Annika (ID: 17142564/0x01059324) [7896*]:
     → "Well, well, it looks like you've gained quite a few admirers. That just goes to show how much you've improved."
 116: 0x19AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x19AD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "uto0" with entities [Unnamed NPC (ID: 17142567/0x01059327), Unnamed NPC (ID: 17142567/0x01059327)]
@@ -2191,7 +2191,7 @@ SUBROUTINE_10BF:
 122: 0x19E7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "def0" with entities [Unnamed NPC (ID: 17142567/0x01059327), Unnamed NPC (ID: 17142567/0x01059327)], work=1324*
 123: 0x19F6 [0x6B] STOP_AND_IDLE: Unnamed NPC (ID: 17142565/0x01059325) stops current action and resets to idle (animation="idl0")
 124: 0x19FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
-125: 0x1A0E [0x2B] Annika (ID: 17142564/0x01059324) [7896*]:
+125: 0x1A0E [0x2B] Annika (ID: 17142564/0x01059324) [7897*]:
     → "The time has come for me to teach you the true essence of dance..."
 126: 0x1A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x1A16 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
@@ -2200,7 +2200,7 @@ SUBROUTINE_10BF:
 130: 0x1A45 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17142565/0x01059325), tag_num=0x05)
 131: 0x1A4C [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17142566/0x01059326), tag_num=0x05)
 132: 0x1A53 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17142567/0x01059327), tag_num=0x05)
-133: 0x1A5A [0x2B] Annika (ID: 17142564/0x01059324) [7897*]:
+133: 0x1A5A [0x2B] Annika (ID: 17142564/0x01059324) [7898*]:
     → "!?"
 134: 0x1A61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x1A62 [0x2F] Unnamed NPC (ID: 17142568/0x01059328)->Render.Flags0 &= ~0x80000 // Bit 19
@@ -2217,7 +2217,7 @@ SUBROUTINE_10BF:
 146: 0x1AA7 [0x52] END_LOAD_SCHEDULER: End scheduler "s103" with entities [EventEntity, EventEntity], work=335*
 147: 0x1AB6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s104" with entities [EventEntity, EventEntity], work=[335*, 0*]
 148: 0x1AC7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aww0" with entities [Laila (ID: 17142563/0x01059323), Laila (ID: 17142563/0x01059323)], work=80*
-149: 0x1AD6 [0x2B] Laila (ID: 17142563/0x01059323) [7898*]:
+149: 0x1AD6 [0x2B] Laila (ID: 17142563/0x01059323) [7899*]:
     → "Mother!"
 150: 0x1ADD [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x1ADE [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 250*
@@ -2237,7 +2237,7 @@ SUBROUTINE_10BF:
 165: 0x1B49 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s106" with entities [EventEntity, EventEntity], work=[335*, 0*]
 166: 0x1B5A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bton" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=1123*
 167: 0x1B69 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bton" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)]
-168: 0x1B76 [0x2B] Annika (ID: 17142564/0x01059324) [7899*]:
+168: 0x1B76 [0x2B] Annika (ID: 17142564/0x01059324) [7900*]:
     → "I promised myself never to dance in battle again... But I guess I have no choice."
 169: 0x1B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x1B7E [0x52] END_LOAD_SCHEDULER: End scheduler "s106" with entities [EventEntity, EventEntity], work=335*
@@ -2248,7 +2248,7 @@ SUBROUTINE_10BF:
 175: 0x1BB1 [0x52] END_LOAD_SCHEDULER: End scheduler "s107" with entities [EventEntity, EventEntity], work=335*
 176: 0x1BC0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s108" with entities [EventEntity, EventEntity], work=[335*, 0*]
 177: 0x1BD1 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x13)
-178: 0x1BD8 [0x2B] Annika (ID: 17142564/0x01059324) [7900*]:
+178: 0x1BD8 [0x2B] Annika (ID: 17142564/0x01059324) [7901*]:
     → "...!?"
 179: 0x1BDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x1BE0 [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)
@@ -2427,7 +2427,7 @@ SUBROUTINE_10BF:
  25: 0x1D38 [0x1C] WAIT(15* ticks)
  26: 0x1D3B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  27: 0x1D4C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
- 28: 0x1D5B [0x2B] Laila (ID: 17142563/0x01059323) [7901*]:
+ 28: 0x1D5B [0x2B] Laila (ID: 17142563/0x01059323) [7902*]:
     → "Thanks fer savin' us. Ye're that person I met the other day in Jugner Forest, aren't ye?"
  29: 0x1D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1D63 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Laila (ID: 17142563/0x01059323))
@@ -2435,30 +2435,30 @@ SUBROUTINE_10BF:
  32: 0x1D6F [0x52] END_LOAD_SCHEDULER: End scheduler "s110" with entities [EventEntity, EventEntity], work=335*
  33: 0x1D7E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [EventEntity, EventEntity], work=[335*, 0*]
  34: 0x1D8F [0x79] Annika (ID: 17142564/0x01059324) looks at Laila (ID: 17142563/0x01059323) (Basic look)
- 35: 0x1D99 [0x2B] Annika (ID: 17142564/0x01059324) [7902*]:
+ 35: 0x1D99 [0x2B] Annika (ID: 17142564/0x01059324) [7903*]:
     → "Oh, are you acquainted?"
  36: 0x1DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x1DA1 [0x52] END_LOAD_SCHEDULER: End scheduler "s111" with entities [EventEntity, EventEntity], work=335*
  38: 0x1DB0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [EventEntity, EventEntity], work=[335*, 0*]
  39: 0x1DC1 [0x79] Annika (ID: 17142564/0x01059324) looks at LocalPlayer (Basic look)
  40: 0x1DCB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 41: 0x1DDA [0x2B] Annika (ID: 17142564/0x01059324) [7903*]:
+ 41: 0x1DDA [0x2B] Annika (ID: 17142564/0x01059324) [7904*]:
     → "Thank you for saving us. My name is Annika Brilioth, and this is my daughter."
  42: 0x1DE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x1DE2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
  44: 0x1DF1 [0x52] END_LOAD_SCHEDULER: End scheduler "s112" with entities [EventEntity, EventEntity], work=335*
  45: 0x1E00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [EventEntity, EventEntity], work=[335*, 0*]
- 46: 0x1E11 [0x2B] Annika (ID: 17142564/0x01059324) [7904*]:
+ 46: 0x1E11 [0x2B] Annika (ID: 17142564/0x01059324) [7905*]:
     → "Are you, perchance, a dancer?"
  47: 0x1E18 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x1E19 [0x52] END_LOAD_SCHEDULER: End scheduler "s113" with entities [EventEntity, EventEntity], work=335*
  49: 0x1E28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[335*, 0*]
  50: 0x1E39 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 51: 0x1E48 [0x2B] Annika (ID: 17142564/0x01059324) [7905*]:
+ 51: 0x1E48 [0x2B] Annika (ID: 17142564/0x01059324) [7906*]:
     → "Your battle stance was strikingly similar to the Brilioth style. Might you be a student of Master Mayakov?"
  52: 0x1E4F [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x1E50 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 54: 0x1E5F [0x2B] Annika (ID: 17142564/0x01059324) [7906*]:
+ 54: 0x1E5F [0x2B] Annika (ID: 17142564/0x01059324) [7907*]:
     → "I'm impressed by your dancing sense. Is there anything I can do to express our gratitude?"
  55: 0x1E66 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x1E67 [0x52] END_LOAD_SCHEDULER: End scheduler "s114" with entities [EventEntity, EventEntity], work=335*
@@ -2470,58 +2470,58 @@ SUBROUTINE_10BF:
  62: 0x1E9B [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [EventEntity, EventEntity], work=335*
  63: 0x1EAA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s116" with entities [EventEntity, EventEntity], work=[335*, 0*]
  64: 0x1EBB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 65: 0x1ECA [0x2B] Annika (ID: 17142564/0x01059324) [7907*]:
+ 65: 0x1ECA [0x2B] Annika (ID: 17142564/0x01059324) [7908*]:
     → "So you wish to learn how to make your dance "shine"?"
  66: 0x1ED1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x1ED2 [0x52] END_LOAD_SCHEDULER: End scheduler "s116" with entities [EventEntity, EventEntity], work=335*
  68: 0x1EE1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s117" with entities [EventEntity, EventEntity], work=[335*, 0*]
- 69: 0x1EF2 [0x2B] Annika (ID: 17142564/0x01059324) [7908*]:
+ 69: 0x1EF2 [0x2B] Annika (ID: 17142564/0x01059324) [7909*]:
     → "Since the outbreak of war, many have come to me, wanting to learn the martial style of dance."
  70: 0x1EF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x1EFA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
- 72: 0x1F09 [0x2B] Annika (ID: 17142564/0x01059324) [7909*]:
+ 72: 0x1F09 [0x2B] Annika (ID: 17142564/0x01059324) [7910*]:
     → "I'm glad there are still dancers like yourself, who can see the true beauty of the art."
  73: 0x1F10 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x1F11 [0x52] END_LOAD_SCHEDULER: End scheduler "s117" with entities [EventEntity, EventEntity], work=335*
  75: 0x1F20 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s119" with entities [EventEntity, EventEntity], work=[335*, 0*]
  76: 0x1F31 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
  77: 0x1F40 [0x03] Work_Zone[2] = 962*
- 78: 0x1F45 [0x2B] Annika (ID: 17142564/0x01059324) [7910*]:
+ 78: 0x1F45 [0x2B] Annika (ID: 17142564/0x01059324) [7911*]:
     → "Please accept this as a token of our appreciation. It's a book that I wrote."
  79: 0x1F4C [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1F4D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
  81: 0x1F5C [0x52] END_LOAD_SCHEDULER: End scheduler "s119" with entities [EventEntity, EventEntity], work=335*
  82: 0x1F6B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s118" with entities [EventEntity, EventEntity], work=[335*, 0*]
- 83: 0x1F7C [0x2B] Annika (ID: 17142564/0x01059324) [7911*]:
+ 83: 0x1F7C [0x2B] Annika (ID: 17142564/0x01059324) [7912*]:
     → "It will reveal to you much about dance, and should guide you on your way to reaching the highest pinnacle in our divine art."
  84: 0x1F83 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x1F84 [0x52] END_LOAD_SCHEDULER: End scheduler "s118" with entities [EventEntity, EventEntity], work=335*
  86: 0x1F93 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s120" with entities [EventEntity, EventEntity], work=[335*, 0*]
  87: 0x1FA4 [0x4A] Laila (ID: 17142563/0x01059323) looks at Annika (ID: 17142564/0x01059324)
  88: 0x1FAD [0x1C] WAIT(30* ticks)
- 89: 0x1FB0 [0x2B] Laila (ID: 17142563/0x01059323) [7912*]:
+ 89: 0x1FB0 [0x2B] Laila (ID: 17142563/0x01059323) [7913*]:
     → "Mother... Just b'fore, ye were goin' t'tell me about the true essence o' dance. So what is it?"
  90: 0x1FB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x1FB8 [0x52] END_LOAD_SCHEDULER: End scheduler "s120" with entities [EventEntity, EventEntity], work=335*
  92: 0x1FC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s121" with entities [EventEntity, EventEntity], work=[335*, 0*]
  93: 0x1FD8 [0x4A] Annika (ID: 17142564/0x01059324) looks at Laila (ID: 17142563/0x01059323)
  94: 0x1FE1 [0x1C] WAIT(30* ticks)
- 95: 0x1FE4 [0x2B] Annika (ID: 17142564/0x01059324) [7913*]:
+ 95: 0x1FE4 [0x2B] Annika (ID: 17142564/0x01059324) [7914*]:
     → "Laila, do you remember the feeling of happiness you said you felt when you danced by Lake Mechieume?"
  96: 0x1FEB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x1FEC [0x2B] Laila (ID: 17142563/0x01059323) [7914*]:
+ 97: 0x1FEC [0x2B] Laila (ID: 17142563/0x01059323) [7915*]:
     → "I remember, Mother."
  98: 0x1FF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x1FF4 [0x52] END_LOAD_SCHEDULER: End scheduler "s121" with entities [EventEntity, EventEntity], work=335*
 100: 0x2003 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s122" with entities [EventEntity, EventEntity], work=[335*, 0*]
 101: 0x2014 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
-102: 0x2023 [0x2B] Annika (ID: 17142564/0x01059324) [7915*]:
+102: 0x2023 [0x2B] Annika (ID: 17142564/0x01059324) [7916*]:
     → "When you perform before an audience, you must share this happiness with all those who honor your stage with their presence. When you do so, you will understand the true essence of dance."
 103: 0x202A [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x202B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Annika (ID: 17142564/0x01059324), Annika (ID: 17142564/0x01059324)], work=19*
 105: 0x203A [0x52] END_LOAD_SCHEDULER: End scheduler "s122" with entities [EventEntity, EventEntity], work=335*
 106: 0x2049 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s123" with entities [EventEntity, EventEntity], work=[335*, 0*]
-107: 0x205A [0x2B] Laila (ID: 17142563/0x01059323) [7916*]:
+107: 0x205A [0x2B] Laila (ID: 17142563/0x01059323) [7917*]:
     → "Yes, Mother!"
 108: 0x2061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x2062 [0x52] END_LOAD_SCHEDULER: End scheduler "s123" with entities [EventEntity, EventEntity], work=335*
@@ -2529,18 +2529,18 @@ SUBROUTINE_10BF:
 111: 0x2082 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Laila (ID: 17142563/0x01059323), Laila (ID: 17142563/0x01059323)], work=80*
 112: 0x2091 [0x7B] Laila (ID: 17142563/0x01059323) stops talking
 113: 0x2096 [0x03] Work_Zone[2] = 911*
-114: 0x209B [0x2B] Laila (ID: 17142563/0x01059323) [7917*]:
+114: 0x209B [0x2B] Laila (ID: 17142563/0x01059323) [7918*]:
     → "I'm sure glad I skipped practice t'go lookin' fer $6. But where did that mysterious pipe melody come from?"
 115: 0x20A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x20A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s124" with entities [EventEntity, EventEntity], work=335*
 117: 0x20B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s125" with entities [EventEntity, EventEntity], work=[335*, 0*]
-118: 0x20C3 [0x2B] Laila (ID: 17142563/0x01059323) [7918*]:
+118: 0x20C3 [0x2B] Laila (ID: 17142563/0x01059323) [7919*]:
     → "Huh? The pebble's light is fadin' away..."
 119: 0x20CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x20CB [0x52] END_LOAD_SCHEDULER: End scheduler "s125" with entities [EventEntity, EventEntity], work=335*
 121: 0x20DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s126" with entities [EventEntity, EventEntity], work=[335*, 0*]
 122: 0x20EB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Laila (ID: 17142563/0x01059323), Laila (ID: 17142563/0x01059323)], work=80*
-123: 0x20FA [0x2B] Laila (ID: 17142563/0x01059323) [7919*]:
+123: 0x20FA [0x2B] Laila (ID: 17142563/0x01059323) [7920*]:
     → "It was glowin' ever so brightly just b'fore... I wonder why."
 124: 0x2101 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x2102 [0x52] END_LOAD_SCHEDULER: End scheduler "s126" with entities [EventEntity, EventEntity], work=335*
@@ -4526,17 +4526,17 @@ SUBROUTINE_2C05:
 
 SUBROUTINE_2C06:
 109: 0x2C06 [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x2C19
-110: 0x2C0E [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7429*]:
+110: 0x2C0E [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7430*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x2C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x2C16 [0x01] GOTO 0x2C3F
 113: 0x2C19 [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x2C2C
-114: 0x2C21 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7429*]:
+114: 0x2C21 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7430*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x2C28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x2C29 [0x01] GOTO 0x2C3F
 117: 0x2C2C [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x2C3F
-118: 0x2C34 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7429*]:
+118: 0x2C34 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7430*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x2C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x2C3C [0x01] GOTO 0x2C3F
@@ -4546,17 +4546,17 @@ SUBROUTINE_2C3F:
 
 SUBROUTINE_2C40:
 122: 0x2C40 [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x2C53
-123: 0x2C48 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7430*]:
+123: 0x2C48 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7431*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x2C4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x2C50 [0x01] GOTO 0x2C79
 126: 0x2C53 [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x2C66
-127: 0x2C5B [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7430*]:
+127: 0x2C5B [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7431*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x2C62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x2C63 [0x01] GOTO 0x2C79
 130: 0x2C66 [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x2C79
-131: 0x2C6E [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7430*]:
+131: 0x2C6E [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7431*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x2C75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x2C76 [0x01] GOTO 0x2C79
@@ -4566,17 +4566,17 @@ SUBROUTINE_2C79:
 
 SUBROUTINE_2C7A:
 135: 0x2C7A [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x2C8D
-136: 0x2C82 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7432*]:
+136: 0x2C82 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7433*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x2C89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x2C8A [0x01] GOTO 0x2CB3
 139: 0x2C8D [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x2CA0
-140: 0x2C95 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7432*]:
+140: 0x2C95 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7433*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x2C9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x2C9D [0x01] GOTO 0x2CB3
 143: 0x2CA0 [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x2CB3
-144: 0x2CA8 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7432*]:
+144: 0x2CA8 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7433*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x2CAF [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x2CB0 [0x01] GOTO 0x2CB3
@@ -4586,17 +4586,17 @@ SUBROUTINE_2CB3:
 
 SUBROUTINE_2CB4:
 148: 0x2CB4 [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x2CC7
-149: 0x2CBC [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7433*]:
+149: 0x2CBC [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7434*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x2CC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x2CC4 [0x01] GOTO 0x2CED
 152: 0x2CC7 [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x2CDA
-153: 0x2CCF [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7433*]:
+153: 0x2CCF [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7434*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x2CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x2CD7 [0x01] GOTO 0x2CED
 156: 0x2CDA [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x2CED
-157: 0x2CE2 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7433*]:
+157: 0x2CE2 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7434*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x2CE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x2CEA [0x01] GOTO 0x2CED
@@ -4606,17 +4606,17 @@ SUBROUTINE_2CED:
 
 SUBROUTINE_2CEE:
 161: 0x2CEE [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x2D01
-162: 0x2CF6 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7434*]:
+162: 0x2CF6 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7435*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x2CFD [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x2CFE [0x01] GOTO 0x2D27
 165: 0x2D01 [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x2D14
-166: 0x2D09 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7434*]:
+166: 0x2D09 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7435*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x2D10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x2D11 [0x01] GOTO 0x2D27
 169: 0x2D14 [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x2D27
-170: 0x2D1C [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7434*]:
+170: 0x2D1C [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7435*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x2D23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x2D24 [0x01] GOTO 0x2D27
@@ -4626,17 +4626,17 @@ SUBROUTINE_2D27:
 
 SUBROUTINE_2D28:
 174: 0x2D28 [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x2D3B
-175: 0x2D30 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7435*]:
+175: 0x2D30 [0x2B] Ulaciont, R.K. (ID: 17142501/0x010592E5) [7436*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x2D37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x2D38 [0x01] GOTO 0x2D61
 178: 0x2D3B [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x2D4E
-179: 0x2D43 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7435*]:
+179: 0x2D43 [0x2B] Polished Fang, L.C. (ID: 17142502/0x010592E6) [7436*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x2D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x2D4B [0x01] GOTO 0x2D61
 182: 0x2D4E [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x2D61
-183: 0x2D56 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7435*]:
+183: 0x2D56 [0x2B] Myuhn Rohli, M.C. (ID: 17142503/0x010592E7) [7436*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x2D5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x2D5E [0x01] GOTO 0x2D61

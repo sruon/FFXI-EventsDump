@@ -55,17 +55,17 @@
 |       5 | 0x0800      |        2048 |
 |       6 | 0xFFFFB77F  |  4294948735 |
 |       7 | 0x0078      |         120 |
-|       8 | 0x1C7B      |        7291 |
-|       9 | 0x1C80      |        7296 |
-|      10 | 0x1C87      |        7303 |
-|      11 | 0x1C8C      |        7308 |
+|       8 | 0x1C7C      |        7292 |
+|       9 | 0x1C81      |        7297 |
+|      10 | 0x1C88      |        7304 |
+|      11 | 0x1C8D      |        7309 |
 
 ## String References
 
-- **7291**: The extinguished magic is our lord!
-- **7296**: You tricked us... You stole from us... Many important things, you did!
-- **7303**: ......
-- **7308**: We will be returning to town... After we have silenced you forever!
+- **7292**: The extinguished magic is our lord!
+- **7297**: You tricked us... You stole from us... Many important things, you did!
+- **7304**: ......
+- **7309**: We will be returning to town... After we have silenced you forever!
 
 ## Events
 
@@ -693,7 +693,7 @@
 #### Opcodes
 
 ```
-  0: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
+  0: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
     → "The extinguished magic is our lord!"
   1: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0170 [0x00] END_REQSTACK()
@@ -720,7 +720,7 @@
 
 ```
   0: 0x0171 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17563881/0x010C00E9), tag_num=0x0D)
-  1: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
+  1: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
     → "You tricked us... You stole from us... Many important things, you did!"
   2: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x017C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Cups (ID: 17563881/0x010C00E9), tag_num=0x0E)
@@ -746,7 +746,7 @@
 #### Opcodes
 
 ```
-  0: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
+  0: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
     → "......"
   1: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0188 [0x00] END_REQSTACK()
@@ -771,7 +771,7 @@
 #### Opcodes
 
 ```
-  0: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+  0: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
     → "We will be returning to town... After we have silenced you forever!"
   1: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018D [0x00] END_REQSTACK()

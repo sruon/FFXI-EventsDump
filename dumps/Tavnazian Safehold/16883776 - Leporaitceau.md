@@ -37,15 +37,15 @@
 |       9 | 0x13F5C     |       81756 |
 |      10 | 0xFFFFF981  |  4294965633 |
 |      11 | 0xFFFF9E59  |  4294942297 |
-|      12 | 0x29E1      |       10721 |
-|      13 | 0x29E2      |       10722 |
-|      14 | 0x29E3      |       10723 |
+|      12 | 0x29E2      |       10722 |
+|      13 | 0x29E3      |       10723 |
+|      14 | 0x29E4      |       10724 |
 
 ## String References
 
-- **10721**: I will not rest until the Marquisate has become as grand and as powerful as it was before the Great War!
-- **10722**: With the arrival of the airships, the situation in Tavnazia has begun to take a turn for the better.
-- **10723**: Once again Vana'diel will hear the roar of the mighty sealion!
+- **10722**: I will not rest until the Marquisate has become as grand and as powerful as it was before the Great War!
+- **10723**: With the arrival of the airships, the situation in Tavnazia has begun to take a turn for the better.
+- **10724**: Once again Vana'diel will hear the roar of the mighty sealion!
 
 ## Events
 
@@ -189,7 +189,7 @@
 
 ```
   0: 0x002F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10721*)
+  1: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
     → "I will not rest until the Marquisate has become as grand and as powerful as it was before the Great War!"
   2: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0038 [0x21] END_EVENT
@@ -217,10 +217,10 @@
 
 ```
   0: 0x003A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
+  1: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
     → "With the arrival of the airships, the situation in Tavnazia has begun to take a turn for the better."
   2: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
+  3: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
     → "Once again Vana'diel will hear the roar of the mighty sealion!"
   4: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0047 [0x21] END_EVENT

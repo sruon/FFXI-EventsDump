@@ -1,5 +1,5 @@
 # Strings for Feretory
-# Total: 7399 strings
+# Total: 7400 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,177 +7226,178 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: $3{$3^$3$97F$31V$P10i]\7
- 7228: @@
- 7229: There is nothing out of the ordinary here.
- 7230: You can hear a strange voice... "Items, items, la la la la la`t"
- 7231: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7232: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7233: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7234: Now, listen close...
- 7235: Oh... Well, if that's the case, I'm outta here.
- 7236: The Goblin slipped away when you were not looking...
- 7237: You can hear a strange, raspy voice...
- 7238: I travel......hear lots... Hear...stories... Can tell...if...
- 7239: .........listen......
- 7240: Oh...... ...outta here.........
- 7241: Welcome to the Feretory. Is it not surprisingly soothing?
- 7242: Thy soul now resides within the frame of a [rabbit/lizard/mandragora].
- 7243: Thy body, while a conduit to the tangible, was beforetime fetters that chained thine essence to a singular lump of flesh.
- 7244: What if, though, we could cleave this carnal prison in twain? Metamorphose it into an abstract concept from bygone eons?
- 7245: It is this thought process and years of research that delivered unto us our revelation.
- 7246: ...Forsooth. The phenomenon thou hast undergone is the manifestation of our epitome....
- 7247: And the name of this phenomenon is...
- 7248: (Gramercy! I do not recall cleping it with any sort of moniker.)
- 7249: (Our maegister cares not a whit for fustian epithets. Such blatherskite serveth only to distract from our work's true purpose.)
- 7250: (...Very well, then. How dost thou propose to reconcile the situation?)
- 7251: (I see no reason to forego its entitling. Think of the convenience!)
- 7252: (Hmmm...)
- 7253: Goddess be damned! This phenomenon shall hereafter be known as "Monstrosity"!
- 7254: Alas, I was so inly absorbed with our conflict that I forgot to mention that the figures thou seest afore thee are our actual forms.
- 7255: What those outside the Feretory lay eyne upon are but puppets we have possessed, much as thou hast done with that monster.
- 7256: The reasoning behind our possession varies from thine, but that is for another day.
- 7257: (Methinks it would behoove us to also decide on an appellation for adventurers who hath possessed monsters.)
- 7258: (Certes. It is oft said that Vana'diel's inhabitants cling to names as a child to the mother's skirts.)
- 7259: (...So it shall be.)
- 7260: Let it be known that those whose souls hath entered the flesh of beasts shall henceforth be referred to as "monipulators."
- 7261: I assume thou hast yet to adjust to the host within which thou sojournest?
- 7262: No one feels perfectly comfortable their first time. I assure thee, however, that thy next attempt will go a great deal more smoothly.
- 7263: Moreover, the same tactics we employed upon thee will not work with other vessels. It is my burden to impart to thee all my knowledge of our research, so reserve nothing and ask plenty.
- 7264: What will you ask about? [Monstrosity in general./Possible opponents./Customization./Ranks./Infamy./Rewards./Nothing.]
- 7265: Monstrosity is the phenomenon by which adventurers take control of monsters and expand their souls inside their new bodies.
- 7266: What becometh of the beings possessed? There exist some things that are simply best not to know. Make not such inquisitions eft.
- 7267: Ifsoever thou findest any of my teachings detestable, I recommend thee slink off into the night and return to whencesoever thou camest.
- 7268: ...Allow me to begin anew.
- 7269: Possession of any monsters shall take place within the confines of the Feretory.
- 7270: Thou mayest wish to jump twixt vessels at thine own whim, but such action is wrought with danger. The soul is a delicate entity.
- 7271: Lest thou art willing to render thyself as vulnerable as a babe before beasts, the Feretory is the only place where thy safety is assured.
- 7272: One may enter from the Pashhow Marshlands, Northern San d'Oria, Port Bastok, and Port Windurst. Pass through any and all the gateways at thine own behest.
- 7273: Nor is there need to fear for thy original frame.
- 7274: Adventurers such as thee are a coveted commodity to our maegister. We shall ensure that nary a scratch appeareth upon its skin while it doth lie within our care.
- 7275: Once the transition is complete, make haste to the odyssean passage and depart for the location of thy choice, in which thou mayest battle to thy heart's content.
- 7276: Hark! Once thou departest for a land yonder, it is impossible to move to another. Thereon, I ask thee to think long and hard afore making thy decision.
- 7277: Whenas thou growest weary of thy monstrous flesh and wish to return to thy original form, rescind control of thy host with "Relinquish."
- 7278: Howbeit, receiving blows from foes and moving in even the slightest manner shall countermand the directive.
- 7279: It would not do for an important personage such as thee to have thy soul bared to the elements.
- 7280: Those who do shed their mortal frame for another body in Monstrosity may engage adventurers and commonplace monsters alike.
- 7281: Alas and alack, thou art forbidden from attacking adventurers who give not their permission to do battle.
- 7282: Maugre their contrary form, monipulators are of the same ilk as adventurers, and thus may do their brethren no harm.
- 7283: This is both a rule and physical impossibility. In the event that a monipulator should raise its claws to a defenseless adventurer, metaphorical shackles shall restrain the offender and prevent any aggression.
- 7284: Were this measure not in place, thy soul would gradually erode, causing the complete destruction of thy psyche.
- 7285: Yet the rub is that exchanging blows with adventurers doth strengthen the soul and helpeth it develop.
- 7286: Luckily, granting permission to engage in belligerency quelleth the stimuli that beget psychic erosion.
- 7287: In the event that thou yearnest to cull ferocious monipulators and release thyself from the protective veil that doth cover adventurers, seek out Aengus, whose charge it is to oversee belligerency permission.
- 7288: Beware that certain areas do not welcome the weak of soul, that a sufficiently mature essence is required to partake in the bloodshed.
- 7289: Lastly, though monipulators may not brawl in tandem, adventurers may tackle their foes in parties of like-minded individuals.
- 7290: Inside the Feretory, thy very choices in this realm will be warped and transmogrified. (The "Equipment" menu will become "Customization.")
- 7291: It is here that monipulators decide upon the monster they wish to control, its epithet, and the instincts it shall possess.
- 7292: Ask about what? [Species./Naming./Instincts./Nothing.]
- 7293: Thy bestiary doth be the gateway through which thou stridest when possessing fiends. (Choose the monster you wish to possess from the "Species" menu.)
- 7294: The number of monsters thou mayest harbor will be small at first, but the higher thy level riseth, the more thou canst hoard.
- 7295: As a rule, thou shalt only be able to select new monsters of the same species which thou hast leveled.
- 7296: Exceptions do exist, however, and there shall be times when it is possible to unleash thy soul upon different types.
- 7297: Every monipulator, both accomplished and naif, may dub their ferocious vessel with an alias. (Choose a name for your monstrous conduit from the "Naming" menu.)
- 7298: An alias doth consist of two descriptors added to the species name of thy host.
- 7299: The name itself exerteth not an iota of influence on thy battles or others. Thus, it behooveth thee to change thy name to coincide with thy whims.
- 7300: Spreading terror as a monipulator and raising thy level increaseth thy familiarity with that species, theron mastering "instincts."
- 7301: Though they may be traits innately imbedded within the creature thou commandest, they must be imprinted via the proper menu to have their powers released.
- 7302: Mastered instincts can be imprinted upon any monstrous frame thou possessest, regardless of the species from which thou obtained it.
- 7303: Thou cannot simply imprint every instinct learned swoopstake, however. Each comes with its own cost, and we cannot allow thee to exceed the limit.
- 7304: As old a guideline as time itself, the more puissant the instinct, the higher its cost shall be. The choice is yours whether thy arsenal shall consist of myriad weaker weapons or few strong ones.
- 7305: The monipulator hierarchy resembleth those of normal monsters to a striking degree. Monipulators may evolve from monsters (Mon) to notorious monsters (NM), and once more to high notorious monsters (HNM).
- 7306: Thy rank may rise in correlation with thy infamy, but shall never reach thresholds greater than "Mon" if thou art not engaged in belligerency with adventurers.
- 7307: Once thou attainest the rank of NM and HNM, thy fetters doth loosen further. The maximum amount of points thou mayest allocate for instincts burgeons, enabling thee to imprint more and stronger ones.
- 7308: Infamy is similar to the mortal concept adventurers like thee dub fame.
- 7309: The caveat is that while monipulators accrue infamy from emerging victorious in battle, the converse doth ring true as well. Defeat depleteth thy hard-earned stocks.
- 7310: The more ferocious the beast, the higher the stakes, for HNM and NM monipulators lose more infamy than those inhabiting normal monsters.
- 7311: Each rank also has a corresponding maximum amount of infamy, and thou mayest view both thy infamy and rank under the status menu.
- 7312: Finally, thou canst bequeath thy infamy to my kinsman Teyrnon in exchange for rewards that doth give thy rampages their spice.
- 7313: If no reward striketh thee as appropriate recompense, it is also thy prerogative to receive the support befitting a bloodthirsty monipulator.
- 7314: Beware, however, that these blessings shall float upon the winds to the four corners of Vana'diel shouldst thee discard thy current vessel or be transported avaunt after entering belligerency.
- 7315: Adventurers who are willing to combat monipulators are termed "gladiators."
- 7316: Gladiators possess their own hierarchy, and slaughtering either champion gladiators or high champion gladiators occasionally earns thee spoils of war.
- 7317: Thy soul pineth for more than thou canst conceive. Set it free and embark upon monstrous exploits the likes of which Vana'diel hath never witnessed.
- 7318: What do you wish to do? [Hear an explanation./Engage in friendly banter./Nothing.]
- 7319: Our maegister doth appreciate ambition. If thou showest ample poise and determination, mayhap one day thou shalt lay eyes upon this most prodigious figure.
- 7320: Images of various locales flutter through your mind upon peering into the haze.
- 7321: What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]
- 7322: Proceed to $8?
- 7323: Endeavor to $8 fitted with the shackles of being level $1?
- 7324: The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue.
- 7325: Proceed? [Yes./No.]
- 7326: Stop participating in Monstrosity?
- 7327: Stop participating? [Yes./No.]
- 7328: $8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]
- 7329: An enigmatic force from the depths of the aether has disrupted your travels and put an end to this bout of Monstrosity.
- 7330: Participate in Domination?
- 7331: Well, do you want to? [Yes./No.]
- 7332: Out with thy business, ere I buffet thy countenance with a relentless tail whipping.
- 7333: What is your business? [Exchanging infamy./Chatting idly./Nothing.]
- 7334: For what rewards? [Monsters./Instincts./Support./Nothing. Go back.]
- 7335: What type? [Beasts./Plantoids./Vermin./Lizards./Amorphs./Aquans./Birds./No type. Go back.]
- 7336: What monster? (Infamy: $0) [Lapinion. ($1 needed)/Sheep. ($2 needed)/Behemoth. ($3 needed)/Elasmoth. ($4 needed)/Cerberus. ($5 needed)/Orthrus. ($6 needed)/None. Go back.]
- 7337: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [lapinions/sheep/behemoths/elasmoths/cerebruses/orthruses]?
- 7338: You may now possess [lapinions/sheep/behemoths/elasmoths/cerebruses/orthruses]!
- 7339: What monster? (Infamy: $0) [Pygmy Mandragora. ($1 needed)/Treant. ($2 needed)/Pygmy Morbol. ($3 needed)/Purbol. ($4 needed)/None. Go back.]
- 7340: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [pygmy mandragoras/treants/pygmy morbols/purbols]?
- 7341: You may now possess [pygmy mandragoras/treants/pygmy morbols/purbols]!
- 7342: What monster? (Infamy: $0) [Gold Ladybug. ($1 needed)/Beetle. ($2 needed)/Unusual Scolopendrid. ($3 needed)/Antlion. ($4 needed)/Formiceros. ($5 needed)/Pygmy Emerald Crawler. ($6 needed)/Coral Wamoura. ($7 needed)/Gnat. ($8 needed)/None. Go back.]
- 7343: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [gold ladybugs/beetles/unusual scolopendrids/antlions/formiceroses/pygmy emerald crawlers/coral wamouras/gnats]?
- 7344: You may now possess [gold ladybugs/beetles/unusual scolopendrids/antlions/formiceroses/pygmy emerald crawlers/coral wamouras/gnats]!
- 7345: What monster? (Infamy: $0) [Unusual Wivre. ($1 needed)/Adamantoise. ($2 needed)/Ferromantoise. ($3 needed)/Raptor. ($4 needed)/Peiste. ($5 needed)/Sibilus. ($6 needed)/None. Go Back.]
- 7346: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [unusual wivres/adamantoises/ferrotoises/raptors/peistes/sibiluses]?
- 7347: You may now possess [unusual wivres/adamantoises/ferrotoises/raptors/peistes/sibiluses]!
- 7348: Which family? (Infamy: $0) [Slime. ($1 needed)/Boil. ($2 needed)/Pygmy Sandworm. ($3 needed)/Gigaworm. ($4 needed)/Leech. ($5 needed)/None. Go Back.]
- 7349: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [slimes/boils/pygmy sandworms/gigaworms/leeches]?
- 7350: You may now possess [slimes/boils/pygmy sandworms/gigaworms/leeches]!
- 7351: Which family? (Infamy: $0) [Crab. ($1 needed)/Hermitage Crab. ($2 needed)/Vermilion Hermitage Crab. ($3 needed)/Porter Crab. ($4 needed)/Pugil. ($5 needed)/Limascabra. ($6 needed)/Pygmy Orobon. ($7 needed)/Ogrebon. ($8 needed)/Ruszor. ($9 needed)/None. Go Back.]
- 7352: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [crabs/hermitage crabs/vermilion hermitage crabs/porter crabs/pugils/limascabra/pygmy orobons/ogrebons/ruszors]?
- 7353: You may now possess [crabs/hermitage crabs/vermilion hermitage crabs/porter crabs/pugils/limascabra/pygmy orobons/ogrebons/ruszors]!
- 7354: Which family? (Infamy: $0) [Cockatrice. ($1 needed)/Gagana. ($2 needed)/Bat. ($3 needed)/Inguza. ($4 needed)/Colibri. ($5 needed)/Toucalibri. ($6 needed)/Amphiptere. ($7 needed)/Sanguiptere. ($8 needed)/None. Go Back.]
- 7355: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [cockatrices/gagana/bats/inguzas/colibris/toucalibri/amphiptere/sanguiptere]?
- 7356: You may now possess [cockatrices/gagana/bats/inguzas/colibris/toucalibri/amphiptere/sanguiptere]!
- 7357: Thy brazen disregard to count correctly is an affront to monipulators everywhere. Return whenas thou hast the meet amount of infamy.
- 7358: Proceed with the exchange? (Infamy: $0) [Yes./No.]
- 7359: Which instinct? (Infamy: $20) [#. ($10 needed)/$1. ($11 needed)/$2. ($12 needed)/$3. ($13 needed)/$4. ($14 needed)/$5. ($15 needed)/$6. ($16 needed)/$7. ($17 needed)/$8. ($18 needed)/$9. ($19 needed)/Previous page./Next page./None.]
- 7360: Canst thou thole to part with $0 point[/s] of infamy to learn $1?
- 7361: Get not ahead of thyself, whelp. I am not in the position to make such an exchange at this juncture.
- 7362: You learned $0!
- 7363: Come to cavil anent the rewards I provide? The nerve of some people. Stay thy tongue for the nonce and return when thy infamy hath increased.
- 7364: What effect would you like? (Infamy: $0) [Dedication 1. (Cost: $1)/Dedication 2. (Cost: $2)/Regen. (Cost: $3)/Refresh. (Cost: $4)/Protect. (Cost: $5)/Shell. (Cost: $6)/Haste. (Cost: $7)/None of these.]
- 7365: [Dedication 1/Dedication 2] doth provide thee with an experience bonus of +[50%/100%] for a maximum bonus of [10,000/2,000].
- 7366: The [Dedication 1/Dedication 2/Regen/Refresh/Protect/Shell/Haste] benediction doth require $0 infamy. Art thou certain?
- 7367: One's soul can only mature to a certain degree by slaying commonplace fiends. I command thee to seek out more capable foes.
- 7368: What do you wish to do? [Enter belligerency./Engage in friendly banter./Nothing.]
- 7369: Doing so enablest thee to enter combat with adventurers. Dost thou assent?
- 7370: Assent? [Yes./No.]
- 7371: What do you wish to do? [Withdraw from belligerency./Engage in friendly banter./Nothing.]
- 7372: Thou hast no longer the fortitude to eviscerate thy foes? Lackaday, what a pathetic display of cowardice. However, I shall respect thy wishes.
- 7373: Withdraw? [Yes./No.]
- 7374: There is a level limit for each locale while in belligerency, and each species hath levels at which their strengths are at their peak. Experiment with a cornucopia of different vessels in diverse areas to enjoy thy freedom to the fullest.
- 7375: Beware that shouldst thou come under a level restriction, certain effects placed upon thee will be removed.
- 7376: Dost thou grow weary of culling inconsequential critters? Fear not, for I shall offer something erelong that will iwis quench thy thirst for gore.
- 7377: Thou art safe from monipulators for the nonce. Mayst thou find solace in suckling upon thy mother's teat, coward.
- 7378: Doth the thought of sinking thy claws into another of thine own kind seem rather droll? Mayhap, yet such confrontations must needs take place for those who aimeth for higher heights.
- 7379: Methinks thou hast adapted exceptionally well to flitting betwixt and between bestial vessels. Bringest me $1 $0 and I shall procure thee ones more befitting thy aptitude.
- 7380: Dost thou know of a vessel of most-noted scarcity termed "$0?" Use of it can vastly expand thy soul's influence, which would be phenomenal to behold.
- 7381: What do you wish to do? [Aim for higher heights./Engage in friendly banter./Nothing.]
- 7382: Prithee shed thy corporeal shackles and drift closer to the true essence of a monipulator?
- 7383: Shed your shackles? [Yes, get them off me!/No, they feel fine!]
- 7384: On to question number $0, then!
- 7385: Which one of us roams $8?
- 7386: Who is there? [What was the question again?/Aengus./Maccus./Suibhne./Teyrnon.]
- 7387: Verily!
- 7388: Avaunt! Thy wrong answer doth put me in ill humor. Returnest on the morrow when my disappointment in thee hath abated.
- 7389: Thou hast obtained a perfect score! In recognition of thine achievement, allow me to impart this symbol of spiritual enlightenment upon thee.
- 7390: You may now possess bees!
- 7391: Ah, the $1 $0 for which I asked. Very well, then...
- 7392: You may now possess a new species!
- 7393: Ho? Thou covetest our species for thy arsenal? Pshhh. Mayhap some day.
- 7394: Would you like to hear a story? [No, thank you./Let's hear one.]
- 7395: Which story would you like to be told? [On second thought, maybe later./Monstrosity.]
- 7396: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: $3{$3^$3$97F$31V$P10i]\7
+ 7229: @@
+ 7230: There is nothing out of the ordinary here.
+ 7231: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7232: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7233: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7234: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7235: Now, listen close...
+ 7236: Oh... Well, if that's the case, I'm outta here.
+ 7237: The Goblin slipped away when you were not looking...
+ 7238: You can hear a strange, raspy voice...
+ 7239: I travel......hear lots... Hear...stories... Can tell...if...
+ 7240: .........listen......
+ 7241: Oh...... ...outta here.........
+ 7242: Welcome to the Feretory. Is it not surprisingly soothing?
+ 7243: Thy soul now resides within the frame of a [rabbit/lizard/mandragora].
+ 7244: Thy body, while a conduit to the tangible, was beforetime fetters that chained thine essence to a singular lump of flesh.
+ 7245: What if, though, we could cleave this carnal prison in twain? Metamorphose it into an abstract concept from bygone eons?
+ 7246: It is this thought process and years of research that delivered unto us our revelation.
+ 7247: ...Forsooth. The phenomenon thou hast undergone is the manifestation of our epitome....
+ 7248: And the name of this phenomenon is...
+ 7249: (Gramercy! I do not recall cleping it with any sort of moniker.)
+ 7250: (Our maegister cares not a whit for fustian epithets. Such blatherskite serveth only to distract from our work's true purpose.)
+ 7251: (...Very well, then. How dost thou propose to reconcile the situation?)
+ 7252: (I see no reason to forego its entitling. Think of the convenience!)
+ 7253: (Hmmm...)
+ 7254: Goddess be damned! This phenomenon shall hereafter be known as "Monstrosity"!
+ 7255: Alas, I was so inly absorbed with our conflict that I forgot to mention that the figures thou seest afore thee are our actual forms.
+ 7256: What those outside the Feretory lay eyne upon are but puppets we have possessed, much as thou hast done with that monster.
+ 7257: The reasoning behind our possession varies from thine, but that is for another day.
+ 7258: (Methinks it would behoove us to also decide on an appellation for adventurers who hath possessed monsters.)
+ 7259: (Certes. It is oft said that Vana'diel's inhabitants cling to names as a child to the mother's skirts.)
+ 7260: (...So it shall be.)
+ 7261: Let it be known that those whose souls hath entered the flesh of beasts shall henceforth be referred to as "monipulators."
+ 7262: I assume thou hast yet to adjust to the host within which thou sojournest?
+ 7263: No one feels perfectly comfortable their first time. I assure thee, however, that thy next attempt will go a great deal more smoothly.
+ 7264: Moreover, the same tactics we employed upon thee will not work with other vessels. It is my burden to impart to thee all my knowledge of our research, so reserve nothing and ask plenty.
+ 7265: What will you ask about? [Monstrosity in general./Possible opponents./Customization./Ranks./Infamy./Rewards./Nothing.]
+ 7266: Monstrosity is the phenomenon by which adventurers take control of monsters and expand their souls inside their new bodies.
+ 7267: What becometh of the beings possessed? There exist some things that are simply best not to know. Make not such inquisitions eft.
+ 7268: Ifsoever thou findest any of my teachings detestable, I recommend thee slink off into the night and return to whencesoever thou camest.
+ 7269: ...Allow me to begin anew.
+ 7270: Possession of any monsters shall take place within the confines of the Feretory.
+ 7271: Thou mayest wish to jump twixt vessels at thine own whim, but such action is wrought with danger. The soul is a delicate entity.
+ 7272: Lest thou art willing to render thyself as vulnerable as a babe before beasts, the Feretory is the only place where thy safety is assured.
+ 7273: One may enter from the Pashhow Marshlands, Northern San d'Oria, Port Bastok, and Port Windurst. Pass through any and all the gateways at thine own behest.
+ 7274: Nor is there need to fear for thy original frame.
+ 7275: Adventurers such as thee are a coveted commodity to our maegister. We shall ensure that nary a scratch appeareth upon its skin while it doth lie within our care.
+ 7276: Once the transition is complete, make haste to the odyssean passage and depart for the location of thy choice, in which thou mayest battle to thy heart's content.
+ 7277: Hark! Once thou departest for a land yonder, it is impossible to move to another. Thereon, I ask thee to think long and hard afore making thy decision.
+ 7278: Whenas thou growest weary of thy monstrous flesh and wish to return to thy original form, rescind control of thy host with "Relinquish."
+ 7279: Howbeit, receiving blows from foes and moving in even the slightest manner shall countermand the directive.
+ 7280: It would not do for an important personage such as thee to have thy soul bared to the elements.
+ 7281: Those who do shed their mortal frame for another body in Monstrosity may engage adventurers and commonplace monsters alike.
+ 7282: Alas and alack, thou art forbidden from attacking adventurers who give not their permission to do battle.
+ 7283: Maugre their contrary form, monipulators are of the same ilk as adventurers, and thus may do their brethren no harm.
+ 7284: This is both a rule and physical impossibility. In the event that a monipulator should raise its claws to a defenseless adventurer, metaphorical shackles shall restrain the offender and prevent any aggression.
+ 7285: Were this measure not in place, thy soul would gradually erode, causing the complete destruction of thy psyche.
+ 7286: Yet the rub is that exchanging blows with adventurers doth strengthen the soul and helpeth it develop.
+ 7287: Luckily, granting permission to engage in belligerency quelleth the stimuli that beget psychic erosion.
+ 7288: In the event that thou yearnest to cull ferocious monipulators and release thyself from the protective veil that doth cover adventurers, seek out Aengus, whose charge it is to oversee belligerency permission.
+ 7289: Beware that certain areas do not welcome the weak of soul, that a sufficiently mature essence is required to partake in the bloodshed.
+ 7290: Lastly, though monipulators may not brawl in tandem, adventurers may tackle their foes in parties of like-minded individuals.
+ 7291: Inside the Feretory, thy very choices in this realm will be warped and transmogrified. (The "Equipment" menu will become "Customization.")
+ 7292: It is here that monipulators decide upon the monster they wish to control, its epithet, and the instincts it shall possess.
+ 7293: Ask about what? [Species./Naming./Instincts./Nothing.]
+ 7294: Thy bestiary doth be the gateway through which thou stridest when possessing fiends. (Choose the monster you wish to possess from the "Species" menu.)
+ 7295: The number of monsters thou mayest harbor will be small at first, but the higher thy level riseth, the more thou canst hoard.
+ 7296: As a rule, thou shalt only be able to select new monsters of the same species which thou hast leveled.
+ 7297: Exceptions do exist, however, and there shall be times when it is possible to unleash thy soul upon different types.
+ 7298: Every monipulator, both accomplished and naif, may dub their ferocious vessel with an alias. (Choose a name for your monstrous conduit from the "Naming" menu.)
+ 7299: An alias doth consist of two descriptors added to the species name of thy host.
+ 7300: The name itself exerteth not an iota of influence on thy battles or others. Thus, it behooveth thee to change thy name to coincide with thy whims.
+ 7301: Spreading terror as a monipulator and raising thy level increaseth thy familiarity with that species, theron mastering "instincts."
+ 7302: Though they may be traits innately imbedded within the creature thou commandest, they must be imprinted via the proper menu to have their powers released.
+ 7303: Mastered instincts can be imprinted upon any monstrous frame thou possessest, regardless of the species from which thou obtained it.
+ 7304: Thou cannot simply imprint every instinct learned swoopstake, however. Each comes with its own cost, and we cannot allow thee to exceed the limit.
+ 7305: As old a guideline as time itself, the more puissant the instinct, the higher its cost shall be. The choice is yours whether thy arsenal shall consist of myriad weaker weapons or few strong ones.
+ 7306: The monipulator hierarchy resembleth those of normal monsters to a striking degree. Monipulators may evolve from monsters (Mon) to notorious monsters (NM), and once more to high notorious monsters (HNM).
+ 7307: Thy rank may rise in correlation with thy infamy, but shall never reach thresholds greater than "Mon" if thou art not engaged in belligerency with adventurers.
+ 7308: Once thou attainest the rank of NM and HNM, thy fetters doth loosen further. The maximum amount of points thou mayest allocate for instincts burgeons, enabling thee to imprint more and stronger ones.
+ 7309: Infamy is similar to the mortal concept adventurers like thee dub fame.
+ 7310: The caveat is that while monipulators accrue infamy from emerging victorious in battle, the converse doth ring true as well. Defeat depleteth thy hard-earned stocks.
+ 7311: The more ferocious the beast, the higher the stakes, for HNM and NM monipulators lose more infamy than those inhabiting normal monsters.
+ 7312: Each rank also has a corresponding maximum amount of infamy, and thou mayest view both thy infamy and rank under the status menu.
+ 7313: Finally, thou canst bequeath thy infamy to my kinsman Teyrnon in exchange for rewards that doth give thy rampages their spice.
+ 7314: If no reward striketh thee as appropriate recompense, it is also thy prerogative to receive the support befitting a bloodthirsty monipulator.
+ 7315: Beware, however, that these blessings shall float upon the winds to the four corners of Vana'diel shouldst thee discard thy current vessel or be transported avaunt after entering belligerency.
+ 7316: Adventurers who are willing to combat monipulators are termed "gladiators."
+ 7317: Gladiators possess their own hierarchy, and slaughtering either champion gladiators or high champion gladiators occasionally earns thee spoils of war.
+ 7318: Thy soul pineth for more than thou canst conceive. Set it free and embark upon monstrous exploits the likes of which Vana'diel hath never witnessed.
+ 7319: What do you wish to do? [Hear an explanation./Engage in friendly banter./Nothing.]
+ 7320: Our maegister doth appreciate ambition. If thou showest ample poise and determination, mayhap one day thou shalt lay eyes upon this most prodigious figure.
+ 7321: Images of various locales flutter through your mind upon peering into the haze.
+ 7322: What will you do? [Stalk prey as a monipulator./Participate in Domination./Leave Monstrosity's clutches./Quit.]
+ 7323: Proceed to $8?
+ 7324: Endeavor to $8 fitted with the shackles of being level $1?
+ 7325: The celestial defenders of justice shall strip you of any instincts that exceed the cost limit should you continue.
+ 7326: Proceed? [Yes./No.]
+ 7327: Stop participating in Monstrosity?
+ 7328: Stop participating? [Yes./No.]
+ 7329: $8LG1I7iH Where in $8? [Point One./Point Two./Point Three./Point Four./Point Five./Nowhere.]
+ 7330: An enigmatic force from the depths of the aether has disrupted your travels and put an end to this bout of Monstrosity.
+ 7331: Participate in Domination?
+ 7332: Well, do you want to? [Yes./No.]
+ 7333: Out with thy business, ere I buffet thy countenance with a relentless tail whipping.
+ 7334: What is your business? [Exchanging infamy./Chatting idly./Nothing.]
+ 7335: For what rewards? [Monsters./Instincts./Support./Nothing. Go back.]
+ 7336: What type? [Beasts./Plantoids./Vermin./Lizards./Amorphs./Aquans./Birds./No type. Go back.]
+ 7337: What monster? (Infamy: $0) [Lapinion. ($1 needed)/Sheep. ($2 needed)/Behemoth. ($3 needed)/Elasmoth. ($4 needed)/Cerberus. ($5 needed)/Orthrus. ($6 needed)/None. Go back.]
+ 7338: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [lapinions/sheep/behemoths/elasmoths/cerebruses/orthruses]?
+ 7339: You may now possess [lapinions/sheep/behemoths/elasmoths/cerebruses/orthruses]!
+ 7340: What monster? (Infamy: $0) [Pygmy Mandragora. ($1 needed)/Treant. ($2 needed)/Pygmy Morbol. ($3 needed)/Purbol. ($4 needed)/None. Go back.]
+ 7341: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [pygmy mandragoras/treants/pygmy morbols/purbols]?
+ 7342: You may now possess [pygmy mandragoras/treants/pygmy morbols/purbols]!
+ 7343: What monster? (Infamy: $0) [Gold Ladybug. ($1 needed)/Beetle. ($2 needed)/Unusual Scolopendrid. ($3 needed)/Antlion. ($4 needed)/Formiceros. ($5 needed)/Pygmy Emerald Crawler. ($6 needed)/Coral Wamoura. ($7 needed)/Gnat. ($8 needed)/None. Go back.]
+ 7344: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [gold ladybugs/beetles/unusual scolopendrids/antlions/formiceroses/pygmy emerald crawlers/coral wamouras/gnats]?
+ 7345: You may now possess [gold ladybugs/beetles/unusual scolopendrids/antlions/formiceroses/pygmy emerald crawlers/coral wamouras/gnats]!
+ 7346: What monster? (Infamy: $0) [Unusual Wivre. ($1 needed)/Adamantoise. ($2 needed)/Ferromantoise. ($3 needed)/Raptor. ($4 needed)/Peiste. ($5 needed)/Sibilus. ($6 needed)/None. Go Back.]
+ 7347: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [unusual wivres/adamantoises/ferrotoises/raptors/peistes/sibiluses]?
+ 7348: You may now possess [unusual wivres/adamantoises/ferrotoises/raptors/peistes/sibiluses]!
+ 7349: Which family? (Infamy: $0) [Slime. ($1 needed)/Boil. ($2 needed)/Pygmy Sandworm. ($3 needed)/Gigaworm. ($4 needed)/Leech. ($5 needed)/None. Go Back.]
+ 7350: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [slimes/boils/pygmy sandworms/gigaworms/leeches]?
+ 7351: You may now possess [slimes/boils/pygmy sandworms/gigaworms/leeches]!
+ 7352: Which family? (Infamy: $0) [Crab. ($1 needed)/Hermitage Crab. ($2 needed)/Vermilion Hermitage Crab. ($3 needed)/Porter Crab. ($4 needed)/Pugil. ($5 needed)/Limascabra. ($6 needed)/Pygmy Orobon. ($7 needed)/Ogrebon. ($8 needed)/Ruszor. ($9 needed)/None. Go Back.]
+ 7353: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [crabs/hermitage crabs/vermilion hermitage crabs/porter crabs/pugils/limascabra/pygmy orobons/ogrebons/ruszors]?
+ 7354: You may now possess [crabs/hermitage crabs/vermilion hermitage crabs/porter crabs/pugils/limascabra/pygmy orobons/ogrebons/ruszors]!
+ 7355: Which family? (Infamy: $0) [Cockatrice. ($1 needed)/Gagana. ($2 needed)/Bat. ($3 needed)/Inguza. ($4 needed)/Colibri. ($5 needed)/Toucalibri. ($6 needed)/Amphiptere. ($7 needed)/Sanguiptere. ($8 needed)/None. Go Back.]
+ 7356: Canst thou thole to part with $0 point[/s] of infamy to begin possessing [cockatrices/gagana/bats/inguzas/colibris/toucalibri/amphiptere/sanguiptere]?
+ 7357: You may now possess [cockatrices/gagana/bats/inguzas/colibris/toucalibri/amphiptere/sanguiptere]!
+ 7358: Thy brazen disregard to count correctly is an affront to monipulators everywhere. Return whenas thou hast the meet amount of infamy.
+ 7359: Proceed with the exchange? (Infamy: $0) [Yes./No.]
+ 7360: Which instinct? (Infamy: $20) [#. ($10 needed)/$1. ($11 needed)/$2. ($12 needed)/$3. ($13 needed)/$4. ($14 needed)/$5. ($15 needed)/$6. ($16 needed)/$7. ($17 needed)/$8. ($18 needed)/$9. ($19 needed)/Previous page./Next page./None.]
+ 7361: Canst thou thole to part with $0 point[/s] of infamy to learn $1?
+ 7362: Get not ahead of thyself, whelp. I am not in the position to make such an exchange at this juncture.
+ 7363: You learned $0!
+ 7364: Come to cavil anent the rewards I provide? The nerve of some people. Stay thy tongue for the nonce and return when thy infamy hath increased.
+ 7365: What effect would you like? (Infamy: $0) [Dedication 1. (Cost: $1)/Dedication 2. (Cost: $2)/Regen. (Cost: $3)/Refresh. (Cost: $4)/Protect. (Cost: $5)/Shell. (Cost: $6)/Haste. (Cost: $7)/None of these.]
+ 7366: [Dedication 1/Dedication 2] doth provide thee with an experience bonus of +[50%/100%] for a maximum bonus of [10,000/2,000].
+ 7367: The [Dedication 1/Dedication 2/Regen/Refresh/Protect/Shell/Haste] benediction doth require $0 infamy. Art thou certain?
+ 7368: One's soul can only mature to a certain degree by slaying commonplace fiends. I command thee to seek out more capable foes.
+ 7369: What do you wish to do? [Enter belligerency./Engage in friendly banter./Nothing.]
+ 7370: Doing so enablest thee to enter combat with adventurers. Dost thou assent?
+ 7371: Assent? [Yes./No.]
+ 7372: What do you wish to do? [Withdraw from belligerency./Engage in friendly banter./Nothing.]
+ 7373: Thou hast no longer the fortitude to eviscerate thy foes? Lackaday, what a pathetic display of cowardice. However, I shall respect thy wishes.
+ 7374: Withdraw? [Yes./No.]
+ 7375: There is a level limit for each locale while in belligerency, and each species hath levels at which their strengths are at their peak. Experiment with a cornucopia of different vessels in diverse areas to enjoy thy freedom to the fullest.
+ 7376: Beware that shouldst thou come under a level restriction, certain effects placed upon thee will be removed.
+ 7377: Dost thou grow weary of culling inconsequential critters? Fear not, for I shall offer something erelong that will iwis quench thy thirst for gore.
+ 7378: Thou art safe from monipulators for the nonce. Mayst thou find solace in suckling upon thy mother's teat, coward.
+ 7379: Doth the thought of sinking thy claws into another of thine own kind seem rather droll? Mayhap, yet such confrontations must needs take place for those who aimeth for higher heights.
+ 7380: Methinks thou hast adapted exceptionally well to flitting betwixt and between bestial vessels. Bringest me $1 $0 and I shall procure thee ones more befitting thy aptitude.
+ 7381: Dost thou know of a vessel of most-noted scarcity termed "$0?" Use of it can vastly expand thy soul's influence, which would be phenomenal to behold.
+ 7382: What do you wish to do? [Aim for higher heights./Engage in friendly banter./Nothing.]
+ 7383: Prithee shed thy corporeal shackles and drift closer to the true essence of a monipulator?
+ 7384: Shed your shackles? [Yes, get them off me!/No, they feel fine!]
+ 7385: On to question number $0, then!
+ 7386: Which one of us roams $8?
+ 7387: Who is there? [What was the question again?/Aengus./Maccus./Suibhne./Teyrnon.]
+ 7388: Verily!
+ 7389: Avaunt! Thy wrong answer doth put me in ill humor. Returnest on the morrow when my disappointment in thee hath abated.
+ 7390: Thou hast obtained a perfect score! In recognition of thine achievement, allow me to impart this symbol of spiritual enlightenment upon thee.
+ 7391: You may now possess bees!
+ 7392: Ah, the $1 $0 for which I asked. Very well, then...
+ 7393: You may now possess a new species!
+ 7394: Ho? Thou covetest our species for thy arsenal? Pshhh. Mayhap some day.
+ 7395: Would you like to hear a story? [No, thank you./Let's hear one.]
+ 7396: Which story would you like to be told? [On second thought, maybe later./Monstrosity.]
  7397: 
  7398: 
+ 7399: 

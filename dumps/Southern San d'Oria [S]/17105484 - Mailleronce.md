@@ -21,11 +21,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F83      |       12163 |
+|       0 | 0x2F84      |       12164 |
 
 ## String References
 
-- **12163**: Beyond this gateway lie the Iron Ram barracks. Here knights oil their blades before returning to the battlefield.
+- **12164**: Beyond this gateway lie the Iron Ram barracks. Here knights oil their blades before returning to the battlefield.
 
 ## Events
 
@@ -74,7 +74,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=12163*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=12164*)
     → "Beyond this gateway lie the Iron Ram barracks. Here knights oil their blades before returning to the battlefield."
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x21] END_EVENT

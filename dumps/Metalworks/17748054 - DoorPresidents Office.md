@@ -37,46 +37,46 @@
 |       1 | 0x16F30     |       94000 |
 |       2 | 0xFFFFF448  |  4294964296 |
 |       3 | 0x0BB8      |        3000 |
-|       4 | 0x1F37      |        7991 |
-|       5 | 0x1F38      |        7992 |
+|       4 | 0x1F38      |        7992 |
+|       5 | 0x1F39      |        7993 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x001E      |          30 |
 |       8 | 0x003C      |          60 |
-|       9 | 0x1F39      |        7993 |
+|       9 | 0x1F3A      |        7994 |
 |      10 | 0x012F      |         303 |
 |      11 | 0x00C8      |         200 |
 |      12 | 0x0078      |         120 |
 |      13 | 0x0003      |           3 |
 |      14 | 0x0089      |         137 |
-|      15 | 0x1F07      |        7943 |
-|      16 | 0x1F08      |        7944 |
-|      17 | 0x1F09      |        7945 |
-|      18 | 0x1F0A      |        7946 |
+|      15 | 0x1F08      |        7944 |
+|      16 | 0x1F09      |        7945 |
+|      17 | 0x1F0A      |        7946 |
+|      18 | 0x1F0B      |        7947 |
 |      19 | 0x006E      |         110 |
-|      20 | 0x1F0B      |        7947 |
-|      21 | 0x1F0C      |        7948 |
-|      22 | 0x1F0D      |        7949 |
+|      20 | 0x1F0C      |        7948 |
+|      21 | 0x1F0D      |        7949 |
+|      22 | 0x1F0E      |        7950 |
 |      23 | 0x0096      |         150 |
-|      24 | 0x1F0E      |        7950 |
-|      25 | 0x1F0F      |        7951 |
+|      24 | 0x1F0F      |        7951 |
+|      25 | 0x1F10      |        7952 |
 |      26 | 0x0014      |          20 |
-|      27 | 0x1F10      |        7952 |
-|      28 | 0x1F11      |        7953 |
+|      27 | 0x1F11      |        7953 |
+|      28 | 0x1F12      |        7954 |
 |      29 | 0x0006      |           6 |
-|      30 | 0x1F12      |        7954 |
-|      31 | 0x1F13      |        7955 |
+|      30 | 0x1F13      |        7955 |
+|      31 | 0x1F14      |        7956 |
 |      32 | 0x006F      |         111 |
-|      33 | 0x1F14      |        7956 |
-|      34 | 0x1F15      |        7957 |
-|      35 | 0x1F16      |        7958 |
-|      36 | 0x1F17      |        7959 |
-|      37 | 0x1F18      |        7960 |
-|      38 | 0x1F19      |        7961 |
+|      33 | 0x1F15      |        7957 |
+|      34 | 0x1F16      |        7958 |
+|      35 | 0x1F17      |        7959 |
+|      36 | 0x1F18      |        7960 |
+|      37 | 0x1F19      |        7961 |
+|      38 | 0x1F1A      |        7962 |
 |      39 | 0x0800      |        2048 |
-|      40 | 0x1F1A      |        7962 |
-|      41 | 0x1F1B      |        7963 |
-|      42 | 0x1F1C      |        7964 |
-|      43 | 0x1F1D      |        7965 |
+|      40 | 0x1F1B      |        7963 |
+|      41 | 0x1F1C      |        7964 |
+|      42 | 0x1F1D      |        7965 |
+|      43 | 0x1F1E      |        7966 |
 |      44 | 0x000A      |          10 |
 |      45 | 0x00F0      |         240 |
 |      46 | 0x009A      |         154 |
@@ -84,8 +84,8 @@
 
 ## String References
 
-- **7992**: Enter the President's Office? [Yes./No.]
-- **7993**: Exit the President's Office? [Yes./No.]
+- **7993**: Enter the President's Office? [Yes./No.]
+- **7994**: Exit the President's Office? [Yes./No.]
 
 ## Events
 
@@ -192,10 +192,10 @@
   5: 0x002A [0x02] IF !(ExtData[1]->WorkLocal[2] <= 3000*) GOTO 0x0035
   6: 0x0032 [0x01] GOTO 0x006F
   7: 0x0035 [0x4A] Iron Eater (ID: 17748016/0x010ED030) looks at LocalPlayer
-  8: 0x003E [0x2B] Iron Eater (ID: 17748016/0x010ED030) [7991*]:
+  8: 0x003E [0x2B] Iron Eater (ID: 17748016/0x010ED030) [7992*]:
     → "These doors lead to the President's Office."
   9: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0046 [0x24] CREATE_DIALOG(message_id=7992*, default_option=0*, option_flags=0*)
+ 10: 0x0046 [0x24] CREATE_DIALOG(message_id=7993*, default_option=0*, option_flags=0*)
     → "Enter the President's Office? [Yes./No.]"
  11: 0x004D [0x25] WAIT_DIALOG_SELECT()
  12: 0x004E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006C
@@ -212,7 +212,7 @@ SUBROUTINE_006C:
  21: 0x006C [0x01] GOTO 0x0095
 
 SUBROUTINE_006F:
- 22: 0x006F [0x24] CREATE_DIALOG(message_id=7993*, default_option=0*, option_flags=0*)
+ 22: 0x006F [0x24] CREATE_DIALOG(message_id=7994*, default_option=0*, option_flags=0*)
     → "Exit the President's Office? [Yes./No.]"
  23: 0x0076 [0x25] WAIT_DIALOG_SELECT()
  24: 0x0077 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0095
@@ -430,18 +430,18 @@ SUBROUTINE_0095:
  16: 0x0100 [0x1C] WAIT(120* ticks)
  17: 0x0103 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Volker (ID: 17748014/0x010ED02E), Volker (ID: 17748014/0x010ED02E)], work=200*
  18: 0x0112 [0x79] LocalPlayer looks at Volker (ID: 17748014/0x010ED02E) (Basic look)
- 19: 0x011C [0x2B] Volker (ID: 17748014/0x010ED02E) [7943*]:
+ 19: 0x011C [0x2B] Volker (ID: 17748014/0x010ED02E) [7944*]:
     → "You've done it! You stopped them from bringing back the Shadow Lord!?"
  20: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0124 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ev00" with entities [Volker (ID: 17748014/0x010ED02E), Volker (ID: 17748014/0x010ED02E)], work=200*
  22: 0x0133 [0x27] REQ_SET(priority=0x0A, entity_id=Cid (ID: 17748011/0x010ED02B), tag_num=0x11)
  23: 0x013A [0x79] LocalPlayer looks at Cid (ID: 17748011/0x010ED02B) (Basic look)
- 24: 0x0144 [0x2B] Cid (ID: 17748011/0x010ED02B) [7944*]:
+ 24: 0x0144 [0x2B] Cid (ID: 17748011/0x010ED02B) [7945*]:
     → "What are you talking about, Volker? They probably defeated him and sent him back where he belongs! Am I right?"
  25: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x014C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ib01" with entities [Volker (ID: 17748014/0x010ED02E), Volker (ID: 17748014/0x010ED02E)], work=200*
  27: 0x015B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=137*
- 28: 0x016A [0x2B] Volker (ID: 17748014/0x010ED02E) [7945*]:
+ 28: 0x016A [0x2B] Volker (ID: 17748014/0x010ED02E) [7946*]:
     → "What? Defeat him? But that's..."
  29: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0172 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Cid (ID: 17748011/0x010ED02B))
@@ -450,44 +450,44 @@ SUBROUTINE_0095:
  33: 0x0182 [0x79] LocalPlayer looks at Lucius (ID: 17747992/0x010ED018) (Basic look)
  34: 0x018C [0x79] Cid (ID: 17748011/0x010ED02B) looks at Lucius (ID: 17747992/0x010ED018) (Basic look)
  35: 0x0196 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=[137*, 0*]
- 36: 0x01A7 [0x2B] Lucius (ID: 17747992/0x010ED018) [7946*]:
+ 36: 0x01A7 [0x2B] Lucius (ID: 17747992/0x010ED018) [7947*]:
     → "Impossible? You find it hard to believe that some adventurer could defeat the Shadow Lord, Captain? Have you not heard what the townspeople are saying?"
  37: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x01AF [0x4A] Cid (ID: 17748011/0x010ED02B) looks at Volker (ID: 17748014/0x010ED02E)
  39: 0x01B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  40: 0x01B9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Cid (ID: 17748011/0x010ED02B) Render.Flags0 and Render.Flags3 conditions are met
  41: 0x01BE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=110*
- 42: 0x01CD [0x2B] Cid (ID: 17748011/0x010ED02B) [7947*]:
+ 42: 0x01CD [0x2B] Cid (ID: 17748011/0x010ED02B) [7948*]:
     → "They're saying the Age of the Adventurers has come!"
  43: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x01D5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=110*
  45: 0x01E4 [0x27] REQ_SET(priority=0x0A, entity_id=Karst (ID: 17748010/0x010ED02A), tag_num=0x15)
  46: 0x01EB [0x1C] WAIT(30* ticks)
  47: 0x01EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[137*, 0*]
- 48: 0x01FF [0x2B] Karst (ID: 17748010/0x010ED02A) [7948*]:
+ 48: 0x01FF [0x2B] Karst (ID: 17748010/0x010ED02A) [7949*]:
     → "Hmph. Only historians, in posterity, have the privilege of saying such things."
  49: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0207 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Karst (ID: 17748010/0x010ED02A))
  51: 0x020D [0x79] Karst (ID: 17748010/0x010ED02A) looks at LocalPlayer (Basic look)
- 52: 0x0217 [0x2B] Karst (ID: 17748010/0x010ED02A) [7949*]:
+ 52: 0x0217 [0x2B] Karst (ID: 17748010/0x010ED02A) [7950*]:
     → "And it does not matter if they only stopped the Shadow Lord from returning, or if they actually defeated him."
  53: 0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x021F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Karst (ID: 17748010/0x010ED02A), Karst (ID: 17748010/0x010ED02A)], work=150*
- 55: 0x022E [0x2B] Karst (ID: 17748010/0x010ED02A) [7950*]:
+ 55: 0x022E [0x2B] Karst (ID: 17748010/0x010ED02A) [7951*]:
     → "The important thing is that they kept the Kindred from gaining power. And that, I believe, deserves a reward."
  56: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0236 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Karst (ID: 17748010/0x010ED02A), Karst (ID: 17748010/0x010ED02A)], work=150*
- 58: 0x0245 [0x2B] Karst (ID: 17748010/0x010ED02A) [7951*]:
+ 58: 0x0245 [0x2B] Karst (ID: 17748010/0x010ED02A) [7952*]:
     → "Good work. I am raising your rank. And here is your well-deserved reward."
  59: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x024D [0x79] Cid (ID: 17748011/0x010ED02B) looks at LocalPlayer (Basic look)
  61: 0x0257 [0x27] REQ_SET(priority=0x0A, entity_id=Lucius (ID: 17747992/0x010ED018), tag_num=0x18)
  62: 0x025E [0x1C] WAIT(20* ticks)
- 63: 0x0261 [0x2B] Lucius (ID: 17747992/0x010ED018) [7952*]:
+ 63: 0x0261 [0x2B] Lucius (ID: 17747992/0x010ED018) [7953*]:
     → "The Shadow Lord may have been vanquished again, but the Kindred are far from defeated. I have received reports of strange goings-on in the beastmen's strongholds."
  64: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0269 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=110*
- 66: 0x0278 [0x2B] Cid (ID: 17748011/0x010ED02B) [7953*]:
+ 66: 0x0278 [0x2B] Cid (ID: 17748011/0x010ED02B) [7954*]:
     → "You've probably heard this too many times, but...we're counting on you."
  67: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0280 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=110*
@@ -501,44 +501,44 @@ SUBROUTINE_0095:
  76: 0x02CC [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x19)
  77: 0x02D3 [0x27] REQ_SET(priority=0x0A, entity_id=Cid (ID: 17748011/0x010ED02B), tag_num=0x12)
  78: 0x02DA [0x1C] WAIT(120* ticks)
- 79: 0x02DD [0x2B] Cid (ID: 17748011/0x010ED02B) [7954*]:
+ 79: 0x02DD [0x2B] Cid (ID: 17748011/0x010ED02B) [7955*]:
     → "So that was who the Shadow Lord was... Zeid must have known, and that's probably why he went off on his own."
  80: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x02E5 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Cid (ID: 17748011/0x010ED02B))
  82: 0x02EB [0x4A] Cid (ID: 17748011/0x010ED02B) looks at LocalPlayer
  83: 0x02F4 [0x79] LocalPlayer looks at Cid (ID: 17748011/0x010ED02B) (Basic look)
- 84: 0x02FE [0x2B] Cid (ID: 17748011/0x010ED02B) [7955*]:
+ 84: 0x02FE [0x2B] Cid (ID: 17748011/0x010ED02B) [7956*]:
     → "Don't tell Volker about this. Ulrich's fate should also be kept from him, too. He may not be able to accept it yet."
  85: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0306 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=111*
- 87: 0x0315 [0x2B] Cid (ID: 17748011/0x010ED02B) [7956*]:
+ 87: 0x0315 [0x2B] Cid (ID: 17748011/0x010ED02B) [7957*]:
     → "He admired his grandfather a lot...that's why it pained him to hear people say that Volker, himself, only became Captain because Raogrimm was gone."
  88: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x031D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=137*
  90: 0x032C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [LocalPlayer, LocalPlayer], work=[137*, 0*]
- 91: 0x033D [0x2B] Cid (ID: 17748011/0x010ED02B) [7957*]:
+ 91: 0x033D [0x2B] Cid (ID: 17748011/0x010ED02B) [7958*]:
     → "I know that hiding the truth from him is not a good thing, but most of us are not as strong as you. We need time to heal."
  92: 0x0344 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0345 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=111*
  94: 0x0354 [0x27] REQ_SET(priority=0x0A, entity_id=Lucius (ID: 17747992/0x010ED018), tag_num=0x19)
  95: 0x035B [0x1C] WAIT(120* ticks)
- 96: 0x035E [0x2B] Lucius (ID: 17747992/0x010ED018) [7958*]:
+ 96: 0x035E [0x2B] Lucius (ID: 17747992/0x010ED018) [7959*]:
     → "Sorry to interrupt. What are you two talking about?"
  97: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0366 [0x27] REQ_SET(priority=0x0A, entity_id=Volker (ID: 17748014/0x010ED02E), tag_num=0x19)
  99: 0x036D [0x4A] Cid (ID: 17748011/0x010ED02B) looks at Lucius (ID: 17747992/0x010ED018)
-100: 0x0376 [0x2B] Cid (ID: 17748011/0x010ED02B) [7959*]:
+100: 0x0376 [0x2B] Cid (ID: 17748011/0x010ED02B) [7960*]:
     → "Uh...just saying that Karst really hasn't changed, even after all of this."
 101: 0x037D [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x037E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Volker (ID: 17748014/0x010ED02E))
 103: 0x0384 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17748014/0x010ED02E), Volker (ID: 17748014/0x010ED02E)], work=200*
 104: 0x0393 [0x79] Cid (ID: 17748011/0x010ED02B) looks at Volker (ID: 17748014/0x010ED02E) (Basic look)
-105: 0x039D [0x2B] Volker (ID: 17748014/0x010ED02E) [7960*]:
+105: 0x039D [0x2B] Volker (ID: 17748014/0x010ED02E) [7961*]:
     → "Yes, but I think I understand him better now. I may have been judging him too harshly."
 106: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x03A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17748014/0x010ED02E), Volker (ID: 17748014/0x010ED02E)], work=200*
 108: 0x03B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Lucius (ID: 17747992/0x010ED018), Lucius (ID: 17747992/0x010ED018)], work=0*
-109: 0x03C3 [0x2B] Lucius (ID: 17747992/0x010ED018) [7961*]:
+109: 0x03C3 [0x2B] Lucius (ID: 17747992/0x010ED018) [7962*]:
     → "Speaking of which...you still have not told us why you backed President Karst in the last elections, Chief."
 110: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x03CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Lucius (ID: 17747992/0x010ED018), Lucius (ID: 17747992/0x010ED018)], work=0*
@@ -548,17 +548,17 @@ SUBROUTINE_0095:
 115: 0x03F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=[137*, 0*]
 116: 0x0406 [0x1C] WAIT(30* ticks)
 117: 0x0409 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "omo0" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=111*
-118: 0x0418 [0x2B] Cid (ID: 17748011/0x010ED02B) [7962*]:
+118: 0x0418 [0x2B] Cid (ID: 17748011/0x010ED02B) [7963*]:
     → "Oh, that. Well... Fifteen years ago, even after I resigned my post as head of the Gunpowder Room, the Senate was still in chaos, trying to find more people to blame for the accident in Palborough."
 119: 0x041F [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x0420 [0x2B] Cid (ID: 17748011/0x010ED02B) [7963*]:
+120: 0x0420 [0x2B] Cid (ID: 17748011/0x010ED02B) [7964*]:
     → "But there was one junior senator there who proposed we abandon Palborough and reopen the Zeruhn Mines. That junior senator was Karst."
 121: 0x0427 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x0428 [0x2B] Cid (ID: 17748011/0x010ED02B) [7964*]:
+122: 0x0428 [0x2B] Cid (ID: 17748011/0x010ED02B) [7965*]:
     → "The miners stood to lose a lot, but at the time, his proposal was Bastok's best bet. I'm an engineer, so I respect skill. And I felt that Karst's political skills could be trusted."
 123: 0x042F [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x0430 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "omo1" with entities [Cid (ID: 17748011/0x010ED02B), Cid (ID: 17748011/0x010ED02B)], work=111*
-125: 0x043F [0x2B] Cid (ID: 17748011/0x010ED02B) [7965*]:
+125: 0x043F [0x2B] Cid (ID: 17748011/0x010ED02B) [7966*]:
     → "And he's a real Bastoker, too--very ambitious, and real easy to figure out. I can still remember the eager look on his face when he announced his proposal to the Senate!"
 126: 0x0446 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0447 [0x1C] WAIT(10* ticks)

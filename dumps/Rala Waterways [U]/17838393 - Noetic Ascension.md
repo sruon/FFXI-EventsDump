@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CC3      |        7363 |
+|       1 | 0x1CC4      |        7364 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0006      |           6 |
@@ -34,37 +34,37 @@
 |      11 | 0x000C      |          12 |
 |      12 | 0x000D      |          13 |
 |      13 | 0x0012      |          18 |
-|      14 | 0x1CC5      |        7365 |
-|      15 | 0x1CD7      |        7383 |
-|      16 | 0x1CC4      |        7364 |
-|      17 | 0x1CDF      |        7391 |
-|      18 | 0x1CC6      |        7366 |
-|      19 | 0x1CD8      |        7384 |
-|      20 | 0x1CD9      |        7385 |
-|      21 | 0x1CE0      |        7392 |
-|      22 | 0x1CE1      |        7393 |
+|      14 | 0x1CC6      |        7366 |
+|      15 | 0x1CD8      |        7384 |
+|      16 | 0x1CC5      |        7365 |
+|      17 | 0x1CE0      |        7392 |
+|      18 | 0x1CC7      |        7367 |
+|      19 | 0x1CD9      |        7385 |
+|      20 | 0x1CDA      |        7386 |
+|      21 | 0x1CE1      |        7393 |
+|      22 | 0x1CE2      |        7394 |
 |      23 | 0x000A      |          10 |
-|      24 | 0x1CC8      |        7368 |
-|      25 | 0x1CC9      |        7369 |
-|      26 | 0x1CCA      |        7370 |
-|      27 | 0x1CCB      |        7371 |
+|      24 | 0x1CC9      |        7369 |
+|      25 | 0x1CCA      |        7370 |
+|      26 | 0x1CCB      |        7371 |
+|      27 | 0x1CCC      |        7372 |
 
 ## String References
 
-- **7363**: What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]
-- **7364**: Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Fenestral Boons.]
-- **7365**: Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]
-- **7366**: Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? [Yes./No.]
-- **7368**: You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+
-- **7369**: [$25/$26] Magic Defense+
-- **7370**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+
-- **7371**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+
-- **7383**: Which benefit? [None. Go back./Stockade Cons. 1./Stockade Cons. 2./Cantonment Rest./Stockade Const. 3./Stockade Const. 4./Decreased Defending Time.]
-- **7384**: The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased.
-- **7385**: Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? [Yes./No.]
-- **7391**: Which benefit? [None. Go back./Fragments+ (Weak)./Fragments+ (Medium)./Fragments+ (Strong)./Fragments+ (Very Strong)./Fragments+ (Colossal).]
-- **7392**: An inexplicable force possesses the recipient that allows them to obtain fenestral fragments.
-- **7393**: Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? [Yes./No.]
+- **7364**: What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]
+- **7365**: Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Fenestral Boons.]
+- **7366**: Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]
+- **7367**: Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? [Yes./No.]
+- **7369**: You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+
+- **7370**: [$25/$26] Magic Defense+
+- **7371**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+
+- **7372**: [$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+
+- **7384**: Which benefit? [None. Go back./Stockade Cons. 1./Stockade Cons. 2./Cantonment Rest./Stockade Const. 3./Stockade Const. 4./Decreased Defending Time.]
+- **7385**: The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased.
+- **7386**: Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? [Yes./No.]
+- **7392**: Which benefit? [None. Go back./Fragments+ (Weak)./Fragments+ (Medium)./Fragments+ (Strong)./Fragments+ (Very Strong)./Fragments+ (Colossal).]
+- **7393**: An inexplicable force possesses the recipient that allows them to obtain fenestral fragments.
+- **7394**: Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? [Yes./No.]
 
 ## Events
 
@@ -194,7 +194,7 @@
   3: 0x0010 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   4: 0x0015 [0x06] ExtData[1]->WorkLocal[4] = 0
   5: 0x0018 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0055
-  6: 0x0020 [0x24] CREATE_DIALOG(message_id=7363*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+  6: 0x0020 [0x24] CREATE_DIALOG(message_id=7364*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What shall you do? [Nothing./Have benefits bestowed upon you./Check active benefits.]"
   7: 0x0027 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0028 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0036
@@ -332,7 +332,7 @@ SUBROUTINE_0239:
 116: 0x0247 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0252
 117: 0x024F [0x01] GOTO 0x0301
 118: 0x0252 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0273
-119: 0x025A [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+119: 0x025A [0x24] CREATE_DIALOG(message_id=7366*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]"
 120: 0x0261 [0x25] WAIT_DIALOG_SELECT()
 121: 0x0262 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0270
@@ -342,14 +342,14 @@ SUBROUTINE_0239:
 SUBROUTINE_0270:
 124: 0x0270 [0x01] GOTO 0x0301
 125: 0x0273 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x02BA
-126: 0x027B [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+126: 0x027B [0x24] CREATE_DIALOG(message_id=7366*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Defensive Measures.]"
 127: 0x0282 [0x25] WAIT_DIALOG_SELECT()
 128: 0x0283 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0291
 129: 0x028B [0x05] ExtData[1]->WorkLocal[13] = 1
 130: 0x028E [0x01] GOTO 0x02B7
 131: 0x0291 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x02B7
-132: 0x0299 [0x24] CREATE_DIALOG(message_id=7383*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+132: 0x0299 [0x24] CREATE_DIALOG(message_id=7384*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Which benefit? [None. Go back./Stockade Cons. 1./Stockade Cons. 2./Cantonment Rest./Stockade Const. 3./Stockade Const. 4./Decreased Defending Time.]"
 133: 0x02A0 [0x25] WAIT_DIALOG_SELECT()
 134: 0x02A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AF
@@ -363,14 +363,14 @@ SUBROUTINE_02B4:
 SUBROUTINE_02B7:
 139: 0x02B7 [0x01] GOTO 0x0301
 140: 0x02BA [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0301
-141: 0x02C2 [0x24] CREATE_DIALOG(message_id=7364*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+141: 0x02C2 [0x24] CREATE_DIALOG(message_id=7365*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Which benefit? [None./Bayld+./Obsidian Fragments+./Attack+./Defense+./Magic Attack+./Magic Defense+./Map Obtainment./HP & MP Recovery+./TP3000+./HP+./MP+./Movement Speed+./Fenestral Boons.]"
 142: 0x02C9 [0x25] WAIT_DIALOG_SELECT()
 143: 0x02CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D8
 144: 0x02D2 [0x05] ExtData[1]->WorkLocal[13] = 1
 145: 0x02D5 [0x01] GOTO 0x02FE
 146: 0x02D8 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x02FE
-147: 0x02E0 [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+147: 0x02E0 [0x24] CREATE_DIALOG(message_id=7392*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Which benefit? [None. Go back./Fragments+ (Weak)./Fragments+ (Medium)./Fragments+ (Strong)./Fragments+ (Very Strong)./Fragments+ (Colossal).]"
 148: 0x02E7 [0x25] WAIT_DIALOG_SELECT()
 149: 0x02E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F6
@@ -391,7 +391,7 @@ SUBROUTINE_0301:
 158: 0x0319 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
 159: 0x031E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
 160: 0x0323 [0x0C] Work_Zone[2]--
-161: 0x0326 [0x24] CREATE_DIALOG(message_id=7366*, default_option=1*, option_flags=0*)
+161: 0x0326 [0x24] CREATE_DIALOG(message_id=7367*, default_option=1*, option_flags=0*)
     → "Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? [Yes./No.]"
 162: 0x032D [0x25] WAIT_DIALOG_SELECT()
 163: 0x032E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0344
@@ -409,10 +409,10 @@ SUBROUTINE_0344:
 173: 0x035C [0x03] Work_Zone[2] = Work_Zone[0]
 174: 0x0361 [0x0C] Work_Zone[2]--
 175: 0x0364 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0370
-176: 0x036C [0x48] [System] [7384*]:
+176: 0x036C [0x48] [System] [7385*]:
     → "The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased."
 177: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
-178: 0x0370 [0x24] CREATE_DIALOG(message_id=7385*, default_option=1*, option_flags=0*)
+178: 0x0370 [0x24] CREATE_DIALOG(message_id=7386*, default_option=1*, option_flags=0*)
     → "Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? [Yes./No.]"
 179: 0x0377 [0x25] WAIT_DIALOG_SELECT()
 180: 0x0378 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038E
@@ -424,7 +424,7 @@ SUBROUTINE_0344:
 SUBROUTINE_038E:
 185: 0x038E [0x01] GOTO 0x03D3
 186: 0x0391 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x03D3
-187: 0x0399 [0x48] [System] [7392*]:
+187: 0x0399 [0x48] [System] [7393*]:
     → "An inexplicable force possesses the recipient that allows them to obtain fenestral fragments."
 188: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x039D [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
@@ -432,7 +432,7 @@ SUBROUTINE_038E:
 191: 0x03A5 [0x07] ExtData[1]->WorkLocal[5] += 13*
 192: 0x03AA [0x03] Work_Zone[2] = Work_Zone[0]
 193: 0x03AF [0x0C] Work_Zone[2]--
-194: 0x03B2 [0x24] CREATE_DIALOG(message_id=7393*, default_option=1*, option_flags=0*)
+194: 0x03B2 [0x24] CREATE_DIALOG(message_id=7394*, default_option=1*, option_flags=0*)
     → "Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? [Yes./No.]"
 195: 0x03B9 [0x25] WAIT_DIALOG_SELECT()
 196: 0x03BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D0
@@ -462,11 +462,11 @@ SUBROUTINE_03D7:
 214: 0x0429 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
 215: 0x042E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 216: 0x0433 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
-217: 0x0438 [0x48] [System] [7368*]:
+217: 0x0438 [0x48] [System] [7369*]:
     → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
 218: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x043C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-220: 0x0441 [0x48] [System] [7369*]:
+220: 0x0441 [0x48] [System] [7370*]:
     → "[$25/$26] Magic Defense+"
 221: 0x0444 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x0445 [0x01] GOTO 0x04FD
@@ -474,11 +474,11 @@ SUBROUTINE_03D7:
 224: 0x0450 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
 225: 0x0455 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 226: 0x045A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
-227: 0x045F [0x48] [System] [7368*]:
+227: 0x045F [0x48] [System] [7369*]:
     → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
 228: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x0463 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-230: 0x0468 [0x48] [System] [7369*]:
+230: 0x0468 [0x48] [System] [7370*]:
     → "[$25/$26] Magic Defense+"
 231: 0x046B [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x046C [0x01] GOTO 0x04FD
@@ -486,11 +486,11 @@ SUBROUTINE_03D7:
 234: 0x0477 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
 235: 0x047C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 236: 0x0481 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
-237: 0x0486 [0x48] [System] [7368*]:
+237: 0x0486 [0x48] [System] [7369*]:
     → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
 238: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x048A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
-240: 0x048F [0x48] [System] [7369*]:
+240: 0x048F [0x48] [System] [7370*]:
     → "[$25/$26] Magic Defense+"
 241: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x0493 [0x01] GOTO 0x04FD
@@ -498,13 +498,13 @@ SUBROUTINE_03D7:
 244: 0x049E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
 245: 0x04A3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 246: 0x04A8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
-247: 0x04AD [0x48] [System] [7368*]:
+247: 0x04AD [0x48] [System] [7369*]:
     → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
 248: 0x04B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x04B1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 250: 0x04B6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
 251: 0x04BB [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
-252: 0x04C0 [0x48] [System] [7370*]:
+252: 0x04C0 [0x48] [System] [7371*]:
     → "[$25/$26] Magic Defense+ [$25/$1638747/$26] MP+"
 253: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x04C4 [0x01] GOTO 0x04FD
@@ -512,14 +512,14 @@ SUBROUTINE_03D7:
 256: 0x04CF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
 257: 0x04D4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 258: 0x04D9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
-259: 0x04DE [0x48] [System] [7368*]:
+259: 0x04DE [0x48] [System] [7369*]:
     → "You are currently blessed with the following powers... [$25/$26] Attack+ [$25/$26] Defense+ [$25/$26] Magic Attack+"
 260: 0x04E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x04E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
 262: 0x04E7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[19]
 263: 0x04EC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[20]
 264: 0x04F1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[21]
-265: 0x04F6 [0x48] [System] [7371*]:
+265: 0x04F6 [0x48] [System] [7372*]:
     → "[$25/$26] Magic Defense+ [$25/$1638747/$26] MP+ [$25/$26] Movement Speed+"
 266: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 267: 0x04FA [0x01] GOTO 0x04FD

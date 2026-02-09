@@ -23,9 +23,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2CF1      |       11505 |
-|       1 | 0x2CF2      |       11506 |
-|       2 | 0x2D06      |       11526 |
+|       0 | 0x2CF2      |       11506 |
+|       1 | 0x2CF3      |       11507 |
+|       2 | 0x2D07      |       11527 |
 
 ## Events
 
@@ -116,10 +116,10 @@
 
 ```
   0: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0008 [0x2B] Ranpi-Monpi (ID: 17162718/0x0105E1DE) [11505*]:
+  1: 0x0008 [0x2B] Ranpi-Monpi (ID: 17162718/0x0105E1DE) [11506*]:
     → "I truly wish nozing more zan to be able to eat unique and extraordinarily new delectable foods..."
   2: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0010 [0x2B] Ranpi-Monpi (ID: 17162718/0x0105E1DE) [11506*]:
+  3: 0x0010 [0x2B] Ranpi-Monpi (ID: 17162718/0x0105E1DE) [11507*]:
     → "But I fear zere are no such chefs left here een Windurst..."
   4: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0018 [0x21] END_EVENT
@@ -147,7 +147,7 @@
 
 ```
   0: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001F [0x2B] Ranpi-Monpi (ID: 17162718/0x0105E1DE) [11526*]:
+  1: 0x001F [0x2B] Ranpi-Monpi (ID: 17162718/0x0105E1DE) [11527*]:
     → "I cannot wait for zee time to come when we can take our time and enjoy cooking again!"
   2: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0027 [0x21] END_EVENT

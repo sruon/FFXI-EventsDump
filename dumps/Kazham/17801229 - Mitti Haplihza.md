@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2734      |       10036 |
-|       3 | 0x2735      |       10037 |
-|       4 | 0x2880      |       10368 |
-|       5 | 0x2881      |       10369 |
+|       2 | 0x2735      |       10037 |
+|       3 | 0x2736      |       10038 |
+|       4 | 0x2881      |       10369 |
+|       5 | 0x2882      |       10370 |
 
 ## String References
 
-- **10036**: This is just a rrrumor, but I heard that the chieftainness has the hots for some old Hume guy.
-- **10037**: I can't see why any Mithra would go for a Hume guy. What's good about a guy that can't even pick up the scent of his prrrey?
-- **10368**: How would you mainlanders put it?
-- **10369**: "Forgive my imperrrtinence, but you seem to have a rather unique odorrr about you today..." Is that close?
+- **10037**: This is just a rrrumor, but I heard that the chieftainness has the hots for some old Hume guy.
+- **10038**: I can't see why any Mithra would go for a Hume guy. What's good about a guy that can't even pick up the scent of his prrrey?
+- **10369**: How would you mainlanders put it?
+- **10370**: "Forgive my imperrrtinence, but you seem to have a rather unique odorrr about you today..." Is that close?
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mitti Haplihza (ID: 17801229/0x010FA00D), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10036*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10037*)
     → "This is just a rrrumor, but I heard that the chieftainness has the hots for some old Hume guy."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10037*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
     → "I can't see why any Mithra would go for a Hume guy. What's good about a guy that can't even pick up the scent of his prrrey?"
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mitti Haplihza (ID: 17801229/0x010FA00D), tag_num=0x02)
@@ -171,10 +171,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mitti Haplihza (ID: 17801229/0x010FA00D), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10368*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10369*)
     → "How would you mainlanders put it?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10369*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10370*)
     → ""Forgive my imperrrtinence, but you seem to have a rather unique odorrr about you today..." Is that close?"
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mitti Haplihza (ID: 17801229/0x010FA00D), tag_num=0x02)

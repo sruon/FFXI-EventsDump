@@ -86,7 +86,7 @@
 |       5 | 0x0002      |           2 |
 |       6 | 0x001E      |          30 |
 |       7 | 0x00D7      |         215 |
-|       8 | 0x2A21      |       10785 |
+|       8 | 0x2A22      |       10786 |
 |       9 | 0x0005      |           5 |
 |      10 | 0x225E      |        8798 |
 |      11 | 0x0F8C      |        3980 |
@@ -108,162 +108,162 @@
 |      27 | 0x225D      |        8797 |
 |      28 | 0x0F6F      |        3951 |
 |      29 | 0x0032      |          50 |
-|      30 | 0x2A22      |       10786 |
+|      30 | 0x2A23      |       10787 |
 |      31 | 0x1904      |        6404 |
 |      32 | 0x0578      |        1400 |
 |      33 | 0x013C      |         316 |
 |      34 | 0x000A      |          10 |
 |      35 | 0x0CB7      |        3255 |
 |      36 | 0x000F      |          15 |
-|      37 | 0x2A23      |       10787 |
+|      37 | 0x2A24      |       10788 |
 |      38 | 0x0876      |        2166 |
 |      39 | 0x00C2      |         194 |
 |      40 | 0x007F      |         127 |
 |      41 | 0x012C      |         300 |
 |      42 | 0x0028      |          40 |
 |      43 | 0x0008      |           8 |
-|      44 | 0x2A58      |       10840 |
+|      44 | 0x2A59      |       10841 |
 |      45 | 0x0079      |         121 |
-|      46 | 0x2A2C      |       10796 |
-|      47 | 0x2A59      |       10841 |
-|      48 | 0x2A5A      |       10842 |
-|      49 | 0x2A7B      |       10875 |
-|      50 | 0x2A29      |       10793 |
+|      46 | 0x2A2D      |       10797 |
+|      47 | 0x2A5A      |       10842 |
+|      48 | 0x2A5B      |       10843 |
+|      49 | 0x2A7C      |       10876 |
+|      50 | 0x2A2A      |       10794 |
 |      51 | 0x0096      |         150 |
 |      52 | 0x00F0      |         240 |
-|      53 | 0x2A2A      |       10794 |
-|      54 | 0x2A7C      |       10876 |
-|      55 | 0x2A7D      |       10877 |
-|      56 | 0x2A7E      |       10878 |
-|      57 | 0x2A24      |       10788 |
-|      58 | 0x2A25      |       10789 |
-|      59 | 0x2A26      |       10790 |
+|      53 | 0x2A2B      |       10795 |
+|      54 | 0x2A7D      |       10877 |
+|      55 | 0x2A7E      |       10878 |
+|      56 | 0x2A7F      |       10879 |
+|      57 | 0x2A25      |       10789 |
+|      58 | 0x2A26      |       10790 |
+|      59 | 0x2A27      |       10791 |
 |      60 | 0x0034      |          52 |
-|      61 | 0x2A27      |       10791 |
-|      62 | 0x2A28      |       10792 |
-|      63 | 0x2A2B      |       10795 |
+|      61 | 0x2A28      |       10792 |
+|      62 | 0x2A29      |       10793 |
+|      63 | 0x2A2C      |       10796 |
 |      64 | 0x073E      |        1854 |
 |      65 | 0x000D      |          13 |
 |      66 | 0x1F3E      |        7998 |
 |      67 | 0x0011      |          17 |
 |      68 | 0x0012      |          18 |
-|      69 | 0x29B7      |       10679 |
-|      70 | 0x2AA9      |       10921 |
+|      69 | 0x29B8      |       10680 |
+|      70 | 0x2AAA      |       10922 |
 |      71 | 0x0009      |           9 |
 |      72 | 0x000B      |          11 |
 |      73 | 0x1778      |        6008 |
 |      74 | 0x0013      |          19 |
 |      75 | 0x0014      |          20 |
 |      76 | 0x0015      |          21 |
-|      77 | 0x29B8      |       10680 |
-|      78 | 0x29B9      |       10681 |
+|      77 | 0x29B9      |       10681 |
+|      78 | 0x29BA      |       10682 |
 |      79 | 0x2710      |       10000 |
-|      80 | 0x29ED      |       10733 |
-|      81 | 0x29A1      |       10657 |
+|      80 | 0x29EE      |       10734 |
+|      81 | 0x29A2      |       10658 |
 |      82 | 0x0078      |         120 |
-|      83 | 0x29F0      |       10736 |
+|      83 | 0x29F1      |       10737 |
 |      84 | 0x1EF0      |        7920 |
-|      85 | 0x29EE      |       10734 |
-|      86 | 0x29F2      |       10738 |
-|      87 | 0x29EF      |       10735 |
+|      85 | 0x29EF      |       10735 |
+|      86 | 0x29F3      |       10739 |
+|      87 | 0x29F0      |       10736 |
 |      88 | 0x18EF      |        6383 |
-|      89 | 0x29F1      |       10737 |
+|      89 | 0x29F2      |       10738 |
 |      90 | 0x18FD      |        6397 |
-|      91 | 0x29F3      |       10739 |
-|      92 | 0x29F4      |       10740 |
-|      93 | 0x2A0A      |       10762 |
+|      91 | 0x29F4      |       10740 |
+|      92 | 0x29F5      |       10741 |
+|      93 | 0x2A0B      |       10763 |
 |      94 | 0x0064      |         100 |
-|      95 | 0x2A0C      |       10764 |
-|      96 | 0x2A0B      |       10763 |
-|      97 | 0x2A0D      |       10765 |
+|      95 | 0x2A0D      |       10765 |
+|      96 | 0x2A0C      |       10764 |
+|      97 | 0x2A0E      |       10766 |
 |      98 | 0x01F4      |         500 |
 |      99 | 0x09C4      |        2500 |
 |     100 | 0x270F      |        9999 |
 |     101 | 0x0CFD      |        3325 |
-|     102 | 0x2A56      |       10838 |
-|     103 | 0x2A79      |       10873 |
-|     104 | 0x29E4      |       10724 |
-|     105 | 0x29E5      |       10725 |
-|     106 | 0x29E7      |       10727 |
-|     107 | 0x29E8      |       10728 |
-|     108 | 0x29E9      |       10729 |
+|     102 | 0x2A57      |       10839 |
+|     103 | 0x2A7A      |       10874 |
+|     104 | 0x29E5      |       10725 |
+|     105 | 0x29E6      |       10726 |
+|     106 | 0x29E8      |       10728 |
+|     107 | 0x29E9      |       10729 |
+|     108 | 0x29EA      |       10730 |
 |     109 | 0x000C      |          12 |
-|     110 | 0x29EA      |       10730 |
-|     111 | 0x29E6      |       10726 |
+|     110 | 0x29EB      |       10731 |
+|     111 | 0x29E7      |       10727 |
 |     112 | 0x2713      |       10003 |
 |     113 | 0x2712      |       10002 |
 |     114 | 0x2711      |       10001 |
-|     115 | 0x29EC      |       10732 |
+|     115 | 0x29ED      |       10733 |
 |     116 | 0x271A      |       10010 |
 |     117 | 0x2719      |       10009 |
 |     118 | 0x2718      |       10008 |
 |     119 | 0x0006      |           6 |
-|     120 | 0x29BA      |       10682 |
-|     121 | 0x29BB      |       10683 |
-|     122 | 0x29BC      |       10684 |
-|     123 | 0x29BD      |       10685 |
-|     124 | 0x29BE      |       10686 |
-|     125 | 0x29BF      |       10687 |
-|     126 | 0x29C0      |       10688 |
-|     127 | 0x29C1      |       10689 |
-|     128 | 0x29C2      |       10690 |
-|     129 | 0x29C3      |       10691 |
-|     130 | 0x29C4      |       10692 |
-|     131 | 0x29C5      |       10693 |
-|     132 | 0x29C6      |       10694 |
+|     120 | 0x29BB      |       10683 |
+|     121 | 0x29BC      |       10684 |
+|     122 | 0x29BD      |       10685 |
+|     123 | 0x29BE      |       10686 |
+|     124 | 0x29BF      |       10687 |
+|     125 | 0x29C0      |       10688 |
+|     126 | 0x29C1      |       10689 |
+|     127 | 0x29C2      |       10690 |
+|     128 | 0x29C3      |       10691 |
+|     129 | 0x29C4      |       10692 |
+|     130 | 0x29C5      |       10693 |
+|     131 | 0x29C6      |       10694 |
+|     132 | 0x29C7      |       10695 |
 |     133 | 0x0050      |          80 |
-|     134 | 0x29C7      |       10695 |
-|     135 | 0x29C8      |       10696 |
+|     134 | 0x29C8      |       10696 |
+|     135 | 0x29C9      |       10697 |
 |     136 | 0x0007      |           7 |
-|     137 | 0x29C9      |       10697 |
-|     138 | 0x29CA      |       10698 |
-|     139 | 0x29CB      |       10699 |
-|     140 | 0x29CC      |       10700 |
-|     141 | 0x29CD      |       10701 |
-|     142 | 0x29CE      |       10702 |
-|     143 | 0x29CF      |       10703 |
-|     144 | 0x29D0      |       10704 |
-|     145 | 0x29D1      |       10705 |
-|     146 | 0x29D2      |       10706 |
-|     147 | 0x29D3      |       10707 |
-|     148 | 0x29D4      |       10708 |
-|     149 | 0x29D5      |       10709 |
-|     150 | 0x29D6      |       10710 |
-|     151 | 0x29D7      |       10711 |
+|     137 | 0x29CA      |       10698 |
+|     138 | 0x29CB      |       10699 |
+|     139 | 0x29CC      |       10700 |
+|     140 | 0x29CD      |       10701 |
+|     141 | 0x29CE      |       10702 |
+|     142 | 0x29CF      |       10703 |
+|     143 | 0x29D0      |       10704 |
+|     144 | 0x29D1      |       10705 |
+|     145 | 0x29D2      |       10706 |
+|     146 | 0x29D3      |       10707 |
+|     147 | 0x29D4      |       10708 |
+|     148 | 0x29D5      |       10709 |
+|     149 | 0x29D6      |       10710 |
+|     150 | 0x29D7      |       10711 |
+|     151 | 0x29D8      |       10712 |
 |     152 | 0x089C      |        2204 |
-|     153 | 0x29D8      |       10712 |
-|     154 | 0x29D9      |       10713 |
-|     155 | 0x29DA      |       10714 |
-|     156 | 0x29DB      |       10715 |
-|     157 | 0x29DC      |       10716 |
-|     158 | 0x29DD      |       10717 |
-|     159 | 0x29DE      |       10718 |
-|     160 | 0x29DF      |       10719 |
-|     161 | 0x29E0      |       10720 |
-|     162 | 0x29E1      |       10721 |
-|     163 | 0x29E2      |       10722 |
-|     164 | 0x29E3      |       10723 |
-|     165 | 0x29F5      |       10741 |
-|     166 | 0x29F8      |       10744 |
+|     153 | 0x29D9      |       10713 |
+|     154 | 0x29DA      |       10714 |
+|     155 | 0x29DB      |       10715 |
+|     156 | 0x29DC      |       10716 |
+|     157 | 0x29DD      |       10717 |
+|     158 | 0x29DE      |       10718 |
+|     159 | 0x29DF      |       10719 |
+|     160 | 0x29E0      |       10720 |
+|     161 | 0x29E1      |       10721 |
+|     162 | 0x29E2      |       10722 |
+|     163 | 0x29E3      |       10723 |
+|     164 | 0x29E4      |       10724 |
+|     165 | 0x29F6      |       10742 |
+|     166 | 0x29F9      |       10745 |
 |     167 | 0x03C0      |         960 |
-|     168 | 0x29F6      |       10742 |
-|     169 | 0x29FA      |       10746 |
-|     170 | 0x29F7      |       10743 |
-|     171 | 0x29F9      |       10745 |
-|     172 | 0x29FB      |       10747 |
-|     173 | 0x29FC      |       10748 |
-|     174 | 0x29FE      |       10750 |
-|     175 | 0x29FD      |       10749 |
+|     168 | 0x29F7      |       10743 |
+|     169 | 0x29FB      |       10747 |
+|     170 | 0x29F8      |       10744 |
+|     171 | 0x29FA      |       10746 |
+|     172 | 0x29FC      |       10748 |
+|     173 | 0x29FD      |       10749 |
+|     174 | 0x29FF      |       10751 |
+|     175 | 0x29FE      |       10750 |
 |     176 | 0x01FE      |         510 |
 |     177 | 0x000E      |          14 |
 |     178 | 0x0010      |          16 |
-|     179 | 0x29FF      |       10751 |
-|     180 | 0x2A00      |       10752 |
-|     181 | 0x2A01      |       10753 |
-|     182 | 0x2A04      |       10756 |
-|     183 | 0x2A02      |       10754 |
-|     184 | 0x2A03      |       10755 |
-|     185 | 0x2A05      |       10757 |
+|     179 | 0x2A00      |       10752 |
+|     180 | 0x2A01      |       10753 |
+|     181 | 0x2A02      |       10754 |
+|     182 | 0x2A05      |       10757 |
+|     183 | 0x2A03      |       10755 |
+|     184 | 0x2A04      |       10756 |
+|     185 | 0x2A06      |       10758 |
 |     186 | 0x64D9      |       25817 |
 |     187 | 0x0065      |         101 |
 |     188 | 0x679B      |       26523 |
@@ -274,10 +274,10 @@
 |     193 | 0x006A      |         106 |
 |     194 | 0x006B      |         107 |
 |     195 | 0x0C42      |        3138 |
-|     196 | 0x2A06      |       10758 |
-|     197 | 0x2A8E      |       10894 |
-|     198 | 0x2A90      |       10896 |
-|     199 | 0x2A91      |       10897 |
+|     196 | 0x2A07      |       10759 |
+|     197 | 0x2A8F      |       10895 |
+|     198 | 0x2A91      |       10897 |
+|     199 | 0x2A92      |       10898 |
 |     200 | 0x6BBC      |       27580 |
 |     201 | 0x6BBD      |       27581 |
 |     202 | 0x6BBE      |       27582 |
@@ -290,9 +290,9 @@
 |     209 | 0x6BC5      |       27589 |
 |     210 | 0x6BC6      |       27590 |
 |     211 | 0x6BC7      |       27591 |
-|     212 | 0x2A07      |       10759 |
-|     213 | 0x2A08      |       10760 |
-|     214 | 0x2A09      |       10761 |
+|     212 | 0x2A08      |       10760 |
+|     213 | 0x2A09      |       10761 |
+|     214 | 0x2A0A      |       10762 |
 |     215 | 0x168F      |        5775 |
 |     216 | 0x15A6      |        5542 |
 |     217 | 0x160D      |        5645 |
@@ -305,75 +305,75 @@
 |     224 | 0x30D40     |      200000 |
 |     225 | 0x7A120     |      500000 |
 |     226 | 0x03E8      |        1000 |
-|     227 | 0x29A2      |       10658 |
-|     228 | 0x29A3      |       10659 |
-|     229 | 0x29A4      |       10660 |
-|     230 | 0x29A5      |       10661 |
-|     231 | 0x29A6      |       10662 |
-|     232 | 0x29A7      |       10663 |
-|     233 | 0x29A8      |       10664 |
-|     234 | 0x29A9      |       10665 |
-|     235 | 0x29AA      |       10666 |
-|     236 | 0x29AB      |       10667 |
-|     237 | 0x29AC      |       10668 |
-|     238 | 0x29AD      |       10669 |
-|     239 | 0x29AE      |       10670 |
-|     240 | 0x29AF      |       10671 |
-|     241 | 0x29B0      |       10672 |
-|     242 | 0x29B1      |       10673 |
-|     243 | 0x29B2      |       10674 |
-|     244 | 0x29B3      |       10675 |
-|     245 | 0x29B4      |       10676 |
-|     246 | 0x29B5      |       10677 |
-|     247 | 0x29B6      |       10678 |
-|     248 | 0x2A49      |       10825 |
-|     249 | 0x2A4A      |       10826 |
-|     250 | 0x2A4B      |       10827 |
-|     251 | 0x2A4C      |       10828 |
-|     252 | 0x2A4D      |       10829 |
-|     253 | 0x2A4E      |       10830 |
-|     254 | 0x2A4F      |       10831 |
-|     255 | 0x2A50      |       10832 |
-|     256 | 0x2A51      |       10833 |
-|     257 | 0x2A52      |       10834 |
-|     258 | 0x2A53      |       10835 |
+|     227 | 0x29A3      |       10659 |
+|     228 | 0x29A4      |       10660 |
+|     229 | 0x29A5      |       10661 |
+|     230 | 0x29A6      |       10662 |
+|     231 | 0x29A7      |       10663 |
+|     232 | 0x29A8      |       10664 |
+|     233 | 0x29A9      |       10665 |
+|     234 | 0x29AA      |       10666 |
+|     235 | 0x29AB      |       10667 |
+|     236 | 0x29AC      |       10668 |
+|     237 | 0x29AD      |       10669 |
+|     238 | 0x29AE      |       10670 |
+|     239 | 0x29AF      |       10671 |
+|     240 | 0x29B0      |       10672 |
+|     241 | 0x29B1      |       10673 |
+|     242 | 0x29B2      |       10674 |
+|     243 | 0x29B3      |       10675 |
+|     244 | 0x29B4      |       10676 |
+|     245 | 0x29B5      |       10677 |
+|     246 | 0x29B6      |       10678 |
+|     247 | 0x29B7      |       10679 |
+|     248 | 0x2A4A      |       10826 |
+|     249 | 0x2A4B      |       10827 |
+|     250 | 0x2A4C      |       10828 |
+|     251 | 0x2A4D      |       10829 |
+|     252 | 0x2A4E      |       10830 |
+|     253 | 0x2A4F      |       10831 |
+|     254 | 0x2A50      |       10832 |
+|     255 | 0x2A51      |       10833 |
+|     256 | 0x2A52      |       10834 |
+|     257 | 0x2A53      |       10835 |
+|     258 | 0x2A54      |       10836 |
 |     259 | 0x251C      |        9500 |
-|     260 | 0x2A54      |       10836 |
-|     261 | 0x2A55      |       10837 |
-|     262 | 0x2A57      |       10839 |
-|     263 | 0x2A6C      |       10860 |
-|     264 | 0x2A6D      |       10861 |
+|     260 | 0x2A55      |       10837 |
+|     261 | 0x2A56      |       10838 |
+|     262 | 0x2A58      |       10840 |
+|     263 | 0x2A6D      |       10861 |
+|     264 | 0x2A6E      |       10862 |
 |     265 | 0x0A0B      |        2571 |
-|     266 | 0x2A6E      |       10862 |
-|     267 | 0x2A6F      |       10863 |
-|     268 | 0x2A70      |       10864 |
-|     269 | 0x2A71      |       10865 |
-|     270 | 0x2A72      |       10866 |
-|     271 | 0x2A73      |       10867 |
-|     272 | 0x2A74      |       10868 |
-|     273 | 0x2A75      |       10869 |
-|     274 | 0x2A76      |       10870 |
+|     266 | 0x2A6F      |       10863 |
+|     267 | 0x2A70      |       10864 |
+|     268 | 0x2A71      |       10865 |
+|     269 | 0x2A72      |       10866 |
+|     270 | 0x2A73      |       10867 |
+|     271 | 0x2A74      |       10868 |
+|     272 | 0x2A75      |       10869 |
+|     273 | 0x2A76      |       10870 |
+|     274 | 0x2A77      |       10871 |
 |     275 | 0x251D      |        9501 |
-|     276 | 0x2A77      |       10871 |
-|     277 | 0x2A78      |       10872 |
-|     278 | 0x2A7A      |       10874 |
-|     279 | 0x2A0E      |       10766 |
-|     280 | 0x2A0F      |       10767 |
-|     281 | 0x2A10      |       10768 |
-|     282 | 0x2A11      |       10769 |
-|     283 | 0x2A12      |       10770 |
-|     284 | 0x2A13      |       10771 |
-|     285 | 0x2A14      |       10772 |
-|     286 | 0x2A15      |       10773 |
-|     287 | 0x2A16      |       10774 |
-|     288 | 0x2A18      |       10776 |
-|     289 | 0x2A19      |       10777 |
-|     290 | 0x2A17      |       10775 |
-|     291 | 0x2A1A      |       10778 |
-|     292 | 0x2A1B      |       10779 |
-|     293 | 0x2A1C      |       10780 |
-|     294 | 0x29EB      |       10731 |
-|     295 | 0x2A2D      |       10797 |
+|     276 | 0x2A78      |       10872 |
+|     277 | 0x2A79      |       10873 |
+|     278 | 0x2A7B      |       10875 |
+|     279 | 0x2A0F      |       10767 |
+|     280 | 0x2A10      |       10768 |
+|     281 | 0x2A11      |       10769 |
+|     282 | 0x2A12      |       10770 |
+|     283 | 0x2A13      |       10771 |
+|     284 | 0x2A14      |       10772 |
+|     285 | 0x2A15      |       10773 |
+|     286 | 0x2A16      |       10774 |
+|     287 | 0x2A17      |       10775 |
+|     288 | 0x2A19      |       10777 |
+|     289 | 0x2A1A      |       10778 |
+|     290 | 0x2A18      |       10776 |
+|     291 | 0x2A1B      |       10779 |
+|     292 | 0x2A1C      |       10780 |
+|     293 | 0x2A1D      |       10781 |
+|     294 | 0x29EC      |       10732 |
+|     295 | 0x2A2E      |       10798 |
 |     296 | 0x524B      |       21067 |
 |     297 | 0x524C      |       21068 |
 |     298 | 0x524D      |       21069 |
@@ -382,74 +382,74 @@
 |     301 | 0x510F      |       20751 |
 |     302 | 0x5110      |       20752 |
 |     303 | 0x5111      |       20753 |
-|     304 | 0x2A2E      |       10798 |
-|     305 | 0x2A2F      |       10799 |
-|     306 | 0x2A30      |       10800 |
-|     307 | 0x2A32      |       10802 |
-|     308 | 0x2A33      |       10803 |
+|     304 | 0x2A2F      |       10799 |
+|     305 | 0x2A30      |       10800 |
+|     306 | 0x2A31      |       10801 |
+|     307 | 0x2A33      |       10803 |
+|     308 | 0x2A34      |       10804 |
 |     309 | 0x958940    |     9800000 |
 |     310 | 0xF4240     |     1000000 |
-|     311 | 0x2A34      |       10804 |
-|     312 | 0x2A31      |       10801 |
+|     311 | 0x2A35      |       10805 |
+|     312 | 0x2A32      |       10802 |
 |     313 | 0x001B      |          27 |
 |     314 | 0xF6B2      |       63154 |
 |     315 | 0xFFFE4B5B  |  4294855515 |
 |     316 | 0xFFFF632C  |  4294927148 |
 |     317 | 0x0918      |        2328 |
 |     318 | 0x026B      |         619 |
-|     319 | 0x2A35      |       10805 |
+|     319 | 0x2A36      |       10806 |
 |     320 | 0x0082      |         130 |
 |     321 | 0x010E      |         270 |
-|     322 | 0x2A36      |       10806 |
+|     322 | 0x2A37      |       10807 |
 |     323 | 0x003C      |          60 |
-|     324 | 0x29A0      |       10656 |
-|     325 | 0x2AAA      |       10922 |
+|     324 | 0x29A1      |       10657 |
+|     325 | 0x2AAB      |       10923 |
 |     326 | 0x1B61      |        7009 |
 |     327 | 0x005A      |          90 |
-|     328 | 0x2AAB      |       10923 |
-|     329 | 0x2AAC      |       10924 |
-|     330 | 0x2AAD      |       10925 |
-|     331 | 0x2AAE      |       10926 |
-|     332 | 0x2AAF      |       10927 |
-|     333 | 0x2AB0      |       10928 |
-|     334 | 0x2AB1      |       10929 |
-|     335 | 0x2AB2      |       10930 |
-|     336 | 0x2AB3      |       10931 |
-|     337 | 0x2AB4      |       10932 |
-|     338 | 0x2E3D      |       11837 |
-|     339 | 0x2A89      |       10889 |
-|     340 | 0x2A8A      |       10890 |
-|     341 | 0x2A8B      |       10891 |
-|     342 | 0x2A8C      |       10892 |
-|     343 | 0x2A8D      |       10893 |
-|     344 | 0x2A8F      |       10895 |
-|     345 | 0x2A92      |       10898 |
-|     346 | 0x2A93      |       10899 |
-|     347 | 0x2A94      |       10900 |
-|     348 | 0x2A95      |       10901 |
-|     349 | 0x2A96      |       10902 |
-|     350 | 0x2A97      |       10903 |
+|     328 | 0x2AAC      |       10924 |
+|     329 | 0x2AAD      |       10925 |
+|     330 | 0x2AAE      |       10926 |
+|     331 | 0x2AAF      |       10927 |
+|     332 | 0x2AB0      |       10928 |
+|     333 | 0x2AB1      |       10929 |
+|     334 | 0x2AB2      |       10930 |
+|     335 | 0x2AB3      |       10931 |
+|     336 | 0x2AB4      |       10932 |
+|     337 | 0x2AB5      |       10933 |
+|     338 | 0x2E3E      |       11838 |
+|     339 | 0x2A8A      |       10890 |
+|     340 | 0x2A8B      |       10891 |
+|     341 | 0x2A8C      |       10892 |
+|     342 | 0x2A8D      |       10893 |
+|     343 | 0x2A8E      |       10894 |
+|     344 | 0x2A90      |       10896 |
+|     345 | 0x2A93      |       10899 |
+|     346 | 0x2A94      |       10900 |
+|     347 | 0x2A95      |       10901 |
+|     348 | 0x2A96      |       10902 |
+|     349 | 0x2A97      |       10903 |
+|     350 | 0x2A98      |       10904 |
 |     351 | 0x003A      |          58 |
 |     352 | 0x00B4      |         180 |
-|     353 | 0x2A98      |       10904 |
-|     354 | 0x2A99      |       10905 |
-|     355 | 0x2A9A      |       10906 |
-|     356 | 0x2A9B      |       10907 |
-|     357 | 0x2A9C      |       10908 |
-|     358 | 0x2A9D      |       10909 |
-|     359 | 0x2A9E      |       10910 |
-|     360 | 0x2A9F      |       10911 |
-|     361 | 0x2AA0      |       10912 |
-|     362 | 0x2AA1      |       10913 |
-|     363 | 0x2AA2      |       10914 |
-|     364 | 0x2AA3      |       10915 |
-|     365 | 0x2AA4      |       10916 |
+|     353 | 0x2A99      |       10905 |
+|     354 | 0x2A9A      |       10906 |
+|     355 | 0x2A9B      |       10907 |
+|     356 | 0x2A9C      |       10908 |
+|     357 | 0x2A9D      |       10909 |
+|     358 | 0x2A9E      |       10910 |
+|     359 | 0x2A9F      |       10911 |
+|     360 | 0x2AA0      |       10912 |
+|     361 | 0x2AA1      |       10913 |
+|     362 | 0x2AA2      |       10914 |
+|     363 | 0x2AA3      |       10915 |
+|     364 | 0x2AA4      |       10916 |
+|     365 | 0x2AA5      |       10917 |
 |     366 | 0x0036      |          54 |
 |     367 | 0x5CFF      |       23807 |
-|     368 | 0x2AA5      |       10917 |
-|     369 | 0x2AA6      |       10918 |
-|     370 | 0x2AA7      |       10919 |
-|     371 | 0x2AA8      |       10920 |
+|     368 | 0x2AA6      |       10918 |
+|     369 | 0x2AA7      |       10919 |
+|     370 | 0x2AA8      |       10920 |
+|     371 | 0x2AA9      |       10921 |
 |     372 | 0x0035      |          53 |
 |     373 | 0x0BFE      |        3070 |
 |     374 | 0x5D00      |       23808 |
@@ -468,8 +468,8 @@
 |     387 | 0x665A      |       26202 |
 |     388 | 0x665B      |       26203 |
 |     389 | 0x1871      |        6257 |
-|     390 | 0x2E53      |       11859 |
-|     391 | 0x2E54      |       11860 |
+|     390 | 0x2E54      |       11860 |
+|     391 | 0x2E55      |       11861 |
 |     392 | 0xFFFEF660  |  4294899296 |
 |     393 | 0xFFFFD8F0  |  4294957296 |
 
@@ -479,212 +479,212 @@
 - **6397**: You obtain $1 $0 !
 - **6404**: The $1 $0 are returned to you.
 - **7009**: You have obtained $0 bayld!
-- **10656**: Always a pleasure doin' business with ya. As fer the brrread, this is about all I can bake at the moment. Take it or leave it, buster.
-- **10657**: Runje Desaali stares intently at you.
-- **10658**: That's a keen body ya got goin' on, [tough guy/bearcat].
-- **10659**: Oh, I don't mean it in a cat scrrratch fever-type of way.
-- **10660**: I just meant that you's got more of an aura 'bout ya than the cugines 'rrround these parts.
-- **10661**: You's frrrom the Middle Lands, ain'tchya?
-- **10662**: You from the Middle Lands? [Yep./Nope.]
-- **10663**: Huh, whaddya know. Oh well, it ain't my concern.
-- **10664**: What does concern me is yer prrrowess as a pioneer.
-- **10665**: Ah, I almost furrrgot ta introduce m'self. As I always say, "It's trust that funds good business." <Wink>
-- **10666**: The name's Runje Desaali, and sellin' goods is my game. I's just a rrrun-of-the-mill merchant from the teensiest of the southern islands.
-- **10667**: In all my years on the lam, I ain't never seen a continent so wild as this one. Mindartia, Quon, Aradjiah...they's so overcrrrowded compared to this place.
-- **10668**: It always pays ta be foist on the scene. Ya get ta make yer own rules, see. That's why I hopped a ship as soon as I heard they were lookin' fer pioneers.
-- **10669**: But I rrreally didn't expect things ta play out the way they did.
-- **10670**: Walkin' about the Corrronal Esplanade, I bumped inta a Taru by the name of Chero-Machero. I swear, his lips flapped faster'n the west wind, but his sense fer dough was spot on.
-- **10671**: After we talked shop fer a while, I found out that he's big cheese in Adoulin...
-- **10672**: "There ain't gonna be no better mark than this!" I rrreasoned, so I purred my heart out, made him a cat's-paw, and now I's peddlin' under the Oider of Goiney name.
-- **10673**: But don't go blabbin' this all over the strrreet. I'd hafta send ya a message through the mouth, if ya know what I mean.
-- **10674**: Just say I'm runnin' an on-the-level operation thanks to an Adoulinian noble's good grrraces. That oughtta do it.
-- **10675**: Ya keep it at that, and I won't brrrin' in the enforcers.
-- **10676**: But you don't wanna hear the whole History of Runje, do ya? This ain't no shakedown, but if ya got any currrios the locals say have a history behind them, I'm all ears.
-- **10677**: Trade me one, and I'll pay ya trrribute with some fat-cat bayld.
-- **10678**: Now bugger off unless ya got somethin' for me.
-- **10679**: Got some business with me?
-- **10680**: Got business with her? [Nope./Buy $0./View materials. [(GEO)/(RUN)]/Quit collecting. [(GEO)/(RUN)]/Resume collecting materials. (GEO)/Resume collecting materials. (RUN)/Which weapons can I trade?/What's with the leafkin?/High-purity bayld?/I want some $6./What does Geosuke recommend?/What are special services?/I want to check treasures.]
-- **10681**: Anytime, [wiseguy/wisegal].
-- **10682**: I's mainly interested in the merchandise prrrovided by the Peacekeepers' Coalition. You know, "traditional weaponry" or whatever name ya give 'em.
-- **10683**: I ain't above takin' those Records of Eminence rrrewards, either. A.M.A.N. makes some ducky stuff.
-- **10684**: What adventurers from the Middle Lands may see as the dullest of the dull, the cafones here'll cram down their own throats in glee. The grrrass is always greener, see.
-- **10685**: Fer yer fine contributions, I'll make ya an offer ya can't rrrefuse...1/$0 the price you's bought it fer, but in bayld.
-- **10686**: I'll also take special equipment dropped by the lords of the jungle off yer hands. Those that ya can't offload on those shrills at the auction house.
-- **10687**: I's got me a strrrict no-returns policy, too. Try to take one back and I'll put out a contrrract on ya.
-- **10688**: What's gonna happen to yer prrrecious little weapon after ya part ways with it?
-- **10689**: It'll help me fulfill favors to people who visit me on the day of my daughter's weddin'.
-- **10690**: Copacetic, rrright?
-- **10691**: Have anything to say? [Not particularly.../Very fine, indeed./Remain silent.]
-- **10692**: Why not!? As the don of my own enterprrrise, I's gotta prepare fer the future.
-- **10693**: Naw, I'm just pullin' yer leg. I actually send the valuable ones to my soldiers who distrrribute them to-- Haha, ya almost had me givin' away my trade secret there.
-- **10694**: Exactly! Gotta put family foist.
-- **10695**: Say somethin'! Anythin'! I'm dyin' over here.
-- **10696**: All that aside, I want me some old-time weapons. Rrremember that.
-- **10697**: Oh, this friend of mine? I picked him up on an excurrrsion with a Scouts' Coalition survey crew.
-- **10698**: He was losin' foliage rrright and left when I found him. Someone musta put out a hit on him.
-- **10699**: I've no idea--they's pretty harmless. I only know them from the Mummers' Coalition shield prrrize and rumors, but I'd say they's more mischievous than malicious.
-- **10700**: Don't get me wrong--I'd've let him get pinched except for that his cutesy face might brrrin' in customers. "Oooh, I'd give away all my equipment just to pet Runje's little shrub again!"
-- **10701**: Those so-called reconnaissance expurrrts didn't even see me sweep this guy up from under they's noses! Maybe I should take up griftin', too!
-- **10702**: Despite my intentions, this bramble's taken a likin' ta yers trrruly.
-- **10703**: And his leafy face is startin' ta grrrow on me, not to mention that since he don't speak right, he's a real stand-up guy.
-- **10705**: Did I tell ya he's got a swingin' supernatural power?
-- **10706**: Give him $0 and he'll crrrank out bushels of special crystallized ergon tinctures.
-- **10707**: I's found a way to take those crystallizations and synthesize 'em into choice rings poifect fer a discernin' fencer like yaself.
-- **10708**: Sadly, one $0 ain't gonna getchya very far...
-- **10709**: I's been waitin' with bated brrreath fer ya ta ask that question!
-- **10710**: As ya can imagine from the name, it's bayld that's of a higherrr quality than the normal stuff.
-- **10711**: The power layin' low in this stuff is two--no, three times more effective than yer used to. Plus, ya gotta bootleg it into the city, makin' fer a rrrisky and expensive venture.
-- **10712**: <Sniff><sniff> Hm, that's the smell of sawdust fer sure. If ya know the $3 skill, then I's sure ya seen high-purity bayld in some form before.
-- **10713**: Ya know those tree roots that block yer path in the jungle and are thicker'n the gams on Ingrid, right? Then do ya rrrecall that some sparkly powder flies up when ya break 'em?
-- **10714**: My merrrchant's intuition tells me that's where it comes from.
-- **10715**: And considerin' that pioneers say they's been gettin' the stuff from rrreives, I's inclined to trust that hunch.
-- **10716**: We ain't prrrivy to much, but I do know that research's been pluggin' along nicely of late, and that's how the grit's startin' to get found.
-- **10717**: Getting back on trrrack, $0 are just the berries now.
-- **10718**: Aaand, as luck would have it...
-- **10719**: I just got some as vigorrrish this mornin'.
-- **10720**: What's more, I's havin' a sale of unprrrecedented proportions on it for all my [Hume/Elvaan/Tarutaru/Mithra/Galka] customers!
-- **10721**: Ya too can have yer very own pinch of it for the low, low prrrice of $1 bayld.
-- **10722**: Lemme say it again, as it bears rrrepeatin'. Yer timin' couldn't be more impeccable.
-- **10723**: Someone call a back-alley doctor, 'cuz I's bleedin' m'self drrry by givin' them away fer this little.
-- **10724**: What a pathetic joke. We all know ya took the omerta. Don't ya dare ever say somethin' that dumb ta me again, you stupid strunz.
-- **10725**: Were you just making a joke? [No, I really want out./Yes, and I'm sorry.]
-- **10726**: Damn rrright ya's sorry.
-- **10727**: Be warned. Not only will ya lose all the materials ya gathered, but yer gonna be chased to the ends of Vana'diel. Our family don't...take kindly to trrraitors.
-- **10728**: Truly give up? [Yes, I'm not afraid./No! I'm sorry!]
-- **10729**: ...Fine.
-- **10730**: Aaand now forrrk over the weapon ya wanna give up on.
-- **10731**: Don't ya worry, I'll take rrreal good care of this beauty.
-- **10732**: Here's yer weapon back--I assume yer gonna need it.
-- **10733**: The sale's still on, but not fer long! Get pinches of 'em fer $1 bayld apiece before time rrruns out!
-- **10734**: How many do you want? Enter either a number 1 through $1, or 0 to cancel. (Bayld: $2)
-- **10735**: Purchase $3 pinches? [Yes, take my $4 bayld!/Nope.]
-- **10736**: That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one.
-- **10737**: Alrrrighty, $3 $0 to the [jolly gent/lucky lady]!
-- **10738**: Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it.
-- **10739**: Here's a little kickback fer bein' such a big spenderrr.
-- **10740**: Runje provides you with $5 pinches of high-purity bayld free of charge!
-- **10741**: I's runnin' a special campaign, so they'rrre yours fer only $1 bayld a piece! So, how many ya want?
-- **10742**: How many would you like? Enter either a number 1 through $1, or 0 to cancel. (Bayld: $2)
-- **10743**: Purchase $3 piece[/s]? [Yes, take my $4 bayld!/Nope.]
-- **10744**: That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one.
-- **10745**: Alrrrighty, $3 $0 to the [jolly gent/lucky lady]!
-- **10746**: Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it.
-- **10747**: Here's a little kickback fer bein' such a big spenderrr.
-- **10748**: Runje provides you with $5 free of charge!
-- **10749**: Most of 'em were found by Geosuke, but they'rrre all top quality, I assure ya!
-- **10750**: Geosuke's got a bunch of special treasures fer you!
-- **10752**: $6, is it? That'll be $27 bayld. Are ya sure yer good fer it?
-- **10753**: Purchase the $3? [Here's my $27 bayld./Ummm, on second thought...]
-- **10754**: $26, is it? That'll be $27 bayld. Are ya sure ya can afforrrd it?
-- **10756**: Thanks! Hope ya enjoy yer $3!
-- **10757**: Therrre ya go! Hope ya like yer $0!
-- **10758**: My little patsy Geosuke here has got some special serrrvices for those who have $6.
-- **10760**: I can make that one a little more special fer ya, and it'll look somethin' like this:
-- **10761**: Youse want to improve it? It'll run ya $34 and $$ $0# .
-- **10762**: The state of yer [geomancer/rune fencer] weapon vig is somethin' like this:
-- **10763**: #: [Needed/Acquired].
-- **10764**: #: $1 of $2 acquired. ($4 needed)
-- **10765**: #: All $2 acquired.
-- **10766**: Why, it's my favorrrite shill! Wait...what's that [wand/sword] yer wavin' about?
-- **10767**: So you say someone just gave ya this thing and said "There's some latent potential in there, go!"? What a rrracket!
-- **10768**: This's gotta be just a gaff... No, it's the rrreal deal!
-- **10769**: Let me getta look at that piece of worrrk.
-- **10770**: Could use a good brushin' up, but nothin' Geosuke and I can't handle.
-- **10771**: All it needs is ta be [bathed in the powerrrs of nature/taken to special fonts of powerrr].
-- **10772**: And what'll ya need then? Not more'n a special [ergon crystal/runey ring].
-- **10773**: So if you wanna stop bein' a scab 'n make yer [wand/sword] all purrretty, brin' me...
-- **10774**: ...$1, $2, $3...
-- **10775**: ...$1...
-- **10776**: ...$2 $0$0 ...
-- **10777**: ...and $2 $0$0 .
-- **10778**: Then trrrade 'em to [that jamook Geosuke/me].
-- **10779**: Don' look so banged up. Just get 'em bit by bit and we'll keep 'em locked away safe.
-- **10780**: See, Geosuke, I says ta myself, "Runje, everrr see such a piece o' work?"...
-- **10797**: Geosuke? What're ya holdin' therrre?
-- **10798**: That's...that's $0!
-- **10799**: Damn [bastahd/puttanti], ya didn't just up 'n chuck it out, didya?
-- **10800**: Did you "drop" it? [Uh...oopsie./Must be someone else's.]
-- **10801**: Then who could've...?
-- **10802**: Ya did!? Yeah, yer a real wiseguy, ain't ya? It's all crrracked 'n chipped!
-- **10803**: <Sigh> I can make it mint-new, but it'll cost ya.
-- **10804**: $0 gil. Any less 'n I'll get the whole family after ya. Just trade it ta me.
-- **10805**: Good. One less thing on my moind.
-- **10806**: Dun be so careless next time. What kinda joint ya think I'm runnin' here?
-- **10825**: ...!
-- **10826**: You there, the [cake-eater/broad]--how's about givin' me a look at the bell you're pawing arrround with.
-- **10827**: Fooowhee, that's some ancient heat yer packing there!
-- **10828**: Y'know who could fix it rrright up for you? Me and Geosuke. Ain't never seen another leafkin who could mewl with the best of 'em!
-- **10829**: But we can get it all dolled up if ya brin' us $1 $0 .
-- **10830**: Ask her to fix it up? [Sounds like a plan./I've no interest in this arrangement.]
-- **10831**: Yer a rrreal pill, ya know that?
-- **10832**: Oh ho, fate's dealt me a cooler this time 'rrround.
-- **10833**: Been quite a while since I've gotten a joib this rrritzy!
-- **10834**: This might be yer only chance, and I promises I'll do it up rrright swell. So what'll it be?
-- **10835**: Have her repair the bell? [Yes. Geomancy waits for no one./I'd rather not.]
-- **10836**: Brin' mama the ice! You know what you gotta do--go foind me $1 $0 .
-- **10837**: Do that, and I'll have this ol' arrrtifact of yers singin' like a canary.
-- **10838**: But if'n ya trrrade them to me instead of Geosuke...then it's right to the moon!
-- **10839**: He might not look th' part, but the guy's as hard-boiled as they come.
-- **10860**: Madonn'!
-- **10861**: My whiskers're gettin' the heebie-jeebies, which can only mean ya've got ahold of somethin' with trrremendous runic powers!
-- **10862**: Aha, that's it! It's gotta be comin' frrrom that $3!
-- **10863**: Time for Geosuke ta go ta woik.
-- **10864**: Hmmm...It's lookin' like we'll need $1 $0 ta finish the joib.
-- **10865**: What do you think? [Please, work your magic!/Get outta here.]
-- **10866**: No, you get outta here, poverrrett! We ain't need yer cheapness filthin' up our operation.
-- **10867**: Supoib! I ain't had no gigs like this fer as long as I can rrremember.
-- **10868**: Just lemme get somethin' outta the way foist.
-- **10869**: This might be yer only chance, so keep that in moind. Okay, what'll it be?
-- **10870**: Have her make the weapon? [Well, if you say so./On second thought, get outta here.]
-- **10871**: Then you'll hafta prrrocure me $1 $0 , [wiseguy/wisegal].
-- **10872**: If ya can manage that, we might just be able ta extrrract that runic essence. It'll take all my cunnin', but I'm up ta the task!
-- **10873**: Trrrade me the materials and we can make a marriage between our two parties.
-- **10874**: Now go out there and do this outfit prrroud.
-- **10889**: Youse got $6, do ya?
-- **10890**: Hand on a sec, buster. You're the [guy/gal] who had the $0 from before!
-- **10891**: I's got eyes for clever thinks, y'see?
-- **10892**: That li'l thing ya brought me just now--only Geosuke and his friends can give them out to those they trust.
-- **10893**: It's kinda a badge of pride, see? And because you've got one, I's can offer ya special services.
-- **10894**: I know, I know, you want to know more. So I'll tell ya: I can improve special treasures from each of the Twelve Orders.
-- **10895**: Bet I got yer interest, didn't I?
-- **10896**: And I've also got special deals for [/Hume maes/Hume females/Elvaan males/Elvaan females/Tarutaru males/Tarutaru females/Mithra/Galka] just like you! Only $2 $1!
-- **10897**: Just trade me yer treasure along with $2 $1.
-- **10898**: Let me know if ya wanna see what it's like once I's done with it.
-- **10899**: Or wait...ya don't have any applicable treasures?
-- **10900**: Then I can't do nothin' fer ya.
-- **10901**: If ya had one but lost it, someone at th' castle might be able to help ya!
-- **10902**: Oho! Brought "it" did ya?
-- **10903**: Geosuke, c'mere and do yer thing!
-- **10904**: My turn now!
-- **10905**: Purrrfect! [A good first try, I's gotta say./Looks like it worked this time!]
-- **10906**: I mean...of course everything went well!
-- **10907**: Ah, and maybe I's forgot. Absolutely no returns or refunds.
-- **10908**: G'job, Geosuke! I figured I could train you good!
-- **10909**: Ah, if it isn't I's favorrrite pioneer!
-- **10910**: Turns out I gots a job fer ya. A bit of a time-sensitive issue frrrom a contact in Eastern Adoulin.
-- **10911**: A jungle crrreepy-crawly appears to have dropped a valuable piece o' equipment of sorts, and they want it.
-- **10912**: I's not too sure o' the details, but it suppos'dly be very popular with some forrreign tradesmen.
-- **10913**: Normally I be keepin' 'em in stock, but turns out my supply all but run drrry.
-- **10914**: 'N that's where youse be comin' in. A battle o' a middleperson, if ya will.
-- **10915**: 'Course, youse already be an experrrt in arms-dealin', no?
-- **10916**: E'ry single one you find counts. Even just one be good enough. I's be payin' a fair price fer em, too.
-- **10917**: Lemme show you the kind o' thing I's be needin'.
-- **10918**: Betcha be interrrested now, hmmm?
-- **10919**: Enough gabbin'. Get goin'!
-- **10920**: Just know that what I's be needin' can't be bought on the auction house.
-- **10921**: How's it goin'? Ya find anythin' off those crrreepy-crawlies?
-- **10922**: 'Member ta keep at it!
-- **10923**: Haha, the look on yer face! Dun worry, I's just be kiddin'. I's rememberrr our deal.
-- **10924**: So dun be gettin' yer panties in a twist.
-- **10925**: Hm? Ya 'spected somethin' else?
-- **10926**: I dun remember that bein' part o' our deal.
-- **10927**: Keep in mind that what I's be needin' ain't be available on yer e'ryday markets.
-- **10928**: Ya wanna make the good cash, ya gotta stick yer neck out. That be the way o' things.
-- **10929**: 'N the more dangerrrous the task, the higher the reward. Fair be fair, after all.
-- **10930**: Remember what keeps me happy also keep Geosuke herrre happy. Got it? I'm sure he be willin' ta sell you his wares for...ya guessed it, a fair price.
-- **10931**: We's all be friends here, no? So let's stay on each otherrr's good side.
-- **10932**: Geosuke now offers an additional selection of items.
-- **11837**: Ah, [young lady/young man], how's it going?
+- **10657**: Always a pleasure doin' business with ya. As fer the brrread, this is about all I can bake at the moment. Take it or leave it, buster.
+- **10658**: Runje Desaali stares intently at you.
+- **10659**: That's a keen body ya got goin' on, [tough guy/bearcat].
+- **10660**: Oh, I don't mean it in a cat scrrratch fever-type of way.
+- **10661**: I just meant that you's got more of an aura 'bout ya than the cugines 'rrround these parts.
+- **10662**: You's frrrom the Middle Lands, ain'tchya?
+- **10663**: You from the Middle Lands? [Yep./Nope.]
+- **10664**: Huh, whaddya know. Oh well, it ain't my concern.
+- **10665**: What does concern me is yer prrrowess as a pioneer.
+- **10666**: Ah, I almost furrrgot ta introduce m'self. As I always say, "It's trust that funds good business." <Wink>
+- **10667**: The name's Runje Desaali, and sellin' goods is my game. I's just a rrrun-of-the-mill merchant from the teensiest of the southern islands.
+- **10668**: In all my years on the lam, I ain't never seen a continent so wild as this one. Mindartia, Quon, Aradjiah...they's so overcrrrowded compared to this place.
+- **10669**: It always pays ta be foist on the scene. Ya get ta make yer own rules, see. That's why I hopped a ship as soon as I heard they were lookin' fer pioneers.
+- **10670**: But I rrreally didn't expect things ta play out the way they did.
+- **10671**: Walkin' about the Corrronal Esplanade, I bumped inta a Taru by the name of Chero-Machero. I swear, his lips flapped faster'n the west wind, but his sense fer dough was spot on.
+- **10672**: After we talked shop fer a while, I found out that he's big cheese in Adoulin...
+- **10673**: "There ain't gonna be no better mark than this!" I rrreasoned, so I purred my heart out, made him a cat's-paw, and now I's peddlin' under the Oider of Goiney name.
+- **10674**: But don't go blabbin' this all over the strrreet. I'd hafta send ya a message through the mouth, if ya know what I mean.
+- **10675**: Just say I'm runnin' an on-the-level operation thanks to an Adoulinian noble's good grrraces. That oughtta do it.
+- **10676**: Ya keep it at that, and I won't brrrin' in the enforcers.
+- **10677**: But you don't wanna hear the whole History of Runje, do ya? This ain't no shakedown, but if ya got any currrios the locals say have a history behind them, I'm all ears.
+- **10678**: Trade me one, and I'll pay ya trrribute with some fat-cat bayld.
+- **10679**: Now bugger off unless ya got somethin' for me.
+- **10680**: Got some business with me?
+- **10681**: Got business with her? [Nope./Buy $0./View materials. [(GEO)/(RUN)]/Quit collecting. [(GEO)/(RUN)]/Resume collecting materials. (GEO)/Resume collecting materials. (RUN)/Which weapons can I trade?/What's with the leafkin?/High-purity bayld?/I want some $6./What does Geosuke recommend?/What are special services?/I want to check treasures.]
+- **10682**: Anytime, [wiseguy/wisegal].
+- **10683**: I's mainly interested in the merchandise prrrovided by the Peacekeepers' Coalition. You know, "traditional weaponry" or whatever name ya give 'em.
+- **10684**: I ain't above takin' those Records of Eminence rrrewards, either. A.M.A.N. makes some ducky stuff.
+- **10685**: What adventurers from the Middle Lands may see as the dullest of the dull, the cafones here'll cram down their own throats in glee. The grrrass is always greener, see.
+- **10686**: Fer yer fine contributions, I'll make ya an offer ya can't rrrefuse...1/$0 the price you's bought it fer, but in bayld.
+- **10687**: I'll also take special equipment dropped by the lords of the jungle off yer hands. Those that ya can't offload on those shrills at the auction house.
+- **10688**: I's got me a strrrict no-returns policy, too. Try to take one back and I'll put out a contrrract on ya.
+- **10689**: What's gonna happen to yer prrrecious little weapon after ya part ways with it?
+- **10690**: It'll help me fulfill favors to people who visit me on the day of my daughter's weddin'.
+- **10691**: Copacetic, rrright?
+- **10692**: Have anything to say? [Not particularly.../Very fine, indeed./Remain silent.]
+- **10693**: Why not!? As the don of my own enterprrrise, I's gotta prepare fer the future.
+- **10694**: Naw, I'm just pullin' yer leg. I actually send the valuable ones to my soldiers who distrrribute them to-- Haha, ya almost had me givin' away my trade secret there.
+- **10695**: Exactly! Gotta put family foist.
+- **10696**: Say somethin'! Anythin'! I'm dyin' over here.
+- **10697**: All that aside, I want me some old-time weapons. Rrremember that.
+- **10698**: Oh, this friend of mine? I picked him up on an excurrrsion with a Scouts' Coalition survey crew.
+- **10699**: He was losin' foliage rrright and left when I found him. Someone musta put out a hit on him.
+- **10700**: I've no idea--they's pretty harmless. I only know them from the Mummers' Coalition shield prrrize and rumors, but I'd say they's more mischievous than malicious.
+- **10701**: Don't get me wrong--I'd've let him get pinched except for that his cutesy face might brrrin' in customers. "Oooh, I'd give away all my equipment just to pet Runje's little shrub again!"
+- **10702**: Those so-called reconnaissance expurrrts didn't even see me sweep this guy up from under they's noses! Maybe I should take up griftin', too!
+- **10703**: Despite my intentions, this bramble's taken a likin' ta yers trrruly.
+- **10704**: And his leafy face is startin' ta grrrow on me, not to mention that since he don't speak right, he's a real stand-up guy.
+- **10706**: Did I tell ya he's got a swingin' supernatural power?
+- **10707**: Give him $0 and he'll crrrank out bushels of special crystallized ergon tinctures.
+- **10708**: I's found a way to take those crystallizations and synthesize 'em into choice rings poifect fer a discernin' fencer like yaself.
+- **10709**: Sadly, one $0 ain't gonna getchya very far...
+- **10710**: I's been waitin' with bated brrreath fer ya ta ask that question!
+- **10711**: As ya can imagine from the name, it's bayld that's of a higherrr quality than the normal stuff.
+- **10712**: The power layin' low in this stuff is two--no, three times more effective than yer used to. Plus, ya gotta bootleg it into the city, makin' fer a rrrisky and expensive venture.
+- **10713**: <Sniff><sniff> Hm, that's the smell of sawdust fer sure. If ya know the $3 skill, then I's sure ya seen high-purity bayld in some form before.
+- **10714**: Ya know those tree roots that block yer path in the jungle and are thicker'n the gams on Ingrid, right? Then do ya rrrecall that some sparkly powder flies up when ya break 'em?
+- **10715**: My merrrchant's intuition tells me that's where it comes from.
+- **10716**: And considerin' that pioneers say they's been gettin' the stuff from rrreives, I's inclined to trust that hunch.
+- **10717**: We ain't prrrivy to much, but I do know that research's been pluggin' along nicely of late, and that's how the grit's startin' to get found.
+- **10718**: Getting back on trrrack, $0 are just the berries now.
+- **10719**: Aaand, as luck would have it...
+- **10720**: I just got some as vigorrrish this mornin'.
+- **10721**: What's more, I's havin' a sale of unprrrecedented proportions on it for all my [Hume/Elvaan/Tarutaru/Mithra/Galka] customers!
+- **10722**: Ya too can have yer very own pinch of it for the low, low prrrice of $1 bayld.
+- **10723**: Lemme say it again, as it bears rrrepeatin'. Yer timin' couldn't be more impeccable.
+- **10724**: Someone call a back-alley doctor, 'cuz I's bleedin' m'self drrry by givin' them away fer this little.
+- **10725**: What a pathetic joke. We all know ya took the omerta. Don't ya dare ever say somethin' that dumb ta me again, you stupid strunz.
+- **10726**: Were you just making a joke? [No, I really want out./Yes, and I'm sorry.]
+- **10727**: Damn rrright ya's sorry.
+- **10728**: Be warned. Not only will ya lose all the materials ya gathered, but yer gonna be chased to the ends of Vana'diel. Our family don't...take kindly to trrraitors.
+- **10729**: Truly give up? [Yes, I'm not afraid./No! I'm sorry!]
+- **10730**: ...Fine.
+- **10731**: Aaand now forrrk over the weapon ya wanna give up on.
+- **10732**: Don't ya worry, I'll take rrreal good care of this beauty.
+- **10733**: Here's yer weapon back--I assume yer gonna need it.
+- **10734**: The sale's still on, but not fer long! Get pinches of 'em fer $1 bayld apiece before time rrruns out!
+- **10735**: How many do you want? Enter either a number 1 through $1, or 0 to cancel. (Bayld: $2)
+- **10736**: Purchase $3 pinches? [Yes, take my $4 bayld!/Nope.]
+- **10737**: That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one.
+- **10738**: Alrrrighty, $3 $0 to the [jolly gent/lucky lady]!
+- **10739**: Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it.
+- **10740**: Here's a little kickback fer bein' such a big spenderrr.
+- **10741**: Runje provides you with $5 pinches of high-purity bayld free of charge!
+- **10742**: I's runnin' a special campaign, so they'rrre yours fer only $1 bayld a piece! So, how many ya want?
+- **10743**: How many would you like? Enter either a number 1 through $1, or 0 to cancel. (Bayld: $2)
+- **10744**: Purchase $3 piece[/s]? [Yes, take my $4 bayld!/Nope.]
+- **10745**: That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one.
+- **10746**: Alrrrighty, $3 $0 to the [jolly gent/lucky lady]!
+- **10747**: Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it.
+- **10748**: Here's a little kickback fer bein' such a big spenderrr.
+- **10749**: Runje provides you with $5 free of charge!
+- **10750**: Most of 'em were found by Geosuke, but they'rrre all top quality, I assure ya!
+- **10751**: Geosuke's got a bunch of special treasures fer you!
+- **10753**: $6, is it? That'll be $27 bayld. Are ya sure yer good fer it?
+- **10754**: Purchase the $3? [Here's my $27 bayld./Ummm, on second thought...]
+- **10755**: $26, is it? That'll be $27 bayld. Are ya sure ya can afforrrd it?
+- **10757**: Thanks! Hope ya enjoy yer $3!
+- **10758**: Therrre ya go! Hope ya like yer $0!
+- **10759**: My little patsy Geosuke here has got some special serrrvices for those who have $6.
+- **10761**: I can make that one a little more special fer ya, and it'll look somethin' like this:
+- **10762**: Youse want to improve it? It'll run ya $34 and $$ $0# .
+- **10763**: The state of yer [geomancer/rune fencer] weapon vig is somethin' like this:
+- **10764**: #: [Needed/Acquired].
+- **10765**: #: $1 of $2 acquired. ($4 needed)
+- **10766**: #: All $2 acquired.
+- **10767**: Why, it's my favorrrite shill! Wait...what's that [wand/sword] yer wavin' about?
+- **10768**: So you say someone just gave ya this thing and said "There's some latent potential in there, go!"? What a rrracket!
+- **10769**: This's gotta be just a gaff... No, it's the rrreal deal!
+- **10770**: Let me getta look at that piece of worrrk.
+- **10771**: Could use a good brushin' up, but nothin' Geosuke and I can't handle.
+- **10772**: All it needs is ta be [bathed in the powerrrs of nature/taken to special fonts of powerrr].
+- **10773**: And what'll ya need then? Not more'n a special [ergon crystal/runey ring].
+- **10774**: So if you wanna stop bein' a scab 'n make yer [wand/sword] all purrretty, brin' me...
+- **10775**: ...$1, $2, $3...
+- **10776**: ...$1...
+- **10777**: ...$2 $0$0 ...
+- **10778**: ...and $2 $0$0 .
+- **10779**: Then trrrade 'em to [that jamook Geosuke/me].
+- **10780**: Don' look so banged up. Just get 'em bit by bit and we'll keep 'em locked away safe.
+- **10781**: See, Geosuke, I says ta myself, "Runje, everrr see such a piece o' work?"...
+- **10798**: Geosuke? What're ya holdin' therrre?
+- **10799**: That's...that's $0!
+- **10800**: Damn [bastahd/puttanti], ya didn't just up 'n chuck it out, didya?
+- **10801**: Did you "drop" it? [Uh...oopsie./Must be someone else's.]
+- **10802**: Then who could've...?
+- **10803**: Ya did!? Yeah, yer a real wiseguy, ain't ya? It's all crrracked 'n chipped!
+- **10804**: <Sigh> I can make it mint-new, but it'll cost ya.
+- **10805**: $0 gil. Any less 'n I'll get the whole family after ya. Just trade it ta me.
+- **10806**: Good. One less thing on my moind.
+- **10807**: Dun be so careless next time. What kinda joint ya think I'm runnin' here?
+- **10826**: ...!
+- **10827**: You there, the [cake-eater/broad]--how's about givin' me a look at the bell you're pawing arrround with.
+- **10828**: Fooowhee, that's some ancient heat yer packing there!
+- **10829**: Y'know who could fix it rrright up for you? Me and Geosuke. Ain't never seen another leafkin who could mewl with the best of 'em!
+- **10830**: But we can get it all dolled up if ya brin' us $1 $0 .
+- **10831**: Ask her to fix it up? [Sounds like a plan./I've no interest in this arrangement.]
+- **10832**: Yer a rrreal pill, ya know that?
+- **10833**: Oh ho, fate's dealt me a cooler this time 'rrround.
+- **10834**: Been quite a while since I've gotten a joib this rrritzy!
+- **10835**: This might be yer only chance, and I promises I'll do it up rrright swell. So what'll it be?
+- **10836**: Have her repair the bell? [Yes. Geomancy waits for no one./I'd rather not.]
+- **10837**: Brin' mama the ice! You know what you gotta do--go foind me $1 $0 .
+- **10838**: Do that, and I'll have this ol' arrrtifact of yers singin' like a canary.
+- **10839**: But if'n ya trrrade them to me instead of Geosuke...then it's right to the moon!
+- **10840**: He might not look th' part, but the guy's as hard-boiled as they come.
+- **10861**: Madonn'!
+- **10862**: My whiskers're gettin' the heebie-jeebies, which can only mean ya've got ahold of somethin' with trrremendous runic powers!
+- **10863**: Aha, that's it! It's gotta be comin' frrrom that $3!
+- **10864**: Time for Geosuke ta go ta woik.
+- **10865**: Hmmm...It's lookin' like we'll need $1 $0 ta finish the joib.
+- **10866**: What do you think? [Please, work your magic!/Get outta here.]
+- **10867**: No, you get outta here, poverrrett! We ain't need yer cheapness filthin' up our operation.
+- **10868**: Supoib! I ain't had no gigs like this fer as long as I can rrremember.
+- **10869**: Just lemme get somethin' outta the way foist.
+- **10870**: This might be yer only chance, so keep that in moind. Okay, what'll it be?
+- **10871**: Have her make the weapon? [Well, if you say so./On second thought, get outta here.]
+- **10872**: Then you'll hafta prrrocure me $1 $0 , [wiseguy/wisegal].
+- **10873**: If ya can manage that, we might just be able ta extrrract that runic essence. It'll take all my cunnin', but I'm up ta the task!
+- **10874**: Trrrade me the materials and we can make a marriage between our two parties.
+- **10875**: Now go out there and do this outfit prrroud.
+- **10890**: Youse got $6, do ya?
+- **10891**: Hand on a sec, buster. You're the [guy/gal] who had the $0 from before!
+- **10892**: I's got eyes for clever thinks, y'see?
+- **10893**: That li'l thing ya brought me just now--only Geosuke and his friends can give them out to those they trust.
+- **10894**: It's kinda a badge of pride, see? And because you've got one, I's can offer ya special services.
+- **10895**: I know, I know, you want to know more. So I'll tell ya: I can improve special treasures from each of the Twelve Orders.
+- **10896**: Bet I got yer interest, didn't I?
+- **10897**: And I've also got special deals for [/Hume maes/Hume females/Elvaan males/Elvaan females/Tarutaru males/Tarutaru females/Mithra/Galka] just like you! Only $2 $1!
+- **10898**: Just trade me yer treasure along with $2 $1.
+- **10899**: Let me know if ya wanna see what it's like once I's done with it.
+- **10900**: Or wait...ya don't have any applicable treasures?
+- **10901**: Then I can't do nothin' fer ya.
+- **10902**: If ya had one but lost it, someone at th' castle might be able to help ya!
+- **10903**: Oho! Brought "it" did ya?
+- **10904**: Geosuke, c'mere and do yer thing!
+- **10905**: My turn now!
+- **10906**: Purrrfect! [A good first try, I's gotta say./Looks like it worked this time!]
+- **10907**: I mean...of course everything went well!
+- **10908**: Ah, and maybe I's forgot. Absolutely no returns or refunds.
+- **10909**: G'job, Geosuke! I figured I could train you good!
+- **10910**: Ah, if it isn't I's favorrrite pioneer!
+- **10911**: Turns out I gots a job fer ya. A bit of a time-sensitive issue frrrom a contact in Eastern Adoulin.
+- **10912**: A jungle crrreepy-crawly appears to have dropped a valuable piece o' equipment of sorts, and they want it.
+- **10913**: I's not too sure o' the details, but it suppos'dly be very popular with some forrreign tradesmen.
+- **10914**: Normally I be keepin' 'em in stock, but turns out my supply all but run drrry.
+- **10915**: 'N that's where youse be comin' in. A battle o' a middleperson, if ya will.
+- **10916**: 'Course, youse already be an experrrt in arms-dealin', no?
+- **10917**: E'ry single one you find counts. Even just one be good enough. I's be payin' a fair price fer em, too.
+- **10918**: Lemme show you the kind o' thing I's be needin'.
+- **10919**: Betcha be interrrested now, hmmm?
+- **10920**: Enough gabbin'. Get goin'!
+- **10921**: Just know that what I's be needin' can't be bought on the auction house.
+- **10922**: How's it goin'? Ya find anythin' off those crrreepy-crawlies?
+- **10923**: 'Member ta keep at it!
+- **10924**: Haha, the look on yer face! Dun worry, I's just be kiddin'. I's rememberrr our deal.
+- **10925**: So dun be gettin' yer panties in a twist.
+- **10926**: Hm? Ya 'spected somethin' else?
+- **10927**: I dun remember that bein' part o' our deal.
+- **10928**: Keep in mind that what I's be needin' ain't be available on yer e'ryday markets.
+- **10929**: Ya wanna make the good cash, ya gotta stick yer neck out. That be the way o' things.
+- **10930**: 'N the more dangerrrous the task, the higher the reward. Fair be fair, after all.
+- **10931**: Remember what keeps me happy also keep Geosuke herrre happy. Got it? I'm sure he be willin' ta sell you his wares for...ya guessed it, a fair price.
+- **10932**: We's all be friends here, no? So let's stay on each otherrr's good side.
+- **10933**: Geosuke now offers an additional selection of items.
+- **11838**: Ah, [young lady/young man], how's it going?
 
 ## Events
 
@@ -911,7 +911,7 @@
      0x0291 [0x1B] RETURN
      0x0292 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x029D
      0x029A [0x01] GOTO 0x0517
-     0x029D [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10785*]:
+     0x029D [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10786*]:
     → "Grrreat!"
      0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02A5 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x02C5
@@ -1014,7 +1014,7 @@
      0x04AA [0x01] GOTO 0x04AD
      0x04AD [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x0507
      0x04B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-     0x04C4 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10786*]:
+     0x04C4 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10787*]:
     → "I's after rrriches like the next Mithra, but I ain't no booster, see? Here's the extra ya gave me."
      0x04CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04CC [0x03] Work_Zone[2] = Work_Zone[3]
@@ -1044,7 +1044,7 @@
      0x0549 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x054A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Runje Desaali (ID: 17830143/0x011010FF) Render.Flags0 and Render.Flags3 conditions are met
      0x054F [0x1C] WAIT(15* ticks)
-     0x0552 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10787*]:
+     0x0552 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10788*]:
     → "G-Geosuke? What're ya up ta over there?"
      0x0559 [0x1C] WAIT(10* ticks)
      0x055C [0xC4] SCHEDULE_MAGIC_CASTING_ALT (arg=18): Geosuke (ID: 17830144/0x01101100) casts magic 2166* on Geosuke (ID: 17830144/0x01101100)
@@ -1062,7 +1062,7 @@
      0x0595 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0755
      0x059D [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0656
      0x05A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=8*
-     0x05B4 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10840*]:
+     0x05B4 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10841*]:
     → "If I says I can get the worrrk done, then I does it!"
      0x05BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05BC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ure0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
@@ -1070,7 +1070,7 @@
      0x05D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x05D3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Runje Desaali (ID: 17830143/0x011010FF) Render.Flags0 and Render.Flags3 conditions are met
      0x05D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=121*
-     0x05E7 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10796*]:
+     0x05E7 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10797*]:
     → "Now, scrrram!"
      0x05EE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05EF [0x4A] Geosuke (ID: 17830144/0x01101100) looks at LocalPlayer
@@ -1078,23 +1078,23 @@
      0x05F9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
      0x05FE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x060B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-     0x061A [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10841*]:
+     0x061A [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10842*]:
     → "But I ain't no fence, see? So don' even think of askin' me how ta use it."
      0x0621 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0622 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x062F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-     0x063E [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10842*]:
+     0x063E [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10843*]:
     → "Ya know who ya gotta ask? The dons over at the Order of Renaye. Ya got a beef with geomancy, ya go to them."
      0x0645 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0646 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x0653 [0x01] GOTO 0x0752
      0x0656 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0752
      0x065E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=8*
-     0x066D [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10875*]:
+     0x066D [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10876*]:
     → "Holy moly, what a brrrilliant success!"
      0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0675 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ure0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
-     0x0682 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10793*]:
+     0x0682 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10794*]:
     → "Now, if we just tinker with this here crystal..."
      0x0689 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x068A [0x1C] WAIT(30* ticks)
@@ -1102,14 +1102,14 @@
      0x069E [0x1C] WAIT(150* ticks)
      0x06A1 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "okex" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=[194*, 0*]
      0x06B2 [0x1C] WAIT(240* ticks)
-     0x06B5 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10794*]:
+     0x06B5 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10795*]:
     → "Poifect."
      0x06BC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06BD [0x4A] Runje Desaali (ID: 17830143/0x011010FF) looks at LocalPlayer
      0x06C6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x06C7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Runje Desaali (ID: 17830143/0x011010FF) Render.Flags0 and Render.Flags3 conditions are met
      0x06CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=121*
-     0x06DB [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10796*]:
+     0x06DB [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10797*]:
     → "Now, scrrram!"
      0x06E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06E3 [0x4A] Geosuke (ID: 17830144/0x01101100) looks at LocalPlayer
@@ -1117,30 +1117,30 @@
      0x06ED [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
      0x06F2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x06FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-     0x070E [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10876*]:
+     0x070E [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10877*]:
     → "This might be the foist time in all my nine lives I's ever laid my peepers on a catalyst with such prrristine magic."
      0x0715 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0716 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10877*]:
+     0x0716 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10878*]:
     → "Although... After mullin' it over, I'd say it's closer to rrrunic energy than normal, old magic."
      0x071D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x071E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x072B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-     0x073A [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10878*]:
+     0x073A [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10879*]:
     → "I can't quite make heads or tails outta this. Ya might hafta ask someone who comprrrehends runes a bit better'n me."
      0x0741 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0742 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x074F [0x01] GOTO 0x0752
      0x0752 [0x01] GOTO 0x0863
      0x0755 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=8*
-     0x0764 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10788*]:
+     0x0764 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10789*]:
     → "Ya dirty rat! I's scared half to death!"
      0x076B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x076C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "aww0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
-     0x0779 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10789*]:
+     0x0779 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10790*]:
     → "C'mon, show mama what ya got there."
      0x0780 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0781 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=8*
-     0x0790 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10790*]:
+     0x0790 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10791*]:
     → "Wh-whoa! Where'd ya ever learn to make..."
      0x0797 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0798 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ure0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
@@ -1150,17 +1150,17 @@
      0x07B2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Runje Desaali (ID: 17830143/0x011010FF) Render.Flags0 and Render.Flags3 conditions are met
      0x07B7 [0x1C] WAIT(30* ticks)
      0x07BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wav0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=52*
-     0x07C9 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10791*]:
+     0x07C9 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10792*]:
     → "Ahem. No, I's not skeptical. A shark like him sure knows how to fix up some sugar!"
      0x07D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07D1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wav0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
      0x07DE [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x07F1
-     0x07E6 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10792*]:
+     0x07E6 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10793*]:
     → "Just dip that ol' wand of yours inta the right ergon locus, and it'll be done faster'n ol' Gratzigg can put the screws on the Mummers' Coalition."
      0x07ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07EE [0x01] GOTO 0x083F
      0x07F1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x083F
-     0x07F9 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10793*]:
+     0x07F9 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10794*]:
     → "Now, if we just tinker with this here crystal..."
      0x0800 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0801 [0x1C] WAIT(30* ticks)
@@ -1168,15 +1168,15 @@
      0x0815 [0x1C] WAIT(150* ticks)
      0x0818 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "okex" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=[194*, 0*]
      0x0829 [0x1C] WAIT(240* ticks)
-     0x082C [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10794*]:
+     0x082C [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10795*]:
     → "Poifect."
      0x0833 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0834 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10795*]:
+     0x0834 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10796*]:
     → "Just find a place filled with runic enerrrgies and it'll be done before I can think up my next racket!"
      0x083B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x083C [0x01] GOTO 0x083F
      0x083F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-     0x084E [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10796*]:
+     0x084E [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10797*]:
     → "Now, scrrram!"
      0x0855 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0856 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
@@ -1579,17 +1579,17 @@
 SUBROUTINE_08C0:
  19: 0x08C0 [0x3E] IF !(ExtData[1]->WorkLocal[18] bit 17*) GOTO 0x08DC
  20: 0x08C7 [0x3E] IF !(ExtData[1]->WorkLocal[18] bit 18*) GOTO 0x08D5
- 21: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10679*)
+ 21: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10680*)
     → "Got some business with me?"
  22: 0x08D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x08D2 [0x01] GOTO 0x08D9
- 24: 0x08D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10921*)
+ 24: 0x08D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10922*)
     → "How's it goin'? Ya find anythin' off those crrreepy-crawlies?"
  25: 0x08D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_08D9:
  26: 0x08D9 [0x01] GOTO 0x08E0
- 27: 0x08DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10679*)
+ 27: 0x08DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10680*)
     → "Got some business with me?"
  28: 0x08DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1648,26 +1648,26 @@ SUBROUTINE_099F:
 
 SUBROUTINE_09FA:
  74: 0x09FA [0x03] Work_Zone[2] = 8798*
- 75: 0x09FF [0x24] CREATE_DIALOG(message_id=10680*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[1])
+ 75: 0x09FF [0x24] CREATE_DIALOG(message_id=10681*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[1])
     → "Got business with her? [Nope./Buy $0./View materials. [(GEO)/(RUN)]/Quit collecting. [(GEO)/(RUN)]/Resume collecting materials. (GEO)/Resume collecting materials. (RUN)/Which weapons can I trade?/What's with the leafkin?/High-purity bayld?/I want some $6./What does Geosuke recommend?/What are special services?/I want to check treasures.]"
  76: 0x0A06 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0A07 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A16
- 78: 0x0A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=10681*)
+ 78: 0x0A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=10682*)
     → "Anytime, [wiseguy/wisegal]."
  79: 0x0A12 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0A13 [0x01] GOTO 0x1E51
  81: 0x0A16 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B97
  82: 0x0A1E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
  83: 0x0A25 [0x03] Work_Zone[3] = 10000*
- 84: 0x0A2A [0x1D] PRINT_EVENT_MESSAGE(message_id=10733*)
+ 84: 0x0A2A [0x1D] PRINT_EVENT_MESSAGE(message_id=10734*)
     → "The sale's still on, but not fer long! Get pinches of 'em fer $1 bayld apiece before time rrruns out!"
  85: 0x0A2D [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0A2E [0x02] IF !(ExtData[1]->WorkLocal[6] >= 10000*) GOTO 0x0A49
  87: 0x0A36 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
- 88: 0x0A3D [0x48] [System] [10657*]:
+ 88: 0x0A3D [0x48] [System] [10658*]:
     → "Runje Desaali stares intently at you."
  89: 0x0A40 [0x1C] WAIT(120* ticks)
- 90: 0x0A43 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
+ 90: 0x0A43 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
     → "That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one."
  91: 0x0A46 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0A47 [0x21] END_EVENT
@@ -1678,7 +1678,7 @@ SUBROUTINE_09FA:
  97: 0x0A58 [0x02] IF !(Work_Zone[3] <= 7920*) GOTO 0x0A65
  98: 0x0A60 [0x03] Work_Zone[3] = 7920*
  99: 0x0A65 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[6]
-100: 0x0A6A [0x48] [System] [10734*]:
+100: 0x0A6A [0x48] [System] [10735*]:
     → "How many do you want? Enter either a number 1 through $1, or 0 to cancel. (Bayld: $2)"
 101: 0x0A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0A6E [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -1687,10 +1687,10 @@ SUBROUTINE_09FA:
 105: 0x0A7E [0x03] ExtData[1]->WorkLocal[12] = 7920*
 106: 0x0A83 [0x02] IF !(ExtData[1]->WorkLocal[12] <= Work_Zone[3]) GOTO 0x0AA5
 107: 0x0A8B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-108: 0x0A92 [0x48] [System] [10657*]:
+108: 0x0A92 [0x48] [System] [10658*]:
     → "Runje Desaali stares intently at you."
 109: 0x0A95 [0x1C] WAIT(120* ticks)
-110: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
+110: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
     → "That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one."
 111: 0x0A9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0A9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -1698,7 +1698,7 @@ SUBROUTINE_09FA:
 114: 0x0AA4 [0x00] END_REQSTACK()
 115: 0x0AA5 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x0AC1
 116: 0x0AAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-117: 0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
+117: 0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
     → "Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it."
 118: 0x0AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0AB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -1707,7 +1707,7 @@ SUBROUTINE_09FA:
 122: 0x0AC1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[12]
 123: 0x0AC6 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[12]
 124: 0x0ACB [0x14] Work_Zone[6] *= 10000*
-125: 0x0AD0 [0x24] CREATE_DIALOG(message_id=10735*, default_option=0*, option_flags=0*)
+125: 0x0AD0 [0x24] CREATE_DIALOG(message_id=10736*, default_option=0*, option_flags=0*)
     → "Purchase $3 pinches? [Yes, take my $4 bayld!/Nope.]"
 126: 0x0AD7 [0x25] WAIT_DIALOG_SELECT()
 127: 0x0AD8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B77
@@ -1730,7 +1730,7 @@ SUBROUTINE_09FA:
 143: 0x0B29 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
 144: 0x0B30 [0x03] Work_Zone[2] = 8798*
 145: 0x0B35 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[12]
-146: 0x0B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
+146: 0x0B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
     → "Alrrrighty, $3 $0 to the [jolly gent/lucky lady]!"
 147: 0x0B3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0B3E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
@@ -1740,11 +1740,11 @@ SUBROUTINE_09FA:
 151: 0x0B47 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x36)
 152: 0x0B4E [0x02] IF !(ExtData[1]->WorkLocal[13] < 1*) GOTO 0x0B71
 153: 0x0B56 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1B)
-154: 0x0B5D [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
+154: 0x0B5D [0x1D] PRINT_EVENT_MESSAGE(message_id=10740*)
     → "Here's a little kickback fer bein' such a big spenderrr."
 155: 0x0B60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0B61 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-157: 0x0B66 [0x48] [System] [10740*]:
+157: 0x0B66 [0x48] [System] [10741*]:
     → "Runje provides you with $5 pinches of high-purity bayld free of charge!"
 158: 0x0B69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0B6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
@@ -1754,7 +1754,7 @@ SUBROUTINE_0B71:
 161: 0x0B74 [0x01] GOTO 0x0B94
 162: 0x0B77 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B94
 163: 0x0B7F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-164: 0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
+164: 0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
     → "Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it."
 165: 0x0B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0B8A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -1769,7 +1769,7 @@ SUBROUTINE_0B94:
 173: 0x0BB2 [0x06] Work_Zone[2] = 0
 174: 0x0BB5 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 2*) GOTO 0x0BC1
 175: 0x0BBC [0x03] Work_Zone[2] = 1*
-176: 0x0BC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10762*)
+176: 0x0BC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10763*)
     → "The state of yer [geomancer/rune fencer] weapon vig is somethin' like this:"
 177: 0x0BC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x0BC5 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 1*) GOTO 0x0EA1
@@ -1779,7 +1779,7 @@ SUBROUTINE_0B94:
 182: 0x0BDD [0x03] Work_Zone[4] = 100*
 183: 0x0BE2 [0x03] Work_Zone[6] = 100*
 184: 0x0BE7 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-185: 0x0BEC [0x48] [System] [10764*]:
+185: 0x0BEC [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 186: 0x0BEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0BF0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
@@ -1793,7 +1793,7 @@ SUBROUTINE_0B94:
 195: 0x0C1C [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0C1F:
-196: 0x0C1F [0x48] [System] [10763*]:
+196: 0x0C1F [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 197: 0x0C22 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0C23 [0x03] Work_Zone[2] = 3979*
@@ -1803,7 +1803,7 @@ SUBROUTINE_0C1F:
 202: 0x0C37 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0C3A:
-203: 0x0C3A [0x48] [System] [10763*]:
+203: 0x0C3A [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 204: 0x0C3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x0C3E [0x03] Work_Zone[2] = 6068*
@@ -1813,20 +1813,20 @@ SUBROUTINE_0C3A:
 209: 0x0C52 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0C55:
-210: 0x0C55 [0x48] [System] [10763*]:
+210: 0x0C55 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 211: 0x0C58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x0C59 [0x03] Work_Zone[2] = 3954*
 213: 0x0C5E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
 214: 0x0C63 [0x03] Work_Zone[4] = 200*
 215: 0x0C68 [0x02] IF !(ExtData[1]->WorkLocal[10] == 200*) GOTO 0x0C77
-216: 0x0C70 [0x48] [System] [10765*]:
+216: 0x0C70 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 217: 0x0C73 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x0C74 [0x01] GOTO 0x0C85
 219: 0x0C77 [0x03] Work_Zone[6] = 200*
 220: 0x0C7C [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[10]
-221: 0x0C81 [0x48] [System] [10764*]:
+221: 0x0C81 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 222: 0x0C84 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1837,13 +1837,13 @@ SUBROUTINE_0C85:
 226: 0x0C98 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
 227: 0x0C9D [0x03] Work_Zone[4] = 500*
 228: 0x0CA2 [0x02] IF !(ExtData[1]->WorkLocal[11] == 500*) GOTO 0x0CB1
-229: 0x0CAA [0x48] [System] [10765*]:
+229: 0x0CAA [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 230: 0x0CAD [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x0CAE [0x01] GOTO 0x0CBF
 232: 0x0CB1 [0x03] Work_Zone[6] = 500*
 233: 0x0CB6 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-234: 0x0CBB [0x48] [System] [10764*]:
+234: 0x0CBB [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 235: 0x0CBE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1857,7 +1857,7 @@ SUBROUTINE_0CBF:
 242: 0x0CDD [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0CE0:
-243: 0x0CE0 [0x48] [System] [10763*]:
+243: 0x0CE0 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 244: 0x0CE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0CE4 [0x03] Work_Zone[2] = 4013*
@@ -1867,7 +1867,7 @@ SUBROUTINE_0CE0:
 249: 0x0CF8 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0CFB:
-250: 0x0CFB [0x48] [System] [10763*]:
+250: 0x0CFB [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 251: 0x0CFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0CFF [0x03] Work_Zone[2] = 8754*
@@ -1877,20 +1877,20 @@ SUBROUTINE_0CFB:
 256: 0x0D13 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0D16:
-257: 0x0D16 [0x48] [System] [10763*]:
+257: 0x0D16 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 258: 0x0D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0D1A [0x03] Work_Zone[2] = 4033*
 260: 0x0D1F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
 261: 0x0D24 [0x03] Work_Zone[4] = 200*
 262: 0x0D29 [0x02] IF !(ExtData[1]->WorkLocal[10] == 200*) GOTO 0x0D38
-263: 0x0D31 [0x48] [System] [10765*]:
+263: 0x0D31 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 264: 0x0D34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x0D35 [0x01] GOTO 0x0D46
 266: 0x0D38 [0x03] Work_Zone[6] = 200*
 267: 0x0D3D [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[10]
-268: 0x0D42 [0x48] [System] [10764*]:
+268: 0x0D42 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 269: 0x0D45 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1901,13 +1901,13 @@ SUBROUTINE_0D46:
 273: 0x0D59 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
 274: 0x0D5E [0x03] Work_Zone[4] = 2500*
 275: 0x0D63 [0x02] IF !(ExtData[1]->WorkLocal[11] == 2500*) GOTO 0x0D72
-276: 0x0D6B [0x48] [System] [10765*]:
+276: 0x0D6B [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 277: 0x0D6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0D6F [0x01] GOTO 0x0D80
 279: 0x0D72 [0x03] Work_Zone[6] = 2500*
 280: 0x0D77 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-281: 0x0D7C [0x48] [System] [10764*]:
+281: 0x0D7C [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 282: 0x0D7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1921,20 +1921,20 @@ SUBROUTINE_0D80:
 289: 0x0D9E [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0DA1:
-290: 0x0DA1 [0x48] [System] [10763*]:
+290: 0x0DA1 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 291: 0x0DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 292: 0x0DA5 [0x03] Work_Zone[2] = 3951*
 293: 0x0DAA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
 294: 0x0DAF [0x03] Work_Zone[4] = 200*
 295: 0x0DB4 [0x02] IF !(ExtData[1]->WorkLocal[10] == 200*) GOTO 0x0DC3
-296: 0x0DBC [0x48] [System] [10765*]:
+296: 0x0DBC [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 297: 0x0DBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x0DC0 [0x01] GOTO 0x0DD1
 299: 0x0DC3 [0x03] Work_Zone[6] = 200*
 300: 0x0DC8 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[10]
-301: 0x0DCD [0x48] [System] [10764*]:
+301: 0x0DCD [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 302: 0x0DD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1945,13 +1945,13 @@ SUBROUTINE_0DD1:
 306: 0x0DE4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
 307: 0x0DE9 [0x03] Work_Zone[4] = 9999*
 308: 0x0DEE [0x02] IF !(ExtData[1]->WorkLocal[11] == 9999*) GOTO 0x0DFD
-309: 0x0DF6 [0x48] [System] [10765*]:
+309: 0x0DF6 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 310: 0x0DF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x0DFA [0x01] GOTO 0x0E0B
 312: 0x0DFD [0x03] Work_Zone[6] = 9999*
 313: 0x0E02 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-314: 0x0E07 [0x48] [System] [10764*]:
+314: 0x0E07 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 315: 0x0E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1966,7 +1966,7 @@ SUBROUTINE_0E0B:
 323: 0x0E2E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
 324: 0x0E33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x27)
 325: 0x0E3A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)], work=3325*
-326: 0x0E49 [0x1D] PRINT_EVENT_MESSAGE(message_id=10838*)
+326: 0x0E49 [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
     → "But if'n ya trrrade them to me instead of Geosuke...then it's right to the moon!"
 327: 0x0E4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x0E4D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x28)
@@ -1990,7 +1990,7 @@ SUBROUTINE_0E0B:
 346: 0x0EC7 [0x03] Work_Zone[4] = 100*
 347: 0x0ECC [0x03] Work_Zone[6] = 100*
 348: 0x0ED1 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-349: 0x0ED6 [0x48] [System] [10764*]:
+349: 0x0ED6 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 350: 0x0ED9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x0EDA [0x01] GOTO 0x10E7
@@ -2002,7 +2002,7 @@ SUBROUTINE_0E0B:
 357: 0x0EF8 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0EFB:
-358: 0x0EFB [0x48] [System] [10763*]:
+358: 0x0EFB [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 359: 0x0EFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x0EFF [0x03] Work_Zone[2] = 3978*
@@ -2012,7 +2012,7 @@ SUBROUTINE_0EFB:
 364: 0x0F13 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0F16:
-365: 0x0F16 [0x48] [System] [10763*]:
+365: 0x0F16 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 366: 0x0F19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 367: 0x0F1A [0x03] Work_Zone[2] = 3977*
@@ -2022,20 +2022,20 @@ SUBROUTINE_0F16:
 371: 0x0F2E [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0F31:
-372: 0x0F31 [0x48] [System] [10763*]:
+372: 0x0F31 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 373: 0x0F34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x0F35 [0x03] Work_Zone[2] = 3954*
 375: 0x0F3A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
 376: 0x0F3F [0x03] Work_Zone[4] = 200*
 377: 0x0F44 [0x02] IF !(ExtData[1]->WorkLocal[10] == 200*) GOTO 0x0F53
-378: 0x0F4C [0x48] [System] [10765*]:
+378: 0x0F4C [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 379: 0x0F4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x0F50 [0x01] GOTO 0x0F61
 381: 0x0F53 [0x03] Work_Zone[6] = 200*
 382: 0x0F58 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[10]
-383: 0x0F5D [0x48] [System] [10764*]:
+383: 0x0F5D [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 384: 0x0F60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2046,13 +2046,13 @@ SUBROUTINE_0F61:
 388: 0x0F74 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
 389: 0x0F79 [0x03] Work_Zone[4] = 500*
 390: 0x0F7E [0x02] IF !(ExtData[1]->WorkLocal[11] == 500*) GOTO 0x0F8D
-391: 0x0F86 [0x48] [System] [10765*]:
+391: 0x0F86 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 392: 0x0F89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 393: 0x0F8A [0x01] GOTO 0x0F9B
 394: 0x0F8D [0x03] Work_Zone[6] = 500*
 395: 0x0F92 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-396: 0x0F97 [0x48] [System] [10764*]:
+396: 0x0F97 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 397: 0x0F9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2066,7 +2066,7 @@ SUBROUTINE_0F9B:
 404: 0x0FB9 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0FBC:
-405: 0x0FBC [0x48] [System] [10763*]:
+405: 0x0FBC [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 406: 0x0FBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x0FC0 [0x03] Work_Zone[2] = 4012*
@@ -2076,7 +2076,7 @@ SUBROUTINE_0FBC:
 411: 0x0FD4 [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0FD7:
-412: 0x0FD7 [0x48] [System] [10763*]:
+412: 0x0FD7 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 413: 0x0FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 414: 0x0FDB [0x03] Work_Zone[2] = 8752*
@@ -2086,20 +2086,20 @@ SUBROUTINE_0FD7:
 418: 0x0FEF [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_0FF2:
-419: 0x0FF2 [0x48] [System] [10763*]:
+419: 0x0FF2 [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 420: 0x0FF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x0FF6 [0x03] Work_Zone[2] = 4033*
 422: 0x0FFB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
 423: 0x1000 [0x03] Work_Zone[4] = 200*
 424: 0x1005 [0x02] IF !(ExtData[1]->WorkLocal[10] == 200*) GOTO 0x1014
-425: 0x100D [0x48] [System] [10765*]:
+425: 0x100D [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 426: 0x1010 [0x23] WAIT_FOR_DIALOG_INTERACTION
 427: 0x1011 [0x01] GOTO 0x1022
 428: 0x1014 [0x03] Work_Zone[6] = 200*
 429: 0x1019 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[10]
-430: 0x101E [0x48] [System] [10764*]:
+430: 0x101E [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 431: 0x1021 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2110,13 +2110,13 @@ SUBROUTINE_1022:
 435: 0x1035 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
 436: 0x103A [0x03] Work_Zone[4] = 2500*
 437: 0x103F [0x02] IF !(ExtData[1]->WorkLocal[11] == 2500*) GOTO 0x104E
-438: 0x1047 [0x48] [System] [10765*]:
+438: 0x1047 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 439: 0x104A [0x23] WAIT_FOR_DIALOG_INTERACTION
 440: 0x104B [0x01] GOTO 0x105C
 441: 0x104E [0x03] Work_Zone[6] = 2500*
 442: 0x1053 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-443: 0x1058 [0x48] [System] [10764*]:
+443: 0x1058 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 444: 0x105B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2130,20 +2130,20 @@ SUBROUTINE_105C:
 451: 0x107A [0x06] Work_Zone[3] = 0
 
 SUBROUTINE_107D:
-452: 0x107D [0x48] [System] [10763*]:
+452: 0x107D [0x48] [System] [10764*]:
     → "#: [Needed/Acquired]."
 453: 0x1080 [0x23] WAIT_FOR_DIALOG_INTERACTION
 454: 0x1081 [0x03] Work_Zone[2] = 3951*
 455: 0x1086 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[10]
 456: 0x108B [0x03] Work_Zone[4] = 200*
 457: 0x1090 [0x02] IF !(ExtData[1]->WorkLocal[10] == 200*) GOTO 0x109F
-458: 0x1098 [0x48] [System] [10765*]:
+458: 0x1098 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 459: 0x109B [0x23] WAIT_FOR_DIALOG_INTERACTION
 460: 0x109C [0x01] GOTO 0x10AD
 461: 0x109F [0x03] Work_Zone[6] = 200*
 462: 0x10A4 [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[10]
-463: 0x10A9 [0x48] [System] [10764*]:
+463: 0x10A9 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 464: 0x10AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2154,18 +2154,18 @@ SUBROUTINE_10AD:
 468: 0x10C0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
 469: 0x10C5 [0x03] Work_Zone[4] = 9999*
 470: 0x10CA [0x02] IF !(ExtData[1]->WorkLocal[11] == 9999*) GOTO 0x10D9
-471: 0x10D2 [0x48] [System] [10765*]:
+471: 0x10D2 [0x48] [System] [10766*]:
     → "#: All $2 acquired."
 472: 0x10D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x10D6 [0x01] GOTO 0x10E7
 474: 0x10D9 [0x03] Work_Zone[6] = 9999*
 475: 0x10DE [0x08] Work_Zone[6] -= ExtData[1]->WorkLocal[11]
-476: 0x10E3 [0x48] [System] [10764*]:
+476: 0x10E3 [0x48] [System] [10765*]:
     → "#: $1 of $2 acquired. ($4 needed)"
 477: 0x10E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_10E7:
-478: 0x10E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
+478: 0x10E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
     → "Trrrade me the materials and we can make a marriage between our two parties."
 479: 0x10EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 480: 0x10EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
@@ -2180,7 +2180,7 @@ SUBROUTINE_1169:
 485: 0x117A [0x03] Work_Zone[1] = 11*
 486: 0x117F [0x01] GOTO 0x118B
 487: 0x1182 [0x03] Work_Zone[1] = 12*
-488: 0x1187 [0x1D] PRINT_EVENT_MESSAGE(message_id=10730*)
+488: 0x1187 [0x1D] PRINT_EVENT_MESSAGE(message_id=10731*)
     → "Aaand now forrrk over the weapon ya wanna give up on."
 489: 0x118A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2188,7 +2188,7 @@ SUBROUTINE_118B:
 490: 0x118B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1E)
 491: 0x1192 [0x01] GOTO 0x11A7
 492: 0x1195 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x11A7
-493: 0x119D [0x1D] PRINT_EVENT_MESSAGE(message_id=10726*)
+493: 0x119D [0x1D] PRINT_EVENT_MESSAGE(message_id=10727*)
     → "Damn rrright ya's sorry."
 494: 0x11A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 495: 0x11A1 [0x01] GOTO 0x08E6
@@ -2196,7 +2196,7 @@ SUBROUTINE_118B:
 SUBROUTINE_11A7:
 496: 0x11A7 [0x01] GOTO 0x11C3
 497: 0x11AA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x11C3
-498: 0x11B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10726*)
+498: 0x11B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10727*)
     → "Damn rrright ya's sorry."
 499: 0x11B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 500: 0x11B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x24)
@@ -2217,7 +2217,7 @@ SUBROUTINE_11C3:
 513: 0x11FB [0x03] Work_Zone[1] = 10001*
 
 SUBROUTINE_1200:
-514: 0x1200 [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
+514: 0x1200 [0x1D] PRINT_EVENT_MESSAGE(message_id=10733*)
     → "Here's yer weapon back--I assume yer gonna need it."
 515: 0x1203 [0x23] WAIT_FOR_DIALOG_INTERACTION
 516: 0x1204 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
@@ -2235,59 +2235,59 @@ SUBROUTINE_1200:
 528: 0x1243 [0x03] Work_Zone[1] = 10008*
 
 SUBROUTINE_1248:
-529: 0x1248 [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
+529: 0x1248 [0x1D] PRINT_EVENT_MESSAGE(message_id=10733*)
     → "Here's yer weapon back--I assume yer gonna need it."
 530: 0x124B [0x23] WAIT_FOR_DIALOG_INTERACTION
 531: 0x124C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
 532: 0x1253 [0x01] GOTO 0x1E51
 533: 0x1256 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x135D
 534: 0x125E [0x03] ExtData[1]->WorkLocal[2] = 6*
-535: 0x1263 [0x1D] PRINT_EVENT_MESSAGE(message_id=10682*)
+535: 0x1263 [0x1D] PRINT_EVENT_MESSAGE(message_id=10683*)
     → "I's mainly interested in the merchandise prrrovided by the Peacekeepers' Coalition. You know, "traditional weaponry" or whatever name ya give 'em."
 536: 0x1266 [0x23] WAIT_FOR_DIALOG_INTERACTION
 537: 0x1267 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
-538: 0x126E [0x1D] PRINT_EVENT_MESSAGE(message_id=10683*)
+538: 0x126E [0x1D] PRINT_EVENT_MESSAGE(message_id=10684*)
     → "I ain't above takin' those Records of Eminence rrrewards, either. A.M.A.N. makes some ducky stuff."
 539: 0x1271 [0x23] WAIT_FOR_DIALOG_INTERACTION
-540: 0x1272 [0x1D] PRINT_EVENT_MESSAGE(message_id=10684*)
+540: 0x1272 [0x1D] PRINT_EVENT_MESSAGE(message_id=10685*)
     → "What adventurers from the Middle Lands may see as the dullest of the dull, the cafones here'll cram down their own throats in glee. The grrrass is always greener, see."
 541: 0x1275 [0x23] WAIT_FOR_DIALOG_INTERACTION
 542: 0x1276 [0x03] Work_Zone[2] = 5*
-543: 0x127B [0x1D] PRINT_EVENT_MESSAGE(message_id=10685*)
+543: 0x127B [0x1D] PRINT_EVENT_MESSAGE(message_id=10686*)
     → "Fer yer fine contributions, I'll make ya an offer ya can't rrrefuse...1/$0 the price you's bought it fer, but in bayld."
 544: 0x127E [0x23] WAIT_FOR_DIALOG_INTERACTION
-545: 0x127F [0x1D] PRINT_EVENT_MESSAGE(message_id=10686*)
+545: 0x127F [0x1D] PRINT_EVENT_MESSAGE(message_id=10687*)
     → "I'll also take special equipment dropped by the lords of the jungle off yer hands. Those that ya can't offload on those shrills at the auction house."
 546: 0x1282 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x1283 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
 548: 0x128A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
-549: 0x1291 [0x1D] PRINT_EVENT_MESSAGE(message_id=10687*)
+549: 0x1291 [0x1D] PRINT_EVENT_MESSAGE(message_id=10688*)
     → "I's got me a strrrict no-returns policy, too. Try to take one back and I'll put out a contrrract on ya."
 550: 0x1294 [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x1295 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x17)
 552: 0x129C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
-553: 0x12A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10688*)
+553: 0x12A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10689*)
     → "What's gonna happen to yer prrrecious little weapon after ya part ways with it?"
 554: 0x12A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x12A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x29)
-556: 0x12AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10689*)
+556: 0x12AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10690*)
     → "It'll help me fulfill favors to people who visit me on the day of my daughter's weddin'."
 557: 0x12B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-558: 0x12B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10690*)
+558: 0x12B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10691*)
     → "Copacetic, rrright?"
 559: 0x12B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-560: 0x12B6 [0x24] CREATE_DIALOG(message_id=10691*, default_option=0*, option_flags=0*)
+560: 0x12B6 [0x24] CREATE_DIALOG(message_id=10692*, default_option=0*, option_flags=0*)
     → "Have anything to say? [Not particularly.../Very fine, indeed./Remain silent.]"
 561: 0x12BD [0x25] WAIT_DIALOG_SELECT()
 562: 0x12BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12E9
 563: 0x12C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2B)
 564: 0x12CD [0x1C] WAIT(30* ticks)
 565: 0x12D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x31)
-566: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10692*)
+566: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10693*)
     → "Why not!? As the don of my own enterprrrise, I's gotta prepare fer the future."
 567: 0x12DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 568: 0x12DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
-569: 0x12E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10693*)
+569: 0x12E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10694*)
     → "Naw, I'm just pullin' yer leg. I actually send the valuable ones to my soldiers who distrrribute them to-- Haha, ya almost had me givin' away my trade secret there."
 570: 0x12E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 571: 0x12E6 [0x01] GOTO 0x1345
@@ -2295,7 +2295,7 @@ SUBROUTINE_1248:
 573: 0x12F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2B)
 574: 0x12F8 [0x1C] WAIT(30* ticks)
 575: 0x12FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x27)
-576: 0x1302 [0x1D] PRINT_EVENT_MESSAGE(message_id=10694*)
+576: 0x1302 [0x1D] PRINT_EVENT_MESSAGE(message_id=10695*)
     → "Exactly! Gotta put family foist."
 577: 0x1305 [0x23] WAIT_FOR_DIALOG_INTERACTION
 578: 0x1306 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x28)
@@ -2305,7 +2305,7 @@ SUBROUTINE_1248:
 582: 0x131F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2B)
 583: 0x1326 [0x1C] WAIT(80* ticks)
 584: 0x1329 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1D)
-585: 0x1330 [0x1D] PRINT_EVENT_MESSAGE(message_id=10695*)
+585: 0x1330 [0x1D] PRINT_EVENT_MESSAGE(message_id=10696*)
     → "Say somethin'! Anythin'! I'm dyin' over here."
 586: 0x1333 [0x23] WAIT_FOR_DIALOG_INTERACTION
 587: 0x1334 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1E)
@@ -2313,7 +2313,7 @@ SUBROUTINE_1248:
 589: 0x1342 [0x01] GOTO 0x1345
 
 SUBROUTINE_1345:
-590: 0x1345 [0x1D] PRINT_EVENT_MESSAGE(message_id=10696*)
+590: 0x1345 [0x1D] PRINT_EVENT_MESSAGE(message_id=10697*)
     → "All that aside, I want me some old-time weapons. Rrremember that."
 591: 0x1348 [0x23] WAIT_FOR_DIALOG_INTERACTION
 592: 0x1349 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
@@ -2321,24 +2321,24 @@ SUBROUTINE_1345:
 594: 0x1357 [0x01] GOTO 0x08E6
 
 SUBROUTINE_1371:
-595: 0x1371 [0x1D] PRINT_EVENT_MESSAGE(message_id=10697*)
+595: 0x1371 [0x1D] PRINT_EVENT_MESSAGE(message_id=10698*)
     → "Oh, this friend of mine? I picked him up on an excurrrsion with a Scouts' Coalition survey crew."
 596: 0x1374 [0x23] WAIT_FOR_DIALOG_INTERACTION
 597: 0x1375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
-598: 0x137C [0x1D] PRINT_EVENT_MESSAGE(message_id=10698*)
+598: 0x137C [0x1D] PRINT_EVENT_MESSAGE(message_id=10699*)
     → "He was losin' foliage rrright and left when I found him. Someone musta put out a hit on him."
 599: 0x137F [0x23] WAIT_FOR_DIALOG_INTERACTION
 600: 0x1380 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
-601: 0x1387 [0x1D] PRINT_EVENT_MESSAGE(message_id=10699*)
+601: 0x1387 [0x1D] PRINT_EVENT_MESSAGE(message_id=10700*)
     → "I've no idea--they's pretty harmless. I only know them from the Mummers' Coalition shield prrrize and rumors, but I'd say they's more mischievous than malicious."
 602: 0x138A [0x23] WAIT_FOR_DIALOG_INTERACTION
 603: 0x138B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x29)
-604: 0x1392 [0x1D] PRINT_EVENT_MESSAGE(message_id=10700*)
+604: 0x1392 [0x1D] PRINT_EVENT_MESSAGE(message_id=10701*)
     → "Don't get me wrong--I'd've let him get pinched except for that his cutesy face might brrrin' in customers. "Oooh, I'd give away all my equipment just to pet Runje's little shrub again!""
 605: 0x1395 [0x23] WAIT_FOR_DIALOG_INTERACTION
 606: 0x1396 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2A)
 607: 0x139D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2B)
-608: 0x13A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10701*)
+608: 0x13A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10702*)
     → "Those so-called reconnaissance expurrrts didn't even see me sweep this guy up from under they's noses! Maybe I should take up griftin', too!"
 609: 0x13A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 610: 0x13A8 [0x1E] EventEntity looks at Geosuke (ID: 17830144/0x01101100) and starts talking
@@ -2348,16 +2348,16 @@ SUBROUTINE_1371:
 614: 0x13BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 615: 0x13BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 616: 0x13BC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
-617: 0x13C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10702*)
+617: 0x13C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10703*)
     → "Despite my intentions, this bramble's taken a likin' ta yers trrruly."
 618: 0x13C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 619: 0x13C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2C)
 620: 0x13CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
-621: 0x13D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10703*)
+621: 0x13D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10704*)
     → "And his leafy face is startin' ta grrrow on me, not to mention that since he don't speak right, he's a real stand-up guy."
 622: 0x13D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x13D7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)], work=3325*
-624: 0x13E6 [0x2B] Geosuke (ID: 17830144/0x01101100) [10704*]:
+624: 0x13E6 [0x2B] Geosuke (ID: 17830144/0x01101100) [10705*]:
     → "Gwrk."
 625: 0x13ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 626: 0x13EE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)]
@@ -2365,7 +2365,7 @@ SUBROUTINE_1371:
 628: 0x140A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)]
 629: 0x1417 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2E)
 630: 0x141E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-631: 0x1425 [0x1D] PRINT_EVENT_MESSAGE(message_id=10705*)
+631: 0x1425 [0x1D] PRINT_EVENT_MESSAGE(message_id=10706*)
     → "Did I tell ya he's got a swingin' supernatural power?"
 632: 0x1428 [0x23] WAIT_FOR_DIALOG_INTERACTION
 633: 0x1429 [0x1E] EventEntity looks at LocalPlayer and starts talking
@@ -2374,18 +2374,18 @@ SUBROUTINE_1371:
 636: 0x1430 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
 637: 0x1437 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
 638: 0x143E [0x03] Work_Zone[2] = 8798*
-639: 0x1443 [0x1D] PRINT_EVENT_MESSAGE(message_id=10706*)
+639: 0x1443 [0x1D] PRINT_EVENT_MESSAGE(message_id=10707*)
     → "Give him $0 and he'll crrrank out bushels of special crystallized ergon tinctures."
 640: 0x1446 [0x23] WAIT_FOR_DIALOG_INTERACTION
 641: 0x1447 [0x4A] Geosuke (ID: 17830144/0x01101100) looks at LocalPlayer
 642: 0x1450 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 643: 0x1451 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
-644: 0x1456 [0x1D] PRINT_EVENT_MESSAGE(message_id=10707*)
+644: 0x1456 [0x1D] PRINT_EVENT_MESSAGE(message_id=10708*)
     → "I's found a way to take those crystallizations and synthesize 'em into choice rings poifect fer a discernin' fencer like yaself."
 645: 0x1459 [0x23] WAIT_FOR_DIALOG_INTERACTION
 646: 0x145A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
 647: 0x1461 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
-648: 0x1468 [0x1D] PRINT_EVENT_MESSAGE(message_id=10708*)
+648: 0x1468 [0x1D] PRINT_EVENT_MESSAGE(message_id=10709*)
     → "Sadly, one $0 ain't gonna getchya very far..."
 649: 0x146B [0x23] WAIT_FOR_DIALOG_INTERACTION
 650: 0x146C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
@@ -2398,48 +2398,48 @@ SUBROUTINE_1483:
 655: 0x1486 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x15D8
 656: 0x148E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
 657: 0x1495 [0x03] Work_Zone[2] = 8798*
-658: 0x149A [0x1D] PRINT_EVENT_MESSAGE(message_id=10709*)
+658: 0x149A [0x1D] PRINT_EVENT_MESSAGE(message_id=10710*)
     → "I's been waitin' with bated brrreath fer ya ta ask that question!"
 659: 0x149D [0x23] WAIT_FOR_DIALOG_INTERACTION
-660: 0x149E [0x1D] PRINT_EVENT_MESSAGE(message_id=10710*)
+660: 0x149E [0x1D] PRINT_EVENT_MESSAGE(message_id=10711*)
     → "As ya can imagine from the name, it's bayld that's of a higherrr quality than the normal stuff."
 661: 0x14A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 662: 0x14A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x36)
 663: 0x14A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
-664: 0x14B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10711*)
+664: 0x14B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10712*)
     → "The power layin' low in this stuff is two--no, three times more effective than yer used to. Plus, ya gotta bootleg it into the city, makin' fer a rrrisky and expensive venture."
 665: 0x14B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x14B4 [0x03] Work_Zone[3] = 2204*
-667: 0x14B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10712*)
+667: 0x14B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10713*)
     → "<Sniff><sniff> Hm, that's the smell of sawdust fer sure. If ya know the $3 skill, then I's sure ya seen high-purity bayld in some form before."
 668: 0x14BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 669: 0x14BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
 670: 0x14C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
-671: 0x14CB [0x1D] PRINT_EVENT_MESSAGE(message_id=10713*)
+671: 0x14CB [0x1D] PRINT_EVENT_MESSAGE(message_id=10714*)
     → "Ya know those tree roots that block yer path in the jungle and are thicker'n the gams on Ingrid, right? Then do ya rrrecall that some sparkly powder flies up when ya break 'em?"
 672: 0x14CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 673: 0x14CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
 674: 0x14D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x29)
-675: 0x14DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10714*)
+675: 0x14DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10715*)
     → "My merrrchant's intuition tells me that's where it comes from."
 676: 0x14E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-677: 0x14E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10715*)
+677: 0x14E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10716*)
     → "And considerin' that pioneers say they's been gettin' the stuff from rrreives, I's inclined to trust that hunch."
 678: 0x14E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 679: 0x14E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2A)
 680: 0x14EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2B)
-681: 0x14F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10716*)
+681: 0x14F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10717*)
     → "We ain't prrrivy to much, but I do know that research's been pluggin' along nicely of late, and that's how the grit's startin' to get found."
 682: 0x14F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-683: 0x14F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10717*)
+683: 0x14F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10718*)
     → "Getting back on trrrack, $0 are just the berries now."
 684: 0x14FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 685: 0x14FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2C)
 686: 0x1502 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
-687: 0x1509 [0x1D] PRINT_EVENT_MESSAGE(message_id=10718*)
+687: 0x1509 [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
     → "Aaand, as luck would have it..."
 688: 0x150C [0x23] WAIT_FOR_DIALOG_INTERACTION
-689: 0x150D [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
+689: 0x150D [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
     → "I just got some as vigorrrish this mornin'."
 690: 0x1510 [0x23] WAIT_FOR_DIALOG_INTERACTION
 691: 0x1511 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x36)
@@ -2470,19 +2470,19 @@ SUBROUTINE_1483:
 716: 0x1598 [0x01] GOTO 0x159B
 
 SUBROUTINE_159B:
-717: 0x159B [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
+717: 0x159B [0x1D] PRINT_EVENT_MESSAGE(message_id=10721*)
     → "What's more, I's havin' a sale of unprrrecedented proportions on it for all my [Hume/Elvaan/Tarutaru/Mithra/Galka] customers!"
 718: 0x159E [0x23] WAIT_FOR_DIALOG_INTERACTION
 719: 0x159F [0x03] Work_Zone[3] = 10000*
-720: 0x15A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10721*)
+720: 0x15A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
     → "Ya too can have yer very own pinch of it for the low, low prrrice of $1 bayld."
 721: 0x15A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-722: 0x15A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
+722: 0x15A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
     → "Lemme say it again, as it bears rrrepeatin'. Yer timin' couldn't be more impeccable."
 723: 0x15AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 724: 0x15AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2E)
 725: 0x15B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-726: 0x15BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
+726: 0x15BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
     → "Someone call a back-alley doctor, 'cuz I's bleedin' m'self drrry by givin' them away fer this little."
 727: 0x15BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 728: 0x15BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -2495,15 +2495,15 @@ SUBROUTINE_15D5:
 733: 0x15D8 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x1760
 734: 0x15E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
 735: 0x15E7 [0x03] Work_Zone[3] = 10000*
-736: 0x15EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10741*)
+736: 0x15EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10742*)
     → "I's runnin' a special campaign, so they'rrre yours fer only $1 bayld a piece! So, how many ya want?"
 737: 0x15EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 738: 0x15F0 [0x02] IF !(ExtData[1]->WorkLocal[6] >= 10000*) GOTO 0x160B
 739: 0x15F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-740: 0x15FF [0x48] [System] [10657*]:
+740: 0x15FF [0x48] [System] [10658*]:
     → "Runje Desaali stares intently at you."
 741: 0x1602 [0x1C] WAIT(120* ticks)
-742: 0x1605 [0x1D] PRINT_EVENT_MESSAGE(message_id=10744*)
+742: 0x1605 [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
     → "That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one."
 743: 0x1608 [0x23] WAIT_FOR_DIALOG_INTERACTION
 744: 0x1609 [0x21] END_EVENT
@@ -2514,7 +2514,7 @@ SUBROUTINE_15D5:
 749: 0x161A [0x02] IF !(Work_Zone[3] <= 960*) GOTO 0x1627
 750: 0x1622 [0x03] Work_Zone[3] = 960*
 751: 0x1627 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[6]
-752: 0x162C [0x48] [System] [10742*]:
+752: 0x162C [0x48] [System] [10743*]:
     → "How many would you like? Enter either a number 1 through $1, or 0 to cancel. (Bayld: $2)"
 753: 0x162F [0x23] WAIT_FOR_DIALOG_INTERACTION
 754: 0x1630 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -2523,10 +2523,10 @@ SUBROUTINE_15D5:
 757: 0x1640 [0x03] ExtData[1]->WorkLocal[12] = 960*
 758: 0x1645 [0x02] IF !(ExtData[1]->WorkLocal[12] <= Work_Zone[3]) GOTO 0x1667
 759: 0x164D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-760: 0x1654 [0x48] [System] [10657*]:
+760: 0x1654 [0x48] [System] [10658*]:
     → "Runje Desaali stares intently at you."
 761: 0x1657 [0x1C] WAIT(120* ticks)
-762: 0x165A [0x1D] PRINT_EVENT_MESSAGE(message_id=10744*)
+762: 0x165A [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
     → "That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one."
 763: 0x165D [0x23] WAIT_FOR_DIALOG_INTERACTION
 764: 0x165E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -2534,7 +2534,7 @@ SUBROUTINE_15D5:
 766: 0x1666 [0x00] END_REQSTACK()
 767: 0x1667 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x1683
 768: 0x166F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-769: 0x1676 [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
+769: 0x1676 [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
     → "Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it."
 770: 0x1679 [0x23] WAIT_FOR_DIALOG_INTERACTION
 771: 0x167A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -2543,7 +2543,7 @@ SUBROUTINE_15D5:
 774: 0x1683 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[12]
 775: 0x1688 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[12]
 776: 0x168D [0x14] Work_Zone[6] *= 10000*
-777: 0x1692 [0x24] CREATE_DIALOG(message_id=10743*, default_option=0*, option_flags=0*)
+777: 0x1692 [0x24] CREATE_DIALOG(message_id=10744*, default_option=0*, option_flags=0*)
     → "Purchase $3 piece[/s]? [Yes, take my $4 bayld!/Nope.]"
 778: 0x1699 [0x25] WAIT_DIALOG_SELECT()
 779: 0x169A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1740
@@ -2567,7 +2567,7 @@ SUBROUTINE_15D5:
 796: 0x16F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
 797: 0x16F9 [0x03] Work_Zone[2] = 6008*
 798: 0x16FE [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[12]
-799: 0x1703 [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
+799: 0x1703 [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
     → "Alrrrighty, $3 $0 to the [jolly gent/lucky lady]!"
 800: 0x1706 [0x23] WAIT_FOR_DIALOG_INTERACTION
 801: 0x1707 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
@@ -2577,11 +2577,11 @@ SUBROUTINE_15D5:
 804: 0x1710 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x36)
 805: 0x1717 [0x02] IF !(ExtData[1]->WorkLocal[13] < 1*) GOTO 0x173A
 806: 0x171F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1B)
-807: 0x1726 [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
+807: 0x1726 [0x1D] PRINT_EVENT_MESSAGE(message_id=10748*)
     → "Here's a little kickback fer bein' such a big spenderrr."
 808: 0x1729 [0x23] WAIT_FOR_DIALOG_INTERACTION
 809: 0x172A [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-810: 0x172F [0x48] [System] [10748*]:
+810: 0x172F [0x48] [System] [10749*]:
     → "Runje provides you with $5 free of charge!"
 811: 0x1732 [0x23] WAIT_FOR_DIALOG_INTERACTION
 812: 0x1733 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
@@ -2591,7 +2591,7 @@ SUBROUTINE_173A:
 814: 0x173D [0x01] GOTO 0x175D
 815: 0x1740 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x175D
 816: 0x1748 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-817: 0x174F [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
+817: 0x174F [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
     → "Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it."
 818: 0x1752 [0x23] WAIT_FOR_DIALOG_INTERACTION
 819: 0x1753 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -2602,11 +2602,11 @@ SUBROUTINE_175D:
 822: 0x1760 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x1BF9
 823: 0x1768 [0x03] ExtData[1]->WorkLocal[2] = 10*
 824: 0x176D [0x3E] IF !(ExtData[1]->WorkLocal[18] bit 4*) GOTO 0x177B
-825: 0x1774 [0x1D] PRINT_EVENT_MESSAGE(message_id=10750*)
+825: 0x1774 [0x1D] PRINT_EVENT_MESSAGE(message_id=10751*)
     → "Geosuke's got a bunch of special treasures fer you!"
 826: 0x1777 [0x23] WAIT_FOR_DIALOG_INTERACTION
 827: 0x1778 [0x01] GOTO 0x177F
-828: 0x177B [0x1D] PRINT_EVENT_MESSAGE(message_id=10749*)
+828: 0x177B [0x1D] PRINT_EVENT_MESSAGE(message_id=10750*)
     → "Most of 'em were found by Geosuke, but they'rrre all top quality, I assure ya!"
 829: 0x177E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2713,7 +2713,7 @@ SUBROUTINE_1A6B:
 923: 0x1AA0 [0x03] Work_Zone_1700[18] = Work_Zone_1700[16]
 924: 0x1AA5 [0x03] Work_Zone_1700[19] = Work_Zone_1700[17]
 925: 0x1AAA [0x01] GOTO 0x1AB3
-926: 0x1AAD [0x1D] PRINT_EVENT_MESSAGE(message_id=10681*)
+926: 0x1AAD [0x1D] PRINT_EVENT_MESSAGE(message_id=10682*)
     → "Anytime, [wiseguy/wisegal]."
 927: 0x1AB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 928: 0x1AB1 [0x21] END_EVENT
@@ -2723,18 +2723,18 @@ SUBROUTINE_1AB3:
 930: 0x1AB3 [0x02] IF !(ExtData[1]->WorkLocal[6] < Work_Zone_1700[19]) GOTO 0x1BE5
 931: 0x1ABB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1B1F
 932: 0x1AC3 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=Work_Zone_1700[18])
-933: 0x1AC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10752*)
+933: 0x1AC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10753*)
     → "$6, is it? That'll be $27 bayld. Are ya sure yer good fer it?"
 934: 0x1ACA [0x23] WAIT_FOR_DIALOG_INTERACTION
 935: 0x1ACB [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)
-936: 0x1ACF [0x24] CREATE_DIALOG(message_id=10753*, default_option=1*, option_flags=0*)
+936: 0x1ACF [0x24] CREATE_DIALOG(message_id=10754*, default_option=1*, option_flags=0*)
     → "Purchase the $3? [Here's my $27 bayld./Ummm, on second thought...]"
 937: 0x1AD6 [0x25] WAIT_DIALOG_SELECT()
 938: 0x1AD7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1AFF
 939: 0x1ADF [0x42] SET_CLI_EVENT_CANCEL_DATA()
 940: 0x1AE0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
 941: 0x1AE7 [0x03] Work_Zone[2] = Work_Zone_1700[18]
-942: 0x1AEC [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
+942: 0x1AEC [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
     → "Thanks! Hope ya enjoy yer $3!"
 943: 0x1AEF [0x23] WAIT_FOR_DIALOG_INTERACTION
 944: 0x1AF0 [0x03] Work_Zone[1] = 100*
@@ -2742,7 +2742,7 @@ SUBROUTINE_1AB3:
 946: 0x1AFC [0x01] GOTO 0x1B1C
 947: 0x1AFF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1B1C
 948: 0x1B07 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-949: 0x1B0E [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
+949: 0x1B0E [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
     → "Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it."
 950: 0x1B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 951: 0x1B12 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -2750,13 +2750,13 @@ SUBROUTINE_1AB3:
 
 SUBROUTINE_1B1C:
 953: 0x1B1C [0x01] GOTO 0x1BE2
-954: 0x1B1F [0x1D] PRINT_EVENT_MESSAGE(message_id=10754*)
+954: 0x1B1F [0x1D] PRINT_EVENT_MESSAGE(message_id=10755*)
     → "$26, is it? That'll be $27 bayld. Are ya sure ya can afforrrd it?"
 955: 0x1B22 [0x23] WAIT_FOR_DIALOG_INTERACTION
 956: 0x1B23 [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration A (buffer=[01 80 12 17 D4 03 03 80...])
 957: 0x1B41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
 958: 0x1B48 [0x03] Work_Zone[2] = Work_Zone_1700[18]
-959: 0x1B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
+959: 0x1B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
     → "Therrre ya go! Hope ya like yer $0!"
 960: 0x1B50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 961: 0x1B51 [0x02] IF !(Work_Zone_1700[18] == 25817*) GOTO 0x1B61
@@ -2790,10 +2790,10 @@ SUBROUTINE_1BBB:
 SUBROUTINE_1BE2:
 982: 0x1BE2 [0x01] GOTO 0x1BF6
 983: 0x1BE5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-984: 0x1BEC [0x48] [System] [10657*]:
+984: 0x1BEC [0x48] [System] [10658*]:
     → "Runje Desaali stares intently at you."
 985: 0x1BEF [0x1C] WAIT(120* ticks)
-986: 0x1BF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10744*)
+986: 0x1BF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
     → "That trrribute's lookin' a bit small, ya [Dumb Dan/Dumb Dora]. Gimme the correct amount before I pop ya one."
 987: 0x1BF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2803,19 +2803,19 @@ SUBROUTINE_1BF6:
 990: 0x1C01 [0x03] ExtData[1]->WorkLocal[2] = 11*
 991: 0x1C06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
 992: 0x1C0D [0x03] Work_Zone[2] = 3138*
-993: 0x1C12 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
+993: 0x1C12 [0x1D] PRINT_EVENT_MESSAGE(message_id=10759*)
     → "My little patsy Geosuke here has got some special serrrvices for those who have $6."
 994: 0x1C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 995: 0x1C16 [0x03] Work_Zone[2] = LocalPlayer->Race
 996: 0x1C1B [0x03] Work_Zone[3] = 8798*
 997: 0x1C20 [0x03] Work_Zone[4] = 100*
-998: 0x1C25 [0x1D] PRINT_EVENT_MESSAGE(message_id=10894*)
+998: 0x1C25 [0x1D] PRINT_EVENT_MESSAGE(message_id=10895*)
     → "I know, I know, you want to know more. So I'll tell ya: I can improve special treasures from each of the Twelve Orders."
 999: 0x1C28 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1000: 0x1C29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10896*)
+1000: 0x1C29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10897*)
     → "And I've also got special deals for [/Hume maes/Hume females/Elvaan males/Elvaan females/Tarutaru males/Tarutaru females/Mithra/Galka] just like you! Only $2 $1!"
 1001: 0x1C2C [0x23] WAIT_FOR_DIALOG_INTERACTION
-1002: 0x1C2D [0x1D] PRINT_EVENT_MESSAGE(message_id=10897*)
+1002: 0x1C2D [0x1D] PRINT_EVENT_MESSAGE(message_id=10898*)
     → "Just trade me yer treasure along with $2 $1."
 1003: 0x1C30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1004: 0x1C31 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
@@ -2914,7 +2914,7 @@ SUBROUTINE_1E51:
 # Dead code (unreachable instructions):
      0x1BC5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1BE2
      0x1BCD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
-     0x1BD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10746*)
+     0x1BD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10747*)
     → "Pullin' the ol' bait-and-switch, I see. Let's hope you live to rrregret it."
      0x1BD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BD8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -2929,14 +2929,14 @@ SUBROUTINE_1E51:
      0x1E09 [0x9D] IF (0x31CC) ExtData[1]->WorkLocal[4] = ExtData[1]->WorkLocal[0] // extra=0x8041
      0x1E13 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[0])
      0x1E16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
-     0x1E1D [0x1D] PRINT_EVENT_MESSAGE(message_id=10760*)
+     0x1E1D [0x1D] PRINT_EVENT_MESSAGE(message_id=10761*)
     → "I can make that one a little more special fer ya, and it'll look somethin' like this:"
      0x1E20 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E21 [0x02] IF !(ExtData[1]->WorkLocal[19] == ExtData[1]->WorkLocal[4]) GOTO 0x1E41
      0x1E29 [0x9D] IF (0x31AC) ExtData[1]->WorkLocal[4] = Work_Zone_1700[26] // extra=0x8041
      0x1E33 [0x03] Work_Zone_1700[27] = 8798*
      0x1E38 [0x03] Work_Zone_1700[28] = 100*
-     0x1E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=10761*)
+     0x1E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=10762*)
     → "Youse want to improve it? It'll run ya $34 and $$ $0# ."
      0x1E40 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
@@ -3001,7 +3001,7 @@ SUBROUTINE_1E51:
   4: 0x1E83 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x1E84 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x1E89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1F)
-  7: 0x1E90 [0x48] [System] [10657*]:
+  7: 0x1E90 [0x48] [System] [10658*]:
     → "Runje Desaali stares intently at you."
   8: 0x1E93 [0x1C] WAIT(120* ticks)
   9: 0x1E96 [0x02] IF !(LocalPlayer->Race == 2*) GOTO 0x1EA4
@@ -3020,23 +3020,23 @@ SUBROUTINE_1E51:
 
 SUBROUTINE_1ED1:
  22: 0x1ED1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x20)
- 23: 0x1ED8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10658*)
+ 23: 0x1ED8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10659*)
     → "That's a keen body ya got goin' on, [tough guy/bearcat]."
  24: 0x1EDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1EDC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x21)
  26: 0x1EE3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x22)
  27: 0x1EEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
- 28: 0x1EF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10659*)
+ 28: 0x1EF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10660*)
     → "Oh, I don't mean it in a cat scrrratch fever-type of way."
  29: 0x1EF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x1EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10660*)
+ 30: 0x1EF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10661*)
     → "I just meant that you's got more of an aura 'bout ya than the cugines 'rrround these parts."
  31: 0x1EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x1EF9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2E)
- 33: 0x1F00 [0x1D] PRINT_EVENT_MESSAGE(message_id=10661*)
+ 33: 0x1F00 [0x1D] PRINT_EVENT_MESSAGE(message_id=10662*)
     → "You's frrrom the Middle Lands, ain'tchya?"
  34: 0x1F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x1F04 [0x24] CREATE_DIALOG(message_id=10662*, default_option=0*, option_flags=0*)
+ 35: 0x1F04 [0x24] CREATE_DIALOG(message_id=10663*, default_option=0*, option_flags=0*)
     → "You from the Middle Lands? [Yep./Nope.]"
  36: 0x1F0B [0x25] WAIT_DIALOG_SELECT()
  37: 0x1F0C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F17
@@ -3046,70 +3046,70 @@ SUBROUTINE_1ED1:
 
 SUBROUTINE_1F22:
  41: 0x1F22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
- 42: 0x1F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10663*)
+ 42: 0x1F29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10664*)
     → "Huh, whaddya know. Oh well, it ain't my concern."
  43: 0x1F2C [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x1F2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
- 45: 0x1F34 [0x1D] PRINT_EVENT_MESSAGE(message_id=10664*)
+ 45: 0x1F34 [0x1D] PRINT_EVENT_MESSAGE(message_id=10665*)
     → "What does concern me is yer prrrowess as a pioneer."
  46: 0x1F37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1F38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x17)
  48: 0x1F3F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x31)
- 49: 0x1F46 [0x1D] PRINT_EVENT_MESSAGE(message_id=10665*)
+ 49: 0x1F46 [0x1D] PRINT_EVENT_MESSAGE(message_id=10666*)
     → "Ah, I almost furrrgot ta introduce m'self. As I always say, "It's trust that funds good business." <Wink>"
  50: 0x1F49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x1F4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 52: 0x1F51 [0x1D] PRINT_EVENT_MESSAGE(message_id=10666*)
+ 52: 0x1F51 [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
     → "The name's Runje Desaali, and sellin' goods is my game. I's just a rrrun-of-the-mill merchant from the teensiest of the southern islands."
  53: 0x1F54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1F55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  55: 0x1F5C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
- 56: 0x1F63 [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
+ 56: 0x1F63 [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
     → "In all my years on the lam, I ain't never seen a continent so wild as this one. Mindartia, Quon, Aradjiah...they's so overcrrrowded compared to this place."
  57: 0x1F66 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1F67 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
  59: 0x1F6E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
- 60: 0x1F75 [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
+ 60: 0x1F75 [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
     → "It always pays ta be foist on the scene. Ya get ta make yer own rules, see. That's why I hopped a ship as soon as I heard they were lookin' fer pioneers."
  61: 0x1F78 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x1F79 [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
+ 62: 0x1F79 [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
     → "But I rrreally didn't expect things ta play out the way they did."
  63: 0x1F7C [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x1F7D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x36)
  65: 0x1F84 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1F)
- 66: 0x1F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=10670*)
+ 66: 0x1F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=10671*)
     → "Walkin' about the Corrronal Esplanade, I bumped inta a Taru by the name of Chero-Machero. I swear, his lips flapped faster'n the west wind, but his sense fer dough was spot on."
  67: 0x1F8E [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x1F8F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x20)
- 69: 0x1F96 [0x1D] PRINT_EVENT_MESSAGE(message_id=10671*)
+ 69: 0x1F96 [0x1D] PRINT_EVENT_MESSAGE(message_id=10672*)
     → "After we talked shop fer a while, I found out that he's big cheese in Adoulin..."
  70: 0x1F99 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x1F9A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x21)
- 72: 0x1FA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10672*)
+ 72: 0x1FA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10673*)
     → ""There ain't gonna be no better mark than this!" I rrreasoned, so I purred my heart out, made him a cat's-paw, and now I's peddlin' under the Oider of Goiney name."
  73: 0x1FA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x1FA5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x22)
  75: 0x1FAC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
- 76: 0x1FB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10673*)
+ 76: 0x1FB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10674*)
     → "But don't go blabbin' this all over the strrreet. I'd hafta send ya a message through the mouth, if ya know what I mean."
  77: 0x1FB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x1FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10674*)
+ 78: 0x1FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10675*)
     → "Just say I'm runnin' an on-the-level operation thanks to an Adoulinian noble's good grrraces. That oughtta do it."
  79: 0x1FBA [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1FBB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2E)
  81: 0x1FC2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
- 82: 0x1FC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10675*)
+ 82: 0x1FC9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10676*)
     → "Ya keep it at that, and I won't brrrin' in the enforcers."
  83: 0x1FCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x1FCD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
  85: 0x1FD4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 86: 0x1FDB [0x1D] PRINT_EVENT_MESSAGE(message_id=10676*)
+ 86: 0x1FDB [0x1D] PRINT_EVENT_MESSAGE(message_id=10677*)
     → "But you don't wanna hear the whole History of Runje, do ya? This ain't no shakedown, but if ya got any currrios the locals say have a history behind them, I'm all ears."
  87: 0x1FDE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x1FDF [0x1D] PRINT_EVENT_MESSAGE(message_id=10677*)
+ 88: 0x1FDF [0x1D] PRINT_EVENT_MESSAGE(message_id=10678*)
     → "Trade me one, and I'll pay ya trrribute with some fat-cat bayld."
  89: 0x1FE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x1FE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10678*)
+ 90: 0x1FE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10679*)
     → "Now bugger off unless ya got somethin' for me."
  91: 0x1FE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x1FE7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
@@ -3171,15 +3171,15 @@ SUBROUTINE_1F22:
   4: 0x2000 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x2001 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x2006 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x31)
-  7: 0x200D [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
+  7: 0x200D [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
     → "...!"
   8: 0x2010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x2011 [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
+  9: 0x2011 [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
     → "You there, the [cake-eater/broad]--how's about givin' me a look at the bell you're pawing arrround with."
  10: 0x2014 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x2015 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x1B)
  12: 0x201C [0x1C] WAIT(120* ticks)
- 13: 0x201F [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
+ 13: 0x201F [0x1D] PRINT_EVENT_MESSAGE(message_id=10828*)
     → "Fooowhee, that's some ancient heat yer packing there!"
  14: 0x2022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x2023 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x32)
@@ -3191,15 +3191,15 @@ SUBROUTINE_1F22:
  21: 0x203B [0x4A] Geosuke (ID: 17830144/0x01101100) looks at Runje Desaali (ID: 17830143/0x011010FF)
  22: 0x2044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  23: 0x2045 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 24: 0x204A [0x1D] PRINT_EVENT_MESSAGE(message_id=10828*)
+ 24: 0x204A [0x1D] PRINT_EVENT_MESSAGE(message_id=10829*)
     → "Y'know who could fix it rrright up for you? Me and Geosuke. Ain't never seen another leafkin who could mewl with the best of 'em!"
  25: 0x204D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x204E [0x03] Work_Zone[2] = 8798*
  27: 0x2053 [0x03] Work_Zone[3] = 100*
- 28: 0x2058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10829*)
+ 28: 0x2058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10830*)
     → "But we can get it all dolled up if ya brin' us $1 $0 ."
  29: 0x205B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x205C [0x24] CREATE_DIALOG(message_id=10830*, default_option=0*, option_flags=0*)
+ 30: 0x205C [0x24] CREATE_DIALOG(message_id=10831*, default_option=0*, option_flags=0*)
     → "Ask her to fix it up? [Sounds like a plan./I've no interest in this arrangement.]"
  31: 0x2063 [0x25] WAIT_DIALOG_SELECT()
  32: 0x2064 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x206F
@@ -3211,7 +3211,7 @@ SUBROUTINE_1F22:
  38: 0x208C [0x1E] EventEntity looks at LocalPlayer and starts talking
  39: 0x2091 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  40: 0x2092 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 41: 0x2093 [0x1D] PRINT_EVENT_MESSAGE(message_id=10831*)
+ 41: 0x2093 [0x1D] PRINT_EVENT_MESSAGE(message_id=10832*)
     → "Yer a rrreal pill, ya know that?"
  42: 0x2096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x2097 [0x21] END_EVENT
@@ -3225,19 +3225,19 @@ SUBROUTINE_209C:
  49: 0x20B6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  50: 0x20B7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  51: 0x20B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
- 52: 0x20BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10832*)
+ 52: 0x20BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10833*)
     → "Oh ho, fate's dealt me a cooler this time 'rrround."
  53: 0x20C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x20C3 [0x4A] Geosuke (ID: 17830144/0x01101100) looks at LocalPlayer
  55: 0x20CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  56: 0x20CD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 57: 0x20D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10833*)
+ 57: 0x20D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10834*)
     → "Been quite a while since I've gotten a joib this rrritzy!"
  58: 0x20D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x20D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10834*)
+ 59: 0x20D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10835*)
     → "This might be yer only chance, and I promises I'll do it up rrright swell. So what'll it be?"
  60: 0x20D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x20DA [0x24] CREATE_DIALOG(message_id=10835*, default_option=0*, option_flags=0*)
+ 61: 0x20DA [0x24] CREATE_DIALOG(message_id=10836*, default_option=0*, option_flags=0*)
     → "Have her repair the bell? [Yes. Geomancy waits for no one./I'd rather not.]"
  62: 0x20E1 [0x25] WAIT_DIALOG_SELECT()
  63: 0x20E2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20F3
@@ -3248,7 +3248,7 @@ SUBROUTINE_209C:
  68: 0x20FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2E)
  69: 0x2102 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
  70: 0x2109 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
- 71: 0x2110 [0x1D] PRINT_EVENT_MESSAGE(message_id=10831*)
+ 71: 0x2110 [0x1D] PRINT_EVENT_MESSAGE(message_id=10832*)
     → "Yer a rrreal pill, ya know that?"
  72: 0x2113 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2114 [0x21] END_EVENT
@@ -3259,10 +3259,10 @@ SUBROUTINE_2119:
  76: 0x2120 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
  77: 0x2127 [0x03] Work_Zone[2] = 8798*
  78: 0x212C [0x03] Work_Zone[3] = 100*
- 79: 0x2131 [0x1D] PRINT_EVENT_MESSAGE(message_id=10836*)
+ 79: 0x2131 [0x1D] PRINT_EVENT_MESSAGE(message_id=10837*)
     → "Brin' mama the ice! You know what you gotta do--go foind me $1 $0 ."
  80: 0x2134 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x2135 [0x1D] PRINT_EVENT_MESSAGE(message_id=10837*)
+ 81: 0x2135 [0x1D] PRINT_EVENT_MESSAGE(message_id=10838*)
     → "Do that, and I'll have this ol' arrrtifact of yers singin' like a canary."
  82: 0x2138 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x2139 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
@@ -3275,7 +3275,7 @@ SUBROUTINE_2119:
  90: 0x215C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
  91: 0x2161 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x27)
  92: 0x2168 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)], work=3325*
- 93: 0x2177 [0x1D] PRINT_EVENT_MESSAGE(message_id=10838*)
+ 93: 0x2177 [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
     → "But if'n ya trrrade them to me instead of Geosuke...then it's right to the moon!"
  94: 0x217A [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x217B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x28)
@@ -3284,7 +3284,7 @@ SUBROUTINE_2119:
  98: 0x218C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Runje Desaali (ID: 17830143/0x011010FF) Render.Flags0 and Render.Flags3 conditions are met
  99: 0x2191 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)]
 100: 0x219E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)], work=3325*
-101: 0x21AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
+101: 0x21AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
     → "He might not look th' part, but the guy's as hard-boiled as they come."
 102: 0x21B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x21B1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)]
@@ -3351,16 +3351,16 @@ SUBROUTINE_2119:
   4: 0x21D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x21D1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x21D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x31)
-  7: 0x21DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10860*)
+  7: 0x21DD [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
     → "Madonn'!"
   8: 0x21E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x21E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10861*)
+  9: 0x21E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
     → "My whiskers're gettin' the heebie-jeebies, which can only mean ya've got ahold of somethin' with trrremendous runic powers!"
  10: 0x21E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x21E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x1B)
  12: 0x21EC [0x1C] WAIT(120* ticks)
  13: 0x21EF [0x03] Work_Zone[2] = 2571*
- 14: 0x21F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10862*)
+ 14: 0x21F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
     → "Aha, that's it! It's gotta be comin' frrrom that $3!"
  15: 0x21F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x21F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x32)
@@ -3372,15 +3372,15 @@ SUBROUTINE_2119:
  22: 0x2210 [0x4A] Geosuke (ID: 17830144/0x01101100) looks at Runje Desaali (ID: 17830143/0x011010FF)
  23: 0x2219 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  24: 0x221A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 25: 0x221F [0x1D] PRINT_EVENT_MESSAGE(message_id=10863*)
+ 25: 0x221F [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
     → "Time for Geosuke ta go ta woik."
  26: 0x2222 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x2223 [0x03] Work_Zone[2] = 8798*
  28: 0x2228 [0x03] Work_Zone[3] = 100*
- 29: 0x222D [0x1D] PRINT_EVENT_MESSAGE(message_id=10864*)
+ 29: 0x222D [0x1D] PRINT_EVENT_MESSAGE(message_id=10865*)
     → "Hmmm...It's lookin' like we'll need $1 $0 ta finish the joib."
  30: 0x2230 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x2231 [0x24] CREATE_DIALOG(message_id=10865*, default_option=0*, option_flags=0*)
+ 31: 0x2231 [0x24] CREATE_DIALOG(message_id=10866*, default_option=0*, option_flags=0*)
     → "What do you think? [Please, work your magic!/Get outta here.]"
  32: 0x2238 [0x25] WAIT_DIALOG_SELECT()
  33: 0x2239 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2244
@@ -3392,7 +3392,7 @@ SUBROUTINE_2119:
  39: 0x2261 [0x1E] EventEntity looks at LocalPlayer and starts talking
  40: 0x2266 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  41: 0x2267 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 42: 0x2268 [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
+ 42: 0x2268 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
     → "No, you get outta here, poverrrett! We ain't need yer cheapness filthin' up our operation."
  43: 0x226B [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x226C [0x21] END_EVENT
@@ -3406,19 +3406,19 @@ SUBROUTINE_2271:
  50: 0x228B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  51: 0x228C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  52: 0x228D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2D)
- 53: 0x2294 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
+ 53: 0x2294 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
     → "Supoib! I ain't had no gigs like this fer as long as I can rrremember."
  54: 0x2297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x2298 [0x4A] Geosuke (ID: 17830144/0x01101100) looks at LocalPlayer
  56: 0x22A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  57: 0x22A2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 58: 0x22A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10868*)
+ 58: 0x22A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
     → "Just lemme get somethin' outta the way foist."
  59: 0x22AA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x22AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10869*)
+ 60: 0x22AB [0x1D] PRINT_EVENT_MESSAGE(message_id=10870*)
     → "This might be yer only chance, so keep that in moind. Okay, what'll it be?"
  61: 0x22AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x22AF [0x24] CREATE_DIALOG(message_id=10870*, default_option=0*, option_flags=0*)
+ 62: 0x22AF [0x24] CREATE_DIALOG(message_id=10871*, default_option=0*, option_flags=0*)
     → "Have her make the weapon? [Well, if you say so./On second thought, get outta here.]"
  63: 0x22B6 [0x25] WAIT_DIALOG_SELECT()
  64: 0x22B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22C8
@@ -3429,7 +3429,7 @@ SUBROUTINE_2271:
  69: 0x22D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2E)
  70: 0x22D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
  71: 0x22DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
- 72: 0x22E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10866*)
+ 72: 0x22E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10867*)
     → "No, you get outta here, poverrrett! We ain't need yer cheapness filthin' up our operation."
  73: 0x22E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x22E9 [0x21] END_EVENT
@@ -3440,22 +3440,22 @@ SUBROUTINE_22EE:
  77: 0x22F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2F)
  78: 0x22FC [0x03] Work_Zone[2] = 8798*
  79: 0x2301 [0x03] Work_Zone[3] = 100*
- 80: 0x2306 [0x1D] PRINT_EVENT_MESSAGE(message_id=10871*)
+ 80: 0x2306 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
     → "Then you'll hafta prrrocure me $1 $0 , [wiseguy/wisegal]."
  81: 0x2309 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x230A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x30)
  83: 0x2311 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 84: 0x2318 [0x1D] PRINT_EVENT_MESSAGE(message_id=10872*)
+ 84: 0x2318 [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
     → "If ya can manage that, we might just be able ta extrrract that runic essence. It'll take all my cunnin', but I'm up ta the task!"
  85: 0x231B [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x231C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  87: 0x2323 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
- 88: 0x232A [0x1D] PRINT_EVENT_MESSAGE(message_id=10873*)
+ 88: 0x232A [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
     → "Trrrade me the materials and we can make a marriage between our two parties."
  89: 0x232D [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x232E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
  91: 0x2335 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x27)
- 92: 0x233C [0x1D] PRINT_EVENT_MESSAGE(message_id=10874*)
+ 92: 0x233C [0x1D] PRINT_EVENT_MESSAGE(message_id=10875*)
     → "Now go out there and do this outfit prrroud."
  93: 0x233F [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x2340 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x28)
@@ -3536,36 +3536,36 @@ SUBROUTINE_22EE:
  10: 0x236D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
  11: 0x2372 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x239E
  12: 0x237A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x31)
- 13: 0x2381 [0x1D] PRINT_EVENT_MESSAGE(message_id=10766*)
+ 13: 0x2381 [0x1D] PRINT_EVENT_MESSAGE(message_id=10767*)
     → "Why, it's my favorrrite shill! Wait...what's that [wand/sword] yer wavin' about?"
  14: 0x2384 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x2385 [0x1D] PRINT_EVENT_MESSAGE(message_id=10767*)
+ 15: 0x2385 [0x1D] PRINT_EVENT_MESSAGE(message_id=10768*)
     → "So you say someone just gave ya this thing and said "There's some latent potential in there, go!"? What a rrracket!"
  16: 0x2388 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x2389 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x32)
  18: 0x2390 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1F)
- 19: 0x2397 [0x1D] PRINT_EVENT_MESSAGE(message_id=10768*)
+ 19: 0x2397 [0x1D] PRINT_EVENT_MESSAGE(message_id=10769*)
     → "This's gotta be just a gaff... No, it's the rrreal deal!"
  20: 0x239A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x239B [0x01] GOTO 0x23AD
- 22: 0x239E [0x1D] PRINT_EVENT_MESSAGE(message_id=10769*)
+ 22: 0x239E [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
     → "Let me getta look at that piece of worrrk."
  23: 0x23A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x23A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1F)
- 25: 0x23A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
+ 25: 0x23A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10771*)
     → "Could use a good brushin' up, but nothin' Geosuke and I can't handle."
  26: 0x23AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_23AD:
- 27: 0x23AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10771*)
+ 27: 0x23AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
     → "All it needs is ta be [bathed in the powerrrs of nature/taken to special fonts of powerrr]."
  28: 0x23B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x23B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
+ 29: 0x23B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
     → "And what'll ya need then? Not more'n a special [ergon crystal/runey ring]."
  30: 0x23B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x23B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x20)
  32: 0x23BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x21)
- 33: 0x23C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
+ 33: 0x23C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
     → "So if you wanna stop bein' a scab 'n make yer [wand/sword] all purrretty, brin' me..."
  34: 0x23C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x23C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x22)
@@ -3575,7 +3575,7 @@ SUBROUTINE_23AD:
  39: 0x23E5 [0x03] Work_Zone[3] = 3980*
  40: 0x23EA [0x03] Work_Zone[4] = 3979*
  41: 0x23EF [0x03] Work_Zone[5] = 6068*
- 42: 0x23F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+ 42: 0x23F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "...$1, $2, $3..."
  43: 0x23F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x23F8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3584,7 +3584,7 @@ SUBROUTINE_23AD:
  47: 0x240C [0x03] Work_Zone[3] = 3981*
  48: 0x2411 [0x03] Work_Zone[4] = 3978*
  49: 0x2416 [0x03] Work_Zone[5] = 3977*
- 50: 0x241B [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+ 50: 0x241B [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "...$1, $2, $3..."
  51: 0x241E [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x241F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=9*)
@@ -3593,12 +3593,12 @@ SUBROUTINE_23AD:
 SUBROUTINE_242B:
  54: 0x242B [0x03] Work_Zone[3] = 3954*
  55: 0x2430 [0x03] Work_Zone[4] = 200*
- 56: 0x2435 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
+ 56: 0x2435 [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
     → "...$2 $0$0 ..."
  57: 0x2438 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x2439 [0x03] Work_Zone[3] = 8798*
  59: 0x243E [0x03] Work_Zone[4] = 500*
- 60: 0x2443 [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
+ 60: 0x2443 [0x1D] PRINT_EVENT_MESSAGE(message_id=10778*)
     → "...and $2 $0$0 ."
  61: 0x2446 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x2447 [0x01] GOTO 0x2517
@@ -3607,7 +3607,7 @@ SUBROUTINE_242B:
  65: 0x245A [0x03] Work_Zone[3] = 4014*
  66: 0x245F [0x03] Work_Zone[4] = 4013*
  67: 0x2464 [0x03] Work_Zone[5] = 8754*
- 68: 0x2469 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+ 68: 0x2469 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "...$1, $2, $3..."
  69: 0x246C [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x246D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=3*)
@@ -3616,7 +3616,7 @@ SUBROUTINE_242B:
  73: 0x2481 [0x03] Work_Zone[3] = 4015*
  74: 0x2486 [0x03] Work_Zone[4] = 4012*
  75: 0x248B [0x03] Work_Zone[5] = 8752*
- 76: 0x2490 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+ 76: 0x2490 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "...$1, $2, $3..."
  77: 0x2493 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x2494 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=10*)
@@ -3625,12 +3625,12 @@ SUBROUTINE_242B:
 SUBROUTINE_24A0:
  80: 0x24A0 [0x03] Work_Zone[3] = 4033*
  81: 0x24A5 [0x03] Work_Zone[4] = 200*
- 82: 0x24AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
+ 82: 0x24AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
     → "...$2 $0$0 ..."
  83: 0x24AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x24AE [0x03] Work_Zone[3] = 8798*
  85: 0x24B3 [0x03] Work_Zone[4] = 2500*
- 86: 0x24B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
+ 86: 0x24B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10778*)
     → "...and $2 $0$0 ."
  87: 0x24BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x24BC [0x01] GOTO 0x2517
@@ -3644,33 +3644,33 @@ SUBROUTINE_24A0:
 
 SUBROUTINE_24EF:
  96: 0x24EF [0x03] Work_Zone[3] = 8797*
- 97: 0x24F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
+ 97: 0x24F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
     → "...$1..."
  98: 0x24F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x24F8 [0x03] Work_Zone[3] = 3951*
 100: 0x24FD [0x03] Work_Zone[4] = 200*
-101: 0x2502 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
+101: 0x2502 [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
     → "...$2 $0$0 ..."
 102: 0x2505 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x2506 [0x03] Work_Zone[3] = 8798*
 104: 0x250B [0x03] Work_Zone[4] = 9999*
-105: 0x2510 [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
+105: 0x2510 [0x1D] PRINT_EVENT_MESSAGE(message_id=10778*)
     → "...and $2 $0$0 ."
 106: 0x2513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x2514 [0x01] GOTO 0x2517
 
 SUBROUTINE_2517:
-108: 0x2517 [0x1D] PRINT_EVENT_MESSAGE(message_id=10778*)
+108: 0x2517 [0x1D] PRINT_EVENT_MESSAGE(message_id=10779*)
     → "Then trrrade 'em to [that jamook Geosuke/me]."
 109: 0x251A [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x251B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
 111: 0x2522 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
-112: 0x2529 [0x1D] PRINT_EVENT_MESSAGE(message_id=10779*)
+112: 0x2529 [0x1D] PRINT_EVENT_MESSAGE(message_id=10780*)
     → "Don' look so banged up. Just get 'em bit by bit and we'll keep 'em locked away safe."
 113: 0x252C [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x252D [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x2538
 115: 0x2535 [0x01] GOTO 0x253C
-116: 0x2538 [0x1D] PRINT_EVENT_MESSAGE(message_id=10780*)
+116: 0x2538 [0x1D] PRINT_EVENT_MESSAGE(message_id=10781*)
     → "See, Geosuke, I says ta myself, "Runje, everrr see such a piece o' work?"..."
 117: 0x253B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3977,7 +3977,7 @@ SUBROUTINE_253C:
   3: 0x2670 [0x4A] LocalPlayer looks at Runje Desaali (ID: 17830143/0x011010FF)
   4: 0x2679 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x267A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  6: 0x267F [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10842*]:
+  6: 0x267F [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10843*]:
     → "Ya know who ya gotta ask? The dons over at the Order of Renaye. Ya got a beef with geomancy, ya go to them."
   7: 0x2686 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x2687 [0x21] END_EVENT
@@ -4016,12 +4016,12 @@ SUBROUTINE_253C:
   4: 0x2699 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x269A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x269F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
-  7: 0x26AE [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10877*]:
+  7: 0x26AE [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10878*]:
     → "Although... After mullin' it over, I'd say it's closer to rrrunic energy than normal, old magic."
   8: 0x26B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x26B6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
  10: 0x26C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
- 11: 0x26D2 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10878*]:
+ 11: 0x26D2 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [10879*]:
     → "I can't quite make heads or tails outta this. Ya might hafta ask someone who comprrrehends runes a bit better'n me."
  12: 0x26D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x26DA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
@@ -4057,7 +4057,7 @@ SUBROUTINE_253C:
   4: 0x26F1 [0x4A] LocalPlayer looks at Runje Desaali (ID: 17830143/0x011010FF)
   5: 0x26FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x26FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  7: 0x2700 [0x1D] PRINT_EVENT_MESSAGE(message_id=10731*)
+  7: 0x2700 [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
     → "Don't ya worry, I'll take rrreal good care of this beauty."
   8: 0x2703 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x2704 [0x21] END_EVENT
@@ -4116,7 +4116,7 @@ SUBROUTINE_253C:
   6: 0x271A [0x4A] LocalPlayer looks at Runje Desaali (ID: 17830143/0x011010FF)
   7: 0x2723 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x2724 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  9: 0x2729 [0x1D] PRINT_EVENT_MESSAGE(message_id=10797*)
+  9: 0x2729 [0x1D] PRINT_EVENT_MESSAGE(message_id=10798*)
     → "Geosuke? What're ya holdin' therrre?"
  10: 0x272C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x272D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "aww0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=8*
@@ -4154,28 +4154,28 @@ SUBROUTINE_27CF:
  39: 0x27CF [0x01] GOTO 0x27D2
 
 SUBROUTINE_27D2:
- 40: 0x27D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10798*)
+ 40: 0x27D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10799*)
     → "That's...that's $0!"
  41: 0x27D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x27D6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "aww0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
  43: 0x27E3 [0x1E] EventEntity looks at LocalPlayer and starts talking
  44: 0x27E8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  45: 0x27E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 46: 0x27EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10799*)
+ 46: 0x27EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10800*)
     → "Damn [bastahd/puttanti], ya didn't just up 'n chuck it out, didya?"
  47: 0x27ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x27EE [0x24] CREATE_DIALOG(message_id=10800*, default_option=0*, option_flags=0*)
+ 48: 0x27EE [0x24] CREATE_DIALOG(message_id=10801*, default_option=0*, option_flags=0*)
     → "Did you "drop" it? [Uh...oopsie./Must be someone else's.]"
  49: 0x27F5 [0x25] WAIT_DIALOG_SELECT()
  50: 0x27F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x287C
  51: 0x27FE [0x42] SET_CLI_EVENT_CANCEL_DATA()
  52: 0x27FF [0x03] Work_Zone[1] = 1*
  53: 0x2804 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=8*
- 54: 0x2813 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
+ 54: 0x2813 [0x1D] PRINT_EVENT_MESSAGE(message_id=10803*)
     → "Ya did!? Yeah, yer a real wiseguy, ain't ya? It's all crrracked 'n chipped!"
  55: 0x2816 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x2817 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ang0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
- 57: 0x2824 [0x1D] PRINT_EVENT_MESSAGE(message_id=10803*)
+ 57: 0x2824 [0x1D] PRINT_EVENT_MESSAGE(message_id=10804*)
     → "<Sigh> I can make it mint-new, but it'll cost ya."
  58: 0x2827 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x2828 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=50*
@@ -4185,7 +4185,7 @@ SUBROUTINE_27D2:
  63: 0x2847 [0x03] Work_Zone[2] = 1000000*
 
 SUBROUTINE_284C:
- 64: 0x284C [0x1D] PRINT_EVENT_MESSAGE(message_id=10804*)
+ 64: 0x284C [0x1D] PRINT_EVENT_MESSAGE(message_id=10805*)
     → "$0 gil. Any less 'n I'll get the whole family after ya. Just trade it ta me."
  65: 0x284F [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x2850 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
@@ -4193,7 +4193,7 @@ SUBROUTINE_284C:
  68: 0x286C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk2" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)]
  69: 0x2879 [0x01] GOTO 0x288B
  70: 0x287C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x288B
- 71: 0x2884 [0x1D] PRINT_EVENT_MESSAGE(message_id=10801*)
+ 71: 0x2884 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
     → "Then who could've...?"
  72: 0x2887 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2888 [0x01] GOTO 0x288B
@@ -4323,7 +4323,7 @@ SUBROUTINE_29EE:
  51: 0x29F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x1B)
  52: 0x29F8 [0x1C] WAIT(120* ticks)
  53: 0x29FB [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
- 54: 0x2A01 [0x1D] PRINT_EVENT_MESSAGE(message_id=10805*)
+ 54: 0x2A01 [0x1D] PRINT_EVENT_MESSAGE(message_id=10806*)
     → "Good. One less thing on my moind."
  55: 0x2A04 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x2A05 [0x1C] WAIT(30* ticks)
@@ -4342,7 +4342,7 @@ SUBROUTINE_29EE:
  69: 0x2A9E [0x4A] Geosuke (ID: 17830144/0x01101100) looks at LocalPlayer
  70: 0x2AA7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  71: 0x2AA8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
- 72: 0x2AAD [0x1D] PRINT_EVENT_MESSAGE(message_id=10806*)
+ 72: 0x2AAD [0x1D] PRINT_EVENT_MESSAGE(message_id=10807*)
     → "Dun be so careless next time. What kinda joint ya think I'm runnin' here?"
  73: 0x2AB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x2AB1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1B)
@@ -4403,13 +4403,13 @@ SUBROUTINE_29EE:
   4: 0x2B1A [0x4A] LocalPlayer looks at Runje Desaali (ID: 17830143/0x011010FF)
   5: 0x2B23 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x2B24 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  7: 0x2B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10656*)
+  7: 0x2B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=10657*)
     → "Always a pleasure doin' business with ya. As fer the brrread, this is about all I can bake at the moment. Take it or leave it, buster."
   8: 0x2B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x2B2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1B)
  10: 0x2B34 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
  11: 0x2B3B [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x2B47
- 12: 0x2B43 [0x1D] PRINT_EVENT_MESSAGE(message_id=10922*)
+ 12: 0x2B43 [0x1D] PRINT_EVENT_MESSAGE(message_id=10923*)
     → "'Member ta keep at it!"
  13: 0x2B46 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x2B47 [0x48] [System] [7009*]:
@@ -4427,10 +4427,10 @@ SUBROUTINE_29EE:
  25: 0x2B73 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  26: 0x2B74 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  27: 0x2B75 [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 28: 0x2B7C [0x1D] PRINT_EVENT_MESSAGE(message_id=10923*)
+ 28: 0x2B7C [0x1D] PRINT_EVENT_MESSAGE(message_id=10924*)
     → "Haha, the look on yer face! Dun worry, I's just be kiddin'. I's rememberrr our deal."
  29: 0x2B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x2B80 [0x1D] PRINT_EVENT_MESSAGE(message_id=10924*)
+ 30: 0x2B80 [0x1D] PRINT_EVENT_MESSAGE(message_id=10925*)
     → "So dun be gettin' yer panties in a twist."
  31: 0x2B83 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  32: 0x2B8A [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4438,40 +4438,40 @@ SUBROUTINE_29EE:
  34: 0x2B92 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x8C)
  35: 0x2B99 [0x1C] WAIT(150* ticks)
  36: 0x2B9C [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1F)
- 37: 0x2BA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10925*)
+ 37: 0x2BA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10926*)
     → "Hm? Ya 'spected somethin' else?"
  38: 0x2BA6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x20)
  39: 0x2BAD [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x2BAE [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x21)
  41: 0x2BB5 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x22)
  42: 0x2BBC [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 43: 0x2BC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10926*)
+ 43: 0x2BC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10927*)
     → "I dun remember that bein' part o' our deal."
  44: 0x2BC6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  45: 0x2BCD [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x2BCE [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x29)
- 47: 0x2BD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10927*)
+ 47: 0x2BD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10928*)
     → "Keep in mind that what I's be needin' ain't be available on yer e'ryday markets."
  48: 0x2BD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x2BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10928*)
+ 49: 0x2BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10929*)
     → "Ya wanna make the good cash, ya gotta stick yer neck out. That be the way o' things."
  50: 0x2BDC [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2A)
  51: 0x2BE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x2BE4 [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 53: 0x2BEB [0x1D] PRINT_EVENT_MESSAGE(message_id=10929*)
+ 53: 0x2BEB [0x1D] PRINT_EVENT_MESSAGE(message_id=10930*)
     → "'N the more dangerrrous the task, the higher the reward. Fair be fair, after all."
  54: 0x2BEE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x2BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=10930*)
+ 55: 0x2BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=10931*)
     → "Remember what keeps me happy also keep Geosuke herrre happy. Got it? I'm sure he be willin' ta sell you his wares for...ya guessed it, a fair price."
  56: 0x2BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x2BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10931*)
+ 57: 0x2BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10932*)
     → "We's all be friends here, no? So let's stay on each otherrr's good side."
  58: 0x2BF6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  59: 0x2BFD [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x2BFE [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
  61: 0x2C05 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
  62: 0x2C0C [0x1C] WAIT(60* ticks)
- 63: 0x2C0F [0x48] [System] [10932*]:
+ 63: 0x2C0F [0x48] [System] [10933*]:
     → "Geosuke now offers an additional selection of items."
  64: 0x2C12 [0x21] END_EVENT
  65: 0x2C13 [0x00] END_REQSTACK()
@@ -4518,37 +4518,37 @@ SUBROUTINE_29EE:
   4: 0x2C24 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x2C25 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   6: 0x2C2A [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
-  7: 0x2C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=11837*)
+  7: 0x2C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=11838*)
     → "Ah, [young lady/young man], how's it going?"
   8: 0x2C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x2C33 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  10: 0x2C42 [0x03] Work_Zone[2] = 3138*
- 11: 0x2C47 [0x1D] PRINT_EVENT_MESSAGE(message_id=10889*)
+ 11: 0x2C47 [0x1D] PRINT_EVENT_MESSAGE(message_id=10890*)
     → "Youse got $6, do ya?"
  12: 0x2C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x2C4B [0x03] Work_Zone[2] = 6008*
- 14: 0x2C50 [0x1D] PRINT_EVENT_MESSAGE(message_id=10890*)
+ 14: 0x2C50 [0x1D] PRINT_EVENT_MESSAGE(message_id=10891*)
     → "Hand on a sec, buster. You're the [guy/gal] who had the $0 from before!"
  15: 0x2C53 [0x1C] WAIT(120* ticks)
  16: 0x2C56 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x2C57 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 18: 0x2C66 [0x1D] PRINT_EVENT_MESSAGE(message_id=10891*)
+ 18: 0x2C66 [0x1D] PRINT_EVENT_MESSAGE(message_id=10892*)
     → "I's got eyes for clever thinks, y'see?"
  19: 0x2C69 [0x1C] WAIT(150* ticks)
  20: 0x2C6C [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x2C6D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 22: 0x2C7C [0x1D] PRINT_EVENT_MESSAGE(message_id=10892*)
+ 22: 0x2C7C [0x1D] PRINT_EVENT_MESSAGE(message_id=10893*)
     → "That li'l thing ya brought me just now--only Geosuke and his friends can give them out to those they trust."
  23: 0x2C7F [0x1C] WAIT(90* ticks)
  24: 0x2C82 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x2C83 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 26: 0x2C92 [0x1D] PRINT_EVENT_MESSAGE(message_id=10893*)
+ 26: 0x2C92 [0x1D] PRINT_EVENT_MESSAGE(message_id=10894*)
     → "It's kinda a badge of pride, see? And because you've got one, I's can offer ya special services."
  27: 0x2C95 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x2C96 [0x1D] PRINT_EVENT_MESSAGE(message_id=10894*)
+ 28: 0x2C96 [0x1D] PRINT_EVENT_MESSAGE(message_id=10895*)
     → "I know, I know, you want to know more. So I'll tell ya: I can improve special treasures from each of the Twelve Orders."
  29: 0x2C99 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x2C9A [0x1D] PRINT_EVENT_MESSAGE(message_id=10895*)
+ 30: 0x2C9A [0x1D] PRINT_EVENT_MESSAGE(message_id=10896*)
     → "Bet I got yer interest, didn't I?"
  31: 0x2C9D [0x1C] WAIT(120* ticks)
  32: 0x2CA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4556,27 +4556,27 @@ SUBROUTINE_29EE:
  34: 0x2CB0 [0x03] Work_Zone[2] = LocalPlayer->Race
  35: 0x2CB5 [0x03] Work_Zone[3] = 8798*
  36: 0x2CBA [0x03] Work_Zone[4] = 100*
- 37: 0x2CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=10896*)
+ 37: 0x2CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=10897*)
     → "And I've also got special deals for [/Hume maes/Hume females/Elvaan males/Elvaan females/Tarutaru males/Tarutaru females/Mithra/Galka] just like you! Only $2 $1!"
  38: 0x2CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x2CC3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 40: 0x2CC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10897*)
+ 40: 0x2CC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10898*)
     → "Just trade me yer treasure along with $2 $1."
  41: 0x2CC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x2CC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10898*)
+ 42: 0x2CC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10899*)
     → "Let me know if ya wanna see what it's like once I's done with it."
  43: 0x2CCB [0x1C] WAIT(60* ticks)
  44: 0x2CCE [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x2CCF [0x41] Work_Zone[2] = Work_Zone[9] (bits 5*-8*)
  46: 0x2CD8 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x2CFE
  47: 0x2CE0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=52*
- 48: 0x2CEF [0x1D] PRINT_EVENT_MESSAGE(message_id=10899*)
+ 48: 0x2CEF [0x1D] PRINT_EVENT_MESSAGE(message_id=10900*)
     → "Or wait...ya don't have any applicable treasures?"
  49: 0x2CF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x2CF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10900*)
+ 50: 0x2CF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10901*)
     → "Then I can't do nothin' fer ya."
  51: 0x2CF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x2CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10901*)
+ 52: 0x2CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10902*)
     → "If ya had one but lost it, someone at th' castle might be able to help ya!"
  53: 0x2CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x2CFB [0x01] GOTO 0x2D0D
@@ -4638,7 +4638,7 @@ SUBROUTINE_2D0D:
   4: 0x2D17 [0x4A] LocalPlayer looks at Runje Desaali (ID: 17830143/0x011010FF)
   5: 0x2D20 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x2D21 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  7: 0x2D26 [0x1D] PRINT_EVENT_MESSAGE(message_id=10902*)
+  7: 0x2D26 [0x1D] PRINT_EVENT_MESSAGE(message_id=10903*)
     → "Oho! Brought "it" did ya?"
   8: 0x2D29 [0x1C] WAIT(120* ticks)
   9: 0x2D2C [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4649,7 +4649,7 @@ SUBROUTINE_2D0D:
  14: 0x2D3D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  15: 0x2D3E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Geosuke (ID: 17830144/0x01101100) Render.Flags0 and Render.Flags3 conditions are met
  16: 0x2D43 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1B)
- 17: 0x2D4A [0x1D] PRINT_EVENT_MESSAGE(message_id=10903*)
+ 17: 0x2D4A [0x1D] PRINT_EVENT_MESSAGE(message_id=10904*)
     → "Geosuke, c'mere and do yer thing!"
  18: 0x2D4D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
  19: 0x2D54 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4672,7 +4672,7 @@ SUBROUTINE_2D0D:
  36: 0x2DC2 [0x6B] STOP_AND_IDLE: Geosuke (ID: 17830144/0x01101100) stops current action and resets to idle (animation="idl0")
  37: 0x2DCB [0x1C] WAIT(60* ticks)
  38: 0x2DCE [0x1A] CALL_SUBROUTINE(address=0x0085)
- 39: 0x2DD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10904*)
+ 39: 0x2DD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10905*)
     → "My turn now!"
  40: 0x2DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x2DD5 [0x1C] WAIT(60* ticks)
@@ -4683,25 +4683,25 @@ SUBROUTINE_2D0D:
  46: 0x2DFE [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "okex" with entities [Runje Desaali (ID: 17830143/0x011010FF), Runje Desaali (ID: 17830143/0x011010FF)], work=[194*, 0*]
  47: 0x2E0F [0x1C] WAIT(270* ticks)
  48: 0x2E12 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)], work=3325*
- 49: 0x2E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=10905*)
+ 49: 0x2E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=10906*)
     → "Purrrfect! [A good first try, I's gotta say./Looks like it worked this time!]"
  50: 0x2E24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x2E25 [0x1E] EventEntity looks at LocalPlayer and starts talking
  52: 0x2E2A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  53: 0x2E2B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  54: 0x2E2C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1B)
- 55: 0x2E33 [0x1D] PRINT_EVENT_MESSAGE(message_id=10906*)
+ 55: 0x2E33 [0x1D] PRINT_EVENT_MESSAGE(message_id=10907*)
     → "I mean...of course everything went well!"
  56: 0x2E36 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1C)
  57: 0x2E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x2E3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 59: 0x2E45 [0x1D] PRINT_EVENT_MESSAGE(message_id=10907*)
+ 59: 0x2E45 [0x1D] PRINT_EVENT_MESSAGE(message_id=10908*)
     → "Ah, and maybe I's forgot. Absolutely no returns or refunds."
  60: 0x2E48 [0x1C] WAIT(120* ticks)
  61: 0x2E4B [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x2E4C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x19)
  63: 0x2E53 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
- 64: 0x2E5A [0x1D] PRINT_EVENT_MESSAGE(message_id=10908*)
+ 64: 0x2E5A [0x1D] PRINT_EVENT_MESSAGE(message_id=10909*)
     → "G'job, Geosuke! I figured I could train you good!"
  65: 0x2E5D [0x1C] WAIT(120* ticks)
  66: 0x2E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4709,7 +4709,7 @@ SUBROUTINE_2D0D:
  68: 0x2E66 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  69: 0x2E67 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  70: 0x2E68 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Geosuke (ID: 17830144/0x01101100), Geosuke (ID: 17830144/0x01101100)], work=3325*
- 71: 0x2E77 [0x2B] Geosuke (ID: 17830144/0x01101100) [10704*]:
+ 71: 0x2E77 [0x2B] Geosuke (ID: 17830144/0x01101100) [10705*]:
     → "Gwrk."
  72: 0x2E7E [0x1C] WAIT(90* ticks)
  73: 0x2E81 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4761,39 +4761,39 @@ SUBROUTINE_2D0D:
   3: 0x2EA5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x2EA6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   5: 0x2EAB [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
-  6: 0x2EB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10909*)
+  6: 0x2EB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10910*)
     → "Ah, if it isn't I's favorrrite pioneer!"
   7: 0x2EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x2EB4 [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
-  9: 0x2EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=10910*)
+  9: 0x2EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=10911*)
     → "Turns out I gots a job fer ya. A bit of a time-sensitive issue frrrom a contact in Eastern Adoulin."
  10: 0x2EBE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x2EBF [0x1D] PRINT_EVENT_MESSAGE(message_id=10911*)
+ 11: 0x2EBF [0x1D] PRINT_EVENT_MESSAGE(message_id=10912*)
     → "A jungle crrreepy-crawly appears to have dropped a valuable piece o' equipment of sorts, and they want it."
  12: 0x2EC2 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  13: 0x2EC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x2ECA [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1F)
- 15: 0x2ED1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10912*)
+ 15: 0x2ED1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10913*)
     → "I's not too sure o' the details, but it suppos'dly be very popular with some forrreign tradesmen."
  16: 0x2ED4 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x20)
  17: 0x2EDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x2EDC [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x21)
  19: 0x2EE3 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x22)
  20: 0x2EEA [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x23)
- 21: 0x2EF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10913*)
+ 21: 0x2EF1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10914*)
     → "Normally I be keepin' 'em in stock, but turns out my supply all but run drrry."
  22: 0x2EF4 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x24)
  23: 0x2EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x2EFC [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x35)
- 25: 0x2F03 [0x1D] PRINT_EVENT_MESSAGE(message_id=10914*)
+ 25: 0x2F03 [0x1D] PRINT_EVENT_MESSAGE(message_id=10915*)
     → "'N that's where youse be comin' in. A battle o' a middleperson, if ya will."
  26: 0x2F06 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x36)
  27: 0x2F0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x2F0E [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 29: 0x2F15 [0x1D] PRINT_EVENT_MESSAGE(message_id=10915*)
+ 29: 0x2F15 [0x1D] PRINT_EVENT_MESSAGE(message_id=10916*)
     → "'Course, youse already be an experrrt in arms-dealin', no?"
  30: 0x2F18 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x2F19 [0x1D] PRINT_EVENT_MESSAGE(message_id=10916*)
+ 31: 0x2F19 [0x1D] PRINT_EVENT_MESSAGE(message_id=10917*)
     → "E'ry single one you find counts. Even just one be good enough. I's be payin' a fair price fer em, too."
  32: 0x2F1C [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  33: 0x2F23 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4801,7 +4801,7 @@ SUBROUTINE_2D0D:
  35: 0x2F2B [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x1A)
  36: 0x2F32 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=54*
  37: 0x2F41 [0x93] DISPLAY_ITEM_INFO(item_id=23807*)
- 38: 0x2F44 [0x1D] PRINT_EVENT_MESSAGE(message_id=10917*)
+ 38: 0x2F44 [0x1D] PRINT_EVENT_MESSAGE(message_id=10918*)
     → "Lemme show you the kind o' thing I's be needin'."
  39: 0x2F47 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi1" with entities [EventEntity, EventEntity]
  40: 0x2F54 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4809,15 +4809,15 @@ SUBROUTINE_2D0D:
  42: 0x2F64 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi2" with entities [EventEntity, EventEntity]
  43: 0x2F71 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  44: 0x2F74 [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x17)
- 45: 0x2F7B [0x1D] PRINT_EVENT_MESSAGE(message_id=10918*)
+ 45: 0x2F7B [0x1D] PRINT_EVENT_MESSAGE(message_id=10919*)
     → "Betcha be interrrested now, hmmm?"
  46: 0x2F7E [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x18)
  47: 0x2F85 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x2F86 [0x27] REQ_SET(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x29)
- 49: 0x2F8D [0x1D] PRINT_EVENT_MESSAGE(message_id=10919*)
+ 49: 0x2F8D [0x1D] PRINT_EVENT_MESSAGE(message_id=10920*)
     → "Enough gabbin'. Get goin'!"
  50: 0x2F90 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x2F91 [0x1D] PRINT_EVENT_MESSAGE(message_id=10920*)
+ 51: 0x2F91 [0x1D] PRINT_EVENT_MESSAGE(message_id=10921*)
     → "Just know that what I's be needin' can't be bought on the auction house."
  52: 0x2F94 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Runje Desaali (ID: 17830143/0x011010FF), tag_num=0x2A)
  53: 0x2F9B [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -5668,10 +5668,10 @@ SUBROUTINE_2D0D:
   1: 0x31F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x31F9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x31FA [0x03] Work_Zone[3] = 6257*
-  4: 0x31FF [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [11859*]:
+  4: 0x31FF [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [11860*]:
     → "Okay, it's a deal. Once ya get the $1, brrring it to me."
   5: 0x3206 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x3207 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [11860*]:
+  6: 0x3207 [0x2B] Runje Desaali (ID: 17830143/0x011010FF) [11861*]:
     → "There's no need to frrret. Bring the goods, and I won't have to have Geosuke here break yer kneecaps."
   7: 0x320E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x320F [0x1C] WAIT(30* ticks)

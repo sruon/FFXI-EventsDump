@@ -24,7 +24,7 @@
 |       1 | 0x0029      |          41 |
 |       2 | 0x0004      |           4 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1C49      |        7241 |
+|       4 | 0x1C4A      |        7242 |
 |       5 | 0x002A      |          42 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x002B      |          43 |
@@ -59,7 +59,7 @@
 
 ## String References
 
-- **7241**: Destination? (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]
+- **7242**: Destination? (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]
 
 ## Events
 
@@ -141,7 +141,7 @@
   5: 0x0017 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
   6: 0x001E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   7: 0x0023 [0x0B] Work_Zone[4]++
-  8: 0x0026 [0x24] CREATE_DIALOG(message_id=7241*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
+  8: 0x0026 [0x24] CREATE_DIALOG(message_id=7242*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
     → "Destination? (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]"
   9: 0x002D [0x25] WAIT_DIALOG_SELECT()
  10: 0x002E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E

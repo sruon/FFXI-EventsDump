@@ -22,20 +22,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1ECA      |        7882 |
+|       0 | 0x1ECB      |        7883 |
 |       1 | 0x06B4      |        1716 |
 |       2 | 0x003B      |          59 |
-|       3 | 0x1ECB      |        7883 |
-|       4 | 0x1ECC      |        7884 |
+|       3 | 0x1ECC      |        7884 |
+|       4 | 0x1ECD      |        7885 |
 |       5 | 0x0007      |           7 |
-|       6 | 0x1ECD      |        7885 |
+|       6 | 0x1ECE      |        7886 |
 
 ## String References
 
-- **7882**: Hail, stranger. What brings you all the way to the third outpost? It must be a vital task indeed, for you to trek to such an inhospitable place as this.
-- **7883**: Ah, <Player>. Zauko gave me advance notice of your coming.
-- **7884**: We appreciate your assistance. Well, you see the casket, don't you? Go right ahead and put that $3 in.
-- **7885**: For a second there, I was afraid you'd start rambling about the Torch and Her divine Light like poor old Zauko. Precious few of the survivors have been able to keep their wits about them, what with the horrors they've seen...
+- **7883**: Hail, stranger. What brings you all the way to the third outpost? It must be a vital task indeed, for you to trek to such an inhospitable place as this.
+- **7884**: Ah, <Player>. Zauko gave me advance notice of your coming.
+- **7885**: We appreciate your assistance. Well, you see the casket, don't you? Go right ahead and put that $3 in.
+- **7886**: For a second there, I was afraid you'd start rambling about the Torch and Her divine Light like poor old Zauko. Precious few of the survivors have been able to keep their wits about them, what with the horrors they've seen...
 
 ## Events
 
@@ -83,7 +83,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
     → "Hail, stranger. What brings you all the way to the third outpost? It must be a vital task indeed, for you to trek to such an inhospitable place as this."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -118,10 +118,10 @@
   2: 0x0014 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0015 [0x03] Work_Zone[2] = 1716*
   4: 0x001A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kuah Dakonsa (ID: 17814093/0x010FD24D), Kuah Dakonsa (ID: 17814093/0x010FD24D)], work=59*
-  5: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+  5: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "Ah, <Player>. Zauko gave me advance notice of your coming."
   6: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
+  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
     → "We appreciate your assistance. Well, you see the casket, don't you? Go right ahead and put that $3 in."
   8: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0031 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Kuah Dakonsa (ID: 17814093/0x010FD24D), Kuah Dakonsa (ID: 17814093/0x010FD24D)], work=59*
@@ -154,7 +154,7 @@
   2: 0x0048 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0049 [0x6E] Kuah Dakonsa (ID: 17814093/0x010FD24D) uses emote 7*
   4: 0x0050 [0x99] Wait for Kuah Dakonsa (ID: 17814093/0x010FD24D) animation to complete
-  5: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+  5: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "For a second there, I was afraid you'd start rambling about the Torch and Her divine Light like poor old Zauko. Precious few of the survivors have been able to keep their wits about them, what with the horrors they've seen..."
   6: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0059 [0x21] END_EVENT

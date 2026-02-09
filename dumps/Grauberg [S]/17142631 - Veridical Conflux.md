@@ -31,7 +31,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x20BC      |        8380 |
+|       0 | 0x20BD      |        8381 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x004F      |          79 |
 |       3 | 0x0096      |         150 |
@@ -40,7 +40,7 @@
 
 ## String References
 
-- **8380**: Warp to the Walk of Echoes? [Proceed./Not yet.]
+- **8381**: Warp to the Walk of Echoes? [Proceed./Not yet.]
 
 ## Events
 
@@ -138,7 +138,7 @@
 ```
   0: 0x0011 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0012 [0x06] Work_Zone[1] = 0
-  2: 0x0015 [0x24] CREATE_DIALOG(message_id=8380*, default_option=0*, option_flags=0*)
+  2: 0x0015 [0x24] CREATE_DIALOG(message_id=8381*, default_option=0*, option_flags=0*)
     → "Warp to the Walk of Echoes? [Proceed./Not yet.]"
   3: 0x001C [0x25] WAIT_DIALOG_SELECT()
   4: 0x001D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004A

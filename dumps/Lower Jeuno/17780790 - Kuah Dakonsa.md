@@ -123,42 +123,42 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0034      |          52 |
-|       1 | 0x1E70      |        7792 |
+|       1 | 0x1E71      |        7793 |
 |       2 | 0x0032      |          50 |
-|       3 | 0x1E71      |        7793 |
-|       4 | 0x2355      |        9045 |
+|       3 | 0x1E72      |        7794 |
+|       4 | 0x2356      |        9046 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x2356      |        9046 |
+|       6 | 0x2357      |        9047 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x2357      |        9047 |
+|       8 | 0x2358      |        9048 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x2358      |        9048 |
+|      10 | 0x2359      |        9049 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x2359      |        9049 |
+|      12 | 0x235A      |        9050 |
 |      13 | 0x0004      |           4 |
-|      14 | 0x235A      |        9050 |
+|      14 | 0x235B      |        9051 |
 |      15 | 0x0005      |           5 |
-|      16 | 0x235B      |        9051 |
+|      16 | 0x235C      |        9052 |
 |      17 | 0x0006      |           6 |
-|      18 | 0x235C      |        9052 |
+|      18 | 0x235D      |        9053 |
 |      19 | 0x0007      |           7 |
-|      20 | 0x235D      |        9053 |
-|      21 | 0x235E      |        9054 |
-|      22 | 0x235F      |        9055 |
-|      23 | 0x2360      |        9056 |
-|      24 | 0x2361      |        9057 |
+|      20 | 0x235E      |        9054 |
+|      21 | 0x235F      |        9055 |
+|      22 | 0x2360      |        9056 |
+|      23 | 0x2361      |        9057 |
+|      24 | 0x2362      |        9058 |
 |      25 | 0x0023      |          35 |
-|      26 | 0x25A7      |        9639 |
-|      27 | 0x25A8      |        9640 |
-|      28 | 0x25A9      |        9641 |
-|      29 | 0x25AA      |        9642 |
-|      30 | 0x25AB      |        9643 |
-|      31 | 0x25AC      |        9644 |
-|      32 | 0x25AD      |        9645 |
-|      33 | 0x25AE      |        9646 |
-|      34 | 0x25AF      |        9647 |
-|      35 | 0x25B0      |        9648 |
-|      36 | 0x25B1      |        9649 |
+|      26 | 0x25A8      |        9640 |
+|      27 | 0x25A9      |        9641 |
+|      28 | 0x25AA      |        9642 |
+|      29 | 0x25AB      |        9643 |
+|      30 | 0x25AC      |        9644 |
+|      31 | 0x25AD      |        9645 |
+|      32 | 0x25AE      |        9646 |
+|      33 | 0x25AF      |        9647 |
+|      34 | 0x25B0      |        9648 |
+|      35 | 0x25B1      |        9649 |
+|      36 | 0x25B2      |        9650 |
 |      37 | 0x00C8      |         200 |
 |      38 | 0x001E      |          30 |
 |      39 | 0x40000000  |  1073741824 |
@@ -166,9 +166,9 @@
 |      41 | 0xFFFF4CEB  |  4294921451 |
 |      42 | 0xFFFF426D  |  4294918765 |
 |      43 | 0x0195      |         405 |
-|      44 | 0x25B2      |        9650 |
-|      45 | 0x25B3      |        9651 |
-|      46 | 0x25B4      |        9652 |
+|      44 | 0x25B3      |        9651 |
+|      45 | 0x25B4      |        9652 |
+|      46 | 0x25B5      |        9653 |
 |      47 | 0x005F      |          95 |
 |      48 | 0x0064      |         100 |
 |      49 | 0x0069      |         105 |
@@ -492,35 +492,35 @@
 
 ## String References
 
-- **7792**: I like to stand here and watch you people rrrun back and forth all day. I wonder what the hurry is...
-- **7793**: Sometimes you should slow down and walk for a change. You know, stop and smell the rrroses!
-- **9045**: What's that? You're trying to trrrack someone down?
-- **9046**: A guy called [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9047**: A girl called [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9048**: A guy called [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9049**: A girl called [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9050**: A guy called [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9051**: A girl called [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9052**: A girl called [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9053**: A guy called [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
-- **9054**: Wait a minute. Did this person have [bristly hair/shoulder-length hair/a beard/long bangs/messy hair/straight bangs/parted bangs/hair standing straight up]?
-- **9055**: Did the person have [bristly hair/shoulder-length hair/a beard/long bangs/messy hair/straight bangs/parted bangs/hair standing up]? [I'm pretty sure./Not that I know of...]
-- **9056**: Oh, I know the one. Try looking in Upper Jeuno. That's all I know.
-- **9057**: Then sorry, I can't help you.
-- **9639**: What's that? You're trying to trrrack someone down?
-- **9640**: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]H I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9641**: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9642**: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9643**: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9644**: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9645**: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9646**: [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9647**: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
-- **9648**: Hey, I've got an idea! Why don't you take a look at the photos of people in this magazine here? Maybe one of them rrresembles who you're searching for.
-- **9649**: Look at which page? [Nothing./1A/1B"A"B"A"B/4A/4B/5A/5B/6A/6B/7A/7B/8A/8B]
-- **9650**: This kind of face, eh?
-- **9651**: This face? [Yes./Maybe not...]
-- **9652**: I'm prrretty sure no one like this has come through here for the past few days. You might want to check out other arrreas in Jeuno.
+- **7793**: I like to stand here and watch you people rrrun back and forth all day. I wonder what the hurry is...
+- **7794**: Sometimes you should slow down and walk for a change. You know, stop and smell the rrroses!
+- **9046**: What's that? You're trying to trrrack someone down?
+- **9047**: A guy called [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9048**: A girl called [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9049**: A guy called [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9050**: A girl called [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9051**: A guy called [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9052**: A girl called [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9053**: A girl called [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9054**: A guy called [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?
+- **9055**: Wait a minute. Did this person have [bristly hair/shoulder-length hair/a beard/long bangs/messy hair/straight bangs/parted bangs/hair standing straight up]?
+- **9056**: Did the person have [bristly hair/shoulder-length hair/a beard/long bangs/messy hair/straight bangs/parted bangs/hair standing up]? [I'm pretty sure./Not that I know of...]
+- **9057**: Oh, I know the one. Try looking in Upper Jeuno. That's all I know.
+- **9058**: Then sorry, I can't help you.
+- **9640**: What's that? You're trying to trrrack someone down?
+- **9641**: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]H I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9642**: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9643**: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9644**: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9645**: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9646**: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9647**: [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9648**: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know.
+- **9649**: Hey, I've got an idea! Why don't you take a look at the photos of people in this magazine here? Maybe one of them rrresembles who you're searching for.
+- **9650**: Look at which page? [Nothing./1A/1B"A"B"A"B/4A/4B/5A/5B/6A/6B/7A/7B/8A/8B]
+- **9651**: This kind of face, eh?
+- **9652**: This face? [Yes./Maybe not...]
+- **9653**: I'm prrretty sure no one like this has come through here for the past few days. You might want to check out other arrreas in Jeuno.
 
 ## Events
 
@@ -573,11 +573,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=52*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "I like to stand here and watch you people rrrun back and forth all day. I wonder what the hurry is..."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  7: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+  7: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "Sometimes you should slow down and walk for a change. You know, stop and smell the rrroses!"
   8: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
@@ -622,7 +622,7 @@
 
 ```
   0: 0x004C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=9045*)
+  1: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
     → "What's that? You're trying to trrrack someone down?"
   2: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
@@ -631,42 +631,42 @@
   6: 0x006C [0x1A] CALL_SUBROUTINE(address=0x18B6)
   7: 0x006F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
   8: 0x0074 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0083
-  9: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
+  9: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
     → "A guy called [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  10: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0080 [0x01] GOTO 0x00EC
  12: 0x0083 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0092
- 13: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
+ 13: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
     → "A girl called [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  14: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x008F [0x01] GOTO 0x00EC
  16: 0x0092 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x00A1
- 17: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
+ 17: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
     → "A guy called [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  18: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x009E [0x01] GOTO 0x00EC
  20: 0x00A1 [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x00B0
- 21: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
+ 21: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
     → "A girl called [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  22: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00AD [0x01] GOTO 0x00EC
  24: 0x00B0 [0x02] IF !(Work_Zone[3] == 4*) GOTO 0x00BF
- 25: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
+ 25: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
     → "A guy called [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  26: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00BC [0x01] GOTO 0x00EC
  28: 0x00BF [0x02] IF !(Work_Zone[3] == 5*) GOTO 0x00CE
- 29: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
+ 29: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
     → "A girl called [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  30: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00CB [0x01] GOTO 0x00EC
  32: 0x00CE [0x02] IF !(Work_Zone[3] == 6*) GOTO 0x00DD
- 33: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
+ 33: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9053*)
     → "A girl called [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  34: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00DA [0x01] GOTO 0x00EC
  36: 0x00DD [0x02] IF !(Work_Zone[3] == 7*) GOTO 0x00EC
- 37: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9053*)
+ 37: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9054*)
     → "A guy called [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? I see a lot of you people rrrunning past here everrry day... Got anything else I can worrrk with?"
  38: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00E9 [0x01] GOTO 0x00EC
@@ -674,22 +674,22 @@
 SUBROUTINE_00EC:
  40: 0x00EC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  41: 0x00F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 42: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=9054*)
+ 42: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=9055*)
     → "Wait a minute. Did this person have [bristly hair/shoulder-length hair/a beard/long bangs/messy hair/straight bangs/parted bangs/hair standing straight up]?"
  43: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x010C [0x24] CREATE_DIALOG(message_id=9055*, default_option=1*, option_flags=0*)
+ 44: 0x010C [0x24] CREATE_DIALOG(message_id=9056*, default_option=1*, option_flags=0*)
     → "Did the person have [bristly hair/shoulder-length hair/a beard/long bangs/messy hair/straight bangs/parted bangs/hair standing up]? [I'm pretty sure./Not that I know of...]"
  45: 0x0113 [0x25] WAIT_DIALOG_SELECT()
  46: 0x0114 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0129
  47: 0x011C [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 48: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=9056*)
+ 48: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=9057*)
     → "Oh, I know the one. Try looking in Upper Jeuno. That's all I know."
  49: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0121 [0x03] Work_Zone[1] = 1*
  51: 0x0126 [0x01] GOTO 0x013E
  52: 0x0129 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013E
  53: 0x0131 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 54: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9057*)
+ 54: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9058*)
     → "Then sorry, I can't help you."
  55: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0136 [0x03] Work_Zone[1] = 0*
@@ -1930,7 +1930,7 @@ SUBROUTINE_013E:
   0: 0x014D [0x03] ExtData[1]->WorkLocal[0] = 0*
   1: 0x0152 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "test" with entities [EventEntity, EventEntity], work=[35*, 0*]
   2: 0x0163 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=9639*)
+  3: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=9640*)
     → "What's that? You're trying to trrrack someone down?"
   4: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x016C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1940,42 +1940,42 @@ SUBROUTINE_013E:
   9: 0x0180 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  10: 0x0185 [0x1A] CALL_SUBROUTINE(address=0x18B6)
  11: 0x0188 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x0197
- 12: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=9640*)
+ 12: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=9641*)
     → "[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]H I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  13: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0194 [0x01] GOTO 0x0200
  15: 0x0197 [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x01A6
- 16: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=9641*)
+ 16: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=9642*)
     → "[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  17: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01A3 [0x01] GOTO 0x0200
  19: 0x01A6 [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x01B5
- 20: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9642*)
+ 20: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9643*)
     → "[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  21: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x01B2 [0x01] GOTO 0x0200
  23: 0x01B5 [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x01C4
- 24: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9643*)
+ 24: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9644*)
     → "[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  25: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x01C1 [0x01] GOTO 0x0200
  27: 0x01C4 [0x02] IF !(ExtData[1]->WorkLocal[12] == 4*) GOTO 0x01D3
- 28: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9644*)
+ 28: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=9645*)
     → "[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  29: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x01D0 [0x01] GOTO 0x0200
  31: 0x01D3 [0x02] IF !(ExtData[1]->WorkLocal[12] == 5*) GOTO 0x01E2
- 32: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9645*)
+ 32: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9646*)
     → "[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  33: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x01DF [0x01] GOTO 0x0200
  35: 0x01E2 [0x02] IF !(ExtData[1]->WorkLocal[12] == 6*) GOTO 0x01F1
- 36: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9646*)
+ 36: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9647*)
     → "[Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  37: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x01EE [0x01] GOTO 0x0200
  39: 0x01F1 [0x02] IF !(ExtData[1]->WorkLocal[12] == 7*) GOTO 0x0200
- 40: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9647*)
+ 40: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9648*)
     → "[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]? I watch hundrrreds of people running back and forth all day, but it's not like their names are floating above their heads, you know."
  41: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x01FD [0x01] GOTO 0x0200
@@ -1983,14 +1983,14 @@ SUBROUTINE_013E:
 SUBROUTINE_0200:
  43: 0x0200 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  44: 0x020D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 45: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=9648*)
+ 45: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=9649*)
     → "Hey, I've got an idea! Why don't you take a look at the photos of people in this magazine here? Maybe one of them rrresembles who you're searching for."
  46: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0220 [0x2F] Unnamed NPC (ID: 17780913/0x010F50B1)->Render.Flags0 &= ~0x80000 // Bit 19
  48: 0x0226 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 
 SUBROUTINE_0227:
- 49: 0x0227 [0x24] CREATE_DIALOG(message_id=9649*, default_option=0*, option_flags=0*)
+ 49: 0x0227 [0x24] CREATE_DIALOG(message_id=9650*, default_option=0*, option_flags=0*)
     → "Look at which page? [Nothing./1A/1B"A"B"A"B/4A/4B/5A/5B/6A/6B/7A/7B/8A/8B]"
  50: 0x022E [0x25] WAIT_DIALOG_SELECT()
  51: 0x022F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x028C
@@ -2049,10 +2049,10 @@ SUBROUTINE_028C:
 SUBROUTINE_03CF:
 101: 0x03CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 102: 0x03E0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-103: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9650*)
+103: 0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9651*)
     → "This kind of face, eh?"
 104: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x03F3 [0x24] CREATE_DIALOG(message_id=9651*, default_option=1*, option_flags=0*)
+105: 0x03F3 [0x24] CREATE_DIALOG(message_id=9652*, default_option=1*, option_flags=0*)
     → "This face? [Yes./Maybe not...]"
 106: 0x03FA [0x25] WAIT_DIALOG_SELECT()
 107: 0x03FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0409
@@ -2067,7 +2067,7 @@ SUBROUTINE_0409:
 114: 0x0438 [0x46] CAMERA_CONTROL: Restore default settings
 115: 0x043A [0x1C] WAIT(30* ticks)
 116: 0x043D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-117: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=9652*)
+117: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=9653*)
     → "I'm prrretty sure no one like this has come through here for the past few days. You might want to check out other arrreas in Jeuno."
 118: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0452 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]

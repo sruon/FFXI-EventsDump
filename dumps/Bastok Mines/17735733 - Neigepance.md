@@ -20,14 +20,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x29EF      |       10735 |
+|       0 | 0x29F0      |       10736 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x29F0      |       10736 |
+|       2 | 0x29F1      |       10737 |
 
 ## String References
 
-- **10735**: Even with all of Bastok's vaunted technological progress, chocobos, especially of the San d'Orian variety, are still favored by adventurers as rides.
-- **10736**: And of course, our chocobos are imported directly from San d'Oria!
+- **10736**: Even with all of Bastok's vaunted technological progress, chocobos, especially of the San d'Orian variety, are still favored by adventurers as rides.
+- **10737**: And of course, our chocobos are imported directly from San d'Oria!
 
 ## Events
 
@@ -74,11 +74,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10735*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
     → "Even with all of Bastok's vaunted technological progress, chocobos, especially of the San d'Orian variety, are still favored by adventurers as rides."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
     → "And of course, our chocobos are imported directly from San d'Oria!"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

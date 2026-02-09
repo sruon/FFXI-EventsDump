@@ -1,5 +1,5 @@
 # Strings for Hall of Transference
-# Total: 7402 strings
+# Total: 7403 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,7 +7069,7 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Proceed onward? [Yes./No.]
+ 7068: It won't open.
  7069: Proceed onward? [Yes./No.]
  7070: Proceed onward? [Yes./No.]
  7071: Proceed onward? [Yes./No.]
@@ -7078,102 +7078,102 @@
  7074: Proceed onward? [Yes./No.]
  7075: Proceed onward? [Yes./No.]
  7076: Proceed onward? [Yes./No.]
- 7077: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
- 7078: Return to the following area? [Riverne - Site #A01./Do not return.]
- 7079: Return to the following area? [Riverne - Site #B01./Do not return.]
- 7080: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
- 7081: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
- 7082: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
- 7083: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
- 7084: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
- 7085: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
- 7086: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
- 7087: Really warp to the Propagator? [Yes./No.]
- 7088: Really warp to the Solicitor? [Yes./No.]
- 7089: Really warp to the Ponderer? [Yes./No.]
- 7090: Tallying conquest results...
- 7091: Conquest results tallied.
- 7092: This region is currently under San d'Orian control.
- 7093: This region is currently under Bastokan control.
- 7094: This region is currently under Windurstian control.
- 7095: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7096: This region is currently neutral.
- 7097: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7098: All three nations are tied for first place.
- 7099: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7100: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7102: All three nations are tied for first place.
- 7103: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7104: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7105: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7106: All three nations are tied for first place.
- 7107: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7108: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7109: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7110: All three nations are tied for first place.
- 7111: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7112: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7113: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7114: Global balance of power: All three nations are tied for first place.
- 7115: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7116: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7117: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7118: All three nations are tied for first place.
- 7119: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7120: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7121: Conquest update: This region is currently neutral.
- 7122: Conquest update: This region is currently under San d'Orian control.
- 7123: Conquest update: This region is currently under Bastokan control.
- 7124: Conquest update: This region is currently under Windurstian control.
- 7125: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7126: All three nations are at a deadlock.
- 7127: The beastmen are on the rise.
- 7128: Regional influence: San d'Oria - Dominant
- 7129: Regional influence: San d'Oria - Major
- 7130: Regional influence: San d'Oria - Minor
- 7131: Regional influence: San d'Oria - Minimal
- 7132: Bastok - Dominant
- 7133: Bastok - Major
- 7134: Bastok - Minor
- 7135: Bastok - Minimal
- 7136: Windurst - Dominant
- 7137: Windurst - Major
- 7138: Windurst - Minor
- 7139: Windurst - Minimal
- 7140: Bastok and Windurst have formed an alliance.
- 7141: San d'Oria and Windurst have formed an alliance.
- 7142: San d'Oria and Bastok have formed an alliance.
- 7143: Bastok and Windurst are currently allies.
- 7144: San d'Oria and Windurst are currently allies.
- 7145: San d'Oria and Bastok are currently allies.
- 7146: $10$P11.$17F$0 $P14;$P12hF$1
- 7147: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7148: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7149: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7150: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7151: The beastmen are gaining power.
- 7152: San d'Oria's regional control is now 10% closer to the first place country's!
- 7153: Bastok's regional control is now 10% closer to the first place country's!
- 7154: Windurst's regional control are now 10% closer to the first place country's!
- 7155: San d'Oria's region points have increased!
- 7156: Bastok's region points have increased!
- 7157: Windurst's region points have increased!
- 7158: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7159: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7160: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7161: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7162: A Bastokan Expeditionary Force has been dispatched to this area.
- 7163: A Windurstian Expeditionary Force has been dispatched to this area.
- 7164: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7165: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7166: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7167: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7168: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7169: There was a curse on the beastmen's banner!
- 7170: The curse of the beastmen's banner has been lifted!
- 7171: There is a beastmen's banner.
- 7172: @
+ 7077: Proceed onward? [Yes./No.]
+ 7078: Proceed to which area? [Riverne - Site #A01./Riverne - Site #B01./Turn back.]
+ 7079: Return to the following area? [Riverne - Site #A01./Do not return.]
+ 7080: Return to the following area? [Riverne - Site #B01./Do not return.]
+ 7081: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
+ 7082: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
+ 7083: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
+ 7084: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
+ 7085: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
+ 7086: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+ 7087: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+ 7088: Really warp to the Propagator? [Yes./No.]
+ 7089: Really warp to the Solicitor? [Yes./No.]
+ 7090: Really warp to the Ponderer? [Yes./No.]
+ 7091: Tallying conquest results...
+ 7092: Conquest results tallied.
+ 7093: This region is currently under San d'Orian control.
+ 7094: This region is currently under Bastokan control.
+ 7095: This region is currently under Windurstian control.
+ 7096: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7097: This region is currently neutral.
+ 7098: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7099: All three nations are tied for first place.
+ 7100: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7102: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7103: All three nations are tied for first place.
+ 7104: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7105: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7106: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7107: All three nations are tied for first place.
+ 7108: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7109: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7110: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7111: All three nations are tied for first place.
+ 7112: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7113: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7114: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7115: Global balance of power: All three nations are tied for first place.
+ 7116: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7117: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7118: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7119: All three nations are tied for first place.
+ 7120: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7121: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7122: Conquest update: This region is currently neutral.
+ 7123: Conquest update: This region is currently under San d'Orian control.
+ 7124: Conquest update: This region is currently under Bastokan control.
+ 7125: Conquest update: This region is currently under Windurstian control.
+ 7126: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7127: All three nations are at a deadlock.
+ 7128: The beastmen are on the rise.
+ 7129: Regional influence: San d'Oria - Dominant
+ 7130: Regional influence: San d'Oria - Major
+ 7131: Regional influence: San d'Oria - Minor
+ 7132: Regional influence: San d'Oria - Minimal
+ 7133: Bastok - Dominant
+ 7134: Bastok - Major
+ 7135: Bastok - Minor
+ 7136: Bastok - Minimal
+ 7137: Windurst - Dominant
+ 7138: Windurst - Major
+ 7139: Windurst - Minor
+ 7140: Windurst - Minimal
+ 7141: Bastok and Windurst have formed an alliance.
+ 7142: San d'Oria and Windurst have formed an alliance.
+ 7143: San d'Oria and Bastok have formed an alliance.
+ 7144: Bastok and Windurst are currently allies.
+ 7145: San d'Oria and Windurst are currently allies.
+ 7146: San d'Oria and Bastok are currently allies.
+ 7147: $10$P11.$17F$0 $P14;$P12hF$1
+ 7148: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7149: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7150: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7151: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7152: The beastmen are gaining power.
+ 7153: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7154: Bastok's regional control is now 10% closer to the first place country's!
+ 7155: Windurst's regional control are now 10% closer to the first place country's!
+ 7156: San d'Oria's region points have increased!
+ 7157: Bastok's region points have increased!
+ 7158: Windurst's region points have increased!
+ 7159: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7160: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7161: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7162: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7163: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7164: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7165: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7166: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7167: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7168: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7169: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7170: There was a curse on the beastmen's banner!
+ 7171: The curse of the beastmen's banner has been lifted!
+ 7172: There is a beastmen's banner.
  7173: @
  7174: @
  7175: @
@@ -7248,158 +7248,159 @@
  7244: @
  7245: @
  7246: @
- 7247: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7248: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7249: $3N$3$3X$3^$3 [$20%.$3G$3t$3F$3N$3g$3e$3X$3g$0$P16Z/ [$3z$3$1E$3f$3 E$3$3A$P12J$m`$P14-u`$P12J$m/$3$3@$3Y$P12J$m`$P14-u$4325972_$P12J$m`$P14j%s/$3N$3$3X$3^$3 [$ [$6$10i3$P12i$K$4325924kL$m$20%.i4$P12i$Kj/$P10^$P10"$E%$$@L$Ti2$P12i$K$4653664i]
- 7250: $3{$3^$3$2p$317F$31L$P12i$KI$P10i]\7B
- 7251: $3{$3^$3$2p$317F$3e$3X$3g$I%95\7B
- 7252: $3{$3^$3$2p$317F$3N$3$3X$3^$3 [*$P124$P14-u5\7B/$5112652$3$3X$3^$3 [L$j$7M$26$P14-5\7j]
- 7253: $3{$3^$3$2p$317F$3N$3$3X$3^$3 [$P12J$m$P14-uIHh\7B]
- 7254: $3{$3^$3$2p$317F$3R$3$3\$6226730$3E$3$25\7B
- 7255: DEBUG:$3t$3$3OI$3G$3$1[* h\7B
- 7256: DEBUG:%2M$3z$3$2L$b$P12n%:I"\7B
- 7257: DEBUG:%2M$3f$3 L$b$P12n%:I"\7B
- 7258: DEBUG:%2M$3$6425164$P12n%:I"\7B
- 7259: DEBUG:$3z$3$2L$b$P12n%: $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7260: DEBUG:$3f$3 L$b$P12n%: $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7261: DEBUG:$3$6425164$P12n%: $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
- 7262: Use the device? [Yes./No.]
- 7263: There is no response.
- 7264: The door is firmly shut.
- 7265: You must move closer to inspect the device.
- 7266: You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing...
- 7267: You fit the $0 into the missing space.
- 7268: The device has been repaired.
- 7269: The device appears to be functioning correctly.
- 7270: You have no registered data.
- 7271: Register your data in order to use the device.
- 7272: The $0 shatters!
- 7273: Hah, so you've finally arrived. I heard that you were poking your nose into matters at the second crag, so I naturally assumed that this would be the next place you'd visit.
- 7274: Hm? Alone, are we? Well, I see you are not as foolish as I thought. You may think you have the upper hand now, but I, too, have a few tricks up my sleeve.
- 7275: The only thing I care about is that boy. One less adventurer in my way would only be a benefit to me.
- 7276: Wolfgang. Kill [him/her].
- 7277: But sir... While [he/she] was seen with the boy, our research on [him/her] has turned up no evidence of any other connections. I do not feel that <Player>'s crimes warrant [his/her] death.
- 7278: Wolfgang, you asked what the purpose behind this place was, and I'm certain I explained matters clearly.
- 7279: It is a citadel, built to protect the mother of all life on Vana'diel--the crystal.
- 7280: Only we know that secret--and as the secret's keepers, we are eternally bound to this place as her protectors.
- 7281: However, darkness has already befallen the crystals within two of the crags. The boy was present at both, and it was <Player> who led him.
- 7282: B-but...what of proof?
- 7283: Proof? What more proof do we need? Where <Player> is, the boy is sure to follow.
- 7284: And here he is now.
- 7285: You, boy without a name, you know the darkness of which I speak. The darkness that the Dawnmaidens have feared for thousands of years.
- 7286: The darkness that eats away at the very soul of Vana'diel. The darkness known as the "Emptiness."
- 7287: And you. You were born with the Emptiness. You brought it with you into our world. From where did you bring it?
- 7288: ...
- 7289: Not going to answer, are we? Wolfgang, do you need any more proof?
- 7290: Do not forget your duty as the captain of the Ducal Guard. Any more hesitation in your decision-making and you'll end up like your father...
- 7291: You. Does the specimen need to be alive for us to collect sufficient data?
- 7292: Of course not, sir.
- 7293: He... He didn't fight back? Why...?
- 7294: !?
- 7295: mes1
- 7296: Wha...? Aaagghh!
- 7297: Nooo!!!
- 7298: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
- 7299: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
- 7300: Seal off your memories? [Yes./No.]
- 7301: Are you sure? [Absolutely./No.]
- 7302: There is nothing out of the ordinary here.
- 7303: You can hear a strange voice... "Items, items, la la la la la`t"
- 7304: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7305: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7306: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7307: Now, listen close...
- 7308: Oh... Well, if that's the case, I'm outta here.
- 7309: The Goblin slipped away when you were not looking...
- 7310: You can hear a strange, raspy voice...
- 7311: I travel......hear lots... Hear...stories... Can tell...if...
- 7312: .........listen......
- 7313: Oh...... ...outta here.........
- 7314: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7315: What story would you like to be told? [On second thought, maybe later./Below the Arks./The Mothercrystal./Visions of Dread(pt.1)./Visions of Dread(pt.2)./To the Skies(pt.1)./To the Skies(pt.2)./To the Skies(pt.3).]
- 7316: 
+ 7247: @
+ 7248: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7249: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7250: $3N$3$3X$3^$3 [$20%.$3G$3t$3F$3N$3g$3e$3X$3g$0$P16Z/ [$3z$3$1E$3f$3 E$3$3A$P12J$m`$P14-u`$P12J$m/$3$3@$3Y$P12J$m`$P14-u$4325972_$P12J$m`$P14j%s/$3N$3$3X$3^$3 [$ [$6$10i3$P12i$K$4325924kL$m$20%.i4$P12i$Kj/$P10^$P10"$E%$$@L$Ti2$P12i$K$4653664i]
+ 7251: $3{$3^$3$2p$317F$31L$P12i$KI$P10i]\7B
+ 7252: $3{$3^$3$2p$317F$3e$3X$3g$I%95\7B
+ 7253: $3{$3^$3$2p$317F$3N$3$3X$3^$3 [*$P124$P14-u5\7B/$5112652$3$3X$3^$3 [L$j$7M$26$P14-5\7j]
+ 7254: $3{$3^$3$2p$317F$3N$3$3X$3^$3 [$P12J$m$P14-uIHh\7B]
+ 7255: $3{$3^$3$2p$317F$3R$3$3\$6226730$3E$3$25\7B
+ 7256: DEBUG:$3t$3$3OI$3G$3$1[* h\7B
+ 7257: DEBUG:%2M$3z$3$2L$b$P12n%:I"\7B
+ 7258: DEBUG:%2M$3f$3 L$b$P12n%:I"\7B
+ 7259: DEBUG:%2M$3$6425164$P12n%:I"\7B
+ 7260: DEBUG:$3z$3$2L$b$P12n%: $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7261: DEBUG:$3f$3 L$b$P12n%: $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7262: DEBUG:$3$6425164$P12n%: $P15s$P13K$P103H$@$P15WI<Player>Z$P13.5=LE$4197704$P15WI<Player>Z$P13.5\7B
+ 7263: Use the device? [Yes./No.]
+ 7264: There is no response.
+ 7265: The door is firmly shut.
+ 7266: You must move closer to inspect the device.
+ 7267: You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing...
+ 7268: You fit the $0 into the missing space.
+ 7269: The device has been repaired.
+ 7270: The device appears to be functioning correctly.
+ 7271: You have no registered data.
+ 7272: Register your data in order to use the device.
+ 7273: The $0 shatters!
+ 7274: Hah, so you've finally arrived. I heard that you were poking your nose into matters at the second crag, so I naturally assumed that this would be the next place you'd visit.
+ 7275: Hm? Alone, are we? Well, I see you are not as foolish as I thought. You may think you have the upper hand now, but I, too, have a few tricks up my sleeve.
+ 7276: The only thing I care about is that boy. One less adventurer in my way would only be a benefit to me.
+ 7277: Wolfgang. Kill [him/her].
+ 7278: But sir... While [he/she] was seen with the boy, our research on [him/her] has turned up no evidence of any other connections. I do not feel that <Player>'s crimes warrant [his/her] death.
+ 7279: Wolfgang, you asked what the purpose behind this place was, and I'm certain I explained matters clearly.
+ 7280: It is a citadel, built to protect the mother of all life on Vana'diel--the crystal.
+ 7281: Only we know that secret--and as the secret's keepers, we are eternally bound to this place as her protectors.
+ 7282: However, darkness has already befallen the crystals within two of the crags. The boy was present at both, and it was <Player> who led him.
+ 7283: B-but...what of proof?
+ 7284: Proof? What more proof do we need? Where <Player> is, the boy is sure to follow.
+ 7285: And here he is now.
+ 7286: You, boy without a name, you know the darkness of which I speak. The darkness that the Dawnmaidens have feared for thousands of years.
+ 7287: The darkness that eats away at the very soul of Vana'diel. The darkness known as the "Emptiness."
+ 7288: And you. You were born with the Emptiness. You brought it with you into our world. From where did you bring it?
+ 7289: ...
+ 7290: Not going to answer, are we? Wolfgang, do you need any more proof?
+ 7291: Do not forget your duty as the captain of the Ducal Guard. Any more hesitation in your decision-making and you'll end up like your father...
+ 7292: You. Does the specimen need to be alive for us to collect sufficient data?
+ 7293: Of course not, sir.
+ 7294: He... He didn't fight back? Why...?
+ 7295: !?
+ 7296: mes1
+ 7297: Wha...? Aaagghh!
+ 7298: Nooo!!!
+ 7299: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
+ 7300: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
+ 7301: Seal off your memories? [Yes./No.]
+ 7302: Are you sure? [Absolutely./No.]
+ 7303: There is nothing out of the ordinary here.
+ 7304: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7305: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7306: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7307: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7308: Now, listen close...
+ 7309: Oh... Well, if that's the case, I'm outta here.
+ 7310: The Goblin slipped away when you were not looking...
+ 7311: You can hear a strange, raspy voice...
+ 7312: I travel......hear lots... Hear...stories... Can tell...if...
+ 7313: .........listen......
+ 7314: Oh...... ...outta here.........
+ 7315: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7316: What story would you like to be told? [On second thought, maybe later./Below the Arks./The Mothercrystal./Visions of Dread(pt.1)./Visions of Dread(pt.2)./To the Skies(pt.1)./To the Skies(pt.2)./To the Skies(pt.3).]
  7317: 
  7318: 
- 7319: Master, what is this place?
- 7320: Over th--!
- 7321: By the spirits...
- 7322: The whispers of the Goddess come to me...
- 7323: ...No. It is something from far in the future.
- 7324: <Player>...? Is that <Player>'s voice I hear?
- 7325: I am Selh'teus, a man who was to remain in Al'Taieu.
- 7326: I am Selh'teus, a man destined to walk with you in a future already known to me.
- 7327: Thus I must ask--are you a dream? A vision?
- 7328: The threads of time are becoming more tangled with each passing day.
- 7329: The future...is interfering with the past.
- 7330: Ah, would that time were the only victim. Nature...magic...spirit...all are converging into an increasingly inextricable knot.
- 7331: Diabolos, is this dream your doing?
- 7332: Nay. The catalyst is <Player>.
- 7333: But lest you be mistaken, this is not the <Player> whom you know. It is one from a time beyond 884.
- 7334: And as these threads begin to tangle, order is spiraling into chaos?
- 7335: He cometh from a future where the void hath enveloped all.
- 7336: The lot of you know naught.
- 7337: Unfathomable!
- 7338: The void disrupteth the very nature of things. It is not merely causing things to cease to be, but rather cease to have ever been.
- 7339: The power...of the gods... Has started to...
- 7340: Atomos, your ramblings remain as incoherent as ever. Is there no one who can understand him?
- 7341: "Starting in the year 884, the power of the spirits and avatars of Vana'diel began to be absorbed by a mysterious force."
- 7342: But where are my manners? Dear audience, before you stands none other than Balamor.
- 7343: I could think of no stranger stranger to be in our midst.
- 7344: Wherever there are forces of darkness, you can bet I'll be there!
- 7345: Braaaaaah... Light gathers...with one... Darkness gathers...with one...
- 7346: Ah, that's my cue.
- 7347: "The powers of light are slowly gathering in one direction, while those of darkness head elsewhere."
- 7348: Oh, how I do love a good riddle. Is this a sign of what is to come?
- 7349: <Player> desires to meet Altana...
- 7350: Siren's communions...the moon reading...
- 7351: But were the natural order of things to falter...all would come to naught.
- 7352: Then the situation demandeth that we act swiftly and decisively.
- 7353: Siren doth intend to challenge the ambassador head-on.
- 7354: Odin, are you certain?
- 7355: Yet her victory is far from a foregone conclusion. His power doth stand on even footing with our own.
- 7356: Will Siren fall under his thrall? Or will she be utterly obliterated?
- 7357: In the end, the result doth not matter. <Player> will lose the protection of the Goddess.
- 7358: And Al'Taieu's demise will be all but engraved in stone.
- 7359: What's that...?
- 7360: Your gathering here together...makes my life much easier.
- 7361: Thou art...thou art the ambassador!
- 7362: Then this dream is his!?
- 7363: Such darkness...is fated to...
- 7364: Atomos, do you mean to say that his presence in this time is an unavoidable destiny?
- 7365: Bwehehe! This is quite the fun game going on here!
- 7366: Did you see the looks on their faces? Ah, now I understand the mortal desire to pay good coin for such spectacles.
- 7367: I wonder what our little friend has to say about all this!
- 7368: You can't--! What if he does something terrible?
- 7369: Oh, Selh'teus. Selh'teus, Selh'teus, Selh'teus. Surely you know there's no danger in any of this?
- 7370: ...
- 7371: The ambassador...that mask...
- 7372: Until my next performance, friends!t
- 7373: Master!
- 7374: Urk... Never have I witnessed such a vivid vision...
- 7375: There were rice balls everywhere, dividing and multiplying. All around me was a sea of compacted rice, ever growing and all-consuming...
- 7376: [Lord/Lady] <Player>, what sort of experience did you have?
- 7377: What did you experience? [A story about Siren./I saw Selh'teus./A bunch of spirits./Balamor was laughing.]
- 7378: Siren? Siren being able to vanquish the ambassador?
- 7379: Never have I exchanged any words with Siren, but Phoenix often spoke to me about her, saying that she was an entity with dominion over nature.
- 7380: Yet no matter how grand and vast the power of nature is, she was manipulated by the ambassador once. Who is to say it cannot happen again?
- 7381: And with all we have experienced, it is clear that the "ambassador" is not just one entity--there are three we have crossed paths with thus far. Who knows what the limit is?
- 7382: Selh'teus.
- 7383: But the way you describe him is nothing like the Selh'teus with whom I am familiar. Could it be that the recent temporal anomalies have altered him somehow?
- 7384: Folly indeed would it be to trust him wholesale, but I know not where else to turn.
- 7385: A bunch of spirits...and I presume a fair number were malefic.
- 7386: Then we both witnessed things we wish we had not seen.
- 7387: What interests me most is that Siren was of a mind to challenge the ambassador.
- 7388: Balamor. An unfamiliar name, but one which sends shivers up my spine nonetheless.
- 7389: And his displaying more than a passing interest in the ambassador bodes ill.
- 7390: If he intends to join hands with that foul beast, then who knows how many other similar entities would be willing to do the same?
- 7391: I can only hope to be overthinking the matter...
- 7392: <Sigh> This leaves us with more questions than answers.
- 7393: Despite your meeting with Selh'teus, the ambassador got in the way and sowed yet more seeds of confusion.
- 7394: Does he truly mean to call forth an endless void...?
- 7395: And ominous premonitions aside, we are no closer to meeting Altana than we were before.
- 7396: Hm? You think the answer may lie somewhere with Siren?
- 7397: I cannot fathom why, but perhaps there is some merit to it. We are running out of places to turn.
- 7398: Though upon further thought... If she intends to clash with the ambassador, then she may know something we do not.
- 7399: I propose that we first return to Norg to gather our thoughts.
- 7400: Iroha, we shall meet with you there.
- 7401: The ambassador...I must stop him.
+ 7319: 
+ 7320: Master, what is this place?
+ 7321: Over th--!
+ 7322: By the spirits...
+ 7323: The whispers of the Goddess come to me...
+ 7324: ...No. It is something from far in the future.
+ 7325: <Player>...? Is that <Player>'s voice I hear?
+ 7326: I am Selh'teus, a man who was to remain in Al'Taieu.
+ 7327: I am Selh'teus, a man destined to walk with you in a future already known to me.
+ 7328: Thus I must ask--are you a dream? A vision?
+ 7329: The threads of time are becoming more tangled with each passing day.
+ 7330: The future...is interfering with the past.
+ 7331: Ah, would that time were the only victim. Nature...magic...spirit...all are converging into an increasingly inextricable knot.
+ 7332: Diabolos, is this dream your doing?
+ 7333: Nay. The catalyst is <Player>.
+ 7334: But lest you be mistaken, this is not the <Player> whom you know. It is one from a time beyond 884.
+ 7335: And as these threads begin to tangle, order is spiraling into chaos?
+ 7336: He cometh from a future where the void hath enveloped all.
+ 7337: The lot of you know naught.
+ 7338: Unfathomable!
+ 7339: The void disrupteth the very nature of things. It is not merely causing things to cease to be, but rather cease to have ever been.
+ 7340: The power...of the gods... Has started to...
+ 7341: Atomos, your ramblings remain as incoherent as ever. Is there no one who can understand him?
+ 7342: "Starting in the year 884, the power of the spirits and avatars of Vana'diel began to be absorbed by a mysterious force."
+ 7343: But where are my manners? Dear audience, before you stands none other than Balamor.
+ 7344: I could think of no stranger stranger to be in our midst.
+ 7345: Wherever there are forces of darkness, you can bet I'll be there!
+ 7346: Braaaaaah... Light gathers...with one... Darkness gathers...with one...
+ 7347: Ah, that's my cue.
+ 7348: "The powers of light are slowly gathering in one direction, while those of darkness head elsewhere."
+ 7349: Oh, how I do love a good riddle. Is this a sign of what is to come?
+ 7350: <Player> desires to meet Altana...
+ 7351: Siren's communions...the moon reading...
+ 7352: But were the natural order of things to falter...all would come to naught.
+ 7353: Then the situation demandeth that we act swiftly and decisively.
+ 7354: Siren doth intend to challenge the ambassador head-on.
+ 7355: Odin, are you certain?
+ 7356: Yet her victory is far from a foregone conclusion. His power doth stand on even footing with our own.
+ 7357: Will Siren fall under his thrall? Or will she be utterly obliterated?
+ 7358: In the end, the result doth not matter. <Player> will lose the protection of the Goddess.
+ 7359: And Al'Taieu's demise will be all but engraved in stone.
+ 7360: What's that...?
+ 7361: Your gathering here together...makes my life much easier.
+ 7362: Thou art...thou art the ambassador!
+ 7363: Then this dream is his!?
+ 7364: Such darkness...is fated to...
+ 7365: Atomos, do you mean to say that his presence in this time is an unavoidable destiny?
+ 7366: Bwehehe! This is quite the fun game going on here!
+ 7367: Did you see the looks on their faces? Ah, now I understand the mortal desire to pay good coin for such spectacles.
+ 7368: I wonder what our little friend has to say about all this!
+ 7369: You can't--! What if he does something terrible?
+ 7370: Oh, Selh'teus. Selh'teus, Selh'teus, Selh'teus. Surely you know there's no danger in any of this?
+ 7371: ...
+ 7372: The ambassador...that mask...
+ 7373: Until my next performance, friends!t
+ 7374: Master!
+ 7375: Urk... Never have I witnessed such a vivid vision...
+ 7376: There were rice balls everywhere, dividing and multiplying. All around me was a sea of compacted rice, ever growing and all-consuming...
+ 7377: [Lord/Lady] <Player>, what sort of experience did you have?
+ 7378: What did you experience? [A story about Siren./I saw Selh'teus./A bunch of spirits./Balamor was laughing.]
+ 7379: Siren? Siren being able to vanquish the ambassador?
+ 7380: Never have I exchanged any words with Siren, but Phoenix often spoke to me about her, saying that she was an entity with dominion over nature.
+ 7381: Yet no matter how grand and vast the power of nature is, she was manipulated by the ambassador once. Who is to say it cannot happen again?
+ 7382: And with all we have experienced, it is clear that the "ambassador" is not just one entity--there are three we have crossed paths with thus far. Who knows what the limit is?
+ 7383: Selh'teus.
+ 7384: But the way you describe him is nothing like the Selh'teus with whom I am familiar. Could it be that the recent temporal anomalies have altered him somehow?
+ 7385: Folly indeed would it be to trust him wholesale, but I know not where else to turn.
+ 7386: A bunch of spirits...and I presume a fair number were malefic.
+ 7387: Then we both witnessed things we wish we had not seen.
+ 7388: What interests me most is that Siren was of a mind to challenge the ambassador.
+ 7389: Balamor. An unfamiliar name, but one which sends shivers up my spine nonetheless.
+ 7390: And his displaying more than a passing interest in the ambassador bodes ill.
+ 7391: If he intends to join hands with that foul beast, then who knows how many other similar entities would be willing to do the same?
+ 7392: I can only hope to be overthinking the matter...
+ 7393: <Sigh> This leaves us with more questions than answers.
+ 7394: Despite your meeting with Selh'teus, the ambassador got in the way and sowed yet more seeds of confusion.
+ 7395: Does he truly mean to call forth an endless void...?
+ 7396: And ominous premonitions aside, we are no closer to meeting Altana than we were before.
+ 7397: Hm? You think the answer may lie somewhere with Siren?
+ 7398: I cannot fathom why, but perhaps there is some merit to it. We are running out of places to turn.
+ 7399: Though upon further thought... If she intends to clash with the ambassador, then she may know something we do not.
+ 7400: I propose that we first return to Norg to gather our thoughts.
+ 7401: Iroha, we shall meet with you there.
+ 7402: The ambassador...I must stop him.

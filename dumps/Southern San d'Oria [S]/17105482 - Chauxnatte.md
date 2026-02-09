@@ -23,7 +23,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFC  |  4294967292 |
-|       1 | 0x31E1      |       12769 |
+|       1 | 0x31E2      |       12770 |
 |       2 | 0xFFFFFFFD  |  4294967293 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x00C8      |         200 |
@@ -33,34 +33,34 @@
 |       8 | 0x003C      |          60 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0xFFFFFFFB  |  4294967291 |
-|      11 | 0x31E5      |       12773 |
-|      12 | 0x31E6      |       12774 |
-|      13 | 0x31E7      |       12775 |
+|      11 | 0x31E6      |       12774 |
+|      12 | 0x31E7      |       12775 |
+|      13 | 0x31E8      |       12776 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x31EA      |       12778 |
+|      15 | 0x31EB      |       12779 |
 |      16 | 0x0001      |           1 |
 |      17 | 0x0002      |           2 |
 |      18 | 0x0003      |           3 |
 |      19 | 0x40000000  |  1073741824 |
 |      20 | 0x008A      |         138 |
-|      21 | 0x31E3      |       12771 |
-|      22 | 0x31DE      |       12766 |
-|      23 | 0x31E4      |       12772 |
-|      24 | 0x31E2      |       12770 |
-|      25 | 0x2F82      |       12162 |
+|      21 | 0x31E4      |       12772 |
+|      22 | 0x31DF      |       12767 |
+|      23 | 0x31E5      |       12773 |
+|      24 | 0x31E3      |       12771 |
+|      25 | 0x2F83      |       12163 |
 
 ## String References
 
-- **12162**: I'm terribly sorry, but chocobo services are currently unavailable.
-- **12766**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
-- **12769**: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
-- **12770**: Only those fulfilling both requirements set forth by the alliance may ride a chocobo. First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of $6.
-- **12771**: Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes.
-- **12772**: Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves.
-- **12773**: <Player>, if I'm not mistaken. We appreciate your assistance in the expansion of our provision storehouses.
-- **12774**: Your chocobo is already saddled up and loaded with the construction materials. To which stronghold will you be delivering?
-- **12775**: Deliver to which stronghold? [East Ronfaure./Jugner Forest./Vunkerl Inlet./Batallia Downs./I need to replan.]
-- **12778**: Our troops at the stronghold in [East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs] will be informed of your coming. Luck ride with you!
+- **12163**: I'm terribly sorry, but chocobo services are currently unavailable.
+- **12767**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
+- **12770**: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
+- **12771**: Only those fulfilling both requirements set forth by the alliance may ride a chocobo. First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of $6.
+- **12772**: Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes.
+- **12773**: Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves.
+- **12774**: <Player>, if I'm not mistaken. We appreciate your assistance in the expansion of our provision storehouses.
+- **12775**: Your chocobo is already saddled up and loaded with the construction materials. To which stronghold will you be delivering?
+- **12776**: Deliver to which stronghold? [East Ronfaure./Jugner Forest./Vunkerl Inlet./Batallia Downs./I need to replan.]
+- **12779**: Our troops at the stronghold in [East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs] will be informed of your coming. Luck ride with you!
 
 ## Events
 
@@ -128,7 +128,7 @@
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[2] == 4294967292*) GOTO 0x0010
   1: 0x0009 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12769*)
+  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=12770*)
     → "Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?"
   3: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000E [0x21] END_EVENT
@@ -148,18 +148,18 @@ SUBROUTINE_0025:
  16: 0x0059 [0x00] END_REQSTACK()
  17: 0x005A [0x02] IF !(Work_Zone[2] == 4294967291*) GOTO 0x00EE
  18: 0x0062 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 19: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
+ 19: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
     → "<Player>, if I'm not mistaken. We appreciate your assistance in the expansion of our provision storehouses."
  20: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+ 21: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "Your chocobo is already saddled up and loaded with the construction materials. To which stronghold will you be delivering?"
  22: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x006F [0x24] CREATE_DIALOG(message_id=12775*, default_option=4*, option_flags=Work_Zone[3])
+ 23: 0x006F [0x24] CREATE_DIALOG(message_id=12776*, default_option=4*, option_flags=Work_Zone[3])
     → "Deliver to which stronghold? [East Ronfaure./Jugner Forest./Vunkerl Inlet./Batallia Downs./I need to replan.]"
  24: 0x0076 [0x25] WAIT_DIALOG_SELECT()
  25: 0x0077 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0093
  26: 0x007F [0x03] Work_Zone[5] = 0*
- 27: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+ 27: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "Our troops at the stronghold in [East Ronfaure/Jugner Forest/Vunkerl Inlet/Batallia Downs] will be informed of your coming. Luck ride with you!"
  28: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0088 [0x03] Work_Zone[1] = Work_Zone[5]
@@ -168,10 +168,10 @@ SUBROUTINE_0025:
 SUBROUTINE_00EE:
  31: 0x00EE [0x03] Work_Zone[9] = 138*
  32: 0x00F3 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 33: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12771*)
+ 33: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
     → "Any of our fine birds here will bear you directly to the frontlines of battle. We charge a service fee of $0 Allied Notes, which goes towards seeing that the chocobos are well taken care of. My records indicate that you currently have $1 Allied Notes."
  34: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00FC [0x24] CREATE_DIALOG(message_id=12766*, default_option=1*, option_flags=0*)
+ 35: 0x00FC [0x24] CREATE_DIALOG(message_id=12767*, default_option=1*, option_flags=0*)
     → "Do you wish to rent a chocobo? [Yes, I do./No, thank you.]"
  36: 0x0103 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0104 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0154
@@ -183,7 +183,7 @@ SUBROUTINE_00EE:
  43: 0x012A [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0143
  44: 0x0132 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
  45: 0x0143 [0x01] GOTO 0x014F
- 46: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+ 46: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
     → "Hmmm... It looks like you don't have enough Allied Notes. Sorry, but these birds aren't going to feed and groom themselves."
  47: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x014A [0x03] Work_Zone[1] = 1073741824*
@@ -231,7 +231,7 @@ SUBROUTINE_0159:
 ```
   0: 0x015B [0x03] Work_Zone[9] = 138*
   1: 0x0160 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=12770*)
+  2: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=12771*)
     → "Only those fulfilling both requirements set forth by the alliance may ride a chocobo. First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of $6."
   3: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0169 [0x21] END_EVENT
@@ -261,7 +261,7 @@ SUBROUTINE_0159:
   0: 0x016B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0170 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0171 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=12162*)
+  3: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=12163*)
     → "I'm terribly sorry, but chocobo services are currently unavailable."
   4: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x017A [0x21] END_EVENT

@@ -109,7 +109,7 @@
 |      33 | 0x018F      |         399 |
 |      34 | 0x000F      |          15 |
 |      35 | 0x0078      |         120 |
-|      36 | 0x1CD7      |        7383 |
+|      36 | 0x1CD8      |        7384 |
 |      37 | 0x003C      |          60 |
 |      38 | 0x0076      |         118 |
 |      39 | 0x0096      |         150 |
@@ -202,8 +202,8 @@
 |     126 | 0xFFFF9CE2  |  4294941922 |
 |     127 | 0x4E8E      |       20110 |
 |     128 | 0xFFFFFFCE  |  4294967246 |
-|     129 | 0x1C75      |        7285 |
-|     130 | 0x1C76      |        7286 |
+|     129 | 0x1C76      |        7286 |
+|     130 | 0x1C77      |        7287 |
 |     131 | 0xFFFFA2E8  |  4294943464 |
 |     132 | 0x49F6      |       18934 |
 |     133 | 0xFFFFFFF7  |  4294967287 |
@@ -607,7 +607,7 @@
  24: 0x012E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s130" with entities [EventEntity, EventEntity], work=[399*, 0*]
  25: 0x013F [0x4A] ??? (ID: 17563922/0x010C0112) looks at LocalPlayer
  26: 0x0148 [0x1C] WAIT(30* ticks)
- 27: 0x014B [0x2B] ??? (ID: 17563922/0x010C0112) [7383*]:
+ 27: 0x014B [0x2B] ??? (ID: 17563922/0x010C0112) [7384*]:
     → "..."
  28: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0153 [0x52] END_LOAD_SCHEDULER: End scheduler "s130" with entities [EventEntity, EventEntity], work=399*
@@ -1284,10 +1284,10 @@ SUBROUTINE_02AA:
 #### Opcodes
 
 ```
-  0: 0x03FB [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7285*]:
+  0: 0x03FB [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7286*]:
     → "Thank you for kindly coming all this way to carry out our little trrransaction."
   1: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0403 [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7286*]:
+  2: 0x0403 [0x2B] Nanaa Mihgo (ID: 17563878/0x010C00E6) [7287*]:
     → "This is what you're going to do... Drrrop all the money and equipment you have on you, then get the hell out of here."
   3: 0x040A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x040B [0x00] END_REQSTACK()

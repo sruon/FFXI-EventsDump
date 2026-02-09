@@ -33,13 +33,13 @@
 |       6 | 0xFFFEBD4B  |  4294884683 |
 |       7 | 0x1EF8B     |      126859 |
 |       8 | 0xFFFFEB9A  |  4294962074 |
-|       9 | 0x1ED4      |        7892 |
-|      10 | 0x1ED5      |        7893 |
+|       9 | 0x1ED5      |        7893 |
+|      10 | 0x1ED6      |        7894 |
 
 ## String References
 
-- **7892**: Windurst Walls is the coolest-woolest place. Not only do we have Heavens Tower and a consulate, but all the ex-ministers have manors here!
-- **7893**: When the ministers of the five magic ministries of Windurst retire, they gain the title of doctor or professor, and are allowed to live in special-wecial houses so they can continue their studies without worries.
+- **7893**: Windurst Walls is the coolest-woolest place. Not only do we have Heavens Tower and a consulate, but all the ex-ministers have manors here!
+- **7894**: When the ministers of the five magic ministries of Windurst retire, they gain the title of doctor or professor, and are allowed to live in special-wecial houses so they can continue their studies without worries.
 
 ## Events
 
@@ -190,10 +190,10 @@
   2: 0x0043 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0044 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0045 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Malmi-Monmi (ID: 17756245/0x010EF055), tag_num=0x01)
-  5: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+  5: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "Windurst Walls is the coolest-woolest place. Not only do we have Heavens Tower and a consulate, but all the ex-ministers have manors here!"
   6: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+  7: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "When the ministers of the five magic ministries of Windurst retire, they gain the title of doctor or professor, and are allowed to live in special-wecial houses so they can continue their studies without worries."
   8: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0054 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Malmi-Monmi (ID: 17756245/0x010EF055), tag_num=0x02)

@@ -26,24 +26,24 @@
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0032      |          50 |
-|       3 | 0x1ACA      |        6858 |
-|       4 | 0x1F69      |        8041 |
-|       5 | 0x1ACC      |        6860 |
-|       6 | 0x1ACD      |        6861 |
-|       7 | 0x1ACE      |        6862 |
-|       8 | 0x1ACF      |        6863 |
-|       9 | 0x1AD0      |        6864 |
+|       3 | 0x1ACB      |        6859 |
+|       4 | 0x1F6A      |        8042 |
+|       5 | 0x1ACD      |        6861 |
+|       6 | 0x1ACE      |        6862 |
+|       7 | 0x1ACF      |        6863 |
+|       8 | 0x1AD0      |        6864 |
+|       9 | 0x1AD1      |        6865 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x1AD1      |        6865 |
-|      12 | 0x1AD2      |        6866 |
-|      13 | 0x1AD3      |        6867 |
-|      14 | 0x1AD4      |        6868 |
-|      15 | 0x1AD5      |        6869 |
-|      16 | 0x1AD6      |        6870 |
+|      11 | 0x1AD2      |        6866 |
+|      12 | 0x1AD3      |        6867 |
+|      13 | 0x1AD4      |        6868 |
+|      14 | 0x1AD5      |        6869 |
+|      15 | 0x1AD6      |        6870 |
+|      16 | 0x1AD7      |        6871 |
 |      17 | 0x0003      |           3 |
-|      18 | 0x1AD8      |        6872 |
-|      19 | 0x1AD7      |        6871 |
-|      20 | 0x1AD9      |        6873 |
+|      18 | 0x1AD9      |        6873 |
+|      19 | 0x1AD8      |        6872 |
+|      20 | 0x1ADA      |        6874 |
 |      21 | 0x00C8      |         200 |
 |      22 | 0x001B      |          27 |
 |      23 | 0x01E7      |         487 |
@@ -64,47 +64,47 @@
 |      38 | 0x001E      |          30 |
 |      39 | 0x02F8      |         760 |
 |      40 | 0x000F      |          15 |
-|      41 | 0x1F6A      |        8042 |
+|      41 | 0x1F6B      |        8043 |
 |      42 | 0x0007      |           7 |
 |      43 | 0x005A      |          90 |
-|      44 | 0x1F6B      |        8043 |
+|      44 | 0x1F6C      |        8044 |
 |      45 | 0x0014      |          20 |
-|      46 | 0x1F6C      |        8044 |
+|      46 | 0x1F6D      |        8045 |
 |      47 | 0x0028      |          40 |
-|      48 | 0x1F6D      |        8045 |
-|      49 | 0x1F6E      |        8046 |
+|      48 | 0x1F6E      |        8046 |
+|      49 | 0x1F6F      |        8047 |
 |      50 | 0x003C      |          60 |
 |      51 | 0x0031      |          49 |
-|      52 | 0x1F6F      |        8047 |
-|      53 | 0x1F70      |        8048 |
+|      52 | 0x1F70      |        8048 |
+|      53 | 0x1F71      |        8049 |
 |      54 | 0x237B      |        9083 |
-|      55 | 0x1F71      |        8049 |
-|      56 | 0x1F72      |        8050 |
-|      57 | 0x1F73      |        8051 |
-|      58 | 0x1F74      |        8052 |
-|      59 | 0x1F75      |        8053 |
-|      60 | 0x1F76      |        8054 |
-|      61 | 0x1F77      |        8055 |
-|      62 | 0x1F78      |        8056 |
+|      55 | 0x1F72      |        8050 |
+|      56 | 0x1F73      |        8051 |
+|      57 | 0x1F74      |        8052 |
+|      58 | 0x1F75      |        8053 |
+|      59 | 0x1F76      |        8054 |
+|      60 | 0x1F77      |        8055 |
+|      61 | 0x1F78      |        8056 |
+|      62 | 0x1F79      |        8057 |
 
 ## String References
 
-- **6858**: Welcome to the governor's house. How may I be of assistance?
-- **6860**: As you wish. Mhaura is a port town situated within the boundaries of the Windurstian Federation.
-- **6861**: The natural basin here was ideal for building a port. In time, people started building their homes in the surrounding cliffs. Thus Mhaura came to be.
-- **6862**: Geographically, Mhaura is situated in the southern half of the Buburimu Peninsula in Southeastern Mindartia. Windurst City is southwest of here.
-- **6863**: From the port, you can board one of the transit ships to Selbina, a town in Central Quon.
-- **6864**: Lately, there are even ships traveling to a city called Al Zahbi in the Near Eastern Empire of Aht Urhgan.
-- **6865**: As you wish. The Blacksmiths' Guild and Goldsmiths' Guild have their salesrooms on the level below us.
-- **6866**: Across from them spans a bridge leading to a two-story inn called the Sailors' Stay. The reception desk is on the first floor. The armorer, Graine, is also there.
-- **6867**: Across the Sailors' Stay, on ground level, is the sea travel agency. Ships bound for Selbina and Al Zahbi dock there.
-- **6868**: To the west of the agency you'll find an antique shop. I should tell you that the owner, Orlando, has some very peculiar tastes...
-- **6869**: Further west, down a flight of stairs, is the warehouse.
-- **6870**: Pikini-Mikini, a dealer in goods, and Tya Padolih, a seller of arcane scrolls, have set up shop there.
-- **6871**: Jobs in Mhaura? Hmm... I believe Lady Take at the Sailors' Stay is the person to talk to about such matters.
-- **6872**: Have you gone to see Take at the Sailors' Stay yet? She may have something for you.
-- **6873**: As you wish. Please come by anytime if there is something you wish to ask about Mhaura.
-- **8041**: What do you wish to know? [You're searching for adventurers?/Tell me about Mhaura./Any shops or guilds in town?/Where can I find some work?/Nothing for now.]
+- **6859**: Welcome to the governor's house. How may I be of assistance?
+- **6861**: As you wish. Mhaura is a port town situated within the boundaries of the Windurstian Federation.
+- **6862**: The natural basin here was ideal for building a port. In time, people started building their homes in the surrounding cliffs. Thus Mhaura came to be.
+- **6863**: Geographically, Mhaura is situated in the southern half of the Buburimu Peninsula in Southeastern Mindartia. Windurst City is southwest of here.
+- **6864**: From the port, you can board one of the transit ships to Selbina, a town in Central Quon.
+- **6865**: Lately, there are even ships traveling to a city called Al Zahbi in the Near Eastern Empire of Aht Urhgan.
+- **6866**: As you wish. The Blacksmiths' Guild and Goldsmiths' Guild have their salesrooms on the level below us.
+- **6867**: Across from them spans a bridge leading to a two-story inn called the Sailors' Stay. The reception desk is on the first floor. The armorer, Graine, is also there.
+- **6868**: Across the Sailors' Stay, on ground level, is the sea travel agency. Ships bound for Selbina and Al Zahbi dock there.
+- **6869**: To the west of the agency you'll find an antique shop. I should tell you that the owner, Orlando, has some very peculiar tastes...
+- **6870**: Further west, down a flight of stairs, is the warehouse.
+- **6871**: Pikini-Mikini, a dealer in goods, and Tya Padolih, a seller of arcane scrolls, have set up shop there.
+- **6872**: Jobs in Mhaura? Hmm... I believe Lady Take at the Sailors' Stay is the person to talk to about such matters.
+- **6873**: Have you gone to see Take at the Sailors' Stay yet? She may have something for you.
+- **6874**: As you wish. Please come by anytime if there is something you wish to ask about Mhaura.
+- **8042**: What do you wish to know? [You're searching for adventurers?/Tell me about Mhaura./Any shops or guilds in town?/Where can I find some work?/Nothing for now.]
 
 ## Events
 
@@ -176,11 +176,11 @@ SUBROUTINE_0016:
   6: 0x0020 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0021 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0022 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=6858*)
+  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=6859*)
     → "Welcome to the governor's house. How may I be of assistance?"
  10: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0035 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 12: 0x003A [0x24] CREATE_DIALOG(message_id=8041*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 12: 0x003A [0x24] CREATE_DIALOG(message_id=8042*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What do you wish to know? [You're searching for adventurers?/Tell me about Mhaura./Any shops or guilds in town?/Where can I find some work?/Nothing for now.]"
  13: 0x0041 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0042 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0050
@@ -188,41 +188,41 @@ SUBROUTINE_0016:
  16: 0x004D [0x01] GOTO 0x00FF
  17: 0x0050 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0083
  18: 0x0058 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 19: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=6860*)
+ 19: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=6861*)
     → "As you wish. Mhaura is a port town situated within the boundaries of the Windurstian Federation."
  20: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=6861*)
+ 21: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=6862*)
     → "The natural basin here was ideal for building a port. In time, people started building their homes in the surrounding cliffs. Thus Mhaura came to be."
  22: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=6862*)
+ 23: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=6863*)
     → "Geographically, Mhaura is situated in the southern half of the Buburimu Peninsula in Southeastern Mindartia. Windurst City is southwest of here."
  24: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=6863*)
+ 25: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=6864*)
     → "From the port, you can board one of the transit ships to Selbina, a town in Central Quon."
  26: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=6864*)
+ 27: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=6865*)
     → "Lately, there are even ships traveling to a city called Al Zahbi in the Near Eastern Empire of Aht Urhgan."
  28: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x007B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  30: 0x0080 [0x01] GOTO 0x00FF
  31: 0x0083 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00BA
  32: 0x008B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 33: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=6865*)
+ 33: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=6866*)
     → "As you wish. The Blacksmiths' Guild and Goldsmiths' Guild have their salesrooms on the level below us."
  34: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=6866*)
+ 35: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=6867*)
     → "Across from them spans a bridge leading to a two-story inn called the Sailors' Stay. The reception desk is on the first floor. The armorer, Graine, is also there."
  36: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6867*)
+ 37: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6868*)
     → "Across the Sailors' Stay, on ground level, is the sea travel agency. Ships bound for Selbina and Al Zahbi dock there."
  38: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6868*)
+ 39: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6869*)
     → "To the west of the agency you'll find an antique shop. I should tell you that the owner, Orlando, has some very peculiar tastes..."
  40: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=6869*)
+ 41: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=6870*)
     → "Further west, down a flight of stairs, is the warehouse."
  42: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=6870*)
+ 43: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=6871*)
     → "Pikini-Mikini, a dealer in goods, and Tya Padolih, a seller of arcane scrolls, have set up shop there."
  44: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00B2 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -230,11 +230,11 @@ SUBROUTINE_0016:
  47: 0x00BA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00EC
  48: 0x00C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  49: 0x00D1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 50*) GOTO 0x00E0
- 50: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6872*)
+ 50: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6873*)
     → "Have you gone to see Take at the Sailors' Stay yet? She may have something for you."
  51: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x00DD [0x01] GOTO 0x00E9
- 53: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6871*)
+ 53: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6872*)
     → "Jobs in Mhaura? Hmm... I believe Lady Take at the Sailors' Stay is the person to talk to about such matters."
  54: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00E4 [0x03] Work_Zone[1] = 2*
@@ -242,7 +242,7 @@ SUBROUTINE_0016:
 SUBROUTINE_00E9:
  56: 0x00E9 [0x01] GOTO 0x00FF
  57: 0x00EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 58: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=6873*)
+ 58: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=6874*)
     → "As you wish. Please come by anytime if there is something you wish to ask about Mhaura."
  59: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -387,7 +387,7 @@ SUBROUTINE_0207:
  36: 0x0207 [0x1C] WAIT(15* ticks)
  37: 0x020A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  38: 0x021B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
- 39: 0x022A [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8042*]:
+ 39: 0x022A [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8043*]:
     → "Ah, I was told to expect someone named <Player>. Would that be you?"
  40: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0232 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
@@ -406,7 +406,7 @@ SUBROUTINE_0207:
 
 SUBROUTINE_02B7:
  54: 0x02B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
- 55: 0x02C6 [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8043*]:
+ 55: 0x02C6 [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8044*]:
     → "Forgive me for not recognizing you sooner. I had been told to be on the lookout and usher you into the governor's office without delay."
  56: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x02CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
@@ -425,46 +425,46 @@ SUBROUTINE_02B7:
 
 SUBROUTINE_0349:
  70: 0x0349 [0x4A] LocalPlayer looks at Ekokoko (ID: 17797136/0x010F9010)
- 71: 0x0352 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8044*]:
+ 71: 0x0352 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8045*]:
     → "Oh, this is wonderful, indeed! I was worried I'd have to hunt and peck for you all down the coast."
  72: 0x0359 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x035A [0x2A] GET_REQ_LEVEL(level=5, entity_id=Ekokoko (ID: 17797136/0x010F9010))
  74: 0x0360 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
- 75: 0x036F [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8045*]:
+ 75: 0x036F [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8046*]:
     → "I, Ekokoko, serve as the governor of our bright town."
  76: 0x0376 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0377 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=760*
  78: 0x0386 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[760*, 0*]
- 79: 0x0397 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8046*]:
+ 79: 0x0397 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8047*]:
     → "Truth be told, I was not the one who sought you out. No, that would be Gilgamesh, one of Vana'diel's most renowned pir--er, entrepreneurs."
  80: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x039F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
  82: 0x03AE [0x1C] WAIT(60* ticks)
  83: 0x03B1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Ekokoko (ID: 17797136/0x010F9010))
  84: 0x03B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=49*
- 85: 0x03C6 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8047*]:
+ 85: 0x03C6 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8048*]:
     → "Something about setting sail and finding someone lost at sea? Bah, I never had much of a head for details."
  86: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x03CE [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=760*
  88: 0x03DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[760*, 0*]
  89: 0x03EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=49*
  90: 0x03FD [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Ekokoko (ID: 17797136/0x010F9010))
- 91: 0x0403 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8048*]:
+ 91: 0x0403 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8049*]:
     → "What I do know is that your name came up on more than one occasion."
  92: 0x040A [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x040B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
  94: 0x041A [0x03] Work_Zone[3] = 9083*
- 95: 0x041F [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8049*]:
+ 95: 0x041F [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8050*]:
     → "He also mentioned something about wanting you to procure some $1 from mandragoras around the Crag of Mea before you meet him."
  96: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0427 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8050*]:
+ 97: 0x0427 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8051*]:
     → "He hopes to use it to create a special herbal remedy for his crew--er, associates."
  98: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x042F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
 100: 0x043E [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=760*
 101: 0x044D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[760*, 0*]
 102: 0x045E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
-103: 0x046D [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8051*]:
+103: 0x046D [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8052*]:
     → "The world has been bursting at the seams with odd news these days, and frankly, none of us here can make heads or tails of it all."
 104: 0x0474 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0475 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
@@ -472,26 +472,26 @@ SUBROUTINE_0349:
 107: 0x0493 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[760*, 0*]
 108: 0x04A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
 109: 0x04B3 [0x03] Work_Zone[3] = 9083*
-110: 0x04B8 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8052*]:
+110: 0x04B8 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8053*]:
     → "And Mhaura has felt the effects particularly hard--our supply of $1 has been dwindling."
 111: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x04C0 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8053*]:
+112: 0x04C0 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8054*]:
     → "I'll call Gilgamesh back to port immediately."
 113: 0x04C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x04C8 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=760*
 115: 0x04D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[760*, 0*]
 116: 0x04E8 [0x03] Work_Zone[3] = 9083*
-117: 0x04ED [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8054*]:
+117: 0x04ED [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8055*]:
     → "In the meantime, rough up some of those mandragoras and come back with three $1."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x04F5 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8055*]:
+119: 0x04F5 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8056*]:
     → "And yes, I am well aware that adventurers often charge a fee for their services, and I will personally see to it that you are properly recompensed."
 120: 0x04FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x04FD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
 122: 0x050C [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=760*
 123: 0x051B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[760*, 0*]
 124: 0x052C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Numi Adaligo (ID: 17797137/0x010F9011), Numi Adaligo (ID: 17797137/0x010F9011)], work=50*
-125: 0x053B [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8056*]:
+125: 0x053B [0x2B] Numi Adaligo (ID: 17797137/0x010F9011) [8057*]:
     → "Come back soon!"
 126: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0543 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -531,10 +531,10 @@ SUBROUTINE_0349:
   1: 0x0594 [0x4A] Ekokoko (ID: 17797136/0x010F9010) looks at LocalPlayer
   2: 0x059D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*
   3: 0x05AC [0x03] Work_Zone[3] = 9083*
-  4: 0x05B1 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8054*]:
+  4: 0x05B1 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8055*]:
     → "In the meantime, rough up some of those mandragoras and come back with three $1."
   5: 0x05B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x05B9 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8055*]:
+  6: 0x05B9 [0x2B] Ekokoko (ID: 17797136/0x010F9010) [8056*]:
     → "And yes, I am well aware that adventurers often charge a fee for their services, and I will personally see to it that you are properly recompensed."
   7: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ekokoko (ID: 17797136/0x010F9010), Ekokoko (ID: 17797136/0x010F9010)], work=40*

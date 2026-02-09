@@ -72,242 +72,242 @@
 |      29 | 0x0015      |          21 |
 |      30 | 0x009F      |         159 |
 |      31 | 0x007F      |         127 |
-|      32 | 0x1FE2      |        8162 |
+|      32 | 0x1FE3      |        8163 |
 |      33 | 0x00D4      |         212 |
-|      34 | 0x1FE7      |        8167 |
-|      35 | 0x1FEA      |        8170 |
-|      36 | 0x1FEC      |        8172 |
-|      37 | 0x1FED      |        8173 |
-|      38 | 0x1FF2      |        8178 |
-|      39 | 0x1FF3      |        8179 |
+|      34 | 0x1FE8      |        8168 |
+|      35 | 0x1FEB      |        8171 |
+|      36 | 0x1FED      |        8173 |
+|      37 | 0x1FEE      |        8174 |
+|      38 | 0x1FF3      |        8179 |
+|      39 | 0x1FF4      |        8180 |
 |      40 | 0x0005      |           5 |
 |      41 | 0x0006      |           6 |
-|      42 | 0x1FF8      |        8184 |
+|      42 | 0x1FF9      |        8185 |
 |      43 | 0x0096      |         150 |
 |      44 | 0x00A2      |         162 |
 |      45 | 0x00F0      |         240 |
-|      46 | 0x2001      |        8193 |
+|      46 | 0x2002      |        8194 |
 |      47 | 0x0016      |          22 |
 |      48 | 0x007D      |         125 |
 |      49 | 0x00FB      |         251 |
 |      50 | 0x0028      |          40 |
-|      51 | 0x2018      |        8216 |
+|      51 | 0x2019      |        8217 |
 |      52 | 0x0020      |          32 |
-|      53 | 0x2019      |        8217 |
-|      54 | 0x201A      |        8218 |
+|      53 | 0x201A      |        8218 |
+|      54 | 0x201B      |        8219 |
 |      55 | 0x005A      |          90 |
 |      56 | 0x0022      |          34 |
-|      57 | 0x201B      |        8219 |
+|      57 | 0x201C      |        8220 |
 |      58 | 0x001E      |          30 |
-|      59 | 0x201C      |        8220 |
+|      59 | 0x201D      |        8221 |
 |      60 | 0x0046      |          70 |
 |      61 | 0x0023      |          35 |
 |      62 | 0x0021      |          33 |
 |      63 | 0x0014      |          20 |
 |      64 | 0x0050      |          80 |
-|      65 | 0x201D      |        8221 |
-|      66 | 0x201E      |        8222 |
-|      67 | 0x201F      |        8223 |
+|      65 | 0x201E      |        8222 |
+|      66 | 0x201F      |        8223 |
+|      67 | 0x2020      |        8224 |
 |      68 | 0x002C      |          44 |
-|      69 | 0x2021      |        8225 |
+|      69 | 0x2022      |        8226 |
 |      70 | 0x00A0      |         160 |
-|      71 | 0x2022      |        8226 |
-|      72 | 0x2023      |        8227 |
+|      71 | 0x2023      |        8227 |
+|      72 | 0x2024      |        8228 |
 |      73 | 0x000A      |          10 |
-|      74 | 0x2024      |        8228 |
-|      75 | 0x2026      |        8230 |
-|      76 | 0x2027      |        8231 |
-|      77 | 0x202A      |        8234 |
-|      78 | 0x202B      |        8235 |
-|      79 | 0x202C      |        8236 |
+|      74 | 0x2025      |        8229 |
+|      75 | 0x2027      |        8231 |
+|      76 | 0x2028      |        8232 |
+|      77 | 0x202B      |        8235 |
+|      78 | 0x202C      |        8236 |
+|      79 | 0x202D      |        8237 |
 |      80 | 0x00AA      |         170 |
 |      81 | 0x000C      |          12 |
-|      82 | 0x202D      |        8237 |
-|      83 | 0x202E      |        8238 |
+|      82 | 0x202E      |        8238 |
+|      83 | 0x202F      |        8239 |
 |      84 | 0x00F2      |         242 |
-|      85 | 0x202F      |        8239 |
-|      86 | 0x2030      |        8240 |
-|      87 | 0x2031      |        8241 |
-|      88 | 0x2032      |        8242 |
-|      89 | 0x2033      |        8243 |
-|      90 | 0x2034      |        8244 |
+|      85 | 0x2030      |        8240 |
+|      86 | 0x2031      |        8241 |
+|      87 | 0x2032      |        8242 |
+|      88 | 0x2033      |        8243 |
+|      89 | 0x2034      |        8244 |
+|      90 | 0x2035      |        8245 |
 |      91 | 0x0078      |         120 |
-|      92 | 0x2035      |        8245 |
-|      93 | 0x2036      |        8246 |
-|      94 | 0x2037      |        8247 |
-|      95 | 0x2038      |        8248 |
-|      96 | 0x2039      |        8249 |
-|      97 | 0x203A      |        8250 |
-|      98 | 0x203B      |        8251 |
+|      92 | 0x2036      |        8246 |
+|      93 | 0x2037      |        8247 |
+|      94 | 0x2038      |        8248 |
+|      95 | 0x2039      |        8249 |
+|      96 | 0x203A      |        8250 |
+|      97 | 0x203B      |        8251 |
+|      98 | 0x203C      |        8252 |
 |      99 | 0x002B      |          43 |
 |     100 | 0x004A      |          74 |
-|     101 | 0x203C      |        8252 |
-|     102 | 0x203D      |        8253 |
-|     103 | 0x203E      |        8254 |
-|     104 | 0x203F      |        8255 |
+|     101 | 0x203D      |        8253 |
+|     102 | 0x203E      |        8254 |
+|     103 | 0x203F      |        8255 |
+|     104 | 0x2040      |        8256 |
 |     105 | 0x00E2      |         226 |
-|     106 | 0x2040      |        8256 |
-|     107 | 0x2042      |        8258 |
-|     108 | 0x2043      |        8259 |
-|     109 | 0x2044      |        8260 |
-|     110 | 0x2045      |        8261 |
+|     106 | 0x2041      |        8257 |
+|     107 | 0x2043      |        8259 |
+|     108 | 0x2044      |        8260 |
+|     109 | 0x2045      |        8261 |
+|     110 | 0x2046      |        8262 |
 |     111 | 0x0099      |         153 |
-|     112 | 0x2047      |        8263 |
-|     113 | 0x2048      |        8264 |
-|     114 | 0x2049      |        8265 |
-|     115 | 0x204A      |        8266 |
-|     116 | 0x204B      |        8267 |
-|     117 | 0x204C      |        8268 |
-|     118 | 0x204D      |        8269 |
-|     119 | 0x204E      |        8270 |
-|     120 | 0x204F      |        8271 |
-|     121 | 0x2050      |        8272 |
-|     122 | 0x2052      |        8274 |
-|     123 | 0x2053      |        8275 |
+|     112 | 0x2048      |        8264 |
+|     113 | 0x2049      |        8265 |
+|     114 | 0x204A      |        8266 |
+|     115 | 0x204B      |        8267 |
+|     116 | 0x204C      |        8268 |
+|     117 | 0x204D      |        8269 |
+|     118 | 0x204E      |        8270 |
+|     119 | 0x204F      |        8271 |
+|     120 | 0x2050      |        8272 |
+|     121 | 0x2051      |        8273 |
+|     122 | 0x2053      |        8275 |
+|     123 | 0x2054      |        8276 |
 |     124 | 0x00FC      |         252 |
-|     125 | 0x2089      |        8329 |
-|     126 | 0x208A      |        8330 |
-|     127 | 0x208B      |        8331 |
-|     128 | 0x208C      |        8332 |
-|     129 | 0x208D      |        8333 |
-|     130 | 0x208E      |        8334 |
-|     131 | 0x208F      |        8335 |
-|     132 | 0x2090      |        8336 |
-|     133 | 0x2091      |        8337 |
+|     125 | 0x208A      |        8330 |
+|     126 | 0x208B      |        8331 |
+|     127 | 0x208C      |        8332 |
+|     128 | 0x208D      |        8333 |
+|     129 | 0x208E      |        8334 |
+|     130 | 0x208F      |        8335 |
+|     131 | 0x2090      |        8336 |
+|     132 | 0x2091      |        8337 |
+|     133 | 0x2092      |        8338 |
 |     134 | 0x00A9      |         169 |
-|     135 | 0x2092      |        8338 |
-|     136 | 0x2093      |        8339 |
-|     137 | 0x2094      |        8340 |
+|     135 | 0x2093      |        8339 |
+|     136 | 0x2094      |        8340 |
+|     137 | 0x2095      |        8341 |
 |     138 | 0x005F      |          95 |
-|     139 | 0x2095      |        8341 |
-|     140 | 0x2096      |        8342 |
-|     141 | 0x2097      |        8343 |
+|     139 | 0x2096      |        8342 |
+|     140 | 0x2097      |        8343 |
+|     141 | 0x2098      |        8344 |
 |     142 | 0x0BB1      |        2993 |
-|     143 | 0x2098      |        8344 |
-|     144 | 0x2099      |        8345 |
-|     145 | 0x209A      |        8346 |
-|     146 | 0x209B      |        8347 |
-|     147 | 0x209C      |        8348 |
-|     148 | 0x209D      |        8349 |
+|     143 | 0x2099      |        8345 |
+|     144 | 0x209A      |        8346 |
+|     145 | 0x209B      |        8347 |
+|     146 | 0x209C      |        8348 |
+|     147 | 0x209D      |        8349 |
+|     148 | 0x209E      |        8350 |
 |     149 | 0x0400      |        1024 |
-|     150 | 0x209E      |        8350 |
-|     151 | 0x209F      |        8351 |
-|     152 | 0x20A0      |        8352 |
-|     153 | 0x20A1      |        8353 |
-|     154 | 0x20A2      |        8354 |
-|     155 | 0x20A3      |        8355 |
-|     156 | 0x20A4      |        8356 |
-|     157 | 0x20A5      |        8357 |
-|     158 | 0x20A6      |        8358 |
-|     159 | 0x20A7      |        8359 |
-|     160 | 0x20A8      |        8360 |
-|     161 | 0x20A9      |        8361 |
-|     162 | 0x20AA      |        8362 |
-|     163 | 0x20AB      |        8363 |
-|     164 | 0x20AC      |        8364 |
-|     165 | 0x20AD      |        8365 |
-|     166 | 0x20AE      |        8366 |
-|     167 | 0x20AF      |        8367 |
-|     168 | 0x20B0      |        8368 |
-|     169 | 0x20B1      |        8369 |
-|     170 | 0x20B2      |        8370 |
-|     171 | 0x20B3      |        8371 |
-|     172 | 0x20B4      |        8372 |
+|     150 | 0x209F      |        8351 |
+|     151 | 0x20A0      |        8352 |
+|     152 | 0x20A1      |        8353 |
+|     153 | 0x20A2      |        8354 |
+|     154 | 0x20A3      |        8355 |
+|     155 | 0x20A4      |        8356 |
+|     156 | 0x20A5      |        8357 |
+|     157 | 0x20A6      |        8358 |
+|     158 | 0x20A7      |        8359 |
+|     159 | 0x20A8      |        8360 |
+|     160 | 0x20A9      |        8361 |
+|     161 | 0x20AA      |        8362 |
+|     162 | 0x20AB      |        8363 |
+|     163 | 0x20AC      |        8364 |
+|     164 | 0x20AD      |        8365 |
+|     165 | 0x20AE      |        8366 |
+|     166 | 0x20AF      |        8367 |
+|     167 | 0x20B0      |        8368 |
+|     168 | 0x20B1      |        8369 |
+|     169 | 0x20B2      |        8370 |
+|     170 | 0x20B3      |        8371 |
+|     171 | 0x20B4      |        8372 |
+|     172 | 0x20B5      |        8373 |
 |     173 | 0x0082      |         130 |
-|     174 | 0x20B5      |        8373 |
-|     175 | 0x20B6      |        8374 |
-|     176 | 0x20B7      |        8375 |
-|     177 | 0x20B8      |        8376 |
-|     178 | 0x20B9      |        8377 |
-|     179 | 0x20BA      |        8378 |
-|     180 | 0x20BB      |        8379 |
-|     181 | 0x20BC      |        8380 |
-|     182 | 0x20BD      |        8381 |
+|     174 | 0x20B6      |        8374 |
+|     175 | 0x20B7      |        8375 |
+|     176 | 0x20B8      |        8376 |
+|     177 | 0x20B9      |        8377 |
+|     178 | 0x20BA      |        8378 |
+|     179 | 0x20BB      |        8379 |
+|     180 | 0x20BC      |        8380 |
+|     181 | 0x20BD      |        8381 |
+|     182 | 0x20BE      |        8382 |
 |     183 | 0x0190      |         400 |
-|     184 | 0x20BE      |        8382 |
-|     185 | 0x20BF      |        8383 |
-|     186 | 0x20C0      |        8384 |
-|     187 | 0x20C1      |        8385 |
-|     188 | 0x20C2      |        8386 |
-|     189 | 0x20C3      |        8387 |
-|     190 | 0x20C4      |        8388 |
-|     191 | 0x20C5      |        8389 |
-|     192 | 0x20C6      |        8390 |
-|     193 | 0x20C7      |        8391 |
-|     194 | 0x20C8      |        8392 |
-|     195 | 0x20C9      |        8393 |
-|     196 | 0x20CA      |        8394 |
-|     197 | 0x20CB      |        8395 |
-|     198 | 0x20CC      |        8396 |
-|     199 | 0x20CD      |        8397 |
-|     200 | 0x20CE      |        8398 |
-|     201 | 0x20CF      |        8399 |
-|     202 | 0x20D0      |        8400 |
-|     203 | 0x20D1      |        8401 |
-|     204 | 0x20D2      |        8402 |
-|     205 | 0x20D3      |        8403 |
+|     184 | 0x20BF      |        8383 |
+|     185 | 0x20C0      |        8384 |
+|     186 | 0x20C1      |        8385 |
+|     187 | 0x20C2      |        8386 |
+|     188 | 0x20C3      |        8387 |
+|     189 | 0x20C4      |        8388 |
+|     190 | 0x20C5      |        8389 |
+|     191 | 0x20C6      |        8390 |
+|     192 | 0x20C7      |        8391 |
+|     193 | 0x20C8      |        8392 |
+|     194 | 0x20C9      |        8393 |
+|     195 | 0x20CA      |        8394 |
+|     196 | 0x20CB      |        8395 |
+|     197 | 0x20CC      |        8396 |
+|     198 | 0x20CD      |        8397 |
+|     199 | 0x20CE      |        8398 |
+|     200 | 0x20CF      |        8399 |
+|     201 | 0x20D0      |        8400 |
+|     202 | 0x20D1      |        8401 |
+|     203 | 0x20D2      |        8402 |
+|     204 | 0x20D3      |        8403 |
+|     205 | 0x20D4      |        8404 |
 |     206 | 0x000F      |          15 |
-|     207 | 0x20D4      |        8404 |
-|     208 | 0x20D5      |        8405 |
-|     209 | 0x20D6      |        8406 |
-|     210 | 0x20D7      |        8407 |
-|     211 | 0x20D8      |        8408 |
-|     212 | 0x20D9      |        8409 |
-|     213 | 0x20DA      |        8410 |
-|     214 | 0x20DB      |        8411 |
-|     215 | 0x20DC      |        8412 |
-|     216 | 0x20DD      |        8413 |
-|     217 | 0x20DE      |        8414 |
-|     218 | 0x20DF      |        8415 |
-|     219 | 0x210A      |        8458 |
-|     220 | 0x210B      |        8459 |
+|     207 | 0x20D5      |        8405 |
+|     208 | 0x20D6      |        8406 |
+|     209 | 0x20D7      |        8407 |
+|     210 | 0x20D8      |        8408 |
+|     211 | 0x20D9      |        8409 |
+|     212 | 0x20DA      |        8410 |
+|     213 | 0x20DB      |        8411 |
+|     214 | 0x20DC      |        8412 |
+|     215 | 0x20DD      |        8413 |
+|     216 | 0x20DE      |        8414 |
+|     217 | 0x20DF      |        8415 |
+|     218 | 0x20E0      |        8416 |
+|     219 | 0x210B      |        8459 |
+|     220 | 0x210C      |        8460 |
 |     221 | 0x00F9      |         249 |
-|     222 | 0x210C      |        8460 |
-|     223 | 0x210D      |        8461 |
-|     224 | 0x210E      |        8462 |
-|     225 | 0x210F      |        8463 |
-|     226 | 0x2110      |        8464 |
-|     227 | 0x2111      |        8465 |
-|     228 | 0x2112      |        8466 |
-|     229 | 0x2113      |        8467 |
-|     230 | 0x2114      |        8468 |
-|     231 | 0x2115      |        8469 |
-|     232 | 0x2116      |        8470 |
-|     233 | 0x2117      |        8471 |
-|     234 | 0x2118      |        8472 |
-|     235 | 0x2119      |        8473 |
-|     236 | 0x211A      |        8474 |
-|     237 | 0x211B      |        8475 |
-|     238 | 0x211C      |        8476 |
-|     239 | 0x211D      |        8477 |
-|     240 | 0x211E      |        8478 |
-|     241 | 0x211F      |        8479 |
-|     242 | 0x2120      |        8480 |
-|     243 | 0x2121      |        8481 |
-|     244 | 0x2122      |        8482 |
-|     245 | 0x2123      |        8483 |
-|     246 | 0x2124      |        8484 |
-|     247 | 0x2125      |        8485 |
-|     248 | 0x2126      |        8486 |
-|     249 | 0x2127      |        8487 |
-|     250 | 0x2128      |        8488 |
-|     251 | 0x2129      |        8489 |
-|     252 | 0x212A      |        8490 |
-|     253 | 0x212B      |        8491 |
-|     254 | 0x212C      |        8492 |
-|     255 | 0x212D      |        8493 |
-|     256 | 0x212E      |        8494 |
-|     257 | 0x212F      |        8495 |
-|     258 | 0x2130      |        8496 |
-|     259 | 0x2131      |        8497 |
-|     260 | 0x2132      |        8498 |
-|     261 | 0x2133      |        8499 |
-|     262 | 0x2134      |        8500 |
-|     263 | 0x2135      |        8501 |
-|     264 | 0x2136      |        8502 |
-|     265 | 0x2137      |        8503 |
-|     266 | 0x2138      |        8504 |
-|     267 | 0x2139      |        8505 |
+|     222 | 0x210D      |        8461 |
+|     223 | 0x210E      |        8462 |
+|     224 | 0x210F      |        8463 |
+|     225 | 0x2110      |        8464 |
+|     226 | 0x2111      |        8465 |
+|     227 | 0x2112      |        8466 |
+|     228 | 0x2113      |        8467 |
+|     229 | 0x2114      |        8468 |
+|     230 | 0x2115      |        8469 |
+|     231 | 0x2116      |        8470 |
+|     232 | 0x2117      |        8471 |
+|     233 | 0x2118      |        8472 |
+|     234 | 0x2119      |        8473 |
+|     235 | 0x211A      |        8474 |
+|     236 | 0x211B      |        8475 |
+|     237 | 0x211C      |        8476 |
+|     238 | 0x211D      |        8477 |
+|     239 | 0x211E      |        8478 |
+|     240 | 0x211F      |        8479 |
+|     241 | 0x2120      |        8480 |
+|     242 | 0x2121      |        8481 |
+|     243 | 0x2122      |        8482 |
+|     244 | 0x2123      |        8483 |
+|     245 | 0x2124      |        8484 |
+|     246 | 0x2125      |        8485 |
+|     247 | 0x2126      |        8486 |
+|     248 | 0x2127      |        8487 |
+|     249 | 0x2128      |        8488 |
+|     250 | 0x2129      |        8489 |
+|     251 | 0x212A      |        8490 |
+|     252 | 0x212B      |        8491 |
+|     253 | 0x212C      |        8492 |
+|     254 | 0x212D      |        8493 |
+|     255 | 0x212E      |        8494 |
+|     256 | 0x212F      |        8495 |
+|     257 | 0x2130      |        8496 |
+|     258 | 0x2131      |        8497 |
+|     259 | 0x2132      |        8498 |
+|     260 | 0x2133      |        8499 |
+|     261 | 0x2134      |        8500 |
+|     262 | 0x2135      |        8501 |
+|     263 | 0x2136      |        8502 |
+|     264 | 0x2137      |        8503 |
+|     265 | 0x2138      |        8504 |
+|     266 | 0x2139      |        8505 |
+|     267 | 0x213A      |        8506 |
 |     268 | 0x0004      |           4 |
 
 ## String References
@@ -316,12 +316,12 @@
 - **336**: Will you become an envoy? [I would be honored./I'm sorry, but...]
 - **414**: Accept this mission? [Yes./No.]
 - **422**: Accept this mission? [Yes./No.]
-- **8173**: Is that what you believe? [Yes./No.]
-- **8382**: (Something just doesn't make sense...)
-- **8383**: (Karaha-Baruha... How could a genius like you not realize the art of complete summoning would rob you of your life?)
-- **8384**: (...But if...)
-- **8385**: (But if you had foreseen that outcome, what if you had predictarued this entire scenario...?)
-- **8505**: We will lead Windurst onwards to a new future.
+- **8174**: Is that what you believe? [Yes./No.]
+- **8383**: (Something just doesn't make sense...)
+- **8384**: (Karaha-Baruha... How could a genius like you not realize the art of complete summoning would rob you of your life?)
+- **8385**: (...But if...)
+- **8386**: (But if you had foreseen that outcome, what if you had predictarued this entire scenario...?)
+- **8506**: We will lead Windurst onwards to a new future.
 
 ## Events
 
@@ -1712,7 +1712,7 @@ SUBROUTINE_0E08:
  17: 0x12E5 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 159*
  18: 0x12E9 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
  19: 0x12EE [0x29] REQ_SET_WAIT(priority=0x0E, entity_id=LocalPlayer, tag_num=0x28)
- 20: 0x12F5 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8162*]:
+ 20: 0x12F5 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8163*]:
     → "...Apururu, you should know this as well as I do."
  21: 0x12FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x12FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[212*, 0*]
@@ -1725,7 +1725,7 @@ SUBROUTINE_0E08:
  29: 0x135C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[212*, 0*]
  30: 0x136D [0x79] Apururu (ID: 17768543/0x010F205F) looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
  31: 0x1377 [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x68)
- 32: 0x137E [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8167*]:
+ 32: 0x137E [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8168*]:
     → "Excessive force gives birth to conflict and causes more problems than it solves."
  33: 0x1385 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x1386 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17768477/0x010F201D))
@@ -1750,7 +1750,7 @@ SUBROUTINE_0E08:
  53: 0x142B [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=212*
  54: 0x143A [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
  55: 0x143F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[212*, 0*]
- 56: 0x1450 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8170*]:
+ 56: 0x1450 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8171*]:
     → "<Player>... You have come..."
  57: 0x1457 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1458 [0x1C] WAIT(100* ticks)
@@ -1792,10 +1792,10 @@ SUBROUTINE_155D:
  90: 0x155D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x6C)
  91: 0x1564 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  92: 0x1575 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[212*, 0*]
- 93: 0x1586 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8172*]:
+ 93: 0x1586 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8173*]:
     → "Do you share his opinion? Do you believe that Windurst should join the battle against the beastmen?"
  94: 0x158D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x158E [0x24] CREATE_DIALOG(message_id=8173*, default_option=0*, option_flags=0*)
+ 95: 0x158E [0x24] CREATE_DIALOG(message_id=8174*, default_option=0*, option_flags=0*)
     → "Is that what you believe? [Yes./No.]"
  96: 0x1595 [0x25] WAIT_DIALOG_SELECT()
  97: 0x1596 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15CD
@@ -1820,10 +1820,10 @@ SUBROUTINE_1604:
 114: 0x1641 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[212*, 0*]
 115: 0x1652 [0x7B] Star Sibyl (ID: 17768477/0x010F201D) stops talking
 116: 0x1657 [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x69)
-117: 0x165E [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8178*]:
+117: 0x165E [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8179*]:
     → "However, your transgression at the behest of the Orastery minister is more serious than you think... I cannot simply let this matter drop."
 118: 0x1665 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x1666 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8179*]:
+119: 0x1666 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8180*]:
     → "...And so I have decided for you to accept the invitation that arrived a few days ago from the Yagudo Holy One residing in Castle Oztroja."
 120: 0x166D [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x166E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17768477/0x010F201D))
@@ -1856,7 +1856,7 @@ SUBROUTINE_172B:
 SUBROUTINE_1775:
 145: 0x1775 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[212*, 0*]
 146: 0x1786 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x75)
-147: 0x178D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8184*]:
+147: 0x178D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8185*]:
     → "...Come back to us safely..."
 148: 0x1794 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x1795 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -1996,7 +1996,7 @@ SUBROUTINE_1962:
  49: 0x19C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  50: 0x19D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[212*, 0*]
  51: 0x19E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x09)
- 52: 0x19EF [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8193*]:
+ 52: 0x19EF [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8194*]:
     → "<Player>... If you are a loyal citizen of Windurst, please... Do not betray my trust."
  53: 0x19F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x19F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2210,7 +2210,7 @@ SUBROUTINE_1962:
  49: 0x1B83 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=251*
  50: 0x1B92 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[251*, 0*]
  51: 0x1BA3 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17768477/0x010F201D))
- 52: 0x1BA9 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8216*]:
+ 52: 0x1BA9 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8217*]:
     → "Don't come any closer...!"
  53: 0x1BB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1BB1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2223,7 +2223,7 @@ SUBROUTINE_1962:
  61: 0x1BEA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[251*, 0*]
  62: 0x1BFB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  63: 0x1C0C [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Star Sibyl (ID: 17768477/0x010F201D), Star Sibyl (ID: 17768477/0x010F201D)], work=[32*, 0*]
- 64: 0x1C1D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8217*]:
+ 64: 0x1C1D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8218*]:
     → "The Diza Star..."
  65: 0x1C24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x1C25 [0x1C] WAIT(200* ticks)
@@ -2233,7 +2233,7 @@ SUBROUTINE_1962:
  70: 0x1C39 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Star Sibyl (ID: 17768477/0x010F201D))
  71: 0x1C3F [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=251*
  72: 0x1C4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[251*, 0*]
- 73: 0x1C5F [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8218*]:
+ 73: 0x1C5F [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8219*]:
     → "Star Sibyl!"
  74: 0x1C66 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x1C67 [0x1C] WAIT(40* ticks)
@@ -2274,7 +2274,7 @@ SUBROUTINE_1962:
 110: 0x1DF3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[251*, 0*]
 111: 0x1E04 [0x27] REQ_SET(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x25)
 112: 0x1E0B [0x27] REQ_SET(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x2C)
-113: 0x1E12 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8219*]:
+113: 0x1E12 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8220*]:
     → "Ungh!"
 114: 0x1E19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x1E1A [0x2A] GET_REQ_LEVEL(level=8, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
@@ -2284,7 +2284,7 @@ SUBROUTINE_1962:
 119: 0x1E39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 120: 0x1E4A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[251*, 0*]
 121: 0x1E5B [0x79] ??? (ID: 17768479/0x010F201F) looks at Semih Lafihna (ID: 17768470/0x010F2016) (Basic look)
-122: 0x1E65 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8220*]:
+122: 0x1E65 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8221*]:
     → "Little fiend!"
 123: 0x1E6C [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x1E6D [0x27] REQ_SET(priority=0x0D, entity_id=??? (ID: 17768479/0x010F201F), tag_num=0x02)
@@ -2300,18 +2300,18 @@ SUBROUTINE_1962:
 134: 0x1EE5 [0x1C] WAIT(20* ticks)
 135: 0x1EE8 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17768461/0x010F200D), Unnamed NPC (ID: 17768461/0x010F200D)], work=[33*, 0*]
 136: 0x1EF9 [0x1C] WAIT(80* ticks)
-137: 0x1EFC [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8221*]:
+137: 0x1EFC [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8222*]:
     → "Stop right there!"
 138: 0x1F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x1F04 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=251*
 140: 0x1F13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[251*, 0*]
 141: 0x1F24 [0x79] Star Sibyl (ID: 17768477/0x010F201D) looks at ??? (ID: 17768479/0x010F201F) (Basic look)
-142: 0x1F2E [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8222*]:
+142: 0x1F2E [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8223*]:
     → "I... I don't...!?"
 143: 0x1F35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x1F36 [0x1C] WAIT(50* ticks)
 145: 0x1F39 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=??? (ID: 17768479/0x010F201F), tag_num=0x03)
-146: 0x1F40 [0x2B] ??? (ID: 17768479/0x010F201F) [8223*]:
+146: 0x1F40 [0x2B] ??? (ID: 17768479/0x010F201F) [8224*]:
     → "...Sta..."
 147: 0x1F47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x1F48 [0x2A] GET_REQ_LEVEL(level=11, entity_id=??? (ID: 17768479/0x010F201F))
@@ -2320,7 +2320,7 @@ SUBROUTINE_1962:
 151: 0x1F60 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[251*, 0*]
 152: 0x1F71 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "yabu" with entities [Ajido-Marujido (ID: 17768471/0x010F2017), Ajido-Marujido (ID: 17768471/0x010F2017)], work=[44*, 0*]
 153: 0x1F82 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x2E)
-154: 0x1F89 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8225*]:
+154: 0x1F89 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8226*]:
     → "Star Sibyl!"
 155: 0x1F90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x1F91 [0x1C] WAIT(30* ticks)
@@ -2611,12 +2611,12 @@ SUBROUTINE_1962:
  34: 0x21A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[251*, 0*]
  35: 0x21B3 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016)
  36: 0x21BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x04)
- 37: 0x21C3 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8226*]:
+ 37: 0x21C3 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8227*]:
     → "I must apologize, Star Sibyl. We have failed in our duty to keep intruders from your chambers..."
  38: 0x21CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x21CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x05)
  40: 0x21D2 [0x7B] Semih Lafihna (ID: 17768470/0x010F2016) stops talking
- 41: 0x21D7 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8227*]:
+ 41: 0x21D7 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8228*]:
     → "I will pursue the creature at once. The rest of the Sibyl Guards will be placed under Ajido-Marujido's command."
  42: 0x21DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x21DF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -2626,7 +2626,7 @@ SUBROUTINE_1962:
  47: 0x2205 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x6E)
  48: 0x220C [0x1C] WAIT(10* ticks)
  49: 0x220F [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x49)
- 50: 0x2216 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8228*]:
+ 50: 0x2216 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8229*]:
     → "Wait! You'll be wasting your time. Nobody can stop that thing."
  51: 0x221D [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x221E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
@@ -2641,13 +2641,13 @@ SUBROUTINE_1962:
  61: 0x225D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[251*, 0*]
  62: 0x226E [0x79] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
  63: 0x2278 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x4A)
- 64: 0x227F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8230*]:
+ 64: 0x227F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8231*]:
     → "Star Sibyl, the magic the creature was using was no ordinary spellcraft. That power was of the Stars and the Moon. The same power that pulses through the Horutoto Ruins and fills the Mana Orbs..."
  65: 0x2286 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x2287 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=251*
  67: 0x2296 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  68: 0x22A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[251*, 0*]
- 69: 0x22B8 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8231*]:
+ 69: 0x22B8 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8232*]:
     → "It was the magic of Fenrir, the Great Beast that resided in the Full Moon Fountain. You felt it, didn't you?"
  70: 0x22BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x22C0 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
@@ -2667,11 +2667,11 @@ SUBROUTINE_1962:
  85: 0x233B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
  86: 0x2340 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
  87: 0x234A [0x79] Star Sibyl (ID: 17768477/0x010F201D) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
- 88: 0x2354 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8234*]:
+ 88: 0x2354 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8235*]:
     → "Star Sibyl, I have read the Book of the Gods. I know all aboutaru the beginning of Windurst and the deeds of the first Star Sibyl."
  89: 0x235B [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x235C [0x79] LocalPlayer looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
- 91: 0x2366 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8235*]:
+ 91: 0x2366 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8236*]:
     → "You mustaru tell us. What happened at the Full Moon Fountain twenty years ago?"
  92: 0x236D [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x236E [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=251*
@@ -2680,7 +2680,7 @@ SUBROUTINE_1962:
  96: 0x2395 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17768477/0x010F201D))
  97: 0x239B [0x1C] WAIT(60* ticks)
  98: 0x239E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x05)
- 99: 0x23A5 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8236*]:
+ 99: 0x23A5 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8237*]:
     → "...You're right, of course. The time has come for me to tell the tale."
 100: 0x23AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x23AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2695,10 +2695,10 @@ SUBROUTINE_1962:
 110: 0x23FC [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Water in Space (ID: 17768545/0x010F2061), tag_num=0x01)
 111: 0x2403 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[251*, 0*]
 112: 0x2414 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-113: 0x2425 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8237*]:
+113: 0x2425 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8238*]:
     → "It all started long ago, when the Star Sibyl performed the first Moon Reading at the Full Moon Fountain..."
 114: 0x242C [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x242D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8238*]:
+115: 0x242D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8239*]:
     → "That prophecy spanned events from several hundred years ago up until the time of the Great War."
 116: 0x2434 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x2435 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2714,10 +2714,10 @@ SUBROUTINE_1962:
 127: 0x2473 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x4B)
 128: 0x247A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[251*, 0*]
 129: 0x248B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-130: 0x249C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8239*]:
+130: 0x249C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8240*]:
     → "The prophecy gleaned from the Moon Reading was infused into the Star Spring within this very tower."
 131: 0x24A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x24A4 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8240*]:
+132: 0x24A4 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8241*]:
     → "We Star Sibyls have used that prophecy in conjunction with our Star Readings to guide the people of Windurst."
 133: 0x24AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x24AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2729,17 +2729,17 @@ SUBROUTINE_1962:
 140: 0x24D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[251*, 0*]
 141: 0x24E9 [0x1C] WAIT(30* ticks)
 142: 0x24EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-143: 0x24FD [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8241*]:
+143: 0x24FD [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8242*]:
     → "...The first Star Sibyl's prophecy brought tidings of wealth and prosperity for our fair country. However, when I performed the Star Reading, I saw something entirely different..."
 144: 0x2504 [0x23] WAIT_FOR_DIALOG_INTERACTION
-145: 0x2505 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8242*]:
+145: 0x2505 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8243*]:
     → "I saw "destruction.""
 146: 0x250C [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x250D [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=251*
 148: 0x251C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 149: 0x252D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[251*, 0*]
 150: 0x253E [0x1C] WAIT(30* ticks)
-151: 0x2541 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8243*]:
+151: 0x2541 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8244*]:
     → "Complete and utter ruin... Windurst would be consumed in flames and swallowed by floods. Light would sear the sky, and our people would fall by the thousands..."
 152: 0x2548 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x2549 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -2751,7 +2751,7 @@ SUBROUTINE_1962:
 159: 0x2579 [0x1C] WAIT(100* ticks)
 160: 0x257C [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kilh" with entities [LocalPlayer, LocalPlayer]
 161: 0x2589 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kili" with entities [LocalPlayer, LocalPlayer]
-162: 0x2596 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8244*]:
+162: 0x2596 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8245*]:
     → "I went to seek the counsel of the Great Beast of the Full Moon Fountain... The Great Beast, Fenrir."
 163: 0x259D [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x259E [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 160*
@@ -2770,29 +2770,29 @@ SUBROUTINE_1962:
 177: 0x25FC [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=251*
 178: 0x260B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 179: 0x261C [0x27] REQ_SET(priority=0x0B, entity_id=Unnamed NPC (ID: 17768459/0x010F200B), tag_num=0x05)
-180: 0x2623 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8245*]:
+180: 0x2623 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8246*]:
     → "You wish to save your people from destruction? Poor, frail little Star Sibyl."
 181: 0x262A [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x262B [0x1C] WAIT(100* ticks)
 183: 0x262E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Unnamed NPC (ID: 17768459/0x010F200B))
 184: 0x2634 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=70*
 185: 0x2643 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[70*, 0*]
-186: 0x2654 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8246*]:
+186: 0x2654 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8247*]:
     → "You hope in vain. The will of the Stars and the Moon is the design of the heavens. As the first Star Sibyl accepted the fate of destruction, so would the people come to welcome it, though it filled them with terror."
 187: 0x265B [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x265C [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=70*
 189: 0x266B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 190: 0x267C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=[70*, 0*]
-191: 0x268D [0x2B] Fenrir (ID: 17768548/0x010F2064) [8247*]:
+191: 0x268D [0x2B] Fenrir (ID: 17768548/0x010F2064) [8248*]:
     → "Even that Star Sibyl yielded to her fear in her dealings with me. And you do nothing but cower in my presence--what could you possibly do?"
 192: 0x2694 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x2695 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=70*
 194: 0x26A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 195: 0x26B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[70*, 0*]
-196: 0x26C6 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8248*]:
+196: 0x26C6 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8249*]:
     → "His words rang true. I could do nothing but tremble in the face of my fear."
 197: 0x26CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-198: 0x26CE [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8249*]:
+198: 0x26CE [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8250*]:
     → "But I was not alone... I had a powerful ally by my side-- Karaha-Baruha."
 199: 0x26D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x26D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2800,10 +2800,10 @@ SUBROUTINE_1962:
 202: 0x26EA [0x4E] SET_ENTITY_HIDE_FLAG: Show SP01 (ID: 17768549/0x010F2065)
 203: 0x26F0 [0x80] LOAD_WAIT(entity=SP01 (ID: 17768549/0x010F2065))
 204: 0x26F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x1B)
-205: 0x26FC [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8250*]:
+205: 0x26FC [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8251*]:
     → "Karaha-Baruha developed a new kind of magic to control the mind of the Great Beast, and change the will of the Stars and the Moon... He called this magic "Summoning.""
 206: 0x2703 [0x23] WAIT_FOR_DIALOG_INTERACTION
-207: 0x2704 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8251*]:
+207: 0x2704 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8252*]:
     → "However..."
 208: 0x270B [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x270C [0x1C] WAIT(120* ticks)
@@ -2829,26 +2829,26 @@ SUBROUTINE_1962:
 229: 0x27A4 [0x27] REQ_SET(priority=0x0B, entity_id=Unnamed NPC (ID: 17768459/0x010F200B), tag_num=0x08)
 230: 0x27AB [0x1C] WAIT(90* ticks)
 231: 0x27AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x17)
-232: 0x27B5 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8252*]:
+232: 0x27B5 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8253*]:
     → "Enough... Enough, Karaha-Baruha!"
 233: 0x27BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x27BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x18)
 235: 0x27C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x19)
-236: 0x27CB [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8253*]:
+236: 0x27CB [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8254*]:
     → "There is a limit to what even you can do! Your mind will be shattered...!"
 237: 0x27D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x27D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x1A)
 239: 0x27DA [0x2A] GET_REQ_LEVEL(level=11, entity_id=Unnamed NPC (ID: 17768459/0x010F200B))
 240: 0x27E0 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=70*
 241: 0x27EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[70*, 0*]
-242: 0x2800 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8254*]:
+242: 0x2800 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8255*]:
     → "I see you have the will to defy your fate..."
 243: 0x2807 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x2808 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=70*
 245: 0x2817 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 246: 0x2828 [0x27] REQ_SET(priority=0x0B, entity_id=Unnamed NPC (ID: 17768459/0x010F200B), tag_num=0x06)
 247: 0x282F [0x4A] Star Sibyl (ID: 17768477/0x010F201D) looks at Fenrir (ID: 17768548/0x010F2064)
-248: 0x2838 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8255*]:
+248: 0x2838 [0x2B] Fenrir (ID: 17768548/0x010F2064) [8256*]:
     → "Star Sibyl, there is no reason to cower. There is nothing to fear."
 249: 0x283F [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x2840 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -2858,7 +2858,7 @@ SUBROUTINE_1962:
 254: 0x285B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [SP01 (ID: 17768549/0x010F2065), SP01 (ID: 17768549/0x010F2065)], work=[226*, 0*]
 255: 0x286C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=IZUMI of MANGETSU (ID: 17768546/0x010F2062), tag_num=0x04)
 256: 0x2873 [0x27] REQ_SET(priority=0x0B, entity_id=Unnamed NPC (ID: 17768459/0x010F200B), tag_num=0x07)
-257: 0x287A [0x2B] Fenrir (ID: 17768548/0x010F2064) [8256*]:
+257: 0x287A [0x2B] Fenrir (ID: 17768548/0x010F2064) [8257*]:
     → "The time is near when darkness will obscure the light that guides you. But your steps must not falter. A path still exists through that blackest of nights."
 258: 0x2881 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x2882 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Unnamed NPC (ID: 17768459/0x010F200B))
@@ -2900,22 +2900,22 @@ SUBROUTINE_1962:
 295: 0x299B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 296: 0x29AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[251*, 0*]
 297: 0x29BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x05)
-298: 0x29C4 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8258*]:
+298: 0x29C4 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8259*]:
     → "Yes, that is the sad truth... The spirit of the Great Beast was vast... No matter how strong Karaha-Baruha was, it was impossible for him to fully contain Fenrir's power."
 299: 0x29CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 300: 0x29CC [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=251*
 301: 0x29DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 302: 0x29EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[251*, 0*]
-303: 0x29FD [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8259*]:
+303: 0x29FD [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8260*]:
     → "Windurst lost the protection of the Stars and the Moon. The Horutoto Ruins could no longer function, the magical waters dried up, and the Star Tree began to wither..."
 304: 0x2A04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x2A05 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=251*
 306: 0x2A14 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[251*, 0*]
 307: 0x2A25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x06)
-308: 0x2A2C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8260*]:
+308: 0x2A2C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8261*]:
     → "But as the Star Sibyl, I was still responsible for the guidance of our people. I still had to show them the way, even though the light no longer existed."
 309: 0x2A33 [0x23] WAIT_FOR_DIALOG_INTERACTION
-310: 0x2A34 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8261*]:
+310: 0x2A34 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8262*]:
     → "Twenty years have passed... I have led our people with a string of false Star Readings. Nothing can be seen in the Star Spring. There is no future to be read there..."
 311: 0x2A3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 312: 0x2A3C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2930,7 +2930,7 @@ SUBROUTINE_1962:
 321: 0x2A99 [0x79] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 322: 0x2AA3 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 323: 0x2AAD [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x4C)
-324: 0x2AB4 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8263*]:
+324: 0x2AB4 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8264*]:
     → "...But, Star Sibyl--the future lives on. As Fenrir told you, the path still lies before us..."
 325: 0x2ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x2ABC [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
@@ -2939,7 +2939,7 @@ SUBROUTINE_1962:
 329: 0x2AE2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[251*, 0*]
 330: 0x2AF3 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
 331: 0x2AFD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x09)
-332: 0x2B04 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8264*]:
+332: 0x2B04 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8265*]:
     → "Neither peace nor destruction is certain. We mustaru seize the light with our own hands...!"
 333: 0x2B0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0x2B0C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0A)
@@ -2947,7 +2947,7 @@ SUBROUTINE_1962:
 336: 0x2B22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[251*, 0*]
 337: 0x2B33 [0x1C] WAIT(30* ticks)
 338: 0x2B36 [0x7C] Star Sibyl (ID: 17768477/0x010F201D)->Render.Flags2 |= 0x00
-339: 0x2B3C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8265*]:
+339: 0x2B3C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8266*]:
     → "...!"
 340: 0x2B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x2B44 [0x7C] Star Sibyl (ID: 17768477/0x010F201D)->Render.Flags2 |= 0x01
@@ -2955,28 +2955,28 @@ SUBROUTINE_1962:
 343: 0x2B4D [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=251*
 344: 0x2B5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 345: 0x2B6D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[251*, 0*]
-346: 0x2B7E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8266*]:
+346: 0x2B7E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8267*]:
     → "Star Sibyl, I ask you for permission to enter the Animastery of Karaha-Baruha."
 347: 0x2B85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x2B86 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0B)
-349: 0x2B8D [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8267*]:
+349: 0x2B8D [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8268*]:
     → "He and I are of the same mind. All I wantaru is to save Windurst. I need the knowledge that Karaha-Baruha uncovered..."
 350: 0x2B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x2B95 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0C)
-352: 0x2B9C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8268*]:
+352: 0x2B9C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8269*]:
     → "...Ajido-Marujido..."
 353: 0x2BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 354: 0x2BA4 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=251*
 355: 0x2BB3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[251*, 0*]
 356: 0x2BC4 [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x86)
-357: 0x2BCB [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8269*]:
+357: 0x2BCB [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8270*]:
     → "You have my permission. I grant you leave to use all that remains of Karaha-Baruha's research, and pardon you for the crimes you have committed."
 358: 0x2BD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x2BD3 [0x79] LocalPlayer looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
 360: 0x2BDD [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Star Sibyl (ID: 17768477/0x010F201D) (Basic look)
 361: 0x2BE7 [0x79] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016) (Basic look)
 362: 0x2BF1 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x70)
-363: 0x2BF8 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8270*]:
+363: 0x2BF8 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8271*]:
     → "Star Sibyl... Are you sure of this!?"
 364: 0x2BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x2C00 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
@@ -2984,10 +2984,10 @@ SUBROUTINE_1962:
 367: 0x2C15 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[251*, 0*]
 368: 0x2C26 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x4D)
 369: 0x2C2D [0x79] Star Sibyl (ID: 17768477/0x010F201D) looks at Semih Lafihna (ID: 17768470/0x010F2016) (Basic look)
-370: 0x2C37 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8271*]:
+370: 0x2C37 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8272*]:
     → "All that was to remain secret has been revealed here today. And yet Ajido-Marujido proposes we strive onward."
 371: 0x2C3E [0x23] WAIT_FOR_DIALOG_INTERACTION
-372: 0x2C3F [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8272*]:
+372: 0x2C3F [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8273*]:
     → "And there is still the mystery of this dark visitor... We must discover its true nature."
 373: 0x2C46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x2C47 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0C)
@@ -2999,14 +2999,14 @@ SUBROUTINE_1962:
 380: 0x2C85 [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017)
 381: 0x2C8E [0x79] Ajido-Marujido (ID: 17768471/0x010F2017) looks at LocalPlayer (Basic look)
 382: 0x2C98 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x4E)
-383: 0x2C9F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8274*]:
+383: 0x2C9F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8275*]:
     → "Rightaru, it's time for me to get to work. If you need me, I'll be in the Animastery."
 384: 0x2CA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x2CA7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
 386: 0x2CAD [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at LocalPlayer
 387: 0x2CB6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 388: 0x2CB7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
-389: 0x2CBC [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8275*]:
+389: 0x2CBC [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8276*]:
     → "Let Apururu know what has transpired here. Don'taru let me down, adventurer."
 390: 0x2CC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x2CC4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3337,7 +3337,7 @@ SUBROUTINE_2CEF:
  25: 0x2DBC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  26: 0x2DCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[252*, 0*]
  27: 0x2DDE [0x7C] Semih Lafihna (ID: 17768470/0x010F2016)->Render.Flags2 |= 0x00
- 28: 0x2DE4 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8329*]:
+ 28: 0x2DE4 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8330*]:
     → "......"
  29: 0x2DEB [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x2DEC [0x7C] Semih Lafihna (ID: 17768470/0x010F2016)->Render.Flags2 |= 0x01
@@ -3354,7 +3354,7 @@ SUBROUTINE_2CEF:
 SUBROUTINE_2E5B:
  40: 0x2E5B [0x1C] WAIT(100* ticks)
  41: 0x2E5E [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at LocalPlayer (Basic look)
- 42: 0x2E68 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8330*]:
+ 42: 0x2E68 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8331*]:
     → "...<Player>."
  43: 0x2E6F [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x2E70 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
@@ -3386,10 +3386,10 @@ SUBROUTINE_2F3A:
  66: 0x2F43 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  67: 0x2F44 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17768470/0x010F2016) Render.Flags0 and Render.Flags3 conditions are met
  68: 0x2F49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x04)
- 69: 0x2F50 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8331*]:
+ 69: 0x2F50 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8332*]:
     → "You've received the mission briefing?"
  70: 0x2F57 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x2F58 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8332*]:
+ 71: 0x2F58 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8333*]:
     → "The situation has become volatile. The Yagudo are screaming that Windurst has broken one of the clauses of the peace treaty."
  72: 0x2F5F [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2F60 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x05)
@@ -3410,10 +3410,10 @@ SUBROUTINE_2F3A:
 SUBROUTINE_2FDE:
  87: 0x2FDE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[252*, 0*]
  88: 0x2FEF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0C)
- 89: 0x2FF6 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8333*]:
+ 89: 0x2FF6 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8334*]:
     → "There is a passage in the treaty that states the central magic tower in West Sarutabaruta shall not be reactivated without the prior agreement of both parties."
  90: 0x2FFD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x2FFE [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8334*]:
+ 91: 0x2FFE [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8335*]:
     → "Apparently it did not escape the beady eyes of the Yagudo when Ajido-Marujido awoke the tower using the Mana Orbs."
  92: 0x3005 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x3006 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0D)
@@ -3429,12 +3429,12 @@ SUBROUTINE_2FDE:
 SUBROUTINE_3065:
 102: 0x3065 [0x7B] Semih Lafihna (ID: 17768470/0x010F2016) stops talking
 103: 0x306A [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x76)
-104: 0x3071 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8335*]:
+104: 0x3071 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8336*]:
     → "Now they're demanding we give them control of the Horutoto Ruins to make amends for our break in faith."
 105: 0x3078 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x3079 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
 107: 0x307F [0x4A] LocalPlayer looks at Semih Lafihna (ID: 17768470/0x010F2016)
-108: 0x3088 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8336*]:
+108: 0x3088 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8337*]:
     → "It's obvious those feathered devils want to establish a base rrright under Windurst's nose, but it'll be a cold day in Kazham before I ever let something like that happen..."
 109: 0x308F [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x3090 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -3466,7 +3466,7 @@ SUBROUTINE_315A:
 132: 0x315A [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at LocalPlayer
 133: 0x3163 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 134: 0x3164 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17768470/0x010F2016) Render.Flags0 and Render.Flags3 conditions are met
-135: 0x3169 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8337*]:
+135: 0x3169 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8338*]:
     → "...... In any event, the rescue of the Star Sibyl comes first and foremost. Let us go and meet with Ajido-Marujido."
 136: 0x3170 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x3171 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3538,7 +3538,7 @@ SUBROUTINE_31FC:
 201: 0x3358 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=252*
 202: 0x3367 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 203: 0x3378 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[252*, 0*]
-204: 0x3389 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8338*]:
+204: 0x3389 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8339*]:
     → "..."
 205: 0x3390 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x3391 [0x4A] Apururu (ID: 17768543/0x010F205F) looks at Semih Lafihna (ID: 17768470/0x010F2016)
@@ -3550,13 +3550,13 @@ SUBROUTINE_31FC:
 212: 0x33B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[252*, 0*]
 213: 0x33C6 [0x1C] WAIT(60* ticks)
 214: 0x33C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x11)
-215: 0x33D0 [0x2B] Apururu (ID: 17768543/0x010F205F) [8339*]:
+215: 0x33D0 [0x2B] Apururu (ID: 17768543/0x010F205F) [8340*]:
     → "Semih Lafihna..."
 216: 0x33D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x33D8 [0x27] REQ_SET(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x12)
 218: 0x33DF [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
 219: 0x33E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x04)
-220: 0x33EC [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8340*]:
+220: 0x33EC [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8341*]:
     → "Apururu!? If you're here, then you must have..."
 221: 0x33F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x33F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x05)
@@ -3570,7 +3570,7 @@ SUBROUTINE_31FC:
 230: 0x3439 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 231: 0x343A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Apururu (ID: 17768543/0x010F205F) Render.Flags0 and Render.Flags3 conditions are met
 232: 0x343F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Marble Door (ID: 17768551/0x010F2067), tag_num=0x03)
-233: 0x3446 [0x2B] Apururu (ID: 17768543/0x010F205F) [8341*]:
+233: 0x3446 [0x2B] Apururu (ID: 17768543/0x010F205F) [8342*]:
     → "...Yes. I heard from my dear brother...of the fate that has befallen the Star Sibyl..."
 234: 0x344D [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x344E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3586,7 +3586,7 @@ SUBROUTINE_31FC:
 245: 0x34A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 246: 0x34A1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Apururu (ID: 17768543/0x010F205F) Render.Flags0 and Render.Flags3 conditions are met
 247: 0x34A6 [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x23)
-248: 0x34AD [0x2B] Apururu (ID: 17768543/0x010F205F) [8342*]:
+248: 0x34AD [0x2B] Apururu (ID: 17768543/0x010F205F) [8343*]:
     → "The Manustery is responsible for all of this! I mustaru apologize to you, Semih Lafihna... To the Star Sibyl... To everyone..."
 249: 0x34B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x34B5 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17768543/0x010F205F))
@@ -3595,7 +3595,7 @@ SUBROUTINE_31FC:
 253: 0x34D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[252*, 0*]
 254: 0x34E1 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016)
 255: 0x34EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0C)
-256: 0x34F1 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8343*]:
+256: 0x34F1 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8344*]:
     → "Raise your head, Apururu. This is not your fault."
 257: 0x34F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x34F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0D)
@@ -3609,10 +3609,10 @@ SUBROUTINE_31FC:
 266: 0x3543 [0x4B] UPDATE_ENTITY_YAW(entity=Semih Lafihna (ID: 17768470/0x010F2016), yaw=16.4°*)
 267: 0x354A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 268: 0x354B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17768470/0x010F2016) Render.Flags0 and Render.Flags3 conditions are met
-269: 0x3550 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8344*]:
+269: 0x3550 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8345*]:
     → "I was the one who took the Star Sibyl down to the Full Moon Fountain while unknown terrors stalked the shadows. I accept full responsibility."
 270: 0x3557 [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x3558 [0x2B] Apururu (ID: 17768543/0x010F205F) [8345*]:
+271: 0x3558 [0x2B] Apururu (ID: 17768543/0x010F205F) [8346*]:
     → "Semih Lafihna..."
 272: 0x355F [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x3560 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x1A)
@@ -3622,7 +3622,7 @@ SUBROUTINE_31FC:
 277: 0x3590 [0x79] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 278: 0x359A [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 279: 0x35A4 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x55)
-280: 0x35AB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8346*]:
+280: 0x35AB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8347*]:
     → "That "terror" is not unknown to us."
 281: 0x35B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x35B3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -3632,7 +3632,7 @@ SUBROUTINE_31FC:
 286: 0x35CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 287: 0x35DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[252*, 0*]
 288: 0x35F0 [0x7B] Ajido-Marujido (ID: 17768471/0x010F2017) stops talking
-289: 0x35F5 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8347*]:
+289: 0x35F5 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8348*]:
     → "The bearer of darkness is mostaru likely the resurrected Karaha-Baruha."
 290: 0x35FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x35FD [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=252*
@@ -3645,7 +3645,7 @@ SUBROUTINE_31FC:
 298: 0x3644 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [EventEntity, EventEntity], work=[252*, 0*]
 
 SUBROUTINE_3655:
-299: 0x3655 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8348*]:
+299: 0x3655 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8349*]:
     → "What are you saying!?"
 300: 0x365C [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x365D [0x02] IF !(Work_Zone[8] == 5*) GOTO 0x3677
@@ -3659,90 +3659,90 @@ SUBROUTINE_3655:
 SUBROUTINE_36A0:
 308: 0x36A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[252*, 0*]
 309: 0x36B1 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x57)
-310: 0x36B8 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8349*]:
+310: 0x36B8 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8350*]:
     → "...The research left here was extremely thorough. A perfectaru theory that surpassed all other systems of magic to stand at the pinnacle of achievement."
 311: 0x36BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 312: 0x36C0 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
 313: 0x36C6 [0x4B] UPDATE_ENTITY_YAW(entity=Ajido-Marujido (ID: 17768471/0x010F2017), yaw=5.6°*)
 314: 0x36CD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 315: 0x36CE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
-316: 0x36D3 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8350*]:
+316: 0x36D3 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8351*]:
     → "Karaha-Baruha succeeded in his "complete summoning" and dominatarued the will of the Great Beast, Fenrir."
 317: 0x36DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x36DB [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=252*
 319: 0x36EA [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x4C)
-320: 0x36F1 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8351*]:
+320: 0x36F1 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8352*]:
     → "However, that spirit was too vast for any one person's body to contain, the energy too intense. Fenrir was dragged into the abyss of death along with Karaha-Baruha."
 321: 0x36F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x36F9 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
 323: 0x36FF [0x1C] WAIT(100* ticks)
 324: 0x3702 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[252*, 0*]
-325: 0x3713 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8352*]:
+325: 0x3713 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8353*]:
     → "And now the deceased have returned... The "bearer of darkness" is an incarnation that contains the spirit of both Karaha-Baruha, and the Great Beast."
 326: 0x371A [0x23] WAIT_FOR_DIALOG_INTERACTION
 327: 0x371B [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=252*
 328: 0x372A [0x1C] WAIT(100* ticks)
 329: 0x372D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 330: 0x373E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[252*, 0*]
-331: 0x374F [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8353*]:
+331: 0x374F [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8354*]:
     → "A shared existence..."
 332: 0x3756 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x3757 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=252*
 334: 0x3766 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[252*, 0*]
-335: 0x3777 [0x2B] Apururu (ID: 17768543/0x010F205F) [8354*]:
+335: 0x3777 [0x2B] Apururu (ID: 17768543/0x010F205F) [8355*]:
     → "And that is why Joker has taken control of the Full Moon Fountain. But why hold the Star Sibyl captive?"
 336: 0x377E [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x377F [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x7D)
-338: 0x3786 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8355*]:
+338: 0x3786 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8356*]:
     → "For revenge!?"
 339: 0x378D [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x378E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
 341: 0x3794 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=252*
 342: 0x37A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[252*, 0*]
 343: 0x37B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x04)
-344: 0x37BB [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8356*]:
+344: 0x37BB [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8357*]:
     → "If, as you say, part of the bearer of darkness is the Great Beast, it must blame the Star Sibyl for its death."
 345: 0x37C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-346: 0x37C3 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8357*]:
+346: 0x37C3 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8358*]:
     → "Was its hate for the Star Sibyl what brought it to Heavens Tower...?"
 347: 0x37CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x37CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x05)
 349: 0x37D2 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=252*
 350: 0x37E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[252*, 0*]
-351: 0x37F2 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8358*]:
+351: 0x37F2 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8359*]:
     → "Of that, we can'taru be certain. When Joker's wish is fulfilled and the bearer of darkness returns to the Full Moon Fountain, there is no telling what will happen."
 352: 0x37F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x37FA [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=252*
 354: 0x3809 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 355: 0x381A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[252*, 0*]
-356: 0x382B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8359*]:
+356: 0x382B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8360*]:
     → "However, to keep the Star Sibyl from harm, we mustaru do as Joker requests."
 357: 0x3832 [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x3833 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=252*
 359: 0x3842 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[252*, 0*]
 360: 0x3853 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at LocalPlayer (Basic look)
-361: 0x385D [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8360*]:
+361: 0x385D [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8361*]:
     → "But how?"
 362: 0x3864 [0x23] WAIT_FOR_DIALOG_INTERACTION
-363: 0x3865 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8361*]:
+363: 0x3865 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8362*]:
     → "There is no way we can force the bearer of darkness to return to the fountain. It comes and goes in the blink of an eye, and our attacks are completely ineffective against it."
 364: 0x386C [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x386D [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=252*
 366: 0x387C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[252*, 0*]
 367: 0x388D [0x4A] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017)
 368: 0x3896 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x58)
-369: 0x389D [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8362*]:
+369: 0x389D [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8363*]:
     → "Leave that to me. There is one method of luring the part that is Fenrir back to the Full Moon Fountain."
 370: 0x38A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x38A5 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
-372: 0x38AB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8363*]:
+372: 0x38AB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8364*]:
     → "This method entails using the song of the ancient Kuluu that is mentioned in the Book of the Gods. The Kuluu had apparentaruly forged a pact with the avatars."
 373: 0x38B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x38B3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 375: 0x38B4 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 376: 0x38B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=252*
 377: 0x38C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[252*, 0*]
-378: 0x38D9 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8364*]:
+378: 0x38D9 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8365*]:
     → "The three verses of the song are kept in three separate ruins..."
 379: 0x38E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x38E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3752,11 +3752,11 @@ SUBROUTINE_36A0:
 384: 0x3915 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 385: 0x3926 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at LocalPlayer (Basic look)
 386: 0x3930 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x59)
-387: 0x3937 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8365*]:
+387: 0x3937 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8366*]:
     → "<Player>, we need you to travel to Ro'Maeve, the Chamber of Oracles, and the Temple of Uggalepih to collect those verses."
 388: 0x393E [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x393F [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
-390: 0x3945 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8366*]:
+390: 0x3945 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8367*]:
     → "I don'taru know what form they will take, but they should at leastaru be recognizable as a legacy left for succeeding generations."
 391: 0x394C [0x23] WAIT_FOR_DIALOG_INTERACTION
 392: 0x394D [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=252*
@@ -3765,28 +3765,28 @@ SUBROUTINE_36A0:
 395: 0x3977 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016)
 396: 0x3980 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 397: 0x3981 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
-398: 0x3986 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8367*]:
+398: 0x3986 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8368*]:
     → "Semih Lafihna, go to Chieftainness Perih Vashai and explain the situation."
 399: 0x398D [0x23] WAIT_FOR_DIALOG_INTERACTION
 400: 0x398E [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=252*
 401: 0x399D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[252*, 0*]
 402: 0x39AE [0x7B] Ajido-Marujido (ID: 17768471/0x010F2017) stops talking
-403: 0x39B3 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8368*]:
+403: 0x39B3 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8369*]:
     → "If something should happen to the Star Sibyl, the Tarutaru will completaruly lose their marbles, not to mention their will to fight."
 404: 0x39BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-405: 0x39BB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8369*]:
+405: 0x39BB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8370*]:
     → "And you can bet the Yagudo will choose that exactaru moment to attack. Windurst will be annihilated before you can spit outaru "deranged, drooling dhalmels"..."
 406: 0x39C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x39C3 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [EventEntity, EventEntity], work=252*
 408: 0x39D2 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x4E)
 409: 0x39D9 [0x7B] Semih Lafihna (ID: 17768470/0x010F2016) stops talking
 410: 0x39DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x09)
-411: 0x39E5 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8370*]:
+411: 0x39E5 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8371*]:
     → "The Mithra must be ready to take the front line in such a battle. Your strength and prowess will be sorely needed, Semih Lafihna."
 412: 0x39EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 413: 0x39ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0A)
 414: 0x39F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0C)
-415: 0x39FB [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8371*]:
+415: 0x39FB [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8372*]:
     → "...I understand. I will confer with Chieftainness Perih Vashai and prepare for a Yagudo attack."
 416: 0x3A02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x3A03 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0D)
@@ -3800,7 +3800,7 @@ SUBROUTINE_36A0:
 425: 0x3A4F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x7E)
 426: 0x3A56 [0x1C] WAIT(30* ticks)
 427: 0x3A59 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at LocalPlayer (Basic look)
-428: 0x3A63 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8372*]:
+428: 0x3A63 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8373*]:
     → "But do your utmost to make sure that such an attack doesn't happen, Minister Ajido-Marujido..."
 429: 0x3A6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x3A6B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -3818,47 +3818,47 @@ SUBROUTINE_36A0:
 442: 0x3AD3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0C)
 443: 0x3ADA [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Apururu (ID: 17768543/0x010F205F)
 444: 0x3AE3 [0x79] Apururu (ID: 17768543/0x010F205F) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
-445: 0x3AED [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8373*]:
+445: 0x3AED [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8374*]:
     → "And lastaruly... Apururu, we were talking about the possibility of disabling the Cardians. Can it really be done?"
 446: 0x3AF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 447: 0x3AF5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[252*, 0*]
 448: 0x3B06 [0x4A] Apururu (ID: 17768543/0x010F205F) looks at Ajido-Marujido (ID: 17768471/0x010F2017)
 449: 0x3B0F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 450: 0x3B10 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Apururu (ID: 17768543/0x010F205F) Render.Flags0 and Render.Flags3 conditions are met
-451: 0x3B15 [0x2B] Apururu (ID: 17768543/0x010F205F) [8374*]:
+451: 0x3B15 [0x2B] Apururu (ID: 17768543/0x010F205F) [8375*]:
     → "...Yes, I believe it can. If the mana orbs within the Cardians are struck with a strong enough blasty-wast of the Stars and the Moon, their motive systems will be disruptarued."
 452: 0x3B1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x3B1D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x17)
 454: 0x3B24 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x01)
-455: 0x3B2B [0x2B] Apururu (ID: 17768543/0x010F205F) [8375*]:
+455: 0x3B2B [0x2B] Apururu (ID: 17768543/0x010F205F) [8376*]:
     → "This disruption will only last a short while, but during that time they will be completely doozy-woozy and unable to act."
 456: 0x3B32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x3B33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x02)
 458: 0x3B3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x18)
 459: 0x3B41 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=252*
 460: 0x3B50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[252*, 0*]
-461: 0x3B61 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8376*]:
+461: 0x3B61 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8377*]:
     → "A sliver-wiver of time in which to rescue the Star Sibyl..."
 462: 0x3B68 [0x23] WAIT_FOR_DIALOG_INTERACTION
 463: 0x3B69 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x19)
-464: 0x3B70 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8377*]:
+464: 0x3B70 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8378*]:
     → "But where do we find such a source of power? And will you be capable of wielding it?"
 465: 0x3B77 [0x23] WAIT_FOR_DIALOG_INTERACTION
 466: 0x3B78 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x1A)
 467: 0x3B7F [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x24)
-468: 0x3B86 [0x2B] Apururu (ID: 17768543/0x010F205F) [8378*]:
+468: 0x3B86 [0x2B] Apururu (ID: 17768543/0x010F205F) [8379*]:
     → "Don't worry about me, dear brother! I learned a few new things while you were lostaru to us!"
 469: 0x3B8D [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x3B8E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17768543/0x010F205F))
 471: 0x3B94 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [EventEntity, EventEntity], work=252*
 472: 0x3BA3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[252*, 0*]
 473: 0x3BB4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0D)
-474: 0x3BBB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8379*]:
+474: 0x3BBB [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8380*]:
     → "Hrmph. Taught a few black arts by a certain Tarutaru is more like it."
 475: 0x3BC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 476: 0x3BC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0F)
 477: 0x3BCA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x0B)
-478: 0x3BD1 [0x2B] Apururu (ID: 17768543/0x010F205F) [8380*]:
+478: 0x3BD1 [0x2B] Apururu (ID: 17768543/0x010F205F) [8381*]:
     → "No...nothing like that! Rightaru, I must be going!"
 479: 0x3BD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 480: 0x3BD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x0C)
@@ -3873,7 +3873,7 @@ SUBROUTINE_36A0:
 489: 0x3C1E [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=252*
 490: 0x3C2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[252*, 0*]
 491: 0x3C3E [0x1C] WAIT(60* ticks)
-492: 0x3C41 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8381*]:
+492: 0x3C41 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8382*]:
     → "Don't go hurting yourself, Apururu."
 493: 0x3C48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 494: 0x3C49 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [EventEntity, EventEntity], work=252*
@@ -3890,23 +3890,23 @@ SUBROUTINE_36A0:
 505: 0x3CC1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x80)
 506: 0x3CC8 [0x79] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016) (Basic look)
 507: 0x3CD2 [0x7C] Ajido-Marujido (ID: 17768471/0x010F2017)->Render.Flags2 |= 0x00
-508: 0x3CD8 [0x48] [System] [8382*]:
+508: 0x3CD8 [0x48] [System] [8383*]:
     → "(Something just doesn't make sense...)"
 509: 0x3CDB [0x23] WAIT_FOR_DIALOG_INTERACTION
 510: 0x3CDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[252*, 0*]
 511: 0x3CED [0x7B] Ajido-Marujido (ID: 17768471/0x010F2017) stops talking
-512: 0x3CF2 [0x48] [System] [8383*]:
+512: 0x3CF2 [0x48] [System] [8384*]:
     → "(Karaha-Baruha... How could a genius like you not realize the art of complete summoning would rob you of your life?)"
 513: 0x3CF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 514: 0x3CF6 [0x1C] WAIT(200* ticks)
 515: 0x3CF9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 516: 0x3D0A [0x1C] WAIT(100* ticks)
 517: 0x3D0D [0x7C] Ajido-Marujido (ID: 17768471/0x010F2017)->Render.Flags2 |= 0x01
-518: 0x3D13 [0x48] [System] [8384*]:
+518: 0x3D13 [0x48] [System] [8385*]:
     → "(...But if...)"
 519: 0x3D16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 520: 0x3D17 [0x1C] WAIT(100* ticks)
-521: 0x3D1A [0x48] [System] [8385*]:
+521: 0x3D1A [0x48] [System] [8386*]:
     → "(But if you had foreseen that outcome, what if you had predictarued this entire scenario...?)"
 522: 0x3D1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 523: 0x3D1E [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=252*
@@ -4108,7 +4108,7 @@ SUBROUTINE_3D4E:
  35: 0x3E41 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  36: 0x3E42 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
  37: 0x3E47 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x5E)
- 38: 0x3E4E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8386*]:
+ 38: 0x3E4E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8387*]:
     → "<Player>!"
  39: 0x3E55 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x3E56 [0x1C] WAIT(80* ticks)
@@ -4117,18 +4117,18 @@ SUBROUTINE_3D4E:
  43: 0x3E79 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [EventEntity, EventEntity], work=[252*, 0*]
  44: 0x3E8A [0x1C] WAIT(40* ticks)
  45: 0x3E8D [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
- 46: 0x3E97 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8387*]:
+ 46: 0x3E97 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8388*]:
     → "...You made it back in time."
  47: 0x3E9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x3E9F [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
  49: 0x3EA5 [0x79] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016) (Basic look)
- 50: 0x3EAF [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8388*]:
+ 50: 0x3EAF [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8389*]:
     → "<Player> is no ordinary adventurer, Semih Lafihna."
  51: 0x3EB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x3EB7 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=252*
  53: 0x3EC6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[252*, 0*]
  54: 0x3ED7 [0x7B] Semih Lafihna (ID: 17768470/0x010F2016) stops talking
- 55: 0x3EDC [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8389*]:
+ 55: 0x3EDC [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8390*]:
     → "So it would seem."
  56: 0x3EE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x3EE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4148,21 +4148,21 @@ SUBROUTINE_3D4E:
  71: 0x3F57 [0x52] END_LOAD_SCHEDULER: End scheduler "s073" with entities [EventEntity, EventEntity], work=252*
  72: 0x3F66 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[252*, 0*]
  73: 0x3F77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x09)
- 74: 0x3F7E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8390*]:
+ 74: 0x3F7E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8391*]:
     → "We've been waiting for you. Actually, we were slightaruly worried you wouldn't be able to gather all the verses before the show started."
  75: 0x3F85 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x3F86 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8391*]:
+ 76: 0x3F86 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8392*]:
     → "While you've been out hop-popping all over the place, we've had a message from the King of the Yagudo announcing the imminentaru abolishment of the peace treaty."
  77: 0x3F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x3F8E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0A)
  79: 0x3F95 [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [EventEntity, EventEntity], work=252*
  80: 0x3FA4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  81: 0x3FB5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[252*, 0*]
- 82: 0x3FC6 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8392*]:
+ 82: 0x3FC6 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8393*]:
     → "You realize what this means, don't you? Abolishing the peace treaty is akin to a declaration of war."
  83: 0x3FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x3FCE [0x79] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016) (Basic look)
- 85: 0x3FD8 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8393*]:
+ 85: 0x3FD8 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8394*]:
     → "If we don't send a reply surrendering control of the Horutoto Ruins within the period stated, we can consider ourselves at war with the Yagudo. Very little time remains to us..."
  86: 0x3FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x3FE0 [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [EventEntity, EventEntity], work=252*
@@ -4170,24 +4170,24 @@ SUBROUTINE_3D4E:
  89: 0x4000 [0x7B] Ajido-Marujido (ID: 17768471/0x010F2017) stops talking
  90: 0x4005 [0x1C] WAIT(60* ticks)
  91: 0x4008 [0x79] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
- 92: 0x4012 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8394*]:
+ 92: 0x4012 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8395*]:
     → "And to Joker's lifespan as well, I should imagine..."
  93: 0x4019 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x401A [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
  95: 0x4024 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s076" with entities [EventEntity, EventEntity], work=252*
- 96: 0x4033 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8395*]:
+ 96: 0x4033 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8396*]:
     → "...What do you mean by that?"
  97: 0x403A [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x403B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[252*, 0*]
  99: 0x404C [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017)
 100: 0x4055 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x5F)
-101: 0x405C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8396*]:
+101: 0x405C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8397*]:
     → "A doll only lives a certain amountaru of time corresponding to the amountaru of magic its creator poured into it during creation."
 102: 0x4063 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x4064 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
 104: 0x406A [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [EventEntity, EventEntity], work=252*
 105: 0x4079 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[252*, 0*]
-106: 0x408A [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8397*]:
+106: 0x408A [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8398*]:
     → "I asked the children at the port about the date of Joker's resurrection. I did some calculations..."
 107: 0x4091 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x4092 [0x52] END_LOAD_SCHEDULER: End scheduler "s078" with entities [EventEntity, EventEntity], work=252*
@@ -4195,11 +4195,11 @@ SUBROUTINE_3D4E:
 110: 0x40B2 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016)
 111: 0x40BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 112: 0x40BC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
-113: 0x40C1 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8398*]:
+113: 0x40C1 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8399*]:
     → "And from what the results tell me, it would seem that Joker's clock will soon tick its last tock. Joker is probably also well aware of his predicamentaru."
 114: 0x40C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x40C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x01)
-116: 0x40D0 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8399*]:
+116: 0x40D0 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8400*]:
     → "Just a moment, Ajido-Marujido. What does the time remaining to Joker have to do with the deadline given to us by the Yagudo?"
 117: 0x40D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x40D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x02)
@@ -4207,24 +4207,24 @@ SUBROUTINE_3D4E:
 120: 0x40EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[252*, 0*]
 121: 0x40FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x04)
 122: 0x4106 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x60)
-123: 0x410D [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8400*]:
+123: 0x410D [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8401*]:
     → "The Cardians and the Yagudo have some kind of deal going on. You really should have noticed it by now."
 124: 0x4114 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x4115 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
 126: 0x411B [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=252*
 127: 0x412A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[252*, 0*]
 128: 0x413B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x09)
-129: 0x4142 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8401*]:
+129: 0x4142 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8402*]:
     → "Think about the incidentaru where the talisman was stolen from the Chamber of Light. That room can only be opened by myself, a Cardian, or a representative of Heavens Tower."
 130: 0x4149 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x414A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0A)
 132: 0x4151 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0B)
-133: 0x4158 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8402*]:
+133: 0x4158 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8403*]:
     → "To top it off, this treaty business comes at the worstaru possible time for us."
 134: 0x415F [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x4160 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0C)
 136: 0x4167 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x09)
-137: 0x416E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8403*]:
+137: 0x416E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8404*]:
     → "Either they know that the Star Sibyl is missing, or that Windurst is particularly vulnerable right now..."
 138: 0x4175 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x4176 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0A)
@@ -4237,7 +4237,7 @@ SUBROUTINE_3D4E:
 146: 0x41C6 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x83)
 147: 0x41CD [0x1C] WAIT(15* ticks)
 148: 0x41D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-149: 0x41E1 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8404*]:
+149: 0x41E1 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8405*]:
     → "Are you saying that the Star Sibyl has fallen into the Yagudo's talons!?"
 150: 0x41E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x41E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0C)
@@ -4245,11 +4245,11 @@ SUBROUTINE_3D4E:
 153: 0x41F6 [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [EventEntity, EventEntity], work=252*
 154: 0x4205 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[252*, 0*]
 155: 0x4216 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Semih Lafihna (ID: 17768470/0x010F2016)
-156: 0x421C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8405*]:
+156: 0x421C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8406*]:
     → "No, no. Think about it. If that was the case they wouldn'taru have given us a deadline. The Yagudo are simply waiting for Joker to expire."
 157: 0x4223 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x4224 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x17)
-159: 0x422B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8406*]:
+159: 0x422B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8407*]:
     → "This is justaru speculation on my part, but I would say relations between the Yagudo and the Cardians wentaru decidedly downhill after Joker took up the Cardian crown."
 160: 0x4232 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x4233 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x18)
@@ -4259,7 +4259,7 @@ SUBROUTINE_3D4E:
 165: 0x4260 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x84)
 166: 0x4267 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
 167: 0x426D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x19)
-168: 0x4274 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8407*]:
+168: 0x4274 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8408*]:
     → "...But wait! That doesn't make any sense! Does this mean Joker is friend or foe, good or evil...?"
 169: 0x427B [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x427C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x1A)
@@ -4272,12 +4272,12 @@ SUBROUTINE_3D4E:
 177: 0x42C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 178: 0x42C3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
 179: 0x42C8 [0x7B] Ajido-Marujido (ID: 17768471/0x010F2017) stops talking
-180: 0x42CD [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8408*]:
+180: 0x42CD [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8409*]:
     → "It's entirely possible that he is neither friend nor foe."
 181: 0x42D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x42D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 183: 0x42E6 [0x1C] WAIT(60* ticks)
-184: 0x42E9 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8409*]:
+184: 0x42E9 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8410*]:
     → "Appearing at night, and fading with the day... Justaru like the will of the Great Beast..."
 185: 0x42F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x42F1 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=252*
@@ -4292,7 +4292,7 @@ SUBROUTINE_3D4E:
 195: 0x4331 [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at Apururu (ID: 17768543/0x010F205F)
 196: 0x433A [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Apururu (ID: 17768543/0x010F205F)
 197: 0x4343 [0x1C] WAIT(30* ticks)
-198: 0x4346 [0x2B] Apururu (ID: 17768543/0x010F205F) [8410*]:
+198: 0x4346 [0x2B] Apururu (ID: 17768543/0x010F205F) [8411*]:
     → "Ajido-Marujido! It's ready at lastaru!"
 199: 0x434D [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x434E [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17768543/0x010F205F))
@@ -4304,7 +4304,7 @@ SUBROUTINE_3D4E:
 206: 0x438D [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at Apururu (ID: 17768543/0x010F205F)
 207: 0x4396 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Apururu (ID: 17768543/0x010F205F)
 208: 0x439F [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x29)
-209: 0x43A6 [0x2B] Apururu (ID: 17768543/0x010F205F) [8411*]:
+209: 0x43A6 [0x2B] Apururu (ID: 17768543/0x010F205F) [8412*]:
     → "We didn't have time to test it, but I had the help of three professors! It should work perfectaruly!"
 210: 0x43AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x43AE [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17768543/0x010F205F))
@@ -4312,7 +4312,7 @@ SUBROUTINE_3D4E:
 213: 0x43BD [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 214: 0x43C7 [0x4A] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017)
 215: 0x43D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0D)
-216: 0x43D7 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8412*]:
+216: 0x43D7 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8413*]:
     → "Hrm. With three professors helping you, there's little chance of it not working. It's the chance that they were a little over-enthusiastic that worries me..."
 217: 0x43DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x43DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0E)
@@ -4322,7 +4322,7 @@ SUBROUTINE_3D4E:
 222: 0x43FD [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=252*
 223: 0x440C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[252*, 0*]
 224: 0x441D [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x62)
-225: 0x4424 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8413*]:
+225: 0x4424 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8414*]:
     → "Well, we've done everything that we can."
 226: 0x442B [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x442C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
@@ -4332,14 +4332,14 @@ SUBROUTINE_3D4E:
 231: 0x445B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 232: 0x445C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
 233: 0x4461 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0D)
-234: 0x4468 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8414*]:
+234: 0x4468 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8415*]:
     → "There's little pointaru to sitting around imagining what's going to happen. Only time will tell."
 235: 0x446F [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x4470 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0E)
 237: 0x4477 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
 238: 0x447C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 239: 0x448D [0x1C] WAIT(100* ticks)
-240: 0x4490 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8415*]:
+240: 0x4490 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8416*]:
     → "The momentaru has come! To the Full Moon Fountain!"
 241: 0x4497 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x4498 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0F)
@@ -4578,10 +4578,10 @@ SUBROUTINE_44C0:
  20: 0x454A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  21: 0x455B [0x79] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
  22: 0x4565 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x53)
- 23: 0x456C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8458*]:
+ 23: 0x456C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8459*]:
     → "<Player>."
  24: 0x4573 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x4574 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8459*]:
+ 25: 0x4574 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8460*]:
     → "The Star Sibyl is resting. The ceremony at the Full Moon Fountain has drained her. It will probably be some time until she recovers."
  26: 0x457B [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x457C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
@@ -4597,17 +4597,17 @@ SUBROUTINE_44C0:
  37: 0x45DE [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=249*
  38: 0x45ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  39: 0x45FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [EventEntity, EventEntity], work=[249*, 0*]
- 40: 0x460F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8460*]:
+ 40: 0x460F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8461*]:
     → "Along with Joker, all of the Cardians that were in that place have returned to nothing more than ordinary puppets."
  41: 0x4616 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x4617 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [EventEntity, EventEntity], work=249*
  43: 0x4626 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [EventEntity, EventEntity], work=[249*, 0*]
  44: 0x4637 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x67)
- 45: 0x463E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8461*]:
+ 45: 0x463E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8462*]:
     → "The power of the Stars and the Moon that was stored in their Mana Orbs, the small amountaru of that same energy left in the fountain, and the magic of the Star Sibyl's Diza Star..."
  46: 0x4645 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x4646 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
- 48: 0x464C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8462*]:
+ 48: 0x464C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8463*]:
     → "All of it was consumed to revive the Great Beast, Fenrir."
  49: 0x4653 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x4654 [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [EventEntity, EventEntity], work=249*
@@ -4616,18 +4616,18 @@ SUBROUTINE_44C0:
  53: 0x467B [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at LocalPlayer
  54: 0x4684 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  55: 0x4685 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
- 56: 0x468A [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8463*]:
+ 56: 0x468A [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8464*]:
     → "That is the Moon Reading... The power to grantaru wishes."
  57: 0x4691 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x4692 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x17)
- 59: 0x4699 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8464*]:
+ 59: 0x4699 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8465*]:
     → "It may take some time until Fenrir is back to his legendary strength, however..."
  60: 0x46A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x46A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x18)
  62: 0x46A8 [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [EventEntity, EventEntity], work=249*
  63: 0x46B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[249*, 0*]
  64: 0x46C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x19)
- 65: 0x46CF [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8465*]:
+ 65: 0x46CF [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8466*]:
     → "Windurst has regained the protection of the Stars and the Moon. Our fair land will once again be visitarued by serene, twinkling evenings and peaceful dreams."
  66: 0x46D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x46D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x1A)
@@ -4644,20 +4644,20 @@ SUBROUTINE_44C0:
  78: 0x473D [0x1C] WAIT(100* ticks)
  79: 0x4740 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Semih Lafihna (ID: 17768470/0x010F2016)
  80: 0x4749 [0x4A] LocalPlayer looks at Semih Lafihna (ID: 17768470/0x010F2016)
- 81: 0x4752 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8466*]:
+ 81: 0x4752 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8467*]:
     → "Ajido-Marujido. <Player>."
  82: 0x4759 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x475A [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=249*
  84: 0x4769 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [EventEntity, EventEntity], work=[249*, 0*]
  85: 0x477A [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
  86: 0x4784 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x68)
- 87: 0x478B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8467*]:
+ 87: 0x478B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8468*]:
     → "Semih Lafihna. You're back. I bet those Yagudo were screeching for blood."
  88: 0x4792 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x4793 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
  90: 0x4799 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
  91: 0x479F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0C)
- 92: 0x47A6 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8468*]:
+ 92: 0x47A6 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8469*]:
     → "Yes, that's why I went to slap them across their collective beaks with their "rrrevisions.""
  93: 0x47AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x47AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0D)
@@ -4672,7 +4672,7 @@ SUBROUTINE_44C0:
 
 SUBROUTINE_480D:
 103: 0x480D [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x8A)
-104: 0x4814 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8469*]:
+104: 0x4814 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8470*]:
     → "Now that the Great Beast is back, they won't be trying to get their filthy talons on the Horutoto Ruins."
 105: 0x481B [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x481C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17768470/0x010F2016))
@@ -4690,10 +4690,10 @@ SUBROUTINE_486E:
 116: 0x487F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 117: 0x4880 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
 118: 0x4885 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0D)
-119: 0x488C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8470*]:
+119: 0x488C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8471*]:
     → "They're a careful bunch, that's for sure. Now that the Ace Cardians are gone, we can assume they'll hold back on abolishing the peace treaty as well."
 120: 0x4893 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x4894 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8471*]:
+121: 0x4894 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8472*]:
     → "But you know they won'taru give up on the ruins that easily."
 122: 0x489B [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x489C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0E)
@@ -4703,7 +4703,7 @@ SUBROUTINE_486E:
 127: 0x48B2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17768470/0x010F2016) Render.Flags0 and Render.Flags3 conditions are met
 128: 0x48B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0F)
 129: 0x48BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0C)
-130: 0x48C5 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8472*]:
+130: 0x48C5 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8473*]:
     → "That is true. But we no longer have any reason to cower from them..."
 131: 0x48CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x48CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x0D)
@@ -4713,28 +4713,28 @@ SUBROUTINE_486E:
 136: 0x48FB [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017)
 137: 0x4904 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 138: 0x4905 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Semih Lafihna (ID: 17768470/0x010F2016) Render.Flags0 and Render.Flags3 conditions are met
-139: 0x490A [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8473*]:
+139: 0x490A [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8474*]:
     → "The Star Sibyl has been freed. ...Isn't that right, Ajido-Marujido?"
 140: 0x4911 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x4912 [0x79] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
-142: 0x491C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8474*]:
+142: 0x491C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8475*]:
     → "She has found us a new guiding star."
 143: 0x4923 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x4924 [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [EventEntity, EventEntity], work=249*
 145: 0x4933 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [EventEntity, EventEntity], work=[249*, 0*]
 146: 0x4944 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x17)
-147: 0x494B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8475*]:
+147: 0x494B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8476*]:
     → "It's strange, but I feel like I've been freed as well... Freed from the spell Karaha-Baruha had over me."
 148: 0x4952 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x4953 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x18)
 150: 0x495A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x19)
-151: 0x4961 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8476*]:
+151: 0x4961 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8477*]:
     → "It was almostaru as if I was having my strings pulled by the research left by the great genius..."
 152: 0x4968 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x4969 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x1A)
 154: 0x4970 [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=249*
 155: 0x497F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[249*, 0*]
-156: 0x4990 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8477*]:
+156: 0x4990 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8478*]:
     → "My theory is that he had predictarued a talented mage like myself would come to prominence after his death."
 157: 0x4997 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x4998 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4749,7 +4749,7 @@ SUBROUTINE_486E:
 167: 0x49F6 [0x4A] LocalPlayer looks at Apururu (ID: 17768543/0x010F205F)
 168: 0x49FF [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Apururu (ID: 17768543/0x010F205F)
 169: 0x4A08 [0x4A] Semih Lafihna (ID: 17768470/0x010F2016) looks at Apururu (ID: 17768543/0x010F205F)
-170: 0x4A11 [0x2B] Apururu (ID: 17768543/0x010F205F) [8478*]:
+170: 0x4A11 [0x2B] Apururu (ID: 17768543/0x010F205F) [8479*]:
     → "You flattaru yourself, dear Brother. Karaha-Baruha was more likely aware that a naive, shorty-worty-tempered wizard like you would come along eventually."
 171: 0x4A18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x4A19 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17768543/0x010F205F))
@@ -4767,11 +4767,11 @@ SUBROUTINE_486E:
 184: 0x4A52 [0x79] Apururu (ID: 17768543/0x010F205F) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 185: 0x4A5C [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [EventEntity, EventEntity], work=249*
 186: 0x4A6B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[249*, 0*]
-187: 0x4A7C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8479*]:
+187: 0x4A7C [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8480*]:
     → "What's with you, Apururu? You've got a smartaru mouth on you today."
 188: 0x4A83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x4A84 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0D)
-190: 0x4A8B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8480*]:
+190: 0x4A8B [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8481*]:
     → "Things never would've gotten this bad if you wishy-washy slowpokes at the Manustery had done something about the rogue Cardians earlier."
 191: 0x4A92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x4A93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0E)
@@ -4780,14 +4780,14 @@ SUBROUTINE_486E:
 195: 0x4AB0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [EventEntity, EventEntity], work=[249*, 0*]
 196: 0x4AC1 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
 197: 0x4AC7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x15)
-198: 0x4ACE [0x2B] Apururu (ID: 17768543/0x010F205F) [8481*]:
+198: 0x4ACE [0x2B] Apururu (ID: 17768543/0x010F205F) [8482*]:
     → "Hmph. Keep talking to me like that, and you'll never get your $3 back."
 199: 0x4AD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x4AD6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x16)
 201: 0x4ADD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x10)
 202: 0x4AE4 [0x7B] Semih Lafihna (ID: 17768470/0x010F2016) stops talking
 203: 0x4AE9 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x6B)
-204: 0x4AF0 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8482*]:
+204: 0x4AF0 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8483*]:
     → "Ah, finally. Without that ring, I can'taru get into the Minister's Chambers. Not being able to get into my own room is going to do wonders for my reputation as a formidable spell-slinger!"
 205: 0x4AF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x4AF8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
@@ -4812,7 +4812,7 @@ SUBROUTINE_486E:
 
 SUBROUTINE_4BBF:
 225: 0x4BBF [0x1C] WAIT(40* ticks)
-226: 0x4BC2 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8483*]:
+226: 0x4BC2 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8484*]:
     → "<Player>, what was it that Joker said to you? "It was your will that led us to this moment.""
 227: 0x4BC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x4BCA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -4828,11 +4828,11 @@ SUBROUTINE_4BBF:
 SUBROUTINE_4C13:
 237: 0x4C13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [EventEntity, EventEntity], work=[249*, 0*]
 238: 0x4C24 [0x4A] LocalPlayer looks at Semih Lafihna (ID: 17768470/0x010F2016)
-239: 0x4C2D [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8484*]:
+239: 0x4C2D [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8485*]:
     → "It was your resolution that brought a new beginning for a Windurst that had lost its future."
 240: 0x4C34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x4C35 [0x7B] Semih Lafihna (ID: 17768470/0x010F2016) stops talking
-242: 0x4C3A [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8485*]:
+242: 0x4C3A [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8486*]:
     → "Where will your determination take you next, I wonder?"
 243: 0x4C41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x4C42 [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=249*
@@ -4851,7 +4851,7 @@ SUBROUTINE_4C13:
 257: 0x4CC1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [EventEntity, EventEntity], work=[249*, 0*]
 
 SUBROUTINE_4CD2:
-258: 0x4CD2 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8486*]:
+258: 0x4CD2 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8487*]:
     → "Your actions could affect all of us here in Windurst--and those across the breadth of Vana'diel. What do you want to accomplish?"
 259: 0x4CD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x4CDA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -4876,7 +4876,7 @@ SUBROUTINE_4D65:
 277: 0x4D87 [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at LocalPlayer (Basic look)
 278: 0x4D91 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at LocalPlayer
 279: 0x4D9A [0x4A] Apururu (ID: 17768543/0x010F205F) looks at LocalPlayer
-280: 0x4DA3 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8487*]:
+280: 0x4DA3 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8488*]:
     → "...Hehehe, there's no need to answer that. The time will come when your determination will bring you the answers you need."
 281: 0x4DAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x4DAB [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=249*
@@ -4884,20 +4884,20 @@ SUBROUTINE_4D65:
 284: 0x4DCB [0x79] Semih Lafihna (ID: 17768470/0x010F2016) looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 285: 0x4DD5 [0x79] LocalPlayer looks at Ajido-Marujido (ID: 17768471/0x010F2017) (Basic look)
 286: 0x4DDF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x09)
-287: 0x4DE6 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8488*]:
+287: 0x4DE6 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8489*]:
     → "If you need any more work, come on over to the Orastery. We have the budgetaru to employ one or two people for experimental purposes."
 288: 0x4DED [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x4DEE [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [EventEntity, EventEntity], work=249*
 290: 0x4DFD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 291: 0x4E0E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[249*, 0*]
 292: 0x4E1F [0x4A] LocalPlayer looks at Apururu (ID: 17768543/0x010F205F)
-293: 0x4E28 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8489*]:
+293: 0x4E28 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8490*]:
     → "There are a few new spells I learned from the Book of the Gods that I've been dying to try. I guarantee it'll be a fascinataruing experience."
 294: 0x4E2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x4E30 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0A)
 296: 0x4E37 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0B)
 297: 0x4E3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17768543/0x010F205F), tag_num=0x0D)
-298: 0x4E45 [0x2B] Apururu (ID: 17768543/0x010F205F) [8490*]:
+298: 0x4E45 [0x2B] Apururu (ID: 17768543/0x010F205F) [8491*]:
     → "And you could lend us a hand to bring in all the roguey-wogue Cardians still wandering around the Horutoto Ruins. See you soon, adventurer!"
 299: 0x4E4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 300: 0x4E4D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x0C)
@@ -4919,16 +4919,16 @@ SUBROUTINE_4D65:
 316: 0x4EE1 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [EventEntity, EventEntity], work=249*
 317: 0x4EF0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 318: 0x4F01 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [EventEntity, EventEntity], work=[249*, 0*]
-319: 0x4F12 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8491*]:
+319: 0x4F12 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8492*]:
     → "It's time I should be going as well. Don't forget to visit the Star Sibyl before you leave."
 320: 0x4F19 [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x4F1A [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8492*]:
+321: 0x4F1A [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8493*]:
     → "Before taking her rest, she mentioned she wanted to talk with you."
 322: 0x4F21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x4F22 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [EventEntity, EventEntity], work=249*
 324: 0x4F31 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[249*, 0*]
 325: 0x4F42 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x01)
-326: 0x4F49 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8493*]:
+326: 0x4F49 [0x2B] Semih Lafihna (ID: 17768470/0x010F2016) [8494*]:
     → "Well, <Player>. Until the day we once again fight side by side, may the fire in your eyes never fade..."
 327: 0x4F50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x4F51 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17768470/0x010F2016), tag_num=0x02)
@@ -5100,7 +5100,7 @@ SUBROUTINE_4D65:
  27: 0x507D [0x4A] Star Sibyl (ID: 17768477/0x010F201D) looks at LocalPlayer
  28: 0x5086 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  29: 0x5087 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Star Sibyl (ID: 17768477/0x010F201D) Render.Flags0 and Render.Flags3 conditions are met
- 30: 0x508C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8494*]:
+ 30: 0x508C [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8495*]:
     → "<Player>..."
  31: 0x5093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x5094 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -5113,7 +5113,7 @@ SUBROUTINE_4D65:
  39: 0x50D3 [0x7B] Star Sibyl (ID: 17768477/0x010F201D) stops talking
  40: 0x50D8 [0x1C] WAIT(10* ticks)
  41: 0x50DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 42: 0x50EC [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8495*]:
+ 42: 0x50EC [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8496*]:
     → "I am glad to see you are well. We have not spoken since the events at the fountain, and I have been concerned for you."
  43: 0x50F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x50F4 [0x2A] GET_REQ_LEVEL(level=13, entity_id=LocalPlayer)
@@ -5131,7 +5131,7 @@ SUBROUTINE_4D65:
 
 SUBROUTINE_516C:
  56: 0x516C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 57: 0x517D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8496*]:
+ 57: 0x517D [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8497*]:
     → "The words of the Great Beast found their way to your heart as well, I am sure."
  58: 0x5184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x5185 [0x02] IF !(Work_Zone[8] == 5*) GOTO 0x519F
@@ -5146,7 +5146,7 @@ SUBROUTINE_51C8:
  66: 0x51C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  67: 0x51D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [EventEntity, EventEntity], work=[249*, 0*]
  68: 0x51EA [0x7B] Star Sibyl (ID: 17768477/0x010F201D) stops talking
- 69: 0x51EF [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8497*]:
+ 69: 0x51EF [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8498*]:
     → "Fenrir has promised a new beginning for Windurst."
  70: 0x51F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x51F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -5155,7 +5155,7 @@ SUBROUTINE_51C8:
  74: 0x521A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [EventEntity, EventEntity], work=[249*, 0*]
  75: 0x522B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  76: 0x523C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x13)
- 77: 0x5243 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8498*]:
+ 77: 0x5243 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8499*]:
     → "But it is only a beginning. With the loss of the Diza Star's power, I can no longer perform the Moon or Star Readings..."
  78: 0x524A [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x524B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -5163,7 +5163,7 @@ SUBROUTINE_51C8:
  81: 0x5261 [0x1C] WAIT(100* ticks)
  82: 0x5264 [0x52] END_LOAD_SCHEDULER: End scheduler "s097" with entities [EventEntity, EventEntity], work=249*
  83: 0x5273 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x14)
- 84: 0x527A [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8499*]:
+ 84: 0x527A [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8500*]:
     → "I can no longer foresee what fate awaits our dear Windurst. The star that was there to guide me is no more..."
  85: 0x5281 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x5282 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x1B)
@@ -5171,12 +5171,12 @@ SUBROUTINE_51C8:
  88: 0x529A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  89: 0x52AB [0x7B] Star Sibyl (ID: 17768477/0x010F201D) stops talking
  90: 0x52B0 [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x8B)
- 91: 0x52B7 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8500*]:
+ 91: 0x52B7 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8501*]:
     → "But do not worry for me, <Player>. I will strive onwards."
  92: 0x52BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x52BF [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17768477/0x010F201D))
  94: 0x52C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x07)
- 95: 0x52CC [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8501*]:
+ 95: 0x52CC [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8502*]:
     → "Thanks to you, I have found the path that I must take."
  96: 0x52D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x52D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -5187,7 +5187,7 @@ SUBROUTINE_51C8:
 102: 0x52FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[249*, 0*]
 103: 0x5310 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 104: 0x5321 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x08)
-105: 0x5328 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8502*]:
+105: 0x5328 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8503*]:
     → "I am governed by the citizens of Windurst. My role lies in finding the way that provides for their happiness."
 106: 0x532F [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x5330 [0x52] END_LOAD_SCHEDULER: End scheduler "s099" with entities [EventEntity, EventEntity], work=249*
@@ -5202,7 +5202,7 @@ SUBROUTINE_51C8:
 
 SUBROUTINE_5399:
 116: 0x5399 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x01)
-117: 0x53A0 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8503*]:
+117: 0x53A0 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8504*]:
     → "...<Player>. You, too, are a citizen of Windurst. And one of the brightest stars that lights my way."
 118: 0x53A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x53A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -5219,14 +5219,14 @@ SUBROUTINE_5399:
 SUBROUTINE_5406:
 129: 0x5406 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x59)
 130: 0x540D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x03)
-131: 0x5414 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8504*]:
+131: 0x5414 [0x2B] Star Sibyl (ID: 17768477/0x010F201D) [8505*]:
     → "Let us walk that path together. Away from all that has ended and towards everything that has begun..."
 132: 0x541B [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x541C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17768477/0x010F201D), tag_num=0x04)
 134: 0x5423 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
 135: 0x5429 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 136: 0x543A [0x1C] WAIT(100* ticks)
-137: 0x543D [0x48] [System] [8505*]:
+137: 0x543D [0x48] [System] [8506*]:
     → "We will lead Windurst onwards to a new future."
 138: 0x5440 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x5441 [0x02] IF !(Work_Zone[8] == 3*) GOTO 0x545B

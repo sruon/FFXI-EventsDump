@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CDF      |        7391 |
+|       1 | 0x1CE0      |        7392 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x00C8      |         200 |
 |       4 | 0x001B      |          27 |
@@ -38,7 +38,7 @@
 
 ## String References
 
-- **7391**: Enter the sanctorium? [Yes./No.]
+- **7392**: Enter the sanctorium? [Yes./No.]
 
 ## Events
 
@@ -99,7 +99,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 0*
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7391*, default_option=1*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7392*, default_option=1*, option_flags=0*)
     → "Enter the sanctorium? [Yes./No.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F0

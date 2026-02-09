@@ -35,31 +35,31 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2379      |        9081 |
-|       3 | 0x237A      |        9082 |
-|       4 | 0x2382      |        9090 |
-|       5 | 0x2396      |        9110 |
-|       6 | 0x2397      |        9111 |
-|       7 | 0x239A      |        9114 |
-|       8 | 0x239B      |        9115 |
-|       9 | 0x23A2      |        9122 |
-|      10 | 0x23A3      |        9123 |
-|      11 | 0x23B3      |        9139 |
-|      12 | 0x23B4      |        9140 |
+|       2 | 0x237A      |        9082 |
+|       3 | 0x237B      |        9083 |
+|       4 | 0x2383      |        9091 |
+|       5 | 0x2397      |        9111 |
+|       6 | 0x2398      |        9112 |
+|       7 | 0x239B      |        9115 |
+|       8 | 0x239C      |        9116 |
+|       9 | 0x23A3      |        9123 |
+|      10 | 0x23A4      |        9124 |
+|      11 | 0x23B4      |        9140 |
+|      12 | 0x23B5      |        9141 |
 
 ## String References
 
-- **9081**: Our editor is all fired up...more so than usual.
-- **9082**: All our staff are tired and worn out from our last special report, "What Happened to the Star Reading Ceremony?". He's just wasting his breath and annoying us all.
-- **9090**: There should be a reporter in each of the four districts of Windurst.
-- **9110**: Heh. Looks like we scooped quite a story here.
-- **9111**: We've all got to get cracking now! We've got to get this baby into production!
-- **9114**: No matter how great and sensational the story is, it's totally useless if it turns out to be a bunch of lies.
-- **9115**: A good reporter needs a good nose for uncovering the story, then good legs to go check [his/her] sources. Learn that and you'll go far.
-- **9122**: The Cat Burglar must have smelt a rat... Nanaa Mihgo didn't want us to expose her hideaway, so she stole the story before it could go into circulation. Agh...someone really let the cat outta the bag!
-- **9123**: Aa\`ah! This week's edition of the "Magic Paradise Weekly" is going to be canceled as well. It happens so often, though, that nobody's going to notice anyway...<Sigh>
-- **9139**: The Cat Burglar must have caught wind of us... Nanaa Mihgo didn't want us to expose her hideaway, so she stole the story before it could go into circulation.
-- **9140**: But you did real well to get the magic doll back off of her! It's practically impossible to retrieve anything stolen by the Cat Burglar!
+- **9082**: Our editor is all fired up...more so than usual.
+- **9083**: All our staff are tired and worn out from our last special report, "What Happened to the Star Reading Ceremony?". He's just wasting his breath and annoying us all.
+- **9091**: There should be a reporter in each of the four districts of Windurst.
+- **9111**: Heh. Looks like we scooped quite a story here.
+- **9112**: We've all got to get cracking now! We've got to get this baby into production!
+- **9115**: No matter how great and sensational the story is, it's totally useless if it turns out to be a bunch of lies.
+- **9116**: A good reporter needs a good nose for uncovering the story, then good legs to go check [his/her] sources. Learn that and you'll go far.
+- **9123**: The Cat Burglar must have smelt a rat... Nanaa Mihgo didn't want us to expose her hideaway, so she stole the story before it could go into circulation. Agh...someone really let the cat outta the bag!
+- **9124**: Aa\`ah! This week's edition of the "Magic Paradise Weekly" is going to be canceled as well. It happens so often, though, that nobody's going to notice anyway...<Sigh>
+- **9140**: The Cat Burglar must have caught wind of us... Nanaa Mihgo didn't want us to expose her hideaway, so she stole the story before it could go into circulation.
+- **9141**: But you did real well to get the magic doll back off of her! It's practically impossible to retrieve anything stolen by the Cat Burglar!
 
 ## Events
 
@@ -280,10 +280,10 @@
   1: 0x0071 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0072 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0073 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x01)
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=9081*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=9082*)
     → "Our editor is all fired up...more so than usual."
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=9082*)
+  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=9083*)
     → "All our staff are tired and worn out from our last special report, "What Happened to the Star Reading Ceremony?". He's just wasting his breath and annoying us all."
   7: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0082 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x07)
@@ -339,7 +339,7 @@
   1: 0x0093 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0094 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0095 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x01)
-  4: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=9090*)
+  4: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
     → "There should be a reporter in each of the four districts of Windurst."
   5: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x07)
@@ -373,10 +373,10 @@
   1: 0x00B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x01)
-  4: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
+  4: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
     → "Heh. Looks like we scooped quite a story here."
   5: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
+  6: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
     → "We've all got to get cracking now! We've got to get this baby into production!"
   7: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x07)
@@ -410,10 +410,10 @@
   1: 0x00D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x01)
-  4: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+  4: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
     → "No matter how great and sensational the story is, it's totally useless if it turns out to be a bunch of lies."
   5: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
+  6: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9116*)
     → "A good reporter needs a good nose for uncovering the story, then good legs to go check [his/her] sources. Learn that and you'll go far."
   7: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x07)
@@ -449,12 +449,12 @@
   1: 0x00F2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x01)
-  4: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9122*)
+  4: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9123*)
     → "The Cat Burglar must have smelt a rat... Nanaa Mihgo didn't want us to expose her hideaway, so she stole the story before it could go into circulation. Agh...someone really let the cat outta the bag!"
   5: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x07)
   7: 0x0106 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x03)
-  8: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=9123*)
+  8: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=9124*)
     → "Aa`ah! This week's edition of the "Magic Paradise Weekly" is going to be canceled as well. It happens so often, though, that nobody's going to notice anyway...<Sigh>"
   9: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0111 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x05)
@@ -489,10 +489,10 @@
   1: 0x0128 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0129 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x012A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x01)
-  4: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=9139*)
+  4: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
     → "The Cat Burglar must have caught wind of us... Nanaa Mihgo didn't want us to expose her hideaway, so she stole the story before it could go into circulation."
   5: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
+  6: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=9141*)
     → "But you did real well to get the magic doll back off of her! It's practically impossible to retrieve anything stolen by the Cat Burglar!"
   7: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0139 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chyuk-Kochak (ID: 17752149/0x010EE055), tag_num=0x07)

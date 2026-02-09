@@ -21,15 +21,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x04AD      |        1197 |
-|       1 | 0x1CAF      |        7343 |
-|       2 | 0x1CB0      |        7344 |
-|       3 | 0x1CB1      |        7345 |
+|       1 | 0x1CB0      |        7344 |
+|       2 | 0x1CB1      |        7345 |
+|       3 | 0x1CB2      |        7346 |
 
 ## String References
 
-- **7343**: Something fishy... Hurr making $0 again? He as slimy as eel!
-- **7344**: Thanks to him, all our good booty go to pirates!
-- **7345**: He sell his people for gil! I see him again, I chop him up into sushi!
+- **7344**: Something fishy... Hurr making $0 again? He as slimy as eel!
+- **7345**: Thanks to him, all our good booty go to pirates!
+- **7346**: He sell his people for gil! I see him again, I chop him up into sushi!
 
 ## Events
 
@@ -76,13 +76,13 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[2] = 1197*
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "Something fishy... Hurr making $0 again? He as slimy as eel!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "Thanks to him, all our good booty go to pirates!"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "He sell his people for gil! I see him again, I chop him up into sushi!"
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x21] END_EVENT

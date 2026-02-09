@@ -35,22 +35,22 @@
 |       9 | 0x0013      |          19 |
 |      10 | 0x0AA6      |        2726 |
 |      11 | 0x0017      |          23 |
-|      12 | 0x1CF1      |        7409 |
-|      13 | 0x1CF2      |        7410 |
-|      14 | 0x1CF3      |        7411 |
+|      12 | 0x1CF2      |        7410 |
+|      13 | 0x1CF3      |        7411 |
+|      14 | 0x1CF4      |        7412 |
 |      15 | 0x0CF4      |        3316 |
-|      16 | 0x1CF4      |        7412 |
+|      16 | 0x1CF5      |        7413 |
 |      17 | 0x40000000  |  1073741824 |
 |      18 | 0x0001      |           1 |
-|      19 | 0x1CF5      |        7413 |
-|      20 | 0x1CF7      |        7415 |
+|      19 | 0x1CF6      |        7414 |
+|      20 | 0x1CF8      |        7416 |
 |      21 | 0x0026      |          38 |
 |      22 | 0x0008      |           8 |
 |      23 | 0x001F      |          31 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x1CF6      |        7414 |
+|      25 | 0x1CF7      |        7415 |
 |      26 | 0x0004      |           4 |
-|      27 | 0x1CF8      |        7416 |
+|      27 | 0x1CF9      |        7417 |
 |      28 | 0x001A      |          26 |
 |      29 | 0x001B      |          27 |
 |      30 | 0x001C      |          28 |
@@ -89,14 +89,14 @@
 
 ## String References
 
-- **7409**: You called, remeowned pioneer?
-- **7410**: By the way, I'm working my tail off [here/keeping crrrops growing in the furrows/here/here/trrrying to catch stuff in the pond/here]!
-- **7411**: What will you ask of her? [To let me pet her./To help with the furrows./To help with the pond./Nothing.]
-- **7412**: Thanks for making me feel grrreat about myself!
-- **7413**: Have her help how? [Harvest a lot of crops./Look for seeds./Do a different favor.]
-- **7414**: Have her help how? [Catch something./Go after a whopper./Aim for a minnow./Do a different favor.]
-- **7415**: Thanks! Meow I know what to do!
-- **7416**: If you don't have any instrrructions for me, I guess I'll keep working!
+- **7410**: You called, remeowned pioneer?
+- **7411**: By the way, I'm working my tail off [here/keeping crrrops growing in the furrows/here/here/trrrying to catch stuff in the pond/here]!
+- **7412**: What will you ask of her? [To let me pet her./To help with the furrows./To help with the pond./Nothing.]
+- **7413**: Thanks for making me feel grrreat about myself!
+- **7414**: Have her help how? [Harvest a lot of crops./Look for seeds./Do a different favor.]
+- **7415**: Have her help how? [Catch something./Go after a whopper./Aim for a minnow./Do a different favor.]
+- **7416**: Thanks! Meow I know what to do!
+- **7417**: If you don't have any instrrructions for me, I guess I'll keep working!
 
 ## Events
 
@@ -654,29 +654,29 @@
  13: 0x007D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kuyin Hathdenna (ID: 17924202/0x0111806A) Render.Flags0 and Render.Flags3 conditions are met
  14: 0x0082 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s561" with entities [LocalPlayer, LocalPlayer], work=[23*, 0*]
  15: 0x0093 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 16: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
+ 16: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
     → "You called, remeowned pioneer?"
  17: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
+ 18: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
     → "By the way, I'm working my tail off [here/keeping crrrops growing in the furrows/here/here/trrrying to catch stuff in the pond/here]!"
  19: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x00AC [0x24] CREATE_DIALOG(message_id=7411*, default_option=0*, option_flags=0*)
+ 20: 0x00AC [0x24] CREATE_DIALOG(message_id=7412*, default_option=0*, option_flags=0*)
     → "What will you ask of her? [To let me pet her./To help with the furrows./To help with the pond./Nothing.]"
  21: 0x00B3 [0x25] WAIT_DIALOG_SELECT()
  22: 0x00B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D7
  23: 0x00BC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=3316*
- 24: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+ 24: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "Thanks for making me feel grrreat about myself!"
  25: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00CF [0x03] Work_Zone[1] = 1073741824*
  27: 0x00D4 [0x01] GOTO 0x0216
  28: 0x00D7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x014D
- 29: 0x00DF [0x24] CREATE_DIALOG(message_id=7413*, default_option=0*, option_flags=0*)
+ 29: 0x00DF [0x24] CREATE_DIALOG(message_id=7414*, default_option=0*, option_flags=0*)
     → "Have her help how? [Harvest a lot of crops./Look for seeds./Do a different favor.]"
  30: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
  31: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0117
  32: 0x00EF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [EventEntity, EventEntity], work=3316*
- 33: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 33: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Thanks! Meow I know what to do!"
  34: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0102 [0x03] Work_Zone[1] = 38*
@@ -686,7 +686,7 @@
  39: 0x0114 [0x01] GOTO 0x014A
  40: 0x0117 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0147
  41: 0x011F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [EventEntity, EventEntity], work=3316*
- 42: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 42: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Thanks! Meow I know what to do!"
  43: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0132 [0x03] Work_Zone[1] = 38*
@@ -699,12 +699,12 @@
 SUBROUTINE_014A:
  50: 0x014A [0x01] GOTO 0x0216
  51: 0x014D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01F3
- 52: 0x0155 [0x24] CREATE_DIALOG(message_id=7414*, default_option=0*, option_flags=0*)
+ 52: 0x0155 [0x24] CREATE_DIALOG(message_id=7415*, default_option=0*, option_flags=0*)
     → "Have her help how? [Catch something./Go after a whopper./Aim for a minnow./Do a different favor.]"
  53: 0x015C [0x25] WAIT_DIALOG_SELECT()
  54: 0x015D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018D
  55: 0x0165 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [EventEntity, EventEntity], work=3316*
- 56: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 56: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Thanks! Meow I know what to do!"
  57: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0178 [0x03] Work_Zone[1] = 38*
@@ -714,7 +714,7 @@ SUBROUTINE_014A:
  62: 0x018A [0x01] GOTO 0x01F0
  63: 0x018D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01BD
  64: 0x0195 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [EventEntity, EventEntity], work=3316*
- 65: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 65: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Thanks! Meow I know what to do!"
  66: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01A8 [0x03] Work_Zone[1] = 38*
@@ -724,7 +724,7 @@ SUBROUTINE_014A:
  71: 0x01BA [0x01] GOTO 0x01F0
  72: 0x01BD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01ED
  73: 0x01C5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [EventEntity, EventEntity], work=3316*
- 74: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 74: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Thanks! Meow I know what to do!"
  75: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x01D8 [0x03] Work_Zone[1] = 38*
@@ -738,7 +738,7 @@ SUBROUTINE_01F0:
  82: 0x01F0 [0x01] GOTO 0x0216
  83: 0x01F3 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0216
  84: 0x01FB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [EventEntity, EventEntity], work=3316*
- 85: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 85: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "If you don't have any instrrructions for me, I guess I'll keep working!"
  86: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x020E [0x03] Work_Zone[1] = 1073741824*

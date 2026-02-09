@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0015      |          21 |
-|       2 | 0x1DC1      |        7617 |
-|       3 | 0x1DC2      |        7618 |
+|       2 | 0x1DC2      |        7618 |
+|       3 | 0x1DC3      |        7619 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 21*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [7617*]:
+  4: 0x0019 [0x2B] EventEntity [7618*]:
     → "Hey hey hey! How did you get in here!? Were you looking for the brewery?"
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x2B] EventEntity [7618*]:
+  6: 0x0021 [0x2B] EventEntity [7619*]:
     → "We don'taru just make wine here, you know. We also ripen-wipen the rolanberries with the help of crawler saliva. Watch out for the spit puddles..."
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x21] END_EVENT

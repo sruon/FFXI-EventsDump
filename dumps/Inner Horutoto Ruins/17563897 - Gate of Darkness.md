@@ -27,7 +27,7 @@
 |       4 | 0x0003      |           3 |
 |       5 | 0x00D6      |         214 |
 |       6 | 0x0008      |           8 |
-|       7 | 0x1CD9      |        7385 |
+|       7 | 0x1CDA      |        7386 |
 |       8 | 0x002F      |          47 |
 |       9 | 0x00FA      |         250 |
 |      10 | 0x00C9      |         201 |
@@ -38,11 +38,11 @@
 |      15 | 0x006F      |         111 |
 |      16 | 0x00D4      |         212 |
 |      17 | 0x0082      |         130 |
-|      18 | 0x1CE5      |        7397 |
+|      18 | 0x1CE6      |        7398 |
 |      19 | 0x002E      |          46 |
 |      20 | 0x000A      |          10 |
 |      21 | 0x0032      |          50 |
-|      22 | 0x1CE6      |        7398 |
+|      22 | 0x1CE7      |        7399 |
 
 ## Events
 
@@ -232,7 +232,7 @@ SUBROUTINE_00A2:
  25: 0x00C0 [0x4A] LocalPlayer looks at Apururu (ID: 17563875/0x010C00E3)
  26: 0x00C9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  27: 0x00CA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 28: 0x00CF [0x2B] Apururu (ID: 17563875/0x010C00E3) [7385*]:
+ 28: 0x00CF [0x2B] Apururu (ID: 17563875/0x010C00E3) [7386*]:
     → "I'm sorry I'm late."
  29: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00D7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Apururu (ID: 17563875/0x010C00E3))
@@ -384,7 +384,7 @@ SUBROUTINE_04D8:
 170: 0x061A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x1A)
 171: 0x0621 [0x1C] WAIT(130* ticks)
 172: 0x0624 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17563875/0x010C00E3), tag_num=0x1C)
-173: 0x062B [0x2B] Apururu (ID: 17563875/0x010C00E3) [7397*]:
+173: 0x062B [0x2B] Apururu (ID: 17563875/0x010C00E3) [7398*]:
     → "Ajido-Marujido, no!"
 174: 0x0632 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0633 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Apururu (ID: 17563875/0x010C00E3), tag_num=0x1D)
@@ -407,7 +407,7 @@ SUBROUTINE_04D8:
 192: 0x06E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 193: 0x06F1 [0x27] REQ_SET(priority=0x0B, entity_id=Apururu (ID: 17563875/0x010C00E3), tag_num=0x38)
 194: 0x06F8 [0x1C] WAIT(100* ticks)
-195: 0x06FB [0x2B] Apururu (ID: 17563875/0x010C00E3) [7398*]:
+195: 0x06FB [0x2B] Apururu (ID: 17563875/0x010C00E3) [7399*]:
     → "Ajido-Marujido!!!"
 196: 0x0702 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x0703 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)

@@ -33,100 +33,100 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x22D0      |        8912 |
+|       1 | 0x22D1      |        8913 |
 |       2 | 0x0909      |        2313 |
-|       3 | 0x22D2      |        8914 |
-|       4 | 0x22D3      |        8915 |
-|       5 | 0x22D4      |        8916 |
-|       6 | 0x22D5      |        8917 |
-|       7 | 0x22D8      |        8920 |
-|       8 | 0x22D9      |        8921 |
-|       9 | 0x22DA      |        8922 |
-|      10 | 0x22DB      |        8923 |
-|      11 | 0x22DC      |        8924 |
-|      12 | 0x22DD      |        8925 |
-|      13 | 0x22DE      |        8926 |
+|       3 | 0x22D3      |        8915 |
+|       4 | 0x22D4      |        8916 |
+|       5 | 0x22D5      |        8917 |
+|       6 | 0x22D6      |        8918 |
+|       7 | 0x22D9      |        8921 |
+|       8 | 0x22DA      |        8922 |
+|       9 | 0x22DB      |        8923 |
+|      10 | 0x22DC      |        8924 |
+|      11 | 0x22DD      |        8925 |
+|      12 | 0x22DE      |        8926 |
+|      13 | 0x22DF      |        8927 |
 |      14 | 0x0001      |           1 |
 |      15 | 0x0962      |        2402 |
-|      16 | 0x22DF      |        8927 |
-|      17 | 0x22E0      |        8928 |
-|      18 | 0x22E1      |        8929 |
-|      19 | 0x22E2      |        8930 |
+|      16 | 0x22E0      |        8928 |
+|      17 | 0x22E1      |        8929 |
+|      18 | 0x22E2      |        8930 |
+|      19 | 0x22E3      |        8931 |
 |      20 | 0x0002      |           2 |
-|      21 | 0x22E3      |        8931 |
-|      22 | 0x22E4      |        8932 |
-|      23 | 0x22E5      |        8933 |
-|      24 | 0x22E6      |        8934 |
+|      21 | 0x22E4      |        8932 |
+|      22 | 0x22E5      |        8933 |
+|      23 | 0x22E6      |        8934 |
+|      24 | 0x22E7      |        8935 |
 |      25 | 0x0003      |           3 |
-|      26 | 0x22E7      |        8935 |
-|      27 | 0x22E8      |        8936 |
-|      28 | 0x22E9      |        8937 |
+|      26 | 0x22E8      |        8936 |
+|      27 | 0x22E9      |        8937 |
+|      28 | 0x22EA      |        8938 |
 |      29 | 0x0004      |           4 |
-|      30 | 0x22EA      |        8938 |
-|      31 | 0x22EB      |        8939 |
-|      32 | 0x22EC      |        8940 |
-|      33 | 0x22ED      |        8941 |
-|      34 | 0x22EE      |        8942 |
-|      35 | 0x22EF      |        8943 |
-|      36 | 0x22F0      |        8944 |
+|      30 | 0x22EB      |        8939 |
+|      31 | 0x22EC      |        8940 |
+|      32 | 0x22ED      |        8941 |
+|      33 | 0x22EE      |        8942 |
+|      34 | 0x22EF      |        8943 |
+|      35 | 0x22F0      |        8944 |
+|      36 | 0x22F1      |        8945 |
 |      37 | 0x0005      |           5 |
-|      38 | 0x22F1      |        8945 |
-|      39 | 0x22F2      |        8946 |
-|      40 | 0x22F3      |        8947 |
-|      41 | 0x22F4      |        8948 |
-|      42 | 0x22F5      |        8949 |
-|      43 | 0x22F6      |        8950 |
+|      38 | 0x22F2      |        8946 |
+|      39 | 0x22F3      |        8947 |
+|      40 | 0x22F4      |        8948 |
+|      41 | 0x22F5      |        8949 |
+|      42 | 0x22F6      |        8950 |
+|      43 | 0x22F7      |        8951 |
 |      44 | 0x0006      |           6 |
-|      45 | 0x22D6      |        8918 |
-|      46 | 0x22D7      |        8919 |
-|      47 | 0x2493      |        9363 |
-|      48 | 0x22F7      |        8951 |
-|      49 | 0x22F8      |        8952 |
-|      50 | 0x22F9      |        8953 |
-|      51 | 0x22FA      |        8954 |
-|      52 | 0x22FB      |        8955 |
-|      53 | 0x22FC      |        8956 |
-|      54 | 0x22FD      |        8957 |
-|      55 | 0x22FE      |        8958 |
+|      45 | 0x22D7      |        8919 |
+|      46 | 0x22D8      |        8920 |
+|      47 | 0x2494      |        9364 |
+|      48 | 0x22F8      |        8952 |
+|      49 | 0x22F9      |        8953 |
+|      50 | 0x22FA      |        8954 |
+|      51 | 0x22FB      |        8955 |
+|      52 | 0x22FC      |        8956 |
+|      53 | 0x22FD      |        8957 |
+|      54 | 0x22FE      |        8958 |
+|      55 | 0x22FF      |        8959 |
 |      56 | 0x001E      |          30 |
-|      57 | 0x22FF      |        8959 |
-|      58 | 0x2300      |        8960 |
-|      59 | 0x2301      |        8961 |
-|      60 | 0x2302      |        8962 |
-|      61 | 0x2303      |        8963 |
-|      62 | 0x2348      |        9032 |
-|      63 | 0x2349      |        9033 |
-|      64 | 0x234A      |        9034 |
-|      65 | 0x234E      |        9038 |
-|      66 | 0x234B      |        9035 |
-|      67 | 0x234C      |        9036 |
-|      68 | 0x234D      |        9037 |
-|      69 | 0x2355      |        9045 |
+|      57 | 0x2300      |        8960 |
+|      58 | 0x2301      |        8961 |
+|      59 | 0x2302      |        8962 |
+|      60 | 0x2303      |        8963 |
+|      61 | 0x2304      |        8964 |
+|      62 | 0x2349      |        9033 |
+|      63 | 0x234A      |        9034 |
+|      64 | 0x234B      |        9035 |
+|      65 | 0x234F      |        9039 |
+|      66 | 0x234C      |        9036 |
+|      67 | 0x234D      |        9037 |
+|      68 | 0x234E      |        9038 |
+|      69 | 0x2356      |        9046 |
 |      70 | 0x0134      |         308 |
-|      71 | 0x235A      |        9050 |
-|      72 | 0x2356      |        9046 |
-|      73 | 0x235B      |        9051 |
-|      74 | 0x2357      |        9047 |
-|      75 | 0x2358      |        9048 |
-|      76 | 0x2359      |        9049 |
+|      71 | 0x235B      |        9051 |
+|      72 | 0x2357      |        9047 |
+|      73 | 0x235C      |        9052 |
+|      74 | 0x2358      |        9048 |
+|      75 | 0x2359      |        9049 |
+|      76 | 0x235A      |        9050 |
 |      77 | 0x00C8      |         200 |
 |      78 | 0x001B      |          27 |
 |      79 | 0x000F      |          15 |
 |      80 | 0x003C      |          60 |
-|      81 | 0x2304      |        8964 |
+|      81 | 0x2305      |        8965 |
 |      82 | 0x000E      |          14 |
 |      83 | 0x0040      |          64 |
 |      84 | 0x186A0     |      100000 |
-|      85 | 0x2305      |        8965 |
-|      86 | 0x2308      |        8968 |
-|      87 | 0x2309      |        8969 |
-|      88 | 0x2307      |        8967 |
+|      85 | 0x2306      |        8966 |
+|      86 | 0x2309      |        8969 |
+|      87 | 0x230A      |        8970 |
+|      88 | 0x2308      |        8968 |
 |      89 | 0x0010      |          16 |
 |      90 | 0x0008      |           8 |
 |      91 | 0x001F      |          31 |
-|      92 | 0x2341      |        9025 |
-|      93 | 0x2340      |        9024 |
-|      94 | 0x22D1      |        8913 |
+|      92 | 0x2342      |        9026 |
+|      93 | 0x2341      |        9025 |
+|      94 | 0x22D2      |        8914 |
 |      95 | 0xFFFFE815  |  4294961173 |
 |      96 | 0xFFFEF13B  |  4294897979 |
 |      97 | 0xFFFFF060  |  4294963296 |
@@ -140,81 +140,81 @@
 |     105 | 0x001D      |          29 |
 |     106 | 0x0009      |           9 |
 |     107 | 0x000A      |          10 |
-|     108 | 0x230B      |        8971 |
-|     109 | 0x230C      |        8972 |
+|     108 | 0x230C      |        8972 |
+|     109 | 0x230D      |        8973 |
 |     110 | 0xFFFFFFFF  |  4294967295 |
-|     111 | 0x230D      |        8973 |
+|     111 | 0x230E      |        8974 |
 |     112 | 0x0074      |         116 |
 |     113 | 0x000C      |          12 |
 |     114 | 0x001C      |          28 |
 |     115 | 0x0011      |          17 |
 |     116 | 0x03E7      |         999 |
-|     117 | 0x2327      |        8999 |
-|     118 | 0x2328      |        9000 |
+|     117 | 0x2328      |        9000 |
+|     118 | 0x2329      |        9001 |
 |     119 | 0x0007      |           7 |
 |     120 | 0x0020      |          32 |
-|     121 | 0x232A      |        9002 |
+|     121 | 0x232B      |        9003 |
 |     122 | 0x0014      |          20 |
 |     123 | 0x000D      |          13 |
-|     124 | 0x232B      |        9003 |
-|     125 | 0x230A      |        8970 |
+|     124 | 0x232C      |        9004 |
+|     125 | 0x230B      |        8971 |
 |     126 | 0x000B      |          11 |
 |     127 | 0x0015      |          21 |
 |     128 | 0x0016      |          22 |
 |     129 | 0x001A      |          26 |
-|     130 | 0x2332      |        9010 |
-|     131 | 0x2333      |        9011 |
-|     132 | 0x2334      |        9012 |
-|     133 | 0x2335      |        9013 |
-|     134 | 0x2336      |        9014 |
-|     135 | 0x2337      |        9015 |
-|     136 | 0x2338      |        9016 |
-|     137 | 0x2339      |        9017 |
-|     138 | 0x233A      |        9018 |
-|     139 | 0x233B      |        9019 |
-|     140 | 0x233C      |        9020 |
-|     141 | 0x233D      |        9021 |
-|     142 | 0x233E      |        9022 |
-|     143 | 0x230E      |        8974 |
-|     144 | 0x2310      |        8976 |
-|     145 | 0x2311      |        8977 |
-|     146 | 0x2312      |        8978 |
-|     147 | 0x2313      |        8979 |
+|     130 | 0x2333      |        9011 |
+|     131 | 0x2334      |        9012 |
+|     132 | 0x2335      |        9013 |
+|     133 | 0x2336      |        9014 |
+|     134 | 0x2337      |        9015 |
+|     135 | 0x2338      |        9016 |
+|     136 | 0x2339      |        9017 |
+|     137 | 0x233A      |        9018 |
+|     138 | 0x233B      |        9019 |
+|     139 | 0x233C      |        9020 |
+|     140 | 0x233D      |        9021 |
+|     141 | 0x233E      |        9022 |
+|     142 | 0x233F      |        9023 |
+|     143 | 0x230F      |        8975 |
+|     144 | 0x2311      |        8977 |
+|     145 | 0x2312      |        8978 |
+|     146 | 0x2313      |        8979 |
+|     147 | 0x2314      |        8980 |
 |     148 | 0x0102      |         258 |
 |     149 | 0xFFFFFFFB  |  4294967291 |
-|     150 | 0x2200      |        8704 |
-|     151 | 0x24D9      |        9433 |
-|     152 | 0x24DA      |        9434 |
+|     150 | 0x2201      |        8705 |
+|     151 | 0x24DA      |        9434 |
+|     152 | 0x24DB      |        9435 |
 |     153 | 0xFFFFFFFC  |  4294967292 |
-|     154 | 0x234F      |        9039 |
+|     154 | 0x2350      |        9040 |
 |     155 | 0xFFFFFFFA  |  4294967290 |
-|     156 | 0x230F      |        8975 |
+|     156 | 0x2310      |        8976 |
 |     157 | 0x0202      |         514 |
 |     158 | 0xFFFFFFFE  |  4294967294 |
 |     159 | 0xFFFFFFF9  |  4294967289 |
 |     160 | 0xFFFFFFFD  |  4294967293 |
-|     161 | 0x2350      |        9040 |
-|     162 | 0x2351      |        9041 |
-|     163 | 0x2314      |        8980 |
-|     164 | 0x2325      |        8997 |
-|     165 | 0x2315      |        8981 |
-|     166 | 0x2316      |        8982 |
-|     167 | 0x2317      |        8983 |
-|     168 | 0x2318      |        8984 |
-|     169 | 0x2319      |        8985 |
-|     170 | 0x231A      |        8986 |
-|     171 | 0x231B      |        8987 |
-|     172 | 0x231C      |        8988 |
-|     173 | 0x231D      |        8989 |
-|     174 | 0x231E      |        8990 |
-|     175 | 0x231F      |        8991 |
-|     176 | 0x2320      |        8992 |
-|     177 | 0x2321      |        8993 |
-|     178 | 0x2322      |        8994 |
-|     179 | 0x2323      |        8995 |
-|     180 | 0x2324      |        8996 |
-|     181 | 0x2326      |        8998 |
-|     182 | 0x2329      |        9001 |
+|     161 | 0x2351      |        9041 |
+|     162 | 0x2352      |        9042 |
+|     163 | 0x2315      |        8981 |
+|     164 | 0x2326      |        8998 |
+|     165 | 0x2316      |        8982 |
+|     166 | 0x2317      |        8983 |
+|     167 | 0x2318      |        8984 |
+|     168 | 0x2319      |        8985 |
+|     169 | 0x231A      |        8986 |
+|     170 | 0x231B      |        8987 |
+|     171 | 0x231C      |        8988 |
+|     172 | 0x231D      |        8989 |
+|     173 | 0x231E      |        8990 |
+|     174 | 0x231F      |        8991 |
+|     175 | 0x2320      |        8992 |
+|     176 | 0x2321      |        8993 |
+|     177 | 0x2322      |        8994 |
+|     178 | 0x2323      |        8995 |
+|     179 | 0x2324      |        8996 |
+|     180 | 0x2325      |        8997 |
+|     181 | 0x2327      |        8999 |
+|     182 | 0x232A      |        9002 |
 |     183 | 0x0046      |          70 |
 |     184 | 0xFFF86B89  |  4294470537 |
 |     185 | 0xFFFA5E61  |  4294598241 |
@@ -249,27 +249,27 @@
 |     214 | 0xFFF7D394  |  4294431636 |
 |     215 | 0xFFFFFFF0  |  4294967280 |
 |     216 | 0x03DC      |         988 |
-|     217 | 0x232C      |        9004 |
-|     218 | 0x232D      |        9005 |
-|     219 | 0x2330      |        9008 |
-|     220 | 0x232E      |        9006 |
-|     221 | 0x232F      |        9007 |
-|     222 | 0x2331      |        9009 |
-|     223 | 0x2371      |        9073 |
-|     224 | 0x2372      |        9074 |
-|     225 | 0x2373      |        9075 |
-|     226 | 0x2374      |        9076 |
-|     227 | 0x2207      |        8711 |
-|     228 | 0x2375      |        9077 |
-|     229 | 0x2376      |        9078 |
-|     230 | 0x2377      |        9079 |
+|     217 | 0x232D      |        9005 |
+|     218 | 0x232E      |        9006 |
+|     219 | 0x2331      |        9009 |
+|     220 | 0x232F      |        9007 |
+|     221 | 0x2330      |        9008 |
+|     222 | 0x2332      |        9010 |
+|     223 | 0x2372      |        9074 |
+|     224 | 0x2373      |        9075 |
+|     225 | 0x2374      |        9076 |
+|     226 | 0x2375      |        9077 |
+|     227 | 0x2208      |        8712 |
+|     228 | 0x2376      |        9078 |
+|     229 | 0x2377      |        9079 |
+|     230 | 0x2378      |        9080 |
 |     231 | 0x00B0      |         176 |
-|     232 | 0x2378      |        9080 |
-|     233 | 0x2345      |        9029 |
-|     234 | 0x2346      |        9030 |
-|     235 | 0x2347      |        9031 |
-|     236 | 0x2342      |        9026 |
-|     237 | 0x2344      |        9028 |
+|     232 | 0x2379      |        9081 |
+|     233 | 0x2346      |        9030 |
+|     234 | 0x2347      |        9031 |
+|     235 | 0x2348      |        9032 |
+|     236 | 0x2343      |        9027 |
+|     237 | 0x2345      |        9029 |
 |     238 | 0x0023      |          35 |
 |     239 | 0x0028      |          40 |
 |     240 | 0x002D      |          45 |
@@ -355,153 +355,153 @@
 
 ## String References
 
-- **8704**: $0
-- **8711**: Recreating race from points $0\`$1.
-- **8912**: Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers.
-- **8913**: I am sorry, but there are no races scheduled at the moment.
-- **8914**: Participation in our organization's races requires that you either possess $0 or currently have your own full-grown chocobo.
-- **8915**: How about you, [sir/ma'am]?
-- **8916**: If possible, we would like you to join us, and help show those trainers in [Bastok and Windurst/San d'Oria and Windurst/San d'Oria and Bastok] which racing team is truly the best in Vana'diel.
-- **8917**: What do you say? [Tell me more./Sign me up!/Not today.]
-- **8918**: Congratulations, <Player>! You are now an official member of the CRA's [San d'Oria/Bastok/Windurst] racing team.
-- **8919**: I see. Please come back if you ever change your mind!
-- **8920**: What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]
-- **8921**: Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills.
-- **8922**: We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business.
-- **8923**: However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races...
-- **8924**: The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed.
-- **8925**: And that's why I'm here, trying to enlist you and other top breeders into our noble ranks.
-- **8926**: Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!
-- **8927**: First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride.
-- **8928**: Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees.
-- **8929**: As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition.
-- **8930**: Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes.
-- **8931**: Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey.
-- **8932**: Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style.
-- **8933**: In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance.
-- **8934**: Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip.
-- **8935**: Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks.
-- **8936**: Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races.
-- **8937**: Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice.
-- **8938**: There are two main types of races.
-- **8939**: The first type is called an official race. To participate in one of these, you will require chocobucks.
-- **8940**: Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community.
-- **8941**: You may also take part in an official race as often as needed to complete the specified objectives.
-- **8942**: However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again.
-- **8943**: The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match.
-- **8944**: You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)
-- **8945**: The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria.
-- **8946**: Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two.
-- **8947**: Breeders are allowed to register with any team they like, and may change their affiliation at any time.
-- **8948**: In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved.
-- **8949**: You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data.
-- **8950**: Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one).
-- **8951**: Ah, it says here that you are a member of the [San d'Oria/Bastok/Windurst] racing team.
-- **8952**: Have you come today to change your affiliation?
-- **8953**: Remember, you will not be able to use any chocobucks earned in [San d'Oria/Bastok/Windurst] here, and you will also lose any Solo Victory Points that you may have. Are you sure you want to go through with this?
-- **8954**: Join this team? [Yes./No.]
-- **8955**: Congratulations! You are the newest member of the CRA's [San d'Oria/Bastok/Windurst] racing team!
-- **8956**: Understood. But remember, we are always looking for great racers like you to join our team. If you ever change your mind, I'll be right here waiting.
-- **8957**: Ah, so you have brought items for your chocobo.
-- **8958**: What do we have here...
-- **8959**: #:
-- **8960**: Alright, <Player>, I will store this in our safe.
-- **8961**: Alright, <Player>, I will store these in our safe.
-- **8962**: I am sorry, but you have already brought me one of those.
-- **8963**: I am sorry, but you have already brought me these items.
-- **8964**: Hello! What might I interest you in today?
-- **8965**: (You have $3 [chocobuck/chocobucks].) [Chocobo [registration/confirmation]./Item confirmation./Free run ($1 gil)./Official race ($2 [chocobuck/chocobucks])./Re-run./Rule confirmation./Nothing.]
-- **8967**: You cannot access this menu until you have registered a chocobo to race.
-- **8968**: To register your chocobo, you must first bring me either $0 or $1.
-- **8969**: You can only register one chocobo at a time, but you may always register a new one whenever you wish.
-- **8970**: We currently hold for you: [/$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]
-- **8971**: With newly developed CRA technology, you can now relive the excitement of a previously cleared official race!
-- **8972**: You may participate in these "re-runs" as many times as you wish, but just remember--the race may be the same, but the prizes for placing won't!
-- **8973**: Re-run which race? [Novice Race I./Novice Race II./Novice Race III./Challenge Race I./International Race I./International Race II./Challenge Race II./CRA Classic./Quit./Return.]
-- **8974**: ***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]
-- **8975**: ***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]
-- **8976**: Here is the information on the next race:
-- **8977**: ----------------------------------------
-- **8978**: $26Free Run$26 Chocobos: 8 Objective: None
-- **8979**: While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races.
-- **8980**: Here is the information on the next race:
-- **8981**: $26Novice Race I$26 Chocobos: 4 Objective: Place 3rd or higher
-- **8982**: Use this race to learn the ropes. Try not to worry too much about the other chocobos, and concentrate on discovering your bird's strengths and weaknesses.
-- **8983**: $26Novice Race II$26 Chocobos: 6 Objective: Place 3rd or higher
-- **8984**: This time, your chocobo will be pitted against five opponents. Use your knowledge of your bird's strengths to provide the jockey with the most appropriate orders.
-- **8985**: $26Novice Race III$26 Chocobos: 8 Objective: Place 3rd or higher
-- **8986**: This race is quite similar to a free run in that there will be seven other chocobos racing against you. If you have one available, try equipping an item to improve your bird's performance.
-- **8987**: $26Challenge Race I$26 Chocobos: 2 Objective: Place 1st
-- **8988**: Three of our most revered breeders have heard of your success and wish to challenge you in a head-to-head match.
-- **8989**: $26International Race I$26 Chocobos: 8 Objective: Place 3rd or higher
-- **8990**: The [Bastok/Windurst/San d'Oria] racing team has requested your participation in a nationally sponsored match. The pride of our branch is at stake, <Player>!
-- **8991**: $26International Race II$26 Chocobos: 8 Objective: Place 3rd or higher
-- **8992**: The [Windurst/San d'Oria/Bastok] racing team has requested your participation in a nationally sponsored match. You represented us well last time, <Player>. We're counting on you again!
-- **8993**: $26Challenge Race II$26 Chocobos: 3 Objective: Place 1st
-- **8994**: The challengers you defeated previously have requested a rematch. Also, [Hantileon/Zopago/Pulonono] has expressed interest in this race, and would like to participate as well.
-- **8995**: $26CRA Classic$26 Chocobos: 8 Objective: Place 1st
-- **8996**: The title of "fastest chocobo in the [Kingdom/Republic/Federation]" is up for grabs at the [d'Oraguille Victory Malm/Gustaberg Derby/Rakapopo Cup] sponsored by [the king himself/the president himself/Manustery minister Apururu herself]!
-- **8997**: Participation fee: $0 [chocobuck/chocobucks].
-- **8998**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
-- **8999**: $0 \` Owner: %7Affiliation: [None/San d'Oria Branch/Bastok Branch/Windurst Branch] Gender: [Male/Female]
-- **9000**: Entry No. $3 $0 \` Owner: %7Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female]
-- **9001**: Entry No. $3 $1 \` Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep pace/Final spurt]
-- **9002**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
-- **9003**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
-- **9004**: Change orders to: [Sprint./Keep pace./Final spurt./Quit./Return.]
-- **9005**: Sprint: Have the jockey push your chocobo to its limits from the get go.
-- **9006**: Keep pace: Have the jockey maintain a consistent pace throughout the whole race.
-- **9007**: Final spurt: Have the jockey save your chocobo's energy until the end of the race.
-- **9008**: Is this what you want? [Definitely./Not at all.]
-- **9009**: Equip which item? [Nothing./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]
-- **9010**: These are used during a race to temporarily boost the speed of your chocobo.
-- **9011**: These are used during a race to temporarily regenerate your chocobo's stamina.
-- **9012**: These are used during a race to temporarily resist the effects of any detrimental items aimed at your chocobo.
-- **9013**: These are used during a race to greatly reduce the speed of an opponent chocobo.
-- **9014**: These are used during a race to greatly reduce the stamina of an opponent chocobo.
-- **9015**: These are used during a race to temporarily reduce the speed of all surrounding opponent chocobos.
-- **9016**: These are used during a race to reduce the discernment of all surrounding opponent chocobos.
-- **9017**: These are used during a race to temporarily clear up the weather.
-- **9018**: These are used during a race to temporarily call upon a rainstorm.
-- **9019**: When equipped during a race, this item will slightly increase the strength of your chocobo.
-- **9020**: When equipped during a race, this item will slightly increase the stamina of your chocobo.
-- **9021**: When equipped during a race, this item will slightly increase the discernment of your chocobo.
-- **9022**: When equipped during a race, this item will slightly increase the receptivity of your chocobo.
-- **9024**: I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race.
-- **9025**: I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race.
-- **9026**: Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!
-- **9028**: Don't worry too much about the results of that last race. You must learn from your experience and prepare yourself for the next challenge.
-- **9029**: Congratulations! That final victory has put you in leagues with [San d'Oria's/Bastok's/Windurst's] finest riders!
-- **9030**: All of us here are eager to see what accomplishments you will achieve next!
-- **9031**: Oh, and do be careful with your $0. If you happen to accidentally dispose of it, you will never be able to receive one again.
-- **9032**: So you wish to register a chocobo.
-- **9033**: Let me see... $1 has already been registered.
-- **9034**: Do you wish to cancel $1's registration and sign up $0?
-- **9035**: Register $0? [Yes./No.]
-- **9036**: Excellent! $0 has been successfully registered.
-- **9037**: Very well.
-- **9038**: I'm sorry. You have already registered that chocobo. You may race it at any time.
-- **9039**: I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you.
-- **9040**: I'm sorry. The other chocobos have not finished resting. Please come back a little later.
-- **9041**: One moment please while entries are confirmed with CRA headquarters.
-- **9045**: Ah, <Player>. We have been holding on to the prize from your last race until you had room enough in your gobbiebag to carry it back to your Mog House.
-- **9046**: Might you be <Player>? Excellent. VCS headquarters was informed that you would be stopping by our branch, and sent this package containing the prize from your last race.
-- **9047**: <Player>, thank you for waiting.
-- **9048**: Much to the VCS and the CRA's delight, the recent efforts of chocobo breeders across Vana'diel has helped to generate an unprecedented amount of interest in our endeavor. More people than ever have begun to express an interest in raising their own chocobo.
-- **9049**: As a means of expressing our gratitude, we have therefore decided to confer upon the victors of CRA Classics rewards befitting a champion. We congratulate you on your impressive achievement, <Player>. You are a true inspiration for breeders everywhere!
-- **9050**: Hello there, <Player>. Why yes, we are holding your $0. Here you are.
-- **9051**: Good day to you, <Player>. Indeed, we are currently holding your $0 from the CRA for safekeeping. Here you are.
-- **9073**: Select goodness: [Race portion ($0/$1)./Cut Scene ([Yes/No])./Opening ([Yes/No])./On screen text ([On/Off])./Cancel Race./Start Race.]
-- **9074**: Select race portion? [Yes./No.]
-- **9075**: Select starting node. (0-31)
-- **9076**: Select ending node. (1-32)
-- **9077**: Play Cut Scene? [Yessir./No way.]
-- **9078**: Play Opening? [Yep./Nope.]
-- **9079**: Display Condition? [Yes./No. (Default)]
-- **9080**: $0/$1/$2/$3 $4/$5/$6/$7
-- **9363**: My apologies, [sir/ma'am], but it appears that you have yet to conduct all of the necessary processing at the service area for advanced and veteran racers. Please speak to the attendants there for further assistance.
-- **9433**: Skip the racing scene? [Yes, please./No. I've got front-row seats!]
-- **9434**: You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!
+- **8705**: $0
+- **8712**: Recreating race from points $0\`$1.
+- **8913**: Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers.
+- **8914**: I am sorry, but there are no races scheduled at the moment.
+- **8915**: Participation in our organization's races requires that you either possess $0 or currently have your own full-grown chocobo.
+- **8916**: How about you, [sir/ma'am]?
+- **8917**: If possible, we would like you to join us, and help show those trainers in [Bastok and Windurst/San d'Oria and Windurst/San d'Oria and Bastok] which racing team is truly the best in Vana'diel.
+- **8918**: What do you say? [Tell me more./Sign me up!/Not today.]
+- **8919**: Congratulations, <Player>! You are now an official member of the CRA's [San d'Oria/Bastok/Windurst] racing team.
+- **8920**: I see. Please come back if you ever change your mind!
+- **8921**: What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]
+- **8922**: Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills.
+- **8923**: We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business.
+- **8924**: However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races...
+- **8925**: The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed.
+- **8926**: And that's why I'm here, trying to enlist you and other top breeders into our noble ranks.
+- **8927**: Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!
+- **8928**: First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride.
+- **8929**: Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees.
+- **8930**: As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition.
+- **8931**: Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes.
+- **8932**: Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey.
+- **8933**: Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style.
+- **8934**: In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance.
+- **8935**: Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip.
+- **8936**: Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks.
+- **8937**: Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races.
+- **8938**: Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice.
+- **8939**: There are two main types of races.
+- **8940**: The first type is called an official race. To participate in one of these, you will require chocobucks.
+- **8941**: Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community.
+- **8942**: You may also take part in an official race as often as needed to complete the specified objectives.
+- **8943**: However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again.
+- **8944**: The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match.
+- **8945**: You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)
+- **8946**: The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria.
+- **8947**: Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two.
+- **8948**: Breeders are allowed to register with any team they like, and may change their affiliation at any time.
+- **8949**: In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved.
+- **8950**: You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data.
+- **8951**: Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one).
+- **8952**: Ah, it says here that you are a member of the [San d'Oria/Bastok/Windurst] racing team.
+- **8953**: Have you come today to change your affiliation?
+- **8954**: Remember, you will not be able to use any chocobucks earned in [San d'Oria/Bastok/Windurst] here, and you will also lose any Solo Victory Points that you may have. Are you sure you want to go through with this?
+- **8955**: Join this team? [Yes./No.]
+- **8956**: Congratulations! You are the newest member of the CRA's [San d'Oria/Bastok/Windurst] racing team!
+- **8957**: Understood. But remember, we are always looking for great racers like you to join our team. If you ever change your mind, I'll be right here waiting.
+- **8958**: Ah, so you have brought items for your chocobo.
+- **8959**: What do we have here...
+- **8960**: #:
+- **8961**: Alright, <Player>, I will store this in our safe.
+- **8962**: Alright, <Player>, I will store these in our safe.
+- **8963**: I am sorry, but you have already brought me one of those.
+- **8964**: I am sorry, but you have already brought me these items.
+- **8965**: Hello! What might I interest you in today?
+- **8966**: (You have $3 [chocobuck/chocobucks].) [Chocobo [registration/confirmation]./Item confirmation./Free run ($1 gil)./Official race ($2 [chocobuck/chocobucks])./Re-run./Rule confirmation./Nothing.]
+- **8968**: You cannot access this menu until you have registered a chocobo to race.
+- **8969**: To register your chocobo, you must first bring me either $0 or $1.
+- **8970**: You can only register one chocobo at a time, but you may always register a new one whenever you wish.
+- **8971**: We currently hold for you: [/$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]
+- **8972**: With newly developed CRA technology, you can now relive the excitement of a previously cleared official race!
+- **8973**: You may participate in these "re-runs" as many times as you wish, but just remember--the race may be the same, but the prizes for placing won't!
+- **8974**: Re-run which race? [Novice Race I./Novice Race II./Novice Race III./Challenge Race I./International Race I./International Race II./Challenge Race II./CRA Classic./Quit./Return.]
+- **8975**: ***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]
+- **8976**: ***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]
+- **8977**: Here is the information on the next race:
+- **8978**: ----------------------------------------
+- **8979**: $26Free Run$26 Chocobos: 8 Objective: None
+- **8980**: While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races.
+- **8981**: Here is the information on the next race:
+- **8982**: $26Novice Race I$26 Chocobos: 4 Objective: Place 3rd or higher
+- **8983**: Use this race to learn the ropes. Try not to worry too much about the other chocobos, and concentrate on discovering your bird's strengths and weaknesses.
+- **8984**: $26Novice Race II$26 Chocobos: 6 Objective: Place 3rd or higher
+- **8985**: This time, your chocobo will be pitted against five opponents. Use your knowledge of your bird's strengths to provide the jockey with the most appropriate orders.
+- **8986**: $26Novice Race III$26 Chocobos: 8 Objective: Place 3rd or higher
+- **8987**: This race is quite similar to a free run in that there will be seven other chocobos racing against you. If you have one available, try equipping an item to improve your bird's performance.
+- **8988**: $26Challenge Race I$26 Chocobos: 2 Objective: Place 1st
+- **8989**: Three of our most revered breeders have heard of your success and wish to challenge you in a head-to-head match.
+- **8990**: $26International Race I$26 Chocobos: 8 Objective: Place 3rd or higher
+- **8991**: The [Bastok/Windurst/San d'Oria] racing team has requested your participation in a nationally sponsored match. The pride of our branch is at stake, <Player>!
+- **8992**: $26International Race II$26 Chocobos: 8 Objective: Place 3rd or higher
+- **8993**: The [Windurst/San d'Oria/Bastok] racing team has requested your participation in a nationally sponsored match. You represented us well last time, <Player>. We're counting on you again!
+- **8994**: $26Challenge Race II$26 Chocobos: 3 Objective: Place 1st
+- **8995**: The challengers you defeated previously have requested a rematch. Also, [Hantileon/Zopago/Pulonono] has expressed interest in this race, and would like to participate as well.
+- **8996**: $26CRA Classic$26 Chocobos: 8 Objective: Place 1st
+- **8997**: The title of "fastest chocobo in the [Kingdom/Republic/Federation]" is up for grabs at the [d'Oraguille Victory Malm/Gustaberg Derby/Rakapopo Cup] sponsored by [the king himself/the president himself/Manustery minister Apururu herself]!
+- **8998**: Participation fee: $0 [chocobuck/chocobucks].
+- **8999**: Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]
+- **9000**: $0 \` Owner: %7Affiliation: [None/San d'Oria Branch/Bastok Branch/Windurst Branch] Gender: [Male/Female]
+- **9001**: Entry No. $3 $0 \` Owner: %7Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female]
+- **9002**: Entry No. $3 $1 \` Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep pace/Final spurt]
+- **9003**: Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]
+- **9004**: Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]
+- **9005**: Change orders to: [Sprint./Keep pace./Final spurt./Quit./Return.]
+- **9006**: Sprint: Have the jockey push your chocobo to its limits from the get go.
+- **9007**: Keep pace: Have the jockey maintain a consistent pace throughout the whole race.
+- **9008**: Final spurt: Have the jockey save your chocobo's energy until the end of the race.
+- **9009**: Is this what you want? [Definitely./Not at all.]
+- **9010**: Equip which item? [Nothing./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]
+- **9011**: These are used during a race to temporarily boost the speed of your chocobo.
+- **9012**: These are used during a race to temporarily regenerate your chocobo's stamina.
+- **9013**: These are used during a race to temporarily resist the effects of any detrimental items aimed at your chocobo.
+- **9014**: These are used during a race to greatly reduce the speed of an opponent chocobo.
+- **9015**: These are used during a race to greatly reduce the stamina of an opponent chocobo.
+- **9016**: These are used during a race to temporarily reduce the speed of all surrounding opponent chocobos.
+- **9017**: These are used during a race to reduce the discernment of all surrounding opponent chocobos.
+- **9018**: These are used during a race to temporarily clear up the weather.
+- **9019**: These are used during a race to temporarily call upon a rainstorm.
+- **9020**: When equipped during a race, this item will slightly increase the strength of your chocobo.
+- **9021**: When equipped during a race, this item will slightly increase the stamina of your chocobo.
+- **9022**: When equipped during a race, this item will slightly increase the discernment of your chocobo.
+- **9023**: When equipped during a race, this item will slightly increase the receptivity of your chocobo.
+- **9025**: I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race.
+- **9026**: I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race.
+- **9027**: Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!
+- **9029**: Don't worry too much about the results of that last race. You must learn from your experience and prepare yourself for the next challenge.
+- **9030**: Congratulations! That final victory has put you in leagues with [San d'Oria's/Bastok's/Windurst's] finest riders!
+- **9031**: All of us here are eager to see what accomplishments you will achieve next!
+- **9032**: Oh, and do be careful with your $0. If you happen to accidentally dispose of it, you will never be able to receive one again.
+- **9033**: So you wish to register a chocobo.
+- **9034**: Let me see... $1 has already been registered.
+- **9035**: Do you wish to cancel $1's registration and sign up $0?
+- **9036**: Register $0? [Yes./No.]
+- **9037**: Excellent! $0 has been successfully registered.
+- **9038**: Very well.
+- **9039**: I'm sorry. You have already registered that chocobo. You may race it at any time.
+- **9040**: I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you.
+- **9041**: I'm sorry. The other chocobos have not finished resting. Please come back a little later.
+- **9042**: One moment please while entries are confirmed with CRA headquarters.
+- **9046**: Ah, <Player>. We have been holding on to the prize from your last race until you had room enough in your gobbiebag to carry it back to your Mog House.
+- **9047**: Might you be <Player>? Excellent. VCS headquarters was informed that you would be stopping by our branch, and sent this package containing the prize from your last race.
+- **9048**: <Player>, thank you for waiting.
+- **9049**: Much to the VCS and the CRA's delight, the recent efforts of chocobo breeders across Vana'diel has helped to generate an unprecedented amount of interest in our endeavor. More people than ever have begun to express an interest in raising their own chocobo.
+- **9050**: As a means of expressing our gratitude, we have therefore decided to confer upon the victors of CRA Classics rewards befitting a champion. We congratulate you on your impressive achievement, <Player>. You are a true inspiration for breeders everywhere!
+- **9051**: Hello there, <Player>. Why yes, we are holding your $0. Here you are.
+- **9052**: Good day to you, <Player>. Indeed, we are currently holding your $0 from the CRA for safekeeping. Here you are.
+- **9074**: Select goodness: [Race portion ($0/$1)./Cut Scene ([Yes/No])./Opening ([Yes/No])./On screen text ([On/Off])./Cancel Race./Start Race.]
+- **9075**: Select race portion? [Yes./No.]
+- **9076**: Select starting node. (0-31)
+- **9077**: Select ending node. (1-32)
+- **9078**: Play Cut Scene? [Yessir./No way.]
+- **9079**: Play Opening? [Yep./Nope.]
+- **9080**: Display Condition? [Yes./No. (Default)]
+- **9081**: $0/$1/$2/$3 $4/$5/$6/$7
+- **9364**: My apologies, [sir/ma'am], but it appears that you have yet to conduct all of the necessary processing at the service area for advanced and veteran racers. Please speak to the attendants there for further assistance.
+- **9434**: Skip the racing scene? [Yes, please./No. I've got front-row seats!]
+- **9435**: You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!
 
 ## Events
 
@@ -571,132 +571,132 @@
   1: 0x0006 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x000C [0x03] ExtData[1]->WorkLocal[29] = Work_Zone[2]
-  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers."
   5: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0015 [0x03] Work_Zone[3] = Work_Zone[2]
   7: 0x001A [0x03] Work_Zone[2] = 2313*
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
     → "Participation in our organization's races requires that you either possess $0 or currently have your own full-grown chocobo."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
- 11: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
+ 11: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
     → "How about you, [sir/ma'am]?"
  12: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8916*)
+ 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
     → "If possible, we would like you to join us, and help show those trainers in [Bastok and Windurst/San d'Oria and Windurst/San d'Oria and Bastok] which racing team is truly the best in Vana'diel."
  14: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0030 [0x24] CREATE_DIALOG(message_id=8917*, default_option=0*, option_flags=0*)
+ 15: 0x0030 [0x24] CREATE_DIALOG(message_id=8918*, default_option=0*, option_flags=0*)
     → "What do you say? [Tell me more./Sign me up!/Not today.]"
  16: 0x0037 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0038 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
  18: 0x0040 [0x06] ExtData[1]->WorkLocal[23] = 0
  19: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x012F
- 20: 0x004B [0x24] CREATE_DIALOG(message_id=8920*, default_option=0*, option_flags=0*)
+ 20: 0x004B [0x24] CREATE_DIALOG(message_id=8921*, default_option=0*, option_flags=0*)
     → "What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]"
  21: 0x0052 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0076
- 23: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8921*)
+ 23: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
     → "Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills."
  24: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
+ 25: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8923*)
     → "We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business."
  26: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8923*)
+ 27: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
     → "However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races..."
  28: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
+ 29: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
     → "The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed."
  30: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+ 31: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
     → "And that's why I'm here, trying to enlist you and other top breeders into our noble ranks."
  32: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+ 33: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!"
  34: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0073 [0x01] GOTO 0x012C
  36: 0x0076 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009B
  37: 0x007E [0x03] Work_Zone[2] = 2313*
  38: 0x0083 [0x03] Work_Zone[3] = 2402*
- 39: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+ 39: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
     → "First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride."
  40: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
+ 41: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
     → "Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees."
  42: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+ 43: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
     → "As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition."
  44: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
+ 45: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
     → "Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes."
  46: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0098 [0x01] GOTO 0x012C
  48: 0x009B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00B6
- 49: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+ 49: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
     → "Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey."
  50: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+ 51: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
     → "Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style."
  52: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
+ 53: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
     → "In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance."
  54: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
+ 55: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
     → "Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip."
  56: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00B3 [0x01] GOTO 0x012C
  58: 0x00B6 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00CD
- 59: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
+ 59: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
     → "Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks."
  60: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
+ 61: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
     → "Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races."
  62: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
+ 63: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
     → "Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice."
  64: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x00CA [0x01] GOTO 0x012C
  66: 0x00CD [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00F4
- 67: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
+ 67: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
     → "There are two main types of races."
  68: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
+ 69: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
     → "The first type is called an official race. To participate in one of these, you will require chocobucks."
  70: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
+ 71: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
     → "Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community."
  72: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
+ 73: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
     → "You may also take part in an official race as often as needed to complete the specified objectives."
  74: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+ 75: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
     → "However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again."
  76: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
+ 77: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
     → "The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match."
  78: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
+ 79: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
     → "You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)"
  80: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x00F1 [0x01] GOTO 0x012C
  82: 0x00F4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x011C
- 83: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
+ 83: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
     → "The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria."
  84: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
+ 85: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
     → "Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two."
  86: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
+ 87: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
     → "Breeders are allowed to register with any team they like, and may change their affiliation at any time."
  88: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+ 89: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
     → "In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved."
  90: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
+ 91: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
     → "You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data."
  92: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0110 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
- 94: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
+ 94: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
     → "Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one)."
  95: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0119 [0x01] GOTO 0x012C
@@ -709,12 +709,12 @@ SUBROUTINE_012C:
 101: 0x012F [0x01] GOTO 0x0152
 102: 0x0132 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x014B
 103: 0x013A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-104: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
+104: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=8919*)
     → "Congratulations, <Player>! You are now an official member of the CRA's [San d'Oria/Bastok/Windurst] racing team."
 105: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0143 [0x03] Work_Zone[1] = 1*
 107: 0x0148 [0x01] GOTO 0x0152
-108: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8919*)
+108: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8920*)
     → "I see. Please come back if you ever change your mind!"
 109: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x014F [0x06] Work_Zone[1] = 0
@@ -755,10 +755,10 @@ SUBROUTINE_0152:
   1: 0x0159 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x015A [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x015F [0x03] ExtData[1]->WorkLocal[29] = Work_Zone[2]
-  4: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  4: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers."
   5: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
+  6: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
     → "My apologies, [sir/ma'am], but it appears that you have yet to conduct all of the necessary processing at the service area for advanced and veteran racers. Please speak to the attendants there for further assistance."
   7: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x016C [0x21] END_EVENT
@@ -791,25 +791,25 @@ SUBROUTINE_0152:
   0: 0x016E [0x03] Work_Zone[65] = 0*
   1: 0x0173 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0174 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
+  3: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
     → "Ah, it says here that you are a member of the [San d'Oria/Bastok/Windurst] racing team."
   4: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
+  5: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
     → "Have you come today to change your affiliation?"
   6: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
+  7: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8954*)
     → "Remember, you will not be able to use any chocobucks earned in [San d'Oria/Bastok/Windurst] here, and you will also lose any Solo Victory Points that you may have. Are you sure you want to go through with this?"
   8: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0185 [0x24] CREATE_DIALOG(message_id=8954*, default_option=1*, option_flags=0*)
+  9: 0x0185 [0x24] CREATE_DIALOG(message_id=8955*, default_option=1*, option_flags=0*)
     → "Join this team? [Yes./No.]"
  10: 0x018C [0x25] WAIT_DIALOG_SELECT()
  11: 0x018D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A1
- 12: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=8955*)
+ 12: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=8956*)
     → "Congratulations! You are the newest member of the CRA's [San d'Oria/Bastok/Windurst] racing team!"
  13: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0199 [0x03] Work_Zone[1] = 1*
  15: 0x019E [0x01] GOTO 0x01A5
- 16: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8956*)
+ 16: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8957*)
     → "Understood. But remember, we are always looking for great racers like you to join our team. If you ever change your mind, I'll be right here waiting."
  17: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -852,11 +852,11 @@ SUBROUTINE_01A5:
   0: 0x01A7 [0x03] Work_Zone[65] = 0*
   1: 0x01AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x01AD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8957*)
+  3: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8958*)
     → "Ah, so you have brought items for your chocobo."
   4: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B6 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x025E
-  6: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8958*)
+  6: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8959*)
     → "What do we have here..."
   7: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C2 [0x03] ExtData[1]->WorkLocal[23] = 1*
@@ -866,7 +866,7 @@ SUBROUTINE_01A5:
  12: 0x01D5 [0x3E] IF !(Work_Zone[3] bit ExtData[1]->WorkLocal[23]) GOTO 0x01F6
  13: 0x01DC [0x9D] Work_Zone[2] = 0x2571[ExtData[1]->WorkLocal[23]] // Read WORD
  14: 0x01E4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
- 15: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8959*)
+ 15: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8960*)
     → "#:"
  16: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x01EB [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[23]
@@ -876,11 +876,11 @@ SUBROUTINE_01A5:
  21: 0x01FB [0x01] GOTO 0x01CD
  22: 0x01FE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  23: 0x0201 [0x02] IF !(Work_Zone_1700[0] == 1*) GOTO 0x0210
- 24: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8960*)
+ 24: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8961*)
     → "Alright, <Player>, I will store this in our safe."
  25: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x020D [0x01] GOTO 0x0214
- 27: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8961*)
+ 27: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8962*)
     → "Alright, <Player>, I will store these in our safe."
  28: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -892,7 +892,7 @@ SUBROUTINE_021A:
  31: 0x021A [0x02] IF !(ExtData[1]->WorkLocal[23] > 30*) GOTO 0x0240
  32: 0x0222 [0x3E] IF !(Work_Zone[5] bit ExtData[1]->WorkLocal[23]) GOTO 0x0238
  33: 0x0229 [0x9D] Work_Zone[2] = 0x2571[ExtData[1]->WorkLocal[23]] // Read WORD
- 34: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8959*)
+ 34: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8960*)
     → "#:"
  35: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0235 [0x0B] Work_Zone_1700[0]++
@@ -900,17 +900,17 @@ SUBROUTINE_021A:
  38: 0x023D [0x01] GOTO 0x021A
  39: 0x0240 [0x02] IF !(Work_Zone_1700[0] <= 0*) GOTO 0x025B
  40: 0x0248 [0x02] IF !(Work_Zone_1700[0] == 1*) GOTO 0x0257
- 41: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8962*)
+ 41: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8963*)
     → "I am sorry, but you have already brought me one of those."
  42: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0254 [0x01] GOTO 0x025B
- 44: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8963*)
+ 44: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=8964*)
     → "I am sorry, but you have already brought me these items."
  45: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_025B:
  46: 0x025B [0x01] GOTO 0x0262
- 47: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8962*)
+ 47: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8963*)
     → "I am sorry, but you have already brought me one of those."
  48: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -951,7 +951,7 @@ SUBROUTINE_0262:
   0: 0x0264 [0x03] Work_Zone[65] = 0*
   1: 0x0269 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x026A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
+  3: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=9033*)
     → "So you wish to register a chocobo."
   4: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0273 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x01 - Copy string from event strings table, work_offset=Work_Zone[60], string_index=0*)
@@ -965,22 +965,22 @@ SUBROUTINE_0262:
  13: 0x02A2 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x02C5
  14: 0x02AA [0x1A] CALL_SUBROUTINE(address=0x086D)
  15: 0x02AD [0x03] Work_Zone[3] = 1*
- 16: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9033*)
+ 16: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
     → "Let me see... $1 has already been registered."
  17: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x02B6 [0x03] Work_Zone[2] = 0*
- 19: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+ 19: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
     → "Do you wish to cancel $1's registration and sign up $0?"
  20: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x02BF [0x1A] CALL_SUBROUTINE(address=0x086E)
  22: 0x02C2 [0x01] GOTO 0x02DD
  23: 0x02C5 [0x1A] CALL_SUBROUTINE(address=0x086D)
  24: 0x02C8 [0x03] Work_Zone[3] = 1*
- 25: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9033*)
+ 25: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
     → "Let me see... $1 has already been registered."
  26: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x02D1 [0x1A] CALL_SUBROUTINE(address=0x086E)
- 28: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
+ 28: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
     → "I'm sorry. You have already registered that chocobo. You may race it at any time."
  29: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x02D8 [0x06] Work_Zone[1] = 0
@@ -989,16 +989,16 @@ SUBROUTINE_0262:
 
 SUBROUTINE_02DD:
  33: 0x02DD [0x03] Work_Zone[2] = 0*
- 34: 0x02E2 [0x24] CREATE_DIALOG(message_id=9035*, default_option=1*, option_flags=0*)
+ 34: 0x02E2 [0x24] CREATE_DIALOG(message_id=9036*, default_option=1*, option_flags=0*)
     → "Register $0? [Yes./No.]"
  35: 0x02E9 [0x25] WAIT_DIALOG_SELECT()
  36: 0x02EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FE
- 37: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
+ 37: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
     → "Excellent! $0 has been successfully registered."
  38: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x02F6 [0x03] Work_Zone[1] = 1*
  40: 0x02FB [0x01] GOTO 0x0305
- 41: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
+ 41: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
     → "Very well."
  42: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0302 [0x06] Work_Zone[1] = 0
@@ -1036,24 +1036,24 @@ SUBROUTINE_0305:
   2: 0x030D [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0312 [0x02] IF !(Work_Zone[2] == Work_Zone[3]) GOTO 0x0335
   4: 0x031A [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0329
-  5: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=9045*)
+  5: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
     → "Ah, <Player>. We have been holding on to the prize from your last race until you had room enough in your gobbiebag to carry it back to your Mog House."
   6: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0326 [0x01] GOTO 0x0332
   8: 0x0329 [0x03] Work_Zone[2] = 308*
-  9: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
+  9: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
     → "Hello there, <Player>. Why yes, we are holding your $0. Here you are."
  10: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0332:
  11: 0x0332 [0x01] GOTO 0x034D
  12: 0x0335 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0344
- 13: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=9046*)
+ 13: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
     → "Might you be <Player>? Excellent. VCS headquarters was informed that you would be stopping by our branch, and sent this package containing the prize from your last race."
  14: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0341 [0x01] GOTO 0x034D
  16: 0x0344 [0x03] Work_Zone[2] = 308*
- 17: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=9051*)
+ 17: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
     → "Good day to you, <Player>. Indeed, we are currently holding your $0 from the CRA for safekeeping. Here you are."
  18: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1086,13 +1086,13 @@ SUBROUTINE_034D:
   0: 0x034F [0x03] Work_Zone[65] = 0*
   1: 0x0354 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0355 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=9047*)
+  3: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
     → "<Player>, thank you for waiting."
   4: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
+  5: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
     → "Much to the VCS and the CRA's delight, the recent efforts of chocobo breeders across Vana'diel has helped to generate an unprecedented amount of interest in our endeavor. More people than ever have begun to express an interest in raising their own chocobo."
   6: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
+  7: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
     → "As a means of expressing our gratitude, we have therefore decided to confer upon the victors of CRA Classics rewards befitting a champion. We congratulate you on your impressive achievement, <Player>. You are a true inspiration for breeders everywhere!"
   8: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0366 [0x21] END_EVENT
@@ -1174,7 +1174,7 @@ SUBROUTINE_034D:
  11: 0x03B5 [0x1C] WAIT(60* ticks)
  12: 0x03B8 [0x1A] CALL_SUBROUTINE(address=0x0634)
  13: 0x03BB [0x02] IF !(ExtData[1]->WorkLocal[27] == 0*) GOTO 0x03C7
- 14: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8964*)
+ 14: 0x03C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8965*)
     → "Hello! What might I interest you in today?"
  15: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x03C7 [0x06] ExtData[1]->WorkLocal[23] = 0
@@ -1212,7 +1212,7 @@ SUBROUTINE_0437:
  42: 0x0444 [0x9D] ExtData[1]->WorkLocal[22] = 0x2371[ExtData[1]->WorkLocal[13]] // Read WORD
  43: 0x044C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[22]
  44: 0x0451 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[1]
- 45: 0x0456 [0x24] CREATE_DIALOG(message_id=8965*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
+ 45: 0x0456 [0x24] CREATE_DIALOG(message_id=8966*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
     → "(You have $3 [chocobuck/chocobucks].) [Chocobo [registration/confirmation]./Item confirmation./Free run ($1 gil)./Official race ($2 [chocobuck/chocobucks])./Re-run./Rule confirmation./Nothing.]"
  46: 0x045D [0x25] WAIT_DIALOG_SELECT()
  47: 0x045E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04F4
@@ -1220,10 +1220,10 @@ SUBROUTINE_0437:
  49: 0x046E [0x03] Work_Zone[2] = 2313*
  50: 0x0473 [0x03] Work_Zone[3] = 2402*
  51: 0x0478 [0x1A] CALL_SUBROUTINE(address=0x086D)
- 52: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=8968*)
+ 52: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=8969*)
     → "To register your chocobo, you must first bring me either $0 or $1."
  53: 0x047E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=8969*)
+ 54: 0x047F [0x1D] PRINT_EVENT_MESSAGE(message_id=8970*)
     → "You can only register one chocobo at a time, but you may always register a new one whenever you wish."
  55: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0483 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -1251,7 +1251,7 @@ SUBROUTINE_04F1:
  76: 0x0502 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x054C
  77: 0x050A [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x051F
  78: 0x0512 [0x1A] CALL_SUBROUTINE(address=0x086D)
- 79: 0x0515 [0x1D] PRINT_EVENT_MESSAGE(message_id=8967*)
+ 79: 0x0515 [0x1D] PRINT_EVENT_MESSAGE(message_id=8968*)
     → "You cannot access this menu until you have registered a chocobo to race."
  80: 0x0518 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0519 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -1264,7 +1264,7 @@ SUBROUTINE_04F1:
  88: 0x0539 [0x1A] CALL_SUBROUTINE(address=0x0D9F)
  89: 0x053C [0x01] GOTO 0x0549
  90: 0x053F [0x1A] CALL_SUBROUTINE(address=0x086D)
- 91: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
+ 91: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
     → "I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race."
  92: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0546 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -1274,7 +1274,7 @@ SUBROUTINE_0549:
  95: 0x054C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0591
  96: 0x0554 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0569
  97: 0x055C [0x1A] CALL_SUBROUTINE(address=0x086D)
- 98: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=8967*)
+ 98: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=8968*)
     → "You cannot access this menu until you have registered a chocobo to race."
  99: 0x0562 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0563 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -1285,7 +1285,7 @@ SUBROUTINE_0549:
 105: 0x057E [0x1A] CALL_SUBROUTINE(address=0x118B)
 106: 0x0581 [0x01] GOTO 0x058E
 107: 0x0584 [0x1A] CALL_SUBROUTINE(address=0x086D)
-108: 0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+108: 0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
 109: 0x058A [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x058B [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -1295,7 +1295,7 @@ SUBROUTINE_058E:
 112: 0x0591 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x05B4
 113: 0x0599 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x05AE
 114: 0x05A1 [0x1A] CALL_SUBROUTINE(address=0x086D)
-115: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8967*)
+115: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8968*)
     → "You cannot access this menu until you have registered a chocobo to race."
 116: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x05A8 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -1345,10 +1345,10 @@ SUBROUTINE_05FD:
   0: 0x0602 [0x03] Work_Zone[65] = 0*
   1: 0x0607 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x060C [0x1C] WAIT(30* ticks)
-  3: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  3: 0x060F [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "Welcome to the Chocobo Racing Association's (CRA) [San d'Oria/Bastok/Windurst] branch. This service desk is here to accommodate our beginning and intermediate racers."
   4: 0x0612 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
+  5: 0x0613 [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
     → "I am sorry, but there are no races scheduled at the moment."
   6: 0x0616 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0617 [0x21] END_EVENT
@@ -1915,7 +1915,7 @@ SUBROUTINE_05FD:
 23D0: 80 F2 80 F2 80 F2 80 F2  80 F2 80 F2 80 F2 80 F2  ................
 23E0: 80 F2 80 F2 80 F2 80 F2  80 F2 80 F2 80 F2 80 F2  ................
 23F0: 80 F3 80 62 80 F4 80 F5  80 F6 80 F7 80 F8 80 F9  ...b............
-2400: 80 FA 80 FB 80 FC 80 FD  80 76 80 FE 80 00 80 00  .........v......
+2400: 80 FA 80 FB 80 FC 80 FD  80 75 80 FE 80 00 80 00  .........u......
 2410: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
 2420: 80 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
 2430: 80 0E 80 0E 80 0E 80 38  80 F1 80 FF 80 50 80 00  .......8.....P..
@@ -1931,7 +1931,7 @@ SUBROUTINE_05FD:
 24D0: 80 0E 80 0E 80 0E 80 0E  80 0E 80 0E 80 0E 80 0E  ................
 24E0: 80 F2 80 05 81 4D 80 06  81 07 81 08 81 09 81 62  .....M.........b
 24F0: 80 F4 80 0A 81 0B 81 F5  80 0C 81 0D 81 0E 81 F6  ................
-2500: 80 F7 80 F8 80 F9 80 FA  80 FB 80 FC 80 FD 80 76  ...............v
+2500: 80 F7 80 F8 80 F9 80 FA  80 FB 80 FC 80 FD 80 75  ...............u
 2510: 80 0F 81 FE 80 10 81 11  81 12 81 13 81 14 81 15  ................
 2520: 81 16 81 17 81 18 81 19  81 1A 81 1B 81 1C 81 1D  ................
 2530: 81 1E 81 1F 81 20 81 21  81 22 81 23 81 24 81 25  ..... .!.".#.$.%
@@ -2018,27 +2018,27 @@ SUBROUTINE_05FD:
      0x0721 [0x1B] RETURN
      0x0722 [0x06] ExtData[1]->WorkLocal[23] = 0
      0x0725 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x086C
-     0x072D [0x24] CREATE_DIALOG(message_id=8920*, default_option=0*, option_flags=0*)
+     0x072D [0x24] CREATE_DIALOG(message_id=8921*, default_option=0*, option_flags=0*)
     → "What would you like to know? [Why race chocobos, anyway?/How do I register for a race?/How do I prepare for a race?/What are chocobucks?/What kind of races are there?/What are "racing teams"?/Quit./Return.]"
      0x0734 [0x25] WAIT_DIALOG_SELECT()
      0x0735 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x075E
      0x073D [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0740 [0x1D] PRINT_EVENT_MESSAGE(message_id=8921*)
+     0x0740 [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
     → "Why not!? Our original plan was to establish locations across Vana'diel where people could test their birds' skills."
      0x0743 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0744 [0x1D] PRINT_EVENT_MESSAGE(message_id=8922*)
+     0x0744 [0x1D] PRINT_EVENT_MESSAGE(message_id=8923*)
     → "We felt that this would help us maintain breeder motivation, which in turn would ensure healthier, happier chocobos. A "win-win situation," as we like to call it in the business."
      0x0747 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=8923*)
+     0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
     → "However, as rumors of these new facilities began to leak out into the world, people began speculating about the possibility of officially sanctioned chocobo races..."
      0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=8924*)
+     0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
     → "The VCS could not ignore the voice of the masses, and it was not long before a meeting was held, a vote was taken, and the CRA was formed."
      0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=8925*)
+     0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
     → "And that's why I'm here, trying to enlist you and other top breeders into our noble ranks."
      0x0753 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0754 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+     0x0754 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "Oh, and for our more seasoned veterans who feel there are no challenges left for them here at the track, the CRA has finished preparing a new race. And rumor has that it's a doozie!"
      0x0757 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0758 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -2047,93 +2047,93 @@ SUBROUTINE_05FD:
      0x0766 [0x1A] CALL_SUBROUTINE(address=0x086D)
      0x0769 [0x03] Work_Zone[2] = 2313*
      0x076E [0x03] Work_Zone[3] = 2402*
-     0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+     0x0773 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
     → "First of all, your chocobo must be fully grown. It doesn't matter if you are still tending to it, or if it has been sent to pasture, as long as it is large enough to ride."
      0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0777 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
+     0x0777 [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
     → "Next, you must bring me either $0 or $1. This is all I will require. There are no hidden fees."
      0x077A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=8929*)
+     0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
     → "As your chocobo develops, be sure to re-register it. This will ensure that your steed is provided with the equipment that most suits its current condition."
      0x077E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=8930*)
+     0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
     → "Finally, you may only register one chocobo at a time, but are free to register a new bird whenever you wish. You need only speak with me to make any necessary changes."
      0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0783 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0786 [0x01] GOTO 0x0869
      0x0789 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x07AA
      0x0791 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0794 [0x1D] PRINT_EVENT_MESSAGE(message_id=8931*)
+     0x0794 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
     → "Once you have registered your chocobo and entered it in a competition, the CRA will proceed in assigning it a licensed jockey."
      0x0797 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0798 [0x1D] PRINT_EVENT_MESSAGE(message_id=8932*)
+     0x0798 [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
     → "Before each race you will be given the opportunity to give the jockey specific orders on his or her riding style."
      0x079B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x079C [0x1D] PRINT_EVENT_MESSAGE(message_id=8933*)
+     0x079C [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
     → "In addition to these orders, you can also provide the jockey with items to use while riding, as well as equipment to improve your chocobo's performance."
      0x079F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8934*)
+     0x07A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
     → "Before a race, you can also check the strengths and weaknesses of the other participating chocobos. It is recommended that you use this data when deciding on what orders to give, or which items to equip."
      0x07A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07A4 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x07A7 [0x01] GOTO 0x0869
      0x07AA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x07C7
      0x07B2 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x07B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8935*)
+     0x07B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
     → "Depending on your chocobo's performance in select CRA-sanctioned races, you may or may not receive a prize consisting of VCS-mint chocobucks."
      0x07B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8936*)
+     0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
     → "Chocobucks can be used to purchase items, as well as upgrade your mount. Chocobucks are also required to participate in official races."
      0x07BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8937*)
+     0x07BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
     → "Currently, players can earn up to, but no more than, 1000 chocobucks. However, this may change without notice."
      0x07C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07C1 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x07C4 [0x01] GOTO 0x0869
      0x07C7 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x07F4
      0x07CF [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x07D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8938*)
+     0x07D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
     → "There are two main types of races."
      0x07D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8939*)
+     0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
     → "The first type is called an official race. To participate in one of these, you will require chocobucks."
      0x07D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8940*)
+     0x07DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
     → "Placing in an official race will earn you gil. The more races you complete, the more respected you will become in the breeder community."
      0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8941*)
+     0x07DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
     → "You may also take part in an official race as often as needed to complete the specified objectives."
      0x07E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8942*)
+     0x07E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
     → "However, after some of the more grueling races, you may be required to wait before entering the next. This is to give your chocobo, as well as the others, an opportunity to rest before running again."
      0x07E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8943*)
+     0x07E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
     → "The second type of race is called a free run. Unlike the official races, these can be run at any time, regardless of the results of a previous match."
      0x07E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
+     0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
     → "You must pay a fee in gil to participate in free runs, but you will have the opportunity to earn chocobucks depending on your chocobo's performance. You can join as many free runs as you wish in a single day (Earth time), but extra fees may be required for each additional race. (Stable hands have to make a living, too!)"
      0x07ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x07EE [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x07F1 [0x01] GOTO 0x0869
      0x07F4 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0822
      0x07FC [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x07FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
+     0x07FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
     → "The CRA is split up into three racing teams representing Bastok, Windurst, and San d'Oria."
      0x0802 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0803 [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
+     0x0803 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
     → "Each team has its own skilled jockeys, and offers unique services that cannot be obtained at the other two."
      0x0806 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0807 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
+     0x0807 [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
     → "Breeders are allowed to register with any team they like, and may change their affiliation at any time."
      0x080A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x080B [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+     0x080B [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
     → "In the event that you wish to leave a racing team, all official race results, as well as earned chocobucks, will be saved."
      0x080E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x080F [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
+     0x080F [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
     → "You never have to worry that your past accomplishments may be deleted and lost forever. You only need rejoin the team to restore all your old data."
      0x0812 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0813 [0x03] Work_Zone[2] = 0*
-     0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
+     0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
     → "Anyway, there is no harm in visiting all three racing teams to find which one suits you best (though I know you'll choose this one)."
      0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x081C [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -2154,10 +2154,10 @@ SUBROUTINE_05FD:
      0x086D [0x1B] RETURN
      0x086E [0x1B] RETURN
      0x086F [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=8971*)
+     0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=8972*)
     → "With newly developed CRA technology, you can now relive the excitement of a previously cleared official race!"
      0x0875 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0876 [0x1D] PRINT_EVENT_MESSAGE(message_id=8972*)
+     0x0876 [0x1D] PRINT_EVENT_MESSAGE(message_id=8973*)
     → "You may participate in these "re-runs" as many times as you wish, but just remember--the race may be the same, but the prizes for placing won't!"
      0x0879 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x087A [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -2170,7 +2170,7 @@ SUBROUTINE_05FD:
      0x089F [0x01] GOTO 0x088D
      0x08A2 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[1], bit_index_work_offset=8*, condition_work_offset=1*)
      0x08A9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone_1700[1], bit_index_work_offset=9*, condition_work_offset=1*)
-     0x08B0 [0x24] CREATE_DIALOG(message_id=8973*, default_option=0*, option_flags=Work_Zone_1700[1])
+     0x08B0 [0x24] CREATE_DIALOG(message_id=8974*, default_option=0*, option_flags=Work_Zone_1700[1])
     → "Re-run which race? [Novice Race I./Novice Race II./Novice Race III./Challenge Race I./International Race I./International Race II./Challenge Race II./CRA Classic./Quit./Return.]"
      0x08B7 [0x25] WAIT_DIALOG_SELECT()
      0x08B8 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x08FE
@@ -2247,14 +2247,14 @@ SUBROUTINE_05FD:
      0x0A59 [0x6A] CHANGE_SOUND_VOLUME: Set (Effects/System/Zone/Master)* volume to 999*, fade_time=15*
      0x0A60 [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x0A75
      0x0A68 [0x1A] CALL_SUBROUTINE(address=0x26A1)
-     0x0A6B [0x48] [System] [8999*]:
+     0x0A6B [0x48] [System] [9000*]:
     → "$0 ` Owner: %7Affiliation: [None/San d'Oria Branch/Bastok Branch/Windurst Branch] Gender: [Male/Female]"
      0x0A6E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A6F [0x1A] CALL_SUBROUTINE(address=0x26AC)
      0x0A72 [0x01] GOTO 0x0A84
      0x0A75 [0x03] Work_Zone[5] = 1*
      0x0A7A [0x1A] CALL_SUBROUTINE(address=0x26A1)
-     0x0A7D [0x48] [System] [9000*]:
+     0x0A7D [0x48] [System] [9001*]:
     → "Entry No. $3 $0 ` Owner: %7Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female]"
      0x0A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A81 [0x1A] CALL_SUBROUTINE(address=0x26AC)
@@ -2266,13 +2266,13 @@ SUBROUTINE_05FD:
      0x0AA9 [0x15] Work_Zone[4] /= 32*
      0x0AAE [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[13] (bits 24*-31*)
      0x0AB7 [0x15] Work_Zone[5] /= 32*
-     0x0ABC [0x48] [System] [9002*]:
+     0x0ABC [0x48] [System] [9003*]:
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
      0x0ABF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AC0 [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[14] (bits 20*-23*)
      0x0AC9 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[14] (bits 9*-12*)
      0x0AD2 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[14] (bits 13*-16*)
-     0x0ADB [0x48] [System] [9003*]:
+     0x0ADB [0x48] [System] [9004*]:
     → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
      0x0ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ADF [0x03] Work_Zone[57] = 0*
@@ -2280,7 +2280,7 @@ SUBROUTINE_05FD:
      0x0AEA [0x1B] RETURN
      0x0AEB [0x1A] CALL_SUBROUTINE(address=0x0B7F)
      0x0AEE [0x02] IF !(1* == 1*) GOTO 0x0B7E
-     0x0AF6 [0x24] CREATE_DIALOG(message_id=8970*, default_option=1*, option_flags=ExtData[1]->WorkLocal[13])
+     0x0AF6 [0x24] CREATE_DIALOG(message_id=8971*, default_option=1*, option_flags=ExtData[1]->WorkLocal[13])
     → "We currently hold for you: [/$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]"
      0x0AFD [0x25] WAIT_DIALOG_SELECT()
      0x0AFE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B09
@@ -2352,79 +2352,79 @@ SUBROUTINE_05FD:
      0x0CB3 [0x1B] RETURN
      0x0CB4 [0x02] IF !(Work_Zone_1700[29] == 1*) GOTO 0x0CC6
      0x0CBC [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
+     0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
     → "These are used during a race to temporarily boost the speed of your chocobo."
      0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CC3 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0CC6 [0x02] IF !(Work_Zone_1700[29] == 2*) GOTO 0x0CD8
      0x0CCE [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0CD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
+     0x0CD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
     → "These are used during a race to temporarily regenerate your chocobo's stamina."
      0x0CD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CD5 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0CD8 [0x02] IF !(Work_Zone_1700[29] == 3*) GOTO 0x0CEA
      0x0CE0 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
+     0x0CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
     → "These are used during a race to temporarily resist the effects of any detrimental items aimed at your chocobo."
      0x0CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CE7 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0CEA [0x02] IF !(Work_Zone_1700[29] == 4*) GOTO 0x0CFC
      0x0CF2 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0CF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
+     0x0CF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9014*)
     → "These are used during a race to greatly reduce the speed of an opponent chocobo."
      0x0CF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CF9 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0CFC [0x02] IF !(Work_Zone_1700[29] == 5*) GOTO 0x0D0E
      0x0D04 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9014*)
+     0x0D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9015*)
     → "These are used during a race to greatly reduce the stamina of an opponent chocobo."
      0x0D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D0B [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D0E [0x02] IF !(Work_Zone_1700[29] == 6*) GOTO 0x0D20
      0x0D16 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9015*)
+     0x0D19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9016*)
     → "These are used during a race to temporarily reduce the speed of all surrounding opponent chocobos."
      0x0D1C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D1D [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D20 [0x02] IF !(Work_Zone_1700[29] == 7*) GOTO 0x0D32
      0x0D28 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D2B [0x1D] PRINT_EVENT_MESSAGE(message_id=9016*)
+     0x0D2B [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
     → "These are used during a race to reduce the discernment of all surrounding opponent chocobos."
      0x0D2E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D2F [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D32 [0x02] IF !(Work_Zone_1700[29] == 8*) GOTO 0x0D44
      0x0D3A [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
+     0x0D3D [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
     → "These are used during a race to temporarily clear up the weather."
      0x0D40 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D41 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D44 [0x02] IF !(Work_Zone_1700[29] == 9*) GOTO 0x0D56
      0x0D4C [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D4F [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0D4F [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "These are used during a race to temporarily call upon a rainstorm."
      0x0D52 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D53 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D56 [0x02] IF !(Work_Zone_1700[29] == 27*) GOTO 0x0D68
      0x0D5E [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "When equipped during a race, this item will slightly increase the strength of your chocobo."
      0x0D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D65 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D68 [0x02] IF !(Work_Zone_1700[29] == 28*) GOTO 0x0D7A
      0x0D70 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0D73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "When equipped during a race, this item will slightly increase the stamina of your chocobo."
      0x0D76 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D77 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D7A [0x02] IF !(Work_Zone_1700[29] == 29*) GOTO 0x0D8C
      0x0D82 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0D85 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "When equipped during a race, this item will slightly increase the discernment of your chocobo."
      0x0D88 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D89 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0D8C [0x02] IF !(Work_Zone_1700[29] == 30*) GOTO 0x0D9E
      0x0D94 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0D97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
+     0x0D97 [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
     → "When equipped during a race, this item will slightly increase the receptivity of your chocobo."
      0x0D9A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D9B [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -2436,25 +2436,25 @@ SUBROUTINE_05FD:
      0x0DB5 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0FAD
      0x0DBD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
      0x0DC2 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-     0x0DC7 [0x24] CREATE_DIALOG(message_id=8974*, default_option=0*, option_flags=0*)
+     0x0DC7 [0x24] CREATE_DIALOG(message_id=8975*, default_option=0*, option_flags=0*)
     → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]"
      0x0DCE [0x25] WAIT_DIALOG_SELECT()
      0x0DCF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DF4
-     0x0DD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8976*)
+     0x0DD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8977*)
     → "Here is the information on the next race:"
      0x0DDA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DDB [0x48] [System] [8977*]:
+     0x0DDB [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x0DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DDF [0x48] [System] [8978*]:
+     0x0DDF [0x48] [System] [8979*]:
     → "$26Free Run$26 Chocobos: 8 Objective: None"
      0x0DE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DE3 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0DE6 [0x48] [System] [8979*]:
+     0x0DE6 [0x48] [System] [8980*]:
     → "While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races."
      0x0DE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DEA [0x1A] CALL_SUBROUTINE(address=0x086E)
-     0x0DED [0x48] [System] [8977*]:
+     0x0DED [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x0DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DF1 [0x01] GOTO 0x0FAA
@@ -2484,18 +2484,18 @@ SUBROUTINE_05FD:
      0x0E68 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x60)
      0x0E6A [0x00] END_REQSTACK()
      0x0E6B [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 268599296/0x10028000))
-     0x0E70 [0x48] [System] [8704*]:
+     0x0E70 [0x48] [System] [8705*]:
     → "$0"
      0x0E73 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E74 [0x03] Work_Zone[2] = Work_Zone[7]
-     0x0E79 [0x48] [System] [8704*]:
+     0x0E79 [0x48] [System] [8705*]:
     → "$0"
      0x0E7C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E7D [0x03] Work_Zone[2] = Work_Zone[8]
-     0x0E82 [0x48] [System] [8704*]:
+     0x0E82 [0x48] [System] [8705*]:
     → "$0"
      0x0E85 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E86 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+     0x0E86 [0x24] CREATE_DIALOG(message_id=9434*, default_option=0*, option_flags=0*)
     → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
      0x0E8D [0x25] WAIT_DIALOG_SELECT()
      0x0E8E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EBF
@@ -2503,7 +2503,7 @@ SUBROUTINE_05FD:
      0x0E9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x0EAC [0x1C] WAIT(60* ticks)
      0x0EAF [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
-     0x0EB8 [0x48] [System] [9434*]:
+     0x0EB8 [0x48] [System] [9435*]:
     → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
      0x0EBB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EBC [0x01] GOTO 0x0ED8
@@ -2528,13 +2528,13 @@ SUBROUTINE_05FD:
      0x0F30 [0x01] GOTO 0x0F54
      0x0F33 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x0F48
      0x0F3B [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x0F3E [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F42 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x0F45 [0x01] GOTO 0x0F54
      0x0F48 [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x0F54
-     0x0F50 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x0F50 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x0F53 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F54 [0x01] GOTO 0x0F5A
@@ -2554,25 +2554,25 @@ SUBROUTINE_05FD:
      0x0FA9 [0x1B] RETURN
      0x0FAA [0x01] GOTO 0x1187
      0x0FAD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-     0x0FB2 [0x24] CREATE_DIALOG(message_id=8975*, default_option=0*, option_flags=0*)
+     0x0FB2 [0x24] CREATE_DIALOG(message_id=8976*, default_option=0*, option_flags=0*)
     → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]"
      0x0FB9 [0x25] WAIT_DIALOG_SELECT()
      0x0FBA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FDF
-     0x0FC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8976*)
+     0x0FC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8977*)
     → "Here is the information on the next race:"
      0x0FC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FC6 [0x48] [System] [8977*]:
+     0x0FC6 [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x0FC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FCA [0x48] [System] [8978*]:
+     0x0FCA [0x48] [System] [8979*]:
     → "$26Free Run$26 Chocobos: 8 Objective: None"
      0x0FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FCE [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x0FD1 [0x48] [System] [8979*]:
+     0x0FD1 [0x48] [System] [8980*]:
     → "While free runs usually have no specific objectives, the higher your chocobo places, the better the prize you will receive. We suggest you use these races to improve your skills before embarking on the more difficult official races."
      0x0FD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FD5 [0x1A] CALL_SUBROUTINE(address=0x086E)
-     0x0FD8 [0x48] [System] [8977*]:
+     0x0FD8 [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x0FDB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FDC [0x01] GOTO 0x1187
@@ -2599,18 +2599,18 @@ SUBROUTINE_05FD:
      0x1041 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
      0x1046 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x1069
      0x104E [0x03] Work_Zone[2] = Work_Zone[6]
-     0x1053 [0x48] [System] [8704*]:
+     0x1053 [0x48] [System] [8705*]:
     → "$0"
      0x1056 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1057 [0x03] Work_Zone[2] = Work_Zone[7]
-     0x105C [0x48] [System] [8704*]:
+     0x105C [0x48] [System] [8705*]:
     → "$0"
      0x105F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1060 [0x03] Work_Zone[2] = Work_Zone[8]
-     0x1065 [0x48] [System] [8704*]:
+     0x1065 [0x48] [System] [8705*]:
     → "$0"
      0x1068 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1069 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+     0x1069 [0x24] CREATE_DIALOG(message_id=9434*, default_option=0*, option_flags=0*)
     → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
      0x1070 [0x25] WAIT_DIALOG_SELECT()
      0x1071 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10A2
@@ -2618,7 +2618,7 @@ SUBROUTINE_05FD:
      0x107E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x108F [0x1C] WAIT(60* ticks)
      0x1092 [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
-     0x109B [0x48] [System] [9434*]:
+     0x109B [0x48] [System] [9435*]:
     → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
      0x109E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x109F [0x01] GOTO 0x10BB
@@ -2642,12 +2642,12 @@ SUBROUTINE_05FD:
      0x1112 [0x00] END_REQSTACK()
      0x1113 [0x01] GOTO 0x1131
      0x1116 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x1125
-     0x111E [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x111E [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x1121 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1122 [0x01] GOTO 0x1131
      0x1125 [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x1131
-     0x112D [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x112D [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x1130 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1131 [0x01] GOTO 0x1137
@@ -2674,7 +2674,7 @@ SUBROUTINE_05FD:
      0x11A1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x139E
      0x11A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
      0x11AE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-     0x11B3 [0x24] CREATE_DIALOG(message_id=8974*, default_option=0*, option_flags=0*)
+     0x11B3 [0x24] CREATE_DIALOG(message_id=8975*, default_option=0*, option_flags=0*)
     → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: $1./Start race./Quit./Return.]"
      0x11BA [0x25] WAIT_DIALOG_SELECT()
      0x11BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11C9
@@ -2704,19 +2704,19 @@ SUBROUTINE_05FD:
      0x1234 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
      0x1239 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x125C
      0x1241 [0x03] Work_Zone[2] = Work_Zone[6]
-     0x1246 [0x48] [System] [8704*]:
+     0x1246 [0x48] [System] [8705*]:
     → "$0"
      0x1249 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x124A [0x03] Work_Zone[2] = Work_Zone[7]
-     0x124F [0x48] [System] [8704*]:
+     0x124F [0x48] [System] [8705*]:
     → "$0"
      0x1252 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1253 [0x03] Work_Zone[2] = Work_Zone[8]
-     0x1258 [0x48] [System] [8704*]:
+     0x1258 [0x48] [System] [8705*]:
     → "$0"
      0x125B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x125C [0x02] IF !(ExtData[1]->WorkLocal[25] > ExtData[1]->WorkLocal[8]) GOTO 0x12CD
-     0x1264 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+     0x1264 [0x24] CREATE_DIALOG(message_id=9434*, default_option=0*, option_flags=0*)
     → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
      0x126B [0x25] WAIT_DIALOG_SELECT()
      0x126C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x129D
@@ -2724,7 +2724,7 @@ SUBROUTINE_05FD:
      0x1279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x128A [0x1C] WAIT(60* ticks)
      0x128D [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
-     0x1296 [0x48] [System] [9434*]:
+     0x1296 [0x48] [System] [9435*]:
     → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
      0x1299 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x129A [0x01] GOTO 0x12B6
@@ -2754,12 +2754,12 @@ SUBROUTINE_05FD:
      0x132C [0x00] END_REQSTACK()
      0x132D [0x01] GOTO 0x134B
      0x1330 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x133F
-     0x1338 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x1338 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x133B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x133C [0x01] GOTO 0x134B
      0x133F [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x134B
-     0x1347 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x1347 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x134A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x134B [0x01] GOTO 0x1351
@@ -2778,7 +2778,7 @@ SUBROUTINE_05FD:
      0x139A [0x1B] RETURN
      0x139B [0x01] GOTO 0x158B
      0x139E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-     0x13A3 [0x24] CREATE_DIALOG(message_id=8975*, default_option=0*, option_flags=0*)
+     0x13A3 [0x24] CREATE_DIALOG(message_id=8976*, default_option=0*, option_flags=0*)
     → "***Race Preparations*** [Race overview./Visit the paddock./Jockey orders: [Sprint/Keep pace/Final spurt]./Equipment: None./Start race./Quit./Return.]"
      0x13AA [0x25] WAIT_DIALOG_SELECT()
      0x13AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13B9
@@ -2808,19 +2808,19 @@ SUBROUTINE_05FD:
      0x1424 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[8]
      0x1429 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x144C
      0x1431 [0x03] Work_Zone[2] = Work_Zone[6]
-     0x1436 [0x48] [System] [8704*]:
+     0x1436 [0x48] [System] [8705*]:
     → "$0"
      0x1439 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x143A [0x03] Work_Zone[2] = Work_Zone[7]
-     0x143F [0x48] [System] [8704*]:
+     0x143F [0x48] [System] [8705*]:
     → "$0"
      0x1442 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1443 [0x03] Work_Zone[2] = Work_Zone[8]
-     0x1448 [0x48] [System] [8704*]:
+     0x1448 [0x48] [System] [8705*]:
     → "$0"
      0x144B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x144C [0x02] IF !(ExtData[1]->WorkLocal[25] > ExtData[1]->WorkLocal[8]) GOTO 0x14BD
-     0x1454 [0x24] CREATE_DIALOG(message_id=9433*, default_option=0*, option_flags=0*)
+     0x1454 [0x24] CREATE_DIALOG(message_id=9434*, default_option=0*, option_flags=0*)
     → "Skip the racing scene? [Yes, please./No. I've got front-row seats!]"
      0x145B [0x25] WAIT_DIALOG_SELECT()
      0x145C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x148D
@@ -2828,7 +2828,7 @@ SUBROUTINE_05FD:
      0x1469 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
      0x147A [0x1C] WAIT(60* ticks)
      0x147D [0x41] Work_Zone[2] = Work_Zone[37] (bits 0*-3*)
-     0x1486 [0x48] [System] [9434*]:
+     0x1486 [0x48] [System] [9435*]:
     → "You have placed [first/second/third/fourth/fifth/sixth/seventh/eighth]!"
      0x1489 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x148A [0x01] GOTO 0x14A6
@@ -2858,12 +2858,12 @@ SUBROUTINE_05FD:
      0x151C [0x00] END_REQSTACK()
      0x151D [0x01] GOTO 0x153B
      0x1520 [0x02] IF !(Work_Zone[9] == 4294967292*) GOTO 0x152F
-     0x1528 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x1528 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x152B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x152C [0x01] GOTO 0x153B
      0x152F [0x02] IF !(Work_Zone[9] == 4294967290*) GOTO 0x153B
-     0x1537 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x1537 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x153A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x153B [0x01] GOTO 0x1541
@@ -2884,30 +2884,30 @@ SUBROUTINE_05FD:
      0x158E [0x1B] RETURN
      0x158F [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x15A1
      0x1597 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x159A [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+     0x159A [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "I'm sorry. Things are a little confusing now with all these entries. Would you mind coming back a little later? Thank you."
      0x159D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x159E [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x15A1 [0x02] IF !(Work_Zone[9] == 4294967294*) GOTO 0x15B3
      0x15A9 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x15AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
+     0x15AC [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
     → "I am so, so sorry, but it seems that you do not possess enough gil to enter your chocobo in the next race."
      0x15AF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15B0 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x15B3 [0x02] IF !(Work_Zone[9] == 4294967289*) GOTO 0x15C5
      0x15BB [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x15BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+     0x15BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
      0x15C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15C2 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x15C5 [0x02] IF !(Work_Zone[9] == 4294967293*) GOTO 0x15D7
      0x15CD [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x15D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x15D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "I'm sorry. The other chocobos have not finished resting. Please come back a little later."
      0x15D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15D4 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x15D7 [0x1B] RETURN
-     0x15D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
+     0x15D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
     → "One moment please while entries are confirmed with CRA headquarters."
      0x15DB [0x06] ExtData[1]->WorkLocal[23] = 0
      0x15DE [0x03] Work_Zone[9] = 4294967292*
@@ -2925,26 +2925,26 @@ SUBROUTINE_05FD:
      0x161C [0x01] GOTO 0x15E3
      0x161F [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x164B
      0x1627 [0x03] Work_Zone[2] = Work_Zone[6]
-     0x162C [0x48] [System] [8704*]:
+     0x162C [0x48] [System] [8705*]:
     → "$0"
      0x162F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1630 [0x03] Work_Zone[2] = Work_Zone[7]
-     0x1635 [0x48] [System] [8704*]:
+     0x1635 [0x48] [System] [8705*]:
     → "$0"
      0x1638 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1639 [0x03] Work_Zone[2] = Work_Zone[8]
-     0x163E [0x48] [System] [8704*]:
+     0x163E [0x48] [System] [8705*]:
     → "$0"
      0x1641 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1642 [0x03] Work_Zone[2] = Work_Zone[9]
-     0x1647 [0x48] [System] [8704*]:
+     0x1647 [0x48] [System] [8705*]:
     → "$0"
      0x164A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x164B [0x1B] RETURN
-     0x164C [0x1D] PRINT_EVENT_MESSAGE(message_id=8980*)
+     0x164C [0x1D] PRINT_EVENT_MESSAGE(message_id=8981*)
     → "Here is the information on the next race:"
      0x164F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1650 [0x48] [System] [8977*]:
+     0x1650 [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x1653 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1654 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
@@ -2953,11 +2953,11 @@ SUBROUTINE_05FD:
      0x1661 [0x03] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[25]
      0x1666 [0x0C] ExtData[1]->WorkLocal[13]--
      0x1669 [0x9D] Work_Zone[2] = 0x2371[ExtData[1]->WorkLocal[13]] // Read WORD
-     0x1671 [0x48] [System] [8977*]:
+     0x1671 [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x1674 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1675 [0x1B] RETURN
-     0x1676 [0x48] [System] [8977*]:
+     0x1676 [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x1679 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x167A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
@@ -2966,74 +2966,74 @@ SUBROUTINE_05FD:
      0x1687 [0x03] ExtData[1]->WorkLocal[13] = ExtData[1]->WorkLocal[25]
      0x168C [0x0C] ExtData[1]->WorkLocal[13]--
      0x168F [0x9D] Work_Zone[2] = 0x23B1[ExtData[1]->WorkLocal[13]] // Read WORD
-     0x1697 [0x48] [System] [8997*]:
+     0x1697 [0x48] [System] [8998*]:
     → "Participation fee: $0 [chocobuck/chocobucks]."
      0x169A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x169B [0x48] [System] [8977*]:
+     0x169B [0x48] [System] [8978*]:
     → "----------------------------------------"
      0x169E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x169F [0x02] IF !(Work_Zone[2] > ExtData[1]->WorkLocal[1]) GOTO 0x16AD
      0x16A7 [0x06] Work_Zone[2] = 0
      0x16AA [0x01] GOTO 0x16B4
-     0x16AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+     0x16AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "I am so sorry, but it seems you do not possess enough chocobucks to participate in the next race."
      0x16B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16B1 [0x05] Work_Zone[2] = 1
      0x16B4 [0x1B] RETURN
      0x16B5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x16C5
-     0x16BD [0x48] [System] [8981*]:
+     0x16BD [0x48] [System] [8982*]:
     → "$26Novice Race I$26 Chocobos: 4 Objective: Place 3rd or higher"
      0x16C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x16C1 [0x48] [System] [8982*]:
+     0x16C1 [0x48] [System] [8983*]:
     → "Use this race to learn the ropes. Try not to worry too much about the other chocobos, and concentrate on discovering your bird's strengths and weaknesses."
      0x16C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16C5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 2*) GOTO 0x16D5
-     0x16CD [0x48] [System] [8983*]:
+     0x16CD [0x48] [System] [8984*]:
     → "$26Novice Race II$26 Chocobos: 6 Objective: Place 3rd or higher"
      0x16D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x16D1 [0x48] [System] [8984*]:
+     0x16D1 [0x48] [System] [8985*]:
     → "This time, your chocobo will be pitted against five opponents. Use your knowledge of your bird's strengths to provide the jockey with the most appropriate orders."
      0x16D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16D5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 3*) GOTO 0x16E5
-     0x16DD [0x48] [System] [8985*]:
+     0x16DD [0x48] [System] [8986*]:
     → "$26Novice Race III$26 Chocobos: 8 Objective: Place 3rd or higher"
      0x16E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x16E1 [0x48] [System] [8986*]:
+     0x16E1 [0x48] [System] [8987*]:
     → "This race is quite similar to a free run in that there will be seven other chocobos racing against you. If you have one available, try equipping an item to improve your bird's performance."
      0x16E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16E5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4*) GOTO 0x16F5
-     0x16ED [0x48] [System] [8987*]:
+     0x16ED [0x48] [System] [8988*]:
     → "$26Challenge Race I$26 Chocobos: 2 Objective: Place 1st"
      0x16F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x16F1 [0x48] [System] [8988*]:
+     0x16F1 [0x48] [System] [8989*]:
     → "Three of our most revered breeders have heard of your success and wish to challenge you in a head-to-head match."
      0x16F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16F5 [0x02] IF !(ExtData[1]->WorkLocal[25] == 5*) GOTO 0x1705
-     0x16FD [0x48] [System] [8989*]:
+     0x16FD [0x48] [System] [8990*]:
     → "$26International Race I$26 Chocobos: 8 Objective: Place 3rd or higher"
      0x1700 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1701 [0x48] [System] [8990*]:
+     0x1701 [0x48] [System] [8991*]:
     → "The [Bastok/Windurst/San d'Oria] racing team has requested your participation in a nationally sponsored match. The pride of our branch is at stake, <Player>!"
      0x1704 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1705 [0x02] IF !(ExtData[1]->WorkLocal[25] == 6*) GOTO 0x1715
-     0x170D [0x48] [System] [8991*]:
+     0x170D [0x48] [System] [8992*]:
     → "$26International Race II$26 Chocobos: 8 Objective: Place 3rd or higher"
      0x1710 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1711 [0x48] [System] [8992*]:
+     0x1711 [0x48] [System] [8993*]:
     → "The [Windurst/San d'Oria/Bastok] racing team has requested your participation in a nationally sponsored match. You represented us well last time, <Player>. We're counting on you again!"
      0x1714 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1715 [0x02] IF !(ExtData[1]->WorkLocal[25] == 7*) GOTO 0x1725
-     0x171D [0x48] [System] [8993*]:
+     0x171D [0x48] [System] [8994*]:
     → "$26Challenge Race II$26 Chocobos: 3 Objective: Place 1st"
      0x1720 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1721 [0x48] [System] [8994*]:
+     0x1721 [0x48] [System] [8995*]:
     → "The challengers you defeated previously have requested a rematch. Also, [Hantileon/Zopago/Pulonono] has expressed interest in this race, and would like to participate as well."
      0x1724 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1725 [0x02] IF !(ExtData[1]->WorkLocal[25] == 8*) GOTO 0x1735
-     0x172D [0x48] [System] [8995*]:
+     0x172D [0x48] [System] [8996*]:
     → "$26CRA Classic$26 Chocobos: 8 Objective: Place 1st"
      0x1730 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1731 [0x48] [System] [8996*]:
+     0x1731 [0x48] [System] [8997*]:
     → "The title of "fastest chocobo in the [Kingdom/Republic/Federation]" is up for grabs at the [d'Oraguille Victory Malm/Gustaberg Derby/Rakapopo Cup] sponsored by [the king himself/the president himself/Manustery minister Apururu herself]!"
      0x1734 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1735 [0x1B] RETURN
@@ -3052,7 +3052,7 @@ SUBROUTINE_05FD:
      0x1776 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[24], bit_index_work_offset=9*, condition_work_offset=1*)
      0x177D [0x06] ExtData[1]->WorkLocal[23] = 0
      0x1780 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x1865
-     0x1788 [0x24] CREATE_DIALOG(message_id=8998*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
+     0x1788 [0x24] CREATE_DIALOG(message_id=8999*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
     → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
      0x178F [0x25] WAIT_DIALOG_SELECT()
      0x1790 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17A3
@@ -3092,7 +3092,7 @@ SUBROUTINE_05FD:
      0x186B [0x03] ExtData[1]->WorkLocal[32] = 0*
      0x1870 [0x06] ExtData[1]->WorkLocal[23] = 0
      0x1873 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x1958
-     0x187B [0x24] CREATE_DIALOG(message_id=8998*, default_option=0*, option_flags=0*)
+     0x187B [0x24] CREATE_DIALOG(message_id=8999*, default_option=0*, option_flags=0*)
     → "Please select chocobo: [Entry No. 1./Entry No. 2./Entry No. 3./Entry No. 4./Entry No. 5./Entry No. 6./Entry No. 7./Entry No. 8./Quit./Return.]"
      0x1882 [0x25] WAIT_DIALOG_SELECT()
      0x1883 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1896
@@ -3194,7 +3194,7 @@ SUBROUTINE_05FD:
      0x1ACC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[20]
      0x1AD1 [0x07] Work_Zone[5] += 2*
      0x1AD6 [0x03] Work_Zone[3] = 1*
-     0x1ADB [0x48] [System] [9001*]:
+     0x1ADB [0x48] [System] [9002*]:
     → "Entry No. $3 $1 ` Affiliation: [None/San d'Oria/Bastok/Windurst] Gender: [Male/Female] Orders: [Sprint/Keep pace/Final spurt]"
      0x1ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1ADF [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[13] (bits 0*-7*)
@@ -3205,13 +3205,13 @@ SUBROUTINE_05FD:
      0x1B04 [0x15] Work_Zone[4] /= 32*
      0x1B09 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[13] (bits 24*-31*)
      0x1B12 [0x15] Work_Zone[5] /= 32*
-     0x1B17 [0x48] [System] [9002*]:
+     0x1B17 [0x48] [System] [9003*]:
     → "Strength: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Endurance: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Discernment: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class] Receptivity: [Poor/Substandard/A bit deficient/Average/Better than average/Impressive/Outstanding/First-class]"
      0x1B1A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B1B [0x41] Work_Zone[2] = ExtData[1]->WorkLocal[14] (bits 20*-23*)
      0x1B24 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[14] (bits 9*-12*)
      0x1B2D [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[14] (bits 13*-16*)
-     0x1B36 [0x48] [System] [9003*]:
+     0x1B36 [0x48] [System] [9004*]:
     → "Weather: Prefers: [Clear days/Hot, sunny days/Rainy days/Sandstorms/Windy days/Snowy days/Thunderstorms/Auroras/Dark days/None/Cloudy days] Dislikes: [None/Rainy days/Thunderstorms/Windy days/Snowy days/Hot, sunny days/Sandstorms/Dark days/Auroras/None/None] Abilities: [None/Gallop/Canter/Burrow/Bore/Auto-Regen/Treasure Finder][/ & Gallop/ & Canter/ & Burrow/ & Bore/ & Auto-Regen/ & Treasure Finder]"
      0x1B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B3A [0x03] Work_Zone[57] = 0*
@@ -3299,16 +3299,16 @@ SUBROUTINE_05FD:
      0x1DB5 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=532*
      0x1DC4 [0x1B] RETURN
      0x1DC5 [0x02] IF !(ExtData[1]->WorkLocal[23] == 0*) GOTO 0x1EDF
-     0x1DCD [0x24] CREATE_DIALOG(message_id=9004*, default_option=0*, option_flags=0*)
+     0x1DCD [0x24] CREATE_DIALOG(message_id=9005*, default_option=0*, option_flags=0*)
     → "Change orders to: [Sprint./Keep pace./Final spurt./Quit./Return.]"
      0x1DD4 [0x25] WAIT_DIALOG_SELECT()
      0x1DD5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E15
      0x1DDD [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x1DE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9005*)
+     0x1DE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9006*)
     → "Sprint: Have the jockey push your chocobo to its limits from the get go."
      0x1DE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DE4 [0x1A] CALL_SUBROUTINE(address=0x086E)
-     0x1DE7 [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+     0x1DE7 [0x24] CREATE_DIALOG(message_id=9009*, default_option=1*, option_flags=0*)
     → "Is this what you want? [Definitely./Not at all.]"
      0x1DEE [0x25] WAIT_DIALOG_SELECT()
      0x1DEF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E12
@@ -3322,11 +3322,11 @@ SUBROUTINE_05FD:
      0x1E12 [0x01] GOTO 0x1EDC
      0x1E15 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1E55
      0x1E1D [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x1E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=9006*)
+     0x1E20 [0x1D] PRINT_EVENT_MESSAGE(message_id=9007*)
     → "Keep pace: Have the jockey maintain a consistent pace throughout the whole race."
      0x1E23 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E24 [0x1A] CALL_SUBROUTINE(address=0x086E)
-     0x1E27 [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+     0x1E27 [0x24] CREATE_DIALOG(message_id=9009*, default_option=1*, option_flags=0*)
     → "Is this what you want? [Definitely./Not at all.]"
      0x1E2E [0x25] WAIT_DIALOG_SELECT()
      0x1E2F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E52
@@ -3340,11 +3340,11 @@ SUBROUTINE_05FD:
      0x1E52 [0x01] GOTO 0x1EDC
      0x1E55 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1E95
      0x1E5D [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x1E60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9007*)
+     0x1E60 [0x1D] PRINT_EVENT_MESSAGE(message_id=9008*)
     → "Final spurt: Have the jockey save your chocobo's energy until the end of the race."
      0x1E63 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E64 [0x1A] CALL_SUBROUTINE(address=0x086E)
-     0x1E67 [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+     0x1E67 [0x24] CREATE_DIALOG(message_id=9009*, default_option=1*, option_flags=0*)
     → "Is this what you want? [Definitely./Not at all.]"
      0x1E6E [0x25] WAIT_DIALOG_SELECT()
      0x1E6F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E92
@@ -3372,7 +3372,7 @@ SUBROUTINE_05FD:
      0x1EE0 [0x1A] CALL_SUBROUTINE(address=0x0B7F)
      0x1EE3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=0*, condition_work_offset=1*)
      0x1EEA [0x02] IF !(1* == 1*) GOTO 0x1FB3
-     0x1EF2 [0x24] CREATE_DIALOG(message_id=9009*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
+     0x1EF2 [0x24] CREATE_DIALOG(message_id=9010*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
     → "Equip which item? [Nothing./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Quit./Return.]"
      0x1EF9 [0x25] WAIT_DIALOG_SELECT()
      0x1EFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F0B
@@ -3400,7 +3400,7 @@ SUBROUTINE_05FD:
      0x1F73 [0x03] Work_Zone[2] = Work_Zone_1700[30]
      0x1F78 [0x1A] CALL_SUBROUTINE(address=0x0CB4)
      0x1F7B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x1F7E [0x24] CREATE_DIALOG(message_id=9008*, default_option=1*, option_flags=0*)
+     0x1F7E [0x24] CREATE_DIALOG(message_id=9009*, default_option=1*, option_flags=0*)
     → "Is this what you want? [Definitely./Not at all.]"
      0x1F85 [0x25] WAIT_DIALOG_SELECT()
      0x1F86 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1FB0
@@ -3424,15 +3424,15 @@ SUBROUTINE_05FD:
      0x1FD9 [0x41] Work_Zone[4] = Work_Zone[50] (bits 1*-1*)
      0x1FE2 [0x41] Work_Zone[5] = Work_Zone[50] (bits 2*-2*)
      0x1FEB [0x41] Work_Zone[6] = Work_Zone[50] (bits 3*-3*)
-     0x1FF4 [0x24] CREATE_DIALOG(message_id=9073*, default_option=0*, option_flags=0*)
+     0x1FF4 [0x24] CREATE_DIALOG(message_id=9074*, default_option=0*, option_flags=0*)
     → "Select goodness: [Race portion ($0/$1)./Cut Scene ([Yes/No])./Opening ([Yes/No])./On screen text ([On/Off])./Cancel Race./Start Race.]"
      0x1FFB [0x25] WAIT_DIALOG_SELECT()
      0x1FFC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x207D
-     0x2004 [0x24] CREATE_DIALOG(message_id=9074*, default_option=1*, option_flags=0*)
+     0x2004 [0x24] CREATE_DIALOG(message_id=9075*, default_option=1*, option_flags=0*)
     → "Select race portion? [Yes./No.]"
      0x200B [0x25] WAIT_DIALOG_SELECT()
      0x200C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x206C
-     0x2014 [0x48] [System] [9075*]:
+     0x2014 [0x48] [System] [9076*]:
     → "Select starting node. (0-31)"
      0x2017 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2018 [0x1A] CALL_SUBROUTINE(address=0x21C9)
@@ -3441,7 +3441,7 @@ SUBROUTINE_05FD:
      0x2026 [0x02] IF !(Work_Zone[2] <= 30*) GOTO 0x2033
      0x202E [0x03] Work_Zone[2] = 30*
      0x2033 [0x03] Work_Zone[46] = Work_Zone[2]
-     0x2038 [0x48] [System] [9076*]:
+     0x2038 [0x48] [System] [9077*]:
     → "Select ending node. (1-32)"
      0x203B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x203C [0x1A] CALL_SUBROUTINE(address=0x21C9)
@@ -3455,12 +3455,12 @@ SUBROUTINE_05FD:
      0x2069 [0x01] GOTO 0x206C
      0x206C [0x03] Work_Zone[2] = Work_Zone[46]
      0x2071 [0x03] Work_Zone[3] = Work_Zone[47]
-     0x2076 [0x48] [System] [8711*]:
+     0x2076 [0x48] [System] [8712*]:
     → "Recreating race from points $0`$1."
      0x2079 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x207A [0x01] GOTO 0x2106
      0x207D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x20A2
-     0x2085 [0x24] CREATE_DIALOG(message_id=9077*, default_option=0*, option_flags=0*)
+     0x2085 [0x24] CREATE_DIALOG(message_id=9078*, default_option=0*, option_flags=0*)
     → "Play Cut Scene? [Yessir./No way.]"
      0x208C [0x25] WAIT_DIALOG_SELECT()
      0x208D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x209F
@@ -3468,7 +3468,7 @@ SUBROUTINE_05FD:
      0x209C [0x01] GOTO 0x209F
      0x209F [0x01] GOTO 0x2106
      0x20A2 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x20C7
-     0x20AA [0x24] CREATE_DIALOG(message_id=9078*, default_option=0*, option_flags=0*)
+     0x20AA [0x24] CREATE_DIALOG(message_id=9079*, default_option=0*, option_flags=0*)
     → "Play Opening? [Yep./Nope.]"
      0x20B1 [0x25] WAIT_DIALOG_SELECT()
      0x20B2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x20C4
@@ -3476,7 +3476,7 @@ SUBROUTINE_05FD:
      0x20C1 [0x01] GOTO 0x20C4
      0x20C4 [0x01] GOTO 0x2106
      0x20C7 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x20EC
-     0x20CF [0x24] CREATE_DIALOG(message_id=9079*, default_option=1*, option_flags=0*)
+     0x20CF [0x24] CREATE_DIALOG(message_id=9080*, default_option=1*, option_flags=0*)
     → "Display Condition? [Yes./No. (Default)]"
      0x20D6 [0x25] WAIT_DIALOG_SELECT()
      0x20D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20E9
@@ -3544,7 +3544,7 @@ SUBROUTINE_05FD:
      0x21FD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x21FF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x2201 [0x02] IF !(Work_Zone[50] == 0*) GOTO 0x220C
-     0x2209 [0x48] [System] [9080*]:
+     0x2209 [0x48] [System] [9081*]:
     → "$0/$1/$2/$3 $4/$5/$6/$7"
      0x220C [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
      0x2211 [0x03] ExtData[1]->WorkLocal[14] = Work_Zone[3]
@@ -3561,10 +3561,10 @@ SUBROUTINE_05FD:
      0x2254 [0x03] Work_Zone[2] = Work_Zone[32]
      0x2259 [0x08] Work_Zone[2] -= 1*
      0x225E [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x2261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+     0x2261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "Congratulations! That final victory has put you in leagues with [San d'Oria's/Bastok's/Windurst's] finest riders!"
      0x2264 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+     0x2265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "All of us here are eager to see what accomplishments you will achieve next!"
      0x2268 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2269 [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -3583,7 +3583,7 @@ SUBROUTINE_05FD:
      0x22B6 [0x01] GOTO 0x22B9
      0x22B9 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x22CA
      0x22C1 [0x03] Work_Zone[2] = 308*
-     0x22C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+     0x22C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "Oh, and do be careful with your $0. If you happen to accidentally dispose of it, you will never be able to receive one again."
      0x22C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22CA [0x01] GOTO 0x22FD
@@ -3596,7 +3596,7 @@ SUBROUTINE_05FD:
      0x22EB [0x01] GOTO 0x22F3
      0x22EE [0x03] Work_Zone[2] = 1*
      0x22F3 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x22F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x22F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!"
      0x22F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22FA [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -3610,7 +3610,7 @@ SUBROUTINE_05FD:
      0x231E [0x01] GOTO 0x2326
      0x2321 [0x03] Work_Zone[2] = 1*
      0x2326 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x2329 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x2329 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!"
      0x232C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x232D [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -3624,13 +3624,13 @@ SUBROUTINE_05FD:
      0x2351 [0x01] GOTO 0x2359
      0x2354 [0x03] Work_Zone[2] = 1*
      0x2359 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x235C [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x235C [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "Congratulations[ on your victory/], <Player>. All of us here wish you the best of luck on your next race!"
      0x235F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2360 [0x1A] CALL_SUBROUTINE(address=0x086E)
      0x2363 [0x01] GOTO 0x2370
      0x2366 [0x1A] CALL_SUBROUTINE(address=0x086D)
-     0x2369 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+     0x2369 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "Don't worry too much about the results of that last race. You must learn from your experience and prepare yourself for the next challenge."
      0x236C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x236D [0x1A] CALL_SUBROUTINE(address=0x086E)
@@ -3682,7 +3682,7 @@ SUBROUTINE_05FD:
      0x2401 [0xFA] UNKNOWN_0xFA
      0x2402 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164031739/0x80FC80FB))
      0x2407 [0xFD] UNKNOWN_0xFD
-     0x2408 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164162678/0x80FE8076))
+     0x2408 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164162677/0x80FE8075))
      0x240D [0x00] END_REQSTACK()
      0x240E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x2413 [0x00] END_REQSTACK()
@@ -3750,7 +3750,7 @@ SUBROUTINE_05FD:
      0x2507 [0xFA] UNKNOWN_0xFA
      0x2508 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164031739/0x80FC80FB))
      0x250D [0xFD] UNKNOWN_0xFD
-     0x250E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165276790/0x810F8076))
+     0x250E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165276789/0x810F8075))
      0x2513 [0xFE] UNKNOWN_0xFE
      0x2514 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2165408016/0x81118110))
      0x2519 [0x12] 0x1381 = rand()

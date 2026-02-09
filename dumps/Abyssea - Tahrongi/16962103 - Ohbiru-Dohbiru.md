@@ -25,48 +25,48 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F11      |        7953 |
-|       1 | 0x1F12      |        7954 |
-|       2 | 0x1F13      |        7955 |
-|       3 | 0x1F14      |        7956 |
+|       0 | 0x1F12      |        7954 |
+|       1 | 0x1F13      |        7955 |
+|       2 | 0x1F14      |        7956 |
+|       3 | 0x1F15      |        7957 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0150      |         336 |
-|       6 | 0x1F15      |        7957 |
+|       6 | 0x1F16      |        7958 |
 |       7 | 0x001E      |          30 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0024      |          36 |
-|      10 | 0x1F16      |        7958 |
+|      10 | 0x1F17      |        7959 |
 |      11 | 0x005A      |          90 |
-|      12 | 0x1F17      |        7959 |
+|      12 | 0x1F18      |        7960 |
 |      13 | 0x0028      |          40 |
-|      14 | 0x1F18      |        7960 |
-|      15 | 0x1F1A      |        7962 |
-|      16 | 0x1F24      |        7972 |
-|      17 | 0x1F25      |        7973 |
-|      18 | 0x1F26      |        7974 |
-|      19 | 0x1F27      |        7975 |
-|      20 | 0x1F28      |        7976 |
-|      21 | 0x1F2A      |        7978 |
-|      22 | 0x1F2B      |        7979 |
+|      14 | 0x1F19      |        7961 |
+|      15 | 0x1F1B      |        7963 |
+|      16 | 0x1F25      |        7973 |
+|      17 | 0x1F26      |        7974 |
+|      18 | 0x1F27      |        7975 |
+|      19 | 0x1F28      |        7976 |
+|      20 | 0x1F29      |        7977 |
+|      21 | 0x1F2B      |        7979 |
+|      22 | 0x1F2C      |        7980 |
 
 ## String References
 
-- **7953**: Minister Rukususu, Leepe-Hoppe, Doctor Yoran-Oran... I do hope they're all right...
-- **7954**: Kerutoto? She's sleeping blissfully as always, no doubt.
-- **7955**: Hail there! Have you perchance caught sight of a garishly pink-colored fiend in these parts?
-- **7956**: Seen a pink fiend? [I have not./I have!]
-- **7957**: Well, drat! Wherever did it scamper off to? At this rate, I'll never finish my research!
-- **7958**: You have? What luck! This could just be the breakthrough in my research I've been waiting for!
-- **7959**: What research, you say? Why, my study of the Abyssean ecosystem, of course! It started out as a hobby, but recently I'm convinced that it just might be the key to our survival.
-- **7960**: Perhaps you've noticed that there are all sorts of curious new creatures sprouting out of the ground these days. One in particular has caught my fancy--a pinkish thing that bears a striking resemblance to the mandragora we know so well.
-- **7962**: If you'd be willing to help me procure one, speak to Kenapa-Keppa outside. Nothing would thrill him more than to be able to fill you in on the details!
-- **7972**: Splendid, splendid work! I truly can't thank you enough. Could I ask you to round me up a sandworm or two while you're at it? But I jest!
-- **7973**: But of course! Since you've been such a dutiful assistant, why don't I enlighten you as to my latest findings?
-- **7974**: My experiments have shown that when battling the beasts that roam the canyon here, it'd behoove you to formulate a proper plan of attack!
-- **7975**: They each have their weaknesses, you see. Send a particularly unpleasant attack or spell their way, and you just might stop them in their tracks, or scare them into forgetting some of their most potent abilities.
-- **7976**: You might also want to experiment with killing them in all many of creative ways. Me? A sadist? Of course not! I'm just saying, my research suggests that doing so might prove fruitful!
-- **7978**: I don't know quite how to say this my friend, but you know that splendid specimen you caught for us? Well, while I was writing up my latest lab report, it seems to have--er, how shall I say this?--ah, escaped.
-- **7979**: You wouldn't possibly be in the mood for tracking another one down for me, would you? Just think, it's not for me...it's for science!
+- **7954**: Minister Rukususu, Leepe-Hoppe, Doctor Yoran-Oran... I do hope they're all right...
+- **7955**: Kerutoto? She's sleeping blissfully as always, no doubt.
+- **7956**: Hail there! Have you perchance caught sight of a garishly pink-colored fiend in these parts?
+- **7957**: Seen a pink fiend? [I have not./I have!]
+- **7958**: Well, drat! Wherever did it scamper off to? At this rate, I'll never finish my research!
+- **7959**: You have? What luck! This could just be the breakthrough in my research I've been waiting for!
+- **7960**: What research, you say? Why, my study of the Abyssean ecosystem, of course! It started out as a hobby, but recently I'm convinced that it just might be the key to our survival.
+- **7961**: Perhaps you've noticed that there are all sorts of curious new creatures sprouting out of the ground these days. One in particular has caught my fancy--a pinkish thing that bears a striking resemblance to the mandragora we know so well.
+- **7963**: If you'd be willing to help me procure one, speak to Kenapa-Keppa outside. Nothing would thrill him more than to be able to fill you in on the details!
+- **7973**: Splendid, splendid work! I truly can't thank you enough. Could I ask you to round me up a sandworm or two while you're at it? But I jest!
+- **7974**: But of course! Since you've been such a dutiful assistant, why don't I enlighten you as to my latest findings?
+- **7975**: My experiments have shown that when battling the beasts that roam the canyon here, it'd behoove you to formulate a proper plan of attack!
+- **7976**: They each have their weaknesses, you see. Send a particularly unpleasant attack or spell their way, and you just might stop them in their tracks, or scare them into forgetting some of their most potent abilities.
+- **7977**: You might also want to experiment with killing them in all many of creative ways. Me? A sadist? Of course not! I'm just saying, my research suggests that doing so might prove fruitful!
+- **7979**: I don't know quite how to say this my friend, but you know that splendid specimen you caught for us? Well, while I was writing up my latest lab report, it seems to have--er, how shall I say this?--ah, escaped.
+- **7980**: You wouldn't possibly be in the mood for tracking another one down for me, would you? Just think, it's not for me...it's for science!
 
 ## Events
 
@@ -115,10 +115,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "Minister Rukususu, Leepe-Hoppe, Doctor Yoran-Oran... I do hope they're all right..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "Kerutoto? She's sleeping blissfully as always, no doubt."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x21] END_EVENT
@@ -157,15 +157,15 @@
   1: 0x0013 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0018 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0019 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "Hail there! Have you perchance caught sight of a garishly pink-colored fiend in these parts?"
   5: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001E [0x24] CREATE_DIALOG(message_id=7956*, default_option=0*, option_flags=0*)
+  6: 0x001E [0x24] CREATE_DIALOG(message_id=7957*, default_option=0*, option_flags=0*)
     → "Seen a pink fiend? [I have not./I have!]"
   7: 0x0025 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0026 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0059
   9: 0x002E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=336*
- 10: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+ 10: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "Well, drat! Wherever did it scamper off to? At this rate, I'll never finish my research!"
  11: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0041 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
@@ -175,21 +175,21 @@
  16: 0x0059 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0077
  17: 0x0061 [0x6E] EventEntity uses emote 36*
  18: 0x0068 [0x99] Wait for EventEntity animation to complete
- 19: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+ 19: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "You have? What luck! This could just be the breakthrough in my research I've been waiting for!"
  20: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0071 [0x1C] WAIT(90* ticks)
  22: 0x0074 [0x01] GOTO 0x0077
 
 SUBROUTINE_0077:
- 23: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+ 23: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
     → "What research, you say? Why, my study of the Abyssean ecosystem, of course! It started out as a hobby, but recently I'm convinced that it just might be the key to our survival."
  24: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x007B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 26: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+ 26: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Perhaps you've noticed that there are all sorts of curious new creatures sprouting out of the ground these days. One in particular has caught my fancy--a pinkish thing that bears a striking resemblance to the mandragora we know so well."
  27: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+ 28: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "If you'd be willing to help me procure one, speak to Kenapa-Keppa outside. Nothing would thrill him more than to be able to fill you in on the details!"
  29: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0092 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -220,7 +220,7 @@ SUBROUTINE_0077:
   0: 0x00B0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+  3: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "If you'd be willing to help me procure one, speak to Kenapa-Keppa outside. Nothing would thrill him more than to be able to fill you in on the details!"
   4: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00BB [0x21] END_EVENT
@@ -254,20 +254,20 @@ SUBROUTINE_0077:
   0: 0x00BD [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+  3: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "Splendid, splendid work! I truly can't thank you enough. Could I ask you to round me up a sandworm or two while you're at it? But I jest!"
   4: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+  6: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "But of course! Since you've been such a dutiful assistant, why don't I enlighten you as to my latest findings?"
   7: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+  8: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "My experiments have shown that when battling the beasts that roam the canyon here, it'd behoove you to formulate a proper plan of attack!"
   9: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+ 10: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "They each have their weaknesses, you see. Send a particularly unpleasant attack or spell their way, and you just might stop them in their tracks, or scare them into forgetting some of their most potent abilities."
  11: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+ 12: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "You might also want to experiment with killing them in all many of creative ways. Me? A sadist? Of course not! I'm just saying, my research suggests that doing so might prove fruitful!"
  13: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -303,13 +303,13 @@ SUBROUTINE_0077:
   1: 0x010A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x010B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x010C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+  4: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "My experiments have shown that when battling the beasts that roam the canyon here, it'd behoove you to formulate a proper plan of attack!"
   5: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+  6: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "They each have their weaknesses, you see. Send a particularly unpleasant attack or spell their way, and you just might stop them in their tracks, or scare them into forgetting some of their most potent abilities."
   7: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+  8: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "You might also want to experiment with killing them in all many of creative ways. Me? A sadist? Of course not! I'm just saying, my research suggests that doing so might prove fruitful!"
   9: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0127 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -344,11 +344,11 @@ SUBROUTINE_0077:
   0: 0x0145 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x014A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+  3: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "I don't know quite how to say this my friend, but you know that splendid specimen you caught for us? Well, while I was writing up my latest lab report, it seems to have--er, how shall I say this?--ah, escaped."
   4: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0150 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
+  6: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
     → "You wouldn't possibly be in the mood for tracking another one down for me, would you? Just think, it's not for me...it's for science!"
   7: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0163 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

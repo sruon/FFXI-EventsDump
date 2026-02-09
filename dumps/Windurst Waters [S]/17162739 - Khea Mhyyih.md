@@ -22,9 +22,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AB0      |       10928 |
+|       1 | 0x2AB1      |       10929 |
 |       2 | 0x000C      |          12 |
-|       3 | 0x2AB1      |       10929 |
+|       3 | 0x2AB2      |       10930 |
 
 ## Events
 
@@ -73,12 +73,12 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10928*]:
+  2: 0x000D [0x2B] EventEntity [10929*]:
     → "I am a member of the Wildcats, underrr the able command of General Haja Zhwan."
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0015 [0x6E] EventEntity uses emote 12*
   5: 0x001C [0x99] Wait for EventEntity animation to complete
-  6: 0x0021 [0x2B] EventEntity [10929*]:
+  6: 0x0021 [0x2B] EventEntity [10930*]:
     → "Have you ever seen her in action on the field of battle? Her crossbow never misses its tarrrget!"
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x21] END_EVENT

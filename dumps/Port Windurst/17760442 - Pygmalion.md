@@ -21,48 +21,48 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x320A      |       12810 |
+|       1 | 0x320B      |       12811 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x320B      |       12811 |
-|       4 | 0x320C      |       12812 |
+|       3 | 0x320C      |       12812 |
+|       4 | 0x320D      |       12813 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x320D      |       12813 |
-|       7 | 0x3206      |       12806 |
-|       8 | 0x3207      |       12807 |
+|       6 | 0x320E      |       12814 |
+|       7 | 0x3207      |       12807 |
+|       8 | 0x3208      |       12808 |
 |       9 | 0x0003      |           3 |
-|      10 | 0x320E      |       12814 |
-|      11 | 0x31FF      |       12799 |
-|      12 | 0x3200      |       12800 |
-|      13 | 0x3201      |       12801 |
-|      14 | 0x3202      |       12802 |
-|      15 | 0x3203      |       12803 |
-|      16 | 0x3208      |       12808 |
+|      10 | 0x320F      |       12815 |
+|      11 | 0x3200      |       12800 |
+|      12 | 0x3201      |       12801 |
+|      13 | 0x3202      |       12802 |
+|      14 | 0x3203      |       12803 |
+|      15 | 0x3204      |       12804 |
+|      16 | 0x3209      |       12809 |
 |      17 | 0x0012      |          18 |
 |      18 | 0x0004      |           4 |
-|      19 | 0x3204      |       12804 |
-|      20 | 0x3205      |       12805 |
+|      19 | 0x3205      |       12805 |
+|      20 | 0x3206      |       12806 |
 |      21 | 0x001E      |          30 |
-|      22 | 0x3209      |       12809 |
+|      22 | 0x320A      |       12810 |
 |      23 | 0x00C8      |         200 |
 
 ## String References
 
-- **12799**: Excuse me, [sir/madam]. If you are boarding the airship, might I ask you a favor?
-- **12800**: A passenger who intended to board the next flight dropped this...
-- **12801**: I cannot leave my post, so I was wondering if you could return it to its rightful owner in my stead?
-- **12802**: Return the dropped item? [Gladly./Sorry, I'm a busy [man/woman].]
-- **12803**: Thank you! The passenger who dropped the item looked like this.
-- **12804**: Have you memorized the image?
-- **12805**: Have you got it? [I got it./Not yet.]
-- **12806**: The passenger who dropped the item should be on the next flight.
-- **12807**: I leave the rest in your capable hands.
-- **12808**: I see... I'm sorry to have bothered you with such a trivial request.
-- **12809**: Oh, the airship has already left... I guess we'll just have to leave this with the airship authorities.
-- **12810**: You were unable to meet with the rightful owner of the item? Well, thank you for your help, in any case. I will hand the item over to the airship authorities.
-- **12811**: What, you've forgotten already?
-- **12812**: Have you forgotten? [Yes./No.]
-- **12813**: The passenger looked like this.
-- **12814**: It's my job to look out for suspicious characters coming in on the airships.
+- **12800**: Excuse me, [sir/madam]. If you are boarding the airship, might I ask you a favor?
+- **12801**: A passenger who intended to board the next flight dropped this...
+- **12802**: I cannot leave my post, so I was wondering if you could return it to its rightful owner in my stead?
+- **12803**: Return the dropped item? [Gladly./Sorry, I'm a busy [man/woman].]
+- **12804**: Thank you! The passenger who dropped the item looked like this.
+- **12805**: Have you memorized the image?
+- **12806**: Have you got it? [I got it./Not yet.]
+- **12807**: The passenger who dropped the item should be on the next flight.
+- **12808**: I leave the rest in your capable hands.
+- **12809**: I see... I'm sorry to have bothered you with such a trivial request.
+- **12810**: Oh, the airship has already left... I guess we'll just have to leave this with the airship authorities.
+- **12811**: You were unable to meet with the rightful owner of the item? Well, thank you for your help, in any case. I will hand the item over to the airship authorities.
+- **12812**: What, you've forgotten already?
+- **12813**: Have you forgotten? [Yes./No.]
+- **12814**: The passenger looked like this.
+- **12815**: It's my job to look out for suspicious characters coming in on the airships.
 
 ## Events
 
@@ -160,59 +160,59 @@
   3: 0x0010 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   4: 0x0012 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   5: 0x0014 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0023
-  6: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12810*)
+  6: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12811*)
     → "You were unable to meet with the rightful owner of the item? Well, thank you for your help, in any case. I will hand the item over to the airship authorities."
   7: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0020 [0x01] GOTO 0x009A
   9: 0x0023 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0055
- 10: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12811*)
+ 10: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12812*)
     → "What, you've forgotten already?"
  11: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x002F [0x24] CREATE_DIALOG(message_id=12812*, default_option=1*, option_flags=0*)
+ 12: 0x002F [0x24] CREATE_DIALOG(message_id=12813*, default_option=1*, option_flags=0*)
     → "Have you forgotten? [Yes./No.]"
  13: 0x0036 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0037 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004A
- 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=12813*)
+ 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=12814*)
     → "The passenger looked like this."
  16: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0043 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  18: 0x0044 [0x1A] CALL_SUBROUTINE(address=0x009C)
  19: 0x0047 [0x01] GOTO 0x0052
- 20: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=12806*)
+ 20: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=12807*)
     → "The passenger who dropped the item should be on the next flight."
  21: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=12807*)
+ 22: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=12808*)
     → "I leave the rest in your capable hands."
  23: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0052:
  24: 0x0052 [0x01] GOTO 0x009A
  25: 0x0055 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0064
- 26: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=12814*)
+ 26: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=12815*)
     → "It's my job to look out for suspicious characters coming in on the airships."
  27: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0061 [0x01] GOTO 0x009A
- 29: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=12799*)
+ 29: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=12800*)
     → "Excuse me, [sir/madam]. If you are boarding the airship, might I ask you a favor?"
  30: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=12800*)
+ 31: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=12801*)
     → "A passenger who intended to board the next flight dropped this..."
  32: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=12801*)
+ 33: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=12802*)
     → "I cannot leave my post, so I was wondering if you could return it to its rightful owner in my stead?"
  34: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0070 [0x24] CREATE_DIALOG(message_id=12802*, default_option=0*, option_flags=0*)
+ 35: 0x0070 [0x24] CREATE_DIALOG(message_id=12803*, default_option=0*, option_flags=0*)
     → "Return the dropped item? [Gladly./Sorry, I'm a busy [man/woman].]"
  36: 0x0077 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0078 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008B
  38: 0x0080 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 39: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=12803*)
+ 39: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=12804*)
     → "Thank you! The passenger who dropped the item looked like this."
  40: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0085 [0x1A] CALL_SUBROUTINE(address=0x009C)
  42: 0x0088 [0x01] GOTO 0x009A
  43: 0x008B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009A
- 44: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=12808*)
+ 44: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=12809*)
     → "I see... I'm sorry to have bothered you with such a trivial request."
  45: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0097 [0x01] GOTO 0x009A
@@ -269,10 +269,10 @@ SUBROUTINE_016B:
 
 SUBROUTINE_021C:
  91: 0x021C [0x68] SHOW_HUD_ELEMENTS()
- 92: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=12804*)
+ 92: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=12805*)
     → "Have you memorized the image?"
  93: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0221 [0x24] CREATE_DIALOG(message_id=12805*, default_option=1*, option_flags=0*)
+ 94: 0x0221 [0x24] CREATE_DIALOG(message_id=12806*, default_option=1*, option_flags=0*)
     → "Have you got it? [I got it./Not yet.]"
  95: 0x0228 [0x25] WAIT_DIALOG_SELECT()
  96: 0x0229 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0288
@@ -288,20 +288,20 @@ SUBROUTINE_021C:
 106: 0x0252 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 107: 0x0254 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 108: 0x0256 [0x02] IF !(Work_Zone[3] < ExtData[1]->WorkLocal[0]) GOTO 0x0265
-109: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=12809*)
+109: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=12810*)
     → "Oh, the airship has already left... I guess we'll just have to leave this with the airship authorities."
 110: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x0262 [0x01] GOTO 0x0285
-112: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=12806*)
+112: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=12807*)
     → "The passenger who dropped the item should be on the next flight."
 113: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=12807*)
+114: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=12808*)
     → "I leave the rest in your capable hands."
 115: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x026D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 117: 0x026F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 118: 0x0271 [0x02] IF !(Work_Zone[3] < ExtData[1]->WorkLocal[0]) GOTO 0x0280
-119: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=12809*)
+119: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=12810*)
     → "Oh, the airship has already left... I guess we'll just have to leave this with the airship authorities."
 120: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x027D [0x01] GOTO 0x0285

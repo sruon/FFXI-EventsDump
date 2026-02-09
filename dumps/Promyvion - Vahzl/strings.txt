@@ -1,5 +1,5 @@
 # Strings for Promyvion - Vahzl
-# Total: 7320 strings
+# Total: 7321 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,98 +7226,99 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Enter the memory stream? [Yes./No.]
- 7228: Return through the memory stream? [Yes./No.]
- 7229: Leave Promyvion? [Yes./No.]
- 7230: It appears to be a barrier woven from the energy of overflowing memories...
- 7231: DEBUG:$3{$3^$3$2p$317F$P10i]\7B
- 7232: DEBUG:DOOR OPEN
- 7233: DEBUG:DOOR CLOSE
- 7234: You sense a dark, empty presence...
- 7235: There is nothing out of the ordinary here.
- 7236: The sphere is emitting an eerie green glow.
- 7237: You are blinded by a white flash...
- 7238: A strange image has been burned into your mind...
- 7239: I bring thee two children who no longer hear the whisper of the soul. The boy on the right is Selh'teus. The boy on the left is Nag'molada.
- 7240: I beseech the blessings of the king before the commencement of our journey to the city of the Kuluu.
- 7241: Thou hast nothing to fear. Those who receive the blessings of the king may abide in the city of the Kuluu without worry or care.
- 7242: We have made a pledge to the Dawn Goddess, Altana.
- 7243: We shall make all haste in discovering the cause of thine illness, and return to a world with neither Zilart nor Kuluu.
- 7244: Though the whisper of the soul has grown quiet for thee, I ask for thy trust.
- 7245: Thou must live as before. Believe in the honesty of people as thou did when their thoughts were open to thee.
- 7246: Oho...
- 7247: So the living immortals have finally been born among the children of the Dawn...
- 7248: Why dost thou seek to show us this vision of Paradise? This heavenly garden the Zilart believe to be the goal of all on Vana'diel...
- 7249: What are we waiting for!? Gravi'ton, all of us... We should strive for that perfection!
- 7250: If we behold that vision, we too can understand what they are aiming for!
- 7251: We can join with the Zilart and be whole once more...
- 7252: This senseless conflict between us will end!
- 7253: Selh'teus...
- 7254: What is wrong with all of you? We have nothing to fear; Diabolos is...
- 7255: It is too late, Selh'teus. We have already fallen. Our hearts have been stained with corruption.
- 7256: It cannot be...!
- 7257: Dawnmaiden Yve'noile!
- 7258: What are you doing here!? It is forbidden to enter this place...!
- 7259: Nag'molada...
- 7260: Why dost thou, a Kuluu, work for the Zilart?
- 7261: Lady Yve'noile?
- 7262: This battle has gone beyond the point of salvation.
- 7263: The killing, the lies, the mistrust--we are no longer capable of understanding one another.
- 7264: It's all the fault of the terrestrial avatars. They are merely using the foolish Kuluu to force the king of the Zilart to keep the Gates of Paradise closed.
- 7265: And then there is that traitor, Selh'teus.
- 7266: All this blood has been spilled as a result of him breaking his promise to you!
- 7267: Thou dost yet believe in me, Nag'molada?
- 7268: Thou dost believe my words, my pledge to return this world to a place with neither Zilart nor Kuluu...?
- 7269: Lady Yve'noile, they are calling me a traitor to the Kuluu people.
- 7270: However, I never once considered myself to be one of them. I never once considered my actions to be a betrayal.
- 7271: I have returned to your side--that is all I have done. I will never betray your trust in me.
- 7272: Even if thou discovers I have betrayed that trust...?
- 7273: Lady Yve'noile?
- 7274: Not only thee; I intend to betray all the Zilart. It is because I...
- 7275: (<Player>...)
- 7276: (Where are you...?)
- 7277: (Help us...)
- 7278: You hear voices through the $3...
- 7279: The $3 has been returned to you.
- 7280: You cannot remember when exactly, but you have obtained $6!
- 7281: <Player>!?
- 7282: So this is Emptiness.
- 7283: I never believed I would be swallowed into its darkness.
- 7284: <Player>, you have my thanks.
- 7285: If you hadn't awoken me, I dread to think what would have happened.
- 7286: But if I am here, it is possible the others have been taken by the Emptiness, as well. We must look for them.
- 7287: <Player>...?
- 7288: This place... The spark of life has never flared here, I feel. Is this what they call "Emptiness"?
- 7289: I knew that if I followed you, something extraordinary was bound to occur. But this...
- 7290: My mind yet reels from the knowledge that the Zilart and the Kuluu still exist in this world. The ancient people who tried to open the Gates of Paradise...
- 7291: And to think that the legend of the mothercrystals entombed deep below the surface of Vana'diel was true...
- 7292: I must track down that Jeunoan diplomat, Nag'molada. He and I have much to discuss. Let us be on our way.
- 7293: <Player>, is that you...?
- 7294: Where is Prishe? Why isn't she here?
- 7295: Oh, I see... Our search for her continues.
- 7296: This may sound strange, <Player>, but as I lay dreaming, I am sure I heard Prishe's voice calling to me.
- 7297: I believe she is somewhere deep in the bowels of this dreadful realm.
- 7298: Please, <Player>. Help me find Prishe. We must all escape this awful place together...
- 7299: There is nothing out of the ordinary here.
- 7300: You can hear a strange voice... "Items, items, la la la la la`t"
- 7301: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7302: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7303: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7304: Now, listen close...
- 7305: Oh... Well, if that's the case, I'm outta here.
- 7306: The Goblin slipped away when you were not looking...
- 7307: You can hear a strange, raspy voice...
- 7308: I travel......hear lots... Hear...stories... Can tell...if...
- 7309: .........listen......
- 7310: Oh...... ...outta here.........
- 7311: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7312: What story would you like to be told? [On second thought, maybe later./Desires of Emptiness(pt.1)./Desires of Emptiness(pt.2)./Desires of Emptiness(pt.3)./Desires of Emptiness(pt.4).]
- 7313: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Enter the memory stream? [Yes./No.]
+ 7229: Return through the memory stream? [Yes./No.]
+ 7230: Leave Promyvion? [Yes./No.]
+ 7231: It appears to be a barrier woven from the energy of overflowing memories...
+ 7232: DEBUG:$3{$3^$3$2p$317F$P10i]\7B
+ 7233: DEBUG:DOOR OPEN
+ 7234: DEBUG:DOOR CLOSE
+ 7235: You sense a dark, empty presence...
+ 7236: There is nothing out of the ordinary here.
+ 7237: The sphere is emitting an eerie green glow.
+ 7238: You are blinded by a white flash...
+ 7239: A strange image has been burned into your mind...
+ 7240: I bring thee two children who no longer hear the whisper of the soul. The boy on the right is Selh'teus. The boy on the left is Nag'molada.
+ 7241: I beseech the blessings of the king before the commencement of our journey to the city of the Kuluu.
+ 7242: Thou hast nothing to fear. Those who receive the blessings of the king may abide in the city of the Kuluu without worry or care.
+ 7243: We have made a pledge to the Dawn Goddess, Altana.
+ 7244: We shall make all haste in discovering the cause of thine illness, and return to a world with neither Zilart nor Kuluu.
+ 7245: Though the whisper of the soul has grown quiet for thee, I ask for thy trust.
+ 7246: Thou must live as before. Believe in the honesty of people as thou did when their thoughts were open to thee.
+ 7247: Oho...
+ 7248: So the living immortals have finally been born among the children of the Dawn...
+ 7249: Why dost thou seek to show us this vision of Paradise? This heavenly garden the Zilart believe to be the goal of all on Vana'diel...
+ 7250: What are we waiting for!? Gravi'ton, all of us... We should strive for that perfection!
+ 7251: If we behold that vision, we too can understand what they are aiming for!
+ 7252: We can join with the Zilart and be whole once more...
+ 7253: This senseless conflict between us will end!
+ 7254: Selh'teus...
+ 7255: What is wrong with all of you? We have nothing to fear; Diabolos is...
+ 7256: It is too late, Selh'teus. We have already fallen. Our hearts have been stained with corruption.
+ 7257: It cannot be...!
+ 7258: Dawnmaiden Yve'noile!
+ 7259: What are you doing here!? It is forbidden to enter this place...!
+ 7260: Nag'molada...
+ 7261: Why dost thou, a Kuluu, work for the Zilart?
+ 7262: Lady Yve'noile?
+ 7263: This battle has gone beyond the point of salvation.
+ 7264: The killing, the lies, the mistrust--we are no longer capable of understanding one another.
+ 7265: It's all the fault of the terrestrial avatars. They are merely using the foolish Kuluu to force the king of the Zilart to keep the Gates of Paradise closed.
+ 7266: And then there is that traitor, Selh'teus.
+ 7267: All this blood has been spilled as a result of him breaking his promise to you!
+ 7268: Thou dost yet believe in me, Nag'molada?
+ 7269: Thou dost believe my words, my pledge to return this world to a place with neither Zilart nor Kuluu...?
+ 7270: Lady Yve'noile, they are calling me a traitor to the Kuluu people.
+ 7271: However, I never once considered myself to be one of them. I never once considered my actions to be a betrayal.
+ 7272: I have returned to your side--that is all I have done. I will never betray your trust in me.
+ 7273: Even if thou discovers I have betrayed that trust...?
+ 7274: Lady Yve'noile?
+ 7275: Not only thee; I intend to betray all the Zilart. It is because I...
+ 7276: (<Player>...)
+ 7277: (Where are you...?)
+ 7278: (Help us...)
+ 7279: You hear voices through the $3...
+ 7280: The $3 has been returned to you.
+ 7281: You cannot remember when exactly, but you have obtained $6!
+ 7282: <Player>!?
+ 7283: So this is Emptiness.
+ 7284: I never believed I would be swallowed into its darkness.
+ 7285: <Player>, you have my thanks.
+ 7286: If you hadn't awoken me, I dread to think what would have happened.
+ 7287: But if I am here, it is possible the others have been taken by the Emptiness, as well. We must look for them.
+ 7288: <Player>...?
+ 7289: This place... The spark of life has never flared here, I feel. Is this what they call "Emptiness"?
+ 7290: I knew that if I followed you, something extraordinary was bound to occur. But this...
+ 7291: My mind yet reels from the knowledge that the Zilart and the Kuluu still exist in this world. The ancient people who tried to open the Gates of Paradise...
+ 7292: And to think that the legend of the mothercrystals entombed deep below the surface of Vana'diel was true...
+ 7293: I must track down that Jeunoan diplomat, Nag'molada. He and I have much to discuss. Let us be on our way.
+ 7294: <Player>, is that you...?
+ 7295: Where is Prishe? Why isn't she here?
+ 7296: Oh, I see... Our search for her continues.
+ 7297: This may sound strange, <Player>, but as I lay dreaming, I am sure I heard Prishe's voice calling to me.
+ 7298: I believe she is somewhere deep in the bowels of this dreadful realm.
+ 7299: Please, <Player>. Help me find Prishe. We must all escape this awful place together...
+ 7300: There is nothing out of the ordinary here.
+ 7301: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7302: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7303: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7304: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7305: Now, listen close...
+ 7306: Oh... Well, if that's the case, I'm outta here.
+ 7307: The Goblin slipped away when you were not looking...
+ 7308: You can hear a strange, raspy voice...
+ 7309: I travel......hear lots... Hear...stories... Can tell...if...
+ 7310: .........listen......
+ 7311: Oh...... ...outta here.........
+ 7312: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7313: What story would you like to be told? [On second thought, maybe later./Desires of Emptiness(pt.1)./Desires of Emptiness(pt.2)./Desires of Emptiness(pt.3)./Desires of Emptiness(pt.4).]
  7314: 
  7315: 
- 7316: Remnants of a cerebrator lie scattered about the area.
- 7317: Remnants of a coveter lie scattered about the area.
- 7318: Remnants of a satiator lie scattered about the area.
- 7319: Nothing happens...
+ 7316: 
+ 7317: Remnants of a cerebrator lie scattered about the area.
+ 7318: Remnants of a coveter lie scattered about the area.
+ 7319: Remnants of a satiator lie scattered about the area.
+ 7320: Nothing happens...

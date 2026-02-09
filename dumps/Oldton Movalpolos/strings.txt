@@ -1,5 +1,5 @@
 # Strings for Oldton Movalpolos
-# Total: 8243 strings
+# Total: 8244 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,160 +7226,160 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Good luck, [citizen/comrade]. I will bestow upon you your nation's Signet.
- 7228: I cannot help you. You should go find a guard from your own country.
- 7229: I cannot accept crystals from someone whose rank is still 1. I advise you to either keep them until your reach rank 2, or to use them in craftwork.
- 7230: Since we are allied with San d'Oria...
- 7231: Since we are allied with Bastok...
- 7232: Since we are allied with Windurst...
- 7233: I am sorry. I am too busy with other matters to be speaking with you.
- 7234: Ah, you have brought us supplies. These will help us indeed. I thank you.
- 7235: Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly. I do commend you for your effort. May you succeed next time.
- 7236: You've earned conquest points!
- 7237: You've received your nation's Signet. You are now taking part in your nation's conquest campaign!
- 7238: I am %, a Temple Knight. I am one of the guards charged with overseeing San d'Oria's conquest campaign.
- 7239: I am %, an Iron Musketeer. I am one of the guards charged with overseeing Bastok's conquest campaign.
- 7240: I am %, a War Warlock. I am one of the guards charged with overseeing Windurst's conquest campaign.
- 7241: What is your business? [Would you cast Signet on me?/I want to spend my conquest points./[I want to join the Expeditionary Force./Teleport me to the E.F. area.]/I want to quit the E.F./change my E.F./I want to go on a supplies quest./I have some questions.../Nothing, sorry to bother you.]
- 7242: What do you wish to know about? [Nothing./Conquests./Conquest results./Donating crystals./Conquest points./The effects of controlling regions./Regions controlled by other nations./Regions under beastman control.]
- 7243: All three nations are striving daily to put more regions under their control. This is what we call "conquests." You can take part in it and serve your country by defeating enemies while you have Signet cast on you.
- 7244: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.
- 7245: Nations receive goods and resources from regions under their control.
- 7246: So, the more regions we control, the richer our nation becomes.
- 7247: Border guards are also placed in outposts within regions under our control. They are there to cast Signet on adventurers like yourself.
- 7248: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.
- 7249: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.
- 7250: So you see...conquests benefit nations and adventurers alike. We expect you to do your best to serve your country.
- 7251: You can see the current state of conquests by selecting "Region Info" from the main menu. Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.
- 7252: Shops in our city will be selling different items according to our conquest rank. The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.
- 7253: You can donate crystals to your nation once you achieve rank 2. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
- 7254: We would like you to donate crystals to your nation from now on. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
- 7255: You can acquire crystals by defeating enemies while you have your nation's Signet. Having Signet cast on you is also the only way of taking part in conquests.
- 7256: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.
- 7257: You also receive rank points for completing missions. Complete missions and take part in conquests to raise your rank and serve your country.
- 7258: You are awarded conquest points when you defeat monsters while you are taking part in conquests. Select "Region Info" from the menu to check your current number of conquest points.
- 7259: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.
- 7260: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.
- 7261: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.
- 7262: Merchants will also be placed there, and goods from that region will find their way to the local shops here.
- 7263: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.
- 7264: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.
- 7265: As an incentive, we will award you with more conquest points for defeating monsters in those regions.
- 7266: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.
- 7267: Our paramount concern lies in the beastmen gaining control of our regions. If too many of us are defeated in a region, the beastmen will gain control of it.
- 7268: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.
- 7269: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.
- 7270: We need you to bring supplies to the outpost border guards who are placed in regions under our control.
- 7271: There is one outpost in each region. Select "Region Info" from the menu, and look for the areas with a small flag mark on the map. That is where they are.
- 7272: Here are the supplies. Just give them to the guard at the outpost and your mission will be complete. Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.
- 7273: Where do you wish to take the supplies? [@/@/@/@/@/The Ronfaure Region.[/ (Done)]/The Zulkheim Region.[/ (Done)]/The Norvallen Region.[/ (Done)]/The Gustaberg Region.[/ (Done)]/The Derfland Region.[/ (Done)]/The Sarutabaruta Region.[/ (Done)]/The Kolshushu Region.[/ (Done)]/The Aragoneu Region.[/ (Done)]/The Fauregandi Region.[/ (Done)]/The Valdeaunia Region.[/ (Done)]/Qufim Island.[/ (Done)]/The Li'Telor Region.[/ (Done)]/The Kuzotz Region.[/ (Done)]/The Vollbow Region.[/ (Done)]/The Elshimo Lowlands Region.[/ (Done)]/The Elshimo Uplands Region.[/ (Done)]/Tu'Lia.[/ (Done)]/@/The Tavnazian Archipelago.[/ (Done)]/@/@/@/@/@/@/@/Cancel.]
- 7274: Which E.F. would you like to join? [././././././The Zulkheim Region (Lv.20`)./The Norvallen Region (Lv.25`)././The Derfland Region (Lv.25`)././The Kolshushu Region (Lv.20`)./The Aragoneu Region (Lv.25`)./The Fauregandi Region (Lv.35`)./The Valdeaunia Region (Lv.40`)./The Qufim Region (Lv.25`)./The Li'Telor Region (Lv.35`)./The Kuzotz Region (Lv.40`)./The Vollbow Region (Lv.65`)./The Elshimo Lowlands Region (Lv.35`)./The Elshimo Uplands Region (Lv.45`)./././././././././././None.]
- 7275: So be it. You have until the next conquest results announcement to complete this mission. Good luck.
- 7276: We will dispose of those unusable supplies.
- 7277: You can only undertake one supply mission per day. Come back later.
- 7278: I am sorry. We seem to have a problem. Let me cancel it.
- 7279: You do not need to donate any more crystals at your current rank. Speak to the guard at the gatehouse for further instructions.
- 7280: Your rank points are full. We've added the excess to your conquest points. You do not need to donate any more crystals. Go to the gatehouse for further instructions.
- 7281: Good work, citizen. We've awarded you rank points for the crystals you've donated.
- 7282: You currently have $0 conquest points. Would you like to use them to purchase items?
- 7283: Which item do you wish to purchase? [Common items (all ranks)./1000-pt. items (rank 1 required)."000-pt. items (rank 2 required)./4000-pt. items (rank 3 required)./8000-pt. items (rank 4 required)./16000-pt. items (rank 5 required)."4000-pt. items (rank 6 required)."2000-pt. items (rank 7 required)./40000-pt. items (rank 8 required)./48000-pt. items (rank 9 required)./56000-pt. items (rank 10 required)./Cancel.]
- 7284: Which item do you wish to purchase? [Common items (all ranks)."000-pt. items (rank 1 required)./4000-pt. items (rank 2 required)./8000-pt. items (rank 3 required)./16000-pt. items (rank 4 required)."4000-pt. items (rank 5 required)."2000-pt. items (rank 6 required)./40000-pt. items (rank 7 required)./48000-pt. items (rank 8 required)./56000-pt. items (rank 9 required)././Cancel.]
- 7285: Currently there are no items available for that rank.
- 7286: Due to its special nature, you can only purchase or recharge $2 once until the conquest results tally is performed. Also, you cannot purchase this item if a similar item is already in your possession.
- 7287: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 50 conquest points.
- 7288: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 100 conquest points.
- 7289: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 200 conquest points.
- 7290: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.
- 7291: You do not possess the $1 [conquest point/conquest points] required to fully recharge the $0.
- 7292: Please be aware that you can only purchase or recharge $0 once during the period between each conquest results tally.
- 7293: The $0 is already fully charged.
- 7294: Your $0 has received $2 [charge/charges] in exchange for $1 [conquest point/conquest points]. It is now fully recharged.
- 7295: I will trade you $0 for your $1. May it serve you well.
- 7296: You do not meet the requirements to purchase the $2.
- 7297: Your rank is too low to purchase the $2.
- 7298: You do not have enough conquest points to purchase the $2.
- 7299: You cannot equip the $2. Do you still wish to proceed?
- 7300: Your level is too low to equip the $2. Do you still wish to proceed?
- 7301: You seem to be able to equip the $2. Do you wish to proceed?
- 7302: Are you sure you want to purchase the $2?
- 7303: Proceed? [Yes, purchase item./Cancel purchase.]
- 7304: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
- 7305: Which item do you wish to purchase? [#./$1./$2./$3./$4./$5./$6./$7./Next page./Previous page./Back.]
- 7306: Which item do you wish to purchase? [#...$8 pts./$1...$9 pts./$2...$10 pts./$3...$11 pts./$4...$12 pts./$5...$13 pts./$6...$14 pts./$7...$15 pts./Next page./Previous page./Back.]
- 7307: ENDPARAF$0
- 7308: Which service do you request? [Buy/Sell items./Teleportation./Nothing.]
- 7309: Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]
- 7310: Welkome to my vorder shop! Trade me all your junk ekwipment ov yourz and I might just give you some konkwest pointz!
- 7311: And vy popular demand, I now aksept $0 az well. Trade me vig onez and you'll earn not only konkwest pointz but good, hard gil to voot!
- 7312: Your nation iz strong in this region. We Movlinz like strong peoplez! I'll sell you my treazurez.
- 7313: Your nation iz friendz with other strong nationz. We Movlinz like strong peoplez! I'll sell you my treazurez.
- 7314: Going away? I kan teleport you to your home nation for $1 gil or $3 conquest [point/points]!
- 7315: Ah, you have kollected all mog tabletz! Today iz your lucky day! I kan teleport you to your home nation for free!
- 7316: Wait! You have no money! Movlinz hate poor, smelly adventurers! Go on! Get out!
- 7317: Wait! You have no points! Movlinz hate wimpy, wussy adventurers! Go on! Get out!
- 7318: Your nation iz weak! Movlinz hate weak peoplez! Vut we love weak peoplez ekwipment. You kan trade if you want.
- 7319: Kome vack again sometime!
- 7320: Junk... I guess I kan give you a few konkwest points.
- 7321: Don't you have anything better...? I guess I kan give a handful of konkwest points.
- 7322: Wowzie! Great goodiez! I've got a vunch of konkwest points for you!
- 7323: Some of that junk, even Movlinz don't want! Toss it and try trading again!
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Good luck, [citizen/comrade]. I will bestow upon you your nation's Signet.
+ 7229: I cannot help you. You should go find a guard from your own country.
+ 7230: I cannot accept crystals from someone whose rank is still 1. I advise you to either keep them until your reach rank 2, or to use them in craftwork.
+ 7231: Since we are allied with San d'Oria...
+ 7232: Since we are allied with Bastok...
+ 7233: Since we are allied with Windurst...
+ 7234: I am sorry. I am too busy with other matters to be speaking with you.
+ 7235: Ah, you have brought us supplies. These will help us indeed. I thank you.
+ 7236: Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly. I do commend you for your effort. May you succeed next time.
+ 7237: You've earned conquest points!
+ 7238: You've received your nation's Signet. You are now taking part in your nation's conquest campaign!
+ 7239: I am %, a Temple Knight. I am one of the guards charged with overseeing San d'Oria's conquest campaign.
+ 7240: I am %, an Iron Musketeer. I am one of the guards charged with overseeing Bastok's conquest campaign.
+ 7241: I am %, a War Warlock. I am one of the guards charged with overseeing Windurst's conquest campaign.
+ 7242: What is your business? [Would you cast Signet on me?/I want to spend my conquest points./[I want to join the Expeditionary Force./Teleport me to the E.F. area.]/I want to quit the E.F./change my E.F./I want to go on a supplies quest./I have some questions.../Nothing, sorry to bother you.]
+ 7243: What do you wish to know about? [Nothing./Conquests./Conquest results./Donating crystals./Conquest points./The effects of controlling regions./Regions controlled by other nations./Regions under beastman control.]
+ 7244: All three nations are striving daily to put more regions under their control. This is what we call "conquests." You can take part in it and serve your country by defeating enemies while you have Signet cast on you.
+ 7245: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.
+ 7246: Nations receive goods and resources from regions under their control.
+ 7247: So, the more regions we control, the richer our nation becomes.
+ 7248: Border guards are also placed in outposts within regions under our control. They are there to cast Signet on adventurers like yourself.
+ 7249: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.
+ 7250: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.
+ 7251: So you see...conquests benefit nations and adventurers alike. We expect you to do your best to serve your country.
+ 7252: You can see the current state of conquests by selecting "Region Info" from the main menu. Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.
+ 7253: Shops in our city will be selling different items according to our conquest rank. The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.
+ 7254: You can donate crystals to your nation once you achieve rank 2. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
+ 7255: We would like you to donate crystals to your nation from now on. Just trade them to guards like myself, and we will ensure they are sent to the proper place.
+ 7256: You can acquire crystals by defeating enemies while you have your nation's Signet. Having Signet cast on you is also the only way of taking part in conquests.
+ 7257: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.
+ 7258: You also receive rank points for completing missions. Complete missions and take part in conquests to raise your rank and serve your country.
+ 7259: You are awarded conquest points when you defeat monsters while you are taking part in conquests. Select "Region Info" from the menu to check your current number of conquest points.
+ 7260: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.
+ 7261: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.
+ 7262: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.
+ 7263: Merchants will also be placed there, and goods from that region will find their way to the local shops here.
+ 7264: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.
+ 7265: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.
+ 7266: As an incentive, we will award you with more conquest points for defeating monsters in those regions.
+ 7267: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.
+ 7268: Our paramount concern lies in the beastmen gaining control of our regions. If too many of us are defeated in a region, the beastmen will gain control of it.
+ 7269: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.
+ 7270: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.
+ 7271: We need you to bring supplies to the outpost border guards who are placed in regions under our control.
+ 7272: There is one outpost in each region. Select "Region Info" from the menu, and look for the areas with a small flag mark on the map. That is where they are.
+ 7273: Here are the supplies. Just give them to the guard at the outpost and your mission will be complete. Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.
+ 7274: Where do you wish to take the supplies? [@/@/@/@/@/The Ronfaure Region.[/ (Done)]/The Zulkheim Region.[/ (Done)]/The Norvallen Region.[/ (Done)]/The Gustaberg Region.[/ (Done)]/The Derfland Region.[/ (Done)]/The Sarutabaruta Region.[/ (Done)]/The Kolshushu Region.[/ (Done)]/The Aragoneu Region.[/ (Done)]/The Fauregandi Region.[/ (Done)]/The Valdeaunia Region.[/ (Done)]/Qufim Island.[/ (Done)]/The Li'Telor Region.[/ (Done)]/The Kuzotz Region.[/ (Done)]/The Vollbow Region.[/ (Done)]/The Elshimo Lowlands Region.[/ (Done)]/The Elshimo Uplands Region.[/ (Done)]/Tu'Lia.[/ (Done)]/@/The Tavnazian Archipelago.[/ (Done)]/@/@/@/@/@/@/@/Cancel.]
+ 7275: Which E.F. would you like to join? [././././././The Zulkheim Region (Lv.20`)./The Norvallen Region (Lv.25`)././The Derfland Region (Lv.25`)././The Kolshushu Region (Lv.20`)./The Aragoneu Region (Lv.25`)./The Fauregandi Region (Lv.35`)./The Valdeaunia Region (Lv.40`)./The Qufim Region (Lv.25`)./The Li'Telor Region (Lv.35`)./The Kuzotz Region (Lv.40`)./The Vollbow Region (Lv.65`)./The Elshimo Lowlands Region (Lv.35`)./The Elshimo Uplands Region (Lv.45`)./././././././././././None.]
+ 7276: So be it. You have until the next conquest results announcement to complete this mission. Good luck.
+ 7277: We will dispose of those unusable supplies.
+ 7278: You can only undertake one supply mission per day. Come back later.
+ 7279: I am sorry. We seem to have a problem. Let me cancel it.
+ 7280: You do not need to donate any more crystals at your current rank. Speak to the guard at the gatehouse for further instructions.
+ 7281: Your rank points are full. We've added the excess to your conquest points. You do not need to donate any more crystals. Go to the gatehouse for further instructions.
+ 7282: Good work, citizen. We've awarded you rank points for the crystals you've donated.
+ 7283: You currently have $0 conquest points. Would you like to use them to purchase items?
+ 7284: Which item do you wish to purchase? [Common items (all ranks)./1000-pt. items (rank 1 required)."000-pt. items (rank 2 required)./4000-pt. items (rank 3 required)./8000-pt. items (rank 4 required)./16000-pt. items (rank 5 required)."4000-pt. items (rank 6 required)."2000-pt. items (rank 7 required)./40000-pt. items (rank 8 required)./48000-pt. items (rank 9 required)./56000-pt. items (rank 10 required)./Cancel.]
+ 7285: Which item do you wish to purchase? [Common items (all ranks)."000-pt. items (rank 1 required)./4000-pt. items (rank 2 required)./8000-pt. items (rank 3 required)./16000-pt. items (rank 4 required)."4000-pt. items (rank 5 required)."2000-pt. items (rank 6 required)./40000-pt. items (rank 7 required)./48000-pt. items (rank 8 required)./56000-pt. items (rank 9 required)././Cancel.]
+ 7286: Currently there are no items available for that rank.
+ 7287: Due to its special nature, you can only purchase or recharge $2 once until the conquest results tally is performed. Also, you cannot purchase this item if a similar item is already in your possession.
+ 7288: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 50 conquest points.
+ 7289: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 100 conquest points.
+ 7290: It is possible to fully recharge $2 by trading it to one of your nation's guards, including outpost guards. One charge requires 200 conquest points.
+ 7291: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.
+ 7292: You do not possess the $1 [conquest point/conquest points] required to fully recharge the $0.
+ 7293: Please be aware that you can only purchase or recharge $0 once during the period between each conquest results tally.
+ 7294: The $0 is already fully charged.
+ 7295: Your $0 has received $2 [charge/charges] in exchange for $1 [conquest point/conquest points]. It is now fully recharged.
+ 7296: I will trade you $0 for your $1. May it serve you well.
+ 7297: You do not meet the requirements to purchase the $2.
+ 7298: Your rank is too low to purchase the $2.
+ 7299: You do not have enough conquest points to purchase the $2.
+ 7300: You cannot equip the $2. Do you still wish to proceed?
+ 7301: Your level is too low to equip the $2. Do you still wish to proceed?
+ 7302: You seem to be able to equip the $2. Do you wish to proceed?
+ 7303: Are you sure you want to purchase the $2?
+ 7304: Proceed? [Yes, purchase item./Cancel purchase.]
+ 7305: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
+ 7306: Which item do you wish to purchase? [#./$1./$2./$3./$4./$5./$6./$7./Next page./Previous page./Back.]
+ 7307: Which item do you wish to purchase? [#...$8 pts./$1...$9 pts./$2...$10 pts./$3...$11 pts./$4...$12 pts./$5...$13 pts./$6...$14 pts./$7...$15 pts./Next page./Previous page./Back.]
+ 7308: ENDPARAF$0
+ 7309: Which service do you request? [Buy/Sell items./Teleportation./Nothing.]
+ 7310: Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]
+ 7311: Welkome to my vorder shop! Trade me all your junk ekwipment ov yourz and I might just give you some konkwest pointz!
+ 7312: And vy popular demand, I now aksept $0 az well. Trade me vig onez and you'll earn not only konkwest pointz but good, hard gil to voot!
+ 7313: Your nation iz strong in this region. We Movlinz like strong peoplez! I'll sell you my treazurez.
+ 7314: Your nation iz friendz with other strong nationz. We Movlinz like strong peoplez! I'll sell you my treazurez.
+ 7315: Going away? I kan teleport you to your home nation for $1 gil or $3 conquest [point/points]!
+ 7316: Ah, you have kollected all mog tabletz! Today iz your lucky day! I kan teleport you to your home nation for free!
+ 7317: Wait! You have no money! Movlinz hate poor, smelly adventurers! Go on! Get out!
+ 7318: Wait! You have no points! Movlinz hate wimpy, wussy adventurers! Go on! Get out!
+ 7319: Your nation iz weak! Movlinz hate weak peoplez! Vut we love weak peoplez ekwipment. You kan trade if you want.
+ 7320: Kome vack again sometime!
+ 7321: Junk... I guess I kan give you a few konkwest points.
+ 7322: Don't you have anything better...? I guess I kan give a handful of konkwest points.
+ 7323: Wowzie! Great goodiez! I've got a vunch of konkwest points for you!
  7324: Some of that junk, even Movlinz don't want! Toss it and try trading again!
- 7325: [Junk... I guess I kan give you a few konkwest points./Don't you have anything better...? I guess I kan give a handful of konkwest points./Wowzie! Great goodiez! I've got a vunch of konkwest points for you!] And this here $0 gil iz for you.
- 7326: Whoa, one piece at a time, vuddy! We Movlinz only have two eyez and two handz to appraize with, you know?
- 7327: (DEBUG) Back to hometown!
- 7328: What do you want? [Would you cast Signet on me?/I'd like to set my home point here./Nothing.]
- 7329: What do you want? [Pay $7 gil and set my home point here./Nothing.]
- 7330: Your home point has been set.
- 7331: You do not have enough gil to set your home point here.
- 7332: I will set your home point here.
- 7333: We are currently on a beastman-purging campaign. We support adventurers from all nations. Do your best to rid the world of those vile creatures.
- 7334: We are currently conducting an international exchange campaign. You may spend your conquest points to purchase items from foreign guards.
- 7335: Thanks to you, our nation is now first in the conquest race! Here is a small token of our appreciation.
- 7336: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.
- 7337: You cannot currently purchase this item. Please choose another.
- 7338: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.
- 7339: Requirements for participating in an E.F. are simple. Your party must consist of $5 members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.
- 7340: Once your party is ready, come to me and I will teleport you to the nearest outpost.
- 7341: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.
- 7342: Join the E.F. in [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Join the E.F./Not this time.]
- 7343: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.
- 7344: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.
- 7345: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.
- 7346: One of your party members is below level $6. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.
- 7347: I see that you are ready. I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.
- 7348: Are you ready to be teleported to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.
- 7349: Teleport to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Ready!/Wait just a minute...]
- 7350: Cancel your participation in the E.F. to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
- 7351: Quit the E.F.? [Yes./Change locations./No.]
- 7352: Are you sure?
- 7353: Really quit the E.F.? [Yes./No.]
- 7354: I see. If you ever wish to participate in the future, I will be waiting here to take your application.
- 7355: Your EF Badge vanishes!
- 7356: Katsu-yaku pointos : $0!
- 7357: This $3 is no longer valid. We will dispose of it here.
- 7358: Your invalid ensignias have been disposed of.
- 7359: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.
- 7360: You received $1 conquest points!
- 7361: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.
- 7362: I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties. Once Signet has been bestowed upon you, prepare to be teleported.
- 7363: You could not be teleported. Ask me again, please.
- 7364: The conquest results are currently being tallied. Come back later.
- 7365: You have received permission to join the Expeditionary Forces!
- 7366: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.
- 7367: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.
- 7368: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.
- 7369: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.
- 7370: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.
- 7371: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!
- 7372: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.
- 7373: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
- 7374: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
- 7375: Your inventory is full. You could not accept the $0.
- 7376: You already possess a gate glyph. You cannot hold any more.
- 7377: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
- 7378: @
+ 7325: Some of that junk, even Movlinz don't want! Toss it and try trading again!
+ 7326: [Junk... I guess I kan give you a few konkwest points./Don't you have anything better...? I guess I kan give a handful of konkwest points./Wowzie! Great goodiez! I've got a vunch of konkwest points for you!] And this here $0 gil iz for you.
+ 7327: Whoa, one piece at a time, vuddy! We Movlinz only have two eyez and two handz to appraize with, you know?
+ 7328: (DEBUG) Back to hometown!
+ 7329: What do you want? [Would you cast Signet on me?/I'd like to set my home point here./Nothing.]
+ 7330: What do you want? [Pay $7 gil and set my home point here./Nothing.]
+ 7331: Your home point has been set.
+ 7332: You do not have enough gil to set your home point here.
+ 7333: I will set your home point here.
+ 7334: We are currently on a beastman-purging campaign. We support adventurers from all nations. Do your best to rid the world of those vile creatures.
+ 7335: We are currently conducting an international exchange campaign. You may spend your conquest points to purchase items from foreign guards.
+ 7336: Thanks to you, our nation is now first in the conquest race! Here is a small token of our appreciation.
+ 7337: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.
+ 7338: You cannot currently purchase this item. Please choose another.
+ 7339: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.
+ 7340: Requirements for participating in an E.F. are simple. Your party must consist of $5 members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.
+ 7341: Once your party is ready, come to me and I will teleport you to the nearest outpost.
+ 7342: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.
+ 7343: Join the E.F. in [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Join the E.F./Not this time.]
+ 7344: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.
+ 7345: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.
+ 7346: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.
+ 7347: One of your party members is below level $6. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.
+ 7348: I see that you are ready. I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.
+ 7349: Are you ready to be teleported to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.
+ 7350: Teleport to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? [Ready!/Wait just a minute...]
+ 7351: Cancel your participation in the E.F. to [Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+ 7352: Quit the E.F.? [Yes./Change locations./No.]
+ 7353: Are you sure?
+ 7354: Really quit the E.F.? [Yes./No.]
+ 7355: I see. If you ever wish to participate in the future, I will be waiting here to take your application.
+ 7356: Your EF Badge vanishes!
+ 7357: Katsu-yaku pointos : $0!
+ 7358: This $3 is no longer valid. We will dispose of it here.
+ 7359: Your invalid ensignias have been disposed of.
+ 7360: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.
+ 7361: You received $1 conquest points!
+ 7362: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.
+ 7363: I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties. Once Signet has been bestowed upon you, prepare to be teleported.
+ 7364: You could not be teleported. Ask me again, please.
+ 7365: The conquest results are currently being tallied. Come back later.
+ 7366: You have received permission to join the Expeditionary Forces!
+ 7367: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.
+ 7368: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.
+ 7369: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.
+ 7370: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.
+ 7371: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.
+ 7372: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!
+ 7373: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.
+ 7374: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.
+ 7375: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.
+ 7376: Your inventory is full. You could not accept the $0.
+ 7377: You already possess a gate glyph. You cannot hold any more.
+ 7378: I am Jeunoan Ducal Guard, %. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.
  7379: @
  7380: @
  7381: @
@@ -7568,679 +7568,680 @@
  7564: @
  7565: @
  7566: @
- 7567: PAUSE
- 7568: $1
- 7569: TEST -> Effect ON!
- 7570: TEST -> Effect off...
- 7571: ...No fun... Nothing around but rocks... I want to see pretty things... Crazy things...
- 7572: I'm Tarnotik.
- 7573: Hm? You [guy/lady] that want to go deep into Movalpolos? You crazy. Crazier than Tarnotik.
- 7574: But I like crazies. I take you, but first you give me goodie.
- 7575: I want crazy goodie. I want flower that grows in snow. That's crazy!
- 7576: You give me crazy flower and I take you to Shaft 2716.
- 7577: But that's as far as Tarnotik go. Shaft 2716 is bad place. Even crazy Tarnotik not go in there.
- 7578: #!
- 7579: Tarnotik happy!
- 7580: Tarnotik like crazy adventurer!
- 7581: Moblins no break promises! Tarnotik take you to Shaft 2716 now.
- 7582: Every day fun for Tarnotik! I loves my crazy goodies! I loves my crazy adventurer friend!
- 7583: Crazy adventurer ready to go?
- 7584: Ready? [Let's move!/Wait a minute...]
- 7585: You look for Jabbos, no? I sees Jabbos in Shaft 2716!
- 7586: He no crazy. He say he want to be alone. He lock door so he can be alone. Crazy adventurer find $1, crazy adventurer can maybe open door.
- 7587: You can't fish here.
- 7588: You can't fish without a rod in your hands.
- 7589: You can't fish without bait on the hook.
- 7590: You can't fish at the moment.
- 7591: You didn't catch anything.
- 7592: %0 caught a monster!
- 7593: Your line breaks.
- 7594: Your rod breaks.
- 7595: Something caught the hook!
- 7596: You lost your catch.
- 7597: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7598: You feel there's something here.
- 7599: You feel there's something nearby.
- 7600: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7601: %0 caught $1 $0 !
- 7602: You dig and you dig, but find nothing.
- 7603: $0/$0p$3Z$3b$3g
- 7604: Your rod breaks. Whatever caught the hook was pretty big.
- 7605: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7606: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7607: You lost your catch due to your lack of skill.
- 7608: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7609: You didn't catch anything.
- 7610: The paper on your $0 ripped.
- 7611: A tiny goldfish approaches!
- 7612: A plump, black goldfish approaches!
- 7613: A fat, juicy goldfish approaches!
- 7614: There are no goldfish to be found...
- 7615: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7616: The goldfish slipped off your scoop...
- 7617: ch$0 skill up check.
- 7618: a:$0.
- 7619: Time $0 / Status $1 / $2
- 7620: d:$0. e:$1. f:$2. g:$3.
- 7621: h: $1. i: $0. sr: $2.
- 7622: j:$0. k:$1.
- 7623: You give up and reel in your line.
- 7624: You give up.
- 7625: %0 obtains $1 gil.
- 7626: %0 caught $0!
- 7627: You don't know how much longer you can keep this one on the line...
- 7628: You have a good feeling about this one!
- 7629: You have a bad feeling about this one.
- 7630: You have a terrible feeling about this one...
- 7631: You don't know if you have enough skill to reel this one in.
- 7632: You're fairly sure you don't have enough skill to reel this one in.
- 7633: You're positive you don't have enough skill to reel this one in!
- 7634: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7635: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7636: l: $0. m: $1. n: $2. CH: $3.
- 7637: Something caught the hook!!!
- 7638: You feel something pulling at your line.
- 7639: Something clamps onto your line ferociously!
- 7640: Your keen angler's senses tell you that this is the pull of $0!
- 7641: This strength... You get the sense that you are on the verge of an epic catch!
- 7642: The timer has started. $0 seconds remaining.
- 7643: $0sec.$1/$2sec.
- 7644: 0:$0 1:$1 2:$2 3:$3
- 7645: 4:$0 5:$1 6:$2 7:$3
- 7646: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7647: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7648: $0/$1($2j
- 7649: Version invalid error!
- 7650: Hurry before the goldfish sees you!
- 7651: %0 fishes up a large box!
- 7652: $23$o$P122$8$0
- 7653: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7654: PointF$0 >>> $1
- 7655: [$1($0)/skillF$1]
- 7656: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7657: Im Rnd : $0 Pz Rnd : $1
- 7658: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7659: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7660: skill : $0 size : $1 kind : $2 sch : $3
- 7661: time : $0 mes : $1 flag : $2 bonus : $3
- 7662: item : $0 hp : $1 pow : $2 swing : $3
- 7663: suc : $0 cons : $1 weight : $2 +- : $3
- 7664: speed : $0 +- : $1 exc : $2 client : $3
- 7665: general : $0
- 7666: ro:$0 rs:$1 ps:$2 dt:$3
- 7667: ra:$0 ti:$1
- 7668: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7669: You get the distinct sense that your moogle friend frequents this spot...
- 7670: You have a feeling that your moogle friend has been through this way...
- 7671: You suspect that the scenery around here would be to a moogle's liking...
- 7672: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7673: You have a hunch that this area would be favored by moogles...
- 7674: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7675: %0 catches $1 $0 !
- 7676: %0 obtained $6!
- 7677: It appears your chocobo found this item with ease.
- 7678: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7679: FPT $0 DPT $1 DoT$2
- 7680: FPT $0 TDPT $1 h$2
- 7681: You cannot fish at this time.
- 7682: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7683: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7684: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7685: You receive $0 bayld!
- 7686: Your chocobo refuses to partake of the $0.
- 7687: Why, if it isn't the adventurer, <Player>.
- 7688: I must commend you on your insight.
- 7689: Yes, it was nearly one hundred years ago, too, that the Moblins wandered their way up from the bowels of Vana'diel...
- 7690: And then the Tarutaru scientist who examined the statue in Tavnazia--what he said about the statue dug up from a labyrinth...
- 7691: I advise you, do not let down your guard when traveling through these caves. The Moblins' behavior is often erratic, and they can be quite nastier than their cousins on the surface.
- 7692: Out of all the beastmen, they seem to realize that they are the children of the Twilight, and it is this fact that drives them.
- 7693: Ah yes, one of my colleagues said he spoke with a creature known as Tarnotik deep in the eastern end of this area the Moblins call Oldton Movalpolos. Whether that beast will help you or not...
- 7694: I still am not convinced that this cave is truly the path to Al'Taieu.
- 7695: ...
- 7696: It cannot be!
- 7697: There is nothing out of the ordinary here.
- 7698: You can hear a strange voice... "Items, items, la la la la la`t"
- 7699: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7700: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7701: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7702: Now, listen close...
- 7703: Oh... Well, if that's the case, I'm outta here.
- 7704: The Goblin slipped away when you were not looking...
- 7705: You can hear a strange, raspy voice...
- 7706: I travel......hear lots... Hear...stories... Can tell...if...
- 7707: .........listen......
- 7708: Oh...... ...outta here.........
- 7709: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7710: What story would you like to be told? [On second thought, maybe later./A Century of Hardship./A Question of Faith./Return to the Depths(pt.1)./Return to the Depths(pt.2)./Return to the Depths(pt.3)./Better the Demon You Know(pt.1)./Better the Demon You Know(pt.2)./Better the Demon You Know(pt.3)./Newfound Family./A Generous General?(pt.1)./A Generous General?(pt.2)./A Generous General?(pt.3)./A Generous General?(pt.4)./A Generous General?(pt.5)./A Generous General?(pt.6)./To Movalpolos!./Kipdrix the Faithful(pt.1)./Kipdrix the Faithful(pt.2)./Your Decision.]
- 7711: 
+ 7567: @
+ 7568: PAUSE
+ 7569: $1
+ 7570: TEST -> Effect ON!
+ 7571: TEST -> Effect off...
+ 7572: ...No fun... Nothing around but rocks... I want to see pretty things... Crazy things...
+ 7573: I'm Tarnotik.
+ 7574: Hm? You [guy/lady] that want to go deep into Movalpolos? You crazy. Crazier than Tarnotik.
+ 7575: But I like crazies. I take you, but first you give me goodie.
+ 7576: I want crazy goodie. I want flower that grows in snow. That's crazy!
+ 7577: You give me crazy flower and I take you to Shaft 2716.
+ 7578: But that's as far as Tarnotik go. Shaft 2716 is bad place. Even crazy Tarnotik not go in there.
+ 7579: #!
+ 7580: Tarnotik happy!
+ 7581: Tarnotik like crazy adventurer!
+ 7582: Moblins no break promises! Tarnotik take you to Shaft 2716 now.
+ 7583: Every day fun for Tarnotik! I loves my crazy goodies! I loves my crazy adventurer friend!
+ 7584: Crazy adventurer ready to go?
+ 7585: Ready? [Let's move!/Wait a minute...]
+ 7586: You look for Jabbos, no? I sees Jabbos in Shaft 2716!
+ 7587: He no crazy. He say he want to be alone. He lock door so he can be alone. Crazy adventurer find $1, crazy adventurer can maybe open door.
+ 7588: You can't fish here.
+ 7589: You can't fish without a rod in your hands.
+ 7590: You can't fish without bait on the hook.
+ 7591: You can't fish at the moment.
+ 7592: You didn't catch anything.
+ 7593: %0 caught a monster!
+ 7594: Your line breaks.
+ 7595: Your rod breaks.
+ 7596: Something caught the hook!
+ 7597: You lost your catch.
+ 7598: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7599: You feel there's something here.
+ 7600: You feel there's something nearby.
+ 7601: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7602: %0 caught $1 $0 !
+ 7603: You dig and you dig, but find nothing.
+ 7604: $0/$0p$3Z$3b$3g
+ 7605: Your rod breaks. Whatever caught the hook was pretty big.
+ 7606: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7607: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7608: You lost your catch due to your lack of skill.
+ 7609: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7610: You didn't catch anything.
+ 7611: The paper on your $0 ripped.
+ 7612: A tiny goldfish approaches!
+ 7613: A plump, black goldfish approaches!
+ 7614: A fat, juicy goldfish approaches!
+ 7615: There are no goldfish to be found...
+ 7616: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7617: The goldfish slipped off your scoop...
+ 7618: ch$0 skill up check.
+ 7619: a:$0.
+ 7620: Time $0 / Status $1 / $2
+ 7621: d:$0. e:$1. f:$2. g:$3.
+ 7622: h: $1. i: $0. sr: $2.
+ 7623: j:$0. k:$1.
+ 7624: You give up and reel in your line.
+ 7625: You give up.
+ 7626: %0 obtains $1 gil.
+ 7627: %0 caught $0!
+ 7628: You don't know how much longer you can keep this one on the line...
+ 7629: You have a good feeling about this one!
+ 7630: You have a bad feeling about this one.
+ 7631: You have a terrible feeling about this one...
+ 7632: You don't know if you have enough skill to reel this one in.
+ 7633: You're fairly sure you don't have enough skill to reel this one in.
+ 7634: You're positive you don't have enough skill to reel this one in!
+ 7635: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7636: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7637: l: $0. m: $1. n: $2. CH: $3.
+ 7638: Something caught the hook!!!
+ 7639: You feel something pulling at your line.
+ 7640: Something clamps onto your line ferociously!
+ 7641: Your keen angler's senses tell you that this is the pull of $0!
+ 7642: This strength... You get the sense that you are on the verge of an epic catch!
+ 7643: The timer has started. $0 seconds remaining.
+ 7644: $0sec.$1/$2sec.
+ 7645: 0:$0 1:$1 2:$2 3:$3
+ 7646: 4:$0 5:$1 6:$2 7:$3
+ 7647: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7648: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7649: $0/$1($2j
+ 7650: Version invalid error!
+ 7651: Hurry before the goldfish sees you!
+ 7652: %0 fishes up a large box!
+ 7653: $23$o$P122$8$0
+ 7654: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7655: PointF$0 >>> $1
+ 7656: [$1($0)/skillF$1]
+ 7657: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7658: Im Rnd : $0 Pz Rnd : $1
+ 7659: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7660: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7661: skill : $0 size : $1 kind : $2 sch : $3
+ 7662: time : $0 mes : $1 flag : $2 bonus : $3
+ 7663: item : $0 hp : $1 pow : $2 swing : $3
+ 7664: suc : $0 cons : $1 weight : $2 +- : $3
+ 7665: speed : $0 +- : $1 exc : $2 client : $3
+ 7666: general : $0
+ 7667: ro:$0 rs:$1 ps:$2 dt:$3
+ 7668: ra:$0 ti:$1
+ 7669: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7670: You get the distinct sense that your moogle friend frequents this spot...
+ 7671: You have a feeling that your moogle friend has been through this way...
+ 7672: You suspect that the scenery around here would be to a moogle's liking...
+ 7673: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7674: You have a hunch that this area would be favored by moogles...
+ 7675: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7676: %0 catches $1 $0 !
+ 7677: %0 obtained $6!
+ 7678: It appears your chocobo found this item with ease.
+ 7679: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7680: FPT $0 DPT $1 DoT$2
+ 7681: FPT $0 TDPT $1 h$2
+ 7682: You cannot fish at this time.
+ 7683: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7684: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7685: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7686: You receive $0 bayld!
+ 7687: Your chocobo refuses to partake of the $0.
+ 7688: Why, if it isn't the adventurer, <Player>.
+ 7689: I must commend you on your insight.
+ 7690: Yes, it was nearly one hundred years ago, too, that the Moblins wandered their way up from the bowels of Vana'diel...
+ 7691: And then the Tarutaru scientist who examined the statue in Tavnazia--what he said about the statue dug up from a labyrinth...
+ 7692: I advise you, do not let down your guard when traveling through these caves. The Moblins' behavior is often erratic, and they can be quite nastier than their cousins on the surface.
+ 7693: Out of all the beastmen, they seem to realize that they are the children of the Twilight, and it is this fact that drives them.
+ 7694: Ah yes, one of my colleagues said he spoke with a creature known as Tarnotik deep in the eastern end of this area the Moblins call Oldton Movalpolos. Whether that beast will help you or not...
+ 7695: I still am not convinced that this cave is truly the path to Al'Taieu.
+ 7696: ...
+ 7697: It cannot be!
+ 7698: There is nothing out of the ordinary here.
+ 7699: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7700: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7701: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7702: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7703: Now, listen close...
+ 7704: Oh... Well, if that's the case, I'm outta here.
+ 7705: The Goblin slipped away when you were not looking...
+ 7706: You can hear a strange, raspy voice...
+ 7707: I travel......hear lots... Hear...stories... Can tell...if...
+ 7708: .........listen......
+ 7709: Oh...... ...outta here.........
+ 7710: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7711: What story would you like to be told? [On second thought, maybe later./A Century of Hardship./A Question of Faith./Return to the Depths(pt.1)./Return to the Depths(pt.2)./Return to the Depths(pt.3)./Better the Demon You Know(pt.1)./Better the Demon You Know(pt.2)./Better the Demon You Know(pt.3)./Newfound Family./A Generous General?(pt.1)./A Generous General?(pt.2)./A Generous General?(pt.3)./A Generous General?(pt.4)./A Generous General?(pt.5)./A Generous General?(pt.6)./To Movalpolos!./Kipdrix the Faithful(pt.1)./Kipdrix the Faithful(pt.2)./Your Decision.]
  7712: 
  7713: 
- 7714: B$P10l$3f$3o$3b$3O%p$3$3j$3$5[ [$3L$3$3$3$3Z$3 [/$3$1[$3v/$3J$3$3$7$3C$3x$3$3g]
- 7715: $3C$3x$3$3gp$P11I$P11p [$3 $3o$3 [$3|$3$3X/$P122$P10.%p]
- 7716: $3{$3^$3$97F$31V$P10i]\7
- 7717: $3W$3$3$3$3v$P10fp$P11I$P11p [$3|$3C$3$3gH"U[]
- 7718: Mining is possible here if you have $0.
- 7719: Probability of loss = $3/10000.
- 7720: Your $7 breaks!
- 7721: You successfully dig up $0!
- 7722: You dig up $0, but your $7 breaks in the process.
- 7723: You are unable to mine anything.
- 7724: You cannot carry any more items. Your inventory is full.
- 7725: This place being for garbage. No fires. No bombs.
- 7726: Stupid people. You don't getting what I'm saying.
- 7727: How do you respond? [Huh?/I getting you.]
- 7728: Do you really getting me? Okay. Killing bombs. Bringing $1.
- 7729: Five is being too many. No more than four. Can't having fires around here.
- 7730: Killing bombs. Bringing $1.
- 7731: You bringing it! This being perfect! You not being so stupid after all.
- 7732: Now what? You wanting something from me? I guess I should giving you a reward.
- 7733: You can having this. Looking like garbage, but it being important to us Moblins.
- 7734: Take it? [I'll take it./No thanks.]
- 7735: Good, good. You being smart. Very, very clever.
- 7736: Taking it, taking it. You being very stupid. You saying stupid things.
- 7737: Stupid people. You already having one. You don't needing two of the same thing.
- 7738: When Brakobrik realizes that you already possess the item he is trying to give you, he refuses to give you another one.
- 7739: ... You figuring it out?
- 7740: Okay, okay. Don't being mad. You can having my treasure. It being very shiny. Very pretty.
- 7741: Don't bothering me. I'm being busy.
- 7742: Nsy pipul. Gattohre! I bisynw!
- 7743: ...!? Daaawwwn...!?
- 7744: Aaaltaaanaaa... Diiieee!!!
- 7745: Nashinchnge baidis! Yupipul taimiz upp!
- 7746: Karmdn! Litmi handurza uplda!
- 7747: ...Urrr!?
- 7748: That...$3...is very...dangerous...here... I will...take it...for you...
- 7749: You...should leave...now...and not...turn back... That...would be...for the...best.
- 7750: Listen...to me... Do not...tell...anyone...what...you saw...here...
- 7751: Karmdn! Litmi handurza uplda!
- 7752: ...Urrr!?
- 7753: That...$3...very...dangerous...here. Me...take...
- 7754: I...learned...speak...from...Galka.
- 7755: Galka...not here...not here...now. You...should...leave...
- 7756: The $3 was taken from you...
- 7757: A monster has appeared!
- 7758: This chest is locked. It can be opened with $0.
- 7759: This chest is empty.
- 7760: Your inventory is full. You cannot carry any more items.
- 7761: You must be closer to the chest to open it.
- 7762: %0 opens the chest and finds $0.
- 7763: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7764: %0 obtains a key item, $6, from the chest.
- 7765: You obtain a key item, $6, from the chest.
- 7766: You unlock the chest!
- 7767: %0 fails to open the chest.
- 7768: The chest was trapped!
- 7769: You cannot open the chest when you are in a weakened state.
- 7770: The chest was a mimic!
- 7771: You cannot open the chest while participating in the moogle event.
- 7772: The chest was but an illusion...
- 7773: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7774: It's all your fault.
- 7775: This's all your fault.
- 7776: He'll love $1, you said.
- 7777: $2 are better, you said.
- 7778: Get some $3, you said.
- 7779: $4 won't work, you said.
- 7780: ...
+ 7714: 
+ 7715: B$P10l$3f$3o$3b$3O%p$3$3j$3$5[ [$3L$3$3$3$3Z$3 [/$3$1[$3v/$3J$3$3$7$3C$3x$3$3g]
+ 7716: $3C$3x$3$3gp$P11I$P11p [$3 $3o$3 [$3|$3$3X/$P122$P10.%p]
+ 7717: $3{$3^$3$97F$31V$P10i]\7
+ 7718: $3W$3$3$3$3v$P10fp$P11I$P11p [$3|$3C$3$3gH"U[]
+ 7719: Mining is possible here if you have $0.
+ 7720: Probability of loss = $3/10000.
+ 7721: Your $7 breaks!
+ 7722: You successfully dig up $0!
+ 7723: You dig up $0, but your $7 breaks in the process.
+ 7724: You are unable to mine anything.
+ 7725: You cannot carry any more items. Your inventory is full.
+ 7726: This place being for garbage. No fires. No bombs.
+ 7727: Stupid people. You don't getting what I'm saying.
+ 7728: How do you respond? [Huh?/I getting you.]
+ 7729: Do you really getting me? Okay. Killing bombs. Bringing $1.
+ 7730: Five is being too many. No more than four. Can't having fires around here.
+ 7731: Killing bombs. Bringing $1.
+ 7732: You bringing it! This being perfect! You not being so stupid after all.
+ 7733: Now what? You wanting something from me? I guess I should giving you a reward.
+ 7734: You can having this. Looking like garbage, but it being important to us Moblins.
+ 7735: Take it? [I'll take it./No thanks.]
+ 7736: Good, good. You being smart. Very, very clever.
+ 7737: Taking it, taking it. You being very stupid. You saying stupid things.
+ 7738: Stupid people. You already having one. You don't needing two of the same thing.
+ 7739: When Brakobrik realizes that you already possess the item he is trying to give you, he refuses to give you another one.
+ 7740: ... You figuring it out?
+ 7741: Okay, okay. Don't being mad. You can having my treasure. It being very shiny. Very pretty.
+ 7742: Don't bothering me. I'm being busy.
+ 7743: Nsy pipul. Gattohre! I bisynw!
+ 7744: ...!? Daaawwwn...!?
+ 7745: Aaaltaaanaaa... Diiieee!!!
+ 7746: Nashinchnge baidis! Yupipul taimiz upp!
+ 7747: Karmdn! Litmi handurza uplda!
+ 7748: ...Urrr!?
+ 7749: That...$3...is very...dangerous...here... I will...take it...for you...
+ 7750: You...should leave...now...and not...turn back... That...would be...for the...best.
+ 7751: Listen...to me... Do not...tell...anyone...what...you saw...here...
+ 7752: Karmdn! Litmi handurza uplda!
+ 7753: ...Urrr!?
+ 7754: That...$3...very...dangerous...here. Me...take...
+ 7755: I...learned...speak...from...Galka.
+ 7756: Galka...not here...not here...now. You...should...leave...
+ 7757: The $3 was taken from you...
+ 7758: A monster has appeared!
+ 7759: This chest is locked. It can be opened with $0.
+ 7760: This chest is empty.
+ 7761: Your inventory is full. You cannot carry any more items.
+ 7762: You must be closer to the chest to open it.
+ 7763: %0 opens the chest and finds $0.
+ 7764: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7765: %0 obtains a key item, $6, from the chest.
+ 7766: You obtain a key item, $6, from the chest.
+ 7767: You unlock the chest!
+ 7768: %0 fails to open the chest.
+ 7769: The chest was trapped!
+ 7770: You cannot open the chest when you are in a weakened state.
+ 7771: The chest was a mimic!
+ 7772: You cannot open the chest while participating in the moogle event.
+ 7773: The chest was but an illusion...
+ 7774: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7775: It's all your fault.
+ 7776: This's all your fault.
+ 7777: He'll love $1, you said.
+ 7778: $2 are better, you said.
+ 7779: Get some $3, you said.
+ 7780: $4 won't work, you said.
  7781: ...
- 7782: Yeah, let's blame it on the adventurer.
- 7783: Let's blame it on this [guy/gal].
- 7784: This'll get us out of trouble.
- 7785: Let's go back to Jeuno.
- 7786: Our Moblin guide is waitin' in there.
- 7787: He's gonna ask about you, for sure.
- 7788: If the plan fails, you're Orc meat. Be ready.
- 7789: Jahb, naggekwaha ronmhu deig?
- 7790: Seidhi, hee, dahharho ronmhu Goblin.
- 7791: Pughuu dabba. Seghib aarogha, Goblin.
- 7792: Sei, chabuirho, hee Goblin?
- 7793: Dahha! Dahhaan!
- 7794: Auha, dhin. Gaevhoaa, ouwajhu.
- 7795: He's gettin' suspicious. Wants to know why ya don't speak Goblin.
- 7796: This magic makes a Goblin all person. Makes 'em stupid.
- 7797: ...
- 7798: Then Tarnotik speak different for crazy Goblin. Take crazy Goblins where they want to go.
- 7799: You talk people talk?
- 7800: Tarnotik learn crazy people speak. Learn the language of Promathia.
- 7801: Who taught ya?
- 7802: Forget that! First bring crazy $4!
- 7803: There's a crazy celebration now. The reincarnation of Promathia has come.
- 7804: Promathia was reborn?
- 7805: Tarnotik take you to meet Promathia, but this crazy Goblin get killed in there wearing people face.
- 7806: Tarnotik not sure if he should really send you deep into Movalpolos with crazy warp magic.
- 7807: Crazy flower that grows in snow...
- 7808: You scared? Maybe you don't got the guts for this.
- 7809: We're goin'. See you in Mine Shaft 2716.
- 7810: Oops, we don't got your tear. Give the Moblin a tear from one of those big eye guys. He'll send you to Mine Shaft 2716.
- 7811: Hee, Goblin? [Sure./Not so much.]
- 7812: You really wanna go? [I'm crazy enough!/Maybe not...]
- 7813: Moblins no break promises! Tarnotik send you to Shaft 2716 now.
- 7814: Tarnotik has seen those crazy big eye guys that fly around out there. They cry crazy tears. Pretty, sparkly tears.
- 7815: Drippy, pretty, sparkly, crazy tears. You bring one to Tarnotik, and Tarnotik send you deep into Movalpolos, to Shaft 2716.
- 7816: Hey, Tarnotik remembers you! You crazy Goblin with person-shape magic!
- 7817: You want Tarnotik to send you crazy deep into Movalpolos again?
- 7818: Back off!
- 7819: No mail! No mail! My brother is missing!
- 7820: Zeelozok always sends me letters! Always!
- 7821: Zeelozok is on a pilgrimage to teach the other beastmen about Promathia's [statue/reincarnation].
- 7822: He went to Davoi first to talk to the Orcs, followers of the Kindred. My brother will teach them that the Divinity of Darkness who the Kindred worship is a false idol.
- 7823: Promathia has been reborn. Zeelozok went first to Davoi to enlighten the Orcs.
- 7824: Something must've happened in Davoi. I want to go and find my brother, but I don't know how to get there.
- 7825: Something must've happened in Davoi. I want to go and find my brother, but I can't leave Movalpolos right now.
- 7826: That's why you're going in my place. If you fear Promathia, you'll do as the Moblins say.
- 7827: Are you afraid of Promathia? [Terrified./Not particularly...]
- 7828: That's the way it should be. Now go and find Zeelozok. He said he was going to Davoi to see the Orcs.
- 7829: Promathia will be reborn and mash your people into oblivion!
- 7830: Zeelozok said he was going to see the Orcs in Davoi. Go and find my brother!
- 7831: A letter! This is a letter from my brother!
- 7832: He got in to talk to the overlord, but the Orcs were too stupid to understand what he was saying.
- 7833: Zeelozok writes that the Orcs only follow the strong. The demon army of the Kindred crushed the Orcs, so the Orcs obey the demons.
- 7834: Then Zeelozok was taken captive. The Orcs said that people and Moblins are only good for eating.
- 7835: My brother is really good at digging, though. He dug a tunnel straight out of Davoi and escaped.
- 7836: But he was mighty mad by now, and said he let all the other "food" go free as well.
- 7837: He got something from them as thanks. We don't need this stuff, so you can have it.
- 7838: You're pretty useful for a person! Keep up the good work and show your obedience to the Moblins, and to Promathia!
- 7839: I got another letter from my brother. He says that he's visiting the Yagudo next.
- 7840: The Yagudo say that their god lives among them. Maybe their god is the reincarnation of Promathia!
- 7841: The Yagudo say that their god lives among them. Maybe their god is the same reincarnation of Promathia that appeared to us!
- 7842: Zeelozok went to Castle Oztroja to see for himself.
- 7843: The Yagudo wouldn't let him meet with their god, so instead he found someone who's seen their divinity close up.
- 7844: Zeelozok found a Yagudo who was injured while protecting the bird people's deity.
- 7845: He wants someone to bring him $1, but I don't know where to get one of those.
- 7846: If you find some, take it to Zeelozok in the bird men's fortress.
- 7847: Do as she asks? [I've come this far.../Not this time.]
- 7848: Find $1 and take it to Castle Oztroja!
- 7849: My brother wants $1 for the Yagudo who was injured protecting the bird men's deity.
- 7850: You took your time getting back. I got another letter from Zeelozok that explains what happened.
- 7851: Before the injured Yagudo died, he told Zeelozok about his god.
- 7852: The Yagudo divinity has nothing to do with Promathia.
- 7853: And since the Kindred stole the sacred vessel of their god, the Yagudo have no choice but to obey them.
- 7854: Zeelozok said the Moblins follow the true god. After hearing this, the Yagudo chased him out of Oztroja!
- 7855: Now Zeelozok is in Beadeaux, talking with the Quadav.
- 7856: Here's a surprise! He says that the Quadav are far smarter than he expected!
- 7857: They knew that the Moblins had found a big sparkly crystal and were really impressed!
- 7858: They said that they would help the Moblins to destroy Bastok.
- 7859: But first they want to see proof that the big sparkly crystal really exists. Aw, come on!
- 7860: Well, fair's fair, I suppose. Here, take this $3 to the Quadav near the smoking kilns.
- 7861: Beadeaux is not that far from here, right? Do your job right and I'll put a good word in for you when Promathia comes to destroy all the children of Altana.
- 7862: Help out again? [Hail Promathia!/I've had enough.]
- 7863: Say whatever you want. You can't defy the will of Promathia.
- 7864: Right, then. Go to the smoking kilns in Beadeaux. The Quadav will be waiting for you.
- 7865: The mail's in. My brother writes that the Quadav deceived the Moblins.
- 7866: They gave proof of the big sparkly crystal straight to the Kindred. The Moblins were betrayed to improve the standing of the Quadav.
- 7867: I just don't get it. Why don't any of them understand that the Moblins are right?
- 7868: Orcs, Quadav, Yagudo, Moblins--we were all born from Promathia.
- 7869: When Zeelozok gets back, I'm going with him on his next trip.
- 7870: You've made yourself useful, so you can come along, too. Take this with you.
- 7871: Just hold on to it. Promathia loathes the children of the Dawn Goddess. You people have gotta try harder to get into the Twilight God's good books.
- 7872: My little brother has come back! Zeelozok, welcome home!
- 7873: I'm Zeelozok. Thanks for all your help.
- 7874: I learned some things from visiting the Orcs, the Yagudo, and the Quadav. My travels have taught me much.
- 7875: Orcs will follow anyone with strength. Yagudo will follow anyone who holds their sacred vessel. Quadav will follow anyone who can give them status.
- 7876: And then I realized: we should conquer the Kindred demons. We would then hold the sacred vessel, and status would cease to have meaning.
- 7877: There are too many demons to hack up, though. That's why I'm just going to kill their Divinity of Darkness.
- 7878: Zeelozok! That's a brilliant plan!
- 7879: My brother has grown wise on his travels!
- 7880: Sis, I'm going to Castle Zvahl to find the Divinity of Darkness.
- 7881: Hold on, hold on. You need to study up on the demons first. Those guys are scary smart.
- 7882: Leave that to me. All I need is $1, and then I'll know everything there is to know about the Kindred.
- 7883: You! Go to Castle Zvahl and bring back $1!
- 7884: And be quick, 'cause once Zeelozok makes up his mind, he plunges right in. Go on, scoot!
- 7885: Now that I have this, the demons have nowhere to hide. I can tell what they're thinking, and what they're doing.
- 7886: But, there's one small problem. This demonscratch is difficult to read...
- 7887: Hrm. I can't wait for your translation. I'm going on ahead.
- 7888: Going by yourself is only gonna get you killed! You should take everyone with you, including me!
- 7889: None of the other Moblins believe in what I'm doing. They think it's enough for them alone to be Promathia's children.
- 7890: But this is no good. All the beastmen are the children of Promathia. We all must be ready to greet him when he is reborn.
- 7891: I'll write you a letter. I want you to share it with everyone in Movalpolos so they start to think more.
- 7892: You stay here and wait for my letter.
- 7893: ...
- 7894: My brother is one hell of a Moblin.
- 7895: Hmmm. There must be something I can do to help him...
- 7896: I know, I can work on the translation of that demon script. That could come in handy.
- 7897: We're in trouble! The demons are angry at the Moblins!
- 7898: They've found out about Zeelozok's visits to the other beastmen!
- 7899: The Kindred demons are discussing whether or not to obliterate Movalpolos!
- 7900: King Paimon prefers to wait and watch the Moblins before doing anything.
- 7901: But another demon called Marquis Andrealphus is ready to make this city our tomb.
- 7902: If this marquis discovers Zeelozok wandering around Castle Zvahl, Promathia only knows what he'll do to my brother!
- 7903: You have to catch up with Zeelozok!
- 7904: Tell him to stay out of the castle baileys. That's where Marquis Andrealphus can be found.
- 7905: This was my brother's...
- 7906: No Moblin would willingly give up their earplug...
- 7907: If Zeelozok no longer has this, then he won't be coming home...
- 7908: Oh! My precious little brother! My stupendous, adorable Zeelozok!
- 7909: Sis...
- 7910: Zeelozok!?
- 7911: You made it back!? How did you find the entrance to the warp cavern without your earplug?
- 7912: I didn't. Without the earplug, there was nothing to do but walk.
- 7913: I wrote lots of letters while I was walking, so that even if I collapsed my thoughts would remain on paper.
- 7914: Some Goblins found me wandering and offered to help.
- 7915: They brought me all the way here to Movalpolos.
- 7916: Those Goblins will be blessed by the Twilight God!
- 7917: Oh yeah, they also told me something important.
- 7918: The Divinity of Darkness is searching for a statue beneath the earth.
- 7919: A statue beneath the earth! The statue of legend? The statue that will bring about the age of Moblins!?
- 7920: The dark god must be afraid of its power! We have to find it first!
- 7921: You're right! I'm going to help search right now! Later, Sis!
- 7922: You look confused, <Player>.
- 7923: The warp caverns are open areas left in the tunnels we collapse behind us. They're all linked together like one big chain.
- 7924: With a Moblin earplug, you can find the entrances to the warp caverns. Makes traveling easy. Only we Moblins know they exist.
- 7925: We're gonna start digging out from those caverns again, and search for the statue. You people are no good at digging, so you don't have to help.
- 7926: Take this. When Moblins and people go to war, use it for the glory of the children of Promathia.
- 7927: I'll be looking for you when the battle starts, so don't go dying yet, okay?
- 7928: Yous gots whats yous came for, now scram!
- 7929: Pssst! Hey yous! Ever beens to da mine shaft alls da ways beyonds Newston?
- 7930: Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate.
- 7931: Nows, I could gives ya this here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?
- 7932: Heh heh heh... Comes to papa, $0. Alrights. A promise's a promise. Twinkbrix ain't a Gob to go back on his word!
- 7933: Ya know, as much as I'd like to get my hands on another one o' dem jewels, I'm fresh outta levers.
- 7934: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with what yous need!
- 7935: And don't forgets to bring $0. I ain't runnin' no charity here!
- 7936: Hey! Hey! Hey! Crazy adventurer holding crazy lever! Crazy adventurer not supposed to have crazy lever!
- 7937: You use crazy lever, you break door! You break door, Tarnotik can't get inside!
- 7938: How about we make deal? We make crazy deal! You give me crazy lever, I help you out.
- 7939: Give him the $3? [Yes./No.]
- 7940: Oh! Crazy adventurer smarter than looks! Tarnotik help you out!
- 7941: You hand the $3 to Tarnotik.
- 7942: Crazy adventurer saying crazy things! Tarnotik no help no one crazier than he!
- 7943: Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate.
- 7944: Nows, I could gives ya dis here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?
- 7945: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you...
- 7946: But if yous really wants to know, I could gives ya a chance. Here's whats we'll do. Yous play dice witha me. Yous win, I lets ya in on my secrects.
- 7947: But don't goes a thinkin' that I'ms gonna play for free. That's right, incentives! Yous forks over some gils, I'll tells ya if it's enough. Oh, and don't go givin' me any more than 10,000. I'ms not a crook, ya knows!
- 7948: We'll sees if yous upworlders have what it takes to plays with da big boys!
- 7949: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you. 'Least nots yet.
- 7950: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with all the information yous need!
- 7951: But don't thinks you'll be gettin' it easy!
- 7952: Hey! Yous gots what ya came for, now git outta my face!
- 7953: $0 gil? Alright. Lets me fill yous in on da finer details of our agreement.
- 7954: $0 gil? Is that supposed have somes kinda meaning? Whatever, lets me fill yous in on da finer details of our agreement.
- 7955: Rules are simple: I throws two 50-sided dice. If the total's betweens 2 and $1, yous win.
- 7956: Rules are simple: I throws two 50-sided dice. If the total's 2, yous win.
- 7957: Heres we go!
- 7958: And the total is...$2!
- 7959: Hmph... These dice must be fixed! But a deal's a deal... Takes dis!
- 7960: Heh heh heh! Looks who wins again! Better luck next time, sucker!
- 7961: Oh, and just to shows ya I'ms a good sport, I'll warps ya to the gate...for a meres $3 gils! But yous'd better not be carryin' anything that'll gets me in trouble!
- 7962: Heh heh. That's what I likes about yous adventurers--pockets lined witha gil!
- 7963: Hey hey hey! I tolds yous not to bring anythings that'd gets me in trouble! Gimme that!
- 7964: Twinkbrix snatches the $3 from your hand.
- 7965: Holds on, upworlder!
- 7966: Do you know know?
- 7967: Dooo yooou knooow abooout Mooobliiins?
- 7968: Do you know Jabbo Jabbo?
- 7969: Heee's baaack nooow.
- 7970: Do you know know about Promathia?
- 7971: Diiid Jaaabbooo meeet wiiith theee Twiiiliiight Goood?
- 7972: Jabbo Jabbo won't tell tell.
- 7973: Wooon't teeell uuus whaaat Prooomaaathiaaa saaaid.
- 7974: You you have to make make him talk talk.
- 7975: Yooou caaan cooonviiince hiiim tooo taaalk.
- 7976: <Player>...! You...came...to visit me...?
- 7977: It is...good...to see...you.
- 7978: But I...am...troubled...
- 7979: We witnessed...the terror...of...Promathia. We learned...terrible...secrets...
- 7980: The Twilight God...is the father...of us all...
- 7981: I cannot...bring myself...to tell them...
- 7982: The Moblins...will teach this...to others. Angry people...will come...to fight...the Moblins.
- 7983: I must...think carefully...on this...
- 7984: I must...not make...the same...mistake...again.
- 7985: Jabbos, you entering the great crystal. We knowing you going to place of Promathia.
- 7986: Jabbos, ifn ths lifis prishus, yutel abut Promathia!
- 7987: Jabbos, if you really are a crazy friend to the Moblins, then you tell us the crazy truth!
- 7988: A friend... Yes...I am...your friend...
- 7989: I will...never...lie to...you...again...
- 7990: I am...not...good with...words...but I...will tell...you...what happened... You must...believe me...
- 7991: I went...with <Player>...to meet...the Twilight God...
- 7992: That was...where...we learned...the truth... We are...all...
- 7993: The children...of Promathia...
- 7994: !?
- 7995: We always...believed ourselves...to be...the children...of Altana...
- 7996: But...in truth...we had...a father...as well...
- 7997: We people...are the children...of both the Dawn...and the Twilight...
- 7998: Jabbo Jabbo speaks speaks the truth truth.
- 7999: You...believe me...!?
- 8000: Buuut Jaaabbooos caaan't beeelieeeve theee truuuth.
- 8001: No... I can't...believe it... I don't...want to...believe it...
- 8002: But this...is the...price...for my...past actions...
- 8003: I have learned...all the things...I don't want...to know...or believe...
- 8004: Don't's worry's. Moblin's understand's. Moblin's have's both's males's and females's...
- 8005: If Promathia bing fathr, then samwhre thir bing a mothr.
- 8006: Ws srprsng t lrn Dwn Gddss ws r mthr, thgh.
- 8007: ...?
- 8008: Crazy Jabbos is alone because he is a crazy Galka. You must have been crazy happy to find you had a mother.
- 8009: This means that beastmen beastmen and people people must be brothers brothers!
- 8010: ...!!!
- 8011: Moblins's and's people's are's family's!
- 8012: Tm t dnc! Tm t sng!
- 8013: What should...I do...<Player>...?
- 8014: The Moblins...believe...they are...the children...of Promathia...
- 8015: Should...I tell...them the...truth...? They are...my friends...after all...
- 8016: Should Jabbos tell them? [Of course./Not a good idea.]
- 8017: What do...you mean...? Do I...really...know the...truth...?
- 8018: You're right... I don't know...for sure...if what Cardinal Mildaurion...said...about the Moblins...was true...
- 8019: But...I don't know...for sure...
- 8020: Are the...Moblins...the children...of Promathia...or not...?
- 8021: But even if...the Moblins were...the children of Altana...they would still...be our brothers...
- 8022: I've made up...my mind... It's time...to celebrate...with...my friends...
- 8023: I will...slowly teach...the Moblins...that we are all...family...
- 8024: Thank you...<Player>...
- 8025: That's why you're going in my place. If you're a child of Promathia like you say, you'll do what I'll tell you!
- 8026: Do as she asks? [Your will is my command!/Not gonna happen.]
- 8027: Beadeaux is not that far from here, right? Do your job right and maybe Promathia will forgive your trangressions.
- 8028: Just hold on to it. Are you people really children of the Twilight God? You gotta try harder to get along with your Moblin brothers.
- 8029: Take this. When Moblins and demons go to war, use it for the glory of the children of Promathia!
- 8030: You cannot obtain the $0. Come back again after sorting your inventory.
- 8031: Something is written on the surface of the earth here. It looks like it says, "Me thirsty."
- 8032: A chill runs down your spine!
- 8033: Nothing happens...
- 8034: Hspeed, A! Hstrength, A! Hteamwork, A+! Hlooks...F-! Hyou fail! Ahahahaha!
- 8035: Rwarrr! Sho-ow yourself! I know you're the-ere. Dra-aw your weapon and face your fate like a true wa-arrior!
- 8036: Insigni-aficant flea, prepare to hear the ro-oar of Gu'Zho Thunderblade!!!
- 8037: Wait! Don't run away. I was only pla-aying with you.
- 8038: I couldn't fi-ight you on any empty stomach like thi-is anyway. Grahahaw!
- 8039: Let me intro-oduce myself. My name is Gu'Zho--officer in the 7th Waughroon Armored Divi-ision of the Quadav Shieldwa-arriors, or should I say fo-ormer officer... I'm what you'd call a de-eserter.
- 8040: I'm not proud of it, but I did wha-at I had to do. Day after da-ay, I watched as hundreds of my troops would be slaughte-ered by the waves of adventurers pouring through the mi-ine shafts in search of their pre-ecious mythril. Why didn't the Adamantking try to ma-ake peace with the chi-ildren of Altana? What twisted se-ense of pride made him so stubborn?
- 8041: I was ti-ired of being a pawn for a leader whose ideals confli-icted with mine. So, I ga-athered up a handful of my best troops and le-eft the Shieldwarriors behind me. Howe-ever, it was not long before the guilt and pressure of being wanted me-en bore down on the already weakened souls of my comra-ades.
- 8042: And one by one they le-eft my side and returned to the mi-ines, until I was left here alone. But what can a Quadav who has known no-othing but the battlefield do when there is no battle for him le-eft to fight?
- 8043: That's why I ca-ame here to Modalpolas. I heard that the Moblies are always lo-ooking for new mercenaries to fill out their ra-anks.
- 8044: I paid a Gobly scribe a sackful of mythri-il ore to write me a recommenda-ation. Now all I have to do is take it to the applica-ation box located somewhere in this mess of scaffolding and ro-ock.
- 8045: You wouldn't happen to know your way around this pla-ace, would you?
- 8046: Your grade in Movalpolos geography: [A+./F-.]
- 8047: Don't worry about it. I'm not tha-at good with directions either... I'll just wait he-ere a little longer until someone with a ma-ap comes along.
- 8048: You don't say! Well, then I have a pro-oposition for you.
- 8049: You see, as you already may kno-ow, we Quadav don't have that good eyesi-ight; we mainly rely on our hearing and a set of se-ensory organs that pre-event us from getting lost.
- 8050: However, the magne-etic field created by all this crazy Mobly equipme-ent has been sending my sense of direction haywire. I've tried naviga-ating the tunnels here, but I always end up ba-ack in the same spot...
- 8051: And that's why I need your he-elp. If you can really traverse the Mobly tu-unnels as well as you say you can, you should have no trouble in deli-ivering my recommendation to the application bo-ox.
- 8052: What do you say? Will you help? [Of course!/On second thought...]
- 8053: Hm... Maybe I should have me-entioned I was willing to pay in gold be-efore I asked...
- 8054: You will!? I don't know how to tha-ank you! How about gold? I heard it is quite va-aluable in your world as well.
- 8055: Wait... We're not he-eading into Mobalpolus to pick any fi-ights with the Moblies.
- 8056: If you wa-alked in looking like that, there might be more unwanted bloodshe-ed...and that's the last thing I need any mo-ore of on my conscience.
- 8057: What you need is a di-isguise... What if you were to make one of those stra-ange masks that those Moblies are always we-earing? There must be a few softbacks in one of your towns that spe-ecializes in leathercraft...
- 8058: I don't know if I can tru-ust your type, but then I don't know if I can tru-ust anybody right now. I'll be waiting here for you, adve-enturer...
- 8059: Rwarrr! Sho-ow yourself! I know you're the-ere. Dra-aw your weapon and face your fate like a true wa-arrior!
- 8060: .........
- 8061: Grawhawhawh! I tho-ought for a minute there that you were one of those pe-esky Gobly scouts!
- 8062: That's one heck of a di-isguise you managed to put together! I can't see you that well, but from what I can make out, you shouldn't have any trouble ma-aking your way into the mi-ines!
- 8063: Here, take my recommenda-ation and take it to the applica-ation box. Where is it? How should I know? I barely even know whe-ere here is!
- 8064: After you place the le-etter in the box, it won't be long before one of their merce-enary serjeants will come out to collect it. When he does, lead him ba-ack here, and I'll give you your rewa-ard.
- 8065: There is a rusty iron box with strange markings and a narrow slit on the lid.
- 8066: You slip the recommendation letter through the opening on the lid of the box. You can hear footsteps approaching...
- 8067: Hwait! Hwait hright there, peskyky adventurerer! Hyou have hquite the nerve to show your face aroundnd here!
- 8068: Or hmaybe hyou'd like to join our ranksks!? Hwell, hlet's see if hyou can pass our testst!
- 8069: StUpid! Crazy Goblins so stUUUpid! I tolds them SO many times, always chEck enemy befores fighting!
- 8070: Ngeh? Waits a mInutes... You are not GOblin. Pwah phah phwah! I sees. No wOnder precEptor cannot wins!
- 8071: Wonderful! I could care less if you are tUrtles or bIrds or GAlkas. My armies need strOngest bodies available--and you one super-strOng body!
- 8072: Welcomes advEnturer! I am leader of MovalpOlos Moblin mercenAries, Mighty Minded GenErajiq!
- 8073: Why spEaks I your languages so good? Hah hah! Moblins more smArters than you thINks! I spents years in rOOf of San d'Oria Cathedral listening to fUnny old Elvaan preaching mumbo-jUmbo abouts AltAna lady.
- 8074: Some Moblins shUns upworld and upworlders' life, but nots mE! "Knowsest thous EnEmicles," I thinks yous says.
- 8075: .........
- 8076: Hmweh? You're not here to joins Moblin mercenAries? Then why put you applicAtion in bOx?
- 8077: .........
- 8078: Sweesh! Nice [guy/gal] you are. Not quIte ruthless mercenAry types, though. You tells this Gu'Zho he's welcOme in my armies...but only if he can mAkes it to office!
- 8079: And whAts abouts you? Are you sUres you don't want to give second thoughts to glAmorous mercenary lIfe?
- 8080: ...Pfuff... I sees... Well, at lEast lets me apOlogize for stUUUpid Goblin's stUUUpiditinesses.
- 8081: I knows! Take that crAzy Goblin hat and puts it on iron box. I use Moblin sUper technology to changes it into crAzy Goblin sUper hat!
- 8082: A sOldier whos follows orders! Are you sUre you don't want to joins us and have glamOrous mercenAry life?
- 8083: ...... Psheesh. Doesn't hurt to Asking! Ahkhem! Promises is promises. DoctOr Chop! DoctOr Chop!
- 8084: Wha? Whoo's caalin' me? Wher'r ya? Ya neeedsa amput...anmpyu...amputit...amptitationn? <Hic!>
- 8085: Fwhee-ew! DoctOr Chop! WhAt haves I told you abOut drInking Opo-opo brEws on job!?
- 8086: Opo-opopopoos brew on the njob? Don't minnd if I doo! <Hic!>
- 8087: Doctor ChOp. I thinks it is time for me to deAl punishment for sneaksing into MOblin brewery and swimmsing in tank... Death!............Or temporary service to thIs advEnturer.
- 8088: <Ulp!>...<Hic!> Allriigh, alllriigh! Ya don' haftaa go gett your reathers fluffl...freathers fruffal...featherrrs fluffeled! I'lll help ou this advennteurerueraroo.
- 8089: Hey, [misser/laady]! You'rre lookin at the bes Goblin doctor this sida Gustabtysyuaygjh. <Hic!>
- 8090: Ya need a goo' leechin, <hic!> ya jus usse tha crazy hatn' I'lll be righ there. N'if any of my Gobbie budddies seees me fratr...fratin...frertin...fratrinrizin with th nenenemy, I'll jus tell'm I 'ad one too many nightcapss fer breaksfastst!
- 8091: Sounnnd goood, Mighty morphin Genererarrajudy? <Hic!>
- 8092: Hmphw! That's fine! Just mAkes sure you stays hiding when not nEEded. This is yOUr punishments, not advEnturer's!
- 8093: Ya don' haffa worrrry 'bou nothn'. Me'n my canteen'll stays outta your way ntil ycalls. <Hic!> Gooobyongooynshjsdkjl! <Hic!>
- 8094: I am sOrry for that, adventurer. Please, takes the hAt.
- 8095: Choplix may not looks like good dOctor, but he's best we haves in MovAlpolos.
- 8096: Last year, there was bIg cave in near Mine Shaft #8765. Many Moblin brOthers and sisters injured badly. Doctor Chop save mAny lves.
- 8097: MAybe someday, Chop saves your life, tOO.
- 8098: Well, I must gOes now. Generajiq's busy busy womAn. I nEEds to find a new preceptOrs, thanks to yOu! Hweh heh hwah!
- 8099: Justs kiddIng! And remEmbers, if you ever gets sick of upwOrld life, you can always comes back hEre...
- 8100: It's dark, hot, mUggy, smelly, damp, mOldy, greasy, dusty, and fIlthy...what mores could you ask fOr!? Fweh hweh hwah!
- 8101: I'll sees you arOUnd, adventUrer! GoodebyOngo!
- 8102: You're fi-inally back. Where's the serjeant? I'm ready to begin my entra-ance examination.
- 8103: .........
- 8104: Make it to the ge-eneral's office on my own!? Well, she does have a po-oint...
- 8105: <Sigh> I guess I'll be mo-oving on. I could stay, but I don't know how much lo-onger this place'll be safe.
- 8106: While you were gone, I he-eard from a passing Goblin merchant that the Adamantki-ing has put a bounty on my head and that hu-unters from around Quon are combing the de-esert lo-ooking for me...dead or alive.
- 8107: Here, you held up your end of the ba-argain. It's not much of a rewa-ard, but it's all I can offer.
- 8108: I'm going to need the re-est of my funds to hire a ship to the Eastern Empi-ires. I heard that a war is bre-ewing in those parts and they're lo-ooking for good fighters.
- 8109: Hey, how about we go toge-- No, wait, just being se-een with me would make you an accomplice. If that happened, it wouldn't be lo-ong before a bounty was on your he-ead as well.
- 8110: Goodbye, adve-enturer...
- 8111: If you ever have the cha-ence to visit the Eastern Empi-ires, maybe we'll meet again. I'll ke-eep an eye out for you! Grahahahwah!
- 8112: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
- 8113: Record this fount? [Yes./No.]
- 8114: A palpable force wells up slowly from beneath the surface...
- 8115: This geomagnetic fount has already been recorded.
- 8116: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
- 8117: Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the $3 has restored them to normal!
- 8118: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
- 8119: Your $3 has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
- 8120: Your $3 has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
- 8121: You may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
- 8122: You may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
- 8123: You may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
- 8124: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8125: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8126: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 8127: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 8128: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 8129: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 8130: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 8131: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 8132: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 8133: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 8134: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 8135: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 8136: You do not have enough tabs.
- 8137: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 8138: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 8139: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 8140: Accept the reward? [Yes, please./No, thanks.]
- 8141: You may change the way you select areas listed in "Teleportation Assistance."
- 8142: Any changes to make? [Keep course./Select by region./Select by content.]
- 8143: Area selection will now be made by [region/content].
- 8144: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 8145: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 8146: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 8147: $8 has been [added to your list of favorites/removed from your list of favorites].
- 8148: Your list of favorites is full. You must remove an existing entry to add new ones.
- 8149: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
- 8150: I am Tarnotik. I tired. Completely exhausted.
- 8151: Why, you say? Too many visitors in Movalpolos.
- 8152: Orcs, Yagudo, Quadav, Goblins... Why they all here?
- 8153: They in Mine Shaft No. 2716 talking about mighty dragon Chaos and its minions.
- 8154: I excited by sight of so many strange beings. However, is very tiring.
- 8155: Oh, you want go deeper into mine?
- 8156: I don't recommend it. They likely not welcome your kind there.
- 8157: But, I send you there in exchange for item.
- 8158: !?
- 8159: Is that a Goblin?
- 8160: He clad in black... Maybe he famous Goblin everyone talk about?
- 8161: Movalpolos overrun with visitors... You still want to continue?
- 8162: I don't recommend it. They likely not welcome your kind there.
- 8163: But, I send you there in exchange for item.
- 8164: I'm Tarnotik. I exhausted from being so busy.
- 8165: Why Tarnotik so busy, you ask? There be some strange visitors in Movalpolos.
- 8166: Aren't citrullus usually more silent?
- 8167: And Meebles be more docile?
- 8168: What wrong with those two!?
- 8169: <Player>, you came...at just...the right time!
- 8170: Gloom Phantom's friends...are here! You know...the Destiny Destroyers!
- 8171: They are...eager to see...Gloom Phantom. But...I must...ask you first...
- 8172: Are...Magh Bihu...and Dazbog...okay? Can we...take them...to her?
- 8173: Is it okay? [Yes, it's fine./No, probably not./I'm not sure.]
- 8174: I see... Let's...do this... <Player>...you come to...Shaft 2716 too...
- 8175: Very well... In that case...<Player>...I want you...to go to...Shaft 2716...and explain the situation...
- 8176: Very well... <Player>...you come to...Shaft 2716...and talk to them...
- 8177: Tarnotik see strange visitors in Movalpolos.
- 8178: The citrullus and Meeble be in Shaft 2716. Jabbos leave already.
- 8179: Yes... Tarnotik think these stories be connected...
- 8180: So you...think so too?
- 8181: <Player>, Destiny Destroyers... Please...listen to...our story.
- 8182: After the explosion...an urgent message...came for the Orcs...Quadav...and Yagudo.
- 8183: I did not know...what the messenger...was saying... However...
- 8184: Tarnotik know... I tell you!
- 8185: Messenger say that traitors, Chaos's disciples, will be gathering!
- 8186: Something was stolen, and the thief pursued... Everyone gather at Castle Zvahl!
- 8187: The Moblins...also said...the following...
- 8188: Apparently, there is magic...at Castle Zvahl...that can resurrect...the Shadow Lord.
- 8189: Maybe this magicite be used to resurrect Chaos and Garazu-Horeizu?
- 8190: Y-yes, it's definitely p-possible...
- 8191: I've heard there's a g-gate to the underworld in C-Castle Zvahl...
- 8192: Can this magicite be used to open the gate by resurrecting the dead?
- 8193: M-maybe? According to legend, m-magicite has untold power...
- 8194: This isn't good! We've got to do something!
- 8195: Y-yes indeed! I-if Gloom Phantom was here with us...
- 8196: I-I am Dazbog!
- 8197: Magh Bihu!
- 8198: Now your turn!
- 8199: How do you respond? [<Player>!/...]
- 8200: <Player>?
- 8201: Together, we are...
- 8202: Th-the Destiny Destroyers!
- 8203: W-well then, let's meet at C-Castle Zvahl!
- 8204: We'll see you there!
- 8205: I am...counting on you...as well, <Player>...
- 8206: Please go to...Castle Zvahl...and find out...what Chaos's disciples...are up to...
- 8207: I made...a promise...that my journey...is over. That is why...I must stay here...and protect the Moblins...
- 8208: Tarnotik hear Chaos's disciples say they gather at Castle Zvahl.
- 8209: Citrullus and Meeble already leave for castle. Try not to rush into danger though.
- 8210: Oh, you brave adventurer! You true hero!
- 8211: You...defeat...Chaos... I am grateful...for...your help.
- 8212: Kipdrix's family...is visiting him...as we speak.
- 8213: Boudox! Gloom Phantom! You brave adventurer! You true hero!
- 8214: The Moblins...heard of your...tales of bravery... They decided...to free...your brother.
- 8215: Maybe once this...joyful reunion...is done... You can...go visit...him.
- 8216: Hey! What are you doing here!?
- 8217: D-don't tell me you're here for my worthless brother!?
- 8218: I don't think that's it. Surely, [he/she] is here to see you, Boudox.
- 8219: Huh!? Is that true?
- 8220: Did you come to see Boudox? [Yes./No, not really.]
- 8221: W-wait... Are you here to steal the treasure Odin gave me!?
- 8222: I really doubt that, Boudox. People like [him/her] have no use for such things.
- 8223: W-wait... Are you here because you're interested in the treasure Odin gave me!?
- 8224: Sorry to disappoint you, Boudox, but people like [him/her] have no use for such things.
- 8225: Tell the truth! You're here for my treasure!
- 8226: Five thousand years of history!
- 8227: It's all contained here in this Goblin recipe book!
- 8228: It's an important book that includes many legendary recipes that have been lost over the years.
- 8229: Cooking is an expression of love. It's a necessity for anyone looking to eventually settle down and build a family.
- 8230: Goblins are pretty tough! I'll make them something that'll really grab 'em by the stomach!
- 8231: I'm sure our paths will cross again someday. I'll even cook you up something special!
- 8232: I hope you're looking forward to it!
- 8233: Boudox, my beloved little sister...
- 8234: I know you risked your life to protect her.
- 8235: If you were a Goblin male, you'd clearly be the favorite to win her hand.
- 8236: Ah, that's it! I'll wear this to my sister's wedding!
- 8237: It smells a bit, but it'll be fine if I air it out first!
- 8238: Oh, you brave adventurer! You true hero!
- 8239: Tarnotik have item from Boudox!
- 8240: Oh, you brave adventurer! You true hero!
- 8241: Ah, thank you! Tarnotik thanks you very much!
- 8242: @@
+ 7782: ...
+ 7783: Yeah, let's blame it on the adventurer.
+ 7784: Let's blame it on this [guy/gal].
+ 7785: This'll get us out of trouble.
+ 7786: Let's go back to Jeuno.
+ 7787: Our Moblin guide is waitin' in there.
+ 7788: He's gonna ask about you, for sure.
+ 7789: If the plan fails, you're Orc meat. Be ready.
+ 7790: Jahb, naggekwaha ronmhu deig?
+ 7791: Seidhi, hee, dahharho ronmhu Goblin.
+ 7792: Pughuu dabba. Seghib aarogha, Goblin.
+ 7793: Sei, chabuirho, hee Goblin?
+ 7794: Dahha! Dahhaan!
+ 7795: Auha, dhin. Gaevhoaa, ouwajhu.
+ 7796: He's gettin' suspicious. Wants to know why ya don't speak Goblin.
+ 7797: This magic makes a Goblin all person. Makes 'em stupid.
+ 7798: ...
+ 7799: Then Tarnotik speak different for crazy Goblin. Take crazy Goblins where they want to go.
+ 7800: You talk people talk?
+ 7801: Tarnotik learn crazy people speak. Learn the language of Promathia.
+ 7802: Who taught ya?
+ 7803: Forget that! First bring crazy $4!
+ 7804: There's a crazy celebration now. The reincarnation of Promathia has come.
+ 7805: Promathia was reborn?
+ 7806: Tarnotik take you to meet Promathia, but this crazy Goblin get killed in there wearing people face.
+ 7807: Tarnotik not sure if he should really send you deep into Movalpolos with crazy warp magic.
+ 7808: Crazy flower that grows in snow...
+ 7809: You scared? Maybe you don't got the guts for this.
+ 7810: We're goin'. See you in Mine Shaft 2716.
+ 7811: Oops, we don't got your tear. Give the Moblin a tear from one of those big eye guys. He'll send you to Mine Shaft 2716.
+ 7812: Hee, Goblin? [Sure./Not so much.]
+ 7813: You really wanna go? [I'm crazy enough!/Maybe not...]
+ 7814: Moblins no break promises! Tarnotik send you to Shaft 2716 now.
+ 7815: Tarnotik has seen those crazy big eye guys that fly around out there. They cry crazy tears. Pretty, sparkly tears.
+ 7816: Drippy, pretty, sparkly, crazy tears. You bring one to Tarnotik, and Tarnotik send you deep into Movalpolos, to Shaft 2716.
+ 7817: Hey, Tarnotik remembers you! You crazy Goblin with person-shape magic!
+ 7818: You want Tarnotik to send you crazy deep into Movalpolos again?
+ 7819: Back off!
+ 7820: No mail! No mail! My brother is missing!
+ 7821: Zeelozok always sends me letters! Always!
+ 7822: Zeelozok is on a pilgrimage to teach the other beastmen about Promathia's [statue/reincarnation].
+ 7823: He went to Davoi first to talk to the Orcs, followers of the Kindred. My brother will teach them that the Divinity of Darkness who the Kindred worship is a false idol.
+ 7824: Promathia has been reborn. Zeelozok went first to Davoi to enlighten the Orcs.
+ 7825: Something must've happened in Davoi. I want to go and find my brother, but I don't know how to get there.
+ 7826: Something must've happened in Davoi. I want to go and find my brother, but I can't leave Movalpolos right now.
+ 7827: That's why you're going in my place. If you fear Promathia, you'll do as the Moblins say.
+ 7828: Are you afraid of Promathia? [Terrified./Not particularly...]
+ 7829: That's the way it should be. Now go and find Zeelozok. He said he was going to Davoi to see the Orcs.
+ 7830: Promathia will be reborn and mash your people into oblivion!
+ 7831: Zeelozok said he was going to see the Orcs in Davoi. Go and find my brother!
+ 7832: A letter! This is a letter from my brother!
+ 7833: He got in to talk to the overlord, but the Orcs were too stupid to understand what he was saying.
+ 7834: Zeelozok writes that the Orcs only follow the strong. The demon army of the Kindred crushed the Orcs, so the Orcs obey the demons.
+ 7835: Then Zeelozok was taken captive. The Orcs said that people and Moblins are only good for eating.
+ 7836: My brother is really good at digging, though. He dug a tunnel straight out of Davoi and escaped.
+ 7837: But he was mighty mad by now, and said he let all the other "food" go free as well.
+ 7838: He got something from them as thanks. We don't need this stuff, so you can have it.
+ 7839: You're pretty useful for a person! Keep up the good work and show your obedience to the Moblins, and to Promathia!
+ 7840: I got another letter from my brother. He says that he's visiting the Yagudo next.
+ 7841: The Yagudo say that their god lives among them. Maybe their god is the reincarnation of Promathia!
+ 7842: The Yagudo say that their god lives among them. Maybe their god is the same reincarnation of Promathia that appeared to us!
+ 7843: Zeelozok went to Castle Oztroja to see for himself.
+ 7844: The Yagudo wouldn't let him meet with their god, so instead he found someone who's seen their divinity close up.
+ 7845: Zeelozok found a Yagudo who was injured while protecting the bird people's deity.
+ 7846: He wants someone to bring him $1, but I don't know where to get one of those.
+ 7847: If you find some, take it to Zeelozok in the bird men's fortress.
+ 7848: Do as she asks? [I've come this far.../Not this time.]
+ 7849: Find $1 and take it to Castle Oztroja!
+ 7850: My brother wants $1 for the Yagudo who was injured protecting the bird men's deity.
+ 7851: You took your time getting back. I got another letter from Zeelozok that explains what happened.
+ 7852: Before the injured Yagudo died, he told Zeelozok about his god.
+ 7853: The Yagudo divinity has nothing to do with Promathia.
+ 7854: And since the Kindred stole the sacred vessel of their god, the Yagudo have no choice but to obey them.
+ 7855: Zeelozok said the Moblins follow the true god. After hearing this, the Yagudo chased him out of Oztroja!
+ 7856: Now Zeelozok is in Beadeaux, talking with the Quadav.
+ 7857: Here's a surprise! He says that the Quadav are far smarter than he expected!
+ 7858: They knew that the Moblins had found a big sparkly crystal and were really impressed!
+ 7859: They said that they would help the Moblins to destroy Bastok.
+ 7860: But first they want to see proof that the big sparkly crystal really exists. Aw, come on!
+ 7861: Well, fair's fair, I suppose. Here, take this $3 to the Quadav near the smoking kilns.
+ 7862: Beadeaux is not that far from here, right? Do your job right and I'll put a good word in for you when Promathia comes to destroy all the children of Altana.
+ 7863: Help out again? [Hail Promathia!/I've had enough.]
+ 7864: Say whatever you want. You can't defy the will of Promathia.
+ 7865: Right, then. Go to the smoking kilns in Beadeaux. The Quadav will be waiting for you.
+ 7866: The mail's in. My brother writes that the Quadav deceived the Moblins.
+ 7867: They gave proof of the big sparkly crystal straight to the Kindred. The Moblins were betrayed to improve the standing of the Quadav.
+ 7868: I just don't get it. Why don't any of them understand that the Moblins are right?
+ 7869: Orcs, Quadav, Yagudo, Moblins--we were all born from Promathia.
+ 7870: When Zeelozok gets back, I'm going with him on his next trip.
+ 7871: You've made yourself useful, so you can come along, too. Take this with you.
+ 7872: Just hold on to it. Promathia loathes the children of the Dawn Goddess. You people have gotta try harder to get into the Twilight God's good books.
+ 7873: My little brother has come back! Zeelozok, welcome home!
+ 7874: I'm Zeelozok. Thanks for all your help.
+ 7875: I learned some things from visiting the Orcs, the Yagudo, and the Quadav. My travels have taught me much.
+ 7876: Orcs will follow anyone with strength. Yagudo will follow anyone who holds their sacred vessel. Quadav will follow anyone who can give them status.
+ 7877: And then I realized: we should conquer the Kindred demons. We would then hold the sacred vessel, and status would cease to have meaning.
+ 7878: There are too many demons to hack up, though. That's why I'm just going to kill their Divinity of Darkness.
+ 7879: Zeelozok! That's a brilliant plan!
+ 7880: My brother has grown wise on his travels!
+ 7881: Sis, I'm going to Castle Zvahl to find the Divinity of Darkness.
+ 7882: Hold on, hold on. You need to study up on the demons first. Those guys are scary smart.
+ 7883: Leave that to me. All I need is $1, and then I'll know everything there is to know about the Kindred.
+ 7884: You! Go to Castle Zvahl and bring back $1!
+ 7885: And be quick, 'cause once Zeelozok makes up his mind, he plunges right in. Go on, scoot!
+ 7886: Now that I have this, the demons have nowhere to hide. I can tell what they're thinking, and what they're doing.
+ 7887: But, there's one small problem. This demonscratch is difficult to read...
+ 7888: Hrm. I can't wait for your translation. I'm going on ahead.
+ 7889: Going by yourself is only gonna get you killed! You should take everyone with you, including me!
+ 7890: None of the other Moblins believe in what I'm doing. They think it's enough for them alone to be Promathia's children.
+ 7891: But this is no good. All the beastmen are the children of Promathia. We all must be ready to greet him when he is reborn.
+ 7892: I'll write you a letter. I want you to share it with everyone in Movalpolos so they start to think more.
+ 7893: You stay here and wait for my letter.
+ 7894: ...
+ 7895: My brother is one hell of a Moblin.
+ 7896: Hmmm. There must be something I can do to help him...
+ 7897: I know, I can work on the translation of that demon script. That could come in handy.
+ 7898: We're in trouble! The demons are angry at the Moblins!
+ 7899: They've found out about Zeelozok's visits to the other beastmen!
+ 7900: The Kindred demons are discussing whether or not to obliterate Movalpolos!
+ 7901: King Paimon prefers to wait and watch the Moblins before doing anything.
+ 7902: But another demon called Marquis Andrealphus is ready to make this city our tomb.
+ 7903: If this marquis discovers Zeelozok wandering around Castle Zvahl, Promathia only knows what he'll do to my brother!
+ 7904: You have to catch up with Zeelozok!
+ 7905: Tell him to stay out of the castle baileys. That's where Marquis Andrealphus can be found.
+ 7906: This was my brother's...
+ 7907: No Moblin would willingly give up their earplug...
+ 7908: If Zeelozok no longer has this, then he won't be coming home...
+ 7909: Oh! My precious little brother! My stupendous, adorable Zeelozok!
+ 7910: Sis...
+ 7911: Zeelozok!?
+ 7912: You made it back!? How did you find the entrance to the warp cavern without your earplug?
+ 7913: I didn't. Without the earplug, there was nothing to do but walk.
+ 7914: I wrote lots of letters while I was walking, so that even if I collapsed my thoughts would remain on paper.
+ 7915: Some Goblins found me wandering and offered to help.
+ 7916: They brought me all the way here to Movalpolos.
+ 7917: Those Goblins will be blessed by the Twilight God!
+ 7918: Oh yeah, they also told me something important.
+ 7919: The Divinity of Darkness is searching for a statue beneath the earth.
+ 7920: A statue beneath the earth! The statue of legend? The statue that will bring about the age of Moblins!?
+ 7921: The dark god must be afraid of its power! We have to find it first!
+ 7922: You're right! I'm going to help search right now! Later, Sis!
+ 7923: You look confused, <Player>.
+ 7924: The warp caverns are open areas left in the tunnels we collapse behind us. They're all linked together like one big chain.
+ 7925: With a Moblin earplug, you can find the entrances to the warp caverns. Makes traveling easy. Only we Moblins know they exist.
+ 7926: We're gonna start digging out from those caverns again, and search for the statue. You people are no good at digging, so you don't have to help.
+ 7927: Take this. When Moblins and people go to war, use it for the glory of the children of Promathia.
+ 7928: I'll be looking for you when the battle starts, so don't go dying yet, okay?
+ 7929: Yous gots whats yous came for, now scram!
+ 7930: Pssst! Hey yous! Ever beens to da mine shaft alls da ways beyonds Newston?
+ 7931: Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate.
+ 7932: Nows, I could gives ya this here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?
+ 7933: Heh heh heh... Comes to papa, $0. Alrights. A promise's a promise. Twinkbrix ain't a Gob to go back on his word!
+ 7934: Ya know, as much as I'd like to get my hands on another one o' dem jewels, I'm fresh outta levers.
+ 7935: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with what yous need!
+ 7936: And don't forgets to bring $0. I ain't runnin' no charity here!
+ 7937: Hey! Hey! Hey! Crazy adventurer holding crazy lever! Crazy adventurer not supposed to have crazy lever!
+ 7938: You use crazy lever, you break door! You break door, Tarnotik can't get inside!
+ 7939: How about we make deal? We make crazy deal! You give me crazy lever, I help you out.
+ 7940: Give him the $3? [Yes./No.]
+ 7941: Oh! Crazy adventurer smarter than looks! Tarnotik help you out!
+ 7942: You hand the $3 to Tarnotik.
+ 7943: Crazy adventurer saying crazy things! Tarnotik no help no one crazier than he!
+ 7944: Da bigg boss of dis here place don'ts wants nobodys goin' back there, sos he broke off da lever to da main gate.
+ 7945: Nows, I could gives ya dis here spare lever, but I'ms gonna need somes incentives in return. Hows about we works out a trade? You brings me $0, and then we'll talk. Whaddaya say?
+ 7946: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you...
+ 7947: But if yous really wants to know, I could gives ya a chance. Here's whats we'll do. Yous play dice witha me. Yous win, I lets ya in on my secrects.
+ 7948: But don't goes a thinkin' that I'ms gonna play for free. That's right, incentives! Yous forks over some gils, I'll tells ya if it's enough. Oh, and don't go givin' me any more than 10,000. I'ms not a crook, ya knows!
+ 7949: We'll sees if yous upworlders have what it takes to plays with da big boys!
+ 7950: Oh yeah, there's another way to gets beyond da gate, and it won'ts rub da boss da wrong way...but I ain't tellin' the likes o' you. 'Least nots yet.
+ 7951: Now says you came back on ( Earth time). You visits your cousin Twinkbrix then, and I'll hooks yous up with all the information yous need!
+ 7952: But don't thinks you'll be gettin' it easy!
+ 7953: Hey! Yous gots what ya came for, now git outta my face!
+ 7954: $0 gil? Alright. Lets me fill yous in on da finer details of our agreement.
+ 7955: $0 gil? Is that supposed have somes kinda meaning? Whatever, lets me fill yous in on da finer details of our agreement.
+ 7956: Rules are simple: I throws two 50-sided dice. If the total's betweens 2 and $1, yous win.
+ 7957: Rules are simple: I throws two 50-sided dice. If the total's 2, yous win.
+ 7958: Heres we go!
+ 7959: And the total is...$2!
+ 7960: Hmph... These dice must be fixed! But a deal's a deal... Takes dis!
+ 7961: Heh heh heh! Looks who wins again! Better luck next time, sucker!
+ 7962: Oh, and just to shows ya I'ms a good sport, I'll warps ya to the gate...for a meres $3 gils! But yous'd better not be carryin' anything that'll gets me in trouble!
+ 7963: Heh heh. That's what I likes about yous adventurers--pockets lined witha gil!
+ 7964: Hey hey hey! I tolds yous not to bring anythings that'd gets me in trouble! Gimme that!
+ 7965: Twinkbrix snatches the $3 from your hand.
+ 7966: Holds on, upworlder!
+ 7967: Do you know know?
+ 7968: Dooo yooou knooow abooout Mooobliiins?
+ 7969: Do you know Jabbo Jabbo?
+ 7970: Heee's baaack nooow.
+ 7971: Do you know know about Promathia?
+ 7972: Diiid Jaaabbooo meeet wiiith theee Twiiiliiight Goood?
+ 7973: Jabbo Jabbo won't tell tell.
+ 7974: Wooon't teeell uuus whaaat Prooomaaathiaaa saaaid.
+ 7975: You you have to make make him talk talk.
+ 7976: Yooou caaan cooonviiince hiiim tooo taaalk.
+ 7977: <Player>...! You...came...to visit me...?
+ 7978: It is...good...to see...you.
+ 7979: But I...am...troubled...
+ 7980: We witnessed...the terror...of...Promathia. We learned...terrible...secrets...
+ 7981: The Twilight God...is the father...of us all...
+ 7982: I cannot...bring myself...to tell them...
+ 7983: The Moblins...will teach this...to others. Angry people...will come...to fight...the Moblins.
+ 7984: I must...think carefully...on this...
+ 7985: I must...not make...the same...mistake...again.
+ 7986: Jabbos, you entering the great crystal. We knowing you going to place of Promathia.
+ 7987: Jabbos, ifn ths lifis prishus, yutel abut Promathia!
+ 7988: Jabbos, if you really are a crazy friend to the Moblins, then you tell us the crazy truth!
+ 7989: A friend... Yes...I am...your friend...
+ 7990: I will...never...lie to...you...again...
+ 7991: I am...not...good with...words...but I...will tell...you...what happened... You must...believe me...
+ 7992: I went...with <Player>...to meet...the Twilight God...
+ 7993: That was...where...we learned...the truth... We are...all...
+ 7994: The children...of Promathia...
+ 7995: !?
+ 7996: We always...believed ourselves...to be...the children...of Altana...
+ 7997: But...in truth...we had...a father...as well...
+ 7998: We people...are the children...of both the Dawn...and the Twilight...
+ 7999: Jabbo Jabbo speaks speaks the truth truth.
+ 8000: You...believe me...!?
+ 8001: Buuut Jaaabbooos caaan't beeelieeeve theee truuuth.
+ 8002: No... I can't...believe it... I don't...want to...believe it...
+ 8003: But this...is the...price...for my...past actions...
+ 8004: I have learned...all the things...I don't want...to know...or believe...
+ 8005: Don't's worry's. Moblin's understand's. Moblin's have's both's males's and females's...
+ 8006: If Promathia bing fathr, then samwhre thir bing a mothr.
+ 8007: Ws srprsng t lrn Dwn Gddss ws r mthr, thgh.
+ 8008: ...?
+ 8009: Crazy Jabbos is alone because he is a crazy Galka. You must have been crazy happy to find you had a mother.
+ 8010: This means that beastmen beastmen and people people must be brothers brothers!
+ 8011: ...!!!
+ 8012: Moblins's and's people's are's family's!
+ 8013: Tm t dnc! Tm t sng!
+ 8014: What should...I do...<Player>...?
+ 8015: The Moblins...believe...they are...the children...of Promathia...
+ 8016: Should...I tell...them the...truth...? They are...my friends...after all...
+ 8017: Should Jabbos tell them? [Of course./Not a good idea.]
+ 8018: What do...you mean...? Do I...really...know the...truth...?
+ 8019: You're right... I don't know...for sure...if what Cardinal Mildaurion...said...about the Moblins...was true...
+ 8020: But...I don't know...for sure...
+ 8021: Are the...Moblins...the children...of Promathia...or not...?
+ 8022: But even if...the Moblins were...the children of Altana...they would still...be our brothers...
+ 8023: I've made up...my mind... It's time...to celebrate...with...my friends...
+ 8024: I will...slowly teach...the Moblins...that we are all...family...
+ 8025: Thank you...<Player>...
+ 8026: That's why you're going in my place. If you're a child of Promathia like you say, you'll do what I'll tell you!
+ 8027: Do as she asks? [Your will is my command!/Not gonna happen.]
+ 8028: Beadeaux is not that far from here, right? Do your job right and maybe Promathia will forgive your trangressions.
+ 8029: Just hold on to it. Are you people really children of the Twilight God? You gotta try harder to get along with your Moblin brothers.
+ 8030: Take this. When Moblins and demons go to war, use it for the glory of the children of Promathia!
+ 8031: You cannot obtain the $0. Come back again after sorting your inventory.
+ 8032: Something is written on the surface of the earth here. It looks like it says, "Me thirsty."
+ 8033: A chill runs down your spine!
+ 8034: Nothing happens...
+ 8035: Hspeed, A! Hstrength, A! Hteamwork, A+! Hlooks...F-! Hyou fail! Ahahahaha!
+ 8036: Rwarrr! Sho-ow yourself! I know you're the-ere. Dra-aw your weapon and face your fate like a true wa-arrior!
+ 8037: Insigni-aficant flea, prepare to hear the ro-oar of Gu'Zho Thunderblade!!!
+ 8038: Wait! Don't run away. I was only pla-aying with you.
+ 8039: I couldn't fi-ight you on any empty stomach like thi-is anyway. Grahahaw!
+ 8040: Let me intro-oduce myself. My name is Gu'Zho--officer in the 7th Waughroon Armored Divi-ision of the Quadav Shieldwa-arriors, or should I say fo-ormer officer... I'm what you'd call a de-eserter.
+ 8041: I'm not proud of it, but I did wha-at I had to do. Day after da-ay, I watched as hundreds of my troops would be slaughte-ered by the waves of adventurers pouring through the mi-ine shafts in search of their pre-ecious mythril. Why didn't the Adamantking try to ma-ake peace with the chi-ildren of Altana? What twisted se-ense of pride made him so stubborn?
+ 8042: I was ti-ired of being a pawn for a leader whose ideals confli-icted with mine. So, I ga-athered up a handful of my best troops and le-eft the Shieldwarriors behind me. Howe-ever, it was not long before the guilt and pressure of being wanted me-en bore down on the already weakened souls of my comra-ades.
+ 8043: And one by one they le-eft my side and returned to the mi-ines, until I was left here alone. But what can a Quadav who has known no-othing but the battlefield do when there is no battle for him le-eft to fight?
+ 8044: That's why I ca-ame here to Modalpolas. I heard that the Moblies are always lo-ooking for new mercenaries to fill out their ra-anks.
+ 8045: I paid a Gobly scribe a sackful of mythri-il ore to write me a recommenda-ation. Now all I have to do is take it to the applica-ation box located somewhere in this mess of scaffolding and ro-ock.
+ 8046: You wouldn't happen to know your way around this pla-ace, would you?
+ 8047: Your grade in Movalpolos geography: [A+./F-.]
+ 8048: Don't worry about it. I'm not tha-at good with directions either... I'll just wait he-ere a little longer until someone with a ma-ap comes along.
+ 8049: You don't say! Well, then I have a pro-oposition for you.
+ 8050: You see, as you already may kno-ow, we Quadav don't have that good eyesi-ight; we mainly rely on our hearing and a set of se-ensory organs that pre-event us from getting lost.
+ 8051: However, the magne-etic field created by all this crazy Mobly equipme-ent has been sending my sense of direction haywire. I've tried naviga-ating the tunnels here, but I always end up ba-ack in the same spot...
+ 8052: And that's why I need your he-elp. If you can really traverse the Mobly tu-unnels as well as you say you can, you should have no trouble in deli-ivering my recommendation to the application bo-ox.
+ 8053: What do you say? Will you help? [Of course!/On second thought...]
+ 8054: Hm... Maybe I should have me-entioned I was willing to pay in gold be-efore I asked...
+ 8055: You will!? I don't know how to tha-ank you! How about gold? I heard it is quite va-aluable in your world as well.
+ 8056: Wait... We're not he-eading into Mobalpolus to pick any fi-ights with the Moblies.
+ 8057: If you wa-alked in looking like that, there might be more unwanted bloodshe-ed...and that's the last thing I need any mo-ore of on my conscience.
+ 8058: What you need is a di-isguise... What if you were to make one of those stra-ange masks that those Moblies are always we-earing? There must be a few softbacks in one of your towns that spe-ecializes in leathercraft...
+ 8059: I don't know if I can tru-ust your type, but then I don't know if I can tru-ust anybody right now. I'll be waiting here for you, adve-enturer...
+ 8060: Rwarrr! Sho-ow yourself! I know you're the-ere. Dra-aw your weapon and face your fate like a true wa-arrior!
+ 8061: .........
+ 8062: Grawhawhawh! I tho-ought for a minute there that you were one of those pe-esky Gobly scouts!
+ 8063: That's one heck of a di-isguise you managed to put together! I can't see you that well, but from what I can make out, you shouldn't have any trouble ma-aking your way into the mi-ines!
+ 8064: Here, take my recommenda-ation and take it to the applica-ation box. Where is it? How should I know? I barely even know whe-ere here is!
+ 8065: After you place the le-etter in the box, it won't be long before one of their merce-enary serjeants will come out to collect it. When he does, lead him ba-ack here, and I'll give you your rewa-ard.
+ 8066: There is a rusty iron box with strange markings and a narrow slit on the lid.
+ 8067: You slip the recommendation letter through the opening on the lid of the box. You can hear footsteps approaching...
+ 8068: Hwait! Hwait hright there, peskyky adventurerer! Hyou have hquite the nerve to show your face aroundnd here!
+ 8069: Or hmaybe hyou'd like to join our ranksks!? Hwell, hlet's see if hyou can pass our testst!
+ 8070: StUpid! Crazy Goblins so stUUUpid! I tolds them SO many times, always chEck enemy befores fighting!
+ 8071: Ngeh? Waits a mInutes... You are not GOblin. Pwah phah phwah! I sees. No wOnder precEptor cannot wins!
+ 8072: Wonderful! I could care less if you are tUrtles or bIrds or GAlkas. My armies need strOngest bodies available--and you one super-strOng body!
+ 8073: Welcomes advEnturer! I am leader of MovalpOlos Moblin mercenAries, Mighty Minded GenErajiq!
+ 8074: Why spEaks I your languages so good? Hah hah! Moblins more smArters than you thINks! I spents years in rOOf of San d'Oria Cathedral listening to fUnny old Elvaan preaching mumbo-jUmbo abouts AltAna lady.
+ 8075: Some Moblins shUns upworld and upworlders' life, but nots mE! "Knowsest thous EnEmicles," I thinks yous says.
+ 8076: .........
+ 8077: Hmweh? You're not here to joins Moblin mercenAries? Then why put you applicAtion in bOx?
+ 8078: .........
+ 8079: Sweesh! Nice [guy/gal] you are. Not quIte ruthless mercenAry types, though. You tells this Gu'Zho he's welcOme in my armies...but only if he can mAkes it to office!
+ 8080: And whAts abouts you? Are you sUres you don't want to give second thoughts to glAmorous mercenary lIfe?
+ 8081: ...Pfuff... I sees... Well, at lEast lets me apOlogize for stUUUpid Goblin's stUUUpiditinesses.
+ 8082: I knows! Take that crAzy Goblin hat and puts it on iron box. I use Moblin sUper technology to changes it into crAzy Goblin sUper hat!
+ 8083: A sOldier whos follows orders! Are you sUre you don't want to joins us and have glamOrous mercenAry life?
+ 8084: ...... Psheesh. Doesn't hurt to Asking! Ahkhem! Promises is promises. DoctOr Chop! DoctOr Chop!
+ 8085: Wha? Whoo's caalin' me? Wher'r ya? Ya neeedsa amput...anmpyu...amputit...amptitationn? <Hic!>
+ 8086: Fwhee-ew! DoctOr Chop! WhAt haves I told you abOut drInking Opo-opo brEws on job!?
+ 8087: Opo-opopopoos brew on the njob? Don't minnd if I doo! <Hic!>
+ 8088: Doctor ChOp. I thinks it is time for me to deAl punishment for sneaksing into MOblin brewery and swimmsing in tank... Death!............Or temporary service to thIs advEnturer.
+ 8089: <Ulp!>...<Hic!> Allriigh, alllriigh! Ya don' haftaa go gett your reathers fluffl...freathers fruffal...featherrrs fluffeled! I'lll help ou this advennteurerueraroo.
+ 8090: Hey, [misser/laady]! You'rre lookin at the bes Goblin doctor this sida Gustabtysyuaygjh. <Hic!>
+ 8091: Ya need a goo' leechin, <hic!> ya jus usse tha crazy hatn' I'lll be righ there. N'if any of my Gobbie budddies seees me fratr...fratin...frertin...fratrinrizin with th nenenemy, I'll jus tell'm I 'ad one too many nightcapss fer breaksfastst!
+ 8092: Sounnnd goood, Mighty morphin Genererarrajudy? <Hic!>
+ 8093: Hmphw! That's fine! Just mAkes sure you stays hiding when not nEEded. This is yOUr punishments, not advEnturer's!
+ 8094: Ya don' haffa worrrry 'bou nothn'. Me'n my canteen'll stays outta your way ntil ycalls. <Hic!> Gooobyongooynshjsdkjl! <Hic!>
+ 8095: I am sOrry for that, adventurer. Please, takes the hAt.
+ 8096: Choplix may not looks like good dOctor, but he's best we haves in MovAlpolos.
+ 8097: Last year, there was bIg cave in near Mine Shaft #8765. Many Moblin brOthers and sisters injured badly. Doctor Chop save mAny lves.
+ 8098: MAybe someday, Chop saves your life, tOO.
+ 8099: Well, I must gOes now. Generajiq's busy busy womAn. I nEEds to find a new preceptOrs, thanks to yOu! Hweh heh hwah!
+ 8100: Justs kiddIng! And remEmbers, if you ever gets sick of upwOrld life, you can always comes back hEre...
+ 8101: It's dark, hot, mUggy, smelly, damp, mOldy, greasy, dusty, and fIlthy...what mores could you ask fOr!? Fweh hweh hwah!
+ 8102: I'll sees you arOUnd, adventUrer! GoodebyOngo!
+ 8103: You're fi-inally back. Where's the serjeant? I'm ready to begin my entra-ance examination.
+ 8104: .........
+ 8105: Make it to the ge-eneral's office on my own!? Well, she does have a po-oint...
+ 8106: <Sigh> I guess I'll be mo-oving on. I could stay, but I don't know how much lo-onger this place'll be safe.
+ 8107: While you were gone, I he-eard from a passing Goblin merchant that the Adamantki-ing has put a bounty on my head and that hu-unters from around Quon are combing the de-esert lo-ooking for me...dead or alive.
+ 8108: Here, you held up your end of the ba-argain. It's not much of a rewa-ard, but it's all I can offer.
+ 8109: I'm going to need the re-est of my funds to hire a ship to the Eastern Empi-ires. I heard that a war is bre-ewing in those parts and they're lo-ooking for good fighters.
+ 8110: Hey, how about we go toge-- No, wait, just being se-een with me would make you an accomplice. If that happened, it wouldn't be lo-ong before a bounty was on your he-ead as well.
+ 8111: Goodbye, adve-enturer...
+ 8112: If you ever have the cha-ence to visit the Eastern Empi-ires, maybe we'll meet again. I'll ke-eep an eye out for you! Grahahahwah!
+ 8113: Where will you go? (Kinetic Units: $3) [Nowhere, thanks./I'd rather read an explanation./Ru'Lude Gardens. ($4 unit[/s])/Selbina. ($4 unit[/s])/Mhaura. ($4 unit[/s])/Rabao. ($4 unit[/s])/Norg. ($4 unit[/s])/West Ronfaure. ($5 unit[/s])/North Gustaberg. ($5 unit[/s])/West Sarutabaruta. ($5 unit[/s])/La Theine Plateau. ($5 unit[/s])/Konschtat Highlands. ($5 unit[/s])/Tahrongi Canyon. ($5 unit[/s])/Jugner Forest. ($5 unit[/s])/Pashhow Marshlands. ($5 unit[/s])/Meriphataud Mountains. ($5 unit[/s])/Attohwa Chasm. ($5 unit[/s])/Uleguerand Range. ($5 unit[/s])/Davoi. ($6 unit[/s])/Beadeaux. ($6 unit[/s])/Castle Oztroja. ($6 unit[/s])/Quicksand Caves. ($6 unit[/s])/Sea Serpent Grotto. ($6 unit[/s])/Temple of Uggalepih. ($6 unit[/s])/The Boyahda Tree. ($6 unit[/s])/Oldton Movalpolos. ($6 unit[/s])/Riverne - Site #B01. ($6 unit[/s])/Castle Zvahl Keep. ($6 unit[/s])/Decline destination confirmation./Accept destination confirmation.]
+ 8114: Record this fount? [Yes./No.]
+ 8115: A palpable force wells up slowly from beneath the surface...
+ 8116: This geomagnetic fount has already been recorded.
+ 8117: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
+ 8118: Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the $3 has restored them to normal!
+ 8119: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
+ 8120: Your $3 has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
+ 8121: Your $3 has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
+ 8122: You may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
+ 8123: You may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
+ 8124: You may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
+ 8125: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8126: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8127: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 8128: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 8129: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 8130: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 8131: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 8132: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 8133: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 8134: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 8135: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 8136: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 8137: You do not have enough tabs.
+ 8138: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 8139: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 8140: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 8141: Accept the reward? [Yes, please./No, thanks.]
+ 8142: You may change the way you select areas listed in "Teleportation Assistance."
+ 8143: Any changes to make? [Keep course./Select by region./Select by content.]
+ 8144: Area selection will now be made by [region/content].
+ 8145: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 8146: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 8147: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 8148: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 8149: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 8150: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 8151: I am Tarnotik. I tired. Completely exhausted.
+ 8152: Why, you say? Too many visitors in Movalpolos.
+ 8153: Orcs, Yagudo, Quadav, Goblins... Why they all here?
+ 8154: They in Mine Shaft No. 2716 talking about mighty dragon Chaos and its minions.
+ 8155: I excited by sight of so many strange beings. However, is very tiring.
+ 8156: Oh, you want go deeper into mine?
+ 8157: I don't recommend it. They likely not welcome your kind there.
+ 8158: But, I send you there in exchange for item.
+ 8159: !?
+ 8160: Is that a Goblin?
+ 8161: He clad in black... Maybe he famous Goblin everyone talk about?
+ 8162: Movalpolos overrun with visitors... You still want to continue?
+ 8163: I don't recommend it. They likely not welcome your kind there.
+ 8164: But, I send you there in exchange for item.
+ 8165: I'm Tarnotik. I exhausted from being so busy.
+ 8166: Why Tarnotik so busy, you ask? There be some strange visitors in Movalpolos.
+ 8167: Aren't citrullus usually more silent?
+ 8168: And Meebles be more docile?
+ 8169: What wrong with those two!?
+ 8170: <Player>, you came...at just...the right time!
+ 8171: Gloom Phantom's friends...are here! You know...the Destiny Destroyers!
+ 8172: They are...eager to see...Gloom Phantom. But...I must...ask you first...
+ 8173: Are...Magh Bihu...and Dazbog...okay? Can we...take them...to her?
+ 8174: Is it okay? [Yes, it's fine./No, probably not./I'm not sure.]
+ 8175: I see... Let's...do this... <Player>...you come to...Shaft 2716 too...
+ 8176: Very well... In that case...<Player>...I want you...to go to...Shaft 2716...and explain the situation...
+ 8177: Very well... <Player>...you come to...Shaft 2716...and talk to them...
+ 8178: Tarnotik see strange visitors in Movalpolos.
+ 8179: The citrullus and Meeble be in Shaft 2716. Jabbos leave already.
+ 8180: Yes... Tarnotik think these stories be connected...
+ 8181: So you...think so too?
+ 8182: <Player>, Destiny Destroyers... Please...listen to...our story.
+ 8183: After the explosion...an urgent message...came for the Orcs...Quadav...and Yagudo.
+ 8184: I did not know...what the messenger...was saying... However...
+ 8185: Tarnotik know... I tell you!
+ 8186: Messenger say that traitors, Chaos's disciples, will be gathering!
+ 8187: Something was stolen, and the thief pursued... Everyone gather at Castle Zvahl!
+ 8188: The Moblins...also said...the following...
+ 8189: Apparently, there is magic...at Castle Zvahl...that can resurrect...the Shadow Lord.
+ 8190: Maybe this magicite be used to resurrect Chaos and Garazu-Horeizu?
+ 8191: Y-yes, it's definitely p-possible...
+ 8192: I've heard there's a g-gate to the underworld in C-Castle Zvahl...
+ 8193: Can this magicite be used to open the gate by resurrecting the dead?
+ 8194: M-maybe? According to legend, m-magicite has untold power...
+ 8195: This isn't good! We've got to do something!
+ 8196: Y-yes indeed! I-if Gloom Phantom was here with us...
+ 8197: I-I am Dazbog!
+ 8198: Magh Bihu!
+ 8199: Now your turn!
+ 8200: How do you respond? [<Player>!/...]
+ 8201: <Player>?
+ 8202: Together, we are...
+ 8203: Th-the Destiny Destroyers!
+ 8204: W-well then, let's meet at C-Castle Zvahl!
+ 8205: We'll see you there!
+ 8206: I am...counting on you...as well, <Player>...
+ 8207: Please go to...Castle Zvahl...and find out...what Chaos's disciples...are up to...
+ 8208: I made...a promise...that my journey...is over. That is why...I must stay here...and protect the Moblins...
+ 8209: Tarnotik hear Chaos's disciples say they gather at Castle Zvahl.
+ 8210: Citrullus and Meeble already leave for castle. Try not to rush into danger though.
+ 8211: Oh, you brave adventurer! You true hero!
+ 8212: You...defeat...Chaos... I am grateful...for...your help.
+ 8213: Kipdrix's family...is visiting him...as we speak.
+ 8214: Boudox! Gloom Phantom! You brave adventurer! You true hero!
+ 8215: The Moblins...heard of your...tales of bravery... They decided...to free...your brother.
+ 8216: Maybe once this...joyful reunion...is done... You can...go visit...him.
+ 8217: Hey! What are you doing here!?
+ 8218: D-don't tell me you're here for my worthless brother!?
+ 8219: I don't think that's it. Surely, [he/she] is here to see you, Boudox.
+ 8220: Huh!? Is that true?
+ 8221: Did you come to see Boudox? [Yes./No, not really.]
+ 8222: W-wait... Are you here to steal the treasure Odin gave me!?
+ 8223: I really doubt that, Boudox. People like [him/her] have no use for such things.
+ 8224: W-wait... Are you here because you're interested in the treasure Odin gave me!?
+ 8225: Sorry to disappoint you, Boudox, but people like [him/her] have no use for such things.
+ 8226: Tell the truth! You're here for my treasure!
+ 8227: Five thousand years of history!
+ 8228: It's all contained here in this Goblin recipe book!
+ 8229: It's an important book that includes many legendary recipes that have been lost over the years.
+ 8230: Cooking is an expression of love. It's a necessity for anyone looking to eventually settle down and build a family.
+ 8231: Goblins are pretty tough! I'll make them something that'll really grab 'em by the stomach!
+ 8232: I'm sure our paths will cross again someday. I'll even cook you up something special!
+ 8233: I hope you're looking forward to it!
+ 8234: Boudox, my beloved little sister...
+ 8235: I know you risked your life to protect her.
+ 8236: If you were a Goblin male, you'd clearly be the favorite to win her hand.
+ 8237: Ah, that's it! I'll wear this to my sister's wedding!
+ 8238: It smells a bit, but it'll be fine if I air it out first!
+ 8239: Oh, you brave adventurer! You true hero!
+ 8240: Tarnotik have item from Boudox!
+ 8241: Oh, you brave adventurer! You true hero!
+ 8242: Ah, thank you! Tarnotik thanks you very much!
+ 8243: @@

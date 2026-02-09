@@ -48,13 +48,13 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x016C      |         364 |
 |       3 | 0x0168      |         360 |
-|       4 | 0x2736      |       10038 |
-|       5 | 0x2882      |       10370 |
+|       4 | 0x2737      |       10039 |
+|       5 | 0x2883      |       10371 |
 
 ## String References
 
-- **10038**: When it comes to knife-throwing, there isn't a soul that can match the skill of our chieftainness. I advise staying on herrr good side.
-- **10370**: When it comes to knife-throwing, there isn't a soul that can match the skill of our chieftainness. And with a stench like that, she could probably hit you with her eyes closed.
+- **10039**: When it comes to knife-throwing, there isn't a soul that can match the skill of our chieftainness. I advise staying on herrr good side.
+- **10371**: When it comes to knife-throwing, there isn't a soul that can match the skill of our chieftainness. And with a stench like that, she could probably hit you with her eyes closed.
 
 ## Events
 
@@ -624,7 +624,7 @@
   1: 0x017F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0180 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Thali Mhobrum (ID: 17801237/0x010FA015), tag_num=0x01)
-  4: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
+  4: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
     → "When it comes to knife-throwing, there isn't a soul that can match the skill of our chieftainness. I advise staying on herrr good side."
   5: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x018C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Thali Mhobrum (ID: 17801237/0x010FA015), tag_num=0x02)
@@ -658,7 +658,7 @@
   1: 0x019C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x019E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Thali Mhobrum (ID: 17801237/0x010FA015), tag_num=0x01)
-  4: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10370*)
+  4: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10371*)
     → "When it comes to knife-throwing, there isn't a soul that can match the skill of our chieftainness. And with a stench like that, she could probably hit you with her eyes closed."
   5: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Thali Mhobrum (ID: 17801237/0x010FA015), tag_num=0x02)

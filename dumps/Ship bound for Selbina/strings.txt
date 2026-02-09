@@ -1,5 +1,5 @@
 # Strings for Ship bound for Selbina
-# Total: 7358 strings
+# Total: 7359 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,111 +7069,111 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7069: Set this as current home point? [Yes./No.]
- 7070: Home point set!
- 7071: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7072: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7073: You have registered a new home point! You are now able to teleport here from any other home point.
- 7074: You may teleport from here to any other home point you have registered.
- 7075: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7076: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7077: You have not yet registered any other home points, and thus are unable to teleport.
- 7078: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7079: There is no fee for teleporting to Home Point #$2 in $8.
- 7080: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7081: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7082: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7083: You may change the method of selecting the area of your desired home point to teleport to.
- 7084: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7085: You are now selecting by [region/expansion].
- 7086: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7087: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7088: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7089: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
- 7090: Tallying conquest results...
- 7091: Conquest results tallied.
- 7092: This region is currently under San d'Orian control.
- 7093: This region is currently under Bastokan control.
- 7094: This region is currently under Windurstian control.
- 7095: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7096: This region is currently neutral.
- 7097: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7098: All three nations are tied for first place.
- 7099: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7100: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7102: All three nations are tied for first place.
- 7103: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7104: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7105: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7106: All three nations are tied for first place.
- 7107: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7108: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7109: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7110: All three nations are tied for first place.
- 7111: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7112: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7113: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7114: Global balance of power: All three nations are tied for first place.
- 7115: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7116: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7117: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7118: All three nations are tied for first place.
- 7119: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7120: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7121: Conquest update: This region is currently neutral.
- 7122: Conquest update: This region is currently under San d'Orian control.
- 7123: Conquest update: This region is currently under Bastokan control.
- 7124: Conquest update: This region is currently under Windurstian control.
- 7125: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7126: All three nations are at a deadlock.
- 7127: The beastmen are on the rise.
- 7128: Regional influence: San d'Oria - Dominant
- 7129: Regional influence: San d'Oria - Major
- 7130: Regional influence: San d'Oria - Minor
- 7131: Regional influence: San d'Oria - Minimal
- 7132: Bastok - Dominant
- 7133: Bastok - Major
- 7134: Bastok - Minor
- 7135: Bastok - Minimal
- 7136: Windurst - Dominant
- 7137: Windurst - Major
- 7138: Windurst - Minor
- 7139: Windurst - Minimal
- 7140: Bastok and Windurst have formed an alliance.
- 7141: San d'Oria and Windurst have formed an alliance.
- 7142: San d'Oria and Bastok have formed an alliance.
- 7143: Bastok and Windurst are currently allies.
- 7144: San d'Oria and Windurst are currently allies.
- 7145: San d'Oria and Bastok are currently allies.
- 7146: $10$P11.$17F$0 $P14;$P12hF$1
- 7147: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7148: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7149: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7150: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7151: The beastmen are gaining power.
- 7152: San d'Oria's regional control is now 10% closer to the first place country's!
- 7153: Bastok's regional control is now 10% closer to the first place country's!
- 7154: Windurst's regional control are now 10% closer to the first place country's!
- 7155: San d'Oria's region points have increased!
- 7156: Bastok's region points have increased!
- 7157: Windurst's region points have increased!
- 7158: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7159: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7160: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7161: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7162: A Bastokan Expeditionary Force has been dispatched to this area.
- 7163: A Windurstian Expeditionary Force has been dispatched to this area.
- 7164: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7165: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7166: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7167: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7168: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7169: There was a curse on the beastmen's banner!
- 7170: The curse of the beastmen's banner has been lifted!
- 7171: There is a beastmen's banner.
- 7172: @
+ 7068: It won't open.
+ 7069: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7070: Set this as current home point? [Yes./No.]
+ 7071: Home point set!
+ 7072: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7073: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7074: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7075: You may teleport from here to any other home point you have registered.
+ 7076: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7077: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7078: You have not yet registered any other home points, and thus are unable to teleport.
+ 7079: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7080: There is no fee for teleporting to Home Point #$2 in $8.
+ 7081: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7082: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7083: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7084: You may change the method of selecting the area of your desired home point to teleport to.
+ 7085: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7086: You are now selecting by [region/expansion].
+ 7087: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7088: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7089: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7090: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7091: Tallying conquest results...
+ 7092: Conquest results tallied.
+ 7093: This region is currently under San d'Orian control.
+ 7094: This region is currently under Bastokan control.
+ 7095: This region is currently under Windurstian control.
+ 7096: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7097: This region is currently neutral.
+ 7098: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7099: All three nations are tied for first place.
+ 7100: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7101: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7102: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7103: All three nations are tied for first place.
+ 7104: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7105: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7106: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7107: All three nations are tied for first place.
+ 7108: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7109: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7110: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7111: All three nations are tied for first place.
+ 7112: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7113: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7114: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7115: Global balance of power: All three nations are tied for first place.
+ 7116: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7117: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7118: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7119: All three nations are tied for first place.
+ 7120: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7121: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7122: Conquest update: This region is currently neutral.
+ 7123: Conquest update: This region is currently under San d'Orian control.
+ 7124: Conquest update: This region is currently under Bastokan control.
+ 7125: Conquest update: This region is currently under Windurstian control.
+ 7126: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7127: All three nations are at a deadlock.
+ 7128: The beastmen are on the rise.
+ 7129: Regional influence: San d'Oria - Dominant
+ 7130: Regional influence: San d'Oria - Major
+ 7131: Regional influence: San d'Oria - Minor
+ 7132: Regional influence: San d'Oria - Minimal
+ 7133: Bastok - Dominant
+ 7134: Bastok - Major
+ 7135: Bastok - Minor
+ 7136: Bastok - Minimal
+ 7137: Windurst - Dominant
+ 7138: Windurst - Major
+ 7139: Windurst - Minor
+ 7140: Windurst - Minimal
+ 7141: Bastok and Windurst have formed an alliance.
+ 7142: San d'Oria and Windurst have formed an alliance.
+ 7143: San d'Oria and Bastok have formed an alliance.
+ 7144: Bastok and Windurst are currently allies.
+ 7145: San d'Oria and Windurst are currently allies.
+ 7146: San d'Oria and Bastok are currently allies.
+ 7147: $10$P11.$17F$0 $P14;$P12hF$1
+ 7148: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7149: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7150: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7151: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7152: The beastmen are gaining power.
+ 7153: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7154: Bastok's regional control is now 10% closer to the first place country's!
+ 7155: Windurst's regional control are now 10% closer to the first place country's!
+ 7156: San d'Oria's region points have increased!
+ 7157: Bastok's region points have increased!
+ 7158: Windurst's region points have increased!
+ 7159: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7160: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7161: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7162: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7163: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7164: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7165: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7166: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7167: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7168: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7169: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7170: There was a curse on the beastmen's banner!
+ 7171: The curse of the beastmen's banner has been lifted!
+ 7172: There is a beastmen's banner.
  7173: @
  7174: @
  7175: @
@@ -7248,114 +7248,115 @@
  7244: @
  7245: @
  7246: @
- 7247: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7248: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7249: You can't fish here.
- 7250: You can't fish without a rod in your hands.
- 7251: You can't fish without bait on the hook.
- 7252: You can't fish at the moment.
- 7253: You didn't catch anything.
- 7254: %0 caught a monster!
- 7255: Your line breaks.
- 7256: Your rod breaks.
- 7257: Something caught the hook!
- 7258: You lost your catch.
- 7259: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7260: You feel there's something here.
- 7261: You feel there's something nearby.
- 7262: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7263: %0 caught $1 $0 !
- 7264: You dig and you dig, but find nothing.
- 7265: $0/$0p$3Z$3b$3g
- 7266: Your rod breaks. Whatever caught the hook was pretty big.
- 7267: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7268: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7269: You lost your catch due to your lack of skill.
- 7270: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7271: You didn't catch anything.
- 7272: The paper on your $0 ripped.
- 7273: A tiny goldfish approaches!
- 7274: A plump, black goldfish approaches!
- 7275: A fat, juicy goldfish approaches!
- 7276: There are no goldfish to be found...
- 7277: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7278: The goldfish slipped off your scoop...
- 7279: ch$0 skill up check.
- 7280: a:$0.
- 7281: Time $0 / Status $1 / $2
- 7282: d:$0. e:$1. f:$2. g:$3.
- 7283: h: $1. i: $0. sr: $2.
- 7284: j:$0. k:$1.
- 7285: You give up and reel in your line.
- 7286: You give up.
- 7287: %0 obtains $1 gil.
- 7288: %0 caught $0!
- 7289: You don't know how much longer you can keep this one on the line...
- 7290: You have a good feeling about this one!
- 7291: You have a bad feeling about this one.
- 7292: You have a terrible feeling about this one...
- 7293: You don't know if you have enough skill to reel this one in.
- 7294: You're fairly sure you don't have enough skill to reel this one in.
- 7295: You're positive you don't have enough skill to reel this one in!
- 7296: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7297: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7298: l: $0. m: $1. n: $2. CH: $3.
- 7299: Something caught the hook!!!
- 7300: You feel something pulling at your line.
- 7301: Something clamps onto your line ferociously!
- 7302: Your keen angler's senses tell you that this is the pull of $0!
- 7303: This strength... You get the sense that you are on the verge of an epic catch!
- 7304: The timer has started. $0 seconds remaining.
- 7305: $0sec.$1/$2sec.
- 7306: 0:$0 1:$1 2:$2 3:$3
- 7307: 4:$0 5:$1 6:$2 7:$3
- 7308: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7309: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7310: $0/$1($2j
- 7311: Version invalid error!
- 7312: Hurry before the goldfish sees you!
- 7313: %0 fishes up a large box!
- 7314: $23$o$P122$8$0
- 7315: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7316: PointF$0 >>> $1
- 7317: [$1($0)/skillF$1]
- 7318: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7319: Im Rnd : $0 Pz Rnd : $1
- 7320: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7321: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7322: skill : $0 size : $1 kind : $2 sch : $3
- 7323: time : $0 mes : $1 flag : $2 bonus : $3
- 7324: item : $0 hp : $1 pow : $2 swing : $3
- 7325: suc : $0 cons : $1 weight : $2 +- : $3
- 7326: speed : $0 +- : $1 exc : $2 client : $3
- 7327: general : $0
- 7328: ro:$0 rs:$1 ps:$2 dt:$3
- 7329: ra:$0 ti:$1
- 7330: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7331: You get the distinct sense that your moogle friend frequents this spot...
- 7332: You have a feeling that your moogle friend has been through this way...
- 7333: You suspect that the scenery around here would be to a moogle's liking...
- 7334: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7335: You have a hunch that this area would be favored by moogles...
- 7336: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7337: %0 catches $1 $0 !
- 7338: %0 obtained $6!
- 7339: It appears your chocobo found this item with ease.
- 7340: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7341: FPT $0 DPT $1 DoT$2
- 7342: FPT $0 TDPT $1 h$2
- 7343: You cannot fish at this time.
- 7344: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7345: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7346: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7347: You receive $0 bayld!
- 7348: Your chocobo refuses to partake of the $0.
- 7349: Welcome!!
- 7350: We're on our way to Selbina. We should be there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
- 7351: We are now docking in Selbina.
- 7352: We are nearing Selbina.
- 7353: You have entered the ship route by unauthorized means. Zoning you to Mhaura.
- 7354: This is the ship route from Mhaura to Selbina.
- 7355: There's nothing like fishing to pass the time!
- 7356: May I offer you items to help you on your journey?
- 7357: We are on our way to Selbina. We will be arriving soon.
+ 7247: @
+ 7248: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7249: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7250: You can't fish here.
+ 7251: You can't fish without a rod in your hands.
+ 7252: You can't fish without bait on the hook.
+ 7253: You can't fish at the moment.
+ 7254: You didn't catch anything.
+ 7255: %0 caught a monster!
+ 7256: Your line breaks.
+ 7257: Your rod breaks.
+ 7258: Something caught the hook!
+ 7259: You lost your catch.
+ 7260: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7261: You feel there's something here.
+ 7262: You feel there's something nearby.
+ 7263: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7264: %0 caught $1 $0 !
+ 7265: You dig and you dig, but find nothing.
+ 7266: $0/$0p$3Z$3b$3g
+ 7267: Your rod breaks. Whatever caught the hook was pretty big.
+ 7268: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7269: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7270: You lost your catch due to your lack of skill.
+ 7271: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7272: You didn't catch anything.
+ 7273: The paper on your $0 ripped.
+ 7274: A tiny goldfish approaches!
+ 7275: A plump, black goldfish approaches!
+ 7276: A fat, juicy goldfish approaches!
+ 7277: There are no goldfish to be found...
+ 7278: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7279: The goldfish slipped off your scoop...
+ 7280: ch$0 skill up check.
+ 7281: a:$0.
+ 7282: Time $0 / Status $1 / $2
+ 7283: d:$0. e:$1. f:$2. g:$3.
+ 7284: h: $1. i: $0. sr: $2.
+ 7285: j:$0. k:$1.
+ 7286: You give up and reel in your line.
+ 7287: You give up.
+ 7288: %0 obtains $1 gil.
+ 7289: %0 caught $0!
+ 7290: You don't know how much longer you can keep this one on the line...
+ 7291: You have a good feeling about this one!
+ 7292: You have a bad feeling about this one.
+ 7293: You have a terrible feeling about this one...
+ 7294: You don't know if you have enough skill to reel this one in.
+ 7295: You're fairly sure you don't have enough skill to reel this one in.
+ 7296: You're positive you don't have enough skill to reel this one in!
+ 7297: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7298: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7299: l: $0. m: $1. n: $2. CH: $3.
+ 7300: Something caught the hook!!!
+ 7301: You feel something pulling at your line.
+ 7302: Something clamps onto your line ferociously!
+ 7303: Your keen angler's senses tell you that this is the pull of $0!
+ 7304: This strength... You get the sense that you are on the verge of an epic catch!
+ 7305: The timer has started. $0 seconds remaining.
+ 7306: $0sec.$1/$2sec.
+ 7307: 0:$0 1:$1 2:$2 3:$3
+ 7308: 4:$0 5:$1 6:$2 7:$3
+ 7309: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7310: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7311: $0/$1($2j
+ 7312: Version invalid error!
+ 7313: Hurry before the goldfish sees you!
+ 7314: %0 fishes up a large box!
+ 7315: $23$o$P122$8$0
+ 7316: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7317: PointF$0 >>> $1
+ 7318: [$1($0)/skillF$1]
+ 7319: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7320: Im Rnd : $0 Pz Rnd : $1
+ 7321: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7322: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7323: skill : $0 size : $1 kind : $2 sch : $3
+ 7324: time : $0 mes : $1 flag : $2 bonus : $3
+ 7325: item : $0 hp : $1 pow : $2 swing : $3
+ 7326: suc : $0 cons : $1 weight : $2 +- : $3
+ 7327: speed : $0 +- : $1 exc : $2 client : $3
+ 7328: general : $0
+ 7329: ro:$0 rs:$1 ps:$2 dt:$3
+ 7330: ra:$0 ti:$1
+ 7331: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7332: You get the distinct sense that your moogle friend frequents this spot...
+ 7333: You have a feeling that your moogle friend has been through this way...
+ 7334: You suspect that the scenery around here would be to a moogle's liking...
+ 7335: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7336: You have a hunch that this area would be favored by moogles...
+ 7337: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7338: %0 catches $1 $0 !
+ 7339: %0 obtained $6!
+ 7340: It appears your chocobo found this item with ease.
+ 7341: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7342: FPT $0 DPT $1 DoT$2
+ 7343: FPT $0 TDPT $1 h$2
+ 7344: You cannot fish at this time.
+ 7345: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7346: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7347: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7348: You receive $0 bayld!
+ 7349: Your chocobo refuses to partake of the $0.
+ 7350: Welcome!!
+ 7351: We're on our way to Selbina. We should be there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+ 7352: We are now docking in Selbina.
+ 7353: We are nearing Selbina.
+ 7354: You have entered the ship route by unauthorized means. Zoning you to Mhaura.
+ 7355: This is the ship route from Mhaura to Selbina.
+ 7356: There's nothing like fishing to pass the time!
+ 7357: May I offer you items to help you on your journey?
+ 7358: We are on our way to Selbina. We will be arriving soon.

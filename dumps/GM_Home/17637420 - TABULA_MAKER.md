@@ -21,16 +21,16 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x40000000  |  1073741824 |
-|       1 | 0x1DA8      |        7592 |
+|       1 | 0x1DA9      |        7593 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1DA9      |        7593 |
-|       5 | 0x1DAA      |        7594 |
+|       4 | 0x1DAA      |        7594 |
+|       5 | 0x1DAB      |        7595 |
 |       6 | 0x0020      |          32 |
-|       7 | 0x1DAB      |        7595 |
-|       8 | 0x1DAC      |        7596 |
+|       7 | 0x1DAC      |        7596 |
+|       8 | 0x1DAD      |        7597 |
 |       9 | 0x0040      |          64 |
-|      10 | 0x1DAD      |        7597 |
+|      10 | 0x1DAE      |        7598 |
 |      11 | 0x0007      |           7 |
 |      12 | 0x0008      |           8 |
 |      13 | 0x000F      |          15 |
@@ -38,12 +38,12 @@
 
 ## String References
 
-- **7592**: One spiffy Maze Tabula for you, comin' right up! So do ya wants an original or a copy? (Original=0, Copy=1)
-- **7593**: So ya wants [an original/a copy], right? [That's what I said./No, you idiot.]
-- **7594**: Enter the pattern number for your desired tabula. (0-31)
-- **7595**: So you want pattern number $0? [You betcha./Ehhhhh...no.]
-- **7596**: Now choose a theme for your maze. (0-64)
-- **7597**: You really want theme number $0? [Damn straight./Changed my mind.]
+- **7593**: One spiffy Maze Tabula for you, comin' right up! So do ya wants an original or a copy? (Original=0, Copy=1)
+- **7594**: So ya wants [an original/a copy], right? [That's what I said./No, you idiot.]
+- **7595**: Enter the pattern number for your desired tabula. (0-31)
+- **7596**: So you want pattern number $0? [You betcha./Ehhhhh...no.]
+- **7597**: Now choose a theme for your maze. (0-64)
+- **7598**: You really want theme number $0? [Damn straight./Changed my mind.]
 
 ## Events
 
@@ -105,7 +105,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 1073741824*
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7592*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
     → "One spiffy Maze Tabula for you, comin' right up! So do ya wants an original or a copy? (Original=0, Copy=1)"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x06] Work_Zone[2] = 0
@@ -121,7 +121,7 @@ SUBROUTINE_002B:
  11: 0x002E [0x01] GOTO 0x0006
 
 SUBROUTINE_0031:
- 12: 0x0031 [0x24] CREATE_DIALOG(message_id=7593*, default_option=1*, option_flags=0*)
+ 12: 0x0031 [0x24] CREATE_DIALOG(message_id=7594*, default_option=1*, option_flags=0*)
     → "So ya wants [an original/a copy], right? [That's what I said./No, you idiot.]"
  13: 0x0038 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0039 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004C
@@ -131,7 +131,7 @@ SUBROUTINE_0031:
  18: 0x004C [0x01] GOTO 0x0006
 
 SUBROUTINE_004F:
- 19: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+ 19: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Enter the pattern number for your desired tabula. (0-31)"
  20: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0053 [0x06] Work_Zone[2] = 0
@@ -147,7 +147,7 @@ SUBROUTINE_0074:
  29: 0x0077 [0x01] GOTO 0x004F
 
 SUBROUTINE_007A:
- 30: 0x007A [0x24] CREATE_DIALOG(message_id=7595*, default_option=1*, option_flags=0*)
+ 30: 0x007A [0x24] CREATE_DIALOG(message_id=7596*, default_option=1*, option_flags=0*)
     → "So you want pattern number $0? [You betcha./Ehhhhh...no.]"
  31: 0x0081 [0x25] WAIT_DIALOG_SELECT()
  32: 0x0082 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0095
@@ -157,7 +157,7 @@ SUBROUTINE_007A:
  36: 0x0095 [0x01] GOTO 0x004F
 
 SUBROUTINE_0098:
- 37: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
+ 37: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
     → "Now choose a theme for your maze. (0-64)"
  38: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x009C [0x06] Work_Zone[2] = 0
@@ -173,7 +173,7 @@ SUBROUTINE_00BD:
  47: 0x00C0 [0x01] GOTO 0x0098
 
 SUBROUTINE_00C3:
- 48: 0x00C3 [0x24] CREATE_DIALOG(message_id=7597*, default_option=1*, option_flags=0*)
+ 48: 0x00C3 [0x24] CREATE_DIALOG(message_id=7598*, default_option=1*, option_flags=0*)
     → "You really want theme number $0? [Damn straight./Changed my mind.]"
  49: 0x00CA [0x25] WAIT_DIALOG_SELECT()
  50: 0x00CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DE

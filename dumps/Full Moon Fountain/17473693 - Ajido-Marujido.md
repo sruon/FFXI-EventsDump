@@ -104,11 +104,11 @@
 |      22 | 0xFFFC0676  |  4294706806 |
 |      23 | 0xFFFB3CB2  |  4294655154 |
 |      24 | 0x11BA      |        4538 |
-|      25 | 0x1C3B      |        7227 |
-|      26 | 0x1C3D      |        7229 |
-|      27 | 0x1C3E      |        7230 |
-|      28 | 0x1C3F      |        7231 |
-|      29 | 0x1C42      |        7234 |
+|      25 | 0x1C3C      |        7228 |
+|      26 | 0x1C3E      |        7230 |
+|      27 | 0x1C3F      |        7231 |
+|      28 | 0x1C40      |        7232 |
+|      29 | 0x1C43      |        7235 |
 |      30 | 0xFFFF16F4  |  4294907636 |
 |      31 | 0x01FA      |         506 |
 |      32 | 0x2E9A      |       11930 |
@@ -149,11 +149,11 @@
 
 ## String References
 
-- **7227**: It can't be...! This is...
-- **7229**: Ordinarily, Full Moon Fountain is brimming with celestial radiance, but with the loss of that light...
-- **7230**: ...This must be what the Yagudo king was talking aboutaru!
-- **7231**: But wait... If that were true... When the summoner tried to call the great avatar twenty years ago...
-- **7234**: Blastaru! They've found me!
+- **7228**: It can't be...! This is...
+- **7230**: Ordinarily, Full Moon Fountain is brimming with celestial radiance, but with the loss of that light...
+- **7231**: ...This must be what the Yagudo king was talking aboutaru!
+- **7232**: But wait... If that were true... When the summoner tried to call the great avatar twenty years ago...
+- **7235**: Blastaru! They've found me!
 
 ## Events
 
@@ -1116,7 +1116,7 @@
 #### Opcodes
 
 ```
-  0: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7227*)
+  0: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7228*)
     → "It can't be...! This is..."
   1: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0225 [0x00] END_REQSTACK()
@@ -1141,7 +1141,7 @@
 #### Opcodes
 
 ```
-  0: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
+  0: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
     → "Ordinarily, Full Moon Fountain is brimming with celestial radiance, but with the loss of that light..."
   1: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x022A [0x00] END_REQSTACK()
@@ -1166,7 +1166,7 @@
 #### Opcodes
 
 ```
-  0: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
+  0: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
     → "...This must be what the Yagudo king was talking aboutaru!"
   1: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x022F [0x00] END_REQSTACK()
@@ -1191,7 +1191,7 @@
 #### Opcodes
 
 ```
-  0: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
+  0: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
     → "But wait... If that were true... When the summoner tried to call the great avatar twenty years ago..."
   1: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0234 [0x00] END_REQSTACK()
@@ -1216,7 +1216,7 @@
 #### Opcodes
 
 ```
-  0: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
+  0: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
     → "Blastaru! They've found me!"
   1: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0239 [0x00] END_REQSTACK()

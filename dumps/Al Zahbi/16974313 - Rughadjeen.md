@@ -32,32 +32,32 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1E09      |        7689 |
+|       1 | 0x1E0A      |        7690 |
 |       2 | 0x012C      |         300 |
 |       3 | 0x042B      |        1067 |
-|       4 | 0x1E0A      |        7690 |
+|       4 | 0x1E0B      |        7691 |
 |       5 | 0x0024      |          36 |
-|       6 | 0x1E0B      |        7691 |
+|       6 | 0x1E0C      |        7692 |
 |       7 | 0x001E      |          30 |
 |       8 | 0x001A      |          26 |
-|       9 | 0x1E0C      |        7692 |
-|      10 | 0x1E0D      |        7693 |
+|       9 | 0x1E0D      |        7693 |
+|      10 | 0x1E0E      |        7694 |
 |      11 | 0xFFFEDC98  |  4294892696 |
 |      12 | 0x131C7     |       78279 |
 |      13 | 0xFFFFE890  |  4294961296 |
 |      14 | 0x0C0E      |        3086 |
-|      15 | 0x1E0E      |        7694 |
-|      16 | 0x1E0F      |        7695 |
+|      15 | 0x1E0F      |        7695 |
+|      16 | 0x1E10      |        7696 |
 
 ## String References
 
-- **7689**: Her Magnificence the Empress is safely shielded now, and it is all thanks to your efforts. You have the makings of a hero.
-- **7690**: The mercenaries and the Imperial Army shall fight and perish as one to shield the Empress from harm!
-- **7691**: May Her Magnificence reign a thousand years!
-- **7692**: My presence was all for naught... My failure to protect the Astral Candescence is a transgression worthy of a thousand deaths...
-- **7693**: Hear my plea... You mercenaries may be all that I can trust. Recover the Astral Candescence and bring it safely back to Al Zahbi...I implore you!
-- **7694**: Ah, [/Private Second Class /Private First Class /Superior Private /Lance Corporal /Corporal /Sergeant /Sergeant Major /Chief Sergeant /Second Lieutenant /First Lieutenant /Captain ]<Player>! It is reassuring indeed to have such a mighty ally to aid in the defense of Al Zahbi.
-- **7695**: I am honored to fight at your side in the name of Her Magnificence!
+- **7690**: Her Magnificence the Empress is safely shielded now, and it is all thanks to your efforts. You have the makings of a hero.
+- **7691**: The mercenaries and the Imperial Army shall fight and perish as one to shield the Empress from harm!
+- **7692**: May Her Magnificence reign a thousand years!
+- **7693**: My presence was all for naught... My failure to protect the Astral Candescence is a transgression worthy of a thousand deaths...
+- **7694**: Hear my plea... You mercenaries may be all that I can trust. Recover the Astral Candescence and bring it safely back to Al Zahbi...I implore you!
+- **7695**: Ah, [/Private Second Class /Private First Class /Superior Private /Lance Corporal /Corporal /Sergeant /Sergeant Major /Chief Sergeant /Second Lieutenant /First Lieutenant /Captain ]<Player>! It is reassuring indeed to have such a mighty ally to aid in the defense of Al Zahbi.
+- **7696**: I am honored to fight at your side in the name of Her Magnificence!
 
 ## Events
 
@@ -263,7 +263,7 @@
   7: 0x0061 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0062 [0x6E] Rughadjeen (ID: 16974313/0x010301E9) uses emote 1*
   9: 0x0069 [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
- 10: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+ 10: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
     → "Her Magnificence the Empress is safely shielded now, and it is all thanks to your efforts. You have the makings of a hero."
  11: 0x0071 [0x1C] WAIT(300* ticks)
  12: 0x0074 [0x21] END_EVENT
@@ -320,12 +320,12 @@
   1: 0x0085 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x008A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x008B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
+  4: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
     → "The mercenaries and the Imperial Army shall fight and perish as one to shield the Empress from harm!"
   5: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0090 [0x6E] Rughadjeen (ID: 16974313/0x010301E9) uses emote 36*
   7: 0x0097 [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
-  8: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
+  8: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
     → "May Her Magnificence reign a thousand years!"
   9: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00A0 [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
@@ -363,14 +363,14 @@
   3: 0x00B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00B3 [0x6E] Rughadjeen (ID: 16974313/0x010301E9) uses emote 26*
   5: 0x00BA [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
-  6: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
+  6: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
     → "My presence was all for naught... My failure to protect the Astral Candescence is a transgression worthy of a thousand deaths..."
   7: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C3 [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
   9: 0x00C8 [0x1C] WAIT(30* ticks)
  10: 0x00CB [0x6E] Rughadjeen (ID: 16974313/0x010301E9) uses emote 36*
  11: 0x00D2 [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
- 12: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
+ 12: 0x00D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
     → "Hear my plea... You mercenaries may be all that I can trust. Recover the Astral Candescence and bring it safely back to Al Zahbi...I implore you!"
  13: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00DB [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
@@ -428,12 +428,12 @@
   1: 0x00F1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+  4: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "Ah, [/Private Second Class /Private First Class /Superior Private /Lance Corporal /Corporal /Sergeant /Sergeant Major /Chief Sergeant /Second Lieutenant /First Lieutenant /Captain ]<Player>! It is reassuring indeed to have such a mighty ally to aid in the defense of Al Zahbi."
   5: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00FC [0x6E] Rughadjeen (ID: 16974313/0x010301E9) uses emote 36*
   7: 0x0103 [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete
-  8: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
+  8: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
     → "I am honored to fight at your side in the name of Her Magnificence!"
   9: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x010C [0x99] Wait for Rughadjeen (ID: 16974313/0x010301E9) animation to complete

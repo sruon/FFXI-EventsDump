@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EF3      |        7923 |
-|       3 | 0x1EF4      |        7924 |
+|       2 | 0x1EF4      |        7924 |
+|       3 | 0x1EF5      |        7925 |
 
 ## String References
 
-- **7923**: Have you ever heard-weard about the great summoner, Karaha-Baruha, who saved Windurst twenty years back?
-- **7924**: See the empty house on the hill here? That's the manor where the genius-wenius was supposed to live after he retired as Minister of the Optistery. The town's children think it's haunted-waunted and call it the "ghosty house."
+- **7924**: Have you ever heard-weard about the great summoner, Karaha-Baruha, who saved Windurst twenty years back?
+- **7925**: See the empty house on the hill here? That's the manor where the genius-wenius was supposed to live after he retired as Minister of the Optistery. The town's children think it's haunted-waunted and call it the "ghosty house."
 
 ## Events
 
@@ -154,10 +154,10 @@
   1: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0028 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Gerun-Garun (ID: 17756234/0x010EF04A), tag_num=0x01)
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "Have you ever heard-weard about the great summoner, Karaha-Baruha, who saved Windurst twenty years back?"
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
+  6: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
     → "See the empty house on the hill here? That's the manor where the genius-wenius was supposed to live after he retired as Minister of the Optistery. The town's children think it's haunted-waunted and call it the "ghosty house.""
   7: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0037 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Gerun-Garun (ID: 17756234/0x010EF04A), tag_num=0x02)

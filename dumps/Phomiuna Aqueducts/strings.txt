@@ -1,5 +1,5 @@
 # Strings for Phomiuna Aqueducts
-# Total: 7453 strings
+# Total: 7454 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,231 +7226,232 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Climb up the ladder? [Yes./No.]
- 7228: Climb down the ladder? [Yes./No.]
- 7229: You cannot reach the ladder from here.
- 7230: The door above you is sealed shut.
- 7231: The door is firmly shut.
- 7232: The door is locked. You might be able to open it with $0.
- 7233: The door is locked. You might be able to open it with $0 or $1.
- 7234: The $0 breaks!
- 7235: You cannot trade right now.
- 7236: <Player> successfully opened the lock with the $0!
- 7237: <Player> failed to open the lock with the $0...
- 7238: A symbol for fire is engraved on the base of the lamp...
- 7239: A symbol for earth is engraved on the base of the lamp...
- 7240: A symbol for water is engraved on the base of the lamp...
- 7241: A symbol for wind is engraved on the base of the lamp...
- 7242: A symbol for ice is engraved on the base of the lamp...
- 7243: A symbol for thunder is engraved on the base of the lamp...
- 7244: A symbol for light is engraved on the base of the lamp...
- 7245: A symbol for darkness is engraved on the base of the lamp...
- 7246: A symbol has been engraved on the base of the lamp but it is too faded to see clearly...
- 7247: A rolled-up piece of parchment is inside the jar.
- 7248: Unfurl the parchment? [Yes./No.]
- 7249: The parchment is an elemental correlation chart. Perhaps it has something to do with this facility...?
- 7250: There is nothing out of the ordinary here.
- 7251: You can't fish here.
- 7252: You can't fish without a rod in your hands.
- 7253: You can't fish without bait on the hook.
- 7254: You can't fish at the moment.
- 7255: You didn't catch anything.
- 7256: %0 caught a monster!
- 7257: Your line breaks.
- 7258: Your rod breaks.
- 7259: Something caught the hook!
- 7260: You lost your catch.
- 7261: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7262: You feel there's something here.
- 7263: You feel there's something nearby.
- 7264: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7265: %0 caught $1 $0 !
- 7266: You dig and you dig, but find nothing.
- 7267: $0/$0p$3Z$3b$3g
- 7268: Your rod breaks. Whatever caught the hook was pretty big.
- 7269: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7270: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7271: You lost your catch due to your lack of skill.
- 7272: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7273: You didn't catch anything.
- 7274: The paper on your $0 ripped.
- 7275: A tiny goldfish approaches!
- 7276: A plump, black goldfish approaches!
- 7277: A fat, juicy goldfish approaches!
- 7278: There are no goldfish to be found...
- 7279: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7280: The goldfish slipped off your scoop...
- 7281: ch$0 skill up check.
- 7282: a:$0.
- 7283: Time $0 / Status $1 / $2
- 7284: d:$0. e:$1. f:$2. g:$3.
- 7285: h: $1. i: $0. sr: $2.
- 7286: j:$0. k:$1.
- 7287: You give up and reel in your line.
- 7288: You give up.
- 7289: %0 obtains $1 gil.
- 7290: %0 caught $0!
- 7291: You don't know how much longer you can keep this one on the line...
- 7292: You have a good feeling about this one!
- 7293: You have a bad feeling about this one.
- 7294: You have a terrible feeling about this one...
- 7295: You don't know if you have enough skill to reel this one in.
- 7296: You're fairly sure you don't have enough skill to reel this one in.
- 7297: You're positive you don't have enough skill to reel this one in!
- 7298: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7299: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7300: l: $0. m: $1. n: $2. CH: $3.
- 7301: Something caught the hook!!!
- 7302: You feel something pulling at your line.
- 7303: Something clamps onto your line ferociously!
- 7304: Your keen angler's senses tell you that this is the pull of $0!
- 7305: This strength... You get the sense that you are on the verge of an epic catch!
- 7306: The timer has started. $0 seconds remaining.
- 7307: $0sec.$1/$2sec.
- 7308: 0:$0 1:$1 2:$2 3:$3
- 7309: 4:$0 5:$1 6:$2 7:$3
- 7310: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7311: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7312: $0/$1($2j
- 7313: Version invalid error!
- 7314: Hurry before the goldfish sees you!
- 7315: %0 fishes up a large box!
- 7316: $23$o$P122$8$0
- 7317: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7318: PointF$0 >>> $1
- 7319: [$1($0)/skillF$1]
- 7320: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7321: Im Rnd : $0 Pz Rnd : $1
- 7322: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7323: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7324: skill : $0 size : $1 kind : $2 sch : $3
- 7325: time : $0 mes : $1 flag : $2 bonus : $3
- 7326: item : $0 hp : $1 pow : $2 swing : $3
- 7327: suc : $0 cons : $1 weight : $2 +- : $3
- 7328: speed : $0 +- : $1 exc : $2 client : $3
- 7329: general : $0
- 7330: ro:$0 rs:$1 ps:$2 dt:$3
- 7331: ra:$0 ti:$1
- 7332: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7333: You get the distinct sense that your moogle friend frequents this spot...
- 7334: You have a feeling that your moogle friend has been through this way...
- 7335: You suspect that the scenery around here would be to a moogle's liking...
- 7336: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7337: You have a hunch that this area would be favored by moogles...
- 7338: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7339: %0 catches $1 $0 !
- 7340: %0 obtained $6!
- 7341: It appears your chocobo found this item with ease.
- 7342: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7343: FPT $0 DPT $1 DoT$2
- 7344: FPT $0 TDPT $1 h$2
- 7345: You cannot fish at this time.
- 7346: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7347: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7348: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7349: You receive $0 bayld!
- 7350: Your chocobo refuses to partake of the $0.
- 7351: There is nothing out of the ordinary here.
- 7352: You can hear a strange voice... "Items, items, la la la la la`t"
- 7353: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7354: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7355: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7356: Now, listen close...
- 7357: Oh... Well, if that's the case, I'm outta here.
- 7358: The Goblin slipped away when you were not looking...
- 7359: You can hear a strange, raspy voice...
- 7360: I travel......hear lots... Hear...stories... Can tell...if...
- 7361: .........listen......
- 7362: Oh...... ...outta here.........
- 7363: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7364: What story would you like to be told? [On second thought, maybe later./Distant Beliefs(pt.1)./Distant Beliefs(pt.2)./X Marks the Spot./Knocking on Forbidden Doors.]
- 7365: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Climb up the ladder? [Yes./No.]
+ 7229: Climb down the ladder? [Yes./No.]
+ 7230: You cannot reach the ladder from here.
+ 7231: The door above you is sealed shut.
+ 7232: The door is firmly shut.
+ 7233: The door is locked. You might be able to open it with $0.
+ 7234: The door is locked. You might be able to open it with $0 or $1.
+ 7235: The $0 breaks!
+ 7236: You cannot trade right now.
+ 7237: <Player> successfully opened the lock with the $0!
+ 7238: <Player> failed to open the lock with the $0...
+ 7239: A symbol for fire is engraved on the base of the lamp...
+ 7240: A symbol for earth is engraved on the base of the lamp...
+ 7241: A symbol for water is engraved on the base of the lamp...
+ 7242: A symbol for wind is engraved on the base of the lamp...
+ 7243: A symbol for ice is engraved on the base of the lamp...
+ 7244: A symbol for thunder is engraved on the base of the lamp...
+ 7245: A symbol for light is engraved on the base of the lamp...
+ 7246: A symbol for darkness is engraved on the base of the lamp...
+ 7247: A symbol has been engraved on the base of the lamp but it is too faded to see clearly...
+ 7248: A rolled-up piece of parchment is inside the jar.
+ 7249: Unfurl the parchment? [Yes./No.]
+ 7250: The parchment is an elemental correlation chart. Perhaps it has something to do with this facility...?
+ 7251: There is nothing out of the ordinary here.
+ 7252: You can't fish here.
+ 7253: You can't fish without a rod in your hands.
+ 7254: You can't fish without bait on the hook.
+ 7255: You can't fish at the moment.
+ 7256: You didn't catch anything.
+ 7257: %0 caught a monster!
+ 7258: Your line breaks.
+ 7259: Your rod breaks.
+ 7260: Something caught the hook!
+ 7261: You lost your catch.
+ 7262: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7263: You feel there's something here.
+ 7264: You feel there's something nearby.
+ 7265: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7266: %0 caught $1 $0 !
+ 7267: You dig and you dig, but find nothing.
+ 7268: $0/$0p$3Z$3b$3g
+ 7269: Your rod breaks. Whatever caught the hook was pretty big.
+ 7270: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7271: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7272: You lost your catch due to your lack of skill.
+ 7273: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7274: You didn't catch anything.
+ 7275: The paper on your $0 ripped.
+ 7276: A tiny goldfish approaches!
+ 7277: A plump, black goldfish approaches!
+ 7278: A fat, juicy goldfish approaches!
+ 7279: There are no goldfish to be found...
+ 7280: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7281: The goldfish slipped off your scoop...
+ 7282: ch$0 skill up check.
+ 7283: a:$0.
+ 7284: Time $0 / Status $1 / $2
+ 7285: d:$0. e:$1. f:$2. g:$3.
+ 7286: h: $1. i: $0. sr: $2.
+ 7287: j:$0. k:$1.
+ 7288: You give up and reel in your line.
+ 7289: You give up.
+ 7290: %0 obtains $1 gil.
+ 7291: %0 caught $0!
+ 7292: You don't know how much longer you can keep this one on the line...
+ 7293: You have a good feeling about this one!
+ 7294: You have a bad feeling about this one.
+ 7295: You have a terrible feeling about this one...
+ 7296: You don't know if you have enough skill to reel this one in.
+ 7297: You're fairly sure you don't have enough skill to reel this one in.
+ 7298: You're positive you don't have enough skill to reel this one in!
+ 7299: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7300: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7301: l: $0. m: $1. n: $2. CH: $3.
+ 7302: Something caught the hook!!!
+ 7303: You feel something pulling at your line.
+ 7304: Something clamps onto your line ferociously!
+ 7305: Your keen angler's senses tell you that this is the pull of $0!
+ 7306: This strength... You get the sense that you are on the verge of an epic catch!
+ 7307: The timer has started. $0 seconds remaining.
+ 7308: $0sec.$1/$2sec.
+ 7309: 0:$0 1:$1 2:$2 3:$3
+ 7310: 4:$0 5:$1 6:$2 7:$3
+ 7311: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7312: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7313: $0/$1($2j
+ 7314: Version invalid error!
+ 7315: Hurry before the goldfish sees you!
+ 7316: %0 fishes up a large box!
+ 7317: $23$o$P122$8$0
+ 7318: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7319: PointF$0 >>> $1
+ 7320: [$1($0)/skillF$1]
+ 7321: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7322: Im Rnd : $0 Pz Rnd : $1
+ 7323: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7324: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7325: skill : $0 size : $1 kind : $2 sch : $3
+ 7326: time : $0 mes : $1 flag : $2 bonus : $3
+ 7327: item : $0 hp : $1 pow : $2 swing : $3
+ 7328: suc : $0 cons : $1 weight : $2 +- : $3
+ 7329: speed : $0 +- : $1 exc : $2 client : $3
+ 7330: general : $0
+ 7331: ro:$0 rs:$1 ps:$2 dt:$3
+ 7332: ra:$0 ti:$1
+ 7333: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7334: You get the distinct sense that your moogle friend frequents this spot...
+ 7335: You have a feeling that your moogle friend has been through this way...
+ 7336: You suspect that the scenery around here would be to a moogle's liking...
+ 7337: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7338: You have a hunch that this area would be favored by moogles...
+ 7339: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7340: %0 catches $1 $0 !
+ 7341: %0 obtained $6!
+ 7342: It appears your chocobo found this item with ease.
+ 7343: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7344: FPT $0 DPT $1 DoT$2
+ 7345: FPT $0 TDPT $1 h$2
+ 7346: You cannot fish at this time.
+ 7347: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7348: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7349: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7350: You receive $0 bayld!
+ 7351: Your chocobo refuses to partake of the $0.
+ 7352: There is nothing out of the ordinary here.
+ 7353: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7354: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7355: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7356: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7357: Now, listen close...
+ 7358: Oh... Well, if that's the case, I'm outta here.
+ 7359: The Goblin slipped away when you were not looking...
+ 7360: You can hear a strange, raspy voice...
+ 7361: I travel......hear lots... Hear...stories... Can tell...if...
+ 7362: .........listen......
+ 7363: Oh...... ...outta here.........
+ 7364: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7365: What story would you like to be told? [On second thought, maybe later./Distant Beliefs(pt.1)./Distant Beliefs(pt.2)./X Marks the Spot./Knocking on Forbidden Doors.]
  7366: 
  7367: 
- 7368: Oh, it's you. Have you finished your task?
- 7369: Have you finished? [It is done./Not yet.]
- 7370: A much easier battle than you expected, yes?
- 7371: Fortunately for you, I had cast an additional seal upon the creature.
- 7372: However, that task was merely a secondary objective. If my information is correct, our goal lies beyond this point...
- 7373: I see. I did not expect such incompetence.
- 7374: Even after I had cast an additional seal upon the creature...
- 7375: No matter. That was merely a secondary objective. If my information is correct, our goal lies beyond this point...
- 7376: So this is the precious vessel...
- 7377: But what is such an important object doing in a place like this?
- 7378: In any case, it should prove to be a valuable asset.
- 7379: My only problem is that the circumstances have changed this time.
- 7380: What is this? You came here looking for me?
- 7381: Very well. Let us return to the safehold...
- 7382: This chamber...
- 7383: Who are you supposed to be?
- 7384: I am a Mithran sin hunter. I have been authorrrized to sink my fangs into anyone dumb enough to get in the way of my duty.
- 7385: After hearing the news that a town of Tavnazian survivorrrs had been discovered, I was ordered to hike my tail over herrre.
- 7386: I thought that Cardinal Mildaurion might have holed up in one of these rooms...
- 7387: Looks like my instincts were on holiday this time, huh?
- 7388: But then I found this weapon case...
- 7389: You're the adventurrrer who was with Prishe.
- 7390: Maybe you rrremember me? I am a Mithran sin hunter.
- 7391: My orders come from beyond the southern seas, dirrrectly from the Mithran homeland.
- 7392: My orrriginal task was to see if Cardinal Mildaurion was holed up somewhere in the Tavnazian Safehold...
- 7393: But things have changed. Without letting on to Prishe or Ulmia, I started investigating the mysteries connected to the cathedral.
- 7394: Mysteries like this weapon case...
- 7395: It's empty. What could they have been hiding in herrre, I wonder.
- 7396: Frrrom the size of it, I'm guessing...a greatsword?
- 7397: I don't suppose you've got any hints for me?
- 7398: Whatever it was, it looks like it was rrremoved a long time ago. Maybe in the time of the war?
- 7399: Hmmm, there're no other clues lying arrround... Guess I'll have to give up for the moment, and go see what other stories Odeya has floating around in that old head of herrrs.
- 7400: The minotaur sees you and bears its blood-soaked fangs.
- 7401: Well, well, well, what have we here? Long has it been since I had any visitors...of this world.
- 7402: Are y-you the great n-necromancer of whom the people whisper?
- 7403: None other. My name is Fardimant X Boncourge, heir to the House of Boncourge, or what remains of it...
- 7404: Ho ho...? I sense a hint of familiarity between you and me, Sir...
- 7405: Enaremand. Wh-what exactly do you m-m-m-mean...?
- 7406: Sir Enaremand. Yes... There is an air about you that does not quite fit in this plane of existence...
- 7407: But that is of no matter.
- 7408: May I inquire what has brought you to my stygian abode?
- 7409: I... Well... Eh......
- 7410: I see...
- 7411: The feelings you harbor for your fianc<Player>ie are so great, that you wish to perform an act that will ultimately commit your soul into the depths of the underworld. For a moment of happiness, you are willing to condemn yourself to an eternity of damnation.
- 7412: Hmph... Little do I know of these emotions that drive your heart to the brink of insanity, but little do I care.
- 7413: I shall help you, but only because the darkness that dwells inside me resonates with the beast that has a grip on your feeble mind.
- 7414: I... You... B-but... Oh, thank you!
- 7415: Remember, I cannot guarantee that the result of our undertakings shall match the outcome you envision.
- 7416: But there is nothing you need to worry of...yet.
- 7417: What I need of you now, is the procurement of an item necessary for the ceremony of rebirth.
- 7418: There is a certain type of reed that grows near the rivers and swamps of Tavnazia. When certain natural conditions are met, this reed decays into a hard substance that resembles a type of incense. Though quite rare, without one of these reeds, I will be unable to call forth the essence of your loved one's being.
- 7419: And again, I must warn you that nothing is certain when dealing with souls that have once crossed over into the nethers.
- 7420: You must be prepared to compensate for your actions.
- 7421: Though ultimately you will end up paying more than you receive. But you already know this, do you not?
- 7422: When you have obtained the item, travel to the base of the Cascade Edellaine.
- 7423: I shall be waiting for you there.
- 7424: R-reeds? R-rivers? S-swamps? That sounds like Lufa...no, Misareaux. Yes, Misareaux...
- 7425: I will return to the s-safehold and prepare for the ceremony.
- 7426: When you find the reed, t-take it directly to the waterfall... Yes, g-go there at once. I will m-m-m-meet you beneath it.
- 7427: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7428: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7429: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7430: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7431: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 7432: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 7433: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 7434: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7435: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 7436: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 7437: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 7438: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 7439: You do not have enough tabs.
- 7440: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 7441: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 7442: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 7443: Accept the reward? [Yes, please./No, thanks.]
- 7444: You may change the way you select areas listed in "Teleportation Assistance."
- 7445: Any changes to make? [Keep course./Select by region./Select by content.]
- 7446: Area selection will now be made by [region/content].
- 7447: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 7448: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7449: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 7450: $8 has been [added to your list of favorites/removed from your list of favorites].
- 7451: Your list of favorites is full. You must remove an existing entry to add new ones.
- 7452: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 7368: 
+ 7369: Oh, it's you. Have you finished your task?
+ 7370: Have you finished? [It is done./Not yet.]
+ 7371: A much easier battle than you expected, yes?
+ 7372: Fortunately for you, I had cast an additional seal upon the creature.
+ 7373: However, that task was merely a secondary objective. If my information is correct, our goal lies beyond this point...
+ 7374: I see. I did not expect such incompetence.
+ 7375: Even after I had cast an additional seal upon the creature...
+ 7376: No matter. That was merely a secondary objective. If my information is correct, our goal lies beyond this point...
+ 7377: So this is the precious vessel...
+ 7378: But what is such an important object doing in a place like this?
+ 7379: In any case, it should prove to be a valuable asset.
+ 7380: My only problem is that the circumstances have changed this time.
+ 7381: What is this? You came here looking for me?
+ 7382: Very well. Let us return to the safehold...
+ 7383: This chamber...
+ 7384: Who are you supposed to be?
+ 7385: I am a Mithran sin hunter. I have been authorrrized to sink my fangs into anyone dumb enough to get in the way of my duty.
+ 7386: After hearing the news that a town of Tavnazian survivorrrs had been discovered, I was ordered to hike my tail over herrre.
+ 7387: I thought that Cardinal Mildaurion might have holed up in one of these rooms...
+ 7388: Looks like my instincts were on holiday this time, huh?
+ 7389: But then I found this weapon case...
+ 7390: You're the adventurrrer who was with Prishe.
+ 7391: Maybe you rrremember me? I am a Mithran sin hunter.
+ 7392: My orders come from beyond the southern seas, dirrrectly from the Mithran homeland.
+ 7393: My orrriginal task was to see if Cardinal Mildaurion was holed up somewhere in the Tavnazian Safehold...
+ 7394: But things have changed. Without letting on to Prishe or Ulmia, I started investigating the mysteries connected to the cathedral.
+ 7395: Mysteries like this weapon case...
+ 7396: It's empty. What could they have been hiding in herrre, I wonder.
+ 7397: Frrrom the size of it, I'm guessing...a greatsword?
+ 7398: I don't suppose you've got any hints for me?
+ 7399: Whatever it was, it looks like it was rrremoved a long time ago. Maybe in the time of the war?
+ 7400: Hmmm, there're no other clues lying arrround... Guess I'll have to give up for the moment, and go see what other stories Odeya has floating around in that old head of herrrs.
+ 7401: The minotaur sees you and bears its blood-soaked fangs.
+ 7402: Well, well, well, what have we here? Long has it been since I had any visitors...of this world.
+ 7403: Are y-you the great n-necromancer of whom the people whisper?
+ 7404: None other. My name is Fardimant X Boncourge, heir to the House of Boncourge, or what remains of it...
+ 7405: Ho ho...? I sense a hint of familiarity between you and me, Sir...
+ 7406: Enaremand. Wh-what exactly do you m-m-m-mean...?
+ 7407: Sir Enaremand. Yes... There is an air about you that does not quite fit in this plane of existence...
+ 7408: But that is of no matter.
+ 7409: May I inquire what has brought you to my stygian abode?
+ 7410: I... Well... Eh......
+ 7411: I see...
+ 7412: The feelings you harbor for your fianc<Player>ie are so great, that you wish to perform an act that will ultimately commit your soul into the depths of the underworld. For a moment of happiness, you are willing to condemn yourself to an eternity of damnation.
+ 7413: Hmph... Little do I know of these emotions that drive your heart to the brink of insanity, but little do I care.
+ 7414: I shall help you, but only because the darkness that dwells inside me resonates with the beast that has a grip on your feeble mind.
+ 7415: I... You... B-but... Oh, thank you!
+ 7416: Remember, I cannot guarantee that the result of our undertakings shall match the outcome you envision.
+ 7417: But there is nothing you need to worry of...yet.
+ 7418: What I need of you now, is the procurement of an item necessary for the ceremony of rebirth.
+ 7419: There is a certain type of reed that grows near the rivers and swamps of Tavnazia. When certain natural conditions are met, this reed decays into a hard substance that resembles a type of incense. Though quite rare, without one of these reeds, I will be unable to call forth the essence of your loved one's being.
+ 7420: And again, I must warn you that nothing is certain when dealing with souls that have once crossed over into the nethers.
+ 7421: You must be prepared to compensate for your actions.
+ 7422: Though ultimately you will end up paying more than you receive. But you already know this, do you not?
+ 7423: When you have obtained the item, travel to the base of the Cascade Edellaine.
+ 7424: I shall be waiting for you there.
+ 7425: R-reeds? R-rivers? S-swamps? That sounds like Lufa...no, Misareaux. Yes, Misareaux...
+ 7426: I will return to the s-safehold and prepare for the ceremony.
+ 7427: When you find the reed, t-take it directly to the waterfall... Yes, g-go there at once. I will m-m-m-meet you beneath it.
+ 7428: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7429: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7430: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7431: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7432: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 7433: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 7434: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 7435: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7436: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 7437: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 7438: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 7439: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 7440: You do not have enough tabs.
+ 7441: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 7442: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 7443: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 7444: Accept the reward? [Yes, please./No, thanks.]
+ 7445: You may change the way you select areas listed in "Teleportation Assistance."
+ 7446: Any changes to make? [Keep course./Select by region./Select by content.]
+ 7447: Area selection will now be made by [region/content].
+ 7448: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 7449: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7450: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 7451: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 7452: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 7453: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

@@ -67,28 +67,28 @@
 |      27 | 0x0200      |         512 |
 |      28 | 0x0078      |         120 |
 |      29 | 0x00B4      |         180 |
-|      30 | 0x1E53      |        7763 |
-|      31 | 0x1E54      |        7764 |
+|      30 | 0x1E54      |        7764 |
+|      31 | 0x1E55      |        7765 |
 |      32 | 0x002D      |          45 |
-|      33 | 0x1E55      |        7765 |
-|      34 | 0x1E56      |        7766 |
-|      35 | 0x1E57      |        7767 |
-|      36 | 0x1E58      |        7768 |
-|      37 | 0x1E59      |        7769 |
-|      38 | 0x1E5A      |        7770 |
-|      39 | 0x1E5B      |        7771 |
-|      40 | 0x1E5C      |        7772 |
-|      41 | 0x1E5D      |        7773 |
-|      42 | 0x1E5E      |        7774 |
-|      43 | 0x1E5F      |        7775 |
-|      44 | 0x1E60      |        7776 |
-|      45 | 0x1E61      |        7777 |
+|      33 | 0x1E56      |        7766 |
+|      34 | 0x1E57      |        7767 |
+|      35 | 0x1E58      |        7768 |
+|      36 | 0x1E59      |        7769 |
+|      37 | 0x1E5A      |        7770 |
+|      38 | 0x1E5B      |        7771 |
+|      39 | 0x1E5C      |        7772 |
+|      40 | 0x1E5D      |        7773 |
+|      41 | 0x1E5E      |        7774 |
+|      42 | 0x1E5F      |        7775 |
+|      43 | 0x1E60      |        7776 |
+|      44 | 0x1E61      |        7777 |
+|      45 | 0x1E62      |        7778 |
 |      46 | 0x2330      |        9008 |
-|      47 | 0x1E62      |        7778 |
+|      47 | 0x1E63      |        7779 |
 |      48 | 0x0016      |          22 |
 |      49 | 0x0096      |         150 |
-|      50 | 0x1E63      |        7779 |
-|      51 | 0x1E64      |        7780 |
+|      50 | 0x1E64      |        7780 |
+|      51 | 0x1E65      |        7781 |
 |      52 | 0x03E7      |         999 |
 |      53 | 0x0048      |          72 |
 |      54 | 0x0001      |           1 |
@@ -99,201 +99,201 @@
 |      59 | 0xFFFF1953  |  4294908243 |
 |      60 | 0xFFFF572B  |  4294924075 |
 |      61 | 0x00C6      |         198 |
-|      62 | 0x1E67      |        7783 |
-|      63 | 0x1E68      |        7784 |
-|      64 | 0x1E69      |        7785 |
-|      65 | 0x1E6A      |        7786 |
-|      66 | 0x1E6B      |        7787 |
-|      67 | 0x1E6C      |        7788 |
+|      62 | 0x1E68      |        7784 |
+|      63 | 0x1E69      |        7785 |
+|      64 | 0x1E6A      |        7786 |
+|      65 | 0x1E6B      |        7787 |
+|      66 | 0x1E6C      |        7788 |
+|      67 | 0x1E6D      |        7789 |
 |      68 | 0x0002      |           2 |
 |      69 | 0x0A51      |        2641 |
-|      70 | 0x1E6D      |        7789 |
-|      71 | 0x1E6E      |        7790 |
-|      72 | 0x1E6F      |        7791 |
-|      73 | 0x1E70      |        7792 |
-|      74 | 0x1E71      |        7793 |
+|      70 | 0x1E6E      |        7790 |
+|      71 | 0x1E6F      |        7791 |
+|      72 | 0x1E70      |        7792 |
+|      73 | 0x1E71      |        7793 |
+|      74 | 0x1E72      |        7794 |
 |      75 | 0x005A      |          90 |
-|      76 | 0x1E72      |        7794 |
-|      77 | 0x1E73      |        7795 |
-|      78 | 0x1E74      |        7796 |
-|      79 | 0x1E75      |        7797 |
-|      80 | 0x1E7C      |        7804 |
-|      81 | 0x1E76      |        7798 |
-|      82 | 0x1E77      |        7799 |
-|      83 | 0x1E78      |        7800 |
-|      84 | 0x1E79      |        7801 |
-|      85 | 0x1E7A      |        7802 |
-|      86 | 0x1E7B      |        7803 |
-|      87 | 0x1E7D      |        7805 |
-|      88 | 0x1E7E      |        7806 |
-|      89 | 0x1E7F      |        7807 |
-|      90 | 0x1E80      |        7808 |
-|      91 | 0x1E81      |        7809 |
-|      92 | 0x1E82      |        7810 |
+|      76 | 0x1E73      |        7795 |
+|      77 | 0x1E74      |        7796 |
+|      78 | 0x1E75      |        7797 |
+|      79 | 0x1E76      |        7798 |
+|      80 | 0x1E7D      |        7805 |
+|      81 | 0x1E77      |        7799 |
+|      82 | 0x1E78      |        7800 |
+|      83 | 0x1E79      |        7801 |
+|      84 | 0x1E7A      |        7802 |
+|      85 | 0x1E7B      |        7803 |
+|      86 | 0x1E7C      |        7804 |
+|      87 | 0x1E7E      |        7806 |
+|      88 | 0x1E7F      |        7807 |
+|      89 | 0x1E80      |        7808 |
+|      90 | 0x1E81      |        7809 |
+|      91 | 0x1E82      |        7810 |
+|      92 | 0x1E83      |        7811 |
 |      93 | 0x0139      |         313 |
 |      94 | 0x0F0B      |        3851 |
 |      95 | 0x010E      |         270 |
-|      96 | 0x1E83      |        7811 |
-|      97 | 0x1E84      |        7812 |
-|      98 | 0x1E85      |        7813 |
-|      99 | 0x1E86      |        7814 |
-|     100 | 0x1E87      |        7815 |
-|     101 | 0x1E88      |        7816 |
-|     102 | 0x1E89      |        7817 |
-|     103 | 0x1E8A      |        7818 |
-|     104 | 0x1E8B      |        7819 |
+|      96 | 0x1E84      |        7812 |
+|      97 | 0x1E85      |        7813 |
+|      98 | 0x1E86      |        7814 |
+|      99 | 0x1E87      |        7815 |
+|     100 | 0x1E88      |        7816 |
+|     101 | 0x1E89      |        7817 |
+|     102 | 0x1E8A      |        7818 |
+|     103 | 0x1E8B      |        7819 |
+|     104 | 0x1E8C      |        7820 |
 |     105 | 0x00AA      |         170 |
-|     106 | 0x1E8C      |        7820 |
-|     107 | 0x1E8D      |        7821 |
-|     108 | 0x1E8E      |        7822 |
+|     106 | 0x1E8D      |        7821 |
+|     107 | 0x1E8E      |        7822 |
+|     108 | 0x1E8F      |        7823 |
 |     109 | 0x0015      |          21 |
-|     110 | 0x1E8F      |        7823 |
-|     111 | 0x1E90      |        7824 |
-|     112 | 0x1E91      |        7825 |
-|     113 | 0x1E92      |        7826 |
-|     114 | 0x1E93      |        7827 |
-|     115 | 0x1E94      |        7828 |
-|     116 | 0x1E95      |        7829 |
-|     117 | 0x1EA6      |        7846 |
-|     118 | 0x1EA7      |        7847 |
+|     110 | 0x1E90      |        7824 |
+|     111 | 0x1E91      |        7825 |
+|     112 | 0x1E92      |        7826 |
+|     113 | 0x1E93      |        7827 |
+|     114 | 0x1E94      |        7828 |
+|     115 | 0x1E95      |        7829 |
+|     116 | 0x1E96      |        7830 |
+|     117 | 0x1EA7      |        7847 |
+|     118 | 0x1EA8      |        7848 |
 |     119 | 0x0B07      |        2823 |
-|     120 | 0x1E96      |        7830 |
-|     121 | 0x1E97      |        7831 |
-|     122 | 0x1E98      |        7832 |
-|     123 | 0x1E99      |        7833 |
-|     124 | 0x1E9A      |        7834 |
-|     125 | 0x1E9B      |        7835 |
-|     126 | 0x1E9C      |        7836 |
-|     127 | 0x1E9D      |        7837 |
-|     128 | 0x1E9E      |        7838 |
-|     129 | 0x1E9F      |        7839 |
-|     130 | 0x1EA0      |        7840 |
-|     131 | 0x1EA1      |        7841 |
-|     132 | 0x1EA2      |        7842 |
-|     133 | 0x1EA3      |        7843 |
-|     134 | 0x1EA4      |        7844 |
-|     135 | 0x1EA5      |        7845 |
-|     136 | 0x1EA8      |        7848 |
-|     137 | 0x1EA9      |        7849 |
-|     138 | 0x1EAA      |        7850 |
-|     139 | 0x1EAB      |        7851 |
-|     140 | 0x1EAC      |        7852 |
-|     141 | 0x1EAD      |        7853 |
+|     120 | 0x1E97      |        7831 |
+|     121 | 0x1E98      |        7832 |
+|     122 | 0x1E99      |        7833 |
+|     123 | 0x1E9A      |        7834 |
+|     124 | 0x1E9B      |        7835 |
+|     125 | 0x1E9C      |        7836 |
+|     126 | 0x1E9D      |        7837 |
+|     127 | 0x1E9E      |        7838 |
+|     128 | 0x1E9F      |        7839 |
+|     129 | 0x1EA0      |        7840 |
+|     130 | 0x1EA1      |        7841 |
+|     131 | 0x1EA2      |        7842 |
+|     132 | 0x1EA3      |        7843 |
+|     133 | 0x1EA4      |        7844 |
+|     134 | 0x1EA5      |        7845 |
+|     135 | 0x1EA6      |        7846 |
+|     136 | 0x1EA9      |        7849 |
+|     137 | 0x1EAA      |        7850 |
+|     138 | 0x1EAB      |        7851 |
+|     139 | 0x1EAC      |        7852 |
+|     140 | 0x1EAD      |        7853 |
+|     141 | 0x1EAE      |        7854 |
 |     142 | 0x0005      |           5 |
-|     143 | 0x1EAE      |        7854 |
-|     144 | 0x1EAF      |        7855 |
-|     145 | 0x1EB0      |        7856 |
-|     146 | 0x1EB1      |        7857 |
-|     147 | 0x1EB2      |        7858 |
-|     148 | 0x1EB3      |        7859 |
-|     149 | 0x1EB4      |        7860 |
-|     150 | 0x1EB5      |        7861 |
+|     143 | 0x1EAF      |        7855 |
+|     144 | 0x1EB0      |        7856 |
+|     145 | 0x1EB1      |        7857 |
+|     146 | 0x1EB2      |        7858 |
+|     147 | 0x1EB3      |        7859 |
+|     148 | 0x1EB4      |        7860 |
+|     149 | 0x1EB5      |        7861 |
+|     150 | 0x1EB6      |        7862 |
 |     151 | 0x002C      |          44 |
-|     152 | 0x1EB6      |        7862 |
-|     153 | 0x1EB7      |        7863 |
-|     154 | 0x1EB8      |        7864 |
+|     152 | 0x1EB7      |        7863 |
+|     153 | 0x1EB8      |        7864 |
+|     154 | 0x1EB9      |        7865 |
 |     155 | 0x0090      |         144 |
-|     156 | 0x1EB9      |        7865 |
-|     157 | 0x1EBA      |        7866 |
-|     158 | 0x1EBB      |        7867 |
-|     159 | 0x1EBC      |        7868 |
-|     160 | 0x1EBD      |        7869 |
-|     161 | 0x1EBE      |        7870 |
-|     162 | 0x1EBF      |        7871 |
-|     163 | 0x1EC0      |        7872 |
-|     164 | 0x1EC1      |        7873 |
-|     165 | 0x1CC4      |        7364 |
-|     166 | 0x1EC2      |        7874 |
-|     167 | 0x1EC3      |        7875 |
-|     168 | 0x1EC4      |        7876 |
-|     169 | 0x1EC5      |        7877 |
-|     170 | 0x1EC6      |        7878 |
-|     171 | 0x1EC7      |        7879 |
-|     172 | 0x1EC8      |        7880 |
+|     156 | 0x1EBA      |        7866 |
+|     157 | 0x1EBB      |        7867 |
+|     158 | 0x1EBC      |        7868 |
+|     159 | 0x1EBD      |        7869 |
+|     160 | 0x1EBE      |        7870 |
+|     161 | 0x1EBF      |        7871 |
+|     162 | 0x1EC0      |        7872 |
+|     163 | 0x1EC1      |        7873 |
+|     164 | 0x1EC2      |        7874 |
+|     165 | 0x1CC5      |        7365 |
+|     166 | 0x1EC3      |        7875 |
+|     167 | 0x1EC4      |        7876 |
+|     168 | 0x1EC5      |        7877 |
+|     169 | 0x1EC6      |        7878 |
+|     170 | 0x1EC7      |        7879 |
+|     171 | 0x1EC8      |        7880 |
+|     172 | 0x1EC9      |        7881 |
 |     173 | 0x0B08      |        2824 |
-|     174 | 0x1EC9      |        7881 |
-|     175 | 0x1ECA      |        7882 |
+|     174 | 0x1ECA      |        7882 |
+|     175 | 0x1ECB      |        7883 |
 |     176 | 0x0007      |           7 |
-|     177 | 0x1ECB      |        7883 |
+|     177 | 0x1ECC      |        7884 |
 |     178 | 0x0B05      |        2821 |
-|     179 | 0x1ECC      |        7884 |
-|     180 | 0x1ECD      |        7885 |
-|     181 | 0x1ECE      |        7886 |
-|     182 | 0x1ECF      |        7887 |
-|     183 | 0x1ED0      |        7888 |
-|     184 | 0x1ED1      |        7889 |
-|     185 | 0x1ED2      |        7890 |
-|     186 | 0x1ED3      |        7891 |
-|     187 | 0x1ED4      |        7892 |
-|     188 | 0x1ED5      |        7893 |
-|     189 | 0x1ED6      |        7894 |
-|     190 | 0x1ED7      |        7895 |
-|     191 | 0x1ED8      |        7896 |
-|     192 | 0x1ED9      |        7897 |
-|     193 | 0x1EDA      |        7898 |
+|     179 | 0x1ECD      |        7885 |
+|     180 | 0x1ECE      |        7886 |
+|     181 | 0x1ECF      |        7887 |
+|     182 | 0x1ED0      |        7888 |
+|     183 | 0x1ED1      |        7889 |
+|     184 | 0x1ED2      |        7890 |
+|     185 | 0x1ED3      |        7891 |
+|     186 | 0x1ED4      |        7892 |
+|     187 | 0x1ED5      |        7893 |
+|     188 | 0x1ED6      |        7894 |
+|     189 | 0x1ED7      |        7895 |
+|     190 | 0x1ED8      |        7896 |
+|     191 | 0x1ED9      |        7897 |
+|     192 | 0x1EDA      |        7898 |
+|     193 | 0x1EDB      |        7899 |
 |     194 | 0x092E      |        2350 |
-|     195 | 0x1EDB      |        7899 |
-|     196 | 0x1EDC      |        7900 |
-|     197 | 0x1EDD      |        7901 |
-|     198 | 0x1EDE      |        7902 |
-|     199 | 0x1EDF      |        7903 |
-|     200 | 0x1EE0      |        7904 |
-|     201 | 0x1EE1      |        7905 |
-|     202 | 0x1EE2      |        7906 |
-|     203 | 0x1EE3      |        7907 |
-|     204 | 0x1EE4      |        7908 |
-|     205 | 0x1EE5      |        7909 |
-|     206 | 0x1EE6      |        7910 |
-|     207 | 0x1EE7      |        7911 |
-|     208 | 0x1EE8      |        7912 |
-|     209 | 0x1EE9      |        7913 |
-|     210 | 0x1EEA      |        7914 |
-|     211 | 0x1EEB      |        7915 |
-|     212 | 0x1EEC      |        7916 |
-|     213 | 0x1EED      |        7917 |
-|     214 | 0x1EEE      |        7918 |
-|     215 | 0x1EEF      |        7919 |
-|     216 | 0x1EF0      |        7920 |
-|     217 | 0x1EF1      |        7921 |
-|     218 | 0x1EF2      |        7922 |
-|     219 | 0x1EF3      |        7923 |
-|     220 | 0x1EF4      |        7924 |
-|     221 | 0x1EF5      |        7925 |
-|     222 | 0x1EF6      |        7926 |
-|     223 | 0x1EF7      |        7927 |
-|     224 | 0x1EF8      |        7928 |
-|     225 | 0x1EF9      |        7929 |
-|     226 | 0x1EFA      |        7930 |
-|     227 | 0x1EFB      |        7931 |
-|     228 | 0x1EFC      |        7932 |
-|     229 | 0x1EFD      |        7933 |
-|     230 | 0x1EFE      |        7934 |
-|     231 | 0x1EFF      |        7935 |
+|     195 | 0x1EDC      |        7900 |
+|     196 | 0x1EDD      |        7901 |
+|     197 | 0x1EDE      |        7902 |
+|     198 | 0x1EDF      |        7903 |
+|     199 | 0x1EE0      |        7904 |
+|     200 | 0x1EE1      |        7905 |
+|     201 | 0x1EE2      |        7906 |
+|     202 | 0x1EE3      |        7907 |
+|     203 | 0x1EE4      |        7908 |
+|     204 | 0x1EE5      |        7909 |
+|     205 | 0x1EE6      |        7910 |
+|     206 | 0x1EE7      |        7911 |
+|     207 | 0x1EE8      |        7912 |
+|     208 | 0x1EE9      |        7913 |
+|     209 | 0x1EEA      |        7914 |
+|     210 | 0x1EEB      |        7915 |
+|     211 | 0x1EEC      |        7916 |
+|     212 | 0x1EED      |        7917 |
+|     213 | 0x1EEE      |        7918 |
+|     214 | 0x1EEF      |        7919 |
+|     215 | 0x1EF0      |        7920 |
+|     216 | 0x1EF1      |        7921 |
+|     217 | 0x1EF2      |        7922 |
+|     218 | 0x1EF3      |        7923 |
+|     219 | 0x1EF4      |        7924 |
+|     220 | 0x1EF5      |        7925 |
+|     221 | 0x1EF6      |        7926 |
+|     222 | 0x1EF7      |        7927 |
+|     223 | 0x1EF8      |        7928 |
+|     224 | 0x1EF9      |        7929 |
+|     225 | 0x1EFA      |        7930 |
+|     226 | 0x1EFB      |        7931 |
+|     227 | 0x1EFC      |        7932 |
+|     228 | 0x1EFD      |        7933 |
+|     229 | 0x1EFE      |        7934 |
+|     230 | 0x1EFF      |        7935 |
+|     231 | 0x1F00      |        7936 |
 |     232 | 0x0004      |           4 |
 |     233 | 0x0008      |           8 |
 |     234 | 0x0010      |          16 |
 |     235 | 0x0B06      |        2822 |
-|     236 | 0x1F00      |        7936 |
-|     237 | 0x1F01      |        7937 |
-|     238 | 0x1F02      |        7938 |
+|     236 | 0x1F01      |        7937 |
+|     237 | 0x1F02      |        7938 |
+|     238 | 0x1F03      |        7939 |
 |     239 | 0x0003      |           3 |
-|     240 | 0x1F03      |        7939 |
-|     241 | 0x1F04      |        7940 |
-|     242 | 0x1F05      |        7941 |
-|     243 | 0x1F06      |        7942 |
-|     244 | 0x1F07      |        7943 |
-|     245 | 0x1F0D      |        7949 |
-|     246 | 0x1F0E      |        7950 |
-|     247 | 0x1F08      |        7944 |
-|     248 | 0x1F09      |        7945 |
-|     249 | 0x1F0A      |        7946 |
-|     250 | 0x1F0B      |        7947 |
-|     251 | 0x1F0C      |        7948 |
-|     252 | 0x1F0F      |        7951 |
-|     253 | 0x1F10      |        7952 |
-|     254 | 0x1F11      |        7953 |
-|     255 | 0x1F12      |        7954 |
-|     256 | 0x1F13      |        7955 |
+|     240 | 0x1F04      |        7940 |
+|     241 | 0x1F05      |        7941 |
+|     242 | 0x1F06      |        7942 |
+|     243 | 0x1F07      |        7943 |
+|     244 | 0x1F08      |        7944 |
+|     245 | 0x1F0E      |        7950 |
+|     246 | 0x1F0F      |        7951 |
+|     247 | 0x1F09      |        7945 |
+|     248 | 0x1F0A      |        7946 |
+|     249 | 0x1F0B      |        7947 |
+|     250 | 0x1F0C      |        7948 |
+|     251 | 0x1F0D      |        7949 |
+|     252 | 0x1F10      |        7952 |
+|     253 | 0x1F11      |        7953 |
+|     254 | 0x1F12      |        7954 |
+|     255 | 0x1F13      |        7955 |
+|     256 | 0x1F14      |        7956 |
 |     257 | 0x498A      |       18826 |
 |     258 | 0x507D      |       20605 |
 |     259 | 0x5082      |       20610 |
@@ -342,10 +342,10 @@
 |     302 | 0x6F3F      |       28479 |
 |     303 | 0x6F43      |       28483 |
 |     304 | 0x001F      |          31 |
-|     305 | 0x1F14      |        7956 |
-|     306 | 0x1F15      |        7957 |
-|     307 | 0x1F16      |        7958 |
-|     308 | 0x1F17      |        7959 |
+|     305 | 0x1F15      |        7957 |
+|     306 | 0x1F16      |        7958 |
+|     307 | 0x1F17      |        7959 |
+|     308 | 0x1F18      |        7960 |
 |     309 | 0x232A      |        9002 |
 |     310 | 0x232B      |        9003 |
 |     311 | 0x232C      |        9004 |
@@ -358,22 +358,22 @@
 |     318 | 0x2368      |        9064 |
 |     319 | 0x18DF      |        6367 |
 |     320 | 0xFFFFF000  |  4294963200 |
-|     321 | 0x1F18      |        7960 |
-|     322 | 0x1F19      |        7961 |
+|     321 | 0x1F19      |        7961 |
+|     322 | 0x1F1A      |        7962 |
 |     323 | 0x00C9      |         201 |
 |     324 | 0x00D7      |         215 |
 
 ## String References
 
-- **7364**: @@
-- **7804**: A raspy voice reverberates within your mind.
-- **7805**: Silence descends once more.
-- **7853**: Why are you here today? [It scares me. Take it back./I want to hear more./No real reason.]
-- **7861**: Return $3? [Yep, who needs it?/No, it might prove useful.]
-- **7882**: How do you respond? [Actually, I do want to return it./I want to know more./Heavens forbid!]
-- **7936**: What do you require? [I want $6./I want $6./Return $6./Return $6./Hand over $6./Nothing for now.]
-- **7955**: What would you like? [Nothing./Equipment./Materials./Whatever the master deems worthy.]
-- **7958**: Is that correct? [Of course./Hold on.]
+- **7365**: @@
+- **7805**: A raspy voice reverberates within your mind.
+- **7806**: Silence descends once more.
+- **7854**: Why are you here today? [It scares me. Take it back./I want to hear more./No real reason.]
+- **7862**: Return $3? [Yep, who needs it?/No, it might prove useful.]
+- **7883**: How do you respond? [Actually, I do want to return it./I want to know more./Heavens forbid!]
+- **7937**: What do you require? [I want $6./I want $6./Return $6./Return $6./Hand over $6./Nothing for now.]
+- **7956**: What would you like? [Nothing./Equipment./Materials./Whatever the master deems worthy.]
+- **7959**: Is that correct? [Of course./Hold on.]
 
 ## Events
 
@@ -570,7 +570,7 @@
  70: 0x0200 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17928249/0x01119039), tag_num=0x07)
  71: 0x0207 [0x7A] VM_CONTROL: Reset VM for LocalPlayer
  72: 0x020D [0x1C] WAIT(30* ticks)
- 73: 0x0210 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7763*]:
+ 73: 0x0210 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7764*]:
     → "Ahhhhhhhhh... How strange, having a visitor to our humble abode. Surprising, strange, and difficult to believe."
  74: 0x0217 [0x1C] WAIT(60* ticks)
  75: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -579,13 +579,13 @@
  78: 0x023B [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17928249/0x01119039), tag_num=0x0A)
  79: 0x0242 [0x1C] WAIT(30* ticks)
  80: 0x0245 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
- 81: 0x024F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7764*]:
+ 81: 0x024F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7765*]:
     → "Surprising! Surprising indeed! Our master isn't present right now, so leave!"
  82: 0x0256 [0x1C] WAIT(120* ticks)
  83: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x025A [0x4A] Unnamed NPC (ID: 17928230/0x01119026) looks at Unnamed NPC (ID: 17928231/0x01119027)
  85: 0x0263 [0x1C] WAIT(45* ticks)
- 86: 0x0266 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7765*]:
+ 86: 0x0266 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7766*]:
     → "...No. How could it come to pass that one could find this secluded place? It's utterly sealed off, separated, and removed from the world."
  87: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x026E [0x1C] WAIT(15* ticks)
@@ -595,34 +595,34 @@
  92: 0x027F [0x52] END_LOAD_SCHEDULER: End scheduler "ba05" with entities [EventEntity, EventEntity], work=730*
  93: 0x028E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba06" with entities [EventEntity, EventEntity], work=[730*, 0*]
  94: 0x029F [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17928231/0x01119027), tag_num=0x19)
- 95: 0x02A6 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7766*]:
+ 95: 0x02A6 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7767*]:
     → "Yes, yes! Separated! But if [he/she] is here, that only means our master willed it!"
  96: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x02AE [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17928230/0x01119026), tag_num=0x1B)
- 98: 0x02B5 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7767*]:
+ 98: 0x02B5 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7768*]:
     → "Hmmmmmmmmm... If our research, studies, and investigations have taken a backseat for now, then perhaps we can discuss that special thing..."
  99: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x02BD [0x4A] Unnamed NPC (ID: 17928231/0x01119027) looks at Unnamed NPC (ID: 17928230/0x01119026)
 101: 0x02C6 [0x1C] WAIT(30* ticks)
-102: 0x02C9 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7768*]:
+102: 0x02C9 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7769*]:
     → "Oho, quite special! An adventurer is the perfect guinea pig!"
 103: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x02D1 [0x52] END_LOAD_SCHEDULER: End scheduler "ba06" with entities [EventEntity, EventEntity], work=730*
 105: 0x02E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba07" with entities [EventEntity, EventEntity], work=[730*, 0*]
 106: 0x02F1 [0x1C] WAIT(30* ticks)
-107: 0x02F4 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7769*]:
+107: 0x02F4 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7770*]:
     → "Then we have but one simple, easy, and altogether elementary task to do."
 108: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x02FC [0x52] END_LOAD_SCHEDULER: End scheduler "ba07" with entities [EventEntity, EventEntity], work=730*
 110: 0x030B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba08" with entities [EventEntity, EventEntity], work=[730*, 0*]
 111: 0x031C [0x1C] WAIT(30* ticks)
-112: 0x031F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7770*]:
+112: 0x031F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7771*]:
     → "A straightforward task, yes! Carry out the master's will!"
 113: 0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x0327 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7771*]:
+114: 0x0327 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7772*]:
     → "And if we're wrong, we just seal off, shelter, and bar the doors to the place forever."
 115: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x032F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7772*]:
+116: 0x032F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7773*]:
     → "Close off! Understood!"
 117: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x0337 [0x4A] Unnamed NPC (ID: 17928230/0x01119026) looks at LocalPlayer
@@ -630,7 +630,7 @@
 120: 0x034F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba09" with entities [EventEntity, EventEntity], work=[730*, 0*]
 121: 0x0360 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 122: 0x0361 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17928230/0x01119026) Render.Flags0 and Render.Flags3 conditions are met
-123: 0x0366 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7773*]:
+123: 0x0366 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7774*]:
     → "Listen well, most esteemed guest. Our master has unlocked new possibilities for spirits, souls, and consciousnesses."
 124: 0x036D [0x1C] WAIT(120* ticks)
 125: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -639,24 +639,24 @@
 128: 0x0389 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba11" with entities [EventEntity, EventEntity], work=[730*, 0*]
 129: 0x039A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 130: 0x039B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17928231/0x01119027) Render.Flags0 and Render.Flags3 conditions are met
-131: 0x03A0 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7774*]:
+131: 0x03A0 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7775*]:
     → "Open the door, he did! Memories of battles etched upon completely new existences!"
 132: 0x03A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x03A8 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7775*]:
+133: 0x03A8 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7776*]:
     → "Yet a spirit is a complex, difficult-to-understand, and nigh-incomprehensible thing made of many interwoven threads."
 134: 0x03AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x03B0 [0x52] END_LOAD_SCHEDULER: End scheduler "ba11" with entities [EventEntity, EventEntity], work=730*
 136: 0x03BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba10" with entities [EventEntity, EventEntity], work=[730*, 0*]
-137: 0x03D0 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7776*]:
+137: 0x03D0 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7777*]:
     → "A most difficult nut to crack!"
 138: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x03D8 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7777*]:
+139: 0x03D8 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7778*]:
     → "But your spirit is marked with memories of battles, fights, and struggles, each a shining star amongst the sky. We wish to view those stars close-up."
 140: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x03E0 [0x52] END_LOAD_SCHEDULER: End scheduler "ba10" with entities [EventEntity, EventEntity], work=730*
 142: 0x03EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba12" with entities [EventEntity, EventEntity], work=[730*, 0*]
 143: 0x0400 [0x03] Work_Zone[2] = 9008*
-144: 0x0405 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7778*]:
+144: 0x0405 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7779*]:
     → "Yes, a most pleasing brightness! Bring us $0 and we will open the gates for you!"
 145: 0x040C [0x1C] WAIT(15* ticks)
 146: 0x040F [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
@@ -665,12 +665,12 @@
 149: 0x041D [0x6E] LocalPlayer uses emote 22*
 150: 0x0424 [0x99] Wait for LocalPlayer animation to complete
 151: 0x0429 [0x1C] WAIT(150* ticks)
-152: 0x042C [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7779*]:
+152: 0x042C [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7780*]:
     → "You seem confused, befuddled, and out of sorts. Don't worry--you'll know where to look when you return to your world."
 153: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0434 [0x52] END_LOAD_SCHEDULER: End scheduler "ba12" with entities [EventEntity, EventEntity], work=730*
 155: 0x0443 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ba13" with entities [EventEntity, EventEntity], work=[730*, 0*]
-156: 0x0454 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7780*]:
+156: 0x0454 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7781*]:
     → "And return you will! Both to there, and to here!"
 157: 0x045B [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x045C [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -813,64 +813,64 @@
  43: 0x060D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  44: 0x061E [0x1A] CALL_SUBROUTINE(address=0x392B)
  45: 0x0621 [0x1C] WAIT(120* ticks)
- 46: 0x0624 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7783*]:
+ 46: 0x0624 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7784*]:
     → "Well done! Absolutely perfect and without flaw."
  47: 0x062B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x062C [0x52] END_LOAD_SCHEDULER: End scheduler "bb01" with entities [EventEntity, EventEntity], work=730*
  49: 0x063B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 50: 0x064C [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7784*]:
+ 50: 0x064C [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7785*]:
     → "Splendid! Our master is still out, but we deem you worthy in his place!"
  51: 0x0653 [0x1C] WAIT(15* ticks)
  52: 0x0656 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
  53: 0x0660 [0x1C] WAIT(45* ticks)
  54: 0x0663 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x0664 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7785*]:
+ 55: 0x0664 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7786*]:
     → "You should feel honored, blessed, and proud."
  56: 0x066B [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x066C [0x52] END_LOAD_SCHEDULER: End scheduler "bb02" with entities [EventEntity, EventEntity], work=730*
  58: 0x067B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb03" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 59: 0x068C [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7786*]:
+ 59: 0x068C [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7787*]:
     → "Honored to receive your just reward!"
  60: 0x0693 [0x1C] WAIT(15* ticks)
  61: 0x0696 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928230/0x01119026) (Basic look)
  62: 0x06A0 [0x1C] WAIT(45* ticks)
  63: 0x06A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x06A4 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7787*]:
+ 64: 0x06A4 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7788*]:
     → "We have prepared, set up, and established three different...dimensions for you to explore."
  65: 0x06AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x06AC [0x03] Work_Zone[2] = 0*
- 67: 0x06B1 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7788*]:
+ 67: 0x06B1 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7789*]:
     → "That one opens to a land of [toxic miasma/biting winds/unending filth]."
  68: 0x06B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x06B9 [0x03] Work_Zone[2] = 1*
- 70: 0x06BE [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7788*]:
+ 70: 0x06BE [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7789*]:
     → "That one opens to a land of [toxic miasma/biting winds/unending filth]."
  71: 0x06C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x06C6 [0x03] Work_Zone[2] = 2*
- 73: 0x06CB [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7788*]:
+ 73: 0x06CB [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7789*]:
     → "That one opens to a land of [toxic miasma/biting winds/unending filth]."
  74: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x06D3 [0x52] END_LOAD_SCHEDULER: End scheduler "bb03" with entities [EventEntity, EventEntity], work=730*
  76: 0x06E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb04" with entities [EventEntity, EventEntity], work=[730*, 0*]
  77: 0x06F3 [0x03] Work_Zone[2] = 2641*
- 78: 0x06F8 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7789*]:
+ 78: 0x06F8 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7790*]:
     → "Many lands, all for you with just a quick shake of this $3!"
  79: 0x06FF [0x1C] WAIT(15* ticks)
  80: 0x0702 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
  81: 0x070C [0x1C] WAIT(45* ticks)
  82: 0x070F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x0710 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7790*]:
+ 83: 0x0710 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7791*]:
     → "Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar."
  84: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0718 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7791*]:
+ 85: 0x0718 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7792*]:
     → "Outer Ra'Kaznar! Our master's experiments await!"
  86: 0x071F [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0720 [0x52] END_LOAD_SCHEDULER: End scheduler "bb04" with entities [EventEntity, EventEntity], work=730*
  88: 0x072F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb05" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 89: 0x0740 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7792*]:
+ 89: 0x0740 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7793*]:
     → "Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!"
  90: 0x0747 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0748 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7793*]:
+ 91: 0x0748 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7794*]:
     → "Be healthy and hale!"
  92: 0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0750 [0x52] END_LOAD_SCHEDULER: End scheduler "bb05" with entities [EventEntity, EventEntity], work=730*
@@ -1009,24 +1009,24 @@
  43: 0x090C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bc01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  44: 0x091D [0x1A] CALL_SUBROUTINE(address=0x392B)
  45: 0x0920 [0x03] Work_Zone[2] = 9008*
- 46: 0x0925 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7794*]:
+ 46: 0x0925 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7795*]:
     → "Oho, $0!"
  47: 0x092C [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x092D [0x03] Work_Zone[2] = 2641*
  49: 0x0932 [0x52] END_LOAD_SCHEDULER: End scheduler "bc01" with entities [EventEntity, EventEntity], work=730*
  50: 0x0941 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bc02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 51: 0x0952 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7795*]:
+ 51: 0x0952 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7796*]:
     → "You do! You do have $6!"
  52: 0x0959 [0x1C] WAIT(15* ticks)
  53: 0x095C [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
  54: 0x0966 [0x1C] WAIT(45* ticks)
  55: 0x0969 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x096A [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7796*]:
+ 56: 0x096A [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7797*]:
     → "Its energies will be consumed, dissipated, and fully extinguished when you use it to enter our master's "testing chamber," but you can enter again by procuring another."
  57: 0x0971 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0972 [0x52] END_LOAD_SCHEDULER: End scheduler "bc02" with entities [EventEntity, EventEntity], work=730*
  59: 0x0981 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bc03" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 60: 0x0992 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7797*]:
+ 60: 0x0992 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7798*]:
     → "Let me return it, give it back to you, and hand it over."
  61: 0x0999 [0x1C] WAIT(15* ticks)
  62: 0x099C [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928230/0x01119026) (Basic look)
@@ -1034,18 +1034,18 @@
  64: 0x09A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x09AA [0x52] END_LOAD_SCHEDULER: End scheduler "bc03" with entities [EventEntity, EventEntity], work=730*
  66: 0x09B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb04" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 67: 0x09CA [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7790*]:
+ 67: 0x09CA [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7791*]:
     → "Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar."
  68: 0x09D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x09D2 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7791*]:
+ 69: 0x09D2 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7792*]:
     → "Outer Ra'Kaznar! Our master's experiments await!"
  70: 0x09D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x09DA [0x52] END_LOAD_SCHEDULER: End scheduler "bb04" with entities [EventEntity, EventEntity], work=730*
  72: 0x09E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bb05" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 73: 0x09FA [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7792*]:
+ 73: 0x09FA [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7793*]:
     → "Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!"
  74: 0x0A01 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0A02 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7793*]:
+ 75: 0x0A02 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7794*]:
     → "Be healthy and hale!"
  76: 0x0A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0A0A [0x52] END_LOAD_SCHEDULER: End scheduler "bb05" with entities [EventEntity, EventEntity], work=730*
@@ -1102,45 +1102,45 @@
 #### Opcodes
 
 ```
-  0: 0x0AAF [0x48] [System] [7804*]:
+  0: 0x0AAF [0x48] [System] [7805*]:
     → "A raspy voice reverberates within your mind."
   1: 0x0AB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0AB3 [0x1C] WAIT(30* ticks)
   3: 0x0AB6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17928230/0x01119026), tag_num=0x1B)
-  4: 0x0ABD [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7790*]:
+  4: 0x0ABD [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7791*]:
     → "Seek your charge in the ruins, the Serpentine Labyrinth, Outer Ra'Kaznar."
   5: 0x0AC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0AC5 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17928231/0x01119027), tag_num=0x19)
-  7: 0x0ACC [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7791*]:
+  7: 0x0ACC [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7792*]:
     → "Outer Ra'Kaznar! Our master's experiments await!"
   8: 0x0AD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0AD4 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7792*]:
+  9: 0x0AD4 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7793*]:
     → "Your Goddess's protection may serve you well...or it may not. Go forth, and flourish in the thrill of battle!"
  10: 0x0ADB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0ADC [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7793*]:
+ 11: 0x0ADC [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7794*]:
     → "Be healthy and hale!"
  12: 0x0AE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0AE4 [0x1C] WAIT(60* ticks)
- 14: 0x0AE7 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7798*]:
+ 14: 0x0AE7 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7799*]:
     → "Should you, for whatever reason, find the experiment...wanting...it would behoove you to visit Ra'Kaznar Turris."
  15: 0x0AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0AEF [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7799*]:
+ 16: 0x0AEF [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7800*]:
     → "For there, you will find another testing chamber...one which may prove more to your liking."
  17: 0x0AF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0AF7 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7800*]:
+ 18: 0x0AF7 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7801*]:
     → "Yes...in that chamber, visions of the most formidable of foes await you. And though they may be but passing fantasies, the battles will be no less demanding."
  19: 0x0AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0AFF [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7801*]:
+ 20: 0x0AFF [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7802*]:
     → "And yet, since there is no substance to the terrors you will face, there will be nothing to be gained from your triumphs...if you triumph at all."
  21: 0x0B06 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0B07 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7802*]:
+ 22: 0x0B07 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7803*]:
     → "You seek no material gain, but only the honor and glory of the fight...?"
  23: 0x0B0E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0B0F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7803*]:
+ 24: 0x0B0F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7804*]:
     → "Very well...then honor and glory shall be yours."
  25: 0x0B16 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0B17 [0x1C] WAIT(60* ticks)
- 27: 0x0B1A [0x48] [System] [7805*]:
+ 27: 0x0B1A [0x48] [System] [7806*]:
     → "Silence descends once more."
  28: 0x0B1D [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0B1E [0x21] END_EVENT
@@ -1247,29 +1247,29 @@
  42: 0x0C36 [0x9A] WAIT_MUSIC_SERVER()
  43: 0x0C37 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bd01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  44: 0x0C48 [0x1A] CALL_SUBROUTINE(address=0x392B)
- 45: 0x0C4B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7806*]:
+ 45: 0x0C4B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7807*]:
     → "Spirits are only one part of the experiments, tests, and trials. The other part...is throwing yourself against your foes over and over."
  46: 0x0C52 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0C53 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7807*]:
+ 47: 0x0C53 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7808*]:
     → "Hehehe, and you certainly are enjoying yourself."
  48: 0x0C5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0C5B [0x52] END_LOAD_SCHEDULER: End scheduler "bd01" with entities [EventEntity, EventEntity], work=730*
  50: 0x0C6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bd02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 51: 0x0C7B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7808*]:
+ 51: 0x0C7B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7809*]:
     → "Much enjoyment to be had! Your soul beams at the very mention of combat!"
  52: 0x0C82 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0C83 [0x1C] WAIT(30* ticks)
- 54: 0x0C86 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7809*]:
+ 54: 0x0C86 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7810*]:
     → "No, no, no! The spirit tells no lies!"
  55: 0x0C8D [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
  56: 0x0C97 [0x1C] WAIT(45* ticks)
  57: 0x0C9A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0C9B [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7810*]:
+ 58: 0x0C9B [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7811*]:
     → "Some may call it a blood craze, a lust for battle, an inclination for combat, but our master is pleased at your successes, no matter the reason behind them."
  59: 0x0CA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0CA3 [0x52] END_LOAD_SCHEDULER: End scheduler "bd02" with entities [EventEntity, EventEntity], work=730*
  61: 0x0CB2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bd03" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 62: 0x0CC3 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7786*]:
+ 62: 0x0CC3 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7787*]:
     → "Honored to receive your just reward!"
  63: 0x0CCA [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0CCB [0x52] END_LOAD_SCHEDULER: End scheduler "bd03" with entities [EventEntity, EventEntity], work=730*
@@ -1484,24 +1484,24 @@
  42: 0x0EAB [0x52] END_LOAD_SCHEDULER: End scheduler "be02" with entities [EventEntity, EventEntity], work=730*
  43: 0x0EBA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be04" with entities [EventEntity, EventEntity], work=[730*, 0*]
  44: 0x0ECB [0x1C] WAIT(30* ticks)
- 45: 0x0ECE [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7811*]:
+ 45: 0x0ECE [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7812*]:
     → "I have been waiting for you, [son/daughter] of man."
  46: 0x0ED5 [0x1C] WAIT(90* ticks)
  47: 0x0ED8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0ED9 [0x52] END_LOAD_SCHEDULER: End scheduler "be04" with entities [EventEntity, EventEntity], work=730*
  49: 0x0EE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be05" with entities [EventEntity, EventEntity], work=[730*, 0*]
  50: 0x0EF9 [0x1C] WAIT(30* ticks)
- 51: 0x0EFC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7812*]:
+ 51: 0x0EFC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7813*]:
     → "And what did you call yourself again?"
  52: 0x0F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0F04 [0x1C] WAIT(60* ticks)
- 54: 0x0F07 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7813*]:
+ 54: 0x0F07 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7814*]:
     → "Ah, yes. <Player>."
  55: 0x0F0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0F0F [0x52] END_LOAD_SCHEDULER: End scheduler "be05" with entities [EventEntity, EventEntity], work=730*
  57: 0x0F1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be06" with entities [EventEntity, EventEntity], work=[730*, 0*]
  58: 0x0F2F [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
- 59: 0x0F41 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7814*]:
+ 59: 0x0F41 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7815*]:
     → "Hahaha! Normally I'm not one to remember the moniker of one with so short a lifespan, but yours stuck with me."
  60: 0x0F48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0F49 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -1510,22 +1510,22 @@
  64: 0x0F77 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0E)
  65: 0x0F7E [0x1C] WAIT(30* ticks)
  66: 0x0F81 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17928229/0x01119025), tag_num=0x1D)
- 67: 0x0F88 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7815*]:
+ 67: 0x0F88 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7816*]:
     → "My name? Skokkr Undrborn."
  68: 0x0F8F [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0F90 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Unnamed NPC (ID: 17928229/0x01119025), tag_num=0x1C)
- 70: 0x0F97 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7816*]:
+ 70: 0x0F97 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7817*]:
     → "I realize that "Undrborn" doesn't roll off the tongue, so you may address me as simply "Skokkr.""
  71: 0x0F9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0F9F [0x52] END_LOAD_SCHEDULER: End scheduler "be07" with entities [EventEntity, EventEntity], work=730*
  73: 0x0FAE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be08" with entities [EventEntity, EventEntity], work=[730*, 0*]
  74: 0x0FBF [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk0", extra=150*)
  75: 0x0FD1 [0x1C] WAIT(30* ticks)
- 76: 0x0FD4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7817*]:
+ 76: 0x0FD4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7818*]:
     → "Oooh hooo hoo! Yes, I see what those two were saying about your vibrant spirit. Humanity remains as curious as ever."
  77: 0x0FDB [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0FDC [0x03] Work_Zone[2] = 2641*
- 79: 0x0FE1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7818*]:
+ 79: 0x0FE1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7819*]:
     → "It can not only draw out the energies of my $3, but also contain it and even twist it into different forms."
  80: 0x0FE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0FE9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -1534,17 +1534,17 @@
  84: 0x100C [0x52] END_LOAD_SCHEDULER: End scheduler "be08" with entities [EventEntity, EventEntity], work=730*
  85: 0x101B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be09" with entities [EventEntity, EventEntity], work=[730*, 0*]
  86: 0x102C [0x1C] WAIT(15* ticks)
- 87: 0x102F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7819*]:
+ 87: 0x102F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7820*]:
     → "Outstanding. Your will and determination are utterly without parallel."
  88: 0x1036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x1037 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  90: 0x1045 [0x52] END_LOAD_SCHEDULER: End scheduler "be09" with entities [EventEntity, EventEntity], work=730*
  91: 0x1054 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be10" with entities [EventEntity, EventEntity], work=[730*, 0*]
  92: 0x1065 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk0", extra=170*)
- 93: 0x1077 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7820*]:
+ 93: 0x1077 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7821*]:
     → "There were once many curious folk like my underlings meandering throughout my lands."
  94: 0x107E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x107F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7821*]:
+ 95: 0x107F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7822*]:
     → "But none ever emerged victorious. Setting aside the question of good versus evil, let me merely point out that the scales of balance failed to tip so much as one ilm in one side's favor."
  96: 0x1086 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x1087 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -1552,7 +1552,7 @@
  99: 0x10A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be11" with entities [EventEntity, EventEntity], work=[730*, 0*]
 100: 0x10B5 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk1", extra=170*)
 101: 0x10C7 [0x1C] WAIT(45* ticks)
-102: 0x10CA [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7822*]:
+102: 0x10CA [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7823*]:
     → "And then you came and flipped the entire contraption over."
 103: 0x10D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x10D2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -1560,43 +1560,43 @@
 106: 0x10E7 [0x99] Wait for LocalPlayer animation to complete
 107: 0x10EC [0x1C] WAIT(120* ticks)
 108: 0x10EF [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
-109: 0x1101 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7823*]:
+109: 0x1101 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7824*]:
     → "Oooh, hooo! None can blame you, <Player>, least of all me. Take pride in your works."
 110: 0x1108 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x1109 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 112: 0x1117 [0x52] END_LOAD_SCHEDULER: End scheduler "be11" with entities [EventEntity, EventEntity], work=730*
 113: 0x1126 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be12" with entities [EventEntity, EventEntity], work=[730*, 0*]
 114: 0x1137 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk0", extra=170*)
-115: 0x1149 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7824*]:
+115: 0x1149 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7825*]:
     → "But I didn't invite you here to give you a treatise on the powers that be...or were."
 116: 0x1150 [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x1151 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7825*]:
+117: 0x1151 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7826*]:
     → "I am here to give you a prototype sigil of sorts in exchange for the three you already hold."
 118: 0x1158 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x1159 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 120: 0x1167 [0x52] END_LOAD_SCHEDULER: End scheduler "be12" with entities [EventEntity, EventEntity], work=730*
 121: 0x1176 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be13" with entities [EventEntity, EventEntity], work=[730*, 0*]
 122: 0x1187 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk1", extra=170*)
-123: 0x1199 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7826*]:
+123: 0x1199 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7827*]:
     → "What use are they to you now that their purpose has been fulfilled? A fairer deal you will find nowhere else."
 124: 0x11A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x11A1 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x11FC
-126: 0x11A9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7827*]:
+126: 0x11A9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7828*]:
     → "I have the highest of hopes for you. Here, two things to get you started."
 127: 0x11B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x11B1 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 129: 0x11BF [0x52] END_LOAD_SCHEDULER: End scheduler "be12" with entities [EventEntity, EventEntity], work=730*
 130: 0x11CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be14" with entities [EventEntity, EventEntity], work=[730*, 0*]
 131: 0x11DF [0x03] Work_Zone[2] = 9008*
-132: 0x11E4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7828*]:
+132: 0x11E4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7829*]:
     → "But next time, I'll need $0."
 133: 0x11EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x11EC [0x03] Work_Zone[2] = 2641*
-135: 0x11F1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7829*]:
+135: 0x11F1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7830*]:
     → "Bring me one, and I'll give you another $3."
 136: 0x11F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x11F9 [0x01] GOTO 0x125F
-138: 0x11FC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7846*]:
+138: 0x11FC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7847*]:
     → "I trust that your results will be exemplary, and would like to give you a little something...special."
 139: 0x1203 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x1204 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -1604,57 +1604,57 @@
 142: 0x1221 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be14" with entities [EventEntity, EventEntity], work=[730*, 0*]
 143: 0x1232 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
 144: 0x1244 [0x03] Work_Zone[2] = 9008*
-145: 0x1249 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7847*]:
+145: 0x1249 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7848*]:
     → "Ah, but you already have $6. Then I cannot give you another, for any information you glean would be rendered wholly indecipherable."
 146: 0x1250 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x1251 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 
 SUBROUTINE_125F:
 148: 0x125F [0x03] Work_Zone[3] = 2823*
-149: 0x1264 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7830*]:
+149: 0x1264 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7831*]:
     → "And the other thing--the $3--if you need a new one, then you'll have to gather three more sigils for me."
 150: 0x126B [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x126C [0x52] END_LOAD_SCHEDULER: End scheduler "be14" with entities [EventEntity, EventEntity], work=730*
 152: 0x127B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be15" with entities [EventEntity, EventEntity], work=[730*, 0*]
-153: 0x128C [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7831*]:
+153: 0x128C [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7832*]:
     → "You scratch my back, and I'll scratch yours, hmm? Isn't that how your world operates?"
 154: 0x1293 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x1294 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="non0", extra=170*)
-156: 0x12A6 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7832*]:
+156: 0x12A6 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7833*]:
     → "And I cannot make these precious tools out of thin air. That is in the realm of godhood, and I am but a humble experimenter."
 157: 0x12AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x12AE [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 159: 0x12BC [0x52] END_LOAD_SCHEDULER: End scheduler "be15" with entities [EventEntity, EventEntity], work=730*
 160: 0x12CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be16" with entities [EventEntity, EventEntity], work=[730*, 0*]
-161: 0x12DC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7833*]:
+161: 0x12DC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7834*]:
     → "Not that I believe in gods--or I that I don't believe in gods. I couldn't care less."
 162: 0x12E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-163: 0x12E4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7834*]:
+163: 0x12E4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7835*]:
     → "I only believe in what is observable."
 164: 0x12EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x12EC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7835*]:
+165: 0x12EC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7836*]:
     → "Experiments and hypotheses are my bread and butter."
 166: 0x12F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x12F4 [0x52] END_LOAD_SCHEDULER: End scheduler "be16" with entities [EventEntity, EventEntity], work=730*
 168: 0x1303 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be17" with entities [EventEntity, EventEntity], work=[730*, 0*]
 169: 0x1314 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
-170: 0x1326 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7836*]:
+170: 0x1326 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7837*]:
     → "Oooh hoo hoo hoo."
 171: 0x132D [0x23] WAIT_FOR_DIALOG_INTERACTION
-172: 0x132E [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7837*]:
+172: 0x132E [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7838*]:
     → "Hypothesize and experiment. Then back to the drawing board and draw up more hypotheses to fuel further experiments. How else will we get to the crux of how the world works?"
 173: 0x1335 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x1336 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 175: 0x1344 [0x52] END_LOAD_SCHEDULER: End scheduler "be17" with entities [EventEntity, EventEntity], work=730*
 176: 0x1353 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be18" with entities [EventEntity, EventEntity], work=[730*, 0*]
-177: 0x1364 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7838*]:
+177: 0x1364 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7839*]:
     → "Not that I expect you to express much interest."
 178: 0x136B [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x136C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk0", extra=170*)
-180: 0x137E [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7839*]:
+180: 0x137E [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7840*]:
     → "But let's turn for a moment to my underlings... Special spirits indeed, them."
 181: 0x1385 [0x23] WAIT_FOR_DIALOG_INTERACTION
-182: 0x1386 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7840*]:
+182: 0x1386 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7841*]:
     → "They burn brightly, only to turn to ash and return to nothingness, waiting for the cycle to begin anew."
 183: 0x138D [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x138E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -1662,27 +1662,27 @@ SUBROUTINE_125F:
 186: 0x13AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be19" with entities [EventEntity, EventEntity], work=[730*, 0*]
 187: 0x13BC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk1", extra=170*)
 188: 0x13CE [0x1C] WAIT(45* ticks)
-189: 0x13D1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7841*]:
+189: 0x13D1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7842*]:
     → "You must be looking forward to facing them on the fields of valor."
 190: 0x13D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x13D9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 192: 0x13E7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
-193: 0x13F9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7842*]:
+193: 0x13F9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7843*]:
     → "Oooh hooo hoo, and how I, too, look forward to that moment!"
 194: 0x1400 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x1401 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 196: 0x140F [0x52] END_LOAD_SCHEDULER: End scheduler "be19" with entities [EventEntity, EventEntity], work=730*
 197: 0x141E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be20" with entities [EventEntity, EventEntity], work=[730*, 0*]
-198: 0x142F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7843*]:
+198: 0x142F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7844*]:
     → "I hope to learn much from your exploits in the realm of spirits."
 199: 0x1436 [0x23] WAIT_FOR_DIALOG_INTERACTION
-200: 0x1437 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7844*]:
+200: 0x1437 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7845*]:
     → "Let's see if you can put the screws to them, like you have so many before."
 201: 0x143E [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x143F [0x52] END_LOAD_SCHEDULER: End scheduler "be20" with entities [EventEntity, EventEntity], work=730*
 203: 0x144E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "be21" with entities [EventEntity, EventEntity], work=[730*, 0*]
 204: 0x145F [0x1C] WAIT(30* ticks)
-205: 0x1462 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7845*]:
+205: 0x1462 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7846*]:
     → "I await your most pleasing of results."
 206: 0x1469 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x146A [0x1A] CALL_SUBROUTINE(address=0x398E)
@@ -1813,13 +1813,13 @@ SUBROUTINE_125F:
  45: 0x161C [0x1C] WAIT(120* ticks)
  46: 0x161F [0x52] END_LOAD_SCHEDULER: End scheduler "bg01" with entities [EventEntity, EventEntity], work=730*
  47: 0x162E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 48: 0x163F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7848*]:
+ 48: 0x163F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7849*]:
     → "Many years! Yes, many years since we've seen our master directly!"
  49: 0x1646 [0x1C] WAIT(15* ticks)
  50: 0x1649 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928231/0x01119027) (Basic look)
  51: 0x1653 [0x1C] WAIT(45* ticks)
  52: 0x1656 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x1657 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7849*]:
+ 53: 0x1657 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7850*]:
     → "Forgive us, pardon our brashness, and fault us not our hubris. We misjudged you."
  54: 0x165E [0x1C] WAIT(15* ticks)
  55: 0x1661 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17928230/0x01119026) (Basic look)
@@ -1827,13 +1827,13 @@ SUBROUTINE_125F:
  57: 0x166E [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x166F [0x52] END_LOAD_SCHEDULER: End scheduler "bg02" with entities [EventEntity, EventEntity], work=730*
  59: 0x167E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg03" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 60: 0x168F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7850*]:
+ 60: 0x168F [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7851*]:
     → "We have high hopes, strong expectations, and great confidence in your ability to assist our master in his research."
  61: 0x1696 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1697 [0x52] END_LOAD_SCHEDULER: End scheduler "bg03" with entities [EventEntity, EventEntity], work=730*
  63: 0x16A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg04" with entities [EventEntity, EventEntity], work=[730*, 0*]
  64: 0x16B7 [0x03] Work_Zone[2] = 2641*
- 65: 0x16BC [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7851*]:
+ 65: 0x16BC [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7852*]:
     → "Take this $3 as a symbol of our respect, admiration, and optimism."
  66: 0x16C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x16C4 [0x1A] CALL_SUBROUTINE(address=0x398E)
@@ -2015,12 +2015,12 @@ SUBROUTINE_125F:
  33: 0x181F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  34: 0x1830 [0x1A] CALL_SUBROUTINE(address=0x392B)
  35: 0x1833 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
- 36: 0x1841 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7852*]:
+ 36: 0x1841 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7853*]:
     → "<Player>, I've given you all you need. Make it quick, and let me get back to my research."
  37: 0x1848 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x1849 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x1856
  39: 0x1851 [0x03] ExtData[1]->WorkLocal[2] = 2*
- 40: 0x1856 [0x24] CREATE_DIALOG(message_id=7853*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 40: 0x1856 [0x24] CREATE_DIALOG(message_id=7854*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Why are you here today? [It scares me. Take it back./I want to hear more./No real reason.]"
  41: 0x185D [0x25] WAIT_DIALOG_SELECT()
  42: 0x185E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A34
@@ -2030,29 +2030,29 @@ SUBROUTINE_125F:
  46: 0x1875 [0x52] END_LOAD_SCHEDULER: End scheduler "bf05" with entities [EventEntity, EventEntity], work=730*
  47: 0x1884 [0x52] END_LOAD_SCHEDULER: End scheduler "bf01" with entities [EventEntity, EventEntity], work=730*
  48: 0x1893 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 49: 0x18A4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7854*]:
+ 49: 0x18A4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7855*]:
     → "It scares you?"
  50: 0x18AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x18AC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
- 52: 0x18BE [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7855*]:
+ 52: 0x18BE [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7856*]:
     → "Well, this is an unexpected turn of events. When I pierced into your past, I would never have expected one with memories such as yours to be frightened by a mere bauble."
  53: 0x18C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x18C6 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  55: 0x18D4 [0x52] END_LOAD_SCHEDULER: End scheduler "bf02" with entities [EventEntity, EventEntity], work=730*
  56: 0x18E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf03" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 57: 0x18F4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7856*]:
+ 57: 0x18F4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7857*]:
     → "Exactly how many battles have you experienced? Far too many to count."
  58: 0x18FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x18FC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7857*]:
+ 59: 0x18FC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7858*]:
     → "Victory is filled with blood and tears, and you have bathed in more than your share of both."
  60: 0x1903 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x1904 [0x52] END_LOAD_SCHEDULER: End scheduler "bf03" with entities [EventEntity, EventEntity], work=730*
  62: 0x1913 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf04" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 63: 0x1924 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7858*]:
+ 63: 0x1924 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7859*]:
     → "Look into my eyes and tell me that's not the case."
  64: 0x192B [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x192C [0x1C] WAIT(60* ticks)
- 66: 0x192F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7859*]:
+ 66: 0x192F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7860*]:
     → "I'll honor your request, but the sigils used to construct this marvel will vanish into thin air."
  67: 0x1936 [0x1C] WAIT(30* ticks)
  68: 0x1939 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="yes0", extra=170*)
@@ -2060,11 +2060,11 @@ SUBROUTINE_125F:
  70: 0x194C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  71: 0x195A [0x52] END_LOAD_SCHEDULER: End scheduler "bf04" with entities [EventEntity, EventEntity], work=730*
  72: 0x1969 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf05" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 73: 0x197A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7860*]:
+ 73: 0x197A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7861*]:
     → "You will have to bring me three more sigils should you change your mind--and change it you will."
  74: 0x1981 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x1982 [0x03] Work_Zone[2] = 2823*
- 76: 0x1987 [0x24] CREATE_DIALOG(message_id=7861*, default_option=1*, option_flags=0*)
+ 76: 0x1987 [0x24] CREATE_DIALOG(message_id=7862*, default_option=1*, option_flags=0*)
     → "Return $3? [Yep, who needs it?/No, it might prove useful.]"
  77: 0x198E [0x25] WAIT_DIALOG_SELECT()
  78: 0x198F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A23
@@ -2076,11 +2076,11 @@ SUBROUTINE_125F:
  84: 0x19C6 [0x52] END_LOAD_SCHEDULER: End scheduler "bf06" with entities [EventEntity, EventEntity], work=730*
  85: 0x19D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf07" with entities [EventEntity, EventEntity], work=[730*, 0*]
  86: 0x19E6 [0x03] Work_Zone[2] = 2823*
- 87: 0x19EB [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7862*]:
+ 87: 0x19EB [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7863*]:
     → "Fine. But keep in mind that I require three more sigils to make another."
  88: 0x19F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x19F3 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="non0", extra=170*)
- 90: 0x1A05 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7863*]:
+ 90: 0x1A05 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7864*]:
     → "Do not disappoint me, <Player>."
  91: 0x1A0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x1A0D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2095,7 +2095,7 @@ SUBROUTINE_1A31:
  99: 0x1A3C [0x52] END_LOAD_SCHEDULER: End scheduler "bf05" with entities [EventEntity, EventEntity], work=730*
 100: 0x1A4B [0x52] END_LOAD_SCHEDULER: End scheduler "bf01" with entities [EventEntity, EventEntity], work=730*
 101: 0x1A5A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf08" with entities [EventEntity, EventEntity], work=[730*, 0*]
-102: 0x1A6B [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7864*]:
+102: 0x1A6B [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7865*]:
     → "Then you shall return empty-handed, for I have nothing more to say to you."
 103: 0x1A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x1A73 [0x52] END_LOAD_SCHEDULER: End scheduler "bf08" with entities [EventEntity, EventEntity], work=730*
@@ -2110,12 +2110,12 @@ SUBROUTINE_1A31:
 113: 0x1ACB [0x1C] WAIT(45* ticks)
 114: 0x1ACE [0x52] END_LOAD_SCHEDULER: End scheduler "bf09" with entities [EventEntity, EventEntity], work=730*
 115: 0x1ADD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf10" with entities [EventEntity, EventEntity], work=[730*, 0*]
-116: 0x1AEE [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7865*]:
+116: 0x1AEE [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7866*]:
     → "...But perhaps I do. Research always bears fruit, and how can I turn down a request so politely worded?"
 117: 0x1AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x1AF6 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 119: 0x1B04 [0x1C] WAIT(30* ticks)
-120: 0x1B07 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7866*]:
+120: 0x1B07 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7867*]:
     → "Yes, perhaps..."
 121: 0x1B0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x1B0F [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk1", extra=150*)
@@ -2123,21 +2123,21 @@ SUBROUTINE_1A31:
 124: 0x1B24 [0x52] END_LOAD_SCHEDULER: End scheduler "bf10" with entities [EventEntity, EventEntity], work=730*
 125: 0x1B33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf11" with entities [EventEntity, EventEntity], work=[730*, 0*]
 126: 0x1B44 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
-127: 0x1B52 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7867*]:
+127: 0x1B52 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7868*]:
     → "Dvergr are known for our manual dexterity, and since ancient times have heeded the call of crafting weapons and armor of the finest quality."
 128: 0x1B59 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x1B5A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7868*]:
+129: 0x1B5A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7869*]:
     → "But not all of us are cut from the same cloth. Surely you can appreciate this, [son/daughter] of man."
 130: 0x1B61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x1B62 [0x52] END_LOAD_SCHEDULER: End scheduler "bf11" with entities [EventEntity, EventEntity], work=730*
 132: 0x1B71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf12" with entities [EventEntity, EventEntity], work=[730*, 0*]
-133: 0x1B82 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7869*]:
+133: 0x1B82 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7870*]:
     → "I never had a penchant for hands-on affairs, and dedicated all my time to academic pursuits, finally settling upon one very precise topic of inquiry."
 134: 0x1B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x1B8A [0x52] END_LOAD_SCHEDULER: End scheduler "bf12" with entities [EventEntity, EventEntity], work=730*
 136: 0x1B99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf13" with entities [EventEntity, EventEntity], work=[730*, 0*]
 137: 0x1BAA [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="yes0", extra=170*)
-138: 0x1BBC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7870*]:
+138: 0x1BBC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7871*]:
     → "Spirits."
 139: 0x1BC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x1BC4 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2145,10 +2145,10 @@ SUBROUTINE_1A31:
 142: 0x1BE1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf14" with entities [EventEntity, EventEntity], work=[730*, 0*]
 143: 0x1BF2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk0", extra=170*)
 144: 0x1C04 [0x1C] WAIT(30* ticks)
-145: 0x1C07 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7871*]:
+145: 0x1C07 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7872*]:
     → "All things, living and non-living, have a spirit. The more I study, the more I thirst for knowledge. I have lost track of the countless years I have spent in research, yet I am no closer to drawing a conclusion than I was when I started."
 146: 0x1C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x1C0F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7872*]:
+147: 0x1C0F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7873*]:
     → "A Devrgr's lifespan is measured in centuries, yet every second that goes by without answers agitates me further."
 148: 0x1C16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x1C17 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2156,12 +2156,12 @@ SUBROUTINE_1A31:
 151: 0x1C37 [0x1C] WAIT(60* ticks)
 152: 0x1C3A [0x52] END_LOAD_SCHEDULER: End scheduler "bf14" with entities [EventEntity, EventEntity], work=730*
 153: 0x1C49 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bf15" with entities [EventEntity, EventEntity], work=[730*, 0*]
-154: 0x1C5A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7873*]:
+154: 0x1C5A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7874*]:
     → "This is my sole reason for living, and I will not rest until I am satisfied."
 155: 0x1C61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x1C62 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 157: 0x1C70 [0x1A] CALL_SUBROUTINE(address=0x394C)
-158: 0x1C73 [0x48] [System] [7364*]:
+158: 0x1C73 [0x48] [System] [7365*]:
     → "@@"
 159: 0x1C76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x1C77 [0x03] Work_Zone[1] = 2*
@@ -2301,26 +2301,26 @@ SUBROUTINE_1CF3:
  31: 0x1E50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bh01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  32: 0x1E61 [0x1A] CALL_SUBROUTINE(address=0x392B)
  33: 0x1E64 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
- 34: 0x1E76 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7875*]:
+ 34: 0x1E76 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7876*]:
     → "Ah, this is quite wonderful! The sky contains not a single cloud of doubt owing to your herculean efforts."
  35: 0x1E7D [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x1E7E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  37: 0x1E8C [0x52] END_LOAD_SCHEDULER: End scheduler "bh01" with entities [EventEntity, EventEntity], work=730*
  38: 0x1E9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bh02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 39: 0x1EAC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7876*]:
+ 39: 0x1EAC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7877*]:
     → "But we must act again before the rain threatens us."
  40: 0x1EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x1EB4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7877*]:
+ 41: 0x1EB4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7878*]:
     → "I yearn to see how you stand in the face of the most dreadful of memories."
  42: 0x1EBB [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x1EBC [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk0", extra=150*)
  44: 0x1ECE [0x1C] WAIT(45* ticks)
  45: 0x1ED1 [0x52] END_LOAD_SCHEDULER: End scheduler "bh02" with entities [EventEntity, EventEntity], work=730*
  46: 0x1EE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bh03" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 47: 0x1EF1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7878*]:
+ 47: 0x1EF1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7879*]:
     → "Yet I remain perplexed... If this sigil was but a fabrication, then why would I feel such an unfamiliar energy emanating from it? Is there some connection that escapes my gaze?"
  48: 0x1EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x1EF9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7879*]:
+ 49: 0x1EF9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7880*]:
     → "Ah, but that only means I have yet one more subject to research. I shall take my time and dissect this curious specimen."
  50: 0x1F00 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x1F01 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2328,7 +2328,7 @@ SUBROUTINE_1CF3:
  53: 0x1F1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bh04" with entities [EventEntity, EventEntity], work=[730*, 0*]
  54: 0x1F2F [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk1", extra=150*)
  55: 0x1F41 [0x1C] WAIT(30* ticks)
- 56: 0x1F44 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7880*]:
+ 56: 0x1F44 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7881*]:
     → "Go forth, <Player>, and let the seeds I have sown bloom and flourish!"
  57: 0x1F4B [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1F4C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2519,7 +2519,7 @@ SUBROUTINE_1CF3:
  35: 0x20E6 [0x1C] WAIT(60* ticks)
  36: 0x20E9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="non0", extra=170*)
  37: 0x20FB [0x03] Work_Zone[2] = 2824*
- 38: 0x2100 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7881*]:
+ 38: 0x2100 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7882*]:
     → "You don't wish to return your $3, do you?"
  39: 0x2107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x2108 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2528,7 +2528,7 @@ SUBROUTINE_1CF3:
  43: 0x2136 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x2143
  44: 0x213E [0x03] ExtData[1]->WorkLocal[2] = 2*
  45: 0x2143 [0x03] Work_Zone[2] = 2824*
- 46: 0x2148 [0x24] CREATE_DIALOG(message_id=7882*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 46: 0x2148 [0x24] CREATE_DIALOG(message_id=7883*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "How do you respond? [Actually, I do want to return it./I want to know more./Heavens forbid!]"
  47: 0x214F [0x25] WAIT_DIALOG_SELECT()
  48: 0x2150 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22DE
@@ -2536,23 +2536,23 @@ SUBROUTINE_1CF3:
  50: 0x215F [0x99] Wait for LocalPlayer animation to complete
  51: 0x2164 [0x1C] WAIT(90* ticks)
  52: 0x2167 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="non0", extra=170*)
- 53: 0x2179 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7883*]:
+ 53: 0x2179 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7884*]:
     → "Humanity is fickle, indeed. But don't flatter yourself to think I care one onz about your inner workings. Know only that if you return it, the sigils will fully dissipate."
  54: 0x2180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x2181 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  56: 0x218F [0x52] END_LOAD_SCHEDULER: End scheduler "bj02" with entities [EventEntity, EventEntity], work=730*
  57: 0x219E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj03" with entities [EventEntity, EventEntity], work=[730*, 0*]
  58: 0x21AF [0x03] Work_Zone[2] = 2821*
- 59: 0x21B4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7884*]:
+ 59: 0x21B4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7885*]:
     → "Be warned that you will have to bring $6 should you desire another."
  60: 0x21BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x21BC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7885*]:
+ 61: 0x21BC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7886*]:
     → "Choose wisely, [son/daughter] of man."
  62: 0x21C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x21C4 [0x52] END_LOAD_SCHEDULER: End scheduler "bj03" with entities [EventEntity, EventEntity], work=730*
  64: 0x21D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj04" with entities [EventEntity, EventEntity], work=[730*, 0*]
  65: 0x21E4 [0x03] Work_Zone[2] = 2824*
- 66: 0x21E9 [0x24] CREATE_DIALOG(message_id=7861*, default_option=1*, option_flags=0*)
+ 66: 0x21E9 [0x24] CREATE_DIALOG(message_id=7862*, default_option=1*, option_flags=0*)
     → "Return $3? [Yep, who needs it?/No, it might prove useful.]"
  67: 0x21F0 [0x25] WAIT_DIALOG_SELECT()
  68: 0x21F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22AD
@@ -2564,17 +2564,17 @@ SUBROUTINE_1CF3:
  74: 0x2228 [0x52] END_LOAD_SCHEDULER: End scheduler "bj05" with entities [EventEntity, EventEntity], work=730*
  75: 0x2237 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj06" with entities [EventEntity, EventEntity], work=[730*, 0*]
  76: 0x2248 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="non0", extra=170*)
- 77: 0x225A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7886*]:
+ 77: 0x225A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7887*]:
     → "Avarice is not a word in your vocabulary. That much I can commend. Perhaps that is one difference between humanity and Dvergr kind--not that I pretend to understand it."
  78: 0x2261 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x2262 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7887*]:
+ 79: 0x2262 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7888*]:
     → "Nor do I wish to."
  80: 0x2269 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x226A [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  82: 0x2278 [0x52] END_LOAD_SCHEDULER: End scheduler "bj06" with entities [EventEntity, EventEntity], work=730*
  83: 0x2287 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj07" with entities [EventEntity, EventEntity], work=[730*, 0*]
  84: 0x2298 [0x03] Work_Zone[2] = 2821*
- 85: 0x229D [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7888*]:
+ 85: 0x229D [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7889*]:
     → "6 is all you need bring me to receive another."
  86: 0x22A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x22A5 [0x03] Work_Zone[1] = 1*
@@ -2589,50 +2589,50 @@ SUBROUTINE_22DB:
  94: 0x22DE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2526
  95: 0x22E6 [0x52] END_LOAD_SCHEDULER: End scheduler "bj02" with entities [EventEntity, EventEntity], work=730*
  96: 0x22F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj08" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 97: 0x2306 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7889*]:
+ 97: 0x2306 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7890*]:
     → "I'm far too busy to engage in small talk with you. ...But as you have done me a service thus far, I'll condescend to your request."
  98: 0x230D [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x230E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk0", extra=150*)
 100: 0x2320 [0x1C] WAIT(60* ticks)
-101: 0x2323 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7890*]:
+101: 0x2323 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7891*]:
     → "Let's see... Aha. Perhaps this will be of interest."
 102: 0x232A [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x232B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 104: 0x2339 [0x52] END_LOAD_SCHEDULER: End scheduler "bj08" with entities [EventEntity, EventEntity], work=730*
 105: 0x2348 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj09" with entities [EventEntity, EventEntity], work=[730*, 0*]
-106: 0x2359 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7891*]:
+106: 0x2359 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7892*]:
     → "My research has produced several interesting byproducts, the likes of which I have scattered about the world."
 107: 0x2360 [0x23] WAIT_FOR_DIALOG_INTERACTION
-108: 0x2361 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7892*]:
+108: 0x2361 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7893*]:
     → "Those were lifeless dolls into which I breathed energy, simply to see how they react to their surroundings."
 109: 0x2368 [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x2369 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7893*]:
+110: 0x2369 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7894*]:
     → "True, I could have found more handy vessels, but I wanted something more close-to-home to infuse with something based on my own spirit."
 111: 0x2370 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x2371 [0x52] END_LOAD_SCHEDULER: End scheduler "bj09" with entities [EventEntity, EventEntity], work=730*
 113: 0x2380 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj10" with entities [EventEntity, EventEntity], work=[730*, 0*]
 114: 0x2391 [0x1C] WAIT(60* ticks)
-115: 0x2394 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7894*]:
+115: 0x2394 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7895*]:
     → "So what exactly have they been up to of late? Ah, perhaps I shouldn't have been so derelict in overseeing them."
 116: 0x239B [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x239C [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk1", extra=150*)
 118: 0x23AE [0x1C] WAIT(45* ticks)
 119: 0x23B1 [0x52] END_LOAD_SCHEDULER: End scheduler "bj10" with entities [EventEntity, EventEntity], work=730*
 120: 0x23C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj11" with entities [EventEntity, EventEntity], work=[730*, 0*]
-121: 0x23D1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7895*]:
+121: 0x23D1 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7896*]:
     → "Bah. They're just dolls. No use getting sentimental over them."
 122: 0x23D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x23D9 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 124: 0x23E7 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="tlk0", extra=170*)
-125: 0x23F9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7896*]:
+125: 0x23F9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7897*]:
     → "The entire enterprise is grounded in recent breakthroughs to codex techniques--the ability to transfer spirits from one place into another."
 126: 0x2400 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x2401 [0x52] END_LOAD_SCHEDULER: End scheduler "bj11" with entities [EventEntity, EventEntity], work=730*
 128: 0x2410 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bj12" with entities [EventEntity, EventEntity], work=[730*, 0*]
-129: 0x2421 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7897*]:
+129: 0x2421 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7898*]:
     → "When a spirit is refined, it begins to glitter like a diamond bathed in ever-increasing quantities of light. But a spirit can only inhabit one vessel at a time, so there is a limit to how much it can grow during its host's life."
 130: 0x2428 [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x2429 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7898*]:
+131: 0x2429 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7899*]:
     → "Moving it to another host, however, enables it to grow into something it ordinarily cannot, containing information and memories from a variety of its previous vessels."
 132: 0x2430 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x2431 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2642,19 +2642,19 @@ SUBROUTINE_22DB:
 137: 0x2471 [0x1C] WAIT(45* ticks)
 138: 0x2474 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x24B4
 139: 0x247C [0x03] Work_Zone[2] = 2350*
-140: 0x2481 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7899*]:
+140: 0x2481 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7900*]:
     → "The $3 you hold now is exactly that which I have explained to you. Consider yourself lucky to be in possession of such a rare piece."
 141: 0x2488 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x2489 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 143: 0x2497 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
-144: 0x24A9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7900*]:
+144: 0x24A9 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7901*]:
     → "Continue, then, to help it absorb knowledge."
 145: 0x24B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x24B1 [0x01] GOTO 0x24E4
-147: 0x24B4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7901*]:
+147: 0x24B4 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7902*]:
     → "I have sent some of my most trusted assistants to the vitalized place you call the Middle Lands to manage these techniques, sharing them with the worthy."
 148: 0x24BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x24BC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7902*]:
+149: 0x24BC [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7903*]:
     → "Visit them should you wish to learn more. You can see the world from a completely new...perspective. Oooh hooo hoo!"
 150: 0x24C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x24C4 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2848,7 +2848,7 @@ SUBROUTINE_25F1:
  30: 0x274D [0x9A] WAIT_MUSIC_SERVER()
  31: 0x274E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  32: 0x275F [0x1A] CALL_SUBROUTINE(address=0x392B)
- 33: 0x2762 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7908*]:
+ 33: 0x2762 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7909*]:
     → "Oooh hooo hooo! Now this--this is something else! If you will..."
  34: 0x2769 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x276A [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk0", extra=150*)
@@ -2856,14 +2856,14 @@ SUBROUTINE_25F1:
  37: 0x278A [0x52] END_LOAD_SCHEDULER: End scheduler "bk01" with entities [EventEntity, EventEntity], work=730*
  38: 0x2799 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk02" with entities [EventEntity, EventEntity], work=[730*, 0*]
  39: 0x27AA [0x1C] WAIT(30* ticks)
- 40: 0x27AD [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7909*]:
+ 40: 0x27AD [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7910*]:
     → "..."
  41: 0x27B4 [0x1C] WAIT(60* ticks)
  42: 0x27B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x27B8 [0x52] END_LOAD_SCHEDULER: End scheduler "bk02" with entities [EventEntity, EventEntity], work=730*
  44: 0x27C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk03" with entities [EventEntity, EventEntity], work=[730*, 0*]
  45: 0x27D8 [0x1C] WAIT(30* ticks)
- 46: 0x27DB [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7910*]:
+ 46: 0x27DB [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7911*]:
     → "......"
  47: 0x27E2 [0x1C] WAIT(120* ticks)
  48: 0x27E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2871,21 +2871,21 @@ SUBROUTINE_25F1:
  50: 0x27F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk04" with entities [EventEntity, EventEntity], work=[730*, 0*]
  51: 0x2806 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk1", extra=150*)
  52: 0x2818 [0x1C] WAIT(60* ticks)
- 53: 0x281B [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7911*]:
+ 53: 0x281B [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7912*]:
     → "Aha. So that's why..."
  54: 0x2822 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x2823 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
- 56: 0x2831 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7912*]:
+ 56: 0x2831 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7913*]:
     → "Now that I understand, I must admit the whole ordeal was rather anticlimactic."
  57: 0x2838 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x2839 [0x52] END_LOAD_SCHEDULER: End scheduler "bk04" with entities [EventEntity, EventEntity], work=730*
  59: 0x2848 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk05" with entities [EventEntity, EventEntity], work=[730*, 0*]
  60: 0x2859 [0x1C] WAIT(30* ticks)
- 61: 0x285C [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7913*]:
+ 61: 0x285C [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7914*]:
     → "To think I was the one who started it in the first place..."
  62: 0x2863 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x2864 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="non0", extra=170*)
- 64: 0x2876 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7914*]:
+ 64: 0x2876 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7915*]:
     → "Oooh hooo hooo...but that is a success in and of itself."
  65: 0x287D [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x287E [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2893,18 +2893,18 @@ SUBROUTINE_25F1:
  68: 0x289B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk06" with entities [EventEntity, EventEntity], work=[730*, 0*]
  69: 0x28AC [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0E)
  70: 0x28B3 [0x1C] WAIT(30* ticks)
- 71: 0x28B6 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7915*]:
+ 71: 0x28B6 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7916*]:
     → "What's wrong, <Player>?"
  72: 0x28BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x28BE [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="yes0", extra=170*)
- 74: 0x28D0 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7916*]:
+ 74: 0x28D0 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7917*]:
     → "Ah, but I needn't even ask. You feel a bit left out, don't you? I can read it not from your spirit, but from your face."
  75: 0x28D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x28D8 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  77: 0x28E6 [0x52] END_LOAD_SCHEDULER: End scheduler "bk06" with entities [EventEntity, EventEntity], work=730*
  78: 0x28F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk07" with entities [EventEntity, EventEntity], work=[730*, 0*]
  79: 0x2906 [0x1C] WAIT(30* ticks)
- 80: 0x2909 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7917*]:
+ 80: 0x2909 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7918*]:
     → "The bearer of this sigil used to be a pupil of mine, also engaged in the studying of spirits."
  81: 0x2910 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x2911 [0x6E] LocalPlayer uses emote 21*
@@ -2912,43 +2912,43 @@ SUBROUTINE_25F1:
  84: 0x291D [0x1C] WAIT(45* ticks)
  85: 0x2920 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
  86: 0x2932 [0x03] Work_Zone[2] = 2821*
- 87: 0x2937 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7918*]:
+ 87: 0x2937 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7919*]:
     → "That would explain the strange forces I felt upon first taking hold of the $3."
  88: 0x293E [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x293F [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
  90: 0x294D [0x52] END_LOAD_SCHEDULER: End scheduler "bk07" with entities [EventEntity, EventEntity], work=730*
  91: 0x295C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk08" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 92: 0x296D [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7919*]:
+ 92: 0x296D [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7920*]:
     → "And it only makes sense that I couldn't tell at first--his spirit was incomplete."
  93: 0x2974 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x2975 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk0", extra=150*)
  95: 0x2987 [0x1C] WAIT(60* ticks)
  96: 0x298A [0x52] END_LOAD_SCHEDULER: End scheduler "bk08" with entities [EventEntity, EventEntity], work=730*
  97: 0x2999 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk09" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 98: 0x29AA [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7920*]:
+ 98: 0x29AA [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7921*]:
     → "A partially broken spirit is lacking in information. It's of little surprise I was unable to ascertain its true nature."
  99: 0x29B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x29B2 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7921*]:
+100: 0x29B2 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7922*]:
     → "I am able to reach an appropriate conclusion now that I have studied it in full."
 101: 0x29B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x29BA [0x52] END_LOAD_SCHEDULER: End scheduler "bk09" with entities [EventEntity, EventEntity], work=730*
 103: 0x29C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk10" with entities [EventEntity, EventEntity], work=[730*, 0*]
-104: 0x29DA [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7922*]:
+104: 0x29DA [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7923*]:
     → ""Full" may not be the appropriate term, as it is only a fabrication of the real thing, but it looks like I will have to dismantle it."
 105: 0x29E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x29E2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk1", extra=150*)
 107: 0x29F4 [0x1C] WAIT(45* ticks)
-108: 0x29F7 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7923*]:
+108: 0x29F7 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7924*]:
     → "To think that he was the first to fully succeed in implementing the techniques I was studying! The student had overtaken the master--bittersweet, to be sure."
 109: 0x29FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x29FF [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 111: 0x2A0D [0x52] END_LOAD_SCHEDULER: End scheduler "bk10" with entities [EventEntity, EventEntity], work=730*
 112: 0x2A1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk11" with entities [EventEntity, EventEntity], work=[730*, 0*]
 113: 0x2A2D [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
-114: 0x2A3F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7924*]:
+114: 0x2A3F [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7925*]:
     → "Ah, now I remember what a bright, diligent pupil he was."
 115: 0x2A46 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x2A47 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7925*]:
+116: 0x2A47 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7926*]:
     → "Humanity is flawed--but perhaps he was able to overcome precisely because of those same flaws."
 117: 0x2A4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x2A4F [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -2956,45 +2956,45 @@ SUBROUTINE_25F1:
 120: 0x2A6F [0x1C] WAIT(30* ticks)
 121: 0x2A72 [0x52] END_LOAD_SCHEDULER: End scheduler "bk11" with entities [EventEntity, EventEntity], work=730*
 122: 0x2A81 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk12" with entities [EventEntity, EventEntity], work=[730*, 0*]
-123: 0x2A92 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7926*]:
+123: 0x2A92 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7927*]:
     → "His perspective differed from mine. Whereas I sought to experiment on others, he turned his gaze on himself. He must have learned something about transmigrating Galka in the process."
 124: 0x2A99 [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x2A9A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7927*]:
+125: 0x2A9A [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7928*]:
     → "It would certainly be the right answer for mankind, pitiful beings whose lifespans are limited."
 126: 0x2AA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x2AA2 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
-128: 0x2AB0 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7928*]:
+128: 0x2AB0 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7929*]:
     → "But still..."
 129: 0x2AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x2AB8 [0x52] END_LOAD_SCHEDULER: End scheduler "bk12" with entities [EventEntity, EventEntity], work=730*
 131: 0x2AC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk13" with entities [EventEntity, EventEntity], work=[730*, 0*]
 132: 0x2AD8 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="thk1", extra=150*)
 133: 0x2AEA [0x1C] WAIT(60* ticks)
-134: 0x2AED [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7929*]:
+134: 0x2AED [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7930*]:
     → "Was his conclusion really the one he should have been after?"
 135: 0x2AF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x2AF5 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7930*]:
+136: 0x2AF5 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7931*]:
     → "Did he catch a glimpse into the true nature of the spirit?"
 137: 0x2AFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x2AFD [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
 139: 0x2B0B [0x52] END_LOAD_SCHEDULER: End scheduler "bk13" with entities [EventEntity, EventEntity], work=730*
 140: 0x2B1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk14" with entities [EventEntity, EventEntity], work=[730*, 0*]
-141: 0x2B2B [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7931*]:
+141: 0x2B2B [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7932*]:
     → "Unfortunately, that much I cannot glean from this sigil. Oooh hooo hooo! My research continues after all."
 142: 0x2B32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x2B33 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="lah0", extra=150*)
 144: 0x2B45 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
-145: 0x2B53 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7932*]:
+145: 0x2B53 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7933*]:
     → "But you didn't come here to listen to me wax poetic about the past."
 146: 0x2B5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x2B5B [0x52] END_LOAD_SCHEDULER: End scheduler "bk14" with entities [EventEntity, EventEntity], work=730*
 148: 0x2B6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bk15" with entities [EventEntity, EventEntity], work=[730*, 0*]
 149: 0x2B7B [0x5F] MULTI_HANDLER_COMPLEX(mode=0x05 - Load ext scheduler with flag (OpCode 0x5B mode 0, flag 1), ref=3851*, entity1=Unnamed NPC (ID: 17928229/0x01119025), entity2=Unnamed NPC (ID: 17928229/0x01119025), string="yes0", extra=170*)
-150: 0x2B8D [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7933*]:
+150: 0x2B8D [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7934*]:
     → "Let me instead implore you to continue assisting me. He may have learned the truth, but I have not."
 151: 0x2B94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x2B95 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
-153: 0x2BA3 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7934*]:
+153: 0x2BA3 [0x2B] Unnamed NPC (ID: 17928229/0x01119025) [7935*]:
     → "How invigorating this research has been! Every time I reach a dead end, the world breaks down yet another wall."
 154: 0x2BAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x2BAB [0x1A] CALL_SUBROUTINE(address=0x398E)
@@ -3209,7 +3209,7 @@ SUBROUTINE_25F1:
  53: 0x2D7E [0x1C] WAIT(90* ticks)
  54: 0x2D81 [0x52] END_LOAD_SCHEDULER: End scheduler "bi01" with entities [EventEntity, EventEntity], work=730*
  55: 0x2D90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 56: 0x2DA1 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7935*]:
+ 56: 0x2DA1 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7936*]:
     → "<Player>. Our master is not present, out running experiments, and has left for the time being."
  57: 0x2DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x2DA9 [0x52] END_LOAD_SCHEDULER: End scheduler "bi02" with entities [EventEntity, EventEntity], work=730*
@@ -3230,7 +3230,7 @@ SUBROUTINE_25F1:
  73: 0x2E19 [0x03] Work_Zone[4] = 2823*
  74: 0x2E1E [0x03] Work_Zone[5] = 2824*
  75: 0x2E23 [0x03] Work_Zone[6] = 2822*
- 76: 0x2E28 [0x24] CREATE_DIALOG(message_id=7936*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 76: 0x2E28 [0x24] CREATE_DIALOG(message_id=7937*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "What do you require? [I want $6./I want $6./Return $6./Return $6./Hand over $6./Nothing for now.]"
  77: 0x2E2F [0x25] WAIT_DIALOG_SELECT()
  78: 0x2E30 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2E8A
@@ -3239,7 +3239,7 @@ SUBROUTINE_25F1:
  81: 0x2E58 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0E)
  82: 0x2E5F [0x1C] WAIT(30* ticks)
  83: 0x2E62 [0x03] Work_Zone[2] = 2823*
- 84: 0x2E67 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7937*]:
+ 84: 0x2E67 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7938*]:
     → "6? Then go, take it, and be on your way. I'll keep your three sigils safe."
  85: 0x2E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x2E6F [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0F)
@@ -3256,7 +3256,7 @@ SUBROUTINE_25F1:
  97: 0x2EB9 [0x1C] WAIT(30* ticks)
  98: 0x2EBC [0x03] Work_Zone[3] = 2824*
  99: 0x2EC1 [0x03] Work_Zone[4] = 2821*
-100: 0x2EC6 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7938*]:
+100: 0x2EC6 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7939*]:
     → "$6? Then go, take it, and be on your way. I'll keep your $3 safe."
 101: 0x2ECD [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x2ECE [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x0F)
@@ -3271,22 +3271,22 @@ SUBROUTINE_25F1:
 111: 0x2EF8 [0x1C] WAIT(30* ticks)
 112: 0x2EFB [0x52] END_LOAD_SCHEDULER: End scheduler "bi03" with entities [EventEntity, EventEntity], work=730*
 113: 0x2F0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi05" with entities [EventEntity, EventEntity], work=[730*, 0*]
-114: 0x2F1B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7939*]:
+114: 0x2F1B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7940*]:
     → "Our master says that there's no need, requirement, or reason for you to return it. But if you desire to..."
 115: 0x2F22 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x2F23 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7940*]:
+116: 0x2F23 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7941*]:
     → "No need! None! The sigils will vanish and you will need to get them again for another!"
 117: 0x2F2A [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x2F2B [0x52] END_LOAD_SCHEDULER: End scheduler "bi05" with entities [EventEntity, EventEntity], work=730*
 119: 0x2F3A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi06" with entities [EventEntity, EventEntity], work=[730*, 0*]
-120: 0x2F4B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7941*]:
+120: 0x2F4B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7942*]:
     → "Make a choice, pick your poison, and decide quickly."
 121: 0x2F52 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x2F53 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7942*]:
+122: 0x2F53 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7943*]:
     → "The power is yours!"
 123: 0x2F5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x2F5B [0x03] Work_Zone[2] = 2823*
-125: 0x2F60 [0x24] CREATE_DIALOG(message_id=7861*, default_option=1*, option_flags=0*)
+125: 0x2F60 [0x24] CREATE_DIALOG(message_id=7862*, default_option=1*, option_flags=0*)
     → "Return $3? [Yep, who needs it?/No, it might prove useful.]"
 126: 0x2F67 [0x25] WAIT_DIALOG_SELECT()
 127: 0x2F68 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2FB0
@@ -3305,7 +3305,7 @@ SUBROUTINE_2FB0:
 138: 0x2FB0 [0x52] END_LOAD_SCHEDULER: End scheduler "bi06" with entities [EventEntity, EventEntity], work=730*
 139: 0x2FBF [0x52] END_LOAD_SCHEDULER: End scheduler "bi07" with entities [EventEntity, EventEntity], work=730*
 140: 0x2FCE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi08" with entities [EventEntity, EventEntity], work=[730*, 0*]
-141: 0x2FDF [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7943*]:
+141: 0x2FDF [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7944*]:
     → "Do you have any other needs, desires, or wants?"
 142: 0x2FE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x2FE7 [0x52] END_LOAD_SCHEDULER: End scheduler "bi08" with entities [EventEntity, EventEntity], work=730*
@@ -3316,7 +3316,7 @@ SUBROUTINE_30D4:
 146: 0x30D4 [0x52] END_LOAD_SCHEDULER: End scheduler "bi06" with entities [EventEntity, EventEntity], work=730*
 147: 0x30E3 [0x52] END_LOAD_SCHEDULER: End scheduler "bi07" with entities [EventEntity, EventEntity], work=730*
 148: 0x30F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi08" with entities [EventEntity, EventEntity], work=[730*, 0*]
-149: 0x3103 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7943*]:
+149: 0x3103 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7944*]:
     → "Do you have any other needs, desires, or wants?"
 150: 0x310A [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x310B [0x52] END_LOAD_SCHEDULER: End scheduler "bi08" with entities [EventEntity, EventEntity], work=730*
@@ -3327,22 +3327,22 @@ SUBROUTINE_31EC:
 154: 0x31EC [0x52] END_LOAD_SCHEDULER: End scheduler "bi04" with entities [EventEntity, EventEntity], work=730*
 155: 0x31FB [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x3259
 156: 0x3203 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi09" with entities [EventEntity, EventEntity], work=[730*, 0*]
-157: 0x3214 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7944*]:
+157: 0x3214 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7945*]:
     → "Let me warn you, provide guidance, and be frank. That alone will not open the gates."
 158: 0x321B [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x321C [0x03] Work_Zone[2] = 2641*
 160: 0x3221 [0x03] Work_Zone[3] = 9008*
-161: 0x3226 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7945*]:
+161: 0x3226 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7946*]:
     → "It won't! You'll also need $6, which we can give you in exchange for $1!"
 162: 0x322D [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x322E [0x52] END_LOAD_SCHEDULER: End scheduler "bi09" with entities [EventEntity, EventEntity], work=730*
 164: 0x323D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi08" with entities [EventEntity, EventEntity], work=[730*, 0*]
-165: 0x324E [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7946*]:
+165: 0x324E [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7947*]:
     → "We'll be waiting patiently, calmly, and with bated breath."
 166: 0x3255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x3256 [0x01] GOTO 0x3272
 168: 0x3259 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi08" with entities [EventEntity, EventEntity], work=[730*, 0*]
-169: 0x326A [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7943*]:
+169: 0x326A [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7944*]:
     → "Do you have any other needs, desires, or wants?"
 170: 0x3271 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3354,12 +3354,12 @@ SUBROUTINE_3272:
 SUBROUTINE_3295:
 174: 0x3295 [0x52] END_LOAD_SCHEDULER: End scheduler "bi03" with entities [EventEntity, EventEntity], work=730*
 175: 0x32A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bi10" with entities [EventEntity, EventEntity], work=[730*, 0*]
-176: 0x32B5 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7947*]:
+176: 0x32B5 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7948*]:
     → "Our master awaits your results, outcomes, and conclusions."
 177: 0x32BC [0x1C] WAIT(15* ticks)
 178: 0x32BF [0x1C] WAIT(45* ticks)
 179: 0x32C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-180: 0x32C3 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7948*]:
+180: 0x32C3 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7949*]:
     → "He does! Don't let him down!"
 181: 0x32CA [0x1C] WAIT(15* ticks)
 182: 0x32CD [0x1C] WAIT(45* ticks)
@@ -3596,18 +3596,18 @@ SUBROUTINE_3295:
  44: 0x346E [0x9A] WAIT_MUSIC_SERVER()
  45: 0x346F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bd01" with entities [EventEntity, EventEntity], work=[730*, 0*]
  46: 0x3480 [0x1A] CALL_SUBROUTINE(address=0x392B)
- 47: 0x3483 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7951*]:
+ 47: 0x3483 [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7952*]:
     → "You seem to be enjoying, having fun, and finding pleasure in our little escapade. Those little charms of yours are proof of that fact."
  48: 0x348A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x348B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7952*]:
+ 49: 0x348B [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7953*]:
     → "They are special trinkets that our master has prepared above and beyond the sigils with which you are familiar."
  50: 0x3492 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x3493 [0x52] END_LOAD_SCHEDULER: End scheduler "bd01" with entities [EventEntity, EventEntity], work=730*
  52: 0x34A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bd02" with entities [EventEntity, EventEntity], work=[730*, 0*]
- 53: 0x34B3 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7953*]:
+ 53: 0x34B3 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7954*]:
     → "Familiar indeed! And they are critical in our research."
  54: 0x34BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x34BB [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7954*]:
+ 55: 0x34BB [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7955*]:
     → "Yes, quite critical! And we are prepared to offer you proper recompense!"
  56: 0x34C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x34C3 [0x3E] IF !(ExtData[1]->WorkLocal[10] bit 1*) GOTO 0x34D2
@@ -3619,7 +3619,7 @@ SUBROUTINE_34D7:
  61: 0x34D7 [0x03] Work_Zone_1700[29] = 0*
  62: 0x34DC [0x03] Work_Zone_1700[30] = 0*
  63: 0x34E1 [0x03] Work_Zone_1700[31] = 0*
- 64: 0x34E6 [0x24] CREATE_DIALOG(message_id=7955*, default_option=Work_Zone_1700[28], option_flags=ExtData[1]->WorkLocal[10])
+ 64: 0x34E6 [0x24] CREATE_DIALOG(message_id=7956*, default_option=Work_Zone_1700[28], option_flags=ExtData[1]->WorkLocal[10])
     → "What would you like? [Nothing./Equipment./Materials./Whatever the master deems worthy.]"
  65: 0x34ED [0x25] WAIT_DIALOG_SELECT()
  66: 0x34EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3501
@@ -3692,7 +3692,7 @@ SUBROUTINE_36E7:
 129: 0x3747 [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration A (buffer=[E9 80 09 10 03 00 17 3D...])
 130: 0x3765 [0x17] 6367* = cos(0x03D4) * 11*
 131: 0x376C [0x02] IF !(0x0317 == Work_Zone_1700[29]) GOTO 0xD481
-132: 0x3774 [0x02] IF !(7956* UNKNOWN_COND_13 0*) GOTO 0x2517
+132: 0x3774 [0x02] IF !(7957* UNKNOWN_COND_13 0*) GOTO 0x2517
 133: 0x377C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x378A
 134: 0x3784 [0x01] GOTO 0x34D7
 
@@ -3702,10 +3702,10 @@ SUBROUTINE_37E3:
 137: 0x37EE [0x03] Work_Zone[1] = 2*
 138: 0x37F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 139: 0x37F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-140: 0x37F7 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7960*]:
+140: 0x37F7 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7961*]:
     → "Worthy! Yes, there is much the master deems worthy!"
 141: 0x37FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x37FF [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7961*]:
+142: 0x37FF [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7962*]:
     → "We respect, laud, and venerate your decision. Go now, and see what the master has deemed fit to give you."
 143: 0x3806 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x3807 [0x01] GOTO 0x380A
@@ -3783,16 +3783,16 @@ SUBROUTINE_398E:
      0x3692 [0x10] 0x272B <<= 0x1190
      0x3697 [0x01] GOTO 0x8132
      0x369A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x369B [0x24] CREATE_DIALOG(message_id=7958*, default_option=1*, option_flags=0*)
+     0x369B [0x24] CREATE_DIALOG(message_id=7959*, default_option=1*, option_flags=0*)
     → "Is that correct? [Of course./Hold on.]"
      0x36A2 [0x25] WAIT_DIALOG_SELECT()
      0x36A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x36CB
      0x36AB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x36AE [0x03] Work_Zone[2] = Work_Zone_1700[30]
-     0x36B3 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7959*]:
+     0x36B3 [0x2B] Unnamed NPC (ID: 17928231/0x01119027) [7960*]:
     → "A brand-new $0 just for you! Enjoy!"
      0x36BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x36BB [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7786*]:
+     0x36BB [0x2B] Unnamed NPC (ID: 17928230/0x01119026) [7787*]:
     → "Honored to receive your just reward!"
      0x36C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x36C3 [0x03] Work_Zone[1] = Work_Zone_1700[30]

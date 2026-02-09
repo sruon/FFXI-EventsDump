@@ -1,5 +1,5 @@
 # Strings for Hazhalm Testing Grounds
-# Total: 8133 strings
+# Total: 8134 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,50 +7226,50 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: The gate is firmly closed...
- 7228: You must move closer.
- 7229: This gate guards an area under Imperial control.
- 7230: "Azouph Isle Staging Point."
- 7231: "Mamool Ja Staging Point."
- 7232: "Halvung Staging Point."
- 7233: "Dvucca Isle Staging Point."
- 7234: "Ilrusi Atoll Staging Point."
- 7235: "Nyzul Isle Staging Point."
- 7236: Enter the gate? [Yes./No.]
- 7237: Leave through the gate? [Yes./No.]
- 7238: Use the device? [Yes./No.]
- 7239: You cannot leave this area while in the possession of $3.
- 7240: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
- 7241: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
- 7242: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
- 7243: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
- 7244: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
- 7245: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
- 7246: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
- 7247: This is a restricted area.
- 7248: There is no response...
- 7249: You're a mercenary from Salaheem's Sentinels?
- 7250: This tunnel leads to the Alzadaal Undersea Ruins.
- 7251: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
- 7252: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
- 7253: The fee for entering the ruins comes to $1 $0 .
- 7254: Very well. You may proceed.
- 7255: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
- 7256: Leave the ruins? [Yes, I'm done here./Not just yet.]
- 7257: DEBUG: You return your entry ticket.
- 7258: If you need a map of the ruins, you can purchase one for $1 $0 .
- 7259: Here is your $3. Keep it in a safe place.
- 7260: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
- 7261: You have a $3? Let me have a closer look at that...
- 7262: Enter the battlefield? [Enter./Decline.]
- 7263: Leave the battlefield? [Run away./Stay.]
- 7264: You cannot enter the battlefield at present. Please wait a little longer.
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: The gate is firmly closed...
+ 7229: You must move closer.
+ 7230: This gate guards an area under Imperial control.
+ 7231: "Azouph Isle Staging Point."
+ 7232: "Mamool Ja Staging Point."
+ 7233: "Halvung Staging Point."
+ 7234: "Dvucca Isle Staging Point."
+ 7235: "Ilrusi Atoll Staging Point."
+ 7236: "Nyzul Isle Staging Point."
+ 7237: Enter the gate? [Yes./No.]
+ 7238: Leave through the gate? [Yes./No.]
+ 7239: Use the device? [Yes./No.]
+ 7240: You cannot leave this area while in the possession of $3.
+ 7241: Attuning yourself to this runic portal will open a path to the Chamber of Passage.
+ 7242: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
+ 7243: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
+ 7244: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
+ 7245: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
+ 7246: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
+ 7247: <Player> has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
+ 7248: This is a restricted area.
+ 7249: There is no response...
+ 7250: You're a mercenary from Salaheem's Sentinels?
+ 7251: This tunnel leads to the Alzadaal Undersea Ruins.
+ 7252: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+ 7253: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+ 7254: The fee for entering the ruins comes to $1 $0 .
+ 7255: Very well. You may proceed.
+ 7256: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+ 7257: Leave the ruins? [Yes, I'm done here./Not just yet.]
+ 7258: DEBUG: You return your entry ticket.
+ 7259: If you need a map of the ruins, you can purchase one for $1 $0 .
+ 7260: Here is your $3. Keep it in a safe place.
+ 7261: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
+ 7262: You have a $3? Let me have a closer look at that...
+ 7263: Enter the battlefield? [Enter./Decline.]
+ 7264: Leave the battlefield? [Run away./Stay.]
  7265: You cannot enter the battlefield at present. Please wait a little longer.
- 7266: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7267: Your time in the battlefield is up! Now exiting...
- 7268: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7266: You cannot enter the battlefield at present. Please wait a little longer.
+ 7267: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7268: Your time in the battlefield is up! Now exiting...
  7269: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7270: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7271: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7279,59 +7279,59 @@
  7275: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7276: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7277: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7278: You have been enchanted so that you may enter!
- 7279: Your entry enchantment has expired!
- 7280: You are not cleared to enter the battlefield. Now exiting...
- 7281: A cursed seal has been placed upon this platform.
- 7282: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7283: There is no response. You cannot escape!
- 7284: The door is sealed shut with an evil curse.
- 7285: A mysterious force is sealing the platform.
- 7286: The old wooden door is locked tight.
- 7287: The door is sealed with a mysterious energy.
- 7288: It is a giant crystal.
- 7289: A strong magical force is whirling up from the platform.
- 7290: A fierce column of wind blocks your path. You cannot proceed any further...
- 7291: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7292: An unfathomable light is rising from this strangely marked platform...
- 7293: A heavy wooden gate. It is tightly locked...
- 7294: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7278: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7279: You have been enchanted so that you may enter!
+ 7280: Your entry enchantment has expired!
+ 7281: You are not cleared to enter the battlefield. Now exiting...
+ 7282: A cursed seal has been placed upon this platform.
+ 7283: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7284: There is no response. You cannot escape!
+ 7285: The door is sealed shut with an evil curse.
+ 7286: A mysterious force is sealing the platform.
+ 7287: The old wooden door is locked tight.
+ 7288: The door is sealed with a mysterious energy.
+ 7289: It is a giant crystal.
+ 7290: A strong magical force is whirling up from the platform.
+ 7291: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7292: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7293: An unfathomable light is rising from this strangely marked platform...
+ 7294: A heavy wooden gate. It is tightly locked...
  7295: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7296: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7297: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7298: A glowing mist of ever-changing proportions floats before you...
- 7299: A solid iron gate. It is tightly locked...
- 7300: You see a gigantic crystal, glowing with amber light...
+ 7298: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7299: A glowing mist of ever-changing proportions floats before you...
+ 7300: A solid iron gate. It is tightly locked...
  7301: You see a gigantic crystal, glowing with amber light...
- 7302: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7303: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7304: If you listen closely, you can faintly hear female voices singing in rounds...
- 7305: It appears as if something had been thrust into the rockface here...
- 7306: A decorative door. It appears to be locked...
- 7307: The door is locked.
- 7308: The gate is locked.
- 7309: The door is locked.
+ 7302: You see a gigantic crystal, glowing with amber light...
+ 7303: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7304: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7305: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7306: It appears as if something had been thrust into the rockface here...
+ 7307: A decorative door. It appears to be locked...
+ 7308: The door is locked.
+ 7309: The gate is locked.
  7310: The door is locked.
- 7311: There seems to be a space beneath the floor, but you are unable to access it.
- 7312: You do not meet the requirements to enter the battlefield. Access is denied.
- 7313: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7314: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7315: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7316: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7317: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7318: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7319: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7320: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7321: You were unable to protect the special character. Now leaving the battlefield.
- 7322: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7323: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7324: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7325: Your $0 is torn...
- 7326: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7327: Your $0 is torn...
- 7328: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7329: You see innumerable stars shimmering in the distance...
- 7330: @
+ 7311: The door is locked.
+ 7312: There seems to be a space beneath the floor, but you are unable to access it.
+ 7313: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7314: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7315: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7316: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7317: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7318: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7319: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7320: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7321: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7322: You were unable to protect the special character. Now leaving the battlefield.
+ 7323: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7324: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7325: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7326: Your $0 is torn...
+ 7327: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7328: Your $0 is torn...
+ 7329: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7330: You see innumerable stars shimmering in the distance...
  7331: @
  7332: @
  7333: @
@@ -7339,798 +7339,799 @@
  7335: @
  7336: @
  7337: @
- 7338: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7338: @
  7339: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7340: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7341: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7342: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7343: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7343: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7344: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7345: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7346: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7347: i$20%.%p$P15zj
- 7348: $7278448;39\5=Bj
+ 7346: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7347: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7348: i$20%.%p$P15zj
  7349: $7278448;39\5=Bj
  7350: $7278448;39\5=Bj
- 7351: remove@1
- 7352: remove@2
- 7353: remove@3
- 7354: i$3{$3X_A$P13|5=j
- 7355: i$3{$3X_B$P13|5=j
- 7356: i$3{$3X_C$P13|5=j
- 7357: $6750818j=j
- 7358: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7359: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7360: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7351: $7278448;39\5=Bj
+ 7352: remove@1
+ 7353: remove@2
+ 7354: remove@3
+ 7355: i$3{$3X_A$P13|5=j
+ 7356: i$3{$3X_B$P13|5=j
+ 7357: i$3{$3X_C$P13|5=j
+ 7358: $6750818j=j
+ 7359: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7360: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7361: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7362: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7363: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7364: GL$20%.L$P16<$P11Op)i$132960a b
- 7365: GL$20%.LIDp)i$132960a b
- 7366: $20%._AL$3p$3243853
- 7367: $20%._BL$3p$3243853
- 7368: $20%._CL$3p$3243853
- 7369: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7370: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7371: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7363: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7364: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7365: GL$20%.L$P16<$P11Op)i$132960a b
+ 7366: GL$20%.LIDp)i$132960a b
+ 7367: $20%._AL$3p$3243853
+ 7368: $20%._BL$3p$3243853
+ 7369: $20%._CL$3p$3243853
+ 7370: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7371: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7372: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7373: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7374: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7374: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7375: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7376: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7377: $6819916%L$P10l$20*()5"
+ 7377: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7378: $6819916%L$P10l$20*()5"
  7379: $6819916%L$P10l$20*()5"
- 7380: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7380: $6819916%L$P10l$20*()5"
  7381: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7382: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7383: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7384: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7385: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7386: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7387: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7388: i$20%._A$P13&$22$3C$3x$3$3g
- 7389: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7390: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7391: i$20%._B$P13&$22$3C$3x$3$3g
- 7392: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7393: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7394: i$20%._C$P13&$22$3C$3x$3$3g
- 7395: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7396: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7397: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7398: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7399: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7400: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7401: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7402: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7403: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7404: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7405: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7406: $6647884nding$8%p$@$s5\5=B
- 7407: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7383: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7384: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7385: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7386: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7387: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7388: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7389: i$20%._A$P13&$22$3C$3x$3$3g
+ 7390: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7391: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7392: i$20%._B$P13&$22$3C$3x$3$3g
+ 7393: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7394: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7395: i$20%._C$P13&$22$3C$3x$3$3g
+ 7396: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7397: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7398: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7399: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7400: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7401: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7402: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7403: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7404: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7405: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7406: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7407: $6647884nding$8%p$@$s5\5=B
  7408: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7409: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7410: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7411: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7412: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7413: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7414: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7415: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7416: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7417: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7418: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7419: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7420: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7421: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7422: ($20%._AM$0$P14u$6E7)
- 7423: ($20%._BM$0$P14u$6E7)
- 7424: ($20%._CM$0$P14u$6E7)
- 7425: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7426: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7427: i$20%._A$P13|$:I$3g$3$3C5\7
- 7428: i$20%._B$P13|$:I$3g$3$3C5\7
- 7429: i$20%._C$P13|$:I$3g$3$3C5\7
- 7430: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7431: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7432: (AIMID* h\9qE5=)
- 7433: (BIMID* h\9qE5=)
- 7434: (CIMID* h\9qE5=)
- 7435: (AIID* h\5=)
- 7436: (BIID* h\5=)
- 7437: (CIID* h\5=)
- 7438: (AM7EI$P10f$P16q* h\5=)
- 7439: (BM7EI$P10f$P16q* h\5=)
- 7440: (CM7EI$P10f$P16q* h\5=)
- 7441: $2097706ADH"=_$P13|$:E+\9q
- 7442: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7443: i$20%.%p$P15zj
- 7444: $7278448;39\5=Bj
+ 7410: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7411: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7412: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7413: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7414: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7415: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7416: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7417: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7418: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7419: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7420: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7421: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7422: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7423: ($20%._AM$0$P14u$6E7)
+ 7424: ($20%._BM$0$P14u$6E7)
+ 7425: ($20%._CM$0$P14u$6E7)
+ 7426: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7427: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7428: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7429: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7430: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7431: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7432: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7433: (AIMID* h\9qE5=)
+ 7434: (BIMID* h\9qE5=)
+ 7435: (CIMID* h\9qE5=)
+ 7436: (AIID* h\5=)
+ 7437: (BIID* h\5=)
+ 7438: (CIID* h\5=)
+ 7439: (AM7EI$P10f$P16q* h\5=)
+ 7440: (BM7EI$P10f$P16q* h\5=)
+ 7441: (CM7EI$P10f$P16q* h\5=)
+ 7442: $2097706ADH"=_$P13|$:E+\9q
+ 7443: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7444: i$20%.%p$P15zj
  7445: $7278448;39\5=Bj
  7446: $7278448;39\5=Bj
- 7447: i$3{$3X_A$A&=j
- 7448: i$3{$3X_B$A&=j
- 7449: i$3{$3X_C$A&=j
- 7450: i$3{$3X_A$P13|5=j
- 7451: i$3{$3X_B$P13|5=j
- 7452: i$3{$3X_C$P13|5=j
- 7453: H=M$20%.`I$P13|j;$E7
- 7454: H=M$20%.aI$P13|j;$E7
- 7455: H=M$20%.bI$P13|j;$E7
- 7456: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7457: $4457025i
- 7458: $4456998"i
- 7459: $24952730=j
- 7460: $656169$3$3N$3f$3b$3hj
- 7461: $P12N`"H"
- 7462: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7447: $7278448;39\5=Bj
+ 7448: i$3{$3X_A$A&=j
+ 7449: i$3{$3X_B$A&=j
+ 7450: i$3{$3X_C$A&=j
+ 7451: i$3{$3X_A$P13|5=j
+ 7452: i$3{$3X_B$P13|5=j
+ 7453: i$3{$3X_C$P13|5=j
+ 7454: H=M$20%.`I$P13|j;$E7
+ 7455: H=M$20%.aI$P13|j;$E7
+ 7456: H=M$20%.bI$P13|j;$E7
+ 7457: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7458: $4457025i
+ 7459: $4456998"i
+ 7460: $24952730=j
+ 7461: $656169$3$3N$3f$3b$3hj
+ 7462: $P12N`"H"
  7463: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7464: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7465: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7465: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7466: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7467: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7468: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7469: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7469: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7470: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7471: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7472: pending$3`$3F$3b$3N$3I[$3P[
- 7473: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7472: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7473: pending$3`$3F$3b$3N$3I[$3P[
  7474: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7475: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7476: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7477: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7478: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7479: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7480: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7476: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7477: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7478: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7479: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7480: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7481: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7482: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7483: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7484: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7485: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7486: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7487: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7488: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7489: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7490: $6750818j=j
- 7491: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7492: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7493: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7494: GL$20%.L$P16<$P11Op)i$132960a b
- 7495: GL$20%.LIDp)i$132960a b
- 7496: $20%._AL$3p$3243853
- 7497: $20%._BL$3p$3243853
- 7498: $20%._CL$3p$3243853
- 7499: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7500: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7501: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7483: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7484: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7485: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7486: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7487: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7488: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7489: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7490: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7491: $6750818j=j
+ 7492: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7493: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7494: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7495: GL$20%.L$P16<$P11Op)i$132960a b
+ 7496: GL$20%.LIDp)i$132960a b
+ 7497: $20%._AL$3p$3243853
+ 7498: $20%._BL$3p$3243853
+ 7499: $20%._CL$3p$3243853
+ 7500: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7501: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7502: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7503: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7504: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7504: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7505: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7506: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7507: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7508: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7509: $6819916%L$P10l$20*()5"
+ 7509: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7510: $6819916%L$P10l$20*()5"
- 7511: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7511: $6819916%L$P10l$20*()5"
  7512: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7513: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7514: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7515: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7516: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7517: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7518: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7519: i$20%._A$P13&$22$3C$3x$3$3g
- 7520: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7521: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7522: i$20%._B$P13&$22$3C$3x$3$3g
- 7523: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7524: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7525: i$20%._C$P13&$22$3C$3x$3$3g
- 7526: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7527: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7528: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7529: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7530: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7531: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7532: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7533: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7534: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7535: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7536: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7537: $6647884nding$8%p$@$s5\5=B
- 7538: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7514: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7515: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7516: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7517: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7518: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7519: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7520: i$20%._A$P13&$22$3C$3x$3$3g
+ 7521: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7522: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7523: i$20%._B$P13&$22$3C$3x$3$3g
+ 7524: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7525: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7526: i$20%._C$P13&$22$3C$3x$3$3g
+ 7527: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7528: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7529: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7530: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7531: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7532: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7533: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7534: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7535: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7536: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7537: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7538: $6647884nding$8%p$@$s5\5=B
  7539: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7540: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7541: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7542: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7543: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7544: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7545: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7546: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7547: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7548: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7549: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7550: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7551: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7552: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7553: ($20%._AM$0$P14u$6E7)
- 7554: ($20%._BM$0$P14u$6E7)
- 7555: ($20%._CM$0$P14u$6E7)
- 7556: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7557: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7558: i$20%._A$P13|$:I$3g$3$3C5\7
- 7559: i$20%._B$P13|$:I$3g$3$3C5\7
- 7560: i$20%._C$P13|$:I$3g$3$3C5\7
- 7561: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7562: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7563: (AIMID* h\9qE5=)
- 7564: (BIMID* h\9qE5=)
- 7565: (CIMID* h\9qE5=)
- 7566: (AIID* h\5=)
- 7567: (BIID* h\5=)
- 7568: (CIID* h\5=)
- 7569: (AM7EI$P10f$P16q* h\5=)
- 7570: (BM7EI$P10f$P16q* h\5=)
- 7571: (CM7EI$P10f$P16q* h\5=)
- 7572: $2097706ADH"=_$P13|$:E+\9q
- 7573: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7574: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7575: Only <Player> can enter the battlefield.
- 7576: The time limit for this battle is $3 minutes.
- 7577: There is a crack in the $3. It no longer contains a monster.
- 7578: A crack has formed on the $3, and the beast inside has been unleashed!
- 7579: Boss mode : $6!!
- 7580: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7581: $7
- 7582: DEBUG1
- 7583: $T&$:I$P16_i)$4719207" $P16_i
- 7584: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7585: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7586: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7587: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7588: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7589: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7590: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7591: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7592: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7593: CLI_NUM0 = $0
- 7594: CLI_NUM1 = $1
- 7595: CLI_NUM2 = $2
- 7596: CLI_NUM3 = $3
- 7597: CLI_NUM4 = $4
- 7598: CLI_NUM5 = $5
- 7599: CLI_NUM6 = $6
- 7600: CLI_NUM7 = $6
- 7601: Skip the event? [Yes./No.]
- 7602: Battlefield clear time: $3 second[/s]!
- 7603: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7604: The current battlefield clear time record is $3 second[/s].
- 7605: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7606: Called the NPC! PC ID = $0! RESULT = $1!
- 7607: Got rid of the NPC! PC ID = $0!
- 7608: The NPC has fallen, and he can't get up! Leaving room A!
- 7609: The NPC has fallen, and he can't get up! Leaving room B!
- 7610: The NPC has fallen, and he can't get up! Leaving room C!
- 7611: The NPC has fallen, and he can't get up! Leaving room D!
- 7612: All party members have fallen in battle. Now leaving the battlefield.
- 7613: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7614: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7615: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7616: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7617: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7618: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7619: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7620: What the hell is that number!? It's not possible!!!
- 7621: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7622: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7623: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7624: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7625: That record is held by $5 adventurers, including %0!
- 7626: That record is held by %0!
- 7627: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7628: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7629: A malignant force escapes from your $3.
- 7630: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7631: Your $3 is calling out to something...
- 7632: The $0 has a large crack running straight down the side.
- 7633: Something awakens owing to the presence of the $3...
- 7634: The oath has been fulfilled owing to the power of your $3.
- 7635: You have broken the clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]"!
- 7636: The current battlefield clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]" is $3 second[/s].
- 7637: The current battlefield clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]" is $3 minute[/s] $2 second[/s].
- 7638: Entering the battlefield for "[The Rider Cometh/]"!
- 7639: Entering the battlefield for "[Unwavering Resolve/]"!
- 7640: Entering the battlefield for "[A Stygian Pact/]"!
- 7641: Which battlefield will you enter? [None./[The Rider Cometh/Unwavering Resolve/A Stygian Pact]./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
- 7642: There is nothing out of the ordinary here.
- 7643: You can hear a strange voice... "Items, items, la la la la la`t"
- 7644: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7645: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7646: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7647: Now, listen close...
- 7648: Oh... Well, if that's the case, I'm outta here.
- 7649: The Goblin slipped away when you were not looking...
- 7650: You can hear a strange, raspy voice...
- 7651: I travel......hear lots... Hear...stories... Can tell...if...
- 7652: .........listen......
- 7653: Oh...... ...outta here.........
- 7654: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7655: What story would you like to be told? [On second thought, maybe later./Path of Blood(pt.1)./Path of Blood(pt.2)./The Rider Cometh(pt.1)./The Rider Cometh(pt.2)./Unwavering Resolve(pt.1)./Unwavering Resolve(pt.2)./Unwavering Resolve(pt.3)./A Stygian Pact(pt.1)./A Stygian Pact(pt.2)./A Stygian Pact(pt.3)./Ghatsad's Quandary.]
- 7656: 
+ 7541: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7542: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7543: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7544: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7545: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7546: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7547: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7548: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7549: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7550: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7551: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7552: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7553: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7554: ($20%._AM$0$P14u$6E7)
+ 7555: ($20%._BM$0$P14u$6E7)
+ 7556: ($20%._CM$0$P14u$6E7)
+ 7557: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7558: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7559: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7560: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7561: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7562: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7563: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7564: (AIMID* h\9qE5=)
+ 7565: (BIMID* h\9qE5=)
+ 7566: (CIMID* h\9qE5=)
+ 7567: (AIID* h\5=)
+ 7568: (BIID* h\5=)
+ 7569: (CIID* h\5=)
+ 7570: (AM7EI$P10f$P16q* h\5=)
+ 7571: (BM7EI$P10f$P16q* h\5=)
+ 7572: (CM7EI$P10f$P16q* h\5=)
+ 7573: $2097706ADH"=_$P13|$:E+\9q
+ 7574: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7575: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7576: Only <Player> can enter the battlefield.
+ 7577: The time limit for this battle is $3 minutes.
+ 7578: There is a crack in the $3. It no longer contains a monster.
+ 7579: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7580: Boss mode : $6!!
+ 7581: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7582: $7
+ 7583: DEBUG1
+ 7584: $T&$:I$P16_i)$4719207" $P16_i
+ 7585: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7586: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7587: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7588: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7589: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7590: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7591: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7592: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7593: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7594: CLI_NUM0 = $0
+ 7595: CLI_NUM1 = $1
+ 7596: CLI_NUM2 = $2
+ 7597: CLI_NUM3 = $3
+ 7598: CLI_NUM4 = $4
+ 7599: CLI_NUM5 = $5
+ 7600: CLI_NUM6 = $6
+ 7601: CLI_NUM7 = $6
+ 7602: Skip the event? [Yes./No.]
+ 7603: Battlefield clear time: $3 second[/s]!
+ 7604: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7605: The current battlefield clear time record is $3 second[/s].
+ 7606: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7607: Called the NPC! PC ID = $0! RESULT = $1!
+ 7608: Got rid of the NPC! PC ID = $0!
+ 7609: The NPC has fallen, and he can't get up! Leaving room A!
+ 7610: The NPC has fallen, and he can't get up! Leaving room B!
+ 7611: The NPC has fallen, and he can't get up! Leaving room C!
+ 7612: The NPC has fallen, and he can't get up! Leaving room D!
+ 7613: All party members have fallen in battle. Now leaving the battlefield.
+ 7614: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7615: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7616: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7617: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7618: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7619: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7620: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7621: What the hell is that number!? It's not possible!!!
+ 7622: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7623: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7624: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7625: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7626: That record is held by $5 adventurers, including %0!
+ 7627: That record is held by %0!
+ 7628: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7629: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7630: A malignant force escapes from your $3.
+ 7631: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7632: Your $3 is calling out to something...
+ 7633: The $0 has a large crack running straight down the side.
+ 7634: Something awakens owing to the presence of the $3...
+ 7635: The oath has been fulfilled owing to the power of your $3.
+ 7636: You have broken the clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]"!
+ 7637: The current battlefield clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]" is $3 second[/s].
+ 7638: The current battlefield clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]" is $3 minute[/s] $2 second[/s].
+ 7639: Entering the battlefield for "[The Rider Cometh/]"!
+ 7640: Entering the battlefield for "[Unwavering Resolve/]"!
+ 7641: Entering the battlefield for "[A Stygian Pact/]"!
+ 7642: Which battlefield will you enter? [None./[The Rider Cometh/Unwavering Resolve/A Stygian Pact]./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
+ 7643: There is nothing out of the ordinary here.
+ 7644: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7645: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7646: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7647: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7648: Now, listen close...
+ 7649: Oh... Well, if that's the case, I'm outta here.
+ 7650: The Goblin slipped away when you were not looking...
+ 7651: You can hear a strange, raspy voice...
+ 7652: I travel......hear lots... Hear...stories... Can tell...if...
+ 7653: .........listen......
+ 7654: Oh...... ...outta here.........
+ 7655: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7656: What story would you like to be told? [On second thought, maybe later./Path of Blood(pt.1)./Path of Blood(pt.2)./The Rider Cometh(pt.1)./The Rider Cometh(pt.2)./Unwavering Resolve(pt.1)./Unwavering Resolve(pt.2)./Unwavering Resolve(pt.3)./A Stygian Pact(pt.1)./A Stygian Pact(pt.2)./A Stygian Pact(pt.3)./Ghatsad's Quandary.]
  7657: 
  7658: 
- 7659: How curious... The fire burns fiercely, and yet makes no sound...
- 7660: This blaze is not of Urhguum.
- 7661: If there were no illumination of this world present, this conflagration would completely escape your mortal gaze...
- 7662: It is a flame of the underworld.
- 7663: Oho. Why, it's not even hot...
- 7664: Stay back!
- 7665: The flame produces no heat, but it will scorch your soul, and consume your flesh...
- 7666: Assuming a construct such as you had a soul...or flesh.
- 7667: Great Odin!
- 7668: Sovereign of darkness and battle, lord of the underworld!
- 7669: Your humble servant Luzaf stands on the threshold of your domain.
- 7670: Ah...didn't the Imperial Army seal off the entrance to the underworld?
- 7671: The rules of time and space don't apply equally to this world and that, Miss.
- 7672: By rights, this rent in the curtain between the two worlds, this...dimensional hiccup...shouldn't even exist.
- 7673: No being, from either reality, has the art to mend such a fluke of fortune.
- 7674: I...see...
- 7675: Throwing a bunch of laboratory nasties in the path of potential meddlers was about the best they could do.
- 7676: Ain't that right, Boss?
- 7677: Silence.
- 7678: The manifestation begins...
- 7679: Wh-what...what's happening?
- 7680: An earthquake!?
- 7681: Ngh...this wind!
- 7682: Aaahhh!!!
- 7683: Oof!
- 7684: Aphmau!
- 7685: Are you harmed!?
- 7686: Boss!
- 7687: Forget the girl. Do you want Lord Odin to arrive without the warm welcome of his servant?
- 7688: Flit! You knew this would happen!
- 7689: Great Odin, Lord of the Underworld!
- 7690: I trust Your Malevolence is well?
- 7691: ...
- 7692: Look lively, Boss!
- 7693: We don't want to offend His Maliciousness, now, do we?
- 7694: Aphmau...forgive me.
- 7695: Art thou the one who summoned me?
- 7696: Yes, my lord.
- 7697: Speak thy mind.
- 7698: Great Odin, Devourer of Light!
- 7699: I wish to know the time that remains to me.
- 7700: Hast thou sated thy rage?
- 7701: Rage? What rage is this?
- 7702: C'mon, Boss! Stick with the program!
- 7703: Your rage towards the Empire!
- 7704: No, not sated...
- 7705: My rage... My rage has subsided.
- 7706: ?
- 7707: Great Odin.
- 7708: I have uncovered a purpose more deserving than simple revenge.
- 7709: The descendants of Ephramad.
- 7710: I wish to devote the remainder of my existence to building a kingdom in which they can live without fear of persecution.
- 7711: That is now my driving desire.
- 7712: And so I ask for time...time to act freely.
- 7713: Well ain't that a sweet idea.
- 7714: I...I do not understand.
- 7715: Hee hee, hee hee.
- 7716: Didn't I tell you, Boss?
- 7717: You've already made your pact. The contract is signed and sealed.
- 7718: You will become the next incarnation of the Dark Rider--whether you're ready or not.
- 7719: The next incarnation...? The terms of the pact--
- 7720: Are non-negotiable.
- 7721: But I'll let you in on a secret, Boss. Before you are completely consumed by the essence of the rider...
- 7722: ...there is a period when you will retain free will.
- 7723: And how am I to fulfill this pact?
- 7724: Well, that's simple.
- 7725: All you gotta do is remember.
- 7726: Remember how your people suffered and perished at the merciless hands of the Empire.
- 7727: I'm sure the memories are still crystal clear for you.
- 7728: You just gotta hurl that big, venomous ball of rage...
- 7729: ...at her!
- 7730: Ugh...
- 7731: Now's your chance! Look! She's defenseless!
- 7732: In any case, she's taken the full force of the Astral Wind...
- 7733: It'd be kinder to just put an end to her--the sooner the better.
- 7734: That's right, Boss! Quick and painless!
- 7735: ...!
- 7736: Flit. There is something I would know.
- 7737: This mercenary of Aphmau's, this...<Player>. You are certain [he/she] oversees the security of the treasure?
- 7738: What? Why does that matter at a time like this?
- 7739: Yes, I'm certain. C'mon, Boss, I showed you the blip on the tracker, didn't I?
- 7740: Besides the one I entrusted to <Player>, the only other $3 that exists in this world is the one that you hold. There are no others?
- 7741: No, Boss, just the two. Why would I lie to you?
- 7742: Then show me the one you have now.
- 7743: I...you see... There's more important...
- 7744: I mean, just look at the tracker. Right smack in the middle of Talacca Cove. The mercenary is right where [he's/she's] supposed to be.
- 7745: So [he/she] is...
- 7746: Right where [he/she] is supposed to be...
- 7747: Traitorous imp!
- 7748: What!?
- 7749: Boss! No, I--
- 7750: !!!
- 7751: The code of the corsair is not to be taken lightly...
- 7752: Great Odin, hear my words!
- 7753: Are you even hearing my words!?
- 7754: It appears not...
- 7755: Luzaf...
- 7756: <Player>.
- 7757: I must bring an end to this. Aphmau is in your charge.
- 7758: She is my...no, she is Ephramad's light in the darkness.
- 7759: What...what's happening!?
- 7760: Hwoooaaarrr!
- 7761: If this is the incarnation...
- 7762: ...I will fight until the true deity is dragged into this realm!
- 7763: !?
- 7764: No...!
- 7765: Ahahahahahaha!
- 7766: Sate thy rage!
- 7767: Thou shalt become my knight.
- 7768: Thou shalt serve as mine arm in the Age of Judgment, until Alexander once again lies in ruins!
- 7769: Luzaf...!
- 7770: Hee hee...hee...
- 7771: D-Dark...<cough>...Rider... Flit...<splutter>...at your...service...
- 7772: Your will is...<cough>...my command... Boss...
- 7773: Hee hee, hee hee, hee hee...
- 7774: Luzaf!
- 7775: I am...I am fine...
- 7776: Your injuries!?
- 7777: They do not pain me... I feel no pain at all...
- 7778: !!!
- 7779: Impeccable timing, <Player>. Your arrival allowed me to see through Flit's deception.
- 7780: Oho! <Player> to the rescue again!
- 7781: Thank you, <Player>.
- 7782: Aphmau, are you able to walk?
- 7783: Yes. That wind blew with such a familiar melody...
- 7784: It reminded me of the gentle breeze that always stirs the air around the Gordeus...
- 7785: I think I'll be just fine.
- 7786: Where do we go from here?
- 7787: If what Flit said was true, we have a short period of grace.
- 7788: But I suggest we hurry while my will is still my own.
- 7789: Hurry to do what?
- 7790: To destroy the iron colossus...before your brother reactivates it.
- 7791: Destroy it!? But, the iron giant is--
- 7792: The savior of the Empire? It may be as you say.
- 7793: But should the fully manifested incarnation of Odin clash with the iron might of Alexander...
- 7794: The Age of Judgment. With the victor deciding the laws of justice...
- 7795: Yes. If such laws would have meaning in the desolate wasteland sure to be left in the aftermath of the conflict.
- 7796: We must prevent this battle at all costs.
- 7797: After the colossus is rendered harmless, you must then turn your attention to me...
- 7798: !?
- 7799: A-Admiral. You...you must flee! The I-Immortals...
- 7800: Ugh!
- 7801: Most impressive, little sister.
- 7802: Razfahd!
- 7803: You have aided us in the capture of both the Dark Rider and a foreign spy all in one fell swoop.
- 7804: We don't have time for this...
- 7805: Have a care, Luzaf the Blackheart.
- 7806: Or should I now call you "Dark Rider"?
- 7807: The crew members you had hidden throughout Hazhalm are all in our custody.
- 7808: Not to mention the descendants of Ephramad that followed the rumors of your presence here.
- 7809: I would hate to have to spill the blood of Imperial citizens...no matter how unwillingly they serve.
- 7810: ...
- 7811: ...!
- 7812: Take him away.
- 7813: Use the astral bonds we prepared. Keep on your guard.
- 7814: Sir.
- 7815: ...
- 7816: Move!
- 7817: Aphmau... Empress Nashmeira. Is this the treatment I can expect from your nation?
- 7818: Has nothing changed over the last two hundred years!
- 7819: Wait! We command you to release this man!
- 7820: Y-Your Magnificence...
- 7821: Ignore her. Be on your way!
- 7822: Does our authority mean nothing!?
- 7823: Listen to me, Nashmeira. You have abandoned your government, and consorted with enemies of the state.
- 7824: As Grand Vizier, I have decreed that the Mark of Zahak, the symbol of absolute Imperial power, is no longer yours to wield.
- 7825: You cannot!
- 7826: Your authority no longer exists.
- 7827: Do you betray the Empress? Betray your own sister!?
- 7828: Betray you? You are in no position to speak of betrayal.
- 7829: <Player>.
- 7830: ?
- 7831: Don't you think it's about time you told my fool of a sister the truth?
- 7832: Told her who you truly work for?
- 7833: Who [he/she] truly works for...?
- 7834: What are you talking about? <Player> works for me!
- 7835: You continue to deceive yourself...
- 7836: The only reason <Player> stays close to you is to fulfill [his/her] duties as a spy.
- 7837: No, you are the one who is deceiving himself...
- 7838: You understand nothing about Luzaf's spirit...or <Player>'s heart!
- 7839: (Listen to me, <Player>...)
- 7840: (You must take this to Salaheem's Sentinels.)
- 7841: Nashmeira hands <Player> a $3!
- 7842: We all have our masks!
- 7843: I hid my true identity from <Player>...
- 7844: But even so, [he/she] still comes to my rescue.
- 7845: (Shall I stop the automaton from casting?)
- 7846: Let her play her hand.
- 7847: Tell your master this, <Player>:
- 7848: The game is over. It is time to submit to the power of the Empire.
- 7849: Don't let them catch you, <Player>!
- 7850: Your $3 is enveloped in a pulsating, otherworldly flame...
- 7851: Your $3 is reduced to ashes, scattering to the ground beneath you.
- 7852: In ages past, I oft journeyed the boundless aethyr to pay visit this emerald isle.
- 7853: Who standeth before me? What doth bestir the soul of my knight from our nether abode?
- 7854: Why, 'tis a fellow prisoner to the gaoler of fate. Rejoice, for tonight thy light hath guided me hither.
- 7855: Reveal unto me the wishes of thy base mortal heart. Dost thou seek boundless riches? Eternal glory? Or wouldst thou walk a darker path?
- 7856: It is the wont of mortals to desire. Those worthy of that which they covet are few.
- 7857: ...
- 7858: Serve bliss unto me with thy blade. If thy strength is true, thy plea shall be heard.
- 7859: Excellent! Thou hast done well to entertain me for the nonce.
- 7860: Thou hast proven thyself worthy of my boon. Speak unto me thy wish.
- 7861: Thou wouldst see my knight unfettered?
- 7862: Ahahahahahaha!!! Thou knowest not what folly thou speakest.
- 7863: My knight is one with me, to wander the nether plains for all eternity. Thou shalt receive a reward to meet the measure of thy deeds...
- 7864: Thy desire? [$0./$1./$2./Monetary riches./A pact with Odin./Information about Valhalla.]
- 7865: ...That is thy true desire?
- 7866: Accept $0? [Yes./On second thought...]
- 7867: Accept a monetary reward? [Yes./On second thought...]
- 7868: Accept this reward? [Yes./On second thought...]
- 7869: Ask about Valhalla? [Yes./No.]
- 7870: Very well. Rejoice, for I grant unto thee thy desire.
- 7871: Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon.
- 7872: You have gained the ability to summon Odin!
- 7873: Is thy heart sated?
- 7874: Nay, never shall it be, for boundless is the avarice of the sons of man.
- 7875: For as long as thine heart dost harbour base desire, I shall stand here to meet thee. Now go thy ways!
- 7876: Let not doubt fill thy heart. All who serveth me find rightful shelter in Valhalla.
- 7877: Yet it doth pain me to say that if some whose spirits doth reside there be seen in the world...
- 7878: ...then my bonds with thy brethren must be severed.
- 7879: I am come. For as long as thy heart o'erbrims with base desire, I shall stand to meet thee.
- 7880: Dost thou not see? Our fates are entwined, now and for all days. Do not resist. Let thy rage seethe forth!
- 7881: To the victor go the spoils. If thou wouldst claim what thou desirest, stand now and face my blade!
- 7882: My knight. Once more, thy desire hath 'ticed me hither.
- 7883: Save thy words, 'tis with steel we parley. Time and again, 'til thy rage is sated!
- 7884: Speak thy desire. [The release of thy knight./Absolute prescience./Boundless power./Peerless ingenuity./Consummate passion./Undying glory.]
- 7885: Fool! Who art thou, to make such a brazen plea?
- 7886: I grant thee such a boon as befits thy worth. Claim it, and begone from here.
- 7887: Thy covetous heart remains unsated?
- 7888: Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.
- 7889: The fool who repeateth his words is but twice the fool.
- 7890: Thou dost think to curry my favor, but I grow only wroth with thine obstinance.
- 7891: Take thy reward and begone from this place.
- 7892: Doth a suckling infant speak demands unto a king? Doth a grain of sand gainsay the river? Thou knowest not thy place.
- 7893: ...
- 7894: Still thou wouldst persist in this futile endeavor?
- 7895: Thou art either bold or foolish, or mayhap the twain. Not unlike another I know...
- 7896: It would seem thy fate remains to be writ.
- 7897: A thousand eternities might pass, then a thousand more, ere thou wouldst be worthy of that which thou dost now entreat. Reck ye now thine folly?
- 7898: Yet, knowing this, thy desire burns still?
- 7899: Thou dost amuse me, mortal.
- 7900: Thy blade is tempered true. Can the same be said of thy desire?
- 7901: Then let it consume thee whole, 'til not flesh and sinew but sheer, unbated rage guides thy blade. Then, and not before, shall thy plea find audience.
- 7902: And yet, for the momentary amusement thou hast afforded me, I would grant thee guerdon.
- 7903: Grief, rage, rancor...! Feel them surge and eddy within, threat'ning to devour thee!
- 7904: Resist not the tempest, but give thyself over to its gales, that thy blade might sing havoc 'til Ragnarok is come!
- 7905: Ahahahahahaha!!! With each frenzied thrust, thou givest thyself over further to thy rage!
- 7906: ...And yet, I am not sated.
- 7907: Thou dost amuse me, and naught more. Accept my boon and begone.
- 7908: Extirp the last shreds of forbearance from thy heart, and stand to meet me anew.
- 7909: His kingdom lost, his name forgotten...that one's release will afford thee naught.
- 7910: Wherefore dost thou persist in this folly?
- 7911: ...Thine is but rage for rage's sake?
- 7912: Ahahahahahaha!!! Thou showest promise yet!
- 7913: ...
- 7914: Bestraught of wit and senses, the piteous mortal knoweth not why [he/she] doth battle...
- 7915: ...I would hear [his/her] name.
- 7916: <Player>... Mayhap I have erred in my judgement of thee.
- 7917: I know not from what fount thy frenzy upspringeth... But thou dost fight with an ardour that exceedeth mortal bounds.
- 7918: Not since he who I did claim as my own have I seen the like of thee.
- 7919: For what end, for whose gain dost thou brandish thy blade?
- 7920: Dost thou claim this thy true desire? Then forswear all ties to that which maketh thee mortal, and come unto me once more.
- 7921: Be thou worthy of the favour thou desirest of me?
- 7922: Be thou worthy of that which I would make of thee?
- 7923: ...The hour of judgement is nigh.
- 7924: Delay not in thy return. Mine ears thirst for thy blade's uplifted sword-song.
- 7925: What wouldst thou make of such knowledge? Wouldst thou reshape the future in thine own twisted image, that not a child be born, not a nation rise save by thy sanction?
- 7926: To the hoodman in the den of serpents, blindness is not a curse but a blessing. If thou wouldst claim thyself a worthy steward o'er what is to come, prove it unto me with thy blade.
- 7927: I grant such a reward as becometh thee. Accept it graciously, and begone from this place.
- 7928: Through the ages, much have I seen. Fool [men/women], their eyes cast open to what has yet to pass, struck mad by the horrors they did gaze upon.
- 7929: Canst thou succeed where thy craven forbears did fail?
- 7930: Thou must truly know what thou desirest ere it be granted thee.
- 7931: Reflect upon the true nature of thy desire, then seek me anew.
- 7932: Seek not further knowledge, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
- 7933: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy of my boon, thy bones shall litter the halls of Asgarth!
- 7934: Give thyself over to the ravenous flames of ambition...
- 7935: ...and the power to achieve thy aims shall be thine.
- 7936: What wouldst thou make of such power? Soil the fields with the blood of thine enemies, that the rivers run crimson for summers after?
- 7937: With great power comes greater responsibility. If thou wouldst still have my boon, prove thy worth unto me with thy blade.
- 7938: Through the ages, much have I seen. Witless monarchs, gifted authority absolute, who succeeded only in plumbing the depths of corruption and depravity.
- 7939: Canst thou succeed where thy forbears, o'ercrowed by vice, did fail?
- 7940: Seek not further power, for it will not avail one who grasps not what [he/she] already possess'st.
- 7941: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
- 7942: What wouldst thou make of this ingenuity? Wouldst thou enslave bird and beast, bend the very laws of nature to serve thy base desires?
- 7943: In all things, there is order. If thou wouldst have the sun rise in the west, and rivers flow from ocean to hill, then by thy blade prove unto me thy worth.
- 7944: Through the ages, much have I seen. Foolhardy [men/women], clever beyond their means, fostering only ruin where they would spur advancement.
- 7945: Canst thou succeed where thy forbears in their ignorance failed?
- 7946: Seek not further genius, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
- 7947: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
- 7948: What wouldst thou make of such passion? Seize the hearts of those around thee, that they would gladly die a thousand deaths to be but graced with thy smile?
- 7949: Fickle and heedless is the mortal heart. If thou wouldst govern the ungovernable, prove thy worth unto me with thy blade.
- 7950: Through the ages, much have I seen. Fool [men/women] who strove to be loved by all, only to die alone, despis'd by even their once-truest companions.
- 7951: Canst thou succeed where thy forbears in their covetousness failed?
- 7952: Seek not further passion, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
- 7953: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
- 7954: What wouldst thou make of such glory? Wouldst thou have minstrels sing thy praises even as their throats parch with thirst, and thy subjects laud thy mercy even as they huddle starving in the streets?
- 7955: The brightest sun casts the darkest shadows. Shouldst thou seek glory still, prove thy worth unto me with thy blade.
- 7956: Through the ages, much have I seen. [Kings/Queens] of ruined nations, demanding the undying devotion of their subjects who lay starving in the streets.
- 7957: Wilt thou not but repeat the mistakes of thy thrice-prideful forbears?
- 7958: Seek not further glory, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
- 7959: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
- 7960: Much have I journeyed, much experienced, mighty ones many proved. In strength of spirit, thou surpass'st them all.
- 7961: Thy appeal is heard.
- 7962: In all things, there is order. One star from the heavens falls, and another is birthed in its stead.
- 7963: Such is my bargain. In return for that one's soul, I would claim thine.
- 7964: Become Odin's knight? [Yes...my liege./I'll never serve you!]
- 7965: Are you certain? [My soul is thine./I cannot...]
- 7966: Ahahahahahaha! Then thy true desire is granted, and mine own as well.
- 7967: Rise, my knight! Thou shalt serve me well, lest the bonds of thy successor be wrought from thine entrails.
- 7968: Ahahahahahaha! What fool [man/woman] is this, that would gainsay a god?
- 7969: Thy coveted prize sits on a pedestal before thee. Claim it or turn away, it matters not to me.
- 7970: But know this, brave fool. As sure as the sun must surrender to the pitch of night, the day will come when thy soul is mine.
- 7971: I...I am freed?
- 7972: So this is your doing, <Player>. But why...?
- 7973: Why? [To honor a promise to Her Majesty./I would walk the path of darkness./Because I felt like it.]
- 7974: Battle after battle you have fought, all to protect her...? You are a [man/woman] of uncommon honor indeed.
- 7975: Such confident words. But do you truly comprehend the path you have chosen?
- 7976: ...Forgive me.
- 7977: It is not my place to question a [man/woman] who can bend the very gods to [his/her] will.
- 7978: If there is anyone who can ride with the Dark Divinity and emerge unscathed, surely it is you.
- 7979: Hmm...?
- 7980: Bwahahaha. Now you're speaking a language this corsair can understand!
- 7981: Full of pure, unchecked fury like the raging waves of the northern seas. Had you been born a century prior, I would have been proud to count you among my crew.
- 7982: I thank you, <Player>. Because of you, I have discovered the one treasure I thought would elude me forever...peace.
- 7983: With you at Aphmau's side...this Empire is in capable hands... I shall watch over it with pride...for all eternity... Farewell, <Player>!
- 7984: Thy thirst for power is nigh unquenchable. 'Twould seem I have chosen my champion well.
- 7985: Shouldst ever thou tire of mere amusement, seek out wings to fly, and pay me visit in my nether abode. There I shall meet you in the flesh, that our blades may sing destruction 'til the coming of Ragnarok!
- 7986: I await thy challenge, my knight...
- 7987: I await our next meeting, my knight...
- 7988: Current point total: $0.
- 7989: Current stage: $1.
- 7990: Select an option. [Release stage 1./Release stage 2./Release stage 3./Release stage 4./Release stage 5./Release stage 6./Release stage 7./Release stage 8./Release stage 9./Release stage 10.]
- 7991: You cannot obtain the item. Come back after sorting your inventory.
- 7992: Press a button to continue.
- 7993: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
- 7994: Obtained temporary item: $0!
- 7995: You already have that temporary item.
- 7996: The chamber's stagnant aura has somewhat cleared...
- 7997: The creatures lurking in the shadows have calmed...
- 7998: The creatures lurking in the shadows have become restless...
- 7999: Heh heh heh...
- 8000: Debug: Dendainsonne's Rage = 0.
- 8001: Debug: Dendainsonne's Rage = 1.
- 8002: Debug: Dendainsonne's Rage = 2.
- 8003: Dendainsonne looks angry...
- 8004: Dendainsonne is enraged!
- 8005: Dendainsonne is out of control!
- 8006: Dendainsonne appears to be mocking you...
- 8007: In ages past, I oft journeyed the boundless aethyr to pay visit this emerald isle.
- 8008: And tonight, the light of the Einherjar hath guided me hither once again...
- 8009: ...that I might rejoice as our blades sing before the gates of Hell!
- 8010: Thy brands art one with the winds. Yet can they match the swiftness of mighty Hildulfr?
- 8011: Dost thou possess the strength to withstand a blow from Asgarth steel!?
- 8012: Thy minds art as clear as a crystalline spring. Yet can thy magicks match those of wise Gondlir?
- 8013: Dost thou possess the courage to withstand an onslaught of the winds of Asgarth!?
- 8014: Thy bonds art forged of tempered steel. Yet can they match the armies of noble Herjann!?
- 8015: Dost thou possess the will to withstand the battle cries of mine loyal Warriors!?
- 8016: Thine eyes...doth burn with the flames of Muspilheim. Thus I shalt grant thee audience with Vithurr...
- 8017: Utter thy final prayers, for Ragnarok is nigh!
- 8018: The true power of Gungnir cometh not from the blade herself, but from the countless souls it hath sent to the corpse-halls of the Underworld!
- 8019: Mine obsidian blade shalt split atwain the threads of thy future...
- 8020: ...whilst its crimson fuller shalt channel the lifeblood of thy past.
- 8021: Now wail as thy soul is bestrewn across the plains of Valhalla!
- 8022: Ahahahahahaha! Fate hath smiled upon the sons of Men. Let us return to Asgarth, Sleipnir.
- 8023: But as long as thine hearts yet festereth with the corruption of rage, I shalt ne'er perish.
- 8024: Farewell, Einherjar!
- 8025: Is this the uttermost limit of thy resolve? Ten beats of a fearless heart hast thou to prove thy worth, lest a brutal demise be thy sole reward...
- 8026: $0...
- 8027: Hark, for my blade sings thy dirge!
- 8028: Surpassing power... Boundless knowledge... Indomitable spirit...
- 8029: Thou hast grown mighty since our blades last sung together, Einherjar.
- 8030: Ours shall be an epic struggle, one not seen since the day of Ragnarok... Now come, that I might taste the ecstasy of battle anew!
- 8031: My blade shall cleave through thy hollow shell of valor!
- 8032: My blade shall cleave thy flesh as it did the giant Ymir!
- 8033: My blade shall cleave thy very soul!
- 8034: My blade shall consign thee to the depths of Hel!
- 8035: 
- 8036: My blade shall feed full on your flesh...
- 8037: ...And redden the home of the gods with gore...
- 8038: Your bones shall be strewn o'er the halls of Valhalla!
- 8039: Thou hast felled my valkyries, but tonight it is thine own lifeblood that shall spill!
- 8040: Ahahahahahaha! My blade has not known such bliss sith the day of Ragnarok!
- 8041: The sun may darken, and mountains sink to the sea...
- 8042: Yet as long as thou drawest breath, I shall rise to this world anew! Farewell, Einherjar!
- 8043: An otherworldly voice echoes faintly from the depths of your skull...
- 8044: ...who would...prove...thy...worth... Deliver...unto me...and speak...my name...
- 8045: A booming voice resonates from the depths of your skull...
- 8046: The $0 in thy possession is testament to thy worth. Speak unto me my name, that thou might claimest thy reward.
- 8047: My name... [I do not know./Rossweisse./Grimgerde./Siegrune./Helmwige./Schwertleite./Waltraute./Ortlinde./Gerhilde./Brunhilde.]
- 8048: Your $0 is bathed in light, and transforms into $6!
- 8049: Record time and destination on the $6?
- 8050: Select option: [Confirm destination./Cancel recording./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
- 8051: Select [Quit./Rossweisse's Chamber./Grimgerde's Chamber./Siegrune's Chamber./Helmwige's Chamber./Schwertleite's Chamber./Waltraute's Chamber./Ortlinde's Chamber./Gerhilde's Chamber./Brunhilde's Chamber./Odin's Chamber./Odin's Chamber II.]
- 8052: Preparing teleport to Hazhalm Testing Grounds - [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].
- 8053: Proceed to [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]? [Yes./Not yet./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
- 8054: All of the valkyrie feathers in your possession are consumed!
- 8055: Entry to the chambers is prohibited for $0 more Vana'dielian [day/days].
- 8056: Adventurers who have yet to reach level $0 will not be permitted entry to the training grounds.
- 8057: Chamber reservation is prohibited for $0 more Vana'dielian [day/days].
- 8058: Adventurers who have yet to reach level $0 will not be permitted to make reservations within the training grounds.
- 8059: Gathering data...
- 8060: Could not gather the sufficient data.
- 8061: Item trade has failed.
- 8062: Currently, another expedition is occupying [/Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].
- 8063: Time and destination have been recorded on your $0.
- 8064: You do not possess the items required for entry.
- 8065: You do not meet the requirements for entry.
- 8066: The power of the $0 has faded. You may no longer occupy this chamber.
- 8067: A communication error has occurred.
- 8068: There are too many adventurers in the chamber.
- 8069: ----== Warning! ==---- Your reservation of this chamber will end in $0 [minute/minutes].
- 8070: ----== Warning! ==---- Your reservation of this chamber will end in $0 [second/seconds].
- 8071: All expedition members have been incapacitated. Commencing emergency teleportation in $0 [minute/minutes].
- 8072: All expedition members have been incapacitated. Commencing emergency teleportation.
- 8073: Your expedition currently has less than 6 members. Commencing emergency teleportation in $0 [minute/minutes].
- 8074: Your expedition does not meet the minimum member requirement. Commencing emergency teleportation.
- 8075: [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber] has been cleared. Commencing teleportation in $0 [minute/minutes].
- 8076: Other members currently engaged in battle. Entry denied.
- 8077: You obtain $0 ampoule[/s] of viscous therion ichor.
- 8078: The group leader has not yet entered the chamber. Entry denied.
- 8079: To enter the Hazhalm Testing Grounds, you must trade $0 without the Battlefield status in effect.
- 8080: Note that your claim over the area through your $0 will be relinquished if over $1 more minute[/s] pass from this point with no one inside.
- 8081: When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7.
- 8082: From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers.
- 8083: By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.
- 8084: Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.
- 8085: Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function.
- 8086: These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.
- 8087: To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate.
- 8088: However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.
- 8089: As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity.
- 8090: Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.
- 8091: Trading $6 to the "Entry Gate" found in the Hazhalm Testing Grounds will cause it to transform into $7.
- 8092: For the player making the chamber reservation alone, entry into the second wing requires one valkyrie feather from the first wing, and entry into the third wing requires one feather from the second wing. 6 may be used in place of the feathers.
- 8093: Gaining access to the most remote chamber in the testing grounds, Valgrind, requires the player conducting this trade to possess three valkyrie feathers--one from each wing.
- 8094: If this condition is not met, the $6 will not transform into $7 when traded to the "Entry Gate."
- 8095: Entry into a chamber which has been reserved requires players to trade $7 to the "Entry Gate."
- 8096: The player who initially reserved the chamber must enter first before other players will be granted access.
- 8097: While there are several conditions which must be fulfilled to successfully trade $6, the trading of $7 has essentially no prerequisites.
- 8098: Simply possessing $7 generated by the player who reserved the chamber is enough to make one eligible for entry.
- 8099: In the case of Valgrind, all entering players must possess a minimum of one valkyrie feather from each wing, for a total of at least three feathers per player.
- 8100: If this condition is not met, trading $7 to the "Entry Gate" will not result in the player being transported to the reserved chamber.
- 8101: Ampoules of therion ichor are obtained in the Hazhalm Testing Grounds through the slaying of all enemies except for the Guardians of Asgarth.
- 8102: Should a player not successfully complete a chamber or exit prematurely, ampoules will still be awarded in proportion to the number of kills for which they were present.
- 8103: Ampoules will only be granted in the event of either a forced exit due to time expiration, or a player voluntarily disposing of the $7 in their possession.
- 8104: After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again.
- 8105: This not only pertains to the chamber previously visited, but all areas within the testing grounds.
- 8106: The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.
- 8107: All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.
- 8108: In addition, any items dropped by a foe can be lotted on by anyone in the chamber.
- 8109: However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.
- 8110: At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately $1 [minute/minutes] (Earth time).
- 8111: Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds.
- 8112: Ah, it's you. I wasn't expecting to see you here.
- 8113: According to the info I've m-m-managed to collect, a large rift in the space-time continuum lies deep within the ancient facility behind this door.
- 8114: There, it is rum-m-mored that Odin, the god and ruler of Valhalla, will appear...
- 8115: However, a powerful m-m-magical seal has been placed on this location. It will not be easy to meet with Odin.
- 8116: By the way, do you rem-m-member what Amnaf the Immortal said at the stone tablet in the Caedarva Mire?
- 8117: "There is a large-scale war brewing in Valhalla, land of the chosen souls... There is an open rebellion against Odin, the god who controls Valhalla."
- 8118: I'd like to know m-m-more about this war. Have you heard anything about it?
- 8119: What do you know? [Nothing really./Talk about Rishfee./Odin hasn't told me anything.]
- 8120: You're useless. M-m-maybe you just forgot?
- 8121: Actually, I believe Amnaf m-m-mentioned pursuing Rishfee in Valhalla.
- 8122: Who is this Rishfee? If he's an Immortal m-m-much like Amnaf, could he also have risen again?
- 8123: I see! So there was another blue m-m-mage!
- 8124: And he wished for the m-m-magical power within him to be absorbed by the Prison Orb...
- 8125: Yes, I suppose that could allow you to have a m-m-meaningful conversation with him.
- 8126: Do you m-m-mean to say you've actually met with Odin!?
- 8127: That m-m-must mean there's a way to break through this seal. This could prove useful.
- 8128: Hm!?
- 8129: Hraaah!
- 8130: How did that Goblin get in there?
- 8131: Let's catch the fiend and find out.
- 8132: Follow Uran-Mafran and pursue the Destiny Destroyers to the Caedarva Mire.
+ 7659: 
+ 7660: How curious... The fire burns fiercely, and yet makes no sound...
+ 7661: This blaze is not of Urhguum.
+ 7662: If there were no illumination of this world present, this conflagration would completely escape your mortal gaze...
+ 7663: It is a flame of the underworld.
+ 7664: Oho. Why, it's not even hot...
+ 7665: Stay back!
+ 7666: The flame produces no heat, but it will scorch your soul, and consume your flesh...
+ 7667: Assuming a construct such as you had a soul...or flesh.
+ 7668: Great Odin!
+ 7669: Sovereign of darkness and battle, lord of the underworld!
+ 7670: Your humble servant Luzaf stands on the threshold of your domain.
+ 7671: Ah...didn't the Imperial Army seal off the entrance to the underworld?
+ 7672: The rules of time and space don't apply equally to this world and that, Miss.
+ 7673: By rights, this rent in the curtain between the two worlds, this...dimensional hiccup...shouldn't even exist.
+ 7674: No being, from either reality, has the art to mend such a fluke of fortune.
+ 7675: I...see...
+ 7676: Throwing a bunch of laboratory nasties in the path of potential meddlers was about the best they could do.
+ 7677: Ain't that right, Boss?
+ 7678: Silence.
+ 7679: The manifestation begins...
+ 7680: Wh-what...what's happening?
+ 7681: An earthquake!?
+ 7682: Ngh...this wind!
+ 7683: Aaahhh!!!
+ 7684: Oof!
+ 7685: Aphmau!
+ 7686: Are you harmed!?
+ 7687: Boss!
+ 7688: Forget the girl. Do you want Lord Odin to arrive without the warm welcome of his servant?
+ 7689: Flit! You knew this would happen!
+ 7690: Great Odin, Lord of the Underworld!
+ 7691: I trust Your Malevolence is well?
+ 7692: ...
+ 7693: Look lively, Boss!
+ 7694: We don't want to offend His Maliciousness, now, do we?
+ 7695: Aphmau...forgive me.
+ 7696: Art thou the one who summoned me?
+ 7697: Yes, my lord.
+ 7698: Speak thy mind.
+ 7699: Great Odin, Devourer of Light!
+ 7700: I wish to know the time that remains to me.
+ 7701: Hast thou sated thy rage?
+ 7702: Rage? What rage is this?
+ 7703: C'mon, Boss! Stick with the program!
+ 7704: Your rage towards the Empire!
+ 7705: No, not sated...
+ 7706: My rage... My rage has subsided.
+ 7707: ?
+ 7708: Great Odin.
+ 7709: I have uncovered a purpose more deserving than simple revenge.
+ 7710: The descendants of Ephramad.
+ 7711: I wish to devote the remainder of my existence to building a kingdom in which they can live without fear of persecution.
+ 7712: That is now my driving desire.
+ 7713: And so I ask for time...time to act freely.
+ 7714: Well ain't that a sweet idea.
+ 7715: I...I do not understand.
+ 7716: Hee hee, hee hee.
+ 7717: Didn't I tell you, Boss?
+ 7718: You've already made your pact. The contract is signed and sealed.
+ 7719: You will become the next incarnation of the Dark Rider--whether you're ready or not.
+ 7720: The next incarnation...? The terms of the pact--
+ 7721: Are non-negotiable.
+ 7722: But I'll let you in on a secret, Boss. Before you are completely consumed by the essence of the rider...
+ 7723: ...there is a period when you will retain free will.
+ 7724: And how am I to fulfill this pact?
+ 7725: Well, that's simple.
+ 7726: All you gotta do is remember.
+ 7727: Remember how your people suffered and perished at the merciless hands of the Empire.
+ 7728: I'm sure the memories are still crystal clear for you.
+ 7729: You just gotta hurl that big, venomous ball of rage...
+ 7730: ...at her!
+ 7731: Ugh...
+ 7732: Now's your chance! Look! She's defenseless!
+ 7733: In any case, she's taken the full force of the Astral Wind...
+ 7734: It'd be kinder to just put an end to her--the sooner the better.
+ 7735: That's right, Boss! Quick and painless!
+ 7736: ...!
+ 7737: Flit. There is something I would know.
+ 7738: This mercenary of Aphmau's, this...<Player>. You are certain [he/she] oversees the security of the treasure?
+ 7739: What? Why does that matter at a time like this?
+ 7740: Yes, I'm certain. C'mon, Boss, I showed you the blip on the tracker, didn't I?
+ 7741: Besides the one I entrusted to <Player>, the only other $3 that exists in this world is the one that you hold. There are no others?
+ 7742: No, Boss, just the two. Why would I lie to you?
+ 7743: Then show me the one you have now.
+ 7744: I...you see... There's more important...
+ 7745: I mean, just look at the tracker. Right smack in the middle of Talacca Cove. The mercenary is right where [he's/she's] supposed to be.
+ 7746: So [he/she] is...
+ 7747: Right where [he/she] is supposed to be...
+ 7748: Traitorous imp!
+ 7749: What!?
+ 7750: Boss! No, I--
+ 7751: !!!
+ 7752: The code of the corsair is not to be taken lightly...
+ 7753: Great Odin, hear my words!
+ 7754: Are you even hearing my words!?
+ 7755: It appears not...
+ 7756: Luzaf...
+ 7757: <Player>.
+ 7758: I must bring an end to this. Aphmau is in your charge.
+ 7759: She is my...no, she is Ephramad's light in the darkness.
+ 7760: What...what's happening!?
+ 7761: Hwoooaaarrr!
+ 7762: If this is the incarnation...
+ 7763: ...I will fight until the true deity is dragged into this realm!
+ 7764: !?
+ 7765: No...!
+ 7766: Ahahahahahaha!
+ 7767: Sate thy rage!
+ 7768: Thou shalt become my knight.
+ 7769: Thou shalt serve as mine arm in the Age of Judgment, until Alexander once again lies in ruins!
+ 7770: Luzaf...!
+ 7771: Hee hee...hee...
+ 7772: D-Dark...<cough>...Rider... Flit...<splutter>...at your...service...
+ 7773: Your will is...<cough>...my command... Boss...
+ 7774: Hee hee, hee hee, hee hee...
+ 7775: Luzaf!
+ 7776: I am...I am fine...
+ 7777: Your injuries!?
+ 7778: They do not pain me... I feel no pain at all...
+ 7779: !!!
+ 7780: Impeccable timing, <Player>. Your arrival allowed me to see through Flit's deception.
+ 7781: Oho! <Player> to the rescue again!
+ 7782: Thank you, <Player>.
+ 7783: Aphmau, are you able to walk?
+ 7784: Yes. That wind blew with such a familiar melody...
+ 7785: It reminded me of the gentle breeze that always stirs the air around the Gordeus...
+ 7786: I think I'll be just fine.
+ 7787: Where do we go from here?
+ 7788: If what Flit said was true, we have a short period of grace.
+ 7789: But I suggest we hurry while my will is still my own.
+ 7790: Hurry to do what?
+ 7791: To destroy the iron colossus...before your brother reactivates it.
+ 7792: Destroy it!? But, the iron giant is--
+ 7793: The savior of the Empire? It may be as you say.
+ 7794: But should the fully manifested incarnation of Odin clash with the iron might of Alexander...
+ 7795: The Age of Judgment. With the victor deciding the laws of justice...
+ 7796: Yes. If such laws would have meaning in the desolate wasteland sure to be left in the aftermath of the conflict.
+ 7797: We must prevent this battle at all costs.
+ 7798: After the colossus is rendered harmless, you must then turn your attention to me...
+ 7799: !?
+ 7800: A-Admiral. You...you must flee! The I-Immortals...
+ 7801: Ugh!
+ 7802: Most impressive, little sister.
+ 7803: Razfahd!
+ 7804: You have aided us in the capture of both the Dark Rider and a foreign spy all in one fell swoop.
+ 7805: We don't have time for this...
+ 7806: Have a care, Luzaf the Blackheart.
+ 7807: Or should I now call you "Dark Rider"?
+ 7808: The crew members you had hidden throughout Hazhalm are all in our custody.
+ 7809: Not to mention the descendants of Ephramad that followed the rumors of your presence here.
+ 7810: I would hate to have to spill the blood of Imperial citizens...no matter how unwillingly they serve.
+ 7811: ...
+ 7812: ...!
+ 7813: Take him away.
+ 7814: Use the astral bonds we prepared. Keep on your guard.
+ 7815: Sir.
+ 7816: ...
+ 7817: Move!
+ 7818: Aphmau... Empress Nashmeira. Is this the treatment I can expect from your nation?
+ 7819: Has nothing changed over the last two hundred years!
+ 7820: Wait! We command you to release this man!
+ 7821: Y-Your Magnificence...
+ 7822: Ignore her. Be on your way!
+ 7823: Does our authority mean nothing!?
+ 7824: Listen to me, Nashmeira. You have abandoned your government, and consorted with enemies of the state.
+ 7825: As Grand Vizier, I have decreed that the Mark of Zahak, the symbol of absolute Imperial power, is no longer yours to wield.
+ 7826: You cannot!
+ 7827: Your authority no longer exists.
+ 7828: Do you betray the Empress? Betray your own sister!?
+ 7829: Betray you? You are in no position to speak of betrayal.
+ 7830: <Player>.
+ 7831: ?
+ 7832: Don't you think it's about time you told my fool of a sister the truth?
+ 7833: Told her who you truly work for?
+ 7834: Who [he/she] truly works for...?
+ 7835: What are you talking about? <Player> works for me!
+ 7836: You continue to deceive yourself...
+ 7837: The only reason <Player> stays close to you is to fulfill [his/her] duties as a spy.
+ 7838: No, you are the one who is deceiving himself...
+ 7839: You understand nothing about Luzaf's spirit...or <Player>'s heart!
+ 7840: (Listen to me, <Player>...)
+ 7841: (You must take this to Salaheem's Sentinels.)
+ 7842: Nashmeira hands <Player> a $3!
+ 7843: We all have our masks!
+ 7844: I hid my true identity from <Player>...
+ 7845: But even so, [he/she] still comes to my rescue.
+ 7846: (Shall I stop the automaton from casting?)
+ 7847: Let her play her hand.
+ 7848: Tell your master this, <Player>:
+ 7849: The game is over. It is time to submit to the power of the Empire.
+ 7850: Don't let them catch you, <Player>!
+ 7851: Your $3 is enveloped in a pulsating, otherworldly flame...
+ 7852: Your $3 is reduced to ashes, scattering to the ground beneath you.
+ 7853: In ages past, I oft journeyed the boundless aethyr to pay visit this emerald isle.
+ 7854: Who standeth before me? What doth bestir the soul of my knight from our nether abode?
+ 7855: Why, 'tis a fellow prisoner to the gaoler of fate. Rejoice, for tonight thy light hath guided me hither.
+ 7856: Reveal unto me the wishes of thy base mortal heart. Dost thou seek boundless riches? Eternal glory? Or wouldst thou walk a darker path?
+ 7857: It is the wont of mortals to desire. Those worthy of that which they covet are few.
+ 7858: ...
+ 7859: Serve bliss unto me with thy blade. If thy strength is true, thy plea shall be heard.
+ 7860: Excellent! Thou hast done well to entertain me for the nonce.
+ 7861: Thou hast proven thyself worthy of my boon. Speak unto me thy wish.
+ 7862: Thou wouldst see my knight unfettered?
+ 7863: Ahahahahahaha!!! Thou knowest not what folly thou speakest.
+ 7864: My knight is one with me, to wander the nether plains for all eternity. Thou shalt receive a reward to meet the measure of thy deeds...
+ 7865: Thy desire? [$0./$1./$2./Monetary riches./A pact with Odin./Information about Valhalla.]
+ 7866: ...That is thy true desire?
+ 7867: Accept $0? [Yes./On second thought...]
+ 7868: Accept a monetary reward? [Yes./On second thought...]
+ 7869: Accept this reward? [Yes./On second thought...]
+ 7870: Ask about Valhalla? [Yes./No.]
+ 7871: Very well. Rejoice, for I grant unto thee thy desire.
+ 7872: Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon.
+ 7873: You have gained the ability to summon Odin!
+ 7874: Is thy heart sated?
+ 7875: Nay, never shall it be, for boundless is the avarice of the sons of man.
+ 7876: For as long as thine heart dost harbour base desire, I shall stand here to meet thee. Now go thy ways!
+ 7877: Let not doubt fill thy heart. All who serveth me find rightful shelter in Valhalla.
+ 7878: Yet it doth pain me to say that if some whose spirits doth reside there be seen in the world...
+ 7879: ...then my bonds with thy brethren must be severed.
+ 7880: I am come. For as long as thy heart o'erbrims with base desire, I shall stand to meet thee.
+ 7881: Dost thou not see? Our fates are entwined, now and for all days. Do not resist. Let thy rage seethe forth!
+ 7882: To the victor go the spoils. If thou wouldst claim what thou desirest, stand now and face my blade!
+ 7883: My knight. Once more, thy desire hath 'ticed me hither.
+ 7884: Save thy words, 'tis with steel we parley. Time and again, 'til thy rage is sated!
+ 7885: Speak thy desire. [The release of thy knight./Absolute prescience./Boundless power./Peerless ingenuity./Consummate passion./Undying glory.]
+ 7886: Fool! Who art thou, to make such a brazen plea?
+ 7887: I grant thee such a boon as befits thy worth. Claim it, and begone from here.
+ 7888: Thy covetous heart remains unsated?
+ 7889: Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.
+ 7890: The fool who repeateth his words is but twice the fool.
+ 7891: Thou dost think to curry my favor, but I grow only wroth with thine obstinance.
+ 7892: Take thy reward and begone from this place.
+ 7893: Doth a suckling infant speak demands unto a king? Doth a grain of sand gainsay the river? Thou knowest not thy place.
+ 7894: ...
+ 7895: Still thou wouldst persist in this futile endeavor?
+ 7896: Thou art either bold or foolish, or mayhap the twain. Not unlike another I know...
+ 7897: It would seem thy fate remains to be writ.
+ 7898: A thousand eternities might pass, then a thousand more, ere thou wouldst be worthy of that which thou dost now entreat. Reck ye now thine folly?
+ 7899: Yet, knowing this, thy desire burns still?
+ 7900: Thou dost amuse me, mortal.
+ 7901: Thy blade is tempered true. Can the same be said of thy desire?
+ 7902: Then let it consume thee whole, 'til not flesh and sinew but sheer, unbated rage guides thy blade. Then, and not before, shall thy plea find audience.
+ 7903: And yet, for the momentary amusement thou hast afforded me, I would grant thee guerdon.
+ 7904: Grief, rage, rancor...! Feel them surge and eddy within, threat'ning to devour thee!
+ 7905: Resist not the tempest, but give thyself over to its gales, that thy blade might sing havoc 'til Ragnarok is come!
+ 7906: Ahahahahahaha!!! With each frenzied thrust, thou givest thyself over further to thy rage!
+ 7907: ...And yet, I am not sated.
+ 7908: Thou dost amuse me, and naught more. Accept my boon and begone.
+ 7909: Extirp the last shreds of forbearance from thy heart, and stand to meet me anew.
+ 7910: His kingdom lost, his name forgotten...that one's release will afford thee naught.
+ 7911: Wherefore dost thou persist in this folly?
+ 7912: ...Thine is but rage for rage's sake?
+ 7913: Ahahahahahaha!!! Thou showest promise yet!
+ 7914: ...
+ 7915: Bestraught of wit and senses, the piteous mortal knoweth not why [he/she] doth battle...
+ 7916: ...I would hear [his/her] name.
+ 7917: <Player>... Mayhap I have erred in my judgement of thee.
+ 7918: I know not from what fount thy frenzy upspringeth... But thou dost fight with an ardour that exceedeth mortal bounds.
+ 7919: Not since he who I did claim as my own have I seen the like of thee.
+ 7920: For what end, for whose gain dost thou brandish thy blade?
+ 7921: Dost thou claim this thy true desire? Then forswear all ties to that which maketh thee mortal, and come unto me once more.
+ 7922: Be thou worthy of the favour thou desirest of me?
+ 7923: Be thou worthy of that which I would make of thee?
+ 7924: ...The hour of judgement is nigh.
+ 7925: Delay not in thy return. Mine ears thirst for thy blade's uplifted sword-song.
+ 7926: What wouldst thou make of such knowledge? Wouldst thou reshape the future in thine own twisted image, that not a child be born, not a nation rise save by thy sanction?
+ 7927: To the hoodman in the den of serpents, blindness is not a curse but a blessing. If thou wouldst claim thyself a worthy steward o'er what is to come, prove it unto me with thy blade.
+ 7928: I grant such a reward as becometh thee. Accept it graciously, and begone from this place.
+ 7929: Through the ages, much have I seen. Fool [men/women], their eyes cast open to what has yet to pass, struck mad by the horrors they did gaze upon.
+ 7930: Canst thou succeed where thy craven forbears did fail?
+ 7931: Thou must truly know what thou desirest ere it be granted thee.
+ 7932: Reflect upon the true nature of thy desire, then seek me anew.
+ 7933: Seek not further knowledge, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
+ 7934: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy of my boon, thy bones shall litter the halls of Asgarth!
+ 7935: Give thyself over to the ravenous flames of ambition...
+ 7936: ...and the power to achieve thy aims shall be thine.
+ 7937: What wouldst thou make of such power? Soil the fields with the blood of thine enemies, that the rivers run crimson for summers after?
+ 7938: With great power comes greater responsibility. If thou wouldst still have my boon, prove thy worth unto me with thy blade.
+ 7939: Through the ages, much have I seen. Witless monarchs, gifted authority absolute, who succeeded only in plumbing the depths of corruption and depravity.
+ 7940: Canst thou succeed where thy forbears, o'ercrowed by vice, did fail?
+ 7941: Seek not further power, for it will not avail one who grasps not what [he/she] already possess'st.
+ 7942: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
+ 7943: What wouldst thou make of this ingenuity? Wouldst thou enslave bird and beast, bend the very laws of nature to serve thy base desires?
+ 7944: In all things, there is order. If thou wouldst have the sun rise in the west, and rivers flow from ocean to hill, then by thy blade prove unto me thy worth.
+ 7945: Through the ages, much have I seen. Foolhardy [men/women], clever beyond their means, fostering only ruin where they would spur advancement.
+ 7946: Canst thou succeed where thy forbears in their ignorance failed?
+ 7947: Seek not further genius, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
+ 7948: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
+ 7949: What wouldst thou make of such passion? Seize the hearts of those around thee, that they would gladly die a thousand deaths to be but graced with thy smile?
+ 7950: Fickle and heedless is the mortal heart. If thou wouldst govern the ungovernable, prove thy worth unto me with thy blade.
+ 7951: Through the ages, much have I seen. Fool [men/women] who strove to be loved by all, only to die alone, despis'd by even their once-truest companions.
+ 7952: Canst thou succeed where thy forbears in their covetousness failed?
+ 7953: Seek not further passion, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
+ 7954: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
+ 7955: What wouldst thou make of such glory? Wouldst thou have minstrels sing thy praises even as their throats parch with thirst, and thy subjects laud thy mercy even as they huddle starving in the streets?
+ 7956: The brightest sun casts the darkest shadows. Shouldst thou seek glory still, prove thy worth unto me with thy blade.
+ 7957: Through the ages, much have I seen. [Kings/Queens] of ruined nations, demanding the undying devotion of their subjects who lay starving in the streets.
+ 7958: Wilt thou not but repeat the mistakes of thy thrice-prideful forbears?
+ 7959: Seek not further glory, for it will avail thee naught. Strive instead to employ what thou hast already been granted.
+ 7960: Seek wings to take flight, and pay me visit in my nether abode. Shouldst thou prove unworthy, thy bones shall litter the halls of Asgarth!
+ 7961: Much have I journeyed, much experienced, mighty ones many proved. In strength of spirit, thou surpass'st them all.
+ 7962: Thy appeal is heard.
+ 7963: In all things, there is order. One star from the heavens falls, and another is birthed in its stead.
+ 7964: Such is my bargain. In return for that one's soul, I would claim thine.
+ 7965: Become Odin's knight? [Yes...my liege./I'll never serve you!]
+ 7966: Are you certain? [My soul is thine./I cannot...]
+ 7967: Ahahahahahaha! Then thy true desire is granted, and mine own as well.
+ 7968: Rise, my knight! Thou shalt serve me well, lest the bonds of thy successor be wrought from thine entrails.
+ 7969: Ahahahahahaha! What fool [man/woman] is this, that would gainsay a god?
+ 7970: Thy coveted prize sits on a pedestal before thee. Claim it or turn away, it matters not to me.
+ 7971: But know this, brave fool. As sure as the sun must surrender to the pitch of night, the day will come when thy soul is mine.
+ 7972: I...I am freed?
+ 7973: So this is your doing, <Player>. But why...?
+ 7974: Why? [To honor a promise to Her Majesty./I would walk the path of darkness./Because I felt like it.]
+ 7975: Battle after battle you have fought, all to protect her...? You are a [man/woman] of uncommon honor indeed.
+ 7976: Such confident words. But do you truly comprehend the path you have chosen?
+ 7977: ...Forgive me.
+ 7978: It is not my place to question a [man/woman] who can bend the very gods to [his/her] will.
+ 7979: If there is anyone who can ride with the Dark Divinity and emerge unscathed, surely it is you.
+ 7980: Hmm...?
+ 7981: Bwahahaha. Now you're speaking a language this corsair can understand!
+ 7982: Full of pure, unchecked fury like the raging waves of the northern seas. Had you been born a century prior, I would have been proud to count you among my crew.
+ 7983: I thank you, <Player>. Because of you, I have discovered the one treasure I thought would elude me forever...peace.
+ 7984: With you at Aphmau's side...this Empire is in capable hands... I shall watch over it with pride...for all eternity... Farewell, <Player>!
+ 7985: Thy thirst for power is nigh unquenchable. 'Twould seem I have chosen my champion well.
+ 7986: Shouldst ever thou tire of mere amusement, seek out wings to fly, and pay me visit in my nether abode. There I shall meet you in the flesh, that our blades may sing destruction 'til the coming of Ragnarok!
+ 7987: I await thy challenge, my knight...
+ 7988: I await our next meeting, my knight...
+ 7989: Current point total: $0.
+ 7990: Current stage: $1.
+ 7991: Select an option. [Release stage 1./Release stage 2./Release stage 3./Release stage 4./Release stage 5./Release stage 6./Release stage 7./Release stage 8./Release stage 9./Release stage 10.]
+ 7992: You cannot obtain the item. Come back after sorting your inventory.
+ 7993: Press a button to continue.
+ 7994: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
+ 7995: Obtained temporary item: $0!
+ 7996: You already have that temporary item.
+ 7997: The chamber's stagnant aura has somewhat cleared...
+ 7998: The creatures lurking in the shadows have calmed...
+ 7999: The creatures lurking in the shadows have become restless...
+ 8000: Heh heh heh...
+ 8001: Debug: Dendainsonne's Rage = 0.
+ 8002: Debug: Dendainsonne's Rage = 1.
+ 8003: Debug: Dendainsonne's Rage = 2.
+ 8004: Dendainsonne looks angry...
+ 8005: Dendainsonne is enraged!
+ 8006: Dendainsonne is out of control!
+ 8007: Dendainsonne appears to be mocking you...
+ 8008: In ages past, I oft journeyed the boundless aethyr to pay visit this emerald isle.
+ 8009: And tonight, the light of the Einherjar hath guided me hither once again...
+ 8010: ...that I might rejoice as our blades sing before the gates of Hell!
+ 8011: Thy brands art one with the winds. Yet can they match the swiftness of mighty Hildulfr?
+ 8012: Dost thou possess the strength to withstand a blow from Asgarth steel!?
+ 8013: Thy minds art as clear as a crystalline spring. Yet can thy magicks match those of wise Gondlir?
+ 8014: Dost thou possess the courage to withstand an onslaught of the winds of Asgarth!?
+ 8015: Thy bonds art forged of tempered steel. Yet can they match the armies of noble Herjann!?
+ 8016: Dost thou possess the will to withstand the battle cries of mine loyal Warriors!?
+ 8017: Thine eyes...doth burn with the flames of Muspilheim. Thus I shalt grant thee audience with Vithurr...
+ 8018: Utter thy final prayers, for Ragnarok is nigh!
+ 8019: The true power of Gungnir cometh not from the blade herself, but from the countless souls it hath sent to the corpse-halls of the Underworld!
+ 8020: Mine obsidian blade shalt split atwain the threads of thy future...
+ 8021: ...whilst its crimson fuller shalt channel the lifeblood of thy past.
+ 8022: Now wail as thy soul is bestrewn across the plains of Valhalla!
+ 8023: Ahahahahahaha! Fate hath smiled upon the sons of Men. Let us return to Asgarth, Sleipnir.
+ 8024: But as long as thine hearts yet festereth with the corruption of rage, I shalt ne'er perish.
+ 8025: Farewell, Einherjar!
+ 8026: Is this the uttermost limit of thy resolve? Ten beats of a fearless heart hast thou to prove thy worth, lest a brutal demise be thy sole reward...
+ 8027: $0...
+ 8028: Hark, for my blade sings thy dirge!
+ 8029: Surpassing power... Boundless knowledge... Indomitable spirit...
+ 8030: Thou hast grown mighty since our blades last sung together, Einherjar.
+ 8031: Ours shall be an epic struggle, one not seen since the day of Ragnarok... Now come, that I might taste the ecstasy of battle anew!
+ 8032: My blade shall cleave through thy hollow shell of valor!
+ 8033: My blade shall cleave thy flesh as it did the giant Ymir!
+ 8034: My blade shall cleave thy very soul!
+ 8035: My blade shall consign thee to the depths of Hel!
+ 8036: 
+ 8037: My blade shall feed full on your flesh...
+ 8038: ...And redden the home of the gods with gore...
+ 8039: Your bones shall be strewn o'er the halls of Valhalla!
+ 8040: Thou hast felled my valkyries, but tonight it is thine own lifeblood that shall spill!
+ 8041: Ahahahahahaha! My blade has not known such bliss sith the day of Ragnarok!
+ 8042: The sun may darken, and mountains sink to the sea...
+ 8043: Yet as long as thou drawest breath, I shall rise to this world anew! Farewell, Einherjar!
+ 8044: An otherworldly voice echoes faintly from the depths of your skull...
+ 8045: ...who would...prove...thy...worth... Deliver...unto me...and speak...my name...
+ 8046: A booming voice resonates from the depths of your skull...
+ 8047: The $0 in thy possession is testament to thy worth. Speak unto me my name, that thou might claimest thy reward.
+ 8048: My name... [I do not know./Rossweisse./Grimgerde./Siegrune./Helmwige./Schwertleite./Waltraute./Ortlinde./Gerhilde./Brunhilde.]
+ 8049: Your $0 is bathed in light, and transforms into $6!
+ 8050: Record time and destination on the $6?
+ 8051: Select option: [Confirm destination./Cancel recording./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
+ 8052: Select [Quit./Rossweisse's Chamber./Grimgerde's Chamber./Siegrune's Chamber./Helmwige's Chamber./Schwertleite's Chamber./Waltraute's Chamber./Ortlinde's Chamber./Gerhilde's Chamber./Brunhilde's Chamber./Odin's Chamber./Odin's Chamber II.]
+ 8053: Preparing teleport to Hazhalm Testing Grounds - [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].
+ 8054: Proceed to [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]? [Yes./Not yet./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
+ 8055: All of the valkyrie feathers in your possession are consumed!
+ 8056: Entry to the chambers is prohibited for $0 more Vana'dielian [day/days].
+ 8057: Adventurers who have yet to reach level $0 will not be permitted entry to the training grounds.
+ 8058: Chamber reservation is prohibited for $0 more Vana'dielian [day/days].
+ 8059: Adventurers who have yet to reach level $0 will not be permitted to make reservations within the training grounds.
+ 8060: Gathering data...
+ 8061: Could not gather the sufficient data.
+ 8062: Item trade has failed.
+ 8063: Currently, another expedition is occupying [/Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].
+ 8064: Time and destination have been recorded on your $0.
+ 8065: You do not possess the items required for entry.
+ 8066: You do not meet the requirements for entry.
+ 8067: The power of the $0 has faded. You may no longer occupy this chamber.
+ 8068: A communication error has occurred.
+ 8069: There are too many adventurers in the chamber.
+ 8070: ----== Warning! ==---- Your reservation of this chamber will end in $0 [minute/minutes].
+ 8071: ----== Warning! ==---- Your reservation of this chamber will end in $0 [second/seconds].
+ 8072: All expedition members have been incapacitated. Commencing emergency teleportation in $0 [minute/minutes].
+ 8073: All expedition members have been incapacitated. Commencing emergency teleportation.
+ 8074: Your expedition currently has less than 6 members. Commencing emergency teleportation in $0 [minute/minutes].
+ 8075: Your expedition does not meet the minimum member requirement. Commencing emergency teleportation.
+ 8076: [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber] has been cleared. Commencing teleportation in $0 [minute/minutes].
+ 8077: Other members currently engaged in battle. Entry denied.
+ 8078: You obtain $0 ampoule[/s] of viscous therion ichor.
+ 8079: The group leader has not yet entered the chamber. Entry denied.
+ 8080: To enter the Hazhalm Testing Grounds, you must trade $0 without the Battlefield status in effect.
+ 8081: Note that your claim over the area through your $0 will be relinquished if over $1 more minute[/s] pass from this point with no one inside.
+ 8082: When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7.
+ 8083: From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers.
+ 8084: By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.
+ 8085: Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.
+ 8086: Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function.
+ 8087: These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.
+ 8088: To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate.
+ 8089: However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.
+ 8090: As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity.
+ 8091: Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.
+ 8092: Trading $6 to the "Entry Gate" found in the Hazhalm Testing Grounds will cause it to transform into $7.
+ 8093: For the player making the chamber reservation alone, entry into the second wing requires one valkyrie feather from the first wing, and entry into the third wing requires one feather from the second wing. 6 may be used in place of the feathers.
+ 8094: Gaining access to the most remote chamber in the testing grounds, Valgrind, requires the player conducting this trade to possess three valkyrie feathers--one from each wing.
+ 8095: If this condition is not met, the $6 will not transform into $7 when traded to the "Entry Gate."
+ 8096: Entry into a chamber which has been reserved requires players to trade $7 to the "Entry Gate."
+ 8097: The player who initially reserved the chamber must enter first before other players will be granted access.
+ 8098: While there are several conditions which must be fulfilled to successfully trade $6, the trading of $7 has essentially no prerequisites.
+ 8099: Simply possessing $7 generated by the player who reserved the chamber is enough to make one eligible for entry.
+ 8100: In the case of Valgrind, all entering players must possess a minimum of one valkyrie feather from each wing, for a total of at least three feathers per player.
+ 8101: If this condition is not met, trading $7 to the "Entry Gate" will not result in the player being transported to the reserved chamber.
+ 8102: Ampoules of therion ichor are obtained in the Hazhalm Testing Grounds through the slaying of all enemies except for the Guardians of Asgarth.
+ 8103: Should a player not successfully complete a chamber or exit prematurely, ampoules will still be awarded in proportion to the number of kills for which they were present.
+ 8104: Ampoules will only be granted in the event of either a forced exit due to time expiration, or a player voluntarily disposing of the $7 in their possession.
+ 8105: After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again.
+ 8106: This not only pertains to the chamber previously visited, but all areas within the testing grounds.
+ 8107: The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.
+ 8108: All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.
+ 8109: In addition, any items dropped by a foe can be lotted on by anyone in the chamber.
+ 8110: However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.
+ 8111: At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately $1 [minute/minutes] (Earth time).
+ 8112: Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds.
+ 8113: Ah, it's you. I wasn't expecting to see you here.
+ 8114: According to the info I've m-m-managed to collect, a large rift in the space-time continuum lies deep within the ancient facility behind this door.
+ 8115: There, it is rum-m-mored that Odin, the god and ruler of Valhalla, will appear...
+ 8116: However, a powerful m-m-magical seal has been placed on this location. It will not be easy to meet with Odin.
+ 8117: By the way, do you rem-m-member what Amnaf the Immortal said at the stone tablet in the Caedarva Mire?
+ 8118: "There is a large-scale war brewing in Valhalla, land of the chosen souls... There is an open rebellion against Odin, the god who controls Valhalla."
+ 8119: I'd like to know m-m-more about this war. Have you heard anything about it?
+ 8120: What do you know? [Nothing really./Talk about Rishfee./Odin hasn't told me anything.]
+ 8121: You're useless. M-m-maybe you just forgot?
+ 8122: Actually, I believe Amnaf m-m-mentioned pursuing Rishfee in Valhalla.
+ 8123: Who is this Rishfee? If he's an Immortal m-m-much like Amnaf, could he also have risen again?
+ 8124: I see! So there was another blue m-m-mage!
+ 8125: And he wished for the m-m-magical power within him to be absorbed by the Prison Orb...
+ 8126: Yes, I suppose that could allow you to have a m-m-meaningful conversation with him.
+ 8127: Do you m-m-mean to say you've actually met with Odin!?
+ 8128: That m-m-must mean there's a way to break through this seal. This could prove useful.
+ 8129: Hm!?
+ 8130: Hraaah!
+ 8131: How did that Goblin get in there?
+ 8132: Let's catch the fiend and find out.
+ 8133: Follow Uran-Mafran and pursue the Destiny Destroyers to the Caedarva Mire.

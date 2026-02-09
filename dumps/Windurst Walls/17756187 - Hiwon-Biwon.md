@@ -42,57 +42,57 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EE6      |        7910 |
-|       3 | 0x1EE7      |        7911 |
-|       4 | 0x1EE9      |        7913 |
-|       5 | 0x1D2A      |        7466 |
-|       6 | 0x1D2B      |        7467 |
-|       7 | 0x1D2C      |        7468 |
-|       8 | 0x1D2E      |        7470 |
-|       9 | 0x1D2F      |        7471 |
-|      10 | 0x1D3E      |        7486 |
-|      11 | 0x1D3F      |        7487 |
-|      12 | 0x1D3C      |        7484 |
-|      13 | 0x1D3D      |        7485 |
-|      14 | 0x1E41      |        7745 |
-|      15 | 0x1E42      |        7746 |
-|      16 | 0x1E43      |        7747 |
-|      17 | 0x1E44      |        7748 |
-|      18 | 0x1E45      |        7749 |
-|      19 | 0x1E46      |        7750 |
-|      20 | 0x1D45      |        7493 |
-|      21 | 0x1D5C      |        7516 |
-|      22 | 0x1D68      |        7528 |
-|      23 | 0x1D69      |        7529 |
-|      24 | 0x2937      |       10551 |
-|      25 | 0x2938      |       10552 |
+|       2 | 0x1EE7      |        7911 |
+|       3 | 0x1EE8      |        7912 |
+|       4 | 0x1EEA      |        7914 |
+|       5 | 0x1D2B      |        7467 |
+|       6 | 0x1D2C      |        7468 |
+|       7 | 0x1D2D      |        7469 |
+|       8 | 0x1D2F      |        7471 |
+|       9 | 0x1D30      |        7472 |
+|      10 | 0x1D3F      |        7487 |
+|      11 | 0x1D40      |        7488 |
+|      12 | 0x1D3D      |        7485 |
+|      13 | 0x1D3E      |        7486 |
+|      14 | 0x1E42      |        7746 |
+|      15 | 0x1E43      |        7747 |
+|      16 | 0x1E44      |        7748 |
+|      17 | 0x1E45      |        7749 |
+|      18 | 0x1E46      |        7750 |
+|      19 | 0x1E47      |        7751 |
+|      20 | 0x1D46      |        7494 |
+|      21 | 0x1D5D      |        7517 |
+|      22 | 0x1D69      |        7529 |
+|      23 | 0x1D6A      |        7530 |
+|      24 | 0x2938      |       10552 |
+|      25 | 0x2939      |       10553 |
 
 ## String References
 
-- **7466**: Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!
-- **7467**: Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly."
-- **7468**: They say old Doc Shantotto's as high-and-mighty as Yutungah's firey mountain, and as rough-cut as the rocky Gustaberg Ranges-wanges.
-- **7470**: No matter how scary they say old Doc Shantotto is, I should be okay...so long as I don't make her angry-wangry.
-- **7471**: Standing around here trying to ward off the heebie-jeebies is only delaying me from writing the story of the century-wentury. I've got to pluck up the courage and go confront-awont her!
-- **7484**: I've finally plucked up the courage-wourage. First thing tomorrow, I'm gonna walk in that door and conduct that interview with Doctor Shantotto!
-- **7485**: Just standing here, staring at her house all day, every day... And I call myself a reporter? Well, as of tomorrow, it's no more procrastination-wation for me!
-- **7486**: ...Erck! I haven't been feeling so good since the other night-wight...
-- **7487**: Whenever I shut my eyes...like this, erck...I see these red eyes spinning around and around in the darkness...and, and my shoulders feel all weighed down-wown, and all...Woa\`h!
-- **7493**: ...Erck...!
-- **7516**: ...Erck...k...k...!
-- **7528**: Phew... I think I'm feeling a little better now-wow.
-- **7529**: It's like the mist has cleared from my eyes and the weight has been lifted from my shoulders. Why, it's almost as if that mystery illness never happened-wappened.
-- **7745**: You were sent here by my editor-weditor? Oh, gee...I haven't been able to get the lowdown on old Doctor Shantotto yet!
-- **7746**: We'll just have to run with what I've got-wot... Here, take this article back to the boss for me.
-- **7747**: Getting back to the matter at hand-wand... How should I break the ice with Doctor Shantotto?
-- **7748**: "I hope you're having a magical day-way?" ...Naw! "Thank you for sparing me your precious time-wime?" ...Nagh! Curses! What will become of me...?
-- **7749**: ...Erck...!
-- **7750**: My, my news s-scoop...? H-here...erck...t-take th-this...
-- **7910**: Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!
-- **7911**: Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly."
-- **7913**: I guess it was wrong of me to start off by interviewing the people around her. The more I hear about the doctor, the less I want to meet her-wer.
-- **10551**: Zzz... zzz... <Mmph>...
-- **10552**: <Snore>... No, Shantotto...not...not the whip... Zzz...
+- **7467**: Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!
+- **7468**: Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly."
+- **7469**: They say old Doc Shantotto's as high-and-mighty as Yutungah's firey mountain, and as rough-cut as the rocky Gustaberg Ranges-wanges.
+- **7471**: No matter how scary they say old Doc Shantotto is, I should be okay...so long as I don't make her angry-wangry.
+- **7472**: Standing around here trying to ward off the heebie-jeebies is only delaying me from writing the story of the century-wentury. I've got to pluck up the courage and go confront-awont her!
+- **7485**: I've finally plucked up the courage-wourage. First thing tomorrow, I'm gonna walk in that door and conduct that interview with Doctor Shantotto!
+- **7486**: Just standing here, staring at her house all day, every day... And I call myself a reporter? Well, as of tomorrow, it's no more procrastination-wation for me!
+- **7487**: ...Erck! I haven't been feeling so good since the other night-wight...
+- **7488**: Whenever I shut my eyes...like this, erck...I see these red eyes spinning around and around in the darkness...and, and my shoulders feel all weighed down-wown, and all...Woa\`h!
+- **7494**: ...Erck...!
+- **7517**: ...Erck...k...k...!
+- **7529**: Phew... I think I'm feeling a little better now-wow.
+- **7530**: It's like the mist has cleared from my eyes and the weight has been lifted from my shoulders. Why, it's almost as if that mystery illness never happened-wappened.
+- **7746**: You were sent here by my editor-weditor? Oh, gee...I haven't been able to get the lowdown on old Doctor Shantotto yet!
+- **7747**: We'll just have to run with what I've got-wot... Here, take this article back to the boss for me.
+- **7748**: Getting back to the matter at hand-wand... How should I break the ice with Doctor Shantotto?
+- **7749**: "I hope you're having a magical day-way?" ...Naw! "Thank you for sparing me your precious time-wime?" ...Nagh! Curses! What will become of me...?
+- **7750**: ...Erck...!
+- **7751**: My, my news s-scoop...? H-here...erck...t-take th-this...
+- **7911**: Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!
+- **7912**: Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly."
+- **7914**: I guess it was wrong of me to start off by interviewing the people around her. The more I hear about the doctor, the less I want to meet her-wer.
+- **10552**: Zzz... zzz... <Mmph>...
+- **10553**: <Snore>... No, Shantotto...not...not the whip... Zzz...
 
 ## Events
 
@@ -268,10 +268,10 @@
   1: 0x005B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+  4: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!"
   5: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  6: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly.""
   7: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x006C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -305,7 +305,7 @@
   1: 0x007C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  4: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "I guess it was wrong of me to start off by interviewing the people around her. The more I hear about the doctor, the less I want to meet her-wer."
   5: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0089 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -339,13 +339,13 @@
   1: 0x0099 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+  4: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!"
   5: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
+  6: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
     → "Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly.""
   7: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+  8: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "They say old Doc Shantotto's as high-and-mighty as Yutungah's firey mountain, and as rough-cut as the rocky Gustaberg Ranges-wanges."
   9: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -379,10 +379,10 @@
   1: 0x00BE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+  4: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "No matter how scary they say old Doc Shantotto is, I should be okay...so long as I don't make her angry-wangry."
   5: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
+  6: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
     → "Standing around here trying to ward off the heebie-jeebies is only delaying me from writing the story of the century-wentury. I've got to pluck up the courage and go confront-awont her!"
   7: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -416,13 +416,13 @@
   1: 0x00DF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+  4: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "Doctor Shantotto, the former Minister of the Orastery, or "Mage Academy," lives in this house here. I'm sure that she's hiding something-womething!"
   5: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
+  6: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
     → "Who am I? Well, I'm the reporter who's waiting to get a tell-all interview with her! You see, I write for the Tarutaru Times' "Magic Paradise Weekly.""
   7: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+  8: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "They say old Doc Shantotto's as high-and-mighty as Yutungah's firey mountain, and as rough-cut as the rocky Gustaberg Ranges-wanges."
   9: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -478,10 +478,10 @@
   1: 0x0105 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0106 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0107 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
+  4: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "...Erck! I haven't been feeling so good since the other night-wight..."
   5: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
+  6: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
     → "Whenever I shut my eyes...like this, erck...I see these red eyes spinning around and around in the darkness...and, and my shoulders feel all weighed down-wown, and all...Woa`h!"
   7: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0116 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x04)
@@ -515,10 +515,10 @@
   1: 0x0126 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0127 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0128 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+  4: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "I've finally plucked up the courage-wourage. First thing tomorrow, I'm gonna walk in that door and conduct that interview with Doctor Shantotto!"
   5: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+  6: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
     → "Just standing here, staring at her house all day, every day... And I call myself a reporter? Well, as of tomorrow, it's no more procrastination-wation for me!"
   7: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0137 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -552,10 +552,10 @@
   1: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0149 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
+  4: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
     → "You were sent here by my editor-weditor? Oh, gee...I haven't been able to get the lowdown on old Doctor Shantotto yet!"
   5: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
+  6: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
     → "We'll just have to run with what I've got-wot... Here, take this article back to the boss for me."
   7: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0158 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -589,10 +589,10 @@
   1: 0x0168 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0169 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x016A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
+  4: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
     → "Getting back to the matter at hand-wand... How should I break the ice with Doctor Shantotto?"
   5: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
+  6: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
     → ""I hope you're having a magical day-way?" ...Naw! "Thank you for sparing me your precious time-wime?" ...Nagh! Curses! What will become of me...?"
   7: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0179 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -626,10 +626,10 @@
   1: 0x0189 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x018B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+  4: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "...Erck...!"
   5: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
+  6: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
     → "My, my news s-scoop...? H-here...erck...t-take th-this..."
   7: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x019A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x04)
@@ -663,10 +663,10 @@
   1: 0x01AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+  4: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "...Erck...!"
   5: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
+  6: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
     → "My, my news s-scoop...? H-here...erck...t-take th-this..."
   7: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x04)
@@ -700,7 +700,7 @@
   1: 0x01CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
+  4: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7494*)
     → "...Erck...!"
   5: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x04)
@@ -733,7 +733,7 @@
   1: 0x01E8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  4: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "...Erck...k...k...!"
   5: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x04)
@@ -767,10 +767,10 @@
   1: 0x0205 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0206 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0207 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x01)
-  4: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  4: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "Phew... I think I'm feeling a little better now-wow."
   5: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+  6: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "It's like the mist has cleared from my eyes and the weight has been lifted from my shoulders. Why, it's almost as if that mystery illness never happened-wappened."
   7: 0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x02)
@@ -803,10 +803,10 @@
   1: 0x0226 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0227 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0228 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hiwon-Biwon (ID: 17756187/0x010EF01B), tag_num=0x03)
-  4: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=10551*)
+  4: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=10552*)
     → "Zzz... zzz... <Mmph>..."
   5: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=10552*)
+  6: 0x0233 [0x1D] PRINT_EVENT_MESSAGE(message_id=10553*)
     → "<Snore>... No, Shantotto...not...not the whip... Zzz..."
   7: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0237 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -21,27 +21,27 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CCA      |        7370 |
-|       2 | 0x1CCB      |        7371 |
+|       1 | 0x1CCB      |        7371 |
+|       2 | 0x1CCC      |        7372 |
 |       3 | 0x40000000  |  1073741824 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1CCC      |        7372 |
-|       6 | 0x1CCD      |        7373 |
-|       7 | 0x1CCE      |        7374 |
-|       8 | 0x1CCF      |        7375 |
-|       9 | 0x1CD0      |        7376 |
-|      10 | 0x1CD1      |        7377 |
-|      11 | 0x1CD2      |        7378 |
+|       5 | 0x1CCD      |        7373 |
+|       6 | 0x1CCE      |        7374 |
+|       7 | 0x1CCF      |        7375 |
+|       8 | 0x1CD0      |        7376 |
+|       9 | 0x1CD1      |        7377 |
+|      10 | 0x1CD2      |        7378 |
+|      11 | 0x1CD3      |        7379 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x1CD3      |        7379 |
-|      14 | 0x1CD4      |        7380 |
-|      15 | 0x1CD5      |        7381 |
-|      16 | 0x1CD6      |        7382 |
-|      17 | 0x1CD7      |        7383 |
+|      13 | 0x1CD4      |        7380 |
+|      14 | 0x1CD5      |        7381 |
+|      15 | 0x1CD6      |        7382 |
+|      16 | 0x1CD7      |        7383 |
+|      17 | 0x1CD8      |        7384 |
 |      18 | 0x0003      |           3 |
-|      19 | 0x1CD8      |        7384 |
-|      20 | 0x1CD9      |        7385 |
-|      21 | 0x1CDA      |        7386 |
+|      19 | 0x1CD9      |        7385 |
+|      20 | 0x1CDA      |        7386 |
+|      21 | 0x1CDB      |        7387 |
 |      22 | 0x0004      |           4 |
 |      23 | 0x0005      |           5 |
 |      24 | 0x0006      |           6 |
@@ -59,15 +59,15 @@
 |      36 | 0x0012      |          18 |
 |      37 | 0x0013      |          19 |
 |      38 | 0x0014      |          20 |
-|      39 | 0x1CDC      |        7388 |
-|      40 | 0x1CDD      |        7389 |
-|      41 | 0x1CDE      |        7390 |
-|      42 | 0x1CDF      |        7391 |
-|      43 | 0x1CE0      |        7392 |
-|      44 | 0x1CE1      |        7393 |
+|      39 | 0x1CDD      |        7389 |
+|      40 | 0x1CDE      |        7390 |
+|      41 | 0x1CDF      |        7391 |
+|      42 | 0x1CE0      |        7392 |
+|      43 | 0x1CE1      |        7393 |
+|      44 | 0x1CE2      |        7394 |
 |      45 | 0x001F      |          31 |
-|      46 | 0x1C8C      |        7308 |
-|      47 | 0x1CDB      |        7387 |
+|      46 | 0x1C8D      |        7309 |
+|      47 | 0x1CDC      |        7388 |
 |      48 | 0x0677      |        1655 |
 |      49 | 0x03E8      |        1000 |
 |      50 | 0x0678      |        1656 |
@@ -110,31 +110,31 @@
 
 ## String References
 
-- **7308**: You do not have enough cruor.
-- **7370**: Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
-- **7371**: Ask for something? [No thanks./Synthetic atma?/My memories?/Show me the atma.]
-- **7372**: As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
-- **7373**: The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
-- **7374**: After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
-- **7375**: We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
-- **7376**: Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
-- **7377**: If you possess such memories, then I can bring forth the latent power that resides within you as well.
-- **7378**: Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
-- **7379**: Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
-- **7380**: But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
-- **7381**: Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
-- **7382**: We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
-- **7383**: Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
-- **7384**: Very well. We shall see what latent powers you possess. Stand still and clear your mind...
-- **7385**: Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
-- **7386**: Yes, I see within you $0 [memory/memories] that I could process into atma. Which shall I extract?
-- **7387**: ...And yet, I see nothing tangible enough for me to process. I am sorry.
-- **7388**: Synthesize atma? (Cruor balance: $0) [None for now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./$6: $22./$6: $24./$6: $26./$6: $28./$6: $30./$6: $ ./$6: $"./$6: $$./Previous page./Next page.]
-- **7389**: Expend $0 cruor? [Yes./No.]
-- **7390**: Very well. Let us begin the extraction.
-- **7391**: Still your heart, and empty your mind...
-- **7392**: The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
-- **7393**: Behold, the physical manifestation of the innermost power of your soul!
+- **7309**: You do not have enough cruor.
+- **7371**: Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
+- **7372**: Ask for something? [No thanks./Synthetic atma?/My memories?/Show me the atma.]
+- **7373**: As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
+- **7374**: The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
+- **7375**: After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
+- **7376**: We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
+- **7377**: Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
+- **7378**: If you possess such memories, then I can bring forth the latent power that resides within you as well.
+- **7379**: Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
+- **7380**: Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
+- **7381**: But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
+- **7382**: Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
+- **7383**: We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
+- **7384**: Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
+- **7385**: Very well. We shall see what latent powers you possess. Stand still and clear your mind...
+- **7386**: Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
+- **7387**: Yes, I see within you $0 [memory/memories] that I could process into atma. Which shall I extract?
+- **7388**: ...And yet, I see nothing tangible enough for me to process. I am sorry.
+- **7389**: Synthesize atma? (Cruor balance: $0) [None for now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./$6: $22./$6: $24./$6: $26./$6: $28./$6: $30./$6: $ ./$6: $"./$6: $$./Previous page./Next page.]
+- **7390**: Expend $0 cruor? [Yes./No.]
+- **7391**: Very well. Let us begin the extraction.
+- **7392**: Still your heart, and empty your mind...
+- **7393**: The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
+- **7394**: Behold, the physical manifestation of the innermost power of your soul!
 
 ## Events
 
@@ -349,12 +349,12 @@
  49: 0x00E1 [0x03] ExtData[1]->WorkLocal[39] = 0*
  50: 0x00E6 [0x1A] CALL_SUBROUTINE(address=0x0555)
  51: 0x00E9 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 52: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+ 52: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word."
  53: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00F2 [0x05] ExtData[1]->WorkLocal[43] = 1
  55: 0x00F5 [0x02] IF !(ExtData[1]->WorkLocal[43] <= 0*) GOTO 0x0553
- 56: 0x00FD [0x24] CREATE_DIALOG(message_id=7371*, default_option=0*, option_flags=0*)
+ 56: 0x00FD [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=0*)
     → "Ask for something? [No thanks./Synthetic atma?/My memories?/Show me the atma.]"
  57: 0x0104 [0x25] WAIT_DIALOG_SELECT()
  58: 0x0105 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0118
@@ -362,55 +362,55 @@
  60: 0x0110 [0x03] Work_Zone[1] = 1073741824*
  61: 0x0115 [0x01] GOTO 0x0550
  62: 0x0118 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013F
- 63: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+ 63: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends."
  64: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
+ 65: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
     → "The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired."
  66: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
+ 67: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
     → "After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal."
  68: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
+ 69: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
     → "We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought."
  70: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
+ 71: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
     → "Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends."
  72: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+ 73: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
     → "If you possess such memories, then I can bring forth the latent power that resides within you as well."
  74: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+ 75: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is..."
  76: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x013C [0x01] GOTO 0x0550
  78: 0x013F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x015E
- 79: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+ 79: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
     → "Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing..."
  80: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 81: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore."
  82: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+ 83: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name."
  84: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+ 85: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma."
  86: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+ 87: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
     → "Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word."
  88: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x015B [0x01] GOTO 0x0550
  90: 0x015E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0550
- 91: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+ 91: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
     → "Very well. We shall see what latent powers you possess. Stand still and clear your mind..."
  92: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
+ 93: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
     → "Yes...it is as I thought... Long and far have you traveled...many a battle have you fought..."
  94: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x016E [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0549
  96: 0x0176 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 97: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+ 97: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "Yes, I see within you $0 [memory/memories] that I could process into atma. Which shall I extract?"
  98: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x017F [0x05] ExtData[1]->WorkLocal[44] = 1
@@ -547,7 +547,7 @@ SUBROUTINE_0369:
 SUBROUTINE_037A:
 193: 0x037A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=19*, condition_work_offset=1*)
 194: 0x0381 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[42], bit_index_work_offset=20*, condition_work_offset=1*)
-195: 0x0388 [0x24] CREATE_DIALOG(message_id=7388*, default_option=0*, option_flags=ExtData[1]->WorkLocal[42])
+195: 0x0388 [0x24] CREATE_DIALOG(message_id=7389*, default_option=0*, option_flags=ExtData[1]->WorkLocal[42])
     → "Synthesize atma? (Cruor balance: $0) [None for now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./$6: $22./$6: $24./$6: $26./$6: $28./$6: $30./$6: $ ./$6: $"./$6: $$./Previous page./Next page.]"
 196: 0x038F [0x25] WAIT_DIALOG_SELECT()
 197: 0x0390 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x039E
@@ -619,21 +619,21 @@ SUBROUTINE_03B4:
 
 SUBROUTINE_04E9:
 261: 0x04E9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[41]
-262: 0x04EE [0x24] CREATE_DIALOG(message_id=7389*, default_option=1*, option_flags=0*)
+262: 0x04EE [0x24] CREATE_DIALOG(message_id=7390*, default_option=1*, option_flags=0*)
     → "Expend $0 cruor? [Yes./No.]"
 263: 0x04F5 [0x25] WAIT_DIALOG_SELECT()
 264: 0x04F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0538
 265: 0x04FE [0x02] IF !(ExtData[1]->WorkLocal[1] < ExtData[1]->WorkLocal[41]) GOTO 0x0531
-266: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
+266: 0x0506 [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
     → "Very well. Let us begin the extraction."
 267: 0x0509 [0x23] WAIT_FOR_DIALOG_INTERACTION
-268: 0x050A [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
+268: 0x050A [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
     → "Still your heart, and empty your mind..."
 269: 0x050D [0x23] WAIT_FOR_DIALOG_INTERACTION
-270: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
+270: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
     → "The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!"
 271: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
-272: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
+272: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
     → "Behold, the physical manifestation of the innermost power of your soul!"
 273: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0516 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -641,7 +641,7 @@ SUBROUTINE_04E9:
 276: 0x0528 [0x06] ExtData[1]->WorkLocal[43] = 0
 277: 0x052B [0x06] ExtData[1]->WorkLocal[44] = 0
 278: 0x052E [0x01] GOTO 0x0535
-279: 0x0531 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
+279: 0x0531 [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
     → "You do not have enough cruor."
 280: 0x0534 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -653,7 +653,7 @@ SUBROUTINE_0535:
 SUBROUTINE_0543:
 284: 0x0543 [0x01] GOTO 0x0182
 285: 0x0546 [0x01] GOTO 0x054D
-286: 0x0549 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
+286: 0x0549 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
     → "...And yet, I see nothing tangible enough for me to process. I am sorry."
 287: 0x054C [0x23] WAIT_FOR_DIALOG_INTERACTION
 

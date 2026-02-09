@@ -1,5 +1,5 @@
 # Strings for Abdhaljs Isle-Purgonorgo
-# Total: 7598 strings
+# Total: 7599 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,189 +7069,189 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: You can't fish here.
- 7069: You can't fish without a rod in your hands.
- 7070: You can't fish without bait on the hook.
- 7071: You can't fish at the moment.
- 7072: You didn't catch anything.
- 7073: %0 caught a monster!
- 7074: Your line breaks.
- 7075: Your rod breaks.
- 7076: Something caught the hook!
- 7077: You lost your catch.
- 7078: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7079: You feel there's something here.
- 7080: You feel there's something nearby.
- 7081: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7082: %0 caught $1 $0 !
- 7083: You dig and you dig, but find nothing.
- 7084: $0/$0p$3Z$3b$3g
- 7085: Your rod breaks. Whatever caught the hook was pretty big.
- 7086: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7087: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7088: You lost your catch due to your lack of skill.
- 7089: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7090: You didn't catch anything.
- 7091: The paper on your $0 ripped.
- 7092: A tiny goldfish approaches!
- 7093: A plump, black goldfish approaches!
- 7094: A fat, juicy goldfish approaches!
- 7095: There are no goldfish to be found...
- 7096: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7097: The goldfish slipped off your scoop...
- 7098: ch$0 skill up check.
- 7099: a:$0.
- 7100: Time $0 / Status $1 / $2
- 7101: d:$0. e:$1. f:$2. g:$3.
- 7102: h: $1. i: $0. sr: $2.
- 7103: j:$0. k:$1.
- 7104: You give up and reel in your line.
- 7105: You give up.
- 7106: %0 obtains $1 gil.
- 7107: %0 caught $0!
- 7108: You don't know how much longer you can keep this one on the line...
- 7109: You have a good feeling about this one!
- 7110: You have a bad feeling about this one.
- 7111: You have a terrible feeling about this one...
- 7112: You don't know if you have enough skill to reel this one in.
- 7113: You're fairly sure you don't have enough skill to reel this one in.
- 7114: You're positive you don't have enough skill to reel this one in!
- 7115: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7116: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7117: l: $0. m: $1. n: $2. CH: $3.
- 7118: Something caught the hook!!!
- 7119: You feel something pulling at your line.
- 7120: Something clamps onto your line ferociously!
- 7121: Your keen angler's senses tell you that this is the pull of $0!
- 7122: This strength... You get the sense that you are on the verge of an epic catch!
- 7123: The timer has started. $0 seconds remaining.
- 7124: $0sec.$1/$2sec.
- 7125: 0:$0 1:$1 2:$2 3:$3
- 7126: 4:$0 5:$1 6:$2 7:$3
- 7127: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7128: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7129: $0/$1($2j
- 7130: Version invalid error!
- 7131: Hurry before the goldfish sees you!
- 7132: %0 fishes up a large box!
- 7133: $23$o$P122$8$0
- 7134: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7135: PointF$0 >>> $1
- 7136: [$1($0)/skillF$1]
- 7137: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7138: Im Rnd : $0 Pz Rnd : $1
- 7139: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7140: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7141: skill : $0 size : $1 kind : $2 sch : $3
- 7142: time : $0 mes : $1 flag : $2 bonus : $3
- 7143: item : $0 hp : $1 pow : $2 swing : $3
- 7144: suc : $0 cons : $1 weight : $2 +- : $3
- 7145: speed : $0 +- : $1 exc : $2 client : $3
- 7146: general : $0
- 7147: ro:$0 rs:$1 ps:$2 dt:$3
- 7148: ra:$0 ti:$1
- 7149: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7150: You get the distinct sense that your moogle friend frequents this spot...
- 7151: You have a feeling that your moogle friend has been through this way...
- 7152: You suspect that the scenery around here would be to a moogle's liking...
- 7153: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7154: You have a hunch that this area would be favored by moogles...
- 7155: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7156: %0 catches $1 $0 !
- 7157: %0 obtained $6!
- 7158: It appears your chocobo found this item with ease.
- 7159: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7160: FPT $0 DPT $1 DoT$2
- 7161: FPT $0 TDPT $1 h$2
- 7162: You cannot fish at this time.
- 7163: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7164: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7165: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7166: You receive $0 bayld!
- 7167: Your chocobo refuses to partake of the $0.
- 7168: Tallying conquest results...
- 7169: Conquest results tallied.
- 7170: This region is currently under San d'Orian control.
- 7171: This region is currently under Bastokan control.
- 7172: This region is currently under Windurstian control.
- 7173: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7174: This region is currently neutral.
- 7175: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7176: All three nations are tied for first place.
- 7177: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7178: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7179: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7180: All three nations are tied for first place.
- 7181: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7182: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7183: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7184: All three nations are tied for first place.
- 7185: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7186: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7187: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7188: All three nations are tied for first place.
- 7189: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7190: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7191: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7192: Global balance of power: All three nations are tied for first place.
- 7193: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7194: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7195: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7196: All three nations are tied for first place.
- 7197: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7198: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7199: Conquest update: This region is currently neutral.
- 7200: Conquest update: This region is currently under San d'Orian control.
- 7201: Conquest update: This region is currently under Bastokan control.
- 7202: Conquest update: This region is currently under Windurstian control.
- 7203: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7204: All three nations are at a deadlock.
- 7205: The beastmen are on the rise.
- 7206: Regional influence: San d'Oria - Dominant
- 7207: Regional influence: San d'Oria - Major
- 7208: Regional influence: San d'Oria - Minor
- 7209: Regional influence: San d'Oria - Minimal
- 7210: Bastok - Dominant
- 7211: Bastok - Major
- 7212: Bastok - Minor
- 7213: Bastok - Minimal
- 7214: Windurst - Dominant
- 7215: Windurst - Major
- 7216: Windurst - Minor
- 7217: Windurst - Minimal
- 7218: Bastok and Windurst have formed an alliance.
- 7219: San d'Oria and Windurst have formed an alliance.
- 7220: San d'Oria and Bastok have formed an alliance.
- 7221: Bastok and Windurst are currently allies.
- 7222: San d'Oria and Windurst are currently allies.
- 7223: San d'Oria and Bastok are currently allies.
- 7224: $10$P11.$17F$0 $P14;$P12hF$1
- 7225: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7226: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7227: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7228: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7229: The beastmen are gaining power.
- 7230: San d'Oria's regional control is now 10% closer to the first place country's!
- 7231: Bastok's regional control is now 10% closer to the first place country's!
- 7232: Windurst's regional control are now 10% closer to the first place country's!
- 7233: San d'Oria's region points have increased!
- 7234: Bastok's region points have increased!
- 7235: Windurst's region points have increased!
- 7236: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7237: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7238: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7239: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7240: A Bastokan Expeditionary Force has been dispatched to this area.
- 7241: A Windurstian Expeditionary Force has been dispatched to this area.
- 7242: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7243: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7244: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7245: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7246: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7247: There was a curse on the beastmen's banner!
- 7248: The curse of the beastmen's banner has been lifted!
- 7249: There is a beastmen's banner.
- 7250: @
+ 7068: It won't open.
+ 7069: You can't fish here.
+ 7070: You can't fish without a rod in your hands.
+ 7071: You can't fish without bait on the hook.
+ 7072: You can't fish at the moment.
+ 7073: You didn't catch anything.
+ 7074: %0 caught a monster!
+ 7075: Your line breaks.
+ 7076: Your rod breaks.
+ 7077: Something caught the hook!
+ 7078: You lost your catch.
+ 7079: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7080: You feel there's something here.
+ 7081: You feel there's something nearby.
+ 7082: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7083: %0 caught $1 $0 !
+ 7084: You dig and you dig, but find nothing.
+ 7085: $0/$0p$3Z$3b$3g
+ 7086: Your rod breaks. Whatever caught the hook was pretty big.
+ 7087: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7088: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7089: You lost your catch due to your lack of skill.
+ 7090: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7091: You didn't catch anything.
+ 7092: The paper on your $0 ripped.
+ 7093: A tiny goldfish approaches!
+ 7094: A plump, black goldfish approaches!
+ 7095: A fat, juicy goldfish approaches!
+ 7096: There are no goldfish to be found...
+ 7097: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7098: The goldfish slipped off your scoop...
+ 7099: ch$0 skill up check.
+ 7100: a:$0.
+ 7101: Time $0 / Status $1 / $2
+ 7102: d:$0. e:$1. f:$2. g:$3.
+ 7103: h: $1. i: $0. sr: $2.
+ 7104: j:$0. k:$1.
+ 7105: You give up and reel in your line.
+ 7106: You give up.
+ 7107: %0 obtains $1 gil.
+ 7108: %0 caught $0!
+ 7109: You don't know how much longer you can keep this one on the line...
+ 7110: You have a good feeling about this one!
+ 7111: You have a bad feeling about this one.
+ 7112: You have a terrible feeling about this one...
+ 7113: You don't know if you have enough skill to reel this one in.
+ 7114: You're fairly sure you don't have enough skill to reel this one in.
+ 7115: You're positive you don't have enough skill to reel this one in!
+ 7116: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7117: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7118: l: $0. m: $1. n: $2. CH: $3.
+ 7119: Something caught the hook!!!
+ 7120: You feel something pulling at your line.
+ 7121: Something clamps onto your line ferociously!
+ 7122: Your keen angler's senses tell you that this is the pull of $0!
+ 7123: This strength... You get the sense that you are on the verge of an epic catch!
+ 7124: The timer has started. $0 seconds remaining.
+ 7125: $0sec.$1/$2sec.
+ 7126: 0:$0 1:$1 2:$2 3:$3
+ 7127: 4:$0 5:$1 6:$2 7:$3
+ 7128: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7129: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7130: $0/$1($2j
+ 7131: Version invalid error!
+ 7132: Hurry before the goldfish sees you!
+ 7133: %0 fishes up a large box!
+ 7134: $23$o$P122$8$0
+ 7135: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7136: PointF$0 >>> $1
+ 7137: [$1($0)/skillF$1]
+ 7138: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7139: Im Rnd : $0 Pz Rnd : $1
+ 7140: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7141: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7142: skill : $0 size : $1 kind : $2 sch : $3
+ 7143: time : $0 mes : $1 flag : $2 bonus : $3
+ 7144: item : $0 hp : $1 pow : $2 swing : $3
+ 7145: suc : $0 cons : $1 weight : $2 +- : $3
+ 7146: speed : $0 +- : $1 exc : $2 client : $3
+ 7147: general : $0
+ 7148: ro:$0 rs:$1 ps:$2 dt:$3
+ 7149: ra:$0 ti:$1
+ 7150: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7151: You get the distinct sense that your moogle friend frequents this spot...
+ 7152: You have a feeling that your moogle friend has been through this way...
+ 7153: You suspect that the scenery around here would be to a moogle's liking...
+ 7154: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7155: You have a hunch that this area would be favored by moogles...
+ 7156: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7157: %0 catches $1 $0 !
+ 7158: %0 obtained $6!
+ 7159: It appears your chocobo found this item with ease.
+ 7160: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7161: FPT $0 DPT $1 DoT$2
+ 7162: FPT $0 TDPT $1 h$2
+ 7163: You cannot fish at this time.
+ 7164: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7165: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7166: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7167: You receive $0 bayld!
+ 7168: Your chocobo refuses to partake of the $0.
+ 7169: Tallying conquest results...
+ 7170: Conquest results tallied.
+ 7171: This region is currently under San d'Orian control.
+ 7172: This region is currently under Bastokan control.
+ 7173: This region is currently under Windurstian control.
+ 7174: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7175: This region is currently neutral.
+ 7176: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7177: All three nations are tied for first place.
+ 7178: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7179: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7180: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7181: All three nations are tied for first place.
+ 7182: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7183: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7184: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7185: All three nations are tied for first place.
+ 7186: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7187: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7188: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7189: All three nations are tied for first place.
+ 7190: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7191: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7192: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7193: Global balance of power: All three nations are tied for first place.
+ 7194: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7195: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7196: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7197: All three nations are tied for first place.
+ 7198: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7199: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7200: Conquest update: This region is currently neutral.
+ 7201: Conquest update: This region is currently under San d'Orian control.
+ 7202: Conquest update: This region is currently under Bastokan control.
+ 7203: Conquest update: This region is currently under Windurstian control.
+ 7204: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7205: All three nations are at a deadlock.
+ 7206: The beastmen are on the rise.
+ 7207: Regional influence: San d'Oria - Dominant
+ 7208: Regional influence: San d'Oria - Major
+ 7209: Regional influence: San d'Oria - Minor
+ 7210: Regional influence: San d'Oria - Minimal
+ 7211: Bastok - Dominant
+ 7212: Bastok - Major
+ 7213: Bastok - Minor
+ 7214: Bastok - Minimal
+ 7215: Windurst - Dominant
+ 7216: Windurst - Major
+ 7217: Windurst - Minor
+ 7218: Windurst - Minimal
+ 7219: Bastok and Windurst have formed an alliance.
+ 7220: San d'Oria and Windurst have formed an alliance.
+ 7221: San d'Oria and Bastok have formed an alliance.
+ 7222: Bastok and Windurst are currently allies.
+ 7223: San d'Oria and Windurst are currently allies.
+ 7224: San d'Oria and Bastok are currently allies.
+ 7225: $10$P11.$17F$0 $P14;$P12hF$1
+ 7226: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7227: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7228: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7229: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7230: The beastmen are gaining power.
+ 7231: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7232: Bastok's regional control is now 10% closer to the first place country's!
+ 7233: Windurst's regional control are now 10% closer to the first place country's!
+ 7234: San d'Oria's region points have increased!
+ 7235: Bastok's region points have increased!
+ 7236: Windurst's region points have increased!
+ 7237: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7238: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7239: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7240: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7241: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7242: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7243: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7244: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7245: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7246: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7247: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7248: There was a curse on the beastmen's banner!
+ 7249: The curse of the beastmen's banner has been lifted!
+ 7250: There is a beastmen's banner.
  7251: @
  7252: @
  7253: @
@@ -7326,276 +7326,277 @@
  7322: @
  7323: @
  7324: @
- 7325: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7326: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7327: DEBUG: Flag error.
- 7328: DEBUG:<Player> is on the North island.
- 7329: DEBUG:<Player> is on the South island.
- 7330: DEBUG:North Island Moving to standard coordinates.
- 7331: DEBUG:South Island Moving to standard coordinates.
- 7332: Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? [Yes./No.]
- 7333: ***Brenner*** Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: $7)] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
- 7334: The current Brenner match: Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: $7)] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
- 7335: The [/temporary ]entry applications for this match stand as follows: Wyverns: $3 [entry/entries] Griffons: $4 [entry/entries] You [have yet to submit/have submitted] [an /a temporary ]entry application for [the Wyverns./the Griffons./either side.]
- 7336: The minimum level requirement for this match is [0/10/20/30/40/50/60/75]. Your entry application is denied.
- 7337: Set $2 of [1 set/2 sets/3 sets] is currently in progress. The match is scheduled to end on .
- 7338: Set $2 of [1 set/2 sets/3 sets] is currently in progress. Current Score: Wyverns $5 vs $6 Griffons The match is scheduled to end on .
- 7339: Briefing will begin on .
- 7340: The current match will end on . The entry period will begin on , with the briefing to follow on .
- 7341: The current match is scheduled to end on .
- 7342: The next entry period is scheduled to begin on , with the briefing to follow on .
- 7343: All official matches for this season have ended.
- 7344: We are currently awaiting the arrival of the MC. Please present your $0 or $1.
- 7345: The MC for today's event has failed to show. I am now accepting applications for a substitute. Please present your $0 or $1.
- 7346: Today's MC, %0, has yet to arrive. Let us wait a little longer.
- 7347: The MC presiding over today's event is %0.
- 7348: You are the MC for today's match. Please set the match rules and begin proceedings.
- 7349: You are now the MC for this match. The area is reserved until , and the maximum level for this match is [/10/20/30/40/50/60/unrestricted]. Please set the match rules and begin proceedings.
- 7350: Gallery members cannot submit an entry application.
- 7351: You have been authorized as a gallery member only.
- 7352: What would you like to do? [Nothing./Submit an entry./Cancel an entry./View settings.]
- 7353: Entry by item is restricted to private matches. In order to preserve referee impartiality, no items of any kind are accepted.
- 7354: Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application.
- 7355: The entry period has begun.
- 7356: The match has been cancelled.
- 7357: Submitted entries have been auto-balanced.
- 7358: You pay the entry fee of $0 gil.
- 7359: You are refunded $0 gil.
- 7360: Cancel your entry? [Yes./No.]
- 7361: You do not have enough gil.
- 7362: Official match scheduled to end on .
- 7363: Area reservation to end on .
- 7364: Area reservation will end shortly.
- 7365: Official match will end shortly.
- 7366: What would you like to do? [Nothing./Start the match./Close entries & return to settings./Cancel own entry./Auto-balance temp. entries./Shuffle temp. entries./View setting menu.]
- 7367: With the current settings, the area reservation will end before the match is over.
- 7368: Do you wish to start the match? [Yes./No.]
- 7369: Close entries & return to settings? [Yes./No.]
- 7370: Match settings are underway.
- 7371: Auto-balance temporary entries? [Yes./No.]
- 7372: Temporary entries have been auto-balanced.
- 7373: Shuffle temporary entries? [Yes./No.]
- 7374: Temporary entries have been shuffled.
- 7375: This official match requires $1 gil to enter.
- 7376: Submit [a temporary entry/a temporary entry/an entry for your preferred side/an entry for your LS team/]? [Yes./Wyverns./Griffons./%3 team./Not right now.]
- 7377: Please confirm the time on your $0.
- 7378: The [Wyverns/Griffons] cannot accept any more entries.
- 7379: Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve on the same forces.
- 7380: I am not accepting entries at this time.
- 7381: You are unable to submit an entry. Please confirm the match settings.
- 7382: You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
- 7383: You cannot submit an entry with $0 at this time.
- 7384: Your entry is denied. Please confirm the time on your $0.
- 7385: You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
- 7386: You have cancelled your [entry for the Wyverns/entry for the Griffons/temporary entry].
- 7387: You have already submitted an entry application.
- 7388: The maximum number of participants for this match has been reached. Please wait for an entry to be cancelled and try again.
- 7389: The [/Wyverns/Griffons] currently outnumber the opposing side. Please wait until the opposing side has more members before submitting an entry application.
- 7390: Entries are not currently being accepted. Please confirm the match status.
- 7391: You do not have enough gil to submit an entry application.
- 7392: An entry for the [Wyverns/Griffons] has been cancelled.
- 7393: Please present $0 or $1 to be eligible for the entry process.
- 7394: As linkshell leader, you are eligible to enter your team into the LS Liga match. Please present your $0 or $1 if you wish to participate under the current settings.
- 7395: Enter the LS Liga match? [Enter %3./Not right now.]
- 7396: The Wyverns will be represented by %1. The Griffons will be represented by %2.
- 7397: The Wyverns will be represented by %1. The Griffons have no current representatives.
- 7398: The Wyverns have no current representatives. The Griffons will be represented by %2.
- 7399: Neither the Wyverns nor the Griffons are currently represented.
- 7400: The linkshell to represent the Wyverns has been decided.
- 7401: The linkshell to represent the Griffons has been decided.
- 7402: As the difference in the number of wins for both sides is greater than 5, this will be considered a training match and results will not be recorded.
- 7403: If the same teams play each other more than once during a single reservation period, successive matches will be considered training matches and results will not be recorded.
- 7404: The linkshell representing the Wyverns is ready to start the match.
- 7405: The linkshell representing the Griffons is ready to start the match.
- 7406: Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your $0/$1.
- 7407: The linkshell leader must be entered into the match.
- 7408: If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your $0 or $1.
- 7409: If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match.
- 7410: The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.
- 7411: Agree to start the match? [Yes./No.]
- 7412: Both linkshell leaders have yet to signal their agreement to start the match.
- 7413: LS Liga match entry information has been reset.
- 7414: At least one member must be entered on both sides for the match to begin.
- 7415: Temporarily unable to equip linkshell items.
- 7416: Able to equip linkshell items.
- 7417: LS Liga matches cannot be halted by the MC.
- 7418: What do you wish to do? [Nothing./Stop match./Cancel match & return to entry./Cancel own entry./View settings menu.]
- 7419: Do you wish to halt the match? [Yes./No.]
- 7420: The match has been halted by the MC.
- 7421: Halt the match and return to entries? [Yes./No.]
- 7422: The match has been halted by the MC and returned to accepting entries status.
- 7423: Briefing has been started by the MC. The match will begin shortly.
- 7424: Invisible has been cast on all participants. It will be removed when the match begins.
- 7425: Sneak has been cast on all participants. It will be removed when the match begins.
- 7426: Briefing has begun! Level: [/10/20/30/40/50/60/Unrestricted] Match Type: [Official/Private/LS Liga/Official Training/LS Liga Training] Wyverns: $2 [member/members] Griffons: $3 [member/members]
- 7427: Sets: $1 Match Length: $2 [minute/minutes]
- 7428: Set $0 of $1 [set/sets]. Match Length: $2 [minute/minutes]
- 7429: Complete Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Flamme Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Normal Item Usage: [No/OK] Layout: [Pattern A/Pattern B/Pattern C/Pattern D]
- 7430: Match commencing in $0 [minute/minutes].
- 7431: Match commencing in $0 [second/seconds].
- 7432: Match ending in $0 [minute/minutes].
- 7433: Match ending in $0 [second/seconds].
- 7434: The match has begun! Capture the opposing team's Flamme!
- 7435: Number of matches participated in: $0
- 7436: DEBUG: [1/2/3/5/6.1/6.2/4/7/24]! You get $1 [point/points]!
- 7437: $0 [temporary item/temporary items] have been distributed!
- 7438: You are unable to quarry items at this time.
- 7439: You obtain 1 Petra. You now possess $0 [Petra/Petras].
- 7440: You find nothing.
- 7441: You find and use $0.
- 7442: You find the temporary item: $0!
- 7443: You find $0, but you cannot carry any more temporary items.
- 7444: You find $0, but you cannot carry more than one of that temporary item.
- 7445: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
- 7446: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
- 7447: You obtain the temporary item: $0! [/(You cannot carry any more.)]
- 7448: You find $0, but [ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.
- 7449: You throw away the $0.
- 7450: You throw away $1 and replace it with the $0.
- 7451: DEBUG: $1/$3 |ITEMF$0$12671
- 7452: You find a Petra! [Keep it./Throw it away.]
- 7453: You throw away the Petra.
- 7454: I cannot aid members from the opposing side.
- 7455: You must wait $0 [second/seconds] between Petra contributions.
- 7456: Back into the breach, <Player>!
- 7457: I will restore a certain amount of HP and MP in exchange for a contribution of Petras.
- 7458: You hand in $0 [Petra/Petras]. You recover $1 HP and $2 MP!
- 7459: DEBUG: ITEM: $0 $3+$1 INFO $2
- 7460: DEBUG: Your team's status: [/losing][/winning]
- 7461: DEBUG: You've died $3 [time/times].
- 7462: The Flamme is not lit.
- 7463: You cannot capture the Flamme.
- 7464: [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been destroyed! The Flamme can now be captured.
- 7465: [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been restored!
- 7466: has captured the Flamme from [ / / / / /a Wyvern/a Griffon] Flammen-Brenner! [ / / / / /The Wyverns/The Griffons] receive $2 [point/points].
- 7467: The Flamme you are holding will be returned in $0 [minute/minutes], $1 [second/seconds].
- 7468: The Flamme you are holding will be returned in $1 [second/seconds].
- 7469: The Flamme captured by has returned to [ / / / / /the Wyverns/the Griffons]! [ / / / / /The Wyverns/The Griffons] receive $1 [point/points].
- 7470: of [ / / / / /the Wyverns/the Griffons] lights the Flamme! [ / / / / /The Wyverns/The Griffons] receive $1 [point/points].
- 7471: [ / / / / /The Wyverns/The Griffons] receive $1 [point/points] for protecting their Flamme.
- 7472: You can only carry one Flamme at a time.
- 7473: You have left the battle zone.
- 7474: You have entered the battle zone.
- 7475: [ / / / / /The Wyverns/The Griffons] receive 1 point for defending their Flammen-Brenner!
- 7476: Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [minute/minutes], $2 [second/seconds].
- 7477: Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [second/seconds].
- 7478: [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [minute/minutes], $2 [second/seconds].
- 7479: [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [second/seconds].
- 7480: [ / / / / /The Wyverns/The Griffons] have recaptured their Flamme! [ / / / / /The Wyverns/The Griffons] no longer have Complete status.
- 7481: [ / / / / /The Wyverns/The Griffons] have maintained their Complete status for the required time period, resulting in a called game!
- 7482: Match Over! Final Score: $0 vs $1 [It's a draw!/The Wyverns win!/The Griffons win!]
- 7483: The [ /1st/ /2nd/ /3rd] set is over! [It's a draw/The Wyverns win this set/The Griffons win this set] with a score of $0 vs $1!
- 7484: [It's a draw/The Wyverns win/The Griffons win] with a total score of $0 vs $1!
- 7485: Unfortunately, today's match has been cancelled. We thank you for your interest and apologize for the inconvenience.
- 7486: The entry application fee [/and the charge for changing settings ]will be reimbursed.
- 7487: Previous [/Training ]match ($3 [set/sets]) results: Wyverns $0 vs $1 Griffons [Draw/Wyverns win/Griffons win][/ (with bonus)]
- 7488: Personal number of [wins: /draws: ]$1
- 7489: Your most recent LS Liga match was recorded as a [defeat/draw/victory/complete victory].
- 7490: Liga points: $0 ($1 [victory/victories] - $2 [draw/draws] over a total of $3 [match/matches])
- 7491: As your team was defeated within $0 [minute/minutes], you did not earn the full experience point reward.
- 7492: You did not earn experience points.
- 7493: Points earned: $0
- 7494: What would you like to do? [Nothing./Prepare for the next match./Cancel own entry./View settings menu.]
- 7495: Match statistics are currently being recorded. Please wait until before adjusting match settings.
- 7496: Prepare for the next match? [Yes./No.]
- 7497: Match entry information has been reset.
- 7498: Match settings are underway.
- 7499: Unable to process selected settings.
- 7500: Participants who have completed the entry process can change the match settings by paying a fee of $0 gil. Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match.
- 7501: You have already changed the settings for this match.
- 7502: You cannot change match settings at this time.
- 7503: This setting has already been fixed for this match.
- 7504: Really change this setting? [Yes./No.]
- 7505: You can choose to fix this setting.
- 7506: Support jobs have been allowed.
- 7507: Support jobs have been disallowed.
- 7508: The layout for the match has been set to Pattern A.
- 7509: The layout for the match has been set to Pattern B.
- 7510: The layout for the match has been set to Pattern C.
- 7511: The match style has been set to 1 set of 20 minutes.
- 7512: The match style has been set to 2 sets of 10 minutes.
- 7513: The match style has been set to 1 set of 30 minutes.
- 7514: The match style has been set to 2 sets of 15 minutes.
- 7515: The match style has been set to 3 sets of 10 minutes.
- 7516: Flammen-Brenner repair by Petra has been disallowed.
- 7517: Flammen-Brenner repair by Petra has been allowed.
- 7518: The KO penalty has been set to Level 1.
- 7519: The KO penalty has been set to Level 2.
- 7520: Current settings. [Quit./Entry type [/(fixed)]: [auto/shuffle/free/linkshell]/Re-entry [/(fixed)]: [none/OK]/Mid-match entry [/(fixed)]: [none/OK]/@/Allowable margin [/(fixed)]: [up to 1 member/none]/Main job [/(fixed)]: [duplicates OK/no duplicates]/Support job [/(fixed)]: [OK/none]/Min. level [/(fixed)]: [none/10/20/30/40/50/60/75] (Max. Level: [/10/20/30/40/50/60/none])/Layout [/(fixed)]: [pattern A/pattern B/pattern C/pattern D]/Next page.]
- 7521: Current settings. [@/@/@/@/@/@/@/@/@/@/@/Previous page./Briefing [/(fixed)]: [30 sec./1 min./3 min./5 min.]/Match length [/(fixed)]: [5/10/15/20/30] min.[/ (1 set)]/No. of sets [/(fixed)]: $13 [set/sets]/Match style [/(fixed)]F[1 set, 20 min./2 sets, 10 min. each/1 set, 30 min./2 sets, 15 min. each/3 sets, 10 min. each]/Other time settings./@/@/@/Item use [/(fixed)]: [OK/none]/Temporary item settings./@/@/@/Sleep effects removed [/(fixed)]: [none/OK]/Repair by Petra [/(fixed)]: [none/OK]/KO penalty [/(fixed)]: [Level 1/Level 2]/Clear entry data./Reset to default settings./Finish & commence entry period./Quit.]
- 7522: Select settings for team member distribution.
- 7523: Auto-Balance After players have completed a temporary entry for one of the two sides, the players will be redistributed (by main job) evenly among the teams at the beginning of the briefing.
- 7524: Auto-Balance After players have completed a temporary entry for one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.
- 7525: Random Shuffle After players have completed a temporary entry for one of the two sides, the MC can choose to randomly shuffle all players between the teams.
- 7526: Free Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.
- 7527: Linkshell This option can be chosen to conduct LS Liga matches and pits linkshell groups against one another. Once the linkshell leader has submitted an entry application, other linkshell members can then submit their own entries.
- 7528: If both linkshell group leaders do not agree to the rules set by the MC, the match will not begin. Also, leaders must signal their agreement again if any changes are made to the decided settings.
- 7529: Please select the entry type: [Return./Information./Auto-balance./Random shuffle./Free./Linkshell (LS Liga).]
- 7530: The MC has declared an LS Liga match.
- 7531: The MC has declared a private match.
- 7532: If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match. Selecting this option may result in unbalanced sides when players cancel their entries.
- 7533: Allow re-entry? [Return./Information./No./Yes.]
- 7534: Re-entry is not currently allowed.
- 7535: If mid-match entry is allowed, players may join the team with fewer members while the match is in progress.
- 7536: Allow mid-match entry? [Return./Information./No./Yes.]
- 7537: This option selects the size of the allowable margin between team numbers. A margin of zero is suggested in the interests of conducting an equal match.
- 7538: In the case where no margin is allowed, the match will not begin until both sides have an equal number of entries.
- 7539: Allow a margin? [Return./Information./Up to 1 member./No.]
- 7540: The match cannot begin until both sides have an equal number of entries.
- 7541: This option decides whether or not multiples of the same main job are allowed on a single team. In the case where "no duplicates" has been chosen, all members of the same job except for one will have their entries cancelled.
- 7542: Allow multiple main jobs? [Return./Information./Duplicates OK./No duplicates.]
- 7543: Multiple entries of the same main job have been detected in the Wyverns. Entries beyond the first will be invalidated.
- 7544: Multiple entries of the same main job have been detected in the Griffons. Entries beyond the first will be invalidated.
- 7545: This option selects whether or not support jobs will be allowed.
- 7546: Allow support jobs? [Return./Information./Yes./No.]
- 7547: This option selects the minimum level for participation in the match. This value cannot be set higher than the maximum level setting.
- 7548: Minimum level? [Return./Information./None./10."0."0./40./50./60./75.]
- 7549: [Pattern A/Pattern B/Pattern C/Pattern D] will use the layout as shown.
- 7550: The locations of each Flammen-Brenner and camp will be displayed. "W" represents the Wyverns, while "G" represents the Griffons.
- 7551: See the layout patterns? [Not right now./See pattern A./See pattern B./See pattern C./See pattern D.]
- 7552: Choose match layout. [Return./Information./Pattern A./Pattern B./Pattern C./Pattern D.]
- 7553: "Briefing" refers to a period of time before the match where strategies can be hammered out. In matches with multiple sets, the briefing period between matches will be set to 60 seconds regardless of the time selected for this setting.
- 7554: Briefing length. [Return./Information."0 seconds./1 minute." minutes./5 minutes.]
- 7555: This option selects the length of one match. Please be aware that in the case of multiple sets, the length of each match will be decided by this setting.
- 7556: Match length. [Return./Information./5 minutes./10 minutes./15 minutes."0 minutes."0 minutes.]
- 7557: This option selects the number of sets to be played.
- 7558: Number of sets. [Return./Information./1 set." sets." sets.]
- 7559: This option selects the match length and number of sets in official matches. The combinations available will vary depending on the amount of time remaining until the next scheduled match.
- 7560: Match style. [Return./Information./1 set of 20 minutes." sets of 10 minutes./1 set of 30 minutes." sets of 15 minutes." sets of 10 minutes.]
- 7561: Other time settings. [Return./Complete status [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.]/Flamme duration [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.]/Flammen-Brenner [/(fixed)]: [10 sec./20 sec./30 sec./45 sec./1 min.]]
- 7562: This option selects the amount of time one side must maintain Complete status (i.e. each Flammen-Brenner has been lit with a Flamme) until the match becomes a called game.
- 7563: Also, points will be awarded for protecting the Flamme for the period of time set with this option.
- 7564: Complete status duration. [Return./Information./1 minute." minutes." minutes./4 minutes./5 minutes.]
- 7565: This option selects the amount of time a player can hold on to a Flamme before it returns to a Flammen-Brenner on the opposing side.
- 7566: Flamme duration. [Return./Information./1 minute." minutes." minutes./4 minutes./5 minutes.]
- 7567: This option selects the amount of time that will pass before a destroyed Flammen-Brenner will recover after a failed attempt to capture the Flamme.
- 7568: Flammen-Brenner recovery. [Return./Information./10 seconds."0 seconds."0 seconds./45 seconds./1 minute.]
- 7569: This option selects whether or not normal items can be used during a match.
- 7570: Allow normal item use? [Return./Information./Yes./No.]
- 7571: Temporary item settings. [Return./Temp. item capacity [/(fixed)]: [10/15/20]/Temp. item distribution [/(fixed)]: [none/OK]/Quarry holes [/(fixed)]: [all full/some empty]]
- 7572: This option selects the maximum number of temporary items that a player can carry at one time.
- 7573: Set temporary item capacity. [Return./Information./10./15."0.]
- 7574: This option selects whether or not 5 temporary items will be distributed to each player at the start of the match.
- 7575: Distribute temporary items? [Return./Information./No./Yes.]
- 7576: This option selects whether or not some attempts to quarry will fail to produce an item.
- 7577: Fill all quarry holes? [Return./Information./No./Yes.]
- 7578: This option selects whether or not Flammen-Brenner that are under attack will remove sleep status effects from nearby players of the same side.
- 7579: Remove sleep effects? [Return./Information./No./Yes.]
- 7580: This option selects whether or not Flammen-Brenner will consume Petras from nearby team members to restore HP after being damaged past a certain point.
- 7581: Repair by Petra? [Return./Information./No./Yes.]
- 7582: This option sets the penalty for being KO'd.
- 7583: In the case of a Level 1 penalty, reviving from a KO will take longer depending on the length of time between KOs.
- 7584: The Level 2 penalty has the same penalties as Level 1, as well as an additional penalty of less HP and MP being recovered upon revival.
- 7585: Set KO penalty. [Return./Information./Level 1./Level 2.]
- 7586: In accordance with the KO penalty, players will recover less HP and MP when reviving from KO status.
- 7587: Clear all entry data? [Yes./No.]
- 7588: All entry data has been cleared.
- 7589: Return all options to the default settings? [Yes./No.]
- 7590: The MC has returned all rule options to their default settings.
- 7591: Fix settings and begin the entry period? [Yes./Not yet.]
- 7592: The entry period cannot begin until both leaders have agreed to the rule settings.
- 7593: This game has become a private match.
- 7594: The MC has begun the entry period.
- 7595: A blast of warm air is expelled from the Flammen-Brenner. The heat is enough to wake a person from sleep.
- 7596: The Flammen-Brenner consumes $0 [Petra/Petras] from %0 and recovers $1 HP!
- 7597: An error has occurred in the proceedings.
+ 7325: @
+ 7326: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7327: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7328: DEBUG: Flag error.
+ 7329: DEBUG:<Player> is on the North island.
+ 7330: DEBUG:<Player> is on the South island.
+ 7331: DEBUG:North Island Moving to standard coordinates.
+ 7332: DEBUG:South Island Moving to standard coordinates.
+ 7333: Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? [Yes./No.]
+ 7334: ***Brenner*** Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: $7)] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
+ 7335: The current Brenner match: Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: $7)] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
+ 7336: The [/temporary ]entry applications for this match stand as follows: Wyverns: $3 [entry/entries] Griffons: $4 [entry/entries] You [have yet to submit/have submitted] [an /a temporary ]entry application for [the Wyverns./the Griffons./either side.]
+ 7337: The minimum level requirement for this match is [0/10/20/30/40/50/60/75]. Your entry application is denied.
+ 7338: Set $2 of [1 set/2 sets/3 sets] is currently in progress. The match is scheduled to end on .
+ 7339: Set $2 of [1 set/2 sets/3 sets] is currently in progress. Current Score: Wyverns $5 vs $6 Griffons The match is scheduled to end on .
+ 7340: Briefing will begin on .
+ 7341: The current match will end on . The entry period will begin on , with the briefing to follow on .
+ 7342: The current match is scheduled to end on .
+ 7343: The next entry period is scheduled to begin on , with the briefing to follow on .
+ 7344: All official matches for this season have ended.
+ 7345: We are currently awaiting the arrival of the MC. Please present your $0 or $1.
+ 7346: The MC for today's event has failed to show. I am now accepting applications for a substitute. Please present your $0 or $1.
+ 7347: Today's MC, %0, has yet to arrive. Let us wait a little longer.
+ 7348: The MC presiding over today's event is %0.
+ 7349: You are the MC for today's match. Please set the match rules and begin proceedings.
+ 7350: You are now the MC for this match. The area is reserved until , and the maximum level for this match is [/10/20/30/40/50/60/unrestricted]. Please set the match rules and begin proceedings.
+ 7351: Gallery members cannot submit an entry application.
+ 7352: You have been authorized as a gallery member only.
+ 7353: What would you like to do? [Nothing./Submit an entry./Cancel an entry./View settings.]
+ 7354: Entry by item is restricted to private matches. In order to preserve referee impartiality, no items of any kind are accepted.
+ 7355: Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application.
+ 7356: The entry period has begun.
+ 7357: The match has been cancelled.
+ 7358: Submitted entries have been auto-balanced.
+ 7359: You pay the entry fee of $0 gil.
+ 7360: You are refunded $0 gil.
+ 7361: Cancel your entry? [Yes./No.]
+ 7362: You do not have enough gil.
+ 7363: Official match scheduled to end on .
+ 7364: Area reservation to end on .
+ 7365: Area reservation will end shortly.
+ 7366: Official match will end shortly.
+ 7367: What would you like to do? [Nothing./Start the match./Close entries & return to settings./Cancel own entry./Auto-balance temp. entries./Shuffle temp. entries./View setting menu.]
+ 7368: With the current settings, the area reservation will end before the match is over.
+ 7369: Do you wish to start the match? [Yes./No.]
+ 7370: Close entries & return to settings? [Yes./No.]
+ 7371: Match settings are underway.
+ 7372: Auto-balance temporary entries? [Yes./No.]
+ 7373: Temporary entries have been auto-balanced.
+ 7374: Shuffle temporary entries? [Yes./No.]
+ 7375: Temporary entries have been shuffled.
+ 7376: This official match requires $1 gil to enter.
+ 7377: Submit [a temporary entry/a temporary entry/an entry for your preferred side/an entry for your LS team/]? [Yes./Wyverns./Griffons./%3 team./Not right now.]
+ 7378: Please confirm the time on your $0.
+ 7379: The [Wyverns/Griffons] cannot accept any more entries.
+ 7380: Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve on the same forces.
+ 7381: I am not accepting entries at this time.
+ 7382: You are unable to submit an entry. Please confirm the match settings.
+ 7383: You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
+ 7384: You cannot submit an entry with $0 at this time.
+ 7385: Your entry is denied. Please confirm the time on your $0.
+ 7386: You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
+ 7387: You have cancelled your [entry for the Wyverns/entry for the Griffons/temporary entry].
+ 7388: You have already submitted an entry application.
+ 7389: The maximum number of participants for this match has been reached. Please wait for an entry to be cancelled and try again.
+ 7390: The [/Wyverns/Griffons] currently outnumber the opposing side. Please wait until the opposing side has more members before submitting an entry application.
+ 7391: Entries are not currently being accepted. Please confirm the match status.
+ 7392: You do not have enough gil to submit an entry application.
+ 7393: An entry for the [Wyverns/Griffons] has been cancelled.
+ 7394: Please present $0 or $1 to be eligible for the entry process.
+ 7395: As linkshell leader, you are eligible to enter your team into the LS Liga match. Please present your $0 or $1 if you wish to participate under the current settings.
+ 7396: Enter the LS Liga match? [Enter %3./Not right now.]
+ 7397: The Wyverns will be represented by %1. The Griffons will be represented by %2.
+ 7398: The Wyverns will be represented by %1. The Griffons have no current representatives.
+ 7399: The Wyverns have no current representatives. The Griffons will be represented by %2.
+ 7400: Neither the Wyverns nor the Griffons are currently represented.
+ 7401: The linkshell to represent the Wyverns has been decided.
+ 7402: The linkshell to represent the Griffons has been decided.
+ 7403: As the difference in the number of wins for both sides is greater than 5, this will be considered a training match and results will not be recorded.
+ 7404: If the same teams play each other more than once during a single reservation period, successive matches will be considered training matches and results will not be recorded.
+ 7405: The linkshell representing the Wyverns is ready to start the match.
+ 7406: The linkshell representing the Griffons is ready to start the match.
+ 7407: Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your $0/$1.
+ 7408: The linkshell leader must be entered into the match.
+ 7409: If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your $0 or $1.
+ 7410: If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match.
+ 7411: The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.
+ 7412: Agree to start the match? [Yes./No.]
+ 7413: Both linkshell leaders have yet to signal their agreement to start the match.
+ 7414: LS Liga match entry information has been reset.
+ 7415: At least one member must be entered on both sides for the match to begin.
+ 7416: Temporarily unable to equip linkshell items.
+ 7417: Able to equip linkshell items.
+ 7418: LS Liga matches cannot be halted by the MC.
+ 7419: What do you wish to do? [Nothing./Stop match./Cancel match & return to entry./Cancel own entry./View settings menu.]
+ 7420: Do you wish to halt the match? [Yes./No.]
+ 7421: The match has been halted by the MC.
+ 7422: Halt the match and return to entries? [Yes./No.]
+ 7423: The match has been halted by the MC and returned to accepting entries status.
+ 7424: Briefing has been started by the MC. The match will begin shortly.
+ 7425: Invisible has been cast on all participants. It will be removed when the match begins.
+ 7426: Sneak has been cast on all participants. It will be removed when the match begins.
+ 7427: Briefing has begun! Level: [/10/20/30/40/50/60/Unrestricted] Match Type: [Official/Private/LS Liga/Official Training/LS Liga Training] Wyverns: $2 [member/members] Griffons: $3 [member/members]
+ 7428: Sets: $1 Match Length: $2 [minute/minutes]
+ 7429: Set $0 of $1 [set/sets]. Match Length: $2 [minute/minutes]
+ 7430: Complete Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Flamme Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Normal Item Usage: [No/OK] Layout: [Pattern A/Pattern B/Pattern C/Pattern D]
+ 7431: Match commencing in $0 [minute/minutes].
+ 7432: Match commencing in $0 [second/seconds].
+ 7433: Match ending in $0 [minute/minutes].
+ 7434: Match ending in $0 [second/seconds].
+ 7435: The match has begun! Capture the opposing team's Flamme!
+ 7436: Number of matches participated in: $0
+ 7437: DEBUG: [1/2/3/5/6.1/6.2/4/7/24]! You get $1 [point/points]!
+ 7438: $0 [temporary item/temporary items] have been distributed!
+ 7439: You are unable to quarry items at this time.
+ 7440: You obtain 1 Petra. You now possess $0 [Petra/Petras].
+ 7441: You find nothing.
+ 7442: You find and use $0.
+ 7443: You find the temporary item: $0!
+ 7444: You find $0, but you cannot carry any more temporary items.
+ 7445: You find $0, but you cannot carry more than one of that temporary item.
+ 7446: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
+ 7447: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
+ 7448: You obtain the temporary item: $0! [/(You cannot carry any more.)]
+ 7449: You find $0, but [ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.
+ 7450: You throw away the $0.
+ 7451: You throw away $1 and replace it with the $0.
+ 7452: DEBUG: $1/$3 |ITEMF$0$12671
+ 7453: You find a Petra! [Keep it./Throw it away.]
+ 7454: You throw away the Petra.
+ 7455: I cannot aid members from the opposing side.
+ 7456: You must wait $0 [second/seconds] between Petra contributions.
+ 7457: Back into the breach, <Player>!
+ 7458: I will restore a certain amount of HP and MP in exchange for a contribution of Petras.
+ 7459: You hand in $0 [Petra/Petras]. You recover $1 HP and $2 MP!
+ 7460: DEBUG: ITEM: $0 $3+$1 INFO $2
+ 7461: DEBUG: Your team's status: [/losing][/winning]
+ 7462: DEBUG: You've died $3 [time/times].
+ 7463: The Flamme is not lit.
+ 7464: You cannot capture the Flamme.
+ 7465: [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been destroyed! The Flamme can now be captured.
+ 7466: [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been restored!
+ 7467: has captured the Flamme from [ / / / / /a Wyvern/a Griffon] Flammen-Brenner! [ / / / / /The Wyverns/The Griffons] receive $2 [point/points].
+ 7468: The Flamme you are holding will be returned in $0 [minute/minutes], $1 [second/seconds].
+ 7469: The Flamme you are holding will be returned in $1 [second/seconds].
+ 7470: The Flamme captured by has returned to [ / / / / /the Wyverns/the Griffons]! [ / / / / /The Wyverns/The Griffons] receive $1 [point/points].
+ 7471: of [ / / / / /the Wyverns/the Griffons] lights the Flamme! [ / / / / /The Wyverns/The Griffons] receive $1 [point/points].
+ 7472: [ / / / / /The Wyverns/The Griffons] receive $1 [point/points] for protecting their Flamme.
+ 7473: You can only carry one Flamme at a time.
+ 7474: You have left the battle zone.
+ 7475: You have entered the battle zone.
+ 7476: [ / / / / /The Wyverns/The Griffons] receive 1 point for defending their Flammen-Brenner!
+ 7477: Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [minute/minutes], $2 [second/seconds].
+ 7478: Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [second/seconds].
+ 7479: [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [minute/minutes], $2 [second/seconds].
+ 7480: [ / / / / /The Wyverns/The Griffons] will claim victory in $1 [second/seconds].
+ 7481: [ / / / / /The Wyverns/The Griffons] have recaptured their Flamme! [ / / / / /The Wyverns/The Griffons] no longer have Complete status.
+ 7482: [ / / / / /The Wyverns/The Griffons] have maintained their Complete status for the required time period, resulting in a called game!
+ 7483: Match Over! Final Score: $0 vs $1 [It's a draw!/The Wyverns win!/The Griffons win!]
+ 7484: The [ /1st/ /2nd/ /3rd] set is over! [It's a draw/The Wyverns win this set/The Griffons win this set] with a score of $0 vs $1!
+ 7485: [It's a draw/The Wyverns win/The Griffons win] with a total score of $0 vs $1!
+ 7486: Unfortunately, today's match has been cancelled. We thank you for your interest and apologize for the inconvenience.
+ 7487: The entry application fee [/and the charge for changing settings ]will be reimbursed.
+ 7488: Previous [/Training ]match ($3 [set/sets]) results: Wyverns $0 vs $1 Griffons [Draw/Wyverns win/Griffons win][/ (with bonus)]
+ 7489: Personal number of [wins: /draws: ]$1
+ 7490: Your most recent LS Liga match was recorded as a [defeat/draw/victory/complete victory].
+ 7491: Liga points: $0 ($1 [victory/victories] - $2 [draw/draws] over a total of $3 [match/matches])
+ 7492: As your team was defeated within $0 [minute/minutes], you did not earn the full experience point reward.
+ 7493: You did not earn experience points.
+ 7494: Points earned: $0
+ 7495: What would you like to do? [Nothing./Prepare for the next match./Cancel own entry./View settings menu.]
+ 7496: Match statistics are currently being recorded. Please wait until before adjusting match settings.
+ 7497: Prepare for the next match? [Yes./No.]
+ 7498: Match entry information has been reset.
+ 7499: Match settings are underway.
+ 7500: Unable to process selected settings.
+ 7501: Participants who have completed the entry process can change the match settings by paying a fee of $0 gil. Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match.
+ 7502: You have already changed the settings for this match.
+ 7503: You cannot change match settings at this time.
+ 7504: This setting has already been fixed for this match.
+ 7505: Really change this setting? [Yes./No.]
+ 7506: You can choose to fix this setting.
+ 7507: Support jobs have been allowed.
+ 7508: Support jobs have been disallowed.
+ 7509: The layout for the match has been set to Pattern A.
+ 7510: The layout for the match has been set to Pattern B.
+ 7511: The layout for the match has been set to Pattern C.
+ 7512: The match style has been set to 1 set of 20 minutes.
+ 7513: The match style has been set to 2 sets of 10 minutes.
+ 7514: The match style has been set to 1 set of 30 minutes.
+ 7515: The match style has been set to 2 sets of 15 minutes.
+ 7516: The match style has been set to 3 sets of 10 minutes.
+ 7517: Flammen-Brenner repair by Petra has been disallowed.
+ 7518: Flammen-Brenner repair by Petra has been allowed.
+ 7519: The KO penalty has been set to Level 1.
+ 7520: The KO penalty has been set to Level 2.
+ 7521: Current settings. [Quit./Entry type [/(fixed)]: [auto/shuffle/free/linkshell]/Re-entry [/(fixed)]: [none/OK]/Mid-match entry [/(fixed)]: [none/OK]/@/Allowable margin [/(fixed)]: [up to 1 member/none]/Main job [/(fixed)]: [duplicates OK/no duplicates]/Support job [/(fixed)]: [OK/none]/Min. level [/(fixed)]: [none/10/20/30/40/50/60/75] (Max. Level: [/10/20/30/40/50/60/none])/Layout [/(fixed)]: [pattern A/pattern B/pattern C/pattern D]/Next page.]
+ 7522: Current settings. [@/@/@/@/@/@/@/@/@/@/@/Previous page./Briefing [/(fixed)]: [30 sec./1 min./3 min./5 min.]/Match length [/(fixed)]: [5/10/15/20/30] min.[/ (1 set)]/No. of sets [/(fixed)]: $13 [set/sets]/Match style [/(fixed)]F[1 set, 20 min./2 sets, 10 min. each/1 set, 30 min./2 sets, 15 min. each/3 sets, 10 min. each]/Other time settings./@/@/@/Item use [/(fixed)]: [OK/none]/Temporary item settings./@/@/@/Sleep effects removed [/(fixed)]: [none/OK]/Repair by Petra [/(fixed)]: [none/OK]/KO penalty [/(fixed)]: [Level 1/Level 2]/Clear entry data./Reset to default settings./Finish & commence entry period./Quit.]
+ 7523: Select settings for team member distribution.
+ 7524: Auto-Balance After players have completed a temporary entry for one of the two sides, the players will be redistributed (by main job) evenly among the teams at the beginning of the briefing.
+ 7525: Auto-Balance After players have completed a temporary entry for one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.
+ 7526: Random Shuffle After players have completed a temporary entry for one of the two sides, the MC can choose to randomly shuffle all players between the teams.
+ 7527: Free Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.
+ 7528: Linkshell This option can be chosen to conduct LS Liga matches and pits linkshell groups against one another. Once the linkshell leader has submitted an entry application, other linkshell members can then submit their own entries.
+ 7529: If both linkshell group leaders do not agree to the rules set by the MC, the match will not begin. Also, leaders must signal their agreement again if any changes are made to the decided settings.
+ 7530: Please select the entry type: [Return./Information./Auto-balance./Random shuffle./Free./Linkshell (LS Liga).]
+ 7531: The MC has declared an LS Liga match.
+ 7532: The MC has declared a private match.
+ 7533: If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match. Selecting this option may result in unbalanced sides when players cancel their entries.
+ 7534: Allow re-entry? [Return./Information./No./Yes.]
+ 7535: Re-entry is not currently allowed.
+ 7536: If mid-match entry is allowed, players may join the team with fewer members while the match is in progress.
+ 7537: Allow mid-match entry? [Return./Information./No./Yes.]
+ 7538: This option selects the size of the allowable margin between team numbers. A margin of zero is suggested in the interests of conducting an equal match.
+ 7539: In the case where no margin is allowed, the match will not begin until both sides have an equal number of entries.
+ 7540: Allow a margin? [Return./Information./Up to 1 member./No.]
+ 7541: The match cannot begin until both sides have an equal number of entries.
+ 7542: This option decides whether or not multiples of the same main job are allowed on a single team. In the case where "no duplicates" has been chosen, all members of the same job except for one will have their entries cancelled.
+ 7543: Allow multiple main jobs? [Return./Information./Duplicates OK./No duplicates.]
+ 7544: Multiple entries of the same main job have been detected in the Wyverns. Entries beyond the first will be invalidated.
+ 7545: Multiple entries of the same main job have been detected in the Griffons. Entries beyond the first will be invalidated.
+ 7546: This option selects whether or not support jobs will be allowed.
+ 7547: Allow support jobs? [Return./Information./Yes./No.]
+ 7548: This option selects the minimum level for participation in the match. This value cannot be set higher than the maximum level setting.
+ 7549: Minimum level? [Return./Information./None./10."0."0./40./50./60./75.]
+ 7550: [Pattern A/Pattern B/Pattern C/Pattern D] will use the layout as shown.
+ 7551: The locations of each Flammen-Brenner and camp will be displayed. "W" represents the Wyverns, while "G" represents the Griffons.
+ 7552: See the layout patterns? [Not right now./See pattern A./See pattern B./See pattern C./See pattern D.]
+ 7553: Choose match layout. [Return./Information./Pattern A./Pattern B./Pattern C./Pattern D.]
+ 7554: "Briefing" refers to a period of time before the match where strategies can be hammered out. In matches with multiple sets, the briefing period between matches will be set to 60 seconds regardless of the time selected for this setting.
+ 7555: Briefing length. [Return./Information."0 seconds./1 minute." minutes./5 minutes.]
+ 7556: This option selects the length of one match. Please be aware that in the case of multiple sets, the length of each match will be decided by this setting.
+ 7557: Match length. [Return./Information./5 minutes./10 minutes./15 minutes."0 minutes."0 minutes.]
+ 7558: This option selects the number of sets to be played.
+ 7559: Number of sets. [Return./Information./1 set." sets." sets.]
+ 7560: This option selects the match length and number of sets in official matches. The combinations available will vary depending on the amount of time remaining until the next scheduled match.
+ 7561: Match style. [Return./Information./1 set of 20 minutes." sets of 10 minutes./1 set of 30 minutes." sets of 15 minutes." sets of 10 minutes.]
+ 7562: Other time settings. [Return./Complete status [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.]/Flamme duration [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.]/Flammen-Brenner [/(fixed)]: [10 sec./20 sec./30 sec./45 sec./1 min.]]
+ 7563: This option selects the amount of time one side must maintain Complete status (i.e. each Flammen-Brenner has been lit with a Flamme) until the match becomes a called game.
+ 7564: Also, points will be awarded for protecting the Flamme for the period of time set with this option.
+ 7565: Complete status duration. [Return./Information./1 minute." minutes." minutes./4 minutes./5 minutes.]
+ 7566: This option selects the amount of time a player can hold on to a Flamme before it returns to a Flammen-Brenner on the opposing side.
+ 7567: Flamme duration. [Return./Information./1 minute." minutes." minutes./4 minutes./5 minutes.]
+ 7568: This option selects the amount of time that will pass before a destroyed Flammen-Brenner will recover after a failed attempt to capture the Flamme.
+ 7569: Flammen-Brenner recovery. [Return./Information./10 seconds."0 seconds."0 seconds./45 seconds./1 minute.]
+ 7570: This option selects whether or not normal items can be used during a match.
+ 7571: Allow normal item use? [Return./Information./Yes./No.]
+ 7572: Temporary item settings. [Return./Temp. item capacity [/(fixed)]: [10/15/20]/Temp. item distribution [/(fixed)]: [none/OK]/Quarry holes [/(fixed)]: [all full/some empty]]
+ 7573: This option selects the maximum number of temporary items that a player can carry at one time.
+ 7574: Set temporary item capacity. [Return./Information./10./15."0.]
+ 7575: This option selects whether or not 5 temporary items will be distributed to each player at the start of the match.
+ 7576: Distribute temporary items? [Return./Information./No./Yes.]
+ 7577: This option selects whether or not some attempts to quarry will fail to produce an item.
+ 7578: Fill all quarry holes? [Return./Information./No./Yes.]
+ 7579: This option selects whether or not Flammen-Brenner that are under attack will remove sleep status effects from nearby players of the same side.
+ 7580: Remove sleep effects? [Return./Information./No./Yes.]
+ 7581: This option selects whether or not Flammen-Brenner will consume Petras from nearby team members to restore HP after being damaged past a certain point.
+ 7582: Repair by Petra? [Return./Information./No./Yes.]
+ 7583: This option sets the penalty for being KO'd.
+ 7584: In the case of a Level 1 penalty, reviving from a KO will take longer depending on the length of time between KOs.
+ 7585: The Level 2 penalty has the same penalties as Level 1, as well as an additional penalty of less HP and MP being recovered upon revival.
+ 7586: Set KO penalty. [Return./Information./Level 1./Level 2.]
+ 7587: In accordance with the KO penalty, players will recover less HP and MP when reviving from KO status.
+ 7588: Clear all entry data? [Yes./No.]
+ 7589: All entry data has been cleared.
+ 7590: Return all options to the default settings? [Yes./No.]
+ 7591: The MC has returned all rule options to their default settings.
+ 7592: Fix settings and begin the entry period? [Yes./Not yet.]
+ 7593: The entry period cannot begin until both leaders have agreed to the rule settings.
+ 7594: This game has become a private match.
+ 7595: The MC has begun the entry period.
+ 7596: A blast of warm air is expelled from the Flammen-Brenner. The heat is enough to wake a person from sleep.
+ 7597: The Flammen-Brenner consumes $0 [Petra/Petras] from %0 and recovers $1 HP!
+ 7598: An error has occurred in the proceedings.

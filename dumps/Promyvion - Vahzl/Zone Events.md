@@ -99,7 +99,7 @@
 |      40 | 0x0020      |          32 |
 |      41 | 0xFFFE2BB2  |  4294847410 |
 |      42 | 0xFFFFFC19  |  4294966297 |
-|      43 | 0x1C3B      |        7227 |
+|      43 | 0x1C3C      |        7228 |
 |      44 | 0x0001      |           1 |
 |      45 | 0x0049      |          73 |
 |      46 | 0x008C      |         140 |
@@ -121,20 +121,20 @@
 |      62 | 0x22A3A     |      141882 |
 |      63 | 0xFFFFFD90  |  4294966672 |
 |      64 | 0x0BF4      |        3060 |
-|      65 | 0x1C3C      |        7228 |
+|      65 | 0x1C3D      |        7229 |
 |      66 | 0xFFFFC668  |  4294952552 |
 |      67 | 0xFFFE2C48  |  4294847560 |
 |      68 | 0x0024      |          36 |
 |      69 | 0x0014      |          20 |
-|      70 | 0x1C3D      |        7229 |
+|      70 | 0x1C3E      |        7230 |
 |      71 | 0x004A      |          74 |
 |      72 | 0x00AA      |         170 |
 
 ## String References
 
-- **7227**: Enter the memory stream? [Yes./No.]
-- **7228**: Return through the memory stream? [Yes./No.]
-- **7229**: Leave Promyvion? [Yes./No.]
+- **7228**: Enter the memory stream? [Yes./No.]
+- **7229**: Return through the memory stream? [Yes./No.]
+- **7230**: Leave Promyvion? [Yes./No.]
 
 ## Events
 
@@ -656,7 +656,7 @@
 
 ```
   0: 0x00C8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00CA [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x00CA [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x00D1 [0x25] WAIT_DIALOG_SELECT()
   3: 0x00D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0177
@@ -719,7 +719,7 @@ SUBROUTINE_0182:
 
 ```
   0: 0x0186 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0188 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x0188 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x018F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0190 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0235
@@ -782,7 +782,7 @@ SUBROUTINE_0240:
 
 ```
   0: 0x0244 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0246 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x0246 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x024D [0x25] WAIT_DIALOG_SELECT()
   3: 0x024E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F3
@@ -844,7 +844,7 @@ SUBROUTINE_02FE:
 
 ```
   0: 0x0302 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0304 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x0304 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x030B [0x25] WAIT_DIALOG_SELECT()
   3: 0x030C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B1
@@ -906,7 +906,7 @@ SUBROUTINE_03BC:
 
 ```
   0: 0x03C0 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x03C2 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x03C2 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x03C9 [0x25] WAIT_DIALOG_SELECT()
   3: 0x03CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046F
@@ -969,7 +969,7 @@ SUBROUTINE_047A:
 
 ```
   0: 0x047E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0480 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x0480 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x0487 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0488 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x052D
@@ -1032,7 +1032,7 @@ SUBROUTINE_0538:
 
 ```
   0: 0x053C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x053E [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x053E [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x0545 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0546 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05EB
@@ -1095,7 +1095,7 @@ SUBROUTINE_05F6:
 
 ```
   0: 0x05FA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x05FC [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  1: 0x05FC [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   2: 0x0603 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0604 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06A9
@@ -1157,7 +1157,7 @@ SUBROUTINE_06B4:
 #### Opcodes
 
 ```
-  0: 0x06B8 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  0: 0x06B8 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   1: 0x06BF [0x25] WAIT_DIALOG_SELECT()
   2: 0x06C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0765
@@ -1218,7 +1218,7 @@ SUBROUTINE_0770:
 #### Opcodes
 
 ```
-  0: 0x0774 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  0: 0x0774 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   1: 0x077B [0x25] WAIT_DIALOG_SELECT()
   2: 0x077C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0821
@@ -1279,7 +1279,7 @@ SUBROUTINE_082C:
 #### Opcodes
 
 ```
-  0: 0x0830 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+  0: 0x0830 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the memory stream? [Yes./No.]"
   1: 0x0837 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0838 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08DD
@@ -1341,7 +1341,7 @@ SUBROUTINE_08E8:
 #### Opcodes
 
 ```
-  0: 0x08EC [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x08EC [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x08F3 [0x25] WAIT_DIALOG_SELECT()
   2: 0x08F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0999
@@ -1403,7 +1403,7 @@ SUBROUTINE_09A4:
 #### Opcodes
 
 ```
-  0: 0x09A8 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x09A8 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x09AF [0x25] WAIT_DIALOG_SELECT()
   2: 0x09B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A55
@@ -1464,7 +1464,7 @@ SUBROUTINE_0A60:
 #### Opcodes
 
 ```
-  0: 0x0A64 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x0A64 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x0A6B [0x25] WAIT_DIALOG_SELECT()
   2: 0x0A6C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B11
@@ -1525,7 +1525,7 @@ SUBROUTINE_0B1C:
 #### Opcodes
 
 ```
-  0: 0x0B20 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+  0: 0x0B20 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Return through the memory stream? [Yes./No.]"
   1: 0x0B27 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0B28 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BCD
@@ -1580,7 +1580,7 @@ SUBROUTINE_0BD8:
 
 ```
   0: 0x0BDC [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0BDE [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
+  1: 0x0BDE [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
     → "Leave Promyvion? [Yes./No.]"
   2: 0x0BE5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0BE6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C02

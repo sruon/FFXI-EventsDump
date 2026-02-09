@@ -74,132 +74,132 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1CEE      |        7406 |
-|       2 | 0x1CE6      |        7398 |
-|       3 | 0x1CE7      |        7399 |
+|       1 | 0x1CEF      |        7407 |
+|       2 | 0x1CE7      |        7399 |
+|       3 | 0x1CE8      |        7400 |
 |       4 | 0x001E      |          30 |
 |       5 | 0x0029      |          41 |
-|       6 | 0x1CE8      |        7400 |
-|       7 | 0x1CE9      |        7401 |
+|       6 | 0x1CE9      |        7401 |
+|       7 | 0x1CEA      |        7402 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1CF0      |        7408 |
-|      11 | 0x1CEA      |        7402 |
+|      10 | 0x1CF1      |        7409 |
+|      11 | 0x1CEB      |        7403 |
 |      12 | 0x0083      |         131 |
-|      13 | 0x1CEB      |        7403 |
-|      14 | 0x1CEC      |        7404 |
-|      15 | 0x1CED      |        7405 |
-|      16 | 0x1CE5      |        7397 |
+|      13 | 0x1CEC      |        7404 |
+|      14 | 0x1CED      |        7405 |
+|      15 | 0x1CEE      |        7406 |
+|      16 | 0x1CE6      |        7398 |
 |      17 | 0x0013      |          19 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x003C      |          60 |
 |      20 | 0x005E      |          94 |
-|      21 | 0x1CF1      |        7409 |
+|      21 | 0x1CF2      |        7410 |
 |      22 | 0x0087      |         135 |
-|      23 | 0x1CF2      |        7410 |
-|      24 | 0x1CF3      |        7411 |
-|      25 | 0x1CF4      |        7412 |
-|      26 | 0x1CD7      |        7383 |
-|      27 | 0x1CF5      |        7413 |
-|      28 | 0x1CF6      |        7414 |
+|      23 | 0x1CF3      |        7411 |
+|      24 | 0x1CF4      |        7412 |
+|      25 | 0x1CF5      |        7413 |
+|      26 | 0x1CD8      |        7384 |
+|      27 | 0x1CF6      |        7414 |
+|      28 | 0x1CF7      |        7415 |
 |      29 | 0x0002      |           2 |
 |      30 | 0x012C      |         300 |
 |      31 | 0x008C      |         140 |
-|      32 | 0x1CF7      |        7415 |
-|      33 | 0x1CF8      |        7416 |
+|      32 | 0x1CF8      |        7416 |
+|      33 | 0x1CF9      |        7417 |
 |      34 | 0x00A3      |         163 |
 |      35 | 0x007F      |         127 |
-|      36 | 0x1D61      |        7521 |
+|      36 | 0x1D62      |        7522 |
 |      37 | 0x0031      |          49 |
-|      38 | 0x1D69      |        7529 |
-|      39 | 0x1D6A      |        7530 |
-|      40 | 0x1D62      |        7522 |
-|      41 | 0x1D63      |        7523 |
-|      42 | 0x1D64      |        7524 |
-|      43 | 0x1D65      |        7525 |
-|      44 | 0x1D66      |        7526 |
-|      45 | 0x1D67      |        7527 |
-|      46 | 0x1D68      |        7528 |
-|      47 | 0x1D6B      |        7531 |
-|      48 | 0x1D6C      |        7532 |
-|      49 | 0x1D71      |        7537 |
+|      38 | 0x1D6A      |        7530 |
+|      39 | 0x1D6B      |        7531 |
+|      40 | 0x1D63      |        7523 |
+|      41 | 0x1D64      |        7524 |
+|      42 | 0x1D65      |        7525 |
+|      43 | 0x1D66      |        7526 |
+|      44 | 0x1D67      |        7527 |
+|      45 | 0x1D68      |        7528 |
+|      46 | 0x1D69      |        7529 |
+|      47 | 0x1D6C      |        7532 |
+|      48 | 0x1D6D      |        7533 |
+|      49 | 0x1D72      |        7538 |
 |      50 | 0x0006      |           6 |
-|      51 | 0x1D6D      |        7533 |
-|      52 | 0x1D6E      |        7534 |
-|      53 | 0x1D6F      |        7535 |
-|      54 | 0x1D70      |        7536 |
-|      55 | 0x1D72      |        7538 |
-|      56 | 0x1D73      |        7539 |
-|      57 | 0x1D74      |        7540 |
-|      58 | 0x1D75      |        7541 |
-|      59 | 0x1D76      |        7542 |
-|      60 | 0x1D77      |        7543 |
-|      61 | 0x1D78      |        7544 |
-|      62 | 0x1D79      |        7545 |
-|      63 | 0x1D7A      |        7546 |
-|      64 | 0x1D7B      |        7547 |
-|      65 | 0x1D7C      |        7548 |
-|      66 | 0x1D7D      |        7549 |
+|      51 | 0x1D6E      |        7534 |
+|      52 | 0x1D6F      |        7535 |
+|      53 | 0x1D70      |        7536 |
+|      54 | 0x1D71      |        7537 |
+|      55 | 0x1D73      |        7539 |
+|      56 | 0x1D74      |        7540 |
+|      57 | 0x1D75      |        7541 |
+|      58 | 0x1D76      |        7542 |
+|      59 | 0x1D77      |        7543 |
+|      60 | 0x1D78      |        7544 |
+|      61 | 0x1D79      |        7545 |
+|      62 | 0x1D7A      |        7546 |
+|      63 | 0x1D7B      |        7547 |
+|      64 | 0x1D7C      |        7548 |
+|      65 | 0x1D7D      |        7549 |
+|      66 | 0x1D7E      |        7550 |
 |      67 | 0x0064      |         100 |
-|      68 | 0x1D7E      |        7550 |
-|      69 | 0x1D7F      |        7551 |
-|      70 | 0x1D80      |        7552 |
-|      71 | 0x1D81      |        7553 |
+|      68 | 0x1D7F      |        7551 |
+|      69 | 0x1D80      |        7552 |
+|      70 | 0x1D81      |        7553 |
+|      71 | 0x1D82      |        7554 |
 
 ## String References
 
-- **7383**: The mage's magic transforms the cursed orb into $6.
-- **7397**: Have you been to the cave to the south? Best to stay away if you know the danger! Not that it's all that easy to find the way in there...
-- **7398**: Huh? You really wantaru into that cave? Hah! Not after I went through all that trouble sealing off the Orc lord...
-- **7399**: Especially not now, with reinforcements on the way! Bestaru to stay outta that cave, I say!
-- **7400**: But...you made it this far. Guess I'll give you a chance!
-- **7401**: Take your chances? [Yes./No.]
-- **7402**: Alrighty, then. Pass my test, and I'll let you into that meanie-weanie old cave.
-- **7403**: I'm going to give you $6, which you are to dip in the four red pools of Davoi. You'll know the orb is absorbing magic when its color changes!
-- **7404**: Once you're done, bring it back here and I'll grade you!
-- **7405**: Heeeey, don't worry! Long as nothing...unexpected happens, you'll do just fine! I guarantee it! Bonne chance!
-- **7406**: Oh yeah, I almostaru forgot. Monsters flock to those red pools like flies to Quadav droppings. You watch yourself out there!
-- **7408**: Humph. Sissy!
-- **7409**: Heeeey, so you made it back in one piece? Good, good! Oh, I forgot to tell you one thing: if an orb turns totally red, it gets cursed.
-- **7410**: W-w-wait a second! Isn't that $6 you have there!?
-- **7411**: Well, I guess all's well that ends well! This is aboutaru all the power you'll need, methinks.
-- **7412**: Let me just give it the barrier-disruption spells it so very much deserves...
-- **7413**: And there you go! Take that $3 and stick it into the barrier. That should disruptaru the thing long enough for you to go in.
-- **7414**: Take care and don't let the Orcs get it! There now, off you go! Good luck!
-- **7415**: Ahhh... You know, I'm sure I'm forgetting something...
-- **7416**: What was that now? Hmm...
-- **7522**: Yipes! Th-that's an Aurastery doll! Which means you must be an agentaru of the Aurastery!
-- **7523**: Ah... So, you've finally found me...
-- **7524**: But let me say this in my defense! I'm waiting for reinforcements from San d'Oria to arrive, so I haven'taru been able to move from this place.
-- **7525**: Until the knights get here, I have to magically seal this area for the sake of the people of San d'Oria.
-- **7526**: However, my concentration for maintaining the seal is being disruptarued. An Orc carrying $1 has been enspelling me from afar...
-- **7527**: This has further hamper-wampered my chances of getting outaru of here any time soon.
-- **7528**: If Moreno-Toeno was the one who putaru you up to this, let him know of my situation.
-- **7529**: Ah, one more thing... ...Yah!
-- **7530**: The $3 has been drained of magic...
-- **7531**: I've been using my power to seal the brutish-wutish Orcish Overlord in the caves just beyond here. I mustaru continue my efforts until the reinforcements arrive.
-- **7532**: However, my concentration for maintaining the seal is being disruptarued. An Orc carrying $1 has been enspelling me from afar...
-- **7533**: Ah! How did you...!? You trouncy-wounced that nasty, curse-flinging Orc for me? This makes things so much easier.
-- **7534**: But I'll tell you again! I can'taru leave here until the knights show up from San d'Oria to handle things.
-- **7535**: I'm holding the fortaru for as long as it takes the reinforcements to get here. They're taking their time about it, though.
-- **7536**: If I'm not here, the people of San d'Oria will be facing an awful-warful Orcish horde. That should be reason enough to placate Moreno-Toeno.
-- **7537**: ...Hm? Why did I run away from the Aurastery? That's something I prefer not to talk about...
-- **7538**: But I guess if I don'taru explain myself, you'll just drag me back to Windurst... ...Fine. This is just between you, me, and Moreno-Toeno...
-- **7539**: You probably already know about this, but Professor Koru-Moru has been exchanging lovey-dovey letters with a girl called Mojiji. Um, actually, the person writing those letters was me...
-- **7540**: Principal Koru-Moru had embezzled several years' worth of the Aurastery's budgetaru, and it didn't look like he would be giving it back. So, I thought I would take the name of Mojiji and try writing him a fan letter.
-- **7541**: The effect of this was almostaru instantaneous. Every time I wrote him a letter, I convinced him to return a little more gil, but all the deception started to make me feel uneasy-queasy.
-- **7542**: Before I knew it, every time I laid eyes on Professor Koru-Moru, I would feel a sharp pain in my stomach. It was a serious case of work-relatarued stress.
-- **7543**: So I thoughtaru I would get away from the Aurastery for a little while, and go where I could find some solitude and peace. Then all this happened.
-- **7544**: But since I didn'taru want to go back anyway, I decided to keep my whereabouts from the Aurastery.
-- **7545**: Does that explain things for you? You can go back to the Aurastery and report that to Moreno-Toeno.
-- **7546**: When the reinforcements arrive from San d'Oria, I'll return to Windurst. The professor mustaru have forgotten about Mojiji by now.
-- **7547**: Huh? He's still getting letters. But, I'm not writing them anymore!
-- **7548**: ...Ah, justaru the person I wanted to see. There's something I wanted to ask you...
-- **7549**: How did you use that malevolent magic doll to track me down?
-- **7550**: The $3!? So this ring is what broughtaru about my discovery. Well, I can't just throw it away...
-- **7551**: Hmmm, what to do? Here, I'll give it to you for safekeeping. Please hold on to it until I return to the Aurastery.
-- **7552**: I will return as soon as the reinforcements arrive from San d'Oria.
-- **7553**: Ah, dear old Windurst, how long has it been? I wonder if I still remember the way to the Aurastery?
+- **7384**: The mage's magic transforms the cursed orb into $6.
+- **7398**: Have you been to the cave to the south? Best to stay away if you know the danger! Not that it's all that easy to find the way in there...
+- **7399**: Huh? You really wantaru into that cave? Hah! Not after I went through all that trouble sealing off the Orc lord...
+- **7400**: Especially not now, with reinforcements on the way! Bestaru to stay outta that cave, I say!
+- **7401**: But...you made it this far. Guess I'll give you a chance!
+- **7402**: Take your chances? [Yes./No.]
+- **7403**: Alrighty, then. Pass my test, and I'll let you into that meanie-weanie old cave.
+- **7404**: I'm going to give you $6, which you are to dip in the four red pools of Davoi. You'll know the orb is absorbing magic when its color changes!
+- **7405**: Once you're done, bring it back here and I'll grade you!
+- **7406**: Heeeey, don't worry! Long as nothing...unexpected happens, you'll do just fine! I guarantee it! Bonne chance!
+- **7407**: Oh yeah, I almostaru forgot. Monsters flock to those red pools like flies to Quadav droppings. You watch yourself out there!
+- **7409**: Humph. Sissy!
+- **7410**: Heeeey, so you made it back in one piece? Good, good! Oh, I forgot to tell you one thing: if an orb turns totally red, it gets cursed.
+- **7411**: W-w-wait a second! Isn't that $6 you have there!?
+- **7412**: Well, I guess all's well that ends well! This is aboutaru all the power you'll need, methinks.
+- **7413**: Let me just give it the barrier-disruption spells it so very much deserves...
+- **7414**: And there you go! Take that $3 and stick it into the barrier. That should disruptaru the thing long enough for you to go in.
+- **7415**: Take care and don't let the Orcs get it! There now, off you go! Good luck!
+- **7416**: Ahhh... You know, I'm sure I'm forgetting something...
+- **7417**: What was that now? Hmm...
+- **7523**: Yipes! Th-that's an Aurastery doll! Which means you must be an agentaru of the Aurastery!
+- **7524**: Ah... So, you've finally found me...
+- **7525**: But let me say this in my defense! I'm waiting for reinforcements from San d'Oria to arrive, so I haven'taru been able to move from this place.
+- **7526**: Until the knights get here, I have to magically seal this area for the sake of the people of San d'Oria.
+- **7527**: However, my concentration for maintaining the seal is being disruptarued. An Orc carrying $1 has been enspelling me from afar...
+- **7528**: This has further hamper-wampered my chances of getting outaru of here any time soon.
+- **7529**: If Moreno-Toeno was the one who putaru you up to this, let him know of my situation.
+- **7530**: Ah, one more thing... ...Yah!
+- **7531**: The $3 has been drained of magic...
+- **7532**: I've been using my power to seal the brutish-wutish Orcish Overlord in the caves just beyond here. I mustaru continue my efforts until the reinforcements arrive.
+- **7533**: However, my concentration for maintaining the seal is being disruptarued. An Orc carrying $1 has been enspelling me from afar...
+- **7534**: Ah! How did you...!? You trouncy-wounced that nasty, curse-flinging Orc for me? This makes things so much easier.
+- **7535**: But I'll tell you again! I can'taru leave here until the knights show up from San d'Oria to handle things.
+- **7536**: I'm holding the fortaru for as long as it takes the reinforcements to get here. They're taking their time about it, though.
+- **7537**: If I'm not here, the people of San d'Oria will be facing an awful-warful Orcish horde. That should be reason enough to placate Moreno-Toeno.
+- **7538**: ...Hm? Why did I run away from the Aurastery? That's something I prefer not to talk about...
+- **7539**: But I guess if I don'taru explain myself, you'll just drag me back to Windurst... ...Fine. This is just between you, me, and Moreno-Toeno...
+- **7540**: You probably already know about this, but Professor Koru-Moru has been exchanging lovey-dovey letters with a girl called Mojiji. Um, actually, the person writing those letters was me...
+- **7541**: Principal Koru-Moru had embezzled several years' worth of the Aurastery's budgetaru, and it didn't look like he would be giving it back. So, I thought I would take the name of Mojiji and try writing him a fan letter.
+- **7542**: The effect of this was almostaru instantaneous. Every time I wrote him a letter, I convinced him to return a little more gil, but all the deception started to make me feel uneasy-queasy.
+- **7543**: Before I knew it, every time I laid eyes on Professor Koru-Moru, I would feel a sharp pain in my stomach. It was a serious case of work-relatarued stress.
+- **7544**: So I thoughtaru I would get away from the Aurastery for a little while, and go where I could find some solitude and peace. Then all this happened.
+- **7545**: But since I didn'taru want to go back anyway, I decided to keep my whereabouts from the Aurastery.
+- **7546**: Does that explain things for you? You can go back to the Aurastery and report that to Moreno-Toeno.
+- **7547**: When the reinforcements arrive from San d'Oria, I'll return to Windurst. The professor mustaru have forgotten about Mojiji by now.
+- **7548**: Huh? He's still getting letters. But, I'm not writing them anymore!
+- **7549**: ...Ah, justaru the person I wanted to see. There's something I wanted to ask you...
+- **7550**: How did you use that malevolent magic doll to track me down?
+- **7551**: The $3!? So this ring is what broughtaru about my discovery. Well, I can't just throw it away...
+- **7552**: Hmmm, what to do? Here, I'll give it to you for safekeeping. Please hold on to it until I return to the Aurastery.
+- **7553**: I will return as soon as the reinforcements arrive from San d'Oria.
+- **7554**: Ah, dear old Windurst, how long has it been? I wonder if I still remember the way to the Aurastery?
 
 ## Events
 
@@ -269,7 +269,7 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7406*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7407*)
     → "Oh yeah, I almostaru forgot. Monsters flock to those red pools like flies to Quadav droppings. You watch yourself out there!"
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x21] END_EVENT
@@ -315,21 +315,21 @@
 ```
   0: 0x001D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0022 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  2: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
+  2: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
     → "Huh? You really wantaru into that cave? Hah! Not after I went through all that trouble sealing off the Orc lord..."
   3: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0035 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
     → "Especially not now, with reinforcements on the way! Bestaru to stay outta that cave, I say!"
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0048 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
   8: 0x0055 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   9: 0x005A [0x1C] WAIT(30* ticks)
  10: 0x005D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn0" with entities [EventEntity, EventEntity], work=41*
- 11: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7400*)
+ 11: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
     → "But...you made it this far. Guess I'll give you a chance!"
  12: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0070 [0x24] CREATE_DIALOG(message_id=7401*, default_option=0*, option_flags=0*)
+ 13: 0x0070 [0x24] CREATE_DIALOG(message_id=7402*, default_option=0*, option_flags=0*)
     → "Take your chances? [Yes./No.]"
  14: 0x0077 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0078 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0090
@@ -339,7 +339,7 @@
  19: 0x008D [0x01] GOTO 0x00C3
  20: 0x0090 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00C3
  21: 0x0098 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=40*
- 22: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+ 22: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "Humph. Sissy!"
  23: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00AB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr0" with entities [EventEntity, EventEntity]
@@ -380,18 +380,18 @@ SUBROUTINE_00C3:
 
 ```
   0: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  1: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
+  1: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
     → "Alrighty, then. Pass my test, and I'll let you into that meanie-weanie old cave."
   2: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00DA [0x03] Work_Zone[2] = 131*
-  4: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
+  4: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
     → "I'm going to give you $6, which you are to dip in the four red pools of Davoi. You'll know the orb is absorbing magic when its color changes!"
   5: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
+  6: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7405*)
     → "Once you're done, bring it back here and I'll grade you!"
   7: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "syu0" with entities [EventEntity, EventEntity], work=40*
-  9: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7405*)
+  9: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7406*)
     → "Heeeey, don't worry! Long as nothing...unexpected happens, you'll do just fine! I guarantee it! Bonne chance!"
  10: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00FA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "syu0" with entities [EventEntity, EventEntity]
@@ -426,7 +426,7 @@ SUBROUTINE_00C3:
 ```
   0: 0x0134 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0139 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  2: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=7397*)
+  2: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
     → "Have you been to the cave to the south? Best to stay away if you know the danger! Not that it's all that easy to find the way in there..."
   3: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x014C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -487,7 +487,7 @@ SUBROUTINE_00C3:
   8: 0x0187 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   9: 0x0196 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x01A7 [0x1C] WAIT(60* ticks)
- 11: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
+ 11: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
     → "Heeeey, so you made it back in one piece? Good, good! Oh, I forgot to tell you one thing: if an orb turns totally red, it gets cursed."
  12: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bik1" with entities [EventEntity, EventEntity], work=40*
@@ -497,14 +497,14 @@ SUBROUTINE_00C3:
  17: 0x01E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv00" with entities [LocalPlayer, LocalPlayer], work=[94*, 0*]
  18: 0x01F1 [0x1C] WAIT(60* ticks)
  19: 0x01F4 [0x03] Work_Zone[2] = 135*
- 20: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
+ 20: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
     → "W-w-wait a second! Isn't that $6 you have there!?"
  21: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x01FD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 23: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
+ 23: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
     → "Well, I guess all's well that ends well! This is aboutaru all the power you'll need, methinks."
  24: 0x020F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+ 25: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "Let me just give it the barrier-disruption spells it so very much deserves..."
  26: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0214 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x07)
@@ -513,14 +513,14 @@ SUBROUTINE_00C3:
  30: 0x022F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv00" with entities [LocalPlayer, LocalPlayer], work=[94*, 0*]
  31: 0x0240 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  32: 0x0251 [0x1C] WAIT(60* ticks)
- 33: 0x0254 [0x48] [System] [7383*]:
+ 33: 0x0254 [0x48] [System] [7384*]:
     → "The mage's magic transforms the cursed orb into $6."
  34: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 36: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+ 36: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "And there you go! Take that $3 and stick it into the barrier. That should disruptaru the thing long enough for you to go in."
  37: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+ 38: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "Take care and don't let the Orcs get it! There now, off you go! Good luck!"
  39: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x026F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
@@ -600,13 +600,13 @@ SUBROUTINE_00C3:
   0: 0x031B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0320 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
   2: 0x032F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
-  3: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+  3: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Ahhh... You know, I'm sure I'm forgetting something..."
   4: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0340 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
   6: 0x034F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
   7: 0x035C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  8: 0x036B [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+  8: 0x036B [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "What was that now? Hmm..."
   9: 0x036E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x036F [0x21] END_EVENT
@@ -1221,7 +1221,7 @@ SUBROUTINE_00C3:
   7: 0x04FA [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 163*
   8: 0x04FE [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 163*
   9: 0x0502 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
- 10: 0x0507 [0x2B] Talking Doll (ID: 17388029/0x010951FD) [7521*]:
+ 10: 0x0507 [0x2B] Talking Doll (ID: 17388029/0x010951FD) [7522*]:
     → "Ahahahahaha! There it is! It's on that Tarutaru!"
  11: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x050F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x14)
@@ -1256,12 +1256,12 @@ SUBROUTINE_00C3:
  41: 0x0621 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
  42: 0x0625 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
  43: 0x062A [0x46] CAMERA_CONTROL: Restore default settings
- 44: 0x062C [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+ 44: 0x062C [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "Ah, one more thing... ...Yah!"
  45: 0x062F [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0630 [0x1C] WAIT(200* ticks)
  47: 0x0633 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 48: 0x0644 [0x48] [System] [7530*]:
+ 48: 0x0644 [0x48] [System] [7531*]:
     → "The $3 has been drained of magic..."
  49: 0x0647 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0648 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1289,7 +1289,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x064C [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+  0: 0x064C [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "Yipes! Th-that's an Aurastery doll! Which means you must be an agentaru of the Aurastery!"
   1: 0x064F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0650 [0x00] END_REQSTACK()
@@ -1314,7 +1314,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0651 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  0: 0x0651 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "Ah... So, you've finally found me..."
   1: 0x0654 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0655 [0x00] END_REQSTACK()
@@ -1339,7 +1339,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0656 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  0: 0x0656 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "But let me say this in my defense! I'm waiting for reinforcements from San d'Oria to arrive, so I haven'taru been able to move from this place."
   1: 0x0659 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x065A [0x00] END_REQSTACK()
@@ -1367,12 +1367,12 @@ SUBROUTINE_00C3:
 
 ```
   0: 0x065B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0F)
-  1: 0x0662 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  1: 0x0662 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "Until the knights get here, I have to magically seal this area for the sake of the people of San d'Oria."
   2: 0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0666 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x10)
   4: 0x066D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x1B)
-  5: 0x0674 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+  5: 0x0674 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "However, my concentration for maintaining the seal is being disruptarued. An Orc carrying $1 has been enspelling me from afar..."
   6: 0x0677 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0678 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x1C)
@@ -1398,7 +1398,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+  0: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "This has further hamper-wampered my chances of getting outaru of here any time soon."
   1: 0x0683 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0684 [0x00] END_REQSTACK()
@@ -1423,7 +1423,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0685 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  0: 0x0685 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "If Moreno-Toeno was the one who putaru you up to this, let him know of my situation."
   1: 0x0688 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0689 [0x00] END_REQSTACK()
@@ -1455,12 +1455,12 @@ SUBROUTINE_00C3:
   1: 0x068F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0690 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0691 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0F)
-  4: 0x0698 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  4: 0x0698 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "I've been using my power to seal the brutish-wutish Orcish Overlord in the caves just beyond here. I mustaru continue my efforts until the reinforcements arrive."
   5: 0x069B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x069C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x10)
   7: 0x06A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x1B)
-  8: 0x06AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  8: 0x06AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "However, my concentration for maintaining the seal is being disruptarued. An Orc carrying $1 has been enspelling me from afar..."
   9: 0x06AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x06AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x1C)
@@ -1562,7 +1562,7 @@ SUBROUTINE_00C3:
  29: 0x079B [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=49*
  30: 0x07AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  31: 0x07BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [EventEntity, EventEntity], work=[49*, 0*]
- 32: 0x07CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
+ 32: 0x07CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
     → "...Hm? Why did I run away from the Aurastery? That's something I prefer not to talk about..."
  33: 0x07CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x07D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0B)
@@ -1629,7 +1629,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0955 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+  0: 0x0955 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "Ah! How did you...!? You trouncy-wounced that nasty, curse-flinging Orc for me? This makes things so much easier."
   1: 0x0958 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0959 [0x00] END_REQSTACK()
@@ -1654,7 +1654,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x095A [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
+  0: 0x095A [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
     → "But I'll tell you again! I can'taru leave here until the knights show up from San d'Oria to handle things."
   1: 0x095D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x095E [0x00] END_REQSTACK()
@@ -1680,7 +1680,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x095F [0x1D] PRINT_EVENT_MESSAGE(message_id=7535*)
+  0: 0x095F [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
     → "I'm holding the fortaru for as long as it takes the reinforcements to get here. They're taking their time about it, though."
   1: 0x0962 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0963 [0x00] END_REQSTACK()
@@ -1705,7 +1705,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=7536*)
+  0: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=7537*)
     → "If I'm not here, the people of San d'Oria will be facing an awful-warful Orcish horde. That should be reason enough to placate Moreno-Toeno."
   1: 0x0967 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0968 [0x00] END_REQSTACK()
@@ -1730,7 +1730,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=7538*)
+  0: 0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
     → "But I guess if I don'taru explain myself, you'll just drag me back to Windurst... ...Fine. This is just between you, me, and Moreno-Toeno..."
   1: 0x096C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x096D [0x00] END_REQSTACK()
@@ -1756,7 +1756,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x096E [0x1D] PRINT_EVENT_MESSAGE(message_id=7539*)
+  0: 0x096E [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
     → "You probably already know about this, but Professor Koru-Moru has been exchanging lovey-dovey letters with a girl called Mojiji. Um, actually, the person writing those letters was me..."
   1: 0x0971 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0972 [0x00] END_REQSTACK()
@@ -1784,12 +1784,12 @@ SUBROUTINE_00C3:
 
 ```
   0: 0x0973 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x09)
-  1: 0x097A [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
+  1: 0x097A [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "Principal Koru-Moru had embezzled several years' worth of the Aurastery's budgetaru, and it didn't look like he would be giving it back. So, I thought I would take the name of Mojiji and try writing him a fan letter."
   2: 0x097D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x097E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0A)
   4: 0x0985 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x11)
-  5: 0x098C [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
+  5: 0x098C [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
     → "The effect of this was almostaru instantaneous. Every time I wrote him a letter, I convinced him to return a little more gil, but all the deception started to make me feel uneasy-queasy."
   6: 0x098F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0990 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x12)
@@ -1815,7 +1815,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x0998 [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
+  0: 0x0998 [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
     → "Before I knew it, every time I laid eyes on Professor Koru-Moru, I would feel a sharp pain in my stomach. It was a serious case of work-relatarued stress."
   1: 0x099B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x099C [0x00] END_REQSTACK()
@@ -1841,7 +1841,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x099D [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
+  0: 0x099D [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
     → "So I thoughtaru I would get away from the Aurastery for a little while, and go where I could find some solitude and peace. Then all this happened."
   1: 0x09A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09A1 [0x00] END_REQSTACK()
@@ -1866,7 +1866,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x09A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
+  0: 0x09A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
     → "But since I didn'taru want to go back anyway, I decided to keep my whereabouts from the Aurastery."
   1: 0x09A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09A6 [0x00] END_REQSTACK()
@@ -1891,7 +1891,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
+  0: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
     → "Does that explain things for you? You can go back to the Aurastery and report that to Moreno-Toeno."
   1: 0x09AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09AB [0x00] END_REQSTACK()
@@ -1923,12 +1923,12 @@ SUBROUTINE_00C3:
   1: 0x09B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x11)
-  4: 0x09BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+  4: 0x09BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
     → "When the reinforcements arrive from San d'Oria, I'll return to Windurst. The professor mustaru have forgotten about Mojiji by now."
   5: 0x09BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x09BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x12)
   7: 0x09C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x09)
-  8: 0x09CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
+  8: 0x09CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
     → "Huh? He's still getting letters. But, I'm not writing them anymore!"
   9: 0x09CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x09D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0A)
@@ -1995,14 +1995,14 @@ SUBROUTINE_00C3:
  14: 0x0A1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [EventEntity, EventEntity], work=[49*, 0*]
  15: 0x0A2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  16: 0x0A3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x1D)
- 17: 0x0A45 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
+ 17: 0x0A45 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "...Ah, justaru the person I wanted to see. There's something I wanted to ask you..."
  18: 0x0A48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0A49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x1E)
  20: 0x0A50 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [EventEntity, EventEntity], work=49*
  21: 0x0A5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [EventEntity, EventEntity], work=[49*, 0*]
  22: 0x0A70 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x09)
- 23: 0x0A77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
+ 23: 0x0A77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
     → "How did you use that malevolent magic doll to track me down?"
  24: 0x0A7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0A7B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0A)
@@ -2012,12 +2012,12 @@ SUBROUTINE_00C3:
  29: 0x0AA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [EventEntity, EventEntity], work=[49*, 0*]
  30: 0x0AB6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x0AC7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x17)
- 32: 0x0ACE [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
+ 32: 0x0ACE [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
     → "The $3!? So this ring is what broughtaru about my discovery. Well, I can't just throw it away..."
  33: 0x0AD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0AD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x18)
  35: 0x0AD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x13)
- 36: 0x0AE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
+ 36: 0x0AE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "Hmmm, what to do? Here, I'll give it to you for safekeeping. Please hold on to it until I return to the Aurastery."
  37: 0x0AE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0AE4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x14)
@@ -2063,12 +2063,12 @@ SUBROUTINE_00C3:
   1: 0x0B3F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B40 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x09)
-  4: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+  4: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "I will return as soon as the reinforcements arrive from San d'Oria."
   5: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B4C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0A)
   7: 0x0B53 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0B)
-  8: 0x0B5A [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+  8: 0x0B5A [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
     → "Ah, dear old Windurst, how long has it been? I wonder if I still remember the way to the Aurastery?"
   9: 0x0B5D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B5E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sedal-Godjal (ID: 17387988/0x010951D4), tag_num=0x0C)

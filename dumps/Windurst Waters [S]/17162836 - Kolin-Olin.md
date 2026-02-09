@@ -27,55 +27,55 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x3052      |       12370 |
+|       3 | 0x3053      |       12371 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x3053      |       12371 |
-|       6 | 0x3038      |       12344 |
+|       5 | 0x3054      |       12372 |
+|       6 | 0x3039      |       12345 |
 |       7 | 0x0031      |          49 |
-|       8 | 0x3039      |       12345 |
-|       9 | 0x303A      |       12346 |
-|      10 | 0x303B      |       12347 |
-|      11 | 0x303C      |       12348 |
-|      12 | 0x303D      |       12349 |
-|      13 | 0x303E      |       12350 |
-|      14 | 0x303F      |       12351 |
-|      15 | 0x3040      |       12352 |
-|      16 | 0x3041      |       12353 |
-|      17 | 0x3042      |       12354 |
-|      18 | 0x3043      |       12355 |
-|      19 | 0x3044      |       12356 |
-|      20 | 0x3045      |       12357 |
-|      21 | 0x3046      |       12358 |
-|      22 | 0x3047      |       12359 |
-|      23 | 0x304E      |       12366 |
-|      24 | 0x304F      |       12367 |
-|      25 | 0x3050      |       12368 |
-|      26 | 0x3051      |       12369 |
+|       8 | 0x303A      |       12346 |
+|       9 | 0x303B      |       12347 |
+|      10 | 0x303C      |       12348 |
+|      11 | 0x303D      |       12349 |
+|      12 | 0x303E      |       12350 |
+|      13 | 0x303F      |       12351 |
+|      14 | 0x3040      |       12352 |
+|      15 | 0x3041      |       12353 |
+|      16 | 0x3042      |       12354 |
+|      17 | 0x3043      |       12355 |
+|      18 | 0x3044      |       12356 |
+|      19 | 0x3045      |       12357 |
+|      20 | 0x3046      |       12358 |
+|      21 | 0x3047      |       12359 |
+|      22 | 0x3048      |       12360 |
+|      23 | 0x304F      |       12367 |
+|      24 | 0x3050      |       12368 |
+|      25 | 0x3051      |       12369 |
+|      26 | 0x3052      |       12370 |
 
 ## String References
 
-- **12344**: Ho ho ho! Kolin-Olin knows a Cobra when he sees a Cobra, yes he does!
-- **12345**: You've come to learn all about the Allied Campaign, have you not? I know you ha\`ve!
-- **12346**: What would you like to know? [What is the Allied Campaign?/What are campaign operations?/What are freelances?/Nothing.]
-- **12347**: The Allied Campaign is the comprehensive name given to the various operations carried out by the Forces of Altana against the Beastman Confederate.
-- **12348**: "Article 1: Dominion is granted the nation that provides the largest contribution in regaining control of an area occupied by the beastmen."
-- **12349**: "Article 2: In exchange for the renouncing of all claims to lands seized by their army, campaign arbitration has been bestowed upon the Grand Duchy of Jeuno."
-- **12350**: Phew... Did you know it took me two weeks to memorize the charter? Two weeks! Two...weeks!
-- **12351**: Anyway, to put it simply, the leaders of Jeuno were first to recognize that it would be difficult for Bastok, Windurst, and San d'Oria to cast aside all past differences and join hands on the battlefield. And that's why the Duchy felt it necessary to motivate the armies by offering rewards for their performance.
-- **12352**: It's how the nations have been dealing with each other for the past few centuries, so why try to change things, right? Right? Windurst can keep on doing what it does best, and gain territory, resources, and labor in the process.
-- **12353**: As a member of the dignified Cobra Unit, you'll be required to participate in various sorts of campaign operations to make sure the star of the Federation shines brightaru!
-- **12354**: Campaign operations, also known as Campaign Ops, is the term used for the long list of small-scale missions authorized by the Allied War Council in Jeuno. Ever heard of the Allied War Council? Yeah? No?
-- **12355**: Anyway, it doesn't matter. When an operation is successfully completed, the nation is rewarded with extra battle funding, paid for by the Repositorium--an international bank founded by the four nations of Mindartia and Quon, and located in Jeuno.
-- **12356**: To put it in lay terms, you're our proverbial cash cow, <Player>! Have you ever seen a cow?
-- **12357**: Oh, but don't start making plans to buy that summer home in Bibiki just yet. You see, none of those funds go directly to individual mercenaries. You get paid with Allied Notes, which you can use to purchase supplies and equipment...or equipment and supplies, whichever you wish.
-- **12358**: Also, the more operations you accomplish, the more operations will become available to you. It's like a never-ending roller coaster...of operations!
-- **12359**: Now, unless you have any more questions, talk with Emhi Tchaoryo here and she'll help you sign up!
-- **12366**: Freelances are what we call rogue mercenaries who have not pledged allegiance to any nation.
-- **12367**: These groups do not fall under control of the Allied Forces; they play by their own rules, not our rules, which wouldn't be their rules. Heroes for hire, you could say...or not.
-- **12368**: But most of them are quite talented on the battlefield. If there were only a way to convince them to fight for the Federation...
-- **12369**: Hey! I just had an idea! Why don't you ask them to join us! Who could turn down a face like that? We're counting on you, <Player>...or at least your face!
-- **12370**: Hold on, you're not one of our mercenaries, are you? If you're thinking about signing up, go talk to Captain Miah Riyuh. She'll help you out.
-- **12371**: Hold on, you're not one of our mercenaries, are you? If you're thinking about leaving that nation you work for now and signing up with us, go talk to Mhoti Pyiahrs. She'll help you out.
+- **12345**: Ho ho ho! Kolin-Olin knows a Cobra when he sees a Cobra, yes he does!
+- **12346**: You've come to learn all about the Allied Campaign, have you not? I know you ha\`ve!
+- **12347**: What would you like to know? [What is the Allied Campaign?/What are campaign operations?/What are freelances?/Nothing.]
+- **12348**: The Allied Campaign is the comprehensive name given to the various operations carried out by the Forces of Altana against the Beastman Confederate.
+- **12349**: "Article 1: Dominion is granted the nation that provides the largest contribution in regaining control of an area occupied by the beastmen."
+- **12350**: "Article 2: In exchange for the renouncing of all claims to lands seized by their army, campaign arbitration has been bestowed upon the Grand Duchy of Jeuno."
+- **12351**: Phew... Did you know it took me two weeks to memorize the charter? Two weeks! Two...weeks!
+- **12352**: Anyway, to put it simply, the leaders of Jeuno were first to recognize that it would be difficult for Bastok, Windurst, and San d'Oria to cast aside all past differences and join hands on the battlefield. And that's why the Duchy felt it necessary to motivate the armies by offering rewards for their performance.
+- **12353**: It's how the nations have been dealing with each other for the past few centuries, so why try to change things, right? Right? Windurst can keep on doing what it does best, and gain territory, resources, and labor in the process.
+- **12354**: As a member of the dignified Cobra Unit, you'll be required to participate in various sorts of campaign operations to make sure the star of the Federation shines brightaru!
+- **12355**: Campaign operations, also known as Campaign Ops, is the term used for the long list of small-scale missions authorized by the Allied War Council in Jeuno. Ever heard of the Allied War Council? Yeah? No?
+- **12356**: Anyway, it doesn't matter. When an operation is successfully completed, the nation is rewarded with extra battle funding, paid for by the Repositorium--an international bank founded by the four nations of Mindartia and Quon, and located in Jeuno.
+- **12357**: To put it in lay terms, you're our proverbial cash cow, <Player>! Have you ever seen a cow?
+- **12358**: Oh, but don't start making plans to buy that summer home in Bibiki just yet. You see, none of those funds go directly to individual mercenaries. You get paid with Allied Notes, which you can use to purchase supplies and equipment...or equipment and supplies, whichever you wish.
+- **12359**: Also, the more operations you accomplish, the more operations will become available to you. It's like a never-ending roller coaster...of operations!
+- **12360**: Now, unless you have any more questions, talk with Emhi Tchaoryo here and she'll help you sign up!
+- **12367**: Freelances are what we call rogue mercenaries who have not pledged allegiance to any nation.
+- **12368**: These groups do not fall under control of the Allied Forces; they play by their own rules, not our rules, which wouldn't be their rules. Heroes for hire, you could say...or not.
+- **12369**: But most of them are quite talented on the battlefield. If there were only a way to convince them to fight for the Federation...
+- **12370**: Hey! I just had an idea! Why don't you ask them to join us! Who could turn down a face like that? We're counting on you, <Player>...or at least your face!
+- **12371**: Hold on, you're not one of our mercenaries, are you? If you're thinking about signing up, go talk to Captain Miah Riyuh. She'll help you out.
+- **12372**: Hold on, you're not one of our mercenaries, are you? If you're thinking about leaving that nation you work for now and signing up with us, go talk to Mhoti Pyiahrs. She'll help you out.
 
 ## Events
 
@@ -234,7 +234,7 @@
   2: 0x0016 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x002F
   3: 0x001E [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0023 [0x1C] WAIT(30* ticks)
-  5: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=12370*)
+  5: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=12371*)
     → "Hold on, you're not one of our mercenaries, are you? If you're thinking about signing up, go talk to Captain Miah Riyuh. She'll help you out."
   6: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002A [0x21] END_EVENT
@@ -243,41 +243,41 @@
 SUBROUTINE_0048:
   9: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
  10: 0x004D [0x1C] WAIT(30* ticks)
- 11: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
+ 11: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
     → "Ho ho ho! Kolin-Olin knows a Cobra when he sees a Cobra, yes he does!"
  12: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0054 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 14: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
+ 14: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=12346*)
     → "You've come to learn all about the Allied Campaign, have you not? I know you ha`ve!"
  15: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0067 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
 
 SUBROUTINE_0076:
- 17: 0x0076 [0x24] CREATE_DIALOG(message_id=12346*, default_option=0*, option_flags=0*)
+ 17: 0x0076 [0x24] CREATE_DIALOG(message_id=12347*, default_option=0*, option_flags=0*)
     → "What would you like to know? [What is the Allied Campaign?/What are campaign operations?/What are freelances?/Nothing.]"
  18: 0x007D [0x25] WAIT_DIALOG_SELECT()
  19: 0x007E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
  20: 0x0086 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 21: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=12347*)
+ 21: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
     → "The Allied Campaign is the comprehensive name given to the various operations carried out by the Forces of Altana against the Beastman Confederate."
  22: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=12348*)
+ 23: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=12349*)
     → ""Article 1: Dominion is granted the nation that provides the largest contribution in regaining control of an area occupied by the beastmen.""
  24: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=12349*)
+ 25: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
     → ""Article 2: In exchange for the renouncing of all claims to lands seized by their army, campaign arbitration has been bestowed upon the Grand Duchy of Jeuno.""
  26: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12350*)
+ 27: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
     → "Phew... Did you know it took me two weeks to memorize the charter? Two weeks! Two...weeks!"
  28: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12351*)
+ 29: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12352*)
     → "Anyway, to put it simply, the leaders of Jeuno were first to recognize that it would be difficult for Bastok, Windurst, and San d'Oria to cast aside all past differences and join hands on the battlefield. And that's why the Duchy felt it necessary to motivate the armies by offering rewards for their performance."
  30: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12352*)
+ 31: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12353*)
     → "It's how the nations have been dealing with each other for the past few centuries, so why try to change things, right? Right? Windurst can keep on doing what it does best, and gain territory, resources, and labor in the process."
  32: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 34: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=12353*)
+ 34: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=12354*)
     → "As a member of the dignified Cobra Unit, you'll be required to participate in various sorts of campaign operations to make sure the star of the Federation shines brightaru!"
  35: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00C0 [0x01] GOTO 0x0076

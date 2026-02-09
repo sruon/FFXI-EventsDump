@@ -81,24 +81,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB5      |        7605 |
-|       7 | 0x1DA8      |        7592 |
+|       6 | 0x1DB6      |        7606 |
+|       7 | 0x1DA9      |        7593 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1C3B      |        7227 |
+|      12 | 0x1C3C      |        7228 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1C46      |        7238 |
-|      20 | 0x1C47      |        7239 |
-|      21 | 0x1C48      |        7240 |
-|      22 | 0x1C49      |        7241 |
-|      23 | 0x1C6D      |        7277 |
+|      19 | 0x1C47      |        7239 |
+|      20 | 0x1C48      |        7240 |
+|      21 | 0x1C49      |        7241 |
+|      22 | 0x1C4A      |        7242 |
+|      23 | 0x1C6E      |        7278 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -118,16 +118,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1DA2      |        7586 |
-|      44 | 0x1DA7      |        7591 |
-|      45 | 0x1DA6      |        7590 |
+|      43 | 0x1DA3      |        7587 |
+|      44 | 0x1DA8      |        7592 |
+|      45 | 0x1DA7      |        7591 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB3      |        7603 |
-|      48 | 0x1DB2      |        7602 |
+|      47 | 0x1DB4      |        7604 |
+|      48 | 0x1DB3      |        7603 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1D8E      |        7566 |
+|      50 | 0x1D8F      |        7567 |
 |      51 | 0x00DA      |         218 |
-|      52 | 0x1C3E      |        7230 |
+|      52 | 0x1C3F      |        7231 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x0073      |         115 |
 |      55 | 0x00B4      |         180 |
@@ -214,11 +214,11 @@
 |     136 | 0x8FE5      |       36837 |
 |     137 | 0x02A1      |         673 |
 |     138 | 0x0024      |          36 |
-|     139 | 0x1D90      |        7568 |
-|     140 | 0x1D8F      |        7567 |
-|     141 | 0x1DB1      |        7601 |
-|     142 | 0x1D92      |        7570 |
-|     143 | 0x1D91      |        7569 |
+|     139 | 0x1D91      |        7569 |
+|     140 | 0x1D90      |        7568 |
+|     141 | 0x1DB2      |        7602 |
+|     142 | 0x1D93      |        7571 |
+|     143 | 0x1D92      |        7570 |
 |     144 | 0x2E524     |      189732 |
 |     145 | 0x54DF9     |      347641 |
 |     146 | 0xFFFFFF54  |  4294967124 |
@@ -231,11 +231,11 @@
 |     153 | 0x0566      |        1382 |
 |     154 | 0x0048      |          72 |
 |     155 | 0x0078      |         120 |
-|     156 | 0x1C3C      |        7228 |
+|     156 | 0x1C3D      |        7229 |
 |     157 | 0xD1FF      |       53759 |
 |     158 | 0xFFF53FD7  |  4294262743 |
 |     159 | 0x0DA6      |        3494 |
-|     160 | 0x1DBC      |        7612 |
+|     160 | 0x1DBD      |        7613 |
 |     161 | 0xA2692     |      665234 |
 |     162 | 0xFFF8E22C  |  4294500908 |
 |     163 | 0xFFFF810C  |  4294934796 |
@@ -264,7 +264,7 @@
 |     186 | 0x8FB17     |      588567 |
 |     187 | 0xFFFFFE7A  |  4294966906 |
 |     188 | 0x0AE0      |        2784 |
-|     189 | 0x1DBE      |        7614 |
+|     189 | 0x1DBF      |        7615 |
 |     190 | 0x008C      |         140 |
 |     191 | 0xB313D     |      733501 |
 |     192 | 0xFFF5D989  |  4294302089 |
@@ -350,7 +350,7 @@
 |     272 | 0xFFF9C836  |  4294559798 |
 |     273 | 0xFFFFF00F  |  4294963215 |
 |     274 | 0x0D8B      |        3467 |
-|     275 | 0x1DBF      |        7615 |
+|     275 | 0x1DC0      |        7616 |
 |     276 | 0xFFF6FDA4  |  4294376868 |
 |     277 | 0xFFF82D95  |  4294454677 |
 |     278 | 0x5CA9      |       23721 |
@@ -370,29 +370,29 @@
 |     292 | 0xFFFFF830  |  4294965296 |
 |     293 | 0x00A3      |         163 |
 |     294 | 0x0072      |         114 |
-|     295 | 0x1DC2      |        7618 |
+|     295 | 0x1DC3      |        7619 |
 |     296 | 0x026C      |         620 |
-|     297 | 0x1DC3      |        7619 |
-|     298 | 0x1DC4      |        7620 |
-|     299 | 0x1DC5      |        7621 |
-|     300 | 0x1DC6      |        7622 |
-|     301 | 0x1DC7      |        7623 |
-|     302 | 0x1DC8      |        7624 |
-|     303 | 0x1DC9      |        7625 |
-|     304 | 0x1DCA      |        7626 |
-|     305 | 0x1DCB      |        7627 |
-|     306 | 0x1DCC      |        7628 |
-|     307 | 0x1DCD      |        7629 |
-|     308 | 0x1DCE      |        7630 |
-|     309 | 0x1DCF      |        7631 |
-|     310 | 0x1DD0      |        7632 |
-|     311 | 0x1DD1      |        7633 |
+|     297 | 0x1DC4      |        7620 |
+|     298 | 0x1DC5      |        7621 |
+|     299 | 0x1DC6      |        7622 |
+|     300 | 0x1DC7      |        7623 |
+|     301 | 0x1DC8      |        7624 |
+|     302 | 0x1DC9      |        7625 |
+|     303 | 0x1DCA      |        7626 |
+|     304 | 0x1DCB      |        7627 |
+|     305 | 0x1DCC      |        7628 |
+|     306 | 0x1DCD      |        7629 |
+|     307 | 0x1DCE      |        7630 |
+|     308 | 0x1DCF      |        7631 |
+|     309 | 0x1DD0      |        7632 |
+|     310 | 0x1DD1      |        7633 |
+|     311 | 0x1DD2      |        7634 |
 |     312 | 0x0028      |          40 |
-|     313 | 0x1DD2      |        7634 |
+|     313 | 0x1DD3      |        7635 |
 |     314 | 0x0A41      |        2625 |
-|     315 | 0x1DD3      |        7635 |
-|     316 | 0x1DD4      |        7636 |
-|     317 | 0x1DD5      |        7637 |
+|     315 | 0x1DD4      |        7636 |
+|     316 | 0x1DD5      |        7637 |
+|     317 | 0x1DD6      |        7638 |
 |     318 | 0x0A33      |        2611 |
 |     319 | 0x0082      |         130 |
 |     320 | 0x31611     |      202257 |
@@ -427,99 +427,99 @@
 |     349 | 0xFFFB633B  |  4294665019 |
 |     350 | 0xFFFF5421  |  4294923297 |
 |     351 | 0x00F0      |         240 |
-|     352 | 0x1E09      |        7689 |
+|     352 | 0x1E0A      |        7690 |
 |     353 | 0x0050      |          80 |
-|     354 | 0x1E0A      |        7690 |
-|     355 | 0x1E0B      |        7691 |
+|     354 | 0x1E0B      |        7691 |
+|     355 | 0x1E0C      |        7692 |
 |     356 | 0x005A      |          90 |
-|     357 | 0x1E0C      |        7692 |
-|     358 | 0x1E0D      |        7693 |
-|     359 | 0x1E0E      |        7694 |
-|     360 | 0x1E0F      |        7695 |
-|     361 | 0x1E10      |        7696 |
-|     362 | 0x1E11      |        7697 |
-|     363 | 0x1E12      |        7698 |
-|     364 | 0x1E13      |        7699 |
-|     365 | 0x1E14      |        7700 |
-|     366 | 0x1E15      |        7701 |
-|     367 | 0x1E16      |        7702 |
-|     368 | 0x1E17      |        7703 |
-|     369 | 0x1E18      |        7704 |
-|     370 | 0x1E19      |        7705 |
-|     371 | 0x1E1A      |        7706 |
-|     372 | 0x1E1B      |        7707 |
-|     373 | 0x1E1C      |        7708 |
+|     357 | 0x1E0D      |        7693 |
+|     358 | 0x1E0E      |        7694 |
+|     359 | 0x1E0F      |        7695 |
+|     360 | 0x1E10      |        7696 |
+|     361 | 0x1E11      |        7697 |
+|     362 | 0x1E12      |        7698 |
+|     363 | 0x1E13      |        7699 |
+|     364 | 0x1E14      |        7700 |
+|     365 | 0x1E15      |        7701 |
+|     366 | 0x1E16      |        7702 |
+|     367 | 0x1E17      |        7703 |
+|     368 | 0x1E18      |        7704 |
+|     369 | 0x1E19      |        7705 |
+|     370 | 0x1E1A      |        7706 |
+|     371 | 0x1E1B      |        7707 |
+|     372 | 0x1E1C      |        7708 |
+|     373 | 0x1E1D      |        7709 |
 |     374 | 0x00A5      |         165 |
-|     375 | 0x1E1D      |        7709 |
-|     376 | 0x1E1E      |        7710 |
+|     375 | 0x1E1E      |        7710 |
+|     376 | 0x1E1F      |        7711 |
 |     377 | 0xFFF4DAC2  |  4294236866 |
 |     378 | 0xFFFB66EF  |  4294665967 |
 |     379 | 0x0900      |        2304 |
 |     380 | 0x0022      |          34 |
-|     381 | 0x1E1F      |        7711 |
-|     382 | 0x1E20      |        7712 |
-|     383 | 0x1E21      |        7713 |
-|     384 | 0x1E22      |        7714 |
-|     385 | 0x1E23      |        7715 |
-|     386 | 0x1E24      |        7716 |
-|     387 | 0x1E25      |        7717 |
-|     388 | 0x1E26      |        7718 |
-|     389 | 0x1E27      |        7719 |
-|     390 | 0x1E28      |        7720 |
-|     391 | 0x1E29      |        7721 |
+|     381 | 0x1E20      |        7712 |
+|     382 | 0x1E21      |        7713 |
+|     383 | 0x1E22      |        7714 |
+|     384 | 0x1E23      |        7715 |
+|     385 | 0x1E24      |        7716 |
+|     386 | 0x1E25      |        7717 |
+|     387 | 0x1E26      |        7718 |
+|     388 | 0x1E27      |        7719 |
+|     389 | 0x1E28      |        7720 |
+|     390 | 0x1E29      |        7721 |
+|     391 | 0x1E2A      |        7722 |
 |     392 | 0xFFF4DE71  |  4294237809 |
 |     393 | 0xFFFB6711  |  4294666001 |
 |     394 | 0x09E1      |        2529 |
-|     395 | 0x1E2B      |        7723 |
+|     395 | 0x1E2C      |        7724 |
 |     396 | 0x0041      |          65 |
-|     397 | 0x1E2C      |        7724 |
-|     398 | 0x1E2D      |        7725 |
-|     399 | 0x1E2E      |        7726 |
-|     400 | 0x1E2F      |        7727 |
-|     401 | 0x1E30      |        7728 |
-|     402 | 0x1E31      |        7729 |
-|     403 | 0x1E32      |        7730 |
-|     404 | 0x1E33      |        7731 |
-|     405 | 0x1E34      |        7732 |
-|     406 | 0x1E35      |        7733 |
+|     397 | 0x1E2D      |        7725 |
+|     398 | 0x1E2E      |        7726 |
+|     399 | 0x1E2F      |        7727 |
+|     400 | 0x1E30      |        7728 |
+|     401 | 0x1E31      |        7729 |
+|     402 | 0x1E32      |        7730 |
+|     403 | 0x1E33      |        7731 |
+|     404 | 0x1E34      |        7732 |
+|     405 | 0x1E35      |        7733 |
+|     406 | 0x1E36      |        7734 |
 |     407 | 0x0020      |          32 |
-|     408 | 0x1E36      |        7734 |
-|     409 | 0x1E37      |        7735 |
-|     410 | 0x1E38      |        7736 |
-|     411 | 0x1E39      |        7737 |
-|     412 | 0x1E3A      |        7738 |
-|     413 | 0x1E3B      |        7739 |
-|     414 | 0x1E3C      |        7740 |
+|     408 | 0x1E37      |        7735 |
+|     409 | 0x1E38      |        7736 |
+|     410 | 0x1E39      |        7737 |
+|     411 | 0x1E3A      |        7738 |
+|     412 | 0x1E3B      |        7739 |
+|     413 | 0x1E3C      |        7740 |
+|     414 | 0x1E3D      |        7741 |
 |     415 | 0x0168      |         360 |
 
 ## String References
 
-- **7227**: Enter the battlefield? [Enter./Decline.]
-- **7228**: Leave the battlefield? [Run away./Stay.]
-- **7230**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7238**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7228**: Enter the battlefield? [Enter./Decline.]
+- **7229**: Leave the battlefield? [Run away./Stay.]
+- **7231**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7239**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7240**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7241**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7277**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7566**: Skip the event? [Yes./No.]
-- **7567**: Battlefield clear time: $3 second[/s]!
-- **7568**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7569**: The current battlefield clear time record is $3 second[/s].
-- **7570**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7586**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7590**: That record is held by $5 adventurers, including %0!
-- **7591**: That record is held by %0!
-- **7592**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7601**: You have broken the clear time record for "[Ouryu Cometh/]"!
-- **7602**: The current battlefield clear time record for "[Ouryu Cometh/]" is $3 second[/s].
-- **7603**: The current battlefield clear time record for "[Ouryu Cometh/]" is $3 minute[/s] $2 second[/s].
-- **7605**: Which battlefield will you enter? [None./Ouryu Cometh././././././././././././././././././././././././././././././]
-- **7612**: Enter the displacement? [Yes./No.]
-- **7614**: You can see the Misareaux Coast on the other side of the spatial displacement...
-- **7615**: You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement...
-- **7709**: After wiping away some of the lichen covering the monument, you find the name Albanus carved near the bottom.
-- **7710**: If you could only reach the floating island where the monument's remaining half lies...
+- **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7278**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7567**: Skip the event? [Yes./No.]
+- **7568**: Battlefield clear time: $3 second[/s]!
+- **7569**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7570**: The current battlefield clear time record is $3 second[/s].
+- **7571**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7587**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7591**: That record is held by $5 adventurers, including %0!
+- **7592**: That record is held by %0!
+- **7593**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7602**: You have broken the clear time record for "[Ouryu Cometh/]"!
+- **7603**: The current battlefield clear time record for "[Ouryu Cometh/]" is $3 second[/s].
+- **7604**: The current battlefield clear time record for "[Ouryu Cometh/]" is $3 minute[/s] $2 second[/s].
+- **7606**: Which battlefield will you enter? [None./Ouryu Cometh././././././././././././././././././././././././././././././]
+- **7613**: Enter the displacement? [Yes./No.]
+- **7615**: You can see the Misareaux Coast on the other side of the spatial displacement...
+- **7616**: You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement...
+- **7710**: After wiping away some of the lichen covering the monument, you find the name Albanus carved near the bottom.
+- **7711**: If you could only reach the floating island where the monument's remaining half lies...
 
 ## Events
 
@@ -734,7 +734,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7605*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7606*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Ouryu Cometh././././././././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -747,7 +747,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1336)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7592*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7593*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -773,7 +773,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -822,22 +822,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7238*]:
+ 89: 0x0225 [0x48] [System] [7239*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7239*]:
+ 93: 0x0234 [0x48] [System] [7240*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7240*]:
+ 97: 0x0243 [0x48] [System] [7241*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7241*]:
+101: 0x0252 [0x48] [System] [7242*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -846,7 +846,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7586*]:
+105: 0x0469 [0x48] [System] [7587*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -858,24 +858,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7603*]:
+114: 0x04EA [0x48] [System] [7604*]:
     → "The current battlefield clear time record for "[Ouryu Cometh/]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7602*]:
+117: 0x04F1 [0x48] [System] [7603*]:
     → "The current battlefield clear time record for "[Ouryu Cometh/]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7591*]:
+120: 0x04FD [0x48] [System] [7592*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7590*]:
+126: 0x0511 [0x48] [System] [7591*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -891,7 +891,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -1031,7 +1031,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 2*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7230*]:
+266: 0x07F4 [0x48] [System] [7231*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1397,7 +1397,7 @@ SUBROUTINE_0C35:
  84: 0x0C40 [0x01] GOTO 0x0C5E
  85: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D0E
  86: 0x0C4B [0x1C] WAIT(15* ticks)
- 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
+ 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C55 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D0E
@@ -1464,18 +1464,18 @@ SUBROUTINE_0D40:
 138: 0x0D79 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0D94
 139: 0x0D81 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0D88 [0x15] Work_Zone[5] /= 60*
-141: 0x0D8D [0x48] [System] [7568*]:
+141: 0x0D8D [0x48] [System] [7569*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0D91 [0x01] GOTO 0x0D98
-144: 0x0D94 [0x48] [System] [7567*]:
+144: 0x0D94 [0x48] [System] [7568*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0D97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0D98:
 146: 0x0D98 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DAC
 147: 0x0DA0 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DA5 [0x48] [System] [7601*]:
+148: 0x0DA5 [0x48] [System] [7602*]:
     → "You have broken the clear time record for "[Ouryu Cometh/]"!"
 149: 0x0DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0DA9 [0x01] GOTO 0x0DD5
@@ -1483,12 +1483,12 @@ SUBROUTINE_0D98:
 152: 0x0DB4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0DB9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0DC0 [0x15] Work_Zone[5] /= 60*
-155: 0x0DC5 [0x48] [System] [7570*]:
+155: 0x0DC5 [0x48] [System] [7571*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0DC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0DC9 [0x01] GOTO 0x0DD5
 158: 0x0DCC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0DD1 [0x48] [System] [7569*]:
+159: 0x0DD1 [0x48] [System] [7570*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1737,7 +1737,7 @@ SUBROUTINE_0FAC:
 
 ```
 # Dead code (unreachable instructions):
-     0x0FF2 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+     0x0FF2 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0FF9 [0x25] WAIT_DIALOG_SELECT()
      0x0FFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1008
@@ -1802,7 +1802,7 @@ SUBROUTINE_0FAC:
      0x11E9 [0x1C] WAIT(120* ticks)
      0x11EC [0x46] CAMERA_CONTROL: Restore default settings
      0x11EE [0x1B] RETURN
-     0x11EF [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+     0x11EF [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x11F6 [0x25] WAIT_DIALOG_SELECT()
      0x11F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1205
@@ -1900,7 +1900,7 @@ SUBROUTINE_0FAC:
 #### Opcodes
 
 ```
-  0: 0x13BF [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x13BF [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x13C6 [0x25] WAIT_DIALOG_SELECT()
   2: 0x13C7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1440
@@ -1960,7 +1960,7 @@ SUBROUTINE_1450:
 #### Opcodes
 
 ```
-  0: 0x1454 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1454 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x145B [0x25] WAIT_DIALOG_SELECT()
   2: 0x145C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14D5
@@ -2020,7 +2020,7 @@ SUBROUTINE_14E5:
 #### Opcodes
 
 ```
-  0: 0x14E9 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x14E9 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x14F0 [0x25] WAIT_DIALOG_SELECT()
   2: 0x14F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x156A
@@ -2128,7 +2128,7 @@ SUBROUTINE_157A:
 #### Opcodes
 
 ```
-  0: 0x15F0 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x15F0 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x15F7 [0x25] WAIT_DIALOG_SELECT()
   2: 0x15F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1671
@@ -2188,7 +2188,7 @@ SUBROUTINE_1681:
 #### Opcodes
 
 ```
-  0: 0x1685 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1685 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x168C [0x25] WAIT_DIALOG_SELECT()
   2: 0x168D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1706
@@ -2248,7 +2248,7 @@ SUBROUTINE_1716:
 #### Opcodes
 
 ```
-  0: 0x171A [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x171A [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1721 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1722 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x179B
@@ -2309,7 +2309,7 @@ SUBROUTINE_17AB:
 #### Opcodes
 
 ```
-  0: 0x17AF [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x17AF [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x17B6 [0x25] WAIT_DIALOG_SELECT()
   2: 0x17B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1830
@@ -2366,10 +2366,10 @@ SUBROUTINE_1840:
 
 ```
   0: 0x1844 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x1846 [0x48] [System] [7614*]:
+  1: 0x1846 [0x48] [System] [7615*]:
     → "You can see the Misareaux Coast on the other side of the spatial displacement..."
   2: 0x1849 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x184A [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  3: 0x184A [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   4: 0x1851 [0x25] WAIT_DIALOG_SELECT()
   5: 0x1852 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x188F
@@ -2420,7 +2420,7 @@ SUBROUTINE_189A:
 #### Opcodes
 
 ```
-  0: 0x189E [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x189E [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x18A5 [0x25] WAIT_DIALOG_SELECT()
   2: 0x18A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x191F
@@ -2480,7 +2480,7 @@ SUBROUTINE_192F:
 #### Opcodes
 
 ```
-  0: 0x1933 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1933 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x193A [0x25] WAIT_DIALOG_SELECT()
   2: 0x193B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19B4
@@ -2540,7 +2540,7 @@ SUBROUTINE_19C4:
 #### Opcodes
 
 ```
-  0: 0x19C8 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x19C8 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x19CF [0x25] WAIT_DIALOG_SELECT()
   2: 0x19D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A49
@@ -2601,7 +2601,7 @@ SUBROUTINE_1A59:
 #### Opcodes
 
 ```
-  0: 0x1A5D [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1A5D [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1A64 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1A65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1ADE
@@ -2661,7 +2661,7 @@ SUBROUTINE_1AEE:
 #### Opcodes
 
 ```
-  0: 0x1AF2 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1AF2 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1AF9 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1AFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B73
@@ -2721,7 +2721,7 @@ SUBROUTINE_1B83:
 #### Opcodes
 
 ```
-  0: 0x1B87 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1B87 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1B8E [0x25] WAIT_DIALOG_SELECT()
   2: 0x1B8F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C08
@@ -2782,7 +2782,7 @@ SUBROUTINE_1C18:
 #### Opcodes
 
 ```
-  0: 0x1C1C [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1C1C [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1C23 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1C24 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C9D
@@ -2842,7 +2842,7 @@ SUBROUTINE_1CAD:
 #### Opcodes
 
 ```
-  0: 0x1CB1 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1CB1 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1CB8 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1CB9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D32
@@ -2902,7 +2902,7 @@ SUBROUTINE_1D42:
 #### Opcodes
 
 ```
-  0: 0x1D46 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1D46 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1D4D [0x25] WAIT_DIALOG_SELECT()
   2: 0x1D4E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DC7
@@ -2962,7 +2962,7 @@ SUBROUTINE_1DD7:
 #### Opcodes
 
 ```
-  0: 0x1DDB [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1DDB [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1DE2 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1DE3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E5C
@@ -3022,7 +3022,7 @@ SUBROUTINE_1E6C:
 #### Opcodes
 
 ```
-  0: 0x1E70 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1E70 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1E77 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1E78 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EF1
@@ -3082,7 +3082,7 @@ SUBROUTINE_1F01:
 #### Opcodes
 
 ```
-  0: 0x1F05 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1F05 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1F0C [0x25] WAIT_DIALOG_SELECT()
   2: 0x1F0D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F86
@@ -3142,7 +3142,7 @@ SUBROUTINE_1F96:
 #### Opcodes
 
 ```
-  0: 0x1F9A [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x1F9A [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1FA1 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1FA2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x201B
@@ -3203,7 +3203,7 @@ SUBROUTINE_202B:
 #### Opcodes
 
 ```
-  0: 0x202F [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x202F [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2036 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2037 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20B0
@@ -3263,7 +3263,7 @@ SUBROUTINE_20C0:
 #### Opcodes
 
 ```
-  0: 0x20C4 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x20C4 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x20CB [0x25] WAIT_DIALOG_SELECT()
   2: 0x20CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2145
@@ -3323,7 +3323,7 @@ SUBROUTINE_2155:
 #### Opcodes
 
 ```
-  0: 0x2159 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x2159 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2160 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2161 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21DA
@@ -3384,7 +3384,7 @@ SUBROUTINE_21EA:
 #### Opcodes
 
 ```
-  0: 0x21EE [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x21EE [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x21F5 [0x25] WAIT_DIALOG_SELECT()
   2: 0x21F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x226F
@@ -3444,7 +3444,7 @@ SUBROUTINE_227F:
 #### Opcodes
 
 ```
-  0: 0x2283 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x2283 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x228A [0x25] WAIT_DIALOG_SELECT()
   2: 0x228B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2304
@@ -3504,7 +3504,7 @@ SUBROUTINE_2314:
 #### Opcodes
 
 ```
-  0: 0x2318 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x2318 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x231F [0x25] WAIT_DIALOG_SELECT()
   2: 0x2320 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2399
@@ -3565,7 +3565,7 @@ SUBROUTINE_23A9:
 #### Opcodes
 
 ```
-  0: 0x23AD [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x23AD [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x23B4 [0x25] WAIT_DIALOG_SELECT()
   2: 0x23B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x242E
@@ -3625,7 +3625,7 @@ SUBROUTINE_243E:
 #### Opcodes
 
 ```
-  0: 0x2442 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x2442 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2449 [0x25] WAIT_DIALOG_SELECT()
   2: 0x244A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x24C3
@@ -3685,7 +3685,7 @@ SUBROUTINE_24D3:
 #### Opcodes
 
 ```
-  0: 0x24D7 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x24D7 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x24DE [0x25] WAIT_DIALOG_SELECT()
   2: 0x24DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2558
@@ -3746,7 +3746,7 @@ SUBROUTINE_2568:
 #### Opcodes
 
 ```
-  0: 0x256C [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x256C [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2573 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2574 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x25ED
@@ -3806,7 +3806,7 @@ SUBROUTINE_25FD:
 #### Opcodes
 
 ```
-  0: 0x2601 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x2601 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2608 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2609 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2682
@@ -3863,10 +3863,10 @@ SUBROUTINE_2692:
 
 ```
   0: 0x2696 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2698 [0x48] [System] [7615*]:
+  1: 0x2698 [0x48] [System] [7616*]:
     → "You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement..."
   2: 0x269B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x269C [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  3: 0x269C [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   4: 0x26A3 [0x25] WAIT_DIALOG_SELECT()
   5: 0x26A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26E1
@@ -3916,7 +3916,7 @@ SUBROUTINE_26EC:
 #### Opcodes
 
 ```
-  0: 0x26F0 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x26F0 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x26F7 [0x25] WAIT_DIALOG_SELECT()
   2: 0x26F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2771
@@ -3976,7 +3976,7 @@ SUBROUTINE_2781:
 #### Opcodes
 
 ```
-  0: 0x2785 [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x2785 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x278C [0x25] WAIT_DIALOG_SELECT()
   2: 0x278D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2806
@@ -4036,7 +4036,7 @@ SUBROUTINE_2816:
 #### Opcodes
 
 ```
-  0: 0x281A [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x281A [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2821 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2822 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x289B
@@ -4101,7 +4101,7 @@ SUBROUTINE_28AB:
 #### Opcodes
 
 ```
-  0: 0x28AF [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
+  0: 0x28AF [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x28B6 [0x25] WAIT_DIALOG_SELECT()
   2: 0x28B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2930
@@ -4300,7 +4300,7 @@ SUBROUTINE_2940:
  29: 0x2A59 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Prishe (ID: 16900376/0x0101E118))
  30: 0x2A5F [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x07)
  31: 0x2A66 [0x1C] WAIT(15* ticks)
- 32: 0x2A69 [0x2B] Prishe (ID: 16900376/0x0101E118) [7618*]:
+ 32: 0x2A69 [0x2B] Prishe (ID: 16900376/0x0101E118) [7619*]:
     → "Hah hah! I found you! Come on out!"
  33: 0x2A70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x2A71 [0x27] REQ_SET(priority=0x03, entity_id=Cherukiki (ID: 16900378/0x0101E11A), tag_num=0x02)
@@ -4330,10 +4330,10 @@ SUBROUTINE_2940:
  58: 0x2B1C [0x27] REQ_SET(priority=0x03, entity_id=Makki-Chebukki (ID: 16900380/0x0101E11C), tag_num=0x04)
  59: 0x2B23 [0x27] REQ_SET(priority=0x03, entity_id=Cherukiki (ID: 16900378/0x0101E11A), tag_num=0x03)
  60: 0x2B2A [0x27] REQ_SET(priority=0x03, entity_id=Kukki-Chebukki (ID: 16900379/0x0101E11B), tag_num=0x04)
- 61: 0x2B31 [0x2B] Makki-Chebukki (ID: 16900380/0x0101E11C) [7619*]:
+ 61: 0x2B31 [0x2B] Makki-Chebukki (ID: 16900380/0x0101E11C) [7620*]:
     → "She's found us, and boy, does she look mad!"
  62: 0x2B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x2B39 [0x2B] Kukki-Chebukki (ID: 16900379/0x0101E11B) [7620*]:
+ 63: 0x2B39 [0x2B] Kukki-Chebukki (ID: 16900379/0x0101E11B) [7621*]:
     → "She's found us, and boy, does she look ugly!"
  64: 0x2B40 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x2B41 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Prishe (ID: 16900376/0x0101E118))
@@ -4342,11 +4342,11 @@ SUBROUTINE_2940:
  68: 0x2B51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
  69: 0x2B62 [0x6B] STOP_AND_IDLE: Cherukiki (ID: 16900378/0x0101E11A) stops current action and resets to idle (animation="idl0")
  70: 0x2B6B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=114*
- 71: 0x2B7A [0x2B] Prishe (ID: 16900376/0x0101E118) [7621*]:
+ 71: 0x2B7A [0x2B] Prishe (ID: 16900376/0x0101E118) [7622*]:
     → "Ugly!? That's what you'll be once I'm done pounding your faces in! Now get outta here if you know what's good for you!"
  72: 0x2B81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x2B82 [0x27] REQ_SET(priority=0x03, entity_id=Ulmia (ID: 16900377/0x0101E119), tag_num=0x06)
- 74: 0x2B89 [0x2B] Ulmia (ID: 16900377/0x0101E119) [7622*]:
+ 74: 0x2B89 [0x2B] Ulmia (ID: 16900377/0x0101E119) [7623*]:
     → "Yes, off with you children! Unless you want to see Prishe become truly upset."
  75: 0x2B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x2B91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
@@ -4354,7 +4354,7 @@ SUBROUTINE_2940:
  78: 0x2BB1 [0x6B] STOP_AND_IDLE: Kukki-Chebukki (ID: 16900379/0x0101E11B) stops current action and resets to idle (animation="idl0")
  79: 0x2BBA [0x6B] STOP_AND_IDLE: Makki-Chebukki (ID: 16900380/0x0101E11C) stops current action and resets to idle (animation="idl0")
  80: 0x2BC3 [0x27] REQ_SET(priority=0x03, entity_id=Cherukiki (ID: 16900378/0x0101E11A), tag_num=0x04)
- 81: 0x2BCA [0x2B] Cherukiki (ID: 16900378/0x0101E11A) [7623*]:
+ 81: 0x2BCA [0x2B] Cherukiki (ID: 16900378/0x0101E11A) [7624*]:
     → "We'll go home, but only if Prishe promises not to punish us!"
  82: 0x2BD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x2BD2 [0x27] REQ_SET(priority=0x03, entity_id=Ulmia (ID: 16900377/0x0101E119), tag_num=0x07)
@@ -4365,33 +4365,33 @@ SUBROUTINE_2940:
  88: 0x2C04 [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x05)
  89: 0x2C0B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=114*
  90: 0x2C1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z00a" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
- 91: 0x2C2B [0x2B] Prishe (ID: 16900376/0x0101E118) [7624*]:
+ 91: 0x2C2B [0x2B] Prishe (ID: 16900376/0x0101E118) [7625*]:
     → "Punish you!? Go home now, and I might just not kill you!"
  92: 0x2C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x2C33 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z00a" with entities [LocalPlayer, LocalPlayer], work=114*
- 94: 0x2C42 [0x2B] Prishe (ID: 16900376/0x0101E118) [7625*]:
+ 94: 0x2C42 [0x2B] Prishe (ID: 16900376/0x0101E118) [7626*]:
     → "How many times have I told you that you're too young to go off adventuring on your own!?"
  95: 0x2C49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x2C4A [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x06)
  97: 0x2C51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
  98: 0x2C62 [0x27] REQ_SET(priority=0x03, entity_id=Ulmia (ID: 16900377/0x0101E119), tag_num=0x08)
  99: 0x2C69 [0x1C] WAIT(60* ticks)
-100: 0x2C6C [0x2B] Ulmia (ID: 16900377/0x0101E119) [7626*]:
+100: 0x2C6C [0x2B] Ulmia (ID: 16900377/0x0101E119) [7627*]:
     → "Exactly! Do you not remember the last time you went out alone? It took over a month for your wounds to heal!"
 101: 0x2C73 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x2C74 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=114*
-103: 0x2C83 [0x2B] Ulmia (ID: 16900377/0x0101E119) [7627*]:
+103: 0x2C83 [0x2B] Ulmia (ID: 16900377/0x0101E119) [7628*]:
     → "And these are not the fields outside the safehold. Who knows what horrors lie in the deeper parts of this strange place..."
 104: 0x2C8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x2C8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
 106: 0x2C9C [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x07)
-107: 0x2CA3 [0x2B] Prishe (ID: 16900376/0x0101E118) [7628*]:
+107: 0x2CA3 [0x2B] Prishe (ID: 16900376/0x0101E118) [7629*]:
     → "Yeah, there might be some big, hungry tiger with a craving for juicy Tarutaru hiding behind that tree right over there! Until I've checked this place out first, I want you three back in your rooms!"
 108: 0x2CAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x2CAB [0x27] REQ_SET(priority=0x03, entity_id=Ulmia (ID: 16900377/0x0101E119), tag_num=0x09)
 110: 0x2CB2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=114*
 111: 0x2CC1 [0x79] Ulmia (ID: 16900377/0x0101E119) looks at Prishe (ID: 16900376/0x0101E118) (Basic look)
-112: 0x2CCB [0x2B] Ulmia (ID: 16900377/0x0101E119) [7629*]:
+112: 0x2CCB [0x2B] Ulmia (ID: 16900377/0x0101E119) [7630*]:
     → "Prishe... You are not worried about them at all, are you? You just..."
 113: 0x2CD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x2CD3 [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x08)
@@ -4403,7 +4403,7 @@ SUBROUTINE_2940:
 120: 0x2D09 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 121: 0x2D0A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Prishe (ID: 16900376/0x0101E118) Render.Flags0 and Render.Flags3 conditions are met
 122: 0x2D0F [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x09)
-123: 0x2D16 [0x2B] Prishe (ID: 16900376/0x0101E118) [7630*]:
+123: 0x2D16 [0x2B] Prishe (ID: 16900376/0x0101E118) [7631*]:
     → "Hell right, I'm not worried. Why should I worry about what happens to those traitors? I don't care who they are--if they're in my way, they're not on my side!"
 124: 0x2D1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x2D1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
@@ -4415,15 +4415,15 @@ SUBROUTINE_2940:
 131: 0x2D52 [0x27] REQ_SET(priority=0x03, entity_id=Makki-Chebukki (ID: 16900380/0x0101E11C), tag_num=0x05)
 132: 0x2D59 [0x1C] WAIT(10* ticks)
 133: 0x2D5C [0x27] REQ_SET(priority=0x03, entity_id=Cherukiki (ID: 16900378/0x0101E11A), tag_num=0x05)
-134: 0x2D63 [0x2B] Makki-Chebukki (ID: 16900380/0x0101E11C) [7631*]:
+134: 0x2D63 [0x2B] Makki-Chebukki (ID: 16900380/0x0101E11C) [7632*]:
     → "You're so mean!"
 135: 0x2D6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x2D6B [0x1C] WAIT(120* ticks)
-137: 0x2D6E [0x2B] Kukki-Chebukki (ID: 16900379/0x0101E11B) [7632*]:
+137: 0x2D6E [0x2B] Kukki-Chebukki (ID: 16900379/0x0101E11B) [7633*]:
     → "You're so terrible!"
 138: 0x2D75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x2D76 [0x1C] WAIT(120* ticks)
-140: 0x2D79 [0x2B] Cherukiki (ID: 16900378/0x0101E11A) [7633*]:
+140: 0x2D79 [0x2B] Cherukiki (ID: 16900378/0x0101E11A) [7634*]:
     → "You're so ugly!"
 141: 0x2D80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x2D81 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=114*
@@ -4434,7 +4434,7 @@ SUBROUTINE_2940:
 147: 0x2DB2 [0x27] REQ_SET(priority=0x03, entity_id=Cherukiki (ID: 16900378/0x0101E11A), tag_num=0x07)
 148: 0x2DB9 [0x1C] WAIT(40* ticks)
 149: 0x2DBC [0x27] REQ_SET(priority=0x03, entity_id=Prishe (ID: 16900376/0x0101E118), tag_num=0x0F)
-150: 0x2DC3 [0x2B] Prishe (ID: 16900376/0x0101E118) [7634*]:
+150: 0x2DC3 [0x2B] Prishe (ID: 16900376/0x0101E118) [7635*]:
     → "Ugly!? Why, you little creeps! I'll show you ugly!"
 151: 0x2DCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x2DCB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=114*
@@ -4444,7 +4444,7 @@ SUBROUTINE_2940:
 156: 0x2DEA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z00c" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
 157: 0x2DFB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z00c" with entities [LocalPlayer, LocalPlayer], work=114*
 158: 0x2E0A [0x4B] UPDATE_ENTITY_YAW(entity=Ulmia (ID: 16900377/0x0101E119), yaw=14.4°*)
-159: 0x2E11 [0x2B] Prishe (ID: 16900376/0x0101E118) [7635*]:
+159: 0x2E11 [0x2B] Prishe (ID: 16900376/0x0101E118) [7636*]:
     → "What the--? Where did they go!?"
 160: 0x2E18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x2E19 [0x7B] Ulmia (ID: 16900377/0x0101E119) stops talking
@@ -4453,11 +4453,11 @@ SUBROUTINE_2940:
 164: 0x2E28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=[114*, 0*]
 165: 0x2E39 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=114*
 166: 0x2E48 [0x1C] WAIT(30* ticks)
-167: 0x2E4B [0x2B] Prishe (ID: 16900376/0x0101E118) [7636*]:
+167: 0x2E4B [0x2B] Prishe (ID: 16900376/0x0101E118) [7637*]:
     → "Oooh, when I get my hands on those three..."
 168: 0x2E52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x2E53 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Prishe (ID: 16900376/0x0101E118))
-170: 0x2E59 [0x2B] Ulmia (ID: 16900377/0x0101E119) [7637*]:
+170: 0x2E59 [0x2B] Ulmia (ID: 16900377/0x0101E119) [7638*]:
     → "Let us continue. We must try and catch up with them..."
 171: 0x2E60 [0x1C] WAIT(60* ticks)
 172: 0x2E63 [0x27] REQ_SET(priority=0x03, entity_id=Ulmia (ID: 16900377/0x0101E119), tag_num=0x03)
@@ -4812,7 +4812,7 @@ SUBROUTINE_2FF3:
  19: 0x3092 [0x1C] WAIT(240* ticks)
  20: 0x3095 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x03)
  21: 0x309C [0x1C] WAIT(180* ticks)
- 22: 0x309F [0x2B] ??? (ID: 16900398/0x0101E12E) [7689*]:
+ 22: 0x309F [0x2B] ??? (ID: 16900398/0x0101E12E) [7690*]:
     → "<Sigh> Just look at what's happened here..."
  23: 0x30A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x30A7 [0x4A] LocalPlayer looks at ??? (ID: 16900398/0x0101E12E)
@@ -4820,13 +4820,13 @@ SUBROUTINE_2FF3:
  26: 0x30B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=33*
  27: 0x30C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  28: 0x30D9 [0x1C] WAIT(30* ticks)
- 29: 0x30DC [0x2B] ??? (ID: 16900398/0x0101E12E) [7690*]:
+ 29: 0x30DC [0x2B] ??? (ID: 16900398/0x0101E12E) [7691*]:
     → "I thought I had finally found a nice, quiet place."
  30: 0x30E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x30E4 [0x27] REQ_SET(priority=0x0F, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x02)
  32: 0x30EB [0x1C] WAIT(30* ticks)
  33: 0x30EE [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x04)
- 34: 0x30F5 [0x2B] ??? (ID: 16900398/0x0101E12E) [7691*]:
+ 34: 0x30F5 [0x2B] ??? (ID: 16900398/0x0101E12E) [7692*]:
     → "And then one day there's this terrible explosion and the whole peninsula is thrust up into the sky. Look at my bell--split right in two."
  35: 0x30FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x30FD [0x79] ??? (ID: 16900398/0x0101E12E) looks at LocalPlayer (Basic look)
@@ -4835,10 +4835,10 @@ SUBROUTINE_2FF3:
  39: 0x3119 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  40: 0x312A [0x4A] ??? (ID: 16900398/0x0101E12E) looks at LocalPlayer
  41: 0x3133 [0x1C] WAIT(60* ticks)
- 42: 0x3136 [0x2B] ??? (ID: 16900398/0x0101E12E) [7692*]:
+ 42: 0x3136 [0x2B] ??? (ID: 16900398/0x0101E12E) [7693*]:
     → "Hey, you."
  43: 0x313D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x313E [0x2B] ??? (ID: 16900398/0x0101E12E) [7693*]:
+ 44: 0x313E [0x2B] ??? (ID: 16900398/0x0101E12E) [7694*]:
     → "You must understand what I'm talking about. There isn't really much a man like me can do."
  45: 0x3145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x3146 [0x1C] WAIT(60* ticks)
@@ -4847,15 +4847,15 @@ SUBROUTINE_2FF3:
  49: 0x3153 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  50: 0x3164 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=33*
  51: 0x3173 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
- 52: 0x3184 [0x2B] ??? (ID: 16900398/0x0101E12E) [7694*]:
+ 52: 0x3184 [0x2B] ??? (ID: 16900398/0x0101E12E) [7695*]:
     → "Hello? You can see me, right? I can see you..."
  53: 0x318B [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x318C [0x4A] LocalPlayer looks at ??? (ID: 16900398/0x0101E12E)
  55: 0x3195 [0x2A] GET_REQ_LEVEL(level=10, entity_id=??? (ID: 16900398/0x0101E12E))
- 56: 0x319B [0x2B] ??? (ID: 16900398/0x0101E12E) [7695*]:
+ 56: 0x319B [0x2B] ??? (ID: 16900398/0x0101E12E) [7696*]:
     → "Hmph... I wonder why that is..."
  57: 0x31A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x31A3 [0x2B] ??? (ID: 16900398/0x0101E12E) [7696*]:
+ 58: 0x31A3 [0x2B] ??? (ID: 16900398/0x0101E12E) [7697*]:
     → "Anyway, that bell is the one reason I originally traveled here. The clear tone as it rang across the meadows...it had the power to make all other things seem like they didn't even matter."
  59: 0x31AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x31AB [0x1C] WAIT(60* ticks)
@@ -4863,7 +4863,7 @@ SUBROUTINE_2FF3:
  62: 0x31BF [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [LocalPlayer, LocalPlayer], work=33*
  63: 0x31CE [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
  64: 0x31D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
- 65: 0x31E1 [0x2B] ??? (ID: 16900398/0x0101E12E) [7697*]:
+ 65: 0x31E1 [0x2B] ??? (ID: 16900398/0x0101E12E) [7698*]:
     → "Pain, suffering...even the passing of time melted away like mist on a summer morning when that bell sang her ethereal song..."
  66: 0x31E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x31E9 [0x1C] WAIT(30* ticks)
@@ -4874,7 +4874,7 @@ SUBROUTINE_2FF3:
  72: 0x3215 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  73: 0x3226 [0x1C] WAIT(120* ticks)
  74: 0x3229 [0x4A] LocalPlayer looks at ??? (ID: 16900398/0x0101E12E)
- 75: 0x3232 [0x2B] ??? (ID: 16900398/0x0101E12E) [7698*]:
+ 75: 0x3232 [0x2B] ??? (ID: 16900398/0x0101E12E) [7699*]:
     → "I was content. My soul had finally found a place to spend eternity."
  76: 0x3239 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x323A [0x1C] WAIT(30* ticks)
@@ -4882,10 +4882,10 @@ SUBROUTINE_2FF3:
  79: 0x324E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=33*
  80: 0x325D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  81: 0x326E [0x1C] WAIT(180* ticks)
- 82: 0x3271 [0x2B] ??? (ID: 16900398/0x0101E12E) [7699*]:
+ 82: 0x3271 [0x2B] ??? (ID: 16900398/0x0101E12E) [7700*]:
     → "And that is why I cannot leave...but without the celestial ringing my heart yearns for, my soul remains restless."
  83: 0x3278 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x3279 [0x2B] ??? (ID: 16900398/0x0101E12E) [7700*]:
+ 84: 0x3279 [0x2B] ??? (ID: 16900398/0x0101E12E) [7701*]:
     → "You see..."
  85: 0x3280 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x3281 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=33*
@@ -4893,10 +4893,10 @@ SUBROUTINE_2FF3:
  88: 0x3299 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  89: 0x32AA [0x4A] ??? (ID: 16900398/0x0101E12E) looks at LocalPlayer
  90: 0x32B3 [0x1C] WAIT(90* ticks)
- 91: 0x32B6 [0x2B] ??? (ID: 16900398/0x0101E12E) [7701*]:
+ 91: 0x32B6 [0x2B] ??? (ID: 16900398/0x0101E12E) [7702*]:
     → "With the bell in its current state, I'm lost. You must help me repair it."
  92: 0x32BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x32BE [0x2B] ??? (ID: 16900398/0x0101E12E) [7702*]:
+ 93: 0x32BE [0x2B] ??? (ID: 16900398/0x0101E12E) [7703*]:
     → "I want to share its music with you--and the rest of the world."
  94: 0x32C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x32C6 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x07)
@@ -4905,7 +4905,7 @@ SUBROUTINE_2FF3:
  98: 0x32DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
  99: 0x32F0 [0x2A] GET_REQ_LEVEL(level=10, entity_id=??? (ID: 16900398/0x0101E12E))
 100: 0x32F6 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x08)
-101: 0x32FD [0x2B] ??? (ID: 16900398/0x0101E12E) [7703*]:
+101: 0x32FD [0x2B] ??? (ID: 16900398/0x0101E12E) [7704*]:
     → "Here, I have something that may assist you. It's a scroll with an intricately carved jade fastener."
 102: 0x3304 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x3305 [0x2A] GET_REQ_LEVEL(level=10, entity_id=??? (ID: 16900398/0x0101E12E))
@@ -4915,10 +4915,10 @@ SUBROUTINE_2FF3:
 107: 0x3328 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=33*
 108: 0x3337 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
 109: 0x3348 [0x1C] WAIT(30* ticks)
-110: 0x334B [0x2B] ??? (ID: 16900398/0x0101E12E) [7704*]:
+110: 0x334B [0x2B] ??? (ID: 16900398/0x0101E12E) [7705*]:
     → "I don't remember where I found it, but I feel that it is very important."
 111: 0x3352 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x3353 [0x2B] ??? (ID: 16900398/0x0101E12E) [7705*]:
+112: 0x3353 [0x2B] ??? (ID: 16900398/0x0101E12E) [7706*]:
     → "Let me read it for you, though it is quite old and tattered..."
 113: 0x335A [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x335B [0x4A] ??? (ID: 16900398/0x0101E12E) looks at LocalPlayer
@@ -4926,18 +4926,18 @@ SUBROUTINE_2FF3:
 116: 0x3375 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=33*
 117: 0x3384 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
 118: 0x3395 [0x1C] WAIT(90* ticks)
-119: 0x3398 [0x2B] ??? (ID: 16900398/0x0101E12E) [7706*]:
+119: 0x3398 [0x2B] ??? (ID: 16900398/0x0101E12E) [7707*]:
     → ""...Bast......uild...smiths of......nd gold...?""
 120: 0x339F [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x33A0 [0x1C] WAIT(60* ticks)
-122: 0x33A3 [0x2B] ??? (ID: 16900398/0x0101E12E) [7707*]:
+122: 0x33A3 [0x2B] ??? (ID: 16900398/0x0101E12E) [7708*]:
     → "I'm not sure what to make of this cryptic message."
 123: 0x33AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x33AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 125: 0x33BC [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=33*
 126: 0x33CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=[33*, 0*]
 127: 0x33DC [0x1C] WAIT(120* ticks)
-128: 0x33DF [0x2B] ??? (ID: 16900398/0x0101E12E) [7708*]:
+128: 0x33DF [0x2B] ??? (ID: 16900398/0x0101E12E) [7709*]:
     → "But something tells me you already know where you must travel. Good luck. I shall be waiting here for your return."
 129: 0x33E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x33E7 [0x27] REQ_SET(priority=0x0F, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x09)
@@ -5018,10 +5018,10 @@ SUBROUTINE_2FF3:
   1: 0x3444 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   2: 0x3455 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [EventEntity, EventEntity], work=200*
   3: 0x3464 [0x1C] WAIT(30* ticks)
-  4: 0x3467 [0x48] [System] [7709*]:
+  4: 0x3467 [0x48] [System] [7710*]:
     → "After wiping away some of the lichen covering the monument, you find the name Albanus carved near the bottom."
   5: 0x346A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x346B [0x48] [System] [7710*]:
+  6: 0x346B [0x48] [System] [7711*]:
     → "If you could only reach the floating island where the monument's remaining half lies..."
   7: 0x346E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x346F [0x1C] WAIT(30* ticks)
@@ -5038,7 +5038,7 @@ SUBROUTINE_2FF3:
  19: 0x34AC [0x27] REQ_SET(priority=0x0F, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x0C)
  20: 0x34B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  21: 0x34C4 [0x1C] WAIT(180* ticks)
- 22: 0x34C7 [0x2B] ??? (ID: 16900398/0x0101E12E) [7711*]:
+ 22: 0x34C7 [0x2B] ??? (ID: 16900398/0x0101E12E) [7712*]:
     → "Welcome back, traveler. I have been so looking forward to your return."
  23: 0x34CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x34CF [0x4A] LocalPlayer looks at ??? (ID: 16900398/0x0101E12E)
@@ -5048,24 +5048,24 @@ SUBROUTINE_2FF3:
  28: 0x34FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
  29: 0x350C [0x27] REQ_SET(priority=0x0F, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x02)
  30: 0x3513 [0x1C] WAIT(30* ticks)
- 31: 0x3516 [0x2B] ??? (ID: 16900398/0x0101E12E) [7712*]:
+ 31: 0x3516 [0x2B] ??? (ID: 16900398/0x0101E12E) [7713*]:
     → "Were you able to find someone who can repair the bell?"
  32: 0x351D [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x351E [0x79] ??? (ID: 16900398/0x0101E12E) looks at LocalPlayer (Basic look)
- 34: 0x3528 [0x2B] ??? (ID: 16900398/0x0101E12E) [7713*]:
+ 34: 0x3528 [0x2B] ??? (ID: 16900398/0x0101E12E) [7714*]:
     → "It has seemed like an eternity since you first visited."
  35: 0x352F [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x3530 [0x1C] WAIT(90* ticks)
  37: 0x3533 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=34*
  38: 0x3542 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
  39: 0x3553 [0x1C] WAIT(60* ticks)
- 40: 0x3556 [0x2B] ??? (ID: 16900398/0x0101E12E) [7714*]:
+ 40: 0x3556 [0x2B] ??? (ID: 16900398/0x0101E12E) [7715*]:
     → "I was quite lonely while you were gone. I do not get many visitors around here, and since the bell was damaged, my mind has not been feeling too well."
  41: 0x355D [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x355E [0x1C] WAIT(30* ticks)
  43: 0x3561 [0x4A] ??? (ID: 16900398/0x0101E12E) looks at LocalPlayer
  44: 0x356A [0x1C] WAIT(90* ticks)
- 45: 0x356D [0x2B] ??? (ID: 16900398/0x0101E12E) [7715*]:
+ 45: 0x356D [0x2B] ??? (ID: 16900398/0x0101E12E) [7716*]:
     → "Now, come, tell me quickly. What have you discovered?"
  46: 0x3574 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x3575 [0x1C] WAIT(60* ticks)
@@ -5081,29 +5081,29 @@ SUBROUTINE_2FF3:
  57: 0x35CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  58: 0x35DE [0x7B] ??? (ID: 16900398/0x0101E12E) stops talking
  59: 0x35E3 [0x1C] WAIT(120* ticks)
- 60: 0x35E6 [0x2B] ??? (ID: 16900398/0x0101E12E) [7716*]:
+ 60: 0x35E6 [0x2B] ??? (ID: 16900398/0x0101E12E) [7717*]:
     → "What? Is that all?"
  61: 0x35ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x35EE [0x2B] ??? (ID: 16900398/0x0101E12E) [7717*]:
+ 62: 0x35EE [0x2B] ??? (ID: 16900398/0x0101E12E) [7718*]:
     → "I thought you, of all people, understood how I felt. I thought you understood what that bell means to me!"
  63: 0x35F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x35F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  65: 0x3607 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=34*
  66: 0x3616 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
- 67: 0x3627 [0x2B] ??? (ID: 16900398/0x0101E12E) [7718*]:
+ 67: 0x3627 [0x2B] ??? (ID: 16900398/0x0101E12E) [7719*]:
     → "But I was wrong. And now I have nothing..."
  68: 0x362E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x362F [0x2B] ??? (ID: 16900398/0x0101E12E) [7719*]:
+ 69: 0x362F [0x2B] ??? (ID: 16900398/0x0101E12E) [7720*]:
     → "My reason for existence has begun to fade..."
  70: 0x3636 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x3637 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  72: 0x3648 [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=34*
  73: 0x3657 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
  74: 0x3659 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
- 75: 0x366A [0x2B] ??? (ID: 16900398/0x0101E12E) [7720*]:
+ 75: 0x366A [0x2B] ??? (ID: 16900398/0x0101E12E) [7721*]:
     → "...and it is all your fault!"
  76: 0x3671 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x3672 [0x2B] ??? (ID: 16900398/0x0101E12E) [7721*]:
+ 77: 0x3672 [0x2B] ??? (ID: 16900398/0x0101E12E) [7722*]:
     → "Begone, and never return! ...Unless you yearn to witness the undying wrath of my battered soul!"
  78: 0x3679 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x367A [0x1C] WAIT(120* ticks)
@@ -5260,7 +5260,7 @@ SUBROUTINE_2FF3:
  25: 0x379B [0x1C] WAIT(300* ticks)
  26: 0x379E [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [EventEntity, EventEntity], work=[30*, 0*]
  27: 0x37AF [0x1C] WAIT(120* ticks)
- 28: 0x37B2 [0x2B] ??? (ID: 16900398/0x0101E12E) [7723*]:
+ 28: 0x37B2 [0x2B] ??? (ID: 16900398/0x0101E12E) [7724*]:
     → "Where... Where am I?"
  29: 0x37B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x37BA [0x1C] WAIT(30* ticks)
@@ -5287,10 +5287,10 @@ SUBROUTINE_2FF3:
  51: 0x3895 [0x1C] WAIT(120* ticks)
  52: 0x3898 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
  53: 0x38A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 54: 0x38BA [0x2B] Albanus (ID: 16900399/0x0101E12F) [7724*]:
+ 54: 0x38BA [0x2B] Albanus (ID: 16900399/0x0101E12F) [7725*]:
     → "I've done it... I've finally found the sound for which I was searching."
  55: 0x38C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x38C2 [0x2B] ??? (ID: 16900398/0x0101E12E) [7725*]:
+ 56: 0x38C2 [0x2B] ??? (ID: 16900398/0x0101E12E) [7726*]:
     → "Who is that...? Why is he looking at me?"
  57: 0x38C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x38CA [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=34*
@@ -5298,7 +5298,7 @@ SUBROUTINE_2FF3:
  60: 0x38EA [0x1E] EventEntity looks at Albanus (ID: 16900399/0x0101E12F) and starts talking
  61: 0x38EF [0x1C] WAIT(30* ticks)
  62: 0x38F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Albanus (ID: 16900399/0x0101E12F), Albanus (ID: 16900399/0x0101E12F)], work=9*
- 63: 0x3901 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7726*]:
+ 63: 0x3901 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7727*]:
     → "That is enough for today."
  64: 0x3908 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x3909 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Albanus (ID: 16900399/0x0101E12F), Albanus (ID: 16900399/0x0101E12F)], work=9*
@@ -5307,18 +5307,18 @@ SUBROUTINE_2FF3:
  68: 0x3922 [0x1C] WAIT(15* ticks)
  69: 0x3925 [0x6E] Albanus (ID: 16900399/0x0101E12F) uses emote 19*
  70: 0x392C [0x99] Wait for Albanus (ID: 16900399/0x0101E12F) animation to complete
- 71: 0x3931 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7727*]:
+ 71: 0x3931 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7728*]:
     → "Ah! Wh-who are you!? How did you get in here?"
  72: 0x3938 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x3939 [0x27] REQ_SET(priority=0x0F, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x0E)
  74: 0x3940 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=34*
  75: 0x394F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
  76: 0x3960 [0x1C] WAIT(90* ticks)
- 77: 0x3963 [0x2B] ??? (ID: 16900398/0x0101E12E) [7728*]:
+ 77: 0x3963 [0x2B] ??? (ID: 16900398/0x0101E12E) [7729*]:
     → "I... I don't know."
  78: 0x396A [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x396B [0x79] ??? (ID: 16900398/0x0101E12E) looks at Albanus (ID: 16900399/0x0101E12F) (Basic look)
- 80: 0x3975 [0x2B] ??? (ID: 16900398/0x0101E12E) [7729*]:
+ 80: 0x3975 [0x2B] ??? (ID: 16900398/0x0101E12E) [7730*]:
     → "I heard the angels, and followed their song... And here I am."
  81: 0x397C [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x397D [0x79] ??? (ID: 16900398/0x0101E12E) looks at Albanus (ID: 16900399/0x0101E12F) (Basic look)
@@ -5335,33 +5335,33 @@ SUBROUTINE_2FF3:
  93: 0x39F0 [0x1C] WAIT(90* ticks)
  94: 0x39F3 [0x6E] Albanus (ID: 16900399/0x0101E12F) uses emote 21*
  95: 0x39FA [0x99] Wait for Albanus (ID: 16900399/0x0101E12F) animation to complete
- 96: 0x39FF [0x2B] Albanus (ID: 16900399/0x0101E12F) [7730*]:
+ 96: 0x39FF [0x2B] Albanus (ID: 16900399/0x0101E12F) [7731*]:
     → "I can't stop now... I must complete...the bell..."
  97: 0x3A06 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x3A07 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=34*
  99: 0x3A16 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
 100: 0x3A27 [0x1C] WAIT(30* ticks)
 101: 0x3A2A [0x79] Albanus (ID: 16900399/0x0101E12F) looks at LocalPlayer (Basic look)
-102: 0x3A34 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7731*]:
+102: 0x3A34 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7732*]:
     → "I must finish...for him..."
 103: 0x3A3B [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x3A3C [0x2B] Albanus (ID: 16900399/0x0101E12F) [7732*]:
+104: 0x3A3C [0x2B] Albanus (ID: 16900399/0x0101E12F) [7733*]:
     → "I must listen... I must do what he says..."
 105: 0x3A43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x3A44 [0x7B] Albanus (ID: 16900399/0x0101E12F) stops talking
-107: 0x3A49 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7733*]:
+107: 0x3A49 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7734*]:
     → "...... Why won't he leave me alone...? Why...?"
 108: 0x3A50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x3A51 [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=34*
 110: 0x3A60 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
 111: 0x3A71 [0x6E] Albanus (ID: 16900399/0x0101E12F) uses emote 32*
 112: 0x3A78 [0x99] Wait for Albanus (ID: 16900399/0x0101E12F) animation to complete
-113: 0x3A7D [0x2B] Albanus (ID: 16900399/0x0101E12F) [7734*]:
+113: 0x3A7D [0x2B] Albanus (ID: 16900399/0x0101E12F) [7735*]:
     → "No. I must not think these thoughts. I must finish the bell..."
 114: 0x3A84 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x3A85 [0x79] Albanus (ID: 16900399/0x0101E12F) looks at LocalPlayer (Basic look)
 116: 0x3A8F [0x1C] WAIT(60* ticks)
-117: 0x3A92 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7735*]:
+117: 0x3A92 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7736*]:
     → "I must..."
 118: 0x3A99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x3A9A [0x1C] WAIT(60* ticks)
@@ -5374,10 +5374,10 @@ SUBROUTINE_2FF3:
 126: 0x3AE5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 127: 0x3AF6 [0x27] REQ_SET(priority=0x0F, entity_id=Albanus (ID: 16900399/0x0101E12F), tag_num=0x06)
 128: 0x3AFD [0x79] LocalPlayer looks at Albanus (ID: 16900399/0x0101E12F) (Basic look)
-129: 0x3B07 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7736*]:
+129: 0x3B07 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7737*]:
     → "I've got it! Why didn't I think of it before!?"
 130: 0x3B0E [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x3B0F [0x2B] Albanus (ID: 16900399/0x0101E12F) [7737*]:
+131: 0x3B0F [0x2B] Albanus (ID: 16900399/0x0101E12F) [7738*]:
     → "If I take the bell there, he'll never bother me again, ever. Yes. If I take the bell there..."
 132: 0x3B16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x3B17 [0x1E] EventEntity looks at Albanus (ID: 16900399/0x0101E12F) and starts talking
@@ -5388,7 +5388,7 @@ SUBROUTINE_2FF3:
 138: 0x3B4E [0x1C] WAIT(60* ticks)
 139: 0x3B51 [0x77] SET_EVENT_TIME_WEATHER(hour=16*, weather=0*)
 140: 0x3B56 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 16900398/0x0101E12E)
-141: 0x3B5C [0x2B] Albanus (ID: 16900399/0x0101E12F) [7738*]:
+141: 0x3B5C [0x2B] Albanus (ID: 16900399/0x0101E12F) [7739*]:
     → "Finally, my work is done. And soon I will be free. No longer will this bell torment me, for I shall travel far away to a land its call cannot reach."
 142: 0x3B63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x3B64 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[34*, 0*]
@@ -5397,7 +5397,7 @@ SUBROUTINE_2FF3:
 146: 0x3B83 [0x1C] WAIT(60* ticks)
 147: 0x3B86 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 148: 0x3B97 [0x1C] WAIT(300* ticks)
-149: 0x3B9A [0x2B] Albanus (ID: 16900399/0x0101E12F) [7739*]:
+149: 0x3B9A [0x2B] Albanus (ID: 16900399/0x0101E12F) [7740*]:
     → "However, no matter where I run, I fear the memory of its spirit will haunt me..."
 150: 0x3BA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x3BA2 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 16900398/0x0101E12E), tag_num=0x02)
@@ -5407,7 +5407,7 @@ SUBROUTINE_2FF3:
 155: 0x3BB6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 156: 0x3BC7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
 157: 0x3BD6 [0x1C] WAIT(90* ticks)
-158: 0x3BD9 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7740*]:
+158: 0x3BD9 [0x2B] Albanus (ID: 16900399/0x0101E12F) [7741*]:
     → "...for all eternity..."
 159: 0x3BE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x3BE1 [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=34*

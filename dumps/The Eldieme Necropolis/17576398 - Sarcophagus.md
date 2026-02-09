@@ -26,7 +26,7 @@
 |       3 | 0x00D0      |         208 |
 |       4 | 0x0320      |         800 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1D1C      |        7452 |
+|       6 | 0x1D1D      |        7453 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x003C      |          60 |
 |       9 | 0x0040      |          64 |
@@ -34,7 +34,7 @@
 
 ## String References
 
-- **7452**: You play the requiem for the soul that sleeps in this sarcophagus.
+- **7453**: You play the requiem for the soul that sleeps in this sarcophagus.
 
 ## Events
 
@@ -125,7 +125,7 @@
  20: 0x00C1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "u000" with entities [LocalPlayer, LocalPlayer], work=208*
  21: 0x00D0 [0x6B] STOP_AND_IDLE: LocalPlayer stops current action and resets to idle (animation="idl0")
  22: 0x00D9 [0x1C] WAIT(30* ticks)
- 23: 0x00DC [0x48] [System] [7452*]:
+ 23: 0x00DC [0x48] [System] [7453*]:
     → "You play the requiem for the soul that sleeps in this sarcophagus."
  24: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00E0 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [EventEntity, EventEntity], work=[3*, 0*]

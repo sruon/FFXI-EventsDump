@@ -25,26 +25,26 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x000F      |          15 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x2F06      |       12038 |
-|       5 | 0x2EF9      |       12025 |
+|       4 | 0x2F07      |       12039 |
+|       5 | 0x2EFA      |       12026 |
 |       6 | 0x40000000  |  1073741824 |
-|       7 | 0x2EFE      |       12030 |
-|       8 | 0x2F00      |       12032 |
+|       7 | 0x2EFF      |       12031 |
+|       8 | 0x2F01      |       12033 |
 |       9 | 0x0010      |          16 |
 |      10 | 0x001F      |          31 |
 |      11 | 0x0009      |           9 |
 |      12 | 0x0008      |           8 |
 |      13 | 0x0002      |           2 |
 |      14 | 0xFFFFFFFF  |  4294967295 |
-|      15 | 0x2F07      |       12039 |
+|      15 | 0x2F08      |       12040 |
 |      16 | 0x0004      |           4 |
-|      17 | 0x2F08      |       12040 |
-|      18 | 0x2EFB      |       12027 |
+|      17 | 0x2F09      |       12041 |
+|      18 | 0x2EFC      |       12028 |
 |      19 | 0x000E      |          14 |
 |      20 | 0x0007      |           7 |
-|      21 | 0x2EFF      |       12031 |
+|      21 | 0x2F00      |       12032 |
 |      22 | 0x0006      |           6 |
-|      23 | 0x2F09      |       12041 |
+|      23 | 0x2F0A      |       12042 |
 |      24 | 0x000C      |          12 |
 |      25 | 0x0020      |          32 |
 |      26 | 0x025D      |         605 |
@@ -130,8 +130,8 @@
 |     106 | 0x4E20      |       20000 |
 |     107 | 0x9C40      |       40000 |
 |     108 | 0x086D      |        2157 |
-|     109 | 0x3047      |       12359 |
-|     110 | 0x3048      |       12360 |
+|     109 | 0x3048      |       12360 |
+|     110 | 0x3049      |       12361 |
 |     111 | 0x0013      |          19 |
 |     112 | 0x0014      |          20 |
 |     113 | 0x001E      |          30 |
@@ -141,17 +141,17 @@
 
 ## String References
 
-- **12025**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
-- **12027**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
-- **12030**: $1 can be purchased for $2 bayld.
-- **12031**: That $3 can be purchased for $2 bayld.
-- **12032**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
-- **12038**: What say you to looking over our selection of Pioneers' Coalition tools?
-- **12039**: Care to purrruse our selection of Pioneers' Coalition equipment?
-- **12040**: Need help making your Mog Garden the greatest around? Then I'm the one to ask!
-- **12041**: I don't know which is more astounding--the superb lessons in gathering techniques we offer to pioneers or the contributions you can make to the colonization movement after you've finished them!
-- **12359**: Excuse me, but I do not believe you have $6, do you?
-- **12360**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+- **12026**: Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]
+- **12028**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
+- **12031**: $1 can be purchased for $2 bayld.
+- **12032**: That $3 can be purchased for $2 bayld.
+- **12033**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
+- **12039**: What say you to looking over our selection of Pioneers' Coalition tools?
+- **12040**: Care to purrruse our selection of Pioneers' Coalition equipment?
+- **12041**: Need help making your Mog Garden the greatest around? Then I'm the one to ask!
+- **12042**: I don't know which is more astounding--the superb lessons in gathering techniques we offer to pioneers or the contributions you can make to the colonization movement after you've finished them!
+- **12360**: Excuse me, but I do not believe you have $6, do you?
+- **12361**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
 
 ## Events
 
@@ -448,7 +448,7 @@ SUBROUTINE_06B4:
  12: 0x06D5 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
  13: 0x06DA [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
  14: 0x06E3 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
- 15: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
+ 15: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12042*)
     → "I don't know which is more astounding--the superb lessons in gathering techniques we offer to pioneers or the contributions you can make to the colonization movement after you've finished them!"
  16: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x06F0 [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -458,7 +458,7 @@ SUBROUTINE_06F3:
  19: 0x06FB [0x1A] CALL_SUBROUTINE(address=0x07B4)
  20: 0x06FE [0x1A] CALL_SUBROUTINE(address=0x08A1)
  21: 0x0701 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
- 22: 0x0706 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+ 22: 0x0706 [0x24] CREATE_DIALOG(message_id=12028*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
  23: 0x070D [0x25] WAIT_DIALOG_SELECT()
  24: 0x070E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0721
@@ -485,11 +485,11 @@ SUBROUTINE_0721:
  43: 0x076F [0x14] Work_Zone[4] *= 3*
 
 SUBROUTINE_0774:
- 44: 0x0774 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 44: 0x0774 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "That $3 can be purchased for $2 bayld."
  45: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0778 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
- 47: 0x077D [0x24] CREATE_DIALOG(message_id=12032*, default_option=1*, option_flags=0*)
+ 47: 0x077D [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
  48: 0x0784 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0785 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A5
@@ -627,7 +627,7 @@ SUBROUTINE_08E7:
      0x0034 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
      0x0039 [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
      0x0042 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
-     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12038*)
+     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12039*)
     → "What say you to looking over our selection of Pioneers' Coalition tools?"
      0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x004F [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -637,7 +637,7 @@ SUBROUTINE_08E7:
      0x0060 [0x1A] CALL_SUBROUTINE(address=0x012A)
      0x0063 [0x1A] CALL_SUBROUTINE(address=0x0217)
      0x0066 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x006B [0x24] CREATE_DIALOG(message_id=12025*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+     0x006B [0x24] CREATE_DIALOG(message_id=12026*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x0072 [0x25] WAIT_DIALOG_SELECT()
      0x0073 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0086
@@ -661,12 +661,12 @@ SUBROUTINE_08E7:
      0x00D1 [0x01] GOTO 0x00D9
      0x00D4 [0x14] Work_Zone[4] *= 3*
      0x00D9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-     0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12030*)
+     0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
     → "$1 can be purchased for $2 bayld."
      0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00E0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x00E3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x00E8 [0x24] CREATE_DIALOG(message_id=12032*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+     0x00E8 [0x24] CREATE_DIALOG(message_id=12033*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x00EF [0x25] WAIT_DIALOG_SELECT()
      0x00F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0116
@@ -751,7 +751,7 @@ SUBROUTINE_08E7:
      0x026D [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
      0x0272 [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
      0x027B [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
-     0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=12039*)
+     0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=12040*)
     → "Care to purrruse our selection of Pioneers' Coalition equipment?"
      0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0288 [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -759,7 +759,7 @@ SUBROUTINE_08E7:
      0x0293 [0x1A] CALL_SUBROUTINE(address=0x0352)
      0x0296 [0x1A] CALL_SUBROUTINE(address=0x043F)
      0x0299 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x029E [0x24] CREATE_DIALOG(message_id=12025*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+     0x029E [0x24] CREATE_DIALOG(message_id=12026*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$1. ($17 bayld)/$2. ($18 bayld)/$3. ($19 bayld)/$4. ($20 bayld)/$5. ($21 bayld)/$6. ($22 bayld)/$7. ($23 bayld)/$8. ($24 bayld)/$9. ($25 bayld)/$10. ($26 bayld)/$11. ($27 bayld)/$12. ($28 bayld)/$13. ($29 bayld)/$14. ($30 bayld)/$15. ($31 bayld)/$16. ($ bayld)/Previous page./Next page.]"
      0x02A5 [0x25] WAIT_DIALOG_SELECT()
      0x02A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B9
@@ -783,12 +783,12 @@ SUBROUTINE_08E7:
      0x0304 [0x01] GOTO 0x030C
      0x0307 [0x14] Work_Zone[4] *= 3*
      0x030C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-     0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=12030*)
+     0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
     → "$1 can be purchased for $2 bayld."
      0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0313 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0316 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x031B [0x24] CREATE_DIALOG(message_id=12032*, default_option=1*, option_flags=0*)
+     0x031B [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x0322 [0x25] WAIT_DIALOG_SELECT()
      0x0323 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0343
@@ -871,14 +871,14 @@ SUBROUTINE_08E7:
      0x049A [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
      0x049F [0x41] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[6] (bits 0*-15*)
      0x04A8 [0x41] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[5] (bits 0*-3*)
-     0x04B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12040*)
+     0x04B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
     → "Need help making your Mog Garden the greatest around? Then I'm the one to ask!"
      0x04B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04B5 [0x06] ExtData[1]->WorkLocal[1] = 0
      0x04B8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x05B4
      0x04C0 [0x1A] CALL_SUBROUTINE(address=0x05B5)
      0x04C3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x04C8 [0x24] CREATE_DIALOG(message_id=12027*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+     0x04C8 [0x24] CREATE_DIALOG(message_id=12028*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
      0x04CF [0x25] WAIT_DIALOG_SELECT()
      0x04D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E3
@@ -912,11 +912,11 @@ SUBROUTINE_08E7:
      0x0564 [0x07] ExtData[1]->WorkLocal[13] += 8*
      0x0569 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit ExtData[1]->WorkLocal[13]) GOTO 0x0575
      0x0570 [0x14] Work_Zone[4] *= 3*
-     0x0575 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+     0x0575 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "That $3 can be purchased for $2 bayld."
      0x0578 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0579 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-     0x057E [0x24] CREATE_DIALOG(message_id=12032*, default_option=1*, option_flags=0*)
+     0x057E [0x24] CREATE_DIALOG(message_id=12033*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x0585 [0x25] WAIT_DIALOG_SELECT()
      0x0586 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05A6
@@ -1055,11 +1055,11 @@ SUBROUTINE_08E7:
      0x0B5C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x0B5D [0x1A] CALL_SUBROUTINE(address=0x0B76)
      0x0B60 [0x03] Work_Zone[2] = 2157*
-     0x0B65 [0x1D] PRINT_EVENT_MESSAGE(message_id=12359*)
+     0x0B65 [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
     → "Excuse me, but I do not believe you have $6, do you?"
      0x0B68 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B69 [0x03] Work_Zone[2] = 2157*
-     0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12360*)
+     0x0B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=12361*)
     → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
      0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B72 [0x1A] CALL_SUBROUTINE(address=0x0C47)

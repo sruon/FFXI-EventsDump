@@ -61,28 +61,28 @@
 |       9 | 0xFFFFFBBA  |  4294966202 |
 |      10 | 0xFFFFDCE4  |  4294958308 |
 |      11 | 0x064D      |        1613 |
-|      12 | 0x2ADF      |       10975 |
+|      12 | 0x2AE0      |       10976 |
 |      13 | 0x001D      |          29 |
-|      14 | 0x2AE0      |       10976 |
-|      15 | 0x2AE1      |       10977 |
-|      16 | 0x2AE2      |       10978 |
-|      17 | 0x2AE3      |       10979 |
-|      18 | 0x2AE4      |       10980 |
-|      19 | 0x2AE5      |       10981 |
-|      20 | 0x2AE6      |       10982 |
-|      21 | 0x2AE7      |       10983 |
-|      22 | 0x2AE8      |       10984 |
-|      23 | 0x2AE9      |       10985 |
-|      24 | 0x2AEA      |       10986 |
+|      14 | 0x2AE1      |       10977 |
+|      15 | 0x2AE2      |       10978 |
+|      16 | 0x2AE3      |       10979 |
+|      17 | 0x2AE4      |       10980 |
+|      18 | 0x2AE5      |       10981 |
+|      19 | 0x2AE6      |       10982 |
+|      20 | 0x2AE7      |       10983 |
+|      21 | 0x2AE8      |       10984 |
+|      22 | 0x2AE9      |       10985 |
+|      23 | 0x2AEA      |       10986 |
+|      24 | 0x2AEB      |       10987 |
 |      25 | 0x000D      |          13 |
 |      26 | 0x13BDD     |       80861 |
 |      27 | 0xFE27      |       65063 |
 |      28 | 0xFFFF7B40  |  4294933312 |
-|      29 | 0x2D97      |       11671 |
+|      29 | 0x2D98      |       11672 |
 |      30 | 0x0000      |           0 |
-|      31 | 0x2D98      |       11672 |
+|      31 | 0x2D99      |       11673 |
 |      32 | 0x0001      |           1 |
-|      33 | 0x2D99      |       11673 |
+|      33 | 0x2D9A      |       11674 |
 |      34 | 0x147C9     |       83913 |
 |      35 | 0xFEEA      |       65258 |
 |      36 | 0xFFFF7B47  |  4294933319 |
@@ -90,9 +90,9 @@
 |      38 | 0x14F6D     |       85869 |
 |      39 | 0x10451     |       66641 |
 |      40 | 0xFFFF7B3E  |  4294933310 |
-|      41 | 0x2DDE      |       11742 |
+|      41 | 0x2DDF      |       11743 |
 |      42 | 0x0002      |           2 |
-|      43 | 0x2DDF      |       11743 |
+|      43 | 0x2DE0      |       11744 |
 |      44 | 0xFFFFFB52  |  4294966098 |
 |      45 | 0x2F9D      |       12189 |
 |      46 | 0xFFFFA94B  |  4294945099 |
@@ -100,32 +100,32 @@
 |      48 | 0xFFFFFAFA  |  4294966010 |
 |      49 | 0x25C7      |        9671 |
 |      50 | 0xFFFFA999  |  4294945177 |
-|      51 | 0x2E13      |       11795 |
+|      51 | 0x2E14      |       11796 |
 |      52 | 0x0014      |          20 |
-|      53 | 0x2DF0      |       11760 |
+|      53 | 0x2DF1      |       11761 |
 |      54 | 0x003C      |          60 |
 
 ## String References
 
-- **10975**: You'd better have a look around the safehold while you can, because when our boss gets back, you might not be left with any legs to stand on.
-- **10976**: No, I'm not talking about Justinius. Sure, he's the captain of the Tavnazian Patrol, but all final calls are made by the boss.
-- **10977**: You'll see... Heh heh heh...
-- **10978**: Huh. Still standing, I see. I thought Prishe would have whipped you into a pile of crimson jelly by now.
-- **10979**: I don't know what the boss sees in you, but I'm not one to question her judgment.
-- **10980**: The safehold elder has been calling Prishe "the abhorrent one" since I was knee-high to a bugard's eye.
-- **10981**: I never actually knew what he was trying to say...
-- **10982**: Come to think of it, I don't even know what "abhorrent" means!
-- **10983**: You're going to save the boss, right!?
-- **10984**: I didn't think much of you before, and to tell you the truth, I don't think much of you now. But there is one thing I do know, and that is if anybody can help Prishe, it's you!
-- **10985**: I knew you could do it! I never doubted you for a minute! Hey, why don't you join the Tavnazian Patrol? I'd be honored to have a fine [man/woman] like you working under me.
-- **10986**: Hm? You're not done with your journey yet? You adventurers have it hard, don't you?
-- **11671**: Read the thief's letter? [Let me at it!/A thief? Too scary...]
-- **11672**: "I'm coming for your treasure at midnight tonight. -Miledo-Shiraddo, Thief Extraordinaire"
-- **11673**: We'll collect information too. I won't let an outsider like you take all the glory.
-- **11742**: Take a look at my reports? [Report 1./Report 2./Not interested.]
-- **11743**: Well then, good luck.
-- **11760**: It is quite a coincidence that both Wazozo and the suspicious boy were seen in the same places.
-- **11795**: To tell the truth, I'm a closet fan of Miledo-Shiraddo... I'd love to have adventures like that too...
+- **10976**: You'd better have a look around the safehold while you can, because when our boss gets back, you might not be left with any legs to stand on.
+- **10977**: No, I'm not talking about Justinius. Sure, he's the captain of the Tavnazian Patrol, but all final calls are made by the boss.
+- **10978**: You'll see... Heh heh heh...
+- **10979**: Huh. Still standing, I see. I thought Prishe would have whipped you into a pile of crimson jelly by now.
+- **10980**: I don't know what the boss sees in you, but I'm not one to question her judgment.
+- **10981**: The safehold elder has been calling Prishe "the abhorrent one" since I was knee-high to a bugard's eye.
+- **10982**: I never actually knew what he was trying to say...
+- **10983**: Come to think of it, I don't even know what "abhorrent" means!
+- **10984**: You're going to save the boss, right!?
+- **10985**: I didn't think much of you before, and to tell you the truth, I don't think much of you now. But there is one thing I do know, and that is if anybody can help Prishe, it's you!
+- **10986**: I knew you could do it! I never doubted you for a minute! Hey, why don't you join the Tavnazian Patrol? I'd be honored to have a fine [man/woman] like you working under me.
+- **10987**: Hm? You're not done with your journey yet? You adventurers have it hard, don't you?
+- **11672**: Read the thief's letter? [Let me at it!/A thief? Too scary...]
+- **11673**: "I'm coming for your treasure at midnight tonight. -Miledo-Shiraddo, Thief Extraordinaire"
+- **11674**: We'll collect information too. I won't let an outsider like you take all the glory.
+- **11743**: Take a look at my reports? [Report 1./Report 2./Not interested.]
+- **11744**: Well then, good luck.
+- **11761**: It is quite a coincidence that both Wazozo and the suspicious boy were seen in the same places.
+- **11796**: To tell the truth, I'm a closet fan of Miledo-Shiraddo... I'd love to have adventures like that too...
 
 ## Events
 
@@ -294,15 +294,15 @@
 
 ```
   0: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10975*)
+  1: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10976*)
     → "You'd better have a look around the safehold while you can, because when our boss gets back, you might not be left with any legs to stand on."
   2: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10976*)
+  4: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10977*)
     → "No, I'm not talking about Justinius. Sure, he's the captain of the Tavnazian Patrol, but all final calls are made by the boss."
   5: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0059 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=29*
-  7: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=10977*)
+  7: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=10978*)
     → "You'll see... Heh heh heh..."
   8: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x006C [0x21] END_EVENT
@@ -331,11 +331,11 @@
 
 ```
   0: 0x006E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=10978*)
+  1: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=10979*)
     → "Huh. Still standing, I see. I thought Prishe would have whipped you into a pile of crimson jelly by now."
   2: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0077 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=10979*)
+  4: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=10980*)
     → "I don't know what the boss sees in you, but I'm not one to question her judgment."
   5: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008A [0x21] END_EVENT
@@ -365,15 +365,15 @@
 
 ```
   0: 0x008C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=10980*)
+  1: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=10981*)
     → "The safehold elder has been calling Prishe "the abhorrent one" since I was knee-high to a bugard's eye."
   2: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0095 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10981*)
+  4: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10982*)
     → "I never actually knew what he was trying to say..."
   5: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [EventEntity, EventEntity], work=29*
-  7: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10982*)
+  7: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10983*)
     → "Come to think of it, I don't even know what "abhorrent" means!"
   8: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00BB [0x21] END_EVENT
@@ -402,11 +402,11 @@
 
 ```
   0: 0x00BD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10983*)
+  1: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10984*)
     → "You're going to save the boss, right!?"
   2: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10984*)
+  4: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10985*)
     → "I didn't think much of you before, and to tell you the truth, I don't think much of you now. But there is one thing I do know, and that is if anybody can help Prishe, it's you!"
   5: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D9 [0x21] END_EVENT
@@ -435,11 +435,11 @@
 
 ```
   0: 0x00DB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10985*)
+  1: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10986*)
     → "I knew you could do it! I never doubted you for a minute! Hey, why don't you join the Tavnazian Patrol? I'd be honored to have a fine [man/woman] like you working under me."
   2: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10986*)
+  4: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10987*)
     → "Hm? You're not done with your journey yet? You adventurers have it hard, don't you?"
   5: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F7 [0x21] END_EVENT
@@ -564,15 +564,15 @@
   0: 0x010C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0111 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0112 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0113 [0x24] CREATE_DIALOG(message_id=11671*, default_option=0*, option_flags=0*)
+  3: 0x0113 [0x24] CREATE_DIALOG(message_id=11672*, default_option=0*, option_flags=0*)
     → "Read the thief's letter? [Let me at it!/A thief? Too scary...]"
   4: 0x011A [0x25] WAIT_DIALOG_SELECT()
   5: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0129
-  6: 0x0123 [0x48] [System] [11672*]:
+  6: 0x0123 [0x48] [System] [11673*]:
     → ""I'm coming for your treasure at midnight tonight. -Miledo-Shiraddo, Thief Extraordinaire""
   7: 0x0126 [0x01] GOTO 0x0138
   8: 0x0129 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0138
-  9: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=11673*)
+  9: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=11674*)
     → "We'll collect information too. I won't let an outsider like you take all the glory."
  10: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0135 [0x01] GOTO 0x0138
@@ -752,7 +752,7 @@ SUBROUTINE_0138:
   0: 0x0158 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x015D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x015E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x015F [0x24] CREATE_DIALOG(message_id=11742*, default_option=0*, option_flags=0*)
+  3: 0x015F [0x24] CREATE_DIALOG(message_id=11743*, default_option=0*, option_flags=0*)
     → "Take a look at my reports? [Report 1./Report 2./Not interested.]"
   4: 0x0166 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0167 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A2
@@ -780,7 +780,7 @@ SUBROUTINE_019F:
 SUBROUTINE_01DA:
  24: 0x01DA [0x01] GOTO 0x01EC
  25: 0x01DD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01EC
- 26: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11743*)
+ 26: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11744*)
     → "Well then, good luck."
  27: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x01E9 [0x01] GOTO 0x01EC
@@ -929,7 +929,7 @@ SUBROUTINE_01EC:
   0: 0x020C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0211 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0212 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=11795*)
+  3: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=11796*)
     → "To tell the truth, I'm a closet fan of Miledo-Shiraddo... I'd love to have adventures like that too..."
   4: 0x0216 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0217 [0x21] END_EVENT
@@ -984,7 +984,7 @@ SUBROUTINE_01EC:
   1: 0x021F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0220 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0221 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=11760*)
+  4: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=11761*)
     → "It is quite a coincidence that both Wazozo and the suspicious boy were seen in the same places."
   5: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0234 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*

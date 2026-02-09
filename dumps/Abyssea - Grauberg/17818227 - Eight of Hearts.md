@@ -28,49 +28,49 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x00B6      |         182 |
-|       3 | 0x1F1B      |        7963 |
+|       3 | 0x1F1C      |        7964 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x00B5      |         181 |
-|       6 | 0x1F1C      |        7964 |
-|       7 | 0x1F1D      |        7965 |
+|       6 | 0x1F1D      |        7965 |
+|       7 | 0x1F1E      |        7966 |
 |       8 | 0x06AF      |        1711 |
-|       9 | 0x1F1E      |        7966 |
-|      10 | 0x1F1F      |        7967 |
-|      11 | 0x1F20      |        7968 |
-|      12 | 0x1F29      |        7977 |
-|      13 | 0x1F2A      |        7978 |
-|      14 | 0x1F2B      |        7979 |
-|      15 | 0x1F2C      |        7980 |
-|      16 | 0x1F2D      |        7981 |
+|       9 | 0x1F1F      |        7967 |
+|      10 | 0x1F20      |        7968 |
+|      11 | 0x1F21      |        7969 |
+|      12 | 0x1F2A      |        7978 |
+|      13 | 0x1F2B      |        7979 |
+|      14 | 0x1F2C      |        7980 |
+|      15 | 0x1F2D      |        7981 |
+|      16 | 0x1F2E      |        7982 |
 |      17 | 0x0028      |          40 |
-|      18 | 0x1F2E      |        7982 |
-|      19 | 0x1F2F      |        7983 |
-|      20 | 0x1F30      |        7984 |
-|      21 | 0x1F31      |        7985 |
-|      22 | 0x1F32      |        7986 |
-|      23 | 0x1F33      |        7987 |
-|      24 | 0x1F34      |        7988 |
+|      18 | 0x1F2F      |        7983 |
+|      19 | 0x1F30      |        7984 |
+|      20 | 0x1F31      |        7985 |
+|      21 | 0x1F32      |        7986 |
+|      22 | 0x1F33      |        7987 |
+|      23 | 0x1F34      |        7988 |
+|      24 | 0x1F35      |        7989 |
 |      25 | 0x00C9      |         201 |
-|      26 | 0x1F35      |        7989 |
-|      27 | 0x1F66      |        8038 |
+|      26 | 0x1F36      |        7990 |
+|      27 | 0x1F67      |        8039 |
 
 ## String References
 
-- **7963**: BeiNG$26In ThE ComPaNY oF$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs.
-- **7964**: But THeRe iS sOMeoNE$26wHo SomETimes Pa-TRoLs$26My HEad.
-- **7965**: A NameLEss pERsoN$26SmaLL iN stAtuRE aND$26clothed in YeLLoW.
-- **7966**: PoSSeSSing$6... thiS pERsoN's IdeNTity$26I caNNoT sEEm To deCiPHer.
-- **7967**: A NameLEss pERsoN$26SmaLL iN stAtuRE aND$26clothed in YeLLoW, poSSeSSing$6...
-- **7968**: thiS pERsoN's IdeNTity$26I caNNoT sEEm To deCiPHer.
-- **7977**: ...$26 tHAt $3$26iS famiLiAR to ME!
-- **7978**: WhO iS thE peRSoN$26to WHOm tHat be-LonGs?
-- **7979**: A cArDian LikE Me,$26yOU Say?
-- **7980**: A HighLY unEXpecTeD$26deVELopMeNT... The PersON wHo$26Pa-trOLs mY hEAd iS$26SupPoseD tO Be coMPoseD$26of FLesH anD bLooD.
-- **7981**: RegARdLeSS, I shouLD$26LikE to mEEt$26tHis indi-VIDual. pLeAse teLL Me$26WheRE I shOuld GO!
-- **7985**: bUT, MiS-TrEss,$26mY CuriOsiTy LeveLs eX-cEEd$26Ac-cePTable LimiTs!
-- **7987**: YeS, Mis-TreSS.$26OF coURse, yOU ArE riGHT.
-- **7989**: BeiNG$26In ThE ComPaNY oF$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs.
-- **8038**: mIs-TreSS KoRoRo ComPLetes Me.$26 BeiNG wiTh$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs.
+- **7964**: BeiNG$26In ThE ComPaNY oF$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs.
+- **7965**: But THeRe iS sOMeoNE$26wHo SomETimes Pa-TRoLs$26My HEad.
+- **7966**: A NameLEss pERsoN$26SmaLL iN stAtuRE aND$26clothed in YeLLoW.
+- **7967**: PoSSeSSing$6... thiS pERsoN's IdeNTity$26I caNNoT sEEm To deCiPHer.
+- **7968**: A NameLEss pERsoN$26SmaLL iN stAtuRE aND$26clothed in YeLLoW, poSSeSSing$6...
+- **7969**: thiS pERsoN's IdeNTity$26I caNNoT sEEm To deCiPHer.
+- **7978**: ...$26 tHAt $3$26iS famiLiAR to ME!
+- **7979**: WhO iS thE peRSoN$26to WHOm tHat be-LonGs?
+- **7980**: A cArDian LikE Me,$26yOU Say?
+- **7981**: A HighLY unEXpecTeD$26deVELopMeNT... The PersON wHo$26Pa-trOLs mY hEAd iS$26SupPoseD tO Be coMPoseD$26of FLesH anD bLooD.
+- **7982**: RegARdLeSS, I shouLD$26LikE to mEEt$26tHis indi-VIDual. pLeAse teLL Me$26WheRE I shOuld GO!
+- **7986**: bUT, MiS-TrEss,$26mY CuriOsiTy LeveLs eX-cEEd$26Ac-cePTable LimiTs!
+- **7988**: YeS, Mis-TreSS.$26OF coURse, yOU ArE riGHT.
+- **7990**: BeiNG$26In ThE ComPaNY oF$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs.
+- **8039**: mIs-TreSS KoRoRo ComPLetes Me.$26 BeiNG wiTh$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs.
 
 ## Events
 
@@ -125,20 +125,20 @@
   2: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x000C [0x1C] WAIT(30* ticks)
   4: 0x000F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kai0" with entities [EventEntity, EventEntity], work=182*
-  5: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+  5: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "BeiNG$26In ThE ComPaNY oF$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs."
   6: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0022 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x005C
   8: 0x002A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kai0" with entities [EventEntity, EventEntity]
   9: 0x0037 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
- 10: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+ 10: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "But THeRe iS sOMeoNE$26wHo SomETimes Pa-TRoLs$26My HEad."
  11: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+ 12: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "A NameLEss pERsoN$26SmaLL iN stAtuRE aND$26clothed in YeLLoW."
  13: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x004E [0x03] Work_Zone[2] = 1711*
- 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+ 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "PoSSeSSing$6... thiS pERsoN's IdeNTity$26I caNNoT sEEm To deCiPHer."
  16: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0057 [0x03] Work_Zone[1] = 1*
@@ -172,10 +172,10 @@
   1: 0x0063 [0x1C] WAIT(30* ticks)
   2: 0x0066 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
   3: 0x0075 [0x03] Work_Zone[2] = 1711*
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "A NameLEss pERsoN$26SmaLL iN stAtuRE aND$26clothed in YeLLoW, poSSeSSing$6..."
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  6: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "thiS pERsoN's IdeNTity$26I caNNoT sEEm To deCiPHer."
   7: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0082 [0x21] END_EVENT
@@ -229,63 +229,63 @@
   2: 0x008A [0x1C] WAIT(30* ticks)
   3: 0x008D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
   4: 0x009C [0x03] Work_Zone[2] = 1711*
-  5: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+  5: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "...$26 tHAt $3$26iS famiLiAR to ME!"
   6: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+  7: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "WhO iS thE peRSoN$26to WHOm tHat be-LonGs?"
   8: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
+  9: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
     → "A cArDian LikE Me,$26yOU Say?"
  10: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
+ 11: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "A HighLY unEXpecTeD$26deVELopMeNT... The PersON wHo$26Pa-trOLs mY hEAd iS$26SupPoseD tO Be coMPoseD$26of FLesH anD bLooD."
  12: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+ 13: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
     → "RegARdLeSS, I shouLD$26LikE to mEEt$26tHis indi-VIDual. pLeAse teLL Me$26WheRE I shOuld GO!"
  14: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=181*
  16: 0x00C4 [0x4A] Kororo (ID: 17818228/0x010FE274) looks at Eight of Hearts (ID: 17818227/0x010FE273)
  17: 0x00CD [0x1C] WAIT(30* ticks)
  18: 0x00D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
- 19: 0x00DF [0x2B] Kororo (ID: 17818228/0x010FE274) [7982*]:
+ 19: 0x00DF [0x2B] Kororo (ID: 17818228/0x010FE274) [7983*]:
     → "Eight of Hearts, get a hold of yourselfy!"
  20: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
  22: 0x00F6 [0x4A] Kororo (ID: 17818228/0x010FE274) looks at LocalPlayer
  23: 0x00FF [0x1C] WAIT(30* ticks)
  24: 0x0102 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
- 25: 0x0111 [0x2B] Kororo (ID: 17818228/0x010FE274) [7983*]:
+ 25: 0x0111 [0x2B] Kororo (ID: 17818228/0x010FE274) [7984*]:
     → "And you, whoever you are! What were you thinking, bringing that accursedy thing here?"
  26: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0119 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
  28: 0x0128 [0x4A] Kororo (ID: 17818228/0x010FE274) looks at Eight of Hearts (ID: 17818227/0x010FE273)
  29: 0x0131 [0x1C] WAIT(30* ticks)
  30: 0x0134 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
- 31: 0x0143 [0x2B] Kororo (ID: 17818228/0x010FE274) [7984*]:
+ 31: 0x0143 [0x2B] Kororo (ID: 17818228/0x010FE274) [7985*]:
     → "Eight of Hearts. You mustn't fraternize with this [man/woman] againy. This is for your own good, you understand?"
  32: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x014B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
  34: 0x015A [0x1E] EventEntity looks at Kororo (ID: 17818228/0x010FE274) and starts talking
  35: 0x015F [0x1C] WAIT(30* ticks)
  36: 0x0162 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
- 37: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+ 37: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "bUT, MiS-TrEss,$26mY CuriOsiTy LeveLs eX-cEEd$26Ac-cePTable LimiTs!"
  38: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0175 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=181*
  40: 0x0184 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
- 41: 0x0193 [0x2B] Kororo (ID: 17818228/0x010FE274) [7986*]:
+ 41: 0x0193 [0x2B] Kororo (ID: 17818228/0x010FE274) [7987*]:
     → "Listen to me. There're certainy things you're better off not knowing, and this is one of them!"
  42: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x019B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
  44: 0x01AA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
- 45: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+ 45: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "YeS, Mis-TreSS.$26OF coURse, yOU ArE riGHT."
  46: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01BD [0x4A] Kororo (ID: 17818228/0x010FE274) looks at LocalPlayer
  48: 0x01C6 [0x1C] WAIT(30* ticks)
  49: 0x01C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Kororo (ID: 17818228/0x010FE274), Kororo (ID: 17818228/0x010FE274)], work=40*
- 50: 0x01D8 [0x2B] Kororo (ID: 17818228/0x010FE274) [7988*]:
+ 50: 0x01D8 [0x2B] Kororo (ID: 17818228/0x010FE274) [7989*]:
     → "Look, stranger. I'll give you this, but you have to promise you won't bothery us anymore!"
  51: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x01E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -317,7 +317,7 @@
   0: 0x01F3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01F8 [0x1C] WAIT(30* ticks)
   2: 0x01FB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kai0" with entities [EventEntity, EventEntity], work=182*
-  3: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+  3: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "BeiNG$26In ThE ComPaNY oF$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs."
   4: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x020E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kai0" with entities [EventEntity, EventEntity]
@@ -372,7 +372,7 @@
   0: 0x021E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0223 [0x1C] WAIT(30* ticks)
   2: 0x0226 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kai0" with entities [EventEntity, EventEntity], work=182*
-  3: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+  3: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "mIs-TreSS KoRoRo ComPLetes Me.$26 BeiNG wiTh$26MiS-TreSS KOroRO makES me$26HAPpy BeYoND$26PEri-MeTERs."
   4: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0239 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kai0" with entities [EventEntity, EventEntity]

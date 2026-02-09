@@ -36,8 +36,8 @@
 |      13 | 0x0009      |           9 |
 |      14 | 0x000A      |          10 |
 |      15 | 0x000B      |          11 |
-|      16 | 0x1D91      |        7569 |
-|      17 | 0x1D92      |        7570 |
+|      16 | 0x1D92      |        7570 |
+|      17 | 0x1D93      |        7571 |
 |      18 | 0x004F      |          79 |
 |      19 | 0x00BE      |         190 |
 |      20 | 0x00C8      |         200 |
@@ -80,20 +80,20 @@
 |      57 | 0x001E      |          30 |
 |      58 | 0x0050      |          80 |
 |      59 | 0x00D2      |         210 |
-|      60 | 0x1D97      |        7575 |
-|      61 | 0x1D93      |        7571 |
-|      62 | 0x1D94      |        7572 |
-|      63 | 0x1D95      |        7573 |
+|      60 | 0x1D98      |        7576 |
+|      61 | 0x1D94      |        7572 |
+|      62 | 0x1D95      |        7573 |
+|      63 | 0x1D96      |        7574 |
 |      64 | 0x40000000  |  1073741824 |
 
 ## String References
 
-- **7569**: What will you do? (Cruor balance: $8) [Nothing./Activate Conflux #0$10 ($9)./Do not use./Warp to Conflux #01: $0./Warp to Conflux #02: $1./Warp to Conflux #03: $2./Warp to Conflux #04: $3./Warp to Conflux #05: $4./Warp to Conflux #06: $5./Warp to Conflux #07: $6./Warp to Conflux #08: $7./Warp to Conflux #00: $11.]
-- **7570**: Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: $0 cruor) [Yes./No.]
-- **7571**: Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? [Yes./No.]
-- **7572**: Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: $0 cruor) [Yes./No.]
-- **7573**: Activate Conflux #0[1/2/3/4/5/6/7/8/0]? [Yes./No.]
-- **7575**: You do not have enough cruor.
+- **7570**: What will you do? (Cruor balance: $8) [Nothing./Activate Conflux #0$10 ($9)./Do not use./Warp to Conflux #01: $0./Warp to Conflux #02: $1./Warp to Conflux #03: $2./Warp to Conflux #04: $3./Warp to Conflux #05: $4./Warp to Conflux #06: $5./Warp to Conflux #07: $6./Warp to Conflux #08: $7./Warp to Conflux #00: $11.]
+- **7571**: Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: $0 cruor) [Yes./No.]
+- **7572**: Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? [Yes./No.]
+- **7573**: Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: $0 cruor) [Yes./No.]
+- **7574**: Activate Conflux #0[1/2/3/4/5/6/7/8/0]? [Yes./No.]
+- **7576**: You do not have enough cruor.
 
 ## Events
 
@@ -360,7 +360,7 @@ SUBROUTINE_023C:
 SUBROUTINE_024C:
  95: 0x024C [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[13]
  96: 0x0251 [0x03] Work_Zone_1700[3] = 0*
- 97: 0x0256 [0x24] CREATE_DIALOG(message_id=7569*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+ 97: 0x0256 [0x24] CREATE_DIALOG(message_id=7570*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "What will you do? (Cruor balance: $8) [Nothing./Activate Conflux #0$10 ($9)./Do not use./Warp to Conflux #01: $0./Warp to Conflux #02: $1./Warp to Conflux #03: $2./Warp to Conflux #04: $3./Warp to Conflux #05: $4./Warp to Conflux #06: $5./Warp to Conflux #07: $6./Warp to Conflux #08: $7./Warp to Conflux #00: $11.]"
  98: 0x025D [0x25] WAIT_DIALOG_SELECT()
  99: 0x025E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x026C
@@ -415,7 +415,7 @@ SUBROUTINE_0347:
 146: 0x0357 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x0527
 147: 0x035F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 148: 0x0364 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-149: 0x0369 [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
+149: 0x0369 [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
     → "Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: $0 cruor) [Yes./No.]"
 150: 0x0370 [0x25] WAIT_DIALOG_SELECT()
 151: 0x0371 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0519
@@ -483,13 +483,13 @@ SUBROUTINE_04C5:
 211: 0x0501 [0x46] CAMERA_CONTROL: Restore default settings
 212: 0x0503 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[14]
 213: 0x0508 [0x01] GOTO 0x050F
-214: 0x050B [0x48] [System] [7575*]:
+214: 0x050B [0x48] [System] [7576*]:
     → "You do not have enough cruor."
 215: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_050F:
 216: 0x050F [0x01] GOTO 0x0516
-217: 0x0512 [0x48] [System] [7575*]:
+217: 0x0512 [0x48] [System] [7576*]:
     → "You do not have enough cruor."
 218: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -501,7 +501,7 @@ SUBROUTINE_0516:
 SUBROUTINE_0524:
 222: 0x0524 [0x01] GOTO 0x06C9
 223: 0x0527 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-224: 0x052C [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
+224: 0x052C [0x24] CREATE_DIALOG(message_id=7572*, default_option=1*, option_flags=0*)
     → "Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? [Yes./No.]"
 225: 0x0533 [0x25] WAIT_DIALOG_SELECT()
 226: 0x0534 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06BE
@@ -576,7 +576,7 @@ SUBROUTINE_06C9:
 291: 0x06D4 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x071E
 292: 0x06DC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 293: 0x06E1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
-294: 0x06E6 [0x24] CREATE_DIALOG(message_id=7572*, default_option=1*, option_flags=0*)
+294: 0x06E6 [0x24] CREATE_DIALOG(message_id=7573*, default_option=1*, option_flags=0*)
     → "Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: $0 cruor) [Yes./No.]"
 295: 0x06ED [0x25] WAIT_DIALOG_SELECT()
 296: 0x06EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0710
@@ -584,7 +584,7 @@ SUBROUTINE_06C9:
 298: 0x06FE [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[14]
 299: 0x0703 [0x06] ExtData[1]->WorkLocal[15] = 0
 300: 0x0706 [0x01] GOTO 0x070D
-301: 0x0709 [0x48] [System] [7575*]:
+301: 0x0709 [0x48] [System] [7576*]:
     → "You do not have enough cruor."
 302: 0x070C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -596,7 +596,7 @@ SUBROUTINE_070D:
 SUBROUTINE_071B:
 306: 0x071B [0x01] GOTO 0x0749
 307: 0x071E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[11]
-308: 0x0723 [0x24] CREATE_DIALOG(message_id=7573*, default_option=1*, option_flags=0*)
+308: 0x0723 [0x24] CREATE_DIALOG(message_id=7574*, default_option=1*, option_flags=0*)
     → "Activate Conflux #0[1/2/3/4/5/6/7/8/0]? [Yes./No.]"
 309: 0x072A [0x25] WAIT_DIALOG_SELECT()
 310: 0x072B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x073E

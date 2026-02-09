@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2ABD      |       10941 |
-|       2 | 0x2ABE      |       10942 |
+|       1 | 0x2ABE      |       10942 |
+|       2 | 0x2ABF      |       10943 |
 
 ## Events
 
@@ -70,10 +70,10 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10941*]:
+  2: 0x000D [0x2B] EventEntity [10942*]:
     → "When night comes, you can see a biiig star in the sky over there. Have you seen it yet?"
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10942*]:
+  4: 0x0015 [0x2B] EventEntity [10943*]:
     → "Everyone is saying that it's some sort of omen that something bad is on its way. But I can't imagine that things could get any worse than they already are."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

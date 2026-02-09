@@ -23,52 +23,52 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x23E2      |        9186 |
-|       2 | 0x23E3      |        9187 |
+|       1 | 0x23E3      |        9187 |
+|       2 | 0x23E4      |        9188 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x23E7      |        9191 |
-|       5 | 0x23E8      |        9192 |
+|       4 | 0x23E8      |        9192 |
+|       5 | 0x23E9      |        9193 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x23EC      |        9196 |
-|       8 | 0x23ED      |        9197 |
+|       7 | 0x23ED      |        9197 |
+|       8 | 0x23EE      |        9198 |
 |       9 | 0x0003      |           3 |
-|      10 | 0x23F1      |        9201 |
-|      11 | 0x23F2      |        9202 |
-|      12 | 0x23E5      |        9189 |
-|      13 | 0x23EA      |        9194 |
-|      14 | 0x23EF      |        9199 |
-|      15 | 0x23F4      |        9204 |
-|      16 | 0x23E4      |        9188 |
-|      17 | 0x23E9      |        9193 |
-|      18 | 0x23EE      |        9198 |
-|      19 | 0x23F3      |        9203 |
-|      20 | 0x23E6      |        9190 |
-|      21 | 0x23EB      |        9195 |
-|      22 | 0x23F0      |        9200 |
-|      23 | 0x23F5      |        9205 |
+|      10 | 0x23F2      |        9202 |
+|      11 | 0x23F3      |        9203 |
+|      12 | 0x23E6      |        9190 |
+|      13 | 0x23EB      |        9195 |
+|      14 | 0x23F0      |        9200 |
+|      15 | 0x23F5      |        9205 |
+|      16 | 0x23E5      |        9189 |
+|      17 | 0x23EA      |        9194 |
+|      18 | 0x23EF      |        9199 |
+|      19 | 0x23F4      |        9204 |
+|      20 | 0x23E7      |        9191 |
+|      21 | 0x23EC      |        9196 |
+|      22 | 0x23F1      |        9201 |
+|      23 | 0x23F6      |        9206 |
 
 ## String References
 
-- **9186**: Hiya! I've been waiting for you, sugar! Going to find a real sweetheart for me, are you? Yay!
-- **9187**: Listen closely, now! I liiike...[cheerful/cool-headed/honest/shy] [Hume/Elvaan/Tarutaru/Galkan] boys! Teeheehee! Here's a chocolate! Doesn't it look yummy? Good luck!
-- **9188**: What's wrong, pumpernickel? Not having trouble, are we? I really want a man, so please hurry up!
-- **9189**: Hm? Want something? You should go talk to a moogle!
-- **9190**: Oh, I've been waiting! I wonder what it tastes like! I'll let you know what I think later. Thank you so much!
-- **9191**: Why, hello! This looks like quite an exciting event, doesn't it? I hope I can also meet a nice guy.
-- **9192**: [Cheerful/Cool-headed/Honest/Shy] [Hume/Elvaan/Tarutaru/Galkan] guys are just my type. Here's a chocolate. You have my support! I wish you the best of luck!
-- **9193**: Hello! You seem to be working very hard. I'm really thankful! But you needn't rush around so fast. Take your time! I can wait if it makes the job easier for you!
-- **9194**: Yes? You have a question? Oh, I'm sorry. I think you've got the wrong person, but don't worry about it!
-- **9195**: Wow, you brought back a finished chocolate! Thank you so much! I wonder what it tastes like. Teeheehee, I can't wait to try it. I hope you meet someone special, too!
-- **9196**: Aaah! Oh...hi! Um, today is...and I...well, that is... <sigh> I can't bring myself to say it!
-- **9197**: Well, here goes nothing. I want [a cheerful/a cool-headed/an honest/a shy] [Hume/Elvaan/Tarutaru/Galkan] boyfriend! A-and here's a chocolate... Th-thank you! (I can't believe I just said that!)
-- **9198**: Eep! Oh, y-you haven't brought a chocolate back yet? You really scared me, you know! Anyway, good luck!
-- **9199**: Y-yes? What is it? I...um, I don't need anything...
-- **9200**: What? Th-this...could it be? You got me a chocolate! I can't eat it here, though...that would be sooo embarrassing. But I will eat it later, so thank you!
-- **9201**: Hello... I may not look like much, but I do hope to meet a nice guy...
-- **9202**: I really like [cheerful/cool-headed/honest/shy] [Hume/Elvaan/Tarutaru/Galkan] men. Please take this chocolate. It may not be the best in the world, but I hope you can use it to find someone.
-- **9203**: You're not finished with the chocolate yet, are you? I knew it would be hard to find someone for a girl like me...
-- **9204**: What's the matter? I don't think there's anything I need...
-- **9205**: I see you got a chocolate for me. I can't tell how good it will be until I taste it, but maybe there's hope for me after all. Thanks so much for helping me.
+- **9187**: Hiya! I've been waiting for you, sugar! Going to find a real sweetheart for me, are you? Yay!
+- **9188**: Listen closely, now! I liiike...[cheerful/cool-headed/honest/shy] [Hume/Elvaan/Tarutaru/Galkan] boys! Teeheehee! Here's a chocolate! Doesn't it look yummy? Good luck!
+- **9189**: What's wrong, pumpernickel? Not having trouble, are we? I really want a man, so please hurry up!
+- **9190**: Hm? Want something? You should go talk to a moogle!
+- **9191**: Oh, I've been waiting! I wonder what it tastes like! I'll let you know what I think later. Thank you so much!
+- **9192**: Why, hello! This looks like quite an exciting event, doesn't it? I hope I can also meet a nice guy.
+- **9193**: [Cheerful/Cool-headed/Honest/Shy] [Hume/Elvaan/Tarutaru/Galkan] guys are just my type. Here's a chocolate. You have my support! I wish you the best of luck!
+- **9194**: Hello! You seem to be working very hard. I'm really thankful! But you needn't rush around so fast. Take your time! I can wait if it makes the job easier for you!
+- **9195**: Yes? You have a question? Oh, I'm sorry. I think you've got the wrong person, but don't worry about it!
+- **9196**: Wow, you brought back a finished chocolate! Thank you so much! I wonder what it tastes like. Teeheehee, I can't wait to try it. I hope you meet someone special, too!
+- **9197**: Aaah! Oh...hi! Um, today is...and I...well, that is... <sigh> I can't bring myself to say it!
+- **9198**: Well, here goes nothing. I want [a cheerful/a cool-headed/an honest/a shy] [Hume/Elvaan/Tarutaru/Galkan] boyfriend! A-and here's a chocolate... Th-thank you! (I can't believe I just said that!)
+- **9199**: Eep! Oh, y-you haven't brought a chocolate back yet? You really scared me, you know! Anyway, good luck!
+- **9200**: Y-yes? What is it? I...um, I don't need anything...
+- **9201**: What? Th-this...could it be? You got me a chocolate! I can't eat it here, though...that would be sooo embarrassing. But I will eat it later, so thank you!
+- **9202**: Hello... I may not look like much, but I do hope to meet a nice guy...
+- **9203**: I really like [cheerful/cool-headed/honest/shy] [Hume/Elvaan/Tarutaru/Galkan] men. Please take this chocolate. It may not be the best in the world, but I hope you can use it to find someone.
+- **9204**: You're not finished with the chocolate yet, are you? I knew it would be hard to find someone for a girl like me...
+- **9205**: What's the matter? I don't think there's anything I need...
+- **9206**: I see you got a chocolate for me. I can't tell how good it will be until I taste it, but maybe there's hope for me after all. Thanks so much for helping me.
 
 ## Events
 
@@ -120,34 +120,34 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0019
-  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9186*)
+  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9187*)
     → "Hiya! I've been waiting for you, sugar! Going to find a real sweetheart for me, are you? Yay!"
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9187*)
+  4: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=9188*)
     → "Listen closely, now! I liiike...[cheerful/cool-headed/honest/shy] [Hume/Elvaan/Tarutaru/Galkan] boys! Teeheehee! Here's a chocolate! Doesn't it look yummy? Good luck!"
   5: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0016 [0x01] GOTO 0x0052
   7: 0x0019 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x002C
-  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=9191*)
+  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=9192*)
     → "Why, hello! This looks like quite an exciting event, doesn't it? I hope I can also meet a nice guy."
   9: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=9192*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
     → "[Cheerful/Cool-headed/Honest/Shy] [Hume/Elvaan/Tarutaru/Galkan] guys are just my type. Here's a chocolate. You have my support! I wish you the best of luck!"
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0029 [0x01] GOTO 0x0052
  13: 0x002C [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x003F
- 14: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
+ 14: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
     → "Aaah! Oh...hi! Um, today is...and I...well, that is... <sigh> I can't bring myself to say it!"
  15: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=9197*)
+ 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
     → "Well, here goes nothing. I want [a cheerful/a cool-headed/an honest/a shy] [Hume/Elvaan/Tarutaru/Galkan] boyfriend! A-and here's a chocolate... Th-thank you! (I can't believe I just said that!)"
  17: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x003C [0x01] GOTO 0x0052
  19: 0x003F [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0052
- 20: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+ 20: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "Hello... I may not look like much, but I do hope to meet a nice guy..."
  21: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
+ 22: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
     → "I really like [cheerful/cool-headed/honest/shy] [Hume/Elvaan/Tarutaru/Galkan] men. Please take this chocolate. It may not be the best in the world, but I hope you can use it to find someone."
  23: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x004F [0x01] GOTO 0x0052
@@ -187,22 +187,22 @@ SUBROUTINE_0052:
   0: 0x0054 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0059 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00A0
   2: 0x0061 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0070
-  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=9189*)
+  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=9190*)
     → "Hm? Want something? You should go talk to a moogle!"
   4: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006D [0x01] GOTO 0x009D
   6: 0x0070 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x007F
-  7: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
+  7: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
     → "Yes? You have a question? Oh, I'm sorry. I think you've got the wrong person, but don't worry about it!"
   8: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x007C [0x01] GOTO 0x009D
  10: 0x007F [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x008E
- 11: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
+ 11: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
     → "Y-yes? What is it? I...um, I don't need anything..."
  12: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x008B [0x01] GOTO 0x009D
  14: 0x008E [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x009D
- 15: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
+ 15: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
     → "What's the matter? I don't think there's anything I need..."
  16: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x009A [0x01] GOTO 0x009D
@@ -210,22 +210,22 @@ SUBROUTINE_0052:
 SUBROUTINE_009D:
  18: 0x009D [0x01] GOTO 0x00DC
  19: 0x00A0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00AF
- 20: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9188*)
+ 20: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9189*)
     → "What's wrong, pumpernickel? Not having trouble, are we? I really want a man, so please hurry up!"
  21: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00AC [0x01] GOTO 0x00DC
  23: 0x00AF [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00BE
- 24: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9193*)
+ 24: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9194*)
     → "Hello! You seem to be working very hard. I'm really thankful! But you needn't rush around so fast. Take your time! I can wait if it makes the job easier for you!"
  25: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00BB [0x01] GOTO 0x00DC
  27: 0x00BE [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x00CD
- 28: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9198*)
+ 28: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9199*)
     → "Eep! Oh, y-you haven't brought a chocolate back yet? You really scared me, you know! Anyway, good luck!"
  29: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00CA [0x01] GOTO 0x00DC
  31: 0x00CD [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x00DC
- 32: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+ 32: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "You're not finished with the chocolate yet, are you? I knew it would be hard to find someone for a girl like me..."
  33: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00D9 [0x01] GOTO 0x00DC
@@ -261,22 +261,22 @@ SUBROUTINE_00DC:
 ```
   0: 0x00DE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00E3 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x00F2
-  2: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9190*)
+  2: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=9191*)
     → "Oh, I've been waiting! I wonder what it tastes like! I'll let you know what I think later. Thank you so much!"
   3: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00EF [0x01] GOTO 0x011F
   5: 0x00F2 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0101
-  6: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9195*)
+  6: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=9196*)
     → "Wow, you brought back a finished chocolate! Thank you so much! I wonder what it tastes like. Teeheehee, I can't wait to try it. I hope you meet someone special, too!"
   7: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00FE [0x01] GOTO 0x011F
   9: 0x0101 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0110
- 10: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+ 10: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "What? Th-this...could it be? You got me a chocolate! I can't eat it here, though...that would be sooo embarrassing. But I will eat it later, so thank you!"
  11: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x010D [0x01] GOTO 0x011F
  13: 0x0110 [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x011F
- 14: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
+ 14: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=9206*)
     → "I see you got a chocolate for me. I can't tell how good it will be until I taste it, but maybe there's hope for me after all. Thanks so much for helping me."
  15: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x011C [0x01] GOTO 0x011F

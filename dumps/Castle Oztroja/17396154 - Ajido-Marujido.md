@@ -60,22 +60,22 @@
 |       3 | 0x55F5      |       22005 |
 |       4 | 0xFFFFA2F8  |  4294943480 |
 |       5 | 0x5D91      |       23953 |
-|       6 | 0x1CF7      |        7415 |
-|       7 | 0x1CF8      |        7416 |
-|       8 | 0x1CF9      |        7417 |
-|       9 | 0x1CFA      |        7418 |
-|      10 | 0x1CFB      |        7419 |
-|      11 | 0x1CFD      |        7421 |
-|      12 | 0x1CFE      |        7422 |
-|      13 | 0x1CFF      |        7423 |
-|      14 | 0x1D00      |        7424 |
-|      15 | 0x1D01      |        7425 |
-|      16 | 0x1D03      |        7427 |
-|      17 | 0x1D04      |        7428 |
-|      18 | 0x1D05      |        7429 |
-|      19 | 0x1D06      |        7430 |
-|      20 | 0x1D07      |        7431 |
-|      21 | 0x1D08      |        7432 |
+|       6 | 0x1CF8      |        7416 |
+|       7 | 0x1CF9      |        7417 |
+|       8 | 0x1CFA      |        7418 |
+|       9 | 0x1CFB      |        7419 |
+|      10 | 0x1CFC      |        7420 |
+|      11 | 0x1CFE      |        7422 |
+|      12 | 0x1CFF      |        7423 |
+|      13 | 0x1D00      |        7424 |
+|      14 | 0x1D01      |        7425 |
+|      15 | 0x1D02      |        7426 |
+|      16 | 0x1D04      |        7428 |
+|      17 | 0x1D05      |        7429 |
+|      18 | 0x1D06      |        7430 |
+|      19 | 0x1D07      |        7431 |
+|      20 | 0x1D08      |        7432 |
+|      21 | 0x1D09      |        7433 |
 |      22 | 0xFFFE2255  |  4294845013 |
 |      23 | 0x18B02     |      101122 |
 |      24 | 0xFFFEEBA4  |  4294896548 |
@@ -98,31 +98,31 @@
 |      41 | 0x1724E     |       94798 |
 |      42 | 0xFFFE7A18  |  4294867480 |
 |      43 | 0x17FBC     |       98236 |
-|      44 | 0x1C55      |        7253 |
-|      45 | 0x1C60      |        7264 |
-|      46 | 0x1C61      |        7265 |
+|      44 | 0x1C56      |        7254 |
+|      45 | 0x1C61      |        7265 |
+|      46 | 0x1C62      |        7266 |
 
 ## String References
 
-- **7253**: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
-- **7264**: The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
-- **7265**: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
-- **7415**: Oh!
-- **7416**: Why, hello again. What are you doing here?
-- **7417**: Oww...
-- **7418**: I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into.
-- **7419**: Say, you didn't follow me here out of worry, did you?
-- **7421**: Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?
-- **7422**: I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?
-- **7423**: She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is.
-- **7424**: You've heard the legends of the Star Sibyl, right?
-- **7425**: In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land.
-- **7427**: She also left a historical text for future Sibyls. They found it recently... The Book of the Gods.
-- **7428**: And still the Star Sibyl is silentaru.
-- **7429**: That's why I came here... To find another witness of time. I wanted to seek out the Yagudo.
-- **7430**: They sure gave me a hearty reception, but the Yagudo king told me something...
-- **7431**: Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely.
-- **7432**: Well, I'll see you around. Back to Windurst for me.
+- **7254**: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
+- **7265**: The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
+- **7266**: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
+- **7416**: Oh!
+- **7417**: Why, hello again. What are you doing here?
+- **7418**: Oww...
+- **7419**: I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into.
+- **7420**: Say, you didn't follow me here out of worry, did you?
+- **7422**: Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?
+- **7423**: I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?
+- **7424**: She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is.
+- **7425**: You've heard the legends of the Star Sibyl, right?
+- **7426**: In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land.
+- **7428**: She also left a historical text for future Sibyls. They found it recently... The Book of the Gods.
+- **7429**: And still the Star Sibyl is silentaru.
+- **7430**: That's why I came here... To find another witness of time. I wanted to seek out the Yagudo.
+- **7431**: They sure gave me a hearty reception, but the Yagudo king told me something...
+- **7432**: Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely.
+- **7433**: Well, I'll see you around. Back to Windurst for me.
 
 ## Events
 
@@ -436,7 +436,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+  0: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Oh!"
   1: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00AD [0x00] END_REQSTACK()
@@ -462,7 +462,7 @@
 #### Opcodes
 
 ```
-  0: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+  0: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "Why, hello again. What are you doing here?"
   1: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B2 [0x00] END_REQSTACK()
@@ -487,7 +487,7 @@
 #### Opcodes
 
 ```
-  0: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
+  0: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
     → "Oww..."
   1: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B7 [0x00] END_REQSTACK()
@@ -512,7 +512,7 @@
 #### Opcodes
 
 ```
-  0: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+  0: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into."
   1: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00BC [0x00] END_REQSTACK()
@@ -538,7 +538,7 @@
 #### Opcodes
 
 ```
-  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "Say, you didn't follow me here out of worry, did you?"
   1: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C1 [0x00] END_REQSTACK()
@@ -563,7 +563,7 @@
 #### Opcodes
 
 ```
-  0: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+  0: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?"
   1: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C6 [0x00] END_REQSTACK()
@@ -588,7 +588,7 @@
 #### Opcodes
 
 ```
-  0: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+  0: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?"
   1: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00CB [0x00] END_REQSTACK()
@@ -614,7 +614,7 @@
 #### Opcodes
 
 ```
-  0: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+  0: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is."
   1: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00D0 [0x00] END_REQSTACK()
@@ -639,7 +639,7 @@
 #### Opcodes
 
 ```
-  0: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+  0: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "You've heard the legends of the Star Sibyl, right?"
   1: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00D5 [0x00] END_REQSTACK()
@@ -664,7 +664,7 @@
 #### Opcodes
 
 ```
-  0: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+  0: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land."
   1: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00DA [0x00] END_REQSTACK()
@@ -689,7 +689,7 @@
 #### Opcodes
 
 ```
-  0: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+  0: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "She also left a historical text for future Sibyls. They found it recently... The Book of the Gods."
   1: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00DF [0x00] END_REQSTACK()
@@ -714,7 +714,7 @@
 #### Opcodes
 
 ```
-  0: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+  0: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "And still the Star Sibyl is silentaru."
   1: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E4 [0x00] END_REQSTACK()
@@ -739,7 +739,7 @@
 #### Opcodes
 
 ```
-  0: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+  0: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "That's why I came here... To find another witness of time. I wanted to seek out the Yagudo."
   1: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E9 [0x00] END_REQSTACK()
@@ -764,7 +764,7 @@
 #### Opcodes
 
 ```
-  0: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+  0: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
     → "They sure gave me a hearty reception, but the Yagudo king told me something..."
   1: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00EE [0x00] END_REQSTACK()
@@ -790,7 +790,7 @@
 #### Opcodes
 
 ```
-  0: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
+  0: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely."
   1: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F3 [0x00] END_REQSTACK()
@@ -815,7 +815,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+  0: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "Well, I'll see you around. Back to Windurst for me."
   1: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F8 [0x00] END_REQSTACK()
@@ -973,7 +973,7 @@
 #### Opcodes
 
 ```
-  0: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+  0: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!"
   1: 0x0158 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0159 [0x00] END_REQSTACK()
@@ -998,7 +998,7 @@
 #### Opcodes
 
 ```
-  0: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7264*)
+  0: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
     → "The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?"
   1: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x015E [0x00] END_REQSTACK()
@@ -1024,7 +1024,7 @@
 #### Opcodes
 
 ```
-  0: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+  0: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?"
   1: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0163 [0x00] END_REQSTACK()

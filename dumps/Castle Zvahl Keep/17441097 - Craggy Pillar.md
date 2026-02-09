@@ -26,12 +26,12 @@
 |       3 | 0x0003      |           3 |
 |       4 | 0x0484      |        1156 |
 |       5 | 0x0487      |        1159 |
-|       6 | 0x1C6C      |        7276 |
-|       7 | 0x1C6D      |        7277 |
-|       8 | 0x1C6E      |        7278 |
-|       9 | 0x1C6F      |        7279 |
-|      10 | 0x1C70      |        7280 |
-|      11 | 0x1C6B      |        7275 |
+|       6 | 0x1C6D      |        7277 |
+|       7 | 0x1C6E      |        7278 |
+|       8 | 0x1C6F      |        7279 |
+|       9 | 0x1C70      |        7280 |
+|      10 | 0x1C71      |        7281 |
+|      11 | 0x1C6C      |        7276 |
 |      12 | 0x0004      |           4 |
 
 ## Events
@@ -151,70 +151,70 @@ SUBROUTINE_006A:
  21: 0x0072 [0x03] Work_Zone[2] = 1156*
  22: 0x0077 [0x03] Work_Zone[3] = 1159*
  23: 0x007C [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x00AF
- 24: 0x0084 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7276*]:
+ 24: 0x0084 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7277*]:
     → "Slacking on the job!? Me, kupo!? Why, I never--! No, I was just...ah...patrolling this area for stray beastmen! Yeah, that's the ticket!"
  25: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x008C [0x2B] Kupatete (ID: 17441100/0x010A214C) [7277*]:
+ 26: 0x008C [0x2B] Kupatete (ID: 17441100/0x010A214C) [7278*]:
     → "Can't have those fiends assaulting our honored festival-goers, now, can we? Well, <ahem>...everything seems to be in order here, so let's return! And for your troubles, why don't I exchange that $3 you've got there for this shiny new $3?"
  27: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0094 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7278*]:
+ 28: 0x0094 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7279*]:
     → "Just don't tell the boss I was sleeping on the job. Deal, kupo? In return, that $3 will allow you to take part in this festival's grand finale..."
  29: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x009C [0x2B] Kupatete (ID: 17441100/0x010A214C) [7279*]:
+ 30: 0x009C [0x2B] Kupatete (ID: 17441100/0x010A214C) [7280*]:
     → "The Mega Mog Bonanza-Rama-Palooza! Doesn't that name positively scream "excitement"!?"
  31: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x00A4 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7280*]:
+ 32: 0x00A4 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7281*]:
     → "What's even more exciting are the exclusive prizes you could win, kupo. If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
  33: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00AC [0x01] GOTO 0x0148
  35: 0x00AF [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x00E2
- 36: 0x00B7 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7276*]:
+ 36: 0x00B7 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7277*]:
     → "Slacking on the job!? Me, kupo!? Why, I never--! No, I was just...ah...patrolling this area for stray beastmen! Yeah, that's the ticket!"
  37: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00BF [0x2B] Kupignol (ID: 17441101/0x010A214D) [7277*]:
+ 38: 0x00BF [0x2B] Kupignol (ID: 17441101/0x010A214D) [7278*]:
     → "Can't have those fiends assaulting our honored festival-goers, now, can we? Well, <ahem>...everything seems to be in order here, so let's return! And for your troubles, why don't I exchange that $3 you've got there for this shiny new $3?"
  39: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00C7 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7278*]:
+ 40: 0x00C7 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7279*]:
     → "Just don't tell the boss I was sleeping on the job. Deal, kupo? In return, that $3 will allow you to take part in this festival's grand finale..."
  41: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00CF [0x2B] Kupignol (ID: 17441101/0x010A214D) [7279*]:
+ 42: 0x00CF [0x2B] Kupignol (ID: 17441101/0x010A214D) [7280*]:
     → "The Mega Mog Bonanza-Rama-Palooza! Doesn't that name positively scream "excitement"!?"
  43: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00D7 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7280*]:
+ 44: 0x00D7 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7281*]:
     → "What's even more exciting are the exclusive prizes you could win, kupo. If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
  45: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00DF [0x01] GOTO 0x0148
  47: 0x00E2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0115
- 48: 0x00EA [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7276*]:
+ 48: 0x00EA [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7277*]:
     → "Slacking on the job!? Me, kupo!? Why, I never--! No, I was just...ah...patrolling this area for stray beastmen! Yeah, that's the ticket!"
  49: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x00F2 [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7277*]:
+ 50: 0x00F2 [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7278*]:
     → "Can't have those fiends assaulting our honored festival-goers, now, can we? Well, <ahem>...everything seems to be in order here, so let's return! And for your troubles, why don't I exchange that $3 you've got there for this shiny new $3?"
  51: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00FA [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7278*]:
+ 52: 0x00FA [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7279*]:
     → "Just don't tell the boss I was sleeping on the job. Deal, kupo? In return, that $3 will allow you to take part in this festival's grand finale..."
  53: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0102 [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7279*]:
+ 54: 0x0102 [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7280*]:
     → "The Mega Mog Bonanza-Rama-Palooza! Doesn't that name positively scream "excitement"!?"
  55: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x010A [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7280*]:
+ 56: 0x010A [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7281*]:
     → "What's even more exciting are the exclusive prizes you could win, kupo. If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
  57: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0112 [0x01] GOTO 0x0148
  59: 0x0115 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0148
- 60: 0x011D [0x2B] Kupert (ID: 17441103/0x010A214F) [7276*]:
+ 60: 0x011D [0x2B] Kupert (ID: 17441103/0x010A214F) [7277*]:
     → "Slacking on the job!? Me, kupo!? Why, I never--! No, I was just...ah...patrolling this area for stray beastmen! Yeah, that's the ticket!"
  61: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0125 [0x2B] Kupert (ID: 17441103/0x010A214F) [7277*]:
+ 62: 0x0125 [0x2B] Kupert (ID: 17441103/0x010A214F) [7278*]:
     → "Can't have those fiends assaulting our honored festival-goers, now, can we? Well, <ahem>...everything seems to be in order here, so let's return! And for your troubles, why don't I exchange that $3 you've got there for this shiny new $3?"
  63: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x012D [0x2B] Kupert (ID: 17441103/0x010A214F) [7278*]:
+ 64: 0x012D [0x2B] Kupert (ID: 17441103/0x010A214F) [7279*]:
     → "Just don't tell the boss I was sleeping on the job. Deal, kupo? In return, that $3 will allow you to take part in this festival's grand finale..."
  65: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x0135 [0x2B] Kupert (ID: 17441103/0x010A214F) [7279*]:
+ 66: 0x0135 [0x2B] Kupert (ID: 17441103/0x010A214F) [7280*]:
     → "The Mega Mog Bonanza-Rama-Palooza! Doesn't that name positively scream "excitement"!?"
  67: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x013D [0x2B] Kupert (ID: 17441103/0x010A214F) [7280*]:
+ 68: 0x013D [0x2B] Kupert (ID: 17441103/0x010A214F) [7281*]:
     → "What's even more exciting are the exclusive prizes you could win, kupo. If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
  69: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0145 [0x01] GOTO 0x0148
@@ -239,22 +239,22 @@ SUBROUTINE_0148:
 SUBROUTINE_0198:
  86: 0x0198 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  87: 0x019D [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x01B0
- 88: 0x01A5 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7275*]:
+ 88: 0x01A5 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
  89: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x01AD [0x01] GOTO 0x01E9
  91: 0x01B0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01C3
- 92: 0x01B8 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7275*]:
+ 92: 0x01B8 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
  93: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x01C0 [0x01] GOTO 0x01E9
  95: 0x01C3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x01D6
- 96: 0x01CB [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7275*]:
+ 96: 0x01CB [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
  97: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x01D3 [0x01] GOTO 0x01E9
  99: 0x01D6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x01E9
-100: 0x01DE [0x2B] Kupert (ID: 17441103/0x010A214F) [7275*]:
+100: 0x01DE [0x2B] Kupert (ID: 17441103/0x010A214F) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
 101: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x01E6 [0x01] GOTO 0x01E9
@@ -279,22 +279,22 @@ SUBROUTINE_01E9:
 SUBROUTINE_0239:
 118: 0x0239 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 119: 0x023E [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0251
-120: 0x0246 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7275*]:
+120: 0x0246 [0x2B] Kupatete (ID: 17441100/0x010A214C) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
 121: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x024E [0x01] GOTO 0x028A
 123: 0x0251 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0264
-124: 0x0259 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7275*]:
+124: 0x0259 [0x2B] Kupignol (ID: 17441101/0x010A214D) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
 125: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0261 [0x01] GOTO 0x028A
 127: 0x0264 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0277
-128: 0x026C [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7275*]:
+128: 0x026C [0x2B] Kupuckl (ID: 17441102/0x010A214E) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
 129: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0274 [0x01] GOTO 0x028A
 131: 0x0277 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x028A
-132: 0x027F [0x2B] Kupert (ID: 17441103/0x010A214F) [7275*]:
+132: 0x027F [0x2B] Kupert (ID: 17441103/0x010A214F) [7276*]:
     → "[Kupatete/Kupignol/Kupuckl/Kupert], you say? Sorry, you've got the wrong moogle. I think I saw [her/him/him/him] [enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago..."
 133: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0287 [0x01] GOTO 0x028A
@@ -304,13 +304,13 @@ SUBROUTINE_028A:
 136: 0x028F [0x01] GOTO 0x02BF
 137: 0x0292 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x02BF
 138: 0x029A [0x03] Work_Zone[3] = 1159*
-139: 0x029F [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7278*]:
+139: 0x029F [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7279*]:
     → "Just don't tell the boss I was sleeping on the job. Deal, kupo? In return, that $3 will allow you to take part in this festival's grand finale..."
 140: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x02A7 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7279*]:
+141: 0x02A7 [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7280*]:
     → "The Mega Mog Bonanza-Rama-Palooza! Doesn't that name positively scream "excitement"!?"
 142: 0x02AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x02AF [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7280*]:
+143: 0x02AF [0x2B] Stooge Moogle (ID: 17441099/0x010A214B) [7281*]:
     → "What's even more exciting are the exclusive prizes you could win, kupo. If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!"
 144: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x02B7 [0x03] Work_Zone[1] = 0*

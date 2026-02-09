@@ -25,11 +25,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2F5D      |       12125 |
+|       1 | 0x2F5E      |       12126 |
 
 ## String References
 
-- **12125**: I cannot believe we allowed the orcs to encircle our city... Still, though he commands the enemy, this Doggvdegg is a truly bold warrior.
+- **12126**: I cannot believe we allowed the orcs to encircle our city... Still, though he commands the enemy, this Doggvdegg is a truly bold warrior.
 
 ## Events
 
@@ -78,7 +78,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Elnonde (ID: 17105411/0x01050203), Elnonde (ID: 17105411/0x01050203)], work=20*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12125*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12126*)
     → "I cannot believe we allowed the orcs to encircle our city... Still, though he commands the enemy, this Doggvdegg is a truly bold warrior."
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0019 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Elnonde (ID: 17105411/0x01050203), Elnonde (ID: 17105411/0x01050203)], work=20*

@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B44      |       11076 |
+|       0 | 0x2B45      |       11077 |
 
 ## String References
 
-- **11076**: Back through here you'll find a couple of shops and a whole bunch of cutesy-wootsey, fuzzy-wuzzy moogles!
+- **11077**: Back through here you'll find a couple of shops and a whole bunch of cutesy-wootsey, fuzzy-wuzzy moogles!
 
 ## Events
 
@@ -70,7 +70,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11076*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11077*)
     → "Back through here you'll find a couple of shops and a whole bunch of cutesy-wootsey, fuzzy-wuzzy moogles!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT

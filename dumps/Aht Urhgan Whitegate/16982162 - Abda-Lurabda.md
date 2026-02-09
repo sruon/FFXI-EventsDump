@@ -34,56 +34,56 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2565      |        9573 |
+|       0 | 0x2566      |        9574 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0028      |          40 |
-|       3 | 0x16E0      |        5856 |
-|       4 | 0x16E1      |        5857 |
-|       5 | 0x16E2      |        5858 |
-|       6 | 0x16E3      |        5859 |
+|       3 | 0x16E1      |        5857 |
+|       4 | 0x16E2      |        5858 |
+|       5 | 0x16E3      |        5859 |
+|       6 | 0x16E4      |        5860 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x2648      |        9800 |
-|       9 | 0x16EB      |        5867 |
-|      10 | 0x16E4      |        5860 |
+|       9 | 0x16EC      |        5868 |
+|      10 | 0x16E5      |        5861 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x16E5      |        5861 |
+|      12 | 0x16E6      |        5862 |
 |      13 | 0x0020      |          32 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x16E6      |        5862 |
+|      15 | 0x16E7      |        5863 |
 |      16 | 0x0021      |          33 |
-|      17 | 0x16E7      |        5863 |
+|      17 | 0x16E8      |        5864 |
 |      18 | 0x0004      |           4 |
-|      19 | 0x16E8      |        5864 |
+|      19 | 0x16E9      |        5865 |
 |      20 | 0x0005      |           5 |
-|      21 | 0x16E9      |        5865 |
+|      21 | 0x16EA      |        5866 |
 |      22 | 0x0006      |           6 |
-|      23 | 0x16EA      |        5866 |
+|      23 | 0x16EB      |        5867 |
 |      24 | 0x0012      |          18 |
 |      25 | 0x0013      |          19 |
 |      26 | 0x001F      |          31 |
 |      27 | 0x001E      |          30 |
-|      28 | 0x16EE      |        5870 |
+|      28 | 0x16EF      |        5871 |
 |      29 | 0x40000000  |  1073741824 |
-|      30 | 0x16EC      |        5868 |
+|      30 | 0x16ED      |        5869 |
 |      31 | 0x0022      |          34 |
 
 ## String References
 
-- **5856**: You're a puppetmaster, right? Come on, anyone can tell!
-- **5857**: What's your automaton's name?
-- **5858**: If you'd rather name it something different, just pay me $1 gil and I'll help you out!
-- **5859**: Rename your automaton? [I would love to./No thanks.]
-- **5860**: Hmmm... How about one of these?
-- **5861**: Choose your automaton's name. [Luron/Drille/Tournefoux/Chafouin/Plaisantin/Loustic/Histrion/Bobeche/Bougrion/Rouleteau/Allouette/Serenade/Ficelette/Tocadie/Caprice/Foucade/Capillotte/Quenotte/Pacotille/Comedie/Kagekiyo/Toraoh/Genta/Kintoki/Koumei/Pamama/Lobo/Tsukushi/Oniwaka/Kenbishi/Hannya/Mashira/View more./Cancel.]
-- **5862**: Choose your automaton's name. [Nadeshiko/E100/Koume/X-32/Poppo/Asuka/Sakura/Tao/Mao/Gadget/Marion/Widget/Quirk/Sprocket/Cogette/Lecter/Coppelia/Sparky/Clank/Calcobrena/Crackle/Ricochet/Josette/Fritz/Skippy/Pino/Mandarin/Jackstraw/Guignol/Moppet/Nutcracker/Erwin/View previous./View more./Cancel.]
-- **5863**: Choose your automaton's name. [Otto/Gustav/Muffin/Xaver/Toni/Ina/Gerda/Petra/Verena/Rosi/Schatzi/Warashi/Klingel/Clochette/Campanello/Kaiserin/Principessa/Butler/Graf/Caro/Cara/Mademoiselle/Herzog/Tramp/V-1000/Hikozaemon/Nine/Acht/Quattro/Zero/Dreizehn/Seize/View previous./View more./Cancel.]
-- **5864**: Choose your automaton's name. [Fukusuke/Mataemon/Kansuke/Polichinelle/Tobisuke/Sasuke/Shijimi/Chobi/Aurelie/Magalie/Aurore/Caroline/Andrea/Machinette/Clarine/Armelle/Reinette/Dorlote/Turlupin/Klaxon/Bambino/Potiron/Fustige/Amidon/Machin/Bidulon/Tandem/Prestidige/Purute-Porute/Bito-Rabito/Cocoa/Totomo/View previous./View more./Cancel.]
-- **5865**: Choose your automaton's name. [Centurion/A7V/Scipio/Sentinel/Pioneer/Seneschal/Ginjin/Amagatsu/Dolly/Fantoccini/Joe/Kikizaru/Whippet/Punchinello/Charlie/Midge/Petrouchka/Schneider/Ushabti/Noel/Yajirobe/Hina/Nora/Shoki/Kobina/Kokeshi/Mame/Bishop/Marvin/Dora/Data/Robin/View previous./View more./Cancel.]
-- **5866**: Choose your automaton's name. [Robby/Porlo-Moperlo/Paroko-Puronko/Pipima/Gagaja/Mobil/Donzel/Archer/Shooter/Stephen/Mk.IV/Conjurer/Footman/Tokotoko/Sancho/Sarumaro/Picket/Mushroom/View previous./Cancel.]
-- **5867**: You don't have enough gil! Get lost!
-- **5868**: Oh, nice choice! Congratulations on your new name!
-- **5870**: Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]
-- **9573**: Welcome to the Automaton Workshop! We're working busily-fizzily on automaton research! Well, Ghatsad is, anyway...
+- **5857**: You're a puppetmaster, right? Come on, anyone can tell!
+- **5858**: What's your automaton's name?
+- **5859**: If you'd rather name it something different, just pay me $1 gil and I'll help you out!
+- **5860**: Rename your automaton? [I would love to./No thanks.]
+- **5861**: Hmmm... How about one of these?
+- **5862**: Choose your automaton's name. [Luron/Drille/Tournefoux/Chafouin/Plaisantin/Loustic/Histrion/Bobeche/Bougrion/Rouleteau/Allouette/Serenade/Ficelette/Tocadie/Caprice/Foucade/Capillotte/Quenotte/Pacotille/Comedie/Kagekiyo/Toraoh/Genta/Kintoki/Koumei/Pamama/Lobo/Tsukushi/Oniwaka/Kenbishi/Hannya/Mashira/View more./Cancel.]
+- **5863**: Choose your automaton's name. [Nadeshiko/E100/Koume/X-32/Poppo/Asuka/Sakura/Tao/Mao/Gadget/Marion/Widget/Quirk/Sprocket/Cogette/Lecter/Coppelia/Sparky/Clank/Calcobrena/Crackle/Ricochet/Josette/Fritz/Skippy/Pino/Mandarin/Jackstraw/Guignol/Moppet/Nutcracker/Erwin/View previous./View more./Cancel.]
+- **5864**: Choose your automaton's name. [Otto/Gustav/Muffin/Xaver/Toni/Ina/Gerda/Petra/Verena/Rosi/Schatzi/Warashi/Klingel/Clochette/Campanello/Kaiserin/Principessa/Butler/Graf/Caro/Cara/Mademoiselle/Herzog/Tramp/V-1000/Hikozaemon/Nine/Acht/Quattro/Zero/Dreizehn/Seize/View previous./View more./Cancel.]
+- **5865**: Choose your automaton's name. [Fukusuke/Mataemon/Kansuke/Polichinelle/Tobisuke/Sasuke/Shijimi/Chobi/Aurelie/Magalie/Aurore/Caroline/Andrea/Machinette/Clarine/Armelle/Reinette/Dorlote/Turlupin/Klaxon/Bambino/Potiron/Fustige/Amidon/Machin/Bidulon/Tandem/Prestidige/Purute-Porute/Bito-Rabito/Cocoa/Totomo/View previous./View more./Cancel.]
+- **5866**: Choose your automaton's name. [Centurion/A7V/Scipio/Sentinel/Pioneer/Seneschal/Ginjin/Amagatsu/Dolly/Fantoccini/Joe/Kikizaru/Whippet/Punchinello/Charlie/Midge/Petrouchka/Schneider/Ushabti/Noel/Yajirobe/Hina/Nora/Shoki/Kobina/Kokeshi/Mame/Bishop/Marvin/Dora/Data/Robin/View previous./View more./Cancel.]
+- **5867**: Choose your automaton's name. [Robby/Porlo-Moperlo/Paroko-Puronko/Pipima/Gagaja/Mobil/Donzel/Archer/Shooter/Stephen/Mk.IV/Conjurer/Footman/Tokotoko/Sancho/Sarumaro/Picket/Mushroom/View previous./Cancel.]
+- **5868**: You don't have enough gil! Get lost!
+- **5869**: Oh, nice choice! Congratulations on your new name!
+- **5871**: Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]
+- **9574**: Welcome to the Automaton Workshop! We're working busily-fizzily on automaton research! Well, Ghatsad is, anyway...
 
 ## Events
 
@@ -131,7 +131,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9573*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9574*)
     → "Welcome to the Automaton Workshop! We're working busily-fizzily on automaton research! Well, Ghatsad is, anyway..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -421,38 +421,38 @@
   2: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=5856*)
+  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=5857*)
     → "You're a puppetmaster, right? Come on, anyone can tell!"
   6: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=5857*)
+  7: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=5858*)
     → "What's your automaton's name?"
   8: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=5858*)
+  9: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=5859*)
     → "If you'd rather name it something different, just pay me $1 gil and I'll help you out!"
  10: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x003E [0x24] CREATE_DIALOG(message_id=5859*, default_option=1*, option_flags=0*)
+ 11: 0x003E [0x24] CREATE_DIALOG(message_id=5860*, default_option=1*, option_flags=0*)
     → "Rename your automaton? [I would love to./No thanks.]"
  12: 0x0045 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0046 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03CD
  14: 0x004E [0x02] IF !(Work_Zone[4] >= 9800*) GOTO 0x005D
- 15: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=5867*)
+ 15: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
     → "You don't have enough gil! Get lost!"
  16: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x005A [0x01] GOTO 0x03CA
- 18: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=5860*)
+ 18: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=5861*)
     → "Hmmm... How about one of these?"
  19: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0061:
  20: 0x0061 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
- 21: 0x006A [0x24] CREATE_DIALOG(message_id=5861*, default_option=0*, option_flags=0*)
+ 21: 0x006A [0x24] CREATE_DIALOG(message_id=5862*, default_option=0*, option_flags=0*)
     → "Choose your automaton's name. [Luron/Drille/Tournefoux/Chafouin/Plaisantin/Loustic/Histrion/Bobeche/Bougrion/Rouleteau/Allouette/Serenade/Ficelette/Tocadie/Caprice/Foucade/Capillotte/Quenotte/Pacotille/Comedie/Kagekiyo/Toraoh/Genta/Kintoki/Koumei/Pamama/Lobo/Tsukushi/Oniwaka/Kenbishi/Hannya/Mashira/View more./Cancel.]"
  22: 0x0071 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0072 [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x0360
 
 SUBROUTINE_007A:
  24: 0x007A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
- 25: 0x0083 [0x24] CREATE_DIALOG(message_id=5862*, default_option=0*, option_flags=0*)
+ 25: 0x0083 [0x24] CREATE_DIALOG(message_id=5863*, default_option=0*, option_flags=0*)
     → "Choose your automaton's name. [Nadeshiko/E100/Koume/X-32/Poppo/Asuka/Sakura/Tao/Mao/Gadget/Marion/Widget/Quirk/Sprocket/Cogette/Lecter/Coppelia/Sparky/Clank/Calcobrena/Crackle/Ricochet/Josette/Fritz/Skippy/Pino/Mandarin/Jackstraw/Guignol/Moppet/Nutcracker/Erwin/View previous./View more./Cancel.]"
  26: 0x008A [0x25] WAIT_DIALOG_SELECT()
  27: 0x008B [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x0099
@@ -460,7 +460,7 @@ SUBROUTINE_007A:
 
 SUBROUTINE_00A1:
  29: 0x00A1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
- 30: 0x00AA [0x24] CREATE_DIALOG(message_id=5863*, default_option=0*, option_flags=0*)
+ 30: 0x00AA [0x24] CREATE_DIALOG(message_id=5864*, default_option=0*, option_flags=0*)
     → "Choose your automaton's name. [Otto/Gustav/Muffin/Xaver/Toni/Ina/Gerda/Petra/Verena/Rosi/Schatzi/Warashi/Klingel/Clochette/Campanello/Kaiserin/Principessa/Butler/Graf/Caro/Cara/Mademoiselle/Herzog/Tramp/V-1000/Hikozaemon/Nine/Acht/Quattro/Zero/Dreizehn/Seize/View previous./View more./Cancel.]"
  31: 0x00B1 [0x25] WAIT_DIALOG_SELECT()
  32: 0x00B2 [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x00C0
@@ -468,7 +468,7 @@ SUBROUTINE_00A1:
 
 SUBROUTINE_00C8:
  34: 0x00C8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
- 35: 0x00D1 [0x24] CREATE_DIALOG(message_id=5864*, default_option=0*, option_flags=0*)
+ 35: 0x00D1 [0x24] CREATE_DIALOG(message_id=5865*, default_option=0*, option_flags=0*)
     → "Choose your automaton's name. [Fukusuke/Mataemon/Kansuke/Polichinelle/Tobisuke/Sasuke/Shijimi/Chobi/Aurelie/Magalie/Aurore/Caroline/Andrea/Machinette/Clarine/Armelle/Reinette/Dorlote/Turlupin/Klaxon/Bambino/Potiron/Fustige/Amidon/Machin/Bidulon/Tandem/Prestidige/Purute-Porute/Bito-Rabito/Cocoa/Totomo/View previous./View more./Cancel.]"
  36: 0x00D8 [0x25] WAIT_DIALOG_SELECT()
  37: 0x00D9 [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x00E7
@@ -476,7 +476,7 @@ SUBROUTINE_00C8:
 
 SUBROUTINE_00EF:
  39: 0x00EF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=5*)
- 40: 0x00F8 [0x24] CREATE_DIALOG(message_id=5865*, default_option=0*, option_flags=0*)
+ 40: 0x00F8 [0x24] CREATE_DIALOG(message_id=5866*, default_option=0*, option_flags=0*)
     → "Choose your automaton's name. [Centurion/A7V/Scipio/Sentinel/Pioneer/Seneschal/Ginjin/Amagatsu/Dolly/Fantoccini/Joe/Kikizaru/Whippet/Punchinello/Charlie/Midge/Petrouchka/Schneider/Ushabti/Noel/Yajirobe/Hina/Nora/Shoki/Kobina/Kokeshi/Mame/Bishop/Marvin/Dora/Data/Robin/View previous./View more./Cancel.]"
  41: 0x00FF [0x25] WAIT_DIALOG_SELECT()
  42: 0x0100 [0x02] IF !(Work_Zone[0] == 32*) GOTO 0x010E
@@ -489,7 +489,7 @@ SUBROUTINE_0145:
  47: 0x0157 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  48: 0x0158 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
  49: 0x015F [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=30*, target=Work_Zone[1], source=Work_Zone[0])
- 50: 0x0168 [0x24] CREATE_DIALOG(message_id=5870*, default_option=1*, option_flags=0*)
+ 50: 0x0168 [0x24] CREATE_DIALOG(message_id=5871*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]"
  51: 0x016F [0x25] WAIT_DIALOG_SELECT()
  52: 0x0170 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017C
@@ -500,7 +500,7 @@ SUBROUTINE_0145:
  57: 0x0189 [0x01] GOTO 0x0061
 
 SUBROUTINE_01A1:
- 58: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
+ 58: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5869*)
     → "Oh, nice choice! Congratulations on your new name!"
  59: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -516,7 +516,7 @@ SUBROUTINE_01B3:
  66: 0x01C5 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  67: 0x01C6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
  68: 0x01CD [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=30*, target=Work_Zone[1], source=Work_Zone[0])
- 69: 0x01D6 [0x24] CREATE_DIALOG(message_id=5870*, default_option=1*, option_flags=0*)
+ 69: 0x01D6 [0x24] CREATE_DIALOG(message_id=5871*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]"
  70: 0x01DD [0x25] WAIT_DIALOG_SELECT()
  71: 0x01DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EA
@@ -527,7 +527,7 @@ SUBROUTINE_01B3:
  76: 0x01F7 [0x01] GOTO 0x0061
 
 SUBROUTINE_020F:
- 77: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
+ 77: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=5869*)
     → "Oh, nice choice! Congratulations on your new name!"
  78: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -543,7 +543,7 @@ SUBROUTINE_0221:
  85: 0x0233 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  86: 0x0234 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
  87: 0x023B [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=30*, target=Work_Zone[1], source=Work_Zone[0])
- 88: 0x0244 [0x24] CREATE_DIALOG(message_id=5870*, default_option=1*, option_flags=0*)
+ 88: 0x0244 [0x24] CREATE_DIALOG(message_id=5871*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]"
  89: 0x024B [0x25] WAIT_DIALOG_SELECT()
  90: 0x024C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0258
@@ -554,7 +554,7 @@ SUBROUTINE_0221:
  95: 0x0265 [0x01] GOTO 0x0061
 
 SUBROUTINE_027D:
- 96: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
+ 96: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=5869*)
     → "Oh, nice choice! Congratulations on your new name!"
  97: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -570,7 +570,7 @@ SUBROUTINE_028F:
 104: 0x02A1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 105: 0x02A2 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
 106: 0x02A9 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=30*, target=Work_Zone[1], source=Work_Zone[0])
-107: 0x02B2 [0x24] CREATE_DIALOG(message_id=5870*, default_option=1*, option_flags=0*)
+107: 0x02B2 [0x24] CREATE_DIALOG(message_id=5871*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]"
 108: 0x02B9 [0x25] WAIT_DIALOG_SELECT()
 109: 0x02BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C6
@@ -581,7 +581,7 @@ SUBROUTINE_028F:
 114: 0x02D3 [0x01] GOTO 0x0061
 
 SUBROUTINE_02EB:
-115: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
+115: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=5869*)
     → "Oh, nice choice! Congratulations on your new name!"
 116: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -597,7 +597,7 @@ SUBROUTINE_02FD:
 123: 0x030F [0x42] SET_CLI_EVENT_CANCEL_DATA()
 124: 0x0310 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
 125: 0x0317 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=30*, target=Work_Zone[1], source=Work_Zone[0])
-126: 0x0320 [0x24] CREATE_DIALOG(message_id=5870*, default_option=1*, option_flags=0*)
+126: 0x0320 [0x24] CREATE_DIALOG(message_id=5871*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]"
 127: 0x0327 [0x25] WAIT_DIALOG_SELECT()
 128: 0x0328 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0334
@@ -608,7 +608,7 @@ SUBROUTINE_02FD:
 133: 0x0341 [0x01] GOTO 0x0061
 
 SUBROUTINE_0359:
-134: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
+134: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=5869*)
     → "Oh, nice choice! Congratulations on your new name!"
 135: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -623,7 +623,7 @@ SUBROUTINE_036B:
 141: 0x0375 [0x02] IF !(Work_Zone[0] >= 32*) GOTO 0x03CA
 142: 0x037D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=31*, condition_work_offset=1*)
 143: 0x0384 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=30*, target=Work_Zone[1], source=Work_Zone[0])
-144: 0x038D [0x24] CREATE_DIALOG(message_id=5870*, default_option=1*, option_flags=0*)
+144: 0x038D [0x24] CREATE_DIALOG(message_id=5871*, default_option=1*, option_flags=0*)
     → "Are you sure this name is okay? [Yes, this is it./On second thought.../Cancel.]"
 145: 0x0394 [0x25] WAIT_DIALOG_SELECT()
 146: 0x0395 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A1
@@ -634,7 +634,7 @@ SUBROUTINE_036B:
 151: 0x03AE [0x01] GOTO 0x0061
 
 SUBROUTINE_03C6:
-152: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5868*)
+152: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5869*)
     → "Oh, nice choice! Congratulations on your new name!"
 153: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

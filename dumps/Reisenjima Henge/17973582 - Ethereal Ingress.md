@@ -26,12 +26,12 @@
 |       3 | 0x0003      |           3 |
 |       4 | 0x0004      |           4 |
 |       5 | 0x000A      |          10 |
-|       6 | 0x1CA0      |        7328 |
-|       7 | 0x1CA1      |        7329 |
+|       6 | 0x1CA1      |        7329 |
+|       7 | 0x1CA2      |        7330 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0006      |           6 |
 |      10 | 0x0007      |           7 |
-|      11 | 0x1CA2      |        7330 |
+|      11 | 0x1CA3      |        7331 |
 |      12 | 0x0009      |           9 |
 |      13 | 0x0008      |           8 |
 |      14 | 0x000B      |          11 |
@@ -41,15 +41,15 @@
 |      18 | 0x00C8      |         200 |
 |      19 | 0x003C      |          60 |
 |      20 | 0x00A9      |         169 |
-|      21 | 0x1CA3      |        7331 |
+|      21 | 0x1CA4      |        7332 |
 |      22 | 0x00C9      |         201 |
 
 ## String References
 
-- **7328**: What will you do? [Go into the light./Go into the smaller light./Do not go into the light.]
-- **7329**: Go into which light? [Kin./Gin./Kei./Kyou./Fu./Do not go into the light.]
-- **7330**: What will you do? [Escape./Head toward Ou./Remain.]
-- **7331**: The light contains...something other than peace and serenity!
+- **7329**: What will you do? [Go into the light./Go into the smaller light./Do not go into the light.]
+- **7330**: Go into which light? [Kin./Gin./Kei./Kyou./Fu./Do not go into the light.]
+- **7331**: What will you do? [Escape./Head toward Ou./Remain.]
+- **7332**: The light contains...something other than peace and serenity!
 
 ## Events
 
@@ -157,7 +157,7 @@ SUBROUTINE_0029:
 SUBROUTINE_0064:
  16: 0x0064 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
  17: 0x0069 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00AE
- 18: 0x0071 [0x24] CREATE_DIALOG(message_id=7328*, default_option=2*, option_flags=ExtData[1]->WorkLocal[5])
+ 18: 0x0071 [0x24] CREATE_DIALOG(message_id=7329*, default_option=2*, option_flags=ExtData[1]->WorkLocal[5])
     → "What will you do? [Go into the light./Go into the smaller light./Do not go into the light.]"
  19: 0x0078 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0079 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008A
@@ -175,7 +175,7 @@ SUBROUTINE_0064:
 SUBROUTINE_00AB:
  31: 0x00AB [0x01] GOTO 0x01CB
  32: 0x00AE [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0176
- 33: 0x00B6 [0x24] CREATE_DIALOG(message_id=7329*, default_option=5*, option_flags=ExtData[1]->WorkLocal[3])
+ 33: 0x00B6 [0x24] CREATE_DIALOG(message_id=7330*, default_option=5*, option_flags=ExtData[1]->WorkLocal[3])
     → "Go into which light? [Kin./Gin./Kei./Kyou./Fu./Do not go into the light.]"
  34: 0x00BD [0x25] WAIT_DIALOG_SELECT()
  35: 0x00BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DF
@@ -230,7 +230,7 @@ SUBROUTINE_0160:
 SUBROUTINE_0173:
  73: 0x0173 [0x01] GOTO 0x01CB
  74: 0x0176 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x01CB
- 75: 0x017E [0x24] CREATE_DIALOG(message_id=7330*, default_option=2*, option_flags=ExtData[1]->WorkLocal[6])
+ 75: 0x017E [0x24] CREATE_DIALOG(message_id=7331*, default_option=2*, option_flags=ExtData[1]->WorkLocal[6])
     → "What will you do? [Escape./Head toward Ou./Remain.]"
  76: 0x0185 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0186 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A7
@@ -281,7 +281,7 @@ SUBROUTINE_01CB:
      0x023C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x023E [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[168*, 0*]
      0x024F [0x1C] WAIT(160* ticks)
-     0x0252 [0x48] [System] [7331*]:
+     0x0252 [0x48] [System] [7332*]:
     → "The light contains...something other than peace and serenity!"
      0x0255 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
      0x0266 [0x1C] WAIT(60* ticks)

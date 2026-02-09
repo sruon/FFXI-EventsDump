@@ -28,93 +28,93 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1FFD      |        8189 |
-|       2 | 0x1FFE      |        8190 |
-|       3 | 0x1FFF      |        8191 |
-|       4 | 0x2000      |        8192 |
+|       1 | 0x1FFE      |        8190 |
+|       2 | 0x1FFF      |        8191 |
+|       3 | 0x2000      |        8192 |
+|       4 | 0x2001      |        8193 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x2002      |        8194 |
-|       8 | 0x2003      |        8195 |
-|       9 | 0x2004      |        8196 |
-|      10 | 0x2001      |        8193 |
+|       7 | 0x2003      |        8195 |
+|       8 | 0x2004      |        8196 |
+|       9 | 0x2005      |        8197 |
+|      10 | 0x2002      |        8194 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x2005      |        8197 |
-|      13 | 0x2006      |        8198 |
-|      14 | 0x2007      |        8199 |
-|      15 | 0x2008      |        8200 |
-|      16 | 0x2009      |        8201 |
+|      12 | 0x2006      |        8198 |
+|      13 | 0x2007      |        8199 |
+|      14 | 0x2008      |        8200 |
+|      15 | 0x2009      |        8201 |
+|      16 | 0x200A      |        8202 |
 |      17 | 0x00C9      |         201 |
-|      18 | 0x200A      |        8202 |
-|      19 | 0x200B      |        8203 |
-|      20 | 0x200C      |        8204 |
-|      21 | 0x200D      |        8205 |
-|      22 | 0x200E      |        8206 |
-|      23 | 0x200F      |        8207 |
-|      24 | 0x2010      |        8208 |
-|      25 | 0x2011      |        8209 |
-|      26 | 0x2012      |        8210 |
-|      27 | 0x2014      |        8212 |
-|      28 | 0x2013      |        8211 |
-|      29 | 0x2015      |        8213 |
-|      30 | 0x2016      |        8214 |
-|      31 | 0x2017      |        8215 |
+|      18 | 0x200B      |        8203 |
+|      19 | 0x200C      |        8204 |
+|      20 | 0x200D      |        8205 |
+|      21 | 0x200E      |        8206 |
+|      22 | 0x200F      |        8207 |
+|      23 | 0x2010      |        8208 |
+|      24 | 0x2011      |        8209 |
+|      25 | 0x2012      |        8210 |
+|      26 | 0x2013      |        8211 |
+|      27 | 0x2015      |        8213 |
+|      28 | 0x2014      |        8212 |
+|      29 | 0x2016      |        8214 |
+|      30 | 0x2017      |        8215 |
+|      31 | 0x2018      |        8216 |
 |      32 | 0x0019      |          25 |
-|      33 | 0x2079      |        8313 |
-|      34 | 0x207A      |        8314 |
+|      33 | 0x207A      |        8314 |
+|      34 | 0x207B      |        8315 |
 |      35 | 0x0032      |          50 |
-|      36 | 0x207B      |        8315 |
-|      37 | 0x207C      |        8316 |
+|      36 | 0x207C      |        8316 |
+|      37 | 0x207D      |        8317 |
 |      38 | 0x004B      |          75 |
-|      39 | 0x207D      |        8317 |
-|      40 | 0x207F      |        8319 |
-|      41 | 0x207E      |        8318 |
+|      39 | 0x207E      |        8318 |
+|      40 | 0x2080      |        8320 |
+|      41 | 0x207F      |        8319 |
 |      42 | 0x0064      |         100 |
-|      43 | 0x2080      |        8320 |
-|      44 | 0x2081      |        8321 |
-|      45 | 0x2082      |        8322 |
-|      46 | 0x2083      |        8323 |
+|      43 | 0x2081      |        8321 |
+|      44 | 0x2082      |        8322 |
+|      45 | 0x2083      |        8323 |
+|      46 | 0x2084      |        8324 |
 
 ## String References
 
-- **8189**: Hail, stranger.
-- **8190**: Spare me the self-introduction, for your name is of no import. In this Goddess-forsaken realm, 'tis only one's blade and strength of will that count for anything.
-- **8191**: If you intend to live to see the morrow, you must be ever ready to battle to the death at a moment's notice. Can you look me in the eye and say that you have not a mote of hesitance in your heart?
-- **8192**: Ready to do battle? [I am./More or less...?]
-- **8193**: Hah! Such half-hearted resolve will lead you only to an early grave. Best run back behind the ward with the tots and greybeards.
-- **8194**: Brave words. I pray for your sake that they are not empty ones.
-- **8195**: A hideous beast called the waugyl prowls the northern reaches of this wasteland, rending limb from limb any fool who dares venture too close to its lair.
-- **8196**: You are to slay him and bring back proof of your deed, or die in the trying. This shall be the test of your resolve. Now go!
-- **8197**: A rare one you are, to back up words with deeds. Consider me impressed. I would ask your name.
-- **8198**: <Player>...? Wait. Could you be...?
-- **8199**: ...
-- **8200**: Pray forgive my rudeness. Well met, <Player>. Excenmille M Aurchiat raises a toast to your honor and courage.
-- **8201**: I would present you with this as well. May your resolve--and your sword arm--never falter.
-- **8202**: Were it merely sufficient to defend oneself against the hordes, 'twould be no great task.
-- **8203**: But no, it is also our duty to protect the weak and infirm. This is the most daunting task of all.
-- **8204**: Hail, <Player>. How fare you since our last meeting?
-- **8205**: How fare you? [Quite well./...]
-- **8206**: It heartens me to see that your resolve has not faltered.
-- **8207**: Should ever you feel doubt creeping into your heart, brandish your blade until the doubt is no more. These words of wisdom were imparted to me as a child.
-- **8208**: At any rate, you have arrived at the right time. We've just caught wind that the fearsome waugyl is terrorizing the northern reaches once more.
-- **8209**: How about it, <Player>? I know that you look to test your strength, and that strength will not be tested by ordinary foes.
-- **8210**: Slay the beast? [I will./Another day.]
-- **8211**: Strange. This is not the <Player> I know. If you rediscover your resolve, you need only speak with me.
-- **8212**: Bring proof of your triumph and I shall reward you in kind. Go forth, <Player>.
-- **8213**: The fearsome waugyl has returned to his old stomping grounds at the cliffs northward of here.
-- **8214**: Your courage and abilities have not diminished in the least, I see.
-- **8215**: You've earned this. Yet the beast will not lie dormant forever. Return here if you wish to test your sword arm again.
-- **8313**: No matter how overwhelming the odds, there is no battle that cannot be won.
-- **8314**: We fight for our land! For our future! Show the vile fiends no quarter!
-- **8315**: The enemy presence is strong here. The fiends are confident, as well they should be.
-- **8316**: Yet, this overconfidence will be their downfall. Strike at the heart of the foe with all your might!
-- **8317**: The battle has drawn even. The crucial turning point is at hand.
-- **8318**: Now, more than ever, our resolve must not falter. May your blade be true!
-- **8319**: Now, more than ever, our resolve must not falter. May your blade be true, <Player>!
-- **8320**: Haha! We have the fiends right where we want them!
-- **8321**: They may thrash and writhe, but they only delay their inevitable demise. Let us put them out of their misery!
-- **8322**: Well fought, friend! Those monsters will think twice before showing their foul faces before us again!
-- **8323**: Still, we must remain chary. To grow overconfident would be to commit the same fatal error our foe did.
+- **8190**: Hail, stranger.
+- **8191**: Spare me the self-introduction, for your name is of no import. In this Goddess-forsaken realm, 'tis only one's blade and strength of will that count for anything.
+- **8192**: If you intend to live to see the morrow, you must be ever ready to battle to the death at a moment's notice. Can you look me in the eye and say that you have not a mote of hesitance in your heart?
+- **8193**: Ready to do battle? [I am./More or less...?]
+- **8194**: Hah! Such half-hearted resolve will lead you only to an early grave. Best run back behind the ward with the tots and greybeards.
+- **8195**: Brave words. I pray for your sake that they are not empty ones.
+- **8196**: A hideous beast called the waugyl prowls the northern reaches of this wasteland, rending limb from limb any fool who dares venture too close to its lair.
+- **8197**: You are to slay him and bring back proof of your deed, or die in the trying. This shall be the test of your resolve. Now go!
+- **8198**: A rare one you are, to back up words with deeds. Consider me impressed. I would ask your name.
+- **8199**: <Player>...? Wait. Could you be...?
+- **8200**: ...
+- **8201**: Pray forgive my rudeness. Well met, <Player>. Excenmille M Aurchiat raises a toast to your honor and courage.
+- **8202**: I would present you with this as well. May your resolve--and your sword arm--never falter.
+- **8203**: Were it merely sufficient to defend oneself against the hordes, 'twould be no great task.
+- **8204**: But no, it is also our duty to protect the weak and infirm. This is the most daunting task of all.
+- **8205**: Hail, <Player>. How fare you since our last meeting?
+- **8206**: How fare you? [Quite well./...]
+- **8207**: It heartens me to see that your resolve has not faltered.
+- **8208**: Should ever you feel doubt creeping into your heart, brandish your blade until the doubt is no more. These words of wisdom were imparted to me as a child.
+- **8209**: At any rate, you have arrived at the right time. We've just caught wind that the fearsome waugyl is terrorizing the northern reaches once more.
+- **8210**: How about it, <Player>? I know that you look to test your strength, and that strength will not be tested by ordinary foes.
+- **8211**: Slay the beast? [I will./Another day.]
+- **8212**: Strange. This is not the <Player> I know. If you rediscover your resolve, you need only speak with me.
+- **8213**: Bring proof of your triumph and I shall reward you in kind. Go forth, <Player>.
+- **8214**: The fearsome waugyl has returned to his old stomping grounds at the cliffs northward of here.
+- **8215**: Your courage and abilities have not diminished in the least, I see.
+- **8216**: You've earned this. Yet the beast will not lie dormant forever. Return here if you wish to test your sword arm again.
+- **8314**: No matter how overwhelming the odds, there is no battle that cannot be won.
+- **8315**: We fight for our land! For our future! Show the vile fiends no quarter!
+- **8316**: The enemy presence is strong here. The fiends are confident, as well they should be.
+- **8317**: Yet, this overconfidence will be their downfall. Strike at the heart of the foe with all your might!
+- **8318**: The battle has drawn even. The crucial turning point is at hand.
+- **8319**: Now, more than ever, our resolve must not falter. May your blade be true!
+- **8320**: Now, more than ever, our resolve must not falter. May your blade be true, <Player>!
+- **8321**: Haha! We have the fiends right where we want them!
+- **8322**: They may thrash and writhe, but they only delay their inevitable demise. Let us put them out of their misery!
+- **8323**: Well fought, friend! Those monsters will think twice before showing their foul faces before us again!
+- **8324**: Still, we must remain chary. To grow overconfident would be to commit the same fatal error our foe did.
 
 ## Events
 
@@ -168,32 +168,32 @@
   1: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0009 [0x1C] WAIT(20* ticks)
-  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8189*)
+  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8190*)
     → "Hail, stranger."
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8190*)
+  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
     → "Spare me the self-introduction, for your name is of no import. In this Goddess-forsaken realm, 'tis only one's blade and strength of will that count for anything."
   7: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
+  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
     → "If you intend to live to see the morrow, you must be ever ready to battle to the death at a moment's notice. Can you look me in the eye and say that you have not a mote of hesitance in your heart?"
   9: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0018 [0x24] CREATE_DIALOG(message_id=8192*, default_option=0*, option_flags=0*)
+ 10: 0x0018 [0x24] CREATE_DIALOG(message_id=8193*, default_option=0*, option_flags=0*)
     → "Ready to do battle? [I am./More or less...?]"
  11: 0x001F [0x25] WAIT_DIALOG_SELECT()
  12: 0x0020 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003C
  13: 0x0028 [0x03] Work_Zone[1] = 1*
- 14: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
+ 14: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
     → "Brave words. I pray for your sake that they are not empty ones."
  15: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
+ 16: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
     → "A hideous beast called the waugyl prowls the northern reaches of this wasteland, rending limb from limb any fool who dares venture too close to its lair."
  17: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
+ 18: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
     → "You are to slay him and bring back proof of your deed, or die in the trying. This shall be the test of your resolve. Now go!"
  19: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0039 [0x01] GOTO 0x0050
  21: 0x003C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0050
- 22: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
+ 22: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
     → "Hah! Such half-hearted resolve will lead you only to an early grave. Best run back behind the ward with the tots and greybeards."
  23: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0048 [0x03] Work_Zone[1] = 2*
@@ -226,10 +226,10 @@ SUBROUTINE_0050:
 ```
   0: 0x0052 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0057 [0x1C] WAIT(20* ticks)
-  2: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
+  2: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
     → "A hideous beast called the waugyl prowls the northern reaches of this wasteland, rending limb from limb any fool who dares venture too close to its lair."
   3: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
+  4: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
     → "You are to slay him and bring back proof of your deed, or die in the trying. This shall be the test of your resolve. Now go!"
   5: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0062 [0x21] END_EVENT
@@ -263,21 +263,21 @@ SUBROUTINE_0050:
   1: 0x0066 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0067 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x006C [0x1C] WAIT(20* ticks)
-  4: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
+  4: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
     → "A rare one you are, to back up words with deeds. Consider me impressed. I would ask your name."
   5: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0073 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x09)
   7: 0x007A [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0086
-  8: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
+  8: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
     → "<Player>...? Wait. Could you be...?"
   9: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
+ 10: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
     → "..."
  11: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
+ 12: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
     → "Pray forgive my rudeness. Well met, <Player>. Excenmille M Aurchiat raises a toast to your honor and courage."
  13: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+ 14: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "I would present you with this as well. May your resolve--and your sword arm--never falter."
  15: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0092 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -307,10 +307,10 @@ SUBROUTINE_0050:
 ```
   0: 0x00A5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00AA [0x1C] WAIT(20* ticks)
-  2: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
+  2: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
     → "Were it merely sufficient to defend oneself against the hordes, 'twould be no great task."
   3: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
+  4: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
     → "But no, it is also our duty to protect the weak and infirm. This is the most daunting task of all."
   5: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00B5 [0x21] END_EVENT
@@ -347,42 +347,42 @@ SUBROUTINE_0050:
   1: 0x00B8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x00BA [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00BF [0x1C] WAIT(20* ticks)
-  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
+  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
     → "Hail, <Player>. How fare you since our last meeting?"
   5: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C6 [0x24] CREATE_DIALOG(message_id=8205*, default_option=0*, option_flags=0*)
+  6: 0x00C6 [0x24] CREATE_DIALOG(message_id=8206*, default_option=0*, option_flags=0*)
     → "How fare you? [Quite well./...]"
   7: 0x00CD [0x25] WAIT_DIALOG_SELECT()
   8: 0x00CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DD
-  9: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+  9: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "It heartens me to see that your resolve has not faltered."
  10: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00DA [0x01] GOTO 0x00EC
  12: 0x00DD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EC
- 13: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
+ 13: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
     → "Should ever you feel doubt creeping into your heart, brandish your blade until the doubt is no more. These words of wisdom were imparted to me as a child."
  14: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00E9 [0x01] GOTO 0x00EC
 
 SUBROUTINE_00EC:
- 16: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
+ 16: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
     → "At any rate, you have arrived at the right time. We've just caught wind that the fearsome waugyl is terrorizing the northern reaches once more."
  17: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+ 18: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "How about it, <Player>? I know that you look to test your strength, and that strength will not be tested by ordinary foes."
  19: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x00F4 [0x24] CREATE_DIALOG(message_id=8210*, default_option=0*, option_flags=0*)
+ 20: 0x00F4 [0x24] CREATE_DIALOG(message_id=8211*, default_option=0*, option_flags=0*)
     → "Slay the beast? [I will./Another day.]"
  21: 0x00FB [0x25] WAIT_DIALOG_SELECT()
  22: 0x00FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0110
  23: 0x0104 [0x03] Work_Zone[1] = 1*
- 24: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
+ 24: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=8213*)
     → "Bring proof of your triumph and I shall reward you in kind. Go forth, <Player>."
  25: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x010D [0x01] GOTO 0x0124
  27: 0x0110 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0124
  28: 0x0118 [0x03] Work_Zone[1] = 2*
- 29: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=8211*)
+ 29: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
     → "Strange. This is not the <Player> I know. If you rediscover your resolve, you need only speak with me."
  30: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0121 [0x01] GOTO 0x0124
@@ -414,10 +414,10 @@ SUBROUTINE_0124:
 ```
   0: 0x0126 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x012B [0x1C] WAIT(20* ticks)
-  2: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=8213*)
+  2: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=8214*)
     → "The fearsome waugyl has returned to his old stomping grounds at the cliffs northward of here."
   3: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
+  4: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=8213*)
     → "Bring proof of your triumph and I shall reward you in kind. Go forth, <Player>."
   5: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0136 [0x21] END_EVENT
@@ -449,10 +449,10 @@ SUBROUTINE_0124:
   1: 0x0139 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x013B [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0140 [0x1C] WAIT(20* ticks)
-  4: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8214*)
+  4: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8215*)
     → "Your courage and abilities have not diminished in the least, I see."
   5: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=8215*)
+  6: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=8216*)
     → "You've earned this. Yet the beast will not lie dormant forever. Return here if you wish to test your sword arm again."
   7: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x014B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -492,48 +492,48 @@ SUBROUTINE_0124:
   2: 0x0166 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   3: 0x016B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[9]
   4: 0x0170 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 25*) GOTO 0x0183
-  5: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+  5: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "No matter how overwhelming the odds, there is no battle that cannot be won."
   6: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
+  7: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
     → "We fight for our land! For our future! Show the vile fiends no quarter!"
   8: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0180 [0x01] GOTO 0x01D3
  10: 0x0183 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 50*) GOTO 0x0196
- 11: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
+ 11: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
     → "The enemy presence is strong here. The fiends are confident, as well they should be."
  12: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
+ 13: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
     → "Yet, this overconfidence will be their downfall. Strike at the heart of the foe with all your might!"
  14: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0193 [0x01] GOTO 0x01D3
  16: 0x0196 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 75*) GOTO 0x01B8
- 17: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
+ 17: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
     → "The battle has drawn even. The crucial turning point is at hand."
  18: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x01A2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01B1
- 20: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8319*)
+ 20: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8320*)
     → "Now, more than ever, our resolve must not falter. May your blade be true, <Player>!"
  21: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x01AE [0x01] GOTO 0x01B5
- 23: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
+ 23: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8319*)
     → "Now, more than ever, our resolve must not falter. May your blade be true!"
  24: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01B5:
  25: 0x01B5 [0x01] GOTO 0x01D3
  26: 0x01B8 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 100*) GOTO 0x01CB
- 27: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8320*)
+ 27: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8321*)
     → "Haha! We have the fiends right where we want them!"
  28: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8321*)
+ 29: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8322*)
     → "They may thrash and writhe, but they only delay their inevitable demise. Let us put them out of their misery!"
  30: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x01C8 [0x01] GOTO 0x01D3
- 32: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8322*)
+ 32: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
     → "Well fought, friend! Those monsters will think twice before showing their foul faces before us again!"
  33: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
+ 34: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8324*)
     → "Still, we must remain chary. To grow overconfident would be to commit the same fatal error our foe did."
  35: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

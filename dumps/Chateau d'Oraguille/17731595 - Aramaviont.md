@@ -43,18 +43,18 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EC9      |        7881 |
-|       1 | 0x1EC8      |        7880 |
-|       2 | 0x1EC7      |        7879 |
-|       3 | 0x1EC6      |        7878 |
-|       4 | 0x1EC5      |        7877 |
+|       0 | 0x1ECA      |        7882 |
+|       1 | 0x1EC9      |        7881 |
+|       2 | 0x1EC8      |        7880 |
+|       3 | 0x1EC7      |        7879 |
+|       4 | 0x1EC6      |        7878 |
 |       5 | 0xFFFFF52E  |  4294964526 |
 |       6 | 0xFFFFF5FC  |  4294964732 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0014      |          20 |
-|       9 | 0x1C2E      |        7214 |
+|       9 | 0x1C2F      |        7215 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x1C2F      |        7215 |
+|      11 | 0x1C30      |        7216 |
 |      12 | 0xFFFF7190  |  4294930832 |
 |      13 | 0x1410E     |       82190 |
 |      14 | 0xFFFFF14C  |  4294963532 |
@@ -72,13 +72,13 @@
 
 ## String References
 
-- **7214**: Royal Knight Aramaviont reporting! I've returned from Windurst. Maybe it's just me, but the wee folk there are hiding something, I know it!
-- **7215**: Why else would they let Yagudo run wild over the countryside? I'd lock those nasty feathered fowl up in cages if I were them!
-- **7877**: The defeat of the Shadow Lord should improve the situation in the Northlands and improve our odds in the war with the Orcs.
-- **7878**: There's not a knight in San d'Oria that doesn't wish to take Lightbringer in his hands. However, there are still many mysteries that surround it...
-- **7879**: It's now time to show those Orcs the true force of the Royal Knights. The battle will go down in history as the day we put an end to their fiendish plots!
-- **7880**: When I was in the Northlands, I didn't know if I would ever be back here, sipping tea in the comforts of my quarters. I raise my glass to my colleagues who were not as fortunate...
-- **7881**: I never knew His Highness felt that way about the Kingdom... To put the stability of the country ahead of bloodlines and tradition...the royaulais is truly a great leader.
+- **7215**: Royal Knight Aramaviont reporting! I've returned from Windurst. Maybe it's just me, but the wee folk there are hiding something, I know it!
+- **7216**: Why else would they let Yagudo run wild over the countryside? I'd lock those nasty feathered fowl up in cages if I were them!
+- **7878**: The defeat of the Shadow Lord should improve the situation in the Northlands and improve our odds in the war with the Orcs.
+- **7879**: There's not a knight in San d'Oria that doesn't wish to take Lightbringer in his hands. However, there are still many mysteries that surround it...
+- **7880**: It's now time to show those Orcs the true force of the Royal Knights. The battle will go down in history as the day we put an end to their fiendish plots!
+- **7881**: When I was in the Northlands, I didn't know if I would ever be back here, sipping tea in the comforts of my quarters. I raise my glass to my colleagues who were not as fortunate...
+- **7882**: I never knew His Highness felt that way about the Kingdom... To put the stability of the country ahead of bloodlines and tradition...the royaulais is truly a great leader.
 
 ## Events
 
@@ -126,7 +126,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → "I never knew His Highness felt that way about the Kingdom... To put the stability of the country ahead of bloodlines and tradition...the royaulais is truly a great leader."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -156,7 +156,7 @@
   0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0013 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0014 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "When I was in the Northlands, I didn't know if I would ever be back here, sipping tea in the comforts of my quarters. I raise my glass to my colleagues who were not as fortunate..."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT
@@ -186,7 +186,7 @@
   0: 0x001B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0020 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0021 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "It's now time to show those Orcs the true force of the Royal Knights. The battle will go down in history as the day we put an end to their fiendish plots!"
   4: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0026 [0x21] END_EVENT
@@ -216,7 +216,7 @@
   0: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+  3: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "There's not a knight in San d'Oria that doesn't wish to take Lightbringer in his hands. However, there are still many mysteries that surround it..."
   4: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0033 [0x21] END_EVENT
@@ -246,7 +246,7 @@
   0: 0x0035 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
+  3: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
     → "The defeat of the Shadow Lord should improve the situation in the Northlands and improve our odds in the war with the Orcs."
   4: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0040 [0x21] END_EVENT
@@ -324,11 +324,11 @@
   1: 0x0052 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0053 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0054 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7214*)
+  4: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7215*)
     → "Royal Knight Aramaviont reporting! I've returned from Windurst. Maybe it's just me, but the wee folk there are hiding something, I know it!"
   5: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0067 [0x1C] WAIT(30* ticks)
-  7: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7215*)
+  7: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7216*)
     → "Why else would they let Yagudo run wild over the countryside? I'd lock those nasty feathered fowl up in cages if I were them!"
   8: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x006E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

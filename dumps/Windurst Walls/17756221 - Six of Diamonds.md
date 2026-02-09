@@ -21,14 +21,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E16      |        7702 |
+|       0 | 0x1E17      |        7703 |
 |       1 | 0x0258      |         600 |
-|       2 | 0x1E17      |        7703 |
+|       2 | 0x1E18      |        7704 |
 
 ## String References
 
-- **7702**: tHIs$26dIs-TrIcT$26CaL-LeD$26wInDuRsT WaLlS!$26SiX$26iS$26CArDIan! prO-tEcTs$26WiNdUrSt!
-- **7703**: WIndUrst$26wOOds bEyOnd$26thAt$26ArchwAy! mAnY$26mIthrA$26lIvE thErE!
+- **7703**: tHIs$26dIs-TrIcT$26CaL-LeD$26wInDuRsT WaLlS!$26SiX$26iS$26CArDIan! prO-tEcTs$26WiNdUrSt!
+- **7704**: WIndUrst$26wOOds bEyOnd$26thAt$26ArchwAy! mAnY$26mIthrA$26lIvE thErE!
 
 ## Events
 
@@ -77,11 +77,11 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "tHIs$26dIs-TrIcT$26CaL-LeD$26wInDuRsT WaLlS!$26SiX$26iS$26CArDIan! prO-tEcTs$26WiNdUrSt!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x4B] UPDATE_ENTITY_YAW(entity=Six of Diamonds (ID: 17756221/0x010EF03D), yaw=3.3°*)
-  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
     → "WIndUrst$26wOOds bEyOnd$26thAt$26ArchwAy! mAnY$26mIthrA$26lIvE thErE!"
   7: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0017 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

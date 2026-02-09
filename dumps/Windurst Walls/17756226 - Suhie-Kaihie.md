@@ -35,13 +35,13 @@
 |       6 | 0xFFFEA6D1  |  4294878929 |
 |       7 | 0x1F4CA     |      128202 |
 |       8 | 0xFFFFEB85  |  4294962053 |
-|       9 | 0x1ECA      |        7882 |
-|      10 | 0x1ECB      |        7883 |
+|       9 | 0x1ECB      |        7883 |
+|      10 | 0x1ECC      |        7884 |
 
 ## String References
 
-- **7882**: Hullo-wullo! Are you from Windurst yourselfy-welfy? Or are you just another adventurer passing throughy-woughy?
-- **7883**: Either way, it's a dangerous place outside of this towny-wowny. If you intend on venturing outside, then you had better make sure your armor and weapons are properly equipped firsty-wirsty!
+- **7883**: Hullo-wullo! Are you from Windurst yourselfy-welfy? Or are you just another adventurer passing throughy-woughy?
+- **7884**: Either way, it's a dangerous place outside of this towny-wowny. If you intend on venturing outside, then you had better make sure your armor and weapons are properly equipped firsty-wirsty!
 
 ## Events
 
@@ -214,10 +214,10 @@
   2: 0x0044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0045 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0046 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Suhie-Kaihie (ID: 17756226/0x010EF042), tag_num=0x01)
-  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
     → "Hullo-wullo! Are you from Windurst yourselfy-welfy? Or are you just another adventurer passing throughy-woughy?"
   6: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+  7: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "Either way, it's a dangerous place outside of this towny-wowny. If you intend on venturing outside, then you had better make sure your armor and weapons are properly equipped firsty-wirsty!"
   8: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0055 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Suhie-Kaihie (ID: 17756226/0x010EF042), tag_num=0x02)

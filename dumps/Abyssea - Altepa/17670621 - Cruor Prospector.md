@@ -21,19 +21,19 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CD4      |        7380 |
+|       1 | 0x1CD5      |        7381 |
 |       2 | 0x0006      |           6 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1CD5      |        7381 |
+|       4 | 0x1CD6      |        7382 |
 |       5 | 0x40000000  |  1073741824 |
-|       6 | 0x1CD6      |        7382 |
-|       7 | 0x1CD7      |        7383 |
-|       8 | 0x1CD8      |        7384 |
-|       9 | 0x1CD9      |        7385 |
-|      10 | 0x1CDA      |        7386 |
-|      11 | 0x1CDB      |        7387 |
-|      12 | 0x1CDC      |        7388 |
-|      13 | 0x1CDD      |        7389 |
+|       6 | 0x1CD7      |        7383 |
+|       7 | 0x1CD8      |        7384 |
+|       8 | 0x1CD9      |        7385 |
+|       9 | 0x1CDA      |        7386 |
+|      10 | 0x1CDB      |        7387 |
+|      11 | 0x1CDC      |        7388 |
+|      12 | 0x1CDD      |        7389 |
+|      13 | 0x1CDE      |        7390 |
 |      14 | 0x0002      |           2 |
 |      15 | 0x2F10      |       12048 |
 |      16 | 0x1388      |        5000 |
@@ -53,7 +53,7 @@
 |      30 | 0x190A      |        6410 |
 |      31 | 0x1E8480    |     2000000 |
 |      32 | 0x0014      |          20 |
-|      33 | 0x1CDE      |        7390 |
+|      33 | 0x1CDF      |        7391 |
 |      34 | 0x0003      |           3 |
 |      35 | 0x0004      |           4 |
 |      36 | 0x0005      |           5 |
@@ -77,16 +77,16 @@
 |      54 | 0x001C      |          28 |
 |      55 | 0x001D      |          29 |
 |      56 | 0x001E      |          30 |
-|      57 | 0x1CE3      |        7395 |
+|      57 | 0x1CE4      |        7396 |
 |      58 | 0x09C4      |        2500 |
 |      59 | 0x3A98      |       15000 |
 |      60 | 0x0032      |          50 |
 |      61 | 0x61A8      |       25000 |
-|      62 | 0x1D03      |        7427 |
-|      63 | 0x1D04      |        7428 |
+|      62 | 0x1D04      |        7428 |
+|      63 | 0x1D05      |        7429 |
 |      64 | 0x001F      |          31 |
-|      65 | 0x1CF0      |        7408 |
-|      66 | 0x1CE5      |        7397 |
+|      65 | 0x1CF1      |        7409 |
+|      66 | 0x1CE6      |        7398 |
 |      67 | 0x16C0      |        5824 |
 |      68 | 0x0050      |          80 |
 |      69 | 0x16C3      |        5827 |
@@ -109,10 +109,10 @@
 |      86 | 0x153F      |        5439 |
 |      87 | 0x16CE      |        5838 |
 |      88 | 0x16DD      |        5853 |
-|      89 | 0x1CDF      |        7391 |
+|      89 | 0x1CE0      |        7392 |
 |      90 | 0x30D40     |      200000 |
-|      91 | 0x1CE4      |        7396 |
-|      92 | 0x1CE6      |        7398 |
+|      91 | 0x1CE5      |        7397 |
+|      92 | 0x1CE7      |        7399 |
 |      93 | 0x0763      |        1891 |
 |      94 | 0x1194      |        4500 |
 |      95 | 0x059D      |        1437 |
@@ -122,42 +122,42 @@
 |      99 | 0x056B      |        1387 |
 |     100 | 0x2328      |        9000 |
 |     101 | 0x061C      |        1564 |
-|     102 | 0x1CE0      |        7392 |
+|     102 | 0x1CE1      |        7393 |
 |     103 | 0x0563      |        1379 |
-|     104 | 0x1CF4      |        7412 |
+|     104 | 0x1CF5      |        7413 |
 |     105 | 0x056D      |        1389 |
 |     106 | 0x04F7      |        1271 |
-|     107 | 0x1CF9      |        7417 |
+|     107 | 0x1CFA      |        7418 |
 |     108 | 0x056F      |        1391 |
-|     109 | 0x1CF5      |        7413 |
+|     109 | 0x1CF6      |        7414 |
 |     110 | 0x0572      |        1394 |
-|     111 | 0x1CF6      |        7414 |
+|     111 | 0x1CF7      |        7415 |
 |     112 | 0x0575      |        1397 |
-|     113 | 0x1CF7      |        7415 |
+|     113 | 0x1CF8      |        7416 |
 |     114 | 0x0579      |        1401 |
-|     115 | 0x1CFA      |        7418 |
+|     115 | 0x1CFB      |        7419 |
 |     116 | 0x0581      |        1409 |
-|     117 | 0x1CF8      |        7416 |
+|     117 | 0x1CF9      |        7417 |
 |     118 | 0x05A0      |        1440 |
-|     119 | 0x1CFB      |        7419 |
+|     119 | 0x1CFC      |        7420 |
 |     120 | 0x075D      |        1885 |
-|     121 | 0x1CFC      |        7420 |
+|     121 | 0x1CFD      |        7421 |
 |     122 | 0x075E      |        1886 |
-|     123 | 0x1CFD      |        7421 |
+|     123 | 0x1CFE      |        7422 |
 |     124 | 0x075F      |        1887 |
-|     125 | 0x1CFE      |        7422 |
+|     125 | 0x1CFF      |        7423 |
 |     126 | 0x0760      |        1888 |
-|     127 | 0x1CFF      |        7423 |
+|     127 | 0x1D00      |        7424 |
 |     128 | 0x0761      |        1889 |
-|     129 | 0x1D00      |        7424 |
+|     129 | 0x1D01      |        7425 |
 |     130 | 0x0762      |        1890 |
-|     131 | 0x1D01      |        7425 |
-|     132 | 0x1D02      |        7426 |
-|     133 | 0x1CE7      |        7399 |
+|     131 | 0x1D02      |        7426 |
+|     132 | 0x1D03      |        7427 |
+|     133 | 0x1CE8      |        7400 |
 |     134 | 0x0064      |         100 |
 |     135 | 0x01D6      |         470 |
-|     136 | 0x1CE1      |        7393 |
-|     137 | 0x1CE8      |        7400 |
+|     136 | 0x1CE2      |        7394 |
+|     137 | 0x1CE9      |        7401 |
 |     138 | 0x061D      |        1565 |
 |     139 | 0x061E      |        1566 |
 |     140 | 0x061F      |        1567 |
@@ -168,51 +168,51 @@
 |     145 | 0x0674      |        1652 |
 |     146 | 0x0675      |        1653 |
 |     147 | 0x0676      |        1654 |
-|     148 | 0x1CE2      |        7394 |
-|     149 | 0x1CE9      |        7401 |
+|     148 | 0x1CE3      |        7395 |
+|     149 | 0x1CEA      |        7402 |
 
 ## String References
 
-- **7380**: Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.
-- **7381**: What will you do? (Cruor balance: $0) [Nothing./Learn about cruor./Exchange for items./Exchange for temporary items./Exchange for key items./Exchange for enhancement effects./Dispose of abyssite.]
-- **7382**: Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.
-- **7383**: Known by some as "blood gold," these red granules are highly prized and see use as both energy source and construction material.
-- **7384**: It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based.
-- **7385**: Chief among them being "ancient abyssite," a highly concentrated, doubly valuable form of the stone boasting diverse benefits.
-- **7386**: Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.
-- **7387**: The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure.
-- **7388**: I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.
-- **7389**: Besides the issuance of items, I am also authorized to imbue you with enhancement effects.
-- **7390**: Select item. (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./Previous page./Next page.]
+- **7381**: Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.
+- **7382**: What will you do? (Cruor balance: $0) [Nothing./Learn about cruor./Exchange for items./Exchange for temporary items./Exchange for key items./Exchange for enhancement effects./Dispose of abyssite.]
+- **7383**: Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.
+- **7384**: Known by some as "blood gold," these red granules are highly prized and see use as both energy source and construction material.
+- **7385**: It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based.
+- **7386**: Chief among them being "ancient abyssite," a highly concentrated, doubly valuable form of the stone boasting diverse benefits.
+- **7387**: Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.
+- **7388**: The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure.
+- **7389**: I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.
+- **7390**: Besides the issuance of items, I am also authorized to imbue you with enhancement effects.
 - **7391**: Select item. (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./Previous page./Next page.]
-- **7392**: Select key item. (Cruor: $0) [Nothing right now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./Previous page./Next page.]
-- **7393**: Select enhancement. (Cruor: $0) [Nothing for now./Reraise: $1./Protect: $2./Shell: $3./Regen: $4./Refresh: $5./HP boost: $6./MP boost: $7./STR-DEX boost: $8./VIT-AGI boost: $9./INT-MND-CHR boost: $10./All enhancements: $11.]
-- **7394**: Discard which one? [None for now./6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6.]
-- **7395**: Trade for $0?
+- **7392**: Select item. (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./Previous page./Next page.]
+- **7393**: Select key item. (Cruor: $0) [Nothing right now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./Previous page./Next page.]
+- **7394**: Select enhancement. (Cruor: $0) [Nothing for now./Reraise: $1./Protect: $2./Shell: $3./Regen: $4./Refresh: $5./HP boost: $6./MP boost: $7./STR-DEX boost: $8./VIT-AGI boost: $9./INT-MND-CHR boost: $10./All enhancements: $11.]
+- **7395**: Discard which one? [None for now./6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6.]
 - **7396**: Trade for $0?
-- **7397**: Trade for $0? [Yes./No.]
+- **7397**: Trade for $0?
 - **7398**: Trade for $0? [Yes./No.]
-- **7399**: Trade for $6? [Yes./No.]
-- **7400**: [/$3$3C$3Y/$3v$3$3e$3X/$3V$3F$3 [/$3$3W$3F$3l/$3$3t$3V$3$5/HP$3A$3b$3v/MP$3A$3b$3v/STRFDEX$3A$3b$3v/VITFAGI$3A$3b$3v/INTFMNDFCHR$3A$3b$3v/7WD]Lx%JFp$77iH/Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]?/ [Yes./No.]
-- **7401**: Discard the $3? [Yes./No.]
-- **7408**: You do not have enough cruor.
-- **7412**: This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.
-- **7413**: This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.
-- **7414**: This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.
-- **7415**: This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.
-- **7416**: This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.
-- **7417**: This ancient abyssite resonates with the ground beneath you, allowing you to obtain more $5.
-- **7418**: This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.
-- **7419**: This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.
-- **7420**: This is a map of Abyssea - La Theine. Don't leave home without it!
-- **7421**: This is a map of Abyssea - Konschtat. Don't leave home without it!
-- **7422**: This is a map of Abyssea - Tahrongi. Don't leave home without it!
-- **7423**: This is a map of Abyssea - Attohwa. Don't leave home without it!
-- **7424**: This is a map of Abyssea - Misareaux. Don't leave home without it!
-- **7425**: This is a map of Abyssea - Vunkerl. Don't leave home without it!
-- **7426**: Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.
-- **7427**: Trade for how many? (Cruor balance: $0) [None for now./$1 ($2 cruor)./$3 ($4 cruor)./$5i$6 cruor)./$7i$8 cruor)./$9 ($10 cruor).]
-- **7428**: Trade for $1 of the item? [Yes./No.]
+- **7399**: Trade for $0? [Yes./No.]
+- **7400**: Trade for $6? [Yes./No.]
+- **7401**: [/$3$3C$3Y/$3v$3$3e$3X/$3V$3F$3 [/$3$3W$3F$3l/$3$3t$3V$3$5/HP$3A$3b$3v/MP$3A$3b$3v/STRFDEX$3A$3b$3v/VITFAGI$3A$3b$3v/INTFMNDFCHR$3A$3b$3v/7WD]Lx%JFp$77iH/Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]?/ [Yes./No.]
+- **7402**: Discard the $3? [Yes./No.]
+- **7409**: You do not have enough cruor.
+- **7413**: This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.
+- **7414**: This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.
+- **7415**: This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.
+- **7416**: This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.
+- **7417**: This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.
+- **7418**: This ancient abyssite resonates with the ground beneath you, allowing you to obtain more $5.
+- **7419**: This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.
+- **7420**: This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.
+- **7421**: This is a map of Abyssea - La Theine. Don't leave home without it!
+- **7422**: This is a map of Abyssea - Konschtat. Don't leave home without it!
+- **7423**: This is a map of Abyssea - Tahrongi. Don't leave home without it!
+- **7424**: This is a map of Abyssea - Attohwa. Don't leave home without it!
+- **7425**: This is a map of Abyssea - Misareaux. Don't leave home without it!
+- **7426**: This is a map of Abyssea - Vunkerl. Don't leave home without it!
+- **7427**: Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.
+- **7428**: Trade for how many? (Cruor balance: $0) [None for now./$1 ($2 cruor)./$3 ($4 cruor)./$5i$6 cruor)./$7i$8 cruor)./$9 ($10 cruor).]
+- **7429**: Trade for $1 of the item? [Yes./No.]
 
 ## Events
 
@@ -813,7 +813,7 @@
  17: 0x0053 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[4]
  18: 0x0058 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[5]
  19: 0x005D [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[6]
- 20: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 20: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return."
  21: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0066 [0x05] ExtData[1]->WorkLocal[10] = 1
@@ -825,7 +825,7 @@
  28: 0x0085 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
  29: 0x008A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0099
  30: 0x0092 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=6*, condition_work_offset=1*)
- 31: 0x0099 [0x24] CREATE_DIALOG(message_id=7381*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 31: 0x0099 [0x24] CREATE_DIALOG(message_id=7382*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "What will you do? (Cruor balance: $0) [Nothing./Learn about cruor./Exchange for items./Exchange for temporary items./Exchange for key items./Exchange for enhancement effects./Dispose of abyssite.]"
  32: 0x00A0 [0x25] WAIT_DIALOG_SELECT()
  33: 0x00A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B4
@@ -833,28 +833,28 @@
  35: 0x00AE [0x06] ExtData[1]->WorkLocal[10] = 0
  36: 0x00B1 [0x01] GOTO 0x1980
  37: 0x00B4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00DF
- 38: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+ 38: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea."
  39: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+ 40: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
     → "Known by some as "blood gold," these red granules are highly prized and see use as both energy source and construction material."
  41: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+ 42: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
     → "It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based."
  43: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
+ 44: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
     → "Chief among them being "ancient abyssite," a highly concentrated, doubly valuable form of the stone boasting diverse benefits."
  45: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+ 46: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman."
  47: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
+ 48: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
     → "The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure."
  49: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+ 50: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea."
  51: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
+ 52: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
     → "Besides the issuance of items, I am also authorized to imbue you with enhancement effects."
  53: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00DC [0x01] GOTO 0x1980
@@ -948,7 +948,7 @@ SUBROUTINE_00ED:
 140: 0x029A [0x01] GOTO 0x029D
 
 SUBROUTINE_029D:
-141: 0x029D [0x24] CREATE_DIALOG(message_id=7390*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+141: 0x029D [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Select item. (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./Previous page./Next page.]"
 142: 0x02A4 [0x25] WAIT_DIALOG_SELECT()
 143: 0x02A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B3
@@ -1148,7 +1148,7 @@ SUBROUTINE_0659:
 SUBROUTINE_065C:
 324: 0x065C [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[3])
 325: 0x065F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-326: 0x0664 [0x48] [System] [7395*]:
+326: 0x0664 [0x48] [System] [7396*]:
     → "Trade for $0?"
 327: 0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x0668 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1165,7 +1165,7 @@ SUBROUTINE_065C:
 339: 0x06A0 [0x03] Work_Zone_1700[0] = 15000*
 340: 0x06A5 [0x03] Work_Zone_1700[1] = 50*
 341: 0x06AA [0x03] Work_Zone_1700[2] = 25000*
-342: 0x06AF [0x24] CREATE_DIALOG(message_id=7427*, default_option=0*, option_flags=0*)
+342: 0x06AF [0x24] CREATE_DIALOG(message_id=7428*, default_option=0*, option_flags=0*)
     → "Trade for how many? (Cruor balance: $0) [None for now./$1 ($2 cruor)./$3 ($4 cruor)./$5i$6 cruor)./$7i$8 cruor)./$9 ($10 cruor).]"
 343: 0x06B6 [0x25] WAIT_DIALOG_SELECT()
 344: 0x06B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C2
@@ -1195,7 +1195,7 @@ SUBROUTINE_072B:
 366: 0x072B [0x02] IF !(ExtData[1]->WorkLocal[14] <= 0*) GOTO 0x078B
 367: 0x0733 [0x03] Work_Zone[2] = 2490*
 368: 0x0738 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[14]
-369: 0x073D [0x24] CREATE_DIALOG(message_id=7428*, default_option=1*, option_flags=0*)
+369: 0x073D [0x24] CREATE_DIALOG(message_id=7429*, default_option=1*, option_flags=0*)
     → "Trade for $1 of the item? [Yes./No.]"
 370: 0x0744 [0x25] WAIT_DIALOG_SELECT()
 371: 0x0745 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0780
@@ -1206,7 +1206,7 @@ SUBROUTINE_072B:
 376: 0x0770 [0x06] ExtData[1]->WorkLocal[11] = 0
 377: 0x0773 [0x06] ExtData[1]->WorkLocal[10] = 0
 378: 0x0776 [0x01] GOTO 0x077D
-379: 0x0779 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+379: 0x0779 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "You do not have enough cruor."
 380: 0x077C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1218,7 +1218,7 @@ SUBROUTINE_077D:
 SUBROUTINE_078B:
 384: 0x078B [0x01] GOTO 0x07D8
 385: 0x078E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-386: 0x0793 [0x24] CREATE_DIALOG(message_id=7397*, default_option=1*, option_flags=0*)
+386: 0x0793 [0x24] CREATE_DIALOG(message_id=7398*, default_option=1*, option_flags=0*)
     → "Trade for $0? [Yes./No.]"
 387: 0x079A [0x25] WAIT_DIALOG_SELECT()
 388: 0x079B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07CD
@@ -1228,7 +1228,7 @@ SUBROUTINE_078B:
 392: 0x07BD [0x06] ExtData[1]->WorkLocal[11] = 0
 393: 0x07C0 [0x06] ExtData[1]->WorkLocal[10] = 0
 394: 0x07C3 [0x01] GOTO 0x07CA
-395: 0x07C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+395: 0x07C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "You do not have enough cruor."
 396: 0x07C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1330,7 +1330,7 @@ SUBROUTINE_07EC:
 SUBROUTINE_098F:
 486: 0x098F [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x099A
 487: 0x0997 [0x1A] CALL_SUBROUTINE(address=0x2029)
-488: 0x099A [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+488: 0x099A [0x24] CREATE_DIALOG(message_id=7392*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Select item. (Cruor: $0) [Nothing right now./$1: $2./$3: $4./$5: $6./$7: $8./$9: $10./$11: $12./$13: $14./$15: $16./$17: $18./$19: $20./Previous page./Next page.]"
 489: 0x09A1 [0x25] WAIT_DIALOG_SELECT()
 490: 0x09A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09B0
@@ -1538,12 +1538,12 @@ SUBROUTINE_0D69:
 676: 0x0D79 [0x03] ExtData[1]->WorkLocal[4] = 200000*
 677: 0x0D7E [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[3])
 678: 0x0D81 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-679: 0x0D86 [0x48] [System] [7396*]:
+679: 0x0D86 [0x48] [System] [7397*]:
     → "Trade for $0?"
 680: 0x0D89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 681: 0x0D8A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 682: 0x0D8D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-683: 0x0D92 [0x24] CREATE_DIALOG(message_id=7398*, default_option=1*, option_flags=0*)
+683: 0x0D92 [0x24] CREATE_DIALOG(message_id=7399*, default_option=1*, option_flags=0*)
     → "Trade for $0? [Yes./No.]"
 684: 0x0D99 [0x25] WAIT_DIALOG_SELECT()
 685: 0x0D9A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DCC
@@ -1553,7 +1553,7 @@ SUBROUTINE_0D69:
 689: 0x0DBC [0x06] ExtData[1]->WorkLocal[11] = 0
 690: 0x0DBF [0x06] ExtData[1]->WorkLocal[10] = 0
 691: 0x0DC2 [0x01] GOTO 0x0DC9
-692: 0x0DC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+692: 0x0DC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "You do not have enough cruor."
 693: 0x0DC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1653,7 +1653,7 @@ SUBROUTINE_0DEB:
 782: 0x0F8B [0x01] GOTO 0x0F8E
 
 SUBROUTINE_0F8E:
-783: 0x0F8E [0x24] CREATE_DIALOG(message_id=7392*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+783: 0x0F8E [0x24] CREATE_DIALOG(message_id=7393*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Select key item. (Cruor: $0) [Nothing right now./$6: $2./$6: $4./$6: $6./$6: $8./$6: $10./$6: $12./$6: $14./$6: $16./$6: $18./$6: $20./Previous page./Next page.]"
 784: 0x0F95 [0x25] WAIT_DIALOG_SELECT()
 785: 0x0F96 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FA4
@@ -1852,85 +1852,85 @@ SUBROUTINE_134A:
 
 SUBROUTINE_134D:
 966: 0x134D [0x02] IF !(ExtData[1]->WorkLocal[3] == 1379*) GOTO 0x135C
-967: 0x1355 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+967: 0x1355 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations."
 968: 0x1358 [0x23] WAIT_FOR_DIALOG_INTERACTION
 969: 0x1359 [0x01] GOTO 0x1433
 970: 0x135C [0x02] IF !(ExtData[1]->WorkLocal[3] == 1389*) GOTO 0x1370
 971: 0x1364 [0x03] Work_Zone[2] = 1271*
-972: 0x1369 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
+972: 0x1369 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
     → "This ancient abyssite resonates with the ground beneath you, allowing you to obtain more $5."
 973: 0x136C [0x23] WAIT_FOR_DIALOG_INTERACTION
 974: 0x136D [0x01] GOTO 0x1433
 975: 0x1370 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1391*) GOTO 0x137F
-976: 0x1378 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+976: 0x1378 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor."
 977: 0x137B [0x23] WAIT_FOR_DIALOG_INTERACTION
 978: 0x137C [0x01] GOTO 0x1433
 979: 0x137F [0x02] IF !(ExtData[1]->WorkLocal[3] == 1394*) GOTO 0x138E
-980: 0x1387 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+980: 0x1387 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos."
 981: 0x138A [0x23] WAIT_FOR_DIALOG_INTERACTION
 982: 0x138B [0x01] GOTO 0x1433
 983: 0x138E [0x02] IF !(ExtData[1]->WorkLocal[3] == 1397*) GOTO 0x139D
-984: 0x1396 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+984: 0x1396 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle."
 985: 0x1399 [0x23] WAIT_FOR_DIALOG_INTERACTION
 986: 0x139A [0x01] GOTO 0x1433
 987: 0x139D [0x02] IF !(ExtData[1]->WorkLocal[3] == 1401*) GOTO 0x13AC
-988: 0x13A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+988: 0x13A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides."
 989: 0x13A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 990: 0x13A9 [0x01] GOTO 0x1433
 991: 0x13AC [0x02] IF !(ExtData[1]->WorkLocal[3] == 1409*) GOTO 0x13BB
-992: 0x13B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+992: 0x13B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease."
 993: 0x13B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 994: 0x13B8 [0x01] GOTO 0x1433
 995: 0x13BB [0x02] IF !(ExtData[1]->WorkLocal[3] == 1440*) GOTO 0x13CA
-996: 0x13C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+996: 0x13C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed."
 997: 0x13C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 998: 0x13C7 [0x01] GOTO 0x1433
 999: 0x13CA [0x02] IF !(ExtData[1]->WorkLocal[3] == 1885*) GOTO 0x13D9
-1000: 0x13D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+1000: 0x13D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "This is a map of Abyssea - La Theine. Don't leave home without it!"
 1001: 0x13D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1002: 0x13D6 [0x01] GOTO 0x1433
 1003: 0x13D9 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1886*) GOTO 0x13E8
-1004: 0x13E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+1004: 0x13E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "This is a map of Abyssea - Konschtat. Don't leave home without it!"
 1005: 0x13E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1006: 0x13E5 [0x01] GOTO 0x1433
 1007: 0x13E8 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1887*) GOTO 0x13F7
-1008: 0x13F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+1008: 0x13F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "This is a map of Abyssea - Tahrongi. Don't leave home without it!"
 1009: 0x13F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1010: 0x13F4 [0x01] GOTO 0x1433
 1011: 0x13F7 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1888*) GOTO 0x1406
-1012: 0x13FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+1012: 0x13FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "This is a map of Abyssea - Attohwa. Don't leave home without it!"
 1013: 0x1402 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1014: 0x1403 [0x01] GOTO 0x1433
 1015: 0x1406 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1889*) GOTO 0x1415
-1016: 0x140E [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+1016: 0x140E [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "This is a map of Abyssea - Misareaux. Don't leave home without it!"
 1017: 0x1411 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1018: 0x1412 [0x01] GOTO 0x1433
 1019: 0x1415 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1890*) GOTO 0x1424
-1020: 0x141D [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+1020: 0x141D [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "This is a map of Abyssea - Vunkerl. Don't leave home without it!"
 1021: 0x1420 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1022: 0x1421 [0x01] GOTO 0x1433
 1023: 0x1424 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1564*) GOTO 0x1433
-1024: 0x142C [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+1024: 0x142C [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you."
 1025: 0x142F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1026: 0x1430 [0x01] GOTO 0x1433
 
 SUBROUTINE_1433:
 1027: 0x1433 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-1028: 0x1438 [0x24] CREATE_DIALOG(message_id=7399*, default_option=1*, option_flags=0*)
+1028: 0x1438 [0x24] CREATE_DIALOG(message_id=7400*, default_option=1*, option_flags=0*)
     → "Trade for $6? [Yes./No.]"
 1029: 0x143F [0x25] WAIT_DIALOG_SELECT()
 1030: 0x1440 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1472
@@ -1940,7 +1940,7 @@ SUBROUTINE_1433:
 1034: 0x1462 [0x06] ExtData[1]->WorkLocal[11] = 0
 1035: 0x1465 [0x06] ExtData[1]->WorkLocal[10] = 0
 1036: 0x1468 [0x01] GOTO 0x146F
-1037: 0x146B [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+1037: 0x146B [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "You do not have enough cruor."
 1038: 0x146E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2007,7 +2007,7 @@ SUBROUTINE_148E:
 1094: 0x15C7 [0x03] Work_Zone_1700[1] = 100*
 1095: 0x15CC [0x03] Work_Zone_1700[2] = 100*
 1096: 0x15D1 [0x03] Work_Zone_1700[3] = 470*
-1097: 0x15D6 [0x24] CREATE_DIALOG(message_id=7393*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+1097: 0x15D6 [0x24] CREATE_DIALOG(message_id=7394*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Select enhancement. (Cruor: $0) [Nothing for now./Reraise: $1./Protect: $2./Shell: $3./Regen: $4./Refresh: $5./HP boost: $6./MP boost: $7./STR-DEX boost: $8./VIT-AGI boost: $9./INT-MND-CHR boost: $10./All enhancements: $11.]"
 1098: 0x15DD [0x25] WAIT_DIALOG_SELECT()
 1099: 0x15DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15EC
@@ -2061,7 +2061,7 @@ SUBROUTINE_148E:
 SUBROUTINE_16D3:
 1146: 0x16D3 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x1725
 1147: 0x16DB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-1148: 0x16E0 [0x24] CREATE_DIALOG(message_id=7400*, default_option=1*, option_flags=0*)
+1148: 0x16E0 [0x24] CREATE_DIALOG(message_id=7401*, default_option=1*, option_flags=0*)
     → "[/$3$3C$3Y/$3v$3$3e$3X/$3V$3F$3 [/$3$3W$3F$3l/$3$3t$3V$3$5/HP$3A$3b$3v/MP$3A$3b$3v/STRFDEX$3A$3b$3v/VITFAGI$3A$3b$3v/INTFMNDFCHR$3A$3b$3v/7WD]Lx%JFp$77iH/Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]?/ [Yes./No.]"
 1149: 0x16E7 [0x25] WAIT_DIALOG_SELECT()
 1150: 0x16E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x171A
@@ -2071,7 +2071,7 @@ SUBROUTINE_16D3:
 1154: 0x170A [0x06] ExtData[1]->WorkLocal[11] = 0
 1155: 0x170D [0x06] ExtData[1]->WorkLocal[10] = 0
 1156: 0x1710 [0x01] GOTO 0x1717
-1157: 0x1713 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+1157: 0x1713 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "You do not have enough cruor."
 1158: 0x1716 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2156,7 +2156,7 @@ SUBROUTINE_1803:
 1210: 0x182B [0x03] Work_Zone_1700[0] = 1652*
 1211: 0x1830 [0x03] Work_Zone_1700[1] = 1653*
 1212: 0x1835 [0x03] Work_Zone_1700[2] = 1654*
-1213: 0x183A [0x24] CREATE_DIALOG(message_id=7394*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+1213: 0x183A [0x24] CREATE_DIALOG(message_id=7395*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Discard which one? [None for now./6./$6./$6./$6./$6./$6./$6./$6./$6./$6./$6.]"
 1214: 0x1841 [0x25] WAIT_DIALOG_SELECT()
 1215: 0x1842 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1850
@@ -2210,7 +2210,7 @@ SUBROUTINE_1803:
 SUBROUTINE_1937:
 1262: 0x1937 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x197A
 1263: 0x193F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-1264: 0x1944 [0x24] CREATE_DIALOG(message_id=7401*, default_option=1*, option_flags=0*)
+1264: 0x1944 [0x24] CREATE_DIALOG(message_id=7402*, default_option=1*, option_flags=0*)
     → "Discard the $3? [Yes./No.]"
 1265: 0x194B [0x25] WAIT_DIALOG_SELECT()
 1266: 0x194C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x196F

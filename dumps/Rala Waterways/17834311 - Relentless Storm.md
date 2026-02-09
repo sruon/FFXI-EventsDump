@@ -24,7 +24,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0045      |          69 |
-|       1 | 0x1FBD      |        8125 |
+|       1 | 0x1FBE      |        8126 |
 |       2 | 0x0028      |          40 |
 |       3 | 0xFFFB5BF5  |  4294663157 |
 |       4 | 0xFFFB1BE3  |  4294646755 |
@@ -39,7 +39,7 @@
 
 ## String References
 
-- **8125**: You stand at the Peacekeepers' Coalition's outpost in Rala Waterways. I, Relentless Storm, am in charge of our operations in the area.
+- **8126**: You stand at the Peacekeepers' Coalition's outpost in Rala Waterways. I, Relentless Storm, am in charge of our operations in the area.
 
 ## Events
 
@@ -90,7 +90,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "You stand at the Peacekeepers' Coalition's outpost in Rala Waterways. I, Relentless Storm, am in charge of our operations in the area."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*

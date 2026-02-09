@@ -22,7 +22,7 @@
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
 |       1 | 0x0013      |          19 |
-|       2 | 0x2A03      |       10755 |
+|       2 | 0x2A04      |       10756 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x015D      |         349 |
@@ -50,10 +50,10 @@
 |      27 | 0x04F7      |        1271 |
 |      28 | 0x000F      |          15 |
 |      29 | 0x00B4      |         180 |
-|      30 | 0x2A04      |       10756 |
+|      30 | 0x2A05      |       10757 |
 |      31 | 0x0005      |           5 |
 |      32 | 0x00F0      |         240 |
-|      33 | 0x2A05      |       10757 |
+|      33 | 0x2A06      |       10758 |
 |      34 | 0x0050      |          80 |
 |      35 | 0x0002      |           2 |
 |      36 | 0x00F3      |         243 |
@@ -131,9 +131,9 @@
 
 ## String References
 
-- **10755**: Select event scene: [Quit./Excenmille VS. Orc Boss./San d'Oria 1: Ru'Lude Conference./San d'Oria 2: Hydra./San d'Oria 3: Orc in a Cage.]
-- **10756**: Debug: Press button to start event.
-- **10757**: Watch again? [Yep./Nope.]
+- **10756**: Select event scene: [Quit./Excenmille VS. Orc Boss./San d'Oria 1: Ru'Lude Conference./San d'Oria 2: Hydra./San d'Oria 3: Orc in a Cage.]
+- **10757**: Debug: Press button to start event.
+- **10758**: Watch again? [Yep./Nope.]
 
 ## Events
 
@@ -311,7 +311,7 @@
   2: 0x0004 [0x46] CAMERA_CONTROL: Disable user control
   3: 0x0006 [0x1C] WAIT(60* ticks)
   4: 0x0009 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  5: 0x000C [0x24] CREATE_DIALOG(message_id=10755*, default_option=0*, option_flags=0*)
+  5: 0x000C [0x24] CREATE_DIALOG(message_id=10756*, default_option=0*, option_flags=0*)
     → "Select event scene: [Quit./Excenmille VS. Orc Boss./San d'Oria 1: Ru'Lude Conference./San d'Oria 2: Hydra./San d'Oria 3: Orc in a Cage.]"
   6: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001F
@@ -366,7 +366,7 @@ SUBROUTINE_0040:
  54: 0x0166 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105351/0x010501C7), Unnamed NPC (ID: 17105351/0x010501C7)]
  55: 0x0173 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105352/0x010501C8), Unnamed NPC (ID: 17105352/0x010501C8)]
  56: 0x0180 [0x1C] WAIT(180* ticks)
- 57: 0x0183 [0x48] [System] [10756*]:
+ 57: 0x0183 [0x48] [System] [10757*]:
     → "Debug: Press button to start event."
  58: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0187 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
@@ -383,7 +383,7 @@ SUBROUTINE_0040:
  70: 0x0208 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs0" with entities [EventEntity, EventEntity], work=349*
  71: 0x0217 [0x1C] WAIT(240* ticks)
  72: 0x021A [0x68] SHOW_HUD_ELEMENTS()
- 73: 0x021B [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+ 73: 0x021B [0x24] CREATE_DIALOG(message_id=10758*, default_option=0*, option_flags=0*)
     → "Watch again? [Yep./Nope.]"
  74: 0x0222 [0x25] WAIT_DIALOG_SELECT()
  75: 0x0223 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0231
@@ -433,7 +433,7 @@ SUBROUTINE_0253:
 115: 0x0333 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 116: 0x0334 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Prien (ID: 17105345/0x010501C1) Render.Flags0 and Render.Flags3 conditions are met
 117: 0x0339 [0x1C] WAIT(180* ticks)
-118: 0x033C [0x48] [System] [10756*]:
+118: 0x033C [0x48] [System] [10757*]:
     → "Debug: Press button to start event."
 119: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0340 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
@@ -447,7 +447,7 @@ SUBROUTINE_0253:
 128: 0x037A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs2" with entities [EventEntity, EventEntity], work=349*
 129: 0x0389 [0x1C] WAIT(240* ticks)
 130: 0x038C [0x68] SHOW_HUD_ELEMENTS()
-131: 0x038D [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+131: 0x038D [0x24] CREATE_DIALOG(message_id=10758*, default_option=0*, option_flags=0*)
     → "Watch again? [Yep./Nope.]"
 132: 0x0394 [0x25] WAIT_DIALOG_SELECT()
 133: 0x0395 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A3
@@ -530,7 +530,7 @@ SUBROUTINE_03C5:
 206: 0x0587 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17105355/0x010501CB) Render.Flags0 and Render.Flags3 conditions are met
 207: 0x058C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 208: 0x058D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17105356/0x010501CC) Render.Flags0 and Render.Flags3 conditions are met
-209: 0x0592 [0x48] [System] [10756*]:
+209: 0x0592 [0x48] [System] [10757*]:
     → "Debug: Press button to start event."
 210: 0x0595 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x0596 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
@@ -543,7 +543,7 @@ SUBROUTINE_03C5:
 218: 0x05CD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "tgs3" with entities [EventEntity, EventEntity], work=349*
 219: 0x05DC [0x1C] WAIT(240* ticks)
 220: 0x05DF [0x68] SHOW_HUD_ELEMENTS()
-221: 0x05E0 [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+221: 0x05E0 [0x24] CREATE_DIALOG(message_id=10758*, default_option=0*, option_flags=0*)
     → "Watch again? [Yep./Nope.]"
 222: 0x05E7 [0x25] WAIT_DIALOG_SELECT()
 223: 0x05E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05F6
@@ -603,7 +603,7 @@ SUBROUTINE_0618:
 273: 0x073E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Unnamed NPC (ID: 17105350/0x010501C6), Unnamed NPC (ID: 17105350/0x010501C6)]
 274: 0x074B [0x27] REQ_SET(priority=0x0F, entity_id=Hanging Cage (ID: 17105337/0x010501B9), tag_num=0x04)
 275: 0x0752 [0x1C] WAIT(120* ticks)
-276: 0x0755 [0x48] [System] [10756*]:
+276: 0x0755 [0x48] [System] [10757*]:
     → "Debug: Press button to start event."
 277: 0x0758 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0759 [0x67] HIDE_HUD_ELEMENTS(param1=0x8003, param2=0x8003)
@@ -620,7 +620,7 @@ SUBROUTINE_0618:
 289: 0x07B0 [0x1C] WAIT(60* ticks)
 290: 0x07B3 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105353/0x010501C9))
 291: 0x07B8 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17105354/0x010501CA))
-292: 0x07BD [0x24] CREATE_DIALOG(message_id=10757*, default_option=0*, option_flags=0*)
+292: 0x07BD [0x24] CREATE_DIALOG(message_id=10758*, default_option=0*, option_flags=0*)
     → "Watch again? [Yep./Nope.]"
 293: 0x07C4 [0x25] WAIT_DIALOG_SELECT()
 294: 0x07C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07D9

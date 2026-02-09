@@ -224,28 +224,28 @@
 |      98 | 0x3B1FD     |      242173 |
 |      99 | 0xFFFFCF2D  |  4294954797 |
 |     100 | 0x0FD3      |        4051 |
-|     101 | 0x3081      |       12417 |
+|     101 | 0x3082      |       12418 |
 |     102 | 0xFFFFA598  |  4294944152 |
 |     103 | 0x2E2D5     |      189141 |
 |     104 | 0xFFFFE890  |  4294961296 |
 |     105 | 0x0CA2      |        3234 |
-|     106 | 0x309C      |       12444 |
-|     107 | 0x308D      |       12429 |
-|     108 | 0x308E      |       12430 |
-|     109 | 0x30AD      |       12461 |
-|     110 | 0x30AE      |       12462 |
-|     111 | 0x30C0      |       12480 |
-|     112 | 0x30C1      |       12481 |
-|     113 | 0x30DA      |       12506 |
-|     114 | 0x30DB      |       12507 |
-|     115 | 0x3105      |       12549 |
-|     116 | 0x3106      |       12550 |
+|     106 | 0x309D      |       12445 |
+|     107 | 0x308E      |       12430 |
+|     108 | 0x308F      |       12431 |
+|     109 | 0x30AE      |       12462 |
+|     110 | 0x30AF      |       12463 |
+|     111 | 0x30C1      |       12481 |
+|     112 | 0x30C2      |       12482 |
+|     113 | 0x30DB      |       12507 |
+|     114 | 0x30DC      |       12508 |
+|     115 | 0x3106      |       12550 |
+|     116 | 0x3107      |       12551 |
 |     117 | 0xFFFFA394  |  4294943636 |
 |     118 | 0x2E433     |      189491 |
 |     119 | 0x0F5A      |        3930 |
-|     120 | 0x3111      |       12561 |
-|     121 | 0x31AD      |       12717 |
-|     122 | 0x31AE      |       12718 |
+|     120 | 0x3112      |       12562 |
+|     121 | 0x31AE      |       12718 |
+|     122 | 0x31AF      |       12719 |
 |     123 | 0xFFFFA10E  |  4294942990 |
 |     124 | 0x2E23B     |      188987 |
 |     125 | 0x0934      |        2356 |
@@ -282,21 +282,21 @@
 - **4379**: It's the final showdown! Good will at last conquer evil-wevil!
 - **4391**: Cardians are so strangey-wangey. They don't eat anything at all!
 - **4392**: Not like us people who eat to live and live to eat!
-- **12417**: He also said that if we don't give it back, he'll get the boss-woss from the Manustery onto us! We're getting framed as a gang of villain-willains!
-- **12429**: The Star Onion Brigade is not a gang of villain-willains!
-- **12430**: That Mana Orb belongs to Joker. It got sucked right into him like it was a perfect fit! It must be his!
-- **12444**: Let's tell him it was gobble-wobbled up by a dhamel in Windurst Woods!
-- **12461**: Huh. I never would've thought of taking Joker to pieces.
-- **12462**: Adults always think of the most horrible-worrible things first.
-- **12480**: ...Hey, I know. Why don't we take Joker so far away that Honoi-Gomoi will never-ever find him?
-- **12481**: Even furtherer away than San d'Oria or Bastok. Somewhere where even adventurers are afraid to go.
-- **12506**: I wonder why Honoi-Gomoi wants that particular Mana Orb so much?
-- **12507**: I wouldn't want to become a hard-headed old man like that for all the gil in Vana'diel. No one would like me.
-- **12549**: Wowzie-powzie! Those bad guy Cardians were totally intimidating! They were way more scary than Nanaa-Mihgo!
-- **12550**: Man! If I were a grown-up wizard, I could have saved everyone with my magic! Why do I still gotta be a kid?
-- **12561**: Man, if only I was a grown-up wizard! Star Sibyl, make me an adult now, I don't want to wait!
-- **12717**: I wonder, if I grow really-weally hugey-wugey and reach up to the sky, I'll be able to talk to Joker again?
-- **12718**: I'm gonna grow absolutaruly ginormous! Bigger than a Mithra! Bigger than a Galka. Even bigger than an Elvaan! I'm gonna grow up to be a giant!
+- **12418**: He also said that if we don't give it back, he'll get the boss-woss from the Manustery onto us! We're getting framed as a gang of villain-willains!
+- **12430**: The Star Onion Brigade is not a gang of villain-willains!
+- **12431**: That Mana Orb belongs to Joker. It got sucked right into him like it was a perfect fit! It must be his!
+- **12445**: Let's tell him it was gobble-wobbled up by a dhamel in Windurst Woods!
+- **12462**: Huh. I never would've thought of taking Joker to pieces.
+- **12463**: Adults always think of the most horrible-worrible things first.
+- **12481**: ...Hey, I know. Why don't we take Joker so far away that Honoi-Gomoi will never-ever find him?
+- **12482**: Even furtherer away than San d'Oria or Bastok. Somewhere where even adventurers are afraid to go.
+- **12507**: I wonder why Honoi-Gomoi wants that particular Mana Orb so much?
+- **12508**: I wouldn't want to become a hard-headed old man like that for all the gil in Vana'diel. No one would like me.
+- **12550**: Wowzie-powzie! Those bad guy Cardians were totally intimidating! They were way more scary than Nanaa-Mihgo!
+- **12551**: Man! If I were a grown-up wizard, I could have saved everyone with my magic! Why do I still gotta be a kid?
+- **12562**: Man, if only I was a grown-up wizard! Star Sibyl, make me an adult now, I don't want to wait!
+- **12718**: I wonder, if I grow really-weally hugey-wugey and reach up to the sky, I'll be able to talk to Joker again?
+- **12719**: I'm gonna grow absolutaruly ginormous! Bigger than a Mithra! Bigger than a Galka. Even bigger than an Elvaan! I'm gonna grow up to be a giant!
 
 ## Events
 
@@ -2369,7 +2369,7 @@
 #### Opcodes
 
 ```
-  0: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=12417*)
+  0: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=12418*)
     → "He also said that if we don't give it back, he'll get the boss-woss from the Manustery onto us! We're getting framed as a gang of villain-willains!"
   1: 0x054A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x054B [0x00] END_REQSTACK()
@@ -2440,7 +2440,7 @@
 #### Opcodes
 
 ```
-  0: 0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=12444*)
+  0: 0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=12445*)
     → "Let's tell him it was gobble-wobbled up by a dhamel in Windurst Woods!"
   1: 0x055A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x055B [0x00] END_REQSTACK()
@@ -2471,10 +2471,10 @@
   1: 0x0561 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0562 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0563 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x09)
-  4: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=12429*)
+  4: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=12430*)
     → "The Star Onion Brigade is not a gang of villain-willains!"
   5: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x056E [0x1D] PRINT_EVENT_MESSAGE(message_id=12430*)
+  6: 0x056E [0x1D] PRINT_EVENT_MESSAGE(message_id=12431*)
     → "That Mana Orb belongs to Joker. It got sucked right into him like it was a perfect fit! It must be his!"
   7: 0x0571 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0572 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x0A)
@@ -2509,12 +2509,12 @@
   1: 0x0582 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0583 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0584 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x12)
-  4: 0x058B [0x1D] PRINT_EVENT_MESSAGE(message_id=12461*)
+  4: 0x058B [0x1D] PRINT_EVENT_MESSAGE(message_id=12462*)
     → "Huh. I never would've thought of taking Joker to pieces."
   5: 0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x058F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x13)
   7: 0x0596 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x14)
-  8: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=12462*)
+  8: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=12463*)
     → "Adults always think of the most horrible-worrible things first."
   9: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x15)
@@ -2565,7 +2565,7 @@
 #### Opcodes
 
 ```
-  0: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=12480*)
+  0: 0x05AD [0x1D] PRINT_EVENT_MESSAGE(message_id=12481*)
     → "...Hey, I know. Why don't we take Joker so far away that Honoi-Gomoi will never-ever find him?"
   1: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05B1 [0x00] END_REQSTACK()
@@ -2590,7 +2590,7 @@
 #### Opcodes
 
 ```
-  0: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12481*)
+  0: 0x05B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12482*)
     → "Even furtherer away than San d'Oria or Bastok. Somewhere where even adventurers are afraid to go."
   1: 0x05B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05B6 [0x00] END_REQSTACK()
@@ -2622,12 +2622,12 @@
   1: 0x05BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x12)
-  4: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12506*)
+  4: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12507*)
     → "I wonder why Honoi-Gomoi wants that particular Mana Orb so much?"
   5: 0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x13)
   7: 0x05D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x14)
-  8: 0x05D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12507*)
+  8: 0x05D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12508*)
     → "I wouldn't want to become a hard-headed old man like that for all the gil in Vana'diel. No one would like me."
   9: 0x05DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x15)
@@ -2684,12 +2684,12 @@
   1: 0x05EC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05ED [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x07)
-  4: 0x05F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+  4: 0x05F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Wowzie-powzie! Those bad guy Cardians were totally intimidating! They were way more scary than Nanaa-Mihgo!"
   5: 0x05F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x08)
   7: 0x0600 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x09)
-  8: 0x0607 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
+  8: 0x0607 [0x1D] PRINT_EVENT_MESSAGE(message_id=12551*)
     → "Man! If I were a grown-up wizard, I could have saved everyone with my magic! Why do I still gotta be a kid?"
   9: 0x060A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x060B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x0A)
@@ -2789,7 +2789,7 @@
   1: 0x0627 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0628 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0629 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x09)
-  4: 0x0630 [0x1D] PRINT_EVENT_MESSAGE(message_id=12561*)
+  4: 0x0630 [0x1D] PRINT_EVENT_MESSAGE(message_id=12562*)
     → "Man, if only I was a grown-up wizard! Star Sibyl, make me an adult now, I don't want to wait!"
   5: 0x0633 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0634 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x0A)
@@ -2845,10 +2845,10 @@
   1: 0x0645 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0646 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0647 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x09)
-  4: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=12717*)
+  4: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=12718*)
     → "I wonder, if I grow really-weally hugey-wugey and reach up to the sky, I'll be able to talk to Joker again?"
   5: 0x0651 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0652 [0x1D] PRINT_EVENT_MESSAGE(message_id=12718*)
+  6: 0x0652 [0x1D] PRINT_EVENT_MESSAGE(message_id=12719*)
     → "I'm gonna grow absolutaruly ginormous! Bigger than a Mithra! Bigger than a Galka. Even bigger than an Elvaan! I'm gonna grow up to be a giant!"
   7: 0x0655 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0656 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x0A)

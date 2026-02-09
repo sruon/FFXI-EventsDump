@@ -98,21 +98,21 @@
 |      10 | 0x003C      |          60 |
 |      11 | 0x0002      |           2 |
 |      12 | 0x00AA      |         170 |
-|      13 | 0x1CA3      |        7331 |
+|      13 | 0x1CA4      |        7332 |
 |      14 | 0x001B      |          27 |
 |      15 | 0x00FD      |         253 |
-|      16 | 0x1CA4      |        7332 |
-|      17 | 0x1CA5      |        7333 |
-|      18 | 0x1CA6      |        7334 |
-|      19 | 0x1CA7      |        7335 |
+|      16 | 0x1CA5      |        7333 |
+|      17 | 0x1CA6      |        7334 |
+|      18 | 0x1CA7      |        7335 |
+|      19 | 0x1CA8      |        7336 |
 |      20 | 0x0078      |         120 |
 |      21 | 0x00FE      |         254 |
-|      22 | 0x1CA8      |        7336 |
-|      23 | 0x1CA9      |        7337 |
+|      22 | 0x1CA9      |        7337 |
+|      23 | 0x1CAA      |        7338 |
 |      24 | 0x0003      |           3 |
-|      25 | 0x1CAA      |        7338 |
-|      26 | 0x1CAB      |        7339 |
-|      27 | 0x1CAC      |        7340 |
+|      25 | 0x1CAB      |        7339 |
+|      26 | 0x1CAC      |        7340 |
+|      27 | 0x1CAD      |        7341 |
 |      28 | 0x78A0F     |      494095 |
 |      29 | 0x44AF6     |      281334 |
 |      30 | 0xFFFF91A6  |  4294939046 |
@@ -185,54 +185,54 @@
 |      97 | 0x0925      |        2341 |
 |      98 | 0x001E      |          30 |
 |      99 | 0x011D      |         285 |
-|     100 | 0x1CBF      |        7359 |
+|     100 | 0x1CC0      |        7360 |
 |     101 | 0x0096      |         150 |
-|     102 | 0x1CC0      |        7360 |
-|     103 | 0x1CC1      |        7361 |
+|     102 | 0x1CC1      |        7361 |
+|     103 | 0x1CC2      |        7362 |
 |     104 | 0x00AC      |         172 |
-|     105 | 0x1CC2      |        7362 |
+|     105 | 0x1CC3      |        7363 |
 |     106 | 0x002D      |          45 |
-|     107 | 0x1CC3      |        7363 |
+|     107 | 0x1CC4      |        7364 |
 |     108 | 0x0020      |          32 |
-|     109 | 0x1CC4      |        7364 |
-|     110 | 0x1CC5      |        7365 |
-|     111 | 0x1CC6      |        7366 |
-|     112 | 0x1CC7      |        7367 |
-|     113 | 0x1CC8      |        7368 |
-|     114 | 0x1CC9      |        7369 |
+|     109 | 0x1CC5      |        7365 |
+|     110 | 0x1CC6      |        7366 |
+|     111 | 0x1CC7      |        7367 |
+|     112 | 0x1CC8      |        7368 |
+|     113 | 0x1CC9      |        7369 |
+|     114 | 0x1CCA      |        7370 |
 |     115 | 0x0019      |          25 |
-|     116 | 0x1CCA      |        7370 |
-|     117 | 0x1CCB      |        7371 |
-|     118 | 0x1CCC      |        7372 |
-|     119 | 0x1CCD      |        7373 |
+|     116 | 0x1CCB      |        7371 |
+|     117 | 0x1CCC      |        7372 |
+|     118 | 0x1CCD      |        7373 |
+|     119 | 0x1CCE      |        7374 |
 |     120 | 0x0042      |          66 |
-|     121 | 0x1CCE      |        7374 |
+|     121 | 0x1CCF      |        7375 |
 |     122 | 0x000F      |          15 |
-|     123 | 0x1CCF      |        7375 |
-|     124 | 0x1CD0      |        7376 |
-|     125 | 0x1CD1      |        7377 |
-|     126 | 0x1CD2      |        7378 |
-|     127 | 0x1CD3      |        7379 |
-|     128 | 0x1CD4      |        7380 |
-|     129 | 0x1CD6      |        7382 |
-|     130 | 0x1CD7      |        7383 |
-|     131 | 0x1CD8      |        7384 |
+|     123 | 0x1CD0      |        7376 |
+|     124 | 0x1CD1      |        7377 |
+|     125 | 0x1CD2      |        7378 |
+|     126 | 0x1CD3      |        7379 |
+|     127 | 0x1CD4      |        7380 |
+|     128 | 0x1CD5      |        7381 |
+|     129 | 0x1CD7      |        7383 |
+|     130 | 0x1CD8      |        7384 |
+|     131 | 0x1CD9      |        7385 |
 |     132 | 0x005A      |          90 |
-|     133 | 0x1CD9      |        7385 |
-|     134 | 0x1CDA      |        7386 |
+|     133 | 0x1CDA      |        7386 |
+|     134 | 0x1CDB      |        7387 |
 |     135 | 0x0016      |          22 |
-|     136 | 0x1CDB      |        7387 |
-|     137 | 0x1CDC      |        7388 |
-|     138 | 0x1CDD      |        7389 |
+|     136 | 0x1CDC      |        7388 |
+|     137 | 0x1CDD      |        7389 |
+|     138 | 0x1CDE      |        7390 |
 |     139 | 0x000E      |          14 |
-|     140 | 0x1CDF      |        7391 |
-|     141 | 0x1CDE      |        7390 |
-|     142 | 0x1CE0      |        7392 |
-|     143 | 0x1CE1      |        7393 |
+|     140 | 0x1CE0      |        7392 |
+|     141 | 0x1CDF      |        7391 |
+|     142 | 0x1CE1      |        7393 |
+|     143 | 0x1CE2      |        7394 |
 |     144 | 0xFFFCE055  |  4294762581 |
 |     145 | 0x17050     |       94288 |
 |     146 | 0xFFFFD83D  |  4294957117 |
-|     147 | 0x1CFB      |        7419 |
+|     147 | 0x1CFC      |        7420 |
 |     148 | 0xA5BF0     |      678896 |
 |     149 | 0x34167     |      213351 |
 |     150 | 0xFFFFC2CD  |  4294951629 |
@@ -283,20 +283,20 @@
 
 ## String References
 
-- **7331**: Choose a picture to take.
-- **7332**: First scene.
-- **7333**: Second scene.
-- **7334**: Third scene.
-- **7335**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
-- **7336**: <Player> records the first scene.
-- **7337**: <Player> records the second scene.
-- **7338**: <Player> records the third scene.
-- **7339**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
-- **7340**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
-- **7359**: The $0 is gone!
-- **7366**: Did you? [Yes, I told him./How should I remember?]
-- **7389**: Return to headquarters? [It's time to go./No, I can't leave you!]
-- **7419**: Nothing happens. Could the power of the ruins have been drained...?
+- **7332**: Choose a picture to take.
+- **7333**: First scene.
+- **7334**: Second scene.
+- **7335**: Third scene.
+- **7336**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+- **7337**: <Player> records the first scene.
+- **7338**: <Player> records the second scene.
+- **7339**: <Player> records the third scene.
+- **7340**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+- **7341**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+- **7360**: The $0 is gone!
+- **7367**: Did you? [Yes, I told him./How should I remember?]
+- **7390**: Return to headquarters? [It's time to go./No, I can't leave you!]
+- **7420**: Nothing happens. Could the power of the ruins have been drained...?
 
 ## Events
 
@@ -517,7 +517,7 @@
 
 ```
   0: 0x006F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0070 [0x48] [System] [7331*]:
+  1: 0x0070 [0x48] [System] [7332*]:
     → "Choose a picture to take."
   2: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0074 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -531,7 +531,7 @@
  11: 0x00BD [0x1C] WAIT(60* ticks)
  12: 0x00C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x00D1 [0x1C] WAIT(60* ticks)
- 14: 0x00D4 [0x48] [System] [7332*]:
+ 14: 0x00D4 [0x48] [System] [7333*]:
     → "First scene."
  15: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -541,7 +541,7 @@
  20: 0x0118 [0x1C] WAIT(60* ticks)
  21: 0x011B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x012C [0x1C] WAIT(60* ticks)
- 23: 0x012F [0x48] [System] [7333*]:
+ 23: 0x012F [0x48] [System] [7334*]:
     → "Second scene."
  24: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0133 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -551,10 +551,10 @@
  29: 0x0173 [0x1C] WAIT(60* ticks)
  30: 0x0176 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x0187 [0x1C] WAIT(60* ticks)
- 32: 0x018A [0x48] [System] [7334*]:
+ 32: 0x018A [0x48] [System] [7335*]:
     → "Third scene."
  33: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x018E [0x24] CREATE_DIALOG(message_id=7335*, default_option=0*, option_flags=0*)
+ 34: 0x018E [0x24] CREATE_DIALOG(message_id=7336*, default_option=0*, option_flags=0*)
     → "Which picture will you take? [Show me again./First scene./Second scene./Third scene.]"
  35: 0x0195 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0196 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A1
@@ -569,7 +569,7 @@
  45: 0x01FD [0x1C] WAIT(120* ticks)
  46: 0x0200 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  47: 0x0211 [0x1C] WAIT(120* ticks)
- 48: 0x0214 [0x48] [System] [7336*]:
+ 48: 0x0214 [0x48] [System] [7337*]:
     → "<Player> records the first scene."
  49: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0218 [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -585,7 +585,7 @@
  60: 0x0281 [0x1C] WAIT(120* ticks)
  61: 0x0284 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  62: 0x0295 [0x1C] WAIT(120* ticks)
- 63: 0x0298 [0x48] [System] [7337*]:
+ 63: 0x0298 [0x48] [System] [7338*]:
     → "<Player> records the second scene."
  64: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x029C [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -595,7 +595,7 @@
  69: 0x02B1 [0x1C] WAIT(120* ticks)
  70: 0x02B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  71: 0x02C5 [0x1C] WAIT(120* ticks)
- 72: 0x02C8 [0x48] [System] [7338*]:
+ 72: 0x02C8 [0x48] [System] [7339*]:
     → "<Player> records the third scene."
  73: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x02CC [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -635,7 +635,7 @@ SUBROUTINE_02D9:
 #### Opcodes
 
 ```
-  0: 0x0341 [0x48] [System] [7339*]:
+  0: 0x0341 [0x48] [System] [7340*]:
     → "<Player> takes in the surrounding scenery. ...The view is breathtaking."
   1: 0x0344 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0345 [0x21] END_EVENT
@@ -661,7 +661,7 @@ SUBROUTINE_02D9:
 #### Opcodes
 
 ```
-  0: 0x0347 [0x48] [System] [7340*]:
+  0: 0x0347 [0x48] [System] [7341*]:
     → "<Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture."
   1: 0x034A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x034B [0x21] END_EVENT
@@ -1742,10 +1742,10 @@ SUBROUTINE_07BC:
  27: 0x086F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  28: 0x0880 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  29: 0x0891 [0x1C] WAIT(60* ticks)
- 30: 0x0894 [0x48] [System] [7359*]:
+ 30: 0x0894 [0x48] [System] [7360*]:
     → "The $0 is gone!"
  31: 0x0897 [0x1C] WAIT(150* ticks)
- 32: 0x089A [0x2B] Imutira (ID: 16986658/0x01033222) [7360*]:
+ 32: 0x089A [0x2B] Imutira (ID: 16986658/0x01033222) [7361*]:
     → "The $0 shows the ocean "as seen from the eyes of the seagull"... He used to love saying that..."
  33: 0x08A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x08A2 [0x1C] WAIT(60* ticks)
@@ -1753,7 +1753,7 @@ SUBROUTINE_07BC:
  36: 0x08B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  37: 0x08C5 [0x1C] WAIT(60* ticks)
  38: 0x08C8 [0x4A] LocalPlayer looks at Imutira (ID: 16986658/0x01033222)
- 39: 0x08D1 [0x2B] Imutira (ID: 16986658/0x01033222) [7361*]:
+ 39: 0x08D1 [0x2B] Imutira (ID: 16986658/0x01033222) [7362*]:
     → "Long time no see... I knew we'd meet again."
  40: 0x08D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x08D9 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 172*
@@ -1761,60 +1761,60 @@ SUBROUTINE_07BC:
  43: 0x08E1 [0x9A] WAIT_MUSIC_SERVER()
  44: 0x08E2 [0x27] REQ_SET(priority=0x10, entity_id=Imutira (ID: 16986658/0x01033222), tag_num=0x02)
  45: 0x08E9 [0x1C] WAIT(30* ticks)
- 46: 0x08EC [0x2B] Imutira (ID: 16986658/0x01033222) [7362*]:
+ 46: 0x08EC [0x2B] Imutira (ID: 16986658/0x01033222) [7363*]:
     → "Hm? You buried something here? Why, I have no idea what you're talking about..."
  47: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x08F4 [0x1C] WAIT(30* ticks)
  49: 0x08F7 [0x52] END_LOAD_SCHEDULER: End scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=285*
  50: 0x0906 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  51: 0x0917 [0x1C] WAIT(45* ticks)
- 52: 0x091A [0x2B] Imutira (ID: 16986658/0x01033222) [7363*]:
+ 52: 0x091A [0x2B] Imutira (ID: 16986658/0x01033222) [7364*]:
     → "Oh, do you doubt me? How terrible...even though I was so nice to you earlier."
  53: 0x0921 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0922 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 32*
  55: 0x0929 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
- 56: 0x092E [0x2B] Imutira (ID: 16986658/0x01033222) [7364*]:
+ 56: 0x092E [0x2B] Imutira (ID: 16986658/0x01033222) [7365*]:
     → "So the Seagull Phratrie is searching for the $0, is it? Looks like they're getting desperate now, aren't they?"
  57: 0x0935 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0936 [0x1C] WAIT(60* ticks)
  59: 0x0939 [0x52] END_LOAD_SCHEDULER: End scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=285*
  60: 0x0948 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  61: 0x0959 [0x1C] WAIT(30* ticks)
- 62: 0x095C [0x2B] Imutira (ID: 16986658/0x01033222) [7365*]:
+ 62: 0x095C [0x2B] Imutira (ID: 16986658/0x01033222) [7366*]:
     → "Oh yes... Did you say hello to Qultada for me?"
  63: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0964 [0x4E] SET_ENTITY_HIDE_FLAG: Show Qultada (ID: 16986657/0x01033221)
- 65: 0x096A [0x24] CREATE_DIALOG(message_id=7366*, default_option=0*, option_flags=0*)
+ 65: 0x096A [0x24] CREATE_DIALOG(message_id=7367*, default_option=0*, option_flags=0*)
     → "Did you? [Yes, I told him./How should I remember?]"
  66: 0x0971 [0x25] WAIT_DIALOG_SELECT()
  67: 0x0972 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09B9
  68: 0x097A [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=285*
  69: 0x0989 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
- 70: 0x099A [0x2B] Imutira (ID: 16986658/0x01033222) [7367*]:
+ 70: 0x099A [0x2B] Imutira (ID: 16986658/0x01033222) [7368*]:
     → "That's odd... I wonder why he hasn't shown his face yet, then..."
  71: 0x09A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x09A2 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 32*
  73: 0x09A9 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
- 74: 0x09AE [0x2B] Imutira (ID: 16986658/0x01033222) [7368*]:
+ 74: 0x09AE [0x2B] Imutira (ID: 16986658/0x01033222) [7369*]:
     → "I guess I should have made myself a bit...clearer."
  75: 0x09B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x09B6 [0x01] GOTO 0x0A00
  77: 0x09B9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0A00
  78: 0x09C1 [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=285*
  79: 0x09D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
- 80: 0x09E1 [0x2B] Imutira (ID: 16986658/0x01033222) [7369*]:
+ 80: 0x09E1 [0x2B] Imutira (ID: 16986658/0x01033222) [7370*]:
     → "I see you've got some nerve. You should watch your mouth, though..."
  81: 0x09E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x09E9 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 25*
  83: 0x09F0 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
- 84: 0x09F5 [0x2B] Imutira (ID: 16986658/0x01033222) [7370*]:
+ 84: 0x09F5 [0x2B] Imutira (ID: 16986658/0x01033222) [7371*]:
     → "Or you might end up swimming with the fishes in the Cyan Deep!"
  85: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x09FD [0x01] GOTO 0x0A00
 
 SUBROUTINE_0A00:
  87: 0x0A00 [0x1C] WAIT(120* ticks)
- 88: 0x0A03 [0x2B] Qultada (ID: 16986657/0x01033221) [7371*]:
+ 88: 0x0A03 [0x2B] Qultada (ID: 16986657/0x01033221) [7372*]:
     → "You need to learn to stay out of Phratrie business."
  89: 0x0A0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0A0B [0x52] END_LOAD_SCHEDULER: End scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=285*
@@ -1826,34 +1826,34 @@ SUBROUTINE_0A00:
  96: 0x0A48 [0x52] END_LOAD_SCHEDULER: End scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=285*
  97: 0x0A57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
  98: 0x0A68 [0x1C] WAIT(60* ticks)
- 99: 0x0A6B [0x2B] Imutira (ID: 16986658/0x01033222) [7372*]:
+ 99: 0x0A6B [0x2B] Imutira (ID: 16986658/0x01033222) [7373*]:
     → "Well, well, it looks like the star has arrived. Nice to see you, Qultada."
 100: 0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0A73 [0x52] END_LOAD_SCHEDULER: End scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=285*
 102: 0x0A82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 103: 0x0A93 [0x1C] WAIT(60* ticks)
 104: 0x0A96 [0x4A] Imutira (ID: 16986658/0x01033222) looks at Qultada (ID: 16986657/0x01033221)
-105: 0x0A9F [0x2B] Qultada (ID: 16986657/0x01033221) [7373*]:
+105: 0x0A9F [0x2B] Qultada (ID: 16986657/0x01033221) [7374*]:
     → "I heard your name from <Player> and followed [him/her] here. I did not think you would stoop this far, though..."
 106: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0AA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Qultada (ID: 16986657/0x01033221), Qultada (ID: 16986657/0x01033221)], work=66*
-108: 0x0AB6 [0x2B] Qultada (ID: 16986657/0x01033221) [7374*]:
+108: 0x0AB6 [0x2B] Qultada (ID: 16986657/0x01033221) [7375*]:
     → "Imutira, you promised never to show your face to the Seagull Phratrie again."
 109: 0x0ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0ABE [0x1C] WAIT(45* ticks)
 111: 0x0AC1 [0x52] END_LOAD_SCHEDULER: End scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=285*
 112: 0x0AD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 113: 0x0AE1 [0x1C] WAIT(15* ticks)
-114: 0x0AE4 [0x2B] Imutira (ID: 16986658/0x01033222) [7375*]:
+114: 0x0AE4 [0x2B] Imutira (ID: 16986658/0x01033222) [7376*]:
     → "Could you be wishing you put an end to me back then? How simply terrible of you."
 115: 0x0AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0AEC [0x27] REQ_SET(priority=0x10, entity_id=Imutira (ID: 16986658/0x01033222), tag_num=0x03)
 117: 0x0AF3 [0x1C] WAIT(60* ticks)
-118: 0x0AF6 [0x2B] Imutira (ID: 16986658/0x01033222) [7376*]:
+118: 0x0AF6 [0x2B] Imutira (ID: 16986658/0x01033222) [7377*]:
     → "Let's forget about the past, shall we? We never knew each other."
 119: 0x0AFD [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0AFE [0x1C] WAIT(60* ticks)
-121: 0x0B01 [0x2B] Imutira (ID: 16986658/0x01033222) [7377*]:
+121: 0x0B01 [0x2B] Imutira (ID: 16986658/0x01033222) [7378*]:
     → "I just want to get along with everyone, you know."
 122: 0x0B08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0B09 [0x1C] WAIT(30* ticks)
@@ -1862,16 +1862,16 @@ SUBROUTINE_0A00:
 126: 0x0B2C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [Qultada (ID: 16986657/0x01033221), Qultada (ID: 16986657/0x01033221)], work=66*
 127: 0x0B3B [0x1C] WAIT(30* ticks)
 128: 0x0B3E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Imutira (ID: 16986658/0x01033222), Imutira (ID: 16986658/0x01033222)], work=19*
-129: 0x0B4D [0x2B] Imutira (ID: 16986658/0x01033222) [7378*]:
+129: 0x0B4D [0x2B] Imutira (ID: 16986658/0x01033222) [7379*]:
     → "Also, Qultada... You need $0, don't you?"
 130: 0x0B54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0B55 [0x1C] WAIT(30* ticks)
-132: 0x0B58 [0x2B] Imutira (ID: 16986658/0x01033222) [7379*]:
+132: 0x0B58 [0x2B] Imutira (ID: 16986658/0x01033222) [7380*]:
     → "I just happen to have one right here. What a coincidence!"
 133: 0x0B5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0B60 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Imutira (ID: 16986658/0x01033222), Imutira (ID: 16986658/0x01033222)], work=19*
 135: 0x0B6F [0x1C] WAIT(45* ticks)
-136: 0x0B72 [0x2B] Imutira (ID: 16986658/0x01033222) [7380*]:
+136: 0x0B72 [0x2B] Imutira (ID: 16986658/0x01033222) [7381*]:
     → "And, being the kind person I am, I'm thinking of giving it to my friends, the corsairs."
 137: 0x0B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0B7A [0x1C] WAIT(30* ticks)
@@ -1880,25 +1880,25 @@ SUBROUTINE_0A00:
 141: 0x0B9D [0x1C] WAIT(60* ticks)
 142: 0x0BA0 [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 0*
 143: 0x0BA7 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
-144: 0x0BAC [0x2B] Imutira (ID: 16986658/0x01033222) [7382*]:
+144: 0x0BAC [0x2B] Imutira (ID: 16986658/0x01033222) [7383*]:
     → "Of course, I require something of you first."
 145: 0x0BB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0BB4 [0x1C] WAIT(30* ticks)
 147: 0x0BB7 [0x52] END_LOAD_SCHEDULER: End scheduler "z044" with entities [LocalPlayer, LocalPlayer], work=285*
 148: 0x0BC6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 149: 0x0BD7 [0x1C] WAIT(60* ticks)
-150: 0x0BDA [0x2B] Qultada (ID: 16986657/0x01033221) [7383*]:
+150: 0x0BDA [0x2B] Qultada (ID: 16986657/0x01033221) [7384*]:
     → "I knew it."
 151: 0x0BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0BE2 [0x1C] WAIT(45* ticks)
-153: 0x0BE5 [0x2B] Imutira (ID: 16986658/0x01033222) [7384*]:
+153: 0x0BE5 [0x2B] Imutira (ID: 16986658/0x01033222) [7385*]:
     → "Well then..."
 154: 0x0BEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0BED [0x1C] WAIT(30* ticks)
 156: 0x0BF0 [0x52] END_LOAD_SCHEDULER: End scheduler "z010" with entities [LocalPlayer, LocalPlayer], work=285*
 157: 0x0BFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 158: 0x0C10 [0x1C] WAIT(90* ticks)
-159: 0x0C13 [0x2B] Qultada (ID: 16986657/0x01033221) [7385*]:
+159: 0x0C13 [0x2B] Qultada (ID: 16986657/0x01033221) [7386*]:
     → "What do you want?"
 160: 0x0C1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0C1B [0x1C] WAIT(60* ticks)
@@ -1906,7 +1906,7 @@ SUBROUTINE_0A00:
 163: 0x0C2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 164: 0x0C3E [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 4*
 165: 0x0C45 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
-166: 0x0C4A [0x2B] Imutira (ID: 16986658/0x01033222) [7386*]:
+166: 0x0C4A [0x2B] Imutira (ID: 16986658/0x01033222) [7387*]:
     → "Oh no, I can't tell you in front of others... I'm far too shy."
 167: 0x0C51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0C52 [0x1C] WAIT(30* ticks)
@@ -1918,7 +1918,7 @@ SUBROUTINE_0A00:
 174: 0x0C98 [0x1C] WAIT(45* ticks)
 175: 0x0C9B [0x6E] Imutira (ID: 16986658/0x01033222) uses emote 22*
 176: 0x0CA2 [0x99] Wait for Imutira (ID: 16986658/0x01033222) animation to complete
-177: 0x0CA7 [0x2B] Qultada (ID: 16986657/0x01033221) [7387*]:
+177: 0x0CA7 [0x2B] Qultada (ID: 16986657/0x01033221) [7388*]:
     → "<Player>, return to Zweeha and tell her I'm going out on a little date, so I will be gone for a time."
 178: 0x0CAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0CAF [0x1C] WAIT(60* ticks)
@@ -1926,7 +1926,7 @@ SUBROUTINE_0A00:
 181: 0x0CC1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z045" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 182: 0x0CD2 [0x7B] Qultada (ID: 16986657/0x01033221) stops talking
 183: 0x0CD7 [0x1C] WAIT(30* ticks)
-184: 0x0CDA [0x2B] Imutira (ID: 16986658/0x01033222) [7388*]:
+184: 0x0CDA [0x2B] Imutira (ID: 16986658/0x01033222) [7389*]:
     → "Heheheh, my apologies."
 185: 0x0CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0CE2 [0x1C] WAIT(30* ticks)
@@ -1934,7 +1934,7 @@ SUBROUTINE_0A00:
 188: 0x0CF4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z046" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 
 SUBROUTINE_0D05:
-189: 0x0D05 [0x24] CREATE_DIALOG(message_id=7389*, default_option=0*, option_flags=0*)
+189: 0x0D05 [0x24] CREATE_DIALOG(message_id=7390*, default_option=0*, option_flags=0*)
     → "Return to headquarters? [It's time to go./No, I can't leave you!]"
 190: 0x0D0C [0x25] WAIT_DIALOG_SELECT()
 191: 0x0D0D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D52
@@ -1942,12 +1942,12 @@ SUBROUTINE_0D05:
 193: 0x0D24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=[285*, 0*]
 194: 0x0D35 [0x1C] WAIT(45* ticks)
 195: 0x0D38 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cr05" with entities [Imutira (ID: 16986658/0x01033222), Imutira (ID: 16986658/0x01033222)], work=14*
-196: 0x0D47 [0x2B] Imutira (ID: 16986658/0x01033222) [7391*]:
+196: 0x0D47 [0x2B] Imutira (ID: 16986658/0x01033222) [7392*]:
     → "That's right... Go home and spend some time with your moogle, child."
 197: 0x0D4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0D4F [0x01] GOTO 0x0D68
 199: 0x0D52 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D68
-200: 0x0D5A [0x2B] Qultada (ID: 16986657/0x01033221) [7390*]:
+200: 0x0D5A [0x2B] Qultada (ID: 16986657/0x01033221) [7391*]:
     → "Go. Captain's orders!"
 201: 0x0D61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0D62 [0x01] GOTO 0x0D05
@@ -1963,11 +1963,11 @@ SUBROUTINE_0D68:
 210: 0x0DA4 [0x27] REQ_SET(priority=0x10, entity_id=Gowam (ID: 16986660/0x01033224), tag_num=0x02)
 211: 0x0DAB [0x27] REQ_SET(priority=0x10, entity_id=Yazquhl (ID: 16986659/0x01033223), tag_num=0x03)
 212: 0x0DB2 [0x1C] WAIT(60* ticks)
-213: 0x0DB5 [0x2B] Qultada (ID: 16986657/0x01033221) [7392*]:
+213: 0x0DB5 [0x2B] Qultada (ID: 16986657/0x01033221) [7393*]:
     → "Satisfied? Yes, I'm talking to you."
 214: 0x0DBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0DBD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [Qultada (ID: 16986657/0x01033221), Qultada (ID: 16986657/0x01033221)], work=66*
-216: 0x0DCC [0x2B] Qultada (ID: 16986657/0x01033221) [7393*]:
+216: 0x0DCC [0x2B] Qultada (ID: 16986657/0x01033221) [7394*]:
     → "I knew I smelled a rat. You can't hide the stench of your dealings with the Immortals and the Imperial Army."
 217: 0x0DD3 [0x1C] WAIT(150* ticks)
 218: 0x0DD6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2037,7 +2037,7 @@ SUBROUTINE_0D68:
 
 ```
   0: 0x0E45 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0E46 [0x48] [System] [7419*]:
+  1: 0x0E46 [0x48] [System] [7420*]:
     → "Nothing happens. Could the power of the ruins have been drained...?"
   2: 0x0E49 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0E4A [0x21] END_EVENT

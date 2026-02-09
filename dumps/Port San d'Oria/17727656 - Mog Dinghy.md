@@ -20,14 +20,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2E16      |       11798 |
+|       0 | 0x2E17      |       11799 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x00C8      |         200 |
 
 ## String References
 
-- **11798**: Move to a Mog Garden? [Most definitely!/Maybe not.]
+- **11799**: Move to a Mog Garden? [Most definitely!/Maybe not.]
 
 ## Events
 
@@ -77,7 +77,7 @@
 
 ```
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=11798*, default_option=0*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=11799*, default_option=0*, option_flags=0*)
     → "Move to a Mog Garden? [Most definitely!/Maybe not.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003A

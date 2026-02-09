@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F01      |        7937 |
-|       1 | 0x1F02      |        7938 |
+|       0 | 0x1F02      |        7938 |
+|       1 | 0x1F03      |        7939 |
 
 ## String References
 
-- **7937**: Foret de Hennetiel is a mysterious place, even to those of us who have lived in Adoulin our whole lives. All manner of strange plants and hindrances...you've certainly got your work cut out for you.
-- **7938**: But Adoulin has placed its faith in you, and so too shall I. Just like a fisherman must wait for hours before finding a catch, so too must you persevere.
+- **7938**: Foret de Hennetiel is a mysterious place, even to those of us who have lived in Adoulin our whole lives. All manner of strange plants and hindrances...you've certainly got your work cut out for you.
+- **7939**: But Adoulin has placed its faith in you, and so too shall I. Just like a fisherman must wait for hours before finding a catch, so too must you persevere.
 
 ## Events
 
@@ -71,10 +71,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "Foret de Hennetiel is a mysterious place, even to those of us who have lived in Adoulin our whole lives. All manner of strange plants and hindrances...you've certainly got your work cut out for you."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "But Adoulin has placed its faith in you, and so too shall I. Just like a fisherman must wait for hours before finding a catch, so too must you persevere."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0009 [0x21] END_EVENT

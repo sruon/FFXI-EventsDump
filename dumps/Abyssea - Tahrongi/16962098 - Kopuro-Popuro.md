@@ -27,30 +27,30 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0150      |         336 |
-|       1 | 0x1EAE      |        7854 |
+|       1 | 0x1EAF      |        7855 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1EAF      |        7855 |
-|       4 | 0x1EB0      |        7856 |
-|       5 | 0x1EB1      |        7857 |
-|       6 | 0x1EB8      |        7864 |
-|       7 | 0x1EBA      |        7866 |
-|       8 | 0x1EBF      |        7871 |
-|       9 | 0x1EC1      |        7873 |
+|       3 | 0x1EB0      |        7856 |
+|       4 | 0x1EB1      |        7857 |
+|       5 | 0x1EB2      |        7858 |
+|       6 | 0x1EB9      |        7865 |
+|       7 | 0x1EBB      |        7867 |
+|       8 | 0x1EC0      |        7872 |
+|       9 | 0x1EC2      |        7874 |
 |      10 | 0x0800      |        2048 |
 |      11 | 0x003C      |          60 |
-|      12 | 0x1EC2      |        7874 |
+|      12 | 0x1EC3      |        7875 |
 
 ## String References
 
-- **7854**: My dear, beloved Boxuxu... They could postaru me here for an eternity, but with you by my side, every moment would be bliss!
-- **7855**: Yes? What do you wantaru? A starfruit, you say? For Minister Apururu?
-- **7856**: Why, Boxuxu would be happy to furnish you with what you desire. Wouldn't you, my dearestaru?
-- **7857**: Who am I talking to, you ask? Why, my beloved Boxuxu, of course! Are you [daft, mistaru/daftaru, lady]? Do you not see her standing right beside me? Go ahead, talk to her! She won't bite!
-- **7864**: That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!
-- **7866**: No, I fear you'll have to work a bit harder to earn her favor.
-- **7871**: Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world...
-- **7873**: Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners.
-- **7874**: <Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!
+- **7855**: My dear, beloved Boxuxu... They could postaru me here for an eternity, but with you by my side, every moment would be bliss!
+- **7856**: Yes? What do you wantaru? A starfruit, you say? For Minister Apururu?
+- **7857**: Why, Boxuxu would be happy to furnish you with what you desire. Wouldn't you, my dearestaru?
+- **7858**: Who am I talking to, you ask? Why, my beloved Boxuxu, of course! Are you [daft, mistaru/daftaru, lady]? Do you not see her standing right beside me? Go ahead, talk to her! She won't bite!
+- **7865**: That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!
+- **7867**: No, I fear you'll have to work a bit harder to earn her favor.
+- **7872**: Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world...
+- **7874**: Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners.
+- **7875**: <Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!
 
 ## Events
 
@@ -98,7 +98,7 @@
 
 ```
   0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=336*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
     → "My dear, beloved Boxuxu... They could postaru me here for an eternity, but with you by my side, every moment would be bliss!"
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr0" with entities [EventEntity, EventEntity]
@@ -135,16 +135,16 @@
   1: 0x002C [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0031 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0032 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  4: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
     → "Yes? What do you wantaru? A starfruit, you say? For Minister Apururu?"
   5: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0037 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=336*
-  7: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
+  7: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
     → "Why, Boxuxu would be happy to furnish you with what you desire. Wouldn't you, my dearestaru?"
   8: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
  10: 0x0057 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 11: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+ 11: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "Who am I talking to, you ask? Why, my beloved Boxuxu, of course! Are you [daft, mistaru/daftaru, lady]? Do you not see her standing right beside me? Go ahead, talk to her! She won't bite!"
  12: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0060 [0x21] END_EVENT
@@ -173,7 +173,7 @@
   0: 0x0062 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0067 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0068 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!"
   4: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006D [0x21] END_EVENT
@@ -203,10 +203,10 @@
   0: 0x006F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0074 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0075 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+  3: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "No, I fear you'll have to work a bit harder to earn her favor."
   4: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+  5: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world..."
   6: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007E [0x21] END_EVENT
@@ -237,7 +237,7 @@
   0: 0x0080 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0085 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0086 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
+  3: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
     → "Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners."
   4: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x008B [0x03] ExtData[1]->WorkLocal[0] = enDirCli(ExtData[1]->EventDir[1]) * 4096.0 * 0.15915963
@@ -246,7 +246,7 @@
   8: 0x009C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x009D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x009E [0x1C] WAIT(60* ticks)
- 11: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
+ 11: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
     → "<Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!"
  12: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00A5 [0x21] END_EVENT
@@ -276,7 +276,7 @@
   0: 0x00A7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00AC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00AD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
+  3: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
     → "<Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!"
   4: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00B2 [0x21] END_EVENT

@@ -184,10 +184,10 @@
 |      30 | 0x585A      |       22618 |
 |      31 | 0xFFFF5525  |  4294923557 |
 |      32 | 0x0102      |         258 |
-|      33 | 0x1A50      |        6736 |
-|      34 | 0x1A51      |        6737 |
+|      33 | 0x1A51      |        6737 |
+|      34 | 0x1A52      |        6738 |
 |      35 | 0x0338      |         824 |
-|      36 | 0x1A52      |        6738 |
+|      36 | 0x1A53      |        6739 |
 |      37 | 0x6F79      |       28537 |
 |      38 | 0xFFFF497E  |  4294920574 |
 |      39 | 0x08D2      |        2258 |
@@ -237,18 +237,18 @@
 |      83 | 0xFFFF5585  |  4294923653 |
 |      84 | 0x0001      |           1 |
 |      85 | 0x15C5      |        5573 |
-|      86 | 0x252A      |        9514 |
+|      86 | 0x252B      |        9515 |
 |      87 | 0x15CA      |        5578 |
-|      88 | 0x252B      |        9515 |
-|      89 | 0x252C      |        9516 |
-|      90 | 0x252D      |        9517 |
-|      91 | 0x252E      |        9518 |
-|      92 | 0x252F      |        9519 |
-|      93 | 0x2530      |        9520 |
+|      88 | 0x252C      |        9516 |
+|      89 | 0x252D      |        9517 |
+|      90 | 0x252E      |        9518 |
+|      91 | 0x252F      |        9519 |
+|      92 | 0x2530      |        9520 |
+|      93 | 0x2531      |        9521 |
 |      94 | 0x1056      |        4182 |
-|      95 | 0x2531      |        9521 |
+|      95 | 0x2532      |        9522 |
 |      96 | 0x003C      |          60 |
-|      97 | 0x2532      |        9522 |
+|      97 | 0x2533      |        9523 |
 |      98 | 0x8D3A      |       36154 |
 |      99 | 0xFFFF2603  |  4294911491 |
 |     100 | 0xFFFFE633  |  4294960691 |
@@ -265,7 +265,7 @@
 
 ## String References
 
-- **9521**: Naja Salaheem hands you $0!
+- **9522**: Naja Salaheem hands you $0!
 
 ## Events
 
@@ -2343,14 +2343,14 @@
   0: 0x05C0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x05C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x05C7 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [6736*]:
+  3: 0x05C7 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [6737*]:
     → "The Dark Rider has been most frequently sighted in the Wajaom Woodlands, the Bhaflau Thickets, Mount Zhayolm, and Caedarva Mire."
   4: 0x05CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x05CF [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [6737*]:
+  5: 0x05CF [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [6738*]:
     → "You should be able to find a hoofprint in one of those areas."
   6: 0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x05D7 [0x03] Work_Zone[2] = 824*
-  8: 0x05DC [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [6738*]:
+  8: 0x05DC [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [6739*]:
     → "Now go put that $3 wherever you find a Dark Rider hoofprint!"
   9: 0x05E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05E4 [0x21] END_EVENT
@@ -3069,45 +3069,45 @@
   5: 0x0735 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0736 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x074B
   7: 0x073E [0x03] Work_Zone[2] = 5573*
-  8: 0x0743 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9514*]:
+  8: 0x0743 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9515*]:
     → "Well, if it isn't $0!"
   9: 0x074A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x074B [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0760
  11: 0x0753 [0x03] Work_Zone[2] = 5578*
- 12: 0x0758 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9514*]:
+ 12: 0x0758 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9515*]:
     → "Well, if it isn't $0!"
  13: 0x075F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0760 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9515*]:
+ 14: 0x0760 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9516*]:
     → "Somethin' on your mind, <Player>?"
  15: 0x0767 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0768 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9516*]:
+ 16: 0x0768 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9517*]:
     → "Ya say ya wanna show how much ya apprrreciate each and every day you work here? Have ya been talkin' to Abquhbah again?"
  17: 0x076F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0770 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9517*]:
+ 18: 0x0770 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9518*]:
     → "Ya know, I've always prrreferred a perspirin' mercenary to a perceptive mercenary..."
  19: 0x0777 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0778 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x078D
  21: 0x0780 [0x03] Work_Zone[2] = 5573*
- 22: 0x0785 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9518*]:
+ 22: 0x0785 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9519*]:
     → "But I can't fault ya choice in desserts."
  23: 0x078C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x078D [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x07A2
  25: 0x0795 [0x03] Work_Zone[2] = 5578*
- 26: 0x079A [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9518*]:
+ 26: 0x079A [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9519*]:
     → "But I can't fault ya choice in desserts."
  27: 0x07A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x07A2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 29: 0x07A7 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9519*]:
+ 29: 0x07A7 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9520*]:
     → "Good work[./, Private Second Class./, Private First Class./, Superior Private./, Lance Corporal./, Corporal./, Sergeant./, Sergeant Major./, Chief Sergeant./, Second Lieutenant./, First Lieutenant./, Captain.]"
  30: 0x07AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x07AF [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9520*]:
+ 31: 0x07AF [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9521*]:
     → "Now here's a little somethin' from me."
  32: 0x07B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x07B7 [0x03] Work_Zone[2] = 4182*
- 34: 0x07BC [0x48] [System] [9521*]:
+ 34: 0x07BC [0x48] [System] [9522*]:
     → "Naja Salaheem hands you $0!"
  35: 0x07BF [0x1C] WAIT(60* ticks)
- 36: 0x07C2 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9522*]:
+ 36: 0x07C2 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9523*]:
     → "Makes your eyes well up with tears of joy, don't it?"
  37: 0x07C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x07CA [0x21] END_EVENT

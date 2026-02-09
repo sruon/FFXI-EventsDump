@@ -53,19 +53,19 @@
 |       6 | 0x89D8      |       35288 |
 |       7 | 0xFFFFF449  |  4294964297 |
 |       8 | 0x791A      |       31002 |
-|       9 | 0x1C3F      |        7231 |
-|      10 | 0x1C43      |        7235 |
-|      11 | 0x1C49      |        7241 |
-|      12 | 0x1C4D      |        7245 |
-|      13 | 0x1C4F      |        7247 |
+|       9 | 0x1C40      |        7232 |
+|      10 | 0x1C44      |        7236 |
+|      11 | 0x1C4A      |        7242 |
+|      12 | 0x1C4E      |        7246 |
+|      13 | 0x1C50      |        7248 |
 
 ## String References
 
-- **7231**: You called for me, Your Majesty?
-- **7235**: Oh, yes, that. Those Bastoker Humes are causing no end of trouble--saying they want to investigate here, there, and the other place...
-- **7241**: As you command, my lord. I would give the very blood that runs in my veins if it were to further the cause of our kingdom. You can rely on me.
-- **7245**: I understand, Your Grace.
-- **7247**: Yes, sire! My life for the Kingdom!
+- **7232**: You called for me, Your Majesty?
+- **7236**: Oh, yes, that. Those Bastoker Humes are causing no end of trouble--saying they want to investigate here, there, and the other place...
+- **7242**: As you command, my lord. I would give the very blood that runs in my veins if it were to further the cause of our kingdom. You can rely on me.
+- **7246**: I understand, Your Grace.
+- **7248**: Yes, sire! My life for the Kingdom!
 
 ## Events
 
@@ -596,7 +596,7 @@
 
 ```
   0: 0x0125 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Francmage (ID: 17391840/0x010960E0), tag_num=0x09)
-  1: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
+  1: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
     → "You called for me, Your Majesty?"
   2: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0130 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Francmage (ID: 17391840/0x010960E0), tag_num=0x0A)
@@ -622,7 +622,7 @@
 #### Opcodes
 
 ```
-  0: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
+  0: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
     → "Oh, yes, that. Those Bastoker Humes are causing no end of trouble--saying they want to investigate here, there, and the other place..."
   1: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x013C [0x00] END_REQSTACK()
@@ -648,7 +648,7 @@
 #### Opcodes
 
 ```
-  0: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
+  0: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "As you command, my lord. I would give the very blood that runs in my veins if it were to further the cause of our kingdom. You can rely on me."
   1: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0141 [0x00] END_REQSTACK()
@@ -673,7 +673,7 @@
 #### Opcodes
 
 ```
-  0: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
+  0: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
     → "I understand, Your Grace."
   1: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0146 [0x00] END_REQSTACK()
@@ -700,7 +700,7 @@
 
 ```
   0: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Francmage (ID: 17391840/0x010960E0), tag_num=0x0B)
-  1: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+  1: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "Yes, sire! My life for the Kingdom!"
   2: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0152 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Francmage (ID: 17391840/0x010960E0), tag_num=0x0C)

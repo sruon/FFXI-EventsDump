@@ -24,26 +24,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2804      |       10244 |
+|       0 | 0x2805      |       10245 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x2805      |       10245 |
-|       3 | 0x2806      |       10246 |
-|       4 | 0x2807      |       10247 |
-|       5 | 0x2808      |       10248 |
-|       6 | 0x2809      |       10249 |
-|       7 | 0x280A      |       10250 |
-|       8 | 0x280B      |       10251 |
-|       9 | 0x280C      |       10252 |
-|      10 | 0x280D      |       10253 |
-|      11 | 0x280E      |       10254 |
-|      12 | 0x280F      |       10255 |
-|      13 | 0x2810      |       10256 |
-|      14 | 0x2811      |       10257 |
-|      15 | 0x2812      |       10258 |
+|       2 | 0x2806      |       10246 |
+|       3 | 0x2807      |       10247 |
+|       4 | 0x2808      |       10248 |
+|       5 | 0x2809      |       10249 |
+|       6 | 0x280A      |       10250 |
+|       7 | 0x280B      |       10251 |
+|       8 | 0x280C      |       10252 |
+|       9 | 0x280D      |       10253 |
+|      10 | 0x280E      |       10254 |
+|      11 | 0x280F      |       10255 |
+|      12 | 0x2810      |       10256 |
+|      13 | 0x2811      |       10257 |
+|      14 | 0x2812      |       10258 |
+|      15 | 0x2813      |       10259 |
 |      16 | 0x00C9      |         201 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x2813      |       10259 |
-|      19 | 0x2814      |       10260 |
+|      18 | 0x2814      |       10260 |
+|      19 | 0x2815      |       10261 |
 |      20 | 0x000A      |          10 |
 |      21 | 0x001E      |          30 |
 |      22 | 0x0028      |          40 |
@@ -56,23 +56,23 @@
 
 ## String References
 
-- **10244**: If ya ever have any problems with those pesky little Tonberries, just come to yer buddy Magephaud. It doesn't look like you're in that much trouble, though.
-- **10245**: Heh-heh-heh... You've been out playin' with the Tonberries, haven't ya? Don't try denyin' it. I can tell jus' by lookin' at ya.
-- **10246**: I can see them Tonberries' hate fer ya. Now listen close, matey, if ya want t'live.
-- **10247**: The little green beasties on this island are all connected. When ya kill one, the others around all get stronger. It's their hate fer ya that drives 'em.
-- **10248**: But today's yer lucky day, me matey. I happen t'know a special way of appeasin' those Tonberries.
-- **10249**: Har-har-harrr! Ya think I'd tell ya fer free? Bring me three $0. Then I'll let ya in on me little secret.
-- **10250**: Bring me three $0. Then I'll let ya in on me little secret. I won't pressure ya into anything if ya think ya can handle the devils on yer own...
-- **10251**: One...two...three. Three $0, just like I asked fer. Okay. Let me fill ya in on how to soothe these slimy savages.
-- **10252**: Way back when I was still young and didn't know about the hate--the rancor--of the Tonberries, I killed a couple...just like you did.
-- **10253**: Then, one day when me and me mateys wuz plunderin' an old temple, I met an old Tonberry who understood the words of men.
-- **10254**: It was he who told me of the Tonberries' hate, and that only he could soothe the rancor heaped upon me.
-- **10255**: But then he told me t'fork over me gil! That be a beastman fer ya!
-- **10256**: So I told him t'show me some evidence before I was handin' over any gil, and with a wave of his wand, he relieved me of the Tonberries' rancor.
-- **10257**: And then, did I pay the gil? Of course I didn't! I hit him with a "Sneak Attack" and swiped his key t'the room. Then I used me "Flee" and I was gone like the wind.
-- **10258**: Ya get all that? Now ya know what t'do. Here's the key t'that room.
-- **10259**: Don't get the wrong idea, now. I only told ya I'd tell you the way t'rid yerself of the rancor, not actually rid ya of it.
-- **10260**: You've got the key. What ya do with it is up to you, but watch yer back if yer ever travelin' around that ancient temple.
+- **10245**: If ya ever have any problems with those pesky little Tonberries, just come to yer buddy Magephaud. It doesn't look like you're in that much trouble, though.
+- **10246**: Heh-heh-heh... You've been out playin' with the Tonberries, haven't ya? Don't try denyin' it. I can tell jus' by lookin' at ya.
+- **10247**: I can see them Tonberries' hate fer ya. Now listen close, matey, if ya want t'live.
+- **10248**: The little green beasties on this island are all connected. When ya kill one, the others around all get stronger. It's their hate fer ya that drives 'em.
+- **10249**: But today's yer lucky day, me matey. I happen t'know a special way of appeasin' those Tonberries.
+- **10250**: Har-har-harrr! Ya think I'd tell ya fer free? Bring me three $0. Then I'll let ya in on me little secret.
+- **10251**: Bring me three $0. Then I'll let ya in on me little secret. I won't pressure ya into anything if ya think ya can handle the devils on yer own...
+- **10252**: One...two...three. Three $0, just like I asked fer. Okay. Let me fill ya in on how to soothe these slimy savages.
+- **10253**: Way back when I was still young and didn't know about the hate--the rancor--of the Tonberries, I killed a couple...just like you did.
+- **10254**: Then, one day when me and me mateys wuz plunderin' an old temple, I met an old Tonberry who understood the words of men.
+- **10255**: It was he who told me of the Tonberries' hate, and that only he could soothe the rancor heaped upon me.
+- **10256**: But then he told me t'fork over me gil! That be a beastman fer ya!
+- **10257**: So I told him t'show me some evidence before I was handin' over any gil, and with a wave of his wand, he relieved me of the Tonberries' rancor.
+- **10258**: And then, did I pay the gil? Of course I didn't! I hit him with a "Sneak Attack" and swiped his key t'the room. Then I used me "Flee" and I was gone like the wind.
+- **10259**: Ya get all that? Now ya know what t'do. Here's the key t'that room.
+- **10260**: Don't get the wrong idea, now. I only told ya I'd tell you the way t'rid yerself of the rancor, not actually rid ya of it.
+- **10261**: You've got the key. What ya do with it is up to you, but watch yer back if yer ever travelin' around that ancient temple.
 
 ## Events
 
@@ -118,7 +118,7 @@
 
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x0107)
-  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=10244*)
+  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=10245*)
     → "If ya ever have any problems with those pesky little Tonberries, just come to yer buddy Magephaud. It doesn't look like you're in that much trouble, though."
   2: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0008 [0x21] END_EVENT
@@ -152,22 +152,22 @@
   0: 0x000A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000B [0x1A] CALL_SUBROUTINE(address=0x0107)
   2: 0x000E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  3: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=10245*)
+  3: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=10246*)
     → "Heh-heh-heh... You've been out playin' with the Tonberries, haven't ya? Don't try denyin' it. I can tell jus' by lookin' at ya."
   4: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10246*)
+  5: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
     → "I can see them Tonberries' hate fer ya. Now listen close, matey, if ya want t'live."
   6: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
+  7: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10248*)
     → "The little green beasties on this island are all connected. When ya kill one, the others around all get stronger. It's their hate fer ya that drives 'em."
   8: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0029 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  10: 0x0038 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 11: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=10248*)
+ 11: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=10249*)
     → "But today's yer lucky day, me matey. I happen t'know a special way of appeasin' those Tonberries."
  12: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0049 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10249*)
+ 14: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=10250*)
     → "Har-har-harrr! Ya think I'd tell ya fer free? Bring me three $0. Then I'll let ya in on me little secret."
  15: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x005C [0x21] END_EVENT
@@ -196,7 +196,7 @@
 ```
   0: 0x005E [0x1A] CALL_SUBROUTINE(address=0x0107)
   1: 0x0061 [0x1A] CALL_SUBROUTINE(address=0x0145)
-  2: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=10250*)
+  2: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=10251*)
     → "Bring me three $0. Then I'll let ya in on me little secret. I won't pressure ya into anything if ya think ya can handle the devils on yer own..."
   3: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0068 [0x21] END_EVENT
@@ -233,32 +233,32 @@
 ```
   0: 0x006A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x006B [0x1A] CALL_SUBROUTINE(address=0x0107)
-  2: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10251*)
+  2: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
     → "One...two...three. Three $0, just like I asked fer. Okay. Let me fill ya in on how to soothe these slimy savages."
   3: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0072 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
+  5: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
     → "Way back when I was still young and didn't know about the hate--the rancor--of the Tonberries, I killed a couple...just like you did."
   6: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
+  7: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=10254*)
     → "Then, one day when me and me mateys wuz plunderin' an old temple, I met an old Tonberry who understood the words of men."
   8: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10254*)
+  9: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
     → "It was he who told me of the Tonberries' hate, and that only he could soothe the rancor heaped upon me."
  10: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
+ 11: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
     → "But then he told me t'fork over me gil! That be a beastman fer ya!"
  12: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0091 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  14: 0x00A0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 15: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
+ 15: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
     → "So I told him t'show me some evidence before I was handin' over any gil, and with a wave of his wand, he relieved me of the Tonberries' rancor."
  16: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 18: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
+ 18: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
     → "And then, did I pay the gil? Of course I didn't! I hit him with a "Sneak Attack" and swiped his key t'the room. Then I used me "Flee" and I was gone like the wind."
  19: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
+ 20: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
     → "Ya get all that? Now ya know what t'do. Here's the key t'that room."
  21: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -304,10 +304,10 @@
 ```
   0: 0x00F7 [0x1A] CALL_SUBROUTINE(address=0x0107)
   1: 0x00FA [0x1A] CALL_SUBROUTINE(address=0x0145)
-  2: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
+  2: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
     → "Don't get the wrong idea, now. I only told ya I'd tell you the way t'rid yerself of the rancor, not actually rid ya of it."
   3: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
+  4: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
     → "You've got the key. What ya do with it is up to you, but watch yer back if yer ever travelin' around that ancient temple."
   5: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0105 [0x21] END_EVENT

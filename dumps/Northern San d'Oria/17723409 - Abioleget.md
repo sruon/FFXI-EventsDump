@@ -54,34 +54,34 @@
 |      17 | 0x0003      |           3 |
 |      18 | 0x0083      |         131 |
 |      19 | 0x0014      |          20 |
-|      20 | 0x2BF8      |       11256 |
+|      20 | 0x2BF9      |       11257 |
 |      21 | 0x001E      |          30 |
 |      22 | 0x000F      |          15 |
 |      23 | 0x002D      |          45 |
 |      24 | 0x003C      |          60 |
-|      25 | 0x2BF9      |       11257 |
-|      26 | 0x2BFA      |       11258 |
-|      27 | 0x2C03      |       11267 |
+|      25 | 0x2BFA      |       11258 |
+|      26 | 0x2BFB      |       11259 |
+|      27 | 0x2C04      |       11268 |
 |      28 | 0x0015      |          21 |
-|      29 | 0x2C04      |       11268 |
-|      30 | 0x2C05      |       11269 |
-|      31 | 0x2C06      |       11270 |
-|      32 | 0x2C07      |       11271 |
-|      33 | 0x2C08      |       11272 |
-|      34 | 0x2C09      |       11273 |
-|      35 | 0x2C0A      |       11274 |
-|      36 | 0x2C0B      |       11275 |
+|      29 | 0x2C05      |       11269 |
+|      30 | 0x2C06      |       11270 |
+|      31 | 0x2C07      |       11271 |
+|      32 | 0x2C08      |       11272 |
+|      33 | 0x2C09      |       11273 |
+|      34 | 0x2C0A      |       11274 |
+|      35 | 0x2C0B      |       11275 |
+|      36 | 0x2C0C      |       11276 |
 |      37 | 0x026A      |         618 |
-|      38 | 0x2C0C      |       11276 |
-|      39 | 0x2C0D      |       11277 |
-|      40 | 0x2C0E      |       11278 |
-|      41 | 0x2C0F      |       11279 |
-|      42 | 0x2C10      |       11280 |
-|      43 | 0x2BBA      |       11194 |
-|      44 | 0x2C12      |       11282 |
-|      45 | 0x2C13      |       11283 |
-|      46 | 0x2C14      |       11284 |
-|      47 | 0x2C15      |       11285 |
+|      38 | 0x2C0D      |       11277 |
+|      39 | 0x2C0E      |       11278 |
+|      40 | 0x2C0F      |       11279 |
+|      41 | 0x2C10      |       11280 |
+|      42 | 0x2C11      |       11281 |
+|      43 | 0x2BBB      |       11195 |
+|      44 | 0x2C13      |       11283 |
+|      45 | 0x2C14      |       11284 |
+|      46 | 0x2C15      |       11285 |
+|      47 | 0x2C16      |       11286 |
 |      48 | 0x00C9      |         201 |
 |      49 | 0x1C304     |      115460 |
 |      50 | 0x1B7C5     |      112581 |
@@ -89,14 +89,14 @@
 
 ## String References
 
-- **11194**: May Paradise open its gates to you.
-- **11256**: Have you come to hear the sermon? Good, the vicasque will begin soon.
-- **11257**: Believers, today's sermon will now begin.
-- **11258**: Kindly reflect upon his words in silence.
-- **11282**: Take you this $0. Within a tower in East Ronfaure shall you find the friar.
-- **11283**: You shall carry the peas to the friar, and return hither.
-- **11284**: We recognize your conviction. Today, you are a step closer to Paradise!
-- **11285**: To honor your devotion, I bestow upon you this blessing.
+- **11195**: May Paradise open its gates to you.
+- **11257**: Have you come to hear the sermon? Good, the vicasque will begin soon.
+- **11258**: Believers, today's sermon will now begin.
+- **11259**: Kindly reflect upon his words in silence.
+- **11283**: Take you this $0. Within a tower in East Ronfaure shall you find the friar.
+- **11284**: You shall carry the peas to the friar, and return hither.
+- **11285**: We recognize your conviction. Today, you are a step closer to Paradise!
+- **11286**: To honor your devotion, I bestow upon you this blessing.
 
 ## Events
 
@@ -397,7 +397,7 @@
  11: 0x00D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x00D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  13: 0x00D8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11256*)
+ 14: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
     → "Have you come to hear the sermon? Good, the vicasque will begin soon."
  15: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00EB [0x1C] WAIT(30* ticks)
@@ -417,78 +417,78 @@
  30: 0x0142 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
  31: 0x0153 [0x1C] WAIT(60* ticks)
  32: 0x0156 [0x1E] EventEntity looks at Arnau (ID: 17723406/0x010E700E) and starts talking
- 33: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 33: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=11258*)
     → "Believers, today's sermon will now begin."
  34: 0x015E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x015F [0x1C] WAIT(60* ticks)
- 36: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=11258*)
+ 36: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=11259*)
     → "Kindly reflect upon his words in silence."
  37: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0166 [0x1C] WAIT(60* ticks)
  39: 0x0169 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
- 40: 0x017A [0x2B] Arnau (ID: 17723406/0x010E700E) [11267*]:
+ 40: 0x017A [0x2B] Arnau (ID: 17723406/0x010E700E) [11268*]:
     → "My children, welcome. Today I would like to speak about Paradise."
  41: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0182 [0x1C] WAIT(60* ticks)
  43: 0x0185 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Arnau (ID: 17723406/0x010E700E), Arnau (ID: 17723406/0x010E700E)], work=21*
- 44: 0x0194 [0x2B] Arnau (ID: 17723406/0x010E700E) [11268*]:
+ 44: 0x0194 [0x2B] Arnau (ID: 17723406/0x010E700E) [11269*]:
     → "In this world, we are born to wither and die. Every mortal is bound by these chains."
  45: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x019C [0x1C] WAIT(30* ticks)
  47: 0x019F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
- 48: 0x01B0 [0x2B] Arnau (ID: 17723406/0x010E700E) [11269*]:
+ 48: 0x01B0 [0x2B] Arnau (ID: 17723406/0x010E700E) [11270*]:
     → "Only the chosen may pass through the gates of Paradise, to live forever under Altana, free from fear and decay."
  49: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x01B8 [0x1C] WAIT(30* ticks)
- 51: 0x01BB [0x2B] Arnau (ID: 17723406/0x010E700E) [11270*]:
+ 51: 0x01BB [0x2B] Arnau (ID: 17723406/0x010E700E) [11271*]:
     → "Here in the San d'Oria Cathedral, we devote each day to helping believers along the blessed path."
  52: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x01C3 [0x1C] WAIT(30* ticks)
- 54: 0x01C6 [0x2B] Arnau (ID: 17723406/0x010E700E) [11271*]:
+ 54: 0x01C6 [0x2B] Arnau (ID: 17723406/0x010E700E) [11272*]:
     → "Though the road to Paradise is fraught with peril, there is no other way to life everlasting."
  55: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01CE [0x1C] WAIT(30* ticks)
  57: 0x01D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
- 58: 0x01E2 [0x2B] Arnau (ID: 17723406/0x010E700E) [11272*]:
+ 58: 0x01E2 [0x2B] Arnau (ID: 17723406/0x010E700E) [11273*]:
     → "Altana has guided us here today. Toward the gates of Paradise we walk together, one step at a time."
  59: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x01EA [0x1C] WAIT(30* ticks)
- 61: 0x01ED [0x2B] Arnau (ID: 17723406/0x010E700E) [11273*]:
+ 61: 0x01ED [0x2B] Arnau (ID: 17723406/0x010E700E) [11274*]:
     → "My children, as you prepare to take your first step, remember that naught is as important as the spirit of giving."
  62: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x01F5 [0x1C] WAIT(30* ticks)
- 64: 0x01F8 [0x2B] Arnau (ID: 17723406/0x010E700E) [11274*]:
+ 64: 0x01F8 [0x2B] Arnau (ID: 17723406/0x010E700E) [11275*]:
     → "Providence shall come with the renunciation of greed. The one treasure we may keep is generosity!"
  65: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0200 [0x1C] WAIT(30* ticks)
  67: 0x0203 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
- 68: 0x0214 [0x2B] Arnau (ID: 17723406/0x010E700E) [11275*]:
+ 68: 0x0214 [0x2B] Arnau (ID: 17723406/0x010E700E) [11276*]:
     → "Now, I recall a friar on retreat in East Ronfaure."
  69: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x021C [0x1C] WAIT(30* ticks)
  71: 0x021F [0x03] Work_Zone[2] = 618*
- 72: 0x0224 [0x2B] Arnau (ID: 17723406/0x010E700E) [11276*]:
+ 72: 0x0224 [0x2B] Arnau (ID: 17723406/0x010E700E) [11277*]:
     → "He spends his days fasting in prayer, pausing only to eat blue peas."
  73: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x022C [0x1C] WAIT(30* ticks)
  75: 0x022F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
  76: 0x0240 [0x03] Work_Zone[2] = 618*
- 77: 0x0245 [0x2B] Arnau (ID: 17723406/0x010E700E) [11277*]:
+ 77: 0x0245 [0x2B] Arnau (ID: 17723406/0x010E700E) [11278*]:
     → "In reverence of his devotion, let us deliver him sustenance!"
  78: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x024D [0x1C] WAIT(30* ticks)
  80: 0x0250 [0x03] Work_Zone[2] = 618*
- 81: 0x0255 [0x2B] Arnau (ID: 17723406/0x010E700E) [11278*]:
+ 81: 0x0255 [0x2B] Arnau (ID: 17723406/0x010E700E) [11279*]:
     → "Beseech Friar Abioleget at the narthex, so that he might entrust the peas to you."
  82: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x025D [0x1C] WAIT(30* ticks)
  84: 0x0260 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
- 85: 0x0271 [0x2B] Arnau (ID: 17723406/0x010E700E) [11279*]:
+ 85: 0x0271 [0x2B] Arnau (ID: 17723406/0x010E700E) [11280*]:
     → "Eschew all desire, give yourself to Altana, and she will bless you in her glory."
  86: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0279 [0x1C] WAIT(30* ticks)
  88: 0x027C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
- 89: 0x028D [0x2B] Arnau (ID: 17723406/0x010E700E) [11280*]:
+ 89: 0x028D [0x2B] Arnau (ID: 17723406/0x010E700E) [11281*]:
     → "And with these words, I send you. May her light shine upon you, always."
  90: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0295 [0x1C] WAIT(30* ticks)
@@ -497,7 +497,7 @@
  94: 0x02B4 [0x1C] WAIT(60* ticks)
  95: 0x02B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
  96: 0x02C8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [Arnau (ID: 17723406/0x010E700E), Arnau (ID: 17723406/0x010E700E)], work=21*
- 97: 0x02D7 [0x2B] Arnau (ID: 17723406/0x010E700E) [11194*]:
+ 97: 0x02D7 [0x2B] Arnau (ID: 17723406/0x010E700E) [11195*]:
     → "May Paradise open its gates to you."
  98: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x02DF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [Arnau (ID: 17723406/0x010E700E), Arnau (ID: 17723406/0x010E700E)]
@@ -541,20 +541,20 @@
   4: 0x02FC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02FD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
   6: 0x030C [0x03] Work_Zone[2] = 618*
-  7: 0x0311 [0x1D] PRINT_EVENT_MESSAGE(message_id=11282*)
+  7: 0x0311 [0x1D] PRINT_EVENT_MESSAGE(message_id=11283*)
     → "Take you this $0. Within a tower in East Ronfaure shall you find the friar."
   8: 0x0314 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0315 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  10: 0x0322 [0x1C] WAIT(30* ticks)
  11: 0x0325 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 12: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=11283*)
+ 12: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=11284*)
     → "You shall carry the peas to the friar, and return hither."
  13: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0338 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  15: 0x0347 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  16: 0x0354 [0x1C] WAIT(60* ticks)
  17: 0x0357 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 18: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=11194*)
+ 18: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=11195*)
     → "May Paradise open its gates to you."
  19: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x036A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -598,20 +598,20 @@
   2: 0x0384 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0385 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0386 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=11284*)
+  5: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=11285*)
     → "We recognize your conviction. Today, you are a step closer to Paradise!"
   6: 0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0399 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   8: 0x03A8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   9: 0x03B5 [0x1C] WAIT(30* ticks)
  10: 0x03B8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11285*)
+ 11: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11286*)
     → "To honor your devotion, I bestow upon you this blessing."
  12: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x03CB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  14: 0x03D8 [0x1C] WAIT(30* ticks)
  15: 0x03DB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 16: 0x03EA [0x1D] PRINT_EVENT_MESSAGE(message_id=11194*)
+ 16: 0x03EA [0x1D] PRINT_EVENT_MESSAGE(message_id=11195*)
     → "May Paradise open its gates to you."
  17: 0x03ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x03EE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]

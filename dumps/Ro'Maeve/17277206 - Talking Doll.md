@@ -26,15 +26,15 @@
 |       2 | 0xFFFF8D74  |  4294937972 |
 |       3 | 0x0C9D      |        3229 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1CA7      |        7335 |
-|       6 | 0x1CA0      |        7328 |
+|       5 | 0x1CA8      |        7336 |
+|       6 | 0x1CA1      |        7329 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0000      |           0 |
 
 ## String References
 
-- **7328**: Ahahahahaha! You're almost on top of it! It's somewhere in this area!
-- **7335**: The $0 jumps in your hands.
+- **7329**: Ahahahahaha! You're almost on top of it! It's somewhere in this area!
+- **7336**: The $0 jumps in your hands.
 
 ## Events
 
@@ -110,10 +110,10 @@
   2: 0x000F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x0011 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   4: 0x0013 [0x1C] WAIT(1* ticks)
-  5: 0x0016 [0x48] [System] [7335*]:
+  5: 0x0016 [0x48] [System] [7336*]:
     → "The $0 jumps in your hands."
   6: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
+  7: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "Ahahahahaha! You're almost on top of it! It's somewhere in this area!"
   8: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001E [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer

@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1C3F      |        7231 |
+|       1 | 0x1C40      |        7232 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
@@ -29,7 +29,7 @@
 |       6 | 0x0005      |           5 |
 |       7 | 0x0006      |           6 |
 |       8 | 0x0033      |          51 |
-|       9 | 0x1C40      |        7232 |
+|       9 | 0x1C41      |        7233 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x0007      |           7 |
 |      12 | 0x0008      |           8 |
@@ -94,8 +94,8 @@
 
 ## String References
 
-- **7231**: Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower - 1st Basement./Never mind.]
-- **7232**: Enter which floor of the tower? [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]
+- **7232**: Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower - 1st Basement./Never mind.]
+- **7233**: Enter which floor of the tower? [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]
 
 ## Events
 
@@ -213,7 +213,7 @@
   1: 0x0003 [0x03] ExtData[1]->WorkLocal[2] = 0*
   2: 0x0008 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   3: 0x000D [0x03] ExtData[1]->WorkLocal[1] = 0*
-  4: 0x0012 [0x24] CREATE_DIALOG(message_id=7231*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+  4: 0x0012 [0x24] CREATE_DIALOG(message_id=7232*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower - 1st Basement./Never mind.]"
   5: 0x0019 [0x25] WAIT_DIALOG_SELECT()
   6: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002A
@@ -245,7 +245,7 @@ SUBROUTINE_008F:
  30: 0x00A2 [0x01] GOTO 0x0166
  31: 0x00A5 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
  32: 0x00AA [0x0C] ExtData[1]->WorkLocal[2]--
- 33: 0x00AD [0x24] CREATE_DIALOG(message_id=7232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 33: 0x00AD [0x24] CREATE_DIALOG(message_id=7233*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Enter which floor of the tower? [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]"
  34: 0x00B4 [0x25] WAIT_DIALOG_SELECT()
  35: 0x00B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CA

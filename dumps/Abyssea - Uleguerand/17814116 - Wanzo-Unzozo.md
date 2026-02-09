@@ -25,32 +25,32 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F65      |        8037 |
+|       0 | 0x1F66      |        8038 |
 |       1 | 0x003C      |          60 |
 |       2 | 0x0020      |          32 |
-|       3 | 0x1F66      |        8038 |
+|       3 | 0x1F67      |        8039 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0300      |         768 |
-|       6 | 0x1F67      |        8039 |
+|       6 | 0x1F68      |        8040 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x1008      |        4104 |
 |       9 | 0x1000      |        4096 |
 |      10 | 0x0015      |          21 |
-|      11 | 0x1F68      |        8040 |
-|      12 | 0x1F69      |        8041 |
-|      13 | 0x1F6A      |        8042 |
+|      11 | 0x1F69      |        8041 |
+|      12 | 0x1F6A      |        8042 |
+|      13 | 0x1F6B      |        8043 |
 |      14 | 0x0019      |          25 |
-|      15 | 0x1F6B      |        8043 |
+|      15 | 0x1F6C      |        8044 |
 
 ## String References
 
-- **8037**: Yeees? Is something the mattaru?
-- **8038**: I say, it's posi-wositively freezing, wouldn't you say? I don't suppose you've seen anything around that could be used to startaru a nice, cozy fire, have you?
-- **8039**: $0! With this I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Oh, yes, I'll contactaru the old bore sooner or later.
-- **8040**: $0! Wherever did you find this? Now I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Don't worry, I'll contactaru the old bore sooner or later.
-- **8041**: Ta-taru! See you 'round!
-- **8042**: Now I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Don't worry, I'll contact the old bore sooner or lataru.
-- **8043**: Rondipur chewy-wewed me up good and proper. The nerve of that man! He could go a long way toward improving morale if he'd provision us with something tastier than buffalo jerky to eataru!
+- **8038**: Yeees? Is something the mattaru?
+- **8039**: I say, it's posi-wositively freezing, wouldn't you say? I don't suppose you've seen anything around that could be used to startaru a nice, cozy fire, have you?
+- **8040**: $0! With this I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Oh, yes, I'll contactaru the old bore sooner or later.
+- **8041**: $0! Wherever did you find this? Now I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Don't worry, I'll contactaru the old bore sooner or later.
+- **8042**: Ta-taru! See you 'round!
+- **8043**: Now I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Don't worry, I'll contact the old bore sooner or lataru.
+- **8044**: Rondipur chewy-wewed me up good and proper. The nerve of that man! He could go a long way toward improving morale if he'd provision us with something tastier than buffalo jerky to eataru!
 
 ## Events
 
@@ -98,7 +98,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "Yeees? Is something the mattaru?"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -131,7 +131,7 @@
   1: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0015 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "Yeees? Is something the mattaru?"
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001A [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x04)
@@ -139,7 +139,7 @@
   8: 0x0024 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x05)
   9: 0x002B [0x6E] Wanzo-Unzozo (ID: 17814116/0x010FD264) uses emote 32*
  10: 0x0032 [0x99] Wait for Wanzo-Unzozo (ID: 17814116/0x010FD264) animation to complete
- 11: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+ 11: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "I say, it's posi-wositively freezing, wouldn't you say? I don't suppose you've seen anything around that could be used to startaru a nice, cozy fire, have you?"
  12: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x003B [0x21] END_EVENT
@@ -169,7 +169,7 @@
   0: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0042 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0043 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+  3: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "I say, it's posi-wositively freezing, wouldn't you say? I don't suppose you've seen anything around that could be used to startaru a nice, cozy fire, have you?"
   4: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0048 [0x21] END_EVENT
@@ -208,7 +208,7 @@
   5: 0x005A [0x03] Work_Zone[2] = 768*
   6: 0x005F [0x6E] Wanzo-Unzozo (ID: 17814116/0x010FD264) uses emote 1*
   7: 0x0066 [0x99] Wait for Wanzo-Unzozo (ID: 17814116/0x010FD264) animation to complete
-  8: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+  8: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "$0! With this I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Oh, yes, I'll contactaru the old bore sooner or later."
   9: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x006F [0x01] GOTO 0x0097
@@ -220,12 +220,12 @@
 SUBROUTINE_0087:
  15: 0x0087 [0x6E] Wanzo-Unzozo (ID: 17814116/0x010FD264) uses emote 21*
  16: 0x008E [0x99] Wait for Wanzo-Unzozo (ID: 17814116/0x010FD264) animation to complete
- 17: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+ 17: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "$0! Wherever did you find this? Now I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Don't worry, I'll contactaru the old bore sooner or later."
  18: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0097:
- 19: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
+ 19: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
     → "Ta-taru! See you 'round!"
  20: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x009B [0x21] END_EVENT
@@ -255,7 +255,7 @@ SUBROUTINE_0097:
   0: 0x009D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00A2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
+  3: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
     → "Now I can start a fire to keep myself toasty-woasty and cook up a piping hot dinner! Rondipur? Don't worry, I'll contact the old bore sooner or lataru."
   4: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00A8 [0x21] END_EVENT
@@ -288,7 +288,7 @@ SUBROUTINE_0097:
   2: 0x00B0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B1 [0x6E] Wanzo-Unzozo (ID: 17814116/0x010FD264) uses emote 25*
   4: 0x00B8 [0x99] Wait for Wanzo-Unzozo (ID: 17814116/0x010FD264) animation to complete
-  5: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
+  5: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
     → "Rondipur chewy-wewed me up good and proper. The nerve of that man! He could go a long way toward improving morale if he'd provision us with something tastier than buffalo jerky to eataru!"
   6: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C1 [0x21] END_EVENT

@@ -24,21 +24,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1CDB      |        7387 |
+|       1 | 0x1CDC      |        7388 |
 |       2 | 0x40000000  |  1073741824 |
-|       3 | 0x1CD8      |        7384 |
-|       4 | 0x1CD9      |        7385 |
-|       5 | 0x1CDA      |        7386 |
+|       3 | 0x1CD9      |        7385 |
+|       4 | 0x1CDA      |        7386 |
+|       5 | 0x1CDB      |        7387 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1CD3      |        7379 |
-|       8 | 0x1CD4      |        7380 |
+|       7 | 0x1CD4      |        7380 |
+|       8 | 0x1CD5      |        7381 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x1CD5      |        7381 |
+|      10 | 0x1CD6      |        7382 |
 |      11 | 0x0029      |          41 |
 |      12 | 0x0004      |           4 |
 |      13 | 0x0007      |           7 |
-|      14 | 0x1D73      |        7539 |
-|      15 | 0x1D72      |        7538 |
+|      14 | 0x1D74      |        7540 |
+|      15 | 0x1D73      |        7539 |
 |      16 | 0x001A      |          26 |
 |      17 | 0x001B      |          27 |
 |      18 | 0x001C      |          28 |
@@ -82,15 +82,15 @@
 
 ## String References
 
-- **7379**: This mineral vein is rank $0. It seems possible to obtain something from it $2 more time[/s].
-- **7380**: This vein has $1 poured on it.
-- **7381**: What will you do? [Mine it./Multiple excavations./Nothing.]
-- **7384**: Using this new serum will overpower the effects of the $0 you already poured.
-- **7385**: Use $0? [Yes./No.]
-- **7386**: You poured $0 on the vein.
-- **7387**: You cannot pour $0 on a mineral vein.
-- **7538**: You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s].
-- **7539**: You have successfully performed that action $0 time[/s], and may no longer do so again.
+- **7380**: This mineral vein is rank $0. It seems possible to obtain something from it $2 more time[/s].
+- **7381**: This vein has $1 poured on it.
+- **7382**: What will you do? [Mine it./Multiple excavations./Nothing.]
+- **7385**: Using this new serum will overpower the effects of the $0 you already poured.
+- **7386**: Use $0? [Yes./No.]
+- **7387**: You poured $0 on the vein.
+- **7388**: You cannot pour $0 on a mineral vein.
+- **7539**: You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s].
+- **7540**: You have successfully performed that action $0 time[/s], and may no longer do so again.
 
 ## Events
 
@@ -698,23 +698,23 @@ SUBROUTINE_05F7:
      0x0010 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
      0x0015 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x002E
      0x001D [0x03] Work_Zone[2] = Work_Zone[3]
-     0x0022 [0x48] [System] [7387*]:
+     0x0022 [0x48] [System] [7388*]:
     → "You cannot pour $0 on a mineral vein."
      0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0026 [0x03] Work_Zone[1] = 1073741824*
      0x002B [0x01] GOTO 0x0079
      0x002E [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x006F
      0x0036 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-     0x003B [0x48] [System] [7384*]:
+     0x003B [0x48] [System] [7385*]:
     → "Using this new serum will overpower the effects of the $0 you already poured."
      0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x003F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
-     0x0044 [0x24] CREATE_DIALOG(message_id=7385*, default_option=0*, option_flags=0*)
+     0x0044 [0x24] CREATE_DIALOG(message_id=7386*, default_option=0*, option_flags=0*)
     → "Use $0? [Yes./No.]"
      0x004B [0x25] WAIT_DIALOG_SELECT()
      0x004C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005C
      0x0054 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0055 [0x48] [System] [7386*]:
+     0x0055 [0x48] [System] [7387*]:
     → "You poured $0 on the vein."
      0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0059 [0x01] GOTO 0x006C
@@ -723,7 +723,7 @@ SUBROUTINE_05F7:
      0x0069 [0x01] GOTO 0x006C
      0x006C [0x01] GOTO 0x0079
      0x006F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0070 [0x48] [System] [7386*]:
+     0x0070 [0x48] [System] [7387*]:
     → "You poured $0 on the vein."
      0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0074 [0x03] Work_Zone[1] = 0*
@@ -734,11 +734,11 @@ SUBROUTINE_05F7:
      0x0085 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
      0x008A [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[9]
      0x008F [0x4A] LocalPlayer looks at EventEntity
-     0x0098 [0x48] [System] [7379*]:
+     0x0098 [0x48] [System] [7380*]:
     → "This mineral vein is rank $0. It seems possible to obtain something from it $2 more time[/s]."
      0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x009C [0x02] IF !(ExtData[1]->WorkLocal[2] <= 0*) GOTO 0x00A8
-     0x00A4 [0x48] [System] [7380*]:
+     0x00A4 [0x48] [System] [7381*]:
     → "This vein has $1 poured on it."
      0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00A8 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 1*) GOTO 0x00BD
@@ -747,7 +747,7 @@ SUBROUTINE_05F7:
      0x00BA [0x01] GOTO 0x00C7
      0x00BD [0x03] ExtData[1]->WorkLocal[4] = 2*
      0x00C2 [0x03] ExtData[1]->WorkLocal[9] = 0*
-     0x00C7 [0x24] CREATE_DIALOG(message_id=7381*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[4])
+     0x00C7 [0x24] CREATE_DIALOG(message_id=7382*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[4])
     → "What will you do? [Mine it./Multiple excavations./Nothing.]"
      0x00CE [0x25] WAIT_DIALOG_SELECT()
      0x00CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0104
@@ -784,10 +784,10 @@ SUBROUTINE_05F7:
      0x0168 [0x01] GOTO 0x011F
      0x016B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
      0x0170 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x017E
-     0x0178 [0x48] [System] [7539*]:
+     0x0178 [0x48] [System] [7540*]:
     → "You have successfully performed that action $0 time[/s], and may no longer do so again."
      0x017B [0x01] GOTO 0x0181
-     0x017E [0x48] [System] [7538*]:
+     0x017E [0x48] [System] [7539*]:
     → "You have successfully performed that action $0 time[/s], and may do so again $3 more time[/s]."
      0x0181 [0x1A] CALL_SUBROUTINE(address=0x04E7)
      0x0184 [0x01] GOTO 0x0197

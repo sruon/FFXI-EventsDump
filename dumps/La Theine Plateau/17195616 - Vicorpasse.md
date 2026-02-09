@@ -25,32 +25,32 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E42      |        7746 |
-|       1 | 0x1E43      |        7747 |
-|       2 | 0x1E44      |        7748 |
-|       3 | 0x1E45      |        7749 |
+|       0 | 0x1E43      |        7747 |
+|       1 | 0x1E44      |        7748 |
+|       2 | 0x1E45      |        7749 |
+|       3 | 0x1E46      |        7750 |
 |       4 | 0x0014      |          20 |
-|       5 | 0x1CFC      |        7420 |
+|       5 | 0x1CFD      |        7421 |
 |       6 | 0x001E      |          30 |
-|       7 | 0x1CFD      |        7421 |
-|       8 | 0x1CFE      |        7422 |
-|       9 | 0x1D05      |        7429 |
+|       7 | 0x1CFE      |        7422 |
+|       8 | 0x1CFF      |        7423 |
+|       9 | 0x1D06      |        7430 |
 |      10 | 0x0041      |          65 |
-|      11 | 0x1D06      |        7430 |
-|      12 | 0x1D07      |        7431 |
+|      11 | 0x1D07      |        7431 |
+|      12 | 0x1D08      |        7432 |
 
 ## String References
 
-- **7420**: Greetings. I'm Vicorpasse, squad captain in the Temple Knights.
-- **7421**: We are supposed to be conducting rescue drills, but one of our "injured" soldiers has gone missing. Your assistance in finding him would be appreciated.
-- **7422**: The missing soldier is a new recruit by the name of Ruillont. I just hope nothing's happened to him...
-- **7429**: What? Ruillont's in that cave? And he doesn't want us to send help, eh? That's my boy! He's an elite in the making, that one!
-- **7430**: Well, the rescue training was a wash, but you helped us find our lost soldier. I think you've earned this $3.
-- **7431**: No, really. These drills are naught compared to venturing into one of those caves. Hand that certificate to the knight at the gatehouse, and you'll be done.
-- **7746**: I have spoken with Sir Elmemague. Narvecaint is currently monitoring the suspect's movements from the entrance to the caves.
-- **7747**: Well, I suppose we can regard this as an adequate performance. It will still be necessary to further refine our soldiers' training... However, this was an excellent opportunity for the knights to practice their skills in a real-life situation.
-- **7748**: Another chance to test the effectiveness of our training in almost exactly the same setting! This time, I expect perfect coordination and execution from my men.
-- **7749**: Hmm, there is still room for improvement. They need to work on communication to facilitate speedier responses... Lady Curilla will not be pleased.
+- **7421**: Greetings. I'm Vicorpasse, squad captain in the Temple Knights.
+- **7422**: We are supposed to be conducting rescue drills, but one of our "injured" soldiers has gone missing. Your assistance in finding him would be appreciated.
+- **7423**: The missing soldier is a new recruit by the name of Ruillont. I just hope nothing's happened to him...
+- **7430**: What? Ruillont's in that cave? And he doesn't want us to send help, eh? That's my boy! He's an elite in the making, that one!
+- **7431**: Well, the rescue training was a wash, but you helped us find our lost soldier. I think you've earned this $3.
+- **7432**: No, really. These drills are naught compared to venturing into one of those caves. Hand that certificate to the knight at the gatehouse, and you'll be done.
+- **7747**: I have spoken with Sir Elmemague. Narvecaint is currently monitoring the suspect's movements from the entrance to the caves.
+- **7748**: Well, I suppose we can regard this as an adequate performance. It will still be necessary to further refine our soldiers' training... However, this was an excellent opportunity for the knights to practice their skills in a real-life situation.
+- **7749**: Another chance to test the effectiveness of our training in almost exactly the same setting! This time, I expect perfect coordination and execution from my men.
+- **7750**: Hmm, there is still room for improvement. They need to work on communication to facilitate speedier responses... Lady Curilla will not be pleased.
 
 ## Events
 
@@ -98,7 +98,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
     → "I have spoken with Sir Elmemague. Narvecaint is currently monitoring the suspect's movements from the entrance to the caves."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -128,7 +128,7 @@
   0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0013 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0014 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
     → "Well, I suppose we can regard this as an adequate performance. It will still be necessary to further refine our soldiers' training... However, this was an excellent opportunity for the knights to practice their skills in a real-life situation."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT
@@ -158,7 +158,7 @@
   0: 0x001B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0020 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0021 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
+  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
     → "Another chance to test the effectiveness of our training in almost exactly the same setting! This time, I expect perfect coordination and execution from my men."
   4: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0026 [0x21] END_EVENT
@@ -188,7 +188,7 @@
   0: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+  3: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "Hmm, there is still room for improvement. They need to work on communication to facilitate speedier responses... Lady Curilla will not be pleased."
   4: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0033 [0x21] END_EVENT
@@ -221,15 +221,15 @@
   1: 0x003A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  4: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "Greetings. I'm Vicorpasse, squad captain in the Temple Knights."
   5: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004F [0x1C] WAIT(30* ticks)
-  7: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+  7: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "We are supposed to be conducting rescue drills, but one of our "injured" soldiers has gone missing. Your assistance in finding him would be appreciated."
   8: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0056 [0x1C] WAIT(30* ticks)
- 10: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+ 10: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "The missing soldier is a new recruit by the name of Ruillont. I just hope nothing's happened to him..."
  11: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x005D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -268,20 +268,20 @@
   2: 0x006D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x006E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x006F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+  5: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "What? Ruillont's in that cave? And he doesn't want us to send help, eh? That's my boy! He's an elite in the making, that one!"
   6: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0082 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   8: 0x0087 [0x1C] WAIT(30* ticks)
   9: 0x008A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
  10: 0x0099 [0x03] Work_Zone[2] = 65*
- 11: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+ 11: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
     → "Well, the rescue training was a wash, but you helped us find our lost soldier. I think you've earned this $3."
  12: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00A2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  14: 0x00AF [0x1C] WAIT(30* ticks)
  15: 0x00B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 16: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
+ 16: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "No, really. These drills are naught compared to venturing into one of those caves. Hand that certificate to the knight at the gatehouse, and you'll be done."
  17: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00C5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

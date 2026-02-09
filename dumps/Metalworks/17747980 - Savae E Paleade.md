@@ -29,9 +29,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D29      |        7465 |
-|       1 | 0x1D2A      |        7466 |
-|       2 | 0x1D2B      |        7467 |
+|       0 | 0x1D2A      |        7466 |
+|       1 | 0x1D2B      |        7467 |
+|       2 | 0x1D2C      |        7468 |
 |       3 | 0x5CAC      |       23724 |
 |       4 | 0xFFFF56A0  |  4294923936 |
 |       5 | 0xFFFFBFFA  |  4294950906 |
@@ -58,9 +58,9 @@
 
 ## String References
 
-- **7465**: Do we look like we have time to chitchat with every adventurer who comes in here?
-- **7466**: Good luck on your mission. Bastokers like to do things by the book, so stay out of trouble and follow their rules.
-- **7467**: You've successfully completed your mission. Congratulations, and keep up the good work.
+- **7466**: Do we look like we have time to chitchat with every adventurer who comes in here?
+- **7467**: Good luck on your mission. Bastokers like to do things by the book, so stay out of trouble and follow their rules.
+- **7468**: You've successfully completed your mission. Congratulations, and keep up the good work.
 
 ## Events
 
@@ -106,7 +106,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
     → "Do we look like we have time to chitchat with every adventurer who comes in here?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -134,7 +134,7 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "Good luck on your mission. Bastokers like to do things by the book, so stay out of trouble and follow their rules."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x21] END_EVENT
@@ -162,7 +162,7 @@
 
 ```
   0: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
+  1: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
     → "You've successfully completed your mission. Congratulations, and keep up the good work."
   2: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0020 [0x21] END_EVENT

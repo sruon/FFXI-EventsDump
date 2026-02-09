@@ -1,5 +1,5 @@
 # Strings for Monastic Cavern
-# Total: 7436 strings
+# Total: 7437 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,214 +7226,215 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: What's this, then? Someone gave you this envelope, did they?
- 7228: Wh-what is this!?
- 7229: This rubbish does not fool me! I know a forgery when I see one.
- 7230: Most unpleasant. Do not speak to me of this matter again!
- 7231: You called for me, Your Majesty?
- 7232: Francmage? I was not expecting you so soon. Monarlais...tell him.
- 7233: Yes, sire.
- 7234: Francmage, I've summoned you here today to talk about one thing--the Northlands investigation.
- 7235: Oh, yes, that. Those Bastoker Humes are causing no end of trouble--saying they want to investigate here, there, and the other place...
- 7236: It is true! The Humes are fools, and no better. Can they truly believe that some ancient power lies hidden in that forsaken wasteland?
- 7237: Hah! Do they hope to find the gates to eternal Paradise there, in that lair of fiends most uncouth? Preposterous!
- 7238: We must take control of this situation immediately. Still, we cannot let them walk about the Northlands freely. Who knows what they're plotting under the guise of this "investigation."
- 7239: Francmage, listen. Go with the investigation party, and keep a close eye on what our foreign "friends" do. They are up to something, it is certain.
- 7240: I am sure nothing will come of this, but in case they do find something in that wasteland, do not let them take it. Understood?
- 7241: As you command, my lord. I would give the very blood that runs in my veins if it were to further the cause of our kingdom. You can rely on me.
- 7242: These foreigners are wily and faithless. Never let down your guard, and may the Goddess of the Dawn protect you in Her mercy.
- 7243: The king has taken a beautiful queen, and I think a splendid addition to the royal family is not far off. An heir, perhaps...
- 7244: We people of San d'Oria, too, must ever look to the future. The Elvaan must never fall behind foreigners, in power or faith.
- 7245: I understand, Your Grace.
- 7246: Very good. Do well, Francmage.
- 7247: Yes, sire! My life for the Kingdom!
- 7248: As I thought, there is nothing here... Only barren wastelands as far as the eye can see.
- 7249: But there is something wrong about this place, I can feel it. I don't think-wink we should leave Xarcabard yet.
- 7250: I agree. My nose has never failed me, but I don't smell anything. That's not normal. Something really terrrible must've happened here a long time ago.
- 7251: Ridiculous. We cannot base our decisions on your feelings alone. You can stay and look for whatever "terrible thing" is supposed to be here, but I--
- 7252: Help! Come quick! Raogrimm and Cornelia, they--
- 7253: Ulrich? What happened!?
- 7254: We were attacked by fiends, and Raogrimm and Cornelia fell down a crevice...
- 7255: Oh, no! Oh, no!
- 7256: Grr! Where!?
- 7257: This way!
- 7258: Raogrimm and Cornelia...where could they have gone?
- 7259: We have to assume the worrrst. If I can't find them, no one can.
- 7260: Why must Humes and Galka be so irresponsible!? It is their fault for wandering off without telling us!
- 7261: There are too few of us left to continue. I say we go back. Besides, we would find nothing even if we stayed.
- 7262: I second that. I've had enough of this crrreepy place anyway.
- 7263: B-but, there are still places we haven't looked--
- 7264: We have seen enough. There is nothing here but dust and ruins.
- 7265: We accomplished nothing but losing two members of our party and wasting an extraordinary amount of time...
- 7266: Yeah, you're right. This whole expedition was a failure. Let's head back tomorrow.
- 7267: Ulrich. Tell me something... Was it really an accident?
- 7268: What do you mean?
- 7269: Is it not true that there is some...shall we say, tension, between Humes and Galka in Bastok these days?
- 7270: Are you accusing me of something, Elvaan?
- 7271: Hah! Calm down. I do not care if it was an accident or not. I care even less about your little country's problems.
- 7272: Just...do not cause any more trouble with such trivial matters while I am around. That is all.
- 7273: ...
- 7274: It is quite late to be up and about, Sir Francmage. Is something wrong?
- 7275: Ah, Courisaille. It's nothing. I could not sleep, so I decided to take a walk. Leave me; I am fine.
- 7276: Yes, sir.
- 7277: No! Not you...? Raogrimm? What do you mean!? He died in an accident! I know nothing!
- 7278: Sir Francmage? Are you all right, sir?
- 7279: Stop! Do not come any further! No, nooo--
- 7280: ... S-Sir...Francmage?
- 7281: You obtain the abbey key.
- 7282: You find nothing.
- 7283: This appears to be an altar.
- 7284: Debug: Start ruins effect.
- 7285: The strange stone glows ominously.
- 7286: The magicite glows ominously.
- 7287: So that's what magicite looks like.
- 7288: What could they possibly want with it?
- 7289: What the...?
- 7290: You are too late. I have awoken.
- 7291: Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel.
- 7292: Who are you!?
- 7293: Your kind has awoken me...and this time, you will be destroyed!
- 7294: You cannot stop me. Vana'diel will be a grave for you and all your kind!
- 7295: The Shadow Lord? It can't be! His powers have returned!
- 7296: Then it is true! The beastmen are trying to resurrect the Shadow Lord.
- 7297: This chest is locked. It can be opened with $0.
- 7298: This chest is empty.
- 7299: Your inventory is full. You cannot carry any more items.
- 7300: You must be closer to the chest to open it.
- 7301: %0 opens the chest and finds $0.
- 7302: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7303: %0 obtains a key item, $6, from the chest.
- 7304: You obtain a key item, $6, from the chest.
- 7305: You unlock the chest!
- 7306: %0 fails to open the chest.
- 7307: The chest was trapped!
- 7308: You cannot open the chest when you are in a weakened state.
- 7309: The chest was a mimic!
- 7310: You cannot open the chest while participating in the moogle event.
- 7311: The chest was but an illusion...
- 7312: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7313: You place $6 and $6 together upon the altar.
- 7314: You defeat the monster.
- 7315: Nothing can be done here.
- 7316: You find nothing.
- 7317: Intruders? Get outs here! We gots us some adventurers!
- 7318: Gahahahaha... You fell for our trick. I'm not the big boss. He don't need to be troubled by runty little rarabs like you.
- 7319: Ungh? Who are you? So, you've come to kill big boss Bakgodek? I'll crush your scrawny bones myself!
- 7320: Unghh... Foolish children of Altana. Defeating me won't change anything. There will be others from the north...
- 7321: There is nothing out of the ordinary here.
- 7322: You can hear a strange voice... "Items, items, la la la la la`t"
- 7323: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7324: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7325: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7326: Now, listen close...
- 7327: Oh... Well, if that's the case, I'm outta here.
- 7328: The Goblin slipped away when you were not looking...
- 7329: You can hear a strange, raspy voice...
- 7330: I travel......hear lots... Hear...stories... Can tell...if...
- 7331: .........listen......
- 7332: Oh...... ...outta here.........
- 7333: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7334: What story would you like to be told? [On second thought, maybe later./The Circle of Time./An Understanding Overlord?(pt.1)./An Understanding Overlord?(pt.2)./An Understanding Overlord?(pt.3)./An Understanding Overlord?(pt.4)./An Understanding Overlord?(pt.5)./An Understanding Overlord?(pt.6)./Magicite(pt.1)./Magicite(pt.2).]
- 7335: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: What's this, then? Someone gave you this envelope, did they?
+ 7229: Wh-what is this!?
+ 7230: This rubbish does not fool me! I know a forgery when I see one.
+ 7231: Most unpleasant. Do not speak to me of this matter again!
+ 7232: You called for me, Your Majesty?
+ 7233: Francmage? I was not expecting you so soon. Monarlais...tell him.
+ 7234: Yes, sire.
+ 7235: Francmage, I've summoned you here today to talk about one thing--the Northlands investigation.
+ 7236: Oh, yes, that. Those Bastoker Humes are causing no end of trouble--saying they want to investigate here, there, and the other place...
+ 7237: It is true! The Humes are fools, and no better. Can they truly believe that some ancient power lies hidden in that forsaken wasteland?
+ 7238: Hah! Do they hope to find the gates to eternal Paradise there, in that lair of fiends most uncouth? Preposterous!
+ 7239: We must take control of this situation immediately. Still, we cannot let them walk about the Northlands freely. Who knows what they're plotting under the guise of this "investigation."
+ 7240: Francmage, listen. Go with the investigation party, and keep a close eye on what our foreign "friends" do. They are up to something, it is certain.
+ 7241: I am sure nothing will come of this, but in case they do find something in that wasteland, do not let them take it. Understood?
+ 7242: As you command, my lord. I would give the very blood that runs in my veins if it were to further the cause of our kingdom. You can rely on me.
+ 7243: These foreigners are wily and faithless. Never let down your guard, and may the Goddess of the Dawn protect you in Her mercy.
+ 7244: The king has taken a beautiful queen, and I think a splendid addition to the royal family is not far off. An heir, perhaps...
+ 7245: We people of San d'Oria, too, must ever look to the future. The Elvaan must never fall behind foreigners, in power or faith.
+ 7246: I understand, Your Grace.
+ 7247: Very good. Do well, Francmage.
+ 7248: Yes, sire! My life for the Kingdom!
+ 7249: As I thought, there is nothing here... Only barren wastelands as far as the eye can see.
+ 7250: But there is something wrong about this place, I can feel it. I don't think-wink we should leave Xarcabard yet.
+ 7251: I agree. My nose has never failed me, but I don't smell anything. That's not normal. Something really terrrible must've happened here a long time ago.
+ 7252: Ridiculous. We cannot base our decisions on your feelings alone. You can stay and look for whatever "terrible thing" is supposed to be here, but I--
+ 7253: Help! Come quick! Raogrimm and Cornelia, they--
+ 7254: Ulrich? What happened!?
+ 7255: We were attacked by fiends, and Raogrimm and Cornelia fell down a crevice...
+ 7256: Oh, no! Oh, no!
+ 7257: Grr! Where!?
+ 7258: This way!
+ 7259: Raogrimm and Cornelia...where could they have gone?
+ 7260: We have to assume the worrrst. If I can't find them, no one can.
+ 7261: Why must Humes and Galka be so irresponsible!? It is their fault for wandering off without telling us!
+ 7262: There are too few of us left to continue. I say we go back. Besides, we would find nothing even if we stayed.
+ 7263: I second that. I've had enough of this crrreepy place anyway.
+ 7264: B-but, there are still places we haven't looked--
+ 7265: We have seen enough. There is nothing here but dust and ruins.
+ 7266: We accomplished nothing but losing two members of our party and wasting an extraordinary amount of time...
+ 7267: Yeah, you're right. This whole expedition was a failure. Let's head back tomorrow.
+ 7268: Ulrich. Tell me something... Was it really an accident?
+ 7269: What do you mean?
+ 7270: Is it not true that there is some...shall we say, tension, between Humes and Galka in Bastok these days?
+ 7271: Are you accusing me of something, Elvaan?
+ 7272: Hah! Calm down. I do not care if it was an accident or not. I care even less about your little country's problems.
+ 7273: Just...do not cause any more trouble with such trivial matters while I am around. That is all.
+ 7274: ...
+ 7275: It is quite late to be up and about, Sir Francmage. Is something wrong?
+ 7276: Ah, Courisaille. It's nothing. I could not sleep, so I decided to take a walk. Leave me; I am fine.
+ 7277: Yes, sir.
+ 7278: No! Not you...? Raogrimm? What do you mean!? He died in an accident! I know nothing!
+ 7279: Sir Francmage? Are you all right, sir?
+ 7280: Stop! Do not come any further! No, nooo--
+ 7281: ... S-Sir...Francmage?
+ 7282: You obtain the abbey key.
+ 7283: You find nothing.
+ 7284: This appears to be an altar.
+ 7285: Debug: Start ruins effect.
+ 7286: The strange stone glows ominously.
+ 7287: The magicite glows ominously.
+ 7288: So that's what magicite looks like.
+ 7289: What could they possibly want with it?
+ 7290: What the...?
+ 7291: You are too late. I have awoken.
+ 7292: Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel.
+ 7293: Who are you!?
+ 7294: Your kind has awoken me...and this time, you will be destroyed!
+ 7295: You cannot stop me. Vana'diel will be a grave for you and all your kind!
+ 7296: The Shadow Lord? It can't be! His powers have returned!
+ 7297: Then it is true! The beastmen are trying to resurrect the Shadow Lord.
+ 7298: This chest is locked. It can be opened with $0.
+ 7299: This chest is empty.
+ 7300: Your inventory is full. You cannot carry any more items.
+ 7301: You must be closer to the chest to open it.
+ 7302: %0 opens the chest and finds $0.
+ 7303: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7304: %0 obtains a key item, $6, from the chest.
+ 7305: You obtain a key item, $6, from the chest.
+ 7306: You unlock the chest!
+ 7307: %0 fails to open the chest.
+ 7308: The chest was trapped!
+ 7309: You cannot open the chest when you are in a weakened state.
+ 7310: The chest was a mimic!
+ 7311: You cannot open the chest while participating in the moogle event.
+ 7312: The chest was but an illusion...
+ 7313: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7314: You place $6 and $6 together upon the altar.
+ 7315: You defeat the monster.
+ 7316: Nothing can be done here.
+ 7317: You find nothing.
+ 7318: Intruders? Get outs here! We gots us some adventurers!
+ 7319: Gahahahaha... You fell for our trick. I'm not the big boss. He don't need to be troubled by runty little rarabs like you.
+ 7320: Ungh? Who are you? So, you've come to kill big boss Bakgodek? I'll crush your scrawny bones myself!
+ 7321: Unghh... Foolish children of Altana. Defeating me won't change anything. There will be others from the north...
+ 7322: There is nothing out of the ordinary here.
+ 7323: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7324: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7325: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7326: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7327: Now, listen close...
+ 7328: Oh... Well, if that's the case, I'm outta here.
+ 7329: The Goblin slipped away when you were not looking...
+ 7330: You can hear a strange, raspy voice...
+ 7331: I travel......hear lots... Hear...stories... Can tell...if...
+ 7332: .........listen......
+ 7333: Oh...... ...outta here.........
+ 7334: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7335: What story would you like to be told? [On second thought, maybe later./The Circle of Time./An Understanding Overlord?(pt.1)./An Understanding Overlord?(pt.2)./An Understanding Overlord?(pt.3)./An Understanding Overlord?(pt.4)./An Understanding Overlord?(pt.5)./An Understanding Overlord?(pt.6)./Magicite(pt.1)./Magicite(pt.2).]
  7336: 
  7337: 
- 7338: Kukhu... Hahmkyanmho khoronhma-sahlmi, chakgon buhim!
- 7339: Kweh? Kharabom, tspoluhi...! Ahk! What business have you here!?
- 7340: (Though merely exchanging words with a heretic heathen can be punished with an eternity of damnation, the almighty Tzee Xicu will surely forgive me for what I am about to do...)
- 7341: Ahem...kwahk! I am Loo Kohor, servant of Tzee Xicu the Manifest. I have traveled from mighty Castle Oztroja in the mountains of Aragoneu to deliver a message to the Orcs.
- 7342: However, it seems that information of my visit has not been relayed to the lower ranks of the Orcish army.
- 7343: And as you probably already know, the oversized swine do not make a habit of asking many questions before they proceed in prodding you with one of their pointy weapons.
- 7344: Alright. Adventurer, are you not?
- 7345: I hear tales that your type will do just about anything...if the price is right.
- 7346: What say you? Hear my offer? [I'm all ears./What? What!?]
- 7347: Hmph... Will not lend your services to a "lowly" beastman, I see. Now, who truly is the "beast"?
- 7348: Kwah! So the rumors are true. In the shadow of gold, your faith is lost. What pitiful creatures you are...
- 7349: However, I am not one to judge those who have chosen to walk their path in darkness. I need you to deliver this parchment to the Orcish Overlord. You will be paid upon your return.
- 7350: What say you? [I'm your [man/woman]!/Deliver it yourself!]
- 7351: Second thoughts? While your faith hides behind the temptation of carnal pleasures, those temptations are no match for the cowardice that rots your pitiful soul. Go on, now. Leave this place before you stumble and scratch your knee.
- 7352: Kwahah! Excellent. ...Hm? Not thinking of walking into Orc lair looking like that, are we?
- 7353: The pathetic barbarians would slice you into ribbons and serve your flesh to the Overlord for supper. A disguise is what you need.
- 7354: Why not skin one of the grunts and use its thick leather to make yourself a mask to hide that repulsive face?
- 7355: I shall be waiting for you here when you have made your preparations.
- 7356: I was wondering when you would return. Now let me see your...
- 7357: .........
- 7358: Orlmhattjmha! Y-you don't really think you will fool the Orcs with that...that...thing, do you?
- 7359: <Sigh>... However, I guess I have not any choice but to trust you and your plan. Here is the communication you are to deliver.
- 7360: You are to take it and place it within the Overlord's cryptexphere.
- 7361: Again, I will be waiting here for you behind these boulders, but let my will guide your spirit safely through this nest of fiends.
- 7362: Several colored stones lie carefully arranged within a large circle. Hundreds of large Orc footprints can be made out around the area.
- 7363: You place the $3 within the cryptexphere.
- 7364: Uuhdahha! Kidanga rohhaah!
- 7365: Gahahah! I don't fall for your tricks! I know you too ugly to be Orc! Kill [him/her]!!!
- 7366: Stop!
- 7367: You fool! You bear name Overlord, but do not forget who has true power!
- 7368: My apology, adventurer. I see you are messenger for Yagudo.
- 7369: But I don't understand. Why would child of Altana keep promise to beastman? Why would you risk life for him? You either very brave, very noble, or very stupid. Gahahah!
- 7370: We Orcs have no respect for coward. I'll be first to cut their throat! But we do respect bravery and good fight, whether fighter be enemy or friend!
- 7371: Now, how can I repay you...?
- 7372: Ah! That ugly hat! Put it down on cryptexphere.
- 7373: Good. You take order well. Better than most of my troops!
- 7374: Gadzradd! Gadzradd! Come now!
- 7375: Yes, lord...
- 7376: Starting today, you have new order. You protect this adventurer when [he/she] need you.
- 7377: B-but lord...
- 7378: If adventurer use hat, you run to [his/her] side and fight to death!
- 7379: Yes, lord! B-but...
- 7380: Even if [he/she] ask you to fight me, you don't step down, or I crush your skull myself!
- 7381: U-understood...
- 7382: Here's hat. Proof of true bravery worthy of mighty Orc!
- 7383: Use hat to summon Gadzradd. He hides in shadows but comes when you call. No worry about language. Gadzradd speaks your words good.
- 7384: Now I must go, adventurer.
- 7385: You are great warrior, and I salute you. But next time we meet we are enemy. Watch back, or you might be smashed into pulp! Gahahah!
- 7386: What took you so long? I was beginning to worry that you had been...
- 7387: Ahem...kwahk! Here is your reward. Did you believe I would attempt to trick you? I know not your people's beliefs, but it is against the teachings of the almighty Tzee Xicu to break one's promise.
- 7388: What? Are you dissatisfied with your prize? Is this not what you wanted?
- 7389: Well, if you have any complaints, you may take them up directly with the Avatar himself--if you can make it there in one piece!
- 7390: Now I must be off. Good day!
- 7391: A heretic that keeps [his/her] word... Perhaps there still is some hope for the children of Altana...
- 7392: You cannot obtain the $0. Come back again after sorting your inventory.
- 7393: Gahahah! Puny adventurer, stronger than most! But now you feel wrath of Orcs!
- 7394: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7395: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7396: You have returned to the field of battle.
- 7397: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7398: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7399: You have only $0 [second/seconds] (Earth time) remaining.
- 7400: Your time for this Confrontation is up...
- 7401: The monster fades before your eyes, a look of disappointment on its face.
- 7402: (Test message.)
- 7403: Enter the garrison? [Yes./No.]
- 7404: The $3 is ripped violently to pieces!
- 7405: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7406: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7407: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7408: Our foe advances...may thine aim be true!
- 7409: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7410: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7411: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7412: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7413: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7414: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7415: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7416: Greetings, traveler! How dost thou fare in thine adventures?
- 7417: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7418: Dost thou find this enchantment to thy liking?
- 7419: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7420: Splendid! May it serve thee well.
- 7421: %0 obtained $0!
- 7422: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7423: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7424: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7425: Though it may fall short of thy expectations, pray accept it.
- 7426: Otherwise, we shall have no choice but to dispose of it.
- 7427: Many thanks for thine assistance!
- 7428: Pray accept this $0 as but a humble token of our gratitude.
- 7429: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7430: $3f$3o$3b$3O$590643$3$3NM
- 7431: $3f$3o$3b$3O$201475X$3^$3243853
- 7432: One or more of your party members do not meet the prerequisites for this battle.
- 7433: One or more of your party members are not in the appropriate staging zone.
- 7434: One or more of your party members are currently viewing a cutscene.
- 7435: You sense sininster forcesI
+ 7338: 
+ 7339: Kukhu... Hahmkyanmho khoronhma-sahlmi, chakgon buhim!
+ 7340: Kweh? Kharabom, tspoluhi...! Ahk! What business have you here!?
+ 7341: (Though merely exchanging words with a heretic heathen can be punished with an eternity of damnation, the almighty Tzee Xicu will surely forgive me for what I am about to do...)
+ 7342: Ahem...kwahk! I am Loo Kohor, servant of Tzee Xicu the Manifest. I have traveled from mighty Castle Oztroja in the mountains of Aragoneu to deliver a message to the Orcs.
+ 7343: However, it seems that information of my visit has not been relayed to the lower ranks of the Orcish army.
+ 7344: And as you probably already know, the oversized swine do not make a habit of asking many questions before they proceed in prodding you with one of their pointy weapons.
+ 7345: Alright. Adventurer, are you not?
+ 7346: I hear tales that your type will do just about anything...if the price is right.
+ 7347: What say you? Hear my offer? [I'm all ears./What? What!?]
+ 7348: Hmph... Will not lend your services to a "lowly" beastman, I see. Now, who truly is the "beast"?
+ 7349: Kwah! So the rumors are true. In the shadow of gold, your faith is lost. What pitiful creatures you are...
+ 7350: However, I am not one to judge those who have chosen to walk their path in darkness. I need you to deliver this parchment to the Orcish Overlord. You will be paid upon your return.
+ 7351: What say you? [I'm your [man/woman]!/Deliver it yourself!]
+ 7352: Second thoughts? While your faith hides behind the temptation of carnal pleasures, those temptations are no match for the cowardice that rots your pitiful soul. Go on, now. Leave this place before you stumble and scratch your knee.
+ 7353: Kwahah! Excellent. ...Hm? Not thinking of walking into Orc lair looking like that, are we?
+ 7354: The pathetic barbarians would slice you into ribbons and serve your flesh to the Overlord for supper. A disguise is what you need.
+ 7355: Why not skin one of the grunts and use its thick leather to make yourself a mask to hide that repulsive face?
+ 7356: I shall be waiting for you here when you have made your preparations.
+ 7357: I was wondering when you would return. Now let me see your...
+ 7358: .........
+ 7359: Orlmhattjmha! Y-you don't really think you will fool the Orcs with that...that...thing, do you?
+ 7360: <Sigh>... However, I guess I have not any choice but to trust you and your plan. Here is the communication you are to deliver.
+ 7361: You are to take it and place it within the Overlord's cryptexphere.
+ 7362: Again, I will be waiting here for you behind these boulders, but let my will guide your spirit safely through this nest of fiends.
+ 7363: Several colored stones lie carefully arranged within a large circle. Hundreds of large Orc footprints can be made out around the area.
+ 7364: You place the $3 within the cryptexphere.
+ 7365: Uuhdahha! Kidanga rohhaah!
+ 7366: Gahahah! I don't fall for your tricks! I know you too ugly to be Orc! Kill [him/her]!!!
+ 7367: Stop!
+ 7368: You fool! You bear name Overlord, but do not forget who has true power!
+ 7369: My apology, adventurer. I see you are messenger for Yagudo.
+ 7370: But I don't understand. Why would child of Altana keep promise to beastman? Why would you risk life for him? You either very brave, very noble, or very stupid. Gahahah!
+ 7371: We Orcs have no respect for coward. I'll be first to cut their throat! But we do respect bravery and good fight, whether fighter be enemy or friend!
+ 7372: Now, how can I repay you...?
+ 7373: Ah! That ugly hat! Put it down on cryptexphere.
+ 7374: Good. You take order well. Better than most of my troops!
+ 7375: Gadzradd! Gadzradd! Come now!
+ 7376: Yes, lord...
+ 7377: Starting today, you have new order. You protect this adventurer when [he/she] need you.
+ 7378: B-but lord...
+ 7379: If adventurer use hat, you run to [his/her] side and fight to death!
+ 7380: Yes, lord! B-but...
+ 7381: Even if [he/she] ask you to fight me, you don't step down, or I crush your skull myself!
+ 7382: U-understood...
+ 7383: Here's hat. Proof of true bravery worthy of mighty Orc!
+ 7384: Use hat to summon Gadzradd. He hides in shadows but comes when you call. No worry about language. Gadzradd speaks your words good.
+ 7385: Now I must go, adventurer.
+ 7386: You are great warrior, and I salute you. But next time we meet we are enemy. Watch back, or you might be smashed into pulp! Gahahah!
+ 7387: What took you so long? I was beginning to worry that you had been...
+ 7388: Ahem...kwahk! Here is your reward. Did you believe I would attempt to trick you? I know not your people's beliefs, but it is against the teachings of the almighty Tzee Xicu to break one's promise.
+ 7389: What? Are you dissatisfied with your prize? Is this not what you wanted?
+ 7390: Well, if you have any complaints, you may take them up directly with the Avatar himself--if you can make it there in one piece!
+ 7391: Now I must be off. Good day!
+ 7392: A heretic that keeps [his/her] word... Perhaps there still is some hope for the children of Altana...
+ 7393: You cannot obtain the $0. Come back again after sorting your inventory.
+ 7394: Gahahah! Puny adventurer, stronger than most! But now you feel wrath of Orcs!
+ 7395: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7396: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7397: You have returned to the field of battle.
+ 7398: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7399: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7400: You have only $0 [second/seconds] (Earth time) remaining.
+ 7401: Your time for this Confrontation is up...
+ 7402: The monster fades before your eyes, a look of disappointment on its face.
+ 7403: (Test message.)
+ 7404: Enter the garrison? [Yes./No.]
+ 7405: The $3 is ripped violently to pieces!
+ 7406: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7407: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7408: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7409: Our foe advances...may thine aim be true!
+ 7410: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7411: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7412: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7413: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7414: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7415: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7416: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7417: Greetings, traveler! How dost thou fare in thine adventures?
+ 7418: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7419: Dost thou find this enchantment to thy liking?
+ 7420: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7421: Splendid! May it serve thee well.
+ 7422: %0 obtained $0!
+ 7423: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7424: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7425: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7426: Though it may fall short of thy expectations, pray accept it.
+ 7427: Otherwise, we shall have no choice but to dispose of it.
+ 7428: Many thanks for thine assistance!
+ 7429: Pray accept this $0 as but a humble token of our gratitude.
+ 7430: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7431: $3f$3o$3b$3O$590643$3$3NM
+ 7432: $3f$3o$3b$3O$201475X$3^$3243853
+ 7433: One or more of your party members do not meet the prerequisites for this battle.
+ 7434: One or more of your party members are not in the appropriate staging zone.
+ 7435: One or more of your party members are currently viewing a cutscene.
+ 7436: You sense sininster forcesI

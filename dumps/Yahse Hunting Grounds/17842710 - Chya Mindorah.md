@@ -24,29 +24,29 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0044      |          68 |
-|       1 | 0x1D5E      |        7518 |
-|       2 | 0x1D5F      |        7519 |
-|       3 | 0x1D60      |        7520 |
-|       4 | 0x1D61      |        7521 |
-|       5 | 0x1D62      |        7522 |
-|       6 | 0x1D63      |        7523 |
-|       7 | 0x1D64      |        7524 |
-|       8 | 0x1D65      |        7525 |
-|       9 | 0x1D66      |        7526 |
+|       1 | 0x1D5F      |        7519 |
+|       2 | 0x1D60      |        7520 |
+|       3 | 0x1D61      |        7521 |
+|       4 | 0x1D62      |        7522 |
+|       5 | 0x1D63      |        7523 |
+|       6 | 0x1D64      |        7524 |
+|       7 | 0x1D65      |        7525 |
+|       8 | 0x1D66      |        7526 |
+|       9 | 0x1D67      |        7527 |
 |      10 | 0x00C9      |         201 |
 |      11 | 0x0000      |           0 |
 
 ## String References
 
-- **7518**: You're a pioneerrr--you can handle yourself out there, right? How about clipping the wings of that cursed chapuli for me?
-- **7519**: Those chapuli chomp on the leaves of everrry last plant they find! What I need from you is to take out the big one--the head of the whole cloud.
-- **7520**: I'd do it myself, but why sully my claws when someone purrrfectly capable of massacring the pest is right here?
-- **7521**: It's masterrrfully good at staying out of sight, but attacking its swarm should call it out of hiding. Yeah, yeah, I know you don't wanna help, but think of it as a boon to the pioneering project.
-- **7522**: Now get to it, before I leave scrrratch marks all over your arms!
-- **7523**: You brought it, lock, stock, and barrel! Now that's the kind of furrrocity I can get behind! Now the chapuli shouldn't bother us for a while.
-- **7524**: First we were concerned about the chapuli, but the further in we go the more we learn about the dangerrrs of Ulbuka. Nothing a good claw to the face can't handle, though.
-- **7525**: What my viciousness can't handle, however, is the havoc these foul crrreatures wreak on the environment. This constant change doesn't bode well...
-- **7526**: That's above my pay grrrade, though. You pioneers will have to handle the rest and claim your just reward. For now, this mere trifle will have to suffice.
+- **7519**: You're a pioneerrr--you can handle yourself out there, right? How about clipping the wings of that cursed chapuli for me?
+- **7520**: Those chapuli chomp on the leaves of everrry last plant they find! What I need from you is to take out the big one--the head of the whole cloud.
+- **7521**: I'd do it myself, but why sully my claws when someone purrrfectly capable of massacring the pest is right here?
+- **7522**: It's masterrrfully good at staying out of sight, but attacking its swarm should call it out of hiding. Yeah, yeah, I know you don't wanna help, but think of it as a boon to the pioneering project.
+- **7523**: Now get to it, before I leave scrrratch marks all over your arms!
+- **7524**: You brought it, lock, stock, and barrel! Now that's the kind of furrrocity I can get behind! Now the chapuli shouldn't bother us for a while.
+- **7525**: First we were concerned about the chapuli, but the further in we go the more we learn about the dangerrrs of Ulbuka. Nothing a good claw to the face can't handle, though.
+- **7526**: What my viciousness can't handle, however, is the havoc these foul crrreatures wreak on the environment. This constant change doesn't bode well...
+- **7527**: That's above my pay grrrade, though. You pioneers will have to handle the rest and claim your just reward. For now, this mere trifle will have to suffice.
 
 ## Events
 
@@ -99,19 +99,19 @@
   2: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "You're a pioneerrr--you can handle yourself out there, right? How about clipping the wings of that cursed chapuli for me?"
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Those chapuli chomp on the leaves of everrry last plant they find! What I need from you is to take out the big one--the head of the whole cloud."
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "I'd do it myself, but why sully my claws when someone purrrfectly capable of massacring the pest is right here?"
  10: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+ 11: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "It's masterrrfully good at staying out of sight, but attacking its swarm should call it out of hiding. Yeah, yeah, I know you don't wanna help, but think of it as a boon to the pioneering project."
  12: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+ 13: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "Now get to it, before I leave scrrratch marks all over your arms!"
  14: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -146,10 +146,10 @@
   2: 0x0043 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0044 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0045 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  5: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "You're a pioneerrr--you can handle yourself out there, right? How about clipping the wings of that cursed chapuli for me?"
   6: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+  7: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "It's masterrrfully good at staying out of sight, but attacking its swarm should call it out of hiding. Yeah, yeah, I know you don't wanna help, but think of it as a boon to the pioneering project."
   8: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -186,16 +186,16 @@
   2: 0x0073 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0074 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0075 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  5: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "You brought it, lock, stock, and barrel! Now that's the kind of furrrocity I can get behind! Now the chapuli shouldn't bother us for a while."
   6: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  7: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "First we were concerned about the chapuli, but the further in we go the more we learn about the dangerrrs of Ulbuka. Nothing a good claw to the face can't handle, though."
   8: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  9: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "What my viciousness can't handle, however, is the havoc these foul crrreatures wreak on the environment. This constant change doesn't bode well..."
  10: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 11: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "That's above my pay grrrade, though. You pioneers will have to handle the rest and claim your just reward. For now, this mere trifle will have to suffice."
  12: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0094 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -231,7 +231,7 @@
   2: 0x00BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
+  5: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
     → "First we were concerned about the chapuli, but the further in we go the more we learn about the dangerrrs of Ulbuka. Nothing a good claw to the face can't handle, though."
   6: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*

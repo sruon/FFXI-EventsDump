@@ -102,21 +102,21 @@
 |      49 | 0x0010      |          16 |
 |      50 | 0x001F      |          31 |
 |      51 | 0xFFFFFFFF  |  4294967295 |
-|      52 | 0x1DB5      |        7605 |
-|      53 | 0x1DA8      |        7592 |
+|      52 | 0x1DB6      |        7606 |
+|      53 | 0x1DA9      |        7593 |
 |      54 | 0x0005      |           5 |
 |      55 | 0x0002      |           2 |
 |      56 | 0x0004      |           4 |
-|      57 | 0x1C3B      |        7227 |
+|      57 | 0x1C3C      |        7228 |
 |      58 | 0x00FF      |         255 |
 |      59 | 0x00C8      |         200 |
 |      60 | 0x0013      |          19 |
 |      61 | 0x0008      |           8 |
-|      62 | 0x1C46      |        7238 |
-|      63 | 0x1C47      |        7239 |
-|      64 | 0x1C48      |        7240 |
-|      65 | 0x1C49      |        7241 |
-|      66 | 0x1C6D      |        7277 |
+|      62 | 0x1C47      |        7239 |
+|      63 | 0x1C48      |        7240 |
+|      64 | 0x1C49      |        7241 |
+|      65 | 0x1C4A      |        7242 |
+|      66 | 0x1C6E      |        7278 |
 |      67 | 0x0006      |           6 |
 |      68 | 0x0007      |           7 |
 |      69 | 0x000C      |          12 |
@@ -133,16 +133,16 @@
 |      80 | 0x001B      |          27 |
 |      81 | 0x001C      |          28 |
 |      82 | 0x001D      |          29 |
-|      83 | 0x1DA2      |        7586 |
-|      84 | 0x1DA7      |        7591 |
-|      85 | 0x1DA6      |        7590 |
+|      83 | 0x1DA3      |        7587 |
+|      84 | 0x1DA8      |        7592 |
+|      85 | 0x1DA7      |        7591 |
 |      86 | 0x003C      |          60 |
-|      87 | 0x1DB3      |        7603 |
-|      88 | 0x1DB2      |        7602 |
+|      87 | 0x1DB4      |        7604 |
+|      88 | 0x1DB3      |        7603 |
 |      89 | 0x0064      |         100 |
-|      90 | 0x1D8E      |        7566 |
+|      90 | 0x1D8F      |        7567 |
 |      91 | 0x00C1      |         193 |
-|      92 | 0x1C3E      |        7230 |
+|      92 | 0x1C3F      |        7231 |
 |      93 | 0x00C9      |         201 |
 |      94 | 0xFFFAEFFC  |  4294635516 |
 |      95 | 0xFFFB712C  |  4294668588 |
@@ -235,16 +235,16 @@
 |     182 | 0x8FE5      |       36837 |
 |     183 | 0x02A1      |         673 |
 |     184 | 0x0024      |          36 |
-|     185 | 0x1D90      |        7568 |
-|     186 | 0x1D8F      |        7567 |
-|     187 | 0x1DB1      |        7601 |
-|     188 | 0x1D92      |        7570 |
-|     189 | 0x1D91      |        7569 |
+|     185 | 0x1D91      |        7569 |
+|     186 | 0x1D90      |        7568 |
+|     187 | 0x1DB2      |        7602 |
+|     188 | 0x1D93      |        7571 |
+|     189 | 0x1D92      |        7570 |
 |     190 | 0x0044      |          68 |
 |     191 | 0xFFFFFFD9  |  4294967257 |
 |     192 | 0xFFFB52CD  |  4294660813 |
 |     193 | 0x0C02      |        3074 |
-|     194 | 0x1C3C      |        7228 |
+|     194 | 0x1C3D      |        7229 |
 |     195 | 0x0067      |         103 |
 |     196 | 0x006A      |         106 |
 |     197 | 0x006D      |         109 |
@@ -274,27 +274,27 @@
 
 ## String References
 
-- **7227**: Enter the battlefield? [Enter./Decline.]
-- **7228**: Leave the battlefield? [Run away./Stay.]
-- **7230**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7238**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7228**: Enter the battlefield? [Enter./Decline.]
+- **7229**: Leave the battlefield? [Run away./Stay.]
+- **7231**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7239**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7240**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7241**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7277**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7566**: Skip the event? [Yes./No.]
-- **7567**: Battlefield clear time: $3 second[/s]!
-- **7568**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7569**: The current battlefield clear time record is $3 second[/s].
-- **7570**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7586**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7590**: That record is held by $5 adventurers, including %0!
-- **7591**: That record is held by %0!
-- **7592**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7601**: You have broken the clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]"!
-- **7602**: The current battlefield clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]" is $3 second[/s].
-- **7603**: The current battlefield clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]" is $3 minute[/s] $2 second[/s].
-- **7605**: Which battlefield will you enter? [None./Through the Quicksand Caves./Legion XI Comitatensis./Shattering Stars (SAM)./Shattering Stars (NIN)./Shattering Stars (DRG)./Cactuar Suave./Eye of the Storm./The Scarlet King./Roar! A Cat Burglar Bares Her Fangs./Dragon Scales./$26Legion XI Comitatensis././././././././././././././././././././]
+- **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7278**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7567**: Skip the event? [Yes./No.]
+- **7568**: Battlefield clear time: $3 second[/s]!
+- **7569**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7570**: The current battlefield clear time record is $3 second[/s].
+- **7571**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7587**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7591**: That record is held by $5 adventurers, including %0!
+- **7592**: That record is held by %0!
+- **7593**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7602**: You have broken the clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]"!
+- **7603**: The current battlefield clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]" is $3 second[/s].
+- **7604**: The current battlefield clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]" is $3 minute[/s] $2 second[/s].
+- **7606**: Which battlefield will you enter? [None./Through the Quicksand Caves./Legion XI Comitatensis./Shattering Stars (SAM)./Shattering Stars (NIN)./Shattering Stars (DRG)./Cactuar Suave./Eye of the Storm./The Scarlet King./Roar! A Cat Burglar Bares Her Fangs./Dragon Scales./$26Legion XI Comitatensis././././././././././././././././././././]
 
 ## Events
 
@@ -880,7 +880,7 @@
  13: 0x0149 [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x014E [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0153 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x0158 [0x24] CREATE_DIALOG(message_id=7605*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x0158 [0x24] CREATE_DIALOG(message_id=7606*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Through the Quicksand Caves./Legion XI Comitatensis./Shattering Stars (SAM)./Shattering Stars (NIN)./Shattering Stars (DRG)./Cactuar Suave./Eye of the Storm./The Scarlet King./Roar! A Cat Burglar Bares Her Fangs./Dragon Scales./$26Legion XI Comitatensis././././././././././././././././././././]"
  17: 0x015F [0x25] WAIT_DIALOG_SELECT()
  18: 0x0160 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016E
@@ -893,7 +893,7 @@ SUBROUTINE_019A:
 
 SUBROUTINE_01AB:
  23: 0x01AB [0x1A] CALL_SUBROUTINE(address=0x13FE)
- 24: 0x01AE [0x24] CREATE_DIALOG(message_id=7592*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x01AE [0x24] CREATE_DIALOG(message_id=7593*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x01B5 [0x25] WAIT_DIALOG_SELECT()
  26: 0x01B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C6
@@ -919,7 +919,7 @@ SUBROUTINE_0219:
  44: 0x021C [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x021F [0x1A] CALL_SUBROUTINE(address=0x0940)
  46: 0x0222 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0240
- 47: 0x022A [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+ 47: 0x022A [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0231 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0232 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0240
@@ -968,22 +968,22 @@ SUBROUTINE_029F:
  86: 0x030D [0x01] GOTO 0x08DC
  87: 0x0310 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x035A
  88: 0x0318 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0327
- 89: 0x0320 [0x48] [System] [7238*]:
+ 89: 0x0320 [0x48] [System] [7239*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0324 [0x01] GOTO 0x0354
  92: 0x0327 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0336
- 93: 0x032F [0x48] [System] [7239*]:
+ 93: 0x032F [0x48] [System] [7240*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0333 [0x01] GOTO 0x0354
  96: 0x0336 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0345
- 97: 0x033E [0x48] [System] [7240*]:
+ 97: 0x033E [0x48] [System] [7241*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0342 [0x01] GOTO 0x0354
 100: 0x0345 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0354
-101: 0x034D [0x48] [System] [7241*]:
+101: 0x034D [0x48] [System] [7242*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0351 [0x01] GOTO 0x0354
@@ -992,7 +992,7 @@ SUBROUTINE_0354:
 104: 0x0354 [0x01] GOTO 0x08F3
 
 SUBROUTINE_0564:
-105: 0x0564 [0x48] [System] [7586*]:
+105: 0x0564 [0x48] [System] [7587*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x0567 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0568 [0x01] GOTO 0x08F3
@@ -1004,24 +1004,24 @@ SUBROUTINE_05C1:
 111: 0x05D1 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x05EC
 112: 0x05D9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x05E0 [0x15] Work_Zone[5] /= 60*
-114: 0x05E5 [0x48] [System] [7603*]:
+114: 0x05E5 [0x48] [System] [7604*]:
     → "The current battlefield clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]" is $3 minute[/s] $2 second[/s]."
 115: 0x05E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x05E9 [0x01] GOTO 0x05F0
-117: 0x05EC [0x48] [System] [7602*]:
+117: 0x05EC [0x48] [System] [7603*]:
     → "The current battlefield clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]" is $3 second[/s]."
 118: 0x05EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_05F0:
 119: 0x05F0 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x05FF
-120: 0x05F8 [0x48] [System] [7591*]:
+120: 0x05F8 [0x48] [System] [7592*]:
     → "That record is held by %0!"
 121: 0x05FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x05FC [0x01] GOTO 0x0610
 123: 0x05FF [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0604 [0x0C] Work_Zone[6]--
 125: 0x0607 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x060C [0x48] [System] [7590*]:
+126: 0x060C [0x48] [System] [7591*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x060F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1037,7 +1037,7 @@ SUBROUTINE_0610:
 SUBROUTINE_0634:
 135: 0x0634 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x065A
 136: 0x063C [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x065A
-137: 0x0644 [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
+137: 0x0644 [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x064B [0x25] WAIT_DIALOG_SELECT()
 139: 0x064C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x065A
@@ -1177,7 +1177,7 @@ SUBROUTINE_08DC:
 263: 0x08DF [0x02] IF !(0* == 1*) GOTO 0x08EC
 264: 0x08E7 [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x08EC [0x01] GOTO 0x029F
-266: 0x08EF [0x48] [System] [7230*]:
+266: 0x08EF [0x48] [System] [7231*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x08F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1543,7 +1543,7 @@ SUBROUTINE_0D30:
  84: 0x0D3B [0x01] GOTO 0x0D59
  85: 0x0D3E [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0E09
  86: 0x0D46 [0x1C] WAIT(15* ticks)
- 87: 0x0D49 [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
+ 87: 0x0D49 [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0D50 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0D51 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E09
@@ -1610,18 +1610,18 @@ SUBROUTINE_0E3B:
 138: 0x0E74 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0E8F
 139: 0x0E7C [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0E83 [0x15] Work_Zone[5] /= 60*
-141: 0x0E88 [0x48] [System] [7568*]:
+141: 0x0E88 [0x48] [System] [7569*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0E8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0E8C [0x01] GOTO 0x0E93
-144: 0x0E8F [0x48] [System] [7567*]:
+144: 0x0E8F [0x48] [System] [7568*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0E92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0E93:
 146: 0x0E93 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0EA7
 147: 0x0E9B [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0EA0 [0x48] [System] [7601*]:
+148: 0x0EA0 [0x48] [System] [7602*]:
     → "You have broken the clear time record for "[Through the Quicksand Caves/Legion XI Comitatensis/Shattering Stars (SAM)/Shattering Stars (NIN)/Shattering Stars (DRG)/Cactuar Suave/Eye of the Storm/The Scarlet King/Roar! A Cat Burglar Bares Her Fangs/Dragon Scales/$26Legion XI Comitatensis]"!"
 149: 0x0EA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0EA4 [0x01] GOTO 0x0ED0
@@ -1629,12 +1629,12 @@ SUBROUTINE_0E93:
 152: 0x0EAF [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0EB4 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0EBB [0x15] Work_Zone[5] /= 60*
-155: 0x0EC0 [0x48] [System] [7570*]:
+155: 0x0EC0 [0x48] [System] [7571*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0EC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0EC4 [0x01] GOTO 0x0ED0
 158: 0x0EC7 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0ECC [0x48] [System] [7569*]:
+159: 0x0ECC [0x48] [System] [7570*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0ECF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1897,7 +1897,7 @@ SUBROUTINE_10A7:
  76: 0x10EA [0x00] END_REQSTACK()
 
 SUBROUTINE_1320:
- 77: 0x1320 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+ 77: 0x1320 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
  78: 0x1327 [0x25] WAIT_DIALOG_SELECT()
  79: 0x1328 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1336
@@ -1958,7 +1958,7 @@ SUBROUTINE_1560:
 
 ```
 # Dead code (unreachable instructions):
-     0x10EB [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+     0x10EB [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x10F2 [0x25] WAIT_DIALOG_SELECT()
      0x10F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1101

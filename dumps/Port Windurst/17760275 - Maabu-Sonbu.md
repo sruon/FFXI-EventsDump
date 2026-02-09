@@ -66,9 +66,9 @@
 |      12 | 0x0F6D      |        3949 |
 |      13 | 0x0F6E      |        3950 |
 |      14 | 0x0F6F      |        3951 |
-|      15 | 0x2E8E      |       11918 |
-|      16 | 0x2E8F      |       11919 |
-|      17 | 0x2E90      |       11920 |
+|      15 | 0x2E8F      |       11919 |
+|      16 | 0x2E90      |       11920 |
+|      17 | 0x2E91      |       11921 |
 |      18 | 0x0F70      |        3952 |
 |      19 | 0x0F71      |        3953 |
 |      20 | 0x0F72      |        3954 |
@@ -78,12 +78,12 @@
 |      24 | 0x0E80      |        3712 |
 |      25 | 0x0EAD      |        3757 |
 |      26 | 0x0EAE      |        3758 |
-|      27 | 0x300A      |       12298 |
-|      28 | 0x300B      |       12299 |
-|      29 | 0x300C      |       12300 |
-|      30 | 0x3140      |       12608 |
-|      31 | 0x3141      |       12609 |
-|      32 | 0x3142      |       12610 |
+|      27 | 0x300B      |       12299 |
+|      28 | 0x300C      |       12300 |
+|      29 | 0x300D      |       12301 |
+|      30 | 0x3141      |       12609 |
+|      31 | 0x3142      |       12610 |
+|      32 | 0x3143      |       12611 |
 
 ## String References
 
@@ -108,15 +108,15 @@
 - **3954**: You tried using $1 on him and he still didn't wakey-wakey up, huh?
 - **3955**: I wonder what it could be... The only advice I can offer is that you speak to Pechiru-Mashiru--the kid's white magic teacher.
 - **3956**: Did you solve our little sleepy-head's problem? Phew... Now we can all sleep easier!
-- **11918**: What? $1 didn't quite do the tricky-wicky? Hmm...
-- **11919**: How about trying $2? That plant smells bad enough to raise the dead, so it should work fine on a sleepy-weepy kid.
-- **11920**: I heard you can find it growing in the Pashhow Marshlands. Don't forget to take $3 with you when you go!
-- **12298**: Be careful, now! This is a magic training area. It's far too dangerous for your average Joe Blow to be hanging around here!
-- **12299**: Now especially-wecially, everyone is a little on edge. Since the minister was arrested by the Sibyl Guards, the Orastery has been completely topsy-turvy.
-- **12300**: Whatever is going to happen to our beloved Orastery? I shudder-wudder to think...
-- **12608**: Be careful, now! This is a magic training area. It's far too dangerous for your average Joe Blow to be hanging around here!
-- **12609**: Everyone's spells have become a little over-wover-enthusiastic since we heard that the Star Sibyl had forgiven Minister Ajido-Marujido.
-- **12610**: I can't vouch for your safety in the Orastery rightaru now. Of course, it's never been that safe in here to begin with...
+- **11919**: What? $1 didn't quite do the tricky-wicky? Hmm...
+- **11920**: How about trying $2? That plant smells bad enough to raise the dead, so it should work fine on a sleepy-weepy kid.
+- **11921**: I heard you can find it growing in the Pashhow Marshlands. Don't forget to take $3 with you when you go!
+- **12299**: Be careful, now! This is a magic training area. It's far too dangerous for your average Joe Blow to be hanging around here!
+- **12300**: Now especially-wecially, everyone is a little on edge. Since the minister was arrested by the Sibyl Guards, the Orastery has been completely topsy-turvy.
+- **12301**: Whatever is going to happen to our beloved Orastery? I shudder-wudder to think...
+- **12609**: Be careful, now! This is a magic training area. It's far too dangerous for your average Joe Blow to be hanging around here!
+- **12610**: Everyone's spells have become a little over-wover-enthusiastic since we heard that the Star Sibyl had forgiven Minister Ajido-Marujido.
+- **12611**: I can't vouch for your safety in the Orastery rightaru now. Of course, it's never been that safe in here to begin with...
 
 ## Events
 
@@ -707,15 +707,15 @@
   6: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0165 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x02)
   8: 0x016C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x07)
-  9: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=11918*)
+  9: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
     → "What? $1 didn't quite do the tricky-wicky? Hmm..."
  10: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0177 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x08)
  12: 0x017E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x01)
- 13: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
+ 13: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
     → "How about trying $2? That plant smells bad enough to raise the dead, so it should work fine on a sleepy-weepy kid."
  14: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+ 15: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=11921*)
     → "I heard you can find it growing in the Pashhow Marshlands. Don't forget to take $3 with you when you go!"
  16: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x018D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x02)
@@ -760,15 +760,15 @@
   9: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x06)
  11: 0x01C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x07)
- 12: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11918*)
+ 12: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
     → "What? $1 didn't quite do the tricky-wicky? Hmm..."
  13: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x08)
  15: 0x01D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x01)
- 16: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11919*)
+ 16: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
     → "How about trying $2? That plant smells bad enough to raise the dead, so it should work fine on a sleepy-weepy kid."
  17: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+ 18: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11921*)
     → "I heard you can find it growing in the Pashhow Marshlands. Don't forget to take $3 with you when you go!"
  19: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x02)
@@ -952,15 +952,15 @@
   1: 0x027F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0280 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0281 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x01)
-  4: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
+  4: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
     → "Be careful, now! This is a magic training area. It's far too dangerous for your average Joe Blow to be hanging around here!"
   5: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x028C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x02)
-  7: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
+  7: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=12300*)
     → "Now especially-wecially, everyone is a little on edge. Since the minister was arrested by the Sibyl Guards, the Orastery has been completely topsy-turvy."
   8: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0297 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x03)
- 10: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=12300*)
+ 10: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=12301*)
     → "Whatever is going to happen to our beloved Orastery? I shudder-wudder to think..."
  11: 0x02A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x04)
@@ -1019,15 +1019,15 @@
   1: 0x02C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x01)
-  4: 0x02CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12608*)
+  4: 0x02CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12609*)
     → "Be careful, now! This is a magic training area. It's far too dangerous for your average Joe Blow to be hanging around here!"
   5: 0x02CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x02)
-  7: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12609*)
+  7: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12610*)
     → "Everyone's spells have become a little over-wover-enthusiastic since we heard that the Star Sibyl had forgiven Minister Ajido-Marujido."
   8: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x07)
- 10: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12610*)
+ 10: 0x02E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12611*)
     → "I can't vouch for your safety in the Orastery rightaru now. Of course, it's never been that safe in here to begin with..."
  11: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maabu-Sonbu (ID: 17760275/0x010F0013), tag_num=0x08)

@@ -23,29 +23,29 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC4      |        7364 |
-|       1 | 0x1CC6      |        7366 |
+|       0 | 0x1CC5      |        7365 |
+|       1 | 0x1CC7      |        7367 |
 |       2 | 0x0029      |          41 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1CCD      |        7373 |
+|       4 | 0x1CCE      |        7374 |
 |       5 | 0x0004      |           4 |
-|       6 | 0x1CF9      |        7417 |
+|       6 | 0x1CFA      |        7418 |
 |       7 | 0x0008      |           8 |
 |       8 | 0x025D      |         605 |
-|       9 | 0x1CCC      |        7372 |
+|       9 | 0x1CCD      |        7373 |
 |      10 | 0x000C      |          12 |
-|      11 | 0x1CCB      |        7371 |
-|      12 | 0x1CFC      |        7420 |
+|      11 | 0x1CCC      |        7372 |
+|      12 | 0x1CFD      |        7421 |
 
 ## String References
 
-- **7364**: You might be able to mine mythril here.
-- **7366**: You will need a proper tool to dig here.
-- **7371**: You find $1, but your $2 breaks in the process.
-- **7372**: Your $1 breaks!
-- **7373**: You find nothing.
-- **7417**: You successfully dig up $0!
-- **7420**: You cannot carry any more items. Your inventory is full.
+- **7365**: You might be able to mine mythril here.
+- **7367**: You will need a proper tool to dig here.
+- **7372**: You find $1, but your $2 breaks in the process.
+- **7373**: Your $1 breaks!
+- **7374**: You find nothing.
+- **7418**: You successfully dig up $0!
+- **7421**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -91,7 +91,7 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at Mythril Seam (ID: 17363353/0x0108F199)
-  1: 0x000A [0x48] [System] [7364*]:
+  1: 0x000A [0x48] [System] [7365*]:
     → "You might be able to mine mythril here."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000E [0x21] END_EVENT
@@ -118,7 +118,7 @@
 
 ```
   0: 0x0010 [0x4A] LocalPlayer looks at Mythril Seam (ID: 17363353/0x0108F199)
-  1: 0x0019 [0x48] [System] [7366*]:
+  1: 0x0019 [0x48] [System] [7367*]:
     → "You will need a proper tool to dig here."
   2: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x001D [0x21] END_EVENT
@@ -155,22 +155,22 @@
   2: 0x0027 [0x99] Wait for LocalPlayer animation to complete
   3: 0x002C [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   4: 0x0031 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x003F
-  5: 0x0039 [0x48] [System] [7373*]:
+  5: 0x0039 [0x48] [System] [7374*]:
     → "You find nothing."
   6: 0x003C [0x01] GOTO 0x0078
   7: 0x003F [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0052
   8: 0x0047 [0x03] Work_Zone[2] = Work_Zone[3]
-  9: 0x004C [0x48] [System] [7417*]:
+  9: 0x004C [0x48] [System] [7418*]:
     → "You successfully dig up $0!"
  10: 0x004F [0x01] GOTO 0x0078
  11: 0x0052 [0x02] IF !(ExtData[1]->WorkLocal[0] == 8*) GOTO 0x0065
  12: 0x005A [0x03] Work_Zone[3] = 605*
- 13: 0x005F [0x48] [System] [7372*]:
+ 13: 0x005F [0x48] [System] [7373*]:
     → "Your $1 breaks!"
  14: 0x0062 [0x01] GOTO 0x0078
  15: 0x0065 [0x02] IF !(ExtData[1]->WorkLocal[0] == 12*) GOTO 0x0078
  16: 0x006D [0x03] Work_Zone[4] = 605*
- 17: 0x0072 [0x48] [System] [7371*]:
+ 17: 0x0072 [0x48] [System] [7372*]:
     → "You find $1, but your $2 breaks in the process."
  18: 0x0075 [0x01] GOTO 0x0078
 
@@ -202,7 +202,7 @@ SUBROUTINE_0078:
   0: 0x007A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x007B [0x6E] LocalPlayer uses emote 41*
   2: 0x0082 [0x99] Wait for LocalPlayer animation to complete
-  3: 0x0087 [0x48] [System] [7420*]:
+  3: 0x0087 [0x48] [System] [7421*]:
     → "You cannot carry any more items. Your inventory is full."
   4: 0x008A [0x21] END_EVENT
   5: 0x008B [0x00] END_REQSTACK()

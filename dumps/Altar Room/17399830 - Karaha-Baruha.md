@@ -35,23 +35,23 @@
 |       3 | 0x32C7      |       12999 |
 |       4 | 0x233EB     |      144363 |
 |       5 | 0xFFFFBD98  |  4294950296 |
-|       6 | 0x1BB7      |        7095 |
-|       7 | 0x1BB8      |        7096 |
-|       8 | 0x1BB9      |        7097 |
-|       9 | 0x1BBB      |        7099 |
-|      10 | 0x1BBF      |        7103 |
-|      11 | 0x1BC0      |        7104 |
-|      12 | 0x1BC1      |        7105 |
+|       6 | 0x1BB8      |        7096 |
+|       7 | 0x1BB9      |        7097 |
+|       8 | 0x1BBA      |        7098 |
+|       9 | 0x1BBC      |        7100 |
+|      10 | 0x1BC0      |        7104 |
+|      11 | 0x1BC1      |        7105 |
+|      12 | 0x1BC2      |        7106 |
 
 ## String References
 
-- **7095**: Yes, I would like to name this magic "summoning."
-- **7096**: The divine texts depict it in the form of the Star Sibyl commanding a great beast.
-- **7097**: At any rate, we are very close. Soon, the magic of summoning will be complete.
-- **7099**: Are you uneasy, Your Holiness?
-- **7103**: Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin.
-- **7104**: The Book of the Gods has taught me everything.
-- **7105**: It told me the meaning of the tower and the fountain. And it has taught me how to command the greatest of beasts.
+- **7096**: Yes, I would like to name this magic "summoning."
+- **7097**: The divine texts depict it in the form of the Star Sibyl commanding a great beast.
+- **7098**: At any rate, we are very close. Soon, the magic of summoning will be complete.
+- **7100**: Are you uneasy, Your Holiness?
+- **7104**: Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin.
+- **7105**: The Book of the Gods has taught me everything.
+- **7106**: It told me the meaning of the tower and the fountain. And it has taught me how to command the greatest of beasts.
 
 ## Events
 
@@ -169,7 +169,7 @@
 #### Opcodes
 
 ```
-  0: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7095*)
+  0: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
     → "Yes, I would like to name this magic "summoning.""
   1: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0022 [0x00] END_REQSTACK()
@@ -194,7 +194,7 @@
 #### Opcodes
 
 ```
-  0: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
+  0: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
     → "The divine texts depict it in the form of the Star Sibyl commanding a great beast."
   1: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0027 [0x00] END_REQSTACK()
@@ -219,7 +219,7 @@
 #### Opcodes
 
 ```
-  0: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
+  0: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
     → "At any rate, we are very close. Soon, the magic of summoning will be complete."
   1: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002C [0x00] END_REQSTACK()
@@ -245,7 +245,7 @@
 #### Opcodes
 
 ```
-  0: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
+  0: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
     → "Are you uneasy, Your Holiness?"
   1: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0031 [0x00] END_REQSTACK()
@@ -270,7 +270,7 @@
 #### Opcodes
 
 ```
-  0: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7103*)
+  0: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
     → "Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin."
   1: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0036 [0x00] END_REQSTACK()
@@ -295,7 +295,7 @@
 #### Opcodes
 
 ```
-  0: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
+  0: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7105*)
     → "The Book of the Gods has taught me everything."
   1: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003B [0x00] END_REQSTACK()
@@ -321,7 +321,7 @@
 #### Opcodes
 
 ```
-  0: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7105*)
+  0: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7106*)
     → "It told me the meaning of the tower and the fountain. And it has taught me how to command the greatest of beasts."
   1: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0040 [0x00] END_REQSTACK()

@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D06      |        7430 |
-|       1 | 0x1D07      |        7431 |
-|       2 | 0x1D08      |        7432 |
-|       3 | 0x1D09      |        7433 |
-|       4 | 0x1D0A      |        7434 |
-|       5 | 0x1D0B      |        7435 |
+|       0 | 0x1D07      |        7431 |
+|       1 | 0x1D08      |        7432 |
+|       2 | 0x1D09      |        7433 |
+|       3 | 0x1D0A      |        7434 |
+|       4 | 0x1D0B      |        7435 |
+|       5 | 0x1D0C      |        7436 |
 
 ## String References
 
-- **7430**: You see a message engraved on the stone:
-- **7431**: It has been a full ten years since I last visited this land, yet I am shocked to see Orcish warriors roaming this far south!
-- **7432**: I saw many here in this forest, the very lap of the Kingdom, but the proud Elvaan knights don't consider them a threat.
-- **7433**: Mark my words! Someday, hundreds--no--thousands of Orcs will bring war upon this beautiful kingdom.
-- **7434**: I write this in hope that brave knights will prove me wrong.
-- **7435**: --Gwynham Ironheart, 761 Crystal Era.
+- **7431**: You see a message engraved on the stone:
+- **7432**: It has been a full ten years since I last visited this land, yet I am shocked to see Orcish warriors roaming this far south!
+- **7433**: I saw many here in this forest, the very lap of the Kingdom, but the proud Elvaan knights don't consider them a threat.
+- **7434**: Mark my words! Someday, hundreds--no--thousands of Orcs will bring war upon this beautiful kingdom.
+- **7435**: I write this in hope that brave knights will prove me wrong.
+- **7436**: --Gwynham Ironheart, 761 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7430*]:
+  0: 0x0001 [0x48] [System] [7431*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7431*]:
+  2: 0x0005 [0x48] [System] [7432*]:
     → "It has been a full ten years since I last visited this land, yet I am shocked to see Orcish warriors roaming this far south!"
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7432*]:
+  4: 0x0009 [0x48] [System] [7433*]:
     → "I saw many here in this forest, the very lap of the Kingdom, but the proud Elvaan knights don't consider them a threat."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7433*]:
+  6: 0x000D [0x48] [System] [7434*]:
     → "Mark my words! Someday, hundreds--no--thousands of Orcs will bring war upon this beautiful kingdom."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7434*]:
+  8: 0x0011 [0x48] [System] [7435*]:
     → "I write this in hope that brave knights will prove me wrong."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7435*]:
+ 10: 0x0015 [0x48] [System] [7436*]:
     → "--Gwynham Ironheart, 761 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

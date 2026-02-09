@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x225D      |        8797 |
-|       3 | 0x225E      |        8798 |
+|       2 | 0x225E      |        8798 |
+|       3 | 0x225F      |        8799 |
 
 ## String References
 
-- **8797**: Welcome to the magical city of Windurst! Have you checked out the whole town yetaru? What's that...? You're having trouble talking with us Tarutaru?
-- **8798**: Well, we may be small and speak a little funny-wunny, but we're the best when it comes to using magic! If you have time, you should stop by the School of Magic and see how we learny-wearny!
+- **8798**: Welcome to the magical city of Windurst! Have you checked out the whole town yetaru? What's that...? You're having trouble talking with us Tarutaru?
+- **8799**: Well, we may be small and speak a little funny-wunny, but we're the best when it comes to using magic! If you have time, you should stop by the School of Magic and see how we learny-wearny!
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pojimo-Rojimo (ID: 17752164/0x010EE064), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8797*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8798*)
     → "Welcome to the magical city of Windurst! Have you checked out the whole town yetaru? What's that...? You're having trouble talking with us Tarutaru?"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8798*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8799*)
     → "Well, we may be small and speak a little funny-wunny, but we're the best when it comes to using magic! If you have time, you should stop by the School of Magic and see how we learny-wearny!"
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pojimo-Rojimo (ID: 17752164/0x010EE064), tag_num=0x02)

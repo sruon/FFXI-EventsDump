@@ -33,13 +33,13 @@
 |       5 | 0xFFFFC049  |  4294950985 |
 |       6 | 0xFFFFA8F7  |  4294945015 |
 |       7 | 0x03DB      |         987 |
-|       8 | 0x29DF      |       10719 |
-|       9 | 0x29E0      |       10720 |
+|       8 | 0x29E0      |       10720 |
+|       9 | 0x29E1      |       10721 |
 
 ## String References
 
-- **10719**: There's nothing to do in this musty old cave. I wanna go outside and play in the meadows!
-- **10720**: I've heard lots of neat stories from all the adventurers visiting the safehold. I can't wait until I'm old enough to ditch this smelly cave and go someplace exciting!
+- **10720**: There's nothing to do in this musty old cave. I wanna go outside and play in the meadows!
+- **10721**: I've heard lots of neat stories from all the adventurers visiting the safehold. I can't wait until I'm old enough to ditch this smelly cave and go someplace exciting!
 
 ## Events
 
@@ -179,7 +179,7 @@
 
 ```
   0: 0x0025 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
+  1: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
     → "There's nothing to do in this musty old cave. I wanna go outside and play in the meadows!"
   2: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002E [0x21] END_EVENT
@@ -206,7 +206,7 @@
 
 ```
   0: 0x0030 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
+  1: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=10721*)
     → "I've heard lots of neat stories from all the adventurers visiting the safehold. I can't wait until I'm old enough to ditch this smelly cave and go someplace exciting!"
   2: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0039 [0x21] END_EVENT

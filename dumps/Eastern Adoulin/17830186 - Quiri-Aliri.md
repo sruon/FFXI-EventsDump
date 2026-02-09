@@ -26,65 +26,65 @@
 |       2 | 0x001E      |          30 |
 |       3 | 0x0022      |          34 |
 |       4 | 0x086D      |        2157 |
-|       5 | 0x30F8      |       12536 |
-|       6 | 0x30F9      |       12537 |
-|       7 | 0x30FA      |       12538 |
-|       8 | 0x30FB      |       12539 |
+|       5 | 0x30F9      |       12537 |
+|       6 | 0x30FA      |       12538 |
+|       7 | 0x30FB      |       12539 |
+|       8 | 0x30FC      |       12540 |
 |       9 | 0x000A      |          10 |
-|      10 | 0x30FD      |       12541 |
-|      11 | 0x30FE      |       12542 |
-|      12 | 0x30FF      |       12543 |
-|      13 | 0x3100      |       12544 |
+|      10 | 0x30FE      |       12542 |
+|      11 | 0x30FF      |       12543 |
+|      12 | 0x3100      |       12544 |
+|      13 | 0x3101      |       12545 |
 |      14 | 0x01F1      |         497 |
 |      15 | 0x0104      |         260 |
-|      16 | 0x3101      |       12545 |
+|      16 | 0x3102      |       12546 |
 |      17 | 0x40000000  |  1073741824 |
-|      18 | 0x30FC      |       12540 |
-|      19 | 0x3103      |       12547 |
-|      20 | 0x3104      |       12548 |
-|      21 | 0x3105      |       12549 |
+|      18 | 0x30FD      |       12541 |
+|      19 | 0x3104      |       12548 |
+|      20 | 0x3105      |       12549 |
+|      21 | 0x3106      |       12550 |
 |      22 | 0x0002      |           2 |
 |      23 | 0x0003      |           3 |
 |      24 | 0x0004      |           4 |
 |      25 | 0x0005      |           5 |
 |      26 | 0x0006      |           6 |
-|      27 | 0x310D      |       12557 |
-|      28 | 0x310E      |       12558 |
-|      29 | 0x310F      |       12559 |
-|      30 | 0x3106      |       12550 |
+|      27 | 0x310E      |       12558 |
+|      28 | 0x310F      |       12559 |
+|      29 | 0x3110      |       12560 |
+|      30 | 0x3107      |       12551 |
 |      31 | 0x0007      |           7 |
-|      32 | 0x3107      |       12551 |
-|      33 | 0x3108      |       12552 |
-|      34 | 0x3109      |       12553 |
-|      35 | 0x310A      |       12554 |
-|      36 | 0x310B      |       12555 |
-|      37 | 0x310C      |       12556 |
+|      32 | 0x3108      |       12552 |
+|      33 | 0x3109      |       12553 |
+|      34 | 0x310A      |       12554 |
+|      35 | 0x310B      |       12555 |
+|      36 | 0x310C      |       12556 |
+|      37 | 0x310D      |       12557 |
 
 ## String References
 
-- **12536**: Excuse me, but I do not believe you have $6, do you?
-- **12537**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
-- **12538**: My name is % and it is my duty to make sure all pioneers are properly prepared to face the many terrifying dangers that wait in the wilds. May I inquire as to your needs?
-- **12539**: What do you need? [Would you cast Ionis on me?/Can you tell me Ionis's effects?/What exactly is Ionis?/Absolutely nothing.]
-- **12540**: It pains me to report that I cannot cast Ionis upon you because none of the coalitions are advanced enough to impart any powers upon it.
-- **12541**: In order to bestow Ionis upon you, I will need to exact a fee of $0 bayld.
-- **12542**: You know what they say--all things have their price. What say you?
-- **12543**: Truly have Ionis cast? (Bayld: $0) [Cast away!/Not so fast.]
-- **12544**: Thank you for your $0-bayld donation to the city. And now, let us proceed with the casting!
-- **12545**: Um...how embarrassing... How should I say this...? You do not seem to possess ample bayld.
-- **12547**: The power Ionis bestows fluctuates depending on how advanced each coalition is.
-- **12548**: Select a coalition. [None./Pioneers'./Peacekeepers'./Couriers'./Scouts'./Inventors'./Mummers'.]
-- **12549**: Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis.
-- **12550**: Whoops, it seems they do not add any additional effects.
-- **12551**: Based on the state of their expansion, a [Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement] will be bestowed upon you.
-- **12552**: Based on the state of their expansion, a [Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP] will be bestowed upon you.
-- **12553**: Based on the state of their expansion, a [Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor "Haste" Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Critical Hit Rate Increase/Moderate "Haste" Effect] will be bestowed upon you.
-- **12554**: Based on the state of their expansion, a [Minor "Save TP" Effect/Minor "Conserve MP" Effect/Minor "Fast Cast" Effect/Minor Resistance Increase to All Status Ailments/Moderate "Save TP" Effect/Moderate "Conserve MP" Effect/Moderate "Fast Cast" Effect/Moderate Resistance Increase to All Status Ailments] will be bestowed upon you.
-- **12555**: Based on the state of their expansion, a [Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase] will be bestowed upon you.
-- **12556**: Based on the state of their expansion, a [Minor Combat Skill Gain Rate Increase/Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase] will be bestowed upon you.
-- **12557**: What a tricky question. Well...it is a thaumaturgical aura that grants multitudes of benefits to pioneers.
-- **12558**: What is truly interesting is that this aura draws its powers from the various coalitions. The larger they grow, the more powerful the benefits each one will provide.
-- **12559**: The more pioneering feats you perform, the more the coalitions develop, and the more beneficial Ionis becomes. Think of it as a virtuous cycle!
+- **12537**: Excuse me, but I do not believe you have $6, do you?
+- **12538**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+- **12539**: My name is % and it is my duty to make sure all pioneers are properly prepared to face the many terrifying dangers that wait in the wilds. May I inquire as to your needs?
+- **12540**: What do you need? [Would you cast Ionis on me?/Can you tell me Ionis's effects?/What exactly is Ionis?/Absolutely nothing.]
+- **12541**: It pains me to report that I cannot cast Ionis upon you because none of the coalitions are advanced enough to impart any powers upon it.
+- **12542**: In order to bestow Ionis upon you, I will need to exact a fee of $0 bayld.
+- **12543**: You know what they say--all things have their price. What say you?
+- **12544**: Truly have Ionis cast? (Bayld: $0) [Cast away!/Not so fast.]
+- **12545**: Thank you for your $0-bayld donation to the city. And now, let us proceed with the casting!
+- **12546**: Um...how embarrassing... How should I say this...? You do not seem to possess ample bayld.
+- **12548**: The power Ionis bestows fluctuates depending on how advanced each coalition is.
+- **12549**: Select a coalition. [None./Pioneers'./Peacekeepers'./Couriers'./Scouts'./Inventors'./Mummers'.]
+- **12550**: Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis.
+- **12551**: Whoops, it seems they do not add any additional effects.
+- **12552**: Based on the state of their expansion, a [Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement] will be bestowed upon you.
+- **12553**: Based on the state of their expansion, a [Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP] will be bestowed upon you.
+- **12554**: Based on the state of their expansion, a [Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor "Haste" Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Critical Hit Rate Increase/Moderate "Haste" Effect] will be bestowed upon you.
+- **12555**: Based on the state of their expansion, a [Minor "Save TP" Effect/Minor "Conserve MP" Effect/Minor "Fast Cast" Effect/Minor Resistance Increase to All Status Ailments/Moderate "Save TP" Effect/Moderate "Conserve MP" Effect/Moderate "Fast Cast" Effect/Moderate Resistance Increase to All Status Ailments] will be bestowed upon you.
+- **12556**: Based on the state of their expansion, a [Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase] will be bestowed upon you.
+- **12557**: Based on the state of their expansion, a [Minor Combat Skill Gain Rate Increase/Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase] will be bestowed upon you.
+- **12558**: What a tricky question. Well...it is a thaumaturgical aura that grants multitudes of benefits to pioneers.
+- **12559**: What is truly interesting is that this aura draws its powers from the various coalitions. The larger they grow, the more powerful the benefits each one will provide.
+- **12560**: The more pioneering feats you perform, the more the coalitions develop, and the more beneficial Ionis becomes. Think of it as a virtuous cycle!
 
 ## Events
 
@@ -150,11 +150,11 @@
 
 SUBROUTINE_0041:
   9: 0x0041 [0x03] Work_Zone[2] = 2157*
- 10: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12536*)
+ 10: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12537*)
     → "Excuse me, but I do not believe you have $6, do you?"
  11: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x004A [0x03] Work_Zone[2] = 2157*
- 13: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=12537*)
+ 13: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=12538*)
     → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
  14: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0053 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x006D
@@ -273,35 +273,35 @@ SUBROUTINE_0087:
  16: 0x00E9 [0x01] GOTO 0x00EC
 
 SUBROUTINE_00EC:
- 17: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12538*)
+ 17: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12539*)
     → "My name is % and it is my duty to make sure all pioneers are properly prepared to face the many terrifying dangers that wait in the wilds. May I inquire as to your needs?"
  18: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00F0 [0x06] ExtData[1]->WorkLocal[11] = 0
 
 SUBROUTINE_00F3:
  20: 0x00F3 [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x02AC
- 21: 0x00FB [0x24] CREATE_DIALOG(message_id=12539*, default_option=0*, option_flags=0*)
+ 21: 0x00FB [0x24] CREATE_DIALOG(message_id=12540*, default_option=0*, option_flags=0*)
     → "What do you need? [Would you cast Ionis on me?/Can you tell me Ionis's effects?/What exactly is Ionis?/Absolutely nothing.]"
  22: 0x0102 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0103 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0186
  24: 0x010B [0x03] ExtData[1]->WorkLocal[13] = 0*
  25: 0x0110 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x017F
  26: 0x0118 [0x03] Work_Zone[2] = 10*
- 27: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
+ 27: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=12542*)
     → "In order to bestow Ionis upon you, I will need to exact a fee of $0 bayld."
  28: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=12542*)
+ 29: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=12543*)
     → "You know what they say--all things have their price. What say you?"
  30: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0125 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 32: 0x012A [0x24] CREATE_DIALOG(message_id=12543*, default_option=1*, option_flags=0*)
+ 32: 0x012A [0x24] CREATE_DIALOG(message_id=12544*, default_option=1*, option_flags=0*)
     → "Truly have Ionis cast? (Bayld: $0) [Cast away!/Not so fast.]"
  33: 0x0131 [0x25] WAIT_DIALOG_SELECT()
  34: 0x0132 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0171
  35: 0x013A [0x02] IF !(ExtData[1]->WorkLocal[1] < 10*) GOTO 0x0165
  36: 0x0142 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  37: 0x0143 [0x03] Work_Zone[2] = 10*
- 38: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=12544*)
+ 38: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=12545*)
     → "Thank you for your $0-bayld donation to the city. And now, let us proceed with the casting!"
  39: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x014C [0x73] EventEntity casts magic 497* on LocalPlayer
@@ -309,7 +309,7 @@ SUBROUTINE_00F3:
  42: 0x015A [0x03] Work_Zone[1] = 1*
  43: 0x015F [0x05] ExtData[1]->WorkLocal[11] = 1
  44: 0x0162 [0x01] GOTO 0x016E
- 45: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=12545*)
+ 45: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=12546*)
     → "Um...how embarrassing... How should I say this...? You do not seem to possess ample bayld."
  46: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0169 [0x03] Work_Zone[1] = 1073741824*
@@ -321,7 +321,7 @@ SUBROUTINE_016E:
 
 SUBROUTINE_017C:
  51: 0x017C [0x01] GOTO 0x0183
- 52: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=12540*)
+ 52: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
     → "It pains me to report that I cannot cast Ionis upon you because none of the coalitions are advanced enough to impart any powers upon it."
  53: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -332,10 +332,10 @@ SUBROUTINE_0183:
 
 SUBROUTINE_0191:
  57: 0x0191 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x027C
- 58: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=12547*)
+ 58: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=12548*)
     → "The power Ionis bestows fluctuates depending on how advanced each coalition is."
  59: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x019D [0x24] CREATE_DIALOG(message_id=12548*, default_option=0*, option_flags=0*)
+ 60: 0x019D [0x24] CREATE_DIALOG(message_id=12549*, default_option=0*, option_flags=0*)
     → "Select a coalition. [None./Pioneers'./Peacekeepers'./Couriers'./Scouts'./Inventors'./Mummers'.]"
  61: 0x01A4 [0x25] WAIT_DIALOG_SELECT()
  62: 0x01A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B3
@@ -343,7 +343,7 @@ SUBROUTINE_0191:
  64: 0x01B0 [0x01] GOTO 0x0279
  65: 0x01B3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01D4
  66: 0x01BB [0x03] Work_Zone[2] = 0*
- 67: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+ 67: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis."
  68: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x01C4 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[2]
@@ -352,7 +352,7 @@ SUBROUTINE_0191:
  72: 0x01D1 [0x01] GOTO 0x0279
  73: 0x01D4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x01F5
  74: 0x01DC [0x03] Work_Zone[2] = 1*
- 75: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+ 75: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis."
  76: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x01E5 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[3]
@@ -361,7 +361,7 @@ SUBROUTINE_0191:
  80: 0x01F2 [0x01] GOTO 0x0279
  81: 0x01F5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0216
  82: 0x01FD [0x03] Work_Zone[2] = 2*
- 83: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+ 83: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis."
  84: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0206 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[4]
@@ -370,7 +370,7 @@ SUBROUTINE_0191:
  88: 0x0213 [0x01] GOTO 0x0279
  89: 0x0216 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0237
  90: 0x021E [0x03] Work_Zone[2] = 3*
- 91: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+ 91: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis."
  92: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0227 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[5]
@@ -379,7 +379,7 @@ SUBROUTINE_0191:
  96: 0x0234 [0x01] GOTO 0x0279
  97: 0x0237 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0258
  98: 0x023F [0x03] Work_Zone[2] = 4*
- 99: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+ 99: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis."
 100: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0248 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[6]
@@ -388,7 +388,7 @@ SUBROUTINE_0191:
 104: 0x0255 [0x01] GOTO 0x0279
 105: 0x0258 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0279
 106: 0x0260 [0x03] Work_Zone[2] = 5*
-107: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=12549*)
+107: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
     → "Here is how the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition contributes to Ionis."
 108: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0269 [0x03] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[7]
@@ -400,13 +400,13 @@ SUBROUTINE_0279:
 113: 0x0279 [0x01] GOTO 0x0191
 114: 0x027C [0x01] GOTO 0x02A9
 115: 0x027F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0296
-116: 0x0287 [0x1D] PRINT_EVENT_MESSAGE(message_id=12557*)
+116: 0x0287 [0x1D] PRINT_EVENT_MESSAGE(message_id=12558*)
     → "What a tricky question. Well...it is a thaumaturgical aura that grants multitudes of benefits to pioneers."
 117: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=12558*)
+118: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=12559*)
     → "What is truly interesting is that this aura draws its powers from the various coalitions. The larger they grow, the more powerful the benefits each one will provide."
 119: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=12559*)
+120: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=12560*)
     → "The more pioneering feats you perform, the more the coalitions develop, and the more beneficial Ionis becomes. Think of it as a virtuous cycle!"
 121: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0293 [0x01] GOTO 0x02A9
@@ -431,7 +431,7 @@ SUBROUTINE_02E0:
 SUBROUTINE_02E2:
 136: 0x02E2 [0x03] ExtData[1]->WorkLocal[8] = 0*
 137: 0x02E7 [0x02] IF !(ExtData[1]->WorkLocal[10] > 0*) GOTO 0x02F6
-138: 0x02EF [0x1D] PRINT_EVENT_MESSAGE(message_id=12550*)
+138: 0x02EF [0x1D] PRINT_EVENT_MESSAGE(message_id=12551*)
     → "Whoops, it seems they do not add any additional effects."
 139: 0x02F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x02F3 [0x01] GOTO 0x0452
@@ -533,32 +533,32 @@ SUBROUTINE_0452:
 
 SUBROUTINE_0453:
 210: 0x0453 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0462
-211: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=12551*)
+211: 0x045B [0x1D] PRINT_EVENT_MESSAGE(message_id=12552*)
     → "Based on the state of their expansion, a [Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement] will be bestowed upon you."
 212: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x045F [0x01] GOTO 0x04AD
 214: 0x0462 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x0471
-215: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=12552*)
+215: 0x046A [0x1D] PRINT_EVENT_MESSAGE(message_id=12553*)
     → "Based on the state of their expansion, a [Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP] will be bestowed upon you."
 216: 0x046D [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x046E [0x01] GOTO 0x04AD
 218: 0x0471 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x0480
-219: 0x0479 [0x1D] PRINT_EVENT_MESSAGE(message_id=12553*)
+219: 0x0479 [0x1D] PRINT_EVENT_MESSAGE(message_id=12554*)
     → "Based on the state of their expansion, a [Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor "Haste" Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Critical Hit Rate Increase/Moderate "Haste" Effect] will be bestowed upon you."
 220: 0x047C [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x047D [0x01] GOTO 0x04AD
 222: 0x0480 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x048F
-223: 0x0488 [0x1D] PRINT_EVENT_MESSAGE(message_id=12554*)
+223: 0x0488 [0x1D] PRINT_EVENT_MESSAGE(message_id=12555*)
     → "Based on the state of their expansion, a [Minor "Save TP" Effect/Minor "Conserve MP" Effect/Minor "Fast Cast" Effect/Minor Resistance Increase to All Status Ailments/Moderate "Save TP" Effect/Moderate "Conserve MP" Effect/Moderate "Fast Cast" Effect/Moderate Resistance Increase to All Status Ailments] will be bestowed upon you."
 224: 0x048B [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x048C [0x01] GOTO 0x04AD
 226: 0x048F [0x02] IF !(ExtData[1]->WorkLocal[9] == 4*) GOTO 0x049E
-227: 0x0497 [0x1D] PRINT_EVENT_MESSAGE(message_id=12555*)
+227: 0x0497 [0x1D] PRINT_EVENT_MESSAGE(message_id=12556*)
     → "Based on the state of their expansion, a [Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase] will be bestowed upon you."
 228: 0x049A [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x049B [0x01] GOTO 0x04AD
 230: 0x049E [0x02] IF !(ExtData[1]->WorkLocal[9] == 5*) GOTO 0x04AD
-231: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12556*)
+231: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12557*)
     → "Based on the state of their expansion, a [Minor Combat Skill Gain Rate Increase/Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase] will be bestowed upon you."
 232: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x04AA [0x01] GOTO 0x04AD

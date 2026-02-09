@@ -39,50 +39,50 @@
 |---------|-------------|-------------|
 |       0 | 0x0007      |           7 |
 |       1 | 0x0044      |          68 |
-|       2 | 0x2936      |       10550 |
-|       3 | 0x2937      |       10551 |
+|       2 | 0x2937      |       10551 |
+|       3 | 0x2938      |       10552 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x292D      |       10541 |
+|       6 | 0x292E      |       10542 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x292E      |       10542 |
+|       8 | 0x292F      |       10543 |
 |       9 | 0x0003      |           3 |
-|      10 | 0x292F      |       10543 |
+|      10 | 0x2930      |       10544 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x2930      |       10544 |
+|      12 | 0x2931      |       10545 |
 |      13 | 0x0005      |           5 |
-|      14 | 0x2931      |       10545 |
+|      14 | 0x2932      |       10546 |
 |      15 | 0x0006      |           6 |
-|      16 | 0x2932      |       10546 |
-|      17 | 0x2933      |       10547 |
+|      16 | 0x2933      |       10547 |
+|      17 | 0x2934      |       10548 |
 |      18 | 0x0008      |           8 |
-|      19 | 0x2934      |       10548 |
+|      19 | 0x2935      |       10549 |
 |      20 | 0x0009      |           9 |
-|      21 | 0x2935      |       10549 |
-|      22 | 0x2938      |       10552 |
-|      23 | 0x2939      |       10553 |
-|      24 | 0x293A      |       10554 |
+|      21 | 0x2936      |       10550 |
+|      22 | 0x2939      |       10553 |
+|      23 | 0x293A      |       10554 |
+|      24 | 0x293B      |       10555 |
 |      25 | 0x002A      |          42 |
 |      26 | 0x003C      |          60 |
-|      27 | 0x293B      |       10555 |
+|      27 | 0x293C      |       10556 |
 
 ## String References
 
-- **10541**: What'd you say your name was? ...<Player>? Never heard it before. Prrrobably because it's not worth hearing. Can you even name one herrroic feat you've accomplished here?
-- **10542**: Your name's...<Player>? Sounds vaguely familiar, like some nonsense a derrranged beggar would mutter to himself in the alleyways.
-- **10543**: Your name's <Player>, is it? Surrrprisingly enough, I do rrremember hearing it. Too bad I forget why.
-- **10544**: I'll admit that some people in Adoulin might know your name, but don't let that go to your head. You still haven't prrroven yourself one bit in my eyes.
-- **10545**: Your name's making the rrrounds in Adoulin. I hear it on the lips of passersby rrrather often.
-- **10546**: Many Adoulinians marrrvel at what you've done. It won't be long before everyone in town knows your name.
-- **10547**: You've become a household name thrrroughout the sacred city. Everyone's waiting to hear what amazing feats you'll purrrform next!
-- **10548**: You've trrruly grabbed your dreams by the scruff and rrripped them from the paws of mediocrity! Not an hour passes without some [maiden blushing over the mention of your name/man prrrofessing his love for you in the streets].
-- **10549**: Your name belongs in the annals alongside August Adoulin's as an example of a trrrue hero. Don't let anyone tell you differently!
-- **10550**: Oh? Have you come to inquirrre about something?
-- **10551**: What will you ask? [What's my reputation like here?/What's my coalition rank?/Nothing.]
-- **10552**: Adoulin's esteemed coalitions have given you the following titles due to your supporrrt for their activities:
-- **10553**: <Player>'s coalition ranks: [Pioneers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Peacekeepers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Couriers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Scouts': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Inventors': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Mummers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend].]
-- **10554**: Should you desire furrrther information, you only need inquire at the Civil Registrar located in the [./Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition.
-- **10555**: I am grrreatly honored to have spoken with a legendary pioneer such as yourself.
+- **10542**: What'd you say your name was? ...<Player>? Never heard it before. Prrrobably because it's not worth hearing. Can you even name one herrroic feat you've accomplished here?
+- **10543**: Your name's...<Player>? Sounds vaguely familiar, like some nonsense a derrranged beggar would mutter to himself in the alleyways.
+- **10544**: Your name's <Player>, is it? Surrrprisingly enough, I do rrremember hearing it. Too bad I forget why.
+- **10545**: I'll admit that some people in Adoulin might know your name, but don't let that go to your head. You still haven't prrroven yourself one bit in my eyes.
+- **10546**: Your name's making the rrrounds in Adoulin. I hear it on the lips of passersby rrrather often.
+- **10547**: Many Adoulinians marrrvel at what you've done. It won't be long before everyone in town knows your name.
+- **10548**: You've become a household name thrrroughout the sacred city. Everyone's waiting to hear what amazing feats you'll purrrform next!
+- **10549**: You've trrruly grabbed your dreams by the scruff and rrripped them from the paws of mediocrity! Not an hour passes without some [maiden blushing over the mention of your name/man prrrofessing his love for you in the streets].
+- **10550**: Your name belongs in the annals alongside August Adoulin's as an example of a trrrue hero. Don't let anyone tell you differently!
+- **10551**: Oh? Have you come to inquirrre about something?
+- **10552**: What will you ask? [What's my reputation like here?/What's my coalition rank?/Nothing.]
+- **10553**: Adoulin's esteemed coalitions have given you the following titles due to your supporrrt for their activities:
+- **10554**: <Player>'s coalition ranks: [Pioneers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Peacekeepers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Couriers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Scouts': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Inventors': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Mummers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend].]
+- **10555**: Should you desire furrrther information, you only need inquire at the Civil Registrar located in the [./Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition.
+- **10556**: I am grrreatly honored to have spoken with a legendary pioneer such as yourself.
 
 ## Events
 
@@ -183,55 +183,55 @@
  20: 0x0077 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  21: 0x0078 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  22: 0x0079 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 23: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=10550*)
+ 23: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=10551*)
     → "Oh? Have you come to inquirrre about something?"
  24: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x008C [0x24] CREATE_DIALOG(message_id=10551*, default_option=0*, option_flags=0*)
+ 25: 0x008C [0x24] CREATE_DIALOG(message_id=10552*, default_option=0*, option_flags=0*)
     → "What will you ask? [What's my reputation like here?/What's my coalition rank?/Nothing.]"
  26: 0x0093 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0094 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0126
  28: 0x009C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00AB
- 29: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
+ 29: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
     → "What'd you say your name was? ...<Player>? Never heard it before. Prrrobably because it's not worth hearing. Can you even name one herrroic feat you've accomplished here?"
  30: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00A8 [0x01] GOTO 0x0123
  32: 0x00AB [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00BA
- 33: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
+ 33: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
     → "Your name's...<Player>? Sounds vaguely familiar, like some nonsense a derrranged beggar would mutter to himself in the alleyways."
  34: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00B7 [0x01] GOTO 0x0123
  36: 0x00BA [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00C9
- 37: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
+ 37: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10544*)
     → "Your name's <Player>, is it? Surrrprisingly enough, I do rrremember hearing it. Too bad I forget why."
  38: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00C6 [0x01] GOTO 0x0123
  40: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x00D8
- 41: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10544*)
+ 41: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10545*)
     → "I'll admit that some people in Adoulin might know your name, but don't let that go to your head. You still haven't prrroven yourself one bit in my eyes."
  42: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00D5 [0x01] GOTO 0x0123
  44: 0x00D8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x00E7
- 45: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10545*)
+ 45: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10546*)
     → "Your name's making the rrrounds in Adoulin. I hear it on the lips of passersby rrrather often."
  46: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00E4 [0x01] GOTO 0x0123
  48: 0x00E7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x00F6
- 49: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10546*)
+ 49: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10547*)
     → "Many Adoulinians marrrvel at what you've done. It won't be long before everyone in town knows your name."
  50: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00F3 [0x01] GOTO 0x0123
  52: 0x00F6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x0105
- 53: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10547*)
+ 53: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10548*)
     → "You've become a household name thrrroughout the sacred city. Everyone's waiting to hear what amazing feats you'll purrrform next!"
  54: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0102 [0x01] GOTO 0x0123
  56: 0x0105 [0x02] IF !(ExtData[1]->WorkLocal[0] == 8*) GOTO 0x0114
- 57: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=10548*)
+ 57: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=10549*)
     → "You've trrruly grabbed your dreams by the scruff and rrripped them from the paws of mediocrity! Not an hour passes without some [maiden blushing over the mention of your name/man prrrofessing his love for you in the streets]."
  58: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0111 [0x01] GOTO 0x0123
  60: 0x0114 [0x02] IF !(ExtData[1]->WorkLocal[0] == 9*) GOTO 0x0123
- 61: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=10549*)
+ 61: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=10550*)
     → "Your name belongs in the annals alongside August Adoulin's as an example of a trrrue hero. Don't let anyone tell you differently!"
  62: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0120 [0x01] GOTO 0x0123
@@ -239,7 +239,7 @@
 SUBROUTINE_0123:
  64: 0x0123 [0x01] GOTO 0x0206
  65: 0x0126 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01FB
- 66: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=10552*)
+ 66: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=10553*)
     → "Adoulin's esteemed coalitions have given you the following titles due to your supporrrt for their activities:"
  67: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0132 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
@@ -248,7 +248,7 @@ SUBROUTINE_0123:
  71: 0x0141 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[4]
  72: 0x0146 [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[5]
  73: 0x014B [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[6]
- 74: 0x0150 [0x24] CREATE_DIALOG(message_id=10553*, default_option=0*, option_flags=0*)
+ 74: 0x0150 [0x24] CREATE_DIALOG(message_id=10554*, default_option=0*, option_flags=0*)
     → "<Player>'s coalition ranks: [Pioneers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Peacekeepers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Couriers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Scouts': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Inventors': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]./Mummers': [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend].]"
  75: 0x0157 [0x25] WAIT_DIALOG_SELECT()
  76: 0x0158 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0168
@@ -271,7 +271,7 @@ SUBROUTINE_0123:
  93: 0x01B5 [0x01] GOTO 0x01B8
 
 SUBROUTINE_01B8:
- 94: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10554*)
+ 94: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10555*)
     → "Should you desire furrrther information, you only need inquire at the Civil Registrar located in the [./Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition."
  95: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x01BC [0x06] Work_Zone[2] = 0
@@ -285,7 +285,7 @@ SUBROUTINE_01B8:
 104: 0x01E5 [0x6E] EventEntity uses emote 1*
 105: 0x01EC [0x99] Wait for EventEntity animation to complete
 106: 0x01F1 [0x1C] WAIT(60* ticks)
-107: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10555*)
+107: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10556*)
     → "I am grrreatly honored to have spoken with a legendary pioneer such as yourself."
 108: 0x01F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x01F8 [0x01] GOTO 0x0206

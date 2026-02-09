@@ -23,21 +23,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1DA4      |        7588 |
-|       2 | 0x1DA5      |        7589 |
-|       3 | 0x1DA6      |        7590 |
-|       4 | 0x2070      |        8304 |
-|       5 | 0x2071      |        8305 |
-|       6 | 0x2072      |        8306 |
+|       1 | 0x1DA5      |        7589 |
+|       2 | 0x1DA6      |        7590 |
+|       3 | 0x1DA7      |        7591 |
+|       4 | 0x2071      |        8305 |
+|       5 | 0x2072      |        8306 |
+|       6 | 0x2073      |        8307 |
 
 ## String References
 
-- **7588**: Long ago, the Goddess Altana took pity on the barren world of Vana'diel and shed five tears. Our ancestors sprouted from each one.
-- **7589**: But the god Promathia saw this, and condemned her work. He cursed all her people to eternal conflict among each other.
-- **7590**: Altana would not be pleased to see us now, squabbling over our petty causes. Please, at least while you are here, shun conflict and pray for peace.
-- **8304**: Unlike the unsavory rumors that have been spreading through the Duchy streets, the Elvaan girl who collapsed here was not attacked by some shady assailant.
-- **8305**: While she was kneeling before the statue of the Goddess to offer a prayer, she suddenly crumpled to the floor and began convulsing violently. I attempted to cleanse her soul of the terrible demons that possessed her; however, my holy water had no effect.
-- **8306**: I can only hope my prayers for her safety reach the Goddess swiftly.
+- **7589**: Long ago, the Goddess Altana took pity on the barren world of Vana'diel and shed five tears. Our ancestors sprouted from each one.
+- **7590**: But the god Promathia saw this, and condemned her work. He cursed all her people to eternal conflict among each other.
+- **7591**: Altana would not be pleased to see us now, squabbling over our petty causes. Please, at least while you are here, shun conflict and pray for peace.
+- **8305**: Unlike the unsavory rumors that have been spreading through the Duchy streets, the Elvaan girl who collapsed here was not attacked by some shady assailant.
+- **8306**: While she was kneeling before the statue of the Goddess to offer a prayer, she suddenly crumpled to the floor and began convulsing violently. I attempted to cleanse her soul of the terrible demons that possessed her; however, my holy water had no effect.
+- **8307**: I can only hope my prayers for her safety reach the Goddess swiftly.
 
 ## Events
 
@@ -110,13 +110,13 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
+  4: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
     → "Long ago, the Goddess Altana took pity on the barren world of Vana'diel and shed five tears. Our ancestors sprouted from each one."
   5: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
+  6: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7590*)
     → "But the god Promathia saw this, and condemned her work. He cursed all her people to eternal conflict among each other."
   7: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7590*)
+  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7591*)
     → "Altana would not be pleased to see us now, squabbling over our petty causes. Please, at least while you are here, shun conflict and pray for peace."
   9: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0028 [0x21] END_EVENT
@@ -147,13 +147,13 @@
   0: 0x002A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0030 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
+  3: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "Unlike the unsavory rumors that have been spreading through the Duchy streets, the Elvaan girl who collapsed here was not attacked by some shady assailant."
   4: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
     → "While she was kneeling before the statue of the Goddess to offer a prayer, she suddenly crumpled to the floor and began convulsing violently. I attempted to cleanse her soul of the terrible demons that possessed her; however, my holy water had no effect."
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
     → "I can only hope my prayers for her safety reach the Goddess swiftly."
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -39,21 +39,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x208C      |        8332 |
+|       0 | 0x208D      |        8333 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x208D      |        8333 |
-|       3 | 0x208E      |        8334 |
-|       4 | 0x208F      |        8335 |
-|       5 | 0x2090      |        8336 |
-|       6 | 0x2091      |        8337 |
-|       7 | 0x2092      |        8338 |
-|       8 | 0x20A8      |        8360 |
-|       9 | 0x20B8      |        8376 |
-|      10 | 0x20EB      |        8427 |
-|      11 | 0x20FA      |        8442 |
-|      12 | 0x1ECC      |        7884 |
+|       2 | 0x208E      |        8334 |
+|       3 | 0x208F      |        8335 |
+|       4 | 0x2090      |        8336 |
+|       5 | 0x2091      |        8337 |
+|       6 | 0x2092      |        8338 |
+|       7 | 0x2093      |        8339 |
+|       8 | 0x20A9      |        8361 |
+|       9 | 0x20B9      |        8377 |
+|      10 | 0x20EC      |        8428 |
+|      11 | 0x20FB      |        8443 |
+|      12 | 0x1ECD      |        7885 |
 |      13 | 0x003C      |          60 |
-|      14 | 0x1ECD      |        7885 |
+|      14 | 0x1ECE      |        7886 |
 |      15 | 0x001E      |          30 |
 |      16 | 0xFFFFFC88  |  4294966408 |
 |      17 | 0xFFFE43E2  |  4294853602 |
@@ -68,8 +68,8 @@
 
 ## String References
 
-- **7884**: I've told Fontoumant, so all you have to do is deliver the goods to Avandale as...
-- **7885**: Hey! There're some things best left unheard, stranger. I trust you'll be leaving... Now!
+- **7885**: I've told Fontoumant, so all you have to do is deliver the goods to Avandale as...
+- **7886**: Hey! There're some things best left unheard, stranger. I trust you'll be leaving... Now!
 
 ## Events
 
@@ -124,7 +124,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x4A] Arminibit (ID: 17727559/0x010E8047) looks at Ceraulian (ID: 17727560/0x010E8048)
-  2: 0x000B [0x2B] Arminibit (ID: 17727559/0x010E8047) [8332*]:
+  2: 0x000B [0x2B] Arminibit (ID: 17727559/0x010E8047) [8333*]:
     → "You hear more and more talk of the Dragon King Ranperre these days. They say that his top vassal was a dragoon. I wonder what ever happened to all the dragoons..."
   3: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0013 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -133,25 +133,25 @@
   7: 0x0022 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x0023 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ceraulian (ID: 17727560/0x010E8048) Render.Flags0 and Render.Flags3 conditions are met
   9: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ceraulian (ID: 17727560/0x010E8048), Ceraulian (ID: 17727560/0x010E8048)], work=20*
- 10: 0x0037 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8333*]:
+ 10: 0x0037 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8334*]:
     → "I heard that to become a dragoon, you had to make a pact with a living wyvern. However, thanks to the dragonslayers, there aren't that many dragons left."
  11: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x003F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 13: 0x004E [0x2B] Arminibit (ID: 17727559/0x010E8047) [8334*]:
+ 13: 0x004E [0x2B] Arminibit (ID: 17727559/0x010E8047) [8335*]:
     → "The dragonslayers keep down the number of deadly dragons, but the number of dragoons can never go up. It's a sad, sad cycle."
  14: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0056 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8335*]:
+ 15: 0x0056 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8336*]:
     → "They say that King Ranperre's top vassal, the "Last of the Dragoons," collapsed after a battle with a dragonslayer."
  16: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x005E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  18: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ceraulian (ID: 17727560/0x010E8048), Ceraulian (ID: 17727560/0x010E8048)], work=20*
- 19: 0x0072 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8336*]:
+ 19: 0x0072 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8337*]:
     → "I even heard a rumor that a new dragoon appeared in San d'Oria, but no one has ever seen him. Some even say that it is that Cyranuce, locked up in the dungeons."
  20: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x007A [0x2B] Arminibit (ID: 17727559/0x010E8047) [8337*]:
+ 21: 0x007A [0x2B] Arminibit (ID: 17727559/0x010E8047) [8338*]:
     → "There's nothing to those rumors. If he really was a dragoon, why would he be in the Oubliette?"
  22: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0082 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8338*]:
+ 23: 0x0082 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8339*]:
     → "You have a point..."
  24: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x008A [0x21] END_EVENT
@@ -201,7 +201,7 @@
 
 ```
   0: 0x008D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0092 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8360*]:
+  1: 0x0092 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8361*]:
     → "Meeting your quota is an iron rule of the Brugaire Consortium. I've seen more than a few prospective merchants shown the door after failing to observe it. The business world is an unforgiving place."
   2: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x009A [0x21] END_EVENT
@@ -251,7 +251,7 @@
 
 ```
   0: 0x009D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A2 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8376*]:
+  1: 0x00A2 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8377*]:
     → "The boss has never talked about his family before... It's kinda surprising that he even has a father in the first place."
   2: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00AA [0x21] END_EVENT
@@ -279,7 +279,7 @@
 
 ```
   0: 0x00AC [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B1 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8427*]:
+  1: 0x00B1 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8428*]:
     → "I might send my mother something nice for the holidays. We've all but disowned each other, so it makes it difficult for me to just drop in."
   2: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B9 [0x21] END_EVENT
@@ -307,7 +307,7 @@
 
 ```
   0: 0x00BB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00C0 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8442*]:
+  1: 0x00C0 [0x2B] Arminibit (ID: 17727559/0x010E8047) [8443*]:
     → "Urgh... I think I'm gonna struggle to get clear this week. But you'll be there to bail me out, right!?"
   2: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00C8 [0x21] END_EVENT
@@ -426,7 +426,7 @@
 
 ```
   0: 0x00CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  1: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
+  1: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
     → "I've told Fontoumant, so all you have to do is deliver the goods to Avandale as..."
   2: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E1 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -435,7 +435,7 @@
   6: 0x00EE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x00EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x00F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  9: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+  9: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "Hey! There're some things best left unheard, stranger. I trust you'll be leaving... Now!"
  10: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0103 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

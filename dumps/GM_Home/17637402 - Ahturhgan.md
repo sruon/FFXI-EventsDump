@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D26      |        7462 |
+|       0 | 0x1D27      |        7463 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x40000000  |  1073741824 |
 |       3 | 0x0001      |           1 |
@@ -32,14 +32,14 @@
 |       9 | 0x0007      |           7 |
 |      10 | 0x0008      |           8 |
 |      11 | 0x0132      |         306 |
-|      12 | 0x1D27      |        7463 |
+|      12 | 0x1D28      |        7464 |
 |      13 | 0x0009      |           9 |
 |      14 | 0x000A      |          10 |
 |      15 | 0x000B      |          11 |
 |      16 | 0x000C      |          12 |
 |      17 | 0x000D      |          13 |
 |      18 | 0x000E      |          14 |
-|      19 | 0x1D30      |        7472 |
+|      19 | 0x1D31      |        7473 |
 |      20 | 0x000F      |          15 |
 |      21 | 0x0010      |          16 |
 |      22 | 0x0011      |          17 |
@@ -54,7 +54,7 @@
 |      31 | 0x001A      |          26 |
 |      32 | 0x001B      |          27 |
 |      33 | 0x001C      |          28 |
-|      34 | 0x1D3F      |        7487 |
+|      34 | 0x1D40      |        7488 |
 |      35 | 0x001D      |          29 |
 |      36 | 0x001E      |          30 |
 |      37 | 0x001F      |          31 |
@@ -65,7 +65,7 @@
 |      42 | 0x0024      |          36 |
 |      43 | 0x0025      |          37 |
 |      44 | 0x0026      |          38 |
-|      45 | 0x1D40      |        7488 |
+|      45 | 0x1D41      |        7489 |
 |      46 | 0x0027      |          39 |
 |      47 | 0x0028      |          40 |
 |      48 | 0x0029      |          41 |
@@ -76,7 +76,7 @@
 |      53 | 0x002E      |          46 |
 |      54 | 0x002F      |          47 |
 |      55 | 0x0030      |          48 |
-|      56 | 0x1D41      |        7489 |
+|      56 | 0x1D42      |        7490 |
 |      57 | 0x0031      |          49 |
 |      58 | 0x0032      |          50 |
 |      59 | 0x0033      |          51 |
@@ -84,7 +84,7 @@
 |      61 | 0x0035      |          53 |
 |      62 | 0x0036      |          54 |
 |      63 | 0x0037      |          55 |
-|      64 | 0x1D43      |        7491 |
+|      64 | 0x1D44      |        7492 |
 |      65 | 0x0038      |          56 |
 |      66 | 0x0039      |          57 |
 |      67 | 0x003A      |          58 |
@@ -98,13 +98,13 @@
 |      75 | 0x0042      |          66 |
 |      76 | 0x0043      |          67 |
 |      77 | 0x0044      |          68 |
-|      78 | 0x1D28      |        7464 |
+|      78 | 0x1D29      |        7465 |
 |      79 | 0x01F4      |         500 |
 |      80 | 0x01F5      |         501 |
 |      81 | 0x01F6      |         502 |
 |      82 | 0x01F7      |         503 |
 |      83 | 0x01F8      |         504 |
-|      84 | 0x1D31      |        7473 |
+|      84 | 0x1D32      |        7474 |
 |      85 | 0x01FE      |         510 |
 |      86 | 0x01FF      |         511 |
 |      87 | 0x0200      |         512 |
@@ -117,15 +117,15 @@
 
 ## String References
 
-- **7462**: What will you set? [Nothing, nothing at all./Treasures of Aht Urhgan!/Aht Urhgan, July, 2006!/Aht Urhgan, Oct, 2006!/Aht Urhgan, Mar, 2007!/Aht Urhgan, May, 2007!/Aht Urhgan, Aug, 2007!/Mercenary Assessment./Mercenary Rank.]
-- **7463**: Set what now? [Nevermind./MS00_Beginning/MS01_Naja's first errand/MS01_Delivered to the Immortals/MS01_Joined the Sentinels/MS02_Raillefal enters/MS02_Met Cacaroon/MS02_Heard the Shiny shiny spiel/MS02_Seen Walahra and Raillefal/MS02_Got Raillefal's letter/MS02_Showed it to the guards/MS02_Delivered the letter/MS02_The summit in Jeuno/MS02_Talked to Gessho in the teahouse/MS02_Raillefal gets fired]
-- **7464**: Set to what level? [Nevermind./Level 1./Level 2./Level 3./Level 4./Level 5.]
-- **7472**: Back for more? [Nope./MS03_Asked to check the ruins/MS03_Met Ghatsad in the ruins/MS03_Got fined by Naja, no reward/MS04_Asked to check out ghost ship/MS04_Met ghost hunter Qiqirn/MS04_Got smell to lure ghost/MS04_Popped the formor in Caedarva/MS04_Beat the formor in Caedarva/MS04_Told Naja about the ship/MS04_Escaped from the Ashu Talif/MS04_Blown away by Luzaf/MS04_Heard Gessho talk in Nashmau/MS04_Told Naja about the ship. Again/MS04_Cleared the fashion check/MS04_My employees belong to me!]
-- **7473**: What rank do ya want? [Never mind./Private First Class./Superior Private./Lance Corporal./Corporal./Sergeant./Sergeant Major./Chief Sergeant./Second Lieutenant./First Lieutenant.]
-- **7487**: Back for more? [Nope./MS05_Ambassador Karababa has arrived/MS05_Asked to guide Karababa in Aydeewa/MS05_Saw Ovjang digging in Aydeewa/MS05_Met Razfahd in Aydeewa/MS05_Asked to protect Karababa in Navukgo/MS05_Luzaf and the Trolls/MS05_Karababa and the Trolls/MS05_Beat the Khimaira/MS05_Told Naja about Navukgo/MS05_Got reward from Karababa]
-- **7488**: Back for more? [Nope./MS06_Got invite from palace/MS06_Took job to find Aphmau/MS06_Found Rishfee in Adyeewa/MS06_Heard Ovjang sighting/MS06_Saw Jade Sepulcher lead-in/MS06_Beat Jade Sepulcher boss/MS06_Saw ghost ship events/MS06_Met Amnaf on wharf/MS06_Aphmau goes off with Luzaf/MS06_Various speculation.]
-- **7489**: Back for more? [Nope./MS07_Hunt down Duzaf!/MS07_Ashu Talif reunion with Aphmau/MS07_Washed up in Talacca/MS07_Took out Gessho in Talacca/MS07_The Dark God and Hazhalm/MS07_The Dark God and Hazhalm 2/MS07_The Empire puts plans into motion]
-- **7491**: Back for more? [Nope./MS08_Heard the Teahouse talk/MS08_Went to military council/MS08_Stealth airship has left/MS08_Airship shot down/MS08_Heard info from Romidin/MS08_Saw Nyzul event/MS08_Took out Amnaf/MS08_Naja and Nashmeira/MS08_Saw pre-Alex battle event/MS08_Shut down Alex/MS08_Wrap-up at palace/MS08_Denouement/MS08_And after that...]
+- **7463**: What will you set? [Nothing, nothing at all./Treasures of Aht Urhgan!/Aht Urhgan, July, 2006!/Aht Urhgan, Oct, 2006!/Aht Urhgan, Mar, 2007!/Aht Urhgan, May, 2007!/Aht Urhgan, Aug, 2007!/Mercenary Assessment./Mercenary Rank.]
+- **7464**: Set what now? [Nevermind./MS00_Beginning/MS01_Naja's first errand/MS01_Delivered to the Immortals/MS01_Joined the Sentinels/MS02_Raillefal enters/MS02_Met Cacaroon/MS02_Heard the Shiny shiny spiel/MS02_Seen Walahra and Raillefal/MS02_Got Raillefal's letter/MS02_Showed it to the guards/MS02_Delivered the letter/MS02_The summit in Jeuno/MS02_Talked to Gessho in the teahouse/MS02_Raillefal gets fired]
+- **7465**: Set to what level? [Nevermind./Level 1./Level 2./Level 3./Level 4./Level 5.]
+- **7473**: Back for more? [Nope./MS03_Asked to check the ruins/MS03_Met Ghatsad in the ruins/MS03_Got fined by Naja, no reward/MS04_Asked to check out ghost ship/MS04_Met ghost hunter Qiqirn/MS04_Got smell to lure ghost/MS04_Popped the formor in Caedarva/MS04_Beat the formor in Caedarva/MS04_Told Naja about the ship/MS04_Escaped from the Ashu Talif/MS04_Blown away by Luzaf/MS04_Heard Gessho talk in Nashmau/MS04_Told Naja about the ship. Again/MS04_Cleared the fashion check/MS04_My employees belong to me!]
+- **7474**: What rank do ya want? [Never mind./Private First Class./Superior Private./Lance Corporal./Corporal./Sergeant./Sergeant Major./Chief Sergeant./Second Lieutenant./First Lieutenant.]
+- **7488**: Back for more? [Nope./MS05_Ambassador Karababa has arrived/MS05_Asked to guide Karababa in Aydeewa/MS05_Saw Ovjang digging in Aydeewa/MS05_Met Razfahd in Aydeewa/MS05_Asked to protect Karababa in Navukgo/MS05_Luzaf and the Trolls/MS05_Karababa and the Trolls/MS05_Beat the Khimaira/MS05_Told Naja about Navukgo/MS05_Got reward from Karababa]
+- **7489**: Back for more? [Nope./MS06_Got invite from palace/MS06_Took job to find Aphmau/MS06_Found Rishfee in Adyeewa/MS06_Heard Ovjang sighting/MS06_Saw Jade Sepulcher lead-in/MS06_Beat Jade Sepulcher boss/MS06_Saw ghost ship events/MS06_Met Amnaf on wharf/MS06_Aphmau goes off with Luzaf/MS06_Various speculation.]
+- **7490**: Back for more? [Nope./MS07_Hunt down Duzaf!/MS07_Ashu Talif reunion with Aphmau/MS07_Washed up in Talacca/MS07_Took out Gessho in Talacca/MS07_The Dark God and Hazhalm/MS07_The Dark God and Hazhalm 2/MS07_The Empire puts plans into motion]
+- **7492**: Back for more? [Nope./MS08_Heard the Teahouse talk/MS08_Went to military council/MS08_Stealth airship has left/MS08_Airship shot down/MS08_Heard info from Romidin/MS08_Saw Nyzul event/MS08_Took out Amnaf/MS08_Naja and Nashmeira/MS08_Saw pre-Alex battle event/MS08_Shut down Alex/MS08_Wrap-up at palace/MS08_Denouement/MS08_And after that...]
 
 ## Events
 
@@ -276,7 +276,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7462*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7463*, default_option=0*, option_flags=0*)
     → "What will you set? [Nothing, nothing at all./Treasures of Aht Urhgan!/Aht Urhgan, July, 2006!/Aht Urhgan, Oct, 2006!/Aht Urhgan, Mar, 2007!/Aht Urhgan, May, 2007!/Aht Urhgan, Aug, 2007!/Mercenary Assessment./Mercenary Rank.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -291,7 +291,7 @@ SUBROUTINE_0089:
 
 SUBROUTINE_008B:
   9: 0x008B [0x45] LOAD_SCHEDULED_TASK: Load scheduler 0xFEFEFE00 with entities [LocalPlayer, LocalPlayer], work=[306*, 0*]
- 10: 0x009C [0x24] CREATE_DIALOG(message_id=7463*, default_option=0*, option_flags=0*)
+ 10: 0x009C [0x24] CREATE_DIALOG(message_id=7464*, default_option=0*, option_flags=0*)
     → "Set what now? [Nevermind./MS00_Beginning/MS01_Naja's first errand/MS01_Delivered to the Immortals/MS01_Joined the Sentinels/MS02_Raillefal enters/MS02_Met Cacaroon/MS02_Heard the Shiny shiny spiel/MS02_Seen Walahra and Raillefal/MS02_Got Raillefal's letter/MS02_Showed it to the guards/MS02_Delivered the letter/MS02_The summit in Jeuno/MS02_Talked to Gessho in the teahouse/MS02_Raillefal gets fired]"
  11: 0x00A3 [0x25] WAIT_DIALOG_SELECT()
  12: 0x00A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B4
@@ -344,7 +344,7 @@ SUBROUTINE_0194:
  57: 0x0194 [0x01] GOTO 0x0089
 
 SUBROUTINE_0198:
- 58: 0x0198 [0x24] CREATE_DIALOG(message_id=7472*, default_option=0*, option_flags=0*)
+ 58: 0x0198 [0x24] CREATE_DIALOG(message_id=7473*, default_option=0*, option_flags=0*)
     → "Back for more? [Nope./MS03_Asked to check the ruins/MS03_Met Ghatsad in the ruins/MS03_Got fined by Naja, no reward/MS04_Asked to check out ghost ship/MS04_Met ghost hunter Qiqirn/MS04_Got smell to lure ghost/MS04_Popped the formor in Caedarva/MS04_Beat the formor in Caedarva/MS04_Told Naja about the ship/MS04_Escaped from the Ashu Talif/MS04_Blown away by Luzaf/MS04_Heard Gessho talk in Nashmau/MS04_Told Naja about the ship. Again/MS04_Cleared the fashion check/MS04_My employees belong to me!]"
  59: 0x019F [0x25] WAIT_DIALOG_SELECT()
  60: 0x01A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B0
@@ -400,7 +400,7 @@ SUBROUTINE_02A0:
 108: 0x02A0 [0x01] GOTO 0x0089
 
 SUBROUTINE_02A4:
-109: 0x02A4 [0x24] CREATE_DIALOG(message_id=7487*, default_option=0*, option_flags=0*)
+109: 0x02A4 [0x24] CREATE_DIALOG(message_id=7488*, default_option=0*, option_flags=0*)
     → "Back for more? [Nope./MS05_Ambassador Karababa has arrived/MS05_Asked to guide Karababa in Aydeewa/MS05_Saw Ovjang digging in Aydeewa/MS05_Met Razfahd in Aydeewa/MS05_Asked to protect Karababa in Navukgo/MS05_Luzaf and the Trolls/MS05_Karababa and the Trolls/MS05_Beat the Khimaira/MS05_Told Naja about Navukgo/MS05_Got reward from Karababa]"
 110: 0x02AB [0x25] WAIT_DIALOG_SELECT()
 111: 0x02AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BC
@@ -441,7 +441,7 @@ SUBROUTINE_035C:
 144: 0x035C [0x01] GOTO 0x0089
 
 SUBROUTINE_0360:
-145: 0x0360 [0x24] CREATE_DIALOG(message_id=7488*, default_option=0*, option_flags=0*)
+145: 0x0360 [0x24] CREATE_DIALOG(message_id=7489*, default_option=0*, option_flags=0*)
     → "Back for more? [Nope./MS06_Got invite from palace/MS06_Took job to find Aphmau/MS06_Found Rishfee in Adyeewa/MS06_Heard Ovjang sighting/MS06_Saw Jade Sepulcher lead-in/MS06_Beat Jade Sepulcher boss/MS06_Saw ghost ship events/MS06_Met Amnaf on wharf/MS06_Aphmau goes off with Luzaf/MS06_Various speculation.]"
 146: 0x0367 [0x25] WAIT_DIALOG_SELECT()
 147: 0x0368 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0378
@@ -482,7 +482,7 @@ SUBROUTINE_0418:
 180: 0x0418 [0x01] GOTO 0x0089
 
 SUBROUTINE_041C:
-181: 0x041C [0x24] CREATE_DIALOG(message_id=7489*, default_option=0*, option_flags=0*)
+181: 0x041C [0x24] CREATE_DIALOG(message_id=7490*, default_option=0*, option_flags=0*)
     → "Back for more? [Nope./MS07_Hunt down Duzaf!/MS07_Ashu Talif reunion with Aphmau/MS07_Washed up in Talacca/MS07_Took out Gessho in Talacca/MS07_The Dark God and Hazhalm/MS07_The Dark God and Hazhalm 2/MS07_The Empire puts plans into motion]"
 182: 0x0423 [0x25] WAIT_DIALOG_SELECT()
 183: 0x0424 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0434
@@ -514,7 +514,7 @@ SUBROUTINE_04A4:
 207: 0x04A4 [0x01] GOTO 0x0089
 
 SUBROUTINE_04A8:
-208: 0x04A8 [0x24] CREATE_DIALOG(message_id=7491*, default_option=0*, option_flags=0*)
+208: 0x04A8 [0x24] CREATE_DIALOG(message_id=7492*, default_option=0*, option_flags=0*)
     → "Back for more? [Nope./MS08_Heard the Teahouse talk/MS08_Went to military council/MS08_Stealth airship has left/MS08_Airship shot down/MS08_Heard info from Romidin/MS08_Saw Nyzul event/MS08_Took out Amnaf/MS08_Naja and Nashmeira/MS08_Saw pre-Alex battle event/MS08_Shut down Alex/MS08_Wrap-up at palace/MS08_Denouement/MS08_And after that...]"
 209: 0x04AF [0x25] WAIT_DIALOG_SELECT()
 210: 0x04B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04C0
@@ -564,7 +564,7 @@ SUBROUTINE_0590:
 252: 0x0590 [0x01] GOTO 0x0089
 
 SUBROUTINE_0594:
-253: 0x0594 [0x24] CREATE_DIALOG(message_id=7464*, default_option=0*, option_flags=0*)
+253: 0x0594 [0x24] CREATE_DIALOG(message_id=7465*, default_option=0*, option_flags=0*)
     → "Set to what level? [Nevermind./Level 1./Level 2./Level 3./Level 4./Level 5.]"
 254: 0x059B [0x25] WAIT_DIALOG_SELECT()
 255: 0x059C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AA
@@ -574,7 +574,7 @@ SUBROUTINE_05FA:
 257: 0x05FA [0x01] GOTO 0x0089
 
 SUBROUTINE_05FE:
-258: 0x05FE [0x24] CREATE_DIALOG(message_id=7473*, default_option=0*, option_flags=0*)
+258: 0x05FE [0x24] CREATE_DIALOG(message_id=7474*, default_option=0*, option_flags=0*)
     → "What rank do ya want? [Never mind./Private First Class./Superior Private./Lance Corporal./Corporal./Sergeant./Sergeant Major./Chief Sergeant./Second Lieutenant./First Lieutenant.]"
 259: 0x0605 [0x25] WAIT_DIALOG_SELECT()
 260: 0x0606 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0614

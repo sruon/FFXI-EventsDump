@@ -29,23 +29,23 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1ED2      |        7890 |
-|       3 | 0x1ED3      |        7891 |
-|       4 | 0x1D7E      |        7550 |
-|       5 | 0x1DA2      |        7586 |
-|       6 | 0x1DA3      |        7587 |
-|       7 | 0x1DC4      |        7620 |
-|       8 | 0x1DC5      |        7621 |
+|       2 | 0x1ED3      |        7891 |
+|       3 | 0x1ED4      |        7892 |
+|       4 | 0x1D7F      |        7551 |
+|       5 | 0x1DA3      |        7587 |
+|       6 | 0x1DA4      |        7588 |
+|       7 | 0x1DC5      |        7621 |
+|       8 | 0x1DC6      |        7622 |
 
 ## String References
 
-- **7550**: Oh, dearie-dear? Has that spot-dotty Professor Koru-Moru got you running errands for him now? Typical of old Principal Koru-Moru...totally dependent on the grace of others. Most precarious!
-- **7586**: Goodness gracious. Has that utter nutter Professor Koru-Moru got you running errands again? What's it this time...?
-- **7587**: Oh, burnite shells? You don't say...? Well, sorry. Never heard of them. Hoo-roo!
-- **7620**: My, oh my. Does that crazy-lazy professor Koru-Moru have you out working for him again?
-- **7621**: "Alchemy"? Sorry, Charlie, but I've never heard of that. Is it some kind of super-trooper magic?
-- **7890**: Professor Koru-Moru, the old minister who lives in that manor there, is more famous for being the local ding-a-ling than for serving as the School of Magic's principal! I just know he's up to something in there!
-- **7891**: I came over to call in and have a little chitchat, but it seems as if he is, how shall we say...otherwise occupied...?
+- **7551**: Oh, dearie-dear? Has that spot-dotty Professor Koru-Moru got you running errands for him now? Typical of old Principal Koru-Moru...totally dependent on the grace of others. Most precarious!
+- **7587**: Goodness gracious. Has that utter nutter Professor Koru-Moru got you running errands again? What's it this time...?
+- **7588**: Oh, burnite shells? You don't say...? Well, sorry. Never heard of them. Hoo-roo!
+- **7621**: My, oh my. Does that crazy-lazy professor Koru-Moru have you out working for him again?
+- **7622**: "Alchemy"? Sorry, Charlie, but I've never heard of that. Is it some kind of super-trooper magic?
+- **7891**: Professor Koru-Moru, the old minister who lives in that manor there, is more famous for being the local ding-a-ling than for serving as the School of Magic's principal! I just know he's up to something in there!
+- **7892**: I came over to call in and have a little chitchat, but it seems as if he is, how shall we say...otherwise occupied...?
 
 ## Events
 
@@ -171,10 +171,10 @@
   2: 0x003B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x01)
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "Professor Koru-Moru, the old minister who lives in that manor there, is more famous for being the local ding-a-ling than for serving as the School of Magic's principal! I just know he's up to something in there!"
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
+  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
     → "I came over to call in and have a little chitchat, but it seems as if he is, how shall we say...otherwise occupied...?"
   8: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x02)
@@ -231,7 +231,7 @@
   2: 0x0063 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0064 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0065 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x01)
-  5: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
+  5: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
     → "Oh, dearie-dear? Has that spot-dotty Professor Koru-Moru got you running errands for him now? Typical of old Principal Koru-Moru...totally dependent on the grace of others. Most precarious!"
   6: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0070 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x02)
@@ -267,10 +267,10 @@
   2: 0x0086 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0087 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0088 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x01)
-  5: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
+  5: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
     → "Goodness gracious. Has that utter nutter Professor Koru-Moru got you running errands again? What's it this time...?"
   6: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
+  7: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
     → "Oh, burnite shells? You don't say...? Well, sorry. Never heard of them. Hoo-roo!"
   8: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0097 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x02)
@@ -305,10 +305,10 @@
   2: 0x00AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x01)
-  5: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  5: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "My, oh my. Does that crazy-lazy professor Koru-Moru have you out working for him again?"
   6: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
+  7: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
     → ""Alchemy"? Sorry, Charlie, but I've never heard of that. Is it some kind of super-trooper magic?"
   8: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bonchacha (ID: 17756196/0x010EF024), tag_num=0x02)

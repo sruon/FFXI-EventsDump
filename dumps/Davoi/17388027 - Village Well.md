@@ -24,30 +24,30 @@
 |       0 | 0x00C8      |         200 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0013      |          19 |
-|       3 | 0x1D31      |        7473 |
+|       3 | 0x1D32      |        7474 |
 |       4 | 0x00DC      |         220 |
-|       5 | 0x1D32      |        7474 |
+|       5 | 0x1D33      |        7475 |
 |       6 | 0x003C      |          60 |
-|       7 | 0x1D39      |        7481 |
+|       7 | 0x1D3A      |        7482 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1D33      |        7475 |
-|      10 | 0x1D34      |        7476 |
-|      11 | 0x1D35      |        7477 |
-|      12 | 0x1D36      |        7478 |
-|      13 | 0x1D37      |        7479 |
-|      14 | 0x1D38      |        7480 |
+|       9 | 0x1D34      |        7476 |
+|      10 | 0x1D35      |        7477 |
+|      11 | 0x1D36      |        7478 |
+|      12 | 0x1D37      |        7479 |
+|      13 | 0x1D38      |        7480 |
+|      14 | 0x1D39      |        7481 |
 
 ## String References
 
-- **7473**: You work the pulley.
-- **7474**: Dipping the letter into the water, you see words appear.
-- **7475**: "Captain Exoroche: I, Chusarlaud, am no longer worthy to be a Royal Knight, for I have sold our secrets to the Orcs.
-- **7476**: I spent my reward on medicine for my mother, but it was all in vain. Her death taught me the error of my ways, and I tried repeatedly to redeem myself.
-- **7477**: But my partner Vilbert threatened to expose my treachery if I did not continue! Alas, he had me in the palm of his hand!
-- **7478**: I had to take action! I decided to send this letter upon the close of today's training. I expect no forgiveness, but I must put a stop to this madness.
-- **7479**: I have caused pain to my mother, and I have betrayed my kind captain. There is no other way!"
-- **7480**: The letter ends abruptly.
-- **7481**: Read the letter again? [Yes./No.]
+- **7474**: You work the pulley.
+- **7475**: Dipping the letter into the water, you see words appear.
+- **7476**: "Captain Exoroche: I, Chusarlaud, am no longer worthy to be a Royal Knight, for I have sold our secrets to the Orcs.
+- **7477**: I spent my reward on medicine for my mother, but it was all in vain. Her death taught me the error of my ways, and I tried repeatedly to redeem myself.
+- **7478**: But my partner Vilbert threatened to expose my treachery if I did not continue! Alas, he had me in the palm of his hand!
+- **7479**: I had to take action! I decided to send this letter upon the close of today's training. I expect no forgiveness, but I must put a stop to this madness.
+- **7480**: I have caused pain to my mother, and I have betrayed my kind captain. There is no other way!"
+- **7481**: The letter ends abruptly.
+- **7482**: Read the letter again? [Yes./No.]
 
 ## Events
 
@@ -106,18 +106,18 @@
   1: 0x0002 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   2: 0x0013 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
   3: 0x0022 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
-  4: 0x0025 [0x48] [System] [7473*]:
+  4: 0x0025 [0x48] [System] [7474*]:
     → "You work the pulley."
   5: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   7: 0x003A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
   8: 0x0049 [0x03] Work_Zone[2] = 220*
-  9: 0x004E [0x48] [System] [7474*]:
+  9: 0x004E [0x48] [System] [7475*]:
     → "Dipping the letter into the water, you see words appear."
  10: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0052 [0x1C] WAIT(60* ticks)
  12: 0x0055 [0x1A] CALL_SUBROUTINE(address=0x00C8)
- 13: 0x0058 [0x24] CREATE_DIALOG(message_id=7481*, default_option=1*, option_flags=0*)
+ 13: 0x0058 [0x24] CREATE_DIALOG(message_id=7482*, default_option=1*, option_flags=0*)
     → "Read the letter again? [Yes./No.]"
  14: 0x005F [0x25] WAIT_DIALOG_SELECT()
  15: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006E
@@ -161,7 +161,7 @@ SUBROUTINE_006E:
 #### Opcodes
 
 ```
-  0: 0x00B0 [0x24] CREATE_DIALOG(message_id=7481*, default_option=1*, option_flags=0*)
+  0: 0x00B0 [0x24] CREATE_DIALOG(message_id=7482*, default_option=1*, option_flags=0*)
     → "Read the letter again? [Yes./No.]"
   1: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
   2: 0x00B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
@@ -173,23 +173,23 @@ SUBROUTINE_00C6:
   6: 0x00C7 [0x00] END_REQSTACK()
 
 SUBROUTINE_00C8:
-  7: 0x00C8 [0x48] [System] [7475*]:
+  7: 0x00C8 [0x48] [System] [7476*]:
     → ""Captain Exoroche: I, Chusarlaud, am no longer worthy to be a Royal Knight, for I have sold our secrets to the Orcs."
   8: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00CC [0x48] [System] [7476*]:
+  9: 0x00CC [0x48] [System] [7477*]:
     → "I spent my reward on medicine for my mother, but it was all in vain. Her death taught me the error of my ways, and I tried repeatedly to redeem myself."
  10: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00D0 [0x48] [System] [7477*]:
+ 11: 0x00D0 [0x48] [System] [7478*]:
     → "But my partner Vilbert threatened to expose my treachery if I did not continue! Alas, he had me in the palm of his hand!"
  12: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x00D4 [0x48] [System] [7478*]:
+ 13: 0x00D4 [0x48] [System] [7479*]:
     → "I had to take action! I decided to send this letter upon the close of today's training. I expect no forgiveness, but I must put a stop to this madness."
  14: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x00D8 [0x48] [System] [7479*]:
+ 15: 0x00D8 [0x48] [System] [7480*]:
     → "I have caused pain to my mother, and I have betrayed my kind captain. There is no other way!""
  16: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00DC [0x1C] WAIT(60* ticks)
- 18: 0x00DF [0x48] [System] [7480*]:
+ 18: 0x00DF [0x48] [System] [7481*]:
     → "The letter ends abruptly."
  19: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00E3 [0x1B] RETURN

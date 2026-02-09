@@ -35,58 +35,58 @@
 |      12 | 0x005A      |          90 |
 |      13 | 0x0096      |         150 |
 |      14 | 0x04F7      |        1271 |
-|      15 | 0x1CBB      |        7355 |
-|      16 | 0x1CBC      |        7356 |
+|      15 | 0x1CBC      |        7356 |
+|      16 | 0x1CBD      |        7357 |
 |      17 | 0x40000000  |  1073741824 |
-|      18 | 0x1CBD      |        7357 |
-|      19 | 0x1CBE      |        7358 |
-|      20 | 0x1CBF      |        7359 |
-|      21 | 0x1CC0      |        7360 |
-|      22 | 0x1CC1      |        7361 |
-|      23 | 0x1CC2      |        7362 |
-|      24 | 0x1CC3      |        7363 |
-|      25 | 0x1CC4      |        7364 |
-|      26 | 0x1CC5      |        7365 |
-|      27 | 0x1CC6      |        7366 |
-|      28 | 0x1CC7      |        7367 |
-|      29 | 0x1CC8      |        7368 |
-|      30 | 0x1CC9      |        7369 |
-|      31 | 0x1CCA      |        7370 |
+|      18 | 0x1CBE      |        7358 |
+|      19 | 0x1CBF      |        7359 |
+|      20 | 0x1CC0      |        7360 |
+|      21 | 0x1CC1      |        7361 |
+|      22 | 0x1CC2      |        7362 |
+|      23 | 0x1CC3      |        7363 |
+|      24 | 0x1CC4      |        7364 |
+|      25 | 0x1CC5      |        7365 |
+|      26 | 0x1CC6      |        7366 |
+|      27 | 0x1CC7      |        7367 |
+|      28 | 0x1CC8      |        7368 |
+|      29 | 0x1CC9      |        7369 |
+|      30 | 0x1CCA      |        7370 |
+|      31 | 0x1CCB      |        7371 |
 |      32 | 0x0004      |           4 |
 |      33 | 0x0006      |           6 |
 |      34 | 0x0007      |           7 |
-|      35 | 0x1CCB      |        7371 |
-|      36 | 0x1CCF      |        7375 |
+|      35 | 0x1CCC      |        7372 |
+|      36 | 0x1CD0      |        7376 |
 |      37 | 0x000F      |          15 |
 |      38 | 0x0010      |          16 |
 |      39 | 0x001F      |          31 |
-|      40 | 0x1CCC      |        7372 |
-|      41 | 0x1CCD      |        7373 |
-|      42 | 0x1CCE      |        7374 |
+|      40 | 0x1CCD      |        7373 |
+|      41 | 0x1CCE      |        7374 |
+|      42 | 0x1CCF      |        7375 |
 
 ## String References
 
-- **7355**: If you wish to journey within Abyssea, bring me $5 and I will grant you visitant status.
-- **7356**: What would you like to do? [Nothing./Learn about visitant status./Request visitant status./Extend visitant status.]
-- **7357**: All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with $5.
-- **7358**: Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, $6 is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time.
-- **7359**: Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea.
-- **7360**: A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward.
-- **7361**: Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional "noise."
-- **7362**: When requesting visitant status, please indicate the number of $5 you wish to process. A greater number will allow you a longer stay.
-- **7363**: It is also possible to extend your visitant status by bringing me more $5.
-- **7364**: To obtain $5, you must seek out Joachim. He is currently a resident of your world, Vana'diel.
-- **7365**: Lastly, I will explain in detail the myriad effects granted by the visitant status.
-- **7366**: Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting.
-- **7367**: Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea.
-- **7368**: All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure.
-- **7369**: That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea.
-- **7370**: I see you have $0 [minute/minutes] of visitant status remaining from your previous visit.
-- **7371**: Use how many $5? [None for now./Set to remaining time: $14 min./$2: [/+]$8 min./$3: [/+]$9 min./$4: [/+]$10 min./$5: [/+]$11 min./$6: [/+]$12 min./$7: [/+]$13 min.]
-- **7372**: The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status.
-- **7373**: [Set time to/Extend time by] $2 min. ($1 $3) [Confirm./Cancel.]
-- **7374**: [Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]
-- **7375**: Total time obtained for this stay: $1 min. [Confirm./Cancel.]
+- **7356**: If you wish to journey within Abyssea, bring me $5 and I will grant you visitant status.
+- **7357**: What would you like to do? [Nothing./Learn about visitant status./Request visitant status./Extend visitant status.]
+- **7358**: All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with $5.
+- **7359**: Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, $6 is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time.
+- **7360**: Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea.
+- **7361**: A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward.
+- **7362**: Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional "noise."
+- **7363**: When requesting visitant status, please indicate the number of $5 you wish to process. A greater number will allow you a longer stay.
+- **7364**: It is also possible to extend your visitant status by bringing me more $5.
+- **7365**: To obtain $5, you must seek out Joachim. He is currently a resident of your world, Vana'diel.
+- **7366**: Lastly, I will explain in detail the myriad effects granted by the visitant status.
+- **7367**: Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting.
+- **7368**: Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea.
+- **7369**: All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure.
+- **7370**: That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea.
+- **7371**: I see you have $0 [minute/minutes] of visitant status remaining from your previous visit.
+- **7372**: Use how many $5? [None for now./Set to remaining time: $14 min./$2: [/+]$8 min./$3: [/+]$9 min./$4: [/+]$10 min./$5: [/+]$11 min./$6: [/+]$12 min./$7: [/+]$13 min.]
+- **7373**: The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status.
+- **7374**: [Set time to/Extend time by] $2 min. ($1 $3) [Confirm./Cancel.]
+- **7375**: [Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]
+- **7376**: Total time obtained for this stay: $1 min. [Confirm./Cancel.]
 
 ## Events
 
@@ -406,14 +406,14 @@ SUBROUTINE_00A3:
 
 SUBROUTINE_00EA:
  43: 0x00EA [0x03] Work_Zone[2] = 1271*
- 44: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+ 44: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "If you wish to journey within Abyssea, bring me $5 and I will grant you visitant status."
  45: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00F3 [0x05] ExtData[1]->WorkLocal[6] = 1
 
 SUBROUTINE_00F6:
  47: 0x00F6 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 0*) GOTO 0x0E30
- 48: 0x00FE [0x24] CREATE_DIALOG(message_id=7356*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+ 48: 0x00FE [0x24] CREATE_DIALOG(message_id=7357*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "What would you like to do? [Nothing./Learn about visitant status./Request visitant status./Extend visitant status.]"
  49: 0x0105 [0x25] WAIT_DIALOG_SELECT()
  50: 0x0106 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0119
@@ -422,48 +422,48 @@ SUBROUTINE_00F6:
  53: 0x0116 [0x01] GOTO 0x0E2D
  54: 0x0119 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0176
  55: 0x0121 [0x03] Work_Zone[2] = 1271*
- 56: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+ 56: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with $5."
  57: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x012A [0x03] Work_Zone[2] = 1271*
- 59: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+ 59: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
     → "Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, $6 is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time."
  60: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+ 61: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea."
  62: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
+ 63: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward."
  64: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
+ 65: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
     → "Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional "noise.""
  66: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x013F [0x03] Work_Zone[2] = 1271*
- 68: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7362*)
+ 68: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
     → "When requesting visitant status, please indicate the number of $5 you wish to process. A greater number will allow you a longer stay."
  69: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0148 [0x03] Work_Zone[2] = 1271*
- 71: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+ 71: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "It is also possible to extend your visitant status by bringing me more $5."
  72: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0151 [0x03] Work_Zone[2] = 1271*
- 74: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
+ 74: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
     → "To obtain $5, you must seek out Joachim. He is currently a resident of your world, Vana'diel."
  75: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x015A [0x03] Work_Zone[2] = 1271*
- 77: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+ 77: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "Lastly, I will explain in detail the myriad effects granted by the visitant status."
  78: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
+ 79: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
     → "Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting."
  80: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=7367*)
+ 81: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
     → "Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea."
  82: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
+ 83: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure."
  84: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
+ 85: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
     → "That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea."
  86: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0173 [0x01] GOTO 0x0E2D
@@ -474,7 +474,7 @@ SUBROUTINE_0181:
  90: 0x0181 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x0842
  91: 0x0189 [0x02] IF !(ExtData[1]->WorkLocal[2] <= 0*) GOTO 0x019A
  92: 0x0191 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 93: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+ 93: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "I see you have $0 [minute/minutes] of visitant status remaining from your previous visit."
  94: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x019A [0x03] Work_Zone[2] = 1271*
@@ -561,7 +561,7 @@ SUBROUTINE_0297:
 174: 0x037F [0x01] GOTO 0x0382
 
 SUBROUTINE_0382:
-175: 0x0382 [0x24] CREATE_DIALOG(message_id=7371*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+175: 0x0382 [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Use how many $5? [None for now./Set to remaining time: $14 min./$2: [/+]$8 min./$3: [/+]$9 min./$4: [/+]$10 min./$5: [/+]$11 min./$6: [/+]$12 min./$7: [/+]$13 min.]"
 176: 0x0389 [0x25] WAIT_DIALOG_SELECT()
 177: 0x038A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0398
@@ -570,7 +570,7 @@ SUBROUTINE_0382:
 180: 0x0398 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03E3
 181: 0x03A0 [0x03] Work_Zone[2] = 0*
 182: 0x03A5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
-183: 0x03AA [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+183: 0x03AA [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 184: 0x03B1 [0x25] WAIT_DIALOG_SELECT()
 185: 0x03B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D5
@@ -590,7 +590,7 @@ SUBROUTINE_03E0:
 197: 0x03F8 [0x14] ExtData[1]->WorkLocal[9] *= 3*
 198: 0x03FD [0x14] ExtData[1]->WorkLocal[9] *= 1*
 199: 0x0402 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-200: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+200: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 201: 0x040A [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x040B [0x03] Work_Zone[2] = 1271*
@@ -604,7 +604,7 @@ SUBROUTINE_03E0:
 210: 0x0436 [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0443
 211: 0x043E [0x03] Work_Zone[4] = 120*
 212: 0x0443 [0x03] Work_Zone[5] = 0*
-213: 0x0448 [0x24] CREATE_DIALOG(message_id=7373*, default_option=1*, option_flags=0*)
+213: 0x0448 [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $3) [Confirm./Cancel.]"
 214: 0x044F [0x25] WAIT_DIALOG_SELECT()
 215: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EC
@@ -619,7 +619,7 @@ SUBROUTINE_03E0:
 224: 0x0486 [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 225: 0x048B [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x0498
 226: 0x0493 [0x03] Work_Zone[3] = 120*
-227: 0x0498 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+227: 0x0498 [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 228: 0x049F [0x25] WAIT_DIALOG_SELECT()
 229: 0x04A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04C3
@@ -651,7 +651,7 @@ SUBROUTINE_04F7:
 249: 0x050F [0x14] ExtData[1]->WorkLocal[9] *= 3*
 250: 0x0514 [0x14] ExtData[1]->WorkLocal[9] *= 2*
 251: 0x0519 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-252: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+252: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 253: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x0522 [0x03] Work_Zone[2] = 1271*
@@ -665,7 +665,7 @@ SUBROUTINE_04F7:
 262: 0x054D [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x055A
 263: 0x0555 [0x03] Work_Zone[4] = 120*
 264: 0x055A [0x03] Work_Zone[5] = 0*
-265: 0x055F [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+265: 0x055F [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]"
 266: 0x0566 [0x25] WAIT_DIALOG_SELECT()
 267: 0x0567 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0603
@@ -680,7 +680,7 @@ SUBROUTINE_04F7:
 276: 0x059D [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 277: 0x05A2 [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x05AF
 278: 0x05AA [0x03] Work_Zone[3] = 120*
-279: 0x05AF [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+279: 0x05AF [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 280: 0x05B6 [0x25] WAIT_DIALOG_SELECT()
 281: 0x05B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DA
@@ -712,7 +712,7 @@ SUBROUTINE_060E:
 301: 0x0626 [0x14] ExtData[1]->WorkLocal[9] *= 3*
 302: 0x062B [0x14] ExtData[1]->WorkLocal[9] *= 3*
 303: 0x0630 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-304: 0x0635 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+304: 0x0635 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 305: 0x0638 [0x23] WAIT_FOR_DIALOG_INTERACTION
 306: 0x0639 [0x03] Work_Zone[2] = 1271*
@@ -726,7 +726,7 @@ SUBROUTINE_060E:
 314: 0x0664 [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0671
 315: 0x066C [0x03] Work_Zone[4] = 120*
 316: 0x0671 [0x03] Work_Zone[5] = 0*
-317: 0x0676 [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+317: 0x0676 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]"
 318: 0x067D [0x25] WAIT_DIALOG_SELECT()
 319: 0x067E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x071A
@@ -741,7 +741,7 @@ SUBROUTINE_060E:
 328: 0x06B4 [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 329: 0x06B9 [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x06C6
 330: 0x06C1 [0x03] Work_Zone[3] = 120*
-331: 0x06C6 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+331: 0x06C6 [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 332: 0x06CD [0x25] WAIT_DIALOG_SELECT()
 333: 0x06CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06F1
@@ -773,7 +773,7 @@ SUBROUTINE_0725:
 353: 0x073D [0x14] ExtData[1]->WorkLocal[9] *= 3*
 354: 0x0742 [0x14] ExtData[1]->WorkLocal[9] *= 4*
 355: 0x0747 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-356: 0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+356: 0x074C [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 357: 0x074F [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x0750 [0x03] Work_Zone[2] = 1271*
@@ -787,7 +787,7 @@ SUBROUTINE_0725:
 366: 0x077B [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0788
 367: 0x0783 [0x03] Work_Zone[4] = 120*
 368: 0x0788 [0x03] Work_Zone[5] = 0*
-369: 0x078D [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+369: 0x078D [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]"
 370: 0x0794 [0x25] WAIT_DIALOG_SELECT()
 371: 0x0795 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0831
@@ -802,7 +802,7 @@ SUBROUTINE_0725:
 380: 0x07CB [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 381: 0x07D0 [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x07DD
 382: 0x07D8 [0x03] Work_Zone[3] = 120*
-383: 0x07DD [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+383: 0x07DD [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 384: 0x07E4 [0x25] WAIT_DIALOG_SELECT()
 385: 0x07E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0808
@@ -919,7 +919,7 @@ SUBROUTINE_0948:
 484: 0x0A30 [0x01] GOTO 0x0A33
 
 SUBROUTINE_0A33:
-485: 0x0A33 [0x24] CREATE_DIALOG(message_id=7371*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+485: 0x0A33 [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Use how many $5? [None for now./Set to remaining time: $14 min./$2: [/+]$8 min./$3: [/+]$9 min./$4: [/+]$10 min./$5: [/+]$11 min./$6: [/+]$12 min./$7: [/+]$13 min.]"
 486: 0x0A3A [0x25] WAIT_DIALOG_SELECT()
 487: 0x0A3B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A49
@@ -934,7 +934,7 @@ SUBROUTINE_0A33:
 496: 0x0A6C [0x14] ExtData[1]->WorkLocal[9] *= 3*
 497: 0x0A71 [0x14] ExtData[1]->WorkLocal[9] *= 1*
 498: 0x0A76 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-499: 0x0A7B [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+499: 0x0A7B [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 500: 0x0A7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 501: 0x0A7F [0x03] Work_Zone[2] = 1271*
@@ -948,7 +948,7 @@ SUBROUTINE_0A33:
 509: 0x0AAA [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0AB7
 510: 0x0AB2 [0x03] Work_Zone[4] = 120*
 511: 0x0AB7 [0x03] Work_Zone[5] = 1*
-512: 0x0ABC [0x24] CREATE_DIALOG(message_id=7373*, default_option=1*, option_flags=0*)
+512: 0x0ABC [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $3) [Confirm./Cancel.]"
 513: 0x0AC3 [0x25] WAIT_DIALOG_SELECT()
 514: 0x0AC4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B3D
@@ -962,7 +962,7 @@ SUBROUTINE_0A33:
 522: 0x0AF2 [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 523: 0x0AF7 [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x0B04
 524: 0x0AFF [0x03] Work_Zone[3] = 120*
-525: 0x0B04 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+525: 0x0B04 [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 526: 0x0B0B [0x25] WAIT_DIALOG_SELECT()
 527: 0x0B0C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B2F
@@ -987,7 +987,7 @@ SUBROUTINE_0B48:
 542: 0x0B60 [0x14] ExtData[1]->WorkLocal[9] *= 3*
 543: 0x0B65 [0x14] ExtData[1]->WorkLocal[9] *= 2*
 544: 0x0B6A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-545: 0x0B6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+545: 0x0B6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 546: 0x0B72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x0B73 [0x03] Work_Zone[2] = 1271*
@@ -1001,7 +1001,7 @@ SUBROUTINE_0B48:
 555: 0x0B9E [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0BAB
 556: 0x0BA6 [0x03] Work_Zone[4] = 120*
 557: 0x0BAB [0x03] Work_Zone[5] = 1*
-558: 0x0BB0 [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+558: 0x0BB0 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]"
 559: 0x0BB7 [0x25] WAIT_DIALOG_SELECT()
 560: 0x0BB8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C31
@@ -1015,7 +1015,7 @@ SUBROUTINE_0B48:
 568: 0x0BE6 [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 569: 0x0BEB [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x0BF8
 570: 0x0BF3 [0x03] Work_Zone[3] = 120*
-571: 0x0BF8 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+571: 0x0BF8 [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 572: 0x0BFF [0x25] WAIT_DIALOG_SELECT()
 573: 0x0C00 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C23
@@ -1040,7 +1040,7 @@ SUBROUTINE_0C3C:
 588: 0x0C54 [0x14] ExtData[1]->WorkLocal[9] *= 3*
 589: 0x0C59 [0x14] ExtData[1]->WorkLocal[9] *= 3*
 590: 0x0C5E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-591: 0x0C63 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+591: 0x0C63 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 592: 0x0C66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x0C67 [0x03] Work_Zone[2] = 1271*
@@ -1054,7 +1054,7 @@ SUBROUTINE_0C3C:
 601: 0x0C92 [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0C9F
 602: 0x0C9A [0x03] Work_Zone[4] = 120*
 603: 0x0C9F [0x03] Work_Zone[5] = 1*
-604: 0x0CA4 [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+604: 0x0CA4 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]"
 605: 0x0CAB [0x25] WAIT_DIALOG_SELECT()
 606: 0x0CAC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D25
@@ -1068,7 +1068,7 @@ SUBROUTINE_0C3C:
 614: 0x0CDA [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 615: 0x0CDF [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x0CEC
 616: 0x0CE7 [0x03] Work_Zone[3] = 120*
-617: 0x0CEC [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+617: 0x0CEC [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 618: 0x0CF3 [0x25] WAIT_DIALOG_SELECT()
 619: 0x0CF4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D17
@@ -1093,7 +1093,7 @@ SUBROUTINE_0D30:
 634: 0x0D48 [0x14] ExtData[1]->WorkLocal[9] *= 3*
 635: 0x0D4D [0x14] ExtData[1]->WorkLocal[9] *= 4*
 636: 0x0D52 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-637: 0x0D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+637: 0x0D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "The ancient abyssite in your possession will grant you an additional $0 [minute/minutes] of visitant status."
 638: 0x0D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 639: 0x0D5B [0x03] Work_Zone[2] = 1271*
@@ -1107,7 +1107,7 @@ SUBROUTINE_0D30:
 647: 0x0D86 [0x02] IF !(Work_Zone[4] <= 120*) GOTO 0x0D93
 648: 0x0D8E [0x03] Work_Zone[4] = 120*
 649: 0x0D93 [0x03] Work_Zone[5] = 1*
-650: 0x0D98 [0x24] CREATE_DIALOG(message_id=7374*, default_option=1*, option_flags=0*)
+650: 0x0D98 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
     → "[Set time to/Extend time by] $2 min. ($1 $5) [Confirm./Cancel.]"
 651: 0x0D9F [0x25] WAIT_DIALOG_SELECT()
 652: 0x0DA0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E19
@@ -1121,7 +1121,7 @@ SUBROUTINE_0D30:
 660: 0x0DCE [0x07] Work_Zone[3] += ExtData[1]->WorkLocal[9]
 661: 0x0DD3 [0x02] IF !(Work_Zone[3] <= 120*) GOTO 0x0DE0
 662: 0x0DDB [0x03] Work_Zone[3] = 120*
-663: 0x0DE0 [0x24] CREATE_DIALOG(message_id=7375*, default_option=1*, option_flags=0*)
+663: 0x0DE0 [0x24] CREATE_DIALOG(message_id=7376*, default_option=1*, option_flags=0*)
     → "Total time obtained for this stay: $1 min. [Confirm./Cancel.]"
 664: 0x0DE7 [0x25] WAIT_DIALOG_SELECT()
 665: 0x0DE8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E0B

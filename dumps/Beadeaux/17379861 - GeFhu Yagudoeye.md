@@ -25,21 +25,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00E3      |         227 |
-|       1 | 0x1E5F      |        7775 |
-|       2 | 0x1E63      |        7779 |
+|       1 | 0x1E60      |        7776 |
+|       2 | 0x1E64      |        7780 |
 |       3 | 0x001E      |          30 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0016      |          22 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0013      |          19 |
-|       9 | 0x1E64      |        7780 |
+|       9 | 0x1E65      |        7781 |
 |      10 | 0x012C      |         300 |
 |      11 | 0x0078      |         120 |
 
 ## String References
 
-- **7775**: Hu-urr...!
+- **7776**: Hu-urr...!
 
 ## Events
 
@@ -211,12 +211,12 @@
   7: 0x005B [0x92] ??? (ID: 17379866/0x0109321A)->Render.Flags3 ^= 0x01
   8: 0x0061 [0x92] ??? (ID: 17379867/0x0109321B)->Render.Flags3 ^= 0x01
   9: 0x0067 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ge'Fhu Yagudoeye (ID: 17379861/0x01093215), tag_num=0x01)
- 10: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
+ 10: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
     → "Hu-urr...!"
  11: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0072 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ge'Fhu Yagudoeye (ID: 17379861/0x01093215), tag_num=0x02)
  13: 0x0079 [0x4A] LocalPlayer looks at Zeelozok (ID: 17379862/0x01093216)
- 14: 0x0082 [0x2B] Zeelozok (ID: 17379862/0x01093216) [7779*]:
+ 14: 0x0082 [0x2B] Zeelozok (ID: 17379862/0x01093216) [7780*]:
     → "Quadav betrayers!"
  15: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x008A [0x27] REQ_SET(priority=0x0B, entity_id=Sliding Door (ID: 17379819/0x010931EB), tag_num=0x02)
@@ -242,7 +242,7 @@
  36: 0x011E [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
  37: 0x0121 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  38: 0x0132 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[22*, 0*]
- 39: 0x0143 [0x2B] Zeelozok (ID: 17379862/0x01093216) [7780*]:
+ 39: 0x0143 [0x2B] Zeelozok (ID: 17379862/0x01093216) [7781*]:
     → "Promathia! Save your servant!"
  40: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x014B [0x1C] WAIT(300* ticks)

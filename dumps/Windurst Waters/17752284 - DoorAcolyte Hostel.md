@@ -20,56 +20,56 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2729      |       10025 |
+|       0 | 0x272A      |       10026 |
 |       1 | 0x000A      |          10 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x271E      |       10014 |
-|       6 | 0x271F      |       10015 |
-|       7 | 0x2720      |       10016 |
+|       5 | 0x271F      |       10015 |
+|       6 | 0x2720      |       10016 |
+|       7 | 0x2721      |       10017 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x2721      |       10017 |
+|       9 | 0x2722      |       10018 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x2722      |       10018 |
+|      11 | 0x2723      |       10019 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x2723      |       10019 |
+|      13 | 0x2724      |       10020 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x2724      |       10020 |
+|      15 | 0x2725      |       10021 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x2725      |       10021 |
+|      17 | 0x2726      |       10022 |
 |      18 | 0x0008      |           8 |
-|      19 | 0x2726      |       10022 |
+|      19 | 0x2727      |       10023 |
 |      20 | 0x0009      |           9 |
-|      21 | 0x2727      |       10023 |
-|      22 | 0x2728      |       10024 |
-|      23 | 0x272B      |       10027 |
+|      21 | 0x2728      |       10024 |
+|      22 | 0x2729      |       10025 |
+|      23 | 0x272C      |       10028 |
 |      24 | 0x00C8      |         200 |
 |      25 | 0x003C      |          60 |
 |      26 | 0x00D3      |         211 |
-|      27 | 0x272C      |       10028 |
+|      27 | 0x272D      |       10029 |
 |      28 | 0x0096      |         150 |
-|      29 | 0x272D      |       10029 |
-|      30 | 0x272E      |       10030 |
+|      29 | 0x272E      |       10030 |
+|      30 | 0x272F      |       10031 |
 |      31 | 0x0064      |         100 |
-|      32 | 0x272A      |       10026 |
+|      32 | 0x272B      |       10027 |
 
 ## String References
 
-- **10014**: $1 cannot be used... [to grow $2./to grow $3./to grow $4.]
-- **10015**: Mithra can eat raw... [flowers./meat./fish.]
-- **10016**: Galka can eat raw... [meat./fish./ore.]
-- **10017**: After Firesday comes... [Watersday./Earthsday./Lightsday.]
-- **10018**: $5 increases... [AGI./VIT./HP.]
-- **10019**: The constellation map was written by... [Yoran-Oran./Lago-Charago./Fuepepe.]
-- **10020**: The monster that doesn't belong is... [Ba./Vulture./Zu.]
-- **10021**: The girl who wants a red flower is... [Valah Molkot./Kuu Mohzolhi./Ojha Rhawash.]
-- **10022**: The Goldsmiths' Guild is closed... [from 8:00 to 23:00./from 23:00 to 8:00./from 18:00 to 2:00.]
-- **10023**: M & P's Market is located in... [Kazham./Mhaura./Rabao.]
-- **10024**: In Kazham, you cannot learn... [the weather in Jeuno./the weather in Yuhtunga./the weather in Sarutabaruta.]
-- **10025**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
-- **10026**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10027**: YOU ARE RIGHT!
+- **10015**: $1 cannot be used... [to grow $2./to grow $3./to grow $4.]
+- **10016**: Mithra can eat raw... [flowers./meat./fish.]
+- **10017**: Galka can eat raw... [meat./fish./ore.]
+- **10018**: After Firesday comes... [Watersday./Earthsday./Lightsday.]
+- **10019**: $5 increases... [AGI./VIT./HP.]
+- **10020**: The constellation map was written by... [Yoran-Oran./Lago-Charago./Fuepepe.]
+- **10021**: The monster that doesn't belong is... [Ba./Vulture./Zu.]
+- **10022**: The girl who wants a red flower is... [Valah Molkot./Kuu Mohzolhi./Ojha Rhawash.]
+- **10023**: The Goldsmiths' Guild is closed... [from 8:00 to 23:00./from 23:00 to 8:00./from 18:00 to 2:00.]
+- **10024**: M & P's Market is located in... [Kazham./Mhaura./Rabao.]
+- **10025**: In Kazham, you cannot learn... [the weather in Jeuno./the weather in Yuhtunga./the weather in Sarutabaruta.]
+- **10026**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10027**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10028**: YOU ARE RIGHT!
 
 ## Events
 
@@ -211,7 +211,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10025*]:
+  1: 0x0002 [0x48] [System] [10026*]:
     → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 10*
@@ -219,7 +219,7 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = 2*
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = 0*
   7: 0x001D [0x03] ExtData[1]->WorkLocal[1] = 1*
-  8: 0x0022 [0x24] CREATE_DIALOG(message_id=10014*, default_option=0*, option_flags=0*)
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=10015*, default_option=0*, option_flags=0*)
     → "$1 cannot be used... [to grow $2./to grow $3./to grow $4.]"
   9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
@@ -253,7 +253,7 @@ SUBROUTINE_007E:
  30: 0x0089 [0x03] ExtData[1]->WorkLocal[2] = 2*
  31: 0x008E [0x03] ExtData[1]->WorkLocal[0] = 0*
  32: 0x0093 [0x03] ExtData[1]->WorkLocal[1] = 1*
- 33: 0x0098 [0x24] CREATE_DIALOG(message_id=10015*, default_option=0*, option_flags=0*)
+ 33: 0x0098 [0x24] CREATE_DIALOG(message_id=10016*, default_option=0*, option_flags=0*)
     → "Mithra can eat raw... [flowers./meat./fish.]"
  34: 0x009F [0x25] WAIT_DIALOG_SELECT()
  35: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
@@ -287,7 +287,7 @@ SUBROUTINE_00F4:
  55: 0x00FF [0x03] ExtData[1]->WorkLocal[2] = 0*
  56: 0x0104 [0x03] ExtData[1]->WorkLocal[0] = 1*
  57: 0x0109 [0x03] ExtData[1]->WorkLocal[1] = 2*
- 58: 0x010E [0x24] CREATE_DIALOG(message_id=10016*, default_option=0*, option_flags=0*)
+ 58: 0x010E [0x24] CREATE_DIALOG(message_id=10017*, default_option=0*, option_flags=0*)
     → "Galka can eat raw... [meat./fish./ore.]"
  59: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
@@ -321,7 +321,7 @@ SUBROUTINE_016A:
  80: 0x0175 [0x03] ExtData[1]->WorkLocal[2] = 1*
  81: 0x017A [0x03] ExtData[1]->WorkLocal[0] = 0*
  82: 0x017F [0x03] ExtData[1]->WorkLocal[1] = 2*
- 83: 0x0184 [0x24] CREATE_DIALOG(message_id=10017*, default_option=0*, option_flags=0*)
+ 83: 0x0184 [0x24] CREATE_DIALOG(message_id=10018*, default_option=0*, option_flags=0*)
     → "After Firesday comes... [Watersday./Earthsday./Lightsday.]"
  84: 0x018B [0x25] WAIT_DIALOG_SELECT()
  85: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
@@ -355,7 +355,7 @@ SUBROUTINE_01E0:
 105: 0x01EB [0x03] ExtData[1]->WorkLocal[2] = 0*
 106: 0x01F0 [0x03] ExtData[1]->WorkLocal[0] = 1*
 107: 0x01F5 [0x03] ExtData[1]->WorkLocal[1] = 2*
-108: 0x01FA [0x24] CREATE_DIALOG(message_id=10018*, default_option=0*, option_flags=0*)
+108: 0x01FA [0x24] CREATE_DIALOG(message_id=10019*, default_option=0*, option_flags=0*)
     → "$5 increases... [AGI./VIT./HP.]"
 109: 0x0201 [0x25] WAIT_DIALOG_SELECT()
 110: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
@@ -389,7 +389,7 @@ SUBROUTINE_0256:
 130: 0x0261 [0x03] ExtData[1]->WorkLocal[2] = 1*
 131: 0x0266 [0x03] ExtData[1]->WorkLocal[0] = 0*
 132: 0x026B [0x03] ExtData[1]->WorkLocal[1] = 2*
-133: 0x0270 [0x24] CREATE_DIALOG(message_id=10019*, default_option=0*, option_flags=0*)
+133: 0x0270 [0x24] CREATE_DIALOG(message_id=10020*, default_option=0*, option_flags=0*)
     → "The constellation map was written by... [Yoran-Oran./Lago-Charago./Fuepepe.]"
 134: 0x0277 [0x25] WAIT_DIALOG_SELECT()
 135: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
@@ -423,7 +423,7 @@ SUBROUTINE_02CC:
 155: 0x02D7 [0x03] ExtData[1]->WorkLocal[2] = 2*
 156: 0x02DC [0x03] ExtData[1]->WorkLocal[0] = 0*
 157: 0x02E1 [0x03] ExtData[1]->WorkLocal[1] = 1*
-158: 0x02E6 [0x24] CREATE_DIALOG(message_id=10020*, default_option=0*, option_flags=0*)
+158: 0x02E6 [0x24] CREATE_DIALOG(message_id=10021*, default_option=0*, option_flags=0*)
     → "The monster that doesn't belong is... [Ba./Vulture./Zu.]"
 159: 0x02ED [0x25] WAIT_DIALOG_SELECT()
 160: 0x02EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030A
@@ -457,7 +457,7 @@ SUBROUTINE_0342:
 180: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 0*
 181: 0x0352 [0x03] ExtData[1]->WorkLocal[0] = 1*
 182: 0x0357 [0x03] ExtData[1]->WorkLocal[1] = 2*
-183: 0x035C [0x24] CREATE_DIALOG(message_id=10021*, default_option=0*, option_flags=0*)
+183: 0x035C [0x24] CREATE_DIALOG(message_id=10022*, default_option=0*, option_flags=0*)
     → "The girl who wants a red flower is... [Valah Molkot./Kuu Mohzolhi./Ojha Rhawash.]"
 184: 0x0363 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0364 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0380
@@ -491,7 +491,7 @@ SUBROUTINE_03B8:
 205: 0x03C3 [0x03] ExtData[1]->WorkLocal[2] = 1*
 206: 0x03C8 [0x03] ExtData[1]->WorkLocal[0] = 0*
 207: 0x03CD [0x03] ExtData[1]->WorkLocal[1] = 2*
-208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10022*, default_option=0*, option_flags=0*)
+208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10023*, default_option=0*, option_flags=0*)
     → "The Goldsmiths' Guild is closed... [from 8:00 to 23:00./from 23:00 to 8:00./from 18:00 to 2:00.]"
 209: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 210: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
@@ -525,7 +525,7 @@ SUBROUTINE_042E:
 230: 0x0439 [0x03] ExtData[1]->WorkLocal[2] = 0*
 231: 0x043E [0x03] ExtData[1]->WorkLocal[0] = 1*
 232: 0x0443 [0x03] ExtData[1]->WorkLocal[1] = 2*
-233: 0x0448 [0x24] CREATE_DIALOG(message_id=10023*, default_option=0*, option_flags=0*)
+233: 0x0448 [0x24] CREATE_DIALOG(message_id=10024*, default_option=0*, option_flags=0*)
     → "M & P's Market is located in... [Kazham./Mhaura./Rabao.]"
 234: 0x044F [0x25] WAIT_DIALOG_SELECT()
 235: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046C
@@ -559,7 +559,7 @@ SUBROUTINE_04A4:
 255: 0x04AF [0x03] ExtData[1]->WorkLocal[2] = 2*
 256: 0x04B4 [0x03] ExtData[1]->WorkLocal[0] = 0*
 257: 0x04B9 [0x03] ExtData[1]->WorkLocal[1] = 1*
-258: 0x04BE [0x24] CREATE_DIALOG(message_id=10024*, default_option=0*, option_flags=0*)
+258: 0x04BE [0x24] CREATE_DIALOG(message_id=10025*, default_option=0*, option_flags=0*)
     → "In Kazham, you cannot learn... [the weather in Jeuno./the weather in Yuhtunga./the weather in Sarutabaruta.]"
 259: 0x04C5 [0x25] WAIT_DIALOG_SELECT()
 260: 0x04C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E2
@@ -598,7 +598,7 @@ SUBROUTINE_051D:
 SUBROUTINE_0521:
 282: 0x0521 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 283: 0x0522 [0x46] CAMERA_CONTROL: Disable user control
-284: 0x0524 [0x48] [System] [10027*]:
+284: 0x0524 [0x48] [System] [10028*]:
     → "YOU ARE RIGHT!"
 285: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0528 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -612,19 +612,19 @@ SUBROUTINE_0521:
 294: 0x055B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 295: 0x0560 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
 296: 0x0571 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-297: 0x0582 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10028*]:
+297: 0x0582 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10029*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
 298: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x058A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 300: 0x059B [0x1C] WAIT(150* ticks)
-301: 0x059E [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10029*]:
+301: 0x059E [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
 302: 0x05A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x05A6 [0x1C] WAIT(150* ticks)
 304: 0x05A9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
 305: 0x05B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 306: 0x05C9 [0x1C] WAIT(60* ticks)
-307: 0x05CC [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10030*]:
+307: 0x05CC [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10031*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
 308: 0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x05D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -636,7 +636,7 @@ SUBROUTINE_0521:
 
 SUBROUTINE_0601:
 315: 0x0601 [0x03] Work_Zone[1] = 0*
-316: 0x0606 [0x48] [System] [10026*]:
+316: 0x0606 [0x48] [System] [10027*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
 317: 0x0609 [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x060A [0x1B] RETURN

@@ -23,13 +23,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1DC9      |        7625 |
-|       2 | 0x1DCA      |        7626 |
+|       1 | 0x1DCA      |        7626 |
+|       2 | 0x1DCB      |        7627 |
 
 ## String References
 
-- **7625**: I often forget that we live above the ocean. A long time ago these brrridges were just ruins. I don't know how travelers made it anywhere back then.
-- **7626**: But once the brrridges were rebuilt, this town really began to grow. Our ancestors would be proud, I'm sure.
+- **7626**: I often forget that we live above the ocean. A long time ago these brrridges were just ruins. I don't know how travelers made it anywhere back then.
+- **7627**: But once the brrridges were rebuilt, this town really began to grow. Our ancestors would be proud, I'm sure.
 
 ## Events
 
@@ -81,10 +81,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
     → "I often forget that we live above the ocean. A long time ago these brrridges were just ruins. I don't know how travelers made it anywhere back then."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
     → "But once the brrridges were rebuilt, this town really began to grow. Our ancestors would be proud, I'm sure."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*

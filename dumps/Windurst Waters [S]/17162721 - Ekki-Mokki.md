@@ -25,8 +25,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x2AC8      |       10952 |
-|       3 | 0x2AC9      |       10953 |
+|       2 | 0x2AC9      |       10953 |
+|       3 | 0x2ACA      |       10954 |
 |       4 | 0x0005      |           5 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0000      |           0 |
@@ -85,10 +85,10 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x001C [0x2B] EventEntity [10952*]:
+  3: 0x001C [0x2B] EventEntity [10953*]:
     → "They say this detestable Yagudo Theomilitary is led by one named Tzee Xicu the Manifest."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10953*]:
+  5: 0x0024 [0x2B] EventEntity [10954*]:
     → "He marshals the throngs of Yagudo from the foul depths of Castle Oztroja. There are some rumors, however, that he is actually a she."
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

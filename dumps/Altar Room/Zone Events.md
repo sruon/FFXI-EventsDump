@@ -43,33 +43,33 @@
 |       7 | 0x0887      |        2183 |
 |       8 | 0x003C      |          60 |
 |       9 | 0x00C8      |         200 |
-|      10 | 0x1C84      |        7300 |
+|      10 | 0x1C85      |        7301 |
 |      11 | 0x009F      |         159 |
-|      12 | 0x1C85      |        7301 |
+|      12 | 0x1C86      |        7302 |
 |      13 | 0x001E      |          30 |
-|      14 | 0x1C86      |        7302 |
-|      15 | 0x1C87      |        7303 |
-|      16 | 0x1C88      |        7304 |
-|      17 | 0x1C89      |        7305 |
+|      14 | 0x1C87      |        7303 |
+|      15 | 0x1C88      |        7304 |
+|      16 | 0x1C89      |        7305 |
+|      17 | 0x1C8A      |        7306 |
 |      18 | 0x000A      |          10 |
-|      19 | 0x1C8A      |        7306 |
-|      20 | 0x1C8B      |        7307 |
-|      21 | 0x1C8C      |        7308 |
-|      22 | 0x1C8D      |        7309 |
-|      23 | 0x1C8E      |        7310 |
-|      24 | 0x1C8F      |        7311 |
-|      25 | 0x1C90      |        7312 |
-|      26 | 0x1C91      |        7313 |
-|      27 | 0x1C92      |        7314 |
+|      19 | 0x1C8B      |        7307 |
+|      20 | 0x1C8C      |        7308 |
+|      21 | 0x1C8D      |        7309 |
+|      22 | 0x1C8E      |        7310 |
+|      23 | 0x1C8F      |        7311 |
+|      24 | 0x1C90      |        7312 |
+|      25 | 0x1C91      |        7313 |
+|      26 | 0x1C92      |        7314 |
+|      27 | 0x1C93      |        7315 |
 |      28 | 0x0078      |         120 |
-|      29 | 0x1C93      |        7315 |
+|      29 | 0x1C94      |        7316 |
 |      30 | 0x0258      |         600 |
 |      31 | 0x0064      |         100 |
 |      32 | 0x005A      |          90 |
-|      33 | 0x1C94      |        7316 |
-|      34 | 0x1C95      |        7317 |
-|      35 | 0x1C96      |        7318 |
-|      36 | 0x1C97      |        7319 |
+|      33 | 0x1C95      |        7317 |
+|      34 | 0x1C96      |        7318 |
+|      35 | 0x1C97      |        7319 |
+|      36 | 0x1C98      |        7320 |
 |      37 | 0x0028      |          40 |
 |      38 | 0x40000000  |  1073741824 |
 |      39 | 0x420B      |       16907 |
@@ -99,108 +99,108 @@
 |      63 | 0x0005      |           5 |
 |      64 | 0x0825      |        2085 |
 |      65 | 0x00D8      |         216 |
-|      66 | 0x1CA9      |        7337 |
+|      66 | 0x1CAA      |        7338 |
 |      67 | 0x000D      |          13 |
 |      68 | 0xFFFBF2A2  |  4294701730 |
 |      69 | 0xFFFE7ED7  |  4294868695 |
 |      70 | 0x350B      |       13579 |
-|      71 | 0x1CE4      |        7396 |
-|      72 | 0x1CAA      |        7338 |
-|      73 | 0x1CAB      |        7339 |
+|      71 | 0x1CE5      |        7397 |
+|      72 | 0x1CAB      |        7339 |
+|      73 | 0x1CAC      |        7340 |
 |      74 | 0x00D7      |         215 |
-|      75 | 0x1CAC      |        7340 |
-|      76 | 0x1CAD      |        7341 |
-|      77 | 0x1CAE      |        7342 |
-|      78 | 0x1CAF      |        7343 |
-|      79 | 0x1CB0      |        7344 |
-|      80 | 0x1CB1      |        7345 |
-|      81 | 0x1CB2      |        7346 |
+|      75 | 0x1CAD      |        7341 |
+|      76 | 0x1CAE      |        7342 |
+|      77 | 0x1CAF      |        7343 |
+|      78 | 0x1CB0      |        7344 |
+|      79 | 0x1CB1      |        7345 |
+|      80 | 0x1CB2      |        7346 |
+|      81 | 0x1CB3      |        7347 |
 |      82 | 0x0001      |           1 |
-|      83 | 0x1CB3      |        7347 |
-|      84 | 0x1CB4      |        7348 |
-|      85 | 0x1CB5      |        7349 |
-|      86 | 0x1CB6      |        7350 |
-|      87 | 0x1CB7      |        7351 |
-|      88 | 0x1CB8      |        7352 |
-|      89 | 0x1CB9      |        7353 |
-|      90 | 0x1CBA      |        7354 |
-|      91 | 0x1CBB      |        7355 |
-|      92 | 0x1CBC      |        7356 |
-|      93 | 0x1CBD      |        7357 |
+|      83 | 0x1CB4      |        7348 |
+|      84 | 0x1CB5      |        7349 |
+|      85 | 0x1CB6      |        7350 |
+|      86 | 0x1CB7      |        7351 |
+|      87 | 0x1CB8      |        7352 |
+|      88 | 0x1CB9      |        7353 |
+|      89 | 0x1CBA      |        7354 |
+|      90 | 0x1CBB      |        7355 |
+|      91 | 0x1CBC      |        7356 |
+|      92 | 0x1CBD      |        7357 |
+|      93 | 0x1CBE      |        7358 |
 |      94 | 0x0857      |        2135 |
-|      95 | 0x1CBE      |        7358 |
-|      96 | 0x1CBF      |        7359 |
-|      97 | 0x1CC0      |        7360 |
-|      98 | 0x1CC1      |        7361 |
-|      99 | 0x1CC2      |        7362 |
-|     100 | 0x1CC3      |        7363 |
-|     101 | 0x1CC4      |        7364 |
+|      95 | 0x1CBF      |        7359 |
+|      96 | 0x1CC0      |        7360 |
+|      97 | 0x1CC1      |        7361 |
+|      98 | 0x1CC2      |        7362 |
+|      99 | 0x1CC3      |        7363 |
+|     100 | 0x1CC4      |        7364 |
+|     101 | 0x1CC5      |        7365 |
 |     102 | 0xFFFB2C6B  |  4294650987 |
 |     103 | 0x212E      |        8494 |
 |     104 | 0x60AC      |       24748 |
 |     105 | 0x0C77      |        3191 |
 |     106 | 0x0027      |          39 |
-|     107 | 0x1CC7      |        7367 |
+|     107 | 0x1CC8      |        7368 |
 |     108 | 0x000F      |          15 |
-|     109 | 0x1CC8      |        7368 |
+|     109 | 0x1CC9      |        7369 |
 |     110 | 0x0032      |          50 |
 |     111 | 0x00A1      |         161 |
 |     112 | 0xFFFB2C45  |  4294650949 |
 |     113 | 0x1E69      |        7785 |
 |     114 | 0x5FDF      |       24543 |
 |     115 | 0x0533      |        1331 |
-|     116 | 0x1CC9      |        7369 |
-|     117 | 0x1CCA      |        7370 |
-|     118 | 0x1CCB      |        7371 |
+|     116 | 0x1CCA      |        7370 |
+|     117 | 0x1CCB      |        7371 |
+|     118 | 0x1CCC      |        7372 |
 |     119 | 0x00FE      |         254 |
-|     120 | 0x1CCC      |        7372 |
-|     121 | 0x1CCD      |        7373 |
-|     122 | 0x1CCE      |        7374 |
-|     123 | 0x1CCF      |        7375 |
-|     124 | 0x1CD0      |        7376 |
-|     125 | 0x1CD1      |        7377 |
-|     126 | 0x1CD2      |        7378 |
-|     127 | 0x1CD3      |        7379 |
-|     128 | 0x1CD4      |        7380 |
-|     129 | 0x1CD5      |        7381 |
+|     120 | 0x1CCD      |        7373 |
+|     121 | 0x1CCE      |        7374 |
+|     122 | 0x1CCF      |        7375 |
+|     123 | 0x1CD0      |        7376 |
+|     124 | 0x1CD1      |        7377 |
+|     125 | 0x1CD2      |        7378 |
+|     126 | 0x1CD3      |        7379 |
+|     127 | 0x1CD4      |        7380 |
+|     128 | 0x1CD5      |        7381 |
+|     129 | 0x1CD6      |        7382 |
 |     130 | 0x009D      |         157 |
 |     131 | 0x0014      |          20 |
-|     132 | 0x1CD6      |        7382 |
-|     133 | 0x1CD7      |        7383 |
-|     134 | 0x1CD8      |        7384 |
-|     135 | 0x1CD9      |        7385 |
+|     132 | 0x1CD7      |        7383 |
+|     133 | 0x1CD8      |        7384 |
+|     134 | 0x1CD9      |        7385 |
+|     135 | 0x1CDA      |        7386 |
 |     136 | 0x0FFF      |        4095 |
-|     137 | 0x1CDA      |        7386 |
+|     137 | 0x1CDB      |        7387 |
 |     138 | 0x0E10      |        3600 |
-|     139 | 0x1CDB      |        7387 |
-|     140 | 0x1CDC      |        7388 |
-|     141 | 0x1CDD      |        7389 |
-|     142 | 0x1CDE      |        7390 |
+|     139 | 0x1CDC      |        7388 |
+|     140 | 0x1CDD      |        7389 |
+|     141 | 0x1CDE      |        7390 |
+|     142 | 0x1CDF      |        7391 |
 |     143 | 0x01F5      |         501 |
 |     144 | 0x00F0      |         240 |
 |     145 | 0xFFFB2DB8  |  4294651320 |
 |     146 | 0x1D70      |        7536 |
 |     147 | 0x6036      |       24630 |
 |     148 | 0x0735      |        1845 |
-|     149 | 0x1CDF      |        7391 |
-|     150 | 0x1CE0      |        7392 |
+|     149 | 0x1CE0      |        7392 |
+|     150 | 0x1CE1      |        7393 |
 |     151 | 0x0708      |        1800 |
-|     152 | 0x1CE1      |        7393 |
-|     153 | 0x1CE2      |        7394 |
-|     154 | 0x1CE3      |        7395 |
-|     155 | 0x1CE5      |        7397 |
-|     156 | 0x1CE6      |        7398 |
-|     157 | 0x1CE7      |        7399 |
-|     158 | 0x1CE8      |        7400 |
-|     159 | 0x1CE9      |        7401 |
-|     160 | 0x1CEA      |        7402 |
+|     152 | 0x1CE2      |        7394 |
+|     153 | 0x1CE3      |        7395 |
+|     154 | 0x1CE4      |        7396 |
+|     155 | 0x1CE6      |        7398 |
+|     156 | 0x1CE7      |        7399 |
+|     157 | 0x1CE8      |        7400 |
+|     158 | 0x1CE9      |        7401 |
+|     159 | 0x1CEA      |        7402 |
+|     160 | 0x1CEB      |        7403 |
 |     161 | 0x002D      |          45 |
-|     162 | 0x1CEB      |        7403 |
+|     162 | 0x1CEC      |        7404 |
 
 ## String References
 
-- **7346**: Come on, it'll be fun! [Alright! I'm in!/I'll wear goggles to bed.]
-- **7352**: Sound fair? [Fair enough!/I need to talk to my manager.]
+- **7347**: Come on, it'll be fun! [Alright! I'm in!/I'll wear goggles to bed.]
+- **7353**: Sound fair? [Fair enough!/I need to talk to my manager.]
 
 ## Events
 
@@ -334,13 +334,13 @@
  13: 0x005A [0x1C] WAIT(60* ticks)
  14: 0x005D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x006E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
- 16: 0x007D [0x2B] Fickblix (ID: 17399826/0x01098012) [7300*]:
+ 16: 0x007D [0x2B] Fickblix (ID: 17399826/0x01098012) [7301*]:
     → "Ungh..."
  17: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0085 [0x4E] SET_ENTITY_HIDE_FLAG: Show Verena (ID: 17399827/0x01098013)
  19: 0x008B [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 159*
  20: 0x008F [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 159*
- 21: 0x0093 [0x2B] Verena (ID: 17399827/0x01098013) [7301*]:
+ 21: 0x0093 [0x2B] Verena (ID: 17399827/0x01098013) [7302*]:
     → "Fickblix!"
  22: 0x009A [0x27] REQ_SET(priority=0x03, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x02)
  23: 0x00A1 [0x1C] WAIT(30* ticks)
@@ -349,19 +349,19 @@
  26: 0x00C4 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Verena (ID: 17399827/0x01098013))
  27: 0x00CA [0x4A] LocalPlayer looks at Verena (ID: 17399827/0x01098013)
  28: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x00D4 [0x2B] Verena (ID: 17399827/0x01098013) [7302*]:
+ 29: 0x00D4 [0x2B] Verena (ID: 17399827/0x01098013) [7303*]:
     → "Fickblix? What happened? Are you all right?"
  30: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00DC [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x04)
  32: 0x00E3 [0x27] REQ_SET(priority=0x04, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x05)
- 33: 0x00EA [0x2B] Fickblix (ID: 17399826/0x01098012) [7303*]:
+ 33: 0x00EA [0x2B] Fickblix (ID: 17399826/0x01098012) [7304*]:
     → "Oh... Verena..."
  34: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00F2 [0x2B] Verena (ID: 17399827/0x01098013) [7304*]:
+ 35: 0x00F2 [0x2B] Verena (ID: 17399827/0x01098013) [7305*]:
     → "What has happened here? Who did this to you? Tell me who!"
  36: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00FA [0x27] REQ_SET(priority=0x05, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x06)
- 38: 0x0101 [0x2B] Fickblix (ID: 17399826/0x01098012) [7305*]:
+ 38: 0x0101 [0x2B] Fickblix (ID: 17399826/0x01098012) [7306*]:
     → "Nobody... Verena... Don't hate...them..."
  39: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0109 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x05)
@@ -369,46 +369,46 @@
  42: 0x0117 [0x1C] WAIT(10* ticks)
  43: 0x011A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm02" with entities [EventEntity, EventEntity], work=[146*, 0*]
  44: 0x012B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm02" with entities [EventEntity, EventEntity], work=146*
- 45: 0x013A [0x2B] Verena (ID: 17399827/0x01098013) [7306*]:
+ 45: 0x013A [0x2B] Verena (ID: 17399827/0x01098013) [7307*]:
     → "I know! I know! Hate will get us nowhere."
  46: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0142 [0x2B] Verena (ID: 17399827/0x01098013) [7307*]:
+ 47: 0x0142 [0x2B] Verena (ID: 17399827/0x01098013) [7308*]:
     → "I understand how you feel. If only we all could. Then...then there'd be no more fighting."
  48: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x014A [0x27] REQ_SET(priority=0x05, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x06)
- 50: 0x0151 [0x2B] Fickblix (ID: 17399826/0x01098012) [7308*]:
+ 50: 0x0151 [0x2B] Fickblix (ID: 17399826/0x01098012) [7309*]:
     → "Verena... Don't cry..."
  51: 0x0158 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0159 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x05)
- 53: 0x0160 [0x2B] Verena (ID: 17399827/0x01098013) [7309*]:
+ 53: 0x0160 [0x2B] Verena (ID: 17399827/0x01098013) [7310*]:
     → "It's okay, Fickblix. You don't have to worry. I'll be...I'll be all right."
  54: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0168 [0x27] REQ_SET(priority=0x05, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x06)
- 56: 0x016F [0x2B] Fickblix (ID: 17399826/0x01098012) [7310*]:
+ 56: 0x016F [0x2B] Fickblix (ID: 17399826/0x01098012) [7311*]:
     → "Yeah..."
  57: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0177 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x05)
- 59: 0x017E [0x2B] Verena (ID: 17399827/0x01098013) [7311*]:
+ 59: 0x017E [0x2B] Verena (ID: 17399827/0x01098013) [7312*]:
     → "Shhh. Your courage needs no words. Even now I can feel the warmth of your heart. Just...just hang in there."
  60: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0186 [0x27] REQ_SET(priority=0x05, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x06)
- 62: 0x018D [0x2B] Fickblix (ID: 17399826/0x01098012) [7312*]:
+ 62: 0x018D [0x2B] Fickblix (ID: 17399826/0x01098012) [7313*]:
     → "Something else..."
  63: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0195 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x05)
  65: 0x019C [0x27] REQ_SET(priority=0x04, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x0D)
  66: 0x01A3 [0x1C] WAIT(30* ticks)
  67: 0x01A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm05" with entities [EventEntity, EventEntity], work=[146*, 0*]
- 68: 0x01B7 [0x2B] Verena (ID: 17399827/0x01098013) [7313*]:
+ 68: 0x01B7 [0x2B] Verena (ID: 17399827/0x01098013) [7314*]:
     → "Yes, Fickie, what is it?"
  69: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x01BF [0x2B] Fickblix (ID: 17399826/0x01098012) [7314*]:
+ 70: 0x01BF [0x2B] Fickblix (ID: 17399826/0x01098012) [7315*]:
     → "Thank...you..."
  71: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x01C7 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Fickblix (ID: 17399826/0x01098012), tag_num=0x03)
  73: 0x01CE [0x4A] LocalPlayer looks at Fickblix (ID: 17399826/0x01098012)
  74: 0x01D7 [0x1C] WAIT(120* ticks)
- 75: 0x01DA [0x2B] Verena (ID: 17399827/0x01098013) [7315*]:
+ 75: 0x01DA [0x2B] Verena (ID: 17399827/0x01098013) [7316*]:
     → "No, Fickie. Thank you. You've shown us our mistakes."
  76: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x01E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm03" with entities [EventEntity, EventEntity], work=[146*, 0*]
@@ -422,10 +422,10 @@
  85: 0x0225 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x0B)
  86: 0x022C [0x4A] LocalPlayer looks at Verena (ID: 17399827/0x01098013)
  87: 0x0235 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x08)
- 88: 0x023C [0x2B] Verena (ID: 17399827/0x01098013) [7316*]:
+ 88: 0x023C [0x2B] Verena (ID: 17399827/0x01098013) [7317*]:
     → "Fickblix always told us that someday people and beastmen would get along."
  89: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0244 [0x2B] Verena (ID: 17399827/0x01098013) [7317*]:
+ 90: 0x0244 [0x2B] Verena (ID: 17399827/0x01098013) [7318*]:
     → "I suppose you'll keep on hating them. No, not just hating, actually fighting them."
  91: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x024C [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x09)
@@ -437,10 +437,10 @@
  98: 0x0276 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm04" with entities [EventEntity, EventEntity], work=146*
  99: 0x0285 [0x1C] WAIT(30* ticks)
 100: 0x0288 [0x27] REQ_SET(priority=0x03, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x04)
-101: 0x028F [0x2B] Verena (ID: 17399827/0x01098013) [7318*]:
+101: 0x028F [0x2B] Verena (ID: 17399827/0x01098013) [7319*]:
     → "But just remember this one thing. Some beastmen think like Fickblix did."
 102: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x0297 [0x2B] Verena (ID: 17399827/0x01098013) [7319*]:
+103: 0x0297 [0x2B] Verena (ID: 17399827/0x01098013) [7320*]:
     → "There's more to life than what you see in front of you. We are all flowing on the river of life, not just watching from the banks."
 104: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x029F [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Verena (ID: 17399827/0x01098013), tag_num=0x05)
@@ -721,7 +721,7 @@ SUBROUTINE_0337:
  17: 0x0437 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  18: 0x0448 [0x4B] UPDATE_ENTITY_YAW(entity=Hooknox (ID: 17399854/0x0109802E), yaw=11.5°*)
  19: 0x044F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 20: 0x045E [0x2B] Hooknox (ID: 17399854/0x0109802E) [7337*]:
+ 20: 0x045E [0x2B] Hooknox (ID: 17399854/0x0109802E) [7338*]:
     → "I can't believe this happened! If anybody were to find out, poor Hooknox would never be able to show her pretty Gobbie face in public agai--"
  21: 0x0465 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
  22: 0x0468 [0x1F] MOVE_ENTITY: EventEntity moves to X=-265.566*, Z=-98.601*, Y=13.579*
@@ -729,7 +729,7 @@ SUBROUTINE_0337:
  24: 0x0472 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  25: 0x0473 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0474 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 27: 0x0483 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7396*]:
+ 27: 0x0483 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7397*]:
     → "........."
  28: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x048B [0x4A] Hooknox (ID: 17399854/0x0109802E) looks at LocalPlayer
@@ -738,48 +738,48 @@ SUBROUTINE_0337:
  32: 0x04A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  33: 0x04B7 [0x1C] WAIT(10* ticks)
  34: 0x04BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 35: 0x04C9 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7338*]:
+ 35: 0x04C9 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7339*]:
     → "Ahhh! Adventurer! How long have you been standing there!? You heard nothing, right? You hear something, Hooknox cut out your tongue and feed it to pet coeurl, Miffie."
  36: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x04D1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 38: 0x04E0 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7339*]:
+ 38: 0x04E0 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7340*]:
     → "Hah hah hah! Just kidding! Coeurl's name is Brutus, not Miffie. Hah hah hah! Just kidding! Hooknox won't hurt you."
  39: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x04E8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 41: 0x04F7 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7340*]:
+ 41: 0x04F7 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7341*]:
     → "I'm adventurer, just like you...only lot cuter! You can call me Nox if Hooknox is too hard to pronounce with that funny-shaped mouth of yours."
  42: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x04FF [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=5*
  44: 0x050E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 45: 0x051F [0x2B] Hooknox (ID: 17399854/0x0109802E) [7341*]:
+ 45: 0x051F [0x2B] Hooknox (ID: 17399854/0x0109802E) [7342*]:
     → "Eh? What is Hooknox doing here? Well, I guess I can tell you... Just last week, yours truly got her hands on some juicy info about huge shipment of riches sent to head honcho of this place from some bigwig in East."
  46: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0527 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 48: 0x0536 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7342*]:
+ 48: 0x0536 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7343*]:
     → "Hey, we've all heard stories of Eastern Empire's solid jade futons, ruby chandeliers, and gold-laden chamber pots. And I'd bet my baby Brutus's collar that this Yagudo treasure is just as tasty!"
  49: 0x053D [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x053E [0x6B] STOP_AND_IDLE: Hooknox (ID: 17399854/0x0109802E) stops current action and resets to idle (animation="idl0")
- 51: 0x0547 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7343*]:
+ 51: 0x0547 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7344*]:
     → "So, I rushed down to local auction house and bought all Yagudo feathers on sale. Then I use Old Muckvix's world-famous super-adhesive animal glue (now safe for children!) to stick all feathers to Hooknox's pretty figure. I looked just like one of those overgrown crows...or is that undergrown chocobos?"
  52: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x054F [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=5*
  54: 0x055E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  55: 0x056F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 56: 0x057E [0x2B] Hooknox (ID: 17399854/0x0109802E) [7344*]:
+ 56: 0x057E [0x2B] Hooknox (ID: 17399854/0x0109802E) [7345*]:
     → "Anyway, Hooknox made it in here, no sweat. But once I got in...that's when I started to sweat. And that's when Yagudo disguise started getting all itchy and scratchy. Hooknox couldn't take it anymore, so I ripped off feathers and...and that's when adventurer walked in."
  57: 0x0585 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0586 [0x6B] STOP_AND_IDLE: Hooknox (ID: 17399854/0x0109802E) stops current action and resets to idle (animation="idl0")
- 59: 0x058F [0x2B] Hooknox (ID: 17399854/0x0109802E) [7345*]:
+ 59: 0x058F [0x2B] Hooknox (ID: 17399854/0x0109802E) [7346*]:
     → "So, what do you say? Feel like teaming up with cute Gobbie on quest for fame and riches? What? You don't feel good about stealing from crazy Yagudo? But just think of consequences. If Yagudo sell treasure, they get gil to buy sharp knives and pointy swords--then they take knives and swords and use them to poke out your eyes while you sleep!"
  60: 0x0596 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x0597 [0x24] CREATE_DIALOG(message_id=7346*, default_option=0*, option_flags=0*)
+ 61: 0x0597 [0x24] CREATE_DIALOG(message_id=7347*, default_option=0*, option_flags=0*)
     → "Come on, it'll be fun! [Alright! I'm in!/I'll wear goggles to bed.]"
  62: 0x059E [0x25] WAIT_DIALOG_SELECT()
  63: 0x059F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05EC
  64: 0x05A7 [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x03)
  65: 0x05AE [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=5*
  66: 0x05BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 67: 0x05CE [0x2B] Hooknox (ID: 17399854/0x0109802E) [7347*]:
+ 67: 0x05CE [0x2B] Hooknox (ID: 17399854/0x0109802E) [7348*]:
     → "Hmph... Then I guess I'll just have to spend all those riches myself!"
  68: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x05D6 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Hooknox (ID: 17399854/0x0109802E))
@@ -791,31 +791,31 @@ SUBROUTINE_05EC:
  73: 0x05EC [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x03)
  74: 0x05F3 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=5*
  75: 0x0602 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 76: 0x0613 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7348*]:
+ 76: 0x0613 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7349*]:
     → "Heh heh... Spoken like true sucker... Huh? You didn't hear that, right? Brutus! Brutus!"
  77: 0x061A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x061B [0x2B] Hooknox (ID: 17399854/0x0109802E) [7349*]:
+ 78: 0x061B [0x2B] Hooknox (ID: 17399854/0x0109802E) [7350*]:
     → "Ahem! Here's plan... You sneak into Yagudo head honcho treasure vault. Then, you steal treasure."
  79: 0x0622 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0623 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Hooknox (ID: 17399854/0x0109802E))
  81: 0x0629 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 82: 0x0638 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7350*]:
+ 82: 0x0638 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7351*]:
     → "Get all that? Oh yeah, there's tricky lock on giant stone coffer, but yours truly already swiped key! Hm? How'd Hooknox manage that? Well, after I scaled 5000-yalm cliff and fought off army of bloodsucking..."
  83: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0640 [0x6B] STOP_AND_IDLE: Hooknox (ID: 17399854/0x0109802E) stops current action and resets to idle (animation="idl0")
  85: 0x0649 [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=5*
  86: 0x0658 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  87: 0x0669 [0x4A] Hooknox (ID: 17399854/0x0109802E) looks at LocalPlayer
- 88: 0x0672 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7351*]:
+ 88: 0x0672 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7352*]:
     → "Wait! First things first. Now, once you get treasure, you come straight back here. If treasure is gold and jewels, Hooknox keep and give you half its value in gil. If treasure is super weapon, you keep and give me half its value in gil."
  89: 0x0679 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x067A [0x1E] EventEntity looks at Hooknox (ID: 17399854/0x0109802E) and starts talking
- 91: 0x067F [0x24] CREATE_DIALOG(message_id=7352*, default_option=0*, option_flags=0*)
+ 91: 0x067F [0x24] CREATE_DIALOG(message_id=7353*, default_option=0*, option_flags=0*)
     → "Sound fair? [Fair enough!/I need to talk to my manager.]"
  92: 0x0686 [0x25] WAIT_DIALOG_SELECT()
  93: 0x0687 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x06AE
  94: 0x068F [0x4B] UPDATE_ENTITY_YAW(entity=Hooknox (ID: 17399854/0x0109802E), yaw=0.0°*)
- 95: 0x0696 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7353*]:
+ 95: 0x0696 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7354*]:
     → "Oh well, I'll send you postcard from summer home I buy on Purgonorgo Isle! Adios!"
  96: 0x069D [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x069E [0x05] Work_Zone[1] = 1
@@ -824,21 +824,21 @@ SUBROUTINE_05EC:
 
 SUBROUTINE_06AE:
 100: 0x06AE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
-101: 0x06BD [0x2B] Hooknox (ID: 17399854/0x0109802E) [7354*]:
+101: 0x06BD [0x2B] Hooknox (ID: 17399854/0x0109802E) [7355*]:
     → "Alright! Now let's get mov... Ummm... You're not thinking of waltzing into head honcho's private quarters looking like that, are you?"
 102: 0x06C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x06C5 [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=5*
 104: 0x06D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
 105: 0x06E5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
-106: 0x06F4 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7355*]:
+106: 0x06F4 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7356*]:
     → "You need disguise, just like Hooknox's (only maybe not as scratchy)."
 107: 0x06FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x06FC [0x6B] STOP_AND_IDLE: Hooknox (ID: 17399854/0x0109802E) stops current action and resets to idle (animation="idl0")
-109: 0x0705 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7356*]:
+109: 0x0705 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7357*]:
     → "I know! Why not ask funny Tarutaru lady at Weavemeister Guild in Windurst?"
 110: 0x070C [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x070D [0x4B] UPDATE_ENTITY_YAW(entity=Hooknox (ID: 17399854/0x0109802E), yaw=0.0°*)
-112: 0x0714 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7357*]:
+112: 0x0714 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7358*]:
     → "Hooknox will wait for you here, but hurry up! We wouldn't want some other Gobbie putting her grimy hands on my...our treasure!"
 113: 0x071B [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x071C [0x06] Work_Zone[1] = 0
@@ -931,7 +931,7 @@ SUBROUTINE_0726:
  11: 0x07E4 [0x4E] SET_ENTITY_HIDE_FLAG: Show Hooknox (ID: 17399854/0x0109802E)
  12: 0x07EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x07FB [0x4A] Hooknox (ID: 17399854/0x0109802E) looks at LocalPlayer
- 14: 0x0804 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7358*]:
+ 14: 0x0804 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7359*]:
     → "It's about time! Didn't your mother tell you it's rude to keep lady waiting?"
  15: 0x080B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x080C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -941,16 +941,16 @@ SUBROUTINE_0726:
  20: 0x084C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x085D [0x1C] WAIT(60* ticks)
  22: 0x0860 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 23: 0x086F [0x2B] Hooknox (ID: 17399854/0x0109802E) [7359*]:
+ 23: 0x086F [0x2B] Hooknox (ID: 17399854/0x0109802E) [7360*]:
     → "[.........?/Wait, you're lady, too! Hooknox couldn't tell with that thing on your.........]"
  24: 0x0876 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0877 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7360*]:
+ 25: 0x0877 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7361*]:
     → "Wah hah hah hah! Nice hat! Hooknox loves funny jokes. Let Hooknox tell next one. Moblin, Orc, and gigantobugard walk into Steaming Sheep Restaurant..."
  26: 0x087E [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x087F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
  28: 0x088E [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x06)
  29: 0x0895 [0x1C] WAIT(30* ticks)
- 30: 0x0898 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7361*]:
+ 30: 0x0898 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7362*]:
     → "Hm? Funny hat is not joke? Oh... Well... I guess Hooknox just has to cross fingers on both hands. Here, take vault key."
  31: 0x089F [0x2A] GET_REQ_LEVEL(level=10, entity_id=Hooknox (ID: 17399854/0x0109802E))
  32: 0x08A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
@@ -958,17 +958,17 @@ SUBROUTINE_0726:
  34: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x08B8 [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=5*
  36: 0x08C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 37: 0x08D8 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7362*]:
+ 37: 0x08D8 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7363*]:
     → "I know it doesn't look much like key, but trust me, it'll work!"
  38: 0x08DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x08E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 40: 0x08EF [0x2B] Hooknox (ID: 17399854/0x0109802E) [7363*]:
+ 40: 0x08EF [0x2B] Hooknox (ID: 17399854/0x0109802E) [7364*]:
     → "Now get going! I'll be guarding entrance to make sure Yagudo don't try to sneak treasure out."
  41: 0x08F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x08F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=5*
  43: 0x0906 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  44: 0x0917 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 45: 0x0926 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7364*]:
+ 45: 0x0926 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7365*]:
     → "What? It could happen!"
  46: 0x092D [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x092E [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x07)
@@ -1032,7 +1032,7 @@ SUBROUTINE_0726:
  10: 0x09CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x09E0 [0x6E] LocalPlayer uses emote 39*
  12: 0x09E7 [0x99] Wait for LocalPlayer animation to complete
- 13: 0x09EC [0x2B] ??? (ID: 17399855/0x0109802F) [7367*]:
+ 13: 0x09EC [0x2B] ??? (ID: 17399855/0x0109802F) [7368*]:
     → "Kahk-ka-ka-ka! You fell into our trap like the filthy rat you are!"
  14: 0x09F3 [0x1C] WAIT(15* ticks)
  15: 0x09F6 [0x1E] EventEntity looks at Yagudo Avatar (ID: 17399856/0x01098030) and starts talking
@@ -1041,7 +1041,7 @@ SUBROUTINE_0726:
  18: 0x0A0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  19: 0x0A1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  20: 0x0A2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 21: 0x0A3E [0x2B] Yagudo Avatar (ID: 17399856/0x01098030) [7368*]:
+ 21: 0x0A3E [0x2B] Yagudo Avatar (ID: 17399856/0x01098030) [7369*]:
     → "We have been waiting for you the moment we realized our key was lost. You have committed a grave offense by setting foot on this soil, heretic! Now it is time you pay for your heinous crime!"
  22: 0x0A45 [0x1C] WAIT(50* ticks)
  23: 0x0A48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1141,7 +1141,7 @@ SUBROUTINE_0726:
  15: 0x0B0B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dead" with entities [Yagudo Avatar (ID: 17399856/0x01098030), Yagudo Avatar (ID: 17399856/0x01098030)]
  16: 0x0B18 [0x4E] SET_ENTITY_HIDE_FLAG: Show Tzee Xicu the Manifest (ID: 17399857/0x01098031)
  17: 0x0B1E [0x4A] Tzee Xicu the Manifest (ID: 17399857/0x01098031) looks at LocalPlayer
- 18: 0x0B27 [0x2B] ??? (ID: 17399855/0x0109802F) [7369*]:
+ 18: 0x0B27 [0x2B] ??? (ID: 17399855/0x0109802F) [7370*]:
     → "Kwah! Hahhmoyarham! Shalmi khoporahi?"
  19: 0x0B2E [0x1C] WAIT(15* ticks)
  20: 0x0B31 [0x79] LocalPlayer looks at Tzee Xicu the Manifest (ID: 17399857/0x01098031) (Basic look)
@@ -1150,7 +1150,7 @@ SUBROUTINE_0726:
  23: 0x0B4B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  24: 0x0B5C [0x27] REQ_SET(priority=0x0A, entity_id=Tzee Xicu the Manifest (ID: 17399857/0x01098031), tag_num=0x02)
  25: 0x0B63 [0x1C] WAIT(60* ticks)
- 26: 0x0B66 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7370*]:
+ 26: 0x0B66 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7371*]:
     → "Ah, one of Altana's children... You come into my sacred abode, steal my treasures, fell my loyal servants... Now here you stand, a quivering fool in the presence of the almighty. Is there something you wish to say before I tear your heart from your chest and drink the blood from its chambers?"
  27: 0x0B6D [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0B6E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Tzee Xicu the Manifest (ID: 17399857/0x01098031))
@@ -1159,15 +1159,15 @@ SUBROUTINE_0726:
  31: 0x0B94 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=5*
  32: 0x0BA3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  33: 0x0BB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 34: 0x0BC5 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7371*]:
+ 34: 0x0BC5 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7372*]:
     → "........."
  35: 0x0BCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0BCD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 37: 0x0BDC [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7372*]:
+ 37: 0x0BDC [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7373*]:
     → "An amusing tale... I see you know little of the grave situation that currently faces the heretics of the East."
  38: 0x0BE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0BE4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 40: 0x0BF3 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7373*]:
+ 40: 0x0BF3 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7374*]:
     → "However, I cannot have foolish rumors staining the reputation of the Theomilitary. While my instincts advise against it, I will enlighten you unto our current state of affairs so you may rightfully inform those who may doubt the motives of Tzee Xicu the almighty."
  41: 0x0BFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0BFB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1175,24 +1175,24 @@ SUBROUTINE_0726:
  44: 0x0C1B [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=5*
  45: 0x0C2A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  46: 0x0C3B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 47: 0x0C4C [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7374*]:
+ 47: 0x0C4C [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7375*]:
     → "For many generations, the Yagudo have had peaceful relations with the Empire of the East. There have even been men among our ranks who crossed the vast oceans and have chosen to serve under the foreign emperor."
  48: 0x0C53 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0C54 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 50: 0x0C63 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7375*]:
+ 50: 0x0C63 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7376*]:
     → "It was one of these men, now a messenger for the Empire, who sought my audience not more than a few moons ago. He bore an urgent missive--a request for help, signed by the emperor himself."
  51: 0x0C6A [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0C6B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 53: 0x0C7A [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7376*]:
+ 53: 0x0C7A [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7377*]:
     → "It seems that the Empire is under attack. A recent decaying of the land caused by an unknown phenomenon has left the nation in ruin and devastated the spirits of its people. The hostile tribes that make their homes on the Empire's borders have sensed this weakness, and have chosen to take advantage of it by launching a series of offensives."
  54: 0x0C81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0C82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  56: 0x0C93 [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [LocalPlayer, LocalPlayer], work=5*
  57: 0x0CA2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 58: 0x0CB3 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7377*]:
+ 58: 0x0CB3 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7378*]:
     → "After reading forth the message, my Yagudo son presented me with an ornate blade forged by the Empire's finest craftsman and begged that I send reinforcements to aid the emperor in his current predicament."
  59: 0x0CBA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0CBB [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7378*]:
+ 60: 0x0CBB [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7379*]:
     → "While it pains me to turn my back on one of my children, the Theomilitary's situation on Mindartia prevented me from providing the service of any more than a handful of loyal men. This most certainly did not warrant the acceptance of such a fine offering, so I sent the messenger back to his leader carrying the blade he brought with him...and my deepest apologies."
  61: 0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0CC3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1200,17 +1200,17 @@ SUBROUTINE_0726:
  64: 0x0CE3 [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=5*
  65: 0x0CF2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  66: 0x0D03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 67: 0x0D14 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7379*]:
+ 67: 0x0D14 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7380*]:
     → "So now do you see? There is no treasure in my vaults. There never was."
  68: 0x0D1B [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0D1C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 70: 0x0D2B [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7380*]:
+ 70: 0x0D2B [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7381*]:
     → "However, I must commend you on your stealth and ingenuity for making it this deep into my lair. You are a fine warrior, and for that I will spare your insignificant life."
  71: 0x0D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0D33 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
  73: 0x0D42 [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=5*
  74: 0x0D51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 75: 0x0D62 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7381*]:
+ 75: 0x0D62 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7382*]:
     → "I shall even offer you a token of admiration. Place that headpiece you carry on the stone tile and I will grant it my blessing."
  76: 0x0D69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0D6A [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
@@ -1307,47 +1307,47 @@ SUBROUTINE_0726:
  14: 0x0E20 [0x99] Wait for LocalPlayer animation to complete
  15: 0x0E25 [0x1C] WAIT(20* ticks)
  16: 0x0E28 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 17: 0x0E37 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7382*]:
+ 17: 0x0E37 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7383*]:
     → "Trust in thine enemy... You children of Altana do not cease to amaze me. You would make a fine member of the Theomilitary."
  18: 0x0E3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0E3F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
  20: 0x0E4E [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=5*
  21: 0x0E5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 22: 0x0E6E [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7383*]:
+ 22: 0x0E6E [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7384*]:
     → "Tsoo Haja! Approach!"
  23: 0x0E75 [0x1C] WAIT(30* ticks)
  24: 0x0E78 [0x4E] SET_ENTITY_HIDE_FLAG: Show Tsoo Haja the Umbra (ID: 17399858/0x01098032)
  25: 0x0E7E [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Tsoo Haja the Umbra (ID: 17399858/0x01098032), tag_num=0x02)
  26: 0x0E85 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0E86 [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7384*]:
+ 27: 0x0E86 [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7385*]:
     → "You called, my lord."
  28: 0x0E8D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0E8E [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7385*]:
+ 29: 0x0E8E [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7386*]:
     → "Tsoo Haja the Umbra. From this day forth, you are to serve this adventurer as you would serve me."
  30: 0x0E95 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0E96 [0x4B] UPDATE_ENTITY_YAW(entity=Tsoo Haja the Umbra (ID: 17399858/0x01098032), yaw=22.5°*)
- 32: 0x0E9D [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7386*]:
+ 32: 0x0E9D [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7387*]:
     → "Kwakwah! But my lord, [he/she] is a filthy heretic..."
  33: 0x0EA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0EA5 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [LocalPlayer, LocalPlayer], work=5*
  35: 0x0EB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  36: 0x0EC5 [0x4B] UPDATE_ENTITY_YAW(entity=Tzee Xicu the Manifest (ID: 17399857/0x01098031), yaw=19.8°*)
- 37: 0x0ECC [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7387*]:
+ 37: 0x0ECC [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7388*]:
     → "Do you defy my will, Tsoo Haja!? Or perhaps you think you are more powerful than the almighty Tzee Xicu!?"
  38: 0x0ED3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0ED4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tsoo Haja the Umbra (ID: 17399858/0x01098032), Tsoo Haja the Umbra (ID: 17399858/0x01098032)], work=254*
- 40: 0x0EE3 [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7388*]:
+ 40: 0x0EE3 [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7389*]:
     → "No, my lord! My apologies... However, what if [he/she] were to ask me to..."
  41: 0x0EEA [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0EEB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tsoo Haja the Umbra (ID: 17399858/0x01098032), Tsoo Haja the Umbra (ID: 17399858/0x01098032)], work=254*
  43: 0x0EFA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  44: 0x0F0B [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=5*
  45: 0x0F1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 46: 0x0F2B [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7389*]:
+ 46: 0x0F2B [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7390*]:
     → "If [he/she] were to order you to attack me? Insolent fool! I am Tzee Xicu the Manifest! Even if my blood were to spill upon the red sands of Aragoneu, the flame of my immortal soul would only burn brighter."
  47: 0x0F32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0F33 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tsoo Haja the Umbra (ID: 17399858/0x01098032), Tsoo Haja the Umbra (ID: 17399858/0x01098032)], work=254*
- 49: 0x0F42 [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7390*]:
+ 49: 0x0F42 [0x2B] Tsoo Haja the Umbra (ID: 17399858/0x01098032) [7391*]:
     → "Yes, my lord!"
  50: 0x0F49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0F4A [0x73] Tsoo Haja the Umbra (ID: 17399858/0x01098032) casts magic 501* on Tsoo Haja the Umbra (ID: 17399858/0x01098032)
@@ -1363,21 +1363,21 @@ SUBROUTINE_0726:
  61: 0x0FB3 [0x79] Tzee Xicu the Manifest (ID: 17399857/0x01098031) looks at LocalPlayer (Basic look)
  62: 0x0FBD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  63: 0x0FCE [0x1C] WAIT(60* ticks)
- 64: 0x0FD1 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7391*]:
+ 64: 0x0FD1 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7392*]:
     → "Let me return your headpiece."
  65: 0x0FD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x0FD9 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7392*]:
+ 66: 0x0FD9 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7393*]:
     → "You may use it to call forth Tsoo Haja. While quite stubborn at times, he is one of my most skilled ninjas. He will serve you loyally for as long as I request it."
  67: 0x0FE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0FE1 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Tzee Xicu the Manifest (ID: 17399857/0x01098031))
  69: 0x0FE7 [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [LocalPlayer, LocalPlayer], work=5*
  70: 0x0FF6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  71: 0x1007 [0x4B] UPDATE_ENTITY_YAW(entity=Tzee Xicu the Manifest (ID: 17399857/0x01098031), yaw=9.9°*)
- 72: 0x100E [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7393*]:
+ 72: 0x100E [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7394*]:
     → "Now begone from my citadel, child of Altana."
  73: 0x1015 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x1016 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
- 75: 0x1025 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7394*]:
+ 75: 0x1025 [0x2B] Tzee Xicu the Manifest (ID: 17399857/0x01098031) [7395*]:
     → "Inform the world that there is no hidden treasure in my vaults, but tell no one of our meeting. And remember that Tzee Xicu the Manifest will not be so forgiving the next time a heretic sets foot on this holy soil."
  76: 0x102C [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x102D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Tzee Xicu the Manifest (ID: 17399857/0x01098031), Tzee Xicu the Manifest (ID: 17399857/0x01098031)], work=254*
@@ -1460,49 +1460,49 @@ SUBROUTINE_0726:
  12: 0x10EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x10FC [0x4A] Hooknox (ID: 17399854/0x0109802E) looks at LocalPlayer
  14: 0x1105 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 15: 0x1114 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7395*]:
+ 15: 0x1114 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7396*]:
     → "That took long enough! What were you doing in there, having cup of San d'Orian tea with Manifest? Anyway, where's riches?"
  16: 0x111B [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x111C [0x6B] STOP_AND_IDLE: Hooknox (ID: 17399854/0x0109802E) stops current action and resets to idle (animation="idl0")
- 18: 0x1125 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7396*]:
+ 18: 0x1125 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7397*]:
     → "........."
  19: 0x112C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x112D [0x52] END_LOAD_SCHEDULER: End scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=5*
  21: 0x113C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  22: 0x114D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 23: 0x115C [0x2B] Hooknox (ID: 17399854/0x0109802E) [7397*]:
+ 23: 0x115C [0x2B] Hooknox (ID: 17399854/0x0109802E) [7398*]:
     → "Eh? Eh? I didn't catch that. ......... Eh? Eh? I didn't catch th..."
  24: 0x1163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x1164 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang1" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=216*
- 26: 0x1173 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7398*]:
+ 26: 0x1173 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7399*]:
     → "No riches!? No riches!? You're pulling Hooknox's ear now, aren't you? You're not... Oh..."
  27: 0x117A [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x117B [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=5*
  29: 0x118A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  30: 0x119B [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x06)
  31: 0x11A2 [0x1C] WAIT(30* ticks)
- 32: 0x11A5 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7399*]:
+ 32: 0x11A5 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7400*]:
     → "Oh well... I guess my summer home on Purgonorgo Isle will just have to wait while longer. Here. You can have this."
  33: 0x11AC [0x2A] GET_REQ_LEVEL(level=10, entity_id=Hooknox (ID: 17399854/0x0109802E))
  34: 0x11B2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
  35: 0x11C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x11C2 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7400*]:
+ 36: 0x11C2 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7401*]:
     → "Thanks for holding up your end of bargain."
  37: 0x11C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x11CA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Hooknox (ID: 17399854/0x0109802E), Hooknox (ID: 17399854/0x0109802E)], work=215*
- 39: 0x11D9 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7401*]:
+ 39: 0x11D9 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7402*]:
     → "What are you so surprised at? We Gobbies believe in stuff like honor, justice...even [love/friendship]... Sometimes..."
  40: 0x11E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x11E1 [0x6B] STOP_AND_IDLE: Hooknox (ID: 17399854/0x0109802E) stops current action and resets to idle (animation="idl0")
  42: 0x11EA [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=5*
  43: 0x11F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  44: 0x120A [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x03)
- 45: 0x1211 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7402*]:
+ 45: 0x1211 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7403*]:
     → "Anyway... I guess I'll be seeing you around...or maybe not."
  46: 0x1218 [0x1C] WAIT(45* ticks)
  47: 0x121B [0x1E] EventEntity looks at Hooknox (ID: 17399854/0x0109802E) and starts talking
  48: 0x1220 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x1221 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7403*]:
+ 49: 0x1221 [0x2B] Hooknox (ID: 17399854/0x0109802E) [7404*]:
     → "But if we do meet up in some dungeon somewhere...do you think you'd want to team up again? For old times' sake? Think about it!"
  50: 0x1228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x1229 [0x27] REQ_SET(priority=0x0A, entity_id=Hooknox (ID: 17399854/0x0109802E), tag_num=0x07)

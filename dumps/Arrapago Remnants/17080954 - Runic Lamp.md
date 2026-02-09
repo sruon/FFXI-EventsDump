@@ -21,10 +21,10 @@
 |---------|-------------|-------------|
 |       0 | 0x0003      |           3 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1D30      |        7472 |
+|       2 | 0x1D31      |        7473 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1D2D      |        7469 |
+|       5 | 0x1D2E      |        7470 |
 |       6 | 0x0004      |           4 |
 |       7 | 0x0005      |           5 |
 |       8 | 0x0006      |           6 |
@@ -46,8 +46,8 @@
 
 ## String References
 
-- **7469**: Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]
-- **7472**: Which restriction will you remove? ($1 left) [None./@/Main/Sub-Weapon./Head/Neck equipment./Body equipment./Hand equipment./Leg/Foot equipment./Back/Waist equipment./Ranged Weapon/Ammo./Earrings/Rings./Support Job./Job Abilities./Spellcasting./Strength./Dexterity./Vitality./Agility./Intelligence./Mind./Charisma./Max HP./Max MP.]
+- **7470**: Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]
+- **7473**: Which restriction will you remove? ($1 left) [None./@/Main/Sub-Weapon./Head/Neck equipment./Body equipment./Hand equipment./Leg/Foot equipment./Back/Waist equipment./Ranged Weapon/Ammo./Earrings/Rings./Support Job./Job Abilities./Spellcasting./Strength./Dexterity./Vitality./Agility./Intelligence./Mind./Charisma./Max HP./Max MP.]
 
 ## Events
 
@@ -202,7 +202,7 @@
 ```
   0: 0x0000 [0x15] Work_Zone[3] /= 3*
   1: 0x0005 [0x03] Work_Zone_1700[15] = 0*
-  2: 0x000A [0x24] CREATE_DIALOG(message_id=7472*, default_option=0*, option_flags=Work_Zone[2])
+  2: 0x000A [0x24] CREATE_DIALOG(message_id=7473*, default_option=0*, option_flags=Work_Zone[2])
     → "Which restriction will you remove? ($1 left) [None./@/Main/Sub-Weapon./Head/Neck equipment./Body equipment./Hand equipment./Leg/Foot equipment./Back/Waist equipment./Ranged Weapon/Ammo./Earrings/Rings./Support Job./Job Abilities./Spellcasting./Strength./Dexterity./Vitality./Agility./Intelligence./Mind./Charisma./Max HP./Max MP.]"
   3: 0x0011 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0012 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0022
@@ -213,7 +213,7 @@
   9: 0x002F [0x01] GOTO 0x082A
  10: 0x0032 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0098
  11: 0x003A [0x03] Work_Zone_1700[15] = 2*
- 12: 0x003F [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+ 12: 0x003F [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
  13: 0x0046 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0047 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006E
@@ -239,7 +239,7 @@ SUBROUTINE_0095:
  28: 0x0095 [0x01] GOTO 0x082A
  29: 0x0098 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00FE
  30: 0x00A0 [0x03] Work_Zone_1700[15] = 3*
- 31: 0x00A5 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+ 31: 0x00A5 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
  32: 0x00AC [0x25] WAIT_DIALOG_SELECT()
  33: 0x00AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D4
@@ -265,7 +265,7 @@ SUBROUTINE_00FB:
  47: 0x00FB [0x01] GOTO 0x082A
  48: 0x00FE [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0164
  49: 0x0106 [0x03] Work_Zone_1700[15] = 4*
- 50: 0x010B [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+ 50: 0x010B [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
  51: 0x0112 [0x25] WAIT_DIALOG_SELECT()
  52: 0x0113 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013A
@@ -291,7 +291,7 @@ SUBROUTINE_0161:
  66: 0x0161 [0x01] GOTO 0x082A
  67: 0x0164 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01CA
  68: 0x016C [0x03] Work_Zone_1700[15] = 5*
- 69: 0x0171 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+ 69: 0x0171 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
  70: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  71: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A0
@@ -317,7 +317,7 @@ SUBROUTINE_01C7:
  85: 0x01C7 [0x01] GOTO 0x082A
  86: 0x01CA [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0230
  87: 0x01D2 [0x03] Work_Zone_1700[15] = 6*
- 88: 0x01D7 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+ 88: 0x01D7 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
  89: 0x01DE [0x25] WAIT_DIALOG_SELECT()
  90: 0x01DF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0206
@@ -343,7 +343,7 @@ SUBROUTINE_022D:
 104: 0x022D [0x01] GOTO 0x082A
 105: 0x0230 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0296
 106: 0x0238 [0x03] Work_Zone_1700[15] = 7*
-107: 0x023D [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+107: 0x023D [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 108: 0x0244 [0x25] WAIT_DIALOG_SELECT()
 109: 0x0245 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x026C
@@ -369,7 +369,7 @@ SUBROUTINE_0293:
 123: 0x0293 [0x01] GOTO 0x082A
 124: 0x0296 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x02FC
 125: 0x029E [0x03] Work_Zone_1700[15] = 8*
-126: 0x02A3 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+126: 0x02A3 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 127: 0x02AA [0x25] WAIT_DIALOG_SELECT()
 128: 0x02AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D2
@@ -395,7 +395,7 @@ SUBROUTINE_02F9:
 142: 0x02F9 [0x01] GOTO 0x082A
 143: 0x02FC [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0362
 144: 0x0304 [0x03] Work_Zone_1700[15] = 9*
-145: 0x0309 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+145: 0x0309 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 146: 0x0310 [0x25] WAIT_DIALOG_SELECT()
 147: 0x0311 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0338
@@ -421,7 +421,7 @@ SUBROUTINE_035F:
 161: 0x035F [0x01] GOTO 0x082A
 162: 0x0362 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x03C8
 163: 0x036A [0x03] Work_Zone_1700[15] = 10*
-164: 0x036F [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+164: 0x036F [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 165: 0x0376 [0x25] WAIT_DIALOG_SELECT()
 166: 0x0377 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x039E
@@ -447,7 +447,7 @@ SUBROUTINE_03C5:
 180: 0x03C5 [0x01] GOTO 0x082A
 181: 0x03C8 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x042E
 182: 0x03D0 [0x03] Work_Zone_1700[15] = 11*
-183: 0x03D5 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+183: 0x03D5 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 184: 0x03DC [0x25] WAIT_DIALOG_SELECT()
 185: 0x03DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0404
@@ -473,7 +473,7 @@ SUBROUTINE_042B:
 199: 0x042B [0x01] GOTO 0x082A
 200: 0x042E [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0494
 201: 0x0436 [0x03] Work_Zone_1700[15] = 12*
-202: 0x043B [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+202: 0x043B [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 203: 0x0442 [0x25] WAIT_DIALOG_SELECT()
 204: 0x0443 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046A
@@ -499,7 +499,7 @@ SUBROUTINE_0491:
 218: 0x0491 [0x01] GOTO 0x082A
 219: 0x0494 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x04FA
 220: 0x049C [0x03] Work_Zone_1700[15] = 13*
-221: 0x04A1 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+221: 0x04A1 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 222: 0x04A8 [0x25] WAIT_DIALOG_SELECT()
 223: 0x04A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04D0
@@ -525,7 +525,7 @@ SUBROUTINE_04F7:
 237: 0x04F7 [0x01] GOTO 0x082A
 238: 0x04FA [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0560
 239: 0x0502 [0x03] Work_Zone_1700[15] = 14*
-240: 0x0507 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+240: 0x0507 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 241: 0x050E [0x25] WAIT_DIALOG_SELECT()
 242: 0x050F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0536
@@ -551,7 +551,7 @@ SUBROUTINE_055D:
 256: 0x055D [0x01] GOTO 0x082A
 257: 0x0560 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x05C6
 258: 0x0568 [0x03] Work_Zone_1700[15] = 15*
-259: 0x056D [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+259: 0x056D [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 260: 0x0574 [0x25] WAIT_DIALOG_SELECT()
 261: 0x0575 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x059C
@@ -577,7 +577,7 @@ SUBROUTINE_05C3:
 275: 0x05C3 [0x01] GOTO 0x082A
 276: 0x05C6 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x062C
 277: 0x05CE [0x03] Work_Zone_1700[15] = 16*
-278: 0x05D3 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+278: 0x05D3 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 279: 0x05DA [0x25] WAIT_DIALOG_SELECT()
 280: 0x05DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0602
@@ -603,7 +603,7 @@ SUBROUTINE_0629:
 294: 0x0629 [0x01] GOTO 0x082A
 295: 0x062C [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0692
 296: 0x0634 [0x03] Work_Zone_1700[15] = 17*
-297: 0x0639 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+297: 0x0639 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 298: 0x0640 [0x25] WAIT_DIALOG_SELECT()
 299: 0x0641 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0668
@@ -629,7 +629,7 @@ SUBROUTINE_068F:
 313: 0x068F [0x01] GOTO 0x082A
 314: 0x0692 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x06F8
 315: 0x069A [0x03] Work_Zone_1700[15] = 18*
-316: 0x069F [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+316: 0x069F [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 317: 0x06A6 [0x25] WAIT_DIALOG_SELECT()
 318: 0x06A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06CE
@@ -655,7 +655,7 @@ SUBROUTINE_06F5:
 332: 0x06F5 [0x01] GOTO 0x082A
 333: 0x06F8 [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x075E
 334: 0x0700 [0x03] Work_Zone_1700[15] = 19*
-335: 0x0705 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+335: 0x0705 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 336: 0x070C [0x25] WAIT_DIALOG_SELECT()
 337: 0x070D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0734
@@ -681,7 +681,7 @@ SUBROUTINE_075B:
 351: 0x075B [0x01] GOTO 0x082A
 352: 0x075E [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x07C4
 353: 0x0766 [0x03] Work_Zone_1700[15] = 20*
-354: 0x076B [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+354: 0x076B [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 355: 0x0772 [0x25] WAIT_DIALOG_SELECT()
 356: 0x0773 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x079A
@@ -707,7 +707,7 @@ SUBROUTINE_07C1:
 370: 0x07C1 [0x01] GOTO 0x082A
 371: 0x07C4 [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x082A
 372: 0x07CC [0x03] Work_Zone_1700[15] = 21*
-373: 0x07D1 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+373: 0x07D1 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? [Yes./No.]"
 374: 0x07D8 [0x25] WAIT_DIALOG_SELECT()
 375: 0x07D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0800

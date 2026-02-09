@@ -24,7 +24,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FC0      |        8128 |
+|       0 | 0x1FC1      |        8129 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x40000000  |  1073741824 |
@@ -36,7 +36,7 @@
 |       9 | 0x0033      |          51 |
 |      10 | 0x001E      |          30 |
 |      11 | 0x00C8      |         200 |
-|      12 | 0x2021      |        8225 |
+|      12 | 0x2022      |        8226 |
 |      13 | 0x22BBB     |      142267 |
 |      14 | 0xFFFDDCA5  |  4294827173 |
 |      15 | 0x07FB      |        2043 |
@@ -53,124 +53,124 @@
 |      26 | 0x0096      |         150 |
 |      27 | 0x000F      |          15 |
 |      28 | 0x002D      |          45 |
-|      29 | 0x1F54      |        8020 |
+|      29 | 0x1F55      |        8021 |
 |      30 | 0x0002      |           2 |
-|      31 | 0x1F55      |        8021 |
-|      32 | 0x1F56      |        8022 |
-|      33 | 0x1F57      |        8023 |
-|      34 | 0x1F5A      |        8026 |
-|      35 | 0x1F5B      |        8027 |
+|      31 | 0x1F56      |        8022 |
+|      32 | 0x1F57      |        8023 |
+|      33 | 0x1F58      |        8024 |
+|      34 | 0x1F5B      |        8027 |
+|      35 | 0x1F5C      |        8028 |
 |      36 | 0x0007      |           7 |
-|      37 | 0x1F5C      |        8028 |
-|      38 | 0x1F5D      |        8029 |
+|      37 | 0x1F5D      |        8029 |
+|      38 | 0x1F5E      |        8030 |
 |      39 | 0x0009      |           9 |
-|      40 | 0x1F5E      |        8030 |
+|      40 | 0x1F5F      |        8031 |
 |      41 | 0x000A      |          10 |
-|      42 | 0x1F58      |        8024 |
+|      42 | 0x1F59      |        8025 |
 |      43 | 0x000B      |          11 |
-|      44 | 0x1F59      |        8025 |
+|      44 | 0x1F5A      |        8026 |
 |      45 | 0x000C      |          12 |
-|      46 | 0x1F5F      |        8031 |
+|      46 | 0x1F60      |        8032 |
 |      47 | 0x005A      |          90 |
-|      48 | 0x1F60      |        8032 |
-|      49 | 0x1F61      |        8033 |
-|      50 | 0x1F62      |        8034 |
-|      51 | 0x1F63      |        8035 |
-|      52 | 0x1F66      |        8038 |
-|      53 | 0x1F67      |        8039 |
-|      54 | 0x1F68      |        8040 |
-|      55 | 0x1F69      |        8041 |
-|      56 | 0x1F6A      |        8042 |
-|      57 | 0x1F64      |        8036 |
-|      58 | 0x1F65      |        8037 |
-|      59 | 0x1F6B      |        8043 |
-|      60 | 0x1F6C      |        8044 |
-|      61 | 0x1F78      |        8056 |
-|      62 | 0x1F6D      |        8045 |
-|      63 | 0x1F79      |        8057 |
-|      64 | 0x1F6E      |        8046 |
-|      65 | 0x1F7A      |        8058 |
-|      66 | 0x1F6F      |        8047 |
-|      67 | 0x1F7B      |        8059 |
-|      68 | 0x1F72      |        8050 |
-|      69 | 0x1F7E      |        8062 |
-|      70 | 0x1F73      |        8051 |
-|      71 | 0x1F7F      |        8063 |
-|      72 | 0x1F74      |        8052 |
-|      73 | 0x1F80      |        8064 |
-|      74 | 0x1F75      |        8053 |
-|      75 | 0x1F81      |        8065 |
-|      76 | 0x1F76      |        8054 |
-|      77 | 0x1F82      |        8066 |
-|      78 | 0x1F70      |        8048 |
-|      79 | 0x1F7C      |        8060 |
-|      80 | 0x1F71      |        8049 |
-|      81 | 0x1F7D      |        8061 |
-|      82 | 0x1F77      |        8055 |
-|      83 | 0x1F83      |        8067 |
+|      48 | 0x1F61      |        8033 |
+|      49 | 0x1F62      |        8034 |
+|      50 | 0x1F63      |        8035 |
+|      51 | 0x1F64      |        8036 |
+|      52 | 0x1F67      |        8039 |
+|      53 | 0x1F68      |        8040 |
+|      54 | 0x1F69      |        8041 |
+|      55 | 0x1F6A      |        8042 |
+|      56 | 0x1F6B      |        8043 |
+|      57 | 0x1F65      |        8037 |
+|      58 | 0x1F66      |        8038 |
+|      59 | 0x1F6C      |        8044 |
+|      60 | 0x1F6D      |        8045 |
+|      61 | 0x1F79      |        8057 |
+|      62 | 0x1F6E      |        8046 |
+|      63 | 0x1F7A      |        8058 |
+|      64 | 0x1F6F      |        8047 |
+|      65 | 0x1F7B      |        8059 |
+|      66 | 0x1F70      |        8048 |
+|      67 | 0x1F7C      |        8060 |
+|      68 | 0x1F73      |        8051 |
+|      69 | 0x1F7F      |        8063 |
+|      70 | 0x1F74      |        8052 |
+|      71 | 0x1F80      |        8064 |
+|      72 | 0x1F75      |        8053 |
+|      73 | 0x1F81      |        8065 |
+|      74 | 0x1F76      |        8054 |
+|      75 | 0x1F82      |        8066 |
+|      76 | 0x1F77      |        8055 |
+|      77 | 0x1F83      |        8067 |
+|      78 | 0x1F71      |        8049 |
+|      79 | 0x1F7D      |        8061 |
+|      80 | 0x1F72      |        8050 |
+|      81 | 0x1F7E      |        8062 |
+|      82 | 0x1F78      |        8056 |
+|      83 | 0x1F84      |        8068 |
 |      84 | 0x02DD      |         733 |
-|      85 | 0x1F84      |        8068 |
-|      86 | 0x1F85      |        8069 |
-|      87 | 0x1F86      |        8070 |
-|      88 | 0x1F87      |        8071 |
-|      89 | 0x1F8A      |        8074 |
-|      90 | 0x1F8B      |        8075 |
-|      91 | 0x1F8C      |        8076 |
-|      92 | 0x1F8D      |        8077 |
-|      93 | 0x1F8E      |        8078 |
-|      94 | 0x1F88      |        8072 |
-|      95 | 0x1F89      |        8073 |
-|      96 | 0x1F8F      |        8079 |
+|      85 | 0x1F85      |        8069 |
+|      86 | 0x1F86      |        8070 |
+|      87 | 0x1F87      |        8071 |
+|      88 | 0x1F88      |        8072 |
+|      89 | 0x1F8B      |        8075 |
+|      90 | 0x1F8C      |        8076 |
+|      91 | 0x1F8D      |        8077 |
+|      92 | 0x1F8E      |        8078 |
+|      93 | 0x1F8F      |        8079 |
+|      94 | 0x1F89      |        8073 |
+|      95 | 0x1F8A      |        8074 |
+|      96 | 0x1F90      |        8080 |
 |      97 | 0x001D      |          29 |
 |      98 | 0x00B4      |         180 |
-|      99 | 0x1F90      |        8080 |
-|     100 | 0x1F91      |        8081 |
-|     101 | 0x1F92      |        8082 |
-|     102 | 0x1F93      |        8083 |
-|     103 | 0x1F96      |        8086 |
-|     104 | 0x1F97      |        8087 |
-|     105 | 0x1F98      |        8088 |
-|     106 | 0x1F99      |        8089 |
-|     107 | 0x1F9A      |        8090 |
-|     108 | 0x1F94      |        8084 |
-|     109 | 0x1F95      |        8085 |
-|     110 | 0x1F9B      |        8091 |
-|     111 | 0x1F9C      |        8092 |
-|     112 | 0x1FA8      |        8104 |
-|     113 | 0x1F9D      |        8093 |
-|     114 | 0x1FA9      |        8105 |
-|     115 | 0x1F9E      |        8094 |
-|     116 | 0x1FAA      |        8106 |
-|     117 | 0x1F9F      |        8095 |
-|     118 | 0x1FAB      |        8107 |
-|     119 | 0x1FA2      |        8098 |
-|     120 | 0x1FAE      |        8110 |
-|     121 | 0x1FA3      |        8099 |
-|     122 | 0x1FAF      |        8111 |
-|     123 | 0x1FA4      |        8100 |
-|     124 | 0x1FB0      |        8112 |
-|     125 | 0x1FA5      |        8101 |
-|     126 | 0x1FB1      |        8113 |
-|     127 | 0x1FA6      |        8102 |
-|     128 | 0x1FB2      |        8114 |
-|     129 | 0x1FA0      |        8096 |
-|     130 | 0x1FAC      |        8108 |
-|     131 | 0x1FA1      |        8097 |
-|     132 | 0x1FAD      |        8109 |
-|     133 | 0x1FA7      |        8103 |
-|     134 | 0x1FB3      |        8115 |
-|     135 | 0x1FB4      |        8116 |
-|     136 | 0x1FB5      |        8117 |
-|     137 | 0x1FB6      |        8118 |
-|     138 | 0x1FB7      |        8119 |
-|     139 | 0x1FBA      |        8122 |
-|     140 | 0x1FBB      |        8123 |
-|     141 | 0x1FBC      |        8124 |
-|     142 | 0x1FBD      |        8125 |
-|     143 | 0x1FBE      |        8126 |
-|     144 | 0x1FB8      |        8120 |
-|     145 | 0x1FB9      |        8121 |
-|     146 | 0x1FBF      |        8127 |
+|      99 | 0x1F91      |        8081 |
+|     100 | 0x1F92      |        8082 |
+|     101 | 0x1F93      |        8083 |
+|     102 | 0x1F94      |        8084 |
+|     103 | 0x1F97      |        8087 |
+|     104 | 0x1F98      |        8088 |
+|     105 | 0x1F99      |        8089 |
+|     106 | 0x1F9A      |        8090 |
+|     107 | 0x1F9B      |        8091 |
+|     108 | 0x1F95      |        8085 |
+|     109 | 0x1F96      |        8086 |
+|     110 | 0x1F9C      |        8092 |
+|     111 | 0x1F9D      |        8093 |
+|     112 | 0x1FA9      |        8105 |
+|     113 | 0x1F9E      |        8094 |
+|     114 | 0x1FAA      |        8106 |
+|     115 | 0x1F9F      |        8095 |
+|     116 | 0x1FAB      |        8107 |
+|     117 | 0x1FA0      |        8096 |
+|     118 | 0x1FAC      |        8108 |
+|     119 | 0x1FA3      |        8099 |
+|     120 | 0x1FAF      |        8111 |
+|     121 | 0x1FA4      |        8100 |
+|     122 | 0x1FB0      |        8112 |
+|     123 | 0x1FA5      |        8101 |
+|     124 | 0x1FB1      |        8113 |
+|     125 | 0x1FA6      |        8102 |
+|     126 | 0x1FB2      |        8114 |
+|     127 | 0x1FA7      |        8103 |
+|     128 | 0x1FB3      |        8115 |
+|     129 | 0x1FA1      |        8097 |
+|     130 | 0x1FAD      |        8109 |
+|     131 | 0x1FA2      |        8098 |
+|     132 | 0x1FAE      |        8110 |
+|     133 | 0x1FA8      |        8104 |
+|     134 | 0x1FB4      |        8116 |
+|     135 | 0x1FB5      |        8117 |
+|     136 | 0x1FB6      |        8118 |
+|     137 | 0x1FB7      |        8119 |
+|     138 | 0x1FB8      |        8120 |
+|     139 | 0x1FBB      |        8123 |
+|     140 | 0x1FBC      |        8124 |
+|     141 | 0x1FBD      |        8125 |
+|     142 | 0x1FBE      |        8126 |
+|     143 | 0x1FBF      |        8127 |
+|     144 | 0x1FB9      |        8121 |
+|     145 | 0x1FBA      |        8122 |
+|     146 | 0x1FC0      |        8128 |
 |     147 | 0x00C9      |         201 |
 |     148 | 0x005F      |          95 |
 |     149 | 0x0064      |         100 |
@@ -400,8 +400,8 @@
 
 ## String References
 
-- **8128**: Pass through the door? [Yes./No.]
-- **8225**: Exit through the door? [Yes./No.]
+- **8129**: Pass through the door? [Yes./No.]
+- **8226**: Exit through the door? [Yes./No.]
 
 ## Events
 
@@ -477,7 +477,7 @@
 #### Opcodes
 
 ```
-  0: 0x0003 [0x24] CREATE_DIALOG(message_id=8128*, default_option=1*, option_flags=0*)
+  0: 0x0003 [0x24] CREATE_DIALOG(message_id=8129*, default_option=1*, option_flags=0*)
     → "Pass through the door? [Yes./No.]"
   1: 0x000A [0x25] WAIT_DIALOG_SELECT()
   2: 0x000B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001E
@@ -544,7 +544,7 @@ SUBROUTINE_0072:
 #### Opcodes
 
 ```
-  0: 0x0087 [0x24] CREATE_DIALOG(message_id=8225*, default_option=1*, option_flags=0*)
+  0: 0x0087 [0x24] CREATE_DIALOG(message_id=8226*, default_option=1*, option_flags=0*)
     → "Exit through the door? [Yes./No.]"
   1: 0x008E [0x25] WAIT_DIALOG_SELECT()
   2: 0x008F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00A2
@@ -901,62 +901,62 @@ SUBROUTINE_054A:
 121: 0x055B [0x4D] EventEntity->StatusEvent = 9 // Close door
 122: 0x055C [0x1A] CALL_SUBROUTINE(address=0x2774)
 123: 0x055F [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0572
-124: 0x0567 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8020*]:
+124: 0x0567 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8021*]:
     → "<Player>! <Player>! Are you okay? Open your eyes!"
 125: 0x056E [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x056F [0x01] GOTO 0x0643
 127: 0x0572 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0585
-128: 0x057A [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8021*]:
+128: 0x057A [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8022*]:
     → "<Player>! <Player>! Don't give up on me! Open your eyes!"
 129: 0x0581 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0582 [0x01] GOTO 0x0643
 131: 0x0585 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0598
-132: 0x058D [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8022*]:
+132: 0x058D [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8023*]:
     → "<Player>! Are you hurt? Look at me!"
 133: 0x0594 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0595 [0x01] GOTO 0x0643
 135: 0x0598 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x05AB
-136: 0x05A0 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8023*]:
+136: 0x05A0 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8024*]:
     → "<Player>! <Player>! Are you injured? Open your eyes!"
 137: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x05A8 [0x01] GOTO 0x0643
 139: 0x05AB [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x05BE
-140: 0x05B3 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8026*]:
+140: 0x05B3 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8027*]:
     → "<Player>! <Player>! Are you okay? Open your eyes!"
 141: 0x05BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x05BB [0x01] GOTO 0x0643
 143: 0x05BE [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x05D1
-144: 0x05C6 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8027*]:
+144: 0x05C6 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8028*]:
     → "<Player>! <Player>! Are you hurt!? Open your eyes!"
 145: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x05CE [0x01] GOTO 0x0643
 147: 0x05D1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x05E4
-148: 0x05D9 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8028*]:
+148: 0x05D9 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8029*]:
     → "<Player>! <Player>! Are you hurt? Look at me!"
 149: 0x05E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x05E1 [0x01] GOTO 0x0643
 151: 0x05E4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x05F7
-152: 0x05EC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8029*]:
+152: 0x05EC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8030*]:
     → "<Player>! <Player>! Oh no, are you okay? Open your eyes for me!"
 153: 0x05F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x05F4 [0x01] GOTO 0x0643
 155: 0x05F7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x060A
-156: 0x05FF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8030*]:
+156: 0x05FF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8031*]:
     → "<Player>! <Player>! Are you injured? Open your eyes!"
 157: 0x0606 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x0607 [0x01] GOTO 0x0643
 159: 0x060A [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x061D
-160: 0x0612 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8024*]:
+160: 0x0612 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8025*]:
     → "<Player>! <Player>! Are you okay!? Open you eyes!"
 161: 0x0619 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x061A [0x01] GOTO 0x0643
 163: 0x061D [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0630
-164: 0x0625 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8025*]:
+164: 0x0625 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8026*]:
     → "<Player>! <Player>! Are you okay!? Come on, open your eyes!"
 165: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x062D [0x01] GOTO 0x0643
 167: 0x0630 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0643
-168: 0x0638 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8031*]:
+168: 0x0638 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8032*]:
     → "<Player>! <Player>! Are you hurt? Talk to me!"
 169: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0640 [0x01] GOTO 0x0643
@@ -987,62 +987,62 @@ SUBROUTINE_06EF:
 191: 0x06F2 [0x1C] WAIT(90* ticks)
 192: 0x06F5 [0x1A] CALL_SUBROUTINE(address=0x2774)
 193: 0x06F8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x070B
-194: 0x0700 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8032*]:
+194: 0x0700 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8033*]:
     → "Phew, you seem okay."
 195: 0x0707 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0708 [0x01] GOTO 0x07DC
 197: 0x070B [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x071E
-198: 0x0713 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8033*]:
+198: 0x0713 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8034*]:
     → "Don't worry me like that!"
 199: 0x071A [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x071B [0x01] GOTO 0x07DC
 201: 0x071E [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0731
-202: 0x0726 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8034*]:
+202: 0x0726 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8035*]:
     → "You seem fine. Good."
 203: 0x072D [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x072E [0x01] GOTO 0x07DC
 205: 0x0731 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0744
-206: 0x0739 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8035*]:
+206: 0x0739 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8036*]:
     → "You appear unhurt. Excellent."
 207: 0x0740 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0741 [0x01] GOTO 0x07DC
 209: 0x0744 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0757
-210: 0x074C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8038*]:
+210: 0x074C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8039*]:
     → "You seem okay. Whew!"
 211: 0x0753 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x0754 [0x01] GOTO 0x07DC
 213: 0x0757 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x076A
-214: 0x075F [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8039*]:
+214: 0x075F [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8040*]:
     → "Oh, you're okay! Super! Fantastic!"
 215: 0x0766 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x0767 [0x01] GOTO 0x07DC
 217: 0x076A [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x077D
-218: 0x0772 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8040*]:
+218: 0x0772 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8041*]:
     → "You seem to be okay. Good."
 219: 0x0779 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x077A [0x01] GOTO 0x07DC
 221: 0x077D [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0790
-222: 0x0785 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8041*]:
+222: 0x0785 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8042*]:
     → "You're okay! Yaaay!"
 223: 0x078C [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x078D [0x01] GOTO 0x07DC
 225: 0x0790 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x07A3
-226: 0x0798 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8042*]:
+226: 0x0798 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8043*]:
     → "You appear unhurt. Excellent."
 227: 0x079F [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x07A0 [0x01] GOTO 0x07DC
 229: 0x07A3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x07B6
-230: 0x07AB [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8036*]:
+230: 0x07AB [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8037*]:
     → "You had me worried, <Player>. I'm glad you're okay."
 231: 0x07B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x07B3 [0x01] GOTO 0x07DC
 233: 0x07B6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x07C9
-234: 0x07BE [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8037*]:
+234: 0x07BE [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8038*]:
     → "<Player>! How are you feeling? It's good to have you back."
 235: 0x07C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x07C6 [0x01] GOTO 0x07DC
 237: 0x07C9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x07DC
-238: 0x07D1 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8043*]:
+238: 0x07D1 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8044*]:
     → "You're okay... Don't make me worry like that again."
 239: 0x07D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x07D9 [0x01] GOTO 0x07DC
@@ -1080,98 +1080,98 @@ SUBROUTINE_0873:
 268: 0x08B6 [0x1A] CALL_SUBROUTINE(address=0x1207)
 269: 0x08B9 [0x1A] CALL_SUBROUTINE(address=0x2774)
 270: 0x08BC [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x08D7
-271: 0x08C4 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8044*]:
+271: 0x08C4 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8045*]:
     → "When the monster attacked you, I heard your voice through the signal pearl and came running to help."
 272: 0x08CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-273: 0x08CC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8056*]:
+273: 0x08CC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8057*]:
     → "I'm glad you're okay."
 274: 0x08D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 275: 0x08D4 [0x01] GOTO 0x0A00
 276: 0x08D7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x08F2
-277: 0x08DF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8045*]:
+277: 0x08DF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8046*]:
     → "I heard you getting attacked by a monster through the signal pearl and got here as fast as I could!"
 278: 0x08E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-279: 0x08E7 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8057*]:
+279: 0x08E7 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8058*]:
     → "Whew, glad you aren't hurt!"
 280: 0x08EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x08EF [0x01] GOTO 0x0A00
 282: 0x08F2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x090D
-283: 0x08FA [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8046*]:
+283: 0x08FA [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8047*]:
     → "I heard you through the signal pearl. You seemed to be in trouble, so I came to help."
 284: 0x0901 [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x0902 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8058*]:
+285: 0x0902 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8059*]:
     → "Anyway, it's good that you're not hurt."
 286: 0x0909 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x090A [0x01] GOTO 0x0A00
 288: 0x090D [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0928
-289: 0x0915 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8047*]:
+289: 0x0915 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8048*]:
     → "I heard you through the signal pearl, and you seemed to be in need of aid."
 290: 0x091C [0x23] WAIT_FOR_DIALOG_INTERACTION
-291: 0x091D [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8059*]:
+291: 0x091D [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8060*]:
     → "I am glad you are unscathed."
 292: 0x0924 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0925 [0x01] GOTO 0x0A00
 294: 0x0928 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0943
-295: 0x0930 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8050*]:
+295: 0x0930 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8051*]:
     → "I came to help as soon as I heard through the signal pearl that you were in trouble."
 296: 0x0937 [0x23] WAIT_FOR_DIALOG_INTERACTION
-297: 0x0938 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8062*]:
+297: 0x0938 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8063*]:
     → "I'm so glad you're okay."
 298: 0x093F [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x0940 [0x01] GOTO 0x0A00
 300: 0x0943 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x095E
-301: 0x094B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8051*]:
+301: 0x094B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8052*]:
     → "I heard you getting attacked through the signal pearl! So I had to run over here to make sure you're okay!"
 302: 0x0952 [0x23] WAIT_FOR_DIALOG_INTERACTION
-303: 0x0953 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8063*]:
+303: 0x0953 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8064*]:
     → "I'm sooo glad you're not hurt!"
 304: 0x095A [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x095B [0x01] GOTO 0x0A00
 306: 0x095E [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0979
-307: 0x0966 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8052*]:
+307: 0x0966 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8053*]:
     → "I heard you through the signal pearl and sensed danger. That is why I am here now."
 308: 0x096D [0x23] WAIT_FOR_DIALOG_INTERACTION
-309: 0x096E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8064*]:
+309: 0x096E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8065*]:
     → "In any case, I am glad that you are well."
 310: 0x0975 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x0976 [0x01] GOTO 0x0A00
 312: 0x0979 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0994
-313: 0x0981 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8053*]:
+313: 0x0981 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8054*]:
     → "I heard through the signal pearl that you were getting attacked, and I was sooo worried!"
 314: 0x0988 [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x0989 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8065*]:
+315: 0x0989 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8066*]:
     → "I'm so happy that you're okay!"
 316: 0x0990 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0991 [0x01] GOTO 0x0A00
 318: 0x0994 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x09AF
-319: 0x099C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8054*]:
+319: 0x099C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8055*]:
     → "I heard you through the signal pearl, and you seemed to be in need of aid."
 320: 0x09A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x09A4 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8066*]:
+321: 0x09A4 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8067*]:
     → "I am glad you are unscathed."
 322: 0x09AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x09AC [0x01] GOTO 0x0A00
 324: 0x09AF [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x09CA
-325: 0x09B7 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8048*]:
+325: 0x09B7 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8049*]:
     → "I heard your voice through the signal pearl. That's how I knew you were in trouble."
 326: 0x09BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-327: 0x09BF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8060*]:
+327: 0x09BF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8061*]:
     → "I'm glad you're not hurt."
 328: 0x09C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x09C7 [0x01] GOTO 0x0A00
 330: 0x09CA [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x09E5
-331: 0x09D2 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8049*]:
+331: 0x09D2 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8050*]:
     → "When the monster attacked you, I heard your voice through the signal pearl and came here as fast as I could."
 332: 0x09D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-333: 0x09DA [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8061*]:
+333: 0x09DA [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8062*]:
     → "I'm so relieved you're okay!"
 334: 0x09E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x09E2 [0x01] GOTO 0x0A00
 336: 0x09E5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0A00
-337: 0x09ED [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8055*]:
+337: 0x09ED [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8056*]:
     → "Your voice carried through signal pearl when the monster attacked. That's how I knew to come."
 338: 0x09F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-339: 0x09F5 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8067*]:
+339: 0x09F5 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8068*]:
     → "I'm glad you're safe."
 340: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x09FD [0x01] GOTO 0x0A00
@@ -1181,62 +1181,62 @@ SUBROUTINE_0A00:
 343: 0x0A05 [0x79] Unnamed NPC (ID: 17396249/0x01097219) looks at Brass Door (ID: 17396185/0x010971D9) (Basic look)
 344: 0x0A0F [0x1A] CALL_SUBROUTINE(address=0x2774)
 345: 0x0A12 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0A25
-346: 0x0A1A [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8068*]:
+346: 0x0A1A [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8069*]:
     → "Anyway, should we look for the $3? It must be here somewhere..."
 347: 0x0A21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x0A22 [0x01] GOTO 0x0AF6
 349: 0x0A25 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0A38
-350: 0x0A2D [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8069*]:
+350: 0x0A2D [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8070*]:
     → "You came to look for the $3, right? It has got to be here somewhere!"
 351: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x0A35 [0x01] GOTO 0x0AF6
 353: 0x0A38 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0A4B
-354: 0x0A40 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8070*]:
+354: 0x0A40 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8071*]:
     → "You came here to search for the $3, didn't you? It should be here, somewhere."
 355: 0x0A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x0A48 [0x01] GOTO 0x0AF6
 357: 0x0A4B [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0A5E
-358: 0x0A53 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8071*]:
+358: 0x0A53 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8072*]:
     → "I assume you came to search for the $3. It should be in the vicinity."
 359: 0x0A5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x0A5B [0x01] GOTO 0x0AF6
 361: 0x0A5E [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0A71
-362: 0x0A66 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8074*]:
+362: 0x0A66 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8075*]:
     → "So you came looking for the $3, right? It must be here somewhere..."
 363: 0x0A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0A6E [0x01] GOTO 0x0AF6
 365: 0x0A71 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0A84
-366: 0x0A79 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8075*]:
+366: 0x0A79 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8076*]:
     → "Hey, you came to look for the $3, right? I'm sure it's around here somewhere!"
 367: 0x0A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0A81 [0x01] GOTO 0x0AF6
 369: 0x0A84 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0A97
-370: 0x0A8C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8076*]:
+370: 0x0A8C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8077*]:
     → "You were looking for the $3, I see. Perhaps it is somewhere around here."
 371: 0x0A93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 372: 0x0A94 [0x01] GOTO 0x0AF6
 373: 0x0A97 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0AAA
-374: 0x0A9F [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8077*]:
+374: 0x0A9F [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8078*]:
     → "Hey, aren't you looking for the $3? I bet we can find it around here somewhere!"
 375: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 376: 0x0AA7 [0x01] GOTO 0x0AF6
 377: 0x0AAA [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0ABD
-378: 0x0AB2 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8078*]:
+378: 0x0AB2 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8079*]:
     → "I assume you came to search for the $3. It should be in the vicinity."
 379: 0x0AB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x0ABA [0x01] GOTO 0x0AF6
 381: 0x0ABD [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0AD0
-382: 0x0AC5 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8072*]:
+382: 0x0AC5 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8073*]:
     → "You came here to search for the $3, didn't you? It should be somewhere nearby."
 383: 0x0ACC [0x23] WAIT_FOR_DIALOG_INTERACTION
 384: 0x0ACD [0x01] GOTO 0x0AF6
 385: 0x0AD0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0AE3
-386: 0x0AD8 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8073*]:
+386: 0x0AD8 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8074*]:
     → "Now, the reason you came here, was to find the $3, right? It has to be around here somewhere."
 387: 0x0ADF [0x23] WAIT_FOR_DIALOG_INTERACTION
 388: 0x0AE0 [0x01] GOTO 0x0AF6
 389: 0x0AE3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0AF6
-390: 0x0AEB [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8079*]:
+390: 0x0AEB [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8080*]:
     → "I gather you came here to search for the $3. It cannot be far away."
 391: 0x0AF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 392: 0x0AF3 [0x01] GOTO 0x0AF6
@@ -2661,62 +2661,62 @@ SUBROUTINE_0AF6:
  46: 0x0C5C [0x4A] Unnamed NPC (ID: 17396249/0x01097219) looks at LocalPlayer
  47: 0x0C65 [0x1A] CALL_SUBROUTINE(address=0x2774)
  48: 0x0C68 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0C7B
- 49: 0x0C70 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8080*]:
+ 49: 0x0C70 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8081*]:
     → "H-how did you get here...?"
  50: 0x0C77 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0C78 [0x01] GOTO 0x0D4C
  52: 0x0C7B [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0C8E
- 53: 0x0C83 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8081*]:
+ 53: 0x0C83 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8082*]:
     → "Wh-where did you come from...!?"
  54: 0x0C8A [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0C8B [0x01] GOTO 0x0D4C
  56: 0x0C8E [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0CA1
- 57: 0x0C96 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8082*]:
+ 57: 0x0C96 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8083*]:
     → "<Player>... Why...?"
  58: 0x0C9D [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0C9E [0x01] GOTO 0x0D4C
  60: 0x0CA1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0CB4
- 61: 0x0CA9 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8083*]:
+ 61: 0x0CA9 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8084*]:
     → "How did you get here?"
  62: 0x0CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0CB1 [0x01] GOTO 0x0D4C
  64: 0x0CB4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0CC7
- 65: 0x0CBC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8086*]:
+ 65: 0x0CBC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8087*]:
     → "H-how did you get here...?"
  66: 0x0CC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0CC4 [0x01] GOTO 0x0D4C
  68: 0x0CC7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0CDA
- 69: 0x0CCF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8087*]:
+ 69: 0x0CCF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8088*]:
     → "Wh-wh-why are you here...!?"
  70: 0x0CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0CD7 [0x01] GOTO 0x0D4C
  72: 0x0CDA [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0CED
- 73: 0x0CE2 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8088*]:
+ 73: 0x0CE2 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8089*]:
     → "<Player>... How...?"
  74: 0x0CE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0CEA [0x01] GOTO 0x0D4C
  76: 0x0CED [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0D00
- 77: 0x0CF5 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8089*]:
+ 77: 0x0CF5 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8090*]:
     → "It's...<Player>...!"
  78: 0x0CFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0CFD [0x01] GOTO 0x0D4C
  80: 0x0D00 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0D13
- 81: 0x0D08 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8090*]:
+ 81: 0x0D08 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8091*]:
     → "How did you get here?"
  82: 0x0D0F [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0D10 [0x01] GOTO 0x0D4C
  84: 0x0D13 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0D26
- 85: 0x0D1B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8084*]:
+ 85: 0x0D1B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8085*]:
     → "H-how did you find me...?"
  86: 0x0D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0D23 [0x01] GOTO 0x0D4C
  88: 0x0D26 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0D39
- 89: 0x0D2E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8085*]:
+ 89: 0x0D2E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8086*]:
     → "How did you get here...?"
  90: 0x0D35 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0D36 [0x01] GOTO 0x0D4C
  92: 0x0D39 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0D4C
- 93: 0x0D41 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8091*]:
+ 93: 0x0D41 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8092*]:
     → "Wh...Why are you here...?"
  94: 0x0D48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0D49 [0x01] GOTO 0x0D4C
@@ -2724,110 +2724,110 @@ SUBROUTINE_0AF6:
 SUBROUTINE_0D4C:
  96: 0x0D4C [0x1A] CALL_SUBROUTINE(address=0x2774)
  97: 0x0D4F [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0D6D
- 98: 0x0D57 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8092*]:
+ 98: 0x0D57 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8093*]:
     → "You heard me through the signal pearl? So...you're here to save me..."
  99: 0x0D5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0D5F [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-101: 0x0D62 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8104*]:
+101: 0x0D62 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8105*]:
     → "Thanks. I feel stronger with you around."
 102: 0x0D69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0D6A [0x01] GOTO 0x0EB7
 104: 0x0D6D [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0D8B
-105: 0x0D75 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8093*]:
+105: 0x0D75 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8094*]:
     → "You could hear my shouts through the signal pearl and came to help?"
 106: 0x0D7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0D7D [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-108: 0x0D80 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8105*]:
+108: 0x0D80 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8106*]:
     → "Thanks for coming. There's nothing we can't do when we are together!"
 109: 0x0D87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0D88 [0x01] GOTO 0x0EB7
 111: 0x0D8B [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0DA9
-112: 0x0D93 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8094*]:
+112: 0x0D93 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8095*]:
     → "You heard me through the signal pearl? So, you're here to help."
 113: 0x0D9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0D9B [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-115: 0x0D9E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8106*]:
+115: 0x0D9E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8107*]:
     → "Thanks...for your help."
 116: 0x0DA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x0DA6 [0x01] GOTO 0x0EB7
 118: 0x0DA9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0DC7
-119: 0x0DB1 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8095*]:
+119: 0x0DB1 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8096*]:
     → "So...you heard me through the signal pearl and came to help."
 120: 0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x0DB9 [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-122: 0x0DBC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8107*]:
+122: 0x0DBC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8108*]:
     → "Thank you. Your presence gives me strength."
 123: 0x0DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x0DC4 [0x01] GOTO 0x0EB7
 125: 0x0DC7 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0DE5
-126: 0x0DCF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8098*]:
+126: 0x0DCF [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8099*]:
     → "You heard me through the signal pearl and...came to save me?"
 127: 0x0DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x0DD7 [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-129: 0x0DDA [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8110*]:
+129: 0x0DDA [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8111*]:
     → "Thank you so much. Around you, I feel like I can do anything."
 130: 0x0DE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0DE2 [0x01] GOTO 0x0EB7
 132: 0x0DE5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0E03
-133: 0x0DED [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8099*]:
+133: 0x0DED [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8100*]:
     → "You could hear me through the signal pearl? You came to save me!?"
 134: 0x0DF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0DF5 [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-136: 0x0DF8 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8111*]:
+136: 0x0DF8 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8112*]:
     → "Thanks! We are the perfect team! Yeah!"
 137: 0x0DFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0E00 [0x01] GOTO 0x0EB7
 139: 0x0E03 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0E21
-140: 0x0E0B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8100*]:
+140: 0x0E0B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8101*]:
     → "You heard me through the signal pearl and came to my aid?"
 141: 0x0E12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0E13 [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-143: 0x0E16 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8112*]:
+143: 0x0E16 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8113*]:
     → "You have my thanks. Your presence is heartening."
 144: 0x0E1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0E1E [0x01] GOTO 0x0EB7
 146: 0x0E21 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0E3F
-147: 0x0E29 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8101*]:
+147: 0x0E29 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8102*]:
     → "You heard me through the signal pearl? ...You came to save me!"
 148: 0x0E30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0E31 [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-150: 0x0E34 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8113*]:
+150: 0x0E34 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8114*]:
     → "You're so nice! I feel so strong around you!"
 151: 0x0E3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0E3C [0x01] GOTO 0x0EB7
 153: 0x0E3F [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0E5D
-154: 0x0E47 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8102*]:
+154: 0x0E47 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8103*]:
     → "So...you heard me through the signal pearl and came to help."
 155: 0x0E4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0E4F [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-157: 0x0E52 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8114*]:
+157: 0x0E52 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8115*]:
     → "Thank you. Your presence gives me strength."
 158: 0x0E59 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0E5A [0x01] GOTO 0x0EB7
 160: 0x0E5D [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0E7B
-161: 0x0E65 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8096*]:
+161: 0x0E65 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8097*]:
     → "You heard me through the signal pearl and came to my rescue?"
 162: 0x0E6C [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0E6D [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-164: 0x0E70 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8108*]:
+164: 0x0E70 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8109*]:
     → "Thanks for saving me, <Player>."
 165: 0x0E77 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0E78 [0x01] GOTO 0x0EB7
 167: 0x0E7B [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0E99
-168: 0x0E83 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8097*]:
+168: 0x0E83 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8098*]:
     → "You heard my voice through the signal pearl...and came to help?"
 169: 0x0E8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0E8B [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-171: 0x0E8E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8109*]:
+171: 0x0E8E [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8110*]:
     → "I've never been saved like that before. It's kinda embarrassing, heheh. I owe you, <Player>."
 172: 0x0E95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x0E96 [0x01] GOTO 0x0EB7
 174: 0x0E99 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0EB7
-175: 0x0EA1 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8103*]:
+175: 0x0EA1 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8104*]:
     → "So you heard me through the signal pearl..."
 176: 0x0EA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0EA9 [0x1A] CALL_SUBROUTINE(address=0x5D2A)
-178: 0x0EAC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8115*]:
+178: 0x0EAC [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8116*]:
     → "I was complacent. Th...thank you."
 179: 0x0EB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x0EB4 [0x01] GOTO 0x0EB7
@@ -2839,62 +2839,62 @@ SUBROUTINE_0EB7:
 184: 0x0ECD [0x03] Work_Zone[2] = 733*
 185: 0x0ED2 [0x1A] CALL_SUBROUTINE(address=0x2774)
 186: 0x0ED5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0EE8
-187: 0x0EDD [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8116*]:
+187: 0x0EDD [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8117*]:
     → "Oh yeah! I have to get the $3. Can you come with me, <Player>?"
 188: 0x0EE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x0EE5 [0x01] GOTO 0x0FB9
 190: 0x0EE8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0EFB
-191: 0x0EF0 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8117*]:
+191: 0x0EF0 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8118*]:
     → "Oh yeah! I still have to get the $3. Let's go, <Player>!"
 192: 0x0EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0EF8 [0x01] GOTO 0x0FB9
 194: 0x0EFB [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0F0E
-195: 0x0F03 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8118*]:
+195: 0x0F03 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8119*]:
     → "Ah, the $3. We should search for it together."
 196: 0x0F0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x0F0B [0x01] GOTO 0x0FB9
 198: 0x0F0E [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0F21
-199: 0x0F16 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8119*]:
+199: 0x0F16 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8120*]:
     → "I have yet to get the $3. Shall we journey together, <Player>?"
 200: 0x0F1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x0F1E [0x01] GOTO 0x0FB9
 202: 0x0F21 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x0F34
-203: 0x0F29 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8122*]:
+203: 0x0F29 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8123*]:
     → "Oh yeah! I still need to get the $3. Will you come with me, <Player>?"
 204: 0x0F30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x0F31 [0x01] GOTO 0x0FB9
 206: 0x0F34 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0F47
-207: 0x0F3C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8123*]:
+207: 0x0F3C [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8124*]:
     → "Oh yeah, I almost forgot! I need to get the $3! Come with me, <Player>, please!"
 208: 0x0F43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x0F44 [0x01] GOTO 0x0FB9
 210: 0x0F47 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0F5A
-211: 0x0F4F [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8124*]:
+211: 0x0F4F [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8125*]:
     → "I still do not have the $3. I would appreciate your company."
 212: 0x0F56 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x0F57 [0x01] GOTO 0x0FB9
 214: 0x0F5A [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0F6D
-215: 0x0F62 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8125*]:
+215: 0x0F62 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8126*]:
     → "Oh yeah! I still have to get the $3! I need you with me for this, <Player>!"
 216: 0x0F69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x0F6A [0x01] GOTO 0x0FB9
 218: 0x0F6D [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x0F80
-219: 0x0F75 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8126*]:
+219: 0x0F75 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8127*]:
     → "I have yet to get the $3. Shall we journey together, <Player>?"
 220: 0x0F7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0F7D [0x01] GOTO 0x0FB9
 222: 0x0F80 [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x0F93
-223: 0x0F88 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8120*]:
+223: 0x0F88 [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8121*]:
     → "I came out here to get the $3. Let's look for it together, <Player>."
 224: 0x0F8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x0F90 [0x01] GOTO 0x0FB9
 226: 0x0F93 [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x0FA6
-227: 0x0F9B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8121*]:
+227: 0x0F9B [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8122*]:
     → "I'm here for the $3. Seeing how you're already here, how about we look for it together?"
 228: 0x0FA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x0FA3 [0x01] GOTO 0x0FB9
 230: 0x0FA6 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x0FB9
-231: 0x0FAE [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8127*]:
+231: 0x0FAE [0x2B] Unnamed NPC (ID: 17396249/0x01097219) [8128*]:
     → "I haven't obtained the $3 I came for, yet. Search with me, <Player>."
 232: 0x0FB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x0FB6 [0x01] GOTO 0x0FB9

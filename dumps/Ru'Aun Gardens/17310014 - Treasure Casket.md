@@ -13,10 +13,10 @@
 
 | Event ID            | Entrypoint   |   Size |   Instructions |
 |---------------------|--------------|--------|----------------|
-| [1033](#event-1033) | 0x0000       |    521 |             97 |
-| [1034](#event-1034) | 0x0209       |    521 |             97 |
-| [1035](#event-1035) | 0x0412       |    187 |             40 |
-| [1059](#event-1059) | 0x04CD       |    443 |             85 |
+| [1027](#event-1027) | 0x0000       |    521 |             97 |
+| [1028](#event-1028) | 0x0209       |    521 |             97 |
+| [1029](#event-1029) | 0x0412       |    187 |             40 |
+| [1057](#event-1057) | 0x04CD       |    443 |             85 |
 
 ## DAT References (imed_data)
 
@@ -33,36 +33,36 @@
 |       8 | 0x0006      |           6 |
 |       9 | 0x0007      |           7 |
 |      10 | 0x0008      |           8 |
-|      11 | 0x1D99      |        7577 |
-|      12 | 0x1DB3      |        7603 |
-|      13 | 0x1D9B      |        7579 |
+|      11 | 0x1D9A      |        7578 |
+|      12 | 0x1DB4      |        7604 |
+|      13 | 0x1D9C      |        7580 |
 |      14 | 0x000F      |          15 |
 |      15 | 0x0010      |          16 |
 |      16 | 0x001F      |          31 |
-|      17 | 0x1D9A      |        7578 |
-|      18 | 0x1D9C      |        7580 |
-|      19 | 0x1DA1      |        7585 |
-|      20 | 0x1DA2      |        7586 |
-|      21 | 0x1DA3      |        7587 |
-|      22 | 0x1DA4      |        7588 |
+|      17 | 0x1D9B      |        7579 |
+|      18 | 0x1D9D      |        7581 |
+|      19 | 0x1DA2      |        7586 |
+|      20 | 0x1DA3      |        7587 |
+|      21 | 0x1DA4      |        7588 |
+|      22 | 0x1DA5      |        7589 |
 |      23 | 0x000A      |          10 |
 |      24 | 0x270F      |        9999 |
 
 ## String References
 
-- **7577**: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7578**: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
-- **7579**: Obtain this item? [Yes./No.]
-- **7580**: Obtain this temporary item? [Yes./No.]
-- **7585**: The chest is locked.
-- **7586**: What will you do? [Leave it be./Attempt to unlock it.]
-- **7587**: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
-- **7588**: It appears that you can enter a two-digit combination between 10 and 99.
-- **7603**: Obtain this item?
+- **7578**: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7579**: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+- **7580**: Obtain this item? [Yes./No.]
+- **7581**: Obtain this temporary item? [Yes./No.]
+- **7586**: The chest is locked.
+- **7587**: What will you do? [Leave it be./Attempt to unlock it.]
+- **7588**: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
+- **7589**: It appears that you can enter a two-digit combination between 10 and 99.
+- **7604**: Obtain this item?
 
 ## Events
 
-### Event 1033
+### Event 1027
 
 #### Metadata
 
@@ -153,7 +153,7 @@
  37: 0x00D9 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x00ED
  38: 0x00E1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=8*, condition_work_offset=1*)
  39: 0x00E8 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
- 40: 0x00ED [0x24] CREATE_DIALOG(message_id=7577*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 40: 0x00ED [0x24] CREATE_DIALOG(message_id=7578*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
  41: 0x00F4 [0x25] WAIT_DIALOG_SELECT()
  42: 0x00F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010A
@@ -197,11 +197,11 @@ SUBROUTINE_01B2:
  78: 0x01B2 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0206
  79: 0x01BA [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x0206
  80: 0x01C2 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[12])
- 81: 0x01C5 [0x48] [System] [7603*]:
+ 81: 0x01C5 [0x48] [System] [7604*]:
     → "Obtain this item?"
  82: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x01C9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 84: 0x01CC [0x24] CREATE_DIALOG(message_id=7579*, default_option=1*, option_flags=0*)
+ 84: 0x01CC [0x24] CREATE_DIALOG(message_id=7580*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
  85: 0x01D3 [0x25] WAIT_DIALOG_SELECT()
  86: 0x01D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E4
@@ -219,7 +219,7 @@ SUBROUTINE_01F4:
  96: 0x0208 [0x00] END_REQSTACK()
 ```
 
-### Event 1034
+### Event 1028
 
 #### Metadata
 
@@ -311,7 +311,7 @@ SUBROUTINE_01F4:
  37: 0x02E2 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x02F6
  38: 0x02EA [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=8*, condition_work_offset=1*)
  39: 0x02F1 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[7]
- 40: 0x02F6 [0x24] CREATE_DIALOG(message_id=7578*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 40: 0x02F6 [0x24] CREATE_DIALOG(message_id=7579*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
  41: 0x02FD [0x25] WAIT_DIALOG_SELECT()
  42: 0x02FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0313
@@ -355,11 +355,11 @@ SUBROUTINE_03BB:
  78: 0x03BB [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x040F
  79: 0x03C3 [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x040F
  80: 0x03CB [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[12])
- 81: 0x03CE [0x48] [System] [7603*]:
+ 81: 0x03CE [0x48] [System] [7604*]:
     → "Obtain this item?"
  82: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x03D2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 84: 0x03D5 [0x24] CREATE_DIALOG(message_id=7580*, default_option=1*, option_flags=0*)
+ 84: 0x03D5 [0x24] CREATE_DIALOG(message_id=7581*, default_option=1*, option_flags=0*)
     → "Obtain this temporary item? [Yes./No.]"
  85: 0x03DC [0x25] WAIT_DIALOG_SELECT()
  86: 0x03DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03ED
@@ -377,7 +377,7 @@ SUBROUTINE_03FD:
  96: 0x0411 [0x00] END_REQSTACK()
 ```
 
-### Event 1035
+### Event 1029
 
 #### Metadata
 
@@ -413,10 +413,10 @@ SUBROUTINE_03FD:
   3: 0x0421 [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]
   4: 0x0426 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   5: 0x0428 [0x1C] WAIT(60* ticks)
-  6: 0x042B [0x48] [System] [7585*]:
+  6: 0x042B [0x48] [System] [7586*]:
     → "The chest is locked."
   7: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x042F [0x24] CREATE_DIALOG(message_id=7586*, default_option=0*, option_flags=0*)
+  8: 0x042F [0x24] CREATE_DIALOG(message_id=7587*, default_option=0*, option_flags=0*)
     → "What will you do? [Leave it be./Attempt to unlock it.]"
   9: 0x0436 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0437 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0447
@@ -425,7 +425,7 @@ SUBROUTINE_03FD:
  13: 0x0447 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04CA
  14: 0x044F [0x03] ExtData[1]->WorkLocal[10] = 1*
  15: 0x0454 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
- 16: 0x0459 [0x24] CREATE_DIALOG(message_id=7587*, default_option=0*, option_flags=0*)
+ 16: 0x0459 [0x24] CREATE_DIALOG(message_id=7588*, default_option=0*, option_flags=0*)
     → "What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]"
  17: 0x0460 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0461 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0471
@@ -433,7 +433,7 @@ SUBROUTINE_03FD:
  20: 0x046E [0x01] GOTO 0x04AC
  21: 0x0471 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x049C
  22: 0x0479 [0x03] ExtData[1]->WorkLocal[9] = 1*
- 23: 0x047E [0x48] [System] [7588*]:
+ 23: 0x047E [0x48] [System] [7589*]:
     → "It appears that you can enter a two-digit combination between 10 and 99."
  24: 0x0481 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0482 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -457,7 +457,7 @@ SUBROUTINE_04CA:
  39: 0x04CC [0x00] END_REQSTACK()
 ```
 
-### Event 1059
+### Event 1057
 
 #### Metadata
 
@@ -552,7 +552,7 @@ SUBROUTINE_058A:
  37: 0x058F [0x03] Work_Zone[7] = 1*
  38: 0x0594 [0x03] Work_Zone[8] = 1*
  39: 0x0599 [0x03] Work_Zone[9] = 1*
- 40: 0x059E [0x24] CREATE_DIALOG(message_id=7577*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 40: 0x059E [0x24] CREATE_DIALOG(message_id=7578*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]"
  41: 0x05A5 [0x25] WAIT_DIALOG_SELECT()
  42: 0x05A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05BB
@@ -584,11 +584,11 @@ SUBROUTINE_0623:
  66: 0x0623 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0685
  67: 0x062B [0x02] IF !(ExtData[1]->WorkLocal[12] <= 0*) GOTO 0x0685
  68: 0x0633 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[12], buffer1=ExtData[1]->WorkLocal[18], buffer2=0*, buffer3=0*)
- 69: 0x063D [0x48] [System] [7603*]:
+ 69: 0x063D [0x48] [System] [7604*]:
     → "Obtain this item?"
  70: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0641 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
- 72: 0x064B [0x24] CREATE_DIALOG(message_id=7579*, default_option=1*, option_flags=0*)
+ 72: 0x064B [0x24] CREATE_DIALOG(message_id=7580*, default_option=1*, option_flags=0*)
     → "Obtain this item? [Yes./No.]"
  73: 0x0652 [0x25] WAIT_DIALOG_SELECT()
  74: 0x0653 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0663

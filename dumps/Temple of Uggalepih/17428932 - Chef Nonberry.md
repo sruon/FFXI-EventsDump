@@ -21,13 +21,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D1E      |        7454 |
-|       1 | 0x1D1D      |        7453 |
+|       0 | 0x1D1F      |        7455 |
+|       1 | 0x1D1E      |        7454 |
 
 ## String References
 
-- **7453**: Chop! Chop!! Chop!!! Chop!!!!
-- **7454**: Chop... Chop...... Chop......... Can't cut!!!
+- **7454**: Chop! Chop!! Chop!!! Chop!!!!
+- **7455**: Chop... Chop...... Chop......... Can't cut!!!
 
 ## Events
 
@@ -73,7 +73,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+  1: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Chop... Chop...... Chop......... Can't cut!!!"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -102,7 +102,7 @@
 
 ```
   0: 0x000A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Chop! Chop!! Chop!!! Chop!!!!"
   2: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

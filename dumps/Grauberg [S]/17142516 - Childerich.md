@@ -30,9 +30,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0009      |           9 |
-|       2 | 0x1E40      |        7744 |
-|       3 | 0x1E3F      |        7743 |
-|       4 | 0x1E4E      |        7758 |
+|       2 | 0x1E41      |        7745 |
+|       3 | 0x1E40      |        7744 |
+|       4 | 0x1E4F      |        7759 |
 |       5 | 0x000D      |          13 |
 |       6 | 0xFFFB433D  |  4294656829 |
 |       7 | 0xFFF8293F  |  4294453567 |
@@ -41,14 +41,14 @@
 |      10 | 0xFFFB31FB  |  4294652411 |
 |      11 | 0xFFF82043  |  4294451267 |
 |      12 | 0x3EB1      |       16049 |
-|      13 | 0x1E69      |        7785 |
+|      13 | 0x1E6A      |        7786 |
 
 ## String References
 
-- **7743**: Romualdo's father died on this mountain years ago. And the deceased don't make a habit of chatting to the living.
-- **7744**: What are you doing way out here? This is no place for civilians.
-- **7758**: I think it's time I put in for a transfer to a new outpost...
-- **7785**: This is it. The madness of the mountains has finally sunk into my soul...
+- **7744**: Romualdo's father died on this mountain years ago. And the deceased don't make a habit of chatting to the living.
+- **7745**: What are you doing way out here? This is no place for civilians.
+- **7759**: I think it's time I put in for a transfer to a new outpost...
+- **7786**: This is it. The madness of the mountains has finally sunk into my soul...
 
 ## Events
 
@@ -97,7 +97,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
     → "What are you doing way out here? This is no place for civilians."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x21] END_EVENT
@@ -150,7 +150,7 @@
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0024 [0x1C] WAIT(30* ticks)
   2: 0x0027 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7743*)
+  3: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
     → "Romualdo's father died on this mountain years ago. And the deceased don't make a habit of chatting to the living."
   4: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x003A [0x21] END_EVENT
@@ -203,7 +203,7 @@
   0: 0x003D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0042 [0x1C] WAIT(30* ticks)
   2: 0x0045 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7758*)
+  3: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7759*)
     → "I think it's time I put in for a transfer to a new outpost..."
   4: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0058 [0x21] END_EVENT
@@ -311,7 +311,7 @@
 ```
   0: 0x0091 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0096 [0x1C] WAIT(30* ticks)
-  2: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+  2: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "This is it. The madness of the mountains has finally sunk into my soul..."
   3: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x009D [0x21] END_EVENT

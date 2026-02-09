@@ -35,24 +35,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB5      |        7605 |
-|       7 | 0x1DA8      |        7592 |
+|       6 | 0x1DB6      |        7606 |
+|       7 | 0x1DA9      |        7593 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1C3B      |        7227 |
+|      12 | 0x1C3C      |        7228 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1C46      |        7238 |
-|      20 | 0x1C47      |        7239 |
-|      21 | 0x1C48      |        7240 |
-|      22 | 0x1C49      |        7241 |
-|      23 | 0x1C6D      |        7277 |
+|      19 | 0x1C47      |        7239 |
+|      20 | 0x1C48      |        7240 |
+|      21 | 0x1C49      |        7241 |
+|      22 | 0x1C4A      |        7242 |
+|      23 | 0x1C6E      |        7278 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -72,16 +72,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1DA2      |        7586 |
-|      44 | 0x1DA7      |        7591 |
-|      45 | 0x1DA6      |        7590 |
+|      43 | 0x1DA3      |        7587 |
+|      44 | 0x1DA8      |        7592 |
+|      45 | 0x1DA7      |        7591 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB3      |        7603 |
-|      48 | 0x1DB2      |        7602 |
+|      47 | 0x1DB4      |        7604 |
+|      48 | 0x1DB3      |        7603 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1D8E      |        7566 |
+|      50 | 0x1D8F      |        7567 |
 |      51 | 0x00C4      |         196 |
-|      52 | 0x1C3E      |        7230 |
+|      52 | 0x1C3F      |        7231 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0xFFFAEFFC  |  4294635516 |
 |      55 | 0xFFFB712C  |  4294668588 |
@@ -170,11 +170,11 @@
 |     138 | 0x8FE5      |       36837 |
 |     139 | 0x02A1      |         673 |
 |     140 | 0x0024      |          36 |
-|     141 | 0x1D90      |        7568 |
-|     142 | 0x1D8F      |        7567 |
-|     143 | 0x1DB1      |        7601 |
-|     144 | 0x1D92      |        7570 |
-|     145 | 0x1D91      |        7569 |
+|     141 | 0x1D91      |        7569 |
+|     142 | 0x1D90      |        7568 |
+|     143 | 0x1DB2      |        7602 |
+|     144 | 0x1D93      |        7571 |
+|     145 | 0x1D92      |        7570 |
 |     146 | 0xFFF6C442  |  4294362178 |
 |     147 | 0x75704     |      481028 |
 |     148 | 0x0C00      |        3072 |
@@ -186,17 +186,17 @@
 |     154 | 0xFFFE587B  |  4294858875 |
 |     155 | 0xFFFF7DCE  |  4294933966 |
 |     156 | 0x0D61      |        3425 |
-|     157 | 0x1DB7      |        7607 |
+|     157 | 0x1DB8      |        7608 |
 |     158 | 0x002D      |          45 |
-|     159 | 0x1DB9      |        7609 |
-|     160 | 0x1DBA      |        7610 |
-|     161 | 0x1DB8      |        7608 |
-|     162 | 0x1DBB      |        7611 |
-|     163 | 0x1DDB      |        7643 |
-|     164 | 0x1DDD      |        7645 |
-|     165 | 0x1DDE      |        7646 |
-|     166 | 0x1DDC      |        7644 |
-|     167 | 0x1DDF      |        7647 |
+|     159 | 0x1DBA      |        7610 |
+|     160 | 0x1DBB      |        7611 |
+|     161 | 0x1DB9      |        7609 |
+|     162 | 0x1DBC      |        7612 |
+|     163 | 0x1DDC      |        7644 |
+|     164 | 0x1DDE      |        7646 |
+|     165 | 0x1DDF      |        7647 |
+|     166 | 0x1DDD      |        7645 |
+|     167 | 0x1DE0      |        7648 |
 |     168 | 0xFFFFD2C9  |  4294955721 |
 |     169 | 0x2D39      |       11577 |
 |     170 | 0xFFFFB6E4  |  4294948580 |
@@ -209,7 +209,7 @@
 |     177 | 0x6B31      |       27441 |
 |     178 | 0x005A      |          90 |
 |     179 | 0x0884      |        2180 |
-|     180 | 0x1C3C      |        7228 |
+|     180 | 0x1C3D      |        7229 |
 |     181 | 0x2311      |        8977 |
 |     182 | 0xFFFE5ECC  |  4294860492 |
 |     183 | 0x0594      |        1428 |
@@ -230,32 +230,32 @@
 |     198 | 0xFFFF56C6  |  4294923974 |
 |     199 | 0xFFFAEE08  |  4294635016 |
 |     200 | 0x0D60      |        3424 |
-|     201 | 0x1DB6      |        7606 |
+|     201 | 0x1DB7      |        7607 |
 
 ## String References
 
-- **7227**: Enter the battlefield? [Enter./Decline.]
-- **7228**: Leave the battlefield? [Run away./Stay.]
-- **7230**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7238**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7228**: Enter the battlefield? [Enter./Decline.]
+- **7229**: Leave the battlefield? [Run away./Stay.]
+- **7231**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7239**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7240**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7241**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7277**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7566**: Skip the event? [Yes./No.]
-- **7567**: Battlefield clear time: $3 second[/s]!
-- **7568**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7569**: The current battlefield clear time record is $3 second[/s].
-- **7570**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7586**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7590**: That record is held by $5 adventurers, including %0!
-- **7591**: That record is held by %0!
-- **7592**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7601**: You have broken the clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]"!
-- **7602**: The current battlefield clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]" is $3 second[/s].
-- **7603**: The current battlefield clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]" is $3 minute[/s] $2 second[/s].
-- **7605**: Which battlefield will you enter? [None./Ark Angels (1)./Ark Angels (2)./Ark Angels (3)./Ark Angels (4)./Ark Angels (5)./Divine Might./$26Ark Angels (1)./$26Ark Angels (2)./$26Ark Angels (3)./$26Ark Angels (4)./$26Ark Angels (5)./$26Divine Might./././././././././././././././././././]
-- **7606**: Use the portal? [Yes./No.]
+- **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7278**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7567**: Skip the event? [Yes./No.]
+- **7568**: Battlefield clear time: $3 second[/s]!
+- **7569**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7570**: The current battlefield clear time record is $3 second[/s].
+- **7571**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7587**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7591**: That record is held by $5 adventurers, including %0!
+- **7592**: That record is held by %0!
+- **7593**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7602**: You have broken the clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]"!
+- **7603**: The current battlefield clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]" is $3 second[/s].
+- **7604**: The current battlefield clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]" is $3 minute[/s] $2 second[/s].
+- **7606**: Which battlefield will you enter? [None./Ark Angels (1)./Ark Angels (2)./Ark Angels (3)./Ark Angels (4)./Ark Angels (5)./Divine Might./$26Ark Angels (1)./$26Ark Angels (2)./$26Ark Angels (3)./$26Ark Angels (4)./$26Ark Angels (5)./$26Divine Might./././././././././././././././././././]
+- **7607**: Use the portal? [Yes./No.]
 
 ## Events
 
@@ -470,7 +470,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7605*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7606*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Ark Angels (1)./Ark Angels (2)./Ark Angels (3)./Ark Angels (4)./Ark Angels (5)./Divine Might./$26Ark Angels (1)./$26Ark Angels (2)./$26Ark Angels (3)./$26Ark Angels (4)./$26Ark Angels (5)./$26Divine Might./././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -483,7 +483,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1C6F)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7592*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7593*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -509,7 +509,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -558,22 +558,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7238*]:
+ 89: 0x0225 [0x48] [System] [7239*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7239*]:
+ 93: 0x0234 [0x48] [System] [7240*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7240*]:
+ 97: 0x0243 [0x48] [System] [7241*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7241*]:
+101: 0x0252 [0x48] [System] [7242*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -582,7 +582,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7586*]:
+105: 0x0469 [0x48] [System] [7587*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -594,24 +594,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7603*]:
+114: 0x04EA [0x48] [System] [7604*]:
     → "The current battlefield clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7602*]:
+117: 0x04F1 [0x48] [System] [7603*]:
     → "The current battlefield clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7591*]:
+120: 0x04FD [0x48] [System] [7592*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7590*]:
+126: 0x0511 [0x48] [System] [7591*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -627,7 +627,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -767,7 +767,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7230*]:
+266: 0x07F4 [0x48] [System] [7231*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1159,7 +1159,7 @@ SUBROUTINE_0C95:
 102: 0x0CA0 [0x01] GOTO 0x0CBE
 103: 0x0CA3 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D6E
 104: 0x0CAB [0x1C] WAIT(15* ticks)
-105: 0x0CAE [0x24] CREATE_DIALOG(message_id=7566*, default_option=1*, option_flags=0*)
+105: 0x0CAE [0x24] CREATE_DIALOG(message_id=7567*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 106: 0x0CB5 [0x25] WAIT_DIALOG_SELECT()
 107: 0x0CB6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D6E
@@ -1226,18 +1226,18 @@ SUBROUTINE_0DA0:
 156: 0x0DD9 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DF4
 157: 0x0DE1 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 158: 0x0DE8 [0x15] Work_Zone[5] /= 60*
-159: 0x0DED [0x48] [System] [7568*]:
+159: 0x0DED [0x48] [System] [7569*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 160: 0x0DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0DF1 [0x01] GOTO 0x0DF8
-162: 0x0DF4 [0x48] [System] [7567*]:
+162: 0x0DF4 [0x48] [System] [7568*]:
     → "Battlefield clear time: $3 second[/s]!"
 163: 0x0DF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DF8:
 164: 0x0DF8 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E0C
 165: 0x0E00 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-166: 0x0E05 [0x48] [System] [7601*]:
+166: 0x0E05 [0x48] [System] [7602*]:
     → "You have broken the clear time record for "[Ark Angels (1)/Ark Angels (2)/Ark Angels (3)/Ark Angels (4)/Ark Angels (5)/Divine Might/$26Ark Angels (1)/$26Ark Angels (2)/$26Ark Angels (3)/$26Ark Angels (4)/$26Ark Angels (5)/$26Divine Might]"!"
 167: 0x0E08 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0E09 [0x01] GOTO 0x0E35
@@ -1245,12 +1245,12 @@ SUBROUTINE_0DF8:
 170: 0x0E14 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 171: 0x0E19 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 172: 0x0E20 [0x15] Work_Zone[5] /= 60*
-173: 0x0E25 [0x48] [System] [7570*]:
+173: 0x0E25 [0x48] [System] [7571*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 174: 0x0E28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0E29 [0x01] GOTO 0x0E35
 176: 0x0E2C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-177: 0x0E31 [0x48] [System] [7569*]:
+177: 0x0E31 [0x48] [System] [7570*]:
     → "The current battlefield clear time record is $3 second[/s]."
 178: 0x0E34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1670,7 +1670,7 @@ SUBROUTINE_100C:
  76: 0x104F [0x00] END_REQSTACK()
 
 SUBROUTINE_1B94:
- 77: 0x1B94 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
+ 77: 0x1B94 [0x24] CREATE_DIALOG(message_id=7229*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
  78: 0x1B9B [0x25] WAIT_DIALOG_SELECT()
  79: 0x1B9C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BAA
@@ -1730,7 +1730,7 @@ SUBROUTINE_1E90:
 
 ```
 # Dead code (unreachable instructions):
-     0x1050 [0x24] CREATE_DIALOG(message_id=7227*, default_option=1*, option_flags=0*)
+     0x1050 [0x24] CREATE_DIALOG(message_id=7228*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1057 [0x25] WAIT_DIALOG_SELECT()
      0x1058 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1066
@@ -1797,7 +1797,7 @@ SUBROUTINE_1E90:
      0x11A9 [0x27] REQ_SET(priority=0x10, entity_id=Ark Angel HM (ID: 17514819/0x010B4143), tag_num=0x03)
      0x11B0 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel HM (ID: 17514819/0x010B4143), tag_num=0x0A)
      0x11B7 [0x7C] Ark Angel HM (ID: 17514819/0x010B4143)->Render.Flags2 |= 0x00
-     0x11BD [0x2B] Ark Angel HM (ID: 17514819/0x010B4143) [7607*]:
+     0x11BD [0x2B] Ark Angel HM (ID: 17514819/0x010B4143) [7608*]:
     → "You shall be defeated by the apathy that plagues you..."
      0x11C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x11C5 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel HM (ID: 17514819/0x010B4143), Ark Angel HM (ID: 17514819/0x010B4143)], work=[3*, 0*]
@@ -1811,7 +1811,7 @@ SUBROUTINE_1E90:
      0x1215 [0x27] REQ_SET(priority=0x10, entity_id=Ark Angel TT (ID: 17514821/0x010B4145), tag_num=0x03)
      0x121C [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel TT (ID: 17514821/0x010B4145), tag_num=0x0A)
      0x1223 [0x7C] Ark Angel TT (ID: 17514821/0x010B4145)->Render.Flags2 |= 0x00
-     0x1229 [0x2B] Ark Angel TT (ID: 17514821/0x010B4145) [7609*]:
+     0x1229 [0x2B] Ark Angel TT (ID: 17514821/0x010B4145) [7610*]:
     → "You shall be consumed by the cowardice that binds you..."
      0x1230 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1231 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel TT (ID: 17514821/0x010B4145), Ark Angel TT (ID: 17514821/0x010B4145)], work=[4*, 0*]
@@ -1824,7 +1824,7 @@ SUBROUTINE_1E90:
      0x127A [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel MR (ID: 17514822/0x010B4146), tag_num=0x04)
      0x1281 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel MR (ID: 17514822/0x010B4146), tag_num=0x0A)
      0x1288 [0x7C] Ark Angel MR (ID: 17514822/0x010B4146)->Render.Flags2 |= 0x00
-     0x128E [0x2B] Ark Angel MR (ID: 17514822/0x010B4146) [7610*]:
+     0x128E [0x2B] Ark Angel MR (ID: 17514822/0x010B4146) [7611*]:
     → "You shall be twisted by the envy that drives you..."
      0x1295 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1296 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel MR (ID: 17514822/0x010B4146), Ark Angel MR (ID: 17514822/0x010B4146)], work=[5*, 0*]
@@ -1837,7 +1837,7 @@ SUBROUTINE_1E90:
      0x12DF [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel EV (ID: 17514820/0x010B4144), tag_num=0x04)
      0x12E6 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel EV (ID: 17514820/0x010B4144), tag_num=0x0A)
      0x12ED [0x7C] Ark Angel EV (ID: 17514820/0x010B4144)->Render.Flags2 |= 0x00
-     0x12F3 [0x2B] Ark Angel EV (ID: 17514820/0x010B4144) [7608*]:
+     0x12F3 [0x2B] Ark Angel EV (ID: 17514820/0x010B4144) [7609*]:
     → "You shall be overwhelmed by the arrogance that disfigures you..."
      0x12FA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12FB [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel EV (ID: 17514820/0x010B4144), Ark Angel EV (ID: 17514820/0x010B4144)], work=[2*, 0*]
@@ -1850,7 +1850,7 @@ SUBROUTINE_1E90:
      0x1344 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel GK (ID: 17514823/0x010B4147), tag_num=0x04)
      0x134B [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel GK (ID: 17514823/0x010B4147), tag_num=0x0A)
      0x1352 [0x7C] Ark Angel GK (ID: 17514823/0x010B4147)->Render.Flags2 |= 0x00
-     0x1358 [0x2B] Ark Angel GK (ID: 17514823/0x010B4147) [7611*]:
+     0x1358 [0x2B] Ark Angel GK (ID: 17514823/0x010B4147) [7612*]:
     → "You shall be burned by the rage that controls you..."
      0x135F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1360 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel GK (ID: 17514823/0x010B4147), Ark Angel GK (ID: 17514823/0x010B4147)], work=[1*, 0*]
@@ -1864,7 +1864,7 @@ SUBROUTINE_1E90:
      0x13B0 [0x27] REQ_SET(priority=0x10, entity_id=Ark Angel HM (ID: 17514819/0x010B4143), tag_num=0x03)
      0x13B7 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel HM (ID: 17514819/0x010B4143), tag_num=0x0A)
      0x13BE [0x7C] Ark Angel HM (ID: 17514819/0x010B4143)->Render.Flags2 |= 0x00
-     0x13C4 [0x2B] Ark Angel HM (ID: 17514819/0x010B4143) [7643*]:
+     0x13C4 [0x2B] Ark Angel HM (ID: 17514819/0x010B4143) [7644*]:
     → "You shall be defeated by the apathy that plagues you..."
      0x13CB [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel HM (ID: 17514819/0x010B4143), Ark Angel HM (ID: 17514819/0x010B4143)], work=[3*, 0*]
      0x13DC [0x1C] WAIT(45* ticks)
@@ -1877,7 +1877,7 @@ SUBROUTINE_1E90:
      0x1423 [0x27] REQ_SET(priority=0x10, entity_id=Ark Angel TT (ID: 17514821/0x010B4145), tag_num=0x03)
      0x142A [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel TT (ID: 17514821/0x010B4145), tag_num=0x0A)
      0x1431 [0x7C] Ark Angel TT (ID: 17514821/0x010B4145)->Render.Flags2 |= 0x00
-     0x1437 [0x2B] Ark Angel TT (ID: 17514821/0x010B4145) [7645*]:
+     0x1437 [0x2B] Ark Angel TT (ID: 17514821/0x010B4145) [7646*]:
     → "You shall be consumed by the cowardice that binds you..."
      0x143E [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel TT (ID: 17514821/0x010B4145), Ark Angel TT (ID: 17514821/0x010B4145)], work=[4*, 0*]
      0x144F [0x1C] WAIT(30* ticks)
@@ -1889,7 +1889,7 @@ SUBROUTINE_1E90:
      0x148F [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel MR (ID: 17514822/0x010B4146), tag_num=0x04)
      0x1496 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel MR (ID: 17514822/0x010B4146), tag_num=0x0A)
      0x149D [0x7C] Ark Angel MR (ID: 17514822/0x010B4146)->Render.Flags2 |= 0x00
-     0x14A3 [0x2B] Ark Angel MR (ID: 17514822/0x010B4146) [7646*]:
+     0x14A3 [0x2B] Ark Angel MR (ID: 17514822/0x010B4146) [7647*]:
     → "You shall be twisted by the envy that drives you..."
      0x14AA [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel MR (ID: 17514822/0x010B4146), Ark Angel MR (ID: 17514822/0x010B4146)], work=[5*, 0*]
      0x14BB [0x1C] WAIT(15* ticks)
@@ -1901,7 +1901,7 @@ SUBROUTINE_1E90:
      0x14FB [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel EV (ID: 17514820/0x010B4144), tag_num=0x04)
      0x1502 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel EV (ID: 17514820/0x010B4144), tag_num=0x0A)
      0x1509 [0x7C] Ark Angel EV (ID: 17514820/0x010B4144)->Render.Flags2 |= 0x00
-     0x150F [0x2B] Ark Angel EV (ID: 17514820/0x010B4144) [7644*]:
+     0x150F [0x2B] Ark Angel EV (ID: 17514820/0x010B4144) [7645*]:
     → "You shall be overwhelmed by the arrogance that disfigures you..."
      0x1516 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel EV (ID: 17514820/0x010B4144), Ark Angel EV (ID: 17514820/0x010B4144)], work=[2*, 0*]
      0x1527 [0x1C] WAIT(3* ticks)
@@ -1913,7 +1913,7 @@ SUBROUTINE_1E90:
      0x1567 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel GK (ID: 17514823/0x010B4147), tag_num=0x04)
      0x156E [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Ark Angel GK (ID: 17514823/0x010B4147), tag_num=0x0A)
      0x1575 [0x7C] Ark Angel GK (ID: 17514823/0x010B4147)->Render.Flags2 |= 0x00
-     0x157B [0x2B] Ark Angel GK (ID: 17514823/0x010B4147) [7647*]:
+     0x157B [0x2B] Ark Angel GK (ID: 17514823/0x010B4147) [7648*]:
     → "You shall be burned by the rage that controls you..."
      0x1582 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [Ark Angel GK (ID: 17514823/0x010B4147), Ark Angel GK (ID: 17514823/0x010B4147)], work=[1*, 0*]
      0x1593 [0x1C] WAIT(3* ticks)
@@ -2355,7 +2355,7 @@ SUBROUTINE_1E90:
 
 SUBROUTINE_207A:
   3: 0x207A [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  4: 0x207B [0x24] CREATE_DIALOG(message_id=7606*, default_option=1*, option_flags=0*)
+  4: 0x207B [0x24] CREATE_DIALOG(message_id=7607*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   5: 0x2082 [0x25] WAIT_DIALOG_SELECT()
   6: 0x2083 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2093

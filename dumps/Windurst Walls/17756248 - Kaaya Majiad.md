@@ -41,21 +41,21 @@
 |       9 | 0x1F00C     |      126988 |
 |      10 | 0xFFFFEB4C  |  4294961996 |
 |      11 | 0x0844      |        2116 |
-|      12 | 0x1F04      |        7940 |
-|      13 | 0x1F05      |        7941 |
+|      12 | 0x1F05      |        7941 |
+|      13 | 0x1F06      |        7942 |
 |      14 | 0x1EB8      |        7864 |
 |      15 | 0xFFFFC74A  |  4294952778 |
 |      16 | 0xFFFFDBE5  |  4294958053 |
 |      17 | 0x0C6F      |        3183 |
-|      18 | 0x1D87      |        7559 |
-|      19 | 0x1D88      |        7560 |
+|      18 | 0x1D88      |        7560 |
+|      19 | 0x1D89      |        7561 |
 
 ## String References
 
-- **7559**: The Tarutaru go all silly over making wishes on falling starrrs, but we Mithra don't believe in such nonsense.
-- **7560**: It's probably a harrrbinger that something really bad's about to happen. Heh, and about time, too. I've been yearrrning to run wild for a bit. Ahh, my blood is rrrushing already!
-- **7940**: If you need to enter Heavens Tower, then you'll have to crrross that bridge over there. Look around you, and you'll realize that the ruins of the once-grrreat walls of Windurst are prrractically filled with water.
-- **7941**: It was twenty years ago, during the Grrreat War, when the walls were destroyed and the place became flooded. But betterrr to have an abundance of waterrr than none at all, eh?
+- **7560**: The Tarutaru go all silly over making wishes on falling starrrs, but we Mithra don't believe in such nonsense.
+- **7561**: It's probably a harrrbinger that something really bad's about to happen. Heh, and about time, too. I've been yearrrning to run wild for a bit. Ahh, my blood is rrrushing already!
+- **7941**: If you need to enter Heavens Tower, then you'll have to crrross that bridge over there. Look around you, and you'll realize that the ruins of the once-grrreat walls of Windurst are prrractically filled with water.
+- **7942**: It was twenty years ago, during the Grrreat War, when the walls were destroyed and the place became flooded. But betterrr to have an abundance of waterrr than none at all, eh?
 
 ## Events
 
@@ -280,7 +280,7 @@
   1: 0x006D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x006E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kaaya Majiad (ID: 17756248/0x010EF058) Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0073 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kaaya Majiad (ID: 17756248/0x010EF058), tag_num=0x03)
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "If you need to enter Heavens Tower, then you'll have to crrross that bridge over there. Look around you, and you'll realize that the ruins of the once-grrreat walls of Windurst are prrractically filled with water."
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kaaya Majiad (ID: 17756248/0x010EF058), tag_num=0x04)
@@ -288,7 +288,7 @@
   8: 0x008A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x008B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x008C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kaaya Majiad (ID: 17756248/0x010EF058), tag_num=0x01)
- 11: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+ 11: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "It was twenty years ago, during the Grrreat War, when the walls were destroyed and the place became flooded. But betterrr to have an abundance of waterrr than none at all, eh?"
  12: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0097 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kaaya Majiad (ID: 17756248/0x010EF058), tag_num=0x05)
@@ -345,10 +345,10 @@
   1: 0x00B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kaaya Majiad (ID: 17756248/0x010EF058), tag_num=0x01)
-  4: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
+  4: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
     → "The Tarutaru go all silly over making wishes on falling starrrs, but we Mithra don't believe in such nonsense."
   5: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
+  6: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
     → "It's probably a harrrbinger that something really bad's about to happen. Heh, and about time, too. I've been yearrrning to run wild for a bit. Ahh, my blood is rrrushing already!"
   7: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kaaya Majiad (ID: 17756248/0x010EF058), tag_num=0x05)

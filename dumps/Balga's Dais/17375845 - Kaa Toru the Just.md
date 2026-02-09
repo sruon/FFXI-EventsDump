@@ -37,16 +37,16 @@
 |       1 | 0x5245      |       21061 |
 |       2 | 0xFFFFD2D3  |  4294955731 |
 |       3 | 0xFFFFEF54  |  4294963028 |
-|       4 | 0x1DD9      |        7641 |
-|       5 | 0x1DDA      |        7642 |
-|       6 | 0x1DDB      |        7643 |
-|       7 | 0x1DDC      |        7644 |
-|       8 | 0x1DDD      |        7645 |
-|       9 | 0x1DDE      |        7646 |
-|      10 | 0x1DDF      |        7647 |
-|      11 | 0x1DE0      |        7648 |
-|      12 | 0x1DE1      |        7649 |
-|      13 | 0x1DE2      |        7650 |
+|       4 | 0x1DDA      |        7642 |
+|       5 | 0x1DDB      |        7643 |
+|       6 | 0x1DDC      |        7644 |
+|       7 | 0x1DDD      |        7645 |
+|       8 | 0x1DDE      |        7646 |
+|       9 | 0x1DDF      |        7647 |
+|      10 | 0x1DE0      |        7648 |
+|      11 | 0x1DE1      |        7649 |
+|      12 | 0x1DE2      |        7650 |
+|      13 | 0x1DE3      |        7651 |
 |      14 | 0x5208      |       21000 |
 |      15 | 0xFFFF5C1D  |  4294925341 |
 |      16 | 0xFFFFEE99  |  4294962841 |
@@ -54,16 +54,16 @@
 
 ## String References
 
-- **7641**: I am Kaa Toru the Just.
-- **7642**: Peace be. By grace of the Yagudo Holy One and the Star Sibyl of Windurst, I be holding Balga Contest here today.
-- **7643**: In south corner, representing Yagudo, we be having blademaster Buu Xolo the Bloodfaced.
-- **7644**: In north corner, representing Windurst, we be having <Player> the Unremarkable.
-- **7645**: Outcome of this battle will be affecting the "Windurstian offerings to Oztroja" clause of Windurst-Oztroja peace treaty.
-- **7646**: Combatants, swear that you will be fighting with honor, kyah!
-- **7647**: Victor is <Player> of Windurst.
-- **7648**: ...Listen to me, smoothskin. Take this $3 to Castle Oztroja. There you can exchange it for the $3, an oath that be concerning the Windurst offerings to Oztroja.
-- **7649**: Got it, quawk? You be making your way to the top level of Castle Oztroja as fast as smoothskin two-legs can take you.
-- **7650**: I now be closing the Balga Contest. Now flock off, kyah!
+- **7642**: I am Kaa Toru the Just.
+- **7643**: Peace be. By grace of the Yagudo Holy One and the Star Sibyl of Windurst, I be holding Balga Contest here today.
+- **7644**: In south corner, representing Yagudo, we be having blademaster Buu Xolo the Bloodfaced.
+- **7645**: In north corner, representing Windurst, we be having <Player> the Unremarkable.
+- **7646**: Outcome of this battle will be affecting the "Windurstian offerings to Oztroja" clause of Windurst-Oztroja peace treaty.
+- **7647**: Combatants, swear that you will be fighting with honor, kyah!
+- **7648**: Victor is <Player> of Windurst.
+- **7649**: ...Listen to me, smoothskin. Take this $3 to Castle Oztroja. There you can exchange it for the $3, an oath that be concerning the Windurst offerings to Oztroja.
+- **7650**: Got it, quawk? You be making your way to the top level of Castle Oztroja as fast as smoothskin two-legs can take you.
+- **7651**: I now be closing the Balga Contest. Now flock off, kyah!
 
 ## Events
 
@@ -155,7 +155,7 @@
 #### Opcodes
 
 ```
-  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7642*)
     → "I am Kaa Toru the Just."
   1: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0014 [0x00] END_REQSTACK()
@@ -180,7 +180,7 @@
 #### Opcodes
 
 ```
-  0: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7642*)
+  0: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
     → "Peace be. By grace of the Yagudo Holy One and the Star Sibyl of Windurst, I be holding Balga Contest here today."
   1: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0019 [0x00] END_REQSTACK()
@@ -205,7 +205,7 @@
 #### Opcodes
 
 ```
-  0: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7643*)
+  0: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7644*)
     → "In south corner, representing Yagudo, we be having blademaster Buu Xolo the Bloodfaced."
   1: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001E [0x00] END_REQSTACK()
@@ -231,7 +231,7 @@
 #### Opcodes
 
 ```
-  0: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7644*)
+  0: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
     → "In north corner, representing Windurst, we be having <Player> the Unremarkable."
   1: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0023 [0x00] END_REQSTACK()
@@ -256,7 +256,7 @@
 #### Opcodes
 
 ```
-  0: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
+  0: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
     → "Outcome of this battle will be affecting the "Windurstian offerings to Oztroja" clause of Windurst-Oztroja peace treaty."
   1: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0028 [0x00] END_REQSTACK()
@@ -281,7 +281,7 @@
 #### Opcodes
 
 ```
-  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
+  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
     → "Combatants, swear that you will be fighting with honor, kyah!"
   1: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002D [0x00] END_REQSTACK()
@@ -329,7 +329,7 @@
 #### Opcodes
 
 ```
-  0: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
+  0: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
     → "Victor is <Player> of Windurst."
   1: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0033 [0x00] END_REQSTACK()
@@ -354,7 +354,7 @@
 #### Opcodes
 
 ```
-  0: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
+  0: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
     → "...Listen to me, smoothskin. Take this $3 to Castle Oztroja. There you can exchange it for the $3, an oath that be concerning the Windurst offerings to Oztroja."
   1: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0038 [0x00] END_REQSTACK()
@@ -379,7 +379,7 @@
 #### Opcodes
 
 ```
-  0: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
+  0: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7650*)
     → "Got it, quawk? You be making your way to the top level of Castle Oztroja as fast as smoothskin two-legs can take you."
   1: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003D [0x00] END_REQSTACK()
@@ -405,7 +405,7 @@
 #### Opcodes
 
 ```
-  0: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7650*)
+  0: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7651*)
     → "I now be closing the Balga Contest. Now flock off, kyah!"
   1: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0042 [0x00] END_REQSTACK()

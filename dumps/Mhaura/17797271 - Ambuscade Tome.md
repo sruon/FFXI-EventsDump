@@ -25,7 +25,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1F9A      |        8090 |
+|       2 | 0x1F9B      |        8091 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
 |       5 | 0x0004      |           4 |
@@ -35,22 +35,22 @@
 |       9 | 0x000F      |          15 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x0005      |           5 |
-|      12 | 0x1F9B      |        8091 |
+|      12 | 0x1F9C      |        8092 |
 |      13 | 0x000B      |          11 |
-|      14 | 0x1FAA      |        8106 |
-|      15 | 0x1FAF      |        8111 |
-|      16 | 0x1F9D      |        8093 |
-|      17 | 0x1F9F      |        8095 |
-|      18 | 0x1FB3      |        8115 |
-|      19 | 0x1FB5      |        8117 |
-|      20 | 0x1FB2      |        8114 |
-|      21 | 0x1FB4      |        8116 |
-|      22 | 0x1FB6      |        8118 |
-|      23 | 0x1F9C      |        8092 |
-|      24 | 0x1F9E      |        8094 |
-|      25 | 0x1FC1      |        8129 |
+|      14 | 0x1FAB      |        8107 |
+|      15 | 0x1FB0      |        8112 |
+|      16 | 0x1F9E      |        8094 |
+|      17 | 0x1FA0      |        8096 |
+|      18 | 0x1FB4      |        8116 |
+|      19 | 0x1FB6      |        8118 |
+|      20 | 0x1FB3      |        8115 |
+|      21 | 0x1FB5      |        8117 |
+|      22 | 0x1FB7      |        8119 |
+|      23 | 0x1F9D      |        8093 |
+|      24 | 0x1F9F      |        8095 |
+|      25 | 0x1FC2      |        8130 |
 |      26 | 0x0032      |          50 |
-|      27 | 0x1FCA      |        8138 |
+|      27 | 0x1FCB      |        8139 |
 |      28 | 0x0008      |           8 |
 |      29 | 0x0011      |          17 |
 |      30 | 0x0006      |           6 |
@@ -61,21 +61,21 @@
 
 ## String References
 
-- **8090**: Pick your poison. (Auto-transport: [off/on]) [No Ambuscade for now./Intense Ambuscade./Regular Ambuscade./Light Ambuscade./Toggle auto-transport.]
-- **8091**: Select a difficulty level. [Go back./Very difficult. (Level: ???)/Difficult. (Level: $10)/Normal. (Level: $11)/Easy. (Level: $12)/Very easy. (Level: $13)]
-- **8092**: Only party members present with you in this area will be transported to the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
-- **8093**: [Apply to proceed/Proceed]? [Most certainly!/Not yet.]
-- **8094**: Entering the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
-- **8095**: You have chosen not to [apply to /]enter the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
-- **8106**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **8111**: Applying to enter [/a Very Difficult Intense Ambuscade/a Difficult Intense Ambuscade/a Normal Intense Ambuscade/an Easy Intense Ambuscade/a Very Easy Intense Ambuscade/a Very Difficult Ambuscade/a Difficult Ambuscade/a Normal Ambuscade/an Easy Ambuscade/a Very Easy Ambuscade/a Light Ambuscade]. You will be unable to participate if you add any more party members. Are you sure?
-- **8114**: Your name is inscribed in page $3 of the Ambuscade tome.
-- **8115**: Names are inscribed up through page $3 of the Ambuscade tome. Page $2 beams with a fierce light.
-- **8116**: Prepare yourselves! The battlefield is almost ready!
-- **8117**: You are currently applying to enter [/a Very Difficult Intense Ambuscade/a Difficult Intense Ambuscade/a Normal Intense Ambuscade/an Easy Intense Ambuscade/a Very Easy Intense Ambuscade/a Very Difficult Ambuscade/a Difficult Ambuscade/a Normal Ambuscade/an Easy Ambuscade/a Very Easy Ambuscade/a Light Ambuscade].
-- **8118**: You are on page $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **8129**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Dummy Entrance People./Close dialogue.]
-- **8138**: Designate a value between $0 and $1.
+- **8091**: Pick your poison. (Auto-transport: [off/on]) [No Ambuscade for now./Intense Ambuscade./Regular Ambuscade./Light Ambuscade./Toggle auto-transport.]
+- **8092**: Select a difficulty level. [Go back./Very difficult. (Level: ???)/Difficult. (Level: $10)/Normal. (Level: $11)/Easy. (Level: $12)/Very easy. (Level: $13)]
+- **8093**: Only party members present with you in this area will be transported to the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
+- **8094**: [Apply to proceed/Proceed]? [Most certainly!/Not yet.]
+- **8095**: Entering the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
+- **8096**: You have chosen not to [apply to /]enter the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade].
+- **8107**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **8112**: Applying to enter [/a Very Difficult Intense Ambuscade/a Difficult Intense Ambuscade/a Normal Intense Ambuscade/an Easy Intense Ambuscade/a Very Easy Intense Ambuscade/a Very Difficult Ambuscade/a Difficult Ambuscade/a Normal Ambuscade/an Easy Ambuscade/a Very Easy Ambuscade/a Light Ambuscade]. You will be unable to participate if you add any more party members. Are you sure?
+- **8115**: Your name is inscribed in page $3 of the Ambuscade tome.
+- **8116**: Names are inscribed up through page $3 of the Ambuscade tome. Page $2 beams with a fierce light.
+- **8117**: Prepare yourselves! The battlefield is almost ready!
+- **8118**: You are currently applying to enter [/a Very Difficult Intense Ambuscade/a Difficult Intense Ambuscade/a Normal Intense Ambuscade/an Easy Intense Ambuscade/a Very Easy Intense Ambuscade/a Very Difficult Ambuscade/a Difficult Ambuscade/a Normal Ambuscade/an Easy Ambuscade/a Very Easy Ambuscade/a Light Ambuscade].
+- **8119**: You are on page $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **8130**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Dummy Entrance People./Close dialogue.]
+- **8139**: Designate a value between $0 and $1.
 
 ## Events
 
@@ -159,7 +159,7 @@
   9: 0x002B [0x03] ExtData[1]->WorkLocal[3] = 0*
  10: 0x0030 [0x03] ExtData[1]->WorkLocal[1] = 0*
  11: 0x0035 [0x03] ExtData[1]->WorkLocal[4] = 0*
- 12: 0x003A [0x24] CREATE_DIALOG(message_id=8090*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 12: 0x003A [0x24] CREATE_DIALOG(message_id=8091*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Pick your poison. (Auto-transport: [off/on]) [No Ambuscade for now./Intense Ambuscade./Regular Ambuscade./Light Ambuscade./Toggle auto-transport.]"
  13: 0x0041 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0042 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0057
@@ -190,7 +190,7 @@ SUBROUTINE_00A3:
  37: 0x00C1 [0x07] Work_Zone_1700[4] += 5*
  38: 0x00C6 [0x07] Work_Zone_1700[5] += 0*
  39: 0x00CB [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0130
- 40: 0x00D3 [0x24] CREATE_DIALOG(message_id=8091*, default_option=0*, option_flags=0*)
+ 40: 0x00D3 [0x24] CREATE_DIALOG(message_id=8092*, default_option=0*, option_flags=0*)
     → "Select a difficulty level. [Go back./Very difficult. (Level: ???)/Difficult. (Level: $10)/Normal. (Level: $11)/Easy. (Level: $12)/Very easy. (Level: $13)]"
  41: 0x00DA [0x25] WAIT_DIALOG_SELECT()
  42: 0x00DB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EB
@@ -222,14 +222,14 @@ SUBROUTINE_0130:
 
 SUBROUTINE_0158:
  66: 0x0158 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 67: 0x015D [0x48] [System] [8106*]:
+ 67: 0x015D [0x48] [System] [8107*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
  68: 0x0160 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 69: 0x0165 [0x48] [System] [8111*]:
+ 69: 0x0165 [0x48] [System] [8112*]:
     → "Applying to enter [/a Very Difficult Intense Ambuscade/a Difficult Intense Ambuscade/a Normal Intense Ambuscade/an Easy Intense Ambuscade/a Very Easy Intense Ambuscade/a Very Difficult Ambuscade/a Difficult Ambuscade/a Normal Ambuscade/an Easy Ambuscade/a Very Easy Ambuscade/a Light Ambuscade]. You will be unable to participate if you add any more party members. Are you sure?"
  70: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0169 [0x03] Work_Zone[3] = 0*
- 72: 0x016E [0x24] CREATE_DIALOG(message_id=8093*, default_option=0*, option_flags=0*)
+ 72: 0x016E [0x24] CREATE_DIALOG(message_id=8094*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Most certainly!/Not yet.]"
  73: 0x0175 [0x25] WAIT_DIALOG_SELECT()
  74: 0x0176 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x019E
@@ -242,7 +242,7 @@ SUBROUTINE_0158:
  81: 0x019B [0x01] GOTO 0x01B2
  82: 0x019E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  83: 0x01A3 [0x03] Work_Zone[3] = 0*
- 84: 0x01A8 [0x48] [System] [8095*]:
+ 84: 0x01A8 [0x48] [System] [8096*]:
     → "You have chosen not to [apply to /]enter the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade]."
  85: 0x01AB [0x03] Work_Zone[1] = 1073741824*
  86: 0x01B0 [0x21] END_EVENT
@@ -286,26 +286,26 @@ SUBROUTINE_01B2:
 
 ```
   0: 0x01B4 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x01C3
-  1: 0x01BC [0x48] [System] [8115*]:
+  1: 0x01BC [0x48] [System] [8116*]:
     → "Names are inscribed up through page $3 of the Ambuscade tome. Page $2 beams with a fierce light."
   2: 0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01C0 [0x01] GOTO 0x01C7
-  4: 0x01C3 [0x48] [System] [8117*]:
+  4: 0x01C3 [0x48] [System] [8118*]:
     → "You are currently applying to enter [/a Very Difficult Intense Ambuscade/a Difficult Intense Ambuscade/a Normal Intense Ambuscade/an Easy Intense Ambuscade/a Very Easy Intense Ambuscade/a Very Difficult Ambuscade/a Difficult Ambuscade/a Normal Ambuscade/an Easy Ambuscade/a Very Easy Ambuscade/a Light Ambuscade]."
   5: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01C7:
-  6: 0x01C7 [0x48] [System] [8114*]:
+  6: 0x01C7 [0x48] [System] [8115*]:
     → "Your name is inscribed in page $3 of the Ambuscade tome."
   7: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01CB [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x01DF
-  9: 0x01D3 [0x48] [System] [8116*]:
+  9: 0x01D3 [0x48] [System] [8117*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  10: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x01D7 [0x03] Work_Zone[1] = 1073741824*
  12: 0x01DC [0x01] GOTO 0x0211
  13: 0x01DF [0x03] Work_Zone[2] = 1*
- 14: 0x01E4 [0x24] CREATE_DIALOG(message_id=8118*, default_option=1*, option_flags=0*)
+ 14: 0x01E4 [0x24] CREATE_DIALOG(message_id=8119*, default_option=1*, option_flags=0*)
     → "You are on page $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  15: 0x01EB [0x25] WAIT_DIALOG_SELECT()
  16: 0x01EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
@@ -347,11 +347,11 @@ SUBROUTINE_0211:
 ```
   0: 0x0213 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0214 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
-  2: 0x0219 [0x48] [System] [8092*]:
+  2: 0x0219 [0x48] [System] [8093*]:
     → "Only party members present with you in this area will be transported to the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade]."
   3: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x021D [0x03] Work_Zone[3] = 1*
-  5: 0x0222 [0x24] CREATE_DIALOG(message_id=8093*, default_option=0*, option_flags=0*)
+  5: 0x0222 [0x24] CREATE_DIALOG(message_id=8094*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Most certainly!/Not yet.]"
   6: 0x0229 [0x25] WAIT_DIALOG_SELECT()
   7: 0x022A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x025F
@@ -360,7 +360,7 @@ SUBROUTINE_0211:
  10: 0x0239 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  11: 0x023B [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0257
  12: 0x0243 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 13: 0x0248 [0x48] [System] [8094*]:
+ 13: 0x0248 [0x48] [System] [8095*]:
     → "Entering the [/Very Difficult Intense Ambuscade/Difficult Intense Ambuscade/Normal Intense Ambuscade/Easy Intense Ambuscade/Very Easy Intense Ambuscade/Very Difficult Ambuscade/Difficult Ambuscade/Normal Ambuscade/Easy Ambuscade/Very Easy Ambuscade/Light Ambuscade]."
  14: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x024C [0x1A] CALL_SUBROUTINE(address=0x0359)
@@ -420,7 +420,7 @@ SUBROUTINE_0264:
 ```
   0: 0x0266 [0x05] ExtData[1]->WorkLocal[10] = 1
   1: 0x0269 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x0357
-  2: 0x0271 [0x24] CREATE_DIALOG(message_id=8129*, default_option=0*, option_flags=0*)
+  2: 0x0271 [0x24] CREATE_DIALOG(message_id=8130*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Dummy Entrance People./Close dialogue.]"
   3: 0x0278 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0279 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x028D
@@ -436,7 +436,7 @@ SUBROUTINE_0264:
  14: 0x02A1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02D5
  15: 0x02A9 [0x03] Work_Zone[2] = 1*
  16: 0x02AE [0x03] Work_Zone[3] = 50*
- 17: 0x02B3 [0x48] [System] [8138*]:
+ 17: 0x02B3 [0x48] [System] [8139*]:
     → "Designate a value between $0 and $1."
  18: 0x02B6 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  19: 0x02BC [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -448,7 +448,7 @@ SUBROUTINE_0264:
  25: 0x02D5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0309
  26: 0x02DD [0x03] Work_Zone[2] = 1*
  27: 0x02E2 [0x03] Work_Zone[3] = 50*
- 28: 0x02E7 [0x48] [System] [8138*]:
+ 28: 0x02E7 [0x48] [System] [8139*]:
     → "Designate a value between $0 and $1."
  29: 0x02EA [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  30: 0x02F0 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -465,7 +465,7 @@ SUBROUTINE_0264:
  41: 0x031D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0351
  42: 0x0325 [0x03] Work_Zone[2] = 0*
  43: 0x032A [0x03] Work_Zone[3] = 17*
- 44: 0x032F [0x48] [System] [8138*]:
+ 44: 0x032F [0x48] [System] [8139*]:
     → "Designate a value between $0 and $1."
  45: 0x0332 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  46: 0x0338 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])

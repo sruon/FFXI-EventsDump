@@ -1,5 +1,5 @@
 # Strings for Horlais Peak
-# Total: 8002 strings
+# Total: 8003 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,15 +7226,15 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: Enter the battlefield? [Enter./Decline.]
- 7228: Leave the battlefield? [Run away./Stay.]
- 7229: You cannot enter the battlefield at present. Please wait a little longer.
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: Enter the battlefield? [Enter./Decline.]
+ 7229: Leave the battlefield? [Run away./Stay.]
  7230: You cannot enter the battlefield at present. Please wait a little longer.
- 7231: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
- 7232: Your time in the battlefield is up! Now exiting...
- 7233: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7231: You cannot enter the battlefield at present. Please wait a little longer.
+ 7232: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+ 7233: Your time in the battlefield is up! Now exiting...
  7234: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7235: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7236: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7244,59 +7244,59 @@
  7240: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7241: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
  7242: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
- 7243: You have been enchanted so that you may enter!
- 7244: Your entry enchantment has expired!
- 7245: You are not cleared to enter the battlefield. Now exiting...
- 7246: A cursed seal has been placed upon this platform.
- 7247: The battlefield where your party members are engaged in combat is locked. Access is denied.
- 7248: There is no response. You cannot escape!
- 7249: The door is sealed shut with an evil curse.
- 7250: A mysterious force is sealing the platform.
- 7251: The old wooden door is locked tight.
- 7252: The door is sealed with a mysterious energy.
- 7253: It is a giant crystal.
- 7254: A strong magical force is whirling up from the platform.
- 7255: A fierce column of wind blocks your path. You cannot proceed any further...
- 7256: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
- 7257: An unfathomable light is rising from this strangely marked platform...
- 7258: A heavy wooden gate. It is tightly locked...
- 7259: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7243: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+ 7244: You have been enchanted so that you may enter!
+ 7245: Your entry enchantment has expired!
+ 7246: You are not cleared to enter the battlefield. Now exiting...
+ 7247: A cursed seal has been placed upon this platform.
+ 7248: The battlefield where your party members are engaged in combat is locked. Access is denied.
+ 7249: There is no response. You cannot escape!
+ 7250: The door is sealed shut with an evil curse.
+ 7251: A mysterious force is sealing the platform.
+ 7252: The old wooden door is locked tight.
+ 7253: The door is sealed with a mysterious energy.
+ 7254: It is a giant crystal.
+ 7255: A strong magical force is whirling up from the platform.
+ 7256: A fierce column of wind blocks your path. You cannot proceed any further...
+ 7257: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+ 7258: An unfathomable light is rising from this strangely marked platform...
+ 7259: A heavy wooden gate. It is tightly locked...
  7260: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7261: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
  7262: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
- 7263: A glowing mist of ever-changing proportions floats before you...
- 7264: A solid iron gate. It is tightly locked...
- 7265: You see a gigantic crystal, glowing with amber light...
+ 7263: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+ 7264: A glowing mist of ever-changing proportions floats before you...
+ 7265: A solid iron gate. It is tightly locked...
  7266: You see a gigantic crystal, glowing with amber light...
- 7267: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
- 7268: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
- 7269: If you listen closely, you can faintly hear female voices singing in rounds...
- 7270: It appears as if something had been thrust into the rockface here...
- 7271: A decorative door. It appears to be locked...
- 7272: The door is locked.
- 7273: The gate is locked.
- 7274: The door is locked.
+ 7267: You see a gigantic crystal, glowing with amber light...
+ 7268: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+ 7269: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+ 7270: If you listen closely, you can faintly hear female voices singing in rounds...
+ 7271: It appears as if something had been thrust into the rockface here...
+ 7272: A decorative door. It appears to be locked...
+ 7273: The door is locked.
+ 7274: The gate is locked.
  7275: The door is locked.
- 7276: There seems to be a space beneath the floor, but you are unable to access it.
- 7277: You do not meet the requirements to enter the battlefield. Access is denied.
- 7278: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
- 7279: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
- 7280: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
- 7281: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
- 7282: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
- 7283: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
- 7284: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
- 7285: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
- 7286: You were unable to protect the special character. Now leaving the battlefield.
- 7287: You were unable to protect Prince Trion. Now leaving the battlefield.
- 7288: You were unable to protect Captain Volker. Now leaving the battlefield.
- 7289: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
- 7290: Your $0 is torn...
- 7291: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7292: Your $0 is torn...
- 7293: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
- 7294: You see innumerable stars shimmering in the distance...
- 7295: @
+ 7276: The door is locked.
+ 7277: There seems to be a space beneath the floor, but you are unable to access it.
+ 7278: You do not meet the requirements to enter the battlefield. Access is denied.
+ 7279: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+ 7280: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+ 7281: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+ 7282: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+ 7283: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+ 7284: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+ 7285: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+ 7286: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+ 7287: You were unable to protect the special character. Now leaving the battlefield.
+ 7288: You were unable to protect Prince Trion. Now leaving the battlefield.
+ 7289: You were unable to protect Captain Volker. Now leaving the battlefield.
+ 7290: You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+ 7291: Your $0 is torn...
+ 7292: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7293: Your $0 is torn...
+ 7294: Your $0 [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] ($2 [use remains/uses remain].)
+ 7295: You see innumerable stars shimmering in the distance...
  7296: @
  7297: @
  7298: @
@@ -7304,702 +7304,703 @@
  7300: @
  7301: @
  7302: @
- 7303: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
+ 7303: @
  7304: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7305: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7306: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7307: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
- 7308: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7308: $3o$3g$3 [$3t$3B$6819916%L$P10'@$30$T*%_,\5=/$P11^$o5\7B]
  7309: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
  7310: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
- 7311: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7312: i$20%.%p$P15zj
- 7313: $7278448;39\5=Bj
+ 7311: ($!$3o$3g$3 [$3t$3B$5046857$P12N`"H"j]
+ 7312: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7313: i$20%.%p$P15zj
  7314: $7278448;39\5=Bj
  7315: $7278448;39\5=Bj
- 7316: remove@1
- 7317: remove@2
- 7318: remove@3
- 7319: i$3{$3X_A$P13|5=j
- 7320: i$3{$3X_B$P13|5=j
- 7321: i$3{$3X_C$P13|5=j
- 7322: $6750818j=j
- 7323: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7324: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7325: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7316: $7278448;39\5=Bj
+ 7317: remove@1
+ 7318: remove@2
+ 7319: remove@3
+ 7320: i$3{$3X_A$P13|5=j
+ 7321: i$3{$3X_B$P13|5=j
+ 7322: i$3{$3X_C$P13|5=j
+ 7323: $6750818j=j
+ 7324: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7325: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
  7326: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7327: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7328: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7329: GL$20%.L$P16<$P11Op)i$132960a b
- 7330: GL$20%.LIDp)i$132960a b
- 7331: $20%._AL$3p$3243853
- 7332: $20%._BL$3p$3243853
- 7333: $20%._CL$3p$3243853
- 7334: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7335: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7336: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7328: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7329: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7330: GL$20%.L$P16<$P11Op)i$132960a b
+ 7331: GL$20%.LIDp)i$132960a b
+ 7332: $20%._AL$3p$3243853
+ 7333: $20%._BL$3p$3243853
+ 7334: $20%._CL$3p$3243853
+ 7335: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7336: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7337: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7338: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7339: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7339: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7340: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7341: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7342: $6819916%L$P10l$20*()5"
+ 7342: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7343: $6819916%L$P10l$20*()5"
  7344: $6819916%L$P10l$20*()5"
- 7345: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7345: $6819916%L$P10l$20*()5"
  7346: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7347: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7348: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7349: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7350: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7351: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7352: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7353: i$20%._A$P13&$22$3C$3x$3$3g
- 7354: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7355: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7356: i$20%._B$P13&$22$3C$3x$3$3g
- 7357: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7358: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7359: i$20%._C$P13&$22$3C$3x$3$3g
- 7360: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7361: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7362: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7363: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7364: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7365: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7366: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7367: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7368: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7369: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7370: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7371: $6647884nding$8%p$@$s5\5=B
- 7372: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7348: $2228809iHg$P16X%zL$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7349: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7350: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7351: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7352: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7353: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7354: i$20%._A$P13&$22$3C$3x$3$3g
+ 7355: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7356: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7357: i$20%._B$P13&$22$3C$3x$3$3g
+ 7358: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7359: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7360: i$20%._C$P13&$22$3C$3x$3$3g
+ 7361: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7362: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7363: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7364: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7365: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7366: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7367: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7368: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7369: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7370: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7371: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7372: $6647884nding$8%p$@$s5\5=B
  7373: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7374: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7375: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7376: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7377: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7378: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7379: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7380: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7381: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7382: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7383: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7384: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7385: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7386: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7387: ($20%._AM$0$P14u$6E7)
- 7388: ($20%._BM$0$P14u$6E7)
- 7389: ($20%._CM$0$P14u$6E7)
- 7390: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7391: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7392: i$20%._A$P13|$:I$3g$3$3C5\7
- 7393: i$20%._B$P13|$:I$3g$3$3C5\7
- 7394: i$20%._C$P13|$:I$3g$3$3C5\7
- 7395: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7396: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7397: (AIMID* h\9qE5=)
- 7398: (BIMID* h\9qE5=)
- 7399: (CIMID* h\9qE5=)
- 7400: (AIID* h\5=)
- 7401: (BIID* h\5=)
- 7402: (CIID* h\5=)
- 7403: (AM7EI$P10f$P16q* h\5=)
- 7404: (BM7EI$P10f$P16q* h\5=)
- 7405: (CM7EI$P10f$P16q* h\5=)
- 7406: $2097706ADH"=_$P13|$:E+\9q
- 7407: $3o$3g$3 [$3$3Z$3b$3g)/=]
- 7408: i$20%.%p$P15zj
- 7409: $7278448;39\5=Bj
+ 7375: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7376: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7377: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7378: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7379: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7380: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7381: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7382: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7383: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7384: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7385: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7386: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7387: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7388: ($20%._AM$0$P14u$6E7)
+ 7389: ($20%._BM$0$P14u$6E7)
+ 7390: ($20%._CM$0$P14u$6E7)
+ 7391: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7392: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7393: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7394: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7395: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7396: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7397: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7398: (AIMID* h\9qE5=)
+ 7399: (BIMID* h\9qE5=)
+ 7400: (CIMID* h\9qE5=)
+ 7401: (AIID* h\5=)
+ 7402: (BIID* h\5=)
+ 7403: (CIID* h\5=)
+ 7404: (AM7EI$P10f$P16q* h\5=)
+ 7405: (BM7EI$P10f$P16q* h\5=)
+ 7406: (CM7EI$P10f$P16q* h\5=)
+ 7407: $2097706ADH"=_$P13|$:E+\9q
+ 7408: $3o$3g$3 [$3$3Z$3b$3g)/=]
+ 7409: i$20%.%p$P15zj
  7410: $7278448;39\5=Bj
  7411: $7278448;39\5=Bj
- 7412: i$3{$3X_A$A&=j
- 7413: i$3{$3X_B$A&=j
- 7414: i$3{$3X_C$A&=j
- 7415: i$3{$3X_A$P13|5=j
- 7416: i$3{$3X_B$P13|5=j
- 7417: i$3{$3X_C$P13|5=j
- 7418: H=M$20%.`I$P13|j;$E7
- 7419: H=M$20%.aI$P13|j;$E7
- 7420: H=M$20%.bI$P13|j;$E7
- 7421: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
- 7422: $4457025i
- 7423: $4456998"i
- 7424: $24952730=j
- 7425: $656169$3$3N$3f$3b$3hj
- 7426: $P12N`"H"
- 7427: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
+ 7412: $7278448;39\5=Bj
+ 7413: i$3{$3X_A$A&=j
+ 7414: i$3{$3X_B$A&=j
+ 7415: i$3{$3X_C$A&=j
+ 7416: i$3{$3X_A$P13|5=j
+ 7417: i$3{$3X_B$P13|5=j
+ 7418: i$3{$3X_C$P13|5=j
+ 7419: H=M$20%.`I$P13|j;$E7
+ 7420: H=M$20%.aI$P13|j;$E7
+ 7421: H=M$20%.bI$P13|j;$E7
+ 7422: ;$];L$20%.E<Player>j$15I$P10m&i$7$TM %0$1851649$3 ;L$P11<$3605061
+ 7423: $4457025i
+ 7424: $4456998"i
+ 7425: $24952730=j
+ 7426: $656169$3$3N$3f$3b$3hj
+ 7427: $P12N`"H"
  7428: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7429: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
- 7430: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
+ 7430: i$3o$3g$3 [$3t$3B$67401@ H=L$7$T*$P13|AD"\7j]
  7431: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7432: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7433: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
- 7434: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7434: $3o$3g$3 [$3t$3B$6750761%#$P12E5\7]
  7435: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
  7436: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
- 7437: pending$3`$3F$3b$3N$3I[$3P[
- 7438: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7437: $3o$3g$3 [$3t$3B$6750761$P13&$225\5=]
+ 7438: pending$3`$3F$3b$3N$3I[$3P[
  7439: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
  7440: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
- 7441: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
- 7442: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7443: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7444: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
- 7445: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7441: $3o$3g$3 [$3t$3B$5112688$3$3A5\7]
+ 7442: i$3N$3$3C$3A$3$3g$3C$3x$3$3gI$P13K$P13|
+ 7443: i$3{$3X_A$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7444: i$3{$3X_B$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
+ 7445: i$3{$3X_C$P10m$I%9%p$3C$3x$3$3g$3t$3$3O%'D\7B
  7446: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
  7447: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
- 7448: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
- 7449: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
- 7450: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
- 7451: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
- 7452: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
- 7453: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
- 7454: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
- 7455: $6750818j=j
- 7456: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
- 7457: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
- 7458: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
- 7459: GL$20%.L$P16<$P11Op)i$132960a b
- 7460: GL$20%.LIDp)i$132960a b
- 7461: $20%._AL$3p$3243853
- 7462: $20%._BL$3p$3243853
- 7463: $20%._CL$3p$3243853
- 7464: $P13|$: [$9B$2$P16@$3G$3$1[P]
- 7465: $P13|$: [$9B$2$P16@$3G$3$1[Q]
- 7466: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
+ 7448: $2228809iPCL @$P11^$o$8%$6E7$24953090gj\9qB
+ 7449: $3998280M$P11O%q$3$3$3N$3f$3b$3h5\5=B
+ 7450: i$3][$3$3A$3E$3g$3^$3Op$P12Jh\5=B
+ 7451: $3998280M @$3y$3$3f$3B$3$3O$3^$3Op$P12Jh\5=
+ 7452: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._AI$P15O$X5\5=B]
+ 7453: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._BI$P15O$X5\5=B]
+ 7454: $3L$20%.M $3936585L$3O$3 [$6035273$P16q3j\5=B/@pending$30I$20%._CI$P15O$X5\5=B]
+ 7455: $1316172%.* [s"DH")/@$3`$3F$3b$3N5\7B]
+ 7456: $6750818j=j
+ 7457: $P16<$P11OE"$F %0$1851649$3$4981307$P11<E7B
+ 7458: IDE"$F $0$672001$3A$4$6819909%L$P10l$20M$6E7B
+ 7459: $P16<$P11O)IDp)\7 [$P16<$P11O/ID]
+ 7460: GL$20%.L$P16<$P11Op)i$132960a b
+ 7461: GL$20%.LIDp)i$132960a b
+ 7462: $20%._AL$3p$3243853
+ 7463: $20%._BL$3p$3243853
+ 7464: $20%._CL$3p$3243853
+ 7465: $P13|$: [$9B$2$P16@$3G$3$1[P]
+ 7466: $P13|$: [$9B$2$P16@$3G$3$1[Q]
  7467: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7468: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
- 7469: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
+ 7469: H=*$3$397900E <Player>j$P14T$E$9I$3o$3g$3 [$3t$3B$8131401h\7]
  7470: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7471: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7472: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7473: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
- 7474: $6819916%L$P10l$20*()5"
+ 7474: $4981317$3`$3F$3b$3N*$P12Jh\5=B @$3o$3g$3 [$3t$3B$8131401h\7B]
  7475: $6819916%L$P10l$20*()5"
- 7476: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7476: $6819916%L$P10l$20*()5"
  7477: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
  7478: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
- 7479: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
- 7480: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
- 7481: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
- 7482: i$3{$3X_A$P13|5=c$3C$3x$3$3g
- 7483: i$20%._A$30$T$P124%_$3C$3x$3$3g
- 7484: i$20%._A$P13&$22$3C$3x$3$3g
- 7485: i$3{$3X_B$P13|5=c$3C$3x$3$3g
- 7486: i$20%._B$30$T$P124%_$3C$3x$3$3g
- 7487: i$20%._B$P13&$22$3C$3x$3$3g
- 7488: i$3{$3X_C$P13|5=c$3C$3x$3$3g
- 7489: i$20%._C$30$T$P124%_$3C$3x$3$3g
- 7490: i$20%._C$P13&$22$3C$3x$3$3g
- 7491: $64287495)/gjH"M8HqE7* $4457013\7Bj
- 7492: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7493: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7494: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7495: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7496: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
- 7497: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
- 7498: i$20%._A$P13&$22pending$8%p$@$s5\7B
- 7499: i$20%._B$P13&$22pending$8%p$@$s5\7B
- 7500: i$20%._C$P13&$22pending$8%p$@$s5\7B
- 7501: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
- 7502: $6647884nding$8%p$@$s5\5=B
- 7503: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7479: $2228809iHg$3G$3$1[B $8131401AD"i$3t$3$3O*%'AD"\9q$3474016-Mtalk$3G$3$1[E$P16{$22M%b5)/gjH"Bj
+ 7480: $4475209*H"LI$20%._A$P13|$:$3t$3$3O*$3I$3$1B
+ 7481: $4475209*H"LI$20%._B$P13|$:$3t$3$3O*$3I$3$1B
+ 7482: $4475209*H"LI$20%._C$P13|$:$3t$3$3O*$3I$3$1Bj
+ 7483: i$3{$3X_A$P13|5=c$3C$3x$3$3g
+ 7484: i$20%._A$30$T$P124%_$3C$3x$3$3g
+ 7485: i$20%._A$P13&$22$3C$3x$3$3g
+ 7486: i$3{$3X_B$P13|5=c$3C$3x$3$3g
+ 7487: i$20%._B$30$T$P124%_$3C$3x$3$3g
+ 7488: i$20%._B$P13&$22$3C$3x$3$3g
+ 7489: i$3{$3X_C$P13|5=c$3C$3x$3$3g
+ 7490: i$20%._C$30$T$P124%_$3C$3x$3$3g
+ 7491: i$20%._C$P13&$22$3C$3x$3$3g
+ 7492: $64287495)/gjH"M8HqE7* $4457013\7Bj
+ 7493: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7494: i$20%._A$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@ipending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7495: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7496: i$20%._B$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7497: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=$4391756$3x$3$3g$4h$30]B]
+ 7498: i$20%._C$P13&$22MpendingE @$3L$3$3$3$3Z$3 [3j\5=B/@pending$3`$3F$3b$3N$30I$3{$3X*$P13|3j=f$E7B]
+ 7499: i$20%._A$P13&$22pending$8%p$@$s5\7B
+ 7500: i$20%._B$P13&$22pending$8%p$@$s5\7B
+ 7501: i$20%._C$P13&$22pending$8%p$@$s5\7B
+ 7502: $3998280M$3$3$3N$3f$3b$3h5\5=$4719136=*"=$3o$3g$3 [$3t$3B$67405@`$7EI$P15JL$3p$6753834%p5D"i=_$4719136=p$P11^$o39\5=B]
+ 7503: $6647884nding$8%p$@$s5\5=B
  7504: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
  7505: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
- 7506: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7507: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7508: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
- 7509: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
- 7510: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
- 7511: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
- 7512: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7513: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7514: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
- 7515: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7516: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7517: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
- 7518: ($20%._AM$0$P14u$6E7)
- 7519: ($20%._BM$0$P14u$6E7)
- 7520: ($20%._CM$0$P14u$6E7)
- 7521: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
- 7522: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
- 7523: i$20%._A$P13|$:I$3g$3$3C5\7
- 7524: i$20%._B$P13|$:I$3g$3$3C5\7
- 7525: i$20%._C$P13|$:I$3g$3$3C5\7
- 7526: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
- 7527: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
- 7528: (AIMID* h\9qE5=)
- 7529: (BIMID* h\9qE5=)
- 7530: (CIMID* h\9qE5=)
- 7531: (AIID* h\5=)
- 7532: (BIID* h\5=)
- 7533: (CIID* h\5=)
- 7534: (AM7EI$P10f$P16q* h\5=)
- 7535: (BM7EI$P10f$P16q* h\5=)
- 7536: (CM7EI$P10f$P16q* h\5=)
- 7537: $2097706ADH"=_$P13|$:E+\9q
- 7538: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
- 7539: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
- 7540: Only <Player> can enter the battlefield.
- 7541: The time limit for this battle is $3 minutes.
- 7542: There is a crack in the $3. It no longer contains a monster.
- 7543: A crack has formed on the $3, and the beast inside has been unleashed!
- 7544: Boss mode : $6!!
- 7545: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
- 7546: $7
- 7547: DEBUG1
- 7548: $T&$:I$P16_i)$4719207" $P16_i
- 7549: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
- 7550: iDEBUG$3998261$3{$3X$3|$3b$3vB
- 7551: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
- 7552: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
- 7553: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
- 7554: PARTY0F$1 PARTY1$5259265ARTY2F$3
- 7555: PARTY3F$1 PARTY4$5259265ARTY5F$3
- 7556: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
- 7557: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
- 7558: CLI_NUM0 = $0
- 7559: CLI_NUM1 = $1
- 7560: CLI_NUM2 = $2
- 7561: CLI_NUM3 = $3
- 7562: CLI_NUM4 = $4
- 7563: CLI_NUM5 = $5
- 7564: CLI_NUM6 = $6
- 7565: CLI_NUM7 = $6
- 7566: Skip the event? [Yes./No.]
- 7567: Battlefield clear time: $3 second[/s]!
- 7568: Battlefield clear time: $3 minute[/s], $2 second[/s]!
- 7569: The current battlefield clear time record is $3 second[/s].
- 7570: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
- 7571: Called the NPC! PC ID = $0! RESULT = $1!
- 7572: Got rid of the NPC! PC ID = $0!
- 7573: The NPC has fallen, and he can't get up! Leaving room A!
- 7574: The NPC has fallen, and he can't get up! Leaving room B!
- 7575: The NPC has fallen, and he can't get up! Leaving room C!
- 7576: The NPC has fallen, and he can't get up! Leaving room D!
- 7577: All party members have fallen in battle. Now leaving the battlefield.
- 7578: Everybody's fallen in room A, and they can't get up! Leaving room A!
- 7579: Everybody's fallen in room B, and they can't get up! Leaving room B!
- 7580: Everybody's fallen in room C, and they can't get up! Leaving room C!
- 7581: Everybody's fallen in room D, and they can't get up! Leaving room D!
- 7582: Everybody's fallen in room E, and they can't get up! Leaving room E!
- 7583: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
- 7584: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
- 7585: What the hell is that number!? It's not possible!!!
- 7586: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
- 7587: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
- 7588: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
- 7589: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
- 7590: That record is held by $5 adventurers, including %0!
- 7591: That record is held by %0!
- 7592: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
- 7593: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
- 7594: A malignant force escapes from your $3.
- 7595: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
- 7596: Your $3 is calling out to something...
- 7597: The $0 has a large crack running straight down the side.
- 7598: Something awakens owing to the presence of the $3...
- 7599: The oath has been fulfilled owing to the power of your $3.
- 7600: Going back to BIND. Please press button.
- 7601: There is no response. You cannot escape!
- 7602: You have broken the clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]"!
- 7603: The current battlefield clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]" is $3 second[/s].
- 7604: The current battlefield clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigadee/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]" is $3 minute[/s] $2 second[/s].
- 7605: Entering the battlefield for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]"!
- 7606: Which battlefield will you enter? [None./The Rank 2 Final Mission./Tails of Woe./Dismemberment Brigade./The Secret Weapon./Hostile Herbivores./Shattering Stars (WAR)./Shattering Stars (BLM)./Shattering Stars (RNG)./Carapace Combatants./Shooting Fish./Dropping Like Flies./Horns of War./Under Observation./Eye of the Tiger./Shots in the Dark./Double Dragonian./Today's Horoscope./Contaminated Colosseum./Kindergarten Cap./Last Orc-Shunned Hero./Beyond Infinity./$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire./A.M.A.N. Trove (Mars)./A.M.A.N. Trove (Venus)./Inv. from Excenmille./Inv. from Excenmille and Co./././././.]
- 7607: Casting effect.
- 7608: Summoning effect.
- 7609: Press a button to continue.
- 7610: For Boss Room debug [Do nothing./Release lock on boss room.]
- 7611: Boss room lock released!
- 7612: $26Event Skip Menu [Don't skip./Skip! Skip!]
- 7613: It doesn't look like you've found what you're looking for here either.
- 7614: Yes, I thought that the Orcs may have had the sword, but I guess I was wrong.
- 7615: But, what is this...this...this feeling of unrest?
- 7616: Arise, Wyrm of Darkness, Devourer of Light! I command you, smite my enemies where they stand!
- 7617: ...!?
- 7618: What is that!?
- 7619: Watch yourself. I've never seen any monster like this before.
- 7620: Heh-heh-heh... I'm so glad you could come. I didn't realize that my little deception would be so effective.
- 7621: You don't even realize what is playing out before your own eyes. However, that is of no matter, since this is the last thing you will ever see.
- 7622: It's just like you said, Rochefogne. There is something bigger lurking behind the Orcs.
- 7623: Wait, Vauderame. It looks like we have a visitor.
- 7624: An adventurer? Excellent. We have the perfect job for [him/her].
- 7625: A fight with no gain is a fight for fools. Let us leave this battle for the adventurer and continue on.
- 7626: Well, it seems the two have run off. That makes no difference, because new prey awaits. Wyrm of Darkness, unleash your fury on those who stand in your presence.
- 7627: This...this cannot be! Defeated...by these weaklings!?
- 7628: Looks like I missed the show.
- 7629: Hey, wait a minute. This dragon...
- 7630: No doubt about it, it's a nether beast from the cursed Northlands! What's it doing here!?
- 7631: We've not seen their kind since we destroyed the Shadow Lord and sealed the Northlands...
- 7632: To see one here, with the beastmen, it's as if...
- 7633: The dark one will soon return to this world. I was merely preparing his return...
- 7634: What? Who are you!?
- 7635: I am Spotter, servant to the Shadow Lord. The "Great Hero" who saved you twenty years ago is gone; none can defeat my lord now!
- 7636: While your people were squabbling amongst themselves, we have been preparing for his return.
- 7637: And when he comes...he will destroy you all!
- 7638: Enjoy your lives, while they last... Foolish...weaklings... Hah-hah-hah...
- 7639: The Shadow Lord is back! War will come again!
- 7640: Our days will be filled with hatred and sorrow.
- 7641: <Player>, you must go back and report on what happened here. If the Shadow Lord truly has returned, our prospects are dire indeed.
- 7642: I am off. Until we meet again, <Player>!
- 7643: You gather the spring water in $3!
- 7644: Water from a hot spring flows here.
- 7645: You can't fish here.
- 7646: You can't fish without a rod in your hands.
- 7647: You can't fish without bait on the hook.
- 7648: You can't fish at the moment.
- 7649: You didn't catch anything.
- 7650: %0 caught a monster!
- 7651: Your line breaks.
- 7652: Your rod breaks.
- 7653: Something caught the hook!
- 7654: You lost your catch.
- 7655: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7656: You feel there's something here.
- 7657: You feel there's something nearby.
- 7658: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7659: %0 caught $1 $0 !
- 7660: You dig and you dig, but find nothing.
- 7661: $0/$0p$3Z$3b$3g
- 7662: Your rod breaks. Whatever caught the hook was pretty big.
- 7663: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7664: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7665: You lost your catch due to your lack of skill.
- 7666: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7667: You didn't catch anything.
- 7668: The paper on your $0 ripped.
- 7669: A tiny goldfish approaches!
- 7670: A plump, black goldfish approaches!
- 7671: A fat, juicy goldfish approaches!
- 7672: There are no goldfish to be found...
- 7673: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7674: The goldfish slipped off your scoop...
- 7675: ch$0 skill up check.
- 7676: a:$0.
- 7677: Time $0 / Status $1 / $2
- 7678: d:$0. e:$1. f:$2. g:$3.
- 7679: h: $1. i: $0. sr: $2.
- 7680: j:$0. k:$1.
- 7681: You give up and reel in your line.
- 7682: You give up.
- 7683: %0 obtains $1 gil.
- 7684: %0 caught $0!
- 7685: You don't know how much longer you can keep this one on the line...
- 7686: You have a good feeling about this one!
- 7687: You have a bad feeling about this one.
- 7688: You have a terrible feeling about this one...
- 7689: You don't know if you have enough skill to reel this one in.
- 7690: You're fairly sure you don't have enough skill to reel this one in.
- 7691: You're positive you don't have enough skill to reel this one in!
- 7692: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7693: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7694: l: $0. m: $1. n: $2. CH: $3.
- 7695: Something caught the hook!!!
- 7696: You feel something pulling at your line.
- 7697: Something clamps onto your line ferociously!
- 7698: Your keen angler's senses tell you that this is the pull of $0!
- 7699: This strength... You get the sense that you are on the verge of an epic catch!
- 7700: The timer has started. $0 seconds remaining.
- 7701: $0sec.$1/$2sec.
- 7702: 0:$0 1:$1 2:$2 3:$3
- 7703: 4:$0 5:$1 6:$2 7:$3
- 7704: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7705: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7706: $0/$1($2j
- 7707: Version invalid error!
- 7708: Hurry before the goldfish sees you!
- 7709: %0 fishes up a large box!
- 7710: $23$o$P122$8$0
- 7711: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7712: PointF$0 >>> $1
- 7713: [$1($0)/skillF$1]
- 7714: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7715: Im Rnd : $0 Pz Rnd : $1
- 7716: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7717: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7718: skill : $0 size : $1 kind : $2 sch : $3
- 7719: time : $0 mes : $1 flag : $2 bonus : $3
- 7720: item : $0 hp : $1 pow : $2 swing : $3
- 7721: suc : $0 cons : $1 weight : $2 +- : $3
- 7722: speed : $0 +- : $1 exc : $2 client : $3
- 7723: general : $0
- 7724: ro:$0 rs:$1 ps:$2 dt:$3
- 7725: ra:$0 ti:$1
- 7726: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7727: You get the distinct sense that your moogle friend frequents this spot...
- 7728: You have a feeling that your moogle friend has been through this way...
- 7729: You suspect that the scenery around here would be to a moogle's liking...
- 7730: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7731: You have a hunch that this area would be favored by moogles...
- 7732: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7733: %0 catches $1 $0 !
- 7734: %0 obtained $6!
- 7735: It appears your chocobo found this item with ease.
- 7736: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7737: FPT $0 DPT $1 DoT$2
- 7738: FPT $0 TDPT $1 h$2
- 7739: You cannot fish at this time.
- 7740: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7741: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7742: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7743: You receive $0 bayld!
- 7744: Your chocobo refuses to partake of the $0.
- 7745: You got it yet?
- 7746: Me looking for it with crystal dowser, but no find.
- 7747: Oh well, let's charge this ammo and attach to battle machine.
- 7748: If this worked in Great War, we no lose...
- 7749: Who there!?
- 7750: Then it is true...
- 7751: The Orcs are using this portal to gather energy and enhance the power of their weapons.
- 7752: This may explain the explosion that led to the destruction of Tavnazia. Using the energy in its unstable form obviously has its consequences...
- 7753: I apologize. My name is Eideialc. I am an adventurer like yourself. I am on a mission for San d'Oria.
- 7754: From what it looks like, the Orcs are also searching for Lightbringer. And they seem to have some special way of locating it. If we don't find it before they do...
- 7755: I applaud you on your resourcefulness. Pretty good for a mere adventurer.
- 7756: Who are you!?
- 7757: The Orcs' crystal dowser is a nice piece of equipment. I use it myself.
- 7758: It'd be a good idea to stop those Orcs from using the magic portal. Who knows what would happen if you didn't?
- 7759: However, there is more to this than meets the eye. I wish you luck.
- 7760: Wait! Why are you...?
- 7761: Let us pray for the safety of us both. I hope to see you again soon...
- 7762: You dipped the $0 into the spring water. Letters appeared on the scroll!
- 7763: So, you decided to show up. Now it's time to see what you're really made of, heh heh heh.
- 7764: Looks like you weren't ready for me, were you? Now go home, wash your face, and come back when you think you've got what it takes.
- 7765: Hm. That was a mighty fine display of skill there, <Player>. You've come a long way...
- 7766: I'll teach you to respect your elders!
- 7767: Take that, you whippersnapper!
- 7768: Now that I'm warmed up...
- 7769: Ungh... That'll hurt in the morning...
- 7770: There is nothing out of the ordinary here.
- 7771: You can hear a strange voice... "Items, items, la la la la la`t"
- 7772: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7773: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7774: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7775: Now, listen close...
- 7776: Oh... Well, if that's the case, I'm outta here.
- 7777: The Goblin slipped away when you were not looking...
- 7778: You can hear a strange, raspy voice...
- 7779: I travel......hear lots... Hear...stories... Can tell...if...
- 7780: .........listen......
- 7781: Oh...... ...outta here.........
- 7782: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7783: What story would you like to be told? [On second thought, maybe later./The Rank 2 Final Mission(pt.1)./The Rank 2 Final Mission(pt.2)./The Secret Weapon(pt.1)./The Secret Weapon(pt.2)./Amanomurakumo./Beyond Infinity(pt.1)./Beyond Infinity(pt.2)./@]
- 7784: 
+ 7506: $6750761$P10l$20p @<Player>j$P10l$3}$3C$3i$3X5\5=B
+ 7507: $3998280*$20%._A)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7508: $3998280*$20%._B)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7509: $3998280*$20%._C)g $3281993/iPCE7$983884$656240$3Z$3b$3g5\7B
+ 7510: $3998280L$20%._A$P13|$:$3t$3$3Op $3736105\5=B
+ 7511: $3998280L$20%._B$P13|$:$3t$3$3Op $3736105\5=B
+ 7512: $3998280L$20%._C$P13|$:$3t$3$3Op $3736105\5=B
+ 7513: $3998280L$3O$3 [$67370@$3{$3X_Ap$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7514: $3998280L$3O$3 [$67370@$3{$3X_Bp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7515: $3998280L$3O$3 [$67370@$3{$3X_Cp$P13|5\5=B$3{$3X$P10m$I%9c$3C$3x$3$3gp$J$n5\7B]
+ 7516: $3998280M$20%._AI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7517: $3998280M$20%._BI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7518: $3998280M$20%._CI"DM"/H"LEA @ [-$P10'$P11^$o39D"=>+\7B]
+ 7519: ($20%._AM$0$P14u$6E7)
+ 7520: ($20%._BM$0$P14u$6E7)
+ 7521: ($20%._CM$0$P14u$6E7)
+ 7522: $3998280M @$3G$3$3h$3^$3Op$P12Jh\5=
+ 7523: i$20%.$3$3N$3G$3X$3g$3G$3$1[ $2097737h&H"$20$P12l*$P13|AD"\7j
+ 7524: i$20%._A$P13|$:I$3g$3$3C5\7
+ 7525: i$20%._B$P13|$:I$3g$3$3C5\7
+ 7526: i$20%._C$P13|$:I$3g$3$3C5\7
+ 7527: $6751049$3$3C5\5=*$4475209* A=LE $6750761$D$3g$3$3CB
+ 7528: $6751049$3$3C5\5=*$148009IID* A=LE $6750761$D$3g$3$3CB
+ 7529: (AIMID* h\9qE5=)
+ 7530: (BIMID* h\9qE5=)
+ 7531: (CIMID* h\9qE5=)
+ 7532: (AIID* h\5=)
+ 7533: (BIID* h\5=)
+ 7534: (CIID* h\5=)
+ 7535: (AM7EI$P10f$P16q* h\5=)
+ 7536: (BM7EI$P10f$P16q* h\5=)
+ 7537: (CM7EI$P10f$P16q* h\5=)
+ 7538: $2097706ADH"=_$P13|$:E+\9q
+ 7539: Currently, $3 members of your party (including yourself) have clearance to enter the battlefield.
+ 7540: Currently, $3 members of your alliance (including yourself) have clearance to enter the battlefield.
+ 7541: Only <Player> can enter the battlefield.
+ 7542: The time limit for this battle is $3 minutes.
+ 7543: There is a crack in the $3. It no longer contains a monster.
+ 7544: A crack has formed on the $3, and the beast inside has been unleashed!
+ 7545: Boss mode : $6!!
+ 7546: Room number to attempt: $0. Desired boss mode: $1. Difficulty: $2 ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7547: $7
+ 7548: DEBUG1
+ 7549: $T&$:I$P16_i)$4719207" $P16_i
+ 7550: iDEBUGj$3o$3g$3 [$3t$3B$593740$z%;I$8$P14sB/$3L$3$3$3$3Z$3 [5\7B]
+ 7551: iDEBUG$3998261$3{$3X$3|$3b$3vB
+ 7552: $26+$3$3$3 [[$3v/$3$3N$3G$3X$3g$20%.$P14T$6@@@$1/$3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3]
+ 7553: $3`$3F$3b$3N$20%.$P14T$6@@$4475212$81921%1*$3$3$3 [[$3v]
+ 7554: $3$3N$3G$3X$3g$20%.$P14T$6@@@$1 $3$3N$3G$3X$3g$20%.L$P10l$20$656135$3N$3G$3X$3g$20%.LBOSS_STATUS@@$3 $3N$3$3C$3A$3$3gVL$P16=%_@@$0@$26pending$P142/i
+ 7555: PARTY0F$1 PARTY1$5259265ARTY2F$3
+ 7556: PARTY3F$1 PARTY4$5259265ARTY5F$3
+ 7557: $3N$3$3C$3A$3$3g$P11^$o$3C$3x$3$3g$219905hP
+ 7558: $3T[$3o$P11^$o$3C$3x$3$3g$219905hP
+ 7559: CLI_NUM0 = $0
+ 7560: CLI_NUM1 = $1
+ 7561: CLI_NUM2 = $2
+ 7562: CLI_NUM3 = $3
+ 7563: CLI_NUM4 = $4
+ 7564: CLI_NUM5 = $5
+ 7565: CLI_NUM6 = $6
+ 7566: CLI_NUM7 = $6
+ 7567: Skip the event? [Yes./No.]
+ 7568: Battlefield clear time: $3 second[/s]!
+ 7569: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+ 7570: The current battlefield clear time record is $3 second[/s].
+ 7571: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+ 7572: Called the NPC! PC ID = $0! RESULT = $1!
+ 7573: Got rid of the NPC! PC ID = $0!
+ 7574: The NPC has fallen, and he can't get up! Leaving room A!
+ 7575: The NPC has fallen, and he can't get up! Leaving room B!
+ 7576: The NPC has fallen, and he can't get up! Leaving room C!
+ 7577: The NPC has fallen, and he can't get up! Leaving room D!
+ 7578: All party members have fallen in battle. Now leaving the battlefield.
+ 7579: Everybody's fallen in room A, and they can't get up! Leaving room A!
+ 7580: Everybody's fallen in room B, and they can't get up! Leaving room B!
+ 7581: Everybody's fallen in room C, and they can't get up! Leaving room C!
+ 7582: Everybody's fallen in room D, and they can't get up! Leaving room D!
+ 7583: Everybody's fallen in room E, and they can't get up! Leaving room E!
+ 7584: If all party members' HP are still zero after $3 minute[/s] $2 second[/s], the party will be removed from the battlefield.
+ 7585: If all party members' HP are still zero after $3 minute[/s], the party will be removed from the battlefield.
+ 7586: What the hell is that number!? It's not possible!!!
+ 7587: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+ 7588: You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+ 7589: You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+ 7590: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+ 7591: That record is held by $5 adventurers, including %0!
+ 7592: That record is held by %0!
+ 7593: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+ 7594: Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+ 7595: A malignant force escapes from your $3.
+ 7596: You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+ 7597: Your $3 is calling out to something...
+ 7598: The $0 has a large crack running straight down the side.
+ 7599: Something awakens owing to the presence of the $3...
+ 7600: The oath has been fulfilled owing to the power of your $3.
+ 7601: Going back to BIND. Please press button.
+ 7602: There is no response. You cannot escape!
+ 7603: You have broken the clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]"!
+ 7604: The current battlefield clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]" is $3 second[/s].
+ 7605: The current battlefield clear time record for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigadee/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]" is $3 minute[/s] $2 second[/s].
+ 7606: Entering the battlefield for "[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today's Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]"!
+ 7607: Which battlefield will you enter? [None./The Rank 2 Final Mission./Tails of Woe./Dismemberment Brigade./The Secret Weapon./Hostile Herbivores./Shattering Stars (WAR)./Shattering Stars (BLM)./Shattering Stars (RNG)./Carapace Combatants./Shooting Fish./Dropping Like Flies./Horns of War./Under Observation./Eye of the Tiger./Shots in the Dark./Double Dragonian./Today's Horoscope./Contaminated Colosseum./Kindergarten Cap./Last Orc-Shunned Hero./Beyond Infinity./$26Tails of Woe/$26Dismemberment Brigade/A Feast Most Dire./A.M.A.N. Trove (Mars)./A.M.A.N. Trove (Venus)./Inv. from Excenmille./Inv. from Excenmille and Co./././././.]
+ 7608: Casting effect.
+ 7609: Summoning effect.
+ 7610: Press a button to continue.
+ 7611: For Boss Room debug [Do nothing./Release lock on boss room.]
+ 7612: Boss room lock released!
+ 7613: $26Event Skip Menu [Don't skip./Skip! Skip!]
+ 7614: It doesn't look like you've found what you're looking for here either.
+ 7615: Yes, I thought that the Orcs may have had the sword, but I guess I was wrong.
+ 7616: But, what is this...this...this feeling of unrest?
+ 7617: Arise, Wyrm of Darkness, Devourer of Light! I command you, smite my enemies where they stand!
+ 7618: ...!?
+ 7619: What is that!?
+ 7620: Watch yourself. I've never seen any monster like this before.
+ 7621: Heh-heh-heh... I'm so glad you could come. I didn't realize that my little deception would be so effective.
+ 7622: You don't even realize what is playing out before your own eyes. However, that is of no matter, since this is the last thing you will ever see.
+ 7623: It's just like you said, Rochefogne. There is something bigger lurking behind the Orcs.
+ 7624: Wait, Vauderame. It looks like we have a visitor.
+ 7625: An adventurer? Excellent. We have the perfect job for [him/her].
+ 7626: A fight with no gain is a fight for fools. Let us leave this battle for the adventurer and continue on.
+ 7627: Well, it seems the two have run off. That makes no difference, because new prey awaits. Wyrm of Darkness, unleash your fury on those who stand in your presence.
+ 7628: This...this cannot be! Defeated...by these weaklings!?
+ 7629: Looks like I missed the show.
+ 7630: Hey, wait a minute. This dragon...
+ 7631: No doubt about it, it's a nether beast from the cursed Northlands! What's it doing here!?
+ 7632: We've not seen their kind since we destroyed the Shadow Lord and sealed the Northlands...
+ 7633: To see one here, with the beastmen, it's as if...
+ 7634: The dark one will soon return to this world. I was merely preparing his return...
+ 7635: What? Who are you!?
+ 7636: I am Spotter, servant to the Shadow Lord. The "Great Hero" who saved you twenty years ago is gone; none can defeat my lord now!
+ 7637: While your people were squabbling amongst themselves, we have been preparing for his return.
+ 7638: And when he comes...he will destroy you all!
+ 7639: Enjoy your lives, while they last... Foolish...weaklings... Hah-hah-hah...
+ 7640: The Shadow Lord is back! War will come again!
+ 7641: Our days will be filled with hatred and sorrow.
+ 7642: <Player>, you must go back and report on what happened here. If the Shadow Lord truly has returned, our prospects are dire indeed.
+ 7643: I am off. Until we meet again, <Player>!
+ 7644: You gather the spring water in $3!
+ 7645: Water from a hot spring flows here.
+ 7646: You can't fish here.
+ 7647: You can't fish without a rod in your hands.
+ 7648: You can't fish without bait on the hook.
+ 7649: You can't fish at the moment.
+ 7650: You didn't catch anything.
+ 7651: %0 caught a monster!
+ 7652: Your line breaks.
+ 7653: Your rod breaks.
+ 7654: Something caught the hook!
+ 7655: You lost your catch.
+ 7656: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7657: You feel there's something here.
+ 7658: You feel there's something nearby.
+ 7659: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7660: %0 caught $1 $0 !
+ 7661: You dig and you dig, but find nothing.
+ 7662: $0/$0p$3Z$3b$3g
+ 7663: Your rod breaks. Whatever caught the hook was pretty big.
+ 7664: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7665: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7666: You lost your catch due to your lack of skill.
+ 7667: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7668: You didn't catch anything.
+ 7669: The paper on your $0 ripped.
+ 7670: A tiny goldfish approaches!
+ 7671: A plump, black goldfish approaches!
+ 7672: A fat, juicy goldfish approaches!
+ 7673: There are no goldfish to be found...
+ 7674: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7675: The goldfish slipped off your scoop...
+ 7676: ch$0 skill up check.
+ 7677: a:$0.
+ 7678: Time $0 / Status $1 / $2
+ 7679: d:$0. e:$1. f:$2. g:$3.
+ 7680: h: $1. i: $0. sr: $2.
+ 7681: j:$0. k:$1.
+ 7682: You give up and reel in your line.
+ 7683: You give up.
+ 7684: %0 obtains $1 gil.
+ 7685: %0 caught $0!
+ 7686: You don't know how much longer you can keep this one on the line...
+ 7687: You have a good feeling about this one!
+ 7688: You have a bad feeling about this one.
+ 7689: You have a terrible feeling about this one...
+ 7690: You don't know if you have enough skill to reel this one in.
+ 7691: You're fairly sure you don't have enough skill to reel this one in.
+ 7692: You're positive you don't have enough skill to reel this one in!
+ 7693: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7694: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7695: l: $0. m: $1. n: $2. CH: $3.
+ 7696: Something caught the hook!!!
+ 7697: You feel something pulling at your line.
+ 7698: Something clamps onto your line ferociously!
+ 7699: Your keen angler's senses tell you that this is the pull of $0!
+ 7700: This strength... You get the sense that you are on the verge of an epic catch!
+ 7701: The timer has started. $0 seconds remaining.
+ 7702: $0sec.$1/$2sec.
+ 7703: 0:$0 1:$1 2:$2 3:$3
+ 7704: 4:$0 5:$1 6:$2 7:$3
+ 7705: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7706: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7707: $0/$1($2j
+ 7708: Version invalid error!
+ 7709: Hurry before the goldfish sees you!
+ 7710: %0 fishes up a large box!
+ 7711: $23$o$P122$8$0
+ 7712: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7713: PointF$0 >>> $1
+ 7714: [$1($0)/skillF$1]
+ 7715: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7716: Im Rnd : $0 Pz Rnd : $1
+ 7717: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7718: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7719: skill : $0 size : $1 kind : $2 sch : $3
+ 7720: time : $0 mes : $1 flag : $2 bonus : $3
+ 7721: item : $0 hp : $1 pow : $2 swing : $3
+ 7722: suc : $0 cons : $1 weight : $2 +- : $3
+ 7723: speed : $0 +- : $1 exc : $2 client : $3
+ 7724: general : $0
+ 7725: ro:$0 rs:$1 ps:$2 dt:$3
+ 7726: ra:$0 ti:$1
+ 7727: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7728: You get the distinct sense that your moogle friend frequents this spot...
+ 7729: You have a feeling that your moogle friend has been through this way...
+ 7730: You suspect that the scenery around here would be to a moogle's liking...
+ 7731: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7732: You have a hunch that this area would be favored by moogles...
+ 7733: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7734: %0 catches $1 $0 !
+ 7735: %0 obtained $6!
+ 7736: It appears your chocobo found this item with ease.
+ 7737: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7738: FPT $0 DPT $1 DoT$2
+ 7739: FPT $0 TDPT $1 h$2
+ 7740: You cannot fish at this time.
+ 7741: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7742: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7743: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7744: You receive $0 bayld!
+ 7745: Your chocobo refuses to partake of the $0.
+ 7746: You got it yet?
+ 7747: Me looking for it with crystal dowser, but no find.
+ 7748: Oh well, let's charge this ammo and attach to battle machine.
+ 7749: If this worked in Great War, we no lose...
+ 7750: Who there!?
+ 7751: Then it is true...
+ 7752: The Orcs are using this portal to gather energy and enhance the power of their weapons.
+ 7753: This may explain the explosion that led to the destruction of Tavnazia. Using the energy in its unstable form obviously has its consequences...
+ 7754: I apologize. My name is Eideialc. I am an adventurer like yourself. I am on a mission for San d'Oria.
+ 7755: From what it looks like, the Orcs are also searching for Lightbringer. And they seem to have some special way of locating it. If we don't find it before they do...
+ 7756: I applaud you on your resourcefulness. Pretty good for a mere adventurer.
+ 7757: Who are you!?
+ 7758: The Orcs' crystal dowser is a nice piece of equipment. I use it myself.
+ 7759: It'd be a good idea to stop those Orcs from using the magic portal. Who knows what would happen if you didn't?
+ 7760: However, there is more to this than meets the eye. I wish you luck.
+ 7761: Wait! Why are you...?
+ 7762: Let us pray for the safety of us both. I hope to see you again soon...
+ 7763: You dipped the $0 into the spring water. Letters appeared on the scroll!
+ 7764: So, you decided to show up. Now it's time to see what you're really made of, heh heh heh.
+ 7765: Looks like you weren't ready for me, were you? Now go home, wash your face, and come back when you think you've got what it takes.
+ 7766: Hm. That was a mighty fine display of skill there, <Player>. You've come a long way...
+ 7767: I'll teach you to respect your elders!
+ 7768: Take that, you whippersnapper!
+ 7769: Now that I'm warmed up...
+ 7770: Ungh... That'll hurt in the morning...
+ 7771: There is nothing out of the ordinary here.
+ 7772: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7773: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7774: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7775: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7776: Now, listen close...
+ 7777: Oh... Well, if that's the case, I'm outta here.
+ 7778: The Goblin slipped away when you were not looking...
+ 7779: You can hear a strange, raspy voice...
+ 7780: I travel......hear lots... Hear...stories... Can tell...if...
+ 7781: .........listen......
+ 7782: Oh...... ...outta here.........
+ 7783: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7784: What story would you like to be told? [On second thought, maybe later./The Rank 2 Final Mission(pt.1)./The Rank 2 Final Mission(pt.2)./The Secret Weapon(pt.1)./The Secret Weapon(pt.2)./Amanomurakumo./Beyond Infinity(pt.1)./Beyond Infinity(pt.2)./@]
  7785: 
  7786: 
- 7787: There is nothing out of the ordinary here.
- 7788: You hear a voice from out of nowhere...
- 7789: You obtain $1 $0 !
- 7790: ... At last we meet.
- 7791: I have been freed from my prison and can soak up the sweat and blood of this world once more.
- 7792: Wait, there is something I must...
- 7793: This place is...?
- 7794: I see... You must be the new wielder for these.
- 7795: Yes, with your fighting spirit I believe you will be able to master the $0.
- 7796: The $0 have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
- 7797: They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
- 7798: ...
- 7799: I hope you don't think this is the end.
- 7800: Your real life as a martial artist is just beginning. Time to start your training anew!
- 7801: ... Finally! We finally meet face to face!
- 7802: I have a presence in this world again! What an exhilarating feeling!
- 7803: Ah yes, there is one more thing...
- 7804: Eh? What?
- 7805: Oh. You must be this one's new owner.
- 7806: With your dagger skills, you'll make a perfect wielder for the $0.
- 7807: It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
- 7808: Treat her well...
- 7809: ...
- 7810: Splendid! From this day forth, I belong to you.
- 7811: So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
- 7812: ... Thou hast found me.
- 7813: I have now thrice shown my true form in this world.
- 7814: A moment...
- 7815: ... What has happened to me?
- 7816: I see, you are the sword's new owner?
- 7817: Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding $0.
- 7818: When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
- 7819: And now I, too, can rest unburdened...
- 7820: ...
- 7821: Thou art blessed this day.
- 7822: Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
- 7823: ... You have found me.
- 7824: Allow me to show my respect. You who have gained the strength of so many must be a true hero.
- 7825: But first...
- 7826: Who are you?
- 7827: This must be some sort of joke. You are the new wielder of this weapon?
- 7828: Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
- 7829: However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
- 7830: Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
- 7831: ...
- 7832: Now, my heroic master...
- 7833: For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
- 7834: ... You...me, meet.
- 7835: Me...free... Thanks to you. Me, your...
- 7836: Wait...
- 7837: What the...?
- 7838: Ah, now I see. The wheel has turned.
- 7839: Truthfully spoken, I am thankful. # is a splendid axe, but ever does it hunger.
- 7840: I have taken many lives to sate its need, and have reached the end of my strength.
- 7841: You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
- 7842: ...
- 7843: You, master, me. Good, work. Me, thank, you.
- 7844: Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
- 7845: ... Ah, you found me!
- 7846: I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
- 7847: One moment...
- 7848: ... This is...Jeuno!? Have I finally returned?
- 7849: I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
- 7850: Hmm. With your polished skills, you will make a fine master for $0.
- 7851: The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
- 7852: Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use $0 to avenge the Hydra Corps...
- 7853: ...
- 7854: I congratulate you also...my new master.
- 7855: Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
- 7856: ... You have found me.
- 7857: My forbidden power is now yours, and I am liberated from my prison.
- 7858: You have but to gain her respect...
- 7859: Such a long dream I was having...
- 7860: It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
- 7861: And you? Do you seek the same darkness that I did... It seems you have already found your way to $0.
- 7862: Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
- 7863: And think long and hard on whether or not this power should be used. Do not end up like me...
- 7864: ...
- 7865: Heh. Heh heh. Hahahahahahaha!
- 7866: Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
- 7867: ... You have unearthed me at last.
- 7868: I am free from Dynamis, free to fly through the heavens once more.
- 7869: All that remains is...
- 7870: Hello? Is it possible that I...
- 7871: But, no. I have not returned to this realm... You. You are to be my successor?
- 7872: You certainly seem to have the required skill with the lance. Enough to convince $0 to lend you its power, at any rate.
- 7873: Having this spear on the battlefield makes you a match for almost any opponent.
- 7874: Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
- 7875: ...
- 7876: The ceremony of inheritance is complete.
- 7877: It is time for you to go forth and experience my overwhelming strength...
- 7878: ... I have been rediscovered at last.
- 7879: Thanks to you, I have made my escape from the shrouded land.
- 7880: You must now gain the sanction of my master...
- 7881: It is a pity, indeed.
- 7882: This day has come far too soon for my liking.
- 7883: However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the $0.
- 7884: Take this blade as your own. Travel far down the path of the ninja.
- 7885: I will be watching you from the shadows...
- 7886: ...
- 7887: A fine master...
- 7888: My keen edge is now yours to wield. A sharpness said to make even demons wail...
- 7889: ... This day has finally come.
- 7890: I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
- 7891: In any event...
- 7892: What is going on here?
- 7893: Ah, my successor has come.
- 7894: I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the $0 and returned to my home, the Great War had begun.
- 7895: When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
- 7896: You have my gratitude. Farewell, $0...
- 7897: ...
- 7898: It has been a hard path to reach this point.
- 7899: But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
- 7900: ... At long last, you have arrived.
- 7901: I was not convinced you were serious about completing this trial...
- 7902: You have proven me wrong...
- 7903: I have heard of your coming.
- 7904: You are to be the new master of this hammer of war?
- 7905: Every time $0 is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
- 7906: However, there is little meaning in me keeping it now. If you will wield this weapon for a just cause, I hand its power over to you.
- 7907: Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
- 7908: ...
- 7909: My might is yours to wield.
- 7910: Go forth and experience the destructive power that laid low the Earth Serpent...
- 7911: ... So, you have found me.
- 7912: I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
- 7913: And now...
- 7914: Hwaah!
- 7915: Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
- 7916: Well, it's for the best, I suppose. In my current state, $0 is nothing more than an ornament, its power going to waste.
- 7917: I entrust this staff to you! Take up $0, <Player>, and bind it to you in a contract of blood!
- 7918: I take my leave of you now. I only wish that I was able to stay a little longer...
- 7919: ...
- 7920: I am yours to wield.
- 7921: But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
- 7922: ... You have discovered my resting place.
- 7923: The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
- 7924: Ah, one more test of your patience...
- 7925: Where is this place?
- 7926: Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
- 7927: Your hands tell me that your skill in archery is far from ordinary. $0 will fit snugly into your sure grasp.
- 7928: However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
- 7929: Farewell...
- 7930: ...
- 7931: It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
- 7932: You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
- 7933: ... We finally meet.
- 7934: I am now free from the pit of Dynamis to spit fire in this world once again.
- 7935: But I must ask you to wait before taking me into your possession...
- 7936: Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
- 7937: Hm? You think you're the one who's going to take up my gun?
- 7938: You do seem to have a fair eye for marksmanship. And $0 would look perfect nestled in the crook of your arm...
- 7939: Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
- 7940: This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
- 7941: ...
- 7942: A weapon has no will of its own. But it was made for a purpose.
- 7943: Take me to a new battlefield, a new arena for the hunt...
- 7944: ... I am saved.
- 7945: Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
- 7946: A few more moments, if you please...
- 7947: Hello there. I am Terounalivet, a military musician of the Hydra Corps.
- 7948: You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
- 7949: To be completely truthful, I am heartbroken to be giving up the $0, the most famous of instruments, even to a fellow bard.
- 7950: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
- 7951: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
- 7952: ...
- 7953: He was a wonderful performer.
- 7954: Let us be on our way. Our tour of the world has only just begun...
- 7955: Aries falls into a deep sleep...
- 7956: Evil Oscar begins filling his lungs with the foul air around him...
- 7957: The $3 reacts to the $3, sending a jolt of energy through your veins!
- 7958: Splendid. I knew you wouldn't disappointaru me, <Player>. Now, it's time you lived up to your end of our contract.
- 7959: Heeeee-yah!!!
- 7960: The $3 dematerializes before your eyes!
- 7961: Phew... You're not such a pushover aftaru all. I almost broke a sweat.
- 7962: You still haven't realized? The Atori-Tutori you defeated was merely a part of me. Specifically-wifically speaking, my shadow.
- 7963: To splitaru it from my physical body, I borrowed the energy of your little $3, you see.
- 7964: No small task, I'll have you know! Whew... I might need a nap after this one.
- 7965: But hey, you got your training, and I got my first decent workout in years. Everybody wins, rightaru?
- 7966: That $3 acts as a catalyst of sorts to bring my shadow to the fore. Now you know, and knowing is half the battaru.
- 7967: What's that? You want to fight me for real, you say?
- 7968: Trust me, <Player>. You're bettaru off quitting while you're ahead.
- 7969: Of course, one never knows. Work your buttaru off for the next few centuries or so, and you just might have the faintest chance of maybe, possibly (if ever improbably) giving me a run for my gil.
- 7970: ...But that's a challenge for another day. And with that, I'm off. Ta-taru!
- 7971: And don't forget, <Player>. Our contract is still in effect.
- 7972: Promise you won't go down too easy, okay?
- 7973: Haha! I'm just getting warmed up!
- 7974: Hah! You pack more of a punch than I thoughtaru. But I won't go down as easy as old Maat!
- 7975: What's this strange feeling...? It's not supposed to end...like...
- 7976: Huh? Is that all? I haven't even broken a sweataru...
- 7977: Yikey-wikeys! Get that thing away from meee!
- 7978: <Pant, wheeze>... What's the mattaru, <Player>? Too much of a pansy-wansy to fight fair?
- 7979: The fantastic feast has begun! Stock your stomach with stupendous sweets, and enjoy it to the last!
- 7980: The fantastic feast has finished! I hope you had a hopping-good time, and we want you to wamble your way to the next one!
- 7981: [You/Owing to the effects of treasure hunter, you] receive $0 fortune favor[/s] for a total of $1!
- 7982: $0<$1.
- 7983: You hear an impossible to gauge thud of massive spoils!$0
- 7984: You hear a loud thud, as if a large amount of spoils spontaneously appeared.$0
- 7985: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
- 7986: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
- 7987: You receive $0 gil as a bonus reward!
- 7988: You feel like there's an impossible to gauge thud left to be made!
- 7989: You feel like there's an impossible to gauge thud left to be made.
- 7990: You feel like there's an impossible to gauge thud left to be made...?
- 7991: You feel like there's a huge sound left to be made!
- 7992: You feel like there's a huge sound left to be made.
- 7993: You feel like there's a huge sound left to be made...?
- 7994: Looks like your intuition was incorrect.
- 7995: It's even better than you anticipated!
- 7996: Let us see just how capable in battle you truly are.
- 7997: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.
- 7998: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!
- 7999: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...
- 8000: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!
- 8001: You're a real to`ugh cookie. That's okay, see if I care.
+ 7787: 
+ 7788: There is nothing out of the ordinary here.
+ 7789: You hear a voice from out of nowhere...
+ 7790: You obtain $1 $0 !
+ 7791: ... At last we meet.
+ 7792: I have been freed from my prison and can soak up the sweat and blood of this world once more.
+ 7793: Wait, there is something I must...
+ 7794: This place is...?
+ 7795: I see... You must be the new wielder for these.
+ 7796: Yes, with your fighting spirit I believe you will be able to master the $0.
+ 7797: The $0 have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
+ 7798: They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
+ 7799: ...
+ 7800: I hope you don't think this is the end.
+ 7801: Your real life as a martial artist is just beginning. Time to start your training anew!
+ 7802: ... Finally! We finally meet face to face!
+ 7803: I have a presence in this world again! What an exhilarating feeling!
+ 7804: Ah yes, there is one more thing...
+ 7805: Eh? What?
+ 7806: Oh. You must be this one's new owner.
+ 7807: With your dagger skills, you'll make a perfect wielder for the $0.
+ 7808: It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
+ 7809: Treat her well...
+ 7810: ...
+ 7811: Splendid! From this day forth, I belong to you.
+ 7812: So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
+ 7813: ... Thou hast found me.
+ 7814: I have now thrice shown my true form in this world.
+ 7815: A moment...
+ 7816: ... What has happened to me?
+ 7817: I see, you are the sword's new owner?
+ 7818: Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding $0.
+ 7819: When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
+ 7820: And now I, too, can rest unburdened...
+ 7821: ...
+ 7822: Thou art blessed this day.
+ 7823: Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
+ 7824: ... You have found me.
+ 7825: Allow me to show my respect. You who have gained the strength of so many must be a true hero.
+ 7826: But first...
+ 7827: Who are you?
+ 7828: This must be some sort of joke. You are the new wielder of this weapon?
+ 7829: Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
+ 7830: However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
+ 7831: Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
+ 7832: ...
+ 7833: Now, my heroic master...
+ 7834: For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
+ 7835: ... You...me, meet.
+ 7836: Me...free... Thanks to you. Me, your...
+ 7837: Wait...
+ 7838: What the...?
+ 7839: Ah, now I see. The wheel has turned.
+ 7840: Truthfully spoken, I am thankful. # is a splendid axe, but ever does it hunger.
+ 7841: I have taken many lives to sate its need, and have reached the end of my strength.
+ 7842: You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
+ 7843: ...
+ 7844: You, master, me. Good, work. Me, thank, you.
+ 7845: Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
+ 7846: ... Ah, you found me!
+ 7847: I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
+ 7848: One moment...
+ 7849: ... This is...Jeuno!? Have I finally returned?
+ 7850: I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
+ 7851: Hmm. With your polished skills, you will make a fine master for $0.
+ 7852: The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
+ 7853: Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use $0 to avenge the Hydra Corps...
+ 7854: ...
+ 7855: I congratulate you also...my new master.
+ 7856: Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
+ 7857: ... You have found me.
+ 7858: My forbidden power is now yours, and I am liberated from my prison.
+ 7859: You have but to gain her respect...
+ 7860: Such a long dream I was having...
+ 7861: It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
+ 7862: And you? Do you seek the same darkness that I did... It seems you have already found your way to $0.
+ 7863: Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
+ 7864: And think long and hard on whether or not this power should be used. Do not end up like me...
+ 7865: ...
+ 7866: Heh. Heh heh. Hahahahahahaha!
+ 7867: Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
+ 7868: ... You have unearthed me at last.
+ 7869: I am free from Dynamis, free to fly through the heavens once more.
+ 7870: All that remains is...
+ 7871: Hello? Is it possible that I...
+ 7872: But, no. I have not returned to this realm... You. You are to be my successor?
+ 7873: You certainly seem to have the required skill with the lance. Enough to convince $0 to lend you its power, at any rate.
+ 7874: Having this spear on the battlefield makes you a match for almost any opponent.
+ 7875: Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
+ 7876: ...
+ 7877: The ceremony of inheritance is complete.
+ 7878: It is time for you to go forth and experience my overwhelming strength...
+ 7879: ... I have been rediscovered at last.
+ 7880: Thanks to you, I have made my escape from the shrouded land.
+ 7881: You must now gain the sanction of my master...
+ 7882: It is a pity, indeed.
+ 7883: This day has come far too soon for my liking.
+ 7884: However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the $0.
+ 7885: Take this blade as your own. Travel far down the path of the ninja.
+ 7886: I will be watching you from the shadows...
+ 7887: ...
+ 7888: A fine master...
+ 7889: My keen edge is now yours to wield. A sharpness said to make even demons wail...
+ 7890: ... This day has finally come.
+ 7891: I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
+ 7892: In any event...
+ 7893: What is going on here?
+ 7894: Ah, my successor has come.
+ 7895: I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the $0 and returned to my home, the Great War had begun.
+ 7896: When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
+ 7897: You have my gratitude. Farewell, $0...
+ 7898: ...
+ 7899: It has been a hard path to reach this point.
+ 7900: But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
+ 7901: ... At long last, you have arrived.
+ 7902: I was not convinced you were serious about completing this trial...
+ 7903: You have proven me wrong...
+ 7904: I have heard of your coming.
+ 7905: You are to be the new master of this hammer of war?
+ 7906: Every time $0 is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
+ 7907: However, there is little meaning in me keeping it now. If you will wield this weapon for a just cause, I hand its power over to you.
+ 7908: Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
+ 7909: ...
+ 7910: My might is yours to wield.
+ 7911: Go forth and experience the destructive power that laid low the Earth Serpent...
+ 7912: ... So, you have found me.
+ 7913: I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
+ 7914: And now...
+ 7915: Hwaah!
+ 7916: Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
+ 7917: Well, it's for the best, I suppose. In my current state, $0 is nothing more than an ornament, its power going to waste.
+ 7918: I entrust this staff to you! Take up $0, <Player>, and bind it to you in a contract of blood!
+ 7919: I take my leave of you now. I only wish that I was able to stay a little longer...
+ 7920: ...
+ 7921: I am yours to wield.
+ 7922: But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
+ 7923: ... You have discovered my resting place.
+ 7924: The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
+ 7925: Ah, one more test of your patience...
+ 7926: Where is this place?
+ 7927: Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
+ 7928: Your hands tell me that your skill in archery is far from ordinary. $0 will fit snugly into your sure grasp.
+ 7929: However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
+ 7930: Farewell...
+ 7931: ...
+ 7932: It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
+ 7933: You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
+ 7934: ... We finally meet.
+ 7935: I am now free from the pit of Dynamis to spit fire in this world once again.
+ 7936: But I must ask you to wait before taking me into your possession...
+ 7937: Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
+ 7938: Hm? You think you're the one who's going to take up my gun?
+ 7939: You do seem to have a fair eye for marksmanship. And $0 would look perfect nestled in the crook of your arm...
+ 7940: Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
+ 7941: This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
+ 7942: ...
+ 7943: A weapon has no will of its own. But it was made for a purpose.
+ 7944: Take me to a new battlefield, a new arena for the hunt...
+ 7945: ... I am saved.
+ 7946: Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
+ 7947: A few more moments, if you please...
+ 7948: Hello there. I am Terounalivet, a military musician of the Hydra Corps.
+ 7949: You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
+ 7950: To be completely truthful, I am heartbroken to be giving up the $0, the most famous of instruments, even to a fellow bard.
+ 7951: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
+ 7952: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
+ 7953: ...
+ 7954: He was a wonderful performer.
+ 7955: Let us be on our way. Our tour of the world has only just begun...
+ 7956: Aries falls into a deep sleep...
+ 7957: Evil Oscar begins filling his lungs with the foul air around him...
+ 7958: The $3 reacts to the $3, sending a jolt of energy through your veins!
+ 7959: Splendid. I knew you wouldn't disappointaru me, <Player>. Now, it's time you lived up to your end of our contract.
+ 7960: Heeeee-yah!!!
+ 7961: The $3 dematerializes before your eyes!
+ 7962: Phew... You're not such a pushover aftaru all. I almost broke a sweat.
+ 7963: You still haven't realized? The Atori-Tutori you defeated was merely a part of me. Specifically-wifically speaking, my shadow.
+ 7964: To splitaru it from my physical body, I borrowed the energy of your little $3, you see.
+ 7965: No small task, I'll have you know! Whew... I might need a nap after this one.
+ 7966: But hey, you got your training, and I got my first decent workout in years. Everybody wins, rightaru?
+ 7967: That $3 acts as a catalyst of sorts to bring my shadow to the fore. Now you know, and knowing is half the battaru.
+ 7968: What's that? You want to fight me for real, you say?
+ 7969: Trust me, <Player>. You're bettaru off quitting while you're ahead.
+ 7970: Of course, one never knows. Work your buttaru off for the next few centuries or so, and you just might have the faintest chance of maybe, possibly (if ever improbably) giving me a run for my gil.
+ 7971: ...But that's a challenge for another day. And with that, I'm off. Ta-taru!
+ 7972: And don't forget, <Player>. Our contract is still in effect.
+ 7973: Promise you won't go down too easy, okay?
+ 7974: Haha! I'm just getting warmed up!
+ 7975: Hah! You pack more of a punch than I thoughtaru. But I won't go down as easy as old Maat!
+ 7976: What's this strange feeling...? It's not supposed to end...like...
+ 7977: Huh? Is that all? I haven't even broken a sweataru...
+ 7978: Yikey-wikeys! Get that thing away from meee!
+ 7979: <Pant, wheeze>... What's the mattaru, <Player>? Too much of a pansy-wansy to fight fair?
+ 7980: The fantastic feast has begun! Stock your stomach with stupendous sweets, and enjoy it to the last!
+ 7981: The fantastic feast has finished! I hope you had a hopping-good time, and we want you to wamble your way to the next one!
+ 7982: [You/Owing to the effects of treasure hunter, you] receive $0 fortune favor[/s] for a total of $1!
+ 7983: $0<$1.
+ 7984: You hear an impossible to gauge thud of massive spoils!$0
+ 7985: You hear a loud thud, as if a large amount of spoils spontaneously appeared.$0
+ 7986: You hear a thud, as if a large amount of spoils spontaneously appeared.$0
+ 7987: You hear a noise, as if a large amount of spoils spontaneously appeared.$0
+ 7988: You receive $0 gil as a bonus reward!
+ 7989: You feel like there's an impossible to gauge thud left to be made!
+ 7990: You feel like there's an impossible to gauge thud left to be made.
+ 7991: You feel like there's an impossible to gauge thud left to be made...?
+ 7992: You feel like there's a huge sound left to be made!
+ 7993: You feel like there's a huge sound left to be made.
+ 7994: You feel like there's a huge sound left to be made...?
+ 7995: Looks like your intuition was incorrect.
+ 7996: It's even better than you anticipated!
+ 7997: Let us see just how capable in battle you truly are.
+ 7998: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.
+ 7999: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!
+ 8000: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...
+ 8001: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!
+ 8002: You're a real to`ugh cookie. That's okay, see if I care.

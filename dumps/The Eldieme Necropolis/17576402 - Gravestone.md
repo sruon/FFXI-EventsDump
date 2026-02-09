@@ -22,14 +22,14 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x00C8      |         200 |
-|       2 | 0x1D23      |        7459 |
-|       3 | 0x1D27      |        7463 |
+|       2 | 0x1D24      |        7460 |
+|       3 | 0x1D28      |        7464 |
 |       4 | 0x0013      |          19 |
 |       5 | 0x00A1      |         161 |
 |       6 | 0x007F      |         127 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x0010      |          16 |
-|       9 | 0x1D28      |        7464 |
+|       9 | 0x1D29      |        7465 |
 |      10 | 0x003C      |          60 |
 |      11 | 0x2900C     |      167948 |
 |      12 | 0xFFFEB46A  |  4294882410 |
@@ -38,16 +38,16 @@
 |      15 | 0x0096      |         150 |
 |      16 | 0x001E      |          30 |
 |      17 | 0x0064      |         100 |
-|      18 | 0x1D2A      |        7466 |
-|      19 | 0x1D2B      |        7467 |
+|      18 | 0x1D2B      |        7467 |
+|      19 | 0x1D2C      |        7468 |
 |      20 | 0x0003      |           3 |
 |      21 | 0x0008      |           8 |
-|      22 | 0x1D2C      |        7468 |
+|      22 | 0x1D2D      |        7469 |
 
 ## String References
 
-- **7459**: The names of the deceased are carved upon the stone.
-- **7463**: The name of the sinner's daughter, Syu Befrathi, is here!
+- **7460**: The names of the deceased are carved upon the stone.
+- **7464**: The name of the sinner's daughter, Syu Befrathi, is here!
 
 ## Events
 
@@ -140,10 +140,10 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x46] CAMERA_CONTROL: Disable user control
   2: 0x0004 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
-  3: 0x0009 [0x48] [System] [7459*]:
+  3: 0x0009 [0x48] [System] [7460*]:
     → "The names of the deceased are carved upon the stone."
   4: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000D [0x48] [System] [7463*]:
+  5: 0x000D [0x48] [System] [7464*]:
     → "The name of the sinner's daughter, Syu Befrathi, is here!"
   6: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0011 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -160,7 +160,7 @@
  18: 0x005F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  19: 0x0070 [0x4A] LocalPlayer looks at Shikaree M (ID: 17576401/0x010C31D1)
  20: 0x0079 [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17576401/0x010C31D1), tag_num=0x10)
- 21: 0x0080 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7464*]:
+ 21: 0x0080 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7465*]:
     → "Did you find her name?"
  22: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0088 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17576401/0x010C31D1))
@@ -188,14 +188,14 @@
  45: 0x0176 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s049" with entities [LocalPlayer, LocalPlayer], work=16*
  46: 0x0185 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
  47: 0x0196 [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17576401/0x010C31D1), tag_num=0x11)
- 48: 0x019D [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7466*]:
+ 48: 0x019D [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7467*]:
     → "...... She definitely appears to be interred here..."
  49: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x01A5 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17576401/0x010C31D1))
  51: 0x01AB [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=16*
  52: 0x01BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
  53: 0x01CB [0x27] REQ_SET(priority=0x08, entity_id=Shikaree M (ID: 17576401/0x010C31D1), tag_num=0x13)
- 54: 0x01D2 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7467*]:
+ 54: 0x01D2 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7468*]:
     → "What's this... $1? The daughter's...?"
  55: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01DA [0x2A] GET_REQ_LEVEL(level=8, entity_id=Shikaree M (ID: 17576401/0x010C31D1))
@@ -211,7 +211,7 @@
 
 SUBROUTINE_0241:
  66: 0x0241 [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17576401/0x010C31D1), tag_num=0x12)
- 67: 0x0248 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7468*]:
+ 67: 0x0248 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7469*]:
     → "There's nothing left of the body, but... This is enough. There's nothing more we can do here. Let's return to Chieftainness Perih Vashai."
  68: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0250 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17576401/0x010C31D1))

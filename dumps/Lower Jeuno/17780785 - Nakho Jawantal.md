@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
-|       1 | 0x1E65      |        7781 |
-|       2 | 0x1E66      |        7782 |
+|       1 | 0x1E66      |        7782 |
+|       2 | 0x1E67      |        7783 |
 
 ## String References
 
-- **7781**: Collet hasn't been to school in ages! I hope she's doing okay.
-- **7782**: Galmut always tells herrr, "Leave it to me." But what could it be? I do hope she comes back soon.
+- **7782**: Collet hasn't been to school in ages! I hope she's doing okay.
+- **7783**: Galmut always tells herrr, "Leave it to me." But what could it be? I do hope she comes back soon.
 
 ## Events
 
@@ -80,10 +80,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=80*
-  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "Collet hasn't been to school in ages! I hope she's doing okay."
   5: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "Galmut always tells herrr, "Leave it to me." But what could it be? I do hope she comes back soon."
   7: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0023 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=80*

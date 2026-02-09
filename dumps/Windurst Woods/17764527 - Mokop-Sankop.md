@@ -25,21 +25,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D8F      |        7567 |
-|       1 | 0x1D90      |        7568 |
-|       2 | 0x1D99      |        7577 |
-|       3 | 0x1D9A      |        7578 |
-|       4 | 0x1DA3      |        7587 |
-|       5 | 0x1DA4      |        7588 |
+|       0 | 0x1D90      |        7568 |
+|       1 | 0x1D91      |        7569 |
+|       2 | 0x1D9A      |        7578 |
+|       3 | 0x1D9B      |        7579 |
+|       4 | 0x1DA4      |        7588 |
+|       5 | 0x1DA5      |        7589 |
 
 ## String References
 
-- **7567**: I'm not too fond of the folksy-wolksy in these parts. All important with their noses in the air and their tails a-waving, but cheap as can be. You folk from other countries need to get cracking!
-- **7568**: Them Elvaan sure are strong with their pointy ears and pointy swords! San d'Oria's sure to be in the lead for a long while yet!
-- **7577**: There's a store that sells really good instruments here! I'm gonna-wanna sneak off there later. Ah! Shh, don't tell my boss...
-- **7578**: There's plenty of bards around, but I'm the best flute player in Vana'diel. You don't believe me? Stay awhile and listen.
-- **7587**: O\`h, I left you behindt O\`nly to return to you, oh Windurst!t S\`o rich, your glory sends me blind,t L\`o, praise the Star Sibyl, oh Windurst!t
-- **7588**: Windurst is the besty!t You can forget about the resty!t The air, so fair, has a different smell!t It improves my tone, can't you tell?t
+- **7568**: I'm not too fond of the folksy-wolksy in these parts. All important with their noses in the air and their tails a-waving, but cheap as can be. You folk from other countries need to get cracking!
+- **7569**: Them Elvaan sure are strong with their pointy ears and pointy swords! San d'Oria's sure to be in the lead for a long while yet!
+- **7578**: There's a store that sells really good instruments here! I'm gonna-wanna sneak off there later. Ah! Shh, don't tell my boss...
+- **7579**: There's plenty of bards around, but I'm the best flute player in Vana'diel. You don't believe me? Stay awhile and listen.
+- **7588**: O\`h, I left you behindt O\`nly to return to you, oh Windurst!t S\`o rich, your glory sends me blind,t L\`o, praise the Star Sibyl, oh Windurst!t
+- **7589**: Windurst is the besty!t You can forget about the resty!t The air, so fair, has a different smell!t It improves my tone, can't you tell?t
 
 ## Events
 
@@ -84,7 +84,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "I'm not too fond of the folksy-wolksy in these parts. All important with their noses in the air and their tails a-waving, but cheap as can be. You folk from other countries need to get cracking!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -112,7 +112,7 @@
 #### Opcodes
 
 ```
-  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
+  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7569*)
     → "Them Elvaan sure are strong with their pointy ears and pointy swords! San d'Oria's sure to be in the lead for a long while yet!"
   1: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -139,7 +139,7 @@
 #### Opcodes
 
 ```
-  0: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+  0: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "There's a store that sells really good instruments here! I'm gonna-wanna sneak off there later. Ah! Shh, don't tell my boss..."
   1: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0015 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -167,7 +167,7 @@
 #### Opcodes
 
 ```
-  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "There's plenty of bards around, but I'm the best flute player in Vana'diel. You don't believe me? Stay awhile and listen."
   1: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -194,7 +194,7 @@
 #### Opcodes
 
 ```
-  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
+  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
     → "O`h, I left you behindt O`nly to return to you, oh Windurst!t S`o rich, your glory sends me blind,t L`o, praise the Star Sibyl, oh Windurst!t"
   1: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0025 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -222,7 +222,7 @@
 #### Opcodes
 
 ```
-  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
+  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
     → "Windurst is the besty!t You can forget about the resty!t The air, so fair, has a different smell!t It improves my tone, can't you tell?t"
   1: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

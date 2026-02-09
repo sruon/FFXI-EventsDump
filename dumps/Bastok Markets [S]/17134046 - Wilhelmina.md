@@ -24,25 +24,25 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x000A      |          10 |
-|       2 | 0x3013      |       12307 |
-|       3 | 0x3014      |       12308 |
-|       4 | 0x3370      |       13168 |
+|       2 | 0x3014      |       12308 |
+|       3 | 0x3015      |       12309 |
+|       4 | 0x3371      |       13169 |
 |       5 | 0x0007      |           7 |
 |       6 | 0x005A      |          90 |
-|       7 | 0x3371      |       13169 |
-|       8 | 0x3372      |       13170 |
-|       9 | 0x3373      |       13171 |
-|      10 | 0x3374      |       13172 |
+|       7 | 0x3372      |       13170 |
+|       8 | 0x3373      |       13171 |
+|       9 | 0x3374      |       13172 |
+|      10 | 0x3375      |       13173 |
 
 ## String References
 
-- **12307**: Have you heard the rumors? There have been several sightings of these so-called "maws" outside the city. People are saying they may have been unleashed by the beasthordes!
-- **12308**: All accounts claim that they float just above ground, wreathing about, with gaping mouths like great voids that never shut... It gives me the chills just to think about it.
-- **13168**: What? You're on the trail of Darksteel Hurricane!? Well, you don't seem to be crazy, so I gather you're either a musketeer or part of that surly military police outfit.
-- **13169**: Not that that has any bearing on a law-abiding citizen like me, of course. But getting back on subject, I take it you already know that he wears a menacing scar on his forehead.
-- **13170**: Those who've met a brutal end by his cruel hand have all turned up with an identical wound carved into their foreheads.
-- **13171**: Speculation abounds on his motives, but if you ask me, only vengeance can so fuel a man's desire for blood.
-- **13172**: Just thinking about it makes my skin crawl. You certainly won't catch me going on late-night strolls any more. Nor do I intend to linger in the presence of a Galka whose forehead I cannot see. I advise you to do the same!
+- **12308**: Have you heard the rumors? There have been several sightings of these so-called "maws" outside the city. People are saying they may have been unleashed by the beasthordes!
+- **12309**: All accounts claim that they float just above ground, wreathing about, with gaping mouths like great voids that never shut... It gives me the chills just to think about it.
+- **13169**: What? You're on the trail of Darksteel Hurricane!? Well, you don't seem to be crazy, so I gather you're either a musketeer or part of that surly military police outfit.
+- **13170**: Not that that has any bearing on a law-abiding citizen like me, of course. But getting back on subject, I take it you already know that he wears a menacing scar on his forehead.
+- **13171**: Those who've met a brutal end by his cruel hand have all turned up with an identical wound carved into their foreheads.
+- **13172**: Speculation abounds on his motives, but if you ask me, only vengeance can so fuel a man's desire for blood.
+- **13173**: Just thinking about it makes my skin crawl. You certainly won't catch me going on late-night strolls any more. Nor do I intend to linger in the presence of a Galka whose forehead I cannot see. I advise you to do the same!
 
 ## Events
 
@@ -92,10 +92,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12307*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12308*)
     → "Have you heard the rumors? There have been several sightings of these so-called "maws" outside the city. People are saying they may have been unleashed by the beasthordes!"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12308*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12309*)
     → "All accounts claim that they float just above ground, wreathing about, with gaping mouths like great voids that never shut... It gives me the chills just to think about it."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT
@@ -128,24 +128,24 @@
   0: 0x0022 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0023 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0028 [0x1C] WAIT(30* ticks)
-  3: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=13168*)
+  3: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=13169*)
     → "What? You're on the trail of Darksteel Hurricane!? Well, you don't seem to be crazy, so I gather you're either a musketeer or part of that surly military police outfit."
   4: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x002F [0x6E] LocalPlayer uses emote 7*
   6: 0x0036 [0x99] Wait for LocalPlayer animation to complete
   7: 0x003B [0x1C] WAIT(90* ticks)
   8: 0x003E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  9: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=13169*)
+  9: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=13170*)
     → "Not that that has any bearing on a law-abiding citizen like me, of course. But getting back on subject, I take it you already know that he wears a menacing scar on his forehead."
  10: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=13170*)
+ 11: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=13171*)
     → "Those who've met a brutal end by his cruel hand have all turned up with an identical wound carved into their foreheads."
  12: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=13171*)
+ 13: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=13172*)
     → "Speculation abounds on his motives, but if you ask me, only vengeance can so fuel a man's desire for blood."
  14: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0059 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=10*
- 16: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=13172*)
+ 16: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=13173*)
     → "Just thinking about it makes my skin crawl. You certainly won't catch me going on late-night strolls any more. Nor do I intend to linger in the presence of a Galka whose forehead I cannot see. I advise you to do the same!"
  17: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006C [0x21] END_EVENT
@@ -174,7 +174,7 @@
 ```
   0: 0x006E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0073 [0x1C] WAIT(30* ticks)
-  2: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=13172*)
+  2: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=13173*)
     → "Just thinking about it makes my skin crawl. You certainly won't catch me going on late-night strolls any more. Nor do I intend to linger in the presence of a Galka whose forehead I cannot see. I advise you to do the same!"
   3: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x007A [0x21] END_EVENT

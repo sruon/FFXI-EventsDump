@@ -1,5 +1,5 @@
 # Strings for Fort Ghelsba
-# Total: 7408 strings
+# Total: 7409 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -7228,184 +7228,185 @@
  7224: Vana'Bout No. $0 has concluded.
  7225: Obtained temporary item: $0.
  7226: Lost temporary item: $0.
- 7227: You can't fish here.
- 7228: You can't fish without a rod in your hands.
- 7229: You can't fish without bait on the hook.
- 7230: You can't fish at the moment.
- 7231: You didn't catch anything.
- 7232: %0 caught a monster!
- 7233: Your line breaks.
- 7234: Your rod breaks.
- 7235: Something caught the hook!
- 7236: You lost your catch.
- 7237: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7238: You feel there's something here.
- 7239: You feel there's something nearby.
- 7240: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7241: %0 caught $1 $0 !
- 7242: You dig and you dig, but find nothing.
- 7243: $0/$0p$3Z$3b$3g
- 7244: Your rod breaks. Whatever caught the hook was pretty big.
- 7245: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7246: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7247: You lost your catch due to your lack of skill.
- 7248: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7249: You didn't catch anything.
- 7250: The paper on your $0 ripped.
- 7251: A tiny goldfish approaches!
- 7252: A plump, black goldfish approaches!
- 7253: A fat, juicy goldfish approaches!
- 7254: There are no goldfish to be found...
- 7255: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7256: The goldfish slipped off your scoop...
- 7257: ch$0 skill up check.
- 7258: a:$0.
- 7259: Time $0 / Status $1 / $2
- 7260: d:$0. e:$1. f:$2. g:$3.
- 7261: h: $1. i: $0. sr: $2.
- 7262: j:$0. k:$1.
- 7263: You give up and reel in your line.
- 7264: You give up.
- 7265: %0 obtains $1 gil.
- 7266: %0 caught $0!
- 7267: You don't know how much longer you can keep this one on the line...
- 7268: You have a good feeling about this one!
- 7269: You have a bad feeling about this one.
- 7270: You have a terrible feeling about this one...
- 7271: You don't know if you have enough skill to reel this one in.
- 7272: You're fairly sure you don't have enough skill to reel this one in.
- 7273: You're positive you don't have enough skill to reel this one in!
- 7274: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7275: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7276: l: $0. m: $1. n: $2. CH: $3.
- 7277: Something caught the hook!!!
- 7278: You feel something pulling at your line.
- 7279: Something clamps onto your line ferociously!
- 7280: Your keen angler's senses tell you that this is the pull of $0!
- 7281: This strength... You get the sense that you are on the verge of an epic catch!
- 7282: The timer has started. $0 seconds remaining.
- 7283: $0sec.$1/$2sec.
- 7284: 0:$0 1:$1 2:$2 3:$3
- 7285: 4:$0 5:$1 6:$2 7:$3
- 7286: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7287: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7288: $0/$1($2j
- 7289: Version invalid error!
- 7290: Hurry before the goldfish sees you!
- 7291: %0 fishes up a large box!
- 7292: $23$o$P122$8$0
- 7293: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7294: PointF$0 >>> $1
- 7295: [$1($0)/skillF$1]
- 7296: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7297: Im Rnd : $0 Pz Rnd : $1
- 7298: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7299: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7300: skill : $0 size : $1 kind : $2 sch : $3
- 7301: time : $0 mes : $1 flag : $2 bonus : $3
- 7302: item : $0 hp : $1 pow : $2 swing : $3
- 7303: suc : $0 cons : $1 weight : $2 +- : $3
- 7304: speed : $0 +- : $1 exc : $2 client : $3
- 7305: general : $0
- 7306: ro:$0 rs:$1 ps:$2 dt:$3
- 7307: ra:$0 ti:$1
- 7308: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7309: You get the distinct sense that your moogle friend frequents this spot...
- 7310: You have a feeling that your moogle friend has been through this way...
- 7311: You suspect that the scenery around here would be to a moogle's liking...
- 7312: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7313: You have a hunch that this area would be favored by moogles...
- 7314: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7315: %0 catches $1 $0 !
- 7316: %0 obtained $6!
- 7317: It appears your chocobo found this item with ease.
- 7318: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7319: FPT $0 DPT $1 DoT$2
- 7320: FPT $0 TDPT $1 h$2
- 7321: You cannot fish at this time.
- 7322: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7323: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7324: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7325: You receive $0 bayld!
- 7326: Your chocobo refuses to partake of the $0.
- 7327: Hello. Testing client message 1. Testing client message 2.
- 7328: Testing client message.
- 7329: Welcome. We have potions for sale today.
- 7330: Greetings! I've a good stock of potions today.
- 7331: There is a dwarf-cave north of the city. Bandits come out at night, so be careful.
- 7332: I will crush you!
- 7333: Bind here? [Yes./No.]
- 7334: Done.
- 7335: If you have no business here, go away!
- 7336: Going back to bind spot. Press button.
- 7337: Going to first floor.
- 7338: Going to second floor.
- 7339: Going to third floor.
- 7340: Going to fourth floor.
- 7341: Go to which floor? [1."."./4.]
- 7342: Elevator --> 1st Floor
- 7343: Elevator --> 2nd Floor
- 7344: Stay on this floor.
- 7345: Indicate 2nd Floor
- 7346: The lever cannot be used while the elevator is in motion.
- 7347: Use the switch to activate the elevator.
- 7348: Elevator in operation.
- 7349: I may not look like much, but I can use magic!
- 7350: Wanna fly to Bastok? [No, no!/Let's go!]
- 7351: Shucks.
- 7352: See ya!
- 7353: Throw the lever? [Yes./No.]
+ 7227: It won't open.
+ 7228: You can't fish here.
+ 7229: You can't fish without a rod in your hands.
+ 7230: You can't fish without bait on the hook.
+ 7231: You can't fish at the moment.
+ 7232: You didn't catch anything.
+ 7233: %0 caught a monster!
+ 7234: Your line breaks.
+ 7235: Your rod breaks.
+ 7236: Something caught the hook!
+ 7237: You lost your catch.
+ 7238: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7239: You feel there's something here.
+ 7240: You feel there's something nearby.
+ 7241: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7242: %0 caught $1 $0 !
+ 7243: You dig and you dig, but find nothing.
+ 7244: $0/$0p$3Z$3b$3g
+ 7245: Your rod breaks. Whatever caught the hook was pretty big.
+ 7246: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7247: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7248: You lost your catch due to your lack of skill.
+ 7249: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7250: You didn't catch anything.
+ 7251: The paper on your $0 ripped.
+ 7252: A tiny goldfish approaches!
+ 7253: A plump, black goldfish approaches!
+ 7254: A fat, juicy goldfish approaches!
+ 7255: There are no goldfish to be found...
+ 7256: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7257: The goldfish slipped off your scoop...
+ 7258: ch$0 skill up check.
+ 7259: a:$0.
+ 7260: Time $0 / Status $1 / $2
+ 7261: d:$0. e:$1. f:$2. g:$3.
+ 7262: h: $1. i: $0. sr: $2.
+ 7263: j:$0. k:$1.
+ 7264: You give up and reel in your line.
+ 7265: You give up.
+ 7266: %0 obtains $1 gil.
+ 7267: %0 caught $0!
+ 7268: You don't know how much longer you can keep this one on the line...
+ 7269: You have a good feeling about this one!
+ 7270: You have a bad feeling about this one.
+ 7271: You have a terrible feeling about this one...
+ 7272: You don't know if you have enough skill to reel this one in.
+ 7273: You're fairly sure you don't have enough skill to reel this one in.
+ 7274: You're positive you don't have enough skill to reel this one in!
+ 7275: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7276: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7277: l: $0. m: $1. n: $2. CH: $3.
+ 7278: Something caught the hook!!!
+ 7279: You feel something pulling at your line.
+ 7280: Something clamps onto your line ferociously!
+ 7281: Your keen angler's senses tell you that this is the pull of $0!
+ 7282: This strength... You get the sense that you are on the verge of an epic catch!
+ 7283: The timer has started. $0 seconds remaining.
+ 7284: $0sec.$1/$2sec.
+ 7285: 0:$0 1:$1 2:$2 3:$3
+ 7286: 4:$0 5:$1 6:$2 7:$3
+ 7287: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7288: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7289: $0/$1($2j
+ 7290: Version invalid error!
+ 7291: Hurry before the goldfish sees you!
+ 7292: %0 fishes up a large box!
+ 7293: $23$o$P122$8$0
+ 7294: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7295: PointF$0 >>> $1
+ 7296: [$1($0)/skillF$1]
+ 7297: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7298: Im Rnd : $0 Pz Rnd : $1
+ 7299: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7300: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7301: skill : $0 size : $1 kind : $2 sch : $3
+ 7302: time : $0 mes : $1 flag : $2 bonus : $3
+ 7303: item : $0 hp : $1 pow : $2 swing : $3
+ 7304: suc : $0 cons : $1 weight : $2 +- : $3
+ 7305: speed : $0 +- : $1 exc : $2 client : $3
+ 7306: general : $0
+ 7307: ro:$0 rs:$1 ps:$2 dt:$3
+ 7308: ra:$0 ti:$1
+ 7309: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7310: You get the distinct sense that your moogle friend frequents this spot...
+ 7311: You have a feeling that your moogle friend has been through this way...
+ 7312: You suspect that the scenery around here would be to a moogle's liking...
+ 7313: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7314: You have a hunch that this area would be favored by moogles...
+ 7315: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7316: %0 catches $1 $0 !
+ 7317: %0 obtained $6!
+ 7318: It appears your chocobo found this item with ease.
+ 7319: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7320: FPT $0 DPT $1 DoT$2
+ 7321: FPT $0 TDPT $1 h$2
+ 7322: You cannot fish at this time.
+ 7323: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7324: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7326: You receive $0 bayld!
+ 7327: Your chocobo refuses to partake of the $0.
+ 7328: Hello. Testing client message 1. Testing client message 2.
+ 7329: Testing client message.
+ 7330: Welcome. We have potions for sale today.
+ 7331: Greetings! I've a good stock of potions today.
+ 7332: There is a dwarf-cave north of the city. Bandits come out at night, so be careful.
+ 7333: I will crush you!
+ 7334: Bind here? [Yes./No.]
+ 7335: Done.
+ 7336: If you have no business here, go away!
+ 7337: Going back to bind spot. Press button.
+ 7338: Going to first floor.
+ 7339: Going to second floor.
+ 7340: Going to third floor.
+ 7341: Going to fourth floor.
+ 7342: Go to which floor? [1."."./4.]
+ 7343: Elevator --> 1st Floor
+ 7344: Elevator --> 2nd Floor
+ 7345: Stay on this floor.
+ 7346: Indicate 2nd Floor
+ 7347: The lever cannot be used while the elevator is in motion.
+ 7348: Use the switch to activate the elevator.
+ 7349: Elevator in operation.
+ 7350: I may not look like much, but I can use magic!
+ 7351: Wanna fly to Bastok? [No, no!/Let's go!]
+ 7352: Shucks.
+ 7353: See ya!
  7354: Throw the lever? [Yes./No.]
- 7355: You receive nothing from the moon rabbit...
- 7356: The moon rabbit has brought along a monster!
- 7357: You have to do something about those crazy trees, kupo!
- 7358: You're done fighting trees, kupo?
- 7359: 
+ 7355: Throw the lever? [Yes./No.]
+ 7356: You receive nothing from the moon rabbit...
+ 7357: The moon rabbit has brought along a monster!
+ 7358: You have to do something about those crazy trees, kupo!
+ 7359: You're done fighting trees, kupo?
  7360: 
  7361: 
  7362: 
  7363: 
  7364: 
  7365: 
- 7366: This chest is locked. It can be opened with $0.
- 7367: This chest is empty.
- 7368: Your inventory is full. You cannot carry any more items.
- 7369: You must be closer to the chest to open it.
- 7370: %0 opens the chest and finds $0.
- 7371: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7372: %0 obtains a key item, $6, from the chest.
- 7373: You obtain a key item, $6, from the chest.
- 7374: You unlock the chest!
- 7375: %0 fails to open the chest.
- 7376: The chest was trapped!
- 7377: You cannot open the chest when you are in a weakened state.
- 7378: The chest was a mimic!
- 7379: You cannot open the chest while participating in the moogle event.
- 7380: The chest was but an illusion...
- 7381: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7382: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7383: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7384: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
- 7385: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
- 7386: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
- 7387: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
- 7388: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
- 7389: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7390: It will cost $2 gil to teleport to $8. ($3 gil on hand)
- 7391: All mog tablets have currently been found, so you may teleport to $8 at no charge.
- 7392: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
- 7393: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
- 7394: You do not have enough tabs.
- 7395: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
- 7396: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
- 7397: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
- 7398: Accept the reward? [Yes, please./No, thanks.]
- 7399: You may change the way you select areas listed in "Teleportation Assistance."
- 7400: Any changes to make? [Keep course./Select by region./Select by content.]
- 7401: Area selection will now be made by [region/content].
- 7402: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
- 7403: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7404: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
- 7405: $8 has been [added to your list of favorites/removed from your list of favorites].
- 7406: Your list of favorites is full. You must remove an existing entry to add new ones.
- 7407: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+ 7366: 
+ 7367: This chest is locked. It can be opened with $0.
+ 7368: This chest is empty.
+ 7369: Your inventory is full. You cannot carry any more items.
+ 7370: You must be closer to the chest to open it.
+ 7371: %0 opens the chest and finds $0.
+ 7372: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7373: %0 obtains a key item, $6, from the chest.
+ 7374: You obtain a key item, $6, from the chest.
+ 7375: You unlock the chest!
+ 7376: %0 fails to open the chest.
+ 7377: The chest was trapped!
+ 7378: You cannot open the chest when you are in a weakened state.
+ 7379: The chest was a mimic!
+ 7380: You cannot open the chest while participating in the moogle event.
+ 7381: The chest was but an illusion...
+ 7382: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7383: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7384: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7385: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+ 7386: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+ 7387: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+ 7388: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+ 7389: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+ 7390: Where will you travel? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7391: It will cost $2 gil to teleport to $8. ($3 gil on hand)
+ 7392: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+ 7393: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+ 7394: $2$3M$3 [E<Player>Z$P13.7ii$4$3M$3 [j/Travel to $8?/ [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/Not just yet.]
+ 7395: You do not have enough tabs.
+ 7396: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+ 7397: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+ 7398: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+ 7399: Accept the reward? [Yes, please./No, thanks.]
+ 7400: You may change the way you select areas listed in "Teleportation Assistance."
+ 7401: Any changes to make? [Keep course./Select by region./Select by content.]
+ 7402: Area selection will now be made by [region/content].
+ 7403: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+ 7404: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7405: Travel to where? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./[Add location to favorites/Remove location from favorites].]
+ 7406: $8 has been [added to your list of favorites/removed from your list of favorites].
+ 7407: Your list of favorites is full. You must remove an existing entry to add new ones.
+ 7408: Remove which entry? [None of these./$8./$8./$8./$8./$8./$8./$8./$8./$8.]

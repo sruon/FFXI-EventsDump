@@ -27,15 +27,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2716      |       10006 |
-|       3 | 0x2717      |       10007 |
-|       4 | 0x286F      |       10351 |
+|       2 | 0x2717      |       10007 |
+|       3 | 0x2718      |       10008 |
+|       4 | 0x2870      |       10352 |
 
 ## String References
 
-- **10006**: Have you ever been to Windurrrst? A tribe of Mithrrra that left Kazham long ago is living there.
-- **10007**: All the aggressive ones left, while most of the laid-back ones stayed. That's why Kazham is so peaceful.
-- **10351**: Would you mind stepping back? I can't take that wrrretched odor at my age... It makes me dizzy!
+- **10007**: Have you ever been to Windurrrst? A tribe of Mithrrra that left Kazham long ago is living there.
+- **10008**: All the aggressive ones left, while most of the laid-back ones stayed. That's why Kazham is so peaceful.
+- **10352**: Would you mind stepping back? I can't take that wrrretched odor at my age... It makes me dizzy!
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toeh Leddenbah (ID: 17801276/0x010FA03C), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10006*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10007*)
     → "Have you ever been to Windurrrst? A tribe of Mithrrra that left Kazham long ago is living there."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10007*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10008*)
     → "All the aggressive ones left, while most of the laid-back ones stayed. That's why Kazham is so peaceful."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toeh Leddenbah (ID: 17801276/0x010FA03C), tag_num=0x02)
@@ -171,7 +171,7 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toeh Leddenbah (ID: 17801276/0x010FA03C), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10351*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10352*)
     → "Would you mind stepping back? I can't take that wrrretched odor at my age... It makes me dizzy!"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Toeh Leddenbah (ID: 17801276/0x010FA03C), tag_num=0x02)

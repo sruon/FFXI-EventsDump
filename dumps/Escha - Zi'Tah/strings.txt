@@ -1,5 +1,5 @@
 # Strings for Escha - Zi'Tah
-# Total: 7749 strings
+# Total: 7750 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -7069,89 +7069,89 @@
  7065: Vana'Bout No. $0 has concluded.
  7066: Obtained temporary item: $0.
  7067: Lost temporary item: $0.
- 7068: Tallying conquest results...
- 7069: Conquest results tallied.
- 7070: This region is currently under San d'Orian control.
- 7071: This region is currently under Bastokan control.
- 7072: This region is currently under Windurstian control.
- 7073: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7074: This region is currently neutral.
- 7075: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
- 7076: All three nations are tied for first place.
- 7077: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7078: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
- 7080: All three nations are tied for first place.
- 7081: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7082: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
- 7083: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
- 7084: All three nations are tied for first place.
- 7085: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
- 7086: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7087: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
- 7088: All three nations are tied for first place.
- 7089: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
- 7090: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
- 7091: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
- 7092: Global balance of power: All three nations are tied for first place.
- 7093: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
- 7094: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
- 7095: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
- 7096: All three nations are tied for first place.
- 7097: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
- 7098: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
- 7099: Conquest update: This region is currently neutral.
- 7100: Conquest update: This region is currently under San d'Orian control.
- 7101: Conquest update: This region is currently under Bastokan control.
- 7102: Conquest update: This region is currently under Windurstian control.
- 7103: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
- 7104: All three nations are at a deadlock.
- 7105: The beastmen are on the rise.
- 7106: Regional influence: San d'Oria - Dominant
- 7107: Regional influence: San d'Oria - Major
- 7108: Regional influence: San d'Oria - Minor
- 7109: Regional influence: San d'Oria - Minimal
- 7110: Bastok - Dominant
- 7111: Bastok - Major
- 7112: Bastok - Minor
- 7113: Bastok - Minimal
- 7114: Windurst - Dominant
- 7115: Windurst - Major
- 7116: Windurst - Minor
- 7117: Windurst - Minimal
- 7118: Bastok and Windurst have formed an alliance.
- 7119: San d'Oria and Windurst have formed an alliance.
- 7120: San d'Oria and Bastok have formed an alliance.
- 7121: Bastok and Windurst are currently allies.
- 7122: San d'Oria and Windurst are currently allies.
- 7123: San d'Oria and Bastok are currently allies.
- 7124: $10$P11.$17F$0 $P14;$P12hF$1
- 7125: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
- 7126: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
- 7127: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
- 7128: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
- 7129: The beastmen are gaining power.
- 7130: San d'Oria's regional control is now 10% closer to the first place country's!
- 7131: Bastok's regional control is now 10% closer to the first place country's!
- 7132: Windurst's regional control are now 10% closer to the first place country's!
- 7133: San d'Oria's region points have increased!
- 7134: Bastok's region points have increased!
- 7135: Windurst's region points have increased!
- 7136: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
- 7137: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
- 7138: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
- 7139: A San d'Orian Expeditionary Force has been dispatched to this area.
- 7140: A Bastokan Expeditionary Force has been dispatched to this area.
- 7141: A Windurstian Expeditionary Force has been dispatched to this area.
- 7142: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
- 7143: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
- 7144: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
- 7145: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
- 7146: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
- 7147: There was a curse on the beastmen's banner!
- 7148: The curse of the beastmen's banner has been lifted!
- 7149: There is a beastmen's banner.
- 7150: @
+ 7068: It won't open.
+ 7069: Tallying conquest results...
+ 7070: Conquest results tallied.
+ 7071: This region is currently under San d'Orian control.
+ 7072: This region is currently under Bastokan control.
+ 7073: This region is currently under Windurstian control.
+ 7074: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7075: This region is currently neutral.
+ 7076: Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+ 7077: All three nations are tied for first place.
+ 7078: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7079: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7080: Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+ 7081: All three nations are tied for first place.
+ 7082: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7083: Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+ 7084: Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+ 7085: All three nations are tied for first place.
+ 7086: Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+ 7087: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7088: Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+ 7089: All three nations are tied for first place.
+ 7090: Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+ 7091: Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+ 7092: Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+ 7093: Global balance of power: All three nations are tied for first place.
+ 7094: Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+ 7095: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+ 7096: Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+ 7097: All three nations are tied for first place.
+ 7098: Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+ 7099: Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+ 7100: Conquest update: This region is currently neutral.
+ 7101: Conquest update: This region is currently under San d'Orian control.
+ 7102: Conquest update: This region is currently under Bastokan control.
+ 7103: Conquest update: This region is currently under Windurstian control.
+ 7104: Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+ 7105: All three nations are at a deadlock.
+ 7106: The beastmen are on the rise.
+ 7107: Regional influence: San d'Oria - Dominant
+ 7108: Regional influence: San d'Oria - Major
+ 7109: Regional influence: San d'Oria - Minor
+ 7110: Regional influence: San d'Oria - Minimal
+ 7111: Bastok - Dominant
+ 7112: Bastok - Major
+ 7113: Bastok - Minor
+ 7114: Bastok - Minimal
+ 7115: Windurst - Dominant
+ 7116: Windurst - Major
+ 7117: Windurst - Minor
+ 7118: Windurst - Minimal
+ 7119: Bastok and Windurst have formed an alliance.
+ 7120: San d'Oria and Windurst have formed an alliance.
+ 7121: San d'Oria and Bastok have formed an alliance.
+ 7122: Bastok and Windurst are currently allies.
+ 7123: San d'Oria and Windurst are currently allies.
+ 7124: San d'Oria and Bastok are currently allies.
+ 7125: $10$P11.$17F$0 $P14;$P12hF$1
+ 7126: $21$P14u$3`$3F$3b$3NF$0 $3A$3C$3e$3 $2 <Player>x-$3|$3C$3$3gF$3
+ 7127: ITEM_ID:$2 $s$P16]$$$P15i$P14T$6:$3
+ 7128: $s$P16]$$$P15i$P14T$6:$0 <Player>x-$3|$3C$3$3g:$1
+ 7129: [$3T$3$3h$3$3A/$3o$3X$3g$3D[$3N/$3E$3B$3$3_$3X]L$s [5:[%r$P10(/bb%r$P10(/bb%D$P10(/%D$P10(/dP$5]/$16$mL$P12l$P12i:$2$6881898$3|$3C$3$3g:$3]
+ 7130: The beastmen are gaining power.
+ 7131: San d'Oria's regional control is now 10% closer to the first place country's!
+ 7132: Bastok's regional control is now 10% closer to the first place country's!
+ 7133: Windurst's regional control are now 10% closer to the first place country's!
+ 7134: San d'Oria's region points have increased!
+ 7135: Bastok's region points have increased!
+ 7136: Windurst's region points have increased!
+ 7137: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+ 7138: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+ 7139: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+ 7140: A San d'Orian Expeditionary Force has been dispatched to this area.
+ 7141: A Bastokan Expeditionary Force has been dispatched to this area.
+ 7142: A Windurstian Expeditionary Force has been dispatched to this area.
+ 7143: E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+ 7144: E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+ 7145: E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+ 7146: E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+ 7147: E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+ 7148: There was a curse on the beastmen's banner!
+ 7149: The curse of the beastmen's banner has been lifted!
+ 7150: There is a beastmen's banner.
  7151: @
  7152: @
  7153: @
@@ -7226,527 +7226,528 @@
  7222: @
  7223: @
  7224: @
- 7225: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
- 7226: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
- 7227: You can't fish here.
- 7228: You can't fish without a rod in your hands.
- 7229: You can't fish without bait on the hook.
- 7230: You can't fish at the moment.
- 7231: You didn't catch anything.
- 7232: %0 caught a monster!
- 7233: Your line breaks.
- 7234: Your rod breaks.
- 7235: Something caught the hook!
- 7236: You lost your catch.
- 7237: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7238: You feel there's something here.
- 7239: You feel there's something nearby.
- 7240: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7241: %0 caught $1 $0 !
- 7242: You dig and you dig, but find nothing.
- 7243: $0/$0p$3Z$3b$3g
- 7244: Your rod breaks. Whatever caught the hook was pretty big.
- 7245: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7246: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7247: You lost your catch due to your lack of skill.
- 7248: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7249: You didn't catch anything.
- 7250: The paper on your $0 ripped.
- 7251: A tiny goldfish approaches!
- 7252: A plump, black goldfish approaches!
- 7253: A fat, juicy goldfish approaches!
- 7254: There are no goldfish to be found...
- 7255: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7256: The goldfish slipped off your scoop...
- 7257: ch$0 skill up check.
- 7258: a:$0.
- 7259: Time $0 / Status $1 / $2
- 7260: d:$0. e:$1. f:$2. g:$3.
- 7261: h: $1. i: $0. sr: $2.
- 7262: j:$0. k:$1.
- 7263: You give up and reel in your line.
- 7264: You give up.
- 7265: %0 obtains $1 gil.
- 7266: %0 caught $0!
- 7267: You don't know how much longer you can keep this one on the line...
- 7268: You have a good feeling about this one!
- 7269: You have a bad feeling about this one.
- 7270: You have a terrible feeling about this one...
- 7271: You don't know if you have enough skill to reel this one in.
- 7272: You're fairly sure you don't have enough skill to reel this one in.
- 7273: You're positive you don't have enough skill to reel this one in!
- 7274: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7275: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7276: l: $0. m: $1. n: $2. CH: $3.
- 7277: Something caught the hook!!!
- 7278: You feel something pulling at your line.
- 7279: Something clamps onto your line ferociously!
- 7280: Your keen angler's senses tell you that this is the pull of $0!
- 7281: This strength... You get the sense that you are on the verge of an epic catch!
- 7282: The timer has started. $0 seconds remaining.
- 7283: $0sec.$1/$2sec.
- 7284: 0:$0 1:$1 2:$2 3:$3
- 7285: 4:$0 5:$1 6:$2 7:$3
- 7286: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7287: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7288: $0/$1($2j
- 7289: Version invalid error!
- 7290: Hurry before the goldfish sees you!
- 7291: %0 fishes up a large box!
- 7292: $23$o$P122$8$0
- 7293: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7294: PointF$0 >>> $1
- 7295: [$1($0)/skillF$1]
- 7296: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7297: Im Rnd : $0 Pz Rnd : $1
- 7298: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7299: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7300: skill : $0 size : $1 kind : $2 sch : $3
- 7301: time : $0 mes : $1 flag : $2 bonus : $3
- 7302: item : $0 hp : $1 pow : $2 swing : $3
- 7303: suc : $0 cons : $1 weight : $2 +- : $3
- 7304: speed : $0 +- : $1 exc : $2 client : $3
- 7305: general : $0
- 7306: ro:$0 rs:$1 ps:$2 dt:$3
- 7307: ra:$0 ti:$1
- 7308: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7309: You get the distinct sense that your moogle friend frequents this spot...
- 7310: You have a feeling that your moogle friend has been through this way...
- 7311: You suspect that the scenery around here would be to a moogle's liking...
- 7312: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7313: You have a hunch that this area would be favored by moogles...
- 7314: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7315: %0 catches $1 $0 !
- 7316: %0 obtained $6!
- 7317: It appears your chocobo found this item with ease.
- 7318: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7319: FPT $0 DPT $1 DoT$2
- 7320: FPT $0 TDPT $1 h$2
- 7321: You cannot fish at this time.
- 7322: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7323: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7324: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7325: You receive $0 bayld!
- 7326: Your chocobo refuses to partake of the $0.
- 7327: You may be able to procure something from here if you have $6.
- 7328: Chance of breaking: $3/10000
- 7329: Your $3 breaks!
- 7330: You successfully procure $0!
- 7331: You procure $0, but your $3 breaks in the process.
- 7332: You are unable to procure anything.
- 7333: You cannot carry any more items. Your inventory is full.
- 7334: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
- 7335: You have ventured too far from the field of battle. The Confrontation has been disengaged.
- 7336: You have returned to the field of battle.
- 7337: You have $0 [minute/minutes] (Earth time) to complete the battle.
- 7338: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
- 7339: You have only $0 [second/seconds] (Earth time) remaining.
- 7340: Your time for this Confrontation is up...
- 7341: The monster fades before your eyes, a look of disappointment on its face.
- 7342: (Test message.)
- 7343: Enter the garrison? [Yes./No.]
- 7344: The $3 is ripped violently to pieces!
- 7345: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
- 7346: Hark! Our foe lurks thither. How wouldst thou proceed?
- 7347: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
- 7348: Our foe advances...may thine aim be true!
- 7349: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
- 7350: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
- 7351: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7352: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7353: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7354: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
- 7355: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
- 7356: Greetings, traveler! How dost thou fare in thine adventures?
- 7357: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
- 7358: Dost thou find this enchantment to thy liking?
- 7359: Accept the item? [Accept./Refuse. ($0 times remaining)]
- 7360: Splendid! May it serve thee well.
- 7361: %0 obtained $0!
- 7362: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
- 7363: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
- 7364: What's this? 'Twould appear that thy weapon can endure no further enchantments.
- 7365: Though it may fall short of thy expectations, pray accept it.
- 7366: Otherwise, we shall have no choice but to dispose of it.
- 7367: Many thanks for thine assistance!
- 7368: Pray accept this $0 as but a humble token of our gratitude.
- 7369: $3f$3o$3b$3OF$P13`$20$P12i$KM
- 7370: $3f$3o$3b$3O$590643$3$3NM
- 7371: $3f$3o$3b$3O$201475X$3^$3243853
- 7372: $3{$3^$3$97F$31V$P10i]\7
- 7373: @@
- 7374: There is nothing out of the ordinary here.
- 7375: You can hear a strange voice... "Items, items, la la la la la`t"
- 7376: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7377: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7378: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7379: Now, listen close...
- 7380: Oh... Well, if that's the case, I'm outta here.
- 7381: The Goblin slipped away when you were not looking...
- 7382: You can hear a strange, raspy voice...
- 7383: I travel......hear lots... Hear...stories... Can tell...if...
- 7384: .........listen......
- 7385: Oh...... ...outta here.........
- 7386: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7387: What story would you like to be told? [On second thought, maybe later./A Land After Time(pt.1)./A Land After Time(pt.2).]
- 7388: 
+ 7225: @
+ 7226: $19$P10*$P10f$3$1[$3W$3 $3$3i$3$3o[$656204[$3W$3 $3$3i$3$3o[@$1
+ 7227: $29&=$3|$3C$3$3g$3998246$3J$3E$3$3g@$1
+ 7228: You can't fish here.
+ 7229: You can't fish without a rod in your hands.
+ 7230: You can't fish without bait on the hook.
+ 7231: You can't fish at the moment.
+ 7232: You didn't catch anything.
+ 7233: %0 caught a monster!
+ 7234: Your line breaks.
+ 7235: Your rod breaks.
+ 7236: Something caught the hook!
+ 7237: You lost your catch.
+ 7238: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7239: You feel there's something here.
+ 7240: You feel there's something nearby.
+ 7241: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7242: %0 caught $1 $0 !
+ 7243: You dig and you dig, but find nothing.
+ 7244: $0/$0p$3Z$3b$3g
+ 7245: Your rod breaks. Whatever caught the hook was pretty big.
+ 7246: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7247: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7248: You lost your catch due to your lack of skill.
+ 7249: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7250: You didn't catch anything.
+ 7251: The paper on your $0 ripped.
+ 7252: A tiny goldfish approaches!
+ 7253: A plump, black goldfish approaches!
+ 7254: A fat, juicy goldfish approaches!
+ 7255: There are no goldfish to be found...
+ 7256: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7257: The goldfish slipped off your scoop...
+ 7258: ch$0 skill up check.
+ 7259: a:$0.
+ 7260: Time $0 / Status $1 / $2
+ 7261: d:$0. e:$1. f:$2. g:$3.
+ 7262: h: $1. i: $0. sr: $2.
+ 7263: j:$0. k:$1.
+ 7264: You give up and reel in your line.
+ 7265: You give up.
+ 7266: %0 obtains $1 gil.
+ 7267: %0 caught $0!
+ 7268: You don't know how much longer you can keep this one on the line...
+ 7269: You have a good feeling about this one!
+ 7270: You have a bad feeling about this one.
+ 7271: You have a terrible feeling about this one...
+ 7272: You don't know if you have enough skill to reel this one in.
+ 7273: You're fairly sure you don't have enough skill to reel this one in.
+ 7274: You're positive you don't have enough skill to reel this one in!
+ 7275: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7276: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7277: l: $0. m: $1. n: $2. CH: $3.
+ 7278: Something caught the hook!!!
+ 7279: You feel something pulling at your line.
+ 7280: Something clamps onto your line ferociously!
+ 7281: Your keen angler's senses tell you that this is the pull of $0!
+ 7282: This strength... You get the sense that you are on the verge of an epic catch!
+ 7283: The timer has started. $0 seconds remaining.
+ 7284: $0sec.$1/$2sec.
+ 7285: 0:$0 1:$1 2:$2 3:$3
+ 7286: 4:$0 5:$1 6:$2 7:$3
+ 7287: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7288: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7289: $0/$1($2j
+ 7290: Version invalid error!
+ 7291: Hurry before the goldfish sees you!
+ 7292: %0 fishes up a large box!
+ 7293: $23$o$P122$8$0
+ 7294: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7295: PointF$0 >>> $1
+ 7296: [$1($0)/skillF$1]
+ 7297: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7298: Im Rnd : $0 Pz Rnd : $1
+ 7299: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7300: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7301: skill : $0 size : $1 kind : $2 sch : $3
+ 7302: time : $0 mes : $1 flag : $2 bonus : $3
+ 7303: item : $0 hp : $1 pow : $2 swing : $3
+ 7304: suc : $0 cons : $1 weight : $2 +- : $3
+ 7305: speed : $0 +- : $1 exc : $2 client : $3
+ 7306: general : $0
+ 7307: ro:$0 rs:$1 ps:$2 dt:$3
+ 7308: ra:$0 ti:$1
+ 7309: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7310: You get the distinct sense that your moogle friend frequents this spot...
+ 7311: You have a feeling that your moogle friend has been through this way...
+ 7312: You suspect that the scenery around here would be to a moogle's liking...
+ 7313: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7314: You have a hunch that this area would be favored by moogles...
+ 7315: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7316: %0 catches $1 $0 !
+ 7317: %0 obtained $6!
+ 7318: It appears your chocobo found this item with ease.
+ 7319: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7320: FPT $0 DPT $1 DoT$2
+ 7321: FPT $0 TDPT $1 h$2
+ 7322: You cannot fish at this time.
+ 7323: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7324: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7325: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7326: You receive $0 bayld!
+ 7327: Your chocobo refuses to partake of the $0.
+ 7328: You may be able to procure something from here if you have $6.
+ 7329: Chance of breaking: $3/10000
+ 7330: Your $3 breaks!
+ 7331: You successfully procure $0!
+ 7332: You procure $0, but your $3 breaks in the process.
+ 7333: You are unable to procure anything.
+ 7334: You cannot carry any more items. Your inventory is full.
+ 7335: You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+ 7336: You have ventured too far from the field of battle. The Confrontation has been disengaged.
+ 7337: You have returned to the field of battle.
+ 7338: You have $0 [minute/minutes] (Earth time) to complete the battle.
+ 7339: You have $0 [minute/minutes] (Earth time) remaining to complete the battle.
+ 7340: You have only $0 [second/seconds] (Earth time) remaining.
+ 7341: Your time for this Confrontation is up...
+ 7342: The monster fades before your eyes, a look of disappointment on its face.
+ 7343: (Test message.)
+ 7344: Enter the garrison? [Yes./No.]
+ 7345: The $3 is ripped violently to pieces!
+ 7346: Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+ 7347: Hark! Our foe lurks thither. How wouldst thou proceed?
+ 7348: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+ 7349: Our foe advances...may thine aim be true!
+ 7350: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+ 7351: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+ 7352: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7353: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7354: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7355: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+ 7356: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+ 7357: Greetings, traveler! How dost thou fare in thine adventures?
+ 7358: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+ 7359: Dost thou find this enchantment to thy liking?
+ 7360: Accept the item? [Accept./Refuse. ($0 times remaining)]
+ 7361: Splendid! May it serve thee well.
+ 7362: %0 obtained $0!
+ 7363: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+ 7364: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+ 7365: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+ 7366: Though it may fall short of thy expectations, pray accept it.
+ 7367: Otherwise, we shall have no choice but to dispose of it.
+ 7368: Many thanks for thine assistance!
+ 7369: Pray accept this $0 as but a humble token of our gratitude.
+ 7370: $3f$3o$3b$3OF$P13`$20$P12i$KM
+ 7371: $3f$3o$3b$3O$590643$3$3NM
+ 7372: $3f$3o$3b$3O$201475X$3^$3243853
+ 7373: $3{$3^$3$97F$31V$P10i]\7
+ 7374: @@
+ 7375: There is nothing out of the ordinary here.
+ 7376: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7377: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7378: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7379: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7380: Now, listen close...
+ 7381: Oh... Well, if that's the case, I'm outta here.
+ 7382: The Goblin slipped away when you were not looking...
+ 7383: You can hear a strange, raspy voice...
+ 7384: I travel......hear lots... Hear...stories... Can tell...if...
+ 7385: .........listen......
+ 7386: Oh...... ...outta here.........
+ 7387: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7388: What story would you like to be told? [On second thought, maybe later./A Land After Time(pt.1)./A Land After Time(pt.2).]
  7389: 
  7390: 
- 7391: Lady Lion!
- 7392: <Player>!
- 7393: And who is this?
- 7394: So you're the one who's joined us from the future.
- 7395: I'm not one to put stock in fairy tales, yet here we are in this alternate dimension...so I'm willing to believe your tale.
- 7396: I suppose there are worse outcomes when being sucked up by a vortex.
- 7397: And look who saved me.
- 7398: Don't let your guard down for a second. This may look like the Sanctuary of Zi'Tah, but it is not the one we know.
- 7399: Where are we?
- 7400: The Sanctuary of Zi'Tah...but not the one we know.
- 7401: Are you the one known as Zeid?
- 7402: That is right. And you must be Iroha--Aldo has told me much about you.
- 7403: I knew I had to investigate as soon as I heard something was amiss.
- 7404: The only color here is the color of death.
- 7405: This empty husk is void of anything that we could call nature.
- 7406: The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia.
- 7407: Zi'Tah...yes, I have run across that name several times before.
- 7408: Yes, it was when the master first visited Reisenjima.
- 7409: [He/She] said there was a sanctuary there, much like one in my homeland.
- 7410: Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens.
- 7411: I had envisioned it to be more bursting with splendor...
- 7412: Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely.
- 7413: ...Or is this the future?
- 7414: I do not believe so.
- 7415: If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like.
- 7416: Did you hear that?
- 7417: A...bell? But where...?
- 7418: Urk...
- 7419: Who goes there?
- 7420: Zeid[/, Lion]! Please, stay with us!
- 7421: Something foul is afoot. The world blurred and I took leave of myself.
- 7422: You were under its thrall.
- 7423: It gives me chills just thinking about it.
- 7424: If the clamoring has ceased, then we may yet find respite.
- 7425: Master, this may be the world we refer to as "Escha."
- 7426: I still have much to learn, but your words that day will always stay with me:
- 7427: "When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived.
- 7428: "It marked the beginning of the end."
- 7429: And that world, you said, was known as Escha.
- 7430: Yet the annals say that the Emptiness first started to appear many years hence.
- 7431: So why now? Why here?
- 7432: What if...history were being rewritten?
- 7433: It could be that my returning to your time has placed a stick in the wheel of fate.
- 7434: Has the darkness come with me?
- 7435: Though this may sound counterintuitive, I fear we must change the future if we are to save the past.
- 7436: You are right. That is rather difficult to wrap my head around.
- 7437: Iroha, is there no way to purge this "Escha" from our land?
- 7438: Would that I had the answers you seek.
- 7439: Then only one path lies open to us: figure out what we can for ourselves.
- 7440: As if this land were not dangerous enough, now we have that unholy bell to contend with.
- 7441: A perilous reality at best.
- 7442: Maybe we should return to the mothercrystal first.
- 7443: Have you any insight, Lion?
- 7444: Nothing but my gut. I can feel her...calling out to me.
- 7445: Lion? Wait!
- 7446: I know not what role she has to play, but her intimate bond with the future is beyond denial.
- 7447: Master, perhaps it would be best if we follow her.
- 7448: Master, perhaps Lion could provide us with the guidance that we so desperately require.
- 7449: Lion?
- 7450: My understanding is that none resonate with the mothercrystal more strongly than she.
- 7451: Your role in protecting our future is vital, Master, but Lion is of equal importance.
- 7452: She is with the crystal now, is she not?
- 7453: Then we must go. Hurry!
- 7454: Iroha? Wait!
- 7455: Light begins to shimmer and twist as you pass your hand over it.
- 7456: The blinding light obscures your vision of the world beyond.
- 7457: Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
- 7458: Travel to where? [Nowhere for now./[Eschan Portal/Ethereal Ingress] #1./[Eschan Portal/Ethereal Ingress] #2./[Eschan Portal/Ethereal Ingress] #3./[Eschan Portal/Ethereal Ingress] #4./[Eschan Portal/Ethereal Ingress] #5./[Eschan Portal/Ethereal Ingress] #6./[Eschan Portal/Ethereal Ingress] #7./[Eschan Portal/Ethereal Ingress] #8./[Eschan Portal/Ethereal Ingress] #9./[Eschan Portal/Ethereal Ingress] #10./[Eschan Portal/Ethereal Ingress] #11./[Eschan Portal/Ethereal Ingress] #12./[Eschan Portal/Ethereal Ingress] #13./[Eschan Portal/Ethereal Ingress] #14./[Eschan Portal/Ethereal Ingress] #15.]
- 7459: Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]
- 7460: You do not have enough escha silt.
- 7461: What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]
- 7462: Traverse the light? [Let's do this./No, wait!]
- 7463: You have used $0.
- 7464: Soon as I set foot in this place I knew I was in fer a treat, but boy, word spreads fast to these adventurer types...
- 7465: Urk... Me? I'm, uh...Affi. And what does an ugly mug like you call yerself?
- 7466: <Player>? Bwahaha, a better adventurer's name I've never heard!
- 7467: Surely you know what the Tenshodo is, <Player>? Well, they sent me off to what was supposed to be this Goddessfersaken land...but there's far more coin to make out here than I've imagined.
- 7468: So loosen up your purse strings, because I've got sundries aplenty!
- 7469: Aye, I say "coin to make," but that's a bit more metaphori-whatsit than physical. What I'm lookin' fer isn't gil, but a special substance known as "escha silt."
- 7470: Dun' worry if you don't have any on you right now. Just go bash some skulls in over yonder, and you'll surely be able to...procure some from the corpses of the fallen.
- 7471: Oho! If it isn't my favorite adventurer. What can I do fer you today?
- 7472: Everything's got a price, my fine friend, most of all information. Grease my palms with $0 pinches of escha silt and we'll do business.
- 7473: A pleasure. A bloomin' pleasure.
- 7474: A bit big for our britches, aren't we? Then let me give you a little tip fer free--don't get killed.
- 7475: Hey now! I've gotta make sure I have enough $5 fer everyone. Only one per customer.
- 7476: 6 will run you $1 silt.
- 7477: What kinda dunce do you take me fer? That's not nearly enough silt!
- 7478: Always good doin' business with you, <Player>.
- 7479: Now don' get me wrong--I'm more'n happy to take that vorseal off you. Just don't come cryin' because its powers have faded away!
- 7480: And if you want it back, well...it'll cost you. Business is business.
- 7481: Wanna know which seals you've got on you? Hmm...let's see...
- 7482: Sounds 'bout right to me.
- 7483: If it's $0 yer wantin', I'll need $1 escha silt.
- 7484: There you go! A finer $0 you'll never see!
- 7485: This place? We've taken to callin' it "Escha," but I'll be damned if I can remember who came up with the name.
- 7486: The color's really off-puttin', wouldn't you say? Even the ground sends shivers up my spine. I'd be haulin' keister back to Jeuno with my tail between my legs if there wasn't a good 'mount of profit to be made.
- 7487: Goes without sayin' that the danger's not limited to the terrible pall of the land. The further in you go, the more ferocious the beasts get.
- 7488: Not that I expect that to stop you. If there's one thin' I can count on an adventurer doin', it's wadin' into the unknown and comin' back with more'n one fresh scar.
- 7489: You'll also find some really weird shiny portals hangin' about. I've been takin' to calling 'em "eschan portals."
- 7490: A little bit o' hand wavin' and a sprinklin' or two o' silt, and before you know it you'll find yerself somewhere else. Whether you find it convenient or not depends a bit on yer worldview.
- 7491: Maybe yer a bit queasy 'bout the whole thin', but I promise there's a fair chance you'll come out whole.
- 7492: 'Sif I know how the blasted things work. I'm from the Tenshodo, not the Jeuno Institute of Magical Studies!
- 7493: And don't think you can just hop 'round wherever. You can only go bouncin' between places you've been to already. Anythin' else'd be a bit too dangerous.
- 7494: Escha silt is a fine powder found all 'round here, and scholars and academics all throughout Vana'diel are just itchin' to get their claws on some.
- 7495: So it goes a lil' somethin' like this: You find the silt, and sell it to me for stuff. Then I go back to Jeuno and give it to droolin' researchers for a tidy sum. Win-win-win.
- 7496: Not that I know a whit 'bout why the stuff is so special. As long as they pay me for it, I don't care if they build little silt castles outta it.
- 7497: Escha beads, huh? Can't say I'm familiar with the particulars.
- 7498: What I do know is that the luckier among yer lot sometimes find them amongst monsters that've fallen in battle.
- 7499: But I do know a couple people who'd be interested in the stuff--one o' my comrades in Norg, fer instance.
- 7500: He's pretty versed in the ways o' the west, so pay 'im a visit if you find yerself headin' o'er there.
- 7501: Ah, I knew you were a [man/woman] of discerning tastes! 5 are special pieces o' glass with a bunch o' surprisingly magical properties.
- 7502: They're pretty darn popular, and so my stocks are always a breath away from bein' totally wiped out.
- 7503: So in an effort to keep things a lil' more fair, subsequent purchases of $5 will cost you increasingly large amounts of escha silt.
- 7504: Whether you give 'em to loved ones as presents or use 'em for more esoteric purposes is up to you.
- 7505: And if you find the price is gettin' too steep, try comin' back a bit later. I may have happened upon some more in the meantime, lettin' me pass the savings on to you.
- 7506: But I got a bit off track. They aren't just fer decoratin' yer house. Together with grisly trinkets they can call forth some o' the most powerful baddies roamin' the land.
- 7507: Collect 'em all and head fer a particular place here in Escha and wham! Fresh meat fer the killin'.
- 7508: As I told you when we were talkin' 'bout $5, grisly trinkets are needed to summon some o' the more ornery creatures prowling Escha.
- 7509: Would that it were as simple as findin' one and callin' it a day, but there are so many that my head spins from keepin' track o' 'em all.
- 7510: Implyin', o' course, that each monster requires a diff'rent item.
- 7511: I wrote up a couple notes on each one, so have a gander at 'em if you wanna know more.
- 7512: Seekin' knowledge on vorseals, hmm?
- 7513: Bwaha, these little charms are somethin' else. We imported them from the east, and they're more'n just pretty pieces o' paper.
- 7514: Put 'em in your backpack, string 'em round your neck--heck, insert 'em in yer boots for all I care--but just possessin' 'em will bestow you with a variety of special benefits.
- 7515: You won't find a better deal anywhere!
- 7516: There are only two lil' problems--they only work here in Escha, and wear out after sixty minutes (Earth time).
- 7517: But e'ry cloud has its silver linin', and in this case, it's that the seals themselves remain.
- 7518: Dun' ask me why, but leavin' Escha and comin' back recharges the seals' energies. Chalk it up to some unnatural force if you want, but that's how things are.
- 7519: If you don't want a particular seal anymore, just return it to me and I'll take it off yer hands.
- 7520: If you change yer mind and decide you want the seal back...it's gonna cost you. If you want charity, I suggest you head elsewhere.
- 7521: I might have more vorseals for sale if you check back later, so be sure to come'n pay me a visit periodically.
- 7522: Some o' the items I brought from the Tenshodo are a bit simpler in nature, but I'm still willin' to part with 'em.
- 7523: Gotta cover all my bases, y'know?
- 7524: My stock tends to fluctuate o'er time, so it might be in yer best interests to stop in every so often.
- 7525: And who knows--maybe I'll get accustomed to that ugly mug o' yers! Bwahaha!
- 7526: Get a gander o' these reapers!
- 7527: They can be used to procure all manner of stuff from the grimslights scattered around Escha.
- 7528: Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!
- 7529: Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads.
- 7530: What do you do? [Nothing for now./Obtain key items./View grisly trinket notes./Obtain a vorseal./Return a vorseal./Check vorseal blessings./Obtain temporary items./Hear various explanations.]
- 7531: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
- 7532: Choose which item? (silt: $0) [Never mind./$3: $17 silt./$3: $18 silt./$3: $19 silt./$3: $20 silt./$3: $21 silt./$3: $22 silt./$3: $23 silt./$3: $24 silt./$3: $25 silt./$3: $26 silt./$3: $27 silt./$3: $28 silt./$3: $29 silt./$3: $30 silt./$3: $31 silt./$3: $ silt./Previous page./Next page.]
- 7533: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
- 7534: View which item? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
- 7535: Which do you choose? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
- 7536: $1 $0 .
- 7537: $3 requires the following items.
- 7538: View which item? [None./$1: $17./$2: $18./$3: $19./$4: $20./$5: $21./$6: $22./$7: $23./$8: $24./$9: $25./$10: $26./$11: $27./$12: $28./$13: $29./$14: $30./$15: $31./$16: $ .]
- 7539: $1 $0 , or $3 $0 .
- 7540: Which do you choose? ($0 silt) [No vorseals for now./[HP+, MP+/Regen+]: $1/$17./[Acc.+, Eva.+/Refresh+]: $2/$18./[DEF+/Acc.++]: $3/$19./[Atk.+, Rng. Atk.+/]: $4/$20./[Mag. Acc.+, Mag. Eva.+/]: $5/$21./[Mag. Def.+/]: $6/$22./[Mag. Atk.+/]: $7/$23./[DEX+, AGI+/]: $8/$24./[STR+, VIT+/]: $9/$25./[INT+, MND+, CHR+/]: $10/$26./[Occ. ignore damage/]: $11/$27./[Killer+/]: $12/$28./[Dmg. Taken-/]: $13/$29./[Spoils+/]: $14/$30./[Rare Enemy+/]: $15/$31./[Luck+/]: $16/$ ./Previous page./Next page.]
- 7541: How many would you like? ($0 silt) [None for now./$1 seal[/s]: $17 silt./$2 seal[/s]: $18 silt./$3 seal[/s]: $19 silt./$4 seal[/s]: $20 silt./$5 seal[/s]: $21 silt./$6 seal[/s]: $22 silt./$7 seal[/s]: $23 silt./$8 seal[/s]: $24 silt./$9 seal[/s]: $25 silt./$10 seal[/s]: $26 silt./$11 seal[/s]: $27 silt./$12 seal[/s]: $28 silt./$13 seal[/s]: $29 silt./$14 seal[/s]: $30 silt./$15 seal[/s]: $31 silt./$16 seal[/s]: $ silt./Previous page./Next page.]
- 7542: Purchase this vorseal? ($0 silt) [Ring me up./On second thought...]
- 7543: The vorseal begins to pulse a vibrant blue!
- 7544: Return which vorseal? [None of these./[HP+, MP+/Regen+]: $1./[Acc.+, Eva.+/Refresh+]: $2./[Def.+/Acc.++]: $3./[Atk.+, Rng. Atk.+/]: $4./[Mag. Acc.+, Mag. Eva.+/]: $5./[Mag. Def.+/]: $6./[Mag. Atk.+/]: $7./[DEX+, AGI+/]: $8./[STR+, VIT+/]: $9./[INT+, MND+, CHR+/]: $10./[Occ. ignore damage/]: $11./[Killer+/]: $12./[Dmg. taken -/]: $13./[Spoils+/]: $14./[Rare Enemy+/]: $15./[Luck+/]: $16./Previous page./Next page.]
- 7545: Return the vorseal? [Here you go./No. I still need it.]
- 7546: You feel the vorseal's energy fade away.
- 7547: HP+, MP+: $0 seal[/s]. Acc.+, Eva.+: $1 seal[/s]. Def.+: $2 seal[/s]. Atk.+, Rng. Atk.+: $3 seal[/s].
- 7548: Mag. Atk, Mag. Eva.: $0 seal[/s]. Mag. Def.+: $1 seal[/s]. Mag. Atk.+: $2 seal[/s]. DEX+, AGI+: $3 seal[/s].
- 7549: STR+, VIT+: $0 seal[/s]. INT+, MND+, CHR+: $1 seal[/s]. Occ. ignore damage: $2 seal[/s]. Killer+: $3 seal[/s].
- 7550: Dmg. taken-: $0 seal[/s]. Rare enemy+: $2 seal[/s]. Luck+: $3 seal[/s].
- 7551: Regen+: $0 seal[/s]. Refresh+: $1 seal[/s]. Acc.++: $2 seal[/s].
- 7552: Which would you like? ($0 silt) [Nothing./$1: $17 silt./$2: $18 silt./$3: $19 silt./$4: $20 silt./$5: $21 silt./$6: $22 silt./$7: $23 silt./$8: $24 silt./$9: $25 silt./$10: $26 silt./$11: $27 silt./$12: $28 silt./$13: $29 silt./$14: $30 silt./$15: $31 silt./$16: $ silt./Previous page./Next page.]
- 7553: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?]
- 7554: What would you like to do? [Nothing in particular./[Receive elvorseal/Return elvorseal]./Teleport to the target monster./Check area blessings./Receive key items./View grisly trinket notes./Receive vorseals./Return vorseals./Check vorseal effects./Receive temporary items./Hear various explanations.]
- 7555: [You feel the warmth of the elvorseal's divine protection./The warmth of the elvorseal fades away.]
- 7556: Teleport to the target? [I'm ready./Not quite yet.]
- 7557: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?/What's with the book?/What is this "unusual monster"?]
- 7558: Ask about what? [Nothing./About the monster./About elvorseals./About the dropped items./What happens if we defeat it?]
- 7559: Which active blessing will you check? [None of them. Go back./Temperance./Fortitude./Piety./Justice./Hope./Wisdom./Compassion./Dignity./Loyalty./Mercy./Courage.]
- 7560: Temperance: Reduces the silt cost of eschan portals.
- 7561: Fortitude: Increases the status effects of vorseals.
- 7562: Piety: Increases the effect duration of vorseals.
- 7563: Justice: Increases "Treasure Hunter" ability by 1.
- 7564: Hope: Increases the chances of an emblazoned reliquary appearing.
- 7565: Wisdom: Increases the effect duration of food.
- 7566: Compassion: Increases the "Refresh" and "Regen" effects of vorseals.
- 7567: Dignity: Increases escha silt yields.
- 7568: Loyalty: Increases escha beads yields.
- 7569: Mercy: $5 and $5 have a chance of not being consumed.
- 7570: Courage: Increases the "Rare enemy+" effects of vorseals.
- 7571: Ah, <Player>, just the [guy/girl] I wanna see. And [he/she] couldn't have come at a better time!
- 7572: I just got orders from Norg to help put down a rather unusual monster that's [supposed to show up/shown up] here in Escha.
- 7573: If yer headed down there to join the fight, I've got somethin' here yer gonna like!
- 7574: First things first, yer gonna need one o' these.
- 7575: Ya can have that one fer free!
- 7576: Now there's a lot more to say about that elvorseal. Just ask if ya wanna hear more.
- 7577: What, you ain't gonna fight? Well I ain't gonna blame ya fer valuin' yer life, hah! I'll hold on to this fer now.
- 7578: With that elvorseal on ya, not only will ya be able to touch Azi Dahaka across the dimensional rift, but ya can teleport directly to 'im.
- 7579: Don' even ask me about dimensional rifts or how this thing works. Someone back at the Tenshodo tried to explain it to me, I was even payin' attention that time and I didn' get a lick of what he was sayin', so I doubt you'd do any better.
- 7580: If yer feelin' ready to take him on, I'll teleport ya there now. What'dya say?
- 7581: Hmph. Well come back and let me know when you['ve grown a pair/'re done playin' with yer dolls].
- 7582: Aye, that's what I wanna hear! One ticket to dragon land, best o' luck!
- 7583: Whoops! Almost forgot ta mention this.
- 7584: People say the faster ya cut down the monsters in that neck of the woods, the faster they'll reappear. Keep that in mind before gettin' carried away with the small fry.
- 7585: Just like on the outside, these days strange things've been goin' on in Escha.
- 7586: There's a strange monster I ain't never seen before been seen skulkin' about. Hard to say how long it'll be safe to be doin' business here at this rate.
- 7587: They call it Azi Dahaka. The weird thing is the big lizard always seems to show up in the same area and then disappears in a fixed pattern.
- 7588: Not only that, people are sayin' that the more ya defeat the monsters in the area, the faster he'll reappear.
- 7589: But here's where it really gets weird. Azi Dahaka doesn't exist in our dimension, at least, not quite. Even if the monster's standin' right in front of ya, yer weapons an' magic'll go right through it. O' course, that goes both ways. As long as the dimensional rift is there between us and the monster, it can't affect us.
- 7590: And before ya ask, let me tell ya that I am one-hundred-an'-one percent in favor o' just ignorin' the thing and gettin' back to business, but the man back in Norg's been breathin' down my neck to do somethin' about it. All about it ain't bein' good fer business, or Vana'diel, one o' those things.
- 7591: And that's where this thing comes in. It's called an elvorseal.
- 7592: This ain't no ordinary trinket. It's enchanted wi' blessings from one o' them shrines in the Far East.
- 7593: For a certain amount of time, it'll close the dimensional rift 'tween you an' the monster. Don' ask me how.
- 7594: Basically, as long as you've got that thing, yer weapons an' magic'll work on Azi Dahaka.
- 7595: 'Course, sometimes an extra special baddie'll come out to wreak havoc. Now that's a sight--especiall when they disappear just as fast as they came.
- 7596: There's just somethin' 'bout the Far East, y'know?
- 7597: It ain't yer garden-variety vorseal, this thing. It's enchanted wi' a blessin' from a shrine in the Far East.
- 7598: Now I ain't no expert on magic artifacts, so I don' know the details, but this'll close the rift 'tween you an' Azi Dahaka temporarily.
- 7599: In short, if ya have the thing, ya can fight the monster.
- 7600: Jus' be aware that I can't be handin' out these things to any rookies that come by. Ya need to be at a high enough level before you can handle Azi Dahaka.
- 7601: Each elvorseal's magic will only work once, though. If Azi Dahaka is beaten, it'll go up in smoke.
- 7602: The same thing'll happen if ya leave Escha. Don' worry too much, I got a bunch right here, so come and see me if ya need a new one.
- 7603: A group o' adventurers that was fightin' Azi Dahaka said they saw 'im drop stuff when they got in close durin' the fight.
- 7604: 'Course, if ya don't need waht you get from 'em, you can always give it to this guy in Norg. Said to be collectin' all things Escha.
- 7605: Well, the adventurers that came before ya have been reportin' that good things happen all around Escha after beatin' Azi Dahaka.
- 7606: Hey, you know about them mog tablet powers? Whatd'ya call them? It's kind o' like that, but fer Escha. These blessings affecting the area only seemed to show up after we started beatin' him.
- 7607: The area blessings can increase the amount of silt and beads ya can find here in Escha. They can also make portals eat up less o' your precious silt.
- 7608: That ain't the end of it, though.
- 7609: Beatin' Azi Dahaka once seems to increase the amount of stuff he drops when you fight 'im a second time. There are most definitely some perks to clobberin' that lizard for those of us in the Escha business. You get two birds wi' one stone, or, more like three. Hell, four birds if ya ask me.
- 7610: But it ain't all roses an' sunshine. Remember, every time ya clobber Azi Dahaka, he comes back a lil' bit stronger. Ya gotta know when to call it quits.
- 7611: That's pretty much the long an' short of it. So whad'ya say? We could use someone like you over there.
- 7612: Oh right, the area blessings. No problemo, might wanna jot these down so ya remember.
- 7613: These are the blessings currently in effect throughout the area...
- 7614: You may not be able to collect any rewards if you do not return.
- 7615: A new blessing is now in effect for the area.
- 7616: Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]
- 7617: Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]
- 7618: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1`99. Opening it requires you to guess whether the next number is greater or less than the previous.
- 7619: Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]
- 7620: Your selection has been rendered void. Another party member has already made a selection.
- 7621: The randomly generated number was $0! %0 guessed [successfully/unsuccessfully]!
- 7622: %0 used $0 to unlock the chest!
- 7623: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
- 7624: The treasure chest has disappeared.
- 7625: What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]
- 7626: You obtain $0 pinch[/es] of escha silt.
- 7627: You obtain $0 escha bead[/s].
- 7628: <Player>, are you aware of special charms known as "nazars"? There are a total of ten of them, and they can be found on various fearsome foes prowling around Escha.
- 7629: We hadn't learned about them until recently, when I got word from one of the higher-ups about their existence. Bring me one of each and I'll be able to furnish you with an extra-special grisly trinket.
- 7630: I figured maybe you'd have them all by now, but...turns out I was wrong. Come back once you've found all ten.
- 7631: Ah, well done[ lad/]! What do you say--how's about that trinket?
- 7632: Would you like the new trinket? [Of course!/Not right now.]
- 7633: And there you go. Treat it well.
- 7634: This $3 contains with it a tiny bit of puissance from the Far East.
- 7635: Don't go around manhandling it willy-nilly, or its energies might seep out.
- 7636: DEBUG: Raid evaluation: Condition $0/subtotal $1/total $2.
- 7637: DEBUG: Overall assessment $0.
- 7638: You obtain $0 pinch[/es] of escha silt.
+ 7391: 
+ 7392: Lady Lion!
+ 7393: <Player>!
+ 7394: And who is this?
+ 7395: So you're the one who's joined us from the future.
+ 7396: I'm not one to put stock in fairy tales, yet here we are in this alternate dimension...so I'm willing to believe your tale.
+ 7397: I suppose there are worse outcomes when being sucked up by a vortex.
+ 7398: And look who saved me.
+ 7399: Don't let your guard down for a second. This may look like the Sanctuary of Zi'Tah, but it is not the one we know.
+ 7400: Where are we?
+ 7401: The Sanctuary of Zi'Tah...but not the one we know.
+ 7402: Are you the one known as Zeid?
+ 7403: That is right. And you must be Iroha--Aldo has told me much about you.
+ 7404: I knew I had to investigate as soon as I heard something was amiss.
+ 7405: The only color here is the color of death.
+ 7406: This empty husk is void of anything that we could call nature.
+ 7407: The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia.
+ 7408: Zi'Tah...yes, I have run across that name several times before.
+ 7409: Yes, it was when the master first visited Reisenjima.
+ 7410: [He/She] said there was a sanctuary there, much like one in my homeland.
+ 7411: Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens.
+ 7412: I had envisioned it to be more bursting with splendor...
+ 7413: Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely.
+ 7414: ...Or is this the future?
+ 7415: I do not believe so.
+ 7416: If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like.
+ 7417: Did you hear that?
+ 7418: A...bell? But where...?
+ 7419: Urk...
+ 7420: Who goes there?
+ 7421: Zeid[/, Lion]! Please, stay with us!
+ 7422: Something foul is afoot. The world blurred and I took leave of myself.
+ 7423: You were under its thrall.
+ 7424: It gives me chills just thinking about it.
+ 7425: If the clamoring has ceased, then we may yet find respite.
+ 7426: Master, this may be the world we refer to as "Escha."
+ 7427: I still have much to learn, but your words that day will always stay with me:
+ 7428: "When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived.
+ 7429: "It marked the beginning of the end."
+ 7430: And that world, you said, was known as Escha.
+ 7431: Yet the annals say that the Emptiness first started to appear many years hence.
+ 7432: So why now? Why here?
+ 7433: What if...history were being rewritten?
+ 7434: It could be that my returning to your time has placed a stick in the wheel of fate.
+ 7435: Has the darkness come with me?
+ 7436: Though this may sound counterintuitive, I fear we must change the future if we are to save the past.
+ 7437: You are right. That is rather difficult to wrap my head around.
+ 7438: Iroha, is there no way to purge this "Escha" from our land?
+ 7439: Would that I had the answers you seek.
+ 7440: Then only one path lies open to us: figure out what we can for ourselves.
+ 7441: As if this land were not dangerous enough, now we have that unholy bell to contend with.
+ 7442: A perilous reality at best.
+ 7443: Maybe we should return to the mothercrystal first.
+ 7444: Have you any insight, Lion?
+ 7445: Nothing but my gut. I can feel her...calling out to me.
+ 7446: Lion? Wait!
+ 7447: I know not what role she has to play, but her intimate bond with the future is beyond denial.
+ 7448: Master, perhaps it would be best if we follow her.
+ 7449: Master, perhaps Lion could provide us with the guidance that we so desperately require.
+ 7450: Lion?
+ 7451: My understanding is that none resonate with the mothercrystal more strongly than she.
+ 7452: Your role in protecting our future is vital, Master, but Lion is of equal importance.
+ 7453: She is with the crystal now, is she not?
+ 7454: Then we must go. Hurry!
+ 7455: Iroha? Wait!
+ 7456: Light begins to shimmer and twist as you pass your hand over it.
+ 7457: The blinding light obscures your vision of the world beyond.
+ 7458: Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
+ 7459: Travel to where? [Nowhere for now./[Eschan Portal/Ethereal Ingress] #1./[Eschan Portal/Ethereal Ingress] #2./[Eschan Portal/Ethereal Ingress] #3./[Eschan Portal/Ethereal Ingress] #4./[Eschan Portal/Ethereal Ingress] #5./[Eschan Portal/Ethereal Ingress] #6./[Eschan Portal/Ethereal Ingress] #7./[Eschan Portal/Ethereal Ingress] #8./[Eschan Portal/Ethereal Ingress] #9./[Eschan Portal/Ethereal Ingress] #10./[Eschan Portal/Ethereal Ingress] #11./[Eschan Portal/Ethereal Ingress] #12./[Eschan Portal/Ethereal Ingress] #13./[Eschan Portal/Ethereal Ingress] #14./[Eschan Portal/Ethereal Ingress] #15.]
+ 7460: Traverse the light? ($0 silt) [Let's do it. ($1 silt)/Do not go into the light!]
+ 7461: You do not have enough escha silt.
+ 7462: What do you do? [Nothing for now./Use escha silt./Teleport using $0./Teleport using $6.]
+ 7463: Traverse the light? [Let's do this./No, wait!]
+ 7464: You have used $0.
+ 7465: Soon as I set foot in this place I knew I was in fer a treat, but boy, word spreads fast to these adventurer types...
+ 7466: Urk... Me? I'm, uh...Affi. And what does an ugly mug like you call yerself?
+ 7467: <Player>? Bwahaha, a better adventurer's name I've never heard!
+ 7468: Surely you know what the Tenshodo is, <Player>? Well, they sent me off to what was supposed to be this Goddessfersaken land...but there's far more coin to make out here than I've imagined.
+ 7469: So loosen up your purse strings, because I've got sundries aplenty!
+ 7470: Aye, I say "coin to make," but that's a bit more metaphori-whatsit than physical. What I'm lookin' fer isn't gil, but a special substance known as "escha silt."
+ 7471: Dun' worry if you don't have any on you right now. Just go bash some skulls in over yonder, and you'll surely be able to...procure some from the corpses of the fallen.
+ 7472: Oho! If it isn't my favorite adventurer. What can I do fer you today?
+ 7473: Everything's got a price, my fine friend, most of all information. Grease my palms with $0 pinches of escha silt and we'll do business.
+ 7474: A pleasure. A bloomin' pleasure.
+ 7475: A bit big for our britches, aren't we? Then let me give you a little tip fer free--don't get killed.
+ 7476: Hey now! I've gotta make sure I have enough $5 fer everyone. Only one per customer.
+ 7477: 6 will run you $1 silt.
+ 7478: What kinda dunce do you take me fer? That's not nearly enough silt!
+ 7479: Always good doin' business with you, <Player>.
+ 7480: Now don' get me wrong--I'm more'n happy to take that vorseal off you. Just don't come cryin' because its powers have faded away!
+ 7481: And if you want it back, well...it'll cost you. Business is business.
+ 7482: Wanna know which seals you've got on you? Hmm...let's see...
+ 7483: Sounds 'bout right to me.
+ 7484: If it's $0 yer wantin', I'll need $1 escha silt.
+ 7485: There you go! A finer $0 you'll never see!
+ 7486: This place? We've taken to callin' it "Escha," but I'll be damned if I can remember who came up with the name.
+ 7487: The color's really off-puttin', wouldn't you say? Even the ground sends shivers up my spine. I'd be haulin' keister back to Jeuno with my tail between my legs if there wasn't a good 'mount of profit to be made.
+ 7488: Goes without sayin' that the danger's not limited to the terrible pall of the land. The further in you go, the more ferocious the beasts get.
+ 7489: Not that I expect that to stop you. If there's one thin' I can count on an adventurer doin', it's wadin' into the unknown and comin' back with more'n one fresh scar.
+ 7490: You'll also find some really weird shiny portals hangin' about. I've been takin' to calling 'em "eschan portals."
+ 7491: A little bit o' hand wavin' and a sprinklin' or two o' silt, and before you know it you'll find yerself somewhere else. Whether you find it convenient or not depends a bit on yer worldview.
+ 7492: Maybe yer a bit queasy 'bout the whole thin', but I promise there's a fair chance you'll come out whole.
+ 7493: 'Sif I know how the blasted things work. I'm from the Tenshodo, not the Jeuno Institute of Magical Studies!
+ 7494: And don't think you can just hop 'round wherever. You can only go bouncin' between places you've been to already. Anythin' else'd be a bit too dangerous.
+ 7495: Escha silt is a fine powder found all 'round here, and scholars and academics all throughout Vana'diel are just itchin' to get their claws on some.
+ 7496: So it goes a lil' somethin' like this: You find the silt, and sell it to me for stuff. Then I go back to Jeuno and give it to droolin' researchers for a tidy sum. Win-win-win.
+ 7497: Not that I know a whit 'bout why the stuff is so special. As long as they pay me for it, I don't care if they build little silt castles outta it.
+ 7498: Escha beads, huh? Can't say I'm familiar with the particulars.
+ 7499: What I do know is that the luckier among yer lot sometimes find them amongst monsters that've fallen in battle.
+ 7500: But I do know a couple people who'd be interested in the stuff--one o' my comrades in Norg, fer instance.
+ 7501: He's pretty versed in the ways o' the west, so pay 'im a visit if you find yerself headin' o'er there.
+ 7502: Ah, I knew you were a [man/woman] of discerning tastes! 5 are special pieces o' glass with a bunch o' surprisingly magical properties.
+ 7503: They're pretty darn popular, and so my stocks are always a breath away from bein' totally wiped out.
+ 7504: So in an effort to keep things a lil' more fair, subsequent purchases of $5 will cost you increasingly large amounts of escha silt.
+ 7505: Whether you give 'em to loved ones as presents or use 'em for more esoteric purposes is up to you.
+ 7506: And if you find the price is gettin' too steep, try comin' back a bit later. I may have happened upon some more in the meantime, lettin' me pass the savings on to you.
+ 7507: But I got a bit off track. They aren't just fer decoratin' yer house. Together with grisly trinkets they can call forth some o' the most powerful baddies roamin' the land.
+ 7508: Collect 'em all and head fer a particular place here in Escha and wham! Fresh meat fer the killin'.
+ 7509: As I told you when we were talkin' 'bout $5, grisly trinkets are needed to summon some o' the more ornery creatures prowling Escha.
+ 7510: Would that it were as simple as findin' one and callin' it a day, but there are so many that my head spins from keepin' track o' 'em all.
+ 7511: Implyin', o' course, that each monster requires a diff'rent item.
+ 7512: I wrote up a couple notes on each one, so have a gander at 'em if you wanna know more.
+ 7513: Seekin' knowledge on vorseals, hmm?
+ 7514: Bwaha, these little charms are somethin' else. We imported them from the east, and they're more'n just pretty pieces o' paper.
+ 7515: Put 'em in your backpack, string 'em round your neck--heck, insert 'em in yer boots for all I care--but just possessin' 'em will bestow you with a variety of special benefits.
+ 7516: You won't find a better deal anywhere!
+ 7517: There are only two lil' problems--they only work here in Escha, and wear out after sixty minutes (Earth time).
+ 7518: But e'ry cloud has its silver linin', and in this case, it's that the seals themselves remain.
+ 7519: Dun' ask me why, but leavin' Escha and comin' back recharges the seals' energies. Chalk it up to some unnatural force if you want, but that's how things are.
+ 7520: If you don't want a particular seal anymore, just return it to me and I'll take it off yer hands.
+ 7521: If you change yer mind and decide you want the seal back...it's gonna cost you. If you want charity, I suggest you head elsewhere.
+ 7522: I might have more vorseals for sale if you check back later, so be sure to come'n pay me a visit periodically.
+ 7523: Some o' the items I brought from the Tenshodo are a bit simpler in nature, but I'm still willin' to part with 'em.
+ 7524: Gotta cover all my bases, y'know?
+ 7525: My stock tends to fluctuate o'er time, so it might be in yer best interests to stop in every so often.
+ 7526: And who knows--maybe I'll get accustomed to that ugly mug o' yers! Bwahaha!
+ 7527: Get a gander o' these reapers!
+ 7528: They can be used to procure all manner of stuff from the grimslights scattered around Escha.
+ 7529: Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!
+ 7530: Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads.
+ 7531: What do you do? [Nothing for now./Obtain key items./View grisly trinket notes./Obtain a vorseal./Return a vorseal./Check vorseal blessings./Obtain temporary items./Hear various explanations.]
+ 7532: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
+ 7533: Choose which item? (silt: $0) [Never mind./$3: $17 silt./$3: $18 silt./$3: $19 silt./$3: $20 silt./$3: $21 silt./$3: $22 silt./$3: $23 silt./$3: $24 silt./$3: $25 silt./$3: $26 silt./$3: $27 silt./$3: $28 silt./$3: $29 silt./$3: $30 silt./$3: $31 silt./$3: $ silt./Previous page./Next page.]
+ 7534: Pay silt? (current silt: $0) [Yes. (pay $1 silt)/Maybe not.]
+ 7535: View which item? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
+ 7536: Which do you choose? [None./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
+ 7537: $1 $0 .
+ 7538: $3 requires the following items.
+ 7539: View which item? [None./$1: $17./$2: $18./$3: $19./$4: $20./$5: $21./$6: $22./$7: $23./$8: $24./$9: $25./$10: $26./$11: $27./$12: $28./$13: $29./$14: $30./$15: $31./$16: $ .]
+ 7540: $1 $0 , or $3 $0 .
+ 7541: Which do you choose? ($0 silt) [No vorseals for now./[HP+, MP+/Regen+]: $1/$17./[Acc.+, Eva.+/Refresh+]: $2/$18./[DEF+/Acc.++]: $3/$19./[Atk.+, Rng. Atk.+/]: $4/$20./[Mag. Acc.+, Mag. Eva.+/]: $5/$21./[Mag. Def.+/]: $6/$22./[Mag. Atk.+/]: $7/$23./[DEX+, AGI+/]: $8/$24./[STR+, VIT+/]: $9/$25./[INT+, MND+, CHR+/]: $10/$26./[Occ. ignore damage/]: $11/$27./[Killer+/]: $12/$28./[Dmg. Taken-/]: $13/$29./[Spoils+/]: $14/$30./[Rare Enemy+/]: $15/$31./[Luck+/]: $16/$ ./Previous page./Next page.]
+ 7542: How many would you like? ($0 silt) [None for now./$1 seal[/s]: $17 silt./$2 seal[/s]: $18 silt./$3 seal[/s]: $19 silt./$4 seal[/s]: $20 silt./$5 seal[/s]: $21 silt./$6 seal[/s]: $22 silt./$7 seal[/s]: $23 silt./$8 seal[/s]: $24 silt./$9 seal[/s]: $25 silt./$10 seal[/s]: $26 silt./$11 seal[/s]: $27 silt./$12 seal[/s]: $28 silt./$13 seal[/s]: $29 silt./$14 seal[/s]: $30 silt./$15 seal[/s]: $31 silt./$16 seal[/s]: $ silt./Previous page./Next page.]
+ 7543: Purchase this vorseal? ($0 silt) [Ring me up./On second thought...]
+ 7544: The vorseal begins to pulse a vibrant blue!
+ 7545: Return which vorseal? [None of these./[HP+, MP+/Regen+]: $1./[Acc.+, Eva.+/Refresh+]: $2./[Def.+/Acc.++]: $3./[Atk.+, Rng. Atk.+/]: $4./[Mag. Acc.+, Mag. Eva.+/]: $5./[Mag. Def.+/]: $6./[Mag. Atk.+/]: $7./[DEX+, AGI+/]: $8./[STR+, VIT+/]: $9./[INT+, MND+, CHR+/]: $10./[Occ. ignore damage/]: $11./[Killer+/]: $12./[Dmg. taken -/]: $13./[Spoils+/]: $14./[Rare Enemy+/]: $15./[Luck+/]: $16./Previous page./Next page.]
+ 7546: Return the vorseal? [Here you go./No. I still need it.]
+ 7547: You feel the vorseal's energy fade away.
+ 7548: HP+, MP+: $0 seal[/s]. Acc.+, Eva.+: $1 seal[/s]. Def.+: $2 seal[/s]. Atk.+, Rng. Atk.+: $3 seal[/s].
+ 7549: Mag. Atk, Mag. Eva.: $0 seal[/s]. Mag. Def.+: $1 seal[/s]. Mag. Atk.+: $2 seal[/s]. DEX+, AGI+: $3 seal[/s].
+ 7550: STR+, VIT+: $0 seal[/s]. INT+, MND+, CHR+: $1 seal[/s]. Occ. ignore damage: $2 seal[/s]. Killer+: $3 seal[/s].
+ 7551: Dmg. taken-: $0 seal[/s]. Rare enemy+: $2 seal[/s]. Luck+: $3 seal[/s].
+ 7552: Regen+: $0 seal[/s]. Refresh+: $1 seal[/s]. Acc.++: $2 seal[/s].
+ 7553: Which would you like? ($0 silt) [Nothing./$1: $17 silt./$2: $18 silt./$3: $19 silt./$4: $20 silt./$5: $21 silt./$6: $22 silt./$7: $23 silt./$8: $24 silt./$9: $25 silt./$10: $26 silt./$11: $27 silt./$12: $28 silt./$13: $29 silt./$14: $30 silt./$15: $31 silt./$16: $ silt./Previous page./Next page.]
+ 7554: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?]
+ 7555: What would you like to do? [Nothing in particular./[Receive elvorseal/Return elvorseal]./Teleport to the target monster./Check area blessings./Receive key items./View grisly trinket notes./Receive vorseals./Return vorseals./Check vorseal effects./Receive temporary items./Hear various explanations.]
+ 7556: [You feel the warmth of the elvorseal's divine protection./The warmth of the elvorseal fades away.]
+ 7557: Teleport to the target? [I'm ready./Not quite yet.]
+ 7558: Ask about what? [Nothing./What is this place?/What are [eschan portals/ethereal ingresses]?/What is escha silt?/What are escha beads?/What are tribulenses?/What are grisly trinkets?/What are vorseals?/What temporary items do you have?/What's with the book?/What is this "unusual monster"?]
+ 7559: Ask about what? [Nothing./About the monster./About elvorseals./About the dropped items./What happens if we defeat it?]
+ 7560: Which active blessing will you check? [None of them. Go back./Temperance./Fortitude./Piety./Justice./Hope./Wisdom./Compassion./Dignity./Loyalty./Mercy./Courage.]
+ 7561: Temperance: Reduces the silt cost of eschan portals.
+ 7562: Fortitude: Increases the status effects of vorseals.
+ 7563: Piety: Increases the effect duration of vorseals.
+ 7564: Justice: Increases "Treasure Hunter" ability by 1.
+ 7565: Hope: Increases the chances of an emblazoned reliquary appearing.
+ 7566: Wisdom: Increases the effect duration of food.
+ 7567: Compassion: Increases the "Refresh" and "Regen" effects of vorseals.
+ 7568: Dignity: Increases escha silt yields.
+ 7569: Loyalty: Increases escha beads yields.
+ 7570: Mercy: $5 and $5 have a chance of not being consumed.
+ 7571: Courage: Increases the "Rare enemy+" effects of vorseals.
+ 7572: Ah, <Player>, just the [guy/girl] I wanna see. And [he/she] couldn't have come at a better time!
+ 7573: I just got orders from Norg to help put down a rather unusual monster that's [supposed to show up/shown up] here in Escha.
+ 7574: If yer headed down there to join the fight, I've got somethin' here yer gonna like!
+ 7575: First things first, yer gonna need one o' these.
+ 7576: Ya can have that one fer free!
+ 7577: Now there's a lot more to say about that elvorseal. Just ask if ya wanna hear more.
+ 7578: What, you ain't gonna fight? Well I ain't gonna blame ya fer valuin' yer life, hah! I'll hold on to this fer now.
+ 7579: With that elvorseal on ya, not only will ya be able to touch Azi Dahaka across the dimensional rift, but ya can teleport directly to 'im.
+ 7580: Don' even ask me about dimensional rifts or how this thing works. Someone back at the Tenshodo tried to explain it to me, I was even payin' attention that time and I didn' get a lick of what he was sayin', so I doubt you'd do any better.
+ 7581: If yer feelin' ready to take him on, I'll teleport ya there now. What'dya say?
+ 7582: Hmph. Well come back and let me know when you['ve grown a pair/'re done playin' with yer dolls].
+ 7583: Aye, that's what I wanna hear! One ticket to dragon land, best o' luck!
+ 7584: Whoops! Almost forgot ta mention this.
+ 7585: People say the faster ya cut down the monsters in that neck of the woods, the faster they'll reappear. Keep that in mind before gettin' carried away with the small fry.
+ 7586: Just like on the outside, these days strange things've been goin' on in Escha.
+ 7587: There's a strange monster I ain't never seen before been seen skulkin' about. Hard to say how long it'll be safe to be doin' business here at this rate.
+ 7588: They call it Azi Dahaka. The weird thing is the big lizard always seems to show up in the same area and then disappears in a fixed pattern.
+ 7589: Not only that, people are sayin' that the more ya defeat the monsters in the area, the faster he'll reappear.
+ 7590: But here's where it really gets weird. Azi Dahaka doesn't exist in our dimension, at least, not quite. Even if the monster's standin' right in front of ya, yer weapons an' magic'll go right through it. O' course, that goes both ways. As long as the dimensional rift is there between us and the monster, it can't affect us.
+ 7591: And before ya ask, let me tell ya that I am one-hundred-an'-one percent in favor o' just ignorin' the thing and gettin' back to business, but the man back in Norg's been breathin' down my neck to do somethin' about it. All about it ain't bein' good fer business, or Vana'diel, one o' those things.
+ 7592: And that's where this thing comes in. It's called an elvorseal.
+ 7593: This ain't no ordinary trinket. It's enchanted wi' blessings from one o' them shrines in the Far East.
+ 7594: For a certain amount of time, it'll close the dimensional rift 'tween you an' the monster. Don' ask me how.
+ 7595: Basically, as long as you've got that thing, yer weapons an' magic'll work on Azi Dahaka.
+ 7596: 'Course, sometimes an extra special baddie'll come out to wreak havoc. Now that's a sight--especiall when they disappear just as fast as they came.
+ 7597: There's just somethin' 'bout the Far East, y'know?
+ 7598: It ain't yer garden-variety vorseal, this thing. It's enchanted wi' a blessin' from a shrine in the Far East.
+ 7599: Now I ain't no expert on magic artifacts, so I don' know the details, but this'll close the rift 'tween you an' Azi Dahaka temporarily.
+ 7600: In short, if ya have the thing, ya can fight the monster.
+ 7601: Jus' be aware that I can't be handin' out these things to any rookies that come by. Ya need to be at a high enough level before you can handle Azi Dahaka.
+ 7602: Each elvorseal's magic will only work once, though. If Azi Dahaka is beaten, it'll go up in smoke.
+ 7603: The same thing'll happen if ya leave Escha. Don' worry too much, I got a bunch right here, so come and see me if ya need a new one.
+ 7604: A group o' adventurers that was fightin' Azi Dahaka said they saw 'im drop stuff when they got in close durin' the fight.
+ 7605: 'Course, if ya don't need waht you get from 'em, you can always give it to this guy in Norg. Said to be collectin' all things Escha.
+ 7606: Well, the adventurers that came before ya have been reportin' that good things happen all around Escha after beatin' Azi Dahaka.
+ 7607: Hey, you know about them mog tablet powers? Whatd'ya call them? It's kind o' like that, but fer Escha. These blessings affecting the area only seemed to show up after we started beatin' him.
+ 7608: The area blessings can increase the amount of silt and beads ya can find here in Escha. They can also make portals eat up less o' your precious silt.
+ 7609: That ain't the end of it, though.
+ 7610: Beatin' Azi Dahaka once seems to increase the amount of stuff he drops when you fight 'im a second time. There are most definitely some perks to clobberin' that lizard for those of us in the Escha business. You get two birds wi' one stone, or, more like three. Hell, four birds if ya ask me.
+ 7611: But it ain't all roses an' sunshine. Remember, every time ya clobber Azi Dahaka, he comes back a lil' bit stronger. Ya gotta know when to call it quits.
+ 7612: That's pretty much the long an' short of it. So whad'ya say? We could use someone like you over there.
+ 7613: Oh right, the area blessings. No problemo, might wanna jot these down so ya remember.
+ 7614: These are the blessings currently in effect throughout the area...
+ 7615: You may not be able to collect any rewards if you do not return.
+ 7616: A new blessing is now in effect for the area.
+ 7617: Which temporary item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6@/$7/Destroy treasure chest.]
+ 7618: Which item will you obtain? [None of them./$0/$1/$2/$3/$4/$5/$6/$7/Destroy treasure chest.]
+ 7619: This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 1`99. Opening it requires you to guess whether the next number is greater or less than the previous.
+ 7620: Previous: $0 ($1 tr[y/ies] left) [Do nothing./Twist number dial up./Twist number dial down.]
+ 7621: Your selection has been rendered void. Another party member has already made a selection.
+ 7622: The randomly generated number was $0! %0 guessed [successfully/unsuccessfully]!
+ 7623: %0 used $0 to unlock the chest!
+ 7624: The chest will be lost. Proceed? [Yes, destroy./No, cancel.]
+ 7625: The treasure chest has disappeared.
+ 7626: What will you do? [Do nothing./Attempt to unlock it./Destroy the chest.]
+ 7627: You obtain $0 pinch[/es] of escha silt.
+ 7628: You obtain $0 escha bead[/s].
+ 7629: <Player>, are you aware of special charms known as "nazars"? There are a total of ten of them, and they can be found on various fearsome foes prowling around Escha.
+ 7630: We hadn't learned about them until recently, when I got word from one of the higher-ups about their existence. Bring me one of each and I'll be able to furnish you with an extra-special grisly trinket.
+ 7631: I figured maybe you'd have them all by now, but...turns out I was wrong. Come back once you've found all ten.
+ 7632: Ah, well done[ lad/]! What do you say--how's about that trinket?
+ 7633: Would you like the new trinket? [Of course!/Not right now.]
+ 7634: And there you go. Treat it well.
+ 7635: This $3 contains with it a tiny bit of puissance from the Far East.
+ 7636: Don't go around manhandling it willy-nilly, or its energies might seep out.
+ 7637: DEBUG: Raid evaluation: Condition $0/subtotal $1/total $2.
+ 7638: DEBUG: Overall assessment $0.
  7639: You obtain $0 pinch[/es] of escha silt.
- 7640: You obtain $0 escha bead[/s].
+ 7640: You obtain $0 pinch[/es] of escha silt.
  7641: You obtain $0 escha bead[/s].
- 7642: Domain Invasion evaluation: [Successful attacks/Physical damage/Ranged damage/Magic damage/Attacks taken/Damage taken/Foes vanquished/Times knocked out]: $1.
- 7643: Domain Invasion evaluation: [Healing allies/Resurrections/Enhancing allies/Enhancing self/Enfeebling/Enhancing songs/Enfeebling songs/Critical hits]: $1.
- 7644: Domain Invasion evaluation: [Skillchains/Resists/Special defense/First blood/Healing self/Healing the gravely wounded/Evasion]: $1.
- 7645: Overall evaluation: $0.
- 7646: You have received the maximum evaluation for this Domain Invasion category.
- 7647: You are now participating in a Domain Invasion.
- 7648: You have strayed too far from the monster's spawn point, and your evaluation will be reset if you do not return to the field of battle.
- 7649: Your evaluation has been reset because you have strayed too far from the monster's spawn point.
- 7650: I gotta say, you never know what you'll find in the midst of battle. Give it yer all, and you may just find a special little somethin' waitin' fer you.
- 7651: Who knows what you'll run across on the field of battle? Keep fighting the good fight and you'll surely be rewarded.
- 7652: %0 has put a stop to the skirmish. Those who successfully prevent the battle will receive an ability and reward bonus. Once the ability bonus disappears, so will the reward bonus. The boss battle will begin shortly.
- 7653: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x
- 7654: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x
- 7655: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Boss Battle Prevention Bonus: $2x
- 7656: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.5/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x Boss Battle Prevention Bonus: $3x
- 7657: <Player> obtained $0 Domain Points!
- 7658: You have reached the maximum amount of Domain Points obtainable today. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
- 7659: Any Domain points in excess of the maximum of $0 will be lost. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
- 7660: You will receive a bonus of $0 Domain Points for defeating Mireu. This bonus is not subject to the maximum daily limit.
- 7661: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 minute[/s].
- 7662: The number of players participating in this Domain Invasion has reached a critical mass. The next Domain Invasion will commence in the next $0 minute[/s].
- 7663: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 second[/s].
- 7664: Domain Points Acquired: $0. Domain Points Held: $1.
- 7665: Mireu is ready to fight once more.
- 7666: Mireu refused to give in.
- 7667: Mireu is now vulnerable!
- 7668: This thing here? It'll keep all those rarer, larger beasties away from ya.
- 7669: The effect'll only last while yer here in Escha, so keep that in mind!
- 7670: Now this here works jus' like a $3; it lets ya draw out the particularly nasty breeds o' monsters that lurk 'round here.
- 7671: But here's the thing. This baby don't disappear after just one use. Instead, its effects'll last up to one hour, or until you leave Escha.
- 7672: Always a pleasure doin' business with ya! Don't forget ta grab a grisly trinket, too!
- 7673: That, eh? Adventurers kept askin' me about which grisly trinket monsters they brought down an' other records, so I put 'em all down in this handy book here.
- 7674: I've gotten ta callin' it Affi's "Register of Deeds." Sounds nice an' official, don' ya think?
- 7675: Go an' take a gander! Ya can bet yer belt buckle that Affi knows how ta keep his customers happy!
- 7676: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
- 7677: Monsters Defeated in Escha - Zi'Tah. [Go back./Wepwawet. [/y$26z]/Lustful Lydia. [/y$26z]/Aglaophotis. [/y$26z]/Tangata Manu. [/y$26z]/Vidala. [/y$26z]/Gestalt. [/y$26z]/Angrboda. [/y$26z]/Cunnast. [/y$26z]/Revetaur. [/y$26z]/Ferrodon. [/y$26z]/Gulltop. [/y$26z]/Vyala. [/y$26z]/Ionos. [/y$26z]/Sensual Sandy. [/y$26z]/Nosoi. [/y$26z]/Brittlis. [/y$26z]/Kamohoalii. [/y$26z]/Umdhlebi. [/y$26z]/Fleetstalker. [/y$26z]/Shockmaw. [/y$26z]/Urmahlullu. [/y$26z]/Next Page.]
- 7678: Monsters Defeated in Escha - Zi'Tah. [Go back./Blazewing. [/y$26z]/Bucca/Puca/Alpluachra. [/y$26z]/Pazuzu. [/y$26z]/Wrathare. [/y$26z]/Previous page.]
- 7679: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Azi Dahaka $3 time[/s]./Defeated Mireu $5 time[/s].]
- 7680: The level of difficulty for this content is unknown.
- 7681: Proffer which item? [None of these./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
- 7682: Commence battle? [Yes./No.]
- 7683: You are not the party leader.
- 7684: One or more members of your party are not in the appropriate staging zone.
- 7685: Your party does not meet the minimum member requirement of $0.
- 7686: Unable to commence battle.
- 7687: One or more of your party members currently has an active fellow.
- 7688: One or more of your party members currently has an active alter ego.
- 7689: One or more members of your party is currently participating in other content.
- 7690: One or more of your party members is currently viewing a cutscene.
- 7691: All party members have been knocked out. Leaving the battle in $0 minute[/s].
- 7692: Your party leader is attempting to commence a battle.
- 7693: You have strayed too far away from the combat area. Failing to return in time will forfeit your right to participate in the battle.
- 7694: You have strayed too far away from the combat area and have been removed from battle.
- 7695: You have returned to the combat area.
- 7696: The time limit for this battle is $0 minute[/s].
- 7697: Time remaining: $0 [minute/minutes] (Earth time).
- 7698: Time remaining: $0 [second/seconds] (Earth time).
- 7699: Your time for this battle is up...
- 7700: The monster fades before your eyes, a look of disappointment on its face.
- 7701: You received the temporary item $0!
- 7702: You will be able to engage in combat here if you possess $6 and a grisly trinket.
- 7703: The $3 [disappears/and the grisly trinket disappear]!
- 7704: The power of your vorseal wanes...
- 7705: A monster appears!
- 7706: You receive $0 pinch[/es] of escha silt.
- 7707: You receive $0 pinch[/es] of escha silt for a total of $1.
- 7708: You receive $0 escha beads.
- 7709: You receive $0 escha beads for a total of $1.
- 7710: The vorseal begins to glow softly.
- 7711: You do not sense the presence of that foe.
- 7712: One or more party members do not possess $6.
- 7713: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7714: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7715: Obtain this item? [Yes./No.]
- 7716: Obtain this temporary item? [Yes./No.]
- 7717: %0 obtains $0!
- 7718: You were unable to obtain the item.
- 7719: %0 obtains the temporary item: $0!
- 7720: You already possess that temporary item.
- 7721: The chest is locked.
- 7722: What will you do? [Leave it be./Attempt to unlock it.]
- 7723: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
- 7724: It appears that you can enter a two-digit combination between 10 and 99.
- 7725: You were unable to enter a combination.
- 7726: You have a hunch that the lock's combination is [greater/less] than $0.
- 7727: %0 failed to open the lock.
- 7728: It appears that the correct combination was $0.
- 7729: %0 succeeded in opening the lock!
- 7730: You have a hunch that the second digit is [even/odd].
- 7731: You have a hunch that the first digit is [even/odd].
- 7732: You have a hunch that the combination is greater than $0 and less than $1.
- 7733: You have a hunch that the combination is less than $0.
- 7734: You have a hunch that the combination is greater than $0.
- 7735: You have a hunch that one of the two digits is $0.
- 7736: You have a hunch that the second digit is $0, $1, or $2.
- 7737: You have a hunch that the first digit is $0, $1, or $2.
- 7738: You were unable to glean anything from your examination of the lock.
- 7739: Obtain this item?
- 7740: The monster was concealing a treasure chest!
- 7741: $P14T$6F
- 7742: $m%&F/
- 7743: $m%^F
- 7744: $3J$3MF
- 7745: B$P16ZF
- 7746: %JF
- 7747: $0
- 7748: $0 $1 $2 $3 $4 $5 $6 $7
+ 7642: You obtain $0 escha bead[/s].
+ 7643: Domain Invasion evaluation: [Successful attacks/Physical damage/Ranged damage/Magic damage/Attacks taken/Damage taken/Foes vanquished/Times knocked out]: $1.
+ 7644: Domain Invasion evaluation: [Healing allies/Resurrections/Enhancing allies/Enhancing self/Enfeebling/Enhancing songs/Enfeebling songs/Critical hits]: $1.
+ 7645: Domain Invasion evaluation: [Skillchains/Resists/Special defense/First blood/Healing self/Healing the gravely wounded/Evasion]: $1.
+ 7646: Overall evaluation: $0.
+ 7647: You have received the maximum evaluation for this Domain Invasion category.
+ 7648: You are now participating in a Domain Invasion.
+ 7649: You have strayed too far from the monster's spawn point, and your evaluation will be reset if you do not return to the field of battle.
+ 7650: Your evaluation has been reset because you have strayed too far from the monster's spawn point.
+ 7651: I gotta say, you never know what you'll find in the midst of battle. Give it yer all, and you may just find a special little somethin' waitin' fer you.
+ 7652: Who knows what you'll run across on the field of battle? Keep fighting the good fight and you'll surely be rewarded.
+ 7653: %0 has put a stop to the skirmish. Those who successfully prevent the battle will receive an ability and reward bonus. Once the ability bonus disappears, so will the reward bonus. The boss battle will begin shortly.
+ 7654: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x
+ 7655: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x
+ 7656: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Boss Battle Prevention Bonus: $2x
+ 7657: You will receive $0 Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.5/1.6/1.8/2.0]x Skirmish Prevention Bonus: $2x Boss Battle Prevention Bonus: $3x
+ 7658: <Player> obtained $0 Domain Points!
+ 7659: You have reached the maximum amount of Domain Points obtainable today. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
+ 7660: Any Domain points in excess of the maximum of $0 will be lost. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
+ 7661: You will receive a bonus of $0 Domain Points for defeating Mireu. This bonus is not subject to the maximum daily limit.
+ 7662: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 minute[/s].
+ 7663: The number of players participating in this Domain Invasion has reached a critical mass. The next Domain Invasion will commence in the next $0 minute[/s].
+ 7664: The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to $0 second[/s].
+ 7665: Domain Points Acquired: $0. Domain Points Held: $1.
+ 7666: Mireu is ready to fight once more.
+ 7667: Mireu refused to give in.
+ 7668: Mireu is now vulnerable!
+ 7669: This thing here? It'll keep all those rarer, larger beasties away from ya.
+ 7670: The effect'll only last while yer here in Escha, so keep that in mind!
+ 7671: Now this here works jus' like a $3; it lets ya draw out the particularly nasty breeds o' monsters that lurk 'round here.
+ 7672: But here's the thing. This baby don't disappear after just one use. Instead, its effects'll last up to one hour, or until you leave Escha.
+ 7673: Always a pleasure doin' business with ya! Don't forget ta grab a grisly trinket, too!
+ 7674: That, eh? Adventurers kept askin' me about which grisly trinket monsters they brought down an' other records, so I put 'em all down in this handy book here.
+ 7675: I've gotten ta callin' it Affi's "Register of Deeds." Sounds nice an' official, don' ya think?
+ 7676: Go an' take a gander! Ya can bet yer belt buckle that Affi knows how ta keep his customers happy!
+ 7677: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
+ 7678: Monsters Defeated in Escha - Zi'Tah. [Go back./Wepwawet. [/y$26z]/Lustful Lydia. [/y$26z]/Aglaophotis. [/y$26z]/Tangata Manu. [/y$26z]/Vidala. [/y$26z]/Gestalt. [/y$26z]/Angrboda. [/y$26z]/Cunnast. [/y$26z]/Revetaur. [/y$26z]/Ferrodon. [/y$26z]/Gulltop. [/y$26z]/Vyala. [/y$26z]/Ionos. [/y$26z]/Sensual Sandy. [/y$26z]/Nosoi. [/y$26z]/Brittlis. [/y$26z]/Kamohoalii. [/y$26z]/Umdhlebi. [/y$26z]/Fleetstalker. [/y$26z]/Shockmaw. [/y$26z]/Urmahlullu. [/y$26z]/Next Page.]
+ 7679: Monsters Defeated in Escha - Zi'Tah. [Go back./Blazewing. [/y$26z]/Bucca/Puca/Alpluachra. [/y$26z]/Pazuzu. [/y$26z]/Wrathare. [/y$26z]/Previous page.]
+ 7680: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Azi Dahaka $3 time[/s]./Defeated Mireu $5 time[/s].]
+ 7681: The level of difficulty for this content is unknown.
+ 7682: Proffer which item? [None of these./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
+ 7683: Commence battle? [Yes./No.]
+ 7684: You are not the party leader.
+ 7685: One or more members of your party are not in the appropriate staging zone.
+ 7686: Your party does not meet the minimum member requirement of $0.
+ 7687: Unable to commence battle.
+ 7688: One or more of your party members currently has an active fellow.
+ 7689: One or more of your party members currently has an active alter ego.
+ 7690: One or more members of your party is currently participating in other content.
+ 7691: One or more of your party members is currently viewing a cutscene.
+ 7692: All party members have been knocked out. Leaving the battle in $0 minute[/s].
+ 7693: Your party leader is attempting to commence a battle.
+ 7694: You have strayed too far away from the combat area. Failing to return in time will forfeit your right to participate in the battle.
+ 7695: You have strayed too far away from the combat area and have been removed from battle.
+ 7696: You have returned to the combat area.
+ 7697: The time limit for this battle is $0 minute[/s].
+ 7698: Time remaining: $0 [minute/minutes] (Earth time).
+ 7699: Time remaining: $0 [second/seconds] (Earth time).
+ 7700: Your time for this battle is up...
+ 7701: The monster fades before your eyes, a look of disappointment on its face.
+ 7702: You received the temporary item $0!
+ 7703: You will be able to engage in combat here if you possess $6 and a grisly trinket.
+ 7704: The $3 [disappears/and the grisly trinket disappear]!
+ 7705: The power of your vorseal wanes...
+ 7706: A monster appears!
+ 7707: You receive $0 pinch[/es] of escha silt.
+ 7708: You receive $0 pinch[/es] of escha silt for a total of $1.
+ 7709: You receive $0 escha beads.
+ 7710: You receive $0 escha beads for a total of $1.
+ 7711: The vorseal begins to glow softly.
+ 7712: You do not sense the presence of that foe.
+ 7713: One or more party members do not possess $6.
+ 7714: Which item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7715: Which temporary item will you obtain? [None of them./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7716: Obtain this item? [Yes./No.]
+ 7717: Obtain this temporary item? [Yes./No.]
+ 7718: %0 obtains $0!
+ 7719: You were unable to obtain the item.
+ 7720: %0 obtains the temporary item: $0!
+ 7721: You already possess that temporary item.
+ 7722: The chest is locked.
+ 7723: What will you do? [Leave it be./Attempt to unlock it.]
+ 7724: What will you do? ($0 chances remaining.) [Give up./Enter a combination./Examine the lock.]
+ 7725: It appears that you can enter a two-digit combination between 10 and 99.
+ 7726: You were unable to enter a combination.
+ 7727: You have a hunch that the lock's combination is [greater/less] than $0.
+ 7728: %0 failed to open the lock.
+ 7729: It appears that the correct combination was $0.
+ 7730: %0 succeeded in opening the lock!
+ 7731: You have a hunch that the second digit is [even/odd].
+ 7732: You have a hunch that the first digit is [even/odd].
+ 7733: You have a hunch that the combination is greater than $0 and less than $1.
+ 7734: You have a hunch that the combination is less than $0.
+ 7735: You have a hunch that the combination is greater than $0.
+ 7736: You have a hunch that one of the two digits is $0.
+ 7737: You have a hunch that the second digit is $0, $1, or $2.
+ 7738: You have a hunch that the first digit is $0, $1, or $2.
+ 7739: You were unable to glean anything from your examination of the lock.
+ 7740: Obtain this item?
+ 7741: The monster was concealing a treasure chest!
+ 7742: $P14T$6F
+ 7743: $m%&F/
+ 7744: $m%^F
+ 7745: $3J$3MF
+ 7746: B$P16ZF
+ 7747: %JF
+ 7748: $0
+ 7749: $0 $1 $2 $3 $4 $5 $6 $7

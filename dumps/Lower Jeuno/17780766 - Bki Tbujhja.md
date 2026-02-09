@@ -129,38 +129,38 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0008      |           8 |
-|       1 | 0x1D09      |        7433 |
-|       2 | 0x1D0A      |        7434 |
+|       1 | 0x1D0A      |        7434 |
+|       2 | 0x1D0B      |        7435 |
 |       3 | 0x0032      |          50 |
-|       4 | 0x1D0B      |        7435 |
-|       5 | 0x1D0C      |        7436 |
-|       6 | 0x1D0D      |        7437 |
-|       7 | 0x1D0E      |        7438 |
-|       8 | 0x1D0F      |        7439 |
+|       4 | 0x1D0C      |        7436 |
+|       5 | 0x1D0D      |        7437 |
+|       6 | 0x1D0E      |        7438 |
+|       7 | 0x1D0F      |        7439 |
+|       8 | 0x1D10      |        7440 |
 |       9 | 0x000A      |          10 |
-|      10 | 0x1D10      |        7440 |
-|      11 | 0x1D11      |        7441 |
-|      12 | 0x1D12      |        7442 |
-|      13 | 0x1F6F      |        8047 |
-|      14 | 0x1F70      |        8048 |
-|      15 | 0x1F75      |        8053 |
-|      16 | 0x1F71      |        8049 |
+|      10 | 0x1D11      |        7441 |
+|      11 | 0x1D12      |        7442 |
+|      12 | 0x1D13      |        7443 |
+|      13 | 0x1F70      |        8048 |
+|      14 | 0x1F71      |        8049 |
+|      15 | 0x1F76      |        8054 |
+|      16 | 0x1F72      |        8050 |
 |      17 | 0x0001      |           1 |
 |      18 | 0x0000      |           0 |
-|      19 | 0x1F72      |        8050 |
+|      19 | 0x1F73      |        8051 |
 |      20 | 0x103A      |        4154 |
-|      21 | 0x1F73      |        8051 |
-|      22 | 0x1F74      |        8052 |
-|      23 | 0x1F76      |        8054 |
-|      24 | 0x1F77      |        8055 |
-|      25 | 0x1F78      |        8056 |
-|      26 | 0x1F79      |        8057 |
-|      27 | 0x1F7C      |        8060 |
-|      28 | 0x1F7D      |        8061 |
-|      29 | 0x1F7E      |        8062 |
-|      30 | 0x1F7F      |        8063 |
+|      21 | 0x1F74      |        8052 |
+|      22 | 0x1F75      |        8053 |
+|      23 | 0x1F77      |        8055 |
+|      24 | 0x1F78      |        8056 |
+|      25 | 0x1F79      |        8057 |
+|      26 | 0x1F7A      |        8058 |
+|      27 | 0x1F7D      |        8061 |
+|      28 | 0x1F7E      |        8062 |
+|      29 | 0x1F7F      |        8063 |
+|      30 | 0x1F80      |        8064 |
 |      31 | 0x00C9      |         201 |
-|      32 | 0x1F80      |        8064 |
+|      32 | 0x1F81      |        8065 |
 |      33 | 0x000C      |          12 |
 |      34 | 0xFFFED6C4  |  4294891204 |
 |      35 | 0xFFFDEB5B  |  4294830939 |
@@ -261,10 +261,10 @@
 
 ## String References
 
-- **7440**: Oh, you're a barrrd too? Then stop by more often!
-- **7441**: Say, you should be a barrrd. What are you thinking?
-- **7442**: See! That man by the table looks so full of life, doesn't he? Of course, not long ago I wouldn't have stood near him!
-- **8049**: Interested? [You bet./Spare me.]
+- **7441**: Oh, you're a barrrd too? Then stop by more often!
+- **7442**: Say, you should be a barrrd. What are you thinking?
+- **7443**: See! That man by the table looks so full of life, doesn't he? Of course, not long ago I wouldn't have stood near him!
+- **8050**: Interested? [You bet./Spare me.]
 
 ## Events
 
@@ -318,17 +318,17 @@
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=8*
-  5: 0x0019 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7433*]:
+  5: 0x0019 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7434*]:
     → "Say, have you seen the song rrrunes in Buburimu? They contain the words to the song that torn-apart lovers sang to each other many years ago."
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0021 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7434*]:
+  7: 0x0021 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7435*]:
     → "The lyrics are simple, but they hit you right in the heart. It's a really good song!"
   8: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0029 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=50*
- 10: 0x0038 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7435*]:
+ 10: 0x0038 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7436*]:
     → "No matter how much the worrrld changes, people are still the same. Oh, how I long to be loved like that..."
  11: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0040 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7436*]:
+ 12: 0x0040 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7437*]:
     → "Well, anyway... I bet those bitter lyrics would rrreally cheer up the broken-hearted."
  13: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0048 [0x21] END_EVENT
@@ -362,13 +362,13 @@
   2: 0x0051 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0052 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x0062 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7437*]:
+  5: 0x0062 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7438*]:
     → "Oh, you've been to Buburimu? They say couples descend on the place at nightfall. How do they dodge the monsterrrs?"
   6: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x006A [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7438*]:
+  7: 0x006A [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7439*]:
     → "And you know what? There's another set of rrrunes in Valkurm...with the opposing set of lyrics! It's a fabulous spot for a date; take it from me."
   8: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0072 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7439*]:
+  9: 0x0072 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [7440*]:
     → "When you rrread the lyrics on Buburimu after you've seen the ones on Valkurm, it brings the tears all over again. Oh, sad songs are so moving!"
  10: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x007A [0x21] END_EVENT
@@ -404,15 +404,15 @@
   3: 0x0084 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0085 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   5: 0x0094 [0x02] IF !(LocalPlayer->JobId == 10*) GOTO 0x00A3
-  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "Oh, you're a barrrd too? Then stop by more often!"
   7: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A0 [0x01] GOTO 0x00B5
-  9: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
+  9: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
     → "Say, you should be a barrrd. What are you thinking?"
  10: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00A7 [0x79] EventEntity looks at Mertaire (ID: 17780764/0x010F501C) (Basic look)
- 12: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+ 12: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "See! That man by the table looks so full of life, doesn't he? Of course, not long ago I wouldn't have stood near him!"
  13: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -448,11 +448,11 @@ SUBROUTINE_00B5:
   1: 0x00BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x00CD [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8047*]:
+  4: 0x00CD [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8048*]:
     → "Say, I see you're quite a bard now. I'm looking for a bard, you see..."
   5: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  7: 0x00E4 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8048*]:
+  7: 0x00E4 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8049*]:
     → "I thought you'd be a perfect match for this task. What do you say?"
   8: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00EC [0x1A] CALL_SUBROUTINE(address=0x0114)
@@ -491,7 +491,7 @@ SUBROUTINE_00B5:
   1: 0x00F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0107 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8053*]:
+  4: 0x0107 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8054*]:
     → "Say, how about that task I told you about?"
   5: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x010F [0x1A] CALL_SUBROUTINE(address=0x0114)
@@ -501,23 +501,23 @@ SUBROUTINE_00B5:
 SUBROUTINE_0114:
   9: 0x0114 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  10: 0x0115 [0x06] Work_Zone[1] = 0
- 11: 0x0118 [0x24] CREATE_DIALOG(message_id=8049*, default_option=1*, option_flags=0*)
+ 11: 0x0118 [0x24] CREATE_DIALOG(message_id=8050*, default_option=1*, option_flags=0*)
     → "Interested? [You bet./Spare me.]"
  12: 0x011F [0x25] WAIT_DIALOG_SELECT()
  13: 0x0120 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0154
  14: 0x0128 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 15: 0x0137 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8050*]:
+ 15: 0x0137 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8051*]:
     → "Thank goodness! Listen, it's such an onerous task that nobody wants to do it. I'm so lucky you're here!"
  16: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x013F [0x03] Work_Zone[2] = 4154*
- 18: 0x0144 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8051*]:
+ 18: 0x0144 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8052*]:
     → "Well, for starters, you'll need to bring me $0. Can't do much without one."
  19: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x014C [0x03] Work_Zone[1] = 1*
  21: 0x0151 [0x01] GOTO 0x0176
  22: 0x0154 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0176
  23: 0x015C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 24: 0x016B [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8052*]:
+ 24: 0x016B [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8053*]:
     → "Oh, you're busy, huh? Well, who am I supposed to ask now? Bards like you don't exactly grow on trees, you know!"
  25: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0173 [0x01] GOTO 0x0176
@@ -548,7 +548,7 @@ SUBROUTINE_0176:
 ```
   0: 0x0177 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x017C [0x03] Work_Zone[2] = 4154*
-  2: 0x0181 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8051*]:
+  2: 0x0181 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8052*]:
     → "Well, for starters, you'll need to bring me $0. Can't do much without one."
   3: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0189 [0x21] END_EVENT
@@ -584,19 +584,19 @@ SUBROUTINE_0176:
   1: 0x018D [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x018E [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0193 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x01A2 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8054*]:
+  4: 0x01A2 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8055*]:
     → "Good, this will do nicely. Now for the task! I want you to visit the grave of a great bard of yesteryear and pray for him."
   5: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  7: 0x01B9 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8055*]:
+  7: 0x01B9 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8056*]:
     → "Why, you ask? I don't know; it's just something we always do. They say he met a tragic end. Go ask other bards if you want to learn about him."
   8: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 10: 0x01D0 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8056*]:
+ 10: 0x01D0 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8057*]:
     → "His stone sarcophagus is deep inside the Eldieme Necropolis. It's one of several, and I can't remember which. Well, you'll find it."
  11: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01D8 [0x03] Work_Zone[2] = 4154*
- 13: 0x01DD [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8057*]:
+ 13: 0x01DD [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8058*]:
     → "A little investigation will reveal which one is his. Purify it with that $0 and play the requiem. You don't know the tune? It's okay, just go!"
  14: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01E5 [0x21] END_EVENT
@@ -625,7 +625,7 @@ SUBROUTINE_0176:
 ```
   0: 0x01E7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01EC [0x03] Work_Zone[2] = 4154*
-  2: 0x01F1 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8060*]:
+  2: 0x01F1 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8061*]:
     → "Oh, did you take the $0 and play the requiem? The task isn't complete until you've done both!"
   3: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01F9 [0x21] END_EVENT
@@ -654,11 +654,11 @@ SUBROUTINE_0176:
 
 ```
   0: 0x01FB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0200 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8056*]:
+  1: 0x0200 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8057*]:
     → "His stone sarcophagus is deep inside the Eldieme Necropolis. It's one of several, and I can't remember which. Well, you'll find it."
   2: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0208 [0x03] Work_Zone[2] = 4154*
-  4: 0x020D [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8057*]:
+  4: 0x020D [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8058*]:
     → "A little investigation will reveal which one is his. Purify it with that $0 and play the requiem. You don't know the tune? It's okay, just go!"
   5: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0215 [0x21] END_EVENT
@@ -697,16 +697,16 @@ SUBROUTINE_0176:
   3: 0x021F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0220 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0221 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
-  6: 0x0230 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8061*]:
+  6: 0x0230 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8062*]:
     → "Good work, <Player>! Yeah, sorry I didn't tell you about the monsters. Otherwise nobody would go! Understand?"
   7: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0238 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ure0" with entities [EventEntity, EventEntity]
   9: 0x0245 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 10: 0x0254 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8062*]:
+ 10: 0x0254 [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8063*]:
     → "Huh? After that a man came and gave you a ring? I hope he wasn't a grave robber!"
  11: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x025C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 13: 0x026B [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8063*]:
+ 13: 0x026B [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8064*]:
     → "But don't give that ring to me; I hate antiques. Anyway, here's your reward. Thanks again!"
  14: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0273 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -735,7 +735,7 @@ SUBROUTINE_0176:
 
 ```
   0: 0x0286 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x028B [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8064*]:
+  1: 0x028B [0x2B] Bki Tbujhja (ID: 17780766/0x010F501E) [8065*]:
     → "Well, that's out of the way. Now who should I ask for the next task? Bards can be so selfish sometimes!"
   2: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0293 [0x21] END_EVENT

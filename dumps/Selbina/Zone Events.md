@@ -116,45 +116,45 @@
 |      51 | 0xFFFF54ED  |  4294923501 |
 |      52 | 0xFFFFF5F0  |  4294964720 |
 |      53 | 0x0014      |          20 |
-|      54 | 0x1C87      |        7303 |
-|      55 | 0x1C88      |        7304 |
+|      54 | 0x1C88      |        7304 |
+|      55 | 0x1C89      |        7305 |
 |      56 | 0x0001      |           1 |
 |      57 | 0x00B4      |         180 |
-|      58 | 0x1C89      |        7305 |
-|      59 | 0x1C8A      |        7306 |
-|      60 | 0x1C8B      |        7307 |
+|      58 | 0x1C8A      |        7306 |
+|      59 | 0x1C8B      |        7307 |
+|      60 | 0x1C8C      |        7308 |
 |      61 | 0x009F      |         159 |
-|      62 | 0x1C8C      |        7308 |
-|      63 | 0x1C8D      |        7309 |
-|      64 | 0x1C8E      |        7310 |
-|      65 | 0x1C8F      |        7311 |
+|      62 | 0x1C8D      |        7309 |
+|      63 | 0x1C8E      |        7310 |
+|      64 | 0x1C8F      |        7311 |
+|      65 | 0x1C90      |        7312 |
 |      66 | 0x005A      |          90 |
-|      67 | 0x1C90      |        7312 |
-|      68 | 0x1C91      |        7313 |
-|      69 | 0x1C92      |        7314 |
-|      70 | 0x1C93      |        7315 |
+|      67 | 0x1C91      |        7313 |
+|      68 | 0x1C92      |        7314 |
+|      69 | 0x1C93      |        7315 |
+|      70 | 0x1C94      |        7316 |
 |      71 | 0x00C9      |         201 |
 |      72 | 0x001E      |          30 |
-|      73 | 0x1C94      |        7316 |
-|      74 | 0x1C95      |        7317 |
-|      75 | 0x1C96      |        7318 |
-|      76 | 0x1C97      |        7319 |
-|      77 | 0x1C98      |        7320 |
-|      78 | 0x1C99      |        7321 |
-|      79 | 0x1C9A      |        7322 |
+|      73 | 0x1C95      |        7317 |
+|      74 | 0x1C96      |        7318 |
+|      75 | 0x1C97      |        7319 |
+|      76 | 0x1C98      |        7320 |
+|      77 | 0x1C99      |        7321 |
+|      78 | 0x1C9A      |        7322 |
+|      79 | 0x1C9B      |        7323 |
 |      80 | 0x02CC      |         716 |
-|      81 | 0x1C9B      |        7323 |
-|      82 | 0x1C9C      |        7324 |
-|      83 | 0x1C9D      |        7325 |
-|      84 | 0x1C9E      |        7326 |
+|      81 | 0x1C9C      |        7324 |
+|      82 | 0x1C9D      |        7325 |
+|      83 | 0x1C9E      |        7326 |
+|      84 | 0x1C9F      |        7327 |
 |      85 | 0x0096      |         150 |
 |      86 | 0x0070      |         112 |
-|      87 | 0x1C9F      |        7327 |
-|      88 | 0x1CA0      |        7328 |
-|      89 | 0x1CA1      |        7329 |
-|      90 | 0x1CA2      |        7330 |
-|      91 | 0x1CA3      |        7331 |
-|      92 | 0x1CA4      |        7332 |
+|      87 | 0x1CA0      |        7328 |
+|      88 | 0x1CA1      |        7329 |
+|      89 | 0x1CA2      |        7330 |
+|      90 | 0x1CA3      |        7331 |
+|      91 | 0x1CA4      |        7332 |
+|      92 | 0x1CA5      |        7333 |
 |      93 | 0xFFFFB025  |  4294946853 |
 |      94 | 0xFFFFC548  |  4294952264 |
 |      95 | 0xFFFFF5DB  |  4294964699 |
@@ -201,11 +201,11 @@
 |     136 | 0x00CB      |         203 |
 |     137 | 0x4593      |       17811 |
 |     138 | 0x1353E     |       79166 |
-|     139 | 0x1F8B      |        8075 |
+|     139 | 0x1F8C      |        8076 |
 
 ## String References
 
-- **8075**: Entering [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8076**: Entering [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
 
 ## Events
 
@@ -912,11 +912,11 @@ SUBROUTINE_0191:
  12: 0x0297 [0x1F] MOVE_ENTITY: EventEntity moves to X=18.235*, Z=-43.795*, Y=-2.576*
  13: 0x029F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  14: 0x02A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Leodarion (ID: 17793101/0x010F804D), Leodarion (ID: 17793101/0x010F804D)], work=20*
- 15: 0x02B0 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7303*]:
+ 15: 0x02B0 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7304*]:
     → "I've been waiting for you. I heard from one of my sources that you were going to be on that boat from Mhaura."
  16: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x02B8 [0x6B] STOP_AND_IDLE: Leodarion (ID: 17793101/0x010F804D) stops current action and resets to idle (animation="idl0")
- 18: 0x02C1 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7304*]:
+ 18: 0x02C1 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7305*]:
     → "Now, what did you find? You saw an evil spirit, didn't you? Hmm? There was no treasure? But that can't be..."
  19: 0x02C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x02C9 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=239*
@@ -925,14 +925,14 @@ SUBROUTINE_0191:
  23: 0x02F0 [0x1C] WAIT(1* ticks)
  24: 0x02F3 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=180*)
  25: 0x02F8 [0x4A] Leodarion (ID: 17793101/0x010F804D) looks at Kagetora (ID: 17793103/0x010F804F)
- 26: 0x0301 [0x2B] Kagetora (ID: 17793103/0x010F804F) [7305*]:
+ 26: 0x0301 [0x2B] Kagetora (ID: 17793103/0x010F804F) [7306*]:
     → "But there was. Look at this."
  27: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0309 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7306*]:
+ 28: 0x0309 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7307*]:
     → "You... You're the guy who told me to wait here..."
  29: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0311 [0x79] Kagetora (ID: 17793103/0x010F804F) looks at LocalPlayer (Basic look)
- 31: 0x031B [0x2B] Kagetora (ID: 17793103/0x010F804F) [7307*]:
+ 31: 0x031B [0x2B] Kagetora (ID: 17793103/0x010F804F) [7308*]:
     → "Our adventurer here may not have realized it, but there was a piece of paper in the torn rags of the spirit [he/she] defeated. The men on our boat found that memo."
  32: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0323 [0x79] Kagetora (ID: 17793103/0x010F804F) looks at Leodarion (ID: 17793101/0x010F804D) (Basic look)
@@ -940,11 +940,11 @@ SUBROUTINE_0191:
  35: 0x0333 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Kagetora (ID: 17793103/0x010F804F), Kagetora (ID: 17793103/0x010F804F)], work=0*
  36: 0x0342 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 159*
  37: 0x0346 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 159*
- 38: 0x034A [0x2B] Kagetora (ID: 17793103/0x010F804F) [7308*]:
+ 38: 0x034A [0x2B] Kagetora (ID: 17793103/0x010F804F) [7309*]:
     → "This piece of paper is addressed to you. It's your grandfather's will. The spirit that <Player> fought with was...the ghost of Mitsunari."
  39: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0352 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Leodarion (ID: 17793101/0x010F804D), Leodarion (ID: 17793101/0x010F804D)], work=20*
- 41: 0x0361 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7309*]:
+ 41: 0x0361 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7310*]:
     → "It can't be!"
  42: 0x0368 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0369 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -954,10 +954,10 @@ SUBROUTINE_0191:
  47: 0x039D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
  48: 0x03AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  49: 0x03BF [0x27] REQ_SET(priority=0x0A, entity_id=Mitsunari (ID: 17793105/0x010F8051), tag_num=0x02)
- 50: 0x03C6 [0x2B] Mitsunari (ID: 17793105/0x010F8051) [7310*]:
+ 50: 0x03C6 [0x2B] Mitsunari (ID: 17793105/0x010F8051) [7311*]:
     → "Even though you were not my true grandson, you were always eager to continue in my line of work. I am proud to have someone who appreciated what I did, and I am happy to leave to you all of my knowledge."
  51: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x03CE [0x2B] Mitsunari (ID: 17793105/0x010F8051) [7311*]:
+ 52: 0x03CE [0x2B] Mitsunari (ID: 17793105/0x010F8051) [7312*]:
     → "However, as death approaches me, I have come to realize that maybe it is not my knowledge that is important, but my memories."
  53: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x03D6 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=239*
@@ -966,7 +966,7 @@ SUBROUTINE_0191:
  57: 0x03FF [0x1C] WAIT(90* ticks)
  58: 0x0402 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mitsunari (ID: 17793105/0x010F8051)
  59: 0x0408 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Leodarion (ID: 17793101/0x010F804D), Leodarion (ID: 17793101/0x010F804D)], work=20*
- 60: 0x0417 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7312*]:
+ 60: 0x0417 [0x2B] Leodarion (ID: 17793101/0x010F804D) [7313*]:
     → "Wait. This is it? What is he trying to say?"
  61: 0x041E [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x041F [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=239*
@@ -974,15 +974,15 @@ SUBROUTINE_0191:
  64: 0x0430 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
  65: 0x0441 [0x79] Leodarion (ID: 17793101/0x010F804D) looks at Ensetsu (ID: 17793102/0x010F804E) (Basic look)
  66: 0x044B [0x27] REQ_SET(priority=0x0A, entity_id=Ensetsu (ID: 17793102/0x010F804E), tag_num=0x02)
- 67: 0x0452 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7313*]:
+ 67: 0x0452 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7314*]:
     → "I know. To pass on their memories...that is what drives a parent."
  68: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x045A [0x2B] Leodarion (ID: 17793101/0x010F804D) [7314*]:
+ 69: 0x045A [0x2B] Leodarion (ID: 17793101/0x010F804D) [7315*]:
     → "Who are you..."
  70: 0x0461 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0462 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ensetsu (ID: 17793102/0x010F804E))
  72: 0x0468 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ensetsu (ID: 17793102/0x010F804E), Ensetsu (ID: 17793102/0x010F804E)], work=0*
- 73: 0x0477 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7315*]:
+ 73: 0x0477 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7316*]:
     → "I am Yomi's husband. Many years ago, she met your grandfather here in this very town."
  74: 0x047E [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x047F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -995,10 +995,10 @@ SUBROUTINE_0191:
  82: 0x04DD [0x1C] WAIT(30* ticks)
  83: 0x04E0 [0x79] Yomi (ID: 17793104/0x010F8050) looks at Mitsunari (ID: 17793105/0x010F8051) (Basic look)
  84: 0x04EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Yomi (ID: 17793104/0x010F8050), Yomi (ID: 17793104/0x010F8050)], work=10*
- 85: 0x04F9 [0x2B] Yomi (ID: 17793104/0x010F8050) [7316*]:
+ 85: 0x04F9 [0x2B] Yomi (ID: 17793104/0x010F8050) [7317*]:
     → "Someone to pass their memories on to? I've got my hands full with my ninja training. I don't have time for anyone else."
  86: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0501 [0x2B] Mitsunari (ID: 17793105/0x010F8051) [7317*]:
+ 87: 0x0501 [0x2B] Mitsunari (ID: 17793105/0x010F8051) [7318*]:
     → "Yomi... You may not know now, but one day you'll understand who that someone is..."
  88: 0x0508 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0509 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1008,11 +1008,11 @@ SUBROUTINE_0191:
  93: 0x0549 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Mitsunari (ID: 17793105/0x010F8051)
  94: 0x054F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  95: 0x0560 [0x1C] WAIT(30* ticks)
- 96: 0x0563 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7318*]:
+ 96: 0x0563 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7319*]:
     → "She remembered those words the day she accepted the mission to find Mitsunari's lost treasure."
  97: 0x056A [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x056B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Ensetsu (ID: 17793102/0x010F804E), Ensetsu (ID: 17793102/0x010F804E)], work=0*
- 99: 0x057A [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7319*]:
+ 99: 0x057A [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7320*]:
     → "By that time she was already carrying our daughter, Ayame."
 100: 0x0581 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0582 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1023,18 +1023,18 @@ SUBROUTINE_0191:
 106: 0x05B5 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=239*
 107: 0x05C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
 108: 0x05D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-109: 0x05E6 [0x2B] Yomi (ID: 17793104/0x010F8050) [7320*]:
+109: 0x05E6 [0x2B] Yomi (ID: 17793104/0x010F8050) [7321*]:
     → "I think I finally understand what old Mitsunari was trying to say..."
 110: 0x05ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x05EE [0x2B] Yomi (ID: 17793104/0x010F8050) [7321*]:
+111: 0x05EE [0x2B] Yomi (ID: 17793104/0x010F8050) [7322*]:
     → "I am not ashamed of what I have done. I am ready to pass my memories on to someone special...our child."
 112: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x05F6 [0x2B] Yomi (ID: 17793104/0x010F8050) [7322*]:
+113: 0x05F6 [0x2B] Yomi (ID: 17793104/0x010F8050) [7323*]:
     → "Not the memories of the skills I have acquired, but the memories of the way of life I have lived--the way of the ninja."
 114: 0x05FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x05FE [0x79] Yomi (ID: 17793104/0x010F8050) looks at Ensetsu (ID: 17793102/0x010F804E) (Basic look)
 116: 0x0608 [0x4B] UPDATE_ENTITY_YAW(entity=Yomi (ID: 17793104/0x010F8050), yaw=3.9°*)
-117: 0x060F [0x2B] Yomi (ID: 17793104/0x010F8050) [7323*]:
+117: 0x060F [0x2B] Yomi (ID: 17793104/0x010F8050) [7324*]:
     → "I want those memories to live on in your heart..."
 118: 0x0616 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0617 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1047,15 +1047,15 @@ SUBROUTINE_0191:
 126: 0x065F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
 127: 0x0670 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 128: 0x0681 [0x1C] WAIT(30* ticks)
-129: 0x0684 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7324*]:
+129: 0x0684 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7325*]:
     → "Those who are obsessed in mastering their skills often lose sight of the reason they first began walking down that path."
 130: 0x068B [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x068C [0x7B] Ensetsu (ID: 17793102/0x010F804E) stops talking
-132: 0x0691 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7325*]:
+132: 0x0691 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7326*]:
     → "Mitsunari wanted you to know that. That is why his spirit remained at sea."
 133: 0x0698 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0699 [0x7B] Leodarion (ID: 17793101/0x010F804D) stops talking
-135: 0x069E [0x2B] Leodarion (ID: 17793101/0x010F804D) [7326*]:
+135: 0x069E [0x2B] Leodarion (ID: 17793101/0x010F804D) [7327*]:
     → "Grandfather..."
 136: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x06A6 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=150*)
@@ -1069,29 +1069,29 @@ SUBROUTINE_0191:
 145: 0x06FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 146: 0x070F [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 112*
 147: 0x0713 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 112*
-148: 0x0717 [0x2B] Kagetora (ID: 17793103/0x010F804F) [7327*]:
+148: 0x0717 [0x2B] Kagetora (ID: 17793103/0x010F804F) [7328*]:
     → "Awww, just like a page out of a romance novel... You sure have nerve showing your face here, Ensetsu."
 149: 0x071E [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x071F [0x4A] Ensetsu (ID: 17793102/0x010F804E) looks at Kagetora (ID: 17793103/0x010F804F)
-151: 0x0728 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7328*]:
+151: 0x0728 [0x2B] Ensetsu (ID: 17793102/0x010F804E) [7329*]:
     → "I-I apologize if..."
 152: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x0730 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kagetora (ID: 17793103/0x010F804F), Kagetora (ID: 17793103/0x010F804F)], work=0*
-154: 0x073F [0x2B] Kagetora (ID: 17793103/0x010F804F) [7329*]:
+154: 0x073F [0x2B] Kagetora (ID: 17793103/0x010F804F) [7330*]:
     → "Ha! When are you going to stop acting like a frightened puppy and turn into a real man?"
 155: 0x0746 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0747 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Kagetora (ID: 17793103/0x010F804F), Kagetora (ID: 17793103/0x010F804F)], work=0*
 157: 0x0756 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=239*
 158: 0x0765 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[239*, 0*]
 159: 0x0776 [0x4A] Kagetora (ID: 17793103/0x010F804F) looks at LocalPlayer
-160: 0x077F [0x2B] Kagetora (ID: 17793103/0x010F804F) [7330*]:
+160: 0x077F [0x2B] Kagetora (ID: 17793103/0x010F804F) [7331*]:
     → "Oh, and you. For your troubles, you can have Mitsunari's $7."
 161: 0x0786 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0787 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Kagetora (ID: 17793103/0x010F804F), Kagetora (ID: 17793103/0x010F804F)], work=0*
-163: 0x0796 [0x2B] Kagetora (ID: 17793103/0x010F804F) [7331*]:
+163: 0x0796 [0x2B] Kagetora (ID: 17793103/0x010F804F) [7332*]:
     → "Leodarion asked me to give it to you before he left."
 164: 0x079D [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x079E [0x2B] Kagetora (ID: 17793103/0x010F804F) [7332*]:
+165: 0x079E [0x2B] Kagetora (ID: 17793103/0x010F804F) [7333*]:
     → "And now we're back to where we started... So long, <Player>. I have a feeling I'll be seeing you again soon."
 166: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x07A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1660,7 +1660,7 @@ SUBROUTINE_0191:
 
 ```
   0: 0x08EF [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x08F0 [0x48] [System] [8075*]:
+  1: 0x08F0 [0x48] [System] [8076*]:
     → "Entering [/$26A Stygian Pact/$26Champion of the Dawn/$26Divine Interference/$26Maiden of the Dusk][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   2: 0x08F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0904 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

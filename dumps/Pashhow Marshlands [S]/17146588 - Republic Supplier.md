@@ -23,10 +23,10 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x1D30      |        7472 |
-|       4 | 0x1BE9      |        7145 |
+|       3 | 0x1D31      |        7473 |
+|       4 | 0x1BEA      |        7146 |
 |       5 | 0x0008      |           8 |
-|       6 | 0x1D32      |        7474 |
+|       6 | 0x1D33      |        7475 |
 |       7 | 0x00FF      |         255 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x0004      |           4 |
@@ -36,10 +36,10 @@
 |      13 | 0x0009      |           9 |
 |      14 | 0x000A      |          10 |
 |      15 | 0x000B      |          11 |
-|      16 | 0x1BEC      |        7148 |
-|      17 | 0x1BED      |        7149 |
-|      18 | 0x1D37      |        7479 |
-|      19 | 0x1D33      |        7475 |
+|      16 | 0x1BED      |        7149 |
+|      17 | 0x1BEE      |        7150 |
+|      18 | 0x1D38      |        7480 |
+|      19 | 0x1D34      |        7476 |
 |      20 | 0x0020      |          32 |
 |      21 | 0x1010      |        4112 |
 |      22 | 0x1013      |        4115 |
@@ -174,13 +174,13 @@
 
 ## String References
 
-- **7145**: Let me show you the list of items currently available to you.
-- **7148**: You currently possess $' Allied Note[/s].
-- **7149**: Proceed with the transaction? [Yes./No.]
-- **7472**: I am charged with the provisioning of supplies for our troops out on the battlefield. I can issue you temporary items in exchange for Allied Notes.
-- **7474**: Select a temporary item. (Price/Stock) [Nothing at this time./Browse another page./#...($8/$16)/$1...($9/$17)/$2...($10/$18)/$3...($11/$19)/$4...($12/$20)/$5...($13/$21)/$6...($14/$22)/$7...($15/$23)/Next page./Previous page.]
-- **7475**: Browse which page? [Never mind./Page 1./Page 2./Page 3./Page 4.]
-- **7479**: Is there anything else you require?
+- **7146**: Let me show you the list of items currently available to you.
+- **7149**: You currently possess $' Allied Note[/s].
+- **7150**: Proceed with the transaction? [Yes./No.]
+- **7473**: I am charged with the provisioning of supplies for our troops out on the battlefield. I can issue you temporary items in exchange for Allied Notes.
+- **7475**: Select a temporary item. (Price/Stock) [Nothing at this time./Browse another page./#...($8/$16)/$1...($9/$17)/$2...($10/$18)/$3...($11/$19)/$4...($12/$20)/$5...($13/$21)/$6...($14/$22)/$7...($15/$23)/Next page./Previous page.]
+- **7476**: Browse which page? [Never mind./Page 1./Page 2./Page 3./Page 4.]
+- **7480**: Is there anything else you require?
 
 ## Events
 
@@ -445,10 +445,10 @@
 SUBROUTINE_006F:
  19: 0x006F [0x1E] EventEntity looks at LocalPlayer and starts talking
  20: 0x0074 [0x1A] CALL_SUBROUTINE(address=0x0265)
- 21: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
+ 21: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
     → "I am charged with the provisioning of supplies for our troops out on the battlefield. I can issue you temporary items in exchange for Allied Notes."
  22: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7145*)
+ 23: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7146*)
     → "Let me show you the list of items currently available to you."
  24: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -466,7 +466,7 @@ SUBROUTINE_007F:
  35: 0x00A1 [0x03] ExtData[1]->WorkLocal[7] = 1*
  36: 0x00A6 [0x03] ExtData[1]->WorkLocal[8] = ExtData[1]->WorkLocal[17]
  37: 0x00AB [0x14] ExtData[1]->WorkLocal[8] *= 8*
- 38: 0x00B0 [0x24] CREATE_DIALOG(message_id=7474*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+ 38: 0x00B0 [0x24] CREATE_DIALOG(message_id=7475*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
     → "Select a temporary item. (Price/Stock) [Nothing at this time./Browse another page./#...($8/$16)/$1...($9/$17)/$2...($10/$18)/$3...($11/$19)/$4...($12/$20)/$5...($13/$21)/$6...($14/$22)/$7...($15/$23)/Next page./Previous page.]"
  39: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
  40: 0x00B8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00E3
@@ -514,10 +514,10 @@ SUBROUTINE_01B1:
  78: 0x01D1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
  79: 0x01D6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
  80: 0x01DB [0x03] Work_Zone_1700[31] = ExtData[1]->WorkLocal[3]
- 81: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7148*)
+ 81: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7149*)
     → "You currently possess $' Allied Note[/s]."
  82: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x01E4 [0x24] CREATE_DIALOG(message_id=7149*, default_option=1*, option_flags=0*)
+ 83: 0x01E4 [0x24] CREATE_DIALOG(message_id=7150*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? [Yes./No.]"
  84: 0x01EB [0x25] WAIT_DIALOG_SELECT()
  85: 0x01EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0204
@@ -528,7 +528,7 @@ SUBROUTINE_01B1:
 
 SUBROUTINE_0204:
  90: 0x0204 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0213
- 91: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+ 91: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "Is there anything else you require?"
  92: 0x020F [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0210 [0x01] GOTO 0x007F
@@ -537,7 +537,7 @@ SUBROUTINE_0204:
  96: 0x0216 [0x00] END_REQSTACK()
 
 SUBROUTINE_0217:
- 97: 0x0217 [0x24] CREATE_DIALOG(message_id=7475*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
+ 97: 0x0217 [0x24] CREATE_DIALOG(message_id=7476*, default_option=0*, option_flags=ExtData[1]->WorkLocal[18])
     → "Browse which page? [Never mind./Page 1./Page 2./Page 3./Page 4.]"
  98: 0x021E [0x25] WAIT_DIALOG_SELECT()
  99: 0x021F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x022F

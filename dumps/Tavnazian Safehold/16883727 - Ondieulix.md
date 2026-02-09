@@ -39,40 +39,40 @@
 |       5 | 0x06CA      |        1738 |
 |       6 | 0xFFFFDCE0  |  4294958304 |
 |       7 | 0x049F      |        1183 |
-|       8 | 0x2AF7      |       10999 |
+|       8 | 0x2AF8      |       11000 |
 |       9 | 0x0014      |          20 |
-|      10 | 0x2AF8      |       11000 |
-|      11 | 0x2AF9      |       11001 |
-|      12 | 0x2AFA      |       11002 |
-|      13 | 0x2AFB      |       11003 |
-|      14 | 0x2AFC      |       11004 |
-|      15 | 0x2AFD      |       11005 |
-|      16 | 0x2AFE      |       11006 |
-|      17 | 0x2AFF      |       11007 |
-|      18 | 0x2B00      |       11008 |
+|      10 | 0x2AF9      |       11001 |
+|      11 | 0x2AFA      |       11002 |
+|      12 | 0x2AFB      |       11003 |
+|      13 | 0x2AFC      |       11004 |
+|      14 | 0x2AFD      |       11005 |
+|      15 | 0x2AFE      |       11006 |
+|      16 | 0x2AFF      |       11007 |
+|      17 | 0x2B00      |       11008 |
+|      18 | 0x2B01      |       11009 |
 |      19 | 0x000D      |          13 |
 |      20 | 0x0568      |        1384 |
 |      21 | 0x107BF     |       67519 |
 |      22 | 0xFFFF9F3A  |  4294942522 |
-|      23 | 0x2E14      |       11796 |
+|      23 | 0x2E15      |       11797 |
 |      24 | 0x001B      |          27 |
 |      25 | 0x003C      |          60 |
-|      26 | 0x2E15      |       11797 |
+|      26 | 0x2E16      |       11798 |
 
 ## String References
 
-- **10999**: You probably wonder why we have chosen to live our lives under the ground in these caves.
-- **11000**: The roads leading to the old Marquisate capital have sunk to the bottom of the seas, and the surrounding meadows crawl with terrible beasts and remnants of the beastman armies.
-- **11001**: It is amazing that our tiny patrol is even able to maintain the peace in this small corner of the island...
-- **11002**: The sudden influx of visitors from Jeuno has left many of the safehold residents scared and confused. However, I welcome their presence as a blessing.
-- **11003**: I do not wish to be tied to this cursed place for the rest of my life...
-- **11004**: So you plan to wage a war against the Wyrmking and his minions? I apologize, but I fear the Tavnazian Patrol does not possess the manpower to assist you this time.
-- **11005**: However, in your absence we shall ensure the safety of the remaining safehold residents. Good luck, <Player>.
-- **11006**: Welcome home! We are all relieved to see you made it back unharmed.
-- **11007**: How was your ride on the airship? I had heard stories of the flying machines, but I never thought I would have the opportunity to see one up close.
-- **11008**: Perhaps some day I will be blessed with the opportunity to ride one as well...
-- **11796**: I heard of your deeds from Tressia. Here is your reward.
-- **11797**: We may need your help again someday. Thank you, <Player>.
+- **11000**: You probably wonder why we have chosen to live our lives under the ground in these caves.
+- **11001**: The roads leading to the old Marquisate capital have sunk to the bottom of the seas, and the surrounding meadows crawl with terrible beasts and remnants of the beastman armies.
+- **11002**: It is amazing that our tiny patrol is even able to maintain the peace in this small corner of the island...
+- **11003**: The sudden influx of visitors from Jeuno has left many of the safehold residents scared and confused. However, I welcome their presence as a blessing.
+- **11004**: I do not wish to be tied to this cursed place for the rest of my life...
+- **11005**: So you plan to wage a war against the Wyrmking and his minions? I apologize, but I fear the Tavnazian Patrol does not possess the manpower to assist you this time.
+- **11006**: However, in your absence we shall ensure the safety of the remaining safehold residents. Good luck, <Player>.
+- **11007**: Welcome home! We are all relieved to see you made it back unharmed.
+- **11008**: How was your ride on the airship? I had heard stories of the flying machines, but I never thought I would have the opportunity to see one up close.
+- **11009**: Perhaps some day I will be blessed with the opportunity to ride one as well...
+- **11797**: I heard of your deeds from Tressia. Here is your reward.
+- **11798**: We may need your help again someday. Thank you, <Player>.
 
 ## Events
 
@@ -198,15 +198,15 @@
 
 ```
   0: 0x003A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10999*)
+  1: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=11000*)
     → "You probably wonder why we have chosen to live our lives under the ground in these caves."
   2: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0043 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11000*)
+  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11001*)
     → "The roads leading to the old Marquisate capital have sunk to the bottom of the seas, and the surrounding meadows crawl with terrible beasts and remnants of the beastman armies."
   5: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0056 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
-  7: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=11001*)
+  7: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=11002*)
     → "It is amazing that our tiny patrol is even able to maintain the peace in this small corner of the island..."
   8: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0069 [0x21] END_EVENT
@@ -235,11 +235,11 @@
 
 ```
   0: 0x006B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=11002*)
+  1: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=11003*)
     → "The sudden influx of visitors from Jeuno has left many of the safehold residents scared and confused. However, I welcome their presence as a blessing."
   2: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0074 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=11003*)
+  4: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=11004*)
     → "I do not wish to be tied to this cursed place for the rest of my life..."
   5: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0087 [0x21] END_EVENT
@@ -268,11 +268,11 @@
 
 ```
   0: 0x0089 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=11004*)
+  1: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=11005*)
     → "So you plan to wage a war against the Wyrmking and his minions? I apologize, but I fear the Tavnazian Patrol does not possess the manpower to assist you this time."
   2: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0092 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11005*)
+  4: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11006*)
     → "However, in your absence we shall ensure the safety of the remaining safehold residents. Good luck, <Player>."
   5: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A5 [0x21] END_EVENT
@@ -302,15 +302,15 @@
 
 ```
   0: 0x00A7 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11006*)
+  1: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=11007*)
     → "Welcome home! We are all relieved to see you made it back unharmed."
   2: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11007*)
+  4: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11008*)
     → "How was your ride on the airship? I had heard stories of the flying machines, but I never thought I would have the opportunity to see one up close."
   5: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
-  7: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11008*)
+  7: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11009*)
     → "Perhaps some day I will be blessed with the opportunity to ride one as well..."
   8: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00D6 [0x21] END_EVENT
@@ -437,12 +437,12 @@
   0: 0x00F8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00FD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00FE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11796*)
+  3: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11797*)
     → "I heard of your deeds from Tressia. Here is your reward."
   4: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0103 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
   6: 0x0112 [0x1C] WAIT(60* ticks)
-  7: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=11797*)
+  7: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=11798*)
     → "We may need your help again someday. Thank you, <Player>."
   8: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0119 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*

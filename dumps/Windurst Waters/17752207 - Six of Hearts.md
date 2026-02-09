@@ -24,11 +24,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F06      |        7942 |
+|       1 | 0x1F07      |        7943 |
 
 ## String References
 
-- **7942**: aLL$26rOaDs$26LEad$26TO tHe$26GReAt$26sTAr$26tREe!$26THiS ROad$26aL-So$26LEadS$26To tHe$26GrEaT$26StaR$26TreE!
+- **7943**: aLL$26rOaDs$26LEad$26TO tHe$26GReAt$26sTAr$26tREe!$26THiS ROad$26aL-So$26LEadS$26To tHe$26GrEaT$26StaR$26TreE!
 
 ## Events
 
@@ -148,7 +148,7 @@
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "aLL$26rOaDs$26LEad$26TO tHe$26GReAt$26sTAr$26tREe!$26THiS ROad$26aL-So$26LEadS$26To tHe$26GrEaT$26StaR$26TreE!"
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0027 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

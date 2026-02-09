@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D17      |        7447 |
-|       1 | 0x1D18      |        7448 |
-|       2 | 0x1D19      |        7449 |
-|       3 | 0x1D1A      |        7450 |
-|       4 | 0x1D1B      |        7451 |
-|       5 | 0x1D1C      |        7452 |
+|       0 | 0x1D18      |        7448 |
+|       1 | 0x1D19      |        7449 |
+|       2 | 0x1D1A      |        7450 |
+|       3 | 0x1D1B      |        7451 |
+|       4 | 0x1D1C      |        7452 |
+|       5 | 0x1D1D      |        7453 |
 
 ## String References
 
-- **7447**: You see a message engraved on the stone:
-- **7448**: This plateau is a land of many features, but by far the most memorable is the Crag of Holla.
-- **7449**: I call it a structure, for I have no other word. It is surely not a rock born of nature, nor does it seem to be a hall built by the gods, as the priestly scholars say.
-- **7450**: Yet there are no seams in its bone-white surface, and it is faintly warm to the touch. But through a fortunate accident, I have found proof of its artificial origins.
-- **7451**: I shall head north to the land of Valdeaunia to verify my findings. I fear this may be the longest, most perilous journey of my life.
-- **7452**: I leave my daughter Enid to find her own path. May the gods watch over her in my stead. --Gwynham Ironheart, 764 Crystal Era.
+- **7448**: You see a message engraved on the stone:
+- **7449**: This plateau is a land of many features, but by far the most memorable is the Crag of Holla.
+- **7450**: I call it a structure, for I have no other word. It is surely not a rock born of nature, nor does it seem to be a hall built by the gods, as the priestly scholars say.
+- **7451**: Yet there are no seams in its bone-white surface, and it is faintly warm to the touch. But through a fortunate accident, I have found proof of its artificial origins.
+- **7452**: I shall head north to the land of Valdeaunia to verify my findings. I fear this may be the longest, most perilous journey of my life.
+- **7453**: I leave my daughter Enid to find her own path. May the gods watch over her in my stead. --Gwynham Ironheart, 764 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7447*]:
+  0: 0x0001 [0x48] [System] [7448*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7448*]:
+  2: 0x0005 [0x48] [System] [7449*]:
     → "This plateau is a land of many features, but by far the most memorable is the Crag of Holla."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7449*]:
+  4: 0x0009 [0x48] [System] [7450*]:
     → "I call it a structure, for I have no other word. It is surely not a rock born of nature, nor does it seem to be a hall built by the gods, as the priestly scholars say."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7450*]:
+  6: 0x000D [0x48] [System] [7451*]:
     → "Yet there are no seams in its bone-white surface, and it is faintly warm to the touch. But through a fortunate accident, I have found proof of its artificial origins."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7451*]:
+  8: 0x0011 [0x48] [System] [7452*]:
     → "I shall head north to the land of Valdeaunia to verify my findings. I fear this may be the longest, most perilous journey of my life."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7452*]:
+ 10: 0x0015 [0x48] [System] [7453*]:
     → "I leave my daughter Enid to find her own path. May the gods watch over her in my stead. --Gwynham Ironheart, 764 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

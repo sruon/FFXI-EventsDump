@@ -20,44 +20,44 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x209D      |        8349 |
+|       0 | 0x209E      |        8350 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0018      |          24 |
 |       4 | 0x001F      |          31 |
-|       5 | 0x209E      |        8350 |
+|       5 | 0x209F      |        8351 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x209F      |        8351 |
+|       7 | 0x20A0      |        8352 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x20A0      |        8352 |
+|       9 | 0x20A1      |        8353 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x20A1      |        8353 |
+|      11 | 0x20A2      |        8354 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x20A2      |        8354 |
+|      13 | 0x20A3      |        8355 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x20A3      |        8355 |
+|      15 | 0x20A4      |        8356 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x20A4      |        8356 |
+|      17 | 0x20A5      |        8357 |
 |      18 | 0x0008      |           8 |
-|      19 | 0x20A5      |        8357 |
+|      19 | 0x20A6      |        8358 |
 |      20 | 0x0009      |           9 |
-|      21 | 0x20A6      |        8358 |
+|      21 | 0x20A7      |        8359 |
 |      22 | 0x000A      |          10 |
-|      23 | 0x20A7      |        8359 |
+|      23 | 0x20A8      |        8360 |
 
 ## String References
 
-- **8349**: Select your progress. [Set fame. (Current: $0)/Quest #1./Quest #2./Quest #3./Quest #4./Quest #5./Quest #6./Quest #7./Quest #8./Quest #9./Quest #10./Cancel.]
-- **8350**: Set status for Quest #1: [Haven't started it./Cleared it!/Cancel.]
-- **8351**: Set status for Quest #2: [Haven't started it./Cleared it!/Cancel.]
-- **8352**: Set status for Quest #3: [Haven't started it./Get item./Cleared it!/Disable time flag./Cancel.]
-- **8353**: Set status for Quest #4: [Haven't started it./Cleared it!/Cancel.]
-- **8354**: Set status for Quest #5: [Haven't started it./Cleared it!/Cancel.]
-- **8355**: Set status for Quest #6: [Haven't started it./Get key item./Cleared it!/Cancel.]
-- **8356**: Set status for Quest #7: [Haven't started it./Cleared it!/Cancel.]
-- **8357**: Set status for Quest #8: [Haven't started it./Viewed event at Meriphataud./Cleared it!/Cancel.]
-- **8358**: Set status for Quest #9: [Haven't started it./Get key item./Cleared it!/Cancel.]
-- **8359**: Set status for Quest #10: [Haven't started it./Cleared it!/Cancel.]
+- **8350**: Select your progress. [Set fame. (Current: $0)/Quest #1./Quest #2./Quest #3./Quest #4./Quest #5./Quest #6./Quest #7./Quest #8./Quest #9./Quest #10./Cancel.]
+- **8351**: Set status for Quest #1: [Haven't started it./Cleared it!/Cancel.]
+- **8352**: Set status for Quest #2: [Haven't started it./Cleared it!/Cancel.]
+- **8353**: Set status for Quest #3: [Haven't started it./Get item./Cleared it!/Disable time flag./Cancel.]
+- **8354**: Set status for Quest #4: [Haven't started it./Cleared it!/Cancel.]
+- **8355**: Set status for Quest #5: [Haven't started it./Cleared it!/Cancel.]
+- **8356**: Set status for Quest #6: [Haven't started it./Get key item./Cleared it!/Cancel.]
+- **8357**: Set status for Quest #7: [Haven't started it./Cleared it!/Cancel.]
+- **8358**: Set status for Quest #8: [Haven't started it./Viewed event at Meriphataud./Cleared it!/Cancel.]
+- **8359**: Set status for Quest #9: [Haven't started it./Get key item./Cleared it!/Cancel.]
+- **8360**: Set status for Quest #10: [Haven't started it./Cleared it!/Cancel.]
 
 ## Events
 
@@ -133,7 +133,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=8349*, default_option=0*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=8350*, default_option=0*, option_flags=0*)
     → "Select your progress. [Set fame. (Current: $0)/Quest #1./Quest #2./Quest #3./Quest #4./Quest #5./Quest #6./Quest #7./Quest #8./Quest #9./Quest #10./Cancel.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002F
@@ -143,7 +143,7 @@
   7: 0x0023 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=0*)
   8: 0x002C [0x01] GOTO 0x01E7
   9: 0x002F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x005B
- 10: 0x0037 [0x24] CREATE_DIALOG(message_id=8350*, default_option=0*, option_flags=0*)
+ 10: 0x0037 [0x24] CREATE_DIALOG(message_id=8351*, default_option=0*, option_flags=0*)
     → "Set status for Quest #1: [Haven't started it./Cleared it!/Cancel.]"
  11: 0x003E [0x25] WAIT_DIALOG_SELECT()
  12: 0x003F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004A
@@ -154,7 +154,7 @@ SUBROUTINE_004A:
  15: 0x004F [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=1*)
  16: 0x0058 [0x01] GOTO 0x01E7
  17: 0x005B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0087
- 18: 0x0063 [0x24] CREATE_DIALOG(message_id=8351*, default_option=0*, option_flags=0*)
+ 18: 0x0063 [0x24] CREATE_DIALOG(message_id=8352*, default_option=0*, option_flags=0*)
     → "Set status for Quest #2: [Haven't started it./Cleared it!/Cancel.]"
  19: 0x006A [0x25] WAIT_DIALOG_SELECT()
  20: 0x006B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0076
@@ -165,7 +165,7 @@ SUBROUTINE_0076:
  23: 0x007B [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=2*)
  24: 0x0084 [0x01] GOTO 0x01E7
  25: 0x0087 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00B3
- 26: 0x008F [0x24] CREATE_DIALOG(message_id=8352*, default_option=0*, option_flags=0*)
+ 26: 0x008F [0x24] CREATE_DIALOG(message_id=8353*, default_option=0*, option_flags=0*)
     → "Set status for Quest #3: [Haven't started it./Get item./Cleared it!/Disable time flag./Cancel.]"
  27: 0x0096 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0097 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A2
@@ -176,7 +176,7 @@ SUBROUTINE_00A2:
  31: 0x00A7 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=3*)
  32: 0x00B0 [0x01] GOTO 0x01E7
  33: 0x00B3 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00DF
- 34: 0x00BB [0x24] CREATE_DIALOG(message_id=8353*, default_option=0*, option_flags=0*)
+ 34: 0x00BB [0x24] CREATE_DIALOG(message_id=8354*, default_option=0*, option_flags=0*)
     → "Set status for Quest #4: [Haven't started it./Cleared it!/Cancel.]"
  35: 0x00C2 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CE
@@ -187,7 +187,7 @@ SUBROUTINE_00CE:
  39: 0x00D3 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=4*)
  40: 0x00DC [0x01] GOTO 0x01E7
  41: 0x00DF [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x010B
- 42: 0x00E7 [0x24] CREATE_DIALOG(message_id=8354*, default_option=0*, option_flags=0*)
+ 42: 0x00E7 [0x24] CREATE_DIALOG(message_id=8355*, default_option=0*, option_flags=0*)
     → "Set status for Quest #5: [Haven't started it./Cleared it!/Cancel.]"
  43: 0x00EE [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FA
@@ -198,7 +198,7 @@ SUBROUTINE_00FA:
  47: 0x00FF [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
  48: 0x0108 [0x01] GOTO 0x01E7
  49: 0x010B [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0137
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8355*, default_option=0*, option_flags=0*)
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=8356*, default_option=0*, option_flags=0*)
     → "Set status for Quest #6: [Haven't started it./Get key item./Cleared it!/Cancel.]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0126
@@ -209,7 +209,7 @@ SUBROUTINE_0126:
  55: 0x012B [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
  56: 0x0134 [0x01] GOTO 0x01E7
  57: 0x0137 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0163
- 58: 0x013F [0x24] CREATE_DIALOG(message_id=8356*, default_option=0*, option_flags=0*)
+ 58: 0x013F [0x24] CREATE_DIALOG(message_id=8357*, default_option=0*, option_flags=0*)
     → "Set status for Quest #7: [Haven't started it./Cleared it!/Cancel.]"
  59: 0x0146 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0147 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0152
@@ -220,7 +220,7 @@ SUBROUTINE_0152:
  63: 0x0157 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
  64: 0x0160 [0x01] GOTO 0x01E7
  65: 0x0163 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x018F
- 66: 0x016B [0x24] CREATE_DIALOG(message_id=8357*, default_option=0*, option_flags=0*)
+ 66: 0x016B [0x24] CREATE_DIALOG(message_id=8358*, default_option=0*, option_flags=0*)
     → "Set status for Quest #8: [Haven't started it./Viewed event at Meriphataud./Cleared it!/Cancel.]"
  67: 0x0172 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0173 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017E
@@ -231,7 +231,7 @@ SUBROUTINE_017E:
  71: 0x0183 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=8*)
  72: 0x018C [0x01] GOTO 0x01E7
  73: 0x018F [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x01BB
- 74: 0x0197 [0x24] CREATE_DIALOG(message_id=8358*, default_option=0*, option_flags=0*)
+ 74: 0x0197 [0x24] CREATE_DIALOG(message_id=8359*, default_option=0*, option_flags=0*)
     → "Set status for Quest #9: [Haven't started it./Get key item./Cleared it!/Cancel.]"
  75: 0x019E [0x25] WAIT_DIALOG_SELECT()
  76: 0x019F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AA
@@ -242,7 +242,7 @@ SUBROUTINE_01AA:
  79: 0x01AF [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
  80: 0x01B8 [0x01] GOTO 0x01E7
  81: 0x01BB [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x01E7
- 82: 0x01C3 [0x24] CREATE_DIALOG(message_id=8359*, default_option=0*, option_flags=0*)
+ 82: 0x01C3 [0x24] CREATE_DIALOG(message_id=8360*, default_option=0*, option_flags=0*)
     → "Set status for Quest #10: [Haven't started it./Cleared it!/Cancel.]"
  83: 0x01CA [0x25] WAIT_DIALOG_SELECT()
  84: 0x01CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D6
